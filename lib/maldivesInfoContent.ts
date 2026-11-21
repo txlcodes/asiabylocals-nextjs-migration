@@ -671,6 +671,79 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "maldives-submarine-tour-guide":
+      return {
+        title: "Maldives Submarine Tour Guide 2026: Diving 45 Meters Without Getting Wet",
+        description: "The Maldives Submarine goes 45 meters below the surface in a real passenger submarine — no diving certification or wet gear required.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9ba7b8d18296684580c4245de41b8770c78172687b327e98cc1d4336c1e4f3b.jpg",
+        fastFacts: [
+          { icon: "Compass", label: "Depth", value: "Dives to roughly 45 meters below the ocean surface" },
+          { icon: "Clock", label: "Duration", value: "About 2.5 hours including transfer and the dive itself" },
+          { icon: "Waves", label: "No diving needed", value: "You stay dry inside the submarine the entire time" },
+        ],
+        sections: [
+          {
+            title: "What Makes This Different",
+            content: "This is a genuine passenger submarine, not a snorkel or scuba trip, so anyone can see the coral reef and marine life at depths well beyond normal diving limits, through large viewing windows, without any diving certification or getting wet.",
+            tourCard: { slug: "maldives-submarine-tour-dive-45-meters-below-the", title: "Maldives Submarine Tour – Dive 45 Meters Below the Ocean", description: "A real submarine dive 45 meters below the ocean surface.", price: "From $221", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9ba7b8d18296684580c4245de41b8770c78172687b327e98cc1d4336c1e4f3b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a good option for travelers who want to see deep-reef marine life but are not certified divers, or for non-swimmers who still want an underwater experience.",
+          },
+        ],
+        faqs: [
+          { q: "Do I need diving experience for the Maldives Submarine Tour?", a: "No, it's a passenger submarine — no diving certification or wet gear is required." },
+          { q: "How deep does the Maldives Submarine go?", a: "Roughly 45 meters below the ocean surface." },
+        ],
+      };
+
+    case "male-atoll-surf-trip-guide":
+      return {
+        title: "Male Atoll Surf Trip Guide 2026: Surfing Beyond the Resort Breaks",
+        description: "Male Atoll has real surf breaks beyond the resort-exclusive waves most visitors hear about — here's how a guided surf trip works.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4c569079d69c737d203960ca667443b7c69c31e19db6684e84435a34934295ee.png",
+        fastFacts: [
+          { icon: "Waves", label: "Access", value: "Guided boat trips reach breaks not reachable from shore" },
+          { icon: "Clock", label: "Duration", value: "Around 3 hours per trip, with transfer included" },
+        ],
+        sections: [
+          {
+            title: "Why a Guided Trip Matters",
+            content: "Many of the Maldives' best surf breaks sit offshore from specific atolls and are really only reachable by boat with a guide who knows the current swell and reef conditions — this is a genuinely different activity from the snorkeling and diving most Maldives tours focus on.",
+            tourCard: { slug: "from-male-best-male-atoll-surf-trips-with-guide", title: "From Male: Best Male Atoll Surf Trips with Guide & Transfer", description: "A guided surf trip to Male Atoll's breaks with transfer.", price: "From $845", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4c569079d69c737d203960ca667443b7c69c31e19db6684e84435a34934295ee.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Maldives' surf season generally runs opposite to its driest tourist season, so check swell conditions for your travel dates rather than assuming peak tourist season is also peak surf season.",
+          },
+        ],
+        faqs: [
+          { q: "Can you surf in the Maldives outside of resorts?", a: "Yes, guided boat trips to Male Atoll's breaks are available to independent travelers." },
+          { q: "Is a guide necessary for Male Atoll surfing?", a: "Yes, since many breaks are only reachable by boat and require local knowledge of swell and reef conditions." },
+        ],
+      };
+
+    case "island-to-island-zipline-adventure-guide":
+      return {
+        title: "Island-to-Island Zipline Adventure Guide 2026 (Maldives)",
+        description: "A zipline that crosses between islands is an unusual land-based adventure activity in a destination mostly known for water sports.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73e38941f053c9dcc2e5173b97823c485bae237f2b1f88e1f589d9247b56bf14.png",
+        fastFacts: [
+          { icon: "Clock", label: "Duration", value: "Roughly 8 hours, a full-day experience" },
+        ],
+        sections: [
+          {
+            title: "A Different Kind of Maldives Activity",
+            content: "This island-to-island zipline is a rare land-and-air-based adventure in a destination overwhelmingly focused on snorkeling, diving, and boat trips — worth it if you want to mix up a water-heavy itinerary.",
+            tourCard: { slug: "island-to-island-zipline-adventure-island", title: "Island-to-Island Zipline & Adventure Island Experience", description: "A zipline adventure crossing between islands.", price: "From $246", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73e38941f053c9dcc2e5173b97823c485bae237f2b1f88e1f589d9247b56bf14.png" },
+          },
+        ],
+        faqs: [
+          { q: "Is the Maldives zipline worth it?", a: "Yes, as a change of pace from the water-focused activities most Maldives itineraries are built around." },
+        ],
+      };
+
     default:
       return null;
   }

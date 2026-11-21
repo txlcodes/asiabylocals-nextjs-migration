@@ -932,6 +932,8 @@ export const MALE_INFO_SLUGS = [
   'best-tours-in-male',
   'should-i-book-male-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-male',
+  'maldives-submarine-tour-guide', 'male-atoll-surf-trip-guide',
+  'island-to-island-zipline-adventure-guide',
 ];
 
 // Uzbekistan GEO pages (2026-11-12) — first info-content pages for this

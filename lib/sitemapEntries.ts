@@ -272,6 +272,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'male-city-guide', 'maldives-dolphin-watching-guide', 'maldives-airport-transfer-guide',
     'best-tours-in-male', 'should-i-book-male-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-male',
+    'maldives-submarine-tour-guide', 'male-atoll-surf-trip-guide',
+    'island-to-island-zipline-adventure-guide',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),
