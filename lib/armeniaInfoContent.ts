@@ -659,6 +659,60 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-climbing-mount-ararat-worth-it-yerevan":
+            return {
+                title: "Is Climbing Mount Ararat Worth It from Yerevan?",
+                seoTitle: "Climbing Mount Ararat 2026 | Honest Review",
+                description: "An honest look at the 5-day Mount Ararat climbing expedition from Yerevan, a serious mountaineering undertaking distinct from viewing the peak at Khor Virap.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/034d06eee0556a67.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Mount Ararat, the biblical peak visible from Khor Virap monastery, requires a genuine multi-day mountaineering expedition across the border in Turkey to actually climb — a completely different undertaking from photographing it at a distance, requiring real fitness and permits.", tourCard: { slug: "climbing-mount-ararat-2026", title: "Climbing Mount Ararat 2026", description: "A 5-day guided mountaineering expedition to the summit of Mount Ararat.", price: "From $1879", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/034d06eee0556a67.jpeg" } },
+                    { title: "Practical Tips", content: "Since Ararat is in Turkey, confirm visa and border-crossing logistics with the operator well ahead of time, and come with genuine mountaineering fitness." },
+                ],
+                faqs: [
+                    { q: "Is climbing Mount Ararat worth it from Yerevan?", a: "Yes, for travelers with genuine mountaineering ambition wanting to summit the peak rather than just view it from Khor Virap." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is climbing Mount Ararat worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine mountaineering ambition to summit the peak." } },
+                ] },
+            };
+
+        case "is-etchmiadzin-tour-worth-it-yerevan":
+            return {
+                title: "Is the Etchmiadzin and Yerevan City Tour Worth It?",
+                seoTitle: "Etchmiadzin Tour from Yerevan 2026 | Honest Review",
+                description: "An honest look at the Etchmiadzin and Yerevan city tour, visiting the seat of the Armenian Apostolic Church, distinct from the Garni/Geghard/Khor Virap circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5234807a1ca6a0b5e1a257677cb123d667b3d0b17201ea30c91aba1ad6b1ea65.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Etchmiadzin is the spiritual seat of the Armenian Apostolic Church, one of the world's oldest cathedrals, a genuinely significant religious site distinct from the Garni/Geghard/Khor Virap circuit most Yerevan day trips default to.", tourCard: { slug: "etchmiadzin-and-yerevan-city-tour", title: "Etchmiadzin and Yerevan City Tour", description: "A tour combining Etchmiadzin Cathedral with Yerevan city sightseeing.", price: "From $168", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5234807a1ca6a0b5e1a257677cb123d667b3d0b17201ea30c91aba1ad6b1ea65.jpg" } },
+                    { title: "Practical Tips", content: "Dress modestly for the cathedral visit, as is standard for active religious sites in Armenia." },
+                ],
+                faqs: [
+                    { q: "Is the Etchmiadzin tour worth it from Yerevan?", a: "Yes, for visiting one of the world's oldest cathedrals and the seat of the Armenian Church, distinct from the standard Garni/Geghard circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Etchmiadzin tour worth it from Yerevan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for visiting the seat of the Armenian Apostolic Church." } },
+                ] },
+            };
+
+        case "is-erebuni-matenadaran-tour-worth-it-yerevan":
+            return {
+                title: "Is the Erebuni, Matenadaran & Tsitsernakaberd Tour Worth It in Yerevan?",
+                seoTitle: "Yerevan Matenadaran Tour 2026 | Honest Review",
+                description: "An honest look at Yerevan's Erebuni, Matenadaran, and Tsitsernakaberd tour, covering ancient fortress ruins, an ancient manuscript museum, and the genocide memorial.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fa72c43c173682ed034f576dd8f46b3de992216e998dc2ec06d99fd0a430ab7b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour combines Erebuni's ancient fortress ruins, the Matenadaran's collection of ancient illuminated manuscripts, and the Tsitsernakaberd genocide memorial — a genuinely educational, history-dense day distinct from the monastery-and-landscape circuits most Yerevan day trips cover.", tourCard: { slug: "erebuni-matenadaran-tsitsernakaberd-tour", title: "Erebuni, Matenadaran & Tsitsernakaberd Tour", description: "A tour covering Erebuni fortress, the Matenadaran manuscript museum, and Tsitsernakaberd memorial.", price: "From $332", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fa72c43c173682ed034f576dd8f46b3de992216e998dc2ec06d99fd0a430ab7b.jpg" } },
+                    { title: "Practical Tips", content: "The Tsitsernakaberd memorial is a solemn site commemorating the Armenian Genocide — plan for a reflective, quieter visit there." },
+                ],
+                faqs: [
+                    { q: "Is the Erebuni and Matenadaran tour worth it in Yerevan?", a: "Yes, for a history-dense day covering ancient fortress ruins, ancient manuscripts, and the genocide memorial, distinct from the monastery circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Erebuni and Matenadaran tour worth it in Yerevan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a history-dense day distinct from the monastery circuit." } },
+                ] },
+            };
+
         default:
             return null;
     }
