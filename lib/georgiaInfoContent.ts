@@ -1297,6 +1297,60 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-dmanisi-archeology-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Dmanisi Archeology Tour Worth It from Tbilisi?",
+                seoTitle: "Dmanisi Archeology Tour from Tbilisi 2026 | Honest Review",
+                description: "An honest look at the Dmanisi archeology, Bolnisi, and Sioni day tour from Tbilisi, a globally significant early-human archeological site distinct from Georgia's medieval monasteries and canyons.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b277f5ba6f182b0b0f0efe22486291c9becd54221d665ca71c148a99e430d867.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Dmanisi is home to some of the oldest early-human fossils found outside Africa, a globally significant archeological site that's a completely different era and subject from Georgia's medieval monasteries, wine regions, and canyons — genuinely worth it for travelers interested in ancient human history.", tourCard: { slug: "from-tbilisi-dmanisi-archeology-bolnisi-sioni", title: "From Tbilisi: Dmanisi Archeology, Bolnisi & Sioni Tour", description: "A day tour to the Dmanisi archeological site with stops at Bolnisi and Sioni.", price: "From $146", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b277f5ba6f182b0b0f0efe22486291c9becd54221d665ca71c148a99e430d867.jpeg" } },
+                    { title: "Practical Tips", content: "This appeals specifically to travelers with a genuine interest in archeology and early human history, more than scenic sightseeing." },
+                ],
+                faqs: [
+                    { q: "Is the Dmanisi archeology tour worth it from Tbilisi?", a: "Yes, for travelers interested in globally significant early-human history, a completely different subject from Georgia's usual medieval sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Dmanisi archeology tour worth it from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine interest in globally significant early-human history." } },
+                ] },
+            };
+
+        case "is-chiatura-cable-cars-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Chiatura Cable Cars Tour Worth It from Tbilisi?",
+                seoTitle: "Chiatura Cable Cars Tour from Tbilisi 2026 | Honest Review",
+                description: "An honest look at the Chiatura cable cars and Katskhi Pillar family tour from Tbilisi, a unique Soviet-era industrial landmark distinct from Georgia's medieval monasteries.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a879c4124a202db38c8ab909a67c3639be258990064697f0b7c88cead56bdd48.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Chiatura's rickety Soviet-era cable cars, still in daily use by locals, are a genuinely unique industrial curiosity, paired here with the striking Katskhi Pillar monastery — a completely different kind of day from Georgia's wine and monastery circuits.", tourCard: { slug: "from-tbilisi-chiatura-cable-cars-katskhi-family", title: "From Tbilisi: Chiatura Cable Cars & Katskhi Family Tour", description: "A day tour to Chiatura's Soviet-era cable cars and Katskhi Pillar.", price: "From $510", duration: "11 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a879c4124a202db38c8ab909a67c3639be258990064697f0b7c88cead56bdd48.jpg" } },
+                    { title: "Practical Tips", content: "The cable cars are genuinely old infrastructure, not a tourist ride, so set expectations as an authentic industrial curiosity rather than a polished attraction." },
+                ],
+                faqs: [
+                    { q: "Is the Chiatura cable cars tour worth it from Tbilisi?", a: "Yes, for a genuinely unique Soviet-era industrial curiosity, a completely different day from Georgia's usual monastery and wine sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chiatura cable cars tour worth it from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely unique Soviet-era industrial curiosity." } },
+                ] },
+            };
+
+        case "is-electric-mountain-biking-worth-it-tbilisi":
+            return {
+                title: "Is Electric Mountain Biking Worth It around Tbilisi?",
+                seoTitle: "Tbilisi Electric Mountain Biking 2026 | Honest Review",
+                description: "An honest look at the electric mountain biking tour around Tbilisi, a motor-assisted outdoor activity distinct from the city's standard bike tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8e48300af5db3ca5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "E-bikes let you cover hillier terrain around Tbilisi than a standard bike tour without requiring serious cycling fitness, a good middle-ground option between a casual city bike ride and a demanding mountain-bike route.", tourCard: { slug: "electric-mountain-biking-around-tbilisi", title: "Electric Mountain Biking Around Tbilisi", description: "An electric mountain biking tour through the hills around Tbilisi.", price: "From $150", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8e48300af5db3ca5.jpeg" } },
+                    { title: "Practical Tips", content: "No advanced cycling fitness is needed — the motor assist handles the harder climbs, making this accessible to a wider range of riders." },
+                ],
+                faqs: [
+                    { q: "Is electric mountain biking worth it around Tbilisi?", a: "Yes, for covering hillier terrain without requiring serious cycling fitness, a good middle ground between casual and demanding bike tours." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is electric mountain biking worth it around Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for covering hillier terrain without requiring serious cycling fitness." } },
+                ] },
+            };
+
         case "is-urbex-tour-worth-it-tbilisi":
             return {
                 title: "Is the Abandoned Wonders Urbex Tour Worth It in Tbilisi?",

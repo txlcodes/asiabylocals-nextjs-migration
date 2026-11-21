@@ -388,6 +388,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-dashbashi-canyon-tour-worth-it-tbilisi',
     'is-urbex-tour-worth-it-tbilisi', 'is-khevsureti-jeep-tour-worth-it-tbilisi',
     'is-rock-climbing-worth-it-tbilisi',
+    'is-dmanisi-archeology-tour-worth-it-tbilisi', 'is-chiatura-cable-cars-tour-worth-it-tbilisi',
+    'is-electric-mountain-biking-worth-it-tbilisi',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),
