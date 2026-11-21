@@ -1888,6 +1888,7 @@ export const HANOI_INFO_SLUGS = [
   'should-i-book-hanoi-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-hanoi',
   'best-perfume-pagoda-tour-hanoi', 'is-bat-trang-village-tour-worth-it-hanoi',
+  'is-cyclo-tour-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [

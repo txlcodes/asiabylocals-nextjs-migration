@@ -1637,6 +1637,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-hanoi', 'should-i-book-hanoi-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-hanoi',
     'best-perfume-pagoda-tour-hanoi', 'is-bat-trang-village-tour-worth-it-hanoi',
+    'is-cyclo-tour-worth-it-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),

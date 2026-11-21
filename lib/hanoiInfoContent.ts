@@ -871,6 +871,27 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-cyclo-tour-worth-it-hanoi":
+      return {
+        title: "Is the Cyclo City Tour Worth It in Hanoi?",
+        description: "An honest look at Hanoi's cyclo (pedicab) city tour, a slow, relaxed way to see the Old Quarter distinct from walking tours or motorbike street food tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/embark-on-a-cyclo-city-view-tour-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding in a cyclo (a traditional pedicab) through the Old Quarter's narrow streets is a slower, more relaxed way to sightsee than walking or a motorbike tour, letting you take in the chaos of Hanoi traffic from a seated vantage point rather than navigating it yourself.",
+            tourCard: { slug: "embark-on-a-cyclo-city-view-tour-in-hanoi", title: "Embark on a Cyclo City View Tour in Hanoi", description: "A one-hour cyclo pedicab tour through Hanoi's Old Quarter.", price: "From $15", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/embark-on-a-cyclo-city-view-tour-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a short, inexpensive activity best paired with a walking tour or food tour the same day rather than booked as a standalone outing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cyclo tour worth it in Hanoi?", a: "Yes, as a relaxed, inexpensive way to see the Old Quarter, best paired with other activities the same day." },
+        ],
+      };
+
     default:
       return null;
   }
