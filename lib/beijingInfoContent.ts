@@ -678,6 +678,90 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-peking-opera-workshop-worth-it-beijing":
+      return {
+        title: "Is the Peking Opera Craft Workshop Worth It in Beijing?",
+        description: "An honest look at Beijing's hands-on Peking Opera craft workshop, a participatory cultural activity distinct from the city's passive acrobatic show tickets.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/503c2167cd496ad6b9902c1bef418eace81222fd6b4f6859d5dbb57fe0c308ca.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This workshop has you actually try elements of Peking Opera craft — makeup, movement, or costume depending on the session — rather than just watching a performance, a genuinely participatory alternative to the acrobatic show tickets most visitors book.",
+            tourCard: { slug: "15-hour-peking-opera-craft-workshop-in-beijing", title: "Peking Opera Craft Workshop in Beijing", description: "A hands-on workshop exploring Peking Opera craft elements.", price: "From $76", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/503c2167cd496ad6b9902c1bef418eace81222fd6b4f6859d5dbb57fe0c308ca.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a participatory workshop, not a performance ticket, so go in expecting to try things yourself rather than sit and watch.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Peking Opera workshop worth it in Beijing?", a: "Yes, for a genuinely hands-on cultural activity, different from simply watching an acrobatic show." },
+        ],
+      };
+
+    case "is-red-theater-kung-fu-show-worth-it-beijing":
+      return {
+        title: "Is the Red Theater Kung Fu Show Worth It in Beijing?",
+        description: "An honest look at the Beijing Red Theater admission ticket, a martial-arts theatrical performance distinct from the city's acrobatic shows.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a0f2b9950e669fe71b942a4e3770567af1b1909c8e6bae808aec474637ef996a.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Red Theater's Kung Fu show blends martial arts choreography with storytelling, a genuinely different performance format from the acrobatic circus shows elsewhere in Beijing — worth it specifically for martial-arts fans.",
+            tourCard: { slug: "admission-ticket-to-beijing-red-theater", title: "Admission Ticket to Beijing Red Theater", description: "An admission ticket to the Red Theater's Kung Fu show in Beijing.", price: "From $51", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a0f2b9950e669fe71b942a4e3770567af1b1909c8e6bae808aec474637ef996a.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a one-hour evening show, easy to fit after a full day of sightseeing without disrupting your schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Red Theater Kung Fu show worth it in Beijing?", a: "Yes, especially for martial-arts fans — a genuinely different performance style from the city's acrobatic circus shows." },
+        ],
+      };
+
+    case "is-mahjong-experience-worth-it-beijing":
+      return {
+        title: "Is the Chinese Mahjong Game Experience Worth It in Beijing?",
+        description: "An honest look at Beijing's authentic Chinese Mahjong game experience, a hands-on local social activity distinct from the city's temple and palace sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ac80397a964d38ed5c8a1d1c1b38db3586ef33d504cdb36ca25a98aabc9f986.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning to play Mahjong from a local host gives genuine insight into a game deeply embedded in everyday Chinese social life, a relaxed, hands-on activity that's a nice change of pace from the Forbidden City and Great Wall sightseeing.",
+            tourCard: { slug: "authentic-chinese-mahjong-game-experience-in", title: "Authentic Chinese Mahjong Game Experience in Beijing", description: "A hands-on Mahjong game experience with a local host.", price: "From $41", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ac80397a964d38ed5c8a1d1c1b38db3586ef33d504cdb36ca25a98aabc9f986.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior Mahjong knowledge is needed — your host teaches the rules as you go, so this suits complete beginners.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mahjong experience worth it in Beijing?", a: "Yes, for genuine insight into everyday Chinese social life, a relaxed change of pace from the city's major landmark sightseeing." },
+        ],
+      };
+
+    case "is-longqing-gorge-tour-worth-it-beijing":
+      return {
+        title: "Is the Longqing Gorge Tour Worth It from Beijing?",
+        description: "An honest look at the Longqing Gorge private mini-group tour, a natural canyon and water landscape distinct from Beijing's Great Wall and palace day trips.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6550d66b6477d7424326bc205d8f2f89789ee5af44eb187424f5cba6a62d3301.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Longqing Gorge offers dramatic canyon scenery and boat rides on turquoise water, a genuinely different natural landscape from the city's Great Wall sections and historic palaces — a good nature-focused day for travelers who've already covered the main landmarks.",
+            tourCard: { slug: "amazing-longqingxia-gorge-private-mini-group-tour", title: "Amazing Longqing Gorge Private Mini-Group Tour", description: "A private mini-group tour of Longqing Gorge's canyon and water scenery.", price: "From $343", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6550d66b6477d7424326bc205d8f2f89789ee5af44eb187424f5cba6a62d3301.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Best booked after you've already seen the Great Wall and Forbidden City, since this is specifically a nature-focused alternative day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Longqing Gorge tour worth it from Beijing?", a: "Yes, for a genuinely different natural canyon landscape, a good alternative day after covering the main historic landmarks." },
+        ],
+      };
+
     default:
       return null;
   }

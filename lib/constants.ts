@@ -828,6 +828,8 @@ export const BEIJING_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-beijing',
   'is-acrobatic-show-worth-it-beijing', 'is-panda-house-worth-it-beijing',
   'is-tea-ceremony-worth-it-beijing', 'is-798-art-district-tour-worth-it-beijing',
+  'is-peking-opera-workshop-worth-it-beijing', 'is-red-theater-kung-fu-show-worth-it-beijing',
+  'is-mahjong-experience-worth-it-beijing', 'is-longqing-gorge-tour-worth-it-beijing',
 ];
 
 export const SHANGHAI_INFO_SLUGS = [
