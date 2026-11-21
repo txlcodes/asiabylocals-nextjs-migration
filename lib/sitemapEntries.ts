@@ -1630,6 +1630,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'should-i-book-ubud-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-ubud',
     'best-tegalalang-rice-terrace-tour', 'best-mount-batur-sunrise-tour', 'best-balinese-cooking-class-ubud',
+    'is-silver-jewelry-class-worth-it-ubud', 'is-coffee-plantation-tour-worth-it-ubud',
+    'is-hidden-canyon-tour-worth-it-ubud', 'is-kintamani-downhill-cycling-worth-it-ubud',
+    'is-beach-horse-riding-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),

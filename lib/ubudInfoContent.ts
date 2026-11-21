@@ -1923,6 +1923,108 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-silver-jewelry-class-worth-it-ubud":
+      return {
+        title: "Is a Bali Silver Jewelry Making Class Worth It in Ubud?",
+        description: "An honest look at Ubud's silver jewelry making class, tied to the nearby silver-making village of Celuk.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bali-silver-jewelry-making-class-stone-and-gold-plated-option-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This hands-on class teaches traditional Balinese silversmithing, with a stone or gold-plated finishing option, letting you leave with a wearable piece you made yourself — a genuinely different cultural activity from the usual rice terrace and waterfall circuit.",
+            tourCard: { slug: "bali-silver-jewelry-making-class-stone-and-gold-plated-option-ubud", title: "Bali Silver Jewelry Making Class (Stone and Gold-Plated Option) (Ubud)", description: "A hands-on silver jewelry making class with finishing options.", price: "From $49", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bali-silver-jewelry-making-class-stone-and-gold-plated-option-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bali's silversmithing tradition is centered on the village of Celuk — worth asking your operator whether the class takes place there or in a workshop closer to Ubud.",
+          },
+        ],
+        faqs: [
+          { q: "Is the silver jewelry class worth it in Ubud?", a: "Yes, for a hands-on cultural activity with a wearable souvenir you make yourself." },
+        ],
+      };
+
+    case "is-coffee-plantation-tour-worth-it-ubud":
+      return {
+        title: "Is a Coffee Cultivation and Tasting Class Worth It in Ubud?",
+        description: "An honest look at Ubud's coffee cultivation, processing, and tasting class, including Bali's distinctive luwak coffee.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/coffee-cultivation-processing-and-tasting-class-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This class walks through coffee cultivation and processing from plant to cup, usually including a tasting of multiple varieties, and often Bali's famous (and controversial) luwak coffee — a low-key, affordable cultural stop that works well between bigger activities.",
+            tourCard: { slug: "coffee-cultivation-processing-and-tasting-class-in-ubud", title: "Coffee Cultivation, Processing and Tasting Class in Ubud", description: "A class covering coffee cultivation, processing, and tasting.", price: "From $30", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/coffee-cultivation-processing-and-tasting-class-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If animal welfare matters to you, ask specifically how the luwak coffee is sourced — ethical operators use only wild-collected civet droppings, not caged animals." },
+        ],
+        faqs: [
+          { q: "What is luwak coffee?", a: "Coffee made from beans that have passed through the digestive tract of the civet (luwak), a Bali specialty." },
+          { q: "Is luwak coffee ethical?", a: "It depends on the operator — ask whether beans are wild-collected rather than from caged civets." },
+        ],
+      };
+
+    case "is-hidden-canyon-tour-worth-it-ubud":
+      return {
+        title: "Is the Hidden Canyon Beji Guwang Tour Worth It in Ubud?",
+        description: "An honest look at the Hidden Canyon Beji Guwang guided tour, a canyoning experience distinct from Ubud's usual waterfall visits.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hidden-canyon-beji-guwang-guided-tour-with-meals-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hidden Canyon Beji Guwang is a narrow, dramatically carved river canyon you walk and wade through with a guide — a genuinely different adventure from simply viewing a waterfall, requiring some scrambling over rocks and through water.",
+            tourCard: { slug: "hidden-canyon-beji-guwang-guided-tour-with-meals-in-ubud", title: "Hidden Canyon Beji Guwang Guided Tour with Meals in Ubud", description: "A guided canyon tour through Hidden Canyon Beji Guwang with meals.", price: "From $68", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hidden-canyon-beji-guwang-guided-tour-with-meals-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear shoes with good grip that you don't mind getting wet — the canyon floor involves wading and some rock-scrambling throughout." },
+        ],
+        faqs: [
+          { q: "Is the Hidden Canyon tour difficult?", a: "It involves wading through water and scrambling over rocks, so moderate fitness and non-slip footwear help." },
+        ],
+      };
+
+    case "is-kintamani-downhill-cycling-worth-it-ubud":
+      return {
+        title: "Is Kintamani Downhill Cycling Worth It from Ubud?",
+        description: "An honest look at the Kintamani downhill cycling tour, riding from the Mount Batur highlands down through rice fields and villages.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kintamani-downhill-cycling-small-group-and-private/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This ride starts high in the cool Kintamani highlands near Mount Batur and coasts mostly downhill through rice terraces and village roads — a scenic, relatively low-effort way to see rural Bali up close, suited to most fitness levels.",
+            tourCard: { slug: "kintamani-downhill-cycling-small-group-and-private", title: "Kintamani Downhill Cycling: Small Group and Private", description: "A downhill cycling tour from the Kintamani highlands.", price: "From $26", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kintamani-downhill-cycling-small-group-and-private/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The ride is mostly downhill, so this suits beginners and families better than a typical cycling tour — no serious fitness required." },
+        ],
+        faqs: [
+          { q: "Is Kintamani downhill cycling difficult?", a: "No, it's mostly downhill and suited to most fitness levels, including families." },
+        ],
+      };
+
+    case "is-beach-horse-riding-worth-it-ubud":
+      return {
+        title: "Is Beach Horse Riding Worth It Near Ubud?",
+        description: "An honest look at Gianyar's beach horse riding experience, a coastal activity distinct from Ubud's inland rice-terrace and temple circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/gianyar-bali-horse-riding-at-the-beach-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This short horseback ride along a Gianyar-area beach is a quick break from Ubud's inland rice-terrace and temple sights, bringing the coast into an otherwise jungle-and-countryside-focused Ubud itinerary.",
+            tourCard: { slug: "gianyar-bali-horse-riding-at-the-beach-ubud", title: "Gianyar: Bali Horse Riding at the Beach (Ubud)", description: "A beach horse riding experience near Ubud.", price: "From $45", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/gianyar-bali-horse-riding-at-the-beach-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 30 minutes, this works best as a short add-on alongside another coastal activity rather than a standalone excursion." },
+        ],
+        faqs: [
+          { q: "Is beach horse riding worth it near Ubud?", a: "Yes, as a short, easy add-on that brings the coast into an otherwise inland-focused Ubud itinerary." },
+        ],
+      };
+
     default:
       return null;
   }

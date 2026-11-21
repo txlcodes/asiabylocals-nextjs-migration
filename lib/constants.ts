@@ -1872,6 +1872,9 @@ export const UBUD_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-ubud',
   // Tour-selling pages (2026-11-10)
   'best-tegalalang-rice-terrace-tour', 'best-mount-batur-sunrise-tour', 'best-balinese-cooking-class-ubud',
+  'is-silver-jewelry-class-worth-it-ubud', 'is-coffee-plantation-tour-worth-it-ubud',
+  'is-hidden-canyon-tour-worth-it-ubud', 'is-kintamani-downhill-cycling-worth-it-ubud',
+  'is-beach-horse-riding-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [
