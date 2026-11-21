@@ -985,6 +985,69 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-topgolf-worth-it-dubai":
+      return {
+        title: "Is TopGolf Worth It in Dubai?",
+        description: "An honest look at Dubai's one-hour TopGolf game, an indoor-adjacent entertainment activity distinct from the city's desert safaris and skyline attractions.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-738994/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "TopGolf combines golf with a tech-driven scoring game, a relaxed, air-conditioned activity that's a good break from Dubai's heat-heavy desert safaris and outdoor sightseeing — fun for groups regardless of actual golf skill.",
+            tourCard: { slug: "dubai-1-hour-topgolf-game", title: "Dubai: 1-Hour TopGolf Game", description: "A one-hour TopGolf game session in Dubai.", price: "From $21", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-738994/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No golf experience is needed — the game format rewards accuracy and fun over technical skill, so it works for complete beginners in a group.",
+          },
+        ],
+        faqs: [
+          { q: "Is TopGolf worth it in Dubai?", a: "Yes, as a relaxed, air-conditioned group activity that's a good break from the city's heat-heavy outdoor sightseeing." },
+        ],
+      };
+
+    case "is-al-ain-day-trip-worth-it-dubai":
+      return {
+        title: "Is the Al Ain Day Trip Worth It from Dubai?",
+        description: "An honest look at the Al Ain day trip from Dubai covering the oasis, camel market, and Jebel Hafeet, a genuinely different inland emirate from Dubai's coastal skyline.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902283/asiabylocals/tours/al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Al Ain, the UAE's 'Garden City,' combines a historic oasis, a working camel market, and the mountain drive up Jebel Hafeet — a genuinely different inland emirate landscape from Dubai's coastal skyline and desert dunes, worth it for travelers wanting UAE heritage beyond the city.",
+            tourCard: { slug: "al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet", title: "Al Ain Day Trip from Dubai: Oasis, Camel Market, and Jebel Hafeet", description: "A day trip to Al Ain covering the oasis, camel market, and Jebel Hafeet mountain.", price: "From $637", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902283/asiabylocals/tours/al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip given the distance from Dubai, so budget the full day rather than combining it with other activities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Al Ain day trip worth it from Dubai?", a: "Yes, for travelers wanting genuine UAE heritage and inland landscape beyond Dubai's coastal skyline." },
+        ],
+      };
+
+    case "is-discover-scuba-diving-worth-it-dubai":
+      return {
+        title: "Is Discover Scuba Diving Worth It in Dubai?",
+        description: "An honest look at Dubai's Discover Scuba Diving experience, an instructor-led introductory dive distinct from the city's jet ski and flyboard water activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-95049/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This Discover Scuba Diving session is built for complete beginners, with an instructor guiding every step from basic skills to a real dive, no certification required — a genuine underwater experience rather than the motorized thrills of jet skis or flyboarding.",
+            tourCard: { slug: "discover-scuba-diving-in-dubai", title: "Discover Scuba Diving in Dubai", description: "An instructor-led introductory scuba dive in Dubai, no certification required.", price: "From $162", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-95049/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior diving certification is needed, though being a comfortable swimmer helps with the confined-water training portion.",
+          },
+        ],
+        faqs: [
+          { q: "Is Discover Scuba Diving worth it in Dubai?", a: "Yes, for a genuine instructor-led underwater experience with no certification needed, different from the city's motorized water sports." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1855,6 +1855,8 @@ export const DUBAI_INFO_SLUGS = [
   'museum-of-the-future-dubai-frame-guide', 'global-village-dubai-guide',
   'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide',
   'is-miracle-garden-worth-it-dubai',
+  'is-topgolf-worth-it-dubai', 'is-al-ain-day-trip-worth-it-dubai',
+  'is-discover-scuba-diving-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

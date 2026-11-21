@@ -1342,7 +1342,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'atlantis-aquaventure-waterpark-guide', 'dubai-aquarium-underwater-zoo-guide',
     'museum-of-the-future-dubai-frame-guide', 'global-village-dubai-guide',
     'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide',
-    'is-miracle-garden-worth-it-dubai'].map(slug => ({
+    'is-miracle-garden-worth-it-dubai',
+    'is-topgolf-worth-it-dubai', 'is-al-ain-day-trip-worth-it-dubai',
+    'is-discover-scuba-diving-worth-it-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
