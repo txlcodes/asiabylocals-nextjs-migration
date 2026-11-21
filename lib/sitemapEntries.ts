@@ -750,6 +750,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-walking-tour-batumi', 'best-martvili-canyon-tour-batumi',
     'best-wine-tasting-tour-batumi', 'is-batumi-jet-ski-worth-it',
     'batumi-travel-guide-2026', 'best-time-to-visit-batumi',
+    'is-sunset-cruise-worth-it-batumi', 'is-khachapuri-cooking-class-worth-it-batumi',
+    'is-machakhela-national-park-hike-worth-it-batumi',
   ], 'georgia', 'batumi');
 
   const kutaisiInfoPages = mapInfoSlugs([

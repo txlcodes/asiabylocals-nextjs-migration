@@ -1223,6 +1223,60 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-sunset-cruise-worth-it-batumi":
+            return {
+                title: "Is the Batumi Sunset Cruise Worth It?",
+                seoTitle: "Batumi Sunset Cruise 2026 | Honest Review",
+                description: "An honest look at Batumi's short Black Sea sunset cruise with a glass of wine.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e062b19d9881ab28b3f4c4c5c9519e9aa1d7c0b8ba0211fab90d2c6c6552bb3d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At a very low price, this short cruise shows off Batumi's Black Sea coastline and skyline at sunset, with a glass of wine included — an easy, affordable evening activity.", tourCard: { slug: "batumi-sunset-cruise-with-a-glass-of-wine", title: "Batumi: Sunset Cruise with a Glass of Wine", description: "A sunset cruise on the Black Sea with a glass of wine.", price: "From $26", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e062b19d9881ab28b3f4c4c5c9519e9aa1d7c0b8ba0211fab90d2c6c6552bb3d.jpg" } },
+                    { title: "Practical Tips", content: "Book a slot timed close to actual sunset, since the cruise is short and you want the light at its best for the duration." }
+                ],
+                faqs: [
+                    { q: "Is the Batumi sunset cruise worth it?", a: "Yes, given its low price, it's an easy and affordable evening activity on the Black Sea." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Batumi sunset cruise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, given its low price and easy format." } }
+                ] },
+            };
+
+        case "is-khachapuri-cooking-class-worth-it-batumi":
+            return {
+                title: "Is the Khachapuri Cooking Class Worth It in Batumi?",
+                seoTitle: "Batumi Khachapuri Cooking Class 2026 | Honest Review",
+                description: "An honest look at Batumi's Georgian khachapuri cooking class, teaching Georgia's iconic cheese-filled bread.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75122421b1027c054180e7b421847ffc70a3bef761da92c3bbe0b907125b9673.png",
+                sections: [
+                    { title: "The Short Answer", content: "Khachapuri, Georgia's beloved cheese-filled bread, comes in several regional styles — this hands-on class teaches you to make it directly, a short and affordable cultural activity.", tourCard: { slug: "batumi-cook-georgian-khachapuri-in-batumi", title: "Batumi: Cook Georgian Khachapuri in Batumi", description: "A hands-on khachapuri cooking class.", price: "From $95", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75122421b1027c054180e7b421847ffc70a3bef761da92c3bbe0b907125b9673.png" } },
+                    { title: "Practical Tips", content: "At just 1.5 hours, this fits easily into an afternoon or evening between other Batumi activities." }
+                ],
+                faqs: [
+                    { q: "What is khachapuri?", a: "Georgia's beloved cheese-filled bread, with several regional variations." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is khachapuri?", "acceptedAnswer": { "@type": "Answer", "text": "Georgia's beloved cheese-filled bread." } }
+                ] },
+            };
+
+        case "is-machakhela-national-park-hike-worth-it-batumi":
+            return {
+                title: "Is the Machakhela National Park Hike Worth It from Batumi?",
+                seoTitle: "Machakhela National Park Batumi 2026 | Honest Review",
+                description: "An honest look at the Machakhela National Park guided hiking tour, a forested nature escape from Batumi's coastline.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ea159370bc6291971b9285116b95c0d9784e99dccc3450296ba3cc7beb251a6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Machakhela National Park offers dense forest, rivers, and traditional Adjarian villages, a genuinely different landscape from Batumi's beach and city sightseeing.", tourCard: { slug: "batumi-machakhela-national-park-guided-hiking-tour", title: "Batumi: Machakhela National Park Guided Hiking Tour", description: "A guided hiking tour through Machakhela National Park.", price: "From $390", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ea159370bc6291971b9285116b95c0d9784e99dccc3450296ba3cc7beb251a6.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes — the terrain is genuinely forested and uneven, unlike Batumi's flat seaside boulevard." }
+                ],
+                faqs: [
+                    { q: "What is Machakhela National Park known for?", a: "Dense forest, rivers, and traditional Adjarian villages, a different landscape from Batumi's coast." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Machakhela National Park known for?", "acceptedAnswer": { "@type": "Answer", "text": "Dense forest, rivers, and traditional Adjarian villages." } }
+                ] },
+            };
+
         default:
             return null;
     }
