@@ -1326,6 +1326,125 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ] },
       };
 
+    case "is-jiufen-shifen-tour-worth-it-taipei":
+      return {
+        title: "Is the Jiufen, Shifen and Pingxi Sky Lantern Tour Worth It?",
+        description: "An honest look at Taipei's most popular day trip, combining Jiufen's hillside old street, Shifen's waterfall, and a Pingxi sky lantern release.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/00afb6244ef72f855736abfa239be2781572b12acdc5511b2487b3cb8b2ef999.png",
+        sections: [
+          { title: "The Short Answer", content: "This is by far Taipei's most-booked day trip, pairing Jiufen's atmospheric hillside old street, inspiration for parts of Spirited Away's visual style, with Shifen's waterfall and the chance to release your own sky lantern at Pingxi — three genuinely different experiences in one day.", tourCard: { slug: "taipei-jiufen-shifen-waterfall-and-pingxi-sky", title: "Taipei: Jiufen, Shifen Waterfall and Pingxi Sky Lantern", description: "A day trip combining Jiufen old street, Shifen waterfall, and a Pingxi sky lantern release.", price: "From $257", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/00afb6244ef72f855736abfa239be2781572b12acdc5511b2487b3cb8b2ef999.png" } },
+          { title: "Practical Tips", content: "Jiufen gets crowded by mid-morning, so an early departure makes a real difference to how enjoyable the old street's narrow lanes are." },
+        ],
+        faqs: [
+          { q: "Is the Jiufen, Shifen and Pingxi tour worth it?", a: "Yes, it's Taipei's single most popular day trip for good reason, combining three genuinely different experiences in one day." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Jiufen, Shifen and Pingxi sky lantern tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's Taipei's most popular day trip, combining three genuinely different experiences." } },
+        ] },
+      };
+
+    case "is-sun-moon-lake-tour-worth-it-taipei":
+      return {
+        title: "Is the Sun Moon Lake Day Tour Worth It from Taipei?",
+        description: "An honest look at the 1-day Sun Moon Lake private tour, reaching Taiwan's largest lake and a serious driving distance from the capital.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/34421cc705766d3e17d46355f16778af3fa15337b191ee193b1507bf470e7870.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Sun Moon Lake is Taiwan's largest lake, genuinely scenic with mountain-backed views and temples along the shore, but it sits several hours south of Taipei, making this a long single day rather than a casual outing — worth it specifically for travelers without time for an overnight stay.", tourCard: { slug: "from-taipei-1-day-sun-moon-lake-private-tour", title: "From Taipei: 1-Day Sun Moon Lake Private Tour", description: "A 1-day private tour to Sun Moon Lake from Taipei.", price: "From $605", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/34421cc705766d3e17d46355f16778af3fa15337b191ee193b1507bf470e7870.jpg" } },
+          { title: "Practical Tips", content: "Given the 12-hour round trip, consider an overnight stay near the lake instead if your schedule allows a more relaxed pace." },
+        ],
+        faqs: [
+          { q: "Is the Sun Moon Lake day trip worth it from Taipei?", a: "Yes, for travelers without time for an overnight stay, though it's a genuinely long day given the distance." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Sun Moon Lake day tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers without time for an overnight stay near Taiwan's largest and most scenic lake." } },
+        ] },
+      };
+
+    case "is-pineapple-cake-workshop-worth-it-taipei":
+      return {
+        title: "Is the Pineapple Cake DIY Workshop Worth It in Taipei?",
+        description: "An honest look at the hands-on pineapple cake making workshop, Taiwan's signature souvenir pastry made the traditional way.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c71dccb6455773517335dce879c99900337b3f704fcf936e7b9dc325204b7cb0.png",
+        sections: [
+          { title: "The Short Answer", content: "Pineapple cake is Taiwan's signature souvenir pastry, and making your own from scratch gives a hands-on appreciation for the craft behind the boxes sold at every airport gift shop, with the cakes you make yours to take home.", tourCard: { slug: "taipei-pineapple-cakes-diy-experience", title: "Taipei: Pineapple Cakes DIY Experience", description: "A hands-on workshop making traditional Taiwanese pineapple cakes.", price: "From $51", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c71dccb6455773517335dce879c99900337b3f704fcf936e7b9dc325204b7cb0.png" } },
+          { title: "Practical Tips", content: "A good short activity to pair with a half-day of sightseeing — it only takes about 2 hours and the cakes make a genuine homemade souvenir." },
+        ],
+        faqs: [
+          { q: "Is the pineapple cake workshop worth it in Taipei?", a: "Yes, for a hands-on appreciation of Taiwan's signature pastry and a genuine homemade souvenir to take home." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the pineapple cake workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a hands-on introduction to Taiwan's signature souvenir pastry." } },
+        ] },
+      };
+
+    case "is-night-market-food-tour-worth-it-taipei":
+      return {
+        title: "Is the Night Market Food Walking Tour Worth It in Taipei?",
+        description: "An honest look at the Ningxia Night Market food walking tour, a guided introduction to one of Taipei's oldest and most local night markets.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c8399cee9bc65701334fc01ba202f23617501aa373e0d49966d2a9f04f6f488.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "Ningxia is one of Taipei's oldest and most locally-frequented night markets, and a guided food walking tour solves the real problem of not knowing which stalls among dozens of options are actually worth the queue, tasting multiple dishes along the way.", tourCard: { slug: "taipei-ningxia-night-market-food-walking-tourincl", title: "Taipei: Ningxia Night Market Food Walking Tour", description: "A guided food walking tour through Taipei's Ningxia Night Market.", price: "From $63", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c8399cee9bc65701334fc01ba202f23617501aa373e0d49966d2a9f04f6f488.jpeg" } },
+          { title: "Practical Tips", content: "Skip a big dinner beforehand — this tour includes multiple tastings across several stalls." },
+        ],
+        faqs: [
+          { q: "Is the night market food tour worth it in Taipei?", a: "Yes, for a guide's knowledge of which stalls among Ningxia's dozens of options are genuinely worth the queue." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the night market food tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a guide's knowledge of which stalls among a huge market's options are genuinely worth the queue." } },
+        ] },
+      };
+
+    case "is-maokong-gondola-tour-worth-it-taipei":
+      return {
+        title: "Is the Maokong Gondola and Shiding Noodle Tour Worth It?",
+        description: "An honest look at the private Maokong Gondola and Shiding handmade noodle tour, reaching Taipei's tea-growing hills by cable car.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48250a80ac6bc63a96179f48e8d0b176ccadf5f9eb6a28745070122b447fc277.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Maokong is Taipei's tea-growing hill district, reached by a scenic gondola ride, and this tour pairs it with a stop in Shiding for handmade noodles, a genuinely different pace from the city center's temples and night markets.", tourCard: { slug: "private-maokong-gondola-shiding-handmade-noodle", title: "Private Maokong Gondola & Shiding Handmade Noodle Tour", description: "A private tour combining the Maokong Gondola with Shiding's handmade noodles.", price: "From $299", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48250a80ac6bc63a96179f48e8d0b176ccadf5f9eb6a28745070122b447fc277.jpg" } },
+          { title: "Practical Tips", content: "Try to time the gondola ride for late afternoon for good light over the tea terraces, weather permitting." },
+        ],
+        faqs: [
+          { q: "Is the Maokong Gondola tour worth it?", a: "Yes, for a genuinely different, slower-paced day in Taipei's tea-growing hills, reached by a scenic cable car." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Maokong Gondola tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a scenic cable car ride and a slower-paced day in Taipei's tea-growing hills." } },
+        ] },
+      };
+
+    case "is-wulai-hot-springs-tour-worth-it-taipei":
+      return {
+        title: "Is the Wulai Hot Springs Day Tour Worth It from Taipei?",
+        description: "An honest look at the private Wulai day tour, reaching an Atayal indigenous mountain village known for its natural hot springs.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86c95424dfa6594278326807611d3a356bb5e52d9f00c17f91fa7064d53cc3ac.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Wulai is an Atayal indigenous mountain village known for natural hot springs and a scenic old street, genuinely quieter than Jiufen and reachable in under an hour from Taipei, making for a relaxed rather than sightseeing-packed day.", tourCard: { slug: "taipei-8-hours-private-day-tour-in-wulai-with", title: "Taipei: 8-Hours Private Day Tour in Wulai", description: "A private day tour to the Wulai hot springs and indigenous village.", price: "From $595", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/86c95424dfa6594278326807611d3a356bb5e52d9f00c17f91fa7064d53cc3ac.jpg" } },
+          { title: "Practical Tips", content: "Bring swimwear if you plan to use the public hot spring pools, or book a private indoor hot spring room for more privacy." },
+        ],
+        faqs: [
+          { q: "Is Wulai worth visiting from Taipei?", a: "Yes, for a genuinely quieter, more relaxed alternative to Jiufen, with natural hot springs and Atayal indigenous culture." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Wulai hot springs tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter, more relaxed alternative to Jiufen with natural hot springs." } },
+        ] },
+      };
+
+    case "is-yangmingshan-national-park-tour-worth-it-taipei":
+      return {
+        title: "Is the Yangmingshan National Park Tour Worth It from Taipei?",
+        description: "An honest look at the Yangmingshan National Park half-day tour, Taipei's closest national park with volcanic terrain and seasonal flower blooms.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/360bce439759d47336d30c5aecf4bf9d0be8b447e997bdaa03fef2d304a11960.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yangmingshan is Taipei's closest national park, built on volcanic terrain with hot springs, sulfur vents, and seasonal flower blooms depending on when you visit, making it a genuinely quick nature escape without the long drive other day trips require.", tourCard: { slug: "taipei-yangmingshan-national-park-half-day-tour", title: "Taipei: Yangmingshan National Park Half-Day Tour", description: "A half-day tour of Yangmingshan National Park's volcanic terrain.", price: "From $466", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/360bce439759d47336d30c5aecf4bf9d0be8b447e997bdaa03fef2d304a11960.jpg" } },
+          { title: "Practical Tips", content: "Check the seasonal bloom calendar before booking if flowers are the priority — cherry blossoms, azaleas, and calla lilies each have different peak windows." },
+        ],
+        faqs: [
+          { q: "Is Yangmingshan National Park worth visiting from Taipei?", a: "Yes, it's the city's closest national park, offering volcanic terrain and seasonal flowers without a long drive." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Yangmingshan National Park tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quick nature escape with volcanic terrain and seasonal flowers close to the city." } },
+        ] },
+      };
+
     default:
       return null;
   }

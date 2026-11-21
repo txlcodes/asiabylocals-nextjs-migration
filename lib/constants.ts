@@ -946,6 +946,10 @@ export const TAIPEI_INFO_SLUGS = [
   'should-i-book-taipei-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-taipei',
   'is-atayal-culture-day-trip-worth-it-taipei', 'is-yilan-scallion-pancake-tour-worth-it-taipei',
+  'is-jiufen-shifen-tour-worth-it-taipei', 'is-sun-moon-lake-tour-worth-it-taipei',
+  'is-pineapple-cake-workshop-worth-it-taipei', 'is-night-market-food-tour-worth-it-taipei',
+  'is-maokong-gondola-tour-worth-it-taipei', 'is-wulai-hot-springs-tour-worth-it-taipei',
+  'is-yangmingshan-national-park-tour-worth-it-taipei',
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and
