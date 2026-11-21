@@ -1319,6 +1319,42 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-fishing-picnic-worth-it-luang-prabang":
+            return {
+                title: "Is the Fishing Picnic Lunch Worth It in Luang Prabang?",
+                seoTitle: "Luang Prabang Fishing Picnic 2026 | Honest Review",
+                description: "An honest look at the fishing picnic lunch experience in Luang Prabang, a relaxed riverside activity distinct from the city's temples and waterfall day trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b43cdca5b22ee5a4d79cdd8d434b6fcb294c7ce6255146d7314939384a5e26bd.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This fishing outing paired with a riverside picnic lunch is a slow, relaxed activity, a good counterbalance to busier days spent temple-hopping or hiking to Kuang Si Falls.", tourCard: { slug: "fishing-picnic-lunch-in-luang-prabang", title: "Fishing & Picnic Lunch in Luang Prabang", description: "A relaxed fishing outing with a riverside picnic lunch.", price: "From $63", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b43cdca5b22ee5a4d79cdd8d434b6fcb294c7ce6255146d7314939384a5e26bd.jpeg" } },
+                    { title: "Practical Tips", content: "No fishing experience is needed — this is a relaxed, guided activity rather than a serious angling trip." },
+                ],
+                faqs: [
+                    { q: "Is the fishing picnic worth it in Luang Prabang?", a: "Yes, as a relaxed, slow-paced riverside activity, a good counterbalance to busier sightseeing days." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the fishing picnic worth it in Luang Prabang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a relaxed riverside activity." } },
+                ] },
+            };
+
+        case "is-buffalo-tour-worth-it-luang-prabang":
+            return {
+                title: "Is the Buffalo Guided Tour Worth It in Luang Prabang?",
+                seoTitle: "Luang Prabang Buffalo Tour 2026 | Honest Review",
+                description: "An honest look at Luang Prabang's buffalo guided tour, a short rural farm-life activity distinct from the city's temples and waterfalls.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed4600a2fb499bd255a1ca974625c36e3d7cffc2b88272b68d5674d91df90a77.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This short visit to interact with water buffaloes gives a quick glimpse of rural farm life around Luang Prabang, a low-cost, easy add-on rather than a destination activity in itself.", tourCard: { slug: "luang-prabang-buffaloes-guided-tour", title: "Luang Prabang: Buffaloes Guided Tour", description: "A short guided visit to interact with water buffaloes near Luang Prabang.", price: "From $15", duration: "45 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed4600a2fb499bd255a1ca974625c36e3d7cffc2b88272b68d5674d91df90a77.jpg" } },
+                    { title: "Practical Tips", content: "Pair this with a longer countryside activity the same day, since 45 minutes alone doesn't justify a dedicated trip." },
+                ],
+                faqs: [
+                    { q: "Is the buffalo tour worth it in Luang Prabang?", a: "Yes, as a quick, inexpensive rural farm-life add-on, best paired with another countryside activity." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the buffalo tour worth it in Luang Prabang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a quick rural farm-life add-on." } },
+                ] },
+            };
+
         case "is-temple-bamboo-spiritual-tour-worth-it-vientiane":
             return {
                 title: "Is the Temple & Bamboo Spiritual Tour Worth It in Vientiane?",
