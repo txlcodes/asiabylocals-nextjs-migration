@@ -624,6 +624,46 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-doi-inthanon-tour-chiang-mai":
+            return {
+                title: "Which Is the Best Doi Inthanon Day Tour from Chiang Mai?",
+                seoTitle: "Best Doi Inthanon Tour 2026 | Thailand's Highest Peak",
+                description: "Compare real day tours to Doi Inthanon, Thailand's highest peak, including its waterfalls and twin pagodas.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/doi-inthanon-national-park-day-tour-with-lunch/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Doi Inthanon, Thailand's highest peak at over 2,500 meters, is a genuinely different climate and landscape from Chiang Mai's valley heat — a full day covers the summit, waterfalls, and twin royal pagodas.", tourCard: { slug: "doi-inthanon-national-park-day-tour-with-lunch", title: "Doi Inthanon National Park Day Tour with Lunch", description: "A full-day tour of Doi Inthanon National Park with lunch.", price: "From $62", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/doi-inthanon-national-park-day-tour-with-lunch/img0/1600.webp" } },
+                    { title: "Best for Waterfall Focus: Doi Inthanon and Wachirathan Waterfall", content: "This version puts extra emphasis on the Wachirathan Waterfall, one of the park's most impressive, alongside the standard summit visit.", tourCard: { slug: "doi-inthanon-and-wachirathan-waterfall-tour", title: "Doi Inthanon and Wachirathan Waterfall Tour", description: "A tour of Doi Inthanon focused on the Wachirathan Waterfall.", price: "From $122", duration: "9.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/doi-inthanon-and-wachirathan-waterfall-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a light jacket — the summit's elevation makes it noticeably cooler than Chiang Mai city, sometimes dramatically so." }
+                ],
+                faqs: [
+                    { q: "What is Doi Inthanon?", a: "Thailand's highest peak, at over 2,500 meters, home to waterfalls and the King and Queen's twin pagodas." },
+                    { q: "Is Doi Inthanon cold?", a: "Yes, its elevation makes it noticeably cooler than Chiang Mai city — bring a light jacket." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Doi Inthanon?", "acceptedAnswer": { "@type": "Answer", "text": "Thailand's highest peak, home to waterfalls and twin royal pagodas." } }
+                ] },
+            };
+
+        case "is-white-water-rafting-worth-it-chiang-mai":
+            return {
+                title: "Is White Water Rafting Worth It in Chiang Mai?",
+                seoTitle: "Chiang Mai White Water Rafting 2026 | Honest Review",
+                description: "Compare Chiang Mai's white water rafting options — a standalone 10km rafting adventure versus a combo ATV, zipline, and waterfall day.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/10-kilometer-white-water-rafting-adventure-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Chiang Mai's rivers offer a genuine white water rafting experience, a different kind of adrenaline activity from the city's usual elephant and temple tours.", tourCard: { slug: "10-kilometer-white-water-rafting-adventure-in-chiang-mai", title: "10-Kilometer White Water Rafting Adventure in Chiang Mai", description: "A 10-kilometer white water rafting adventure.", price: "From $121", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/10-kilometer-white-water-rafting-adventure-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Best for Variety: ATV, Zipline & Sticky Waterfall Combo", content: "This combo day adds ATV riding and ziplining alongside a visit to Chiang Mai's famous 'sticky' waterfall, where the rock surface allows walking straight up the flowing water.", tourCard: { slug: "225cc-atv-zipline-and-sticky-waterfall-day-trip-in-chiang-mai", title: "225cc ATV, Zipline and Sticky Waterfall Day Trip in Chiang Mai", description: "A combo day of ATV riding, ziplining, and the sticky waterfall.", price: "From $175", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/225cc-atv-zipline-and-sticky-waterfall-day-trip-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Rafting intensity depends on the season — rivers run higher and more exciting during and just after the rainy season (roughly June through October)." }
+                ],
+                faqs: [
+                    { q: "Is white water rafting worth it in Chiang Mai?", a: "Yes, for a genuine adrenaline activity distinct from the city's usual elephant and temple tours." },
+                    { q: "When is the best time for white water rafting in Chiang Mai?", a: "During and just after the rainy season, roughly June through October, when rivers run higher." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is white water rafting worth it in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine adrenaline activity distinct from the city's usual tours." } }
+                ] },
+            };
+
         default:
             return null;
     }

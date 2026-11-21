@@ -1017,7 +1017,8 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'best-tours-in-chiang-mai',
   'should-i-book-chiang-mai-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
-  'how-much-should-a-private-tour-guide-cost-in-chiang-mai'
+  'how-much-should-a-private-tour-guide-cost-in-chiang-mai',
+  'best-doi-inthanon-tour-chiang-mai', 'is-white-water-rafting-worth-it-chiang-mai',
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',
