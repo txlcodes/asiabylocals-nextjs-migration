@@ -433,6 +433,85 @@ export function getGulfSmallInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-ctesiphon-tour-worth-it-baghdad":
+            return {
+                title: "Is the Al-Mada'in Shrines & Ctesiphon Tour from Baghdad Worth It?",
+                seoTitle: "Ctesiphon Tour Baghdad 2026 | Honest Review",
+                description: "An honest look at the Al-Mada'in Shrines and Ctesiphon day tour from Baghdad, home to the largest unreinforced brick arch in the world.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/15ea2967c133213a8493e065a79bb1e5b033c9c51b7830903d3c0d6b6165c918.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Ctesiphon's Taq Kasra arch, the largest unreinforced brick vault in the world, is a genuinely remarkable piece of ancient Persian engineering just outside Baghdad — a short, worthwhile add-on rather than a full-day commitment.", tourCard: { slug: "from-baghdad-al-madain-shrines-ctesiphon-tour", title: "From Baghdad: Al-Mada'in Shrine's & Ctesiphon Tour", description: "A short tour to Al-Mada'in Shrines and the Ctesiphon arch.", price: "From $130", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/15ea2967c133213a8493e065a79bb1e5b033c9c51b7830903d3c0d6b6165c918.jpeg" } },
+                    { title: "Practical Tips", content: "Being close to Baghdad and short in duration, this pairs well with another half-day activity on the same day rather than standing alone." }
+                ],
+                faqs: [
+                    { q: "Is the Ctesiphon tour worth it?", a: "Yes, for the Taq Kasra arch, the largest unreinforced brick vault in the world, and it's a short trip from Baghdad." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ctesiphon tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the largest unreinforced brick arch in the world." } }
+                ] },
+            };
+
+        case "best-samarra-hatra-mosul-tour-baghdad":
+            return {
+                title: "Which Is the Best Samarra, Hatra & Mosul Tour from Baghdad?",
+                seoTitle: "Best Samarra Hatra Mosul Tour Baghdad 2026 | Comparison",
+                description: "Compare real Samarra, Hatra, and Mosul tours from Baghdad — a focused Samarra day tour versus a 2-day trip covering all three ancient sites.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/01a5970d28754dca93d8d6769512203b0478a9b2fb8329109bb2e392783491c7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Samarra's Great Mosque with its spiral minaret, Hatra's UNESCO-listed Parthian ruins, and Mosul's historic old city are each worth visiting, and the choice is a focused Samarra day trip versus the fuller 2-day combo.", tourCard: { slug: "samarra-day-tour-explore-the-wonders-of-the", title: "Samarra Day Tour Explore the Wonders of the Abbasid Empire", description: "A day tour focused on Samarra's Abbasid-era sites.", price: "From $325", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/01a5970d28754dca93d8d6769512203b0478a9b2fb8329109bb2e392783491c7.jpg" } },
+                    { title: "Best Full Experience: 2-Day Samarra, Hatra & Mosul Tour", content: "This covers all three major historical sites over two days rather than focusing on just one, the more complete option for history-focused travellers.", tourCard: { slug: "2-day-samarra-hatra-and-mosul-tour", title: "2-Day Samarra, Hatra, and Mosul Tour", description: "A 2-day tour covering Samarra, Hatra, and Mosul.", price: "From $845", duration: "14 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/69d62d5a7d20430050914c8ba0ce22dd0609ff146b9b75b3f45ca2594f388abd.jpeg" } },
+                    { title: "Practical Tips", content: "Hatra is UNESCO-listed and one of the best-preserved Parthian-era sites in the world — if ancient history is your main interest, the 2-day version justifies the extra time and cost." }
+                ],
+                faqs: [
+                    { q: "What is the best Samarra/Hatra/Mosul tour from Baghdad?", a: "A Samarra-only day trip for a focused visit, or the 2-day version for all three sites." },
+                    { q: "Is Hatra a UNESCO site?", a: "Yes, one of the best-preserved Parthian-era sites in the world." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Samarra/Hatra/Mosul tour?", "acceptedAnswer": { "@type": "Answer", "text": "A Samarra-only day trip, or the 2-day version for all three." } },
+                    { "@type": "Question", "name": "Is Hatra a UNESCO site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, one of the best-preserved Parthian sites." } }
+                ] },
+            };
+
+        case "is-iraq-marshes-tour-worth-it-baghdad":
+            return {
+                title: "Is the Iraqi Marshes Tour from Baghdad Worth It?",
+                seoTitle: "Iraq Marshes Tour Baghdad 2026 | Honest Review",
+                description: "An honest look at the Mesopotamian Marshes day tour from Baghdad, a UNESCO-listed wetland with boat rides and traditional reed houses.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe0ee729d616740b462c5a0c65c71e3dcd3143960b9c5d7ce7333ec3ee5e38cb.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Mesopotamian Marshes, a UNESCO World Heritage wetland, offer a genuinely different landscape from the rest of Iraq's desert and historical sites — boat rides, traditional reed houses, and a local Masgouf fish lunch make this a distinctive cultural-and-nature stop.", tourCard: { slug: "discover-iraqs-marshes-boat-ridemasgouf-lunchreed", title: "Discover Iraq's Marshes: Boat Ride, Masgouf Lunch & Reed Houses", description: "A day trip to the Mesopotamian Marshes with a boat ride and traditional lunch.", price: "From $488", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe0ee729d616740b462c5a0c65c71e3dcd3143960b9c5d7ce7333ec3ee5e38cb.jpeg" } },
+                    { title: "Practical Tips", content: "This is a long day trip given the distance from Baghdad — if you want to spend more time in the marshes and nearby ancient Ur, the overnight version is worth considering instead." }
+                ],
+                faqs: [
+                    { q: "Is the Iraqi Marshes tour worth it?", a: "Yes, for a genuinely distinctive wetland landscape and culture unlike anywhere else in Iraq." },
+                    { q: "Are the marshes a UNESCO site?", a: "Yes, the Mesopotamian Marshes are a UNESCO World Heritage wetland." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Iraqi Marshes tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a distinctive wetland landscape and culture." } },
+                    { "@type": "Question", "name": "Are the marshes a UNESCO site?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a UNESCO World Heritage wetland." } }
+                ] },
+            };
+
+        case "is-ziggurat-of-ur-tour-worth-it-baghdad":
+            return {
+                title: "Is the Ziggurat of Ur & Marshes Overnight Tour Worth It?",
+                seoTitle: "Ziggurat of Ur Tour Baghdad 2026 | Honest Review",
+                description: "An honest look at the Ziggurat of Ur and Marshes overnight tour, combining one of the world's oldest surviving step pyramids with the Mesopotamian wetlands.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9c710a3d1f63319f58b892c2a66c82a7fe119ac8ea3c1930ad5d12600be9ab25.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Ziggurat of Ur, one of the best-preserved Sumerian step pyramids in the world and traditionally linked to the biblical birthplace of Abraham, is combined here with an overnight stay near the Marshes — genuinely one of Iraq's most significant ancient sites.", tourCard: { slug: "ziggurat-of-ur-marshes-overnight-stay-tour", title: "Ziggurat of Ur, Marshes, & Overnight Stay Tour", description: "An overnight tour combining the Ziggurat of Ur with the Mesopotamian Marshes.", price: "From $780", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9c710a3d1f63319f58b892c2a66c82a7fe119ac8ea3c1930ad5d12600be9ab25.jpeg" } },
+                    { title: "Practical Tips", content: "Combining both sites in one overnight trip is efficient given their relative proximity to each other compared to Baghdad — worth it if ancient Sumerian history is a priority for your Iraq itinerary." }
+                ],
+                faqs: [
+                    { q: "Is the Ziggurat of Ur tour worth it?", a: "Yes, it's one of the best-preserved Sumerian step pyramids in the world and a genuinely significant historical site." },
+                    { q: "Is the Ziggurat of Ur linked to the Bible?", a: "Yes, Ur is traditionally identified as the birthplace of Abraham." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ziggurat of Ur tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, one of the best-preserved Sumerian step pyramids." } },
+                    { "@type": "Question", "name": "Is it linked to the Bible?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, traditionally the birthplace of Abraham." } }
+                ] },
+            };
+
         default:
             return null;
     }

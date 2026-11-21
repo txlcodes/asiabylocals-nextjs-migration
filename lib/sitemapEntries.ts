@@ -625,6 +625,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-babylon-day-trip-baghdad', 'best-baghdad-city-tour-baghdad',
     'is-karbala-day-trip-worth-it-baghdad', 'baghdad-travel-guide-2026',
     'iraq-visa-guide-for-tourists',
+    'is-ctesiphon-tour-worth-it-baghdad', 'best-samarra-hatra-mosul-tour-baghdad',
+    'is-iraq-marshes-tour-worth-it-baghdad', 'is-ziggurat-of-ur-tour-worth-it-baghdad',
   ], 'iraq', 'baghdad');
 
   const beirutInfoPages = mapInfoSlugs([
