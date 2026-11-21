@@ -1297,6 +1297,60 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-urbex-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Abandoned Wonders Urbex Tour Worth It in Tbilisi?",
+                seoTitle: "Tbilisi Urbex Tour 2026 | Honest Review",
+                description: "An honest look at Tbilisi's abandoned wonders urbex tour, a niche urban-exploration activity distinct from the Old Town's standard walking tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4d248cba52aeb8d7ca3a61bbcf8f257940f4777ed61ad27a5b0ef8d49bb8cf3.png",
+                sections: [
+                    { title: "The Short Answer", content: "Tbilisi has several striking abandoned Soviet-era buildings, and this urban-exploration tour gives access to them with a guide, a genuinely different kind of activity from the Old Town's churches and wine bars — a niche interest, but a memorable one for those drawn to it.", tourCard: { slug: "a-journey-through-abandoned-wonders-tbilisi-urbex", title: "A Journey Through Abandoned Wonders: Tbilisi Urbex", description: "A guided urban-exploration tour of Tbilisi's abandoned buildings.", price: "From $169", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4d248cba52aeb8d7ca3a61bbcf8f257940f4777ed61ad27a5b0ef8d49bb8cf3.png" } },
+                    { title: "Practical Tips", content: "Wear sturdy closed-toe shoes, since abandoned sites often have uneven or debris-covered floors." },
+                ],
+                faqs: [
+                    { q: "Is the urbex tour worth it in Tbilisi?", a: "Yes, for travelers drawn to urban exploration and Soviet-era architecture, a genuinely different activity from standard Old Town sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the urbex tour worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different niche activity exploring abandoned Soviet-era buildings." } },
+                ] },
+            };
+
+        case "is-khevsureti-jeep-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Khevsureti 3-Day Private Jeep Tour Worth It from Tbilisi?",
+                seoTitle: "Khevsureti Jeep Tour from Tbilisi 2026 | Honest Review",
+                description: "An honest look at the 3-day Khevsureti private jeep tour from Tbilisi, a remote mountain region distinct from the standard Kazbegi and Svaneti circuits.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4ed83c952bae29c4fb2946abc3d28769314c2e75f70b6de7fec1dfbef84ae274.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khevsureti is a remote, less-visited mountain region with its own distinct medieval fortress villages, genuinely different from the more touristed Kazbegi and Svaneti circuits most Georgia itineraries cover.", tourCard: { slug: "from-tbilisi-3-day-khevsureti-private-jeep", title: "From Tbilisi: 3-Day Khevsureti Private Jeep Tour", description: "A 3-day private jeep tour of the remote Khevsureti mountain region.", price: "From $1040", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4ed83c952bae29c4fb2946abc3d28769314c2e75f70b6de7fec1dfbef84ae274.jpg" } },
+                    { title: "Practical Tips", content: "Roads into Khevsureti are rough and seasonal, so confirm current access conditions with the operator before booking, especially outside summer." },
+                ],
+                faqs: [
+                    { q: "Is the Khevsureti jeep tour worth it from Tbilisi?", a: "Yes, for travelers wanting a genuinely remote mountain region beyond the standard Kazbegi and Svaneti circuits." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Khevsureti jeep tour worth it from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely remote mountain region beyond the standard circuits." } },
+                ] },
+            };
+
+        case "is-rock-climbing-worth-it-tbilisi":
+            return {
+                title: "Is the 2-Day Rock Climbing Adventure Worth It from Tbilisi?",
+                seoTitle: "Tbilisi Rock Climbing Adventure 2026 | Honest Review",
+                description: "An honest look at the 2-day rock climbing adventure from Tbilisi, a serious outdoor-sport activity distinct from the city's horse riding and rafting pages.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11f64f82638b4aa10075dd1423aec44d336db747eeac7eecc7adae6031368bde.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This 2-day climbing adventure heads to genuine rock-climbing routes outside Tbilisi, a serious outdoor-sport activity with equipment and instruction included, rather than a scenic day trip — worth it specifically for travelers with real climbing interest.", tourCard: { slug: "from-tbilisi-2-day-rock-climbing-adventure-in", title: "From Tbilisi: 2-Day Rock Climbing Adventure", description: "A 2-day rock climbing adventure in the mountains near Tbilisi.", price: "From $975", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11f64f82638b4aa10075dd1423aec44d336db747eeac7eecc7adae6031368bde.jpeg" } },
+                    { title: "Practical Tips", content: "Discuss your experience level with the operator in advance, since routes are chosen to match climbing ability." },
+                ],
+                faqs: [
+                    { q: "Is the rock climbing adventure worth it from Tbilisi?", a: "Yes, for travelers with genuine climbing interest wanting real routes with equipment and instruction included." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the rock climbing adventure worth it from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers with genuine climbing interest." } },
+                ] },
+            };
+
         case "is-full-day-rafting-worth-it-borjomi":
             return {
                 title: "Is the Full-Day Beginner-Friendly Rafting Trip Worth It in Borjomi?",
