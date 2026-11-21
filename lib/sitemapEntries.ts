@@ -86,6 +86,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-red-fort-tour-delhi',
     'is-humayuns-tomb-tour-worth-it-delhi', 'is-chandni-chowk-food-tour-worth-it-delhi',
     'is-cooking-class-worth-it-delhi', 'is-lodhi-art-district-walk-worth-it-delhi',
+    'is-jim-corbett-tour-worth-it-delhi', 'is-kuno-national-park-tour-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

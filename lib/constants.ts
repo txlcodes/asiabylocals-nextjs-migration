@@ -134,6 +134,7 @@ export const DELHI_INFO_SLUGS = [
   'best-red-fort-tour-delhi',
   'is-humayuns-tomb-tour-worth-it-delhi', 'is-chandni-chowk-food-tour-worth-it-delhi',
   'is-cooking-class-worth-it-delhi', 'is-lodhi-art-district-walk-worth-it-delhi',
+  'is-jim-corbett-tour-worth-it-delhi', 'is-kuno-national-park-tour-worth-it-delhi',
 ];
 
 export const JAIPUR_INFO_SLUGS = [

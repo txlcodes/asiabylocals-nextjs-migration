@@ -1305,6 +1305,46 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-jim-corbett-tour-worth-it-delhi":
+      return {
+        title: "Is the Jim Corbett National Park Tour Worth It from Delhi?",
+        description: "An honest look at the 2-day Jim Corbett National Park tour from Delhi, India's oldest national park and a top tiger-spotting destination, distinct from the capital's historic monuments.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-jim-corbett-national-park-tour-from-delhi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jim Corbett is India's oldest national park and one of its best-known tiger reserves, a genuinely different kind of trip from Delhi's historic monuments — a wildlife safari experience worth it for travelers wanting a real shot at seeing a tiger in the wild.",
+            tourCard: { slug: "2-day-jim-corbett-national-park-tour-from-delhi", title: "2-Day Jim Corbett National Park Tour from Delhi", description: "A 2-day tiger-spotting safari tour to Jim Corbett National Park from Delhi.", price: "From $364", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-jim-corbett-national-park-tour-from-delhi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Tiger sightings are never guaranteed on any single safari, so set expectations accordingly — the broader wildlife and landscape are worthwhile regardless." },
+        ],
+        faqs: [
+          { q: "Is the Jim Corbett tour worth it from Delhi?", a: "Yes, for a genuine wildlife safari experience and a real shot at seeing a tiger, a completely different trip from Delhi's historic sightseeing." },
+        ],
+      };
+
+    case "is-kuno-national-park-tour-worth-it-delhi":
+      return {
+        title: "Is the Kuno National Park Tour Worth It from Delhi?",
+        description: "An honest look at the 2-day Kuno National Park tour from Delhi, home to India's reintroduced cheetah population, a genuinely unique wildlife destination.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-days-kuno-national-park-from-delhi-by-train/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kuno National Park is home to India's reintroduced African cheetah population, part of a globally watched conservation project — a genuinely unique wildlife destination that most visitors to Delhi have never heard of, let alone visited.",
+            tourCard: { slug: "2-days-kuno-national-park-from-delhi-by-train", title: "2-Day Kuno National Park Tour from Delhi by Train", description: "A 2-day tour to Kuno National Park from Delhi by train, home to India's reintroduced cheetahs.", price: "From $209", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-days-kuno-national-park-from-delhi-by-train/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "As a newer wildlife tourism destination, confirm current safari availability and cheetah-sighting access with your operator before booking." },
+        ],
+        faqs: [
+          { q: "Is the Kuno National Park tour worth it from Delhi?", a: "Yes, for a genuinely unique wildlife experience seeing India's reintroduced cheetah population, a destination most visitors never discover." },
+        ],
+      };
+
     default:
       return null;
   }
