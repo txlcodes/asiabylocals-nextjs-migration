@@ -2087,6 +2087,9 @@ export const HOI_AN_INFO_SLUGS = [
   'best-cham-islands-tour-hoi-an',
   'is-painting-class-worth-it-hoi-an', 'is-ao-dai-show-worth-it-hoi-an',
   'is-bach-ma-national-park-trek-worth-it-hoi-an',
+  'is-ba-na-hills-tour-worth-it-hoi-an', 'is-cham-islands-snorkeling-worth-it-hoi-an',
+  'is-my-son-sanctuary-tour-worth-it-hoi-an', 'is-basket-boat-coconut-forest-worth-it-hoi-an',
+  'is-countryside-bicycle-tour-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [

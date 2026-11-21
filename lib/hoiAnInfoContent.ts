@@ -712,6 +712,111 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ba-na-hills-tour-worth-it-hoi-an":
+      return {
+        title: "Is the Ba Na Hills and Golden Bridge Tour Worth It from Hoi An?",
+        description: "An honest look at the Ba Na Hills and Golden Bridge day tour, a hilltop theme park famous for the hands sculpture 'holding up' a walkway bridge.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ba-na-hills-and-golden-bridge-full-day-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ba Na Hills is a hilltop theme park reached by one of the world's longest cable car rides, home to the famous Golden Bridge with its giant stone hand sculptures, a genuinely different, more theme-park-like day than Hoi An's Ancient Town and beaches.",
+            tourCard: { slug: "ba-na-hills-and-golden-bridge-full-day-tour", title: "Ba Na Hills and Golden Bridge Full-Day Tour", description: "A full-day tour to Ba Na Hills and the Golden Bridge.", price: "From $27", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ba-na-hills-and-golden-bridge-full-day-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This gets genuinely crowded, especially on weekends — go on a weekday and arrive early for the best shot at the Golden Bridge without a packed crowd of other visitors." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Ba Na Hills worth visiting from Hoi An?", a: "Yes, for the famous Golden Bridge and a genuinely different theme-park-style day, though it gets crowded — go early on a weekday." },
+        ],
+      };
+
+    case "is-cham-islands-snorkeling-worth-it-hoi-an":
+      return {
+        title: "Is Cham Islands Snorkeling Worth It from Hoi An?",
+        description: "An honest look at the Cham Islands snorkeling trip by speedboat, a marine protected area off the coast of Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cham-islands-snorkeling-trip-by-speedboat-with-lunch/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Cham Islands are a marine protected area a short speedboat ride from Hoi An, giving genuine reef snorkeling and a beach day without the long travel that other Vietnam diving destinations require.",
+            tourCard: { slug: "cham-islands-snorkeling-trip-by-speedboat-with-lunch", title: "Cham Islands Snorkeling Trip by Speedboat with Lunch", description: "A speedboat snorkeling trip to the Cham Islands with lunch included.", price: "From $46", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/cham-islands-snorkeling-trip-by-speedboat-with-lunch/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Conditions are best in the calmer dry season months — ask your operator about current sea conditions if you're visiting during the rainy season." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Cham Islands snorkeling worth it from Hoi An?", a: "Yes, for genuine reef snorkeling in a marine protected area just a short speedboat ride away, without a long travel commitment." },
+        ],
+      };
+
+    case "is-my-son-sanctuary-tour-worth-it-hoi-an":
+      return {
+        title: "Is the My Son Sanctuary Tour Worth It from Hoi An?",
+        description: "An honest look at the My Son Sanctuary half-day tour, a UNESCO World Heritage site of ancient Hindu temple ruins built by the Champa kingdom.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/a-perfect-journey-to-explore-my-son-in-half-day-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "My Son Sanctuary is a UNESCO World Heritage site of ancient Hindu temple ruins built by the Champa kingdom, a genuinely different historical layer from Hoi An's Chinese and Japanese-influenced Ancient Town architecture, reachable in a manageable half day.",
+            tourCard: { slug: "a-perfect-journey-to-explore-my-son-in-half-day-hoi-an", title: "A Perfect Journey to Explore My Son in Half Day", description: "A half-day tour to the My Son Sanctuary ruins.", price: "From $41", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/a-perfect-journey-to-explore-my-son-in-half-day-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the early morning — the ruins sit in a jungle valley that gets genuinely hot and humid by midday." ,
+          },
+        ],
+        faqs: [
+          { q: "Is My Son Sanctuary worth visiting from Hoi An?", a: "Yes, for a genuinely different historical layer, ancient Champa Hindu temple ruins distinct from Hoi An's own Chinese and Japanese-influenced architecture." },
+        ],
+      };
+
+    case "is-basket-boat-coconut-forest-worth-it-hoi-an":
+      return {
+        title: "Is the Basket Boat Coconut Forest Tour Worth It in Hoi An?",
+        description: "An honest look at the basket boat ride through Hoi An's coconut forest, a distinctively Vietnamese round-boat experience through mangrove waterways.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/basket-boat-ride-with-local-guide-in-coconut-forest-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The round basket boat is a distinctively Vietnamese craft, traditionally used by local fishermen, and paddling one through the coconut forest's narrow mangrove waterways with a local guide is a genuinely different, more playful activity than Hoi An's usual Ancient Town walks.",
+            tourCard: { slug: "basket-boat-ride-with-local-guide-in-coconut-forest-in-hoi-an", title: "Basket Boat Ride with Local Guide in Coconut Forest", description: "A basket boat ride through Hoi An's coconut forest waterways.", price: "From $34", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/basket-boat-ride-with-local-guide-in-coconut-forest-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Some guides add playful spinning tricks with the basket boat — a fun, low-stakes activity good for travelers of most ages." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the basket boat coconut forest tour worth it?", a: "Yes, for a genuinely playful, distinctively Vietnamese boating experience through mangrove waterways, different from Hoi An's usual walking tours." },
+        ],
+      };
+
+    case "is-countryside-bicycle-tour-worth-it-hoi-an":
+      return {
+        title: "Is the Hoi An Countryside Bicycle Tour Worth It?",
+        description: "An honest look at the countryside bicycle tour around Hoi An, a slower-paced way to see rice fields and village life beyond the Ancient Town.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-hours-hoi-an-countryside-bicycle-tour-fun-and-safe-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cycling through the flat countryside around Hoi An covers more ground than walking while staying slow enough to actually take in rice fields and everyday village life, a genuinely different pace from the Ancient Town's dense lantern-lit streets.",
+            tourCard: { slug: "3-hours-hoi-an-countryside-bicycle-tour-fun-and-safe-by-local-operator", title: "3-Hours Hoi An Countryside Bicycle Tour", description: "A guided bicycle tour through the countryside around Hoi An.", price: "From $70", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/3-hours-hoi-an-countryside-bicycle-tour-fun-and-safe-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the early morning or late afternoon to avoid the midday heat — the terrain is flat and easy, so the heat is the real limiting factor." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the countryside bicycle tour worth it in Hoi An?", a: "Yes, for a genuinely different slower pace through rice fields and village life, beyond the Ancient Town's dense lantern-lit streets." },
+        ],
+      };
+
     default:
       return null;
   }
