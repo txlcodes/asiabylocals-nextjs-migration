@@ -203,6 +203,122 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-water-sports-tour-bentota":
+      return {
+        title: "Which Is the Best Water Sport in Bentota?",
+        description: "Compare Bentota's water sports — jet skiing, water skiing/wakeboarding, windsurfing, and tandem paramotoring — Sri Lanka's main water sports hub.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1333020/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bentota is Sri Lanka's main water sports hub, with Bentota River meeting the ocean creating calm conditions ideal for a range of activities — a quick jet ski ride is the easiest starting point.",
+            tourCard: { slug: "bentota-high-speed-jet-ski-ride-with-safety", title: "Bentota: High-Speed Jet Ski Ride with Safety Briefing", description: "A high-speed jet ski ride with safety briefing.", price: "From $98", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1333020/img0/1600.webp" },
+          },
+          {
+            title: "For Balance and Skill: Water Skiing and Wakeboarding",
+            content: "An instructor-led session for those wanting a more skill-based water sport over a simple jet ski ride.",
+            tourCard: { slug: "bentota-water-skiing-and-wakeboarding-with", title: "Bentota: Water Skiing and Wakeboarding with Instructor", description: "A water skiing and wakeboarding session with an instructor.", price: "From $42", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1337593/img0/1600.webp" },
+          },
+          {
+            title: "For a Longer Lesson: Private Windsurfing Course",
+            content: "A longer, more involved windsurfing course with safety gear, for those wanting an actual skill rather than a one-off ride.",
+            tourCard: { slug: "bentota-private-windsurfing-course-with-safety", title: "Bentota: Private Windsurfing Course with Safety Gear", description: "A private windsurfing course with safety gear.", price: "From $219", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1337460/img0/1600.webp" },
+          },
+          {
+            title: "For a Different Kind of Thrill: Tandem Paramotoring",
+            content: "This takes you airborne over the coastline in a tandem paramotor, a completely different water-adjacent thrill from anything on the water itself.",
+            tourCard: { slug: "bentota-paramotoring-tandem-discovery-paragliding", title: "Bentota: Paramotoring Tandem Discovery-Paragliding Flight", description: "A tandem paramotoring flight over Bentota's coastline.", price: "From $364", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-867761/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Morning sessions tend to have calmer water, especially for beginners trying jet skiing or water skiing for the first time." },
+        ],
+        faqs: [
+          { q: "Why is Bentota known for water sports?", a: "The Bentota River meets the ocean here, creating calm conditions ideal for a wide range of water sports." },
+          { q: "What is the best water sport for a first-timer in Bentota?", a: "A jet ski ride is the easiest starting point; water skiing and windsurfing require more instruction." },
+        ],
+      };
+
+    case "is-udawalawe-safari-worth-it-bentota":
+      return {
+        title: "Is the Udawalawe National Park Safari Worth It from Bentota?",
+        description: "An honest look at the Udawalawe elephant safari day tour from Bentota, Sri Lanka's most reliable park for elephant sightings.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1254100/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Udawalawe National Park is widely considered Sri Lanka's most reliable park for elephant sightings, with large, visible herds year-round — a more elephant-focused alternative to Yala's broader wildlife safari.",
+            tourCard: { slug: "bentota-to-udawalawe-national-park-elephant", title: "Bentota to Udawalawe National Park Elephant Safari Day Tour", description: "An elephant safari day tour to Udawalawe National Park from Bentota.", price: "From $338", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1254100/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If elephants specifically are your priority over broader wildlife variety, choose Udawalawe over Yala." },
+        ],
+        faqs: [
+          { q: "Is Udawalawe or Yala better for elephants?", a: "Udawalawe is considered more reliable specifically for elephant sightings; Yala offers broader wildlife variety including leopards." },
+        ],
+      };
+
+    case "is-yala-safari-worth-it-bentota":
+      return {
+        title: "Is the Yala National Park Safari Worth It from Bentota?",
+        description: "An honest look at the Yala National Park safari day tour from Bentota, Sri Lanka's most famous park for leopard sightings.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1254113/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yala National Park has one of the highest leopard densities anywhere in the world, alongside elephants, sloth bears, and varied birdlife — this day tour from Bentota adds a sunset viewing stop.",
+            tourCard: { slug: "bentota-to-yala-national-park-safari-day-tour", title: "Bentota To Yala National Park Safari Day Tour & Sunset View", description: "A safari day tour to Yala National Park with sunset viewing.", price: "From $415", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1254113/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip given Yala's distance from Bentota — consider an overnight stay near the park if you want more than one game drive." },
+        ],
+        faqs: [
+          { q: "What is Yala known for?", a: "One of the highest leopard densities in the world, alongside elephants, sloth bears, and varied birdlife." },
+        ],
+      };
+
+    case "is-cooking-class-worth-it-bentota":
+      return {
+        title: "Is a Cooking Class Worth It in Bentota?",
+        description: "An honest look at Bentota's cooking class, teaching Sri Lankan dishes with a lunch or dinner option.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1143558/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This hands-on class teaches Sri Lankan cooking with the flexibility of a lunch or dinner session, a relaxed cultural activity to pair with Bentota's water sports and safari days.",
+            tourCard: { slug: "bentota-cooking-class-with-lunch-or-dinner", title: "Bentota: Cooking Class with Lunch or Dinner", description: "A cooking class with a lunch or dinner option.", price: "From $56", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1143558/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the dinner option if you want it as your evening meal rather than an additional activity on top of dinner plans." },
+        ],
+        faqs: [
+          { q: "Is a cooking class worth it in Bentota?", a: "Yes, as a relaxed cultural activity, and the lunch/dinner flexibility lets it double as a meal." },
+        ],
+      };
+
+    case "best-madu-river-safari-tour-bentota":
+      return {
+        title: "Which Is the Best Madu River Safari Tour in Bentota?",
+        description: "An honest look at the Madu River Safari and Turtle Hatchery tour, Bentota's signature mangrove boat safari.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1468042/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Madu River safari winds through a maze of mangrove channels, cinnamon islands, and a turtle hatchery stop — Bentota's signature nature activity, genuinely different from its beach and water sports side.",
+            tourCard: { slug: "bentota-madu-river-safari-and-turtle-hatchery-tour", title: "Bentota: Madu River Safari and Turtle Hatchery Tour", description: "A Madu River safari with a turtle hatchery stop.", price: "From $169", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1468042/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The turtle hatchery stop lets you see and sometimes help release baby turtles, depending on the season and hatchery's current activity." },
+        ],
+        faqs: [
+          { q: "What is the Madu River safari?", a: "A boat safari through mangrove channels and cinnamon islands, with a turtle hatchery stop." },
+        ],
+      };
+
     default:
       return null;
   }

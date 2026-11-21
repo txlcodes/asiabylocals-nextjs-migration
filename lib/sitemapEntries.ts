@@ -1345,7 +1345,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   }));
 
   const bentotaInfoPages = [
-    'madu-river-safari-guide', 'bentota-guide'
+    'madu-river-safari-guide', 'bentota-guide',
+    'best-water-sports-tour-bentota', 'is-udawalawe-safari-worth-it-bentota',
+    'is-yala-safari-worth-it-bentota', 'is-cooking-class-worth-it-bentota',
+    'best-madu-river-safari-tour-bentota',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/bentota/${slug}`,
     lastModified: new Date(),

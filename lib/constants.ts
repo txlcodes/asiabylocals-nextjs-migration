@@ -1271,7 +1271,10 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.
 export const BENTOTA_INFO_SLUGS = [
   'madu-river-safari-guide',
-  'bentota-guide'
+  'bentota-guide',
+  'best-water-sports-tour-bentota', 'is-udawalawe-safari-worth-it-bentota',
+  'is-yala-safari-worth-it-bentota', 'is-cooking-class-worth-it-bentota',
+  'best-madu-river-safari-tour-bentota',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/mirissaInfoContent.ts.
