@@ -1438,6 +1438,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'negombo-airport-guide', 'negombo-lagoon-guide', 'best-tours-in-negombo', 'should-i-book-negombo-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-negombo',
     'is-scuba-diving-worth-it-negombo', 'is-sri-lankan-cooking-class-worth-it-negombo',
+    'is-dolphin-whale-watching-worth-it-negombo', 'is-muthurajawela-wetland-tour-worth-it-negombo',
+    'is-wilpattu-safari-worth-it-negombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/negombo/${slug}`,
     lastModified: new Date(),

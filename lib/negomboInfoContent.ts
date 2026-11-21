@@ -381,6 +381,66 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-dolphin-whale-watching-worth-it-negombo":
+      return {
+        title: "Is Dolphin and Whale Watching Worth It in Negombo?",
+        description: "An honest look at Negombo's dolphin and whale watching boat trip, a marine wildlife activity distinct from the lagoon boat safaris and beach activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-481302/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Negombo's coastal waters offer a chance to spot dolphins and whales, a genuine open-ocean wildlife experience distinct from the sheltered lagoon boat safaris most Negombo activities focus on.",
+            tourCard: { slug: "dolphin-and-whale-watching-in-negombo", title: "Dolphin and Whale Watching in Negombo", description: "A dolphin and whale watching boat trip off Negombo's coast.", price: "From $151", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-481302/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Sightings depend on the season and ocean conditions, so ask your operator about recent sighting rates before booking." },
+        ],
+        faqs: [
+          { q: "Is dolphin and whale watching worth it in Negombo?", a: "Yes, for a genuine open-ocean wildlife experience distinct from the area's sheltered lagoon boat safaris." },
+        ],
+      };
+
+    case "is-muthurajawela-wetland-tour-worth-it-negombo":
+      return {
+        title: "Is the Muthurajawela Wetland Sunset Boat Tour Worth It in Negombo?",
+        description: "An honest look at the Muthurajawela wetland sunset boat tour from Negombo, a mangrove marsh ecosystem distinct from the lagoon and beach sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1424269/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Muthurajawela is a large coastal marsh and mangrove ecosystem near Negombo, home to varied birdlife and distinct from the area's more familiar lagoon and beach activities — a quiet, nature-focused sunset boat ride.",
+            tourCard: { slug: "from-negombo-muthurajawela-wetland-sunset-boat", title: "From Negombo: Muthurajawela Wetland Sunset Boat Tour", description: "A sunset boat tour through the Muthurajawela wetland marsh.", price: "From $169", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1424269/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars if you have them — the marsh's birdlife is best appreciated with a closer look than the naked eye gives." },
+        ],
+        faqs: [
+          { q: "Is the Muthurajawela wetland tour worth it in Negombo?", a: "Yes, for a quiet, nature-focused boat ride through a distinct marsh ecosystem, good for birdwatchers." },
+        ],
+      };
+
+    case "is-wilpattu-safari-worth-it-negombo":
+      return {
+        title: "Is the Wilpattu National Park Safari Worth It from Negombo?",
+        description: "An honest look at the Wilpattu National Park safari from Negombo, Sri Lanka's largest national park, distinct from the more commonly visited Yala and Udawalawe.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1016424/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wilpattu, Sri Lanka's largest national park, is known for its distinctive natural lakes (villus) and generally sees fewer crowds than the more famous Yala and Udawalawe — a genuinely different safari experience for travelers wanting a quieter park.",
+            tourCard: { slug: "from-negombo-wilpattu-national-park-safari-with", title: "From Negombo: Wilpattu National Park Safari", description: "A safari in Wilpattu National Park from Negombo.", price: "From $440", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1016424/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip given Wilpattu's distance from Negombo, so budget the full day for the safari and travel time." },
+        ],
+        faqs: [
+          { q: "Is the Wilpattu safari worth it from Negombo?", a: "Yes, for a quieter, less-crowded safari experience than the more famous Yala and Udawalawe parks." },
+        ],
+      };
+
     default:
       return null;
   }

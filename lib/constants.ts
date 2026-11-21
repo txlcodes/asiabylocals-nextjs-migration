@@ -1374,6 +1374,8 @@ export const NEGOMBO_INFO_SLUGS = [
   'should-i-book-negombo-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-negombo',
   'is-scuba-diving-worth-it-negombo', 'is-sri-lankan-cooking-class-worth-it-negombo',
+  'is-dolphin-whale-watching-worth-it-negombo', 'is-muthurajawela-wetland-tour-worth-it-negombo',
+  'is-wilpattu-safari-worth-it-negombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
