@@ -2174,6 +2174,9 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'nusa-penida-2-day-itinerary',
   'is-scuba-diving-worth-it-nusa-penida',
   'is-coral-reef-restoration-worth-it-nusa-penida', 'is-canang-sari-workshop-worth-it-nusa-penida',
+  'is-kelingking-beach-hike-worth-it-nusa-penida', 'is-manta-ray-snorkeling-worth-it-nusa-penida',
+  'is-gate-of-heaven-tour-worth-it-nusa-penida', 'is-lembongan-ceningan-day-trip-worth-it-nusa-penida',
+  'is-west-coast-tour-worth-it-nusa-penida',
 ];
 
 export const DA_NANG_INFO_SLUGS = [

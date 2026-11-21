@@ -945,6 +945,111 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kelingking-beach-hike-worth-it-nusa-penida":
+      return {
+        title: "Is the Kelingking Beach Descent Hike Worth It?",
+        description: "An honest look at the Kelingking Beach descent hike, reaching Nusa Penida's most photographed beach below its famous T-Rex-shaped cliff viewpoint.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-descent-hike-with-local-guide-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kelingking's cliff viewpoint is one of the most photographed spots in Bali, but the beach itself sits far below down a genuinely steep, strenuous trail, and a local guide makes the descent and climb back up safer and more manageable than attempting it alone.",
+            tourCard: { slug: "kelingking-beach-descent-hike-with-local-guide-in-nusa-penida", title: "Kelingking Beach Descent Hike with Local Guide", description: "A guided hike down to Kelingking Beach from the cliff viewpoint.", price: "From $129", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kelingking-beach-descent-hike-with-local-guide-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear real hiking shoes, not sandals — the descent trail is steep, loose, and genuinely slippery in places." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Kelingking Beach hike difficult?", a: "Yes, it's a genuinely steep, strenuous trail — a local guide makes the descent and return climb noticeably safer and more manageable." },
+        ],
+      };
+
+    case "is-manta-ray-snorkeling-worth-it-nusa-penida":
+      return {
+        title: "Is Manta Ray Snorkeling Worth It in Nusa Penida?",
+        description: "An honest look at the 2-spot manta ray snorkeling tour, one of the most reliable places in the world to snorkel alongside wild manta rays.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/all-inclusive-2-spot-manta-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nusa Penida's manta point is one of the most reliable places in the world to snorkel alongside wild manta rays, giving a genuine wildlife encounter that doesn't require scuba certification, just open-water snorkeling confidence.",
+            tourCard: { slug: "all-inclusive-2-spot-manta-snorkeling-tour-in-nusa-penida", title: "All-Inclusive 2-Spot Manta Snorkeling Tour", description: "A snorkeling tour to two manta ray sites around Nusa Penida.", price: "From $38", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/all-inclusive-2-spot-manta-snorkeling-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Currents at manta point can be genuinely strong — only confident swimmers should attempt this without additional flotation support.",
+          },
+        ],
+        faqs: [
+          { q: "Is manta ray snorkeling worth it in Nusa Penida?", a: "Yes, it's one of the most reliable spots in the world to see wild manta rays while snorkeling, no scuba certification required." },
+        ],
+      };
+
+    case "is-gate-of-heaven-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Gate of Heaven Tour Worth It in Nusa Penida?",
+        description: "An honest look at the Gate of Heaven private tour, reaching one of Bali's most iconic photo spots away from the crowds at the mainland original.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/gate-of-heaven-private-tour-by-luxury-car-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gate of Heaven photo spots have become genuinely iconic across Bali's social media feeds, and this private tour reaches one such temple gate with a mirrored-photo setup, worth it specifically for travelers after that exact shot rather than deep temple history.",
+            tourCard: { slug: "gate-of-heaven-private-tour-by-luxury-car-in-nusa-penida", title: "Gate of Heaven Private Tour by Luxury Car", description: "A private tour to the Gate of Heaven photo spot.", price: "From $114", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/gate-of-heaven-private-tour-by-luxury-car-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go with realistic expectations — the mirrored photo effect usually involves a staff member holding a mirror below the camera, not a literal reflecting pool." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Gate of Heaven worth visiting?", a: "Yes, specifically if you're after the iconic mirrored photo — go in knowing the effect is staged with a handheld mirror, not a natural reflection." },
+        ],
+      };
+
+    case "is-lembongan-ceningan-day-trip-worth-it-nusa-penida":
+      return {
+        title: "Is the Nusa Lembongan and Ceningan Day Trip Worth It?",
+        description: "An honest look at the full-day trip to Nusa Lembongan and Ceningan islands, quieter and smaller neighbors to Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/full-day-trip-to-nusa-lembongan-and-ceningan-islands-from-bali-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nusa Lembongan and Ceningan are smaller, quieter neighboring islands connected by a yellow bridge, genuinely less crowded than Nusa Penida's main attractions, with calmer beaches better suited to a relaxed day than a photo-spot checklist.",
+            tourCard: { slug: "full-day-trip-to-nusa-lembongan-and-ceningan-islands-from-bali-nusa-penida", title: "Full-Day Trip to Nusa Lembongan and Ceningan Islands", description: "A full-day trip to the islands of Nusa Lembongan and Ceningan.", price: "From $211", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-trip-to-nusa-lembongan-and-ceningan-islands-from-bali-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers who've already done Nusa Penida's main cliff viewpoints and want a calmer, less crowded island day instead." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Nusa Lembongan worth visiting alongside Nusa Penida?", a: "Yes, for genuinely quieter beaches and a more relaxed pace than Nusa Penida's busier photo-spot circuit." },
+        ],
+      };
+
+    case "is-west-coast-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Nusa Penida West Coast Sightseeing Tour Worth It?",
+        description: "An honest look at the Nusa Penida west coast day tour, covering the island's cluster of cliff viewpoints in one organized day.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/day-tour-nusa-penida-west-coast-sightseeing-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nusa Penida's biggest cliff viewpoints, including Kelingking and Angel's Billabong, are clustered on the west coast but spread far enough apart that a guided day tour genuinely saves time over trying to arrange transport between each stop independently.",
+            tourCard: { slug: "day-tour-nusa-penida-west-coast-sightseeing-nusa-penida", title: "Day Tour: Nusa Penida West Coast Sightseeing", description: "A day tour covering Nusa Penida's west coast cliff viewpoints.", price: "From $57", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/day-tour-nusa-penida-west-coast-sightseeing-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The island's roads are genuinely rough and the distances between viewpoints add up — a guided tour with a driver who knows the route saves real time." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Nusa Penida west coast tour worth it?", a: "Yes, it genuinely saves time covering the island's spread-out cliff viewpoints versus arranging transport independently between each stop." },
+        ],
+      };
+
     default:
       return null;
   }
