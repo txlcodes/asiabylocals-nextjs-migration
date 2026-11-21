@@ -3422,6 +3422,27 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-street-food-tour-penang":
+            return {
+                title: "Which Is the Best Street Food Tour in Penang?",
+                seoTitle: "Best Penang Street Food Tour 2026 | Comparison",
+                description: "Compare real Penang street food tours — a budget guided tour with 20 tastings, a private tour with a named local guide, and a motorbike sidecar street food experience.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1240411/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Penang is widely considered Malaysia's food capital, and these three tours cover it differently — budget group tastings, a private guide, or a motorbike sidecar experience.", tourCard: { slug: "penang-guided-street-food-tour-with-20-tastings", title: "Penang: Guided Street Food Tour with 20 Tastings", description: "A guided street food tour with 20 tastings.", price: "From $77", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1240411/img0/1600.webp" } },
+                    { title: "Best for a Personal Touch: Private Tour with Local Guide Annie", content: "This private tour is led by a named local guide, good for travelers who want a more personal, conversational experience over a larger group tour.", tourCard: { slug: "penang-private-food-tour-with-local-guide-annie", title: "Penang: Private Food Tour with Local Guide Annie", description: "A private food tour with local guide Annie.", price: "From $164", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1299040/img0/1600.webp" } },
+                    { title: "Most Unique: Back of the Bike Street Food Experience", content: "This novel format rides you between food stops in a motorbike sidecar, a genuinely different way to cover more ground than walking between stalls.", tourCard: { slug: "back-of-the-bike-street-food-experience-real", title: "Back of the Bike Street Food Experience – Real Penang!", description: "A motorbike sidecar street food tour of Penang.", price: "From $168", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-874577/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go hungry and pace yourself — all three formats include enough tastings that a light breakfast beforehand is the right call." }
+                ],
+                faqs: [
+                    { q: "What is the best street food tour in Penang?", a: "A budget group tour for value, a private tour for a personal touch, or the motorbike sidecar tour for something different." },
+                    { q: "Why is Penang known for food?", a: "It's widely considered Malaysia's food capital, blending Malay, Chinese, and Indian culinary traditions." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best street food tour in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "A budget group tour, a private guide, or a motorbike sidecar experience." } }
+                ] },
+            };
+
         default:
             return null;
     }

@@ -209,6 +209,7 @@ export const PENANG_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-penang',
   // Tour-selling page (2026-11-14)
   'best-george-town-heritage-tour-penang',
+  'best-street-food-tour-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [
