@@ -521,6 +521,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-king-khalid-reserve-cycling-tour-riyadh', 'is-riyadh-boulevard-world-tour-worth-it',
     'best-al-dahna-desert-tour-riyadh', 'is-tuwaiq-mountains-tour-worth-it-riyadh',
     'best-riyadh-local-culture-experience-riyadh',
+    'is-food-trail-tour-worth-it-riyadh',
   ], 'saudi-arabia', 'riyadh');
 
   const jeddahInfoPages = mapInfoSlugs([

@@ -1556,6 +1556,24 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-food-trail-tour-worth-it-riyadh":
+            return {
+                title: "Is the Qasr Al-Hukm Food Trail Tour Worth It in Riyadh?",
+                seoTitle: "Riyadh Food Trail Tour 2026 | Honest Review",
+                description: "An honest look at Riyadh's guided food trail tour around Qasr Al-Hukm, the historic governance district.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b3555e5ccf98369fd0b62af549a6a1aadeba87999de4f937929a9f6ae16a2702.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This food-focused walking tour covers Qasr Al-Hukm, Riyadh's historic governance district, pairing local tastings with the area's heritage architecture — a genuinely different angle than a standard Old Riyadh walking or museum tour.", tourCard: { slug: "riyadh-food-trail-guided-tour-at-qasr-al-hukm", title: "Riyadh: Food Trail Guided Tour at Qasr Al-Hukm", description: "A guided food trail tour around Qasr Al-Hukm.", price: "From $422", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b3555e5ccf98369fd0b62af549a6a1aadeba87999de4f937929a9f6ae16a2702.jpg" } },
+                    { title: "Practical Tips", content: "Go hungry — this tour's draw is the tastings along the route, so a light breakfast beforehand is the right call." }
+                ],
+                faqs: [
+                    { q: "What is Qasr Al-Hukm?", a: "Riyadh's historic governance district, combining heritage architecture with the adjacent souqs." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Qasr Al-Hukm?", "acceptedAnswer": { "@type": "Answer", "text": "Riyadh's historic governance district with heritage architecture and souqs." } }
+                ] },
+            };
+
         default:
             return null;
     }
