@@ -512,6 +512,115 @@ export function getGulfSmallInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-kuwait-day-night-skyline-tour-worth-it":
+            return {
+                title: "Is the Kuwait City Day & Night Skyline Tour Worth It?",
+                seoTitle: "Kuwait City Skyline Tour 2026 | Honest Review",
+                description: "An honest look at the Day & Night Skyline Tour in Kuwait City, including local food and tea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/89d020c2e752489d88535eeae4cf0a26098dbf56110db710b10c6fb3292b51d8.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing Kuwait City's skyline transition from day to night in one outing — paired with local food and tea stops — is a genuinely good way to experience both the city's modern architecture and its everyday food culture in one trip.", tourCard: { slug: "kuwait-day-night-skyline-tour-with-local-food-tea", title: "Kuwait: Day & Night Skyline Tour With Local Food & Tea", description: "A day-to-night skyline tour with local food and tea.", price: "From $241", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/89d020c2e752489d88535eeae4cf0a26098dbf56110db710b10c6fb3292b51d8.jpeg" } },
+                    { title: "Practical Tips", content: "Timing this around sunset gets you both daylight skyline views and the illuminated night skyline in one continuous trip." }
+                ],
+                faqs: [
+                    { q: "Is the Kuwait City day/night skyline tour worth it?", a: "Yes, a good way to see both daylight and illuminated skyline views plus local food in one trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the skyline tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for both day and night skyline views plus food." } }
+                ] },
+            };
+
+        case "best-walking-tour-beirut":
+            return {
+                title: "Is the Beirut Walking Tour Worth It?",
+                seoTitle: "Beirut Walking Tour 2026 | Honest Review",
+                description: "An honest look at Beirut's city walking tour, covering the capital's mix of ancient ruins, war-era scars, and vibrant nightlife districts.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd18f410b2617b766374ccd14a9b1c9e71bf8fcbada6aa9990966e004ef6a016.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Beirut's layered history — ancient Roman ruins, civil-war-era scars, and a genuinely vibrant modern nightlife and food scene all in close proximity — makes a walking tour a worthwhile orientation, especially with a guide who can explain the city's complex recent history.", tourCard: { slug: "beirut-walking-tour", title: "Beirut Walking Tour", description: "A walking tour covering Beirut's ancient and modern history.", price: "From $221", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd18f410b2617b766374ccd14a9b1c9e71bf8fcbada6aa9990966e004ef6a016.jpeg" } },
+                    { title: "Practical Tips", content: "A knowledgeable local guide adds real value in Beirut specifically, since much of the city's recent history isn't explained on plaques or obvious just from walking past buildings." }
+                ],
+                faqs: [
+                    { q: "Is the Beirut walking tour worth it?", a: "Yes, especially with a guide who can explain the city's complex recent history alongside the ancient sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Beirut walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially with a knowledgeable guide." } }
+                ] },
+            };
+
+        case "best-chouf-mountains-tour-beirut":
+            return {
+                title: "Which Is the Best Chouf Mountains Tour from Beirut?",
+                seoTitle: "Best Chouf Mountains Tour Beirut 2026 | Comparison",
+                description: "Compare real Chouf Mountains tours from Beirut — a castles-focused route versus a broader hidden-gems mountain day trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d000c29419308225501a60da14d9535a8b429873595d085f156b0102dfa27204.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Chouf Mountains offer both historic castles (Mousa Castle and Mir Amin Palace) and broader scenic hidden-gems routes — the choice depends on whether castles or general mountain scenery is the priority.", tourCard: { slug: "chouf-mountains-mousa-mir-amin-castles-tour", title: "Chouf Mountains: Mousa & Mir Amin Castles Tour", description: "A castles-focused tour of the Chouf Mountains.", price: "From $182", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d000c29419308225501a60da14d9535a8b429873595d085f156b0102dfa27204.jpg" } },
+                    { title: "Best for Scenery: Beyond Chouf Mountains Hidden Gems Tour", content: "This broadens the day beyond the two main castles into a wider hidden-gems mountain route, better for scenery over a focused castle visit.", tourCard: { slug: "beyond-chouf-mountains-hidden-gems-mountains-day", title: "BEYOND CHOUF mountains - Hidden Gems Mountains Day Tour", description: "A broader scenic tour of the Chouf Mountains' hidden gems.", price: "From $325", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d000c29419308225501a60da14d9535a8b429873595d085f156b0102dfa27204.jpg" } },
+                    { title: "Practical Tips", content: "Mousa Castle is a genuinely unusual private museum castle built by one man over decades — worth asking your guide about its unusual backstory, since it's not a typical historical fortress." }
+                ],
+                faqs: [
+                    { q: "What is the best Chouf Mountains tour from Beirut?", a: "A castles-focused tour for Mousa and Mir Amin, or the hidden-gems version for broader scenery." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Chouf Mountains tour?", "acceptedAnswer": { "@type": "Answer", "text": "A castles-focused tour, or hidden-gems for broader scenery." } }
+                ] },
+            };
+
+        case "is-bourj-hammoud-food-walk-worth-it-beirut":
+            return {
+                title: "Is the Bourj Hammoud Food Walk in Beirut Worth It?",
+                seoTitle: "Bourj Hammoud Food Walk Beirut 2026 | Review",
+                description: "An honest look at the Sumac & Stone food walking tour through Bourj Hammoud, Beirut's Armenian quarter.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d4304689f10d19de3f75e7c0c9e5b7799153c26ae723a80a2c4bfa47d6a0531.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bourj Hammoud is Beirut's Armenian quarter, with a food scene distinct from the rest of the city — genuinely worthwhile for travellers who want a less touristy neighborhood and a different culinary angle on Lebanese food.", tourCard: { slug: "sumac-stone-a-bourj-hammoud-food-walk", title: "Sumac & Stone: A Bourj Hammoud Food Walk", description: "A food walking tour through Beirut's Armenian quarter.", price: "From $156", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d4304689f10d19de3f75e7c0c9e5b7799153c26ae723a80a2c4bfa47d6a0531.jpeg" } },
+                    { title: "Practical Tips", content: "Go hungry — this is a multi-stop tasting walk, not a sit-down meal, so pace yourself across the stops." }
+                ],
+                faqs: [
+                    { q: "Is the Bourj Hammoud food walk worth it?", a: "Yes, for a less touristy neighborhood and Armenian-influenced Lebanese food." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bourj Hammoud food walk worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a less touristy neighborhood and distinct food." } }
+                ] },
+            };
+
+        case "is-tripoli-day-trip-worth-it-beirut":
+            return {
+                title: "Is the Tripoli Citadel, Souks & Hammam Day Trip from Beirut Worth It?",
+                seoTitle: "Tripoli Day Trip Beirut 2026 | Honest Review",
+                description: "An honest look at the Tripoli day trip from Beirut, covering the citadel, old souks, and a traditional hammam experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4c5fb8911f801cfeb65cb26714a10d278cc02faeb40b8b800624085310b5d75.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Tripoli, Lebanon's second-largest city, has a well-preserved medieval citadel, extensive old souks, and historic hammams — genuinely worth the day trip for travellers who want to see Lebanon beyond Beirut and its immediate surroundings.", tourCard: { slug: "beirut-tripoli-citadel-souks-and-hammam-day-trip", title: "Beirut: Tripoli Citadel, Souks, and Hammam Day Trip w/lunch", description: "A day trip to Tripoli covering the citadel, souks, and a hammam.", price: "From $325", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4c5fb8911f801cfeb65cb26714a10d278cc02faeb40b8b800624085310b5d75.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit or appropriate clothing if you plan to use the hammam facilities, since this is a genuine traditional bathhouse experience, not just a visit." }
+                ],
+                faqs: [
+                    { q: "Is the Tripoli day trip from Beirut worth it?", a: "Yes, for Lebanon's second-largest city's medieval citadel, souks, and traditional hammams." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tripoli day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the citadel, souks, and traditional hammams." } }
+                ] },
+            };
+
+        case "is-mount-lebanon-tour-worth-it-beirut":
+            return {
+                title: "Is the Mount Lebanon Nature & Spirituality Tour Worth It?",
+                seoTitle: "Mount Lebanon Nature Spirituality Tour 2026 | Review",
+                description: "An honest look at the Mount Lebanon nature and spirituality tour from Beirut, combining mountain scenery with religious heritage sites.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/98627edb1029290b43eb38f3610a066725f26d4f10aa9a1a33b4577204256562.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This combines Mount Lebanon's natural scenery with its religious heritage sites, worthwhile for travellers who want both nature time and a cultural/spiritual dimension in the same day, rather than just scenery.", tourCard: { slug: "mount-lebanon-nature-and-spirituality-tour", title: "Mount Lebanon Nature and Spirituality Tour", description: "A tour combining Mount Lebanon's nature with spiritual heritage sites.", price: "From $338", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/98627edb1029290b43eb38f3610a066725f26d4f10aa9a1a33b4577204256562.jpeg" } },
+                    { title: "Practical Tips", content: "Mountain weather can differ significantly from Beirut's coastal climate — bring a layer even in warmer months given the elevation." }
+                ],
+                faqs: [
+                    { q: "Is the Mount Lebanon nature and spirituality tour worth it?", a: "Yes, for combining mountain scenery with religious heritage sites in one day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mount Lebanon tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for combining nature and spiritual heritage." } }
+                ] },
+            };
+
         default:
             return null;
     }

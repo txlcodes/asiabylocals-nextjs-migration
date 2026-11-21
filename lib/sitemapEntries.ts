@@ -610,7 +610,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const kuwaitCityInfoPages = mapInfoSlugs([
     'best-desert-city-tour-kuwait-city', 'is-kuwait-private-city-tour-worth-it',
     'kuwait-city-travel-guide-2026', 'best-time-to-visit-kuwait-city',
-    'is-kuwait-city-safe',
+    'is-kuwait-city-safe', 'is-kuwait-day-night-skyline-tour-worth-it',
   ], 'kuwait', 'kuwait-city');
 
   const manamaInfoPages = mapInfoSlugs([
@@ -633,6 +633,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-jeita-grotto-tour-beirut', 'best-baalbek-day-trip-beirut',
     'is-cedars-of-god-tour-worth-it-beirut', 'beirut-travel-guide-2026',
     'lebanon-visa-guide-for-tourists',
+    'best-walking-tour-beirut', 'best-chouf-mountains-tour-beirut',
+    'is-bourj-hammoud-food-walk-worth-it-beirut', 'is-tripoli-day-trip-worth-it-beirut',
+    'is-mount-lebanon-tour-worth-it-beirut',
   ], 'lebanon', 'beirut');
 
   const dilijanInfoPages = mapInfoSlugs([

@@ -554,7 +554,7 @@ export const PARO_INFO_SLUGS: string[] = [
 export const KUWAIT_CITY_INFO_SLUGS = [
   'best-desert-city-tour-kuwait-city', 'is-kuwait-private-city-tour-worth-it',
   'kuwait-city-travel-guide-2026', 'best-time-to-visit-kuwait-city',
-  'is-kuwait-city-safe',
+  'is-kuwait-city-safe', 'is-kuwait-day-night-skyline-tour-worth-it',
 ];
 
 export const MANAMA_INFO_SLUGS = [
@@ -577,6 +577,9 @@ export const BEIRUT_INFO_SLUGS = [
   'best-jeita-grotto-tour-beirut', 'best-baalbek-day-trip-beirut',
   'is-cedars-of-god-tour-worth-it-beirut', 'beirut-travel-guide-2026',
   'lebanon-visa-guide-for-tourists',
+  'best-walking-tour-beirut', 'best-chouf-mountains-tour-beirut',
+  'is-bourj-hammoud-food-walk-worth-it-beirut', 'is-tripoli-day-trip-worth-it-beirut',
+  'is-mount-lebanon-tour-worth-it-beirut',
 ];
 
 // Secondary cities batch (2026-11-21): thin-inventory cities in
