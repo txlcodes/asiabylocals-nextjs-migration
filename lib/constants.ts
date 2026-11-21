@@ -159,7 +159,8 @@ export const JAIPUR_INFO_SLUGS = [
   // Tour-selling pages (2026-11-10)
   'best-amber-fort-tour-jaipur', 'best-hawa-mahal-tour-jaipur', 'best-jaipur-shopping-tour',
   'best-nahargarh-fort-tour-jaipur', 'best-jantar-mantar-tour-jaipur',
-  'best-jal-mahal-tour-jaipur'
+  'best-jal-mahal-tour-jaipur',
+  'is-block-printing-workshop-worth-it-jaipur', 'is-home-cooking-class-worth-it-jaipur',
 ];
 
 export const PHUKET_INFO_SLUGS = [

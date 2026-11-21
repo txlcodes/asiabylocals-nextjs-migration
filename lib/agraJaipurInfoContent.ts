@@ -1581,6 +1581,66 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "best-jaipur-elephant-experience":
+      return {
+        title: "Is the Elephant Village Experience Worth It in Jaipur?",
+        description: "An honest look at Jaipur's Elephant Village, an ethical alternative to elephant riding focused on feeding and bathing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-asias-elephant-village-experience-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This elephant village experience focuses on feeding, bathing, and interacting with elephants rather than riding them, reflecting the shift toward more ethical elephant tourism in India.",
+            tourCard: { slug: "jaipur-asias-elephant-village-experience-with", title: "Jaipur: Asia's Elephant Village Experience with Transfer", description: "An elephant village experience with transfer.", price: "From $26", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-asias-elephant-village-experience-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If elephant welfare matters to you, confirm with your operator that the visit doesn't include riding, which has become widely discouraged." },
+        ],
+        faqs: [
+          { q: "Is the Elephant Village in Jaipur ethical?", a: "This format focuses on feeding and bathing rather than riding, reflecting the shift toward more ethical elephant tourism." },
+        ],
+      };
+
+    case "is-block-printing-workshop-worth-it-jaipur":
+      return {
+        title: "Is the Bagru Block Printing Workshop Worth It in Jaipur?",
+        description: "An honest look at Jaipur's Bagru block printing workshop, a hands-on introduction to Rajasthan's traditional textile craft.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-bagru-block-printing-workshop-with-local/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bagru is a village near Jaipur famous for centuries-old hand block printing on textiles — this workshop with local artisans teaches the craft directly, from carving blocks to printing fabric.",
+            tourCard: { slug: "jaipur-bagru-block-printing-workshop-with-local", title: "Jaipur: Bagru Block Printing Workshop with Local Artisans", description: "A hands-on block printing workshop with local artisans.", price: "From $68", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-bagru-block-printing-workshop-with-local/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You typically take home a piece of fabric you printed yourself — a more meaningful souvenir than shop-bought textiles." },
+        ],
+        faqs: [
+          { q: "What is Bagru known for?", a: "Centuries-old traditional hand block printing on textiles, a craft specific to this village near Jaipur." },
+        ],
+      };
+
+    case "is-home-cooking-class-worth-it-jaipur":
+      return {
+        title: "Is a Home Cooking Class Worth It in Jaipur?",
+        description: "An honest look at Jaipur's authentic home cooking class with a local family.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-authentic-home-cooking-class-with-a-local-f/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cooking at a local family's home rather than a commercial kitchen gives genuine insight into everyday Rajasthani cooking, distinct from restaurant-style dishes most visitors otherwise encounter.",
+            tourCard: { slug: "jaipur-authentic-home-cooking-class-with-a-local-f", title: "Jaipur: Authentic Home Cooking Class with a Local Family", description: "An authentic home cooking class with a local family.", price: "From $32", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-authentic-home-cooking-class-with-a-local-f/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good lower-key evening activity to pair with a day of fort and palace sightseeing." },
+        ],
+        faqs: [
+          { q: "Is a home cooking class worth it in Jaipur?", a: "Yes, for genuine insight into everyday Rajasthani cooking beyond restaurant dishes." },
+        ],
+      };
+
     default:
       return null;
   }
