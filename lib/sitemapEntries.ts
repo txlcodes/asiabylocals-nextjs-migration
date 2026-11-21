@@ -980,6 +980,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-bangkok', 'should-i-book-bangkok-tour-direct-or-through-app',
     'private-tour-vs-group-tour-thailand', 'how-much-should-a-private-tour-guide-cost-in-bangkok',
     'best-grand-palace-tour-bangkok', 'best-ayutthaya-day-trip-from-bangkok', 'best-bangkok-chinatown-food-tour',
+    'best-chao-phraya-dinner-cruise-bangkok', 'is-calypso-cabaret-show-worth-it-bangkok',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),

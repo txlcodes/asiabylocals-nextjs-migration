@@ -1403,6 +1403,44 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "best-chao-phraya-dinner-cruise-bangkok":
+            return {
+                title: "Which Is the Best Chao Phraya Dinner Cruise in Bangkok?",
+                seoTitle: "Best Chao Phraya Dinner Cruise Bangkok 2026",
+                description: "Compare real Chao Phraya River dinner cruises in Bangkok — a buffet cruise with an open deck versus a classic Chao Phraya Princess dinner ticket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-chao-phraya-cruise-with-luxury-buffet-and-open-deck-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A Chao Phraya dinner cruise shows off Bangkok's riverside temples and skyline lit up at night — both options here cover a buffet dinner, differing in vessel and operator style.", tourCard: { slug: "bangkok-chao-phraya-cruise-with-luxury-buffet-and-open-deck-by-local-operator", title: "Bangkok Chao Phraya Cruise with Luxury Buffet and Open Deck by Local Operator", description: "A Chao Phraya dinner cruise with a luxury buffet and open deck.", price: "From $35", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-chao-phraya-cruise-with-luxury-buffet-and-open-deck-by-local-operator/img0/1600.webp" } },
+                    { title: "Alternative: Chao Phraya Princess Dinner Cruise", content: "A similarly priced classic dinner cruise ticket, worth comparing on departure time and exact vessel amenities.", tourCard: { slug: "chao-phraya-princess-dinner-cruise-ticket-in-bangkok", title: "Chao Phraya Princess Dinner Cruise Ticket in Bangkok", description: "A dinner cruise ticket on the Chao Phraya Princess.", price: "From $33", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/chao-phraya-princess-dinner-cruise-ticket-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book a cruise with an open deck if you want unobstructed photos of Wat Arun and the riverside temples lit up at night." }
+                ],
+                faqs: [
+                    { q: "What is the best Chao Phraya dinner cruise?", a: "Both main options cover a similar buffet dinner format — compare vessel and departure time to pick between them." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Chao Phraya dinner cruise?", "acceptedAnswer": { "@type": "Answer", "text": "Both main options are similar — compare vessel and departure time." } }
+                ] },
+            };
+
+        case "is-calypso-cabaret-show-worth-it-bangkok":
+            return {
+                title: "Is the Calypso Cabaret Show Worth It in Bangkok?",
+                seoTitle: "Bangkok Calypso Cabaret Show 2026 | Honest Review",
+                description: "Compare Bangkok's Calypso cabaret ladyboy show with dinner against a budget standalone cabaret entry ticket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/calypso-cabaret-show-with-thai-set-dinner-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Calypso's cabaret show, a Bangkok institution featuring elaborate costumes and performances, is a well-known evening entertainment option — this version includes a Thai set dinner for a fuller evening out.", tourCard: { slug: "calypso-cabaret-show-with-thai-set-dinner-in-bangkok", title: "Calypso Cabaret Show with Thai Set Dinner in Bangkok", description: "A Calypso cabaret show with a Thai set dinner.", price: "From $36", duration: "50 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/calypso-cabaret-show-with-thai-set-dinner-in-bangkok/img0/1600.webp" } },
+                    { title: "Budget Option: Golden Dome Cabaret Show Entry Ticket", content: "A more affordable standalone entry ticket to a different cabaret venue, for travelers who don't need the dinner included.", tourCard: { slug: "bangkok-cabaret-entry-ticket", title: "Golden Dome Cabaret Show Entry Ticket in Bangkok", description: "An entry ticket to a Bangkok cabaret show.", price: "From $23", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/golden-dome-cabaret-show-entry-ticket-in-bangkok-2/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book ahead for better seating, since front-row seats at popular cabaret shows sell out for evening performances." }
+                ],
+                faqs: [
+                    { q: "Is the Calypso cabaret show worth it in Bangkok?", a: "Yes, it's a Bangkok institution known for elaborate costumes and performances." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Calypso cabaret show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a well-known Bangkok evening entertainment institution." } }
+                ] },
+            };
+
         default:
             return null;
     }
