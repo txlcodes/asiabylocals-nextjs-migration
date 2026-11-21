@@ -1185,6 +1185,44 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-okatse-canyon-tour-worth-it-kutaisi":
+            return {
+                title: "Is the Okatse Canyon Tour Worth It from Kutaisi?",
+                seoTitle: "Okatse Canyon Tour Kutaisi 2026 | Honest Review",
+                description: "An honest look at Okatse Canyon, a dramatic gorge walk on a suspended metal walkway, paired here with Martvili Canyon and Prometheus Cave.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/210d325a869d4e938b609fb9aaaa37560eebe692111f87b55a0f5c808fdae4cd.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Okatse Canyon's highlight is a suspended metal walkway bolted into the canyon wall, giving dramatic views straight down into the gorge — a genuinely different experience from Martvili Canyon's boat-ride format, and this tour covers both plus Prometheus Cave in one day.", tourCard: { slug: "from-kutaisi-guided-tour-of-okatse-martvili", title: "From Kutaisi: Guided Tour of Okatse, Martvili, & Prometheus", description: "A guided tour of Okatse Canyon, Martvili Canyon, and Prometheus Cave.", price: "From $54", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/210d325a869d4e938b609fb9aaaa37560eebe692111f87b55a0f5c808fdae4cd.jpeg" } },
+                    { title: "Practical Tips", content: "The walkway has sections with gaps looking straight down — not ideal for those with a fear of heights, unlike Martvili's gentler boat-based canyon view." }
+                ],
+                faqs: [
+                    { q: "What makes Okatse Canyon different from Martvili?", a: "Okatse is viewed from a suspended metal walkway bolted to the canyon wall, while Martvili is explored partly by boat." },
+                    { q: "Is Okatse Canyon worth it?", a: "Yes, for dramatic canyon views, though it's not ideal for those with a fear of heights." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What makes Okatse different from Martvili?", "acceptedAnswer": { "@type": "Answer", "text": "Okatse is viewed from a suspended walkway on the canyon wall, Martvili partly by boat." } }
+                ] },
+            };
+
+        case "is-katskhi-pillar-tour-worth-it-kutaisi":
+            return {
+                title: "Is the Katskhi Pillar Tour Worth It from Kutaisi?",
+                seoTitle: "Katskhi Pillar Tour Kutaisi 2026 | Honest Review",
+                description: "An honest look at Katskhi Pillar, a natural limestone pillar topped by a small monastery, paired here with Chiatura and Uplistsikhe.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a7b5543f852d8d02f84010a5d53bde6c628eb7a6328b3208e80165d484034647.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Katskhi Pillar, a natural 40-meter limestone column topped by a small working monastery accessible only by ladder, is one of Georgia's most visually striking religious sites — this private tour pairs it with Chiatura's old Soviet cable cars and the ancient cave city of Uplistsikhe.", tourCard: { slug: "private-tour-from-kutaisi-to-katskhi-chiatura", title: "Private Tour from Kutaisi to Katskhi, Chiatura & Uplistsikhe", description: "A private tour to Katskhi Pillar, Chiatura, and Uplistsikhe.", price: "From $176", duration: "11 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a7b5543f852d8d02f84010a5d53bde6c628eb7a6328b3208e80165d484034647.jpg" } },
+                    { title: "Practical Tips", content: "Only monks are typically allowed to climb the pillar itself — most visitors view it from the ground, which is still a striking sight." }
+                ],
+                faqs: [
+                    { q: "Can I climb Katskhi Pillar myself?", a: "No, typically only the resident monks climb it — visitors view it from the ground." },
+                    { q: "What is at the top of Katskhi Pillar?", a: "A small working monastery, reached only by ladder." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is at the top of Katskhi Pillar?", "acceptedAnswer": { "@type": "Answer", "text": "A small working monastery, reached only by ladder." } }
+                ] },
+            };
+
         default:
             return null;
     }

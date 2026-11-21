@@ -698,6 +698,7 @@ export const KUTAISI_INFO_SLUGS = [
   'best-old-town-tour-kutaisi', 'best-monasteries-tour-kutaisi',
   'best-prometheus-cave-tour-kutaisi', 'is-tskaltubo-sanatoriums-tour-worth-it-kutaisi',
   'kutaisi-travel-guide-2026',
+  'is-okatse-canyon-tour-worth-it-kutaisi', 'is-katskhi-pillar-tour-worth-it-kutaisi',
 ];
 
 // Salalah (Oman) — 93 live tours, launched 2026-11-21.
