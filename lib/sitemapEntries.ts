@@ -191,6 +191,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'taipei-lgbtq-friendly-guide', 'taipei-rainy-day-activities', 'taipei-christmas-new-year-guide',
     'best-tours-in-taipei', 'should-i-book-taipei-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-taipei',
+    'is-atayal-culture-day-trip-worth-it-taipei', 'is-yilan-scallion-pancake-tour-worth-it-taipei',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),

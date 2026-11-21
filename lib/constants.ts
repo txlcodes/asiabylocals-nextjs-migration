@@ -876,7 +876,8 @@ export const TAIPEI_INFO_SLUGS = [
   // GEO listicle page (2026-10)
   'best-tours-in-taipei',
   'should-i-book-taipei-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-taipei'
+  'how-much-should-a-private-tour-guide-cost-in-taipei',
+  'is-atayal-culture-day-trip-worth-it-taipei', 'is-yilan-scallion-pancake-tour-worth-it-taipei',
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and

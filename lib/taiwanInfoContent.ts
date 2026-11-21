@@ -1290,6 +1290,42 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-atayal-culture-day-trip-worth-it-taipei":
+      return {
+        title: "Is the Hands-On Atayal Culture Day Trip Worth It from Taipei?",
+        seoTitle: "Taipei Atayal Culture Day Trip 2026 | Honest Review",
+        description: "An honest look at the private hands-on Atayal indigenous culture day trip from Taipei, a premium cultural immersion distinct from the Wulai day-trip itineraries that only touch on Atayal heritage in passing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/97076fcd0ed1bcb23b797de30d4fa8f9a4a2c38155edd4c28f910c6b77d36cc3.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Unlike Wulai day trips that mention Atayal heritage as a side note to the hot springs and waterfall, this private tour is built specifically around hands-on Atayal indigenous culture — genuinely different in depth, though priced accordingly as a premium private experience.", tourCard: { slug: "from-taipei-hands-on-atayal-culture-day-trip", title: "From Taipei: Hands-On Atayal Culture Day Trip", description: "A private hands-on day trip focused on Atayal indigenous culture.", price: "From $1186", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/97076fcd0ed1bcb23b797de30d4fa8f9a4a2c38155edd4c28f910c6b77d36cc3.jpg" } },
+          { title: "Practical Tips", content: "This is a private, premium-priced tour rather than a group tour, so it suits travellers wanting a dedicated cultural deep-dive over a quick stop." },
+        ],
+        faqs: [
+          { q: "Is the Atayal culture day trip worth it from Taipei?", a: "Yes, for travellers wanting genuine hands-on indigenous culture rather than a brief mention on a scenery-focused day trip, though it comes at a premium price." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Atayal culture day trip worth it from Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine hands-on indigenous culture experience." } },
+        ] },
+      };
+
+    case "is-yilan-scallion-pancake-tour-worth-it-taipei":
+      return {
+        title: "Is the Yilan Scallion Pancake & Nature Day Trip Worth It from Taipei?",
+        seoTitle: "Taipei Yilan Scallion Pancake Tour 2026 | Honest Review",
+        description: "An honest look at the Yilan nature and scallion pancake-making day trip from Taipei, a food-and-countryside combo distinct from the city's usual Jiufen and Maokong day trips.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/038ec9fb90c9c7c56d896cd40c5935c237f9f21e0982ab23f28c02b50db35c89.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yilan county, east of Taipei through the Xueshan tunnel, pairs countryside scenery with a hands-on scallion pancake-making stop — a genuinely different food-and-nature combo from the city's more common Jiufen or Maokong day trips.", tourCard: { slug: "from-taipei-yilan-nature-scallion-pancake-making", title: "From Taipei: Yilan Nature & Scallion Pancake Making", description: "A day trip to Yilan combining countryside scenery with a scallion pancake-making class.", price: "From $428", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/038ec9fb90c9c7c56d896cd40c5935c237f9f21e0982ab23f28c02b50db35c89.jpg" } },
+          { title: "Practical Tips", content: "Yilan is famous for scallion pancakes specifically, so this is a more authentic take on the dish than versions found in Taipei's night markets." },
+        ],
+        faqs: [
+          { q: "Is the Yilan scallion pancake day trip worth it from Taipei?", a: "Yes, for a genuinely different food-and-countryside combo than the city's more common Jiufen or Maokong day trips." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Yilan scallion pancake day trip worth it from Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an authentic food-and-countryside day trip east of Taipei." } },
+        ] },
+      };
+
     default:
       return null;
   }
