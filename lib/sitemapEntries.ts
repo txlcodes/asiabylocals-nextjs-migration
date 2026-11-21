@@ -1757,6 +1757,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'uluwatu-sunset-spots-guide', 'best-tours-in-uluwatu', 'should-i-book-uluwatu-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-uluwatu',
     'best-kecak-dance-tour-uluwatu',
+    'is-devdan-show-worth-it-uluwatu', 'is-tandem-paragliding-worth-it-uluwatu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/uluwatu/${slug}`,
     lastModified: new Date(),

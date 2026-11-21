@@ -1995,6 +1995,7 @@ export const ULUWATU_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-uluwatu',
   // Tour-selling page (2026-11-10)
   'best-kecak-dance-tour-uluwatu',
+  'is-devdan-show-worth-it-uluwatu', 'is-tandem-paragliding-worth-it-uluwatu',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [

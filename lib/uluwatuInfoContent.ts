@@ -981,6 +981,48 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-devdan-show-worth-it-uluwatu":
+      return {
+        title: "Is the Devdan Show Worth It near Uluwatu?",
+        description: "An honest look at the Devdan Show at Bali Nusa Dua Theatre, a large-scale theatrical production distinct from the area's Kecak fire dance performances.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/devdan-show-at-bali-nusa-dua-theatre-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Devdan is a large-scale theatrical production with acrobatics, costumes, and multimedia effects celebrating Indonesia's cultural diversity, a very different format from the Kecak fire dance's simpler, open-air traditional storytelling — worth it if you want a polished, Vegas-style production rather than a traditional performance.",
+            tourCard: { slug: "devdan-show-at-bali-nusa-dua-theatre-uluwatu", title: "Devdan Show at Bali Nusa Dua Theatre", description: "A large-scale theatrical show celebrating Indonesian culture at Bali Nusa Dua Theatre.", price: "From $31", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/devdan-show-at-bali-nusa-dua-theatre-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The theatre is in Nusa Dua, a drive from Uluwatu itself, so factor in transport time when scheduling around other activities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Devdan Show worth it near Uluwatu?", a: "Yes, for a polished, large-scale theatrical production, a different format from the area's traditional Kecak fire dance performances." },
+        ],
+      };
+
+    case "is-tandem-paragliding-worth-it-uluwatu":
+      return {
+        title: "Is Tandem Paragliding Worth It in Uluwatu?",
+        description: "An honest look at Bali's tandem paragliding flight with hotel pickup in Uluwatu, an aerial coastal activity distinct from the area's surf and watersports scene.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bali-tandem-paragliding-with-hotel-pickup-and-drop-off-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tandem paragliding over Uluwatu's limestone cliffs and coastline gives an aerial perspective that no surf session or beach day can match, with hotel pickup and drop-off included to simplify logistics.",
+            tourCard: { slug: "bali-tandem-paragliding-with-hotel-pickup-and-drop-off-uluwatu", title: "Bali Tandem Paragliding with Hotel Pickup and Drop-off", description: "A tandem paragliding flight over Uluwatu's coastline with hotel pickup included.", price: "From $140", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bali-tandem-paragliding-with-hotel-pickup-and-drop-off-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Flights depend on wind conditions, so build flexibility into your schedule in case of a reschedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is tandem paragliding worth it in Uluwatu?", a: "Yes, for a genuinely different aerial view of the cliffs and coastline, distinct from the area's surf and beach activities." },
+        ],
+      };
+
     default:
       return null;
   }
