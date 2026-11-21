@@ -3517,6 +3517,24 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bayou-lagoon-water-park-worth-it-malacca":
+            return {
+                title: "Is Bayou Lagoon Water Park Worth It in Malacca?",
+                seoTitle: "Bayou Lagoon Water Park Malacca 2026 | Honest Review",
+                description: "An honest look at the Bayou Lagoon Water Park admission ticket in Malacca, a family water park activity distinct from the city's UNESCO heritage sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1498654/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bayou Lagoon Water Park gives families a full day of slides and pools, a genuinely different activity type from Malacca's heritage walking tours and river cruises — worth it specifically as a kids' or family break day.", tourCard: { slug: "bayou-lagoon-water-park-melaka-admission-ticket", title: "Bayou Lagoon Water Park Melaka Admission Ticket", description: "An admission ticket to Bayou Lagoon Water Park in Malacca.", price: "From $3", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1498654/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring your own swimwear and sun protection — this is a standard admission ticket rather than an all-inclusive package." },
+                ],
+                faqs: [
+                    { q: "Is Bayou Lagoon Water Park worth it in Malacca?", a: "Yes, especially for families wanting a break from heritage sightseeing — a full day of water park activities at a low admission price." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Bayou Lagoon Water Park worth it in Malacca?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for families wanting a day away from heritage sightseeing." } },
+                ] },
+            };
+
         case "is-entopia-by-night-worth-it-langkawi":
             return {
                 title: "Is Entopia by Night Worth It in Langkawi?",
