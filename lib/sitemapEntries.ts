@@ -1235,6 +1235,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-phi-phi-islands-tour-krabi', 'is-emerald-pool-hot-springs-tour-worth-it-krabi',
     'is-ethical-elephant-sanctuary-worth-it-krabi',
     'is-zipline-adventure-worth-it-krabi', 'is-freediving-course-worth-it-krabi',
+    'is-4-islands-tour-worth-it-krabi', 'is-7-islands-sunset-plankton-tour-worth-it-krabi',
+    'is-phi-phi-islands-tour-worth-it-krabi', 'is-khao-sok-cheow-lan-lake-tour-worth-it-krabi',
+    'is-hong-island-lagoon-tour-worth-it-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),

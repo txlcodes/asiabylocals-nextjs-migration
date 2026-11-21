@@ -674,6 +674,96 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-4-islands-tour-worth-it-krabi":
+            return {
+                title: "Is the 4 Islands Tour Worth It in Krabi?",
+                seoTitle: "Krabi 4 Islands Tour 2026 | Honest Review",
+                description: "An honest look at Krabi's 4 Islands day trip, the area's single most popular boat tour covering Phra Nang Cave Beach, Chicken Island, and more.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/4-islands-day-trip-by-longtail-boat-or-speedboat/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is Krabi's single most popular boat tour, covering four distinct stops including Phra Nang Cave Beach and the distinctively shaped Chicken Island, giving genuine variety of beaches and snorkeling spots in one affordable day.", tourCard: { slug: "4-islands-day-trip-by-longtail-boat-or-speedboat", title: "4 Islands Day Trip by Longtail Boat or Speedboat", description: "A day trip to four islands near Krabi by longtail boat or speedboat.", price: "From $29", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/4-islands-day-trip-by-longtail-boat-or-speedboat/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A speedboat covers more ground faster than a traditional longtail boat, worth the small extra cost if you want more time actually in the water rather than traveling between stops." }
+                ],
+                faqs: [
+                    { q: "Is the 4 Islands tour worth it in Krabi?", a: "Yes, it's the area's single most popular boat tour for good reason, giving genuine variety of beaches and snorkeling in one affordable day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the 4 Islands tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine variety of beaches and snorkeling spots in one affordable day, Krabi's most popular boat tour." } }
+                ] },
+            };
+
+        case "is-7-islands-sunset-plankton-tour-worth-it-krabi":
+            return {
+                title: "Is the 7 Islands Sunset and Plankton Tour Worth It in Krabi?",
+                seoTitle: "Krabi 7 Islands Sunset Plankton Tour 2026 | Honest Review",
+                description: "An honest look at the 7 Islands sunset tour with bioluminescent plankton swimming, a genuinely different evening activity from Krabi's daytime island-hopping.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/7-islands-sunset-and-plankton-swim-with-bbq-dinner-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bioluminescent plankton make the water glow when disturbed at night, and swimming in it after a sunset cruise past seven islands with a BBQ dinner is a genuinely different experience from a standard daytime island-hopping tour.", tourCard: { slug: "7-islands-sunset-and-plankton-swim-with-bbq-dinner-in-krabi", title: "7 Islands Sunset and Plankton Swim with BBQ Dinner", description: "A sunset tour of seven islands with bioluminescent plankton swimming and BBQ dinner.", price: "From $56", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/7-islands-sunset-and-plankton-swim-with-bbq-dinner-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Plankton glow is most visible on darker nights with less moonlight — ask your operator if the tour date falls near a full moon, which can dim the effect." }
+                ],
+                faqs: [
+                    { q: "Is the 7 Islands sunset plankton tour worth it?", a: "Yes, for a genuinely different nighttime experience swimming in glowing bioluminescent water, distinct from standard daytime island-hopping." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the 7 Islands sunset and plankton tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different nighttime swimming experience in glowing bioluminescent plankton." } }
+                ] },
+            };
+
+        case "is-phi-phi-islands-tour-worth-it-krabi":
+            return {
+                title: "Is the Phi Phi Islands Tour Worth It from Krabi?",
+                seoTitle: "Phi Phi Islands Tour from Krabi 2026 | Honest Review",
+                description: "An honest look at the 2-day Phi Phi Islands tour, reaching Thailand's most famous island group beyond a rushed day trip.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-phi-phi-islands-tour-with-hotel-and-transfer/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Phi Phi Islands, including the famous Maya Bay, are Thailand's most recognizable island group, and staying overnight rather than rushing through on a single day gives genuine time to see the islands without the midday crowds of day-tripping boats.", tourCard: { slug: "2-day-phi-phi-islands-tour-with-hotel-and-transfer", title: "2-Day Phi Phi Islands Tour with Hotel and Transfer", description: "A 2-day tour to the Phi Phi Islands with hotel stay and transfers.", price: "From $202", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-phi-phi-islands-tour-with-hotel-and-transfer/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "An overnight stay means you can see Maya Bay in the early morning or evening, avoiding the peak midday crowds that day-trip boats bring in." }
+                ],
+                faqs: [
+                    { q: "Is the Phi Phi Islands tour worth it from Krabi?", a: "Yes, an overnight stay lets you see Maya Bay and the islands without the midday crowds that day-trip boats bring." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Phi Phi Islands tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, an overnight stay avoids the midday crowds that day-trip boats bring to this famous island group." } }
+                ] },
+            };
+
+        case "is-khao-sok-cheow-lan-lake-tour-worth-it-krabi":
+            return {
+                title: "Is the Khao Sok and Cheow Lan Lake Tour Worth It from Krabi?",
+                seoTitle: "Khao Sok Cheow Lan Lake Tour 2026 | Honest Review",
+                description: "An honest look at the 2-day Khao Sok jungle safari with an overnight stay, a genuine rainforest and lake experience distinct from Krabi's beach and island circuit.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-khao-sok-jungle-safari-with-overnight-stay-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Khao Sok National Park and Cheow Lan Lake offer dramatic limestone cliffs rising from the water and genuine rainforest wildlife-spotting, a completely different ecosystem from Krabi's beaches and islands, usually including an overnight stay in a floating raft house.", tourCard: { slug: "2-day-khao-sok-jungle-safari-with-overnight-stay-in-krabi", title: "2-Day Khao Sok Jungle Safari with Overnight Stay", description: "A 2-day jungle safari in Khao Sok National Park with an overnight stay.", price: "From $671", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-khao-sok-jungle-safari-with-overnight-stay-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The floating raft house overnight stay is a genuine highlight — ask about the specific accommodation style before booking if that's a priority." }
+                ],
+                faqs: [
+                    { q: "Is Khao Sok worth visiting from Krabi?", a: "Yes, for a completely different rainforest and lake ecosystem from Krabi's beaches, with dramatic limestone cliffs and genuine wildlife-spotting." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Khao Sok and Cheow Lan Lake tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a completely different rainforest and lake ecosystem distinct from Krabi's beach and island circuit." } }
+                ] },
+            };
+
+        case "is-hong-island-lagoon-tour-worth-it-krabi":
+            return {
+                title: "Is the Hong Island Lagoon Tour Worth It in Krabi?",
+                seoTitle: "Hong Island Lagoon Tour 2026 | Honest Review",
+                description: "An honest look at the Hong Island lagoon speedboat tour, reaching a hidden lagoon surrounded by dramatic limestone cliffs.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/a-swift-marine-journey-to-the-secrets-of-hong-lagoon-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Hong Island's hidden lagoon sits enclosed by dramatic limestone cliffs, reachable by boat through a narrow channel at the right tide, giving a genuinely secluded feel distinct from the busier main beaches of the 4 Islands tour.", tourCard: { slug: "a-swift-marine-journey-to-the-secrets-of-hong-lagoon-in-krabi", title: "A Swift Marine Journey to the Secrets of Hong Lagoon", description: "A speedboat tour to the hidden Hong Island lagoon.", price: "From $54", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/a-swift-marine-journey-to-the-secrets-of-hong-lagoon-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Access to the lagoon depends on the tide — your operator will time the visit accordingly, so don't be surprised if the itinerary shifts slightly." }
+                ],
+                faqs: [
+                    { q: "Is the Hong Island lagoon tour worth it?", a: "Yes, for a genuinely secluded lagoon enclosed by limestone cliffs, distinct from the busier main beaches of standard island tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Hong Island lagoon tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely secluded lagoon experience enclosed by dramatic limestone cliffs." } }
+                ] },
+            };
+
         default:
             return null;
     }
