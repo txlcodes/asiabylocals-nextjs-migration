@@ -423,6 +423,7 @@ export const RIYADH_INFO_SLUGS: string[] = [
   'riyadh-public-transport-guide',
   'best-king-khalid-reserve-cycling-tour-riyadh', 'is-riyadh-boulevard-world-tour-worth-it',
   'best-al-dahna-desert-tour-riyadh', 'is-tuwaiq-mountains-tour-worth-it-riyadh',
+  'best-riyadh-local-culture-experience-riyadh',
 ];
 
 // Saudi Arabia batch 2 (2026-11-19): Jeddah and AlUla
@@ -437,6 +438,7 @@ export const JEDDAH_INFO_SLUGS: string[] = [
   'jeddah-travel-guide-2026', 'best-time-to-visit-jeddah',
   'jeddah-1-day-itinerary', 'is-jeddah-safe',
   'jeddah-dress-code-guide', 'jeddah-food-guide',
+  'is-jet-car-ride-worth-it-jeddah',
 ];
 export const ALULA_INFO_SLUGS: string[] = [
   'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
@@ -450,6 +452,7 @@ export const ALULA_INFO_SLUGS: string[] = [
   'alula-1-day-itinerary', 'is-alula-safe',
   'how-to-get-to-alula', 'alula-hegra-entrance-guide',
   'alula-dress-code-guide',
+  'best-vintage-land-rover-tour-alula', 'is-kashta-coffee-workshop-worth-it-alula',
 ];
 
 // Laos batch 2 (2026-11-19): Vientiane and Vang Vieng

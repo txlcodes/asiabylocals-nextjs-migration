@@ -495,6 +495,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'riyadh-public-transport-guide',
     'best-king-khalid-reserve-cycling-tour-riyadh', 'is-riyadh-boulevard-world-tour-worth-it',
     'best-al-dahna-desert-tour-riyadh', 'is-tuwaiq-mountains-tour-worth-it-riyadh',
+    'best-riyadh-local-culture-experience-riyadh',
   ], 'saudi-arabia', 'riyadh');
 
   const jeddahInfoPages = mapInfoSlugs([
@@ -508,6 +509,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'jeddah-travel-guide-2026', 'best-time-to-visit-jeddah',
     'jeddah-1-day-itinerary', 'is-jeddah-safe',
     'jeddah-dress-code-guide', 'jeddah-food-guide',
+    'is-jet-car-ride-worth-it-jeddah',
   ], 'saudi-arabia', 'jeddah');
   const alulaInfoPages = mapInfoSlugs([
     'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
@@ -521,6 +523,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'alula-1-day-itinerary', 'is-alula-safe',
     'how-to-get-to-alula', 'alula-hegra-entrance-guide',
     'alula-dress-code-guide',
+    'best-vintage-land-rover-tour-alula', 'is-kashta-coffee-workshop-worth-it-alula',
   ], 'saudi-arabia', 'alula');
   const vientianeInfoPages = mapInfoSlugs([
     'best-buddha-park-tour-vientiane', 'best-patuxai-that-luang-tour-vientiane',

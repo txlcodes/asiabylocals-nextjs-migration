@@ -1440,6 +1440,85 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-riyadh-local-culture-experience-riyadh":
+            return {
+                title: "Best Ways to Experience Local Riyadh Beyond the Main Sights",
+                seoTitle: "Best Riyadh Local Experience 2026 | Wadi Hanifah, Library, Noor Festival",
+                description: "Compare three distinct local Riyadh experiences — a Wadi Hanifah evening bike ride, the King Fahad National Library, and the Noor Riyadh art festival with metro stations.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e887d230311c19dc6ebc62a3336b5ef506548b954aace4e7d1f9ffadda6d6c71.png",
+                sections: [
+                    { title: "The Short Answer", content: "Beyond Edge of the World and Diriyah, Riyadh has a few lower-key local experiences worth knowing about, each quite different from the rest.", tourCard: { slug: "evening-bike-tour-in-wadi-hanifah", title: "Evening Bike Tour in Wadi Hanifah", description: "An evening bike tour through Wadi Hanifah valley.", price: "From $52", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e887d230311c19dc6ebc62a3336b5ef506548b954aace4e7d1f9ffadda6d6c71.png" } },
+                    { title: "For Architecture Fans: King Fahad National Library", content: "A guided tour of Riyadh's striking modern library building, a different kind of landmark from the historical sites most tours focus on.", tourCard: { slug: "riyadh-king-fahad-national-library-guided-tour", title: "Riyadh: King Fahad National Library Guided Tour", description: "A guided tour of the King Fahad National Library.", price: "From $85", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/98c0f24a9f2b9243abb1137f3c3eca28e8e3d32b483fbe37a9dfe05dedcbaf24.jpeg" } },
+                    { title: "For Art & Transit Fans: Riyadh Metro & Noor Riyadh Festival", content: "This covers the Riyadh Metro's architecturally distinctive stations alongside the Noor Riyadh light and art festival, when it is running.", tourCard: { slug: "iconic-stations-of-riyadh-metro-noor-riyadh", title: "Iconic Stations of Riyadh Metro, Noor Riyadh Festival", description: "A tour of Riyadh Metro's iconic stations and the Noor Riyadh festival.", price: "From $208", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b7ad7a7b08f472fad0aa592c8723ea0ef02da6a5b5bbc3de0b5acaa81892581.jpeg" } },
+                    { title: "Practical Tips", content: "Noor Riyadh is a seasonal festival, so confirm dates before booking that specific combination." }
+                ],
+                faqs: [
+                    { q: "What is Wadi Hanifah?", a: "A green valley running through Riyadh, popular for evening walks and bike rides." },
+                    { q: "What is Noor Riyadh?", a: "A seasonal light and art festival held across the city." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Wadi Hanifah?", "acceptedAnswer": { "@type": "Answer", "text": "A green valley through Riyadh, popular for evening bike rides." } }
+                ] },
+            };
+
+        case "is-jet-car-ride-worth-it-jeddah":
+            return {
+                title: "Is the Red Sea Jet Car Ride at Obhur Beach Worth It?",
+                seoTitle: "Jeddah Jet Car Ride 2026 | Honest Review",
+                description: "An honest look at the private jet car ride at Obhur Beach in Jeddah, a short high-speed water activity on the Red Sea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7476ea637d19638a69e449f1e718605e375f9be25f65478f4f7b28a73618e419.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A jet car is a small, high-speed personal watercraft, offering a quick adrenaline burst on the Red Sea at Obhur Beach — worth it as a short add-on, not a full day's activity.", tourCard: { slug: "jeddah-private-red-sea-jet-car-ride-at-obhur", title: "Jeddah: Private Red Sea Jet Car Ride at Obhur Beach", description: "A private jet car ride on the Red Sea at Obhur Beach.", price: "From $519", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7476ea637d19638a69e449f1e718605e375f9be25f65478f4f7b28a73618e419.jpg" } },
+                    { title: "Practical Tips", content: "Obhur Beach is north of central Jeddah — worth combining with a broader Red Sea or beach day given the short duration of the jet car ride itself." }
+                ],
+                faqs: [
+                    { q: "Is the jet car ride worth it in Jeddah?", a: "Yes, as a short, high-speed add-on to a Red Sea beach day at Obhur." },
+                    { q: "What is Obhur Beach?", a: "A beach area north of central Jeddah known for water sports." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the jet car ride worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a short add-on to a Red Sea beach day." } }
+                ] },
+            };
+
+        case "best-vintage-land-rover-tour-alula":
+            return {
+                title: "Which Vintage Land Rover Tour Is Best in AlUla?",
+                seoTitle: "Best AlUla Vintage Land Rover Tour 2026 | Hegra vs Dadan",
+                description: "Compare AlUla's vintage Land Rover tours — one to Hegra, one to the ancient Dadan kingdom site.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e6e0f42e74361d2689756b57958ba563214de4a986f674d409037bc7082e4ae.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Both tours use the same vintage Land Rover format, a novel and photogenic way to reach AlUla's ancient sites — the choice is simply which site interests you more.", tourCard: { slug: "fancy-tour-of-hegra-in-a-vintage-land-rover", title: "Fancy Tour of Hegra in a Vintage Land Rover", description: "A vintage Land Rover tour of Hegra.", price: "From $649", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e6e0f42e74361d2689756b57958ba563214de4a986f674d409037bc7082e4ae.jpg" } },
+                    { title: "Alternative: Dadan Ancient Tour in a Vintage Land Rover", content: "This version visits Dadan, capital of an ancient kingdom that predates Hegra, in the same vintage Land Rover format.", tourCard: { slug: "private-dadan-ancient-tour-in-a-vintage-land-rover", title: "Private Dadan Ancient Tour in a Vintage Land Rover", description: "A vintage Land Rover tour of the ancient Dadan kingdom site.", price: "From $649", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/22902660833db24285301f2a420c8261dbd12212a0c4ea48e000d5d11265ac33.jpg" } },
+                    { title: "Practical Tips", content: "Both are private tours priced the same — choose based on whether Hegra (Nabataean) or Dadan (an earlier kingdom) interests you more." }
+                ],
+                faqs: [
+                    { q: "What is Dadan?", a: "The capital of an ancient kingdom near AlUla that predates the Nabataean site of Hegra." },
+                    { q: "Which vintage Land Rover tour is better, Hegra or Dadan?", a: "Both use the same format — pick based on which ancient site interests you more." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Dadan?", "acceptedAnswer": { "@type": "Answer", "text": "The capital of an ancient kingdom near AlUla predating Hegra." } }
+                ] },
+            };
+
+        case "is-kashta-coffee-workshop-worth-it-alula":
+            return {
+                title: "Is the Desert Kashta & Coffee Workshop Worth It in AlUla?",
+                seoTitle: "AlUla Kashta Coffee Workshop 2026 | Honest Review",
+                description: "An honest look at AlUla's private desert kashta (traditional gathering) with a coffee workshop and sunset.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cfabf6cda41151e240908185fa34c3176a09fc925c8468785bd8d6a953fa6b44.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A kashta is a traditional outdoor desert gathering — this version pairs it with a hands-on Saudi coffee workshop and sunset, a relaxed cultural activity distinct from AlUla's archaeological sites.", tourCard: { slug: "alula-private-desert-kashta-coffee-workshop-sunset", title: "AlUla: Private Desert Kashta, Coffee Workshop & Sunset", description: "A private desert kashta with a coffee workshop and sunset.", price: "From $233", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cfabf6cda41151e240908185fa34c3176a09fc925c8468785bd8d6a953fa6b44.jpg" } },
+                    { title: "Practical Tips", content: "This works well as an evening activity after a day spent at Hegra or Dadan, pairing well with the desert sunset timing." }
+                ],
+                faqs: [
+                    { q: "What is a kashta?", a: "A traditional outdoor desert gathering, often with coffee and conversation." },
+                    { q: "Is the coffee workshop worth it in AlUla?", a: "Yes, as a relaxed cultural evening activity distinct from the archaeological day tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is a kashta?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional outdoor desert gathering, often with coffee and conversation." } }
+                ] },
+            };
+
         default:
             return null;
     }
