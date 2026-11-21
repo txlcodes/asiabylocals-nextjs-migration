@@ -826,6 +826,132 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-south-ari-atoll-diving-worth-it-male":
+      return {
+        title: "Is the South Ari Atoll Diving Package Worth It?",
+        description: "An honest look at the 4-night South Ari Atoll diving package, the region best known for near year-round whale shark sightings.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf0cd8a3628f0c187791540c4755cde518002b11e238ab519afca535911e3ced.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "South Ari Atoll is one of the few places in the world with near year-round whale shark sightings, and this 4-night package gives multiple dive days to improve your odds, a serious commitment distinct from a single snorkeling excursion.",
+            tourCard: { slug: "maldives-south-ari-atoll-4-night-diving-package", title: "Maldives: South Ari Atoll 4-Night Diving Package", description: "A 4-night diving package in South Ari Atoll known for whale sharks.", price: "From $1039", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf0cd8a3628f0c187791540c4755cde518002b11e238ab519afca535911e3ced.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Multiple dive days genuinely improve your whale shark odds over a single excursion — no sighting is ever guaranteed in open water.",
+          },
+        ],
+        faqs: [
+          { q: "Is the South Ari Atoll diving package worth it?", a: "Yes, for serious divers after near year-round whale shark sightings, with multiple dive days improving the odds over a single trip." },
+        ],
+      };
+
+    case "is-shark-tank-diving-worth-it-male":
+      return {
+        title: "Is the Shark Tank Diving Tour Worth It near Male?",
+        description: "An honest look at the shark tank diving tour, a guided dive at a well-known reef site with a reliable chance of seeing resident reef sharks.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f89c69dfa7e45544e01221a5ab49a2f5e8a1b49631929f30c850bfea2c53d254.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This dive site, nicknamed 'shark tank', is known for a reliably high concentration of resident reef sharks, giving genuine shark encounters in a single short dive rather than hoping to spot one on a general reef excursion.",
+            tourCard: { slug: "maldives-shark-tank-diving-tour-with-equipment", title: "Maldives: Shark Tank Diving Tour with Equipment", description: "A guided dive at the shark tank reef site with equipment included.", price: "From $195", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f89c69dfa7e45544e01221a5ab49a2f5e8a1b49631929f30c850bfea2c53d254.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Prior diving certification is typically required for this site — check with the operator before booking if you're not already certified.",
+          },
+        ],
+        faqs: [
+          { q: "Is the shark tank diving tour worth it?", a: "Yes, for a reliably high chance of genuine reef shark encounters at a dive site specifically known for it." },
+        ],
+      };
+
+    case "is-club-med-resort-day-pass-worth-it-male":
+      return {
+        title: "Is a Resort Day Pass Worth It near Male?",
+        description: "An honest look at the Club Med Kani resort day pass with lunch, a way to access resort-island facilities without an overnight stay.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43a851eba8c72127cfb10a7d48caed8799e8e55e1540383ee2c8ef32b4d5aae0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Maldives resort islands are typically off-limits to non-guests, and a day pass is the practical way to access a resort's beach, pool, and facilities with lunch included, a genuine resort-island taste for travelers staying in a cheaper guesthouse on a local island instead.",
+            tourCard: { slug: "male-club-med-kani-resort-day-pass-with-lunch", title: "Male: Club Med Kani Resort Day Pass with Lunch", description: "A day pass to the Club Med Kani resort island with lunch included.", price: "From $390", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43a851eba8c72127cfb10a7d48caed8799e8e55e1540383ee2c8ef32b4d5aae0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good way to experience a resort island's facilities without the full overnight resort rate, if budget is a real constraint on your trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is a resort day pass worth it in the Maldives?", a: "Yes, for travelers staying in cheaper guesthouse accommodation who still want a genuine taste of resort-island facilities." },
+        ],
+      };
+
+    case "is-big-game-fishing-charter-worth-it-male":
+      return {
+        title: "Is the Big Game Fishing Charter Worth It in the Maldives?",
+        description: "An honest look at the 7-day big game fishing charter, a serious deep-sea fishing expedition distinct from a casual sunset fishing trip.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9f7605739158b7923cbdd9ef65c38ff882a11f633d7a588d49483e7fdd6a9ca.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a serious 7-day deep-sea fishing expedition targeting big game species, a genuinely different commitment in time and cost from a casual evening fishing trip, aimed specifically at travelers with real sport fishing interest.",
+            tourCard: { slug: "maldives-7-days-big-game-fishing-charters-trip", title: "Maldives: 7-Days Big Game Fishing Charters Trip", description: "A 7-day big game deep-sea fishing charter in the Maldives.", price: "From $2990", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9f7605739158b7923cbdd9ef65c38ff882a11f633d7a588d49483e7fdd6a9ca.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is squarely for serious sport fishing enthusiasts — a casual sunset fishing trip is a far cheaper, shorter alternative if that's all you're after.",
+          },
+        ],
+        faqs: [
+          { q: "Is the big game fishing charter worth it?", a: "Yes, but only for travelers with genuine sport fishing interest — it's a serious week-long commitment, not a casual outing." },
+        ],
+      };
+
+    case "is-thulusdhoo-surf-trip-worth-it-male":
+      return {
+        title: "Is the Thulusdhoo Surf Trip Worth It from Male?",
+        description: "An honest look at the Thulusdhoo surf trip, reaching the Maldives' best-known local surf break just a short speedboat ride from the airport.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0dab27d9e7d6db5eb2443ed633ac0a8e7c830ed874ac2f93fdb7eab3a0d61ef.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Thulusdhoo is the Maldives' best-known local surf break, close enough to the airport for a straightforward day trip, a genuinely different activity from the snorkeling and diving that dominate most Maldives itineraries.",
+            tourCard: { slug: "from-velana-airport-thulusdhoo-island-surf-haven", title: "From Velana Airport: Thulusdhoo Island Surf Haven", description: "A surf trip to Thulusdhoo island from Velana International Airport.", price: "From $124", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0dab27d9e7d6db5eb2443ed633ac0a8e7c830ed874ac2f93fdb7eab3a0d61ef.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Surf season and swell conditions vary, so check with your operator about current conditions before booking if a specific wave quality matters to you.",
+          },
+        ],
+        faqs: [
+          { q: "Is Thulusdhoo worth visiting for surfing?", a: "Yes, it's the Maldives' best-known local surf break and genuinely easy to reach from the airport for a day trip." },
+        ],
+      };
+
+    case "is-villingili-walking-tour-worth-it-male":
+      return {
+        title: "Is the Villingili Island Walking Tour Worth It?",
+        description: "An honest look at the Villingili island walking tour, exploring a residential local island near Male distinct from the resort-island circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2afbb9a807dc96dae2259b11cd1a975b8324e96f465d7620ab5ee75fafd50f2f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Villingili is a residential local island near Male, and walking it with a guide gives a genuine look at everyday Maldivian life, a completely different angle from the resort islands and snorkeling trips most visitors spend their whole time on.",
+            tourCard: { slug: "male-villingili-island-walking-tour-discover", title: "Male: Villingili Island Walking Tour", description: "A guided walking tour of the residential Villingili island near Male.", price: "From $195", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2afbb9a807dc96dae2259b11cd1a975b8324e96f465d7620ab5ee75fafd50f2f.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers curious about everyday Maldivian life beyond the resort-island bubble most itineraries stay within.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Villingili walking tour worth it?", a: "Yes, for a genuine look at everyday Maldivian life on a residential local island, a different angle from the resort circuit." },
+        ],
+      };
+
     default:
       return null;
   }

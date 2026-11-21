@@ -1074,6 +1074,9 @@ export const MALE_INFO_SLUGS = [
   'island-to-island-zipline-adventure-guide',
   'is-maldivian-food-experience-worth-it-male', 'is-cat-island-tour-worth-it-male',
   'is-male-city-tour-worth-it-male', 'is-parasailing-worth-it-male',
+  'is-south-ari-atoll-diving-worth-it-male', 'is-shark-tank-diving-worth-it-male',
+  'is-club-med-resort-day-pass-worth-it-male', 'is-big-game-fishing-charter-worth-it-male',
+  'is-thulusdhoo-surf-trip-worth-it-male', 'is-villingili-walking-tour-worth-it-male',
 ];
 
 // Uzbekistan GEO pages (2026-11-12) — first info-content pages for this
