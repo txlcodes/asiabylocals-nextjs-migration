@@ -440,6 +440,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-rock-climbing-worth-it-tbilisi',
     'is-dmanisi-archeology-tour-worth-it-tbilisi', 'is-chiatura-cable-cars-tour-worth-it-tbilisi',
     'is-electric-mountain-biking-worth-it-tbilisi',
+    'is-mtskheta-jvari-tour-worth-it-tbilisi', 'is-ananuri-gudauri-kazbegi-tour-worth-it-tbilisi',
+    'is-kakheti-wine-tour-worth-it-tbilisi', 'is-armenia-day-trip-worth-it-tbilisi',
+    'is-chronicles-of-georgia-tour-worth-it-tbilisi',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),

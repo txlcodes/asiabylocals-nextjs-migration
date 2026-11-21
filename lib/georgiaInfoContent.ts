@@ -1531,6 +1531,96 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-mtskheta-jvari-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Mtskheta and Jvari Monastery Tour Worth It from Tbilisi?",
+                seoTitle: "Mtskheta Jvari Tour 2026 | Honest Review",
+                description: "An honest look at the Mtskheta and Jvari Monastery day tour, Georgia's ancient former capital and a UNESCO World Heritage site.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d5a5a3bc0e23d97851aa57c9b66d92471caf04445e13fa64abab03c8c72d0045.png",
+                sections: [
+                    { title: "The Short Answer", content: "Mtskheta was Georgia's ancient capital and remains the spiritual center of the Georgian Orthodox Church, and this tour's Jvari Monastery hilltop overlook of the Mtkvari and Aragvi rivers is one of the most iconic views in the country, all reachable in a single day close to Tbilisi.", tourCard: { slug: "1-day-tour-to-georgia-tbilisi-jvari-mtskheta", title: "1-Day Tour to Georgia: Tbilisi, Jvari, Mtskheta", description: "A day tour covering Jvari Monastery and the ancient capital of Mtskheta.", price: "From $372", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d5a5a3bc0e23d97851aa57c9b66d92471caf04445e13fa64abab03c8c72d0045.png" } },
+                    { title: "Practical Tips", content: "This is a UNESCO World Heritage site, so expect genuine crowds at peak times — an early departure helps avoid the busiest midday hours." }
+                ],
+                faqs: [
+                    { q: "Is Mtskheta worth visiting from Tbilisi?", a: "Yes, it's Georgia's ancient former capital and a UNESCO World Heritage site, with one of the country's most iconic hilltop views at Jvari Monastery." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mtskheta and Jvari tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Georgia's ancient former capital and one of the country's most iconic hilltop views, both close to Tbilisi." } }
+                ] },
+            };
+
+        case "is-ananuri-gudauri-kazbegi-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Ananuri, Gudauri and Kazbegi Day Trip Worth It from Tbilisi?",
+                seoTitle: "Ananuri Gudauri Kazbegi Tour 2026 | Honest Review",
+                description: "An honest look at the Ananuri, Gudauri, and Kazbegi day trip along the Georgian Military Highway, covering a fortress, ski resort views, and mountain scenery in one day.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a94568c08fd8a5bf0443dc8b0fc731a98b2e1c6b8980e24c9ce2e2be567c39aa.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This route along the dramatic Georgian Military Highway covers Ananuri's lakeside fortress, Gudauri's ski resort mountain views, and Kazbegi's high-altitude scenery, giving a genuinely comprehensive sample of Georgia's Caucasus landscape in a single long day.", tourCard: { slug: "ananuri-gudauri-and-kazbegi-day-trip", title: "Ananuri, Gudauri and Kazbegi Day Trip", description: "A day trip covering Ananuri fortress, Gudauri, and Kazbegi.", price: "From $254", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a94568c08fd8a5bf0443dc8b0fc731a98b2e1c6b8980e24c9ce2e2be567c39aa.jpg" } },
+                    { title: "Practical Tips", content: "The Georgian Military Highway can be affected by weather and seasonal road closures — check conditions before booking, especially in winter." }
+                ],
+                faqs: [
+                    { q: "Is the Ananuri, Gudauri and Kazbegi day trip worth it from Tbilisi?", a: "Yes, for a genuinely comprehensive sample of Georgia's Caucasus mountain scenery along the dramatic Georgian Military Highway in a single day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ananuri, Gudauri and Kazbegi tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a comprehensive sample of Georgia's Caucasus mountain scenery along the Georgian Military Highway." } }
+                ] },
+            };
+
+        case "is-kakheti-wine-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Kakheti Wine Region Tour Worth It from Tbilisi?",
+                seoTitle: "Kakheti Wine Tour 2026 | Honest Review",
+                description: "An honest look at the Sighnaghi, Telavi, and Tsinandali wine tour, covering Georgia's main wine-producing region, one of the world's oldest.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/345343523979d33832bd3158e3a5a2c9822cdcabd468d8596e4c9ba3eb451da4.png",
+                sections: [
+                    { title: "The Short Answer", content: "Kakheti is Georgia's main wine-producing region, with winemaking traditions dating back thousands of years, and this tour covers Sighnaghi's old-town charm, Telavi, and Tsinandali's wine estate with genuine tastings, a serious day for wine-interested travelers.", tourCard: { slug: "best-of-kakheti-sighnaghi-telavi-tsinandali-wine", title: "Best of Kakheti: Sighnaghi, Telavi, Tsinandali Wine Tour", description: "A wine-focused tour of Georgia's Kakheti region.", price: "From $520", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/345343523979d33832bd3158e3a5a2c9822cdcabd468d8596e4c9ba3eb451da4.png" } },
+                    { title: "Practical Tips", content: "Pace your tastings across the day — several wineries are typically visited, and it adds up if you sample generously at each stop." }
+                ],
+                faqs: [
+                    { q: "Is the Kakheti wine tour worth it from Tbilisi?", a: "Yes, for travelers with genuine wine interest — Kakheti is one of the world's oldest wine regions with thousands of years of winemaking tradition." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kakheti wine tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for wine-interested travelers, Kakheti is one of the world's oldest wine regions." } }
+                ] },
+            };
+
+        case "is-armenia-day-trip-worth-it-tbilisi":
+            return {
+                title: "Is the Armenia Day Trip Worth It from Tbilisi?",
+                seoTitle: "Armenia Day Trip from Tbilisi 2026 | Honest Review",
+                description: "An honest look at the Armenia day trip from Tbilisi, crossing into a second country in a single day for monasteries and Lake Sevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c2fc8fa551f4819bddb33f9dbd8352433a62084fa01e2357902302bec62db424.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tbilisi sits close enough to the Armenian border that a day trip crossing into Armenia is genuinely feasible, covering ancient monasteries and often Lake Sevan, a practical way to add a second country to a Georgia trip without much extra travel.", tourCard: { slug: "day-trip-from-tbilisi-to-armenia-with-return-to", title: "Day Trip from Tbilisi to Armenia with Return", description: "A day trip crossing into Armenia from Tbilisi.", price: "From $65", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c2fc8fa551f4819bddb33f9dbd8352433a62084fa01e2357902302bec62db424.jpg" } },
+                    { title: "Practical Tips", content: "Bring your passport — this crosses an international border despite the short distance, so check entry requirements for your nationality beforehand." }
+                ],
+                faqs: [
+                    { q: "Is the Armenia day trip worth it from Tbilisi?", a: "Yes, for a practical way to add a second country to a Georgia trip, with ancient monasteries and Lake Sevan reachable in a single day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Armenia day trip worth it from Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a practical way to add a second country to a Georgia trip in a single day." } }
+                ] },
+            };
+
+        case "is-chronicles-of-georgia-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Chronicles of Georgia Monument Tour Worth It?",
+                seoTitle: "Chronicles of Georgia Tbilisi 2026 | Honest Review",
+                description: "An honest look at the Chronicles of Georgia, Jvari, and Didgori Memorial tour, a monumental sculpture complex depicting the country's history.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7505e77ce886982d7170370e0d5bac3b3f13cadb4e887461cc8e411aed245b0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Chronicles of Georgia is a massive, lesser-known monument of carved pillars depicting Georgian history and biblical scenes, genuinely striking and far less crowded than the city's main tourist sites, paired here with Jvari and the Didgori battle memorial.", tourCard: { slug: "3in1-chronicles-jvari-didgori-memorial-guided", title: "3-in-1: Chronicles, Jvari, Didgori Memorial Guided Tour", description: "A guided tour covering the Chronicles of Georgia monument, Jvari, and Didgori Memorial.", price: "From $77", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7505e77ce886982d7170370e0d5bac3b3f13cadb4e887461cc8e411aed245b0.jpeg" } },
+                    { title: "Practical Tips", content: "A good half-day pick for travelers who want something genuinely off the main tourist circuit without a full-day commitment." }
+                ],
+                faqs: [
+                    { q: "Is the Chronicles of Georgia monument worth visiting?", a: "Yes, it's a genuinely striking, far less-crowded monument than the city's main tourist sites, depicting Georgian history in carved pillars." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chronicles of Georgia tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely striking, far less-crowded monument depicting Georgian history." } }
+                ] },
+            };
+
         default:
             return null;
     }
