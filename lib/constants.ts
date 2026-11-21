@@ -708,6 +708,13 @@ export const MECCA_INFO_SLUGS = [
   'mecca-travel-guide-2026',
 ];
 
+// Medina (Saudi Arabia) — 31 live tours, launched 2026-11-21. Unlike
+// Mecca, Medina is generally open to visitors (stated factually below).
+export const MEDINA_INFO_SLUGS = [
+  'best-ziyarah-tour-medina', 'is-uhud-battlefield-tour-worth-it-medina',
+  'best-city-tour-medina', 'medina-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',

@@ -1366,6 +1366,80 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-ziyarah-tour-medina":
+            return {
+                title: "Which Is the Best Ziyarah (Holy Sites) Tour in Medina?",
+                seoTitle: "Best Ziyarah Tour Medina 2026 | Honest Comparison",
+                description: "Compare real Ziyarah tours of Medina's Islamic historical and holy sites — a choose-your-own 6-of-10 private tour versus a half-day sacred heritage experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/76313f4ab80012a12962d2d53c02af6f0c259ebaf173745415274f9529b7d044.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Ziyarah tours in Medina guide visitors to sites significant to early Islamic history, around the Prophet's Mosque and beyond — the choice is mainly flexibility (pick your own sites) versus a set half-day itinerary.", tourCard: { slug: "madinah-3-hour-private-ziyarah-tour-choose-6-of", title: "Madinah: 3-Hour Private Ziyarah Tour, Choose 6 of 10 Sites", description: "A flexible private Ziyarah tour where you choose 6 of 10 sites.", price: "From $154", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/76313f4ab80012a12962d2d53c02af6f0c259ebaf173745415274f9529b7d044.jpg" } },
+                    { title: "Best Set Itinerary: Sacred Heritage Half-Day Experience", content: "This covers a fixed half-day route of sacred heritage sites, simpler if you'd rather not choose from a list.", tourCard: { slug: "guided-madinah-ziyarah-sacred-heritage-half-day", title: "Guided Madinah Ziyarah: Sacred Heritage Half-Day Experience", description: "A fixed half-day Ziyarah route of sacred heritage sites.", price: "From $168", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4189fd84f8ba6a005545553313351f21419b2068a4c69c159c9dc864e136a197.jpeg" } },
+                    { title: "Practical Tips", content: "Medina itself is open to visitors generally, unlike Mecca — but the Prophet's Mosque's innermost sanctuary areas have their own access rules, so confirm with your guide what's included on any given tour." }
+                ],
+                faqs: [
+                    { q: "What is the best Ziyarah tour in Medina?", a: "A flexible choose-your-own-sites tour, or a fixed half-day itinerary if you'd rather not choose." },
+                    { q: "Can non-Muslims visit Medina?", a: "Medina itself is generally open to visitors, though the Prophet's Mosque's innermost areas have their own access rules." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Ziyarah tour in Medina?", "acceptedAnswer": { "@type": "Answer", "text": "A flexible choose-your-own tour, or a fixed half-day itinerary." } },
+                    { "@type": "Question", "name": "Can non-Muslims visit Medina?", "acceptedAnswer": { "@type": "Answer", "text": "Medina is generally open to visitors, with specific rules for the Mosque's innermost areas." } }
+                ] },
+            };
+
+        case "is-uhud-battlefield-tour-worth-it-medina":
+            return {
+                title: "Is the Uhud Battlefield Tour in Medina Worth It?",
+                seoTitle: "Uhud Battlefield Tour Medina 2026 | Honest Review",
+                description: "An honest look at the Battle of Uhud battlefield tour in Medina, a genuinely significant site in early Islamic history.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/80f300a35c05ebc8f97c8a59777ccb4a5898deccf7eaa13d37047e73bd9271a1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Battle of Uhud site, including Sayyid al-Shuhada Square, is genuinely significant to early Islamic history — worthwhile for understanding the events here, with a guide who can walk through the historical context.", tourCard: { slug: "madinah-uhud-battlefield-private-tour-of-key", title: "Madinah: Uhud Battlefield Private Tour of Key Landmarks", description: "A private tour of the key landmarks at the Uhud battlefield.", price: "From $130", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/80f300a35c05ebc8f97c8a59777ccb4a5898deccf7eaa13d37047e73bd9271a1.jpg" } },
+                    { title: "Best Combined: Uhud Mountain and Seven Mosques Experience", content: "This extends the visit to include the Seven Mosques, a cluster of historically significant small mosques nearby, for a fuller historical day.", tourCard: { slug: "medina-uhud-mountain-and-seven-mosques-experience", title: "Medina: Uhud Mountain and Seven Mosques Experience Tour", description: "A tour combining Uhud Mountain with the Seven Mosques.", price: "From $225", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/83e5338d72877d5e8811264134e0be32a260cd577377a2db0b7ed3eb764ceddf.jpg" } },
+                    { title: "Practical Tips", content: "A knowledgeable guide genuinely adds value at this site, since the historical events aren't explained on-site in much detail without one." }
+                ],
+                faqs: [
+                    { q: "Is the Uhud Battlefield tour worth it?", a: "Yes, for understanding genuinely significant early Islamic history with a knowledgeable guide." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Uhud Battlefield tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for significant early Islamic history with a knowledgeable guide." } }
+                ] },
+            };
+
+        case "best-city-tour-medina":
+            return {
+                title: "Which Is the Best City Tour in Medina?",
+                seoTitle: "Best Medina City Tour 2026 | Honest Comparison",
+                description: "Compare real Medina city tours — a hop-on hop-off bus for flexible general sightseeing versus a private culture and history tour with a local guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59d215320eba9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Medina's general sightseeing can be done at your own pace on the hop-on hop-off bus, or with more depth and context via a private guided tour.", tourCard: { slug: "al-madinah-city-sightseeing-hop-on-hop-off-bus", title: "Al Madinah: City Sightseeing Hop-On Hop-Off Bus Tour", description: "A flexible hop-on hop-off bus tour of Medina.", price: "From $32", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59d215320eba9.jpeg" } },
+                    { title: "Best for Depth: Private Culture & History Tour with a Local Guide", content: "This swaps the self-paced bus format for a private guide who can provide real historical and cultural context along the way.", tourCard: { slug: "madinah-private-culture-history-tour-with-a-local", title: "Madinah: Private Culture & History Tour with a Local Guide", description: "A private, guided culture and history tour of Medina.", price: "From $216", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/88992b0a278a529f471ed49db749c18198af93923f7e64a21d7556e8c40e3517.jpg" } },
+                    { title: "Practical Tips", content: "The hop-on hop-off bus is the cheaper, more flexible option for general sightseeing; the private tour is better if you specifically want historical depth and context explained along the way." }
+                ],
+                faqs: [
+                    { q: "What is the best city tour in Medina?", a: "The hop-on hop-off bus for flexible general sightseeing, or a private guided tour for depth." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best city tour in Medina?", "acceptedAnswer": { "@type": "Answer", "text": "The hop-on hop-off bus, or a private guided tour for depth." } }
+                ] },
+            };
+
+        case "medina-travel-guide-2026":
+            return {
+                title: "Medina Travel Guide 2026",
+                description: "What visitors need to know about Medina, Islam's second-holiest city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cfb6e4403bc3898ea1618b93ee13f2fe97b810ea67ec67efaf031ec16557c8fe.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Medina is home to the Prophet's Mosque and sites significant to early Islamic history, including the Battle of Uhud site and the Seven Mosques — a major destination for Muslim pilgrims, with general city sightseeing (via hop-on hop-off bus or guided tours) also available." },
+                    { title: "Access Notes", content: "Medina itself is generally open to visitors, unlike Mecca — but the Prophet's Mosque's innermost sanctuary areas have their own specific access rules. Confirm with your tour operator what any given tour includes." }
+                ],
+                faqs: [
+                    { q: "Is Medina worth visiting?", a: "Yes, for its deep Islamic historical significance and genuinely open general city sightseeing." },
+                    { q: "Can non-Muslims visit Medina?", a: "Medina is generally open to visitors, though the Prophet's Mosque's innermost areas have specific access rules." }
+                ],
+            };
+
         default:
             return null;
     }
