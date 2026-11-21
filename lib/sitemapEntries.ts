@@ -1269,7 +1269,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'saadiyat-island-museums-guide',
     'abu-dhabi-with-kids-guide',
     'getting-around-abu-dhabi',
-    'abu-dhabi-2-day-itinerary'].map(slug => ({
+    'abu-dhabi-2-day-itinerary',
+    'abu-dhabi-falcon-hospital-guide', 'abu-dhabi-mangrove-kayaking-guide',
+    'abu-dhabi-louvre-catamaran-guide'].map(slug => ({
     url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

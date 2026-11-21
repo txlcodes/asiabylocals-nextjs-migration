@@ -1762,7 +1762,9 @@ export const ABU_DHABI_INFO_SLUGS = [
   'saadiyat-island-museums-guide',
   'abu-dhabi-with-kids-guide',
   'getting-around-abu-dhabi',
-  'abu-dhabi-2-day-itinerary'
+  'abu-dhabi-2-day-itinerary',
+  'abu-dhabi-falcon-hospital-guide', 'abu-dhabi-mangrove-kayaking-guide',
+  'abu-dhabi-louvre-catamaran-guide',
 ];
 
 // Vietnam authority pages (2026-09)

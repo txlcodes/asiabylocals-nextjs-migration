@@ -532,6 +532,69 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "abu-dhabi-falcon-hospital-guide":
+      return {
+        title: "Abu Dhabi Falcon Hospital Guide 2026",
+        description: "The Abu Dhabi Falcon Hospital is the world's largest falcon hospital, reflecting falconry's deep cultural importance in the UAE.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1375024/img0/1600.webp",
+        sections: [
+          {
+            title: "What's There",
+            content: "Falconry is a UNESCO-recognized cultural tradition across the UAE, and this is the world's largest falcon hospital, treating thousands of birds each year — a guided tour covers the hospital's treatment rooms and a close look at live falcons.",
+            tourCard: { slug: "abu-dhabi-falcon-hospital-tour-with-hotel-pickup-d", title: "Abu Dhabi: Falcon Hospital Tour with Hotel Pickup & Drop-Off", description: "A guided tour of the Abu Dhabi Falcon Hospital.", price: "From $208", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1375024/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good cultural add-on distinct from Abu Dhabi's usual mosque/museum/theme-park circuit, worth it for travelers interested in Emirati traditions.",
+          },
+        ],
+        faqs: [
+          { q: "Is falconry culturally important in the UAE?", a: "Yes, it's a UNESCO-recognized cultural tradition, which is why the Falcon Hospital exists at this scale." },
+        ],
+      };
+
+    case "abu-dhabi-mangrove-kayaking-guide":
+      return {
+        title: "Abu Dhabi Mangrove Kayaking Guide 2026",
+        description: "Abu Dhabi's mangrove forests offer a genuinely different side of the city — a guided kayak tour through calm, protected waterways.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1375270/img0/1600.webp",
+        sections: [
+          {
+            title: "What's There",
+            content: "Abu Dhabi's mangrove forests are a protected natural ecosystem supporting birdlife and marine species, explored by kayak through calm, shallow waterways — a quiet contrast to the city's skyline and theme parks.",
+            tourCard: { slug: "abu-dhabi-mangroves-guided-kayaking-tour-with-hote", title: "Abu Dhabi: Mangroves Guided Kayaking Tour with Hotel Pickup", description: "A guided kayak tour through Abu Dhabi's mangrove forests.", price: "From $201", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1375270/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No kayaking experience is required, and mornings tend to have the calmest water and best light for photos.",
+          },
+        ],
+        faqs: [
+          { q: "Do I need kayaking experience for the mangrove tour?", a: "No, it's suitable for beginners in calm, protected waterways." },
+        ],
+      };
+
+    case "abu-dhabi-louvre-catamaran-guide":
+      return {
+        title: "Abu Dhabi Electric Catamaran Ride at the Louvre Guide 2026",
+        description: "A short electric catamaran ride offers a different vantage point of the Louvre Abu Dhabi's distinctive dome-and-water architecture.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788878336/asiabylocals/tours/abu-dhabi-electric-catamaran-ride-at-the-louvre/img1.jpg",
+        sections: [
+          {
+            title: "What's There",
+            content: "The Louvre Abu Dhabi's architecture, with its massive floating dome, is built to interact with the surrounding water — this electric catamaran ride shows the building from the water, a genuinely different view from inside the museum itself.",
+            tourCard: { slug: "abu-dhabi-electric-catamaran-ride-at-the-louvre", title: "Abu Dhabi Electric Catamaran Ride at the Louvre", description: "An electric catamaran ride around the Louvre Abu Dhabi.", price: "From $74", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788878336/asiabylocals/tours/abu-dhabi-electric-catamaran-ride-at-the-louvre/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth pairing with an actual museum visit, since this is a complementary outdoor view rather than a replacement for seeing the collection inside.",
+          },
+        ],
+        faqs: [
+          { q: "Is the catamaran ride a substitute for visiting the Louvre Abu Dhabi?", a: "No, it's a complementary outside view of the architecture, best paired with an actual museum visit." },
+        ],
+      };
+
     default:
       return null;
   }
