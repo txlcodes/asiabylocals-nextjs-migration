@@ -762,6 +762,132 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mutianyu-great-wall-worth-it-beijing":
+      return {
+        title: "Is the Mutianyu Great Wall Tour Worth It?",
+        description: "An honest look at the Mutianyu section of the Great Wall, widely considered the best-preserved and most scenic section accessible from Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5938ea940f20356920d4508210000290a941241f9ead02bfb26d16785e050447.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mutianyu is widely considered the best-preserved and most scenic section of the Great Wall within reach of Beijing, with watchtowers and dramatic mountain views, and this all-inclusive tour pairs it with the Summer Palace for a fuller day.",
+            tourCard: { slug: "all-inclusive-mutianyu-great-wall-and-summer", title: "All-Inclusive Mutianyu Great Wall and Summer Palace", description: "An all-inclusive tour to the Mutianyu Great Wall and Summer Palace.", price: "From $549", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5938ea940f20356920d4508210000290a941241f9ead02bfb26d16785e050447.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mutianyu has a cable car option if you'd rather skip the steep initial climb — worth asking about if stairs are a concern.",
+          },
+        ],
+        faqs: [
+          { q: "Is Mutianyu the best Great Wall section to visit?", a: "It's widely considered the best-preserved and most scenic section within reach of Beijing, though Badaling is more heavily developed with tourist infrastructure." },
+        ],
+      };
+
+    case "is-badaling-great-wall-worth-it-beijing":
+      return {
+        title: "Is the Badaling Great Wall Tour Worth It?",
+        description: "An honest look at the Badaling section of the Great Wall, the most-visited and most developed section closest to Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ce15befa8f4b7cc10a6517eb8e0f80ee3c18fbdd8fffc847e658bf511a8edcc.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Badaling is the most heavily developed and visited section of the Great Wall, with the easiest access from Beijing and the most tourist infrastructure, trading Mutianyu's quieter atmosphere for genuine convenience.",
+            tourCard: { slug: "badaling-great-wall-guided-tour", title: "Badaling Great Wall Guided Tour", description: "A guided tour of the Badaling section of the Great Wall.", price: "From $658", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ce15befa8f4b7cc10a6517eb8e0f80ee3c18fbdd8fffc847e658bf511a8edcc.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuine crowds here, especially on weekends and holidays — if a quieter experience matters more than convenience, Mutianyu is the better pick.",
+          },
+        ],
+        faqs: [
+          { q: "Is Badaling or Mutianyu better for the Great Wall?", a: "Badaling is more convenient and accessible with more infrastructure, but noticeably more crowded; Mutianyu is quieter and considered more scenic." },
+        ],
+      };
+
+    case "is-forbidden-city-tour-worth-it-beijing":
+      return {
+        title: "Is the Forbidden City Tour Worth It in Beijing?",
+        description: "An honest look at the Forbidden City guided history tour, the former imperial palace at the heart of Beijing's old city.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dab86fd2a78f6b68fb653cd61b12af27d6262bbc21aa59232101ad16fcf0e562.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Forbidden City was China's imperial palace for close to 500 years, a vast complex of halls and courtyards that rewards having a guide explain the history and layout, rather than wandering without context through what can otherwise feel like an endless series of similar buildings.",
+            tourCard: { slug: "2-hour-forbidden-city-tour-history", title: "2-Hour Forbidden City Tour: History", description: "A 2-hour guided history tour of the Forbidden City.", price: "From $42", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dab86fd2a78f6b68fb653cd61b12af27d6262bbc21aa59232101ad16fcf0e562.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Forbidden City sits right next to Tiananmen Square, so pair the two on the same day for an efficient old-city morning.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Forbidden City worth visiting with a guide?", a: "Yes, the history and layout behind its vast complex of halls makes far more sense with a guide than wandering through alone." },
+        ],
+      };
+
+    case "is-temple-of-heaven-tour-worth-it-beijing":
+      return {
+        title: "Is the Temple of Heaven Tour Worth It in Beijing?",
+        description: "An honest look at the Temple of Heaven guided tour, an imperial complex where emperors once performed annual harvest ceremonies.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c57c0a6308a0b7bd664701d0159bfa5a3b786b4d388007dfb9b49f0ef3fd6d94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Temple of Heaven is where Ming and Qing emperors once performed annual ceremonies to pray for a good harvest, a genuinely different kind of imperial site from the Forbidden City's palace halls, set within a large park that's also popular with locals doing tai chi in the mornings.",
+            tourCard: { slug: "4h-temple-of-heaven", title: "4-Hour Temple of Heaven Tour", description: "A guided tour of the Temple of Heaven complex.", price: "From $156", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c57c0a6308a0b7bd664701d0159bfa5a3b786b4d388007dfb9b49f0ef3fd6d94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the morning if you want to see locals practicing tai chi and other activities in the surrounding park, a genuine slice of everyday Beijing life.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Temple of Heaven worth visiting?", a: "Yes, for a genuinely different kind of imperial site from the Forbidden City, set within a park popular with locals doing morning tai chi." },
+        ],
+      };
+
+    case "is-terracotta-warriors-day-trip-worth-it-beijing":
+      return {
+        title: "Is the Terracotta Warriors Day Trip Worth It from Beijing?",
+        description: "An honest look at the 1-day Terracotta Warriors tour from Beijing, a flight-based trip to one of the most significant archaeological finds of the 20th century.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c01970bf1a005a2fbccbdc9479e7ad1a487170e7005661adce032d7b2478a1a9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Terracotta Army near Xi'an is one of the most significant archaeological finds of the 20th century, thousands of life-sized clay soldiers buried with China's first emperor, and this flight-based day trip covers the long distance from Beijing in a single, genuinely long day.",
+            tourCard: { slug: "1-day-terracotta-warriors-tour-from", title: "1-Day Terracotta Warriors Tour from Beijing", description: "A 1-day flight-based tour to see the Terracotta Warriors near Xi'an.", price: "From $666", duration: "16 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c01970bf1a005a2fbccbdc9479e7ad1a487170e7005661adce032d7b2478a1a9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At 16 hours including flights, this is a genuinely exhausting day — an overnight stay in Xi'an gives a far more relaxed pace if your schedule allows it.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Terracotta Warriors day trip worth it from Beijing?", a: "Yes, for one of the most significant archaeological finds of the 20th century, though it's a genuinely long day given the flight distance to Xi'an." },
+        ],
+      };
+
+    case "is-hutong-sidecar-tour-worth-it-beijing":
+      return {
+        title: "Is the Beijing Hutong Sidecar Tour Worth It?",
+        description: "An honest look at exploring Beijing's old hutong alleyways by vintage sidecar motorcycle, a novel way to see the city's traditional neighborhoods.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e495df5624154f7685a5e16037450a2c1ac7173b8a4abb3f8e0e69aa6872be8a.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hutongs are Beijing's traditional narrow alleyway neighborhoods, and touring them by vintage sidecar motorcycle covers more ground than walking while staying at a pace slow enough to actually see the everyday street life, a genuinely novel alternative to a standard walking tour.",
+            tourCard: { slug: "beijing-4-hours-discover-city-by-sidecar", title: "Beijing: 4-Hours Discover City by Sidecar", description: "A sidecar motorcycle tour through Beijing's hutong alleyways.", price: "From $234", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e495df5624154f7685a5e16037450a2c1ac7173b8a4abb3f8e0e69aa6872be8a.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good novelty pick for a second or third day in Beijing once you've already covered the main historic landmarks on foot.",
+          },
+        ],
+        faqs: [
+          { q: "Is the hutong sidecar tour worth it in Beijing?", a: "Yes, for a genuinely novel way to see the city's traditional alleyway neighborhoods, covering more ground than walking while staying at street level." },
+        ],
+      };
+
     default:
       return null;
   }

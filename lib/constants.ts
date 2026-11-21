@@ -888,6 +888,9 @@ export const BEIJING_INFO_SLUGS = [
   'is-tea-ceremony-worth-it-beijing', 'is-798-art-district-tour-worth-it-beijing',
   'is-peking-opera-workshop-worth-it-beijing', 'is-red-theater-kung-fu-show-worth-it-beijing',
   'is-mahjong-experience-worth-it-beijing', 'is-longqing-gorge-tour-worth-it-beijing',
+  'is-mutianyu-great-wall-worth-it-beijing', 'is-badaling-great-wall-worth-it-beijing',
+  'is-forbidden-city-tour-worth-it-beijing', 'is-temple-of-heaven-tour-worth-it-beijing',
+  'is-terracotta-warriors-day-trip-worth-it-beijing', 'is-hutong-sidecar-tour-worth-it-beijing',
 ];
 
 export const SHANGHAI_INFO_SLUGS = [
