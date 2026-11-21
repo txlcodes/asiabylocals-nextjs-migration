@@ -1396,6 +1396,7 @@ export const BENTOTA_INFO_SLUGS = [
   'best-water-sports-tour-bentota', 'is-udawalawe-safari-worth-it-bentota',
   'is-yala-safari-worth-it-bentota', 'is-cooking-class-worth-it-bentota',
   'best-madu-river-safari-tour-bentota',
+  'is-bawa-garden-richmond-castle-tour-worth-it-bentota',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/mirissaInfoContent.ts.

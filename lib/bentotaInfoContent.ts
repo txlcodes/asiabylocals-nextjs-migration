@@ -319,6 +319,26 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bawa-garden-richmond-castle-tour-worth-it-bentota":
+      return {
+        title: "Is the Bawa Garden and Richmond Castle Heritage Tour Worth It in Bentota?",
+        description: "An honest look at Bentota's Bawa Garden and Richmond Castle heritage tour, exploring architectural history distinct from the area's river safari and turtle hatchery activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1478338/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour covers colonial-era architectural heritage, including Richmond Castle's eclectic design, a genuinely different cultural subject from Bentota's usual river safaris and turtle hatchery activities — good for travelers interested in architecture and history.",
+            tourCard: { slug: "bentota-bawa-garden-richmond-castle-heritage-tour", title: "Bentota: Bawa Garden and Richmond Castle Heritage Tour", description: "A heritage tour of Bawa Garden and Richmond Castle in Bentota.", price: "From $68", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1478338/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good full-day option for travelers wanting architectural and cultural history instead of another river safari or beach day." },
+        ],
+        faqs: [
+          { q: "Is the Bawa Garden and Richmond Castle tour worth it in Bentota?", a: "Yes, for travelers interested in architecture and colonial history, a different subject from the area's river safaris and beach activities." },
+        ],
+      };
+
     default:
       return null;
   }
