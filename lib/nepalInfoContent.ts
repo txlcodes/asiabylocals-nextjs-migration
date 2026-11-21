@@ -1580,6 +1580,61 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-suspension-bridge-tour-worth-it-pokhara":
+            return {
+                title: "Is the Suspension Bridge Tour Worth It in Pokhara?",
+                seoTitle: "Pokhara Suspension Bridge Tour 2026 | Honest Review",
+                description: "An honest look at Pokhara's two-iconic-suspension-bridge tour, a half-day sightseeing option distinct from the city's usual trekking and paragliding.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be31790d6120647c17be3327d2518e72133c248624aedc8834d355238eebc27e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour visits two of Pokhara's well-known suspension bridges, a relaxed half-day sightseeing option for travellers wanting scenic views without committing to a multi-day trek or an aerial activity like paragliding.", tourCard: { slug: "2-iconic-suspension-bridge-tour-in-pokhara", title: "2 Iconic Suspension Bridge Tour in Pokhara", description: "A half-day tour of two of Pokhara's iconic suspension bridges.", price: "From $58", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be31790d6120647c17be3327d2518e72133c248624aedc8834d355238eebc27e.jpg" } },
+                    { title: "Practical Tips", content: "A good option to pair with a lower-key day between longer treks or an early-morning Sarangkot sunrise outing." }
+                ],
+                faqs: [
+                    { q: "Is the suspension bridge tour worth it in Pokhara?", a: "Yes, as a relaxed half-day sightseeing option that doesn't require trekking fitness or heights tolerance beyond crossing a bridge." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the suspension bridge tour worth it in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a relaxed half-day sightseeing option." } }
+                ] },
+            };
+
+        case "is-atv-tour-worth-it-pokhara":
+            return {
+                title: "Is the ATV Tour Worth It in Pokhara?",
+                seoTitle: "Pokhara ATV Tour 2026 | Honest Review",
+                description: "An honest look at Pokhara's ATV tour, a short off-road adventure option distinct from the city's usual trekking, boating, and paragliding.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/802713e6006ed1e0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding an ATV through Pokhara's surrounding countryside and riverbed trails gives a quick adrenaline fix without the time commitment of a trek, a genuinely different activity type from the lake and mountain-view tours most visitors do.", tourCard: { slug: "atv-tours-rev-up-your-adventure", title: "ATV Tours: Rev Up Your Adventure", description: "An off-road ATV riding tour around Pokhara.", price: "From $58", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/802713e6006ed1e0.jpeg" } },
+                    { title: "Practical Tips", content: "No prior riding experience is needed — guides brief you on controls before setting off." }
+                ],
+                faqs: [
+                    { q: "Is the ATV tour worth it in Pokhara?", a: "Yes, for a quick adrenaline activity that's genuinely different from the city's trekking and boating options." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the ATV tour worth it in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quick off-road adrenaline activity." } }
+                ] },
+            };
+
+        case "is-horseback-riding-worth-it-pokhara":
+            return {
+                title: "Is Horseback Riding Worth It in Pokhara?",
+                seoTitle: "Pokhara Horseback Riding 2026 | Honest Review",
+                description: "An honest look at Pokhara's horseback riding adventure, a relaxed alternative to trekking for covering scenic ground near Phewa Lake.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcecd9ea05c045f2c19d2f9240551603c912f7bcd5f47145f575bfbcbf35aedb.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This 2.5-hour horseback ride covers scenic countryside around Pokhara at a relaxed pace, a good option for travellers who want mountain views and fresh air without hiking on foot.", tourCard: { slug: "from-pokhara-25-hour-horseback-riding-adventure", title: "From Pokhara: 2.5-Hour Horseback Riding Adventure", description: "A 2.5-hour horseback riding adventure through Pokhara's countryside.", price: "From $59", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcecd9ea05c045f2c19d2f9240551603c912f7bcd5f47145f575bfbcbf35aedb.jpg" } },
+                    { title: "Practical Tips", content: "No riding experience is required, and the pace is suited to beginners rather than experienced riders wanting a gallop." }
+                ],
+                faqs: [
+                    { q: "Is horseback riding worth it in Pokhara?", a: "Yes, as a relaxed way to see scenic countryside without the physical demands of trekking." },
+                    { q: "Do I need riding experience for horseback riding in Pokhara?", a: "No, the tour is designed for beginners with no prior experience." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is horseback riding worth it in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a relaxed alternative to trekking for scenic countryside views." } }
+                ] },
+            };
+
         default:
             return null;
     }

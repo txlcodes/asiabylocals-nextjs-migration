@@ -694,6 +694,8 @@ export const POKHARA_INFO_SLUGS = [
   'best-zipline-tour-pokhara', 'pokhara-travel-guide-2026',
   'best-time-to-visit-pokhara', 'pokhara-1-day-itinerary',
   'pokhara-vs-kathmandu-guide',
+  'is-suspension-bridge-tour-worth-it-pokhara', 'is-atv-tour-worth-it-pokhara',
+  'is-horseback-riding-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.
