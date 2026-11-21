@@ -1349,6 +1349,26 @@ export function getHongKongInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-egg-tart-cooking-class-worth-it-hong-kong":
+      return {
+        title: "Is the Egg Tart & Mooncake Cooking Class Worth It in Hong Kong?",
+        description: "An honest look at Hong Kong's hands-on cooking class teaching egg tarts, egg custard, and mooncakes.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6448f1375c8b8.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This hands-on class teaches you to actually make Hong Kong's iconic egg tarts, egg custard, and mooncakes rather than just eating them at a bakery — a genuinely different activity from a dim sum tasting tour.",
+            tourCard: { slug: "cooking-class-hk-egg-tarts-egg-custard-mooncakes", title: "Cooking Class - HK Egg Tarts & Egg Custard Mooncakes", description: "A hands-on cooking class teaching egg tarts, egg custard, and mooncakes.", price: "From $249", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6448f1375c8b8.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take what you bake home with you — a good activity to schedule for later in your trip rather than right before a flight, if you want to eat it fresh." },
+        ],
+        faqs: [
+          { q: "Is the egg tart cooking class worth it in Hong Kong?", a: "Yes, for a genuinely hands-on alternative to simply eating these pastries at a bakery or dim sum restaurant." },
+        ],
+      };
+
     default:
       return null;
   }

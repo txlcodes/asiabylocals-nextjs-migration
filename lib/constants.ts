@@ -831,7 +831,8 @@ export const HONG_KONG_INFO_SLUGS = [
   'best-tours-in-hong-kong',
   'should-i-book-hong-kong-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
-  'how-much-should-a-private-tour-guide-cost-in-hong-kong'
+  'how-much-should-a-private-tour-guide-cost-in-hong-kong',
+  'is-egg-tart-cooking-class-worth-it-hong-kong',
 ];
 
 // Taiwan launched 2026-10 with 157 live tours (Taipei) and zero authority pages.
