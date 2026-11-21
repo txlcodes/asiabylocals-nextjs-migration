@@ -1026,6 +1026,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-chiang-mai', 'should-i-book-chiang-mai-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-chiang-mai',
     'best-doi-inthanon-tour-chiang-mai', 'is-white-water-rafting-worth-it-chiang-mai',
+    'is-muay-thai-training-worth-it-chiang-mai', 'is-night-tuk-tuk-food-tour-worth-it-chiang-mai',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),

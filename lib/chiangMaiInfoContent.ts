@@ -664,6 +664,44 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-muay-thai-training-worth-it-chiang-mai":
+            return {
+                title: "Is the Muay Thai Training Experience Worth It in Chiang Mai?",
+                seoTitle: "Chiang Mai Muay Thai Training 2026 | Honest Review",
+                description: "An honest look at Chiang Mai's authentic Muay Thai training experience, hands-on technique coaching rather than just a stadium ticket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/authentic-muay-thai-training-experience-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is a real training session, not a spectator ticket, where a Thai trainer runs you through pad work, kicks, and basic technique. Worth it if you want to actually try the sport rather than just watch a fight from the stands.", tourCard: { slug: "authentic-muay-thai-training-experience-in-chiang-mai", title: "Authentic Muay Thai Training Experience in Chiang Mai", description: "A hands-on Muay Thai training session with a Thai trainer.", price: "From $36", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/authentic-muay-thai-training-experience-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear light athletic clothing and bring a water bottle — sessions are physical even for complete beginners." }
+                ],
+                faqs: [
+                    { q: "Is Muay Thai training worth it in Chiang Mai?", a: "Yes, for hands-on technique coaching from a Thai trainer rather than just watching a stadium match." },
+                    { q: "Do I need experience for Muay Thai training in Chiang Mai?", a: "No, sessions are designed for complete beginners alongside those with some experience." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Muay Thai training worth it in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for hands-on technique coaching from a Thai trainer." } }
+                ] },
+            };
+
+        case "is-night-tuk-tuk-food-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Night Tuk-Tuk Food Tour Worth It in Chiang Mai?",
+                seoTitle: "Chiang Mai Night Tuk-Tuk Food Tour 2026 | Honest Review",
+                description: "An honest look at Chiang Mai's night tuk-tuk street food and market tour, a compact evening alternative to a sit-down dinner show.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/night-tuk-tuk-tour-street-food-and-markets-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Hopping between night markets and street food stalls by tuk-tuk packs several tastes and local-life moments into ninety minutes, a lighter and cheaper evening option than a seated Khantoke dinner show.", tourCard: { slug: "night-tuk-tuk-tour-street-food-and-markets-in-chiang-mai", title: "Night Tuk-Tuk Tour: Street Food and Markets in Chiang Mai", description: "An evening tuk-tuk tour of Chiang Mai's night markets and street food stalls.", price: "From $27", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/night-tuk-tuk-tour-street-food-and-markets-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come hungry but not full — the format is several small tastes across stops rather than one large meal." }
+                ],
+                faqs: [
+                    { q: "Is the night tuk-tuk food tour worth it in Chiang Mai?", a: "Yes, for a compact, affordable way to sample street food and markets by tuk-tuk in about ninety minutes." },
+                    { q: "Is the night tuk-tuk tour the same as a Khantoke dinner?", a: "No, it's a lighter street-food market hop, while Khantoke is a seated traditional dinner with a cultural show." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the night tuk-tuk food tour worth it in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a compact evening of street food and markets by tuk-tuk." } }
+                ] },
+            };
+
         default:
             return null;
     }
