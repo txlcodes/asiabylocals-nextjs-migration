@@ -525,6 +525,24 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-art-jamming-worth-it-singapore":
+            return {
+                title: "Is Art Jamming Worth It in Singapore?",
+                seoTitle: "Singapore Art Jamming 2026 | Honest Review",
+                description: "An honest look at Singapore's art jamming workshops, a relaxed, unstructured creative activity distinct from the city's museum visits and guided sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/517b0539603e70c40dd8f23f69a0ce543e1720c1833557c9d7b4dbf4f1cc551d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Art jamming is a free-form painting session with no instruction or set subject, a relaxed creative outlet rather than a structured class — a good change of pace from museum visits or guided city tours, especially for a rainy afternoon.", tourCard: { slug: "art-jamming-workshops", title: "Art Jamming Workshops", description: "A relaxed, unstructured art jamming painting session.", price: "From $24", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/517b0539603e70c40dd8f23f69a0ce543e1720c1833557c9d7b4dbf4f1cc551d.jpeg" } },
+                    { title: "Practical Tips", content: "No art skill is needed — the format is deliberately unstructured, so come with whatever idea you want to paint rather than expecting instruction." }
+                ],
+                faqs: [
+                    { q: "Is art jamming worth it in Singapore?", a: "Yes, as a relaxed, unstructured creative activity, good for a rainy day or a change of pace from museums and guided tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is art jamming worth it in Singapore?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a relaxed, unstructured creative activity." } }
+                ] },
+            };
+
         case "is-hop-on-hop-off-bus-worth-it-singapore":
             return {
                 title: "Is the Hop-On Hop-Off Bus Worth It in Singapore?",
