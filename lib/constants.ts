@@ -625,6 +625,9 @@ export const THIMPHU_INFO_SLUGS: string[] = [
   'thimphu-food-guide', 'is-thimphu-safe',
   'thimphu-dress-code-guide', 'thimphu-weather-guide',
   'is-cooking-tour-worth-it-thimphu',
+  'is-druk-path-trek-worth-it-thimphu', 'is-gangtey-tshechu-tour-worth-it-thimphu',
+  'is-royal-highland-festival-tour-worth-it-thimphu', 'is-chilli-trail-tour-worth-it-thimphu',
+  'is-dagala-thousand-lakes-trek-worth-it-thimphu',
 ];
 export const PARO_INFO_SLUGS: string[] = [
   'best-tigers-nest-hike-tour-paro', 'best-national-museum-tour-paro',

@@ -717,6 +717,96 @@ export function getBhutanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-druk-path-trek-worth-it-thimphu":
+            return {
+                title: "Is the Druk Path Trek Worth It?",
+                seoTitle: "Druk Path Trek Bhutan 2026 | Honest Review",
+                description: "An honest look at the 5-day Druk Path Trek connecting Paro and Thimphu on foot, Bhutan's most accessible short trek.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ad34a8a43362f8ad485e0a4f3fb3580bce7fd352ea8d4d864e5dc4369f90957.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Druk Path connects Paro and Thimphu on foot over 5 days through alpine lakes and ridgelines, rather than the short drive most visitors take between the two cities, making it Bhutan's most accessible multi-day trek for travellers with limited time but genuine trekking interest.", tourCard: { slug: "from-paro-5-day-druk-path-trek-to-thimphu", title: "From Paro: 5-Day Druk Path Trek to Thimphu", description: "A 5-day trek connecting Paro and Thimphu via alpine lakes.", price: "From $2257", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ad34a8a43362f8ad485e0a4f3fb3580bce7fd352ea8d4d864e5dc4369f90957.jpg" } },
+                    { title: "Practical Tips", content: "Like all Bhutan tours, this runs through a licensed operator under the country's minimum daily spending requirement; expect camping rather than hotel-standard lodging." }
+                ],
+                faqs: [
+                    { q: "Is the Druk Path Trek good for first-time trekkers?", a: "Yes, it's widely considered Bhutan's most accessible multi-day trek given its moderate length and well-established route between Paro and Thimphu." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Druk Path Trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Bhutan's most accessible multi-day trek, connecting Paro and Thimphu through alpine lake scenery." } }
+                ] },
+            };
+
+        case "is-gangtey-tshechu-tour-worth-it-thimphu":
+            return {
+                title: "Is the Gangtey and Tshechu Festival Tour Worth It?",
+                seoTitle: "Gangtey Tshechu Bhutan 2026 | Honest Review",
+                description: "An honest look at the 5-day Gangtey and Tshechu festival tour, reaching the Phobjikha valley's black-necked cranes alongside a traditional masked-dance festival.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fedc727968569296eb631e5ffd634d5b41cc1f1b0c0a35a2aa7e1867590cb598.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Gangtey sits in the glacial Phobjikha valley, Bhutan's winter home for rare black-necked cranes, and pairing it with a Tshechu, a traditional masked-dance festival, makes this 5-day tour worth timing around the festival calendar rather than booking any random week.", tourCard: { slug: "bhutan-5-day-private-tour-with-gangtey-tshechu", title: "Bhutan: 5-Day Private Tour with Gangtey & Tshechu", description: "A 5-day private tour to Gangtey with a Tshechu festival visit.", price: "From $2394", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fedc727968569296eb631e5ffd634d5b41cc1f1b0c0a35a2aa7e1867590cb598.jpg" } },
+                    { title: "Practical Tips", content: "Tshechu festival dates follow the Bhutanese lunar calendar and vary by year — confirm the specific dates with your operator before booking flights." }
+                ],
+                faqs: [
+                    { q: "What is a Tshechu in Bhutan?", a: "A traditional Buddhist festival featuring masked dances, held at monasteries on dates set by the Bhutanese lunar calendar." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gangtey and Tshechu tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for pairing the rare black-necked cranes of Phobjikha valley with a traditional masked-dance festival, if your dates align." } }
+                ] },
+            };
+
+        case "is-royal-highland-festival-tour-worth-it-thimphu":
+            return {
+                title: "Is the Royal Highland Festival Tour Worth It?",
+                seoTitle: "Royal Highland Festival Bhutan 2026 | Honest Review",
+                description: "An honest look at the 3-day Royal Highland Festival tour, a seasonal event celebrating Bhutan's high-altitude herding communities and yak culture.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/70ed97430a18c835dc39c7ef70c2772887869620b239bcfe2a411d8f120b25b8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Royal Highland Festival celebrates Bhutan's remote high-altitude herding communities with yak culture, archery, and traditional sports, a specific seasonal event genuinely different from a standard Thimphu or Paro sightseeing circuit.", tourCard: { slug: "from-thimphu-3-day-royal-highland-festival-tour", title: "From Thimphu: 3-Day Royal Highland Festival Tour", description: "A 3-day tour to the Royal Highland Festival celebrating Bhutan's herding culture.", price: "From $1368", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/70ed97430a18c835dc39c7ef70c2772887869620b239bcfe2a411d8f120b25b8.jpg" } },
+                    { title: "Practical Tips", content: "This is a specific seasonal event, not a year-round attraction — confirm the festival dates for your travel year before booking." }
+                ],
+                faqs: [
+                    { q: "What is the Royal Highland Festival?", a: "A seasonal event celebrating Bhutan's remote high-altitude herding communities, featuring yak culture, archery, and traditional highland sports." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Royal Highland Festival tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different look at Bhutan's remote highland herding culture, timed to a specific seasonal event." } }
+                ] },
+            };
+
+        case "is-chilli-trail-tour-worth-it-thimphu":
+            return {
+                title: "Is the Bhutan Chilli Trail Tour Worth It?",
+                seoTitle: "Bhutan Chilli Trail Tour 2026 | Honest Review",
+                description: "An honest look at the 7-day guided Chilli Trail tour, a food-and-farming-focused route tracing Bhutan's chilli-growing culture through rural communities.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2ff8d835ed5b45c667bbe6433cc324d9f6c2c9f5ac6543fd4f744f6108a11e9d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Chillies are a near-staple of Bhutanese cooking, dried on rooftops across the country, and this 7-day route follows that food culture through rural farming communities rather than the usual dzong-and-monastery circuit, a genuinely different lens on the country.", tourCard: { slug: "bhutan-guided-chilli-trail-tour-with-meals-lodging", title: "Bhutan Guided Chilli Trail Tour with Meals & Lodging", description: "A 7-day guided tour following Bhutan's chilli-growing culture through rural communities.", price: "From $1040", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2ff8d835ed5b45c667bbe6433cc324d9f6c2c9f5ac6543fd4f744f6108a11e9d.jpeg" } },
+                    { title: "Practical Tips", content: "Expect homestays and rural village settings rather than hotel-standard lodging throughout this route." }
+                ],
+                faqs: [
+                    { q: "What is the Bhutan Chilli Trail?", a: "A 7-day route through rural Bhutanese farming communities tracing the country's chilli-growing and cooking culture, distinct from the standard dzong-and-monastery circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bhutan Chilli Trail tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different food-and-farming lens on rural Bhutan rather than the standard sightseeing circuit." } }
+                ] },
+            };
+
+        case "is-dagala-thousand-lakes-trek-worth-it-thimphu":
+            return {
+                title: "Is the Dagala Thousand Lakes Trek Worth It?",
+                seoTitle: "Dagala Trek Bhutan 2026 | Honest Review",
+                description: "An honest look at the 9-day Dagala Thousand Lakes Trek, a high-altitude route past dozens of glacial lakes near Thimphu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2cbc1517b60ac71c39cb17784335f496885a84317456119fab60a2f6f4ee6c11.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Despite its name, the route passes dozens rather than a literal thousand glacial lakes over 9 days at high altitude near Thimphu, a serious trekking commitment distinct from the shorter Druk Path and aimed specifically at experienced trekkers.", tourCard: { slug: "the-thousand-lakes-journey-9-day-dagala-trek", title: "The Thousand Lakes Journey: 9-Day Dagala Trek", description: "A 9-day high-altitude trek past Bhutan's Dagala glacial lakes.", price: "From $2990", duration: "9 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2cbc1517b60ac71c39cb17784335f496885a84317456119fab60a2f6f4ee6c11.jpg" } },
+                    { title: "Practical Tips", content: "This is a serious high-altitude commitment at 9 days — prior trekking experience is recommended over the shorter Druk Path." }
+                ],
+                faqs: [
+                    { q: "Are there really a thousand lakes on the Dagala trek?", a: "Not literally — the name refers to dozens of glacial lakes along the high-altitude route, not an exact count." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Dagala Thousand Lakes Trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for experienced trekkers wanting a serious high-altitude route past dozens of glacial lakes near Thimphu." } }
+                ] },
+            };
+
         default:
             return null;
     }

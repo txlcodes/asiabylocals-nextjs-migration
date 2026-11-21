@@ -698,6 +698,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'thimphu-food-guide', 'is-thimphu-safe',
     'thimphu-dress-code-guide', 'thimphu-weather-guide',
     'is-cooking-tour-worth-it-thimphu',
+    'is-druk-path-trek-worth-it-thimphu', 'is-gangtey-tshechu-tour-worth-it-thimphu',
+    'is-royal-highland-festival-tour-worth-it-thimphu', 'is-chilli-trail-tour-worth-it-thimphu',
+    'is-dagala-thousand-lakes-trek-worth-it-thimphu',
   ], 'bhutan', 'thimphu');
   const paroInfoPages = mapInfoSlugs([
     'best-tigers-nest-hike-tour-paro', 'best-national-museum-tour-paro',
