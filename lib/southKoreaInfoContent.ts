@@ -1556,6 +1556,132 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-gamcheon-village-tour-worth-it-busan":
+      return {
+        title: "Is the Gamcheon Culture Village Tour Worth It in Busan?",
+        description: "An honest look at Busan's Gamcheon Culture Village coastal tour, a colorful hillside neighborhood turned open-air art village.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/216617996100e11b761da1fd0770fedfbe58848bbafec5b62aa80d2d10eda4b8.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gamcheon was once a plain hillside slum neighborhood, transformed through a public art project into a maze of colorful houses, murals, and small galleries, now one of Busan's most photographed spots and genuinely different from the city's beach and seafood market circuit.",
+            tourCard: { slug: "busan-coastal-experience-with-gamcheon-village", title: "Busan: Coastal Experience with Gamcheon Village", description: "A coastal tour of Busan including the Gamcheon Culture Village.", price: "From $74", duration: "11 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/216617996100e11b761da1fd0770fedfbe58848bbafec5b62aa80d2d10eda4b8.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The village is built on a steep hillside with lots of stairs and narrow alleys — wear comfortable shoes for the walking involved.",
+          },
+        ],
+        faqs: [
+          { q: "Is Gamcheon Village worth visiting in Busan?", a: "Yes, it's one of Busan's most photographed spots, a colorful former hillside slum transformed into an open-air art village." },
+        ],
+      };
+
+    case "is-haedong-yonggungsa-temple-tour-worth-it-busan":
+      return {
+        title: "Is the Haedong Yonggungsa Temple Tour Worth It in Busan?",
+        description: "An honest look at the Haedong Yonggungsa and Haeundae tour, visiting one of the few Korean Buddhist temples built directly on the coastline.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f1147f6e8e7c6e9f11bee985c7e6091ea0400cb1640b32cb50bd3d5fd7d5ee8b.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most Korean Buddhist temples sit in the mountains, which makes Haedong Yonggungsa's coastal, oceanfront setting genuinely unusual, pairing it on this tour with a stop at Haeundae, Busan's most famous beach.",
+            tourCard: { slug: "busan-haedong-yonggungsa-haeundaechinese-driver", title: "Busan: Haedong Yonggungsa & Haeundae Tour", description: "A tour combining the coastal Haedong Yonggungsa temple with Haeundae beach.", price: "From $135", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f1147f6e8e7c6e9f11bee985c7e6091ea0400cb1640b32cb50bd3d5fd7d5ee8b.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go early to avoid both the crowds at the temple and the midday heat, since much of the walk is along exposed coastal paths.",
+          },
+        ],
+        faqs: [
+          { q: "Is Haedong Yonggungsa worth visiting?", a: "Yes, its oceanfront setting is genuinely unusual for a Korean Buddhist temple, most of which sit in the mountains." },
+        ],
+      };
+
+    case "is-gyeongju-day-trip-worth-it-busan":
+      return {
+        title: "Is the Gyeongju Day Trip Worth It from Busan?",
+        description: "An honest look at the Gyeongju UNESCO day trip from Busan, reaching the former capital of the ancient Silla Kingdom and one of Korea's richest historical sites.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4c5010afca559b02f25e3d1f357b6f0af6162402628110f9bdefe6b945fb7d4.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gyeongju was the capital of the ancient Silla Kingdom for close to a thousand years, and it's packed with UNESCO-listed tombs, temples, and historic sites, making this full-day trip a genuinely substantial history lesson rather than a quick photo stop.",
+            tourCard: { slug: "busan-gyeongju-unesco-authentic-full-day-guided", title: "Busan: Gyeongju UNESCO Authentic Full-Day Guided Tour", description: "A full-day guided tour to the UNESCO-listed historic city of Gyeongju.", price: "From $33", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4c5010afca559b02f25e3d1f357b6f0af6162402628110f9bdefe6b945fb7d4.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At 12 hours this is a full day, but it's genuinely worth it for travelers with real interest in Korean history — the Silla Kingdom sites here are some of the country's richest.",
+          },
+        ],
+        faqs: [
+          { q: "Is Gyeongju worth a day trip from Busan?", a: "Yes, for travelers with genuine interest in Korean history — it was the Silla Kingdom's capital for close to a thousand years and is packed with UNESCO sites." },
+        ],
+      };
+
+    case "is-taekwondo-experience-worth-it-busan":
+      return {
+        title: "Is the Taekwondo Experience Worth It in Busan?",
+        description: "An honest look at the 1-hour taekwondo experience with a master, a hands-on introduction to Korea's national martial art.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee180c64df08462f31706b7f171322f36896e3b684634a700287a299cedd96d6.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Taekwondo is Korea's national martial art and an Olympic sport, and this hands-on session with a genuine master teaches real basic techniques rather than just watching a demonstration, making it a genuinely active alternative to Busan's usual sightseeing pace.",
+            tourCard: { slug: "busan-1-hour-taekwondo-experience-with-master", title: "Busan: 1-Hour Taekwondo Experience with Master", description: "A 1-hour hands-on taekwondo lesson with a master instructor.", price: "From $70", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee180c64df08462f31706b7f171322f36896e3b684634a700287a299cedd96d6.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable, loose clothing you can move in — this is a genuine hands-on lesson, not a seated demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the taekwondo experience worth it in Busan?", a: "Yes, for a genuinely hands-on introduction to Korea's national martial art with a real master instructor." },
+        ],
+      };
+
+    case "is-cable-car-tower-tour-worth-it-busan":
+      return {
+        title: "Is the Busan Cable Car and Tower Tour Worth It?",
+        description: "An honest look at the Busan city trip combining a cable car ride with a tower viewpoint, covering the city's two most common elevated-view attractions.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fecbe9f45d2267f2dbf2fb01b7fb64872ec25296bdb3bc5231abc3410207d5b0.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a cable car ride with a tower viewpoint gives two different elevated perspectives of Busan's coastline and city sprawl in one outing, a straightforward way to get your bearings on the city's layout early in a trip.",
+            tourCard: { slug: "busan-city-trip-cable-car-towerchinese-driver", title: "Busan City Trip: Cable Car & Tower", description: "A city tour combining a cable car ride with a tower viewpoint.", price: "From $122", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fecbe9f45d2267f2dbf2fb01b7fb64872ec25296bdb3bc5231abc3410207d5b0.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good first-day activity to get oriented with Busan's layout before venturing out to specific neighborhoods independently.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Busan cable car and tower tour worth it?", a: "Yes, for two different elevated perspectives of the city in one outing, a good way to get oriented early in a trip." },
+        ],
+      };
+
+    case "is-night-yacht-cruise-worth-it-busan":
+      return {
+        title: "Is the Busan Night Yacht Cruise Worth It?",
+        description: "An honest look at the Busan by night yacht cruise with food and night views, seeing the city's illuminated skyline and bridges from the water after dark.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e4323eca746cfab8abdd7dd75835670e513412bf628cb932c378a583add6348.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Busan's coastal skyline and bridges, including the Gwangan Bridge, light up dramatically after dark, and seeing them from a yacht with food included gives a genuinely different, more relaxed evening than a daytime sightseeing tour.",
+            tourCard: { slug: "busan-by-night-yacht-food-night-views", title: "Busan by Night: Yacht, Food & Night Views", description: "A night yacht cruise with food, taking in Busan's illuminated skyline.", price: "From $494", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e4323eca746cfab8abdd7dd75835670e513412bf628cb932c378a583add6348.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead for a sunset departure if you want to catch both the golden hour and the full night lighting during the same cruise.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Busan night yacht cruise worth it?", a: "Yes, for a genuinely relaxed evening seeing the city's illuminated bridges and skyline from the water." },
+        ],
+      };
+
     default:
       return null;
   }

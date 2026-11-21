@@ -239,6 +239,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'jagalchi-fish-market-guide', 'busan-food-guide', 'seoul-to-busan-ktx-guide',
     'busan-nightlife-guide', 'best-tours-in-busan', 'should-i-book-busan-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-busan',
+    'is-gamcheon-village-tour-worth-it-busan', 'is-haedong-yonggungsa-temple-tour-worth-it-busan',
+    'is-gyeongju-day-trip-worth-it-busan', 'is-taekwondo-experience-worth-it-busan',
+    'is-cable-car-tower-tour-worth-it-busan', 'is-night-yacht-cruise-worth-it-busan',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/busan/${slug}`,
     lastModified: new Date(),

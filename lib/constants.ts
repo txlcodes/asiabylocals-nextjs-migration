@@ -1053,6 +1053,9 @@ export const BUSAN_INFO_SLUGS = [
   'best-tours-in-busan',
   'should-i-book-busan-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-busan',
+  'is-gamcheon-village-tour-worth-it-busan', 'is-haedong-yonggungsa-temple-tour-worth-it-busan',
+  'is-gyeongju-day-trip-worth-it-busan', 'is-taekwondo-experience-worth-it-busan',
+  'is-cable-car-tower-tour-worth-it-busan', 'is-night-yacht-cruise-worth-it-busan',
 ];
 
 // Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and
