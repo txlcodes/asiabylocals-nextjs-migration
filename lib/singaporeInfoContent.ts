@@ -579,6 +579,24 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-batam-day-trip-worth-it-singapore":
+            return {
+                title: "Is the Batam Day Trip Worth It from Singapore?",
+                seoTitle: "Batam Day Trip from Singapore 2026 | Honest Review",
+                description: "An honest look at the Batam culture day trip with lunch and massage, a quick ferry ride to Indonesian territory from Singapore.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02b972b40d33a67aec98f78cee095840d99a1bc1b6a38942aeaaabd1286e49fc.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Batam is Indonesian territory just a short ferry ride from Singapore, genuinely cheaper for things like massages and local food, making this day trip a practical way to add a second country to your trip without much extra travel time.", tourCard: { slug: "batam-culture-tour-with-lunch-massage-from", title: "Batam Culture Tour with Lunch & Massage from Singapore", description: "A day trip to Batam, Indonesia with lunch and a massage included.", price: "From $216", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02b972b40d33a67aec98f78cee095840d99a1bc1b6a38942aeaaabd1286e49fc.jpeg" } },
+                    { title: "Practical Tips", content: "Bring your passport — Batam is Indonesian territory, so this crosses an international border despite the short ferry ride." }
+                ],
+                faqs: [
+                    { q: "Is the Batam day trip worth it from Singapore?", a: "Yes, for a practical way to add a second country to your trip, with genuinely cheaper massages and local food just a short ferry ride away." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Batam day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quick way to add Indonesia to a Singapore trip with genuinely cheaper local prices." } }
+                ] },
+            };
+
         default:
             return null;
     }
