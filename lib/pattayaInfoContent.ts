@@ -736,6 +736,96 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-coral-island-tour-worth-it-pattaya":
+            return {
+                title: "Is the Coral Island Tour Worth It from Pattaya?",
+                seoTitle: "Coral Island Pattaya 2026 | Honest Review",
+                description: "An honest look at the Coral Island half-day trip, one of Pattaya's single most popular and most affordable beach and snorkeling escapes.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/coral-island-half-day-trip-with-indian-lunch/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Coral Island (Koh Larn) sits close enough to Pattaya for an easy half-day trip, with genuinely clearer water and better beaches than Pattaya's own main beach, making this one of the single most popular day activities in the area.", tourCard: { slug: "coral-island-half-day-trip-with-indian-lunch", title: "Coral Island Half-Day Trip with Indian Lunch", description: "A half-day trip to Coral Island with lunch included.", price: "From $12", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/coral-island-half-day-trip-with-indian-lunch/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Water sport add-ons like parasailing and jet skis are usually available on the island itself but cost extra beyond the base tour price." }
+                ],
+                faqs: [
+                    { q: "Is Coral Island worth visiting from Pattaya?", a: "Yes, it's one of the area's single most popular day trips, with genuinely clearer water and better beaches than Pattaya's own main beach." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Coral Island tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely clearer water and better beaches than Pattaya's own main beach." } }
+                ] },
+            };
+
+        case "is-alcazar-cabaret-show-worth-it-pattaya":
+            return {
+                title: "Is the Alcazar Cabaret Show Worth It in Pattaya?",
+                seoTitle: "Alcazar Cabaret Show 2026 | Honest Review",
+                description: "An honest look at the Alcazar cabaret show, one of Pattaya's longest-running and best-known ladyboy cabaret performances.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/alcazar-cabaret-vip-seat-admission-ticket-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Alcazar is one of Pattaya's longest-running and best-known cabaret shows, with elaborate costumes and a polished production quality that's become something of a Pattaya institution in its own right.", tourCard: { slug: "alcazar-cabaret-vip-seat-admission-ticket-in-pattaya", title: "Alcazar Cabaret VIP Seat Admission Ticket", description: "VIP seat admission to the Alcazar cabaret show.", price: "From $70", duration: "75 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/alcazar-cabaret-vip-seat-admission-ticket-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "VIP seating is worth the extra cost for this specific show — the elaborate costumes and staging are better appreciated up close." }
+                ],
+                faqs: [
+                    { q: "Is the Alcazar cabaret show worth it in Pattaya?", a: "Yes, it's one of the city's longest-running and best-known cabaret shows, a genuine Pattaya institution." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Alcazar cabaret show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's one of Pattaya's longest-running and best-known cabaret shows." } }
+                ] },
+            };
+
+        case "is-floating-market-tour-worth-it-pattaya":
+            return {
+                title: "Is the Pattaya Floating Market Tour Worth It?",
+                seoTitle: "Pattaya Floating Market 2026 | Honest Review",
+                description: "An honest look at the Buddha Floating Market and Gems Museum tour, a genuinely different cultural and shopping day from Pattaya's beaches.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/buddha-floating-market-gems-museum-tour-and-lunch/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This pairs a floating market, with vendors selling food and goods from boats on the water, with a gems museum visit, giving a genuinely different cultural and shopping day from Pattaya's beach-and-nightlife circuit.", tourCard: { slug: "buddha-floating-market-gems-museum-tour-and-lunch", title: "Buddha Floating Market, Gems Museum Tour and Lunch", description: "A tour of a floating market and gems museum with lunch included.", price: "From $21", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/buddha-floating-market-gems-museum-tour-and-lunch/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good lower-cost half-day pick if you've already covered Pattaya's main beaches and want a cultural change of pace." }
+                ],
+                faqs: [
+                    { q: "Is the floating market tour worth it in Pattaya?", a: "Yes, for a genuinely different cultural and shopping day distinct from the city's usual beach-and-nightlife circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the floating market tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different cultural and shopping day distinct from Pattaya's beach-and-nightlife circuit." } }
+                ] },
+            };
+
+        case "is-big-buddha-temple-night-market-tour-worth-it-pattaya":
+            return {
+                title: "Is the Big Buddha Temple and Night Market Tour Worth It?",
+                seoTitle: "Big Buddha Pattaya Tour 2026 | Honest Review",
+                description: "An honest look at the Big Buddha Temple and night market tour, pairing Pattaya's hilltop Buddhist shrine with an evening local market.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/big-buddha-temple-and-night-market-tour-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Big Buddha Hill is Pattaya's most significant Buddhist temple site, with views over the city, and pairing it with an evening night market gives a genuine local-culture angle distinct from the area's beach and nightlife-focused reputation.", tourCard: { slug: "big-buddha-temple-and-night-market-tour-in-pattaya", title: "Big Buddha Temple and Night Market Tour", description: "A tour combining Big Buddha Temple with an evening night market.", price: "From $90", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/big-buddha-temple-and-night-market-tour-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for the temple visit — shoulders and knees covered, as it's an active religious site." }
+                ],
+                faqs: [
+                    { q: "Is the Big Buddha Temple worth visiting in Pattaya?", a: "Yes, it's the city's most significant Buddhist temple site, a genuine local-culture angle distinct from Pattaya's beach-and-nightlife reputation." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Big Buddha Temple and night market tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine local-culture angle distinct from Pattaya's beach-and-nightlife reputation." } }
+                ] },
+            };
+
+        case "is-elephant-jungle-sanctuary-worth-it-pattaya":
+            return {
+                title: "Is the Elephant Jungle Sanctuary Worth It in Pattaya?",
+                seoTitle: "Elephant Jungle Sanctuary Pattaya 2026 | Honest Review",
+                description: "An honest look at the elephant jungle sanctuary half-day tour, an ethical, no-riding elephant encounter close to Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/elephant-jungle-sanctuary-half-day-tour-with-meal-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This sanctuary focuses on feeding, bathing, and observing elephants rather than riding them, reflecting the broader shift toward more ethical elephant tourism in Thailand, with a meal included for a fuller half-day outing.", tourCard: { slug: "elephant-jungle-sanctuary-half-day-tour-with-meal-in-pattaya", title: "Elephant Jungle Sanctuary Half-Day Tour with Meal", description: "A half-day visit to an elephant jungle sanctuary near Pattaya with a meal included.", price: "From $102", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/elephant-jungle-sanctuary-half-day-tour-with-meal-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If elephant welfare matters to you, confirm with the operator that the visit doesn't include riding, which has become widely discouraged." }
+                ],
+                faqs: [
+                    { q: "Is the elephant jungle sanctuary ethical in Pattaya?", a: "This format focuses on feeding and bathing rather than riding, reflecting the shift toward more ethical elephant tourism." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the elephant jungle sanctuary worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an ethical, no-riding elephant encounter close to the city." } }
+                ] },
+            };
+
         default:
             return null;
     }

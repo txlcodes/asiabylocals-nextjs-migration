@@ -1212,6 +1212,9 @@ export const PATTAYA_INFO_SLUGS = [
   'is-art-in-paradise-worth-it-pattaya', 'is-jet-ski-worth-it-pattaya',
   'best-indoor-adrenaline-attraction-pattaya',
   'is-discover-scuba-diving-worth-it-pattaya', 'is-flyboard-experience-worth-it-pattaya',
+  'is-coral-island-tour-worth-it-pattaya', 'is-alcazar-cabaret-show-worth-it-pattaya',
+  'is-floating-market-tour-worth-it-pattaya', 'is-big-buddha-temple-night-market-tour-worth-it-pattaya',
+  'is-elephant-jungle-sanctuary-worth-it-pattaya',
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.
