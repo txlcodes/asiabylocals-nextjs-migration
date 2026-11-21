@@ -1801,6 +1801,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-hanoi',
     'best-perfume-pagoda-tour-hanoi', 'is-bat-trang-village-tour-worth-it-hanoi',
     'is-cyclo-tour-worth-it-hanoi',
+    'is-train-street-food-tour-worth-it-hanoi', 'is-ninh-binh-day-trip-worth-it-hanoi',
+    'is-ba-vi-national-park-worth-it-hanoi', 'is-mai-chau-pu-luong-trek-worth-it-hanoi',
+    'is-ha-giang-loop-worth-it-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),

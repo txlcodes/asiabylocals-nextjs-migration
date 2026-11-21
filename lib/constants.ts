@@ -2052,6 +2052,9 @@ export const HANOI_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-hanoi',
   'best-perfume-pagoda-tour-hanoi', 'is-bat-trang-village-tour-worth-it-hanoi',
   'is-cyclo-tour-worth-it-hanoi',
+  'is-train-street-food-tour-worth-it-hanoi', 'is-ninh-binh-day-trip-worth-it-hanoi',
+  'is-ba-vi-national-park-worth-it-hanoi', 'is-mai-chau-pu-luong-trek-worth-it-hanoi',
+  'is-ha-giang-loop-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [

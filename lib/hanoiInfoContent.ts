@@ -892,6 +892,111 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-train-street-food-tour-worth-it-hanoi":
+      return {
+        title: "Is the Train Street Food Tour Worth It in Hanoi?",
+        description: "An honest look at the 7-tastings street food tour with a Train Street stop, combining Hanoi's famous narrow railway alley with a guided food crawl.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/7-tastings-street-food-tour-with-train-street-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Train Street is Hanoi's famously narrow residential alley where a working train passes just feet from cafe tables, and pairing it with a 7-stop food tour makes for an efficient evening covering one of the city's most photographed spots alongside its street food scene.",
+            tourCard: { slug: "7-tastings-street-food-tour-with-train-street-in-hanoi", title: "7 Tastings Street Food Tour with Train Street in Hanoi", description: "A guided food tour with a stop at Hanoi's famous Train Street.", price: "From $47", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/7-tastings-street-food-tour-with-train-street-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Train schedules at Train Street change periodically, so check with your guide about the current passing times before setting expectations.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Train Street food tour worth it in Hanoi?", a: "Yes, for efficiently combining one of the city's most photographed spots with a genuine guided tasting tour of local street food." },
+        ],
+      };
+
+    case "is-ninh-binh-day-trip-worth-it-hanoi":
+      return {
+        title: "Is the Ninh Binh Day Trip Worth It from Hanoi?",
+        description: "An honest look at the Bai Dinh Pagoda and Trang An day trip, often called 'Ha Long Bay on land' for its dramatic limestone karst scenery.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bai-dinh-pagoda-and-trang-an-day-trip/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ninh Binh is often called 'Ha Long Bay on land', with the same dramatic limestone karst scenery reached by small boat through rice paddies and caves rather than open sea, pairing it on this day trip with Bai Dinh, one of Vietnam's largest pagoda complexes.",
+            tourCard: { slug: "bai-dinh-pagoda-and-trang-an-day-trip", title: "Bai Dinh Pagoda and Trang An Day Trip", description: "A day trip to Bai Dinh Pagoda and the Trang An karst landscape.", price: "From $52", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/bai-dinh-pagoda-and-trang-an-day-trip/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Trang An's boat ride takes you through several low cave tunnels — this is a relaxed activity suitable for most ages and fitness levels." ,
+          },
+        ],
+        faqs: [
+          { q: "Is a Ninh Binh day trip worth it from Hanoi?", a: "Yes, for dramatic karst scenery often called 'Ha Long Bay on land', paired with one of Vietnam's largest pagoda complexes in a single day." },
+        ],
+      };
+
+    case "is-ba-vi-national-park-worth-it-hanoi":
+      return {
+        title: "Is the Ba Vi National Park Day Trip Worth It from Hanoi?",
+        description: "An honest look at the Ba Vi National Park and Ao Vua Resort day trip, a genuine nature escape close enough to Hanoi for a single day.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ba-vi-national-park-and-ao-vua-resort-day-trip-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ba Vi National Park sits close enough to Hanoi for a straightforward day trip, with forested mountain trails and old French colonial ruins, pairing it with the Ao Vua Resort's waterfalls for a mix of hiking and relaxation in a single day.",
+            tourCard: { slug: "ba-vi-national-park-and-ao-vua-resort-day-trip-in-hanoi", title: "Ba Vi National Park and Ao Vua Resort Day Trip", description: "A day trip to Ba Vi National Park and Ao Vua Resort.", price: "From $416", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ba-vi-national-park-and-ao-vua-resort-day-trip-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for a lower-commitment nature day if Sapa or Ha Giang's multi-day treks don't fit your schedule." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Ba Vi National Park worth visiting from Hanoi?", a: "Yes, for a genuine nature escape with forested trails and colonial ruins, close enough for a single day without a multi-day commitment." },
+        ],
+      };
+
+    case "is-mai-chau-pu-luong-trek-worth-it-hanoi":
+      return {
+        title: "Is the Mai Chau and Pu Luong Trek Worth It from Hanoi?",
+        description: "An honest look at the 2-day Mai Chau and Pu Luong trekking trip, a quieter rural trekking region closer to Hanoi than Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-days-mai-chau-and-pu-luong-nature-reserve-trekking/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mai Chau and Pu Luong sit significantly closer to Hanoi than Sapa, genuinely less touristed, with ethnic minority villages and rice terrace trekking that gives a similar experience to Sapa in roughly half the travel time.",
+            tourCard: { slug: "2-days-mai-chau-and-pu-luong-nature-reserve-trekking", title: "2-Days Mai Chau and Pu Luong Nature Reserve Trekking", description: "A 2-day trekking trip through Mai Chau and Pu Luong Nature Reserve.", price: "From $288", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-days-mai-chau-and-pu-luong-nature-reserve-trekking/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good alternative to Sapa for travelers short on time but still wanting genuine rice terrace trekking and ethnic minority village culture.",
+          },
+        ],
+        faqs: [
+          { q: "Is Mai Chau and Pu Luong worth it instead of Sapa?", a: "Yes, for travelers short on time — it's significantly closer to Hanoi and genuinely less touristed, with a similar trekking experience." },
+        ],
+      };
+
+    case "is-ha-giang-loop-worth-it-hanoi":
+      return {
+        title: "Is the Ha Giang Loop Worth It from Hanoi?",
+        description: "An honest look at the multi-day Ha Giang Loop motorbike tour departing from Hanoi, widely considered Vietnam's most spectacular motorbike route.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-day-ha-giang-loop-small-group-adventure-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Ha Giang Loop is widely considered Vietnam's most spectacular motorbike route, winding through dramatic limestone mountain scenery near the Chinese border, and this small-group version with an easy rider means you don't need motorbike experience yourself to do it.",
+            tourCard: { slug: "3-day-ha-giang-loop-small-group-adventure-in-hanoi", title: "3-Day Ha Giang Loop Small Group Adventure", description: "A 3-day small-group Ha Giang Loop motorbike tour from Hanoi.", price: "From $207", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/3-day-ha-giang-loop-small-group-adventure-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Choose the easy rider option (riding pillion behind an experienced driver) if you don't have real motorbike experience — the mountain roads are genuinely demanding to self-drive.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ha Giang Loop worth it from Hanoi?", a: "Yes, it's widely considered Vietnam's most spectacular motorbike route, and an easy-rider option means no prior motorbike experience is needed." },
+        ],
+      };
+
     default:
       return null;
   }
