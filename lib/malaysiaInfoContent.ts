@@ -3287,6 +3287,83 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-jet-ski-tour-langkawi":
+            return {
+                title: "Which Is the Best Jet Ski Tour in Langkawi?",
+                seoTitle: "Best Langkawi Jet Ski Tour 2026 | Comparison",
+                description: "Compare real jet ski tours in Langkawi — a quick 30-minute fun ride, a 3-hour island-hopping jet ski circuit, and a longer Kilim Geoforest Park jet ski tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-834261/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Langkawi's jet ski tours range from a quick adrenaline burst to a multi-hour circuit covering islands and mangroves — pick by how much time and distance you want.", tourCard: { slug: "langkawi-jet-ski-fun-time-experience-30-min", title: "Langkawi: Jet Ski Fun Time Experience 30-Min (Double Rider)", description: "A quick 30-minute jet ski experience for two riders.", price: "From $86", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/my-690934/img0/1600.webp" } },
+                    { title: "Best Middle Ground: Island Hopping by Jet Ski", content: "This covers Langkawi's main islands by jet ski over 3 hours, a faster and more active version of the standard island-hopping boat trip.", tourCard: { slug: "langkawi-jet-ski-tour-island-hopping-3-hour", title: "Langkawi: Jet Ski Tour Island Hopping 3 Hour Experience", description: "A 3-hour jet ski tour covering Langkawi's main islands.", price: "From $216", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-834261/img0/1600.webp" } },
+                    { title: "Best for Nature: Kilim Geoforest Park Jet Ski Tour", content: "This longer tour rides into the Kilim Geoforest Park's mangroves and limestone karsts by jet ski, a genuinely different landscape from the open-water island circuit.", tourCard: { slug: "langkawi-island-jet-ski-tour-kilim-geoforest-park", title: "Langkawi Island Jet Ski Tour Kilim Geoforest Park", description: "A jet ski tour into the Kilim Geoforest Park's mangroves.", price: "From $463", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1026693/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "No jet ski license is required — all these tours are guided, so a leader sets the pace and route." }
+                ],
+                faqs: [
+                    { q: "What is the best jet ski tour in Langkawi?", a: "A quick 30-minute ride for a taste, island hopping for a fuller circuit, or Kilim Geoforest Park for mangrove scenery." },
+                    { q: "Do I need a license for a Langkawi jet ski tour?", a: "No, these are guided tours with no license required." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best jet ski tour in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Depends on time: a quick ride, island hopping, or Kilim Geoforest Park mangroves." } }
+                ] },
+            };
+
+        case "best-atv-waterfall-tour-langkawi":
+            return {
+                title: "Which Is the Best ATV & Waterfall Tour in Langkawi?",
+                seoTitle: "Best Langkawi ATV Waterfall Tour 2026 | Comparison",
+                description: "Compare real ATV tours in Langkawi that combine jungle riding with a waterfall stop and swim.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2342b613d6950b27b4b9a697872b95caf352717aea77b89d10d536e8670ffbee.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Langkawi's ATV tours combine jungle and mountain riding with a cooling waterfall stop — a good land-based alternative to the island's many water activities.", tourCard: { slug: "langkawi-atv-mountain-jungle-and-waterfall", title: "Langkawi ATV Mountain, Jungle and Waterfall", description: "An ATV ride through mountain and jungle terrain with a waterfall stop.", price: "From $215", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2342b613d6950b27b4b9a697872b95caf352717aea77b89d10d536e8670ffbee.jpg" } },
+                    { title: "Shorter Option: ATV Fun Ride to the Waterfalls", content: "A shorter version of the same ATV-plus-waterfall format for travelers with less time to spare.", tourCard: { slug: "langkawi-atv-fun-ride-to-the-waterfalls", title: "Langkawi ATV Fun Ride To The Waterfalls", description: "A shorter ATV ride to Langkawi's waterfalls.", price: "From $367", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1093396/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit under your clothes, since most of these tours include a swim stop at the waterfall." }
+                ],
+                faqs: [
+                    { q: "What is the best ATV tour in Langkawi?", a: "The longer mountain/jungle/waterfall version for a fuller experience, or the shorter ride if you're pressed for time." },
+                    { q: "Should I bring a swimsuit for the ATV waterfall tour?", a: "Yes, most versions include a swim stop at the waterfall." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best ATV tour in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "The longer mountain/jungle/waterfall version, or a shorter ride if pressed for time." } }
+                ] },
+            };
+
+        case "is-underwater-world-worth-it-langkawi":
+            return {
+                title: "Is Underwater World Langkawi Worth It?",
+                seoTitle: "Underwater World Langkawi 2026 | Honest Review",
+                description: "An honest look at Underwater World, Langkawi's main aquarium, paired here with a private city highlights tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f693e8006ddfa3bc9f7f3ecc6c306d7b677e5b686ee09c8d8b9403daa254ba73.png",
+                sections: [
+                    { title: "The Short Answer", content: "Underwater World is Langkawi's main aquarium, a good rainy-day or family-friendly option paired here with a private city highlights tour covering the island's other landmarks.", tourCard: { slug: "langkawi-private-city-highlights-underwater-world", title: "Langkawi: Private City Highlights & Underwater World Tour", description: "A private tour combining city highlights with Underwater World.", price: "From $152", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f693e8006ddfa3bc9f7f3ecc6c306d7b677e5b686ee09c8d8b9403daa254ba73.png" } },
+                    { title: "Practical Tips", content: "A good choice on a rainy day, or for families traveling with young kids who need a break from boat trips and hiking." }
+                ],
+                faqs: [
+                    { q: "Is Underwater World Langkawi worth it?", a: "Yes, especially as a rainy-day or family-friendly option, and this version pairs it with a private city tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Underwater World worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially as a rainy-day or family-friendly option." } }
+                ] },
+            };
+
+        case "is-parasailing-worth-it-langkawi":
+            return {
+                title: "Is Parasailing Worth It in Langkawi?",
+                seoTitle: "Langkawi Parasailing 2026 | Honest Review",
+                description: "An honest look at Langkawi's parasailing experience over Pantai Cenang Beach.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1430934/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is a short, high-altitude burst of adrenaline over Pantai Cenang Beach, Langkawi's most popular beach strip — worth it as a quick add-on to a beach day, not a half-day commitment.", tourCard: { slug: "langkawi-parasailing-experience-over-pantai", title: "Langkawi: Parasailing Experience over Pantai Cenang Beach", description: "A parasailing experience over Pantai Cenang Beach.", price: "From $130", duration: "10 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1430934/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Best booked alongside a day at Pantai Cenang Beach itself, since the activity is short and based right there." }
+                ],
+                faqs: [
+                    { q: "Is parasailing worth it in Langkawi?", a: "Yes, as a short, high-altitude add-on to a Pantai Cenang Beach day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is parasailing worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a short add-on to a Pantai Cenang Beach day." } }
+                ] },
+            };
+
         default:
             return null;
     }

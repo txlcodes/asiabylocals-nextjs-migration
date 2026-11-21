@@ -213,6 +213,8 @@ export const LANGKAWI_INFO_SLUGS = [
   'langkawi-cable-car-guide', 'langkawi-duty-free-shopping',
   // Tour-selling pages (2026-11-14)
   'best-kilim-geoforest-mangrove-tour-langkawi', 'best-island-hopping-tour-langkawi',
+  'best-jet-ski-tour-langkawi', 'best-atv-waterfall-tour-langkawi',
+  'is-underwater-world-worth-it-langkawi', 'is-parasailing-worth-it-langkawi',
 ];
 
 export const MALACCA_INFO_SLUGS = [
