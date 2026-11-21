@@ -698,6 +698,44 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-discover-scuba-diving-worth-it-pattaya":
+            return {
+                title: "Is Discover Scuba Diving Worth It in Pattaya?",
+                seoTitle: "Pattaya Discover Scuba Diving 2026 | Honest Review",
+                description: "An honest look at Pattaya's Discover Scuba Diving experience, a certified-instructor-led intro dive for people with no diving certification.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/discover-scuba-diving-experience-with-instructor-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This Discover Scuba Diving format is built for complete beginners, with an instructor guiding every step from basic skills in shallow water to a real open-water dive, no certification required. Worth it if you want to try real diving rather than just snorkeling.", tourCard: { slug: "discover-scuba-diving-experience-with-instructor-in-pattaya", title: "Discover Scuba Diving Experience with Instructor in Pattaya", description: "An instructor-led introductory scuba dive with no certification required.", price: "From $213", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/discover-scuba-diving-experience-with-instructor-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a full-day commitment including boat transfer and briefing, so plan it as the day's main activity rather than squeezing it between other things." }
+                ],
+                faqs: [
+                    { q: "Is Discover Scuba Diving worth it in Pattaya?", a: "Yes, for a genuine instructor-led open-water dive with no certification needed, a step up from snorkeling." },
+                    { q: "Do I need a diving certification for Discover Scuba Diving in Pattaya?", a: "No, this experience is designed for complete beginners with no prior certification." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Discover Scuba Diving worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an instructor-led open-water dive with no certification needed." } }
+                ] },
+            };
+
+        case "is-flyboard-experience-worth-it-pattaya":
+            return {
+                title: "Is the Flyboard Experience Worth It in Pattaya?",
+                seoTitle: "Pattaya Flyboard Experience 2026 | Honest Review",
+                description: "An honest look at Pattaya's flyboard experience, a water-jet-powered flying session that's a different kind of thrill from jet skiing or banana boats.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/flyboard-experience-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Flyboarding straps water jets to your feet to lift you above the sea, a genuinely different sensation from jet skis or banana boats. Thirty minutes is enough to get the hang of it with an instructor's help and get a real taste of flight.", tourCard: { slug: "flyboard-experience-in-pattaya", title: "Flyboard Experience in Pattaya", description: "A water-jet-powered flyboard session with instructor guidance.", price: "From $156", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/flyboard-experience-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Being a confident swimmer helps, since you will fall into the water repeatedly while learning balance." }
+                ],
+                faqs: [
+                    { q: "Is flyboarding worth it in Pattaya?", a: "Yes, for a genuinely different water thrill from jet skis or banana boats, with instructor guidance included." },
+                    { q: "Do I need experience to try flyboarding in Pattaya?", a: "No, an instructor guides you through balance and control, though being a confident swimmer helps." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is flyboarding worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different water thrill from jet skis or banana boats." } }
+                ] },
+            };
+
         default:
             return null;
     }

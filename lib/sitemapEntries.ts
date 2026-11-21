@@ -1044,6 +1044,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-pattaya',
     'is-art-in-paradise-worth-it-pattaya', 'is-jet-ski-worth-it-pattaya',
     'best-indoor-adrenaline-attraction-pattaya',
+    'is-discover-scuba-diving-worth-it-pattaya', 'is-flyboard-experience-worth-it-pattaya',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),
