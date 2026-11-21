@@ -580,6 +580,42 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-seven-lakes-tour-worth-it-samarkand":
+            return {
+                title: "Is the Seven Lakes (Fann Mountains) Tour Worth It from Samarkand?",
+                seoTitle: "Samarkand Seven Lakes Tour 2026 | Honest Review",
+                description: "An honest look at the Seven Lakes day trip to the Fann Mountains from Samarkand, a dramatic natural landscape distinct from the city's Registan and madrasa sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b69a1468598c678dafa61ae53331be1e695257136ae80f716ac2c595d40127c.png",
+                sections: [
+                    { title: "The Short Answer", content: "The Seven Lakes, a chain of turquoise mountain lakes in the Fann Mountains, is a completely different landscape from Samarkand's desert-city architecture — worth the full-day trip specifically for travelers wanting genuine mountain scenery alongside the city's monuments.", tourCard: { slug: "explore-seven-lakes-in-the-fann-mountains", title: "Explore Seven Lakes in the Fann Mountains", description: "A day trip to the turquoise Seven Lakes in the Fann Mountains from Samarkand.", price: "From $182", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b69a1468598c678dafa61ae53331be1e695257136ae80f716ac2c595d40127c.png" } },
+                    { title: "Practical Tips", content: "This is a long day given the drive into the mountains, so budget the full day rather than combining it with city sightseeing." },
+                ],
+                faqs: [
+                    { q: "Is the Seven Lakes tour worth it from Samarkand?", a: "Yes, for travelers wanting genuine mountain scenery, a completely different landscape from the city's desert architecture." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Seven Lakes tour worth it from Samarkand?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely different mountain scenery from the city's architecture." } },
+                ] },
+            };
+
+        case "is-winemaking-tour-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Winemaking History and Tasting Tour Worth It?",
+                seoTitle: "Samarkand Winemaking Tour 2026 | Honest Review",
+                description: "An honest look at Samarkand's winemaking history tour with local wine tasting, a genuinely surprising activity given Uzbekistan's Muslim-majority culture, distinct from the city's usual sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1a628a9a51812d1e179af4e348639dafec1f426250ec3857f2958efded054a8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Samarkand has a surprisingly long winemaking history dating back to Russian imperial influence, and this tour pairs that history with a tasting of local wines — a genuinely unexpected angle on the city for travelers who assume Central Asia has no wine culture.", tourCard: { slug: "discover-samarkand-winemaking-history-taste-local", title: "Discover Samarkand Winemaking History & Taste Local Wine", description: "A tour covering Samarkand's winemaking history with a local wine tasting.", price: "From $91", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1a628a9a51812d1e179af4e348639dafec1f426250ec3857f2958efded054a8.jpg" } },
+                    { title: "Practical Tips", content: "This is a short, inexpensive add-on, good paired with an afternoon of sightseeing rather than a standalone outing." },
+                ],
+                faqs: [
+                    { q: "Is the Samarkand winemaking tour worth it?", a: "Yes, for a genuinely unexpected angle on the city's history, especially surprising given assumptions about Central Asian wine culture." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Samarkand winemaking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely unexpected angle on the city's history." } },
+                ] },
+            };
+
         case "is-jewish-legacy-tour-worth-it-samarkand":
             return {
                 title: "Is the Jewish Legacy Tour Worth It in Samarkand?",

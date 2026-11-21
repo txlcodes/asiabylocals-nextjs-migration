@@ -1007,6 +1007,7 @@ export const SAMARKAND_INFO_SLUGS = [
   'best-registan-walking-tour-samarkand',
   'best-plov-cooking-class-samarkand',
   'is-bread-baking-worth-it-samarkand', 'is-jewish-legacy-tour-worth-it-samarkand',
+  'is-seven-lakes-tour-worth-it-samarkand', 'is-winemaking-tour-worth-it-samarkand',
 ];
 
 export const TASHKENT_INFO_SLUGS = [
