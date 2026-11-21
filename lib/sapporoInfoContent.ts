@@ -1198,6 +1198,46 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case 'is-ice-fishing-worth-it-sapporo':
+      return {
+        title: "Is the Ice Fishing Tour Worth It near Sapporo?",
+        description: "An honest look at the ice fishing tour with tempura near Sapporo, a genuinely unique winter activity distinct from the city's usual sightseeing and ski trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ice-fishing-tour-with-tempura-and-pickup-option-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Drilling through frozen lake ice to fish, then frying your catch as tempura right there, is a genuinely unique winter activity distinct from Sapporo's usual sightseeing, ski trips, or illumination tours — a good fit for travelers who want a real taste of Hokkaido winter life.",
+            tourCard: { slug: "ice-fishing-tour-with-tempura-and-pickup-option-in-sapporo", title: "Ice Fishing Tour with Tempura and Pickup Option", description: "An ice fishing tour on a frozen lake near Sapporo with fresh tempura.", price: "From $54", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ice-fishing-tour-with-tempura-and-pickup-option-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress in serious winter layers — you're sitting on frozen ice for several hours, colder than typical city sightseeing." },
+        ],
+        faqs: [
+          { q: "Is ice fishing worth it near Sapporo?", a: "Yes, for a genuinely unique taste of Hokkaido winter life, distinct from the city's usual sightseeing and ski trips." },
+        ],
+      };
+
+    case 'is-mount-moiwa-hike-worth-it-sapporo':
+      return {
+        title: "Is the Guided Mount Moiwa Hike Worth It in Sapporo?",
+        description: "An honest look at the guided Mount Moiwa hike with hotel transfer in Sapporo, an active way to reach the city's best night-view viewpoint.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/guided-mt-moiwa-hike-with-hotel-transfer-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most visitors ride the ropeway up Mount Moiwa for the night view, but this guided hike gets you there on foot, a genuinely more active and rewarding way to earn the same panoramic city views — worth it for travelers who'd rather hike than ride.",
+            tourCard: { slug: "guided-mt-moiwa-hike-with-hotel-transfer-in-sapporo", title: "Guided Mt. Moiwa Hike with Hotel Transfer", description: "A guided hike up Mount Moiwa with hotel transfer included.", price: "From $329", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-mt-moiwa-hike-with-hotel-transfer-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time this for late afternoon into evening to catch the city lights at the summit after the climb." },
+        ],
+        faqs: [
+          { q: "Is the Mount Moiwa hike worth it in Sapporo?", a: "Yes, for a more active, rewarding way to reach the same panoramic night views most visitors get by ropeway." },
+        ],
+      };
+
     default:
             return null;
     }

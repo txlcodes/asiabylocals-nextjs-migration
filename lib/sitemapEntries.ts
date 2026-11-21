@@ -1272,7 +1272,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'where-to-stay-in-sapporo',
     'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-sapporo',
-    'is-ramen-making-class-worth-it-sapporo'].map(slug => ({
+    'is-ramen-making-class-worth-it-sapporo',
+    'is-ice-fishing-worth-it-sapporo', 'is-mount-moiwa-hike-worth-it-sapporo'].map(slug => ({
     url: `${BASE_URL}/japan/sapporo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
