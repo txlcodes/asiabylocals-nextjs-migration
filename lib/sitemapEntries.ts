@@ -1725,6 +1725,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'saigon-day-trips-guide',
     'best-tours-in-ho-chi-minh-city', 'should-i-book-ho-chi-minh-city-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-ho-chi-minh-city',
+    'is-reunification-palace-worth-it-ho-chi-minh-city', 'is-vespa-food-tour-worth-it-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),

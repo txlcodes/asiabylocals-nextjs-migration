@@ -778,6 +778,49 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-reunification-palace-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Reunification Palace Worth Visiting in Ho Chi Minh City?",
+        description: "An honest look at the Reunification Palace, the former South Vietnamese presidential palace preserved as it was on the day Saigon fell in 1975.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ho-chi-min-reunification-palace-entry-ticket-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Reunification Palace, the former South Vietnamese presidential palace, is preserved almost exactly as it was on April 30, 1975, when North Vietnamese tanks breached its gates — a genuinely significant historical site, and a low-cost add-on to a day exploring the city center.",
+            tourCard: { slug: "ho-chi-min-reunification-palace-entry-ticket-in-ho-chi-minh-city", title: "Ho Chi Minh: Reunification Palace Entry Ticket in Ho Chi Minh City", description: "Entry ticket to the Reunification Palace.", price: "From $19", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/ho-chi-min-reunification-palace-entry-ticket-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth pairing with the nearby War Remnants Museum for a fuller understanding of the Vietnam War's history in one city-center day.",
+          },
+        ],
+        faqs: [
+          { q: "Why is the Reunification Palace significant?", a: "It's preserved almost exactly as it was on April 30, 1975, when North Vietnamese tanks breached its gates, marking the end of the war." },
+          { q: "Is the Reunification Palace worth visiting?", a: "Yes, as a low-cost, significant historical site that's an easy add-on to a city-center day." },
+        ],
+      };
+
+    case "is-vespa-food-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Saigon Vespa Food Tour Worth It in Ho Chi Minh City?",
+        description: "An honest look at Saigon's Vespa-based food tour, combining Michelin-noted stalls with hidden local gems reached by scooter.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/saigon-vespa-michelin-foodie-and-hidden-gems-tour-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding on the back of a Vespa with a local driver is both the transport and the experience here, covering Michelin-noted food stalls and hidden spots that would be hard to reach or find walking — a genuinely immersive way to experience Saigon's chaotic, scooter-driven street life.",
+            tourCard: { slug: "saigon-vespa-michelin-foodie-and-hidden-gems-tour-ho-chi-minh-city", title: "Saigon Vespa Michelin Foodie and Hidden Gems Tour (Ho Chi Minh City)", description: "A Vespa food tour covering Michelin-noted stalls and hidden local gems.", price: "From $114", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/saigon-vespa-michelin-foodie-and-hidden-gems-tour-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry and wear comfortable clothes you don't mind getting a little messy on — this covers multiple tastings while weaving through Saigon traffic.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Vespa food tour worth it in Saigon?", a: "Yes, for both the food and the immersive experience of riding through the city's scooter-driven street life." },
+        ],
+      };
+
     default:
       return null;
   }
