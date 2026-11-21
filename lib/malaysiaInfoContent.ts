@@ -3517,6 +3517,42 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bujang-valley-tour-worth-it-penang":
+            return {
+                title: "Is the Bujang Valley Tour Worth It from Penang?",
+                seoTitle: "Bujang Valley Tour from Penang 2026 | Honest Review",
+                description: "An honest look at the Bujang Valley guided day trip from Penang, a genuine archaeological history stop distinct from George Town's colonial heritage sights.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1455699/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bujang Valley holds some of Southeast Asia's oldest archaeological remains, ancient Hindu-Buddhist temple ruins predating George Town by over a thousand years — a genuinely different historical era from Penang's usual colonial and street-art sights.", tourCard: { slug: "from-penang-bujang-valley-guided-tour-with-lunch", title: "From Penang: Bujang Valley Guided Tour with Lunch", description: "A guided day trip to Bujang Valley's ancient archaeological site with lunch included.", price: "From $173", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1455699/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This suits travelers genuinely interested in ancient history rather than scenery — the site itself is more archaeological than visually dramatic." },
+                ],
+                faqs: [
+                    { q: "Is the Bujang Valley tour worth it from Penang?", a: "Yes, for travelers interested in Southeast Asia's ancient history, a genuinely different era from Penang's colonial-era sights." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bujang Valley tour worth it from Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers interested in ancient Southeast Asian history." } },
+                ] },
+            };
+
+        case "is-bukit-merah-orangutan-tour-worth-it-penang":
+            return {
+                title: "Is the Bukit Merah Orangutan Sanctuary Tour Worth It from Penang?",
+                seoTitle: "Bukit Merah Orangutan Tour from Penang 2026 | Honest Review",
+                description: "An honest look at the Bukit Merah orangutan sanctuary day tour from Penang, a wildlife-focused day trip distinct from the city's heritage and food tours.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1269502/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This day trip to the Bukit Merah orangutan sanctuary gives genuine wildlife viewing in a conservation setting, a completely different kind of day from George Town's heritage walks and food tours.", tourCard: { slug: "from-penang-bukit-merah-orangutan-sanctuary-tour", title: "From Penang: Bukit Merah Orangutan Sanctuary Tour", description: "A day trip to the Bukit Merah orangutan sanctuary from Penang.", price: "From $285", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1269502/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book this if wildlife viewing matters more to your trip than heritage sightseeing — it's a genuinely different focus from most Penang day trips." },
+                ],
+                faqs: [
+                    { q: "Is the Bukit Merah orangutan tour worth it from Penang?", a: "Yes, for travelers wanting a genuine wildlife-conservation experience, a completely different day from George Town's heritage sights." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bukit Merah orangutan tour worth it from Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine wildlife-conservation experience distinct from heritage sightseeing." } },
+                ] },
+            };
+
         default:
             return null;
     }

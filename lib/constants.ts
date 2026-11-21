@@ -215,6 +215,7 @@ export const PENANG_INFO_SLUGS = [
   // Tour-selling page (2026-11-14)
   'best-george-town-heritage-tour-penang',
   'best-street-food-tour-penang',
+  'is-bujang-valley-tour-worth-it-penang', 'is-bukit-merah-orangutan-tour-worth-it-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [

@@ -924,6 +924,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-penang',
     'best-george-town-heritage-tour-penang',
     'best-street-food-tour-penang',
+    'is-bujang-valley-tour-worth-it-penang', 'is-bukit-merah-orangutan-tour-worth-it-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),
