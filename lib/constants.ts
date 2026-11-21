@@ -870,6 +870,8 @@ export const SEOUL_INFO_SLUGS = [
   'should-i-book-seoul-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
   'how-much-should-a-private-tour-guide-cost-in-seoul',
+  'is-nami-island-tour-worth-it-seoul', 'is-han-river-cruise-worth-it-seoul',
+  'is-kimchi-cooking-class-worth-it-seoul', 'is-everland-worth-it-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and

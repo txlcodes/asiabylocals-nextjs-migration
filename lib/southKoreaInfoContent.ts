@@ -1329,6 +1329,86 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-nami-island-tour-worth-it-seoul":
+      return {
+        title: "Is the Nami Island Day Trip Worth It from Seoul?",
+        description: "An honest look at the Nami Island, Petite France, and Gangchon Railbike day trip from Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27c029b48e05133ecaec4e7dab954711fd1da1d0b4a6f683f1f11222235484b8.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nami Island, famous as a K-drama filming location with its tree-lined paths, is paired here with the themed Petite France village and a scenic Gangchon railbike ride — a full day outside the city covering several distinct attractions.",
+            tourCard: { slug: "nami-island-petite-france-and-gangchon-railbike", title: "Nami Island, Petite France and Gangchon Railbike from Seoul", description: "A day trip to Nami Island, Petite France, and the Gangchon Railbike.", price: "From $103", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27c029b48e05133ecaec4e7dab954711fd1da1d0b4a6f683f1f11222235484b8.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Autumn is Nami Island's most famous season, when the tree-lined paths turn golden — expect larger crowds during that period." },
+        ],
+        faqs: [
+          { q: "Why is Nami Island famous?", a: "As a popular K-drama filming location with distinctive tree-lined paths, especially photogenic in autumn." },
+        ],
+      };
+
+    case "is-han-river-cruise-worth-it-seoul":
+      return {
+        title: "Is the Han River Cruise Worth It in Seoul?",
+        description: "An honest look at the Hangang Bus guided Han River journey in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1c112b22fdf7c3c5abed4f23f973f45d0cdc956c51d0caeb1554f9a084982bbb.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Hangang Bus is a hybrid bus-boat that cruises along the Han River, showing Seoul's skyline and riverside parks from the water — a relaxed way to see the city from a different angle than walking or the subway.",
+            tourCard: { slug: "seoul-guided-han-river-journey-aboard-the-hangang", title: "Seoul: Guided Han River Journey Aboard the Hangang Bus", description: "A guided Han River journey aboard the Hangang Bus.", price: "From $194", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1c112b22fdf7c3c5abed4f23f973f45d0cdc956c51d0caeb1554f9a084982bbb.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Evening departures catch Seoul's skyline lit up after dark, a popular reason travelers choose this over a daytime slot." },
+        ],
+        faqs: [
+          { q: "What is the Hangang Bus?", a: "A hybrid bus-boat vehicle that cruises along Seoul's Han River." },
+        ],
+      };
+
+    case "is-kimchi-cooking-class-worth-it-seoul":
+      return {
+        title: "Is a Kimchi Cooking Class Worth It in Seoul?",
+        description: "An honest look at Seoul's Korean kimchi cooking class in the heart of the city.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2c30f083353be9861b24bfdb593e67efd65a7761d8695f16bc68826a78e1c0f7.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This class teaches you to make kimchi, Korea's defining fermented dish, by hand — a genuine hands-on cultural activity distinct from simply eating it at a restaurant.",
+            tourCard: { slug: "seoul-korean-kimchi-cooking-class-in-the-heart-of", title: "Seoul: Korean Kimchi Cooking Class in the Heart of the City", description: "A Korean kimchi cooking class in central Seoul.", price: "From $111", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2c30f083353be9861b24bfdb593e67efd65a7761d8695f16bc68826a78e1c0f7.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You typically take your finished kimchi home, so bring a way to transport it in your luggage if you're not staying long after." },
+        ],
+        faqs: [
+          { q: "Is a kimchi cooking class worth it in Seoul?", a: "Yes, for a genuine hands-on introduction to Korea's defining fermented dish." },
+        ],
+      };
+
+    case "is-everland-worth-it-seoul":
+      return {
+        title: "Is Everland Theme Park Worth It from Seoul?",
+        description: "An honest look at Everland, South Korea's largest theme park, reached by round-trip shuttle bus from Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5bb34cc493678.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Everland is South Korea's largest theme park, with roller coasters, a zoo, and seasonal festivals — this round-trip shuttle bus makes the day trip from Seoul straightforward without needing to navigate transit yourself.",
+            tourCard: { slug: "seoul-everland-theme-park-round-trip-shuttle-bus", title: "Seoul: Everland Theme Park Round Trip Shuttle Bus", description: "A round-trip shuttle bus to Everland Theme Park.", price: "From $40", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5bb34cc493678.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a full-day commitment at 12 hours including transfers — plan for an early start to maximize time in the park." },
+        ],
+        faqs: [
+          { q: "Is Everland worth visiting from Seoul?", a: "Yes, it's South Korea's largest theme park, and this shuttle bus makes the day trip straightforward." },
+        ],
+      };
+
     default:
       return null;
   }

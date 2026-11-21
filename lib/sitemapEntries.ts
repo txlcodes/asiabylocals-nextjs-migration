@@ -207,6 +207,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'bukchon-hanok-village-guide', 'insadong-guide', 'gwangjang-market-guide',
     'seoul-palaces-guide', 'seoul-night-market-food-guide', 'best-tours-in-seoul', 'should-i-book-seoul-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-seoul',
+    'is-nami-island-tour-worth-it-seoul', 'is-han-river-cruise-worth-it-seoul',
+    'is-kimchi-cooking-class-worth-it-seoul', 'is-everland-worth-it-seoul',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),
