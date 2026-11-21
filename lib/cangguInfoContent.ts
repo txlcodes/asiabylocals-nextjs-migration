@@ -1061,6 +1061,69 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-drag-show-worth-it-canggu":
+      return {
+        title: "Is the Drag Show Worth It in Canggu?",
+        description: "An honest look at Canggu's drag show with optional dinner, a nightlife option distinct from the area's usual surf, beach club, and wellness activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/drag-show-with-optional-dinner-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This two-hour drag show is a genuinely different evening activity from Canggu's surf-and-wellness daytime scene, giving visitors a taste of the area's more eclectic nightlife, with an optional dinner add-on to make it a fuller evening out.",
+            tourCard: { slug: "drag-show-with-optional-dinner-in-canggu", title: "Drag Show with Optional Dinner in Canggu", description: "A drag show performance with an optional dinner add-on in Canggu.", price: "From $23", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/drag-show-with-optional-dinner-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the dinner add-on if you want a full evening out rather than just the show — check timing since seating for dinner service may run earlier.",
+          },
+        ],
+        faqs: [
+          { q: "Is the drag show worth it in Canggu?", a: "Yes, for a genuinely different evening of entertainment distinct from Canggu's daytime surf-and-wellness scene." },
+        ],
+      };
+
+    case "is-painting-workshop-worth-it-canggu":
+      return {
+        title: "Is the Canvas and Sip Painting Workshop Worth It in Canggu?",
+        description: "An honest look at Canggu's canvas and sip painting workshop, a relaxed creative activity distinct from the area's surf lessons and beach club scene.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/canvas-and-sip-the-painting-workshop-at-wild-art-bali/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This one-hour canvas and sip painting workshop pairs a relaxed creative activity with a drink, a low-key alternative to Canggu's surf lessons and beach club crowds, good for a quieter afternoon or evening.",
+            tourCard: { slug: "canvas-and-sip-the-painting-workshop-at-wild-art-bali", title: "Canvas and Sip: The Painting Workshop at Wild Art Bali", description: "A one-hour canvas and sip painting workshop with a drink included.", price: "From $26", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/canvas-and-sip-the-painting-workshop-at-wild-art-bali/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No art experience is needed, and you take your finished canvas home as a souvenir.",
+          },
+        ],
+        faqs: [
+          { q: "Is the canvas and sip painting workshop worth it in Canggu?", a: "Yes, for a relaxed, low-key creative activity that's a nice change of pace from Canggu's surf and beach club scene." },
+        ],
+      };
+
+    case "is-puppy-yoga-worth-it-canggu":
+      return {
+        title: "Is Puppy Yoga Worth It in Canggu?",
+        description: "An honest look at Canggu's yoga class with puppies, smoothie bowl, and pool access, a novelty wellness experience distinct from standard yoga studios.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kuta-yoga-class-with-puppy-and-smoothie-bowl-and-pool-access-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This yoga class adds playful puppies into the session alongside a smoothie bowl and pool access afterward, a lighter, more novelty-focused format than a standard studio class — worth it if the puppy element is the actual draw rather than a serious practice.",
+            tourCard: { slug: "kuta-yoga-class-with-puppy-and-smoothie-bowl-and-pool-access-canggu", title: "Kuta: Yoga Class with Puppy, Smoothie Bowl & Pool Access", description: "A yoga class with puppies, a smoothie bowl, and pool access.", price: "From $171", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/kuta-yoga-class-with-puppy-and-smoothie-bowl-and-pool-access-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a premium novelty experience rather than a budget yoga class — go in expecting a fun, Instagram-worthy session rather than a rigorous practice.",
+          },
+        ],
+        faqs: [
+          { q: "Is puppy yoga worth it in Canggu?", a: "Yes, if the playful novelty of practicing alongside puppies is the draw, paired with a smoothie bowl and pool access afterward." },
+        ],
+      };
+
     default:
       return null;
   }

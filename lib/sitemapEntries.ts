@@ -1735,6 +1735,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'canggu-nusa-penida-day-trip', 'best-tours-in-canggu', 'should-i-book-canggu-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-canggu',
     'best-surf-lesson-canggu',
+    'is-drag-show-worth-it-canggu', 'is-painting-workshop-worth-it-canggu',
+    'is-puppy-yoga-worth-it-canggu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/canggu/${slug}`,
     lastModified: new Date(),

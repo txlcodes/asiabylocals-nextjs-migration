@@ -1975,6 +1975,8 @@ export const CANGGU_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-canggu',
   // Tour-selling page (2026-11-10)
   'best-surf-lesson-canggu',
+  'is-drag-show-worth-it-canggu', 'is-painting-workshop-worth-it-canggu',
+  'is-puppy-yoga-worth-it-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
