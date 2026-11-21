@@ -1297,6 +1297,42 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-vani-sulfur-baths-tour-worth-it-kutaisi":
+            return {
+                title: "Is the Vani Museum and Sulfur Baths Tour Worth It from Kutaisi?",
+                seoTitle: "Vani Sulfur Baths Tour from Kutaisi 2026 | Honest Review",
+                description: "An honest look at the Vani Museum and sulfur baths day trip from Kutaisi, pairing ancient Colchian archeology with a soak, distinct from the city's cave and canyon circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c6ff7caa8f8dd860b09df884da02a7d0cac401231f88735031c42a8d1da5f2cb.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Vani was a major ancient Colchian city, and its museum holds genuine archaeological finds predating the Greek-myth Golden Fleece legends associated with the region — paired here with a relaxing sulfur bath soak, a nice mix of history and relaxation distinct from Kutaisi's usual cave-and-canyon day trips.", tourCard: { slug: "from-kutaisi-vani-sulfur-baths-day-trip", title: "From Kutaisi: Vani Museum & Sulfur Baths Day Trip", description: "A day trip combining the Vani archeological museum with sulfur baths.", price: "From $91", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c6ff7caa8f8dd860b09df884da02a7d0cac401231f88735031c42a8d1da5f2cb.jpg" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit for the sulfur baths portion of the day, and note the mineral water has a distinct sulfur smell that lingers briefly on skin." },
+                ],
+                faqs: [
+                    { q: "Is the Vani and sulfur baths tour worth it from Kutaisi?", a: "Yes, for a genuine mix of ancient Colchian history and relaxation, different from the city's usual cave and canyon day trips." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Vani and sulfur baths tour worth it from Kutaisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine mix of ancient history and relaxation." } },
+                ] },
+            };
+
+        case "is-racha-wine-tour-worth-it-kutaisi":
+            return {
+                title: "Is the Racha Wine Tasting Day Trip Worth It from Kutaisi?",
+                seoTitle: "Racha Wine Tour from Kutaisi 2026 | Honest Review",
+                description: "An honest look at the Racha day trip with wine tasting from Kutaisi, a mountainous wine sub-region genuinely different from the flatter Kakheti wine country most visitors associate with Georgian wine.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f12281d0ccd3cfff5ffae7bcc882ca97ba70a62e471e7cdcf2fb6cc634d722d.png",
+                sections: [
+                    { title: "The Short Answer", content: "Racha is a mountainous wine sub-region known for semi-sweet wines made from the Alexandrouli and Mujuretuli grapes, genuinely different terrain and grape varieties from the flatter, more famous Kakheti wine country — worth it for travelers wanting to go beyond the standard wine-tour circuit.", tourCard: { slug: "from-kutaisi-racha-day-trip-with-wine-testing", title: "From Kutaisi: Racha Day Trip with Wine Tasting", description: "A day trip to the Racha mountain wine region with wine tasting.", price: "From $377", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f12281d0ccd3cfff5ffae7bcc882ca97ba70a62e471e7cdcf2fb6cc634d722d.png" } },
+                    { title: "Practical Tips", content: "Mountain roads into Racha can be winding, so this suits travelers comfortable with a longer, scenic drive." },
+                ],
+                faqs: [
+                    { q: "Is the Racha wine tour worth it from Kutaisi?", a: "Yes, for travelers wanting to try a genuinely different wine region and grape variety beyond the standard Kakheti circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Racha wine tour worth it from Kutaisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different wine region and grape variety beyond Kakheti." } },
+                ] },
+            };
+
         case "is-dmanisi-archeology-tour-worth-it-tbilisi":
             return {
                 title: "Is the Dmanisi Archeology Tour Worth It from Tbilisi?",

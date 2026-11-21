@@ -803,6 +803,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-prometheus-cave-tour-kutaisi', 'is-tskaltubo-sanatoriums-tour-worth-it-kutaisi',
     'kutaisi-travel-guide-2026',
     'is-okatse-canyon-tour-worth-it-kutaisi', 'is-katskhi-pillar-tour-worth-it-kutaisi',
+    'is-vani-sulfur-baths-tour-worth-it-kutaisi', 'is-racha-wine-tour-worth-it-kutaisi',
   ], 'georgia', 'kutaisi');
 
   const salalahInfoPages = mapInfoSlugs([
