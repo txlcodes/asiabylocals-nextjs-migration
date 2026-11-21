@@ -1472,7 +1472,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'srinagar-travel-guide', 'kashmir-food-guide',
     'kashmir-in-winter', 'kashmir-in-summer',
     'kashmir-budget-guide', 'best-tours-in-kashmir', 'should-i-book-kashmir-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-kashmir'
+    'how-much-should-a-private-tour-guide-cost-in-kashmir',
+    'is-pashmina-craft-tour-worth-it-kashmir', 'is-gulmarg-gondola-skiing-worth-it-kashmir',
+    'is-doodhpathri-day-trip-worth-it-kashmir', 'is-yousmarg-day-trip-worth-it-kashmir',
+    'is-vaishno-devi-tour-worth-it-kashmir',
   ].map(slug => ({
     url: `${BASE_URL}/india/kashmir/${slug}`,
     lastModified: new Date(),

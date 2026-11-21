@@ -5557,6 +5557,106 @@ description: "Amber Fort at opening, City Palace, Hawa Mahal and Nahargarh for s
                     },
                 };
 
+            case "is-pashmina-craft-tour-worth-it-kashmir":
+                return {
+                    title: "Is the Cashmere Pashmina Craft Tour Worth It in Kashmir?",
+                    description: "An honest look at Srinagar's pashmina craft tour with master artisans, a hands-on introduction to Kashmir's famous cashmere weaving.",
+                    heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f182d4a1fb716b4bea45345ebd47fb754c925968208ff31b405e3dc68c760517.png",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Kashmir is the source of genuine pashmina, and this short workshop with master artisans shows how the raw wool is spun and woven by hand, which also makes it much easier to tell a real handwoven pashmina from a machine-made imitation when shopping afterward.",
+                            tourCard: { slug: "srinagar-cashmere-pashmina-craft-tour-with-master", title: "Srinagar: Cashmere Pashmina Craft Tour with Master Artisans", description: "A hands-on pashmina weaving demonstration with master artisans.", price: "From $48", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f182d4a1fb716b4bea45345ebd47fb754c925968208ff31b405e3dc68c760517.png" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "Worth doing before, not after, any pashmina shopping in Srinagar's markets — it makes spotting a genuine handwoven piece far easier." },
+                    ],
+                    faqs: [
+                        { q: "Is pashmina from Kashmir genuine?", a: "Authentic pashmina is hand-spun and hand-woven from Kashmir's cashmere goat wool; this tour shows the real process so you can recognise machine-made imitations later." },
+                    ],
+                };
+
+            case "is-gulmarg-gondola-skiing-worth-it-kashmir":
+                return {
+                    title: "Is Gulmarg Gondola Skiing Worth It?",
+                    description: "An honest look at guided skiing on the Gulmarg Gondola, one of the world's highest cable cars and a genuine winter-sports draw in Kashmir.",
+                    heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09e62805fe466f02c66874af6686d03403f01c44a924638a685d87949ca61274.png",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Gulmarg's gondola climbs to some of the highest skiable terrain in the world, and a guided day with Gulmarg Snowkings covers gear, lift access, and instruction, making it workable even for skiers without their own equipment or local know-how.",
+                            tourCard: { slug: "gulmarg-gondola-skiing-with-gulmarg-snowkings", title: "Gulmarg: Gondola Skiing with Gulmarg Snowkings + Pickup", description: "A guided skiing day on the Gulmarg Gondola with equipment and pickup.", price: "From $137", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09e62805fe466f02c66874af6686d03403f01c44a924638a685d87949ca61274.png" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "A guided freeride option with the same operator is also available for more experienced skiers wanting off-piste terrain rather than the main gondola runs." },
+                    ],
+                    faqs: [
+                        { q: "Can beginners ski at Gulmarg?", a: "Yes, a guided day with gear and instruction included makes the gondola runs workable even without prior equipment or local knowledge of the mountain." },
+                    ],
+                };
+
+            case "is-doodhpathri-day-trip-worth-it-kashmir":
+                return {
+                    title: "Is the Doodhpathri Day Trip Worth It from Srinagar?",
+                    description: "An honest look at the Doodhpathri day trip, a quieter alpine meadow alternative to the more crowded Gulmarg and Sonamarg.",
+                    heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eafd390f7ae3d09155d8a50508102cfd3ca12fdd8e75bcb5c44c08bfd0f5a961.jpeg",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Doodhpathri, meaning 'valley of milk', is a grassy alpine meadow that sees far fewer visitors than Gulmarg or Sonamarg, making this day trip with transfers a good pick for travellers who've already done the bigger-name meadows and want somewhere quieter.",
+                            tourCard: { slug: "srinagar-doodhpathri-day-trip-with-transfers", title: "Srinagar: Doodhpathri Day Trip with Transfers", description: "A day trip to the Doodhpathri meadow with transfers from Srinagar.", price: "From $40", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eafd390f7ae3d09155d8a50508102cfd3ca12fdd8e75bcb5c44c08bfd0f5a961.jpeg" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "Best for travellers on a second or third Kashmir visit, or anyone wanting a meadow day without Gulmarg's crowds." },
+                    ],
+                    faqs: [
+                        { q: "Is Doodhpathri worth visiting instead of Gulmarg?", a: "It's a good complement rather than a replacement — quieter and less developed, which suits travellers who've already seen Gulmarg or want to avoid its crowds." },
+                    ],
+                };
+
+            case "is-yousmarg-day-trip-worth-it-kashmir":
+                return {
+                    title: "Is the Yousmarg Day Trip Worth It from Srinagar?",
+                    description: "An honest look at the Yousmarg day trip, a forested meadow destination less visited than Gulmarg or Pahalgam.",
+                    heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/51fbc8c7b1cd55fe3e63f975e498adeb32ffca57bf6fef86a22c3dccaf6fc4ec.jpg",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Yousmarg sits further from Srinagar than the main tourist circuit, which keeps it genuinely quiet — pine forests and open meadows with a fraction of Gulmarg's foot traffic, reached on this full-day trip with transfers.",
+                            tourCard: { slug: "from-srinagar-full-day-trip-to-yousmarg", title: "From Srinagar: Full-Day Trip to Yousmarg", description: "A full-day trip to the Yousmarg meadow with transfers from Srinagar.", price: "From $40", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/51fbc8c7b1cd55fe3e63f975e498adeb32ffca57bf6fef86a22c3dccaf6fc4ec.jpg" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "Pack for a full day out; Yousmarg has little in the way of restaurants or shops compared to Gulmarg." },
+                    ],
+                    faqs: [
+                        { q: "Is Yousmarg less crowded than Gulmarg?", a: "Yes, it's further off the main circuit and sees a fraction of the foot traffic, at the cost of fewer facilities." },
+                    ],
+                };
+
+            case "is-vaishno-devi-tour-worth-it-kashmir":
+                return {
+                    title: "Is the Vaishno Devi Tour Worth It from Srinagar?",
+                    description: "An honest look at the multi-day Vaishno Devi pilgrimage tour, which combines the Kashmir valley circuit with a visit to one of India's most-visited Hindu shrines.",
+                    heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcd76c055aeaeed4dad52809581ff090af83e6cd9143b5f6881011f17de17a6d.jpg",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Vaishno Devi, near Katra in Jammu, is one of India's most-visited pilgrimage sites, and this multi-day tour pairs it with the Kashmir valley circuit rather than treating it as a separate trip, which suits travellers whose visit has a spiritual component alongside sightseeing.",
+                            tourCard: { slug: "srinagar-winter-vaishno-devi-7-day-tour", title: "Srinagar: Winter Vaishno Devi 7-Day Tour", description: "A 7-day tour combining the Kashmir valley circuit with the Vaishno Devi pilgrimage.", price: "From $1027", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dcd76c055aeaeed4dad52809581ff090af83e6cd9143b5f6881011f17de17a6d.jpg" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "The shrine involves a steep uphill walk (or pony/helicopter options); build in rest time if travelling with elderly family members." },
+                    ],
+                    faqs: [
+                        { q: "Is Vaishno Devi part of a typical Kashmir trip?", a: "Not usually on a short valley-only visit, but it pairs naturally with a longer tour for travellers who want the pilgrimage alongside the sightseeing circuit." },
+                    ],
+                };
+
             case "is-fantasea-show-worth-it-phuket":
                 return {
                     title: "Is the FantaSea Show Worth It in Phuket?",

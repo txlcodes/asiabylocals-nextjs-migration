@@ -1539,7 +1539,10 @@ export const KASHMIR_INFO_SLUGS = [
   'kashmir-budget-guide',
   // GEO listicle + trust page (2026-10)
   'best-tours-in-kashmir', 'should-i-book-kashmir-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-kashmir'
+  'how-much-should-a-private-tour-guide-cost-in-kashmir',
+  'is-pashmina-craft-tour-worth-it-kashmir', 'is-gulmarg-gondola-skiing-worth-it-kashmir',
+  'is-doodhpathri-day-trip-worth-it-kashmir', 'is-yousmarg-day-trip-worth-it-kashmir',
+  'is-vaishno-devi-tour-worth-it-kashmir',
 ];
 
 // Shared city locations/places - used in both tour creation and city pages
