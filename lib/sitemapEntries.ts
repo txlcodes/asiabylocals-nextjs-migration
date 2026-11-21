@@ -1899,6 +1899,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-surf-lesson-canggu',
     'is-drag-show-worth-it-canggu', 'is-painting-workshop-worth-it-canggu',
     'is-puppy-yoga-worth-it-canggu',
+    'is-surf-lessons-worth-it-canggu', 'is-pool-club-day-pass-worth-it-canggu',
+    'is-silver-jewelry-class-worth-it-canggu', 'is-mount-batukaru-trek-worth-it-canggu',
+    'is-jatiluwih-tanah-lot-tour-worth-it-canggu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/canggu/${slug}`,
     lastModified: new Date(),

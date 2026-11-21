@@ -1124,6 +1124,111 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-surf-lessons-worth-it-canggu":
+      return {
+        title: "Are Surf Lessons Worth It in Canggu?",
+        description: "An honest look at beginner surf lessons in Canggu, Bali's most beginner-friendly surf town with soft, sandy-bottomed beach breaks.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/beginner-surf-lessons-in-canggu-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Canggu's beach breaks are genuinely softer and more forgiving than Uluwatu's sharp reef breaks, making it Bali's most beginner-friendly surf town, and a proper lesson here gets you up and riding small waves far faster than trying to teach yourself.",
+            tourCard: { slug: "beginner-surf-lessons-in-canggu-canggu", title: "Beginner Surf Lessons in Canggu", description: "Beginner surf lessons on Canggu's forgiving beach breaks.", price: "From $34", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/beginner-surf-lessons-in-canggu-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Canggu is widely considered the best place in Bali to learn, specifically because of its soft, sandy-bottomed breaks compared to the sharp reef breaks further south.",
+          },
+        ],
+        faqs: [
+          { q: "Is Canggu good for beginner surfers?", a: "Yes, it's widely considered Bali's most beginner-friendly surf town, with soft sandy-bottomed breaks compared to sharper reef breaks elsewhere on the island." },
+        ],
+      };
+
+    case "is-pool-club-day-pass-worth-it-canggu":
+      return {
+        title: "Is a Pool Club Day Pass Worth It in Canggu?",
+        description: "An honest look at Canggu's pool club day pass, a cheap way to access a resort-style pool with a drink and sunbed included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pool-pass-with-drink-sunbed-and-towel-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A pool club day pass is a genuinely cheap way to access a resort-style pool, sunbed, and a drink without booking an actual hotel stay there, a good relaxed day between Canggu's surf sessions and beach club crawls.",
+            tourCard: { slug: "pool-pass-with-drink-sunbed-and-towel-in-canggu", title: "Pool Pass with Drink, Sunbed and Towel in Canggu", description: "A day pass to a Canggu pool with a drink, sunbed, and towel included.", price: "From $9", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/pool-pass-with-drink-sunbed-and-towel-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At this price, it's a genuinely low-risk way to try a resort-style pool for a day rather than committing to a full hotel stay there." ,
+          },
+        ],
+        faqs: [
+          { q: "Is a pool club day pass worth it in Canggu?", a: "Yes, it's a genuinely cheap way to access a resort-style pool and drink without booking a hotel stay there." },
+        ],
+      };
+
+    case "is-silver-jewelry-class-worth-it-canggu":
+      return {
+        title: "Is the Silver Jewelry Making Class Worth It in Canggu?",
+        description: "An honest look at Canggu's silver jewelry class, a hands-on workshop crafting your own piece to take home as a genuine souvenir.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/canggu-silver-jewelry-class-craft-your-own-silver-piece-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rather than buying finished silver jewelry at a shop, this class has you craft your own piece by hand under an instructor's guidance, a genuinely different and more meaningful souvenir than anything shop-bought.",
+            tourCard: { slug: "canggu-silver-jewelry-class-craft-your-own-silver-piece-canggu", title: "Canggu Silver Jewelry Class: Craft Your Own Silver Piece", description: "A hands-on silver jewelry making class in Canggu.", price: "From $49", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/canggu-silver-jewelry-class-craft-your-own-silver-piece-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity, and the piece you make is yours to keep and wear immediately." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the silver jewelry class worth it in Canggu?", a: "Yes, for a genuinely hands-on, more meaningful souvenir than buying finished jewelry at a shop." },
+        ],
+      };
+
+    case "is-mount-batukaru-trek-worth-it-canggu":
+      return {
+        title: "Is the Mount Batukaru Sunrise Trek Worth It from Canggu?",
+        description: "An honest look at the Mount Batukaru sunrise trek, a quieter, less-crowded volcano hike than Mount Batur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-batukaru-sunrise-trekking-experience-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mount Batukaru is Bali's second-highest volcano, genuinely less crowded and less commercialized than the famous Mount Batur sunrise trek, covered in dense rainforest rather than Batur's barer volcanic slopes.",
+            tourCard: { slug: "mount-batukaru-sunrise-trekking-experience-in-canggu", title: "Mount Batukaru Sunrise Trekking Experience", description: "A sunrise trek up Bali's second-highest volcano, Mount Batukaru.", price: "From $211", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-batukaru-sunrise-trekking-experience-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a genuinely different trek experience than Batur — dense rainforest rather than Batur's exposed volcanic slopes, and far fewer other trekkers on the trail." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Mount Batukaru better than Mount Batur for trekking?", a: "It's a good alternative rather than strictly better — genuinely quieter and forested, versus Batur's more exposed, crowded, and commercialized trail." },
+        ],
+      };
+
+    case "is-jatiluwih-tanah-lot-tour-worth-it-canggu":
+      return {
+        title: "Is the Jatiluwih and Tanah Lot Tour Worth It from Canggu?",
+        description: "An honest look at the Jatiluwih, Bratan Lake, and Tanah Lot combination tour, covering UNESCO rice terraces, a lake temple, and Bali's famous sea temple in one day.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jatiluwih-unesco-bratan-lake-iconic-gate-and-tanah-lot/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This combines Jatiluwih's UNESCO-listed rice terraces, the iconic gate at Bratan Lake's Ulun Danu temple, and a sunset stop at Tanah Lot, Bali's famous sea temple, into one efficient day covering three of Bali's most photographed sights.",
+            tourCard: { slug: "jatiluwih-unesco-bratan-lake-iconic-gate-and-tanah-lot", title: "Jatiluwih UNESCO, Bratan Lake Iconic Gate & Tanah Lot", description: "A combination tour of Jatiluwih rice terraces, Bratan Lake, and Tanah Lot temple.", price: "From $41", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jatiluwih-unesco-bratan-lake-iconic-gate-and-tanah-lot/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time the Tanah Lot stop for sunset — it's genuinely the best time to see the temple silhouetted against the ocean." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Jatiluwih and Tanah Lot tour worth it?", a: "Yes, for efficiently covering three of Bali's most photographed sights, UNESCO rice terraces, a lake temple gate, and the famous Tanah Lot sea temple, in one day." },
+        ],
+      };
+
     default:
       return null;
   }
