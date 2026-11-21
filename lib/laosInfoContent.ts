@@ -1319,6 +1319,42 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-coffee-tasting-worth-it-pakse":
+            return {
+                title: "Is the Fair Trade Coffee Tasting Worth It in Pakse?",
+                seoTitle: "Pakse Coffee Tasting 2026 | Honest Review",
+                description: "An honest look at Pakse's immersive fair trade organic coffee tasting, a short, inexpensive cultural stop distinct from the Bolaven Plateau's day-long plantation tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d41359b98bf9ffdd114fac090f9203e23fbec1b000a9a28106c608c1cc876246.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tasting of five fair trade organic coffees gives a focused, affordable introduction to the Bolaven Plateau's coffee culture without committing to a full-day plantation tour — a good short add-on for coffee enthusiasts.", tourCard: { slug: "pakse-immersive-tasting-of-5-fair-trade-organic", title: "Pakse: Immersive Tasting of 5 Fair Trade Organic Coffees", description: "A guided tasting of five fair trade organic coffees in Pakse.", price: "From $7", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d41359b98bf9ffdd114fac090f9203e23fbec1b000a9a28106c608c1cc876246.jpg" } },
+                    { title: "Practical Tips", content: "At this price, it's a low-risk add-on to pair with a half-day of other Pakse sightseeing." },
+                ],
+                faqs: [
+                    { q: "Is the coffee tasting worth it in Pakse?", a: "Yes, as an affordable, focused introduction to the region's coffee culture without a full-day plantation commitment." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the coffee tasting worth it in Pakse?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as an affordable, focused introduction to local coffee culture." } },
+                ] },
+            };
+
+        case "is-rice-field-cycling-tour-worth-it-nong-khiaw":
+            return {
+                title: "Is the Rice Field Cycling Tour Worth It in Nong Khiaw?",
+                seoTitle: "Nong Khiaw Cycling Tour 2026 | Honest Review",
+                description: "An honest look at Nong Khiaw's cycling tour through rice fields and hidden villages, a lower-intensity alternative to the area's multi-day trekking options.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed24acbd2e14ef7623fcb765232d716a8212301ec64aff66c39d5ebe4787fcef.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Cycling through rice fields and hidden villages covers more ground than walking while staying lower-intensity than Nong Khiaw's multi-day trekking packages, a good middle-ground option for travelers who want countryside scenery without a demanding hike.", tourCard: { slug: "cycling-through-rice-fields-hidden-villages", title: "Cycling Through Rice Fields & Hidden Villages", description: "A cycling tour through rice fields and hidden villages near Nong Khiaw.", price: "From $89", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ed24acbd2e14ef7623fcb765232d716a8212301ec64aff66c39d5ebe4787fcef.jpeg" } },
+                    { title: "Practical Tips", content: "Basic fitness is enough for this — it's a moderate cycling pace rather than a technical mountain-bike route." },
+                ],
+                faqs: [
+                    { q: "Is the rice field cycling tour worth it in Nong Khiaw?", a: "Yes, as a lower-intensity way to see countryside and village life without committing to a multi-day trek." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the rice field cycling tour worth it in Nong Khiaw?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a lower-intensity alternative to multi-day trekking." } },
+                ] },
+            };
+
         case "is-fishing-picnic-worth-it-luang-prabang":
             return {
                 title: "Is the Fishing Picnic Lunch Worth It in Luang Prabang?",

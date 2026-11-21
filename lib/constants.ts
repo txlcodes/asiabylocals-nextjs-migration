@@ -778,11 +778,13 @@ export const WADI_RUM_INFO_SLUGS = [
 export const PAKSE_INFO_SLUGS = [
   'best-wat-phou-tour-pakse', 'best-4000-islands-tour-pakse',
   'best-bolaven-plateau-tour-pakse', 'pakse-travel-guide-2026',
+  'is-coffee-tasting-worth-it-pakse',
 ];
 
 export const NONG_KHIAW_INFO_SLUGS = [
   'best-trekking-camping-tour-nong-khiaw', 'is-100-waterfalls-tour-worth-it-nong-khiaw',
   'nong-khiaw-travel-guide-2026',
+  'is-rice-field-cycling-tour-worth-it-nong-khiaw',
 ];
 
 // Mecca (Saudi Arabia) — 33 live tours, launched 2026-11-21. All content

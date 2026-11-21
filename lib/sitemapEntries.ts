@@ -840,11 +840,13 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const pakseInfoPages = mapInfoSlugs([
     'best-wat-phou-tour-pakse', 'best-4000-islands-tour-pakse',
     'best-bolaven-plateau-tour-pakse', 'pakse-travel-guide-2026',
+    'is-coffee-tasting-worth-it-pakse',
   ], 'laos', 'pakse');
 
   const nongKhiawInfoPages = mapInfoSlugs([
     'best-trekking-camping-tour-nong-khiaw', 'is-100-waterfalls-tour-worth-it-nong-khiaw',
     'nong-khiaw-travel-guide-2026',
+    'is-rice-field-cycling-tour-worth-it-nong-khiaw',
   ], 'laos', 'nong-khiaw');
 
   const meccaInfoPages = mapInfoSlugs([
