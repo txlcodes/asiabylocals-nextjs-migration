@@ -821,6 +821,27 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-egg-coffee-class-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Egg Coffee Class Worth It in Ho Chi Minh City?",
+        description: "An honest look at Ho Chi Minh City's one-hour egg coffee-making class with a local instructor, a focused food-and-drink activity distinct from the city's history and war-sites tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hcmc-egg-coffee-class-in-1-hour-with-local-intructor-and-snack-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Egg coffee is a genuinely distinct Vietnamese specialty, and this hour-long class with a local instructor and a snack is a short, inexpensive way to learn the technique, a nice lighter activity to slot between the city's heavier War Remnants Museum or Cu Chi Tunnels day trips.",
+            tourCard: { slug: "hcmc-egg-coffee-class-in-1-hour-with-local-intructor-and-snack-ho-chi-minh-city", title: "HCMC: Egg Coffee Class in 1 Hour with Local Instructor and Snack", description: "A one-hour egg coffee-making class with a local instructor and a snack.", price: "From $19", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/hcmc-egg-coffee-class-in-1-hour-with-local-intructor-and-snack-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "An hour is enough for a focused hands-on lesson, so this pairs well with a half-day of other activities rather than being the day's sole plan.",
+          },
+        ],
+        faqs: [
+          { q: "Is the egg coffee class worth it in Ho Chi Minh City?", a: "Yes, as a short, inexpensive way to learn a genuinely distinct Vietnamese specialty, good paired with other half-day activities." },
+        ],
+      };
+
     default:
       return null;
   }

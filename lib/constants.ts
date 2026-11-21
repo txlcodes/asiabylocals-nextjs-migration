@@ -2035,4 +2035,5 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'should-i-book-ho-chi-minh-city-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-ho-chi-minh-city',
   'is-reunification-palace-worth-it-ho-chi-minh-city', 'is-vespa-food-tour-worth-it-ho-chi-minh-city',
+  'is-egg-coffee-class-worth-it-ho-chi-minh-city',
 ];
