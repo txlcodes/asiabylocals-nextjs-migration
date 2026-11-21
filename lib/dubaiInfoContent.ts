@@ -1048,6 +1048,111 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-desert-safari-worth-it-dubai":
+      return {
+        title: "Is the Dubai Desert Safari Worth It?",
+        description: "An honest look at Dubai's desert safari with camel ride, sandboarding, and dune bashing, the city's single most popular tour category.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1064824/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is by far Dubai's most-booked tour category, combining a 4x4 dune-bashing ride, sandboarding, and a camel ride into one affordable half-day, usually finishing with a desert camp dinner and entertainment.",
+            tourCard: { slug: "desert-safari-dubai-with-camel-ride-sandboarding-d", title: "Desert Safari Dubai with Camel Ride and Sandboarding", description: "A desert safari with dune bashing, camel ride, and sandboarding.", price: "From $47", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1064824/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dune bashing is a genuinely rough, bumpy ride — skip it if you're prone to motion sickness or traveling with very young children.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dubai desert safari worth it?", a: "Yes, it's the city's single most popular tour for good reason, packing dune bashing, sandboarding, and a camel ride into one affordable half-day." },
+        ],
+      };
+
+    case "is-burj-khalifa-worth-it-dubai":
+      return {
+        title: "Is the Burj Khalifa Observation Deck Worth It?",
+        description: "An honest look at the Burj Khalifa 'At the Top' ticket, reaching an observation deck on the world's tallest building.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-7259/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Burj Khalifa is the world's tallest building, and its observation deck gives genuinely unmatched views over Dubai's skyline, desert, and coastline, a must-do for most first-time visitors rather than an optional extra.",
+            tourCard: { slug: "burj-khalifa-at-the-top-ticket-private-hotel-trans", title: "Burj Khalifa At the Top Ticket with Private Hotel Transfer", description: "A ticket to the Burj Khalifa observation deck with hotel transfer.", price: "From $172", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-7259/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book a sunset time slot specifically if you want both daylight views and the city's lights coming on, all in one visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Burj Khalifa worth it?", a: "Yes, it's the world's tallest building with genuinely unmatched views over Dubai, a must-do for most first-time visitors." },
+        ],
+      };
+
+    case "is-dhow-cruise-worth-it-dubai":
+      return {
+        title: "Is the Dubai Marina Dhow Cruise Worth It?",
+        description: "An honest look at Dubai's traditional dhow dinner cruise, a relaxed way to see the Marina or Creek skyline from the water.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-756114/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dhow is a traditional wooden Gulf sailing boat, and cruising Dubai Marina or the Creek on one at sunset gives a genuinely relaxed, different view of the city's skyline than from land, with dinner included for a fuller evening.",
+            tourCard: { slug: "dubai-best-luxurious-5-star-dhow-cruise-sea-lounge", title: "Dubai Best Luxurious 5-Star Dhow Cruise, Sea Lounge", description: "A luxury dhow dinner cruise in Dubai.", price: "From $23", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-756114/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book a sunset departure specifically for the best skyline photos as the city's lights come on over the water.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dubai dhow cruise worth it?", a: "Yes, for a relaxed, different-angle view of the skyline from the water, especially at sunset." },
+        ],
+      };
+
+    case "is-atlantis-aquaventure-worth-it-dubai":
+      return {
+        title: "Is Atlantis Aquaventure Worth It in Dubai?",
+        description: "An honest look at Atlantis Aquaventure, one of the region's largest water parks, with record-breaking slides and a private beach.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-651147/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Aquaventure is one of the region's largest water parks, with record-breaking slides and a private beach attached to the Atlantis resort, a genuine full-day theme-park alternative to Dubai's malls and desert tours, especially good for families.",
+            tourCard: { slug: "dubai-atlantis-aquaventure-tickets-with-hotel-tran", title: "Dubai Atlantis Aquaventure Tickets with Hotel Transfer", description: "Entry tickets to Atlantis Aquaventure water park with hotel transfer.", price: "From $461", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-651147/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The price is steep but includes a full day of access — budget the whole day here rather than treating it as a quick stop to get full value.",
+          },
+        ],
+        faqs: [
+          { q: "Is Atlantis Aquaventure worth it in Dubai?", a: "Yes, especially for families, as one of the region's largest water parks with record-breaking slides and a private beach." },
+        ],
+      };
+
+    case "is-abu-dhabi-day-trip-worth-it-dubai":
+      return {
+        title: "Is the Abu Dhabi Day Trip Worth It from Dubai?",
+        description: "An honest look at the Abu Dhabi day trip with the Grand Mosque and a theme park, reaching the UAE capital's biggest landmarks in one day.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788892174/asiabylocals/tours/abu-dhabi-day-trip-from-dubai-with-grand-mosque-and-a-theme-park/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Abu Dhabi's Sheikh Zayed Grand Mosque is one of the most architecturally significant mosques in the world, and pairing it with a theme park stop gives a genuine mix of culture and entertainment in a single day trip from Dubai.",
+            tourCard: { slug: "abu-dhabi-day-trip-from-dubai-with-grand-mosque-and-a-theme-park", title: "Abu Dhabi Day Trip from Dubai with Grand Mosque and a Theme Park", description: "A day trip to Abu Dhabi covering the Grand Mosque and a theme park.", price: "From $124", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788892174/asiabylocals/tours/abu-dhabi-day-trip-from-dubai-with-grand-mosque-and-a-theme-park/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the Grand Mosque visit — full-length clothing is required and robes are available to borrow if needed." ,
+          },
+        ],
+        faqs: [
+          { q: "Is an Abu Dhabi day trip worth it from Dubai?", a: "Yes, for one of the world's most architecturally significant mosques paired with genuine entertainment, all in a single day." },
+        ],
+      };
+
     default:
       return null;
   }

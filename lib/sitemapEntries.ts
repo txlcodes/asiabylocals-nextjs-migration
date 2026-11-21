@@ -1484,7 +1484,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide',
     'is-miracle-garden-worth-it-dubai',
     'is-topgolf-worth-it-dubai', 'is-al-ain-day-trip-worth-it-dubai',
-    'is-discover-scuba-diving-worth-it-dubai'].map(slug => ({
+    'is-discover-scuba-diving-worth-it-dubai',
+    'is-desert-safari-worth-it-dubai', 'is-burj-khalifa-worth-it-dubai',
+    'is-dhow-cruise-worth-it-dubai', 'is-atlantis-aquaventure-worth-it-dubai',
+    'is-abu-dhabi-day-trip-worth-it-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

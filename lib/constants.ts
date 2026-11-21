@@ -2011,6 +2011,9 @@ export const DUBAI_INFO_SLUGS = [
   'is-miracle-garden-worth-it-dubai',
   'is-topgolf-worth-it-dubai', 'is-al-ain-day-trip-worth-it-dubai',
   'is-discover-scuba-diving-worth-it-dubai',
+  'is-desert-safari-worth-it-dubai', 'is-burj-khalifa-worth-it-dubai',
+  'is-dhow-cruise-worth-it-dubai', 'is-atlantis-aquaventure-worth-it-dubai',
+  'is-abu-dhabi-day-trip-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.
