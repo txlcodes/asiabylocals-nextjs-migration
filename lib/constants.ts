@@ -561,6 +561,8 @@ export const MANAMA_INFO_SLUGS = [
   'best-pearling-path-tour-manama', 'best-city-desert-tour-manama',
   'is-bahrain-food-tasting-tour-worth-it-manama', 'manama-travel-guide-2026',
   'best-time-to-visit-manama', 'is-manama-safe',
+  'best-boat-cruise-dinner-tour-manama', 'is-jarada-island-tour-worth-it-manama',
+  'is-heritage-tour-worth-it-manama', 'is-sunset-horse-riding-worth-it-manama',
 ];
 
 export const BAGHDAD_INFO_SLUGS = [

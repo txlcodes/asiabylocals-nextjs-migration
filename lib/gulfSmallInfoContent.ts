@@ -355,6 +355,84 @@ export function getGulfSmallInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-boat-cruise-dinner-tour-manama":
+            return {
+                title: "Which Is the Best Boat Cruise with Dinner in Manama?",
+                seoTitle: "Best Manama Boat Cruise Dinner 2026 | Comparison",
+                description: "Compare real boat cruise and dinner tours in Manama — both include a guided cruise with hotel transfer, differing mainly in price tier.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cef9ac0e6c124fcc8aa370a1b4a2a7462f1cab9db658d6cb6d12d077c985c7.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Manama's boat cruise with dinner tours cover the same core experience — a guided cruise with hotel transfer and dinner — mainly differing in operator and exact inclusions.", tourCard: { slug: "boat-cruise-dinner-hotel-transfer-and-guided", title: "Boat Cruise Dinner, Hotel Transfer and Guided Muharraq Walk", description: "A boat cruise with dinner, hotel transfer, and a guided Muharraq walk.", price: "From $104", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23a748576b003f38ca27a6a2fad04fa2a6102be8af228db8ff83de7911e6f9f8.jpg" } },
+                    { title: "Alternative: Boat Cruise with Dinner & Hotel Transfer", content: "A similar boat cruise and dinner package at a different price point, worth comparing on exact inclusions.", tourCard: { slug: "manama-boat-cruise-with-dinner-hotel-transfer", title: "Manama: Boat Cruise with Dinner & Hotel Transfer with guide", description: "An alternative boat cruise and dinner package.", price: "From $156", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cef9ac0e6c124fcc8aa370a1b4a2a7462f1cab9db658d6cb6d12d077c985c7.jpeg" } },
+                    { title: "Practical Tips", content: "Evening departures catch the Manama skyline lit up after dark — worth confirming your cruise timing if sunset or night views matter to you." }
+                ],
+                faqs: [
+                    { q: "What is the best boat cruise with dinner in Manama?", a: "Both cover similar ground — compare exact inclusions and timing between operators." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best boat cruise with dinner?", "acceptedAnswer": { "@type": "Answer", "text": "Both options cover similar ground." } }
+                ] },
+            };
+
+        case "is-jarada-island-tour-worth-it-manama":
+            return {
+                title: "Is the Jarada Island Boat Tour from Manama Worth It?",
+                seoTitle: "Jarada Island Boat Tour Manama 2026 | Honest Review",
+                description: "An honest look at Jarada Island boat excursions from Manama, a tiny sandbar island that disappears at high tide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e8bbe70b660025fac4e7877f9c4342218a9896e6edf27269310f055d4fad9ff.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Jarada Island is a tiny sandbar that's only visible at low tide and disappears underwater at high tide — a genuinely unusual destination, and the fishing-inclusive version adds an activity beyond just visiting the sandbar.", tourCard: { slug: "bahrain-jarada-island-boat-tour-with-fishing", title: "Bahrain: Jarada Island Boat Tour with Fishing", description: "A boat tour to Jarada Island with fishing included.", price: "From $780", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e8bbe70b660025fac4e7877f9c4342218a9896e6edf27269310f055d4fad9ff.jpg" } },
+                    { title: "Practical Tips", content: "Timing matters a lot here — check the tide schedule with your operator, since visiting at the wrong time means the island may be mostly or fully submerged." }
+                ],
+                faqs: [
+                    { q: "Is the Jarada Island boat tour worth it?", a: "Yes, for a genuinely unusual sandbar-island experience, but check tide timing first." },
+                    { q: "Is Jarada Island always visible?", a: "No, it's only visible at low tide and disappears underwater at high tide." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Jarada Island worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, but check tide timing first." } },
+                    { "@type": "Question", "name": "Is it always visible?", "acceptedAnswer": { "@type": "Answer", "text": "No, only at low tide." } }
+                ] },
+            };
+
+        case "is-heritage-tour-worth-it-manama":
+            return {
+                title: "Is Bahrain's Heritage & Cultural Tour from Manama Worth It?",
+                seoTitle: "Bahrain Heritage Tour Manama 2026 | Honest Review",
+                description: "An honest look at Bahrain's heritage and cultural tours from Manama, covering forts, pearling history, and traditional architecture.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35829611ad4b188c1bfcf2368e73ae5223fab66955751a5184785a28b6ac39b6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bahrain's heritage tours cover forts, pearling history, and traditional architecture beyond the standard city/desert combo — genuinely worthwhile if you want deeper cultural context rather than just sightseeing.", tourCard: { slug: "bahrain-heritage-tour", title: "Bahrain Heritage Tour", description: "A heritage-focused tour covering Bahrain's forts and traditional culture.", price: "From $254", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35829611ad4b188c1bfcf2368e73ae5223fab66955751a5184785a28b6ac39b6.jpg" } },
+                    { title: "Alternative: Heritage & Cultural Tour", content: "A similarly structured heritage tour from a different operator, worth comparing on exact sites visited.", tourCard: { slug: "bahrain-heritage-cultural-tour", title: "Bahrain Heritage & Cultural tour", description: "An alternative heritage and cultural tour of Bahrain.", price: "From $254", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4f93103536e52fa55807bc0506ae11814c7a0a47fa6699ed6a923fa2541b0aa7.jpg" } },
+                    { title: "Practical Tips", content: "These tours typically include Bahrain Fort (Qal'at al-Bahrain), a UNESCO World Heritage Site — worth confirming it's on the itinerary since it's the single strongest heritage stop in the country." }
+                ],
+                faqs: [
+                    { q: "Is Bahrain's heritage tour worth it?", a: "Yes, for deeper cultural context on forts and pearling history beyond standard sightseeing." },
+                    { q: "Does it include Bahrain Fort?", a: "Typically yes — confirm with your operator, since it's the strongest heritage stop in the country." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the heritage tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for deeper cultural context." } },
+                    { "@type": "Question", "name": "Does it include Bahrain Fort?", "acceptedAnswer": { "@type": "Answer", "text": "Typically yes." } }
+                ] },
+            };
+
+        case "is-sunset-horse-riding-worth-it-manama":
+            return {
+                title: "Is the Sunset Horse Riding Tour in Manama Worth It?",
+                seoTitle: "Bahrain Sunset Horse Riding Tour 2026 | Review",
+                description: "An honest look at Bahrain's sunset horse riding tour, combined with other highlights for a fuller desert-and-coast experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6b29b8667d8bf181e9e8735a625301b12dbe9fdd09807ae4816452e3bc05fb20.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This combines horse riding with sunset timing, a genuinely scenic way to experience Bahrain's desert or coastal landscape rather than just driving past it.", tourCard: { slug: "bahrain-fantastic-tour-with-sunset-horse-riding", title: "Bahrain Fantastic Tour with Sunset Horse Riding", description: "A tour combining sunset horse riding with other Bahrain highlights.", price: "From $289", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6b29b8667d8bf181e9e8735a625301b12dbe9fdd09807ae4816452e3bc05fb20.jpg" } },
+                    { title: "Practical Tips", content: "No prior riding experience is typically required, but confirm with the operator if you have specific concerns about pace or terrain." }
+                ],
+                faqs: [
+                    { q: "Is the sunset horse riding tour in Manama worth it?", a: "Yes, a scenic way to experience the landscape rather than just viewing it from a vehicle." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is sunset horse riding worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a scenic alternative to vehicle sightseeing." } }
+                ] },
+            };
+
         default:
             return null;
     }
