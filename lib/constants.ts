@@ -2208,6 +2208,9 @@ export const DA_NANG_INFO_SLUGS = [
   'da-nang-2-day-itinerary',
   'is-son-tra-wildlife-tour-worth-it-da-nang', 'is-vietnamese-cooking-class-worth-it-da-nang',
   'is-herbal-head-spa-worth-it-da-nang', 'is-street-food-scooter-tour-worth-it-da-nang',
+  'is-ba-na-hills-tour-worth-it-da-nang', 'is-marble-mountains-tour-worth-it-da-nang',
+  'is-mang-den-highland-tour-worth-it-da-nang', 'is-charming-da-nang-show-worth-it',
+  'is-surf-retreat-worth-it-da-nang',
 ];
 
 export const HO_CHI_MINH_CITY_INFO_SLUGS = [

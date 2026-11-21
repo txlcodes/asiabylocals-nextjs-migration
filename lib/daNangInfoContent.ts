@@ -662,6 +662,111 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ba-na-hills-tour-worth-it-da-nang":
+      return {
+        title: "Is the Ba Na Hills Tour Worth It from Da Nang?",
+        description: "An honest look at the Ba Na Hills tour with cable car, a hilltop theme park famous for the Golden Bridge's giant stone hand sculptures.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ba-na-hills-tour-with-cable-car/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ba Na Hills is a hilltop theme park reached by one of the world's longest cable car rides, home to the famous Golden Bridge with its giant hand sculptures, a genuinely different, more theme-park-like day than Da Nang's beaches and bridges.",
+            tourCard: { slug: "ba-na-hills-tour-with-cable-car", title: "Ba Na Hills Tour with Cable Car", description: "A tour to Ba Na Hills with cable car access.", price: "From $63", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ba-na-hills-tour-with-cable-car/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This gets genuinely crowded, especially on weekends — go on a weekday and arrive early for the best shot at the Golden Bridge without a packed crowd.",
+          },
+        ],
+        faqs: [
+          { q: "Is Ba Na Hills worth visiting from Da Nang?", a: "Yes, for the famous Golden Bridge and a genuinely different theme-park-style day, though it gets crowded — go early on a weekday." },
+        ],
+      };
+
+    case "is-marble-mountains-tour-worth-it-da-nang":
+      return {
+        title: "Is the Marble Mountains Tour Worth It in Da Nang?",
+        description: "An honest look at the Marble Mountains, Am Phu Cave, and Monkey Mountain sunset trip, a cluster of limestone peaks with Buddhist shrines and cave temples.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/am-phu-cave-marble-mountains-and-monkey-mountain-sunset-trip-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Marble Mountains are a cluster of five limestone peaks with cave temples and Buddhist shrines carved into the rock, a genuinely different kind of sight from Da Nang's beaches, and this tour pairs them with a sunset stop at Monkey Mountain.",
+            tourCard: { slug: "am-phu-cave-marble-mountains-and-monkey-mountain-sunset-trip-da-nang", title: "Am Phu Cave, Marble Mountains & Monkey Mountain Sunset", description: "A tour of the Marble Mountains, Am Phu Cave, and a Monkey Mountain sunset.", price: "From $36", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/am-phu-cave-marble-mountains-and-monkey-mountain-sunset-trip-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "There are genuine stairs and climbing involved to reach the cave temples — wear real shoes, not sandals.",
+          },
+        ],
+        faqs: [
+          { q: "Are the Marble Mountains worth visiting in Da Nang?", a: "Yes, for cave temples and Buddhist shrines carved into limestone peaks, a genuinely different sight from the city's beaches." },
+        ],
+      };
+
+    case "is-mang-den-highland-tour-worth-it-da-nang":
+      return {
+        title: "Is the Mang Den Highland Tour Worth It from Da Nang?",
+        description: "An honest look at the 2-day Mang Den highland tour, a cool-climate mountain retreat genuinely different from Da Nang's coastal heat.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-private-mang-den-highland-tour-by-car-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mang Den is a cool-climate highland retreat, sometimes called a 'mini Da Lat', offering genuinely different pine forest scenery and cooler air than Da Nang's coastal heat, worth the 2-day commitment for travelers wanting a real change of pace.",
+            tourCard: { slug: "2-day-private-mang-den-highland-tour-by-car-in-da-nang", title: "2-Day Private Mang Den Highland Tour by Car", description: "A 2-day private tour to the Mang Den highlands.", price: "From $447", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-private-mang-den-highland-tour-by-car-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a light jacket — the highland altitude makes Mang Den noticeably cooler than coastal Da Nang, especially in the evenings." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Mang Den worth visiting from Da Nang?", a: "Yes, for genuinely cooler highland air and pine forest scenery, a real change of pace from the coastal heat, though it's a 2-day commitment." },
+        ],
+      };
+
+    case "is-charming-da-nang-show-worth-it":
+      return {
+        title: "Is the Charming Da Nang Show Worth It?",
+        description: "An honest look at the Charming Da Nang show, a cultural and historical performance blending traditional Vietnamese art forms with modern staging.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/charming-da-nang-show-ticket/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This show blends traditional Vietnamese art forms with modern staging to tell Da Nang's cultural and historical story, a good indoor evening activity distinct from the city's usual beach and bridge sightseeing.",
+            tourCard: { slug: "charming-da-nang-show-ticket", title: "Charming Da Nang Show Ticket", description: "A ticket to the Charming Da Nang cultural performance.", price: "From $31", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/charming-da-nang-show-ticket/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity to pair with a day otherwise spent at the beach or sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Charming Da Nang show worth it?", a: "Yes, as a good indoor evening activity blending traditional Vietnamese art with modern staging, distinct from beach and bridge sightseeing." },
+        ],
+      };
+
+    case "is-surf-retreat-worth-it-da-nang":
+      return {
+        title: "Is the Da Nang Surf Retreat Worth It?",
+        description: "An honest look at the 10-day surf retreat with 1-on-1 coaching, a serious commitment distinct from a casual single surf lesson.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/10-day-surf-retreat-with-1-on-1-coaching-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This 10-day program with 1-on-1 coaching is a genuine skill-building commitment, aimed at travelers who want to actually improve as surfers over an extended stay rather than try the sport once on a casual single lesson.",
+            tourCard: { slug: "10-day-surf-retreat-with-1-on-1-coaching-in-da-nang", title: "10-Day Surf Retreat with 1-on-1 Coaching in Da Nang", description: "A 10-day surf retreat with personalized coaching.", price: "From $520", duration: "10 days", image: "https://images.asiabylocals.com/asiabylocals/tours/10-day-surf-retreat-with-1-on-1-coaching-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a real time and money commitment aimed at skill progression — a single casual lesson is the better fit if you just want to try surfing once." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the surf retreat worth it in Da Nang?", a: "Yes, but only for travelers wanting genuine skill progression over an extended stay, not a casual first-time try." },
+        ],
+      };
+
     default:
       return null;
   }
