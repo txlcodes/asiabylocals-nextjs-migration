@@ -692,6 +692,42 @@ export function getIsraelInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-paragliding-worth-it-tel-aviv":
+            return {
+                title: "Is Paragliding Worth It Near Tel Aviv?",
+                seoTitle: "Tel Aviv Paragliding 2026 | Honest Review",
+                description: "An honest look at the 30-minute paragliding flight near Herzliya and Netanya, a coastal aerial activity distinct from Tel Aviv's beach and city sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/78a447563aef847273ae111fd4e2b18c8e11718977e65ce3041a533a6671722d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This tandem paragliding flight launches along the coast near Herzliya and Netanya, giving aerial views of the Mediterranean coastline that no beach walk or boat cruise can match — a genuinely different perspective on the area, though the 30-minute flight comes at a premium price.", tourCard: { slug: "herzliya-netanya-israel-30-minute-paragliding", title: "Herzliya/Netanya, Israel: 30-Minute Paragliding", description: "A tandem paragliding flight along the coast near Herzliya and Netanya.", price: "From $483", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/78a447563aef847273ae111fd4e2b18c8e11718977e65ce3041a533a6671722d.jpeg" } },
+                    { title: "Practical Tips", content: "Flights depend on wind conditions, so build flexibility into your schedule in case of a reschedule." }
+                ],
+                faqs: [
+                    { q: "Is paragliding worth it near Tel Aviv?", a: "Yes, for a genuinely different aerial view of the coastline, though it's a premium-priced short flight rather than an all-day activity." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is paragliding worth it near Tel Aviv?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different aerial view of the Mediterranean coastline." } }
+                ] },
+            };
+
+        case "is-private-bike-tour-worth-it-tel-aviv":
+            return {
+                title: "Is the Private Bike Tour Worth It in Tel Aviv?",
+                seoTitle: "Tel Aviv Private Bike Tour 2026 | Honest Review",
+                description: "An honest look at Tel Aviv's private bike tour, a flat, bike-friendly way to cover more ground than walking without the structure of a bus tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5bb228fe9259e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Tel Aviv is flat and bike-friendly, and this private cycling tour covers beach promenades, Bauhaus neighborhoods, and city streets faster than walking while staying more flexible than a bus tour.", tourCard: { slug: "tel-aviv-private-bike-tour", title: "Tel Aviv Private Bike Tour", description: "A private cycling tour through Tel Aviv's beaches, neighborhoods, and streets.", price: "From $208", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5bb228fe9259e.jpeg" } },
+                    { title: "Practical Tips", content: "Being a private tour, the route and pace can be adjusted to your interests, so mention any specific neighborhoods you want to prioritize." }
+                ],
+                faqs: [
+                    { q: "Is the private bike tour worth it in Tel Aviv?", a: "Yes, for covering more ground than walking in a flat, bike-friendly city while keeping a flexible, private pace." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the private bike tour worth it in Tel Aviv?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for covering more ground than walking at a flexible, private pace." } }
+                ] },
+            };
+
         default:
             return null;
     }

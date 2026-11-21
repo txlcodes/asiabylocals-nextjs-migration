@@ -640,6 +640,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-scavenger-hunt-worth-it-tel-aviv', 'tel-aviv-travel-guide-2026',
     'best-time-to-visit-tel-aviv', 'tel-aviv-1-day-itinerary',
     'is-tel-aviv-safe', 'tel-aviv-to-jerusalem-guide',
+    'is-paragliding-worth-it-tel-aviv', 'is-private-bike-tour-worth-it-tel-aviv',
   ], 'israel', 'tel-aviv');
   const thimphuInfoPages = mapInfoSlugs([
     'best-3-day-bhutan-tour-thimphu', 'best-4-day-bhutan-tour-thimphu',
