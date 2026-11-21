@@ -280,6 +280,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-quad-bike-worth-it-doha', 'is-luxury-yacht-cruise-worth-it-doha',
     'is-hot-air-balloon-worth-it-doha',
     'is-al-thakira-mangrove-kayaking-worth-it-doha', 'is-al-khor-panda-house-worth-it-doha',
+    'is-desert-safari-worth-it-doha', 'is-dhow-cruise-worth-it-doha',
+    'is-doha-city-tour-worth-it', 'is-al-zubarah-fort-tour-worth-it-doha',
+    'is-jet-ski-worth-it-doha', 'is-musfir-sinkhole-tour-worth-it-doha',
+    'is-al-shaqab-horse-center-worth-it-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),

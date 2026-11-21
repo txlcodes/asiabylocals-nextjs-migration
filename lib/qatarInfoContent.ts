@@ -1312,6 +1312,153 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-desert-safari-worth-it-doha":
+      return {
+        title: "Is the Doha Desert Safari Worth It?",
+        description: "An honest look at Qatar's desert safari, combining dune bashing, sandboarding, and a camel ride into Doha's single most popular adventure half-day.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b42cad4fc528d0a24152add5d516ffd0b8140aadfcbae40ca11625428d1c9c95.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is by far Qatar's most-booked tour category, and for good reason: a 4x4 dune-bashing ride through the inland desert, sandboarding down the dunes, and a camel ride cover three distinct activities in one affordable half-day, usually finishing at the Inland Sea.",
+            tourCard: { slug: "desert-safari-dune-bashing-sandboarding-camel-atv", title: "Desert Safari: Dune Bashing, Sandboarding, Camel & ATV", description: "A half-day desert safari with dune bashing, sandboarding, and a camel ride.", price: "From $55", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b42cad4fc528d0a24152add5d516ffd0b8140aadfcbae40ca11625428d1c9c95.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dune bashing is a genuinely rough, bumpy ride — skip it if you're prone to motion sickness or travelling with very young children.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Doha desert safari worth it?", a: "Yes, it's Qatar's single most popular tour for good reason, packing dune bashing, sandboarding, and a camel ride into one affordable half-day." },
+        ],
+      };
+
+    case "is-dhow-cruise-worth-it-doha":
+      return {
+        title: "Is the Dhow Cruise from Souq Waqif Worth It in Doha?",
+        description: "An honest look at Doha's traditional dhow boat cruise departing from Souq Waqif, a relaxed way to see the city's skyline from the water.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/579becf6fd4993fc74944e4121d14f08b8a6891faa65a6a1eca685be9f20545f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dhow is a traditional wooden Gulf sailing boat, and cruising Doha Bay on one gives a genuinely different view of the city's modern skyline than walking Souq Waqif itself, especially around sunset when the Corniche and towers light up.",
+            tourCard: { slug: "dhow-sailing-souq-waqif-cultural-experience-with", title: "Dhow Sailing & Souq Waqif Cultural Experience", description: "A traditional dhow cruise paired with a Souq Waqif cultural visit.", price: "From $130", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/579becf6fd4993fc74944e4121d14f08b8a6891faa65a6a1eca685be9f20545f.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book a sunset departure specifically if skyline photos are the priority — the lighting makes a real difference.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Doha dhow cruise worth it?", a: "Yes, for a relaxed, different-angle view of the city's skyline from the water, especially at sunset." },
+        ],
+      };
+
+    case "is-doha-city-tour-worth-it":
+      return {
+        title: "Is a Doha City Highlights Tour Worth It?",
+        description: "An honest look at Doha's guided city highlights tour, covering the Corniche, Souq Waqif, and the city's major modern landmarks in one outing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f605eeda92f5355ec9b4b073d2eb7c486500747f00b2bac7c7d95b852d76c459.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Doha is a young, car-dependent city with major sights spread out along the Corniche and across the peninsula, so a guided city tour with a local driver and guide genuinely saves time over trying to piece the same stops together independently with taxis.",
+            tourCard: { slug: "discover-doha-a-fascinating-city-tour-with-local", title: "Discover Doha: A Fascinating City Tour with Local Guide", description: "A guided city highlights tour of Doha with a local guide.", price: "From $117", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f605eeda92f5355ec9b4b073d2eb7c486500747f00b2bac7c7d95b852d76c459.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good first-day activity to orient yourself before venturing out independently later in your trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is a Doha city tour worth it?", a: "Yes, Doha's sights are spread out and the city is car-dependent, so a guided tour genuinely saves time over piecing it together yourself." },
+        ],
+      };
+
+    case "is-al-zubarah-fort-tour-worth-it-doha":
+      return {
+        title: "Is the Al Zubarah Fort Tour Worth It from Doha?",
+        description: "An honest look at Al Zubarah Fort, a UNESCO World Heritage site and former pearling and trading town north of Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d376ac4d5d7c240b9a9725da1242df5ecbb5095c3e2c6a8720e8dd594294e0e1.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Al Zubarah is Qatar's only UNESCO World Heritage site, the ruins of an 18th-century pearling and trading town, a genuine historical counterweight to Doha's otherwise modern skyline and well worth the drive north for travellers with real interest in the region's history.",
+            tourCard: { slug: "doha-al-zubara-fort-guided-tour", title: "Doha: Al Zubarah Fort Guided Tour", description: "A guided tour to the UNESCO-listed Al Zubarah Fort north of Doha.", price: "From $254", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d376ac4d5d7c240b9a9725da1242df5ecbb5095c3e2c6a8720e8dd594294e0e1.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "There's little shade at the ruins themselves, so visit in the cooler morning hours rather than midday." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Al Zubarah Fort worth visiting?", a: "Yes, it's Qatar's only UNESCO World Heritage site and a genuine historical counterweight to Doha's modern skyline." },
+        ],
+      };
+
+    case "is-jet-ski-worth-it-doha":
+      return {
+        title: "Is the Arabian Gulf Jet Ski Ride Worth It in Doha?",
+        description: "An honest look at the Arabian Gulf jet ski adventure, a short but genuine adrenaline activity with Doha's skyline as the backdrop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b979b951aabfae1a275d5a7e5508d3367313a5eb17d113ca77597e651bbed07.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This short jet ski ride on the Arabian Gulf gives genuine views of Doha's West Bay skyline from the water, a quick adrenaline add-on rather than a half-day commitment, distinct from the slower-paced dhow cruise or luxury yacht options.",
+            tourCard: { slug: "arabian-gulf-jet-ski-adventure-ride-the-blue", title: "Arabian Gulf Jet Ski Adventure: Ride the Blue", description: "A short jet ski ride on the Arabian Gulf with Doha skyline views.", price: "From $116", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b979b951aabfae1a275d5a7e5508d3367313a5eb17d113ca77597e651bbed07.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good quick add-on alongside a longer day of sightseeing rather than a half-day activity on its own." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Doha jet ski ride worth it?", a: "Yes, for a quick adrenaline add-on with genuine Doha skyline views, distinct from the slower dhow cruise or yacht options." },
+        ],
+      };
+
+    case "is-musfir-sinkhole-tour-worth-it-doha":
+      return {
+        title: "Is the Musfir Sinkhole Tour Worth It from Doha?",
+        description: "An honest look at the Musfir Sinkhole, a natural geological formation in Qatar's desert interior that's genuinely different from the dune-bashing desert safari circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/529bedab2c85196d33048236df349178c01636f10339f08f2c24f1616cf401f3.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Musfir Sinkhole is a natural limestone collapse formation in Qatar's desert interior, a genuinely different kind of desert excursion from the usual dune-bashing-and-sandboarding safari, aimed at travellers with interest in the region's geology.",
+            tourCard: { slug: "doha-a-visit-to-the-musfir-sink-hole-qatar", title: "Doha: A Visit to the Musfir Sink Hole, Qatar", description: "A guided visit to the Musfir Sinkhole natural formation.", price: "From $169", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/529bedab2c85196d33048236df349178c01636f10339f08f2c24f1616cf401f3.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travellers who've already done the standard desert safari and want something geologically different.",
+          },
+        ],
+        faqs: [
+          { q: "What is the Musfir Sinkhole?", a: "A natural limestone collapse formation in Qatar's desert interior, a genuinely different desert excursion from the usual dune-bashing safari." },
+        ],
+      };
+
+    case "is-al-shaqab-horse-center-worth-it-doha":
+      return {
+        title: "Is the Al Shaqab Arabian Horse Center Worth It in Doha?",
+        description: "An honest look at Al Shaqab, Qatar's premier Arabian horse breeding and equestrian center, open to visitors with pickup included.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf854c3e47903f0eb82bd18d42d9cabdeae235168c38def50f050022b03ae65a.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Al Shaqab is Qatar's flagship Arabian horse breeding and equestrian center, giving visitors a genuine look at pedigree Arabian horses and the country's equestrian heritage, a distinct cultural stop from the usual souq-and-skyline circuit.",
+            tourCard: { slug: "doha-al-shaqab-arabian-horse-center-with-pickup", title: "Doha: Al Shaqab Arabian Horse Center with Pickup", description: "A guided visit to the Al Shaqab Arabian horse breeding center.", price: "From $585", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf854c3e47903f0eb82bd18d42d9cabdeae235168c38def50f050022b03ae65a.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth it specifically for travellers with a genuine interest in horses or Gulf equestrian heritage rather than casual sightseers." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Al Shaqab worth visiting in Doha?", a: "Yes, for travellers with a genuine interest in Arabian horses or Gulf equestrian heritage, as a distinct stop from the usual souq-and-skyline circuit." },
+        ],
+      };
+
     default:
       return null;
   }
