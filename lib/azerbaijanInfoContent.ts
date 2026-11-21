@@ -427,6 +427,87 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-gabala-tour-baku":
+            return {
+                title: "Which Is the Best Gabala Day Trip from Baku?",
+                seoTitle: "Best Gabala Day Trip from Baku 2026 | Comparison",
+                description: "Compare real Gabala day trips from Baku — a standard full-day tour versus a version adding Diri Baba's shrine, a winery, and the Gabala cable car.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9111dfef03569a1a7f559c71c63fe2d025dd2407217c6611a698757f80df155b.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Gabala, a mountain resort town, is reachable as a day trip from Baku, and tours differ mainly in whether they add the Diri Baba shrine, a local winery, and the Gabala cable car to the standard sightseeing.", tourCard: { slug: "baku-gabala-full-day-tour", title: "Baku Gabala Full Day Tour", description: "A standard full-day Gabala sightseeing tour from Baku.", price: "From $59", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9111dfef03569a1a7f559c71c63fe2d025dd2407217c6611a698757f80df155b.jpeg" } },
+                    { title: "Best Full Combo: Diri Baba, Winery & Cable Car Tour", content: "This adds the Diri Baba shrine, a winery visit, and the Gabala cable car to the standard route, the most complete version of the day trip.", tourCard: { slug: "baku-gabala-diri-baba-winery-tour-with-cable-car", title: "Baku: Gabala, Diri Baba, Winery Tour with Cable Car", description: "A full Gabala day trip with Diri Baba shrine, winery, and cable car.", price: "From $73", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0da0638c8568ecb8734f73189fb3820286011e17cc1c699370351a039e779c41.jpeg" } },
+                    { title: "Practical Tips", content: "Gabala's cooler mountain climate is a genuine escape from Baku's heat in summer — worth factoring in if you're visiting during the hottest months." }
+                ],
+                faqs: [
+                    { q: "What is the best Gabala day trip from Baku?", a: "A standard full-day tour covers the basics; add the winery and cable car for a fuller day." },
+                    { q: "Is Gabala cooler than Baku?", a: "Yes, its mountain setting makes it noticeably cooler, especially welcome in summer." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Gabala day trip?", "acceptedAnswer": { "@type": "Answer", "text": "A standard full-day tour, or add the winery and cable car." } },
+                    { "@type": "Question", "name": "Is Gabala cooler than Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, noticeably cooler given its mountain setting." } }
+                ] },
+            };
+
+        case "is-carpet-museum-worth-it-baku":
+            return {
+                title: "Is the Azerbaijan Carpet Museum in Baku Worth It?",
+                seoTitle: "Azerbaijan Carpet Museum Baku 2026 | Honest Review",
+                description: "An honest look at the Azerbaijan Carpet Museum tour in Baku, housed in a building shaped like a rolled-up carpet.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/167c39b19791081f63ee35287a4d3c726d9703144489b1e0013d67da0d36fbfb.png",
+                sections: [
+                    { title: "The Short Answer", content: "Azerbaijan's carpet weaving is a UNESCO-recognized intangible cultural heritage, and this museum (itself shaped like a rolled-up carpet) covers centuries of regional weaving traditions — genuinely worthwhile for understanding a craft that's easy to walk past at a bazaar without appreciating.", tourCard: { slug: "azerbaijan-carpet-museum-tour-a-journey-from", title: "Azerbaijan Carpet Museum Tour: A Journey from Wool to Art", description: "A guided tour of the Azerbaijan Carpet Museum.", price: "From $38", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/167c39b19791081f63ee35287a4d3c726d9703144489b1e0013d67da0d36fbfb.png" } },
+                    { title: "Practical Tips", content: "A guided visit genuinely adds value here over wandering alone, since regional carpet patterns carry specific symbolic meanings that aren't obvious without explanation." }
+                ],
+                faqs: [
+                    { q: "Is the Azerbaijan Carpet Museum worth it?", a: "Yes, for understanding a UNESCO-recognized craft with a guide who can explain the regional patterns and symbolism." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Carpet Museum worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for understanding a UNESCO-recognized craft with guided context." } }
+                ] },
+            };
+
+        case "best-khinalug-lahij-village-tour-baku":
+            return {
+                title: "Which Is the Best Mountain Village Tour from Baku: Khinalug or Lahij?",
+                seoTitle: "Khinalug vs Lahij Village Tour Baku 2026 | Comparison",
+                description: "Compare real day trips to Khinalug and Lahij from Baku — two of Azerbaijan's most remote and distinctive mountain villages.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/06286ae695ac5bfb61710d27a85fe2e17494516458444a390200e06159dd1eb9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khinalug and Lahij are two of Azerbaijan's most distinctive remote villages — Khinalug is one of the highest and most isolated settlements in the Caucasus, while Lahij is known for its centuries-old copper-smithing tradition.", tourCard: { slug: "baku-khinalug-guided-tour", title: "Baku: Khinalug Guided Tour", description: "A guided day trip to the remote mountain village of Khinalug.", price: "From $90", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/06286ae695ac5bfb61710d27a85fe2e17494516458444a390200e06159dd1eb9.jpg" } },
+                    { title: "Best for Craft Culture: Lahij Guided Tour", content: "This heads to Lahij instead, known for centuries-old copper-smithing workshops still active today — a different cultural angle than Khinalug's isolation and altitude.", tourCard: { slug: "baku-lahij-guided-tour", title: "Baku: Lahij Guided Tour", description: "A guided day trip to the copper-smithing village of Lahij.", price: "From $320", duration: "14 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/26185c6d8eff1779568bad22b6f51e24c22b8b8168fafa38836d333087da3657.jpg" } },
+                    { title: "Practical Tips", content: "Both are genuinely long days given the distance from Baku — Khinalug especially, given its high altitude and remote access roads, so check weather conditions before booking outside summer." }
+                ],
+                faqs: [
+                    { q: "Should I visit Khinalug or Lahij from Baku?", a: "Khinalug for remote, high-altitude isolation; Lahij for its living copper-smithing craft tradition." },
+                    { q: "Are these long day trips?", a: "Yes, both require significant travel time given their distance and mountain roads from Baku." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Khinalug or Lahij?", "acceptedAnswer": { "@type": "Answer", "text": "Khinalug for isolation, Lahij for craft tradition." } },
+                    { "@type": "Question", "name": "Are these long trips?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, given the distance and mountain roads." } }
+                ] },
+            };
+
+        case "best-quba-shahdag-tour-baku":
+            return {
+                title: "Which Is the Best Quba & Shahdag Tour from Baku?",
+                seoTitle: "Best Quba Shahdag Tour from Baku 2026 | Comparison",
+                description: "Compare real Quba and Shahdag day trips from Baku — a full-day guided tour versus a private 2-day version.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/956447ba459d08076b706ef3ac70e73c8e01efb4fbdb7e52b5eefa09d17a03c3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Quba's apple orchards and historic old town, combined with Shahdag's mountain resort scenery, make a solid day trip from Baku — or a more relaxed 2-day version if you want to linger in the mountains.", tourCard: { slug: "baku-quba-shahdag-full-day-guided-tour", title: "Baku: Quba & Shahdag Full-Day Guided Tour", description: "A full-day guided tour of Quba and Shahdag from Baku.", price: "From $59", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/956447ba459d08076b706ef3ac70e73c8e01efb4fbdb7e52b5eefa09d17a03c3.jpg" } },
+                    { title: "Best for More Time: Private 2-Day Shahdag & Quba Tour", content: "This spreads the same regions over two days with an overnight stay, better if you'd rather not rush through both in a single day trip.", tourCard: { slug: "baku-private-2-day-shahdag-and-quba-tour", title: "Baku: Private 2-Day Shahdag and Quba Tour", description: "A private 2-day version of the Quba and Shahdag tour.", price: "From $416", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92de6bad4b8b131afa306bc6c956e69e8bb08c539841e01006dd582758d688a7.jpeg" } },
+                    { title: "Practical Tips", content: "Shahdag has a genuine ski resort if visiting in winter — worth checking if snow activities interest you beyond just sightseeing." }
+                ],
+                faqs: [
+                    { q: "What is the best Quba/Shahdag tour from Baku?", a: "A full-day tour for a focused visit, or 2 days for a more relaxed pace with an overnight stay." },
+                    { q: "Can I ski at Shahdag?", a: "Yes, it has a genuine ski resort in winter." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Quba/Shahdag tour?", "acceptedAnswer": { "@type": "Answer", "text": "A full-day tour, or 2 days for a relaxed pace." } },
+                    { "@type": "Question", "name": "Can I ski at Shahdag?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it has a ski resort in winter." } }
+                ] },
+            };
+
         default:
             return null;
     }

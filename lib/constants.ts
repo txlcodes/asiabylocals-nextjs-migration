@@ -366,6 +366,8 @@ export const BAKU_INFO_SLUGS: string[] = [
   'is-baku-safe', 'baku-food-guide',
   'baku-currency-guide', 'baku-public-transport-guide',
   'baku-shopping-guide', 'baku-nightlife-guide', 'baku-weather-guide',
+  'best-gabala-tour-baku', 'is-carpet-museum-worth-it-baku',
+  'best-khinalug-lahij-village-tour-baku', 'best-quba-shahdag-tour-baku',
 ];
 
 // Singapore launched 2026-11-19 with 318 live tours and zero authority pages.
