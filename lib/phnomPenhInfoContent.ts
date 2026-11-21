@@ -1002,6 +1002,42 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-contemporary-art-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Contemporary Art Afternoon Worth It in Phnom Penh?",
+                seoTitle: "Phnom Penh Contemporary Art Tour 2026 | Honest Review",
+                description: "An honest look at Phnom Penh's contemporary art afternoon by tuk-tuk, a genuine look at the city's current creative scene distinct from its genocide-history sites.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/an-afternoon-of-contemporary-art-in-phnom-penh-by-tuk-tuk-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tuk-tuk tour visits contemporary art galleries and studios, a genuinely different side of Phnom Penh from the Killing Fields and Tuol Sleng sites most itineraries center around — worth it for travelers wanting a sense of the city's current creative scene.", tourCard: { slug: "an-afternoon-of-contemporary-art-in-phnom-penh-by", title: "An Afternoon of Contemporary Art in Phnom Penh by Tuk-Tuk", description: "A tuk-tuk tour of contemporary art galleries and studios in Phnom Penh.", price: "From $64", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/an-afternoon-of-contemporary-art-in-phnom-penh-by-tuk-tuk-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Good as a lighter, more uplifting activity after visiting the city's heavier genocide-history sites." }
+                ],
+                faqs: [
+                    { q: "Is the contemporary art tour worth it in Phnom Penh?", a: "Yes, for a genuine, uplifting sense of the city's current creative scene, a change of pace from its history sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the contemporary art tour worth it in Phnom Penh?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine sense of the city's current creative scene." } }
+                ] },
+            };
+
+        case "is-bokor-national-park-day-trip-worth-it-phnom-penh":
+            return {
+                title: "Is the Bokor National Park Day Trip Worth It from Phnom Penh?",
+                seoTitle: "Bokor National Park Day Trip 2026 | Honest Review",
+                description: "An honest look at the Bokor National Park day trip from Phnom Penh, featuring an abandoned French hill-station casino, distinct from the city's historical sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bokor-national-park-daytrip-from-phnom-penh-with-tour-guide/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bokor National Park's abandoned French colonial hill station, including a crumbling casino perched in the mist, is a genuinely atmospheric destination distinct from Phnom Penh's genocide-history sites — a long day trip into cooler mountain air with a unique colonial-ruin landscape.", tourCard: { slug: "bokor-national-park-daytrip-from-phnom-penh-with-t", title: "Bokor National Park Day Trip from Phnom Penh", description: "A day trip to Bokor National Park's abandoned French hill station from Phnom Penh.", price: "From $368", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/bokor-national-park-daytrip-from-phnom-penh-with-tour-guide/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The hill station is often shrouded in mist, which adds to the atmosphere but also means bring a light jacket for the cooler, damper mountain air." }
+                ],
+                faqs: [
+                    { q: "Is the Bokor National Park day trip worth it from Phnom Penh?", a: "Yes, for a genuinely atmospheric abandoned colonial hill station, a long but memorable day distinct from the city's history sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bokor National Park day trip worth it from Phnom Penh?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely atmospheric abandoned colonial hill station." } }
+                ] },
+            };
+
         default:
             return null;
     }
