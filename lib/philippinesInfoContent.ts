@@ -1320,6 +1320,132 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-intramuros-walking-tour-worth-it-manila":
+      return {
+        title: "Is the Intramuros Walking Tour Worth It in Manila?",
+        description: "An honest look at the Intramuros guided walking tour, exploring Manila's walled Spanish colonial old city and its churches and museums.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a62363d00c6b60529ef1252d2f107435a0c1933bda37b8207254fbf71ab9598d.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Intramuros is Manila's walled Spanish colonial old city, and a guided walking tour explains the history behind its churches, forts, and museums that you'd otherwise just be photographing without context, making it a genuinely efficient way to see the district's history on foot.",
+            tourCard: { slug: "intramuros-walking-tour-history-churches-museums", title: "Intramuros Walking Tour: History, Churches & Museums", description: "A guided walking tour of Manila's historic walled city of Intramuros.", price: "From $194", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a62363d00c6b60529ef1252d2f107435a0c1933bda37b8207254fbf71ab9598d.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the morning before the heat builds — most of this tour is on foot outdoors with limited shade along the old walls.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Intramuros walking tour worth it in Manila?", a: "Yes, for the historical context behind the walled city's churches and forts that you'd otherwise just be photographing without explanation." },
+        ],
+      };
+
+    case "is-hundred-islands-tour-worth-it-manila":
+      return {
+        title: "Is the Hundred Islands Tour Worth It from Manila?",
+        description: "An honest look at the 2-day Hundred Islands tour with snorkeling, reaching a national park of over a hundred small islands north of Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/457ddb35149c14a05697253381f783bca0a4341ea1ab93832cf2a54a468c2279.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Hundred Islands National Park is a scattered cluster of over a hundred small islands off the coast of Pangasinan, and this 2-day trip with island-hopping and snorkeling is a genuine beach-and-island escape, a completely different pace from Manila's history and food circuit.",
+            tourCard: { slug: "from-manila-hundred-islands-tour-with-snorkeling", title: "From Manila: Hundred Islands Tour with Snorkeling", description: "A 2-day island-hopping and snorkeling trip to the Hundred Islands.", price: "From $1297", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/457ddb35149c14a05697253381f783bca0a4341ea1ab93832cf2a54a468c2279.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Given the 2-day length and distance, this is a real trip commitment, not a casual day out — plan your Manila itinerary around it accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hundred Islands tour worth it from Manila?", a: "Yes, for a genuine island-hopping beach escape, a completely different pace from Manila's usual history and food circuit." },
+        ],
+      };
+
+    case "is-pampanga-hot-springs-tour-worth-it-manila":
+      return {
+        title: "Is the Pampanga Thermal Pools and Volcanic Sand Tour Worth It?",
+        description: "An honest look at the Angeles City Pampanga thermal pools and volcanic sand tour, a geothermal activity tied to the Mount Pinatubo eruption's lasting landscape.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d83ca1ba1ba3d7cae55962e003c4bb122997fb84e0ab5967e69c5a2e61289ab.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pampanga's thermal pools and volcanic sand spa treatments are a direct legacy of the 1991 Mount Pinatubo eruption, giving a genuinely different geothermal wellness experience than anything Manila itself offers, worth the trip for travelers specifically after this kind of activity.",
+            tourCard: { slug: "angeles-city-pampanga-thermal-pools-volcanic-sand", title: "Angeles City: Pampanga Thermal Pools & Volcanic Sand", description: "A tour of Pampanga's thermal pools and volcanic sand spa treatments.", price: "From $453", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d83ca1ba1ba3d7cae55962e003c4bb122997fb84e0ab5967e69c5a2e61289ab.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring swimwear and a towel for the thermal pools, and expect the volcanic sand treatments to be genuinely hot — ask your guide about the right duration for sensitive skin.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pampanga thermal pools tour worth it?", a: "Yes, for a genuinely unique geothermal wellness experience tied to Mount Pinatubo's eruption, unlike anything in Manila itself." },
+        ],
+      };
+
+    case "is-baguio-city-tour-worth-it-manila":
+      return {
+        title: "Is the Baguio City Tour Worth It from Manila?",
+        description: "An honest look at the private 2-day Baguio city tour, Manila's closest escape to the cool mountain air of the Philippines' summer capital.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6741d1df77d237d6fa4e24108a6a03348cc944102844e794f8c032ec6f09fa59.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Baguio is known as the Philippines' summer capital for its genuinely cool mountain climate, a real change of pace from Manila's tropical heat, and this 2-day private tour gives enough time to actually settle into the city rather than rushing through on a single long day.",
+            tourCard: { slug: "from-manila-private-2-day-baguio-city-tour", title: "From Manila: Private 2-Day Baguio City Tour", description: "A private 2-day city tour of Baguio from Manila.", price: "From $1039", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6741d1df77d237d6fa4e24108a6a03348cc944102844e794f8c032ec6f09fa59.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a light jacket — Baguio's mountain altitude makes it noticeably cooler than Manila, especially in the evenings." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Baguio worth visiting from Manila?", a: "Yes, for genuinely cooler mountain air and a real change of pace from Manila's tropical heat." },
+        ],
+      };
+
+    case "is-tagaytay-taal-day-trip-worth-it-manila":
+      return {
+        title: "Is the Tagaytay and Taal Volcano Day Trip Worth It from Manila?",
+        description: "An honest look at the Tagaytay day trip with Taal Volcano views, Manila's closest easy escape to cooler ridgeline air and volcanic scenery.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c2efd10cedccace824625d0852cebb42b642cdbe30c7805409715177dfcb8f54.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tagaytay sits on a ridge with sweeping views of Taal Volcano, an active volcano sitting inside its own lake, making this an easy and genuinely scenic half-day escape from Manila's heat without requiring a multi-day trip like Baguio.",
+            tourCard: { slug: "from-manila-tagaytay-day-trip-with-taal-views-2", title: "From Manila: Tagaytay Day Trip with Taal Views", description: "A day trip to Tagaytay with views of Taal Volcano.", price: "From $685", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c2efd10cedccace824625d0852cebb42b642cdbe30c7805409715177dfcb8f54.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check current volcanic activity advisories before booking — Taal is an active volcano and access to certain viewpoints can change based on alert level." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Tagaytay worth a day trip from Manila?", a: "Yes, it's the city's easiest scenic escape, with ridgeline views of an active volcano sitting inside its own lake." },
+        ],
+      };
+
+    case "is-makati-rooftop-bar-hopping-worth-it-manila":
+      return {
+        title: "Is Makati Rooftop Bar Hopping Worth It in Manila?",
+        description: "An honest look at the Makati rooftop bar hopping tour with a local guide, covering the business district's elevated nightlife scene.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a09741e957481b31027e95bf81c600669d9a722373f5ca3e5877e143dd85805b.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Makati's rooftop bars give skyline views over the business district, and a guided bar hop solves the real problem of not knowing which venues are actually worth the cover charge and taxi fare among the many scattered rooftops across the district.",
+            tourCard: { slug: "makati-rooftop-barhopping-with-local-guide", title: "Makati Rooftop Bar Hopping with Local Guide", description: "A guided rooftop bar hopping tour through Makati.", price: "From $76", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a09741e957481b31027e95bf81c600669d9a722373f5ca3e5877e143dd85805b.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good evening activity for solo travelers or small groups who'd rather not spend an evening guessing which rooftop bars are worth the taxi fare." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Makati rooftop bar hopping worth it?", a: "Yes, for a local guide's knowledge of which rooftop venues among the district's many options are genuinely worth the cover charge." },
+        ],
+      };
+
     default:
       return null;
   }

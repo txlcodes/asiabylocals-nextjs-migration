@@ -945,6 +945,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'manila-cooking-class-guide',
     'is-banaue-sagada-tour-worth-it-manila', 'is-filipino-cultural-dance-dinner-show-worth-it-manila',
     'is-villa-escudero-day-tour-worth-it-manila',
+    'is-intramuros-walking-tour-worth-it-manila', 'is-hundred-islands-tour-worth-it-manila',
+    'is-pampanga-hot-springs-tour-worth-it-manila', 'is-baguio-city-tour-worth-it-manila',
+    'is-tagaytay-taal-day-trip-worth-it-manila', 'is-makati-rooftop-bar-hopping-worth-it-manila',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/manila/${slug}`,
     lastModified: new Date(),
