@@ -886,6 +886,42 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-scuba-diving-worth-it-khasab":
+            return {
+                title: "Is Scuba Diving Worth It in Khasab?",
+                seoTitle: "Khasab Scuba Diving 2026 | Honest Review",
+                description: "An honest look at Khasab's Discover Scuba Diving experience in the Musandam fjords, an underwater alternative to the region's famous dhow cruises.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4ab4e24006537bb31356851888ac5664b5e4258313895194d9878bcb573ec44.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This beginner-friendly intro dive explores the Musandam fjords from underwater rather than from a dhow deck, no certification required, a genuinely different way to experience 'the Norway of Arabia' than the region's usual cruise-and-snorkel format.", tourCard: { slug: "musandam-discover-scuba-diving-experience", title: "Musandam: Discover Scuba Diving Experience", description: "A beginner-friendly intro scuba dive in the Musandam fjords.", price: "From $145", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4ab4e24006537bb31356851888ac5664b5e4258313895194d9878bcb573ec44.jpeg" } },
+                    { title: "Practical Tips", content: "No certification or prior diving experience is needed — an instructor guides every step." }
+                ],
+                faqs: [
+                    { q: "Is scuba diving worth it in Khasab?", a: "Yes, for an underwater perspective on the Musandam fjords, genuinely different from the region's usual dhow cruises." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is scuba diving worth it in Khasab?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an underwater perspective on the Musandam fjords." } }
+                ] },
+            };
+
+        case "is-city-tour-worth-it-khasab":
+            return {
+                title: "Is the City Tour with Khasab Fort Worth It?",
+                seoTitle: "Khasab City Tour 2026 | Honest Review",
+                description: "An honest look at the Khasab city tour with Khasab Fort, a land-based cultural option distinct from the region's dhow cruises and mountain safaris.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e22fe6d13276.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers Khasab town and its 17th-century Portuguese-built fort, a short cultural stop that works well as a half-day pairing with a fjord cruise or mountain safari, rather than a destination on its own.", tourCard: { slug: "khasab-city-tour-with-khasab-fort", title: "Khasab City Tour with Khasab Fort", description: "A city tour of Khasab including its historic fort.", price: "From $182", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e22fe6d13276.jpeg" } },
+                    { title: "Practical Tips", content: "Pair this with a dhow cruise or mountain safari on the same day to make the most of a short stay in Khasab." }
+                ],
+                faqs: [
+                    { q: "Is the Khasab city tour worth it?", a: "Yes, as a short cultural add-on alongside a dhow cruise or mountain safari, though not worth a full day on its own." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Khasab city tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a short cultural add-on alongside a cruise or safari." } }
+                ] },
+            };
+
         default:
             return null;
     }

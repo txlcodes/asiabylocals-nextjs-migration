@@ -733,6 +733,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const khasabInfoPages = mapInfoSlugs([
     'best-dhow-cruise-khasab', 'best-musandam-adventure-tour-khasab',
     'khasab-travel-guide-2026',
+    'is-scuba-diving-worth-it-khasab', 'is-city-tour-worth-it-khasab',
   ], 'oman', 'khasab');
 
   const nizwaInfoPages = mapInfoSlugs([

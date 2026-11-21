@@ -671,6 +671,7 @@ export const BORJOMI_INFO_SLUGS = [
 export const KHASAB_INFO_SLUGS = [
   'best-dhow-cruise-khasab', 'best-musandam-adventure-tour-khasab',
   'khasab-travel-guide-2026',
+  'is-scuba-diving-worth-it-khasab', 'is-city-tour-worth-it-khasab',
 ];
 
 export const NIZWA_INFO_SLUGS = [
