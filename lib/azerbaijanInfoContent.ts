@@ -526,6 +526,42 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-windsurfing-wakeboarding-worth-it-baku":
+            return {
+                title: "Is Windsurfing or Wakeboarding Worth It in Baku?",
+                seoTitle: "Baku Windsurfing Wakeboarding 2026 | Honest Review",
+                description: "An honest look at Baku's windsurfing, wakeboarding, or yacht Caspian Sea activity package, a water-sports option distinct from the city's Old City and fire-site sightseeing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a4413570c16ae2d4a6284d54d806659366746761dfa1b44d299cb046dba1c25.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This activity package lets you choose between windsurfing, wakeboarding, or a yacht outing on the Caspian Sea, a genuine water-sports option that's a complete change of pace from Baku's Old City walks and fire-temple sightseeing.", tourCard: { slug: "baku-choose-windsurfing-wakeboarding-or-yacht", title: "Baku: Choose Windsurfing, Wakeboarding, or Yacht", description: "A choice of windsurfing, wakeboarding, or yacht activity on the Caspian Sea.", price: "From $111", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a4413570c16ae2d4a6284d54d806659366746761dfa1b44d299cb046dba1c25.jpg" } },
+                    { title: "Practical Tips", content: "No prior experience is needed for the beginner-friendly options, though wakeboarding and windsurfing both involve some physical effort to pick up." },
+                ],
+                faqs: [
+                    { q: "Is windsurfing or wakeboarding worth it in Baku?", a: "Yes, for a genuine water-sports change of pace from the city's Old City and fire-temple sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is windsurfing or wakeboarding worth it in Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine Caspian Sea water-sports activity." } },
+                ] },
+            };
+
+        case "is-balloon-adventure-worth-it-baku":
+            return {
+                title: "Is the Balloon Adventure Tour Worth It near Baku?",
+                seoTitle: "Baku Balloon Adventure 2026 | Honest Review",
+                description: "An honest look at the 2-day balloon adventure tour near Baku, a premium aerial sightseeing experience distinct from the city's standard walking and fire-site tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d756a730accef1c4150e450e498e941e304b25461978489fb27ec87b1b750659.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This 2-day balloon adventure gives an aerial perspective on the Azerbaijani landscape that no ground tour can match, a premium, multi-day splurge activity rather than a quick add-on.", tourCard: { slug: "baku-balloon-adventure-tour", title: "Baku Balloon Adventure Tour", description: "A 2-day hot air balloon adventure tour near Baku.", price: "From $1170", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d756a730accef1c4150e450e498e941e304b25461978489fb27ec87b1b750659.jpg" } },
+                    { title: "Practical Tips", content: "Flights depend on weather conditions, so the 2-day format builds in flexibility for a reschedule if needed." },
+                ],
+                faqs: [
+                    { q: "Is the balloon adventure tour worth it near Baku?", a: "Yes, for travelers wanting a premium aerial perspective on the landscape, though it's a significant multi-day splurge." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the balloon adventure tour worth it near Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a premium aerial perspective on the landscape." } },
+                ] },
+            };
+
         default:
             return null;
     }
