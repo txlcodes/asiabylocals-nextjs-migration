@@ -2674,6 +2674,66 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-daikoku-jdm-tour-worth-it-tokyo":
+      return {
+        title: "Is the Daikoku JDM Tokyo Drift Night Tour Worth It?",
+        description: "An honest look at the Daikoku JDM Tokyo Drift night tour, visiting Japan's famous late-night car meet culture at Daikoku Parking Area.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/daikoku-jdm-tokyo-drift-night-tour-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Daikoku Parking Area is the real-life late-night gathering spot for Japan's JDM (Japanese Domestic Market) car culture, made famous by Fast and Furious: Tokyo Drift — this tour gets you into the real scene, a genuinely unique subculture experience distinct from anything else in Tokyo.",
+            tourCard: { slug: "daikoku-jdm-tokyo-drift-night-tour-by-local-operator", title: "Daikoku JDM Tokyo Drift Night Tour", description: "A night tour of Japan's famous JDM car culture at Daikoku Parking Area.", price: "From $180", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/daikoku-jdm-tokyo-drift-night-tour-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine late-night subculture scene, not a staged show, so set expectations as an authentic cultural experience rather than a polished tourist attraction." },
+        ],
+        faqs: [
+          { q: "Is the Daikoku JDM tour worth it in Tokyo?", a: "Yes, for car enthusiasts wanting a genuine look at Japan's real JDM car culture, distinct from anything else in the city." },
+        ],
+      };
+
+    case "is-geisha-show-worth-it-tokyo":
+      return {
+        title: "Is the Geisha Show Performance Worth It in Tokyo?",
+        description: "An honest look at Tokyo's one-hour geisha show with Q&A, games, and photos, a dedicated cultural performance distinct from spotting geisha on the street.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/1-hour-geisha-show-performance-q-and-a-games-photos-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This show gives a structured, up-close look at traditional geisha arts — dance, music, and conversation — with a Q&A and photo opportunity included, a genuine cultural performance rather than hoping to spot one in Kyoto's streets.",
+            tourCard: { slug: "1-hour-geisha-show-performance-q-and-a-games-photos-in-tokyo", title: "1-Hour Geisha Show Performance with Q&A, Games, and Photos", description: "A one-hour geisha show performance with Q&A and photo opportunities.", price: "From $83", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/1-hour-geisha-show-performance-q-and-a-games-photos-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a performance format with audience interaction, so come ready to ask questions rather than expecting a purely silent, formal show." },
+        ],
+        faqs: [
+          { q: "Is the geisha show worth it in Tokyo?", a: "Yes, for a genuine, structured look at traditional geisha arts with interaction, rather than hoping to spot one informally." },
+        ],
+      };
+
+    case "is-ghost-stories-night-walk-worth-it-tokyo":
+      return {
+        title: "Is the Ghost Stories and Cemetery Night Walk Worth It in Tokyo?",
+        description: "An honest look at Tokyo's ghost stories, urban legends, and cemetery night walk, a distinctly different evening activity from the city's usual food and shopping tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ghost-stories-urban-legends-and-cemetery-night-walk-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walking tour covers Japanese ghost stories and urban legends with a visit to a cemetery at night, a genuinely atmospheric and different kind of evening from Tokyo's usual food, shopping, and nightlife tours.",
+            tourCard: { slug: "ghost-stories-urban-legends-and-cemetery-night-walk-in-tokyo", title: "Ghost Stories, Urban Legends, and Cemetery Night Walk in Tokyo", description: "A night walking tour covering Japanese ghost stories, urban legends, and a cemetery visit.", price: "From $148", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ghost-stories-urban-legends-and-cemetery-night-walk-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable walking shoes for an evening route that covers real distance in the dark." },
+        ],
+        faqs: [
+          { q: "Is the ghost stories and cemetery night walk worth it in Tokyo?", a: "Yes, for a genuinely atmospheric, different evening activity from the city's usual food and shopping tours." },
+        ],
+      };
+
     default:
             return null;
     }

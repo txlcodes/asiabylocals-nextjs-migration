@@ -1242,6 +1242,8 @@ export const TOKYO_INFO_SLUGS = [
   // Tour-selling pages (2026-11-02)
   'best-asakusa-sensoji-tour', 'best-kimono-rental-tokyo',
   'is-cat-cafe-tour-worth-it-tokyo',
+  'is-daikoku-jdm-tour-worth-it-tokyo', 'is-geisha-show-worth-it-tokyo',
+  'is-ghost-stories-night-walk-worth-it-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.

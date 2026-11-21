@@ -1184,6 +1184,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-tokyo', 'should-i-book-tokyo-tour-direct-or-through-app', 'how-much-should-a-private-tour-guide-cost-in-tokyo',
     'best-asakusa-sensoji-tour', 'best-kimono-rental-tokyo',
     'is-cat-cafe-tour-worth-it-tokyo',
+    'is-daikoku-jdm-tour-worth-it-tokyo', 'is-geisha-show-worth-it-tokyo',
+    'is-ghost-stories-night-walk-worth-it-tokyo',
 ].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
