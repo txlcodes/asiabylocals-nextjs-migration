@@ -699,6 +699,24 @@ export function getBhutanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-cooking-tour-worth-it-thimphu":
+            return {
+                title: "Is the 3-Day Cooking Tour Worth It in Bhutan?",
+                seoTitle: "Bhutan Cooking Tour 2026 | Honest Review",
+                description: "An honest look at Bhutan's 3-day cooking tour with market visits, a food-focused multi-day alternative to the standard Tiger's Nest and dzong-sightseeing itineraries.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a1e7e16ea372926f8c6aca2ff2fb68e87ddc41606beaf1bcbd99fe11490b3dc2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This 3-day package pairs local market visits with hands-on cooking sessions covering Bhutanese staples like ema datshi, a genuinely different structure from the usual sightseeing-focused Bhutan itineraries, worth it for travellers who want food at the center of their trip rather than a side activity.", tourCard: { slug: "bhutan-3-day-cooking-tour-with-market-visits-meals", title: "Bhutan: 3-Day Cooking Tour with Market Visits & Meals", description: "A 3-day cooking-focused tour with market visits and included meals.", price: "From $616", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a1e7e16ea372926f8c6aca2ff2fb68e87ddc41606beaf1bcbd99fe11490b3dc2.jpg" } },
+                    { title: "Practical Tips", content: "Like most Bhutan tours, this runs through a licensed operator with meals and lodging included, following the country's minimum daily spending requirement." }
+                ],
+                faqs: [
+                    { q: "Is the Bhutan cooking tour worth it?", a: "Yes, for travellers who want food and local market life at the center of their trip rather than a standard sightseeing itinerary." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bhutan cooking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a food-focused alternative to standard sightseeing itineraries." } }
+                ] },
+            };
+
         default:
             return null;
     }

@@ -587,6 +587,7 @@ export const THIMPHU_INFO_SLUGS: string[] = [
   'bhutan-visa-guide-for-tourists', 'bhutan-sustainable-development-fee-guide',
   'thimphu-food-guide', 'is-thimphu-safe',
   'thimphu-dress-code-guide', 'thimphu-weather-guide',
+  'is-cooking-tour-worth-it-thimphu',
 ];
 export const PARO_INFO_SLUGS: string[] = [
   'best-tigers-nest-hike-tour-paro', 'best-national-museum-tour-paro',

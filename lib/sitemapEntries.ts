@@ -653,6 +653,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'bhutan-visa-guide-for-tourists', 'bhutan-sustainable-development-fee-guide',
     'thimphu-food-guide', 'is-thimphu-safe',
     'thimphu-dress-code-guide', 'thimphu-weather-guide',
+    'is-cooking-tour-worth-it-thimphu',
   ], 'bhutan', 'thimphu');
   const paroInfoPages = mapInfoSlugs([
     'best-tigers-nest-hike-tour-paro', 'best-national-museum-tour-paro',
