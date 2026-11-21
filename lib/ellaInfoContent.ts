@@ -1016,6 +1016,26 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-cooking-class-worth-it-ella":
+      return {
+        title: "Is a Sri Lankan Cooking Class Worth It in Ella?",
+        description: "An honest look at Ella's homestay cooking class, a relaxed cultural activity between hikes and day tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-637239/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Held at a local homestay, this hands-on class teaches Sri Lankan cooking directly from a local host, a relaxed evening pairing after a day spent hiking Ella Rock or Little Adam's Peak.",
+            tourCard: { slug: "ella-sri-lankan-cooking-class-with-neranji-at", title: "Ella: Sri Lankan Cooking Class with Neranji at Homestay", description: "A Sri Lankan cooking class at a local homestay.", price: "From $31", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-637239/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A low-cost, low-key way to round off a day of hiking without needing more physical activity." },
+        ],
+        faqs: [
+          { q: "Is a cooking class worth it in Ella?", a: "Yes, as a relaxed, low-cost cultural activity to pair with the area's hiking-focused days." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1236,7 +1236,8 @@ export const ELLA_INFO_SLUGS = [
   'leaving-ella-onward-transfers',
   'best-tours-in-ella',
   'should-i-book-ella-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-ella'
+  'how-much-should-a-private-tour-guide-cost-in-ella',
+  'is-cooking-class-worth-it-ella',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.
