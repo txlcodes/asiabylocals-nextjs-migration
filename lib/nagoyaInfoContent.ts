@@ -1128,6 +1128,66 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case 'is-atsuta-shrine-tour-worth-it-nagoya':
+      return {
+        title: "Is the Atsuta Shrine and Sword Museum Tour Worth It in Nagoya?",
+        description: "An honest look at Nagoya's Atsuta Shrine and sword museum guided tour, one of Japan's most sacred Shinto shrines, distinct from the city's castle sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/atsuta-shrine-and-sword-museum-guided-tour-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Atsuta Shrine is one of Japan's most sacred Shinto sites, said to house one of the three Imperial Regalia, paired here with a sword museum showcasing traditional Japanese blade craftsmanship — a genuinely different cultural depth from Nagoya Castle's modern-history focus.",
+            tourCard: { slug: "atsuta-shrine-and-sword-museum-guided-tour-in-nagoya", title: "Atsuta Shrine and Sword Museum Guided Tour in Nagoya", description: "A guided tour of Atsuta Shrine and its sword museum.", price: "From $156", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/atsuta-shrine-and-sword-museum-guided-tour-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The shrine grounds are forested and peaceful, a good quiet contrast if you've just come from a busier city-center sight." },
+        ],
+        faqs: [
+          { q: "Is the Atsuta Shrine tour worth it in Nagoya?", a: "Yes, for one of Japan's most sacred Shinto sites, a genuinely different cultural depth from Nagoya Castle's modern history." },
+        ],
+      };
+
+    case 'is-ise-jingu-day-trip-worth-it-nagoya':
+      return {
+        title: "Is the Ise Jingu Shrine and Wedded Rocks Day Trip Worth It from Nagoya?",
+        description: "An honest look at the Ise Jingu Shrine and wedded rocks day tour from Nagoya, visiting Japan's most important Shinto shrine complex.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ise-jingu-shrine-and-wedded-rocks-day-tour-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ise Jingu is widely considered Japan's most important Shinto shrine complex, paired here with the Meoto Iwa 'wedded rocks' coastal rock formation — a genuinely significant pilgrimage site and a scenic coastal stop, a completely different day from Nagoya's modern city sights.",
+            tourCard: { slug: "ise-jingu-shrine-and-wedded-rocks-day-tour-in-nagoya", title: "Ise Jingu Shrine and Wedded Rocks Day Tour from Nagoya", description: "A day tour to Ise Jingu Shrine and the Meoto Iwa wedded rocks.", price: "From $98", duration: "10.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ise-jingu-shrine-and-wedded-rocks-day-tour-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day trip given the distance, so budget the full day rather than combining it with city sightseeing." },
+        ],
+        faqs: [
+          { q: "Is the Ise Jingu day trip worth it from Nagoya?", a: "Yes, for visiting Japan's most important Shinto shrine complex, a genuinely significant pilgrimage site worth the long day trip." },
+        ],
+      };
+
+    case 'is-legoland-japan-worth-it-nagoya':
+      return {
+        title: "Is LEGOLAND Japan Worth It in Nagoya?",
+        description: "An honest look at the LEGOLAND Japan Resort and Sea Life Nagoya combo ticket, a family-friendly theme park distinct from Nagoya's castle and shrine sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/legoland-japan-resort-and-sea-life-nagoya-combo-ticketz-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "LEGOLAND Japan combined with the adjacent Sea Life Nagoya aquarium makes for a genuine family theme-park day, a complete change of pace from Nagoya's castle and shrine sightseeing — worth it specifically for families traveling with kids.",
+            tourCard: { slug: "legoland-japan-resort-and-sea-life-nagoya-combo-ticketz-by-local-operator", title: "LEGOLAND Japan Resort and Sea Life Nagoya Combo Ticket", description: "A combo ticket for LEGOLAND Japan Resort and Sea Life Nagoya aquarium.", price: "From $72", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/legoland-japan-resort-and-sea-life-nagoya-combo-ticketz-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The combo ticket is a good value if you plan to do both attractions, since booking them separately usually costs more." },
+        ],
+        faqs: [
+          { q: "Is LEGOLAND Japan worth it in Nagoya?", a: "Yes, especially for families with kids wanting a theme-park day, a complete change of pace from the city's historical sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1308,6 +1308,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nagoya-samurai-experiences', 'best-tours-in-nagoya', 'should-i-book-nagoya-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-nagoya',
     'is-miso-brewery-tour-worth-it-nagoya', 'is-inuyama-castle-day-trip-worth-it-nagoya',
+    'is-atsuta-shrine-tour-worth-it-nagoya', 'is-ise-jingu-day-trip-worth-it-nagoya',
+    'is-legoland-japan-worth-it-nagoya',
 ].map(slug => ({
     url: `${BASE_URL}/japan/nagoya/${slug}`,
     lastModified: new Date(),

@@ -1329,6 +1329,8 @@ export const NAGOYA_INFO_SLUGS = [
   'should-i-book-nagoya-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-nagoya',
   'is-miso-brewery-tour-worth-it-nagoya', 'is-inuyama-castle-day-trip-worth-it-nagoya',
+  'is-atsuta-shrine-tour-worth-it-nagoya', 'is-ise-jingu-day-trip-worth-it-nagoya',
+  'is-legoland-japan-worth-it-nagoya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
