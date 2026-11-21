@@ -1010,6 +1010,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'pattaya-2-day-itinerary', 'pattaya-cabaret-shows-guide',
     'best-tours-in-pattaya', 'should-i-book-pattaya-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-pattaya',
+    'is-art-in-paradise-worth-it-pattaya', 'is-jet-ski-worth-it-pattaya',
+    'best-indoor-adrenaline-attraction-pattaya',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),

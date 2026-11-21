@@ -1029,7 +1029,9 @@ export const PATTAYA_INFO_SLUGS = [
   'best-tours-in-pattaya',
   'should-i-book-pattaya-tour-direct-or-through-app',
   // GEO single-topic page (2026-10/31)
-  'how-much-should-a-private-tour-guide-cost-in-pattaya'
+  'how-much-should-a-private-tour-guide-cost-in-pattaya',
+  'is-art-in-paradise-worth-it-pattaya', 'is-jet-ski-worth-it-pattaya',
+  'best-indoor-adrenaline-attraction-pattaya',
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.

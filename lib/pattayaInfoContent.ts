@@ -642,6 +642,62 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 },
             };
 
+        case "is-art-in-paradise-worth-it-pattaya":
+            return {
+                title: "Is Art in Paradise 3D Museum Worth It in Pattaya?",
+                seoTitle: "Art in Paradise Pattaya 2026 | Honest Review",
+                description: "An honest look at Art in Paradise, Pattaya's 3D trick-art museum, at a very low entry price.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/art-in-paradise-3d-museum-entry-ticket-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Art in Paradise is a 3D trick-art museum where optical-illusion paintings create photo opportunities that look genuinely three-dimensional — at a very low price, it's an easy, fun rainy-day or midday-heat add-on.", tourCard: { slug: "art-in-paradise-3d-museum-entry-ticket-in-pattaya", title: "Art in Paradise 3D Museum Entry Ticket in Pattaya", description: "Entry ticket to the Art in Paradise 3D trick-art museum.", price: "From $16", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/art-in-paradise-3d-museum-entry-ticket-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a phone with a wide-angle camera and go with a friend — the illusions work best in photos with a person standing in the scene." }
+                ],
+                faqs: [
+                    { q: "Is Art in Paradise worth it in Pattaya?", a: "Yes, given its low price, it's an easy and fun rainy-day or midday activity." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Art in Paradise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, given its low price, it's a fun easy add-on." } }
+                ] },
+            };
+
+        case "is-jet-ski-worth-it-pattaya":
+            return {
+                title: "Is the Jet Ski Experience Worth It in Pattaya?",
+                seoTitle: "Pattaya Jet Ski Experience 2026 | Honest Review",
+                description: "An honest look at Pattaya's short jet ski experience along its main beaches.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jet-ski-experience-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A quick 30-minute jet ski ride along Pattaya's beaches is a good burst of activity to add to a beach day, rather than a half-day commitment.", tourCard: { slug: "jet-ski-experience-in-pattaya", title: "Jet Ski Experience in Pattaya", description: "A jet ski experience along Pattaya's beaches.", price: "From $97", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/jet-ski-experience-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm with your operator whether the price includes fuel and life jackets, since this varies by vendor on Pattaya's beaches." }
+                ],
+                faqs: [
+                    { q: "Is jet skiing worth it in Pattaya?", a: "Yes, as a short add-on to a beach day rather than a half-day commitment." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is jet skiing worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a short beach-day add-on." } }
+                ] },
+            };
+
+        case "best-indoor-adrenaline-attraction-pattaya":
+            return {
+                title: "Best Indoor/Adrenaline Attractions in Pattaya: Ripley's vs Go-Karting",
+                seoTitle: "Best Pattaya Indoor Attractions 2026 | Ripley's & Go-Karting",
+                description: "Compare Pattaya's Ripley's Believe It or Not! museum pass (including Horror Hospital) with EasyKart go-kart racing, two very different rainy-day or evening options.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ripley-s-pattaya-mega-pass-with-horror-hospital-entry-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "For a quirky indoor museum experience including a horror-themed attraction, go with Ripley's; for a more active, adrenaline-driven option, go-kart racing is the better fit.", tourCard: { slug: "ripley-s-pattaya-mega-pass-with-horror-hospital-entry-by-local-operator", title: "Ripley's Pattaya Mega Pass with Horror Hospital Entry by Local Operator", description: "A mega pass to Ripley's Pattaya attractions including Horror Hospital.", price: "From $117", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ripley-s-pattaya-mega-pass-with-horror-hospital-entry-by-local-operator/img0/1600.webp" } },
+                    { title: "For an Active Option: EasyKart Go-Kart Racing", content: "A straightforward go-kart racing session, good for an active evening or a break from beach and boat activities.", tourCard: { slug: "easykart-pattaya-thepprasit-go-kart-racing-experience-by-local-operator", title: "EasyKart Pattaya (Thepprasit): Go-Kart Racing Experience by Local Operator", description: "A go-kart racing experience at EasyKart Pattaya.", price: "From $19", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/easykart-pattaya-thepprasit-go-kart-racing-experience-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Both work well as rainy-day or evening activities when beach plans fall through." }
+                ],
+                faqs: [
+                    { q: "What is Ripley's Pattaya Mega Pass?", a: "A multi-attraction pass including Ripley's Believe It or Not! museum and the Horror Hospital attraction." },
+                    { q: "Is go-karting a good rainy-day activity in Pattaya?", a: "Yes, it's an indoor-adjacent, active alternative when beach plans are disrupted." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Ripley's Pattaya Mega Pass?", "acceptedAnswer": { "@type": "Answer", "text": "A multi-attraction pass including the museum and Horror Hospital." } }
+                ] },
+            };
+
         default:
             return null;
     }
