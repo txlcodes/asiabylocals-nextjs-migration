@@ -842,6 +842,111 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mekong-delta-day-trip-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Mekong Delta Day Trip Worth It from Ho Chi Minh City?",
+        description: "An honest look at the 1-day Mekong Delta, Cai Rang floating market, and ancient house tour, a genuine change of pace from the city's urban sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/1-day-mekong-cai-rang-floating-market-ancient-house-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Mekong Delta is a completely different Vietnam from Ho Chi Minh City's dense urban streets, a maze of rivers, canals, and floating markets, and this day trip covers the Cai Rang floating market and a traditional ancient house in one efficient outing.",
+            tourCard: { slug: "1-day-mekong-cai-rang-floating-market-ancient-house-ho-chi-minh-city", title: "1-Day Mekong, Cai Rang Floating Market & Ancient House", description: "A day trip to the Mekong Delta, Cai Rang floating market, and an ancient house.", price: "From $147", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/1-day-mekong-cai-rang-floating-market-ancient-house-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Floating markets are busiest and most active early in the morning — an early departure genuinely matters for seeing Cai Rang at its liveliest.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mekong Delta day trip worth it from Ho Chi Minh City?", a: "Yes, for a completely different side of Vietnam, rivers, canals, and floating markets, a genuine change of pace from the city's urban streets." },
+        ],
+      };
+
+    case "is-can-gio-monkey-island-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Can Gio Monkey Island and Mangrove Tour Worth It?",
+        description: "An honest look at the Can Gio mangrove forest and monkey island day tour, a UNESCO biosphere reserve genuinely close to Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/can-gio-mangrove-forest-and-monkey-island-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Can Gio is a UNESCO biosphere reserve of mangrove forest just outside the city, home to a genuinely large population of free-roaming macaques on its 'monkey island', a completely different ecosystem from the urban center in a manageable day trip.",
+            tourCard: { slug: "can-gio-mangrove-forest-and-monkey-island-in-ho-chi-minh-city", title: "Can Gio Mangrove Forest and Monkey Island", description: "A day tour to the Can Gio mangrove forest and monkey island.", price: "From $44", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/can-gio-mangrove-forest-and-monkey-island-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep food and loose items secured — the macaques on monkey island are genuinely bold and will grab anything accessible.",
+          },
+        ],
+        faqs: [
+          { q: "Is Can Gio monkey island worth visiting?", a: "Yes, for a genuinely different mangrove ecosystem and free-roaming macaques close to the city, in a manageable day trip." },
+        ],
+      };
+
+    case "is-cat-tien-national-park-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Cat Tien National Park Tour Worth It from Ho Chi Minh City?",
+        description: "An honest look at the 2-day Cat Tien National Park tour, a genuine rainforest and wildlife-watching trip distinct from the city's urban attractions.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cat-tien-national-park-2-day-tour-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cat Tien is one of Vietnam's most significant national parks for biodiversity, with genuine rainforest trekking and wildlife-spotting opportunities, a real commitment at 2 days but a completely different experience from the city's urban sightseeing or the Mekong Delta's waterways.",
+            tourCard: { slug: "cat-tien-national-park-2-day-tour-in-ho-chi-minh-city", title: "Cat Tien National Park 2-Day Tour", description: "A 2-day rainforest and wildlife-watching tour of Cat Tien National Park.", price: "From $496", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/cat-tien-national-park-2-day-tour-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth it specifically for travelers with real interest in wildlife and rainforest ecosystems rather than a casual sightseeing add-on." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Cat Tien National Park worth it?", a: "Yes, for travelers with genuine interest in rainforest wildlife, one of Vietnam's most significant parks for biodiversity." },
+        ],
+      };
+
+    case "is-black-virgin-mountain-cao-dai-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Black Virgin Mountain and Cao Dai Temple Tour Worth It?",
+        description: "An honest look at the Black Virgin Mountain, Cao Dai Temple, and Cu Chi Tunnels combination tour, pairing a cable car mountain with a uniquely Vietnamese religious site.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/black-virgin-mountain-and-cao-dai-temple-and-cu-chi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cao Dai is a uniquely Vietnamese syncretic religion blending Buddhism, Christianity, and other traditions, and its elaborately decorated temple is genuinely unlike anything else in the region, paired on this tour with a cable car ride up Black Virgin Mountain and the Cu Chi Tunnels.",
+            tourCard: { slug: "black-virgin-mountain-and-cao-dai-temple-and-cu-chi", title: "Black Virgin Mountain, Cao Dai Temple and Cu Chi", description: "A combination tour of Black Virgin Mountain, Cao Dai Temple, and the Cu Chi Tunnels.", price: "From $101", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/black-virgin-mountain-and-cao-dai-temple-and-cu-chi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time your visit around the Cao Dai Temple's midday ceremony if you want to see the genuinely elaborate religious service in action." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Cao Dai Temple worth visiting?", a: "Yes, it's a uniquely Vietnamese syncretic religion with an elaborately decorated temple genuinely unlike anything else in the region." },
+        ],
+      };
+
+    case "is-ao-dai-photo-experience-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Ao Dai Try-On Photo Experience Worth It in Saigon?",
+        description: "An honest look at the Ao Dai try-on photo experience, wearing Vietnam's traditional dress for a photoshoot around Ho Chi Minh City's landmarks.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ao-dai-try-on-photo-experience-in-saigon/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The ao dai is Vietnam's iconic traditional dress, and trying one on for a guided photoshoot around the city's colonial-era landmarks gives genuinely different, more personal photos than standard tourist snapshots.",
+            tourCard: { slug: "ao-dai-try-on-photo-experience-in-saigon", title: "Ao Dai Try-On Photo Experience in Saigon", description: "A guided photoshoot wearing Vietnam's traditional ao dai dress.", price: "From $44", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ao-dai-try-on-photo-experience-in-saigon/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on activity to pair with a half-day of sightseeing around the city's colonial-era landmarks." ,
+          },
+        ],
+        faqs: [
+          { q: "Is the Ao Dai photo experience worth it?", a: "Yes, for genuinely different, more personal photos than standard tourist snapshots, wearing Vietnam's iconic traditional dress." },
+        ],
+      };
+
     default:
       return null;
   }
