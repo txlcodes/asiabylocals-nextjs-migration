@@ -2034,6 +2034,132 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-sarangkot-cable-car-worth-it-pokhara":
+            return {
+                title: "Is the Sarangkot Cable Car and Hike Worth It in Pokhara?",
+                seoTitle: "Sarangkot Cable Car Pokhara 2026 | Honest Review",
+                description: "An honest look at the Sarangkot cable car ride combined with a hike back down to Pokhara, a half-day way to reach one of the city's best Annapurna viewpoints.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f99f29856c471169ba08ecee8b00de0ddf251422b13f443f817b7347908c0d6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Sarangkot's hilltop viewpoint is Pokhara's best-known spot for Annapurna range views, usually reached by a pre-dawn taxi for sunrise — this version rides the cable car up and hikes back down, a lower-effort way to get the same views without the 4am start.", tourCard: { slug: "cable-car-ride-to-sarangkot-hike-to-pokhara", title: "Cable Car Ride to Sarangkot, Hike to Pokhara", description: "A cable car ride up to Sarangkot with a hike back down to Pokhara.", price: "From $80", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f99f29856c471169ba08ecee8b00de0ddf251422b13f443f817b7347908c0d6.jpg" } },
+                    { title: "Practical Tips", content: "Go in the afternoon rather than at sunrise if you'd rather skip the pre-dawn taxi crowds and still get clear mountain views." }
+                ],
+                faqs: [
+                    { q: "Do you need to go at sunrise for Sarangkot views?", a: "No — mid-morning or afternoon can still give clear Annapurna range views without the pre-dawn taxi crowds, weather depending." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sarangkot cable car worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Annapurna range views without the pre-dawn sunrise crowds most visitors deal with." } }
+                ] },
+            };
+
+        case "is-poon-hill-trek-worth-it-pokhara":
+            return {
+                title: "Is the Poon Hill Trek Worth It from Pokhara?",
+                seoTitle: "Poon Hill Trek 2026 | Honest Review",
+                description: "An honest look at the 2-day Poon Hill trek, Nepal's most accessible short trek for sweeping Annapurna and Dhaulagiri sunrise views.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/277e5e3ecb1e33f910020f7b2e960cc0aa2f0fd65a95b121b0dbae6c8e70892d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Poon Hill is widely considered Nepal's best short trek for the effort involved, reaching a 3,210-metre viewpoint with a panoramic sunrise view of the Annapurna and Dhaulagiri ranges in just 2 days, no serious altitude acclimatisation required.", tourCard: { slug: "2-day-poon-hill-hike-catch-the-best-sunrise", title: "2-Day Poon Hill Hike: Catch the Best Sunrise", description: "A 2-day guided hike to the Poon Hill viewpoint for sunrise.", price: "From $429", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/277e5e3ecb1e33f910020f7b2e960cc0aa2f0fd65a95b121b0dbae6c8e70892d.jpg" } },
+                    { title: "Practical Tips", content: "A good first-time trek for travellers with limited time or no prior high-altitude experience, since the summit sits well below altitude-sickness-risk range." }
+                ],
+                faqs: [
+                    { q: "Is Poon Hill good for first-time trekkers?", a: "Yes, it's widely considered Nepal's best short trek — a sweeping Annapurna and Dhaulagiri sunrise view in just 2 days with no serious altitude risk." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Poon Hill trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a sweeping Himalayan sunrise view in just 2 days with no serious altitude risk." } }
+                ] },
+            };
+
+        case "is-mardi-himal-trek-worth-it-pokhara":
+            return {
+                title: "Is the Mardi Himal Trek Worth It from Pokhara?",
+                seoTitle: "Mardi Himal Trek 2026 | Honest Review",
+                description: "An honest look at the 5-day Mardi Himal trek, a quieter, less-crowded alternative to Poon Hill and Annapurna Base Camp.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/196b2ebb163f4b882cd162399fd967266e39dcb27b1c7cfae858ab3004a026e9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mardi Himal is a newer, less-established trekking route than Poon Hill or Annapurna Base Camp, which means noticeably quieter trails and teahouses over this 5-day itinerary, with close-up views of Machapuchare's distinctive peak.", tourCard: { slug: "5-day-mardi-himal-trek", title: "5-Day Mardi Himal Trek", description: "A 5-day guided trek to Mardi Himal base camp.", price: "From $718", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/196b2ebb163f4b882cd162399fd967266e39dcb27b1c7cfae858ab3004a026e9.jpg" } },
+                    { title: "Practical Tips", content: "Teahouses are more basic and spaced further apart than on Poon Hill or Annapurna Base Camp, so confirm your itinerary's overnight stops in advance." }
+                ],
+                faqs: [
+                    { q: "Is Mardi Himal less crowded than Poon Hill?", a: "Yes, it's a newer and less-established route, which means noticeably quieter trails at the cost of more basic teahouse infrastructure." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mardi Himal trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter alternative to Poon Hill or Annapurna Base Camp with close-up Machapuchare views." } }
+                ] },
+            };
+
+        case "is-annapurna-base-camp-from-pokhara-worth-it":
+            return {
+                title: "Is the 5-Day Annapurna Base Camp Trek from Pokhara Worth It?",
+                seoTitle: "Annapurna Base Camp from Pokhara 2026 | Honest Review",
+                description: "An honest look at the 5-day Annapurna Base Camp trek starting directly from Pokhara, shorter than the Kathmandu-based itinerary since it skips the extra travel day.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f44af60ebd75b1fe07c725538325bee2d4e3b6f5104ba26eaa2d93cd9bc63944.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pokhara is the actual trailhead city for Annapurna Base Camp, so starting the trek here rather than from Kathmandu cuts the itinerary to 5 days by skipping the extra travel day between the two cities, without changing the route itself.", tourCard: { slug: "5-days-annapurna-base-camp-trek-from-pokhara", title: "5-Days Annapurna Base Camp Trek from Pokhara", description: "A 5-day guided Annapurna Base Camp trek starting from Pokhara.", price: "From $761", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f44af60ebd75b1fe07c725538325bee2d4e3b6f5104ba26eaa2d93cd9bc63944.jpg" } },
+                    { title: "Practical Tips", content: "If you're already in Pokhara rather than Kathmandu, this version saves a travel day over booking the Kathmandu-based itinerary." }
+                ],
+                faqs: [
+                    { q: "Is the Pokhara-based Annapurna Base Camp trek shorter?", a: "Yes, by about a day, since Pokhara is the actual trailhead and skips the extra travel time from Kathmandu." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Annapurna Base Camp trek from Pokhara worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for travellers already in Pokhara, since it saves a travel day versus the Kathmandu-based itinerary." } }
+                ] },
+            };
+
+        case "is-chitwan-safari-from-pokhara-worth-it":
+            return {
+                title: "Is the 2-Day Chitwan Safari from Pokhara Worth It?",
+                seoTitle: "Chitwan Safari from Pokhara 2026 | Honest Review",
+                description: "An honest look at the 2-day Chitwan National Park safari departing from Pokhara, a cheaper road-based alternative to the flight-based version from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/548c598a213adb4e79fbce22d24d3f65ac5a2a953b9b23f4e3340224471229b6.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pokhara sits closer to Chitwan than Kathmandu does, so this 2-day road-based safari runs at a fraction of the cost of the flight-based day trip from Kathmandu, trading a bit more travel time for genuine savings.", tourCard: { slug: "from-pokhara-2-day-chitwan-national-park-safari", title: "From Pokhara: 2-Day Chitwan National Park Safari", description: "A 2-day Chitwan National Park safari with transfers from Pokhara.", price: "From $195", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/548c598a213adb4e79fbce22d24d3f65ac5a2a953b9b23f4e3340224471229b6.jpeg" } },
+                    { title: "Practical Tips", content: "A much better value route to Chitwan than the Kathmandu flight-based day trip if your itinerary already has you in Pokhara." }
+                ],
+                faqs: [
+                    { q: "Is it cheaper to visit Chitwan from Pokhara than Kathmandu?", a: "Yes, significantly — Pokhara is closer by road, so this version skips the domestic flight cost of the Kathmandu day-trip version." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chitwan safari from Pokhara worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a much better-value route to Chitwan than the flight-based Kathmandu day trip." } }
+                ] },
+            };
+
+        case "is-jomsom-muktinath-tour-worth-it-pokhara":
+            return {
+                title: "Is the Jomsom Muktinath Tour Worth It from Pokhara?",
+                seoTitle: "Jomsom Muktinath Tour 2026 | Honest Review",
+                description: "An honest look at the 2-day Jomsom Muktinath 4WD tour, a high-altitude pilgrimage and desert-landscape trip sacred to both Hindus and Buddhists.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b475130e448633736222fca76eca97b6bf7b1963bfbd223ffc9df26ae4bcefb8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Muktinath is a pilgrimage site sacred to both Hindus and Buddhists, sitting in the dry Mustang landscape beyond the Annapurna range, and this 4WD version reaches it in 2 days without requiring the fitness or time commitment of a multi-day trek.", tourCard: { slug: "from-pokhara-1-night-2-days-jomsom-muktinath-4wd", title: "From Pokhara: 1-Night, 2-Days Jomsom Muktinath 4WD Tour", description: "A 2-day 4WD tour to Jomsom and the Muktinath temple from Pokhara.", price: "From $751", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b475130e448633736222fca76eca97b6bf7b1963bfbd223ffc9df26ae4bcefb8.jpg" } },
+                    { title: "Practical Tips", content: "The 4WD route crosses rough mountain roads; expect a bumpy, long drive day rather than a relaxing scenic transfer." }
+                ],
+                faqs: [
+                    { q: "Can you visit Muktinath without trekking?", a: "Yes, this 4WD tour reaches it in 2 days without the fitness or time needed for a multi-day trek, though the mountain roads themselves are rough." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jomsom Muktinath tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a sacred pilgrimage site and dramatic dry-mountain landscape reachable without trekking." } }
+                ] },
+            };
+
+        case "is-ghandruk-tour-worth-it-pokhara":
+            return {
+                title: "Is the Ghandruk Village Tour Worth It from Pokhara?",
+                seoTitle: "Ghandruk Village Tour 2026 | Honest Review",
+                description: "An honest look at the 2-day Ghandruk tour, a short trip into an authentic Gurung hill village without committing to a multi-day trek.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa8ddaa9fa7953fb.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Ghandruk is a well-preserved Gurung village on the lower Annapurna foothills, and this 2-day version gets you there and gives a genuine taste of hill-village life and Annapurna views without the time or fitness commitment of a full multi-day trek.", tourCard: { slug: "from-pokhara-1-night-2-day-ghandruk-tour-by", title: "From Pokhara: 1-Night, 2-Day Ghandruk Tour", description: "A 2-day tour to the Gurung hill village of Ghandruk from Pokhara.", price: "From $353", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa8ddaa9fa7953fb.jpeg" } },
+                    { title: "Practical Tips", content: "A good lower-commitment pick for travellers curious about trekking culture who don't have time for Poon Hill or Mardi Himal." }
+                ],
+                faqs: [
+                    { q: "Is Ghandruk worth visiting without a full trek?", a: "Yes, it's reachable on a short 2-day trip and gives a genuine taste of Gurung hill-village life and Annapurna views." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ghandruk village tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine taste of Gurung hill-village life without the commitment of a multi-day trek." } }
+                ] },
+            };
+
         default:
             return null;
     }

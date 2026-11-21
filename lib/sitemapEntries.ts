@@ -808,6 +808,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'pokhara-vs-kathmandu-guide',
     'is-suspension-bridge-tour-worth-it-pokhara', 'is-atv-tour-worth-it-pokhara',
     'is-horseback-riding-worth-it-pokhara', 'best-chitwan-jungle-safari-tour-pokhara',
+    'is-sarangkot-cable-car-worth-it-pokhara', 'is-poon-hill-trek-worth-it-pokhara',
+    'is-mardi-himal-trek-worth-it-pokhara', 'is-annapurna-base-camp-from-pokhara-worth-it',
+    'is-chitwan-safari-from-pokhara-worth-it', 'is-jomsom-muktinath-tour-worth-it-pokhara',
+    'is-ghandruk-tour-worth-it-pokhara',
   ], 'nepal', 'pokhara');
 
   const batumiInfoPages = mapInfoSlugs([
