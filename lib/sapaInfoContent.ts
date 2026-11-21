@@ -727,6 +727,69 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ha-giang-loop-worth-it-sapa":
+      return {
+        title: "Is the Ha Giang Loop Worth It from Sapa?",
+        description: "An honest look at the 3-day Ha Giang Loop motorbike tour, a genuinely different mountain-road adventure from Sapa's usual trekking and village day trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-day-motorbike-ha-giang-loop-with-easy-rider-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Ha Giang Loop winds through some of Vietnam's most dramatic limestone mountain roads, a multi-day motorbike adventure that's a completely different trip structure from Sapa's day hikes and homestay treks — worth it specifically for the road itself and the remote scenery it passes through.",
+            tourCard: { slug: "3-day-motorbike-ha-giang-loop-with-easy-rider-in-sapa", title: "3-Day Motorbike Ha Giang Loop with Easy Rider in Sapa", description: "A 3-day motorbike loop through the Ha Giang mountain roads with an easy rider.", price: "From $278", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/3-day-motorbike-ha-giang-loop-with-easy-rider-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "An 'easy rider' format means a local driver handles the motorbike while you ride as passenger, a good option if you don't want to drive the mountain roads yourself.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ha Giang Loop worth it from Sapa?", a: "Yes, for travelers specifically wanting dramatic mountain-road scenery and a multi-day motorbike adventure, a completely different trip from Sapa's usual treks." },
+        ],
+      };
+
+    case "is-paragliding-worth-it-sapa":
+      return {
+        title: "Is Paragliding Worth It in Sapa?",
+        description: "An honest look at Sapa's daily paragliding tour, an aerial perspective on the valley distinct from the usual ground-based trekking and village tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/90-min-daily-sapa-paragliding-tour-hotel-transfer-included-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Flying over Sapa's terraced valleys gives a genuinely different perspective than any ground-based trek, with hotel transfer included to simplify logistics for a short but memorable activity.",
+            tourCard: { slug: "90-min-daily-sapa-paragliding-tour-hotel-transfer-included-by-local-operator", title: "90-Min Daily Sapa Paragliding Tour with Hotel Transfer", description: "A paragliding flight over Sapa's valleys with hotel transfer included.", price: "From $145", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/90-min-daily-sapa-paragliding-tour-hotel-transfer-included-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Flights depend on weather, so build a flexible day around the booking in case of a reschedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is paragliding worth it in Sapa?", a: "Yes, for a genuinely different aerial perspective on the valley's rice terraces, distinct from ground-based trekking." },
+        ],
+      };
+
+    case "is-trail-running-tour-worth-it-sapa":
+      return {
+        title: "Is the Guided Trail Running Tour Worth It in Sapa?",
+        description: "An honest look at Sapa's 21km guided trail running tour, a structured running route through the valley's trails distinct from standard leisurely treks.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201139/asiabylocals/tours/21km-guided-trail-running-tour-in-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This 21km guided run covers Sapa's valley trails at running pace rather than a leisurely walking trek, a genuinely different activity for fitness-focused travelers who want more intensity than a standard village hike.",
+            tourCard: { slug: "21km-guided-trail-running-tour-in-sapa", title: "21km Guided Trail Running Tour in Sapa", description: "A 21km guided trail running tour through Sapa's valley trails.", price: "From $77", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201139/asiabylocals/tours/21km-guided-trail-running-tour-in-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers with real running fitness — it's a genuine 21km run, not a casual jog, so come prepared with proper trail shoes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the trail running tour worth it in Sapa?", a: "Yes, for fitness-focused travelers wanting a genuine running challenge through the valley's trails, more intense than a standard trek." },
+        ],
+      };
+
     default:
       return null;
   }

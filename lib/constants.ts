@@ -1903,6 +1903,8 @@ export const SAPA_INFO_SLUGS = [
   'should-i-book-sapa-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-sapa',
   'best-motorbike-tour-sapa',
+  'is-ha-giang-loop-worth-it-sapa', 'is-paragliding-worth-it-sapa',
+  'is-trail-running-tour-worth-it-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
