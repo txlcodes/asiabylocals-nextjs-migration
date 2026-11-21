@@ -1247,7 +1247,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'dubai-water-sports-guide',
     'best-tours-in-dubai', 'should-i-book-dubai-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-dubai',
-    'best-desert-safari-dubai', 'best-burj-khalifa-tour-dubai'].map(slug => ({
+    'best-desert-safari-dubai', 'best-burj-khalifa-tour-dubai',
+    'atlantis-aquaventure-waterpark-guide', 'dubai-aquarium-underwater-zoo-guide',
+    'museum-of-the-future-dubai-frame-guide', 'global-village-dubai-guide',
+    'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

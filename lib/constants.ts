@@ -1742,7 +1742,11 @@ export const DUBAI_INFO_SLUGS = [
   // GEO single-topic page (2026-10/31)
   'how-much-should-a-private-tour-guide-cost-in-dubai',
   // Tour-selling pages (2026-11-01)
-  'best-desert-safari-dubai', 'best-burj-khalifa-tour-dubai'
+  'best-desert-safari-dubai', 'best-burj-khalifa-tour-dubai',
+  // New real-tour pages (2026-11-21)
+  'atlantis-aquaventure-waterpark-guide', 'dubai-aquarium-underwater-zoo-guide',
+  'museum-of-the-future-dubai-frame-guide', 'global-village-dubai-guide',
+  'img-worlds-of-adventure-guide', 'dubai-jet-ski-burj-al-arab-guide',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

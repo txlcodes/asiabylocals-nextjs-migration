@@ -839,6 +839,132 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "atlantis-aquaventure-waterpark-guide":
+      return {
+        title: "Atlantis Aquaventure Waterpark Guide 2026 (Dubai)",
+        description: "Atlantis Aquaventure, on Palm Jumeirah, is one of the world's biggest waterparks — here's what to expect and how to book it.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1436307/img0/1600.webp",
+        sections: [
+          {
+            title: "What's There",
+            content: "Aquaventure Waterpark combines record-breaking slides, a private beach, and a lazy river across Atlantis The Palm's grounds — a full-day destination on its own, not a quick add-on.",
+            tourCard: { slug: "dubai-atlantis-aquaventure-waterpark-entry-suv-tra", title: "Dubai: Atlantis Aquaventure Waterpark Entry & SUV Transfer", description: "Entry to Atlantis Aquaventure Waterpark with SUV transfer.", price: "From $778", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1436307/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Plan for a full day here rather than squeezing it in alongside other sightseeing — the park rewards unhurried visits.",
+          },
+        ],
+        faqs: [
+          { q: "Is Atlantis Aquaventure worth a full day?", a: "Yes, it's designed as a full-day destination with slides, a private beach, and a lazy river." },
+        ],
+      };
+
+    case "dubai-aquarium-underwater-zoo-guide":
+      return {
+        title: "Dubai Aquarium & Underwater Zoo Guide 2026",
+        description: "The Dubai Aquarium and Underwater Zoo inside Dubai Mall is one of the world's largest indoor aquariums, with sharks and rays visible through a massive viewing panel.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788878397/asiabylocals/tours/dubai-aquarium-and-underwater-zoo-ticket/img1.jpg",
+        sections: [
+          {
+            title: "What's There",
+            content: "Set inside Dubai Mall, the aquarium's main tank holds thousands of marine animals including sharks, visible through one of the world's largest viewing panels — an easy add-on to any Dubai Mall or Burj Khalifa visit.",
+            tourCard: { slug: "dubai-aquarium-and-underwater-zoo-ticket", title: "Dubai Aquarium and Underwater Zoo Entry Ticket", description: "Entry ticket to the Dubai Aquarium and Underwater Zoo.", price: "From $74", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788878397/asiabylocals/tours/dubai-aquarium-and-underwater-zoo-ticket/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This pairs naturally with a Dubai Mall visit and the Burj Khalifa, since all three are in the same complex.",
+          },
+        ],
+        faqs: [
+          { q: "Where is the Dubai Aquarium located?", a: "Inside Dubai Mall, making it easy to combine with a Burj Khalifa visit." },
+        ],
+      };
+
+    case "museum-of-the-future-dubai-frame-guide":
+      return {
+        title: "Museum of the Future & Dubai Frame Guide 2026",
+        description: "Compare two of Dubai's most distinctive modern landmarks — the Museum of the Future and the Dubai Frame — often combined into one tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-539600/img0/1600.webp",
+        sections: [
+          {
+            title: "What's Included",
+            content: "This combined tour covers the Museum of the Future's immersive exhibits, the Dubai Frame's panoramic viewing deck (framing old and new Dubai in one photo), and a stop at the Burj Al Arab.",
+            tourCard: { slug: "dubai-future-museum-burj-al-arab-and-dubai-frame", title: "Dubai: Future Museum, Burj Al Arab, and Dubai Frame Tour", description: "A combined tour of the Museum of the Future, Burj Al Arab, and Dubai Frame.", price: "From $65", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-539600/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Museum of the Future is one of Dubai's most talked-about modern buildings — book ahead, as its distinctive design makes it a popular stop." ,
+          },
+        ],
+        faqs: [
+          { q: "What is the Dubai Frame?", a: "A giant picture-frame-shaped structure with a viewing deck that frames both old and new Dubai in one view." },
+        ],
+      };
+
+    case "global-village-dubai-guide":
+      return {
+        title: "Global Village Dubai Guide 2026",
+        description: "Global Village is Dubai's seasonal multicultural theme park, combining pavilions from dozens of countries with rides, shows, and shopping.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-521634/img0/1600.webp",
+        sections: [
+          {
+            title: "What's There",
+            content: "Global Village runs seasonally (typically October through April) and combines pavilions representing dozens of countries with carnival rides, live shows, and shopping — a very different experience from Dubai's usual luxury-mall shopping.",
+            tourCard: { slug: "dubai-global-village-entry-ticket-with-hotel", title: "Dubai: Global Village Entry Ticket with Hotel Transfers", description: "Entry to Global Village with hotel transfers.", price: "From $93", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-521634/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the season before planning your trip around this, since Global Village doesn't run year-round." ,
+          },
+        ],
+        faqs: [
+          { q: "Does Global Village run year-round?", a: "No, it's seasonal, typically running from October through April." },
+        ],
+      };
+
+    case "img-worlds-of-adventure-guide":
+      return {
+        title: "IMG Worlds of Adventure Guide 2026 (Dubai)",
+        description: "IMG Worlds of Adventure is one of the world's largest indoor theme parks, with Marvel and Cartoon Network-themed zones.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1446559/img0/1600.webp",
+        sections: [
+          {
+            title: "What's There",
+            content: "Being fully indoor and climate-controlled, IMG Worlds is a good choice regardless of Dubai's outdoor heat, with themed zones based on Marvel characters and Cartoon Network shows.",
+            tourCard: { slug: "dubai-img-worlds-adventure-tickets-with-gmc-yukon-", title: "Dubai: IMG Worlds Adventure Tickets with GMC YUKON Transfer", description: "Tickets to IMG Worlds of Adventure with transfer.", price: "From $527", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1446559/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good option on a very hot day or with kids, since the entire park is indoors and air-conditioned.",
+          },
+        ],
+        faqs: [
+          { q: "Is IMG Worlds of Adventure indoors?", a: "Yes, fully indoor and air-conditioned, a good option regardless of outdoor heat." },
+        ],
+      };
+
+    case "dubai-jet-ski-burj-al-arab-guide":
+      return {
+        title: "Dubai Jet Ski Tour of Burj Al Arab & Atlantis Guide 2026",
+        description: "A jet ski tour is one of the best ways to see the Burj Al Arab and Atlantis The Palm from the water, with no building access required.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-448422/img0/1600.webp",
+        sections: [
+          {
+            title: "What's Included",
+            content: "Riding your own jet ski past the Burj Al Arab and Atlantis The Palm gives a dramatic sea-level view of Dubai's most photographed landmarks, with photos typically included.",
+            tourCard: { slug: "dubai-jet-ski-tour-of-burj-al-arab-atlantis", title: "Dubai: Jet Ski Tour of Burj Al Arab & Atlantis the Palm", description: "A jet ski tour past Burj Al Arab and Atlantis The Palm.", price: "From $251", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-448422/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No jet ski experience is required — guides lead the route, so this suits first-timers as well as experienced riders.",
+          },
+        ],
+        faqs: [
+          { q: "Do I need jet ski experience for this tour?", a: "No, guides lead the route and it suits first-timers as well as experienced riders." },
+        ],
+      };
+
     default:
       return null;
   }
