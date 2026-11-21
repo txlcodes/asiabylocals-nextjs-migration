@@ -1195,6 +1195,83 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-king-khalid-reserve-cycling-tour-riyadh":
+            return {
+                title: "Which Is the Best King Khalid Royal Reserve Cycling Tour in Riyadh?",
+                seoTitle: "Best King Khalid Reserve Cycling Tour Riyadh 2026",
+                description: "Compare real cycling and biking tours in King Khalid Royal Reserve, Riyadh — a quick budget ride versus a longer guided biking adventure.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fd4f4f2aa16e967603cc61481afe8be964b40afafdfed9840c1369beebf961b5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "King Khalid Royal Reserve offers dedicated cycling trails through desert landscape right near Riyadh — the main choice is a quick 1-hour ride versus a longer 3-hour biking session.", tourCard: { slug: "riyadh-cycling-tour-at-king-khalid-reserve", title: "Riyadh: Cycling Tour at King Khalid Reserve", description: "A cycling tour through King Khalid Royal Reserve.", price: "From $30", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fd4f4f2aa16e967603cc61481afe8be964b40afafdfed9840c1369beebf961b5.jpg" } },
+                    { title: "Best for Longer Ride: Biking in King Khalid Royal Reserve", content: "This extends the ride to a longer 3-hour session, covering more of the reserve's trails for cyclists who want a proper workout.", tourCard: { slug: "biking-in-king-khalid-royal-reserve", title: "Biking in King Khalid Royal Reserve", description: "A longer guided biking session through the reserve.", price: "From $78", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ef2be71320d2a7e1307988d822b10e6c8fd8a5746ff730ffdd65626896f2add9.jpg" } },
+                    { title: "Practical Tips", content: "Early morning or late afternoon rides avoid the harshest midday heat — this matters even more on a bike than in a car or on a standard walking tour." }
+                ],
+                faqs: [
+                    { q: "What is the best King Khalid Reserve cycling tour?", a: "A quick 1-hour ride for a taste of it, or the 3-hour version for a proper cycling session." },
+                    { q: "When is the best time to cycle in Riyadh?", a: "Early morning or late afternoon, to avoid the harshest midday heat." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best King Khalid Reserve cycling tour?", "acceptedAnswer": { "@type": "Answer", "text": "A quick 1-hour ride, or the longer 3-hour version." } },
+                    { "@type": "Question", "name": "Best time to cycle?", "acceptedAnswer": { "@type": "Answer", "text": "Early morning or late afternoon." } }
+                ] },
+            };
+
+        case "is-riyadh-boulevard-world-tour-worth-it":
+            return {
+                title: "Is the Riyadh Boulevard World Tour with Saudi Meal Worth It?",
+                seoTitle: "Riyadh Boulevard World Tour 2026 | Honest Review",
+                description: "An honest look at the Riyadh Boulevard World tour with a traditional Saudi meal included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f99f49ed270e6b5ccde8b1b76666e815a5e79d5b35441bbd4b01b4615d01e772.png",
+                sections: [
+                    { title: "The Short Answer", content: "Boulevard World is one of Riyadh's major modern entertainment developments, themed around different world cultures — a genuinely different angle from the historic sites, and the included Saudi meal adds real value for a half-day outing.", tourCard: { slug: "riyadh-boulevard-world-tour-and-saudi-meal", title: "Riyadh Boulevard World Tour and Saudi Meal", description: "A tour of Boulevard World with a traditional Saudi meal.", price: "From $137", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f99f49ed270e6b5ccde8b1b76666e815a5e79d5b35441bbd4b01b4615d01e772.png" } },
+                    { title: "Practical Tips", content: "This is a modern entertainment-district visit rather than historical sightseeing — good as a contrast to a heritage-focused day earlier or later in your trip." }
+                ],
+                faqs: [
+                    { q: "Is the Boulevard World tour worth it?", a: "Yes, for a modern entertainment contrast to Riyadh's historic sites, with a Saudi meal included." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Boulevard World tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a modern entertainment contrast with a meal included." } }
+                ] },
+            };
+
+        case "best-al-dahna-desert-tour-riyadh":
+            return {
+                title: "Which Is the Best Al Dahna Desert Experience from Riyadh?",
+                seoTitle: "Best Al Dahna Desert Tour Riyadh 2026 | Comparison",
+                description: "Compare real Al Dahna Desert experiences from Riyadh — a full-day desert trip versus a dedicated dune bashing and sandboarding adventure.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52a8bfecd7c00daf768fdff0724765bae287082bbc2b51dd317716f66a05c042.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Al Dahna's red sand desert offers both a general full-day desert experience and a more adrenaline-focused dune bashing and sandboarding version, depending on whether you want scenery or activity to be the main draw.", tourCard: { slug: "riyadh-al-dahna-desert-full-day-trip", title: "Riyadh: Al Dahna Desert Full-Day Trip", description: "A full-day desert experience in Al Dahna.", price: "From $793", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52a8bfecd7c00daf768fdff0724765bae287082bbc2b51dd317716f66a05c042.jpg" } },
+                    { title: "Best for Adrenaline: Dune Bashing & Sandboarding Tour", content: "This leans specifically into 4x4 dune bashing and sandboarding as the main activities, a more adrenaline-focused version than the general desert trip.", tourCard: { slug: "riyadh-desert-dune-bashing-and-sandboarding-tour", title: "Riyadh: Desert Dune Bashing and Sandboarding Tour", description: "A dune bashing and sandboarding adventure in the Riyadh desert.", price: "From $988", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cb964d9a4e1380e9bbf768edeff1693929b550f8c0623c894463c62d7bed23d9.jpg" } },
+                    { title: "Practical Tips", content: "Sandboarding requires reasonable balance and a willingness to get sandy — ask your operator about the exact dune heights involved if you want to gauge the activity level beforehand." }
+                ],
+                faqs: [
+                    { q: "What is the best Al Dahna Desert experience from Riyadh?", a: "A full-day trip for general desert scenery, or dune bashing/sandboarding for more adrenaline." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Al Dahna Desert experience?", "acceptedAnswer": { "@type": "Answer", "text": "A full-day trip, or dune bashing/sandboarding for adrenaline." } }
+                ] },
+            };
+
+        case "is-tuwaiq-mountains-tour-worth-it-riyadh":
+            return {
+                title: "Is the Tuwaiq Mountains & Najd Plateau Tour from Riyadh Worth It?",
+                seoTitle: "Tuwaiq Mountains Tour Riyadh 2026 | Honest Review",
+                description: "An honest look at the Tuwaiq Mountains and Najd Plateau day tour from Riyadh, a dramatic escarpment landscape distinct from the Edge of the World.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/feb68194d3c8f639.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Tuwaiq Mountains and Najd Plateau offer dramatic escarpment scenery distinct from the more famous Edge of the World viewpoint — a genuinely good alternative or addition if you want more of this landscape type without repeating the same spot.", tourCard: { slug: "from-riyadh-tuwaiq-mountains-and-najd-plateau-day", title: "From Riyadh: Tuwaiq Mountains and Najd Plateau Day Tour", description: "A day tour of the Tuwaiq Mountains and Najd Plateau escarpment.", price: "From $156", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/feb68194d3c8f639.jpeg" } },
+                    { title: "Practical Tips", content: "Sunset timing gives the escarpment's layered rock formations their best light — ask your operator about timing if photography is a priority." }
+                ],
+                faqs: [
+                    { q: "Is the Tuwaiq Mountains tour worth it?", a: "Yes, for dramatic escarpment scenery distinct from the Edge of the World." },
+                    { q: "How is this different from the Edge of the World?", a: "It's a different section of the same type of escarpment landscape, good for seeing more without repeating the same viewpoint." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tuwaiq Mountains tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for dramatic escarpment scenery." } }
+                ] },
+            };
+
         default:
             return null;
     }

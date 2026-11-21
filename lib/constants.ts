@@ -416,6 +416,8 @@ export const RIYADH_INFO_SLUGS: string[] = [
   'riyadh-1-day-itinerary', 'saudi-arabia-visa-guide-for-tourists',
   'is-riyadh-safe', 'riyadh-food-guide',
   'riyadh-public-transport-guide',
+  'best-king-khalid-reserve-cycling-tour-riyadh', 'is-riyadh-boulevard-world-tour-worth-it',
+  'best-al-dahna-desert-tour-riyadh', 'is-tuwaiq-mountains-tour-worth-it-riyadh',
 ];
 
 // Saudi Arabia batch 2 (2026-11-19): Jeddah and AlUla
