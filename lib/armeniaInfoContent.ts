@@ -587,6 +587,42 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-carpet-museum-tour-worth-it-yerevan":
+            return {
+                title: "Is the Antique Carpet Museum Tour Worth It in Yerevan?",
+                seoTitle: "Yerevan Carpet Museum Tour 2026 | Honest Review",
+                description: "An honest look at Yerevan's Antique Carpet Museum tour paired with an Armenian heritage dinner.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a65f6c75188910398c4b2269296edbd4b6e4f389ce8b3f041bfd14aa1fe2fa7a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Armenian carpet weaving is a centuries-old craft with deep cultural significance, and this tour covers antique examples at the museum, paired with a traditional Armenian heritage dinner.", tourCard: { slug: "antique-carpet-museum-tour-armenian-heritage", title: "Antique Carpet Museum Tour & Armenian Heritage Dinner", description: "A carpet museum tour paired with an Armenian heritage dinner.", price: "From $91", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a65f6c75188910398c4b2269296edbd4b6e4f389ce8b3f041bfd14aa1fe2fa7a.jpg" } },
+                    { title: "Practical Tips", content: "A good evening activity that combines a cultural museum visit with dinner, avoiding the need for a separate restaurant booking." }
+                ],
+                faqs: [
+                    { q: "Why is carpet weaving significant in Armenia?", a: "It's a centuries-old craft with deep cultural significance, documented at the Antique Carpet Museum." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Why is carpet weaving significant?", "acceptedAnswer": { "@type": "Answer", "text": "It's a centuries-old craft with deep cultural significance in Armenia." } }
+                ] },
+            };
+
+        case "is-pottery-workshop-worth-it-yerevan":
+            return {
+                title: "Is a Pottery Workshop Worth It in Yerevan?",
+                seoTitle: "Yerevan Pottery Workshop 2026 | Honest Review",
+                description: "An honest look at Yerevan's hands-on pottery workshop under the guidance of an Armenian artisan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b717d6eb6f6d35defe88cc937b1e7ea47e11e6a21323ae3d395f70ac4f355ca9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This hands-on class teaches traditional Armenian pottery directly from a local artisan, a relaxed cultural activity you take home as a souvenir.", tourCard: { slug: "discover-the-art-of-pottery-under-the-guidance-of", title: "Discover the Art of Pottery Under the Guidance of an Armenian Artisan", description: "A hands-on pottery workshop with an Armenian artisan.", price: "From $91", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b717d6eb6f6d35defe88cc937b1e7ea47e11e6a21323ae3d395f70ac4f355ca9.jpeg" } },
+                    { title: "Practical Tips", content: "A good lower-key activity to pair with a day of sightseeing at Garni/Geghard or Khor Virap." }
+                ],
+                faqs: [
+                    { q: "Is a pottery workshop worth it in Yerevan?", a: "Yes, for a relaxed hands-on cultural activity with a genuine take-home souvenir." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a pottery workshop worth it in Yerevan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed hands-on cultural activity." } }
+                ] },
+            };
+
         default:
             return null;
     }

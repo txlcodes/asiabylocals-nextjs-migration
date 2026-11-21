@@ -326,6 +326,7 @@ export const YEREVAN_INFO_SLUGS: string[] = [
   'yerevan-public-transport-guide', 'yerevan-shopping-guide',
   'best-birds-cave-tour-yerevan', 'best-ski-resort-tour-yerevan',
   'is-khachkar-crafting-worth-it-yerevan', 'is-havuts-tar-hiking-worth-it-yerevan',
+  'is-carpet-museum-tour-worth-it-yerevan', 'is-pottery-workshop-worth-it-yerevan',
 ];
 
 // Jordan launched 2026-11-19 with 507 live tours and zero authority pages.
