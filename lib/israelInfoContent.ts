@@ -674,6 +674,24 @@ export function getIsraelInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-old-city-night-tour-worth-it-jerusalem":
+            return {
+                title: "Is the Old City After-Dark Tour Worth It in Jerusalem?",
+                seoTitle: "Jerusalem Old City Night Tour 2026 | Honest Review",
+                description: "An honest look at Jerusalem's Old City after-dark sunset walking tour, a quieter, cooler alternative to daytime sightseeing in the walled city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0ee26e0c2fb9d3b6ed3f609dc05150703f3e438bab483ebdd654d2e7fbc5293.png",
+                sections: [
+                    { title: "The Short Answer", content: "Walking the Old City's narrow lanes as the light fades and crowds thin out gives a genuinely different atmosphere from the packed daytime tours, with the illuminated walls and quieter alleys as the main draw.", tourCard: { slug: "jerusalem-after-dark-old-city-sunset-walking-tour", title: "Jerusalem After Dark: Old City Sunset Walking Tour", description: "An evening walking tour of Jerusalem's Old City at sunset and after dark.", price: "From $129", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0ee26e0c2fb9d3b6ed3f609dc05150703f3e438bab483ebdd654d2e7fbc5293.png" } },
+                    { title: "Practical Tips", content: "Wear comfortable walking shoes — the Old City's lanes are cobbled and often involve stairs." }
+                ],
+                faqs: [
+                    { q: "Is the Jerusalem Old City night tour worth it?", a: "Yes, for a quieter, atmospheric alternative to daytime sightseeing, with illuminated walls and thinner crowds." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jerusalem Old City night tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter, atmospheric alternative to daytime sightseeing." } }
+                ] },
+            };
+
         default:
             return null;
     }

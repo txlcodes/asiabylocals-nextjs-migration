@@ -559,7 +559,7 @@ export const JERUSALEM_INFO_SLUGS: string[] = [
   'is-jerusalem-safe', 'jerusalem-dress-code-guide',
   'jerusalem-food-guide', 'jerusalem-public-transport-guide',
   'jerusalem-old-city-quarters-guide', 'jerusalem-to-tel-aviv-guide',
-  'jerusalem-to-bethlehem-checkpoint-guide',
+  'jerusalem-to-bethlehem-checkpoint-guide', 'is-old-city-night-tour-worth-it-jerusalem',
 ];
 export const TEL_AVIV_INFO_SLUGS: string[] = [
   'best-jaffa-old-city-tour-tel-aviv', 'best-carmel-market-food-tour-tel-aviv',
