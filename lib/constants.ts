@@ -354,6 +354,7 @@ export const AQABA_INFO_SLUGS: string[] = [
   'aqaba-travel-guide-2026', 'best-time-to-visit-aqaba',
   'is-aqaba-safe', 'aqaba-diving-guide',
   'aqaba-food-guide', 'aqaba-to-petra-guide',
+  'is-jet-ski-worth-it-aqaba', 'is-heritage-walking-tour-worth-it-aqaba',
 ];
 
 // Azerbaijan launched 2026-11-19 with 403 live tours and zero authority pages.

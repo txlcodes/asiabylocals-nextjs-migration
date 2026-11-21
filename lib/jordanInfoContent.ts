@@ -1182,6 +1182,42 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-jet-ski-worth-it-aqaba":
+            return {
+                title: "Is a Jet Ski or Speedboat Ride Worth It in Aqaba?",
+                seoTitle: "Aqaba Jet Ski Ride 2026 | Honest Review",
+                description: "An honest look at Aqaba's short jet ski or speedboat ride on the Red Sea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/349f6814929d51babbae51e278fa53ce1bca8fe8e0f7c1a51655ac263ff38d7c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a short, affordable burst of activity on the Red Sea — a good add-on if you want something active between diving or snorkeling sessions, not a full day's activity on its own.", tourCard: { slug: "jet-ski-or-speedboat-ride-aqaba-red-sea", title: "Jet Ski or Speedboat Ride Aqaba Red Sea", description: "A short jet ski or speedboat ride on the Red Sea.", price: "From $59", duration: "15 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/349f6814929d51babbae51e278fa53ce1bca8fe8e0f7c1a51655ac263ff38d7c.jpg" } },
+                    { title: "Practical Tips", content: "At 15 minutes, this works best booked alongside a longer beach day or diving trip rather than as your main Aqaba activity." }
+                ],
+                faqs: [
+                    { q: "Is the Aqaba jet ski ride worth it?", a: "Yes, as a short, affordable add-on to a beach or diving day, not as a standalone full activity." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Aqaba jet ski ride worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a short add-on to a beach or diving day." } }
+                ] },
+            };
+
+        case "is-heritage-walking-tour-worth-it-aqaba":
+            return {
+                title: "Is Aqaba's Local Life and Heritage Walking Tour Worth It?",
+                seoTitle: "Aqaba Heritage Walking Tour 2026 | Honest Review",
+                description: "An honest look at Aqaba's local life and heritage walking tour, a guided look at the city away from its Red Sea diving reputation.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a543f2ff67ec14ab913985c059e1620681546e0edf7525b6a502734ac8f5f68.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Most visitors come to Aqaba for diving and Wadi Rum day trips and skip the city itself — this short guided walk covers Aqaba's local life and heritage for travelers who want that context too.", tourCard: { slug: "aqaba-local-life-and-heritage-walking-tour-with-a", title: "Aqaba: Local Life and Heritage Walking Tour with a Guide", description: "A guided walking tour of Aqaba's local life and heritage.", price: "From $94", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a543f2ff67ec14ab913985c059e1620681546e0edf7525b6a502734ac8f5f68.jpg" } },
+                    { title: "Practical Tips", content: "A good fit for an evening after a day of diving or a Wadi Rum trip, since it's short and low-effort." }
+                ],
+                faqs: [
+                    { q: "Is Aqaba's heritage walking tour worth it?", a: "Yes, for travelers who want city context beyond diving and Wadi Rum day trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Aqaba's heritage walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for city context beyond diving and Wadi Rum trips." } }
+                ] },
+            };
+
         default:
             return null;
     }
