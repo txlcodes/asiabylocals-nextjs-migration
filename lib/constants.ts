@@ -1305,7 +1305,9 @@ export const KANDY_INFO_SLUGS = [
   'getting-around-kandy',
   'day-trips-from-kandy',
   'kandy-2-day-itinerary',
-  'leaving-kandy-onward-transfers'
+  'leaving-kandy-onward-transfers',
+  'is-ambuluwawa-tower-tour-worth-it-kandy', 'is-botanical-garden-tour-worth-it-kandy',
+  'is-cultural-dance-show-worth-it-kandy', 'is-tea-factory-tour-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.

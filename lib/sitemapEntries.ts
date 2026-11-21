@@ -1390,7 +1390,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'getting-around-kandy',
     'day-trips-from-kandy',
     'kandy-2-day-itinerary',
-    'leaving-kandy-onward-transfers'].map(slug => ({
+    'leaving-kandy-onward-transfers',
+    'is-ambuluwawa-tower-tour-worth-it-kandy', 'is-botanical-garden-tour-worth-it-kandy',
+    'is-cultural-dance-show-worth-it-kandy', 'is-tea-factory-tour-worth-it-kandy'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/kandy/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

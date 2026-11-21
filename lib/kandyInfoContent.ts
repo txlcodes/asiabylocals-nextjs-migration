@@ -956,6 +956,86 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ambuluwawa-tower-tour-worth-it-kandy":
+      return {
+        title: "Is the Ambuluwawa Tower Tour Worth It from Kandy?",
+        description: "An honest look at Ambuluwawa Tower, a distinctive multi-faith spiral tower and viewpoint near Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-867280/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ambuluwawa Tower is a strikingly unusual spiral structure combining Buddhist, Hindu, Muslim, and Christian elements in one building, with a narrow climb to a 360-degree viewpoint over the surrounding hills — a genuinely different sight from Kandy's temples and lake.",
+            tourCard: { slug: "from-kandy-ambuluwawa-full-day-tour-with-local", title: "From Kandy: Ambuluwawa Full-Day Tour with Local Guide", description: "A full-day tour to Ambuluwawa Tower with a local guide.", price: "From $41", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-867280/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The tower's spiral staircase is narrow and can feel claustrophobic — those uncomfortable with tight, high spaces should know this before climbing." },
+        ],
+        faqs: [
+          { q: "What is Ambuluwawa Tower?", a: "A distinctive spiral tower combining Buddhist, Hindu, Muslim, and Christian architectural elements, with a 360-degree viewpoint at the top." },
+        ],
+      };
+
+    case "is-botanical-garden-tour-worth-it-kandy":
+      return {
+        title: "Is the Pinnawala & Royal Botanical Garden Tour Worth It from Kandy?",
+        description: "An honest look at combining the Pinnawala Elephant Orphanage with Peradeniya's Royal Botanical Garden from Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-582886/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Royal Botanical Garden at Peradeniya, one of Asia's finest, holds a vast orchid house and giant bamboo and fig trees — pairing it with the Pinnawala Elephant Orphanage makes for a well-rounded half-day covering both nature and wildlife.",
+            tourCard: { slug: "from-kandy-pinnawala-and-botanical-garden-tour-by", title: "From Kandy: Pinnawala and Botanical Garden Tour By Tuk Tuk", description: "A tuk-tuk tour combining Pinnawala Elephant Orphanage and the Royal Botanical Garden.", price: "From $99", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-582886/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — the botanical garden is large, and seeing the highlights involves a fair amount of walking." },
+        ],
+        faqs: [
+          { q: "What is notable about Peradeniya's Royal Botanical Garden?", a: "It's considered one of Asia's finest, with a vast orchid house and giant bamboo and fig trees." },
+        ],
+      };
+
+    case "is-cultural-dance-show-worth-it-kandy":
+      return {
+        title: "Is the Kandy Cultural Dance Show Worth It?",
+        description: "An honest look at the Kandy Cultural Dance Show, a traditional Kandyan dance and fire-walking performance.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1359979/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This evening show features traditional Kandyan dance, drumming, and often fire-walking — a genuine cultural tradition performed nightly for visitors, and a good way to spend an evening after a day of temple and city sightseeing.",
+            tourCard: { slug: "kandy-cultural-dance-show-ticket-premium-reserved", title: "Kandy Cultural Dance Show Ticket - Premium Reserved Seating", description: "A premium reserved-seating ticket to the Kandy Cultural Dance Show.", price: "From $17", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1359979/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive a little early for the best seating even with a reserved ticket, since the venue fills up close to showtime." },
+        ],
+        faqs: [
+          { q: "What is in the Kandy Cultural Dance Show?", a: "Traditional Kandyan dance, drumming, and often a fire-walking segment." },
+        ],
+      };
+
+    case "is-tea-factory-tour-worth-it-kandy":
+      return {
+        title: "Is a Tea Factory Tour Worth It from Kandy?",
+        description: "An honest look at the Kandy tea factory tour with tasting, including a tuk-tuk ride.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1326164/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka's tea industry is a defining part of the country's identity — this factory tour with tasting and a tuk-tuk ride gives a hands-on look at the process, from leaf to cup.",
+            tourCard: { slug: "kandy-tea-factory-tour-with-tasting-and-tuk-tuk", title: "Kandy: Tea Factory Tour with Tasting and Tuk-Tuk Ride", description: "A tea factory tour with tasting and a tuk-tuk ride.", price: "From $11", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1326164/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At a very low price, this is one of Kandy's most affordable half-day activities, worth adding even on a tight budget." },
+        ],
+        faqs: [
+          { q: "Is a tea factory tour worth it in Kandy?", a: "Yes, it's affordable and gives genuine insight into Sri Lanka's defining tea industry." },
+        ],
+      };
+
     default:
       return null;
   }
