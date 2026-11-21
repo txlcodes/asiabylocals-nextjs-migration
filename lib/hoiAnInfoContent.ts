@@ -649,6 +649,69 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-painting-class-worth-it-hoi-an":
+      return {
+        title: "Is the Painting Class with a Local Artist Worth It in Hoi An?",
+        description: "An honest look at Hoi An's painting class with a local artist in the Old Town, a creative activity distinct from the city's cooking classes and lantern-making workshops.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201776/asiabylocals/tours/2-hours-painting-class-with-local-artist-in-oldtown-in-hoi-an/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This two-hour painting class with a local artist in the Old Town is a genuinely different creative outlet from Hoi An's usual cooking classes and lantern-making workshops, good for travelers wanting a quieter, artistic afternoon.",
+            tourCard: { slug: "2-hours-painting-class-with-local-artist-in-oldtown-in-hoi-an", title: "2-Hour Painting Class with Local Artist in Old Town, Hoi An", description: "A two-hour painting class with a local artist in Hoi An's Old Town.", price: "From $42", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201776/asiabylocals/tours/2-hours-painting-class-with-local-artist-in-oldtown-in-hoi-an/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take your finished painting home, so it makes a nice souvenir beyond the usual lantern or tailored clothing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the painting class worth it in Hoi An?", a: "Yes, for a quieter, genuinely creative activity that's different from the city's cooking classes and lantern workshops." },
+        ],
+      };
+
+    case "is-ao-dai-show-worth-it-hoi-an":
+      return {
+        title: "Is the Ao Dai Show Worth It in Hoi An?",
+        description: "An honest look at Hoi An's Ao Dai fashion show with hotel transfers, a cultural performance distinct from the city's lantern and boat-ride evening activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ao-dai-show-with-hotel-transfers-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This show presents Vietnam's traditional Ao Dai dress across different eras and styles, a dedicated cultural performance rather than a passive sightseeing stop — a different kind of evening than a lantern-lit riverside walk.",
+            tourCard: { slug: "ao-dai-show-with-hotel-transfers-in-hoi-an", title: "Ao Dai Show with Hotel Transfers in Hoi An", description: "An Ao Dai traditional fashion show with hotel transfers included.", price: "From $57", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/ao-dai-show-with-hotel-transfers-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Hotel transfers are included, which simplifies evening logistics compared to arranging your own transport back from the Old Town.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ao Dai show worth it in Hoi An?", a: "Yes, for a dedicated cultural performance on Vietnam's traditional dress, a different kind of evening than a lantern-lit walk." },
+        ],
+      };
+
+    case "is-bach-ma-national-park-trek-worth-it-hoi-an":
+      return {
+        title: "Is the Bach Ma National Park Trek Worth It from Hoi An?",
+        description: "An honest look at the Bach Ma National Park trekking and discovery day trip from Hoi An, a jungle hiking option distinct from the city's beach and Ancient Town activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bach-ma-national-park-trekking-and-discovery-tour-from-hue-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bach Ma National Park, between Hoi An and Hue, offers genuine jungle trekking with waterfalls and mountain viewpoints, a completely different landscape from the Old Town's canals and beaches — worth it for travelers wanting a real hiking day.",
+            tourCard: { slug: "bach-ma-national-park-trekking-and-discovery-tour-from-hue-hoi-an", title: "Bach Ma National Park Trekking and Discovery Tour from Hue/Hoi An", description: "A trekking and discovery day trip to Bach Ma National Park.", price: "From $78", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bach-ma-national-park-trekking-and-discovery-tour-from-hue-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper hiking shoes and bring water — trails can be muddy and the park sees genuine humidity and elevation change.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bach Ma National Park trek worth it from Hoi An?", a: "Yes, for travelers wanting a genuine jungle hiking day, completely different from the Ancient Town's canals and beaches." },
+        ],
+      };
+
     default:
       return null;
   }

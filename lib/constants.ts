@@ -1916,6 +1916,8 @@ export const HOI_AN_INFO_SLUGS = [
   'hoi-an-day-trips-guide',
   'hoi-an-with-kids',
   'best-cham-islands-tour-hoi-an',
+  'is-painting-class-worth-it-hoi-an', 'is-ao-dai-show-worth-it-hoi-an',
+  'is-bach-ma-national-park-trek-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [

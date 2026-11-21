@@ -1673,6 +1673,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'hoi-an-day-trips-guide',
     'hoi-an-with-kids',
     'best-cham-islands-tour-hoi-an',
+    'is-painting-class-worth-it-hoi-an', 'is-ao-dai-show-worth-it-hoi-an',
+    'is-bach-ma-national-park-trek-worth-it-hoi-an',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hoi-an/${slug}`,
     lastModified: new Date(),
