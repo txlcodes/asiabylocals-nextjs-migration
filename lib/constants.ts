@@ -1256,7 +1256,8 @@ export const NEGOMBO_INFO_SLUGS = [
   'negombo-lagoon-guide',
   'best-tours-in-negombo',
   'should-i-book-negombo-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-negombo'
+  'how-much-should-a-private-tour-guide-cost-in-negombo',
+  'is-scuba-diving-worth-it-negombo', 'is-sri-lankan-cooking-class-worth-it-negombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
@@ -1265,7 +1266,8 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
   'horton-plains-guide',
   'best-tours-in-nuwara-eliya',
   'should-i-book-nuwara-eliya-tour-direct-or-through-app',
-  'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya'
+  'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya',
+  'is-horseback-riding-worth-it-nuwara-eliya', 'is-adams-peak-hike-worth-it-nuwara-eliya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.

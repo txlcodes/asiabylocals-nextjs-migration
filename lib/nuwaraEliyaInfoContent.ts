@@ -327,6 +327,47 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-horseback-riding-worth-it-nuwara-eliya":
+      return {
+        title: "Is Horseback Riding Worth It in Nuwara Eliya?",
+        description: "An honest look at Nuwara Eliya's guided horseback ride, a genuine way to see the hill-country landscape beyond the usual tea estate walk.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1444705/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Known as 'Little England' for its cool colonial-era hill-station character, Nuwara Eliya's rolling landscape suits a horseback ride well — a different pace from the tea factory and waterfall circuit.",
+            tourCard: { slug: "nuwara-eliya-guided-horseback-ride-with-hotel", title: "Nuwara Eliya: Guided Horseback Ride with Hotel Pickup", description: "A guided horseback ride with hotel pickup.", price: "From $111", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1444705/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Nuwara Eliya's hill-country weather can turn cool and misty quickly — bring a light jacket even for a short ride." },
+        ],
+        faqs: [
+          { q: "Is horseback riding worth it in Nuwara Eliya?", a: "Yes, as a different-paced way to see the hill-country landscape beyond tea estate walks." },
+        ],
+      };
+
+    case "is-adams-peak-hike-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Adam's Peak Sunrise Hike Worth It from Nuwara Eliya?",
+        description: "An honest look at the Adam's Peak sunrise hike, a sacred pilgrimage climb venerated across multiple religions.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1391537/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Adam's Peak is a sacred mountain venerated by Buddhists, Hindus, Muslims, and Christians alike, each attributing a different meaning to the footprint-shaped mark at its summit — climbing through the night to catch sunrise at the top is a genuinely significant Sri Lankan experience, distinct from anything else in the hill country.",
+            tourCard: { slug: "from-hatton-or-nuwara-eliya-adams-peak-sunrise", title: "From Hatton or Nuwara Eliya: Adam's Peak Sunrise Hike", description: "A sunrise hike up Adam's Peak.", price: "From $133", duration: "11 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1391537/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a serious overnight-into-early-morning climb with thousands of steps — good footwear and basic fitness matter, and it's typically done in the pilgrimage season (roughly December to May)." },
+        ],
+        faqs: [
+          { q: "Why is Adam's Peak significant?", a: "It's a sacred mountain venerated by Buddhists, Hindus, Muslims, and Christians, each with a different interpretation of the summit's footprint-shaped mark." },
+          { q: "When is Adam's Peak pilgrimage season?", a: "Roughly December to May." },
+        ],
+      };
+
     default:
       return null;
   }

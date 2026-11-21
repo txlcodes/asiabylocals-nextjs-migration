@@ -1309,7 +1309,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const negomboInfoPages = [
     'negombo-airport-guide', 'negombo-lagoon-guide', 'best-tours-in-negombo', 'should-i-book-negombo-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-negombo'
+    'how-much-should-a-private-tour-guide-cost-in-negombo',
+    'is-scuba-diving-worth-it-negombo', 'is-sri-lankan-cooking-class-worth-it-negombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/negombo/${slug}`,
     lastModified: new Date(),
@@ -1319,7 +1320,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
 
   const nuwaraEliyaInfoPages = [
     'nuwara-eliya-tea-guide', 'horton-plains-guide', 'best-tours-in-nuwara-eliya', 'should-i-book-nuwara-eliya-tour-direct-or-through-app',
-    'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya'
+    'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya',
+    'is-horseback-riding-worth-it-nuwara-eliya', 'is-adams-peak-hike-worth-it-nuwara-eliya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),

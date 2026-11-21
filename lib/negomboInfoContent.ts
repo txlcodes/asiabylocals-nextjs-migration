@@ -341,6 +341,46 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-scuba-diving-worth-it-negombo":
+      return {
+        title: "Is Scuba Diving Worth It in Negombo?",
+        description: "An honest look at Negombo's scuba diving experience, including nearby wreck sites.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1251154/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Negombo offers genuine scuba diving, including access to wreck sites nearby, a different water activity from the city's usual lagoon boat safaris.",
+            tourCard: { slug: "scuba-diving-in-negombo", title: "Scuba Diving in Negombo", description: "A scuba diving experience in Negombo.", price: "From $177", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1251154/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask your operator which wreck or reef site is included, since conditions and visibility vary by location." },
+        ],
+        faqs: [
+          { q: "Is scuba diving worth it in Negombo?", a: "Yes, for travelers who want a water activity beyond the lagoon boat safaris, including nearby wreck sites." },
+        ],
+      };
+
+    case "is-sri-lankan-cooking-class-worth-it-negombo":
+      return {
+        title: "Is a Sri Lankan Cooking Class Worth It in Negombo?",
+        description: "An honest look at Negombo's cooking class, which includes a local market visit before cooking.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1276829/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This class pairs a visit to a local market with hands-on cooking, giving context on fresh ingredients before you cook with them — a good lower-key cultural pairing with Negombo's lagoon and beach activities.",
+            tourCard: { slug: "negombo-sri-lankan-cooking-class-with-market-visit", title: "Negombo: Sri Lankan Cooking Class with Market Visit", description: "A Sri Lankan cooking class with a local market visit.", price: "From $102", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1276829/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good activity for a layover day near the airport, since it's short and doesn't require venturing far." },
+        ],
+        faqs: [
+          { q: "Is a Negombo cooking class worth it?", a: "Yes, the market visit adds useful context before the hands-on cooking session." },
+        ],
+      };
+
     default:
       return null;
   }
