@@ -719,6 +719,17 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-crane-watching-tour-worth-it-lumbini', 'lumbini-travel-guide-2026',
   ], 'nepal', 'lumbini');
 
+  const kazbegiInfoPages = mapInfoSlugs([
+    'best-gergeti-church-tour-kazbegi', 'best-gveleti-waterfall-hike-kazbegi',
+    'is-truso-valley-tour-worth-it-kazbegi', 'best-horse-riding-tour-kazbegi',
+    'kazbegi-travel-guide-2026',
+  ], 'georgia', 'kazbegi');
+
+  const mestiaInfoPages = mapInfoSlugs([
+    'best-ushguli-day-trip-mestia', 'best-chalaadi-glacier-tour-mestia',
+    'best-koruldi-lakes-tour-mestia', 'mestia-travel-guide-2026',
+  ], 'georgia', 'mestia');
+
   // Philippines info pages (Manila + Cebu)
   const manilaInfoPages = [
     'best-time-to-visit-manila', 'things-to-do-in-manila', 'manila-travel-guide-2026',
@@ -1625,7 +1636,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     priority: 0.75,
   }));
 
-  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...kashmirInfoPages, ...beijingInfoPages, ...shanghaiInfoPages, ...hongKongInfoPages, ...taiwanInfoPages, ...seoulInfoPages, ...busanInfoPages, ...istanbulInfoPages, ...dohaInfoPages, ...maleInfoPages, ...samarkandInfoPages, ...tashkentInfoPages, ...bukharaInfoPages, ...khivaInfoPages, ...manilaInfoPages, ...cebuInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...siemReapInfoPages, ...phnomPenhInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages, ...kualaLumpurInfoPages, ...penangInfoPages, ...langkawiInfoPages, ...malaccaInfoPages, ...kotaKinabaluInfoPages, ...kuchingInfoPages, ...johorBahruInfoPages, ...kathmanduInfoPages, ...tbilisiInfoPages, ...muscatInfoPages, ...yerevanInfoPages, ...petraInfoPages, ...ammanInfoPages, ...aqabaInfoPages, ...bakuInfoPages, ...singaporeInfoPages, ...luangPrabangInfoPages, ...riyadhInfoPages, ...jeddahInfoPages, ...alulaInfoPages, ...vientianeInfoPages, ...vangViengInfoPages, ...almatyInfoPages, ...ulaanbaatarInfoPages, ...jerusalemInfoPages, ...telAvivInfoPages, ...thimphuInfoPages, ...paroInfoPages, ...kuwaitCityInfoPages, ...manamaInfoPages, ...baghdadInfoPages, ...beirutInfoPages, ...dilijanInfoPages, ...gyumriInfoPages, ...shekiInfoPages, ...astanaInfoPages, ...haifaInfoPages, ...eilatInfoPages, ...pokharaInfoPages, ...batumiInfoPages, ...kutaisiInfoPages, ...salalahInfoPages, ...bhaktapurInfoPages, ...lumbiniInfoPages,
+  const all = [...staticPages, ...agraInfoPages, ...delhiInfoPages, ...jaipurInfoPages, ...kashmirInfoPages, ...beijingInfoPages, ...shanghaiInfoPages, ...hongKongInfoPages, ...taiwanInfoPages, ...seoulInfoPages, ...busanInfoPages, ...istanbulInfoPages, ...dohaInfoPages, ...maleInfoPages, ...samarkandInfoPages, ...tashkentInfoPages, ...bukharaInfoPages, ...khivaInfoPages, ...manilaInfoPages, ...cebuInfoPages, ...phuketInfoPages, ...bangkokInfoPages, ...chiangMaiInfoPages, ...pattayaInfoPages, ...krabiInfoPages, ...siemReapInfoPages, ...phnomPenhInfoPages, ...tokyoInfoPages, ...kyotoInfoPages, ...osakaInfoPages, ...hiroshimaInfoPages, ...sapporoInfoPages, ...naraInfoPages, ...nagoyaInfoPages, ...hakoneInfoPages, ...mountFujiInfoPages, ...colomboInfoPages, ...kandyInfoPages, ...sigiriyaInfoPages, ...mirissaInfoPages, ...bentotaInfoPages, ...nuwaraEliyaInfoPages, ...negomboInfoPages, ...dubaiInfoPages, ...haLongInfoPages, ...hanoiInfoPages, ...sapaInfoPages, ...hoiAnInfoPages, ...ubudInfoPages, ...cangguInfoPages, ...uluwatuInfoPages, ...nusaPenidaInfoPages, ...daNangInfoPages, ...hoChiMinhCityInfoPages, ...kualaLumpurInfoPages, ...penangInfoPages, ...langkawiInfoPages, ...malaccaInfoPages, ...kotaKinabaluInfoPages, ...kuchingInfoPages, ...johorBahruInfoPages, ...kathmanduInfoPages, ...tbilisiInfoPages, ...muscatInfoPages, ...yerevanInfoPages, ...petraInfoPages, ...ammanInfoPages, ...aqabaInfoPages, ...bakuInfoPages, ...singaporeInfoPages, ...luangPrabangInfoPages, ...riyadhInfoPages, ...jeddahInfoPages, ...alulaInfoPages, ...vientianeInfoPages, ...vangViengInfoPages, ...almatyInfoPages, ...ulaanbaatarInfoPages, ...jerusalemInfoPages, ...telAvivInfoPages, ...thimphuInfoPages, ...paroInfoPages, ...kuwaitCityInfoPages, ...manamaInfoPages, ...baghdadInfoPages, ...beirutInfoPages, ...dilijanInfoPages, ...gyumriInfoPages, ...shekiInfoPages, ...astanaInfoPages, ...haifaInfoPages, ...eilatInfoPages, ...pokharaInfoPages, ...batumiInfoPages, ...kutaisiInfoPages, ...salalahInfoPages, ...bhaktapurInfoPages, ...lumbiniInfoPages, ...kazbegiInfoPages, ...mestiaInfoPages,
     ...abuDhabiInfoPages,
     ...galleInfoPages, ...ellaInfoPages, ...itineraryPages, ...goldenTriangle, ...cityHubPages, ...countryRootPages, ...tourPages];
 

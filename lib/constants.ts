@@ -669,6 +669,18 @@ export const LUMBINI_INFO_SLUGS = [
   'is-crane-watching-tour-worth-it-lumbini', 'lumbini-travel-guide-2026',
 ];
 
+// Kazbegi & Mestia (Georgia) — launched 2026-11-21.
+export const KAZBEGI_INFO_SLUGS = [
+  'best-gergeti-church-tour-kazbegi', 'best-gveleti-waterfall-hike-kazbegi',
+  'is-truso-valley-tour-worth-it-kazbegi', 'best-horse-riding-tour-kazbegi',
+  'kazbegi-travel-guide-2026',
+];
+
+export const MESTIA_INFO_SLUGS = [
+  'best-ushguli-day-trip-mestia', 'best-chalaadi-glacier-tour-mestia',
+  'best-koruldi-lakes-tour-mestia', 'mestia-travel-guide-2026',
+];
+
 export const JOHOR_BAHRU_INFO_SLUGS = [
   'best-jetski-tour-johor-bahru',
   'best-hop-on-hop-off-tour-johor-bahru', 'best-private-city-tour-johor-bahru',

@@ -966,6 +966,166 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-gergeti-church-tour-kazbegi":
+            return {
+                title: "Which Is the Best Gergeti Trinity Church Tour from Kazbegi?",
+                seoTitle: "Best Gergeti Church Tour Kazbegi 2026 | Comparison",
+                description: "Compare real Gergeti Trinity Church tours for travellers already based in Kazbegi/Stepantsminda — a quick 4x4 jeep ride versus a two-way group trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee3d5625d3e9faf58708a1c32f3316eab4520279672051350f46428e81994ebf.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "If you're already staying in Kazbegi (Stepantsminda) rather than day-tripping from Tbilisi, reaching Gergeti Trinity Church is quick — a short shared 4x4 jeep ride up the steep final stretch.", tourCard: { slug: "stepantsminda-gergeti-trinity-church-4x4-jeep-tour", title: "Stepantsminda: Gergeti Trinity Church 4x4 Jeep Tour", description: "A quick 4x4 jeep tour up to Gergeti Trinity Church.", price: "From $68", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee3d5625d3e9faf58708a1c32f3316eab4520279672051350f46428e81994ebf.jpeg" } },
+                    { title: "Best Value: Two-Ways Group Trip", content: "This covers the round trip in a shared group format at a lower price than a private jeep.", tourCard: { slug: "from-kazbegi-to-gergeti-church-two-ways-group-trip", title: "From Kazbegi to Gergeti Church Two Ways Group Trip", description: "A shared group round trip to Gergeti Church.", price: "From $51", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6347cf101270adf508b80357530a6f31b9f14dc8e851712d783cda203d1bbdf2.jpeg" } },
+                    { title: "Practical Tips", content: "Since you're already in Kazbegi, there's no need to book a full Tbilisi day-tour package for this — a short local jeep ride is all it takes, much cheaper than the Tbilisi-based combo tours." }
+                ],
+                faqs: [
+                    { q: "What is the best way to reach Gergeti Church from Kazbegi?", a: "A short shared or private 4x4 jeep ride, much cheaper than booking a full Tbilisi day tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best way to reach Gergeti Church from Kazbegi?", "acceptedAnswer": { "@type": "Answer", "text": "A short shared or private 4x4 jeep ride." } }
+                ] },
+            };
+
+        case "best-gveleti-waterfall-hike-kazbegi":
+            return {
+                title: "Which Is the Best Gveleti Waterfall Hike from Kazbegi?",
+                seoTitle: "Best Gveleti Waterfall Hike Kazbegi 2026 | Comparison",
+                description: "Compare real Gveleti Waterfall hikes from Kazbegi — a focused waterfall hike versus a combo adding Sno Valley.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aacd077c2ef144d6705fd1b3f4c2735f85adc693246dcc3b68e2545f4711a67d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Gveleti Waterfall is a genuinely rewarding short hike near Kazbegi, and the choice is a focused waterfall-only hike versus extending the day into Sno Valley's scenery as well.", tourCard: { slug: "kazbegi-gveleti-waterfall-guided-hike", title: "Kazbegi: Gveleti Waterfall Guided Hike", description: "A focused guided hike to Gveleti Waterfall.", price: "From $51", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aacd077c2ef144d6705fd1b3f4c2735f85adc693246dcc3b68e2545f4711a67d.jpeg" } },
+                    { title: "Best Combined: Sno Valley & Gveleti Waterfall Tour", content: "This extends the hike into Sno Valley's wider mountain scenery, a fuller half-day rather than just the waterfall.", tourCard: { slug: "from-kazbegi-sno-valley-and-gveleti-waterfall-tour", title: "From Kazbegi: Sno Valley and Gveleti Waterfall Tour", description: "A combo tour of Sno Valley and Gveleti Waterfall.", price: "From $110", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e9be15d6a78eac17dbd5307472b2768a52fddf31bcd2a60de10bb7dcce8d7fd.jpeg" } },
+                    { title: "Practical Tips", content: "The waterfall hike itself is short and manageable for most fitness levels — the Sno Valley extension is where the day gets more scenic but also longer." }
+                ],
+                faqs: [
+                    { q: "What is the best Gveleti Waterfall hike from Kazbegi?", a: "A focused hike for just the waterfall, or add Sno Valley for a fuller half-day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Gveleti Waterfall hike?", "acceptedAnswer": { "@type": "Answer", "text": "A focused hike, or add Sno Valley for more." } }
+                ] },
+            };
+
+        case "is-truso-valley-tour-worth-it-kazbegi":
+            return {
+                title: "Is the Truso Valley Tour from Kazbegi Worth It?",
+                seoTitle: "Truso Valley Tour Kazbegi 2026 | Honest Review",
+                description: "An honest look at the Truso Valley day tour from Kazbegi, a dramatic, less-visited valley with mineral springs and ghost villages.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c975e6e27eab7dfc76d21ad35ae1af7b28150f04da99c2a8a8f88b2a30150dc0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Truso Valley is genuinely less touristy than the main Gergeti/Gudauri circuit, with dramatic scenery, natural mineral springs, and semi-abandoned villages — a good pick if you've already done the standard Kazbegi sights and want something quieter.", tourCard: { slug: "from-kazbegi-truso-valley-sno-valley-gergeti", title: "From Kazbegi: Truso Valley, Sno Valley & Gergeti Church", description: "A tour combining Truso Valley, Sno Valley, and Gergeti Church.", price: "From $125", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c975e6e27eab7dfc76d21ad35ae1af7b28150f04da99c2a8a8f88b2a30150dc0.jpeg" } },
+                    { title: "Practical Tips", content: "Truso Valley sits close to the Russian border region — a local guide is useful for both navigation and historical context about the area's semi-abandoned villages." }
+                ],
+                faqs: [
+                    { q: "Is the Truso Valley tour worth it?", a: "Yes, for a quieter, less touristy alternative to the main Kazbegi circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Truso Valley tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter alternative to the main circuit." } }
+                ] },
+            };
+
+        case "best-horse-riding-tour-kazbegi":
+            return {
+                title: "Which Is the Best Horse Riding Tour in Kazbegi?",
+                seoTitle: "Best Horse Riding Tour Kazbegi 2026 | Comparison",
+                description: "Compare real horse riding tours in Kazbegi — a sunset ride from Rooms Hotel versus a private/public trek with a local horseman.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8fd58069b4b5e983746a57d32c6f17c86ce6db8206f9080accd03944e719a23b.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Horse riding in Kazbegi puts you right in the mountain scenery the Caucasus is known for, and the choice is mainly timing (sunset) versus format (private vs. public trek).", tourCard: { slug: "kazbegisunset-horse-riding-tour-from-rooms-hotel", title: "Kazbegi: Sunset Horse Riding Tour from Rooms Hotel", description: "A sunset horse riding tour starting from Rooms Hotel Kazbegi.", price: "From $38", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8fd58069b4b5e983746a57d32c6f17c86ce6db8206f9080accd03944e719a23b.jpeg" } },
+                    { title: "Best with Local Horseman: Private & Public Horse Trek", content: "This pairs you directly with a local horseman for the ride, available as either private or public group format.", tourCard: { slug: "private-public-horse-trek-with-local-horseman-in", title: "Private & Public Horse Trek with Local Horseman in Kazbegi", description: "A horse trek with a local horseman, private or public.", price: "From $73", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c0921e394292e781725d0a6281bb5ce142617125456a522add83d0f93f9e9e9.jpeg" } },
+                    { title: "Practical Tips", content: "No prior riding experience is typically needed — confirm with the operator if you have specific concerns about pace or terrain." }
+                ],
+                faqs: [
+                    { q: "What is the best horse riding tour in Kazbegi?", a: "A sunset ride for scenery, or the local-horseman trek for a more personal guided experience." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best horse riding tour in Kazbegi?", "acceptedAnswer": { "@type": "Answer", "text": "A sunset ride, or a trek with a local horseman." } }
+                ] },
+            };
+
+        case "kazbegi-travel-guide-2026":
+            return {
+                title: "Kazbegi (Stepantsminda) Travel Guide 2026",
+                description: "What visitors need to know about basing themselves in Kazbegi rather than day-tripping from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee3d5625d3e9faf58708a1c32f3316eab4520279672051350f46428e81994ebf.jpeg",
+                sections: [
+                    { title: "Why Stay in Kazbegi", content: "Basing yourself in Kazbegi (also called Stepantsminda) rather than day-tripping from Tbilisi means you can see Gergeti Church, Gveleti Waterfall, and Truso Valley without the long return drive each time, and catch dawn/dusk light in the mountains." }
+                ],
+                faqs: [
+                    { q: "Is it worth staying overnight in Kazbegi?", a: "Yes, if you want more time in the mountains without a long daily return drive to Tbilisi." }
+                ],
+            };
+
+        case "best-ushguli-day-trip-mestia":
+            return {
+                title: "Which Is the Best Ushguli Day Trip from Mestia?",
+                seoTitle: "Best Ushguli Day Trip from Mestia 2026 | Comparison",
+                description: "Compare real Ushguli day trips from Mestia — a standard day trip versus one adding an optional Shkhara Glacier hike.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3c9f8c286fb419a80d4a6a4bee730c2c7b38fef9875f6365b882013e0037305.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Ushguli, one of the highest continuously inhabited settlements in Europe, is reachable as a day trip from Mestia — the choice is a standard sightseeing version or one adding a hike toward Shkhara Glacier.", tourCard: { slug: "mestia-ushguli-day-trip", title: "Mestia Ushguli day trip", description: "A standard day trip to the Ushguli villages.", price: "From $64", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3c9f8c286fb419a80d4a6a4bee730c2c7b38fef9875f6365b882013e0037305.jpg" } },
+                    { title: "Best with Hiking: Day Trip with Shkhara Hike Option", content: "This adds an optional hike toward Shkhara Glacier, Georgia's highest peak, for travellers who want more than just village sightseeing.", tourCard: { slug: "from-mestia-to-ushguli-day-trip-with-shkhara-hike", title: "From Mestia to Ushguli: Day Trip with Shkhara Hike Option", description: "An Ushguli day trip with an optional Shkhara Glacier hike.", price: "From $234", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eac5a1ddf58ba74e6c0db14cc72f90ed0f801348a0ea24e20f3bee4dc88303a5.jpg" } },
+                    { title: "Practical Tips", content: "The road to Ushguli is rough and scenic in equal measure — a 4x4 is standard for this route, and the drive itself is part of the experience." }
+                ],
+                faqs: [
+                    { q: "What is the best Ushguli day trip from Mestia?", a: "A standard day trip for sightseeing, or add the Shkhara hike option for more activity." },
+                    { q: "Is Ushguli really one of the highest villages in Europe?", a: "Yes, it's among the highest continuously inhabited settlements in Europe." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Ushguli day trip?", "acceptedAnswer": { "@type": "Answer", "text": "A standard day trip, or add the Shkhara hike option." } },
+                    { "@type": "Question", "name": "Is Ushguli really that high?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, among the highest inhabited settlements in Europe." } }
+                ] },
+            };
+
+        case "best-chalaadi-glacier-tour-mestia":
+            return {
+                title: "Which Is the Best Chalaadi Glacier Tour from Mestia?",
+                seoTitle: "Best Chalaadi Glacier Tour Mestia 2026 | Comparison",
+                description: "Compare real Chalaadi Glacier options from Mestia — a quick private transfer versus a full guided hike.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccbd544c247ada35ba090003a2607105555c52d75388e0a2c1fb540c44f54cf0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Chalaadi Glacier is close enough to Mestia for a relatively quick visit, and the choice is a transfer-only trip for those short on time versus a full guided hike for a more immersive experience.", tourCard: { slug: "chalaadi-glacier-transfer-from-mestia-private", title: "Chalaadi Glacier Transfer from Mestia - Private Round Trip", description: "A private round-trip transfer to Chalaadi Glacier.", price: "From $65", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccbd544c247ada35ba090003a2607105555c52d75388e0a2c1fb540c44f54cf0.jpeg" } },
+                    { title: "Best for a Full Experience: Guided Hike with Views", content: "This adds a proper guided hike around the glacier rather than just transport, with a guide pointing out the best viewpoints.", tourCard: { slug: "mestia-chalaadi-glacier-guided-hike-with-views", title: "Mestia: Chalaadi Glacier Guided Hike with Views", description: "A guided hike around Chalaadi Glacier with scenic viewpoints.", price: "From $182", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9aa7611c1644e735132e0506b0abf250124ed45eebd3d907220b8b047dbeaac4.jpg" } },
+                    { title: "Practical Tips", content: "The glacier has visibly receded over recent decades — worth asking your guide about the changes if you're interested in the environmental angle." }
+                ],
+                faqs: [
+                    { q: "What is the best Chalaadi Glacier option from Mestia?", a: "A transfer-only trip if short on time, or the full guided hike for a more immersive visit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Chalaadi Glacier tour?", "acceptedAnswer": { "@type": "Answer", "text": "A transfer-only trip, or the full guided hike." } }
+                ] },
+            };
+
+        case "best-koruldi-lakes-tour-mestia":
+            return {
+                title: "Which Is the Best Koruldi Lakes Tour from Mestia?",
+                seoTitle: "Best Koruldi Lakes Tour Mestia 2026 | Comparison",
+                description: "Compare real Koruldi Lakes tours from Mestia — a standard scenic tour versus a horse riding version for those who'd rather not hike up.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62e153e4898e321c00e55e1760fcc3ac8966f85712538c5de3a8086819a2f442.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Koruldi Lakes, perched high above Mestia with dramatic Svaneti mountain views, can be reached on foot or on horseback — the choice depends on your fitness and whether you'd rather hike or ride up.", tourCard: { slug: "mestia-koruldi-lakes-tour-where-mountains-touch", title: "Mestia: Koruldi Lakes Tour – Where Mountains Touch the Sky", description: "A scenic tour to Koruldi Lakes above Mestia.", price: "From $195", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62e153e4898e321c00e55e1760fcc3ac8966f85712538c5de3a8086819a2f442.jpg" } },
+                    { title: "Best for Non-Hikers: Horse Riding Tour to Koruldi Lakes", content: "This covers the same route by horse instead of hiking, a good option if the climb is too strenuous or you simply prefer riding.", tourCard: { slug: "mestia-horse-riding-tour-to-koruldi-lakes", title: "Mestia: Horse Riding Tour to Koruldi Lakes", description: "A horse riding tour to Koruldi Lakes.", price: "From $311", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8f4da111f5f165c803824a2b13e9a687e026ac37bc76357b4b2d85b5245a628b.jpg" } },
+                    { title: "Practical Tips", content: "The climb to Koruldi Lakes is genuinely steep — if you're not confident in your fitness, the horse riding option is a legitimate alternative, not just a novelty." }
+                ],
+                faqs: [
+                    { q: "What is the best Koruldi Lakes tour from Mestia?", a: "A standard hiking tour, or horse riding if you'd rather not hike the steep climb." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Koruldi Lakes tour?", "acceptedAnswer": { "@type": "Answer", "text": "A hiking tour, or horse riding as an alternative." } }
+                ] },
+            };
+
+        case "mestia-travel-guide-2026":
+            return {
+                title: "Mestia (Svaneti) Travel Guide 2026",
+                description: "What visitors need to know about Mestia, the gateway to Georgia's Svaneti mountain region.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3c9f8c286fb419a80d4a6a4bee730c2c7b38fef9875f6365b882013e0037305.jpg",
+                sections: [
+                    { title: "Why Visit", content: "Mestia is the main base for exploring Svaneti, Georgia's most dramatic mountain region, known for its distinctive stone defensive towers, Ushguli's high-altitude villages, and glacier hikes." }
+                ],
+                faqs: [
+                    { q: "Is Mestia worth visiting?", a: "Yes, as the gateway to Svaneti's dramatic mountains, stone towers, and high-altitude villages." }
+                ],
+            };
+
         default:
             return null;
     }
