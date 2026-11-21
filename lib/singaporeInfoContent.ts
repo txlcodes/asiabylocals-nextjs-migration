@@ -525,6 +525,42 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-hop-on-hop-off-bus-worth-it-singapore":
+            return {
+                title: "Is the Hop-On Hop-Off Bus Worth It in Singapore?",
+                seoTitle: "Singapore Hop-On Hop-Off Bus 2026 | Honest Review",
+                description: "An honest look at Singapore's open-top hop-on hop-off sightseeing bus, a flexible city-sightseeing option distinct from the MRT and guided walking tours.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1374356/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This open-top bus loop covers the city's main landmarks with the flexibility to hop off at any stop and continue later, a good fit for travelers who want to cover more ground than walking without committing to a fixed guided tour schedule.", tourCard: { slug: "2-hour-singapore-city-open-top-sightseeing-bus", title: "2-Hour Singapore City Open-Top Sightseeing Bus", description: "An open-top hop-on hop-off sightseeing bus tour of Singapore.", price: "From $38", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1374356/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Singapore's MRT is fast and efficient, so the bus's main advantage is the open-top sightseeing view rather than raw transport speed." }
+                ],
+                faqs: [
+                    { q: "Is the hop-on hop-off bus worth it in Singapore?", a: "Yes, for flexible sightseeing with open-top views, though the MRT remains faster for pure point-to-point transport." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the hop-on hop-off bus worth it in Singapore?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for flexible open-top sightseeing." } }
+                ] },
+            };
+
+        case "is-katong-joo-chiat-tour-worth-it-singapore":
+            return {
+                title: "Is the Katong & Joo Chiat Tour Worth It in Singapore?",
+                seoTitle: "Katong Joo Chiat Tour Singapore 2026 | Honest Review",
+                description: "An honest look at Singapore's Katong and Joo Chiat heritage tour, a Peranakan neighborhood walk distinct from the Marina Bay and Gardens by the Bay sightseeing most visitors prioritize.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a0b49940d2a987954390d30fd4e832aff304fceee815093201fa341c0b3ebf0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Katong and Joo Chiat's colorful Peranakan shophouses and local food scene sit well beyond the Marina Bay tourist core, a genuinely different, quieter side of Singapore for travelers who've already covered the main landmarks.", tourCard: { slug: "beyond-marina-bay-hidden-gems-of-katong-joo-chiat", title: "Beyond Marina Bay: Hidden Gems of Katong & Joo Chiat", description: "A guided tour of Singapore's Katong and Joo Chiat Peranakan neighborhoods.", price: "From $51", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a0b49940d2a987954390d30fd4e832aff304fceee815093201fa341c0b3ebf0.jpeg" } },
+                    { title: "Practical Tips", content: "Best booked after you've already seen Marina Bay and Gardens by the Bay, since this is specifically framed as a 'beyond the main sights' experience." }
+                ],
+                faqs: [
+                    { q: "Is the Katong and Joo Chiat tour worth it in Singapore?", a: "Yes, for travelers wanting a quieter, more local side of Singapore beyond the Marina Bay core." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Katong and Joo Chiat tour worth it in Singapore?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter, more local Peranakan neighborhood experience." } }
+                ] },
+            };
+
         default:
             return null;
     }

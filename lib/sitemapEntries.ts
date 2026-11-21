@@ -498,6 +498,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-jewel-changi-tour-worth-it-singapore', 'is-level33-rooftop-brewery-tour-worth-it-singapore',
     'is-adventure-cove-waterpark-worth-it-singapore',
     'best-river-wonders-night-safari-combo-singapore',
+    'is-hop-on-hop-off-bus-worth-it-singapore', 'is-katong-joo-chiat-tour-worth-it-singapore',
   ], 'singapore', 'singapore');
   const luangPrabangInfoPages = mapInfoSlugs([
     'best-kuang-si-waterfall-tour-luang-prabang', 'best-alms-giving-ceremony-tour-luang-prabang',

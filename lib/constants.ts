@@ -418,6 +418,7 @@ export const SINGAPORE_INFO_SLUGS: string[] = [
   'is-jewel-changi-tour-worth-it-singapore', 'is-level33-rooftop-brewery-tour-worth-it-singapore',
   'is-adventure-cove-waterpark-worth-it-singapore',
   'best-river-wonders-night-safari-combo-singapore',
+  'is-hop-on-hop-off-bus-worth-it-singapore', 'is-katong-joo-chiat-tour-worth-it-singapore',
 ];
 
 // Laos launched 2026-11-19 with 304 live tours and zero authority pages.
