@@ -1152,6 +1152,48 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-temple-of-leah-tour-worth-it-cebu":
+      return {
+        title: "Is the Temple of Leah Tour Worth It in Cebu?",
+        description: "An honest look at Cebu's Temple of Leah layover tour, a distinctive architectural landmark stop distinct from the city's beach and island day trips.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b93f71183865023e93bf823120d407d597ad7d76ddd56ede470bee13ea6b9570.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Temple of Leah is a dramatic Greco-Roman-style structure built as a memorial, sometimes called the 'Taj Mahal of Cebu' — a genuinely unique architectural stop that works well as a short layover activity, distinct from Cebu's usual beach and island-hopping day trips.",
+            tourCard: { slug: "cebu-5-hour-layover-tour-to-temple-of-leah", title: "Cebu: 5-Hour Layover Tour to Temple of Leah", description: "A short layover tour to Cebu's Temple of Leah landmark.", price: "From $141", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b93f71183865023e93bf823120d407d597ad7d76ddd56ede470bee13ea6b9570.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is framed as a layover tour, so it's a good fit specifically if you have a few hours between flights rather than a full day in Cebu.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Temple of Leah tour worth it in Cebu?", a: "Yes, for a genuinely unique architectural landmark, especially as a short layover activity." },
+        ],
+      };
+
+    case "is-tops-sunset-tour-worth-it-cebu":
+      return {
+        title: "Is the Tops Sunset Tour Worth It in Cebu?",
+        description: "An honest look at Cebu's 4-stop tour with 360-degree views from Tops, a highland viewpoint activity distinct from the city's beach and canyoneering day trips.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/504581179aea84cae1ecf197dccca3ce5962eea5b7df352c0b1d7b38c8386bb5.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tops is a hilltop viewpoint above Cebu City giving sweeping 360-degree views over the city and strait, a genuinely different kind of stop from the beach and canyoneering activities most Cebu day trips focus on, with sunset timing making it especially worthwhile.",
+            tourCard: { slug: "cebu-4-stop-tour-with-360-views-from-tops", title: "Cebu: 4-Stop Tour with 360 Views from Tops", description: "A 4-stop Cebu city tour including the panoramic Tops viewpoint.", price: "From $61", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/504581179aea84cae1ecf197dccca3ce5962eea5b7df352c0b1d7b38c8386bb5.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time this for sunset if possible — the view over Cebu City and the strait is especially worthwhile as the light changes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tops sunset tour worth it in Cebu?", a: "Yes, for sweeping city and strait views, genuinely different from the beach and canyoneering activities most Cebu day trips cover." },
+        ],
+      };
+
     case "is-bohol-firefly-watching-worth-it-cebu":
       return {
         title: "Is Bohol Firefly Watching Worth It from Cebu?",

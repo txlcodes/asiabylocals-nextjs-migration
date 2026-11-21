@@ -1039,6 +1039,7 @@ export const CEBU_INFO_SLUGS = [
   'bantayan-island-day-trip-guide',
   'is-bohol-firefly-watching-worth-it-cebu', 'is-bohol-balicasag-dolphin-tour-worth-it-cebu',
   'is-anjo-world-snow-world-worth-it-cebu',
+  'is-temple-of-leah-tour-worth-it-cebu', 'is-tops-sunset-tour-worth-it-cebu',
 ];
 
 export const BANGKOK_INFO_SLUGS = [
