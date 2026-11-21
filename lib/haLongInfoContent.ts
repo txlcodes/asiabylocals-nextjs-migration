@@ -555,6 +555,132 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-overnight-cruise-worth-it-ha-long":
+      return {
+        title: "Is an Overnight Ha Long Bay Cruise Worth It?",
+        description: "An honest look at the classic 2-day, 1-night Ha Long Bay cruise, the standard way to see the bay's limestone karsts beyond a rushed day trip.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200651/asiabylocals/tours/2-day-1-night-ha-long-bay-by-amanda-cruise/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ha Long Bay's thousands of limestone karsts are genuinely best seen over an overnight stay, with sunrise and sunset light on the water that a single rushed day trip from Hanoi can't capture, plus time for kayaking and cave visits without feeling hurried.",
+            tourCard: { slug: "2-day-1-night-ha-long-bay-by-amanda-cruise", title: "2-Day, 1-Night Ha Long Bay by Amanda Cruise", description: "A classic overnight Ha Long Bay cruise.", price: "From $291", duration: "2 days", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200651/asiabylocals/tours/2-day-1-night-ha-long-bay-by-amanda-cruise/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dozens of cruise operators run near-identical overnight itineraries at different price points — the boat and cabin quality is what actually varies, not the bay itself.",
+          },
+        ],
+        faqs: [
+          { q: "Is an overnight Ha Long Bay cruise worth it?", a: "Yes, for sunrise and sunset light over the limestone karsts and unhurried time for kayaking and caves that a single day trip can't offer." },
+        ],
+      };
+
+    case "is-lan-ha-bay-cruise-worth-it-ha-long":
+      return {
+        title: "Is a Lan Ha Bay Cruise Worth It?",
+        description: "An honest look at cruising Lan Ha Bay, a quieter neighboring bay to Ha Long with the same limestone karst scenery and far fewer boats.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-1-night-ha-long-and-lan-ha-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lan Ha Bay sits right next to Ha Long Bay with the same dramatic limestone karst scenery, but sees genuinely fewer boats and tourists, making it the better pick for travelers who've heard Ha Long Bay itself can get crowded.",
+            tourCard: { slug: "2-day-1-night-ha-long-and-lan-ha-tour", title: "2-Day, 1-Night Ha Long and Lan Ha Tour", description: "An overnight cruise combining Ha Long Bay and the quieter Lan Ha Bay.", price: "From $247", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-1-night-ha-long-and-lan-ha-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Many cruises combine both bays in one itinerary, so you don't have to choose — ask your operator about the specific route before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lan Ha Bay worth visiting instead of Ha Long Bay?", a: "It's a good complement rather than a replacement — the same dramatic scenery with genuinely fewer boats and crowds." },
+        ],
+      };
+
+    case "is-bai-tu-long-bay-cruise-worth-it-ha-long":
+      return {
+        title: "Is a Bai Tu Long Bay Cruise Worth It?",
+        description: "An honest look at cruising Bai Tu Long Bay, the most remote and least-visited of the three bays in the Ha Long area.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-1-night-bai-tu-long-bay-cruise-with-activities-in-ha-long/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Of the three bays in the area, Bai Tu Long is the most remote and least-visited, genuinely further off the main tourist route than Ha Long or even Lan Ha Bay, with the same karst scenery but a noticeably more peaceful, uncrowded feel.",
+            tourCard: { slug: "2-day-1-night-bai-tu-long-bay-cruise-with-activities-in-ha-long", title: "2-Day, 1-Night Bai Tu Long Bay Cruise with Activities", description: "An overnight cruise through the remote Bai Tu Long Bay.", price: "From $221", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-1-night-bai-tu-long-bay-cruise-with-activities-in-ha-long/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth it specifically for travelers who've already done a standard Ha Long Bay cruise and want a genuinely quieter version of the same scenery.",
+          },
+        ],
+        faqs: [
+          { q: "Is Bai Tu Long Bay worth visiting?", a: "Yes, it's the most remote and least-visited of the area's three bays, with the same karst scenery and a noticeably more peaceful feel." },
+        ],
+      };
+
+    case "is-day-cruise-worth-it-ha-long":
+      return {
+        title: "Is a 1-Day Ha Long Bay Cruise Worth It?",
+        description: "An honest look at the 1-day luxury Ha Long Bay cruise, for travelers without time for an overnight stay on the water.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/1-day-ha-long-bay-luxury-cruise-with-buffet/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A single-day cruise covers the bay's main limestone karst scenery, caves, and a buffet lunch without the time commitment of an overnight stay, a reasonable option for travelers with limited time even though it misses the sunrise and sunset light an overnight cruise captures.",
+            tourCard: { slug: "1-day-ha-long-bay-luxury-cruise-with-buffet", title: "1-Day Ha Long Bay Luxury Cruise with Buffet", description: "A full-day Ha Long Bay cruise with a buffet lunch included.", price: "From $98", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/1-day-ha-long-bay-luxury-cruise-with-buffet/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If your schedule genuinely allows it, an overnight cruise gives a meaningfully fuller experience — this is the right call specifically when time is the limiting factor.",
+          },
+        ],
+        faqs: [
+          { q: "Is a 1-day Ha Long Bay cruise worth it?", a: "Yes, specifically for travelers without time for an overnight stay — it covers the main scenery and caves, just without the sunrise and sunset light." },
+        ],
+      };
+
+    case "is-cat-ba-island-tour-worth-it-ha-long":
+      return {
+        title: "Is the Cat Ba Island Tour Worth It from Ha Long?",
+        description: "An honest look at the Cat Ba Island adventure combined with a Lan Ha Bay cruise, pairing island hiking and beaches with the karst-studded water.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-cat-ba-island-adventure-and-lan-ha-bay-cruise/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cat Ba is the largest island in the Ha Long Bay area, with genuine hiking trails, national park, and beaches beyond just boat-based sightseeing, pairing land-based activity with a Lan Ha Bay cruise for a more varied 2-day trip than a cruise-only itinerary.",
+            tourCard: { slug: "2-day-cat-ba-island-adventure-and-lan-ha-bay-cruise", title: "2-Day Cat Ba Island Adventure and Lan Ha Bay Cruise", description: "A 2-day trip combining Cat Ba Island activities with a Lan Ha Bay cruise.", price: "From $156", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-cat-ba-island-adventure-and-lan-ha-bay-cruise/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Good for travelers who want more than pure boat time — the island's national park and beaches add genuine variety to the standard cruise itinerary.",
+          },
+        ],
+        faqs: [
+          { q: "Is Cat Ba Island worth adding to a Ha Long Bay trip?", a: "Yes, for genuine land-based hiking and beaches beyond pure boat sightseeing, adding variety to a standard cruise-only itinerary." },
+        ],
+      };
+
+    case "is-ninh-binh-ha-long-combo-worth-it":
+      return {
+        title: "Is the Ninh Binh and Ha Long Bay Combo Tour Worth It?",
+        description: "An honest look at the 2-day Ninh Binh and Ha Long Bay all-inclusive tour, pairing limestone karst scenery on land with the bay's cruise on water.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-ninh-binh-and-ha-long-bay-all-inclusive/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ninh Binh is often called 'Ha Long Bay on land', with the same dramatic limestone karst scenery but reached by small boat through rice paddies rather than open sea, and pairing both in one 2-day trip gives the complete karst-landscape picture from two genuinely different angles.",
+            tourCard: { slug: "2-day-ninh-binh-and-ha-long-bay-all-inclusive", title: "2-Day Ninh Binh and Ha Long Bay All-Inclusive", description: "A 2-day combination tour of Ninh Binh and Ha Long Bay.", price: "From $178", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-ninh-binh-and-ha-long-bay-all-inclusive/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good efficient pairing if you're short on time and want to see Vietnam's karst landscapes both on land and at sea in a single short trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ninh Binh and Ha Long Bay combo worth it?", a: "Yes, for seeing the same limestone karst landscape from two genuinely different angles, land and sea, in one efficient trip." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1777,6 +1777,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'ha-long-bay-with-kids',
     'bai-tu-long-bay-guide',
     'is-hop-on-hop-off-bus-worth-it-ha-long',
+    'is-overnight-cruise-worth-it-ha-long', 'is-lan-ha-bay-cruise-worth-it-ha-long',
+    'is-bai-tu-long-bay-cruise-worth-it-ha-long', 'is-day-cruise-worth-it-ha-long',
+    'is-cat-ba-island-tour-worth-it-ha-long', 'is-ninh-binh-ha-long-combo-worth-it',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ha-long/${slug}`,
     lastModified: new Date(),
