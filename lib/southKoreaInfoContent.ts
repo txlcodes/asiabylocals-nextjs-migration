@@ -1409,6 +1409,153 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-dmz-tour-worth-it-seoul":
+      return {
+        title: "Is the DMZ Tour Worth It from Seoul?",
+        description: "An honest look at the half-day DMZ small-group tour, visiting the heavily fortified border between North and South Korea.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/88dbae4db7452a79549b0915e3ae42009c04d6421c9223c0db0e829a6e59df82.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The DMZ is one of the most heavily fortified borders in the world, and this is widely considered Seoul's single most unique day trip, offering a genuinely sobering, historically significant experience that nothing else in the city can match.",
+            tourCard: { slug: "dmz-half-day-small-group-max-13-with-north", title: "DMZ Half-Day Small Group Tour, Max 13, with North Korea Views", description: "A half-day small-group DMZ tour with views toward North Korea.", price: "From $614", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/88dbae4db7452a79549b0915e3ae42009c04d6421c9223c0db0e829a6e59df82.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your passport — it's required for DMZ entry, and some zones have dress codes and photography restrictions that your guide will explain beforehand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the DMZ tour worth it from Seoul?", a: "Yes, it's widely considered Seoul's single most unique day trip, offering a genuinely sobering look at one of the world's most fortified borders." },
+        ],
+      };
+
+    case "is-deoksugung-palace-tour-worth-it-seoul":
+      return {
+        title: "Is the Deoksugung Palace Heritage Walking Tour Worth It?",
+        description: "An honest look at the Deoksugung Palace guided heritage walking tour, a smaller, less-crowded royal palace compared to Gyeongbokgung.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9856c5c4852d895.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Deoksugung is noticeably smaller and quieter than Gyeongbokgung, Seoul's largest and most-visited palace, which makes it a good pick for travelers who've already done the main palace and want a calmer heritage visit without the crowds.",
+            tourCard: { slug: "deoksugung-palace-guided-heritage-walking-tour-in", title: "Deoksugung Palace Guided Heritage Walking Tour", description: "A guided heritage walking tour of Deoksugung Palace.", price: "From $128", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9856c5c4852d895.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Catch the Royal Guard Changing Ceremony at the main gate if the timing works with your visit — it runs on a set daily schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is Deoksugung Palace worth visiting instead of Gyeongbokgung?", a: "It's a good complement rather than a replacement — smaller and quieter, best for a second palace visit after Gyeongbokgung." },
+        ],
+      };
+
+    case "is-bukchon-cooking-class-worth-it-seoul":
+      return {
+        title: "Is the Bukchon Hanok Cooking Class Worth It in Seoul?",
+        description: "An honest look at the authentic Korean cooking class held inside a traditional Bukchon hanok house, pairing the cooking lesson with the setting itself.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85b18d9b3a34e88b08a75a708ee615d57f6b1aa60560c5b63336019fcdeedfda.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Taking place inside a genuine traditional hanok house in the Bukchon district rather than a commercial kitchen, this cooking class pairs the hands-on lesson with an atmospheric setting, a genuinely different experience from a standard classroom-style cooking class.",
+            tourCard: { slug: "authentic-korean-cooking-class-in-a-bukchon-hanok", title: "Authentic Korean Cooking Class in a Bukchon Hanok", description: "A hands-on Korean cooking class inside a traditional Bukchon hanok house.", price: "From $110", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85b18d9b3a34e88b08a75a708ee615d57f6b1aa60560c5b63336019fcdeedfda.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair this with a walk through Bukchon Hanok Village before or after — you're already in the neighborhood.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bukchon hanok cooking class worth it?", a: "Yes, for the atmospheric traditional house setting itself, a genuinely different experience from a standard classroom cooking class." },
+        ],
+      };
+
+    case "is-suwon-hwaseong-fortress-tour-worth-it-seoul":
+      return {
+        title: "Is the Suwon Hwaseong Fortress Night Tour Worth It from Seoul?",
+        description: "An honest look at the Suwon Hwaseong Fortress night tour, a UNESCO World Heritage site lit up after dark outside Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64b626ebd195d.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hwaseong Fortress is a UNESCO World Heritage site, and seeing its walls and gates lit up at night gives a genuinely different atmosphere than a daytime visit, while also sidestepping the daytime heat and crowds.",
+            tourCard: { slug: "from-seoul-suwon-hwaseong-fortress-night-tour", title: "From Seoul: Suwon Hwaseong Fortress Night Tour", description: "A night tour of the UNESCO-listed Suwon Hwaseong Fortress.", price: "From $180", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/64b626ebd195d.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — the fortress walls involve genuine walking distance and some uneven ground in the dark.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hwaseong Fortress night tour worth it?", a: "Yes, for a genuinely different lit-up atmosphere than a daytime visit, while avoiding the heat and crowds." },
+        ],
+      };
+
+    case "is-seoraksan-day-trip-worth-it-seoul":
+      return {
+        title: "Is the Seoraksan National Park Day Trip Worth It from Seoul?",
+        description: "An honest look at the Seoraksan National Park and Sokcho day trip, South Korea's most famous national park reached on a genuinely long day from Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9dbbbb076c661f88de62418844174e7109e48489180f7ff144522a89709cbfb4.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seoraksan is South Korea's most famous national park, with dramatic granite peaks and a cable car to a viewing platform, but it's a genuinely long day trip from Seoul given the distance to the east coast near Sokcho, worth it specifically for travelers without time for an overnight stay.",
+            tourCard: { slug: "from-seoulseoraksan-national-park-and-sokcho", title: "From Seoul: Seoraksan National Park and Sokcho", description: "A day trip to Seoraksan National Park and the coastal city of Sokcho.", price: "From $1234", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9dbbbb076c661f88de62418844174e7109e48489180f7ff144522a89709cbfb4.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Given the 12-hour round trip, an overnight stay near Sokcho gives a far more relaxed pace if your schedule allows it.",
+          },
+        ],
+        faqs: [
+          { q: "Is Seoraksan worth a day trip from Seoul?", a: "Yes, for travelers without time for an overnight stay, though it's a genuinely long day given the distance to the east coast." },
+        ],
+      };
+
+    case "is-dongdaemun-market-tour-worth-it-seoul":
+      return {
+        title: "Is the Dongdaemun and Gwangjang Market Tour Worth It in Seoul?",
+        description: "An honest look at the Dongdaemun jewelry market and Gwangjang market tour, pairing wholesale shopping with Seoul's oldest traditional food market.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f1fcb137c42df6bec3f2ff6c37d03267baf59929a04d3988e665a59f08e36ffb.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This pairs Dongdaemun's wholesale jewelry market with Gwangjang Market, one of Seoul's oldest traditional markets known for its street food stalls, a genuinely different shopping-and-eating combination from the city's more mainstream Myeongdong retail district.",
+            tourCard: { slug: "dongdaemun-jewelry-market-gwangjang-market", title: "Dongdaemun Jewelry Market & Gwangjang Market", description: "A tour combining the Dongdaemun jewelry market with Gwangjang traditional market.", price: "From $64", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f1fcb137c42df6bec3f2ff6c37d03267baf59929a04d3988e665a59f08e36ffb.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — Gwangjang Market is famous for its street food stalls, particularly bindaetteok (mung bean pancakes) and mayak gimbap.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dongdaemun and Gwangjang market tour worth it?", a: "Yes, for a genuinely different shopping-and-eating combination than the mainstream Myeongdong retail district." },
+        ],
+      };
+
+    case "is-perfume-making-workshop-worth-it-seoul":
+      return {
+        title: "Is the Perfume Making Workshop Worth It in Seoul?",
+        description: "An honest look at the create-your-own-perfume workshop with a professional perfumer, a hands-on beauty-focused activity distinct from standard cosmetics shopping.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2f8a6181cdb330d5e25993cc700c29c0a1d0f54bc50c5a95061e0a5c6dcc1686.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rather than simply buying Korean cosmetics off the shelf, this workshop with a professional perfumer has you blend your own custom scent, a hands-on beauty-focused activity and a genuinely personal souvenir to take home.",
+            tourCard: { slug: "create-your-perfume-with-a-professional-perfumer", title: "Create Your Perfume with a Professional Perfumer", description: "A hands-on perfume-making workshop with a professional perfumer.", price: "From $91", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2f8a6181cdb330d5e25993cc700c29c0a1d0f54bc50c5a95061e0a5c6dcc1686.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity, and the custom scent you create makes a more personal souvenir than shelf-bought cosmetics.",
+          },
+        ],
+        faqs: [
+          { q: "Is the perfume making workshop worth it in Seoul?", a: "Yes, for a hands-on, genuinely personal souvenir beyond standard cosmetics shopping." },
+        ],
+      };
+
     default:
       return null;
   }

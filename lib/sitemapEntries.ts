@@ -222,6 +222,10 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-seoul',
     'is-nami-island-tour-worth-it-seoul', 'is-han-river-cruise-worth-it-seoul',
     'is-kimchi-cooking-class-worth-it-seoul', 'is-everland-worth-it-seoul',
+    'is-dmz-tour-worth-it-seoul', 'is-deoksugung-palace-tour-worth-it-seoul',
+    'is-bukchon-cooking-class-worth-it-seoul', 'is-suwon-hwaseong-fortress-tour-worth-it-seoul',
+    'is-seoraksan-day-trip-worth-it-seoul', 'is-dongdaemun-market-tour-worth-it-seoul',
+    'is-perfume-making-workshop-worth-it-seoul',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),
