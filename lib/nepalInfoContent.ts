@@ -1746,6 +1746,168 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-annapurna-base-camp-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Annapurna Base Camp Trek Worth It?",
+                seoTitle: "Annapurna Base Camp Trek 2026 | Honest Review",
+                description: "An honest look at the 8-day Annapurna Base Camp trek, one of Nepal's two classic multi-day treks alongside Everest Base Camp.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/564a8d30f0f584074496d3ede626af49cd1fb425ae1f5f413a2648fe79c8a36b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Annapurna Base Camp is the shorter, lower-altitude counterpart to Everest Base Camp, reaching close-up views of the Annapurna massif in about 8 days with a guide, porter support, and teahouse lodging arranged for you.", tourCard: { slug: "annapurna-base-camp-trek-8-days", title: "Annapurna Base Camp Trek, 8 Days", description: "An 8-day guided trek to Annapurna Base Camp with teahouse lodging.", price: "From $1165", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/564a8d30f0f584074496d3ede626af49cd1fb425ae1f5f413a2648fe79c8a36b.jpg" } },
+                    { title: "Practical Tips", content: "A good first-time Himalayan trek choice for travellers who want serious mountain scenery without the altitude and cost of Everest Base Camp." }
+                ],
+                faqs: [
+                    { q: "Is Annapurna Base Camp easier than Everest Base Camp?", a: "Yes, it's shorter and reaches a lower altitude, making it a more accessible choice for a first Himalayan trek." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Annapurna Base Camp trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for close-up Annapurna massif views on a shorter, lower-altitude trek than Everest Base Camp." } }
+                ] },
+            };
+
+        case "is-annapurna-circuit-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Annapurna Circuit Trek Worth It?",
+                seoTitle: "Annapurna Circuit Trek 2026 | Honest Review",
+                description: "An honest look at the 10-day Annapurna Circuit trek, a longer loop route crossing the high Thorong La pass.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/beca9b85cc3dbee444c2b5e38cf19c089bd345128e5e3703feb3ac892894dd5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Annapurna Circuit is a longer loop than the base camp trek, crossing the high Thorong La pass above 5,000 metres and passing through a wider range of landscapes and villages over 10 days with a guide.", tourCard: { slug: "10-days-annapurna-circuit-trekking", title: "10 Days Annapurna Circuit Trekking", description: "A 10-day guided trek around the Annapurna Circuit crossing Thorong La pass.", price: "From $1664", duration: "10 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/beca9b85cc3dbee444c2b5e38cf19c089bd345128e5e3703feb3ac892894dd5d.jpg" } },
+                    { title: "Practical Tips", content: "Crossing Thorong La at over 5,000 metres requires proper acclimatisation days; don't rush this trek's itinerary." }
+                ],
+                faqs: [
+                    { q: "Is the Annapurna Circuit harder than Annapurna Base Camp?", a: "Yes, it's longer and crosses a high pass above 5,000 metres, making acclimatisation more important." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Annapurna Circuit trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a longer, more varied route than Annapurna Base Camp, crossing the high Thorong La pass." } }
+                ] },
+            };
+
+        case "is-langtang-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Langtang Region Trek Worth It?",
+                seoTitle: "Langtang Trek Nepal 2026 | Honest Review",
+                description: "An honest look at the 11-day Yala Peak climb and Langtang trek, a quieter Himalayan region closer to Kathmandu than Everest or Annapurna.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e27ee8a5f4f005394bc22de6e30468a9fc9606745a230c55c73206ae5c51206.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Langtang sits much closer to Kathmandu than Everest or Annapurna, which cuts travel time, and this 11-day itinerary adds a Yala Peak climbing attempt on top of the standard valley trek for travellers wanting more than a walking route.", tourCard: { slug: "11-day-yala-peak-climb-langtang-trek-adventure", title: "11-Day Yala Peak Climb & Langtang Trek Adventure", description: "An 11-day trek through the Langtang valley with a Yala Peak climb.", price: "From $1417", duration: "11 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e27ee8a5f4f005394bc22de6e30468a9fc9606745a230c55c73206ae5c51206.jpg" } },
+                    { title: "Practical Tips", content: "The Yala Peak climb adds technical difficulty beyond the valley trek; make sure your fitness and prior altitude experience match this before booking." }
+                ],
+                faqs: [
+                    { q: "Is Langtang closer to Kathmandu than Everest or Annapurna?", a: "Yes, significantly, which cuts down total trip length for travellers with limited time." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Langtang trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter Himalayan trek much closer to Kathmandu than Everest or Annapurna." } }
+                ] },
+            };
+
+        case "is-chitwan-safari-worth-it-kathmandu":
+            return {
+                title: "Is a Chitwan Safari Worth It from Kathmandu?",
+                seoTitle: "Chitwan National Park Safari 2026 | Honest Review",
+                description: "An honest look at the 1-day Chitwan National Park safari by flight from Kathmandu, Nepal's best-known wildlife park for rhinos and tigers.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/34ea82d2a15972b253f53425375ebd48e0132af98d6e8921393cffa05095f01f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Chitwan is Nepal's best-known national park for one-horned rhinos and the chance of a tiger sighting, and flying rather than driving the roughly 5-hour road route turns it into a feasible single-day trip from Kathmandu, with flights and the lodge package bundled into the price.", tourCard: { slug: "1-day-chitwan-safari-tour-from-kathmandu-by-flight", title: "1-Day Chitwan Safari Tour from Kathmandu by Flight", description: "A 1-day Chitwan National Park safari with return flights from Kathmandu.", price: "From $1315", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/34ea82d2a15972b253f53425375ebd48e0132af98d6e8921393cffa05095f01f.jpg" } },
+                    { title: "Practical Tips", content: "The price covers domestic flights both ways plus the safari package, which is why it runs well above a typical day-trip rate — worth it mainly for travellers without time for the multi-day road version." }
+                ],
+                faqs: [
+                    { q: "Is Chitwan worth visiting from Kathmandu?", a: "Yes, for a realistic shot at seeing wild rhinos and Nepal's best-known wildlife park, though a flight-based day trip costs more than a multi-day road trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Chitwan safari worth it from Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a realistic shot at wild rhinos and tigers in Nepal's best-known national park." } }
+                ] },
+            };
+
+        case "is-bardiya-tiger-safari-worth-it-kathmandu":
+            return {
+                title: "Is a Bardiya Tiger Safari Worth It from Kathmandu?",
+                seoTitle: "Bardiya National Park Safari 2026 | Honest Review",
+                description: "An honest look at the 7-day Bardiya National Park safari, a far less-visited wildlife park than Chitwan with a genuinely wild feel.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f45e8ceaacbb327f2c285c4a89c693e0044598ab116244b2f85b341dcc53d639.png",
+                sections: [
+                    { title: "The Short Answer", content: "Bardiya sees a fraction of Chitwan's visitor numbers and has one of Nepal's highest Bengal tiger densities alongside one-horned rhinos, making this 7-day package worth the extra distance for travellers who've already done Chitwan or want a quieter, wilder park.", tourCard: { slug: "bardiya-7-day-royal-bengal-tiger-one-horned-rhino", title: "Bardiya: 7-Day Royal Bengal Tiger & One-Horned Rhino Safari", description: "A 7-day wildlife safari in Bardiya National Park.", price: "From $2807", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f45e8ceaacbb327f2c285c4a89c693e0044598ab116244b2f85b341dcc53d639.png" } },
+                    { title: "Practical Tips", content: "Bardiya is in Nepal's far west, a longer journey than Chitwan — worth it specifically for travellers prioritising a quieter, less-touristed park over convenience." }
+                ],
+                faqs: [
+                    { q: "Is Bardiya better than Chitwan for wildlife?", a: "Bardiya is far less visited with a higher tiger density, but it's a longer journey — Chitwan remains the easier, more convenient option." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Bardiya safari worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely wilder, far less-visited alternative to Chitwan with high tiger density." } }
+                ] },
+            };
+
+        case "is-chandragiri-cable-car-worth-it-kathmandu":
+            return {
+                title: "Is the Chandragiri Cable Car Worth It in Kathmandu?",
+                seoTitle: "Chandragiri Cable Car Kathmandu 2026 | Honest Review",
+                description: "An honest look at the Chandragiri cable car and Monkey Temple tour, a half-day hill-station escape from Kathmandu's valley floor.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0184f4cd969e86b89d19f1c3687086dacc5aa051fb6ee086bb59c486ad21023.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Chandragiri cable car climbs out of the Kathmandu valley to a hilltop with Himalayan views on a clear day, and this tour pairs the ride with a stop at Swayambhunath, the Monkey Temple, making it an efficient half-day outside the valley's usual heat and traffic.", tourCard: { slug: "chandragiri-cable-car-and-monkey-temple-tour-with", title: "Chandragiri Cable Car and Monkey Temple Tour with Transfers", description: "A half-day tour combining the Chandragiri cable car with the Monkey Temple.", price: "From $265", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0184f4cd969e86b89d19f1c3687086dacc5aa051fb6ee086bb59c486ad21023.jpeg" } },
+                    { title: "Practical Tips", content: "Himalayan views from the top depend entirely on clear weather; mornings in the dry season give the best odds." }
+                ],
+                faqs: [
+                    { q: "Can you see the Himalayas from Chandragiri?", a: "On a clear day, yes — visibility depends heavily on season and weather, so mornings in the dry season give the best chance." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chandragiri cable car worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an efficient half-day escape from the valley floor with Himalayan views on a clear day." } }
+                ] },
+            };
+
+        case "is-newari-cooking-class-worth-it-kathmandu":
+            return {
+                title: "Is the Newari Family Cooking Class Worth It in Kathmandu?",
+                seoTitle: "Newari Cooking Class Kathmandu 2026 | Honest Review",
+                description: "An honest look at the authentic Newari family cooking class, a hands-on introduction to the Kathmandu Valley's indigenous cuisine.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf7324c88b77fa0956e060e1f26d6ecc2b54a2dffec1d6eeee28f9932ea3e861.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Newari cuisine is the Kathmandu Valley's own indigenous food tradition, distinct from the Indian-influenced dishes most visitors encounter, and cooking it in a local family's home rather than a commercial kitchen gives a more genuine introduction to it.", tourCard: { slug: "authentic-newari-family-cooking-class-heritage", title: "Authentic Newari Family Cooking Class, Heritage Kitchen", description: "A hands-on Newari cooking class in a local family's heritage kitchen.", price: "From $175", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf7324c88b77fa0956e060e1f26d6ecc2b54a2dffec1d6eeee28f9932ea3e861.jpg" } },
+                    { title: "Practical Tips", content: "A good lower-key half-day pick to pair with a morning of temple sightseeing in Kathmandu or Bhaktapur." }
+                ],
+                faqs: [
+                    { q: "What makes Newari food different from other Nepali food?", a: "Newari cuisine is the Kathmandu Valley's own indigenous tradition, distinct from the Indian-influenced dishes served in most restaurants." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Newari cooking class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine introduction to the Kathmandu Valley's own indigenous cuisine, cooked in a real family home." } }
+                ] },
+            };
+
+        case "is-ayurveda-retreat-worth-it-kathmandu":
+            return {
+                title: "Is the Ayurveda Panchakarma Retreat Worth It in Kathmandu?",
+                seoTitle: "Ayurveda Retreat Nepal 2026 | Honest Review",
+                description: "An honest look at the 8-day Ayurveda Panchakarma detox and healing retreat, a wellness program distinct from Nepal's trekking and sightseeing offerings.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af634413c1cc5d264aa8e7e0fd7410552624cafc97ee687fecff12ac611f9c5c.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This 8-day program follows traditional Panchakarma detox protocols under supervision, aimed at travellers seeking a structured wellness retreat rather than sightseeing or adventure activities, with the full program including accommodation and treatments.", tourCard: { slug: "8-day-ayurveda-panchakarma-detox-healing-retreat", title: "8-Day Ayurveda Panchakarma Detox & Healing Retreat", description: "An 8-day supervised Ayurveda Panchakarma detox and wellness retreat.", price: "From $1949", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af634413c1cc5d264aa8e7e0fd7410552624cafc97ee687fecff12ac611f9c5c.jpeg" } },
+                    { title: "Practical Tips", content: "Panchakarma protocols involve genuine dietary and lifestyle restrictions during the program; check what's expected before committing to the full 8 days." }
+                ],
+                faqs: [
+                    { q: "What is Panchakarma?", a: "A traditional Ayurvedic detox protocol involving supervised treatments, diet, and lifestyle practices over a structured multi-day program." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ayurveda retreat worth it in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers specifically seeking a structured wellness detox program rather than sightseeing or trekking." } }
+                ] },
+            };
+
+        case "is-yoga-teacher-training-worth-it-kathmandu":
+            return {
+                title: "Is the 29-Day Yoga Teacher Training Worth It in Nepal?",
+                seoTitle: "Nepal Yoga Teacher Training 2026 | Honest Review",
+                description: "An honest look at the 29-day 500-hour yoga teacher training program in Nepal, a serious long-term commitment distinct from a short yoga retreat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3bfd198b5339a0125793920af7e8be9a6f1ce995b381b44ab05d08babac8921.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At 500 hours over 29 days, this is a full certification program rather than a short wellness retreat, aimed at travellers who want an internationally recognised yoga teaching qualification, not just a relaxing holiday.", tourCard: { slug: "29-day-yoga-in-nepal-500-hour-yoga-teacher", title: "29-Day Yoga in Nepal: 500-Hour Yoga Teacher Training", description: "A 29-day, 500-hour yoga teacher certification program in Nepal.", price: "From $3550", duration: "29 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3bfd198b5339a0125793920af7e8be9a6f1ce995b381b44ab05d08babac8921.jpg" } },
+                    { title: "Practical Tips", content: "This is a serious time and money commitment aimed at certification, not a short relaxing break — confirm the certifying body is one recognised where you plan to teach." }
+                ],
+                faqs: [
+                    { q: "Is a 500-hour yoga teacher training worth the cost?", a: "For travellers wanting an internationally recognised teaching qualification, yes — it's a genuinely different product from a short yoga holiday." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the 500-hour yoga teacher training worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers specifically seeking an internationally recognised teaching certification rather than a short retreat." } }
+                ] },
+            };
+
         default:
             return null;
     }
