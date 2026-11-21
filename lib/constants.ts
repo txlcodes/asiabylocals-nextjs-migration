@@ -1395,7 +1395,8 @@ export const HIROSHIMA_INFO_SLUGS = [
   'shukkeien-garden-guide',
   'kure-yamato-museum-guide',
   'hiroshima-with-children',
-  'where-to-stay-in-hiroshima'];
+  'where-to-stay-in-hiroshima',
+  'is-calligraphy-workshop-worth-it-hiroshima'];
 
 // Re-add a slug here ONLY once its page exists in lib/osakaInfoContent.ts.
 export const OSAKA_INFO_SLUGS = [

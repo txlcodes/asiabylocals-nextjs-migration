@@ -1014,6 +1014,26 @@ export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
         },
         heroImage: X_KURE.image,
       };
+    case 'is-calligraphy-workshop-worth-it-hiroshima':
+      return {
+        title: "Is the Calligraphy Workshop Worth It in Hiroshima?",
+        description: "An honest look at Hiroshima's hands-on Japanese calligraphy workshop, creating your own kanji art souvenir.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hiroshima-calligraphy-create-your-own-kanji-art-and-souvenir-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This workshop teaches traditional Japanese calligraphy (shodo), letting you create and take home your own kanji art — a relaxed, low-key cultural activity distinct from Hiroshima's history-focused sightseeing at the Peace Memorial Park.",
+            tourCard: { slug: "hiroshima-calligraphy-create-your-own-kanji-art-and-souvenir-by-local-operator", title: "Hiroshima Calligraphy: Create Your Own Kanji Art and Souvenir by Local Operator", description: "A hands-on Japanese calligraphy workshop creating your own kanji art souvenir.", price: "From $107", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hiroshima-calligraphy-create-your-own-kanji-art-and-souvenir-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good gentler activity to pair with the emotionally heavy Peace Memorial Park visit, offering a change of pace later the same day." },
+        ],
+        faqs: [
+          { q: "Is the calligraphy workshop worth it in Hiroshima?", a: "Yes, for a relaxed hands-on cultural activity with a genuine take-home souvenir." },
+        ],
+      };
+
     default:
             return null;
     }
