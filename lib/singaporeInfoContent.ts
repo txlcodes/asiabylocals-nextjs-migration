@@ -385,6 +385,72 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-bike-tour-singapore":
+            return {
+                title: "Which Is the Best Bike Tour in Singapore?",
+                seoTitle: "Best Singapore Bike Tour 2026 | Honest Comparison",
+                description: "Compare real Singapore bike tours — from a city highlights ride to a sunset tour with hawker food stops.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cbf34455107882875e6d66fa4adc37bf815a2ee182169364c961becc01d144c3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Singapore's flat, bike-friendly layout makes cycling a genuinely good way to cover ground between neighborhoods, and tours differ mainly in route focus and whether food stops are included.", tourCard: { slug: "singapore-lion-city-highlights-bike-tour", title: "Singapore: Lion City Highlights Bike Tour", description: "A bike tour covering Singapore's main highlights.", price: "From $87", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cbf34455107882875e6d66fa4adc37bf815a2ee182169364c961becc01d144c3.jpg" } },
+                    { title: "Best Budget Option: City Bicycle Tour", content: "A straightforward city bike tour covering the main sights without extra add-ons.", tourCard: { slug: "bikeable-singapore-city-bicycle-tour", title: "Bikeable: Singapore City Bicycle Tour", description: "A standard city bicycle tour of Singapore.", price: "From $82", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8e6bbc9e3952daca0ba22b61970d24cf7f837db18708304c58cf7140ef70f9ec.png" } },
+                    { title: "Best with Food: Sunset Bike Tour with Hawker Food Experience", content: "This times the ride for sunset and builds in stops at hawker stalls, combining cycling with Singapore's food scene in one outing.", tourCard: { slug: "singapore-sunset-bike-tour-with-hawker-food", title: "Singapore: Sunset Bike Tour with Hawker Food Experience", description: "A sunset bike tour with hawker food stops included.", price: "From $292", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1095964/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Singapore's heat and humidity are real factors on a bike — morning or sunset rides are far more comfortable than midday, which is why most operators schedule around those windows." }
+                ],
+                faqs: [
+                    { q: "What is the best bike tour in Singapore?", a: "A city highlights ride for sightseeing, or the sunset hawker food tour for combining cycling with eating." },
+                    { q: "Is Singapore good for cycling?", a: "Yes, it's flat and bike-friendly, though heat makes morning or sunset rides more comfortable than midday." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best bike tour in Singapore?", "acceptedAnswer": { "@type": "Answer", "text": "A city highlights ride, or the sunset hawker food tour." } },
+                    { "@type": "Question", "name": "Is Singapore good for cycling?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, flat and bike-friendly." } }
+                ] },
+            };
+
+        case "best-wings-of-time-cable-car-tour-singapore":
+            return {
+                title: "Which Is the Best Cable Car & Wings of Time Combo in Sentosa?",
+                seoTitle: "Best Sentosa Cable Car Wings of Time Tour 2026 | Comparison",
+                description: "Compare real Sentosa cable car and Wings of Time show combo tours — from a sunset shared trip to a full Sky Helix and hotel-transfer package.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53667ae3f0a9580f408b6d576e09b238049ee017081943ceb17fd501634280ab.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Sentosa cable car and the Wings of Time nighttime light-and-water show are commonly paired, since the cable car gives great sunset views and the show runs right after dark on the same beach.", tourCard: { slug: "singapore-cable-car-ride-with-wings-of-time-show", title: "Singapore: Cable Car Ride with Wings of Time Show", description: "A standard combo of the Sentosa cable car and Wings of Time show.", price: "From $102", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/60480d492382c133f04a66d08c9420f8540de03c3c1a841783292e2d5f6227bb.png" } },
+                    { title: "Cheapest: Sunset Trip Shared Basis", content: "At $27, this is the lowest-priced way to combine the sunset cable car ride with the evening show on a shared basis.", tourCard: { slug: "sentosa-cable-car-wings-of-time-sunset-trip", title: "Sentosa Cable car & Wings of time Sunset Trip Shared Basis", description: "A budget shared-basis sunset cable car and show combo.", price: "From $27", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53667ae3f0a9580f408b6d576e09b238049ee017081943ceb17fd501634280ab.jpg" } },
+                    { title: "Most Complete: Cable Car, Sky Helix & Wings of Time with Hotel Transfers", content: "This adds the Sky Helix (an open-air aerial tower ride) and includes hotel transfers, the most complete version of the combo.", tourCard: { slug: "cable-car-sky-helix-wings-of-time-with-hotel", title: "Cable Car, Sky Helix & Wings of Time with Hotel Transfers", description: "The full combo including Sky Helix and hotel transfers.", price: "From $127", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1217170/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Time your cable car ride for roughly an hour before sunset to catch both daylight and dusk views, then stay on for the Wings of Time show which starts shortly after dark." }
+                ],
+                faqs: [
+                    { q: "What is the best Sentosa cable car and Wings of Time combo?", a: "A shared sunset trip for budget, or the Sky Helix version with transfers for the most complete experience." },
+                    { q: "When should I ride the cable car for sunset?", a: "About an hour before sunset, to catch both daylight and dusk views." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best cable car and Wings of Time combo?", "acceptedAnswer": { "@type": "Answer", "text": "A shared sunset trip, or the Sky Helix version for more." } },
+                    { "@type": "Question", "name": "When to ride for sunset?", "acceptedAnswer": { "@type": "Answer", "text": "About an hour before sunset." } }
+                ] },
+            };
+
+        case "best-merlion-civic-district-walking-tour-singapore":
+            return {
+                title: "Which Is the Best Merlion & Civic District Walking Tour in Singapore?",
+                seoTitle: "Best Merlion Civic District Tour Singapore 2026 | Comparison",
+                description: "Compare real Merlion, Marina Bay, and Civic District walking tours — from a focused Chinatown/Merlion/Marina Bay route to one adding Raffles Hotel and Arab Street.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1016210/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Singapore's colonial Civic District, Merlion Park, and Chinatown are close enough together that most walking tours cover all three, differing mainly in whether Raffles Hotel and Arab Street are also added.", tourCard: { slug: "chinatown-merlion-marina-bay-highlights-4h", title: "Chinatown, Merlion & Marina Bay Highlights 4h Walking Tour", description: "A 4-hour walking tour covering Chinatown, Merlion, and Marina Bay.", price: "From $238", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1016210/img0/1600.webp" } },
+                    { title: "Best for History: Merlion, Marina Bay & Historical Civic District", content: "This leans more into the Civic District's colonial history alongside the standard Merlion and Marina Bay stops.", tourCard: { slug: "merlion-marina-bay-historical-civic-district", title: "Merlion, Marina Bay, Historical Civic District Walking Tour", description: "A history-focused walk through the Civic District, Merlion, and Marina Bay.", price: "From $199", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-862404/img0/1600.webp" } },
+                    { title: "Most Comprehensive: Chinatown, Raffles Hotel, Merlion, Arab Street", content: "This adds both Raffles Hotel and Arab Street to the core route, covering the widest range of neighborhoods in one walk.", tourCard: { slug: "chinatown-raffles-hotel-merlion-arab-street", title: "Chinatown, Raffles Hotel, Merlion, Arab Street Walking Tour", description: "The most comprehensive walking route adding Raffles Hotel and Arab Street.", price: "From $279", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1466212/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "These routes cover a lot of ground on foot in Singapore's heat and humidity — comfortable shoes and water matter more here than on a typical city walk elsewhere." }
+                ],
+                faqs: [
+                    { q: "What is the best Merlion and Civic District walking tour?", a: "A standard 4-hour route covers the essentials; go comprehensive if you want Raffles Hotel and Arab Street too." },
+                    { q: "How much walking is involved?", a: "A fair amount — these routes cover multiple neighborhoods on foot, so comfortable shoes matter in Singapore's heat." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best Merlion/Civic District walking tour?", "acceptedAnswer": { "@type": "Answer", "text": "A standard 4-hour route covers the essentials." } },
+                    { "@type": "Question", "name": "How much walking is involved?", "acceptedAnswer": { "@type": "Answer", "text": "A fair amount across multiple neighborhoods." } }
+                ] },
+            };
+
         default:
             return null;
     }

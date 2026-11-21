@@ -450,6 +450,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'singapore-1-day-itinerary', 'singapore-3-day-itinerary',
     'singapore-visa-guide-for-tourists', 'singapore-public-transport-guide',
     'singapore-food-guide', 'is-singapore-expensive',
+    'best-bike-tour-singapore', 'best-wings-of-time-cable-car-tour-singapore',
+    'best-merlion-civic-district-walking-tour-singapore',
   ], 'singapore', 'singapore');
   const luangPrabangInfoPages = mapInfoSlugs([
     'best-kuang-si-waterfall-tour-luang-prabang', 'best-alms-giving-ceremony-tour-luang-prabang',
