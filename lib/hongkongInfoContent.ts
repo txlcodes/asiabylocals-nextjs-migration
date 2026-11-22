@@ -1474,6 +1474,90 @@ export function getHongKongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tai-o-boat-tour-worth-it-hong-kong":
+      return {
+        title: "Is the Tai O Dolphin Boat Tour Worth It in Hong Kong?",
+        description: "An honest look at the short boat tour through Tai O's stilt-house fishing village, with a chance of spotting pink dolphins.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bdaeddc2c4c0b52bef9dfbf249cb9f1659b004c6e1b925d3ec396a65954c1a9b.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At just 20 minutes and a modest price, this boat tour through Tai O's stilt-house village is an easy, low-commitment add-on to a Lantau Island day, with a genuine (though not guaranteed) chance of spotting the area's rare pink dolphins.",
+            tourCard: { slug: "tai-o-dolphin-boat-tour-free-gift", title: "Tai O Dolphin Boat Tour", description: "A short boat tour through Tai O's stilt-house fishing village with a chance to spot pink dolphins.", price: "From $19", duration: "20 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bdaeddc2c4c0b52bef9dfbf249cb9f1659b004c6e1b925d3ec396a65954c1a9b.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dolphin sightings aren't guaranteed, so treat the ride through the stilt-house village itself as the main attraction.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tai O dolphin boat tour worth it in Hong Kong?", a: "Yes, it's an easy, affordable add-on to a Lantau Island day, with the stilt-house village itself worth seeing even without a dolphin sighting." },
+        ],
+      };
+
+    case "is-sai-kung-snorkeling-worth-it-hong-kong":
+      return {
+        title: "Is Sai Kung Snorkeling Worth It in Hong Kong?",
+        description: "An honest look at the full-day Sai Kung snorkeling and beach trip, a side of Hong Kong far removed from the city's dense urban core.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a1062c2664137827d6d71f3ad8b60721c42e7d1574a3d6e10caba2da5c062d8a.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sai Kung's clear-water bays and beaches feel genuinely far removed from Hong Kong's urban core, and this full-day snorkeling trip is a good way to see that natural side of the territory many first-time visitors never discover.",
+            tourCard: { slug: "hong-kong-sai-kung-full-day-snorkelling-and-beach", title: "Hong Kong Sai Kung Full-Day Snorkelling & Beach Trip", description: "A full-day snorkeling and beach trip to Sai Kung in Hong Kong.", price: "From $130", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a1062c2664137827d6d71f3ad8b60721c42e7d1574a3d6e10caba2da5c062d8a.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your own reef-safe sunscreen and a change of clothes, since you'll be in and out of the water most of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is Sai Kung snorkeling worth it in Hong Kong?", a: "Yes, it shows a genuinely different, natural side of the territory that many first-time visitors never see." },
+        ],
+      };
+
+    case "is-hanfu-costume-experience-worth-it-hong-kong":
+      return {
+        title: "Is the Traditional Chinese Hanfu Costume Experience Worth It in Hong Kong?",
+        description: "An honest look at trying on traditional Chinese Hanfu dress for a guided photo experience in Hong Kong.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/74113eac5a43d3906f7728cef46ae84ac6ee49d119f89b72bdfb4bc9669e08c3.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hanfu is traditional Han Chinese clothing, distinct from the Cantonese-style qipao more commonly associated with Hong Kong, and trying it on for a guided photo session gives a different, more historically rooted costume experience at a modest price and just 1 hour.",
+            tourCard: { slug: "hong-kong-traditional-chinese-costume-hanfu", title: "Hong Kong Traditional Chinese Hanfu Costume Experience", description: "A guided photo experience wearing traditional Chinese Hanfu dress in Hong Kong.", price: "From $61", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/74113eac5a43d3906f7728cef46ae84ac6ee49d119f89b72bdfb4bc9669e08c3.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, affordable add-on activity between bigger sightseeing blocks, since the whole session runs about an hour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hanfu costume experience worth it in Hong Kong?", a: "Yes, it's an affordable, distinctively different costume experience from the more commonly seen Cantonese qipao style." },
+        ],
+      };
+
+    case "is-lion-rock-hike-worth-it-hong-kong":
+      return {
+        title: "Is the Lion Rock Ridge Hike Worth It in Hong Kong?",
+        description: "An honest look at the guided Lion Rock ridge hike, one of Hong Kong's most iconic skyline viewpoints.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb4cb64818b91b6df6e0eafd7e899ff3760eabaa740e5f9f0096c61456eda29d.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lion Rock's summit offers one of the most iconic views of Hong Kong's skyline and harbour, genuinely different from the more touristy Victoria Peak, and a guide is a real help finding the right trail junctions on this ridge hike.",
+            tourCard: { slug: "hong-kong-lion-rock-ridge-views-guided-hike-5", title: "Hong Kong Lion Rock Ridge Views Guided Hike", description: "A guided hike along Lion Rock ridge for iconic Hong Kong skyline views.", price: "From $67", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb4cb64818b91b6df6e0eafd7e899ff3760eabaa740e5f9f0096c61456eda29d.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper hiking shoes and bring water — this is a genuine ridge hike, not a paved walkway like Victoria Peak.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lion Rock hike worth it in Hong Kong?", a: "Yes, it offers one of the city's most iconic skyline views, genuinely different from the more touristy Victoria Peak." },
+        ],
+      };
+
     default:
       return null;
   }
