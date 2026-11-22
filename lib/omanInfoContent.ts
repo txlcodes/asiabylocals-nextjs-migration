@@ -1278,6 +1278,40 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-nizwa-fort-ticket-worth-it-nizwa":
+            return {
+                title: "Is the Nizwa Fort Entrance Ticket Worth It?",
+                description: "An honest look at visiting Nizwa Fort independently, one of Oman's best-preserved historic forts.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/816cfc262b5f6a9163aa777e8da72abc45ff2e158394b9caefca39a90b20cb5e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Nizwa Fort is genuinely one of Oman's best-preserved historic forts, and visiting independently with just an entrance ticket is a perfectly reasonable, low-cost way to see it without committing to a full guided tour.", tourCard: { slug: "nizwa-fort-entrance-ticket", title: "Nizwa Fort Entrance Ticket", description: "An entrance ticket to Nizwa Fort in Oman.", price: "From $28", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/816cfc262b5f6a9163aa777e8da72abc45ff2e158394b9caefca39a90b20cb5e.jpg" } },
+                    { title: "Practical Tips", content: "Pair this with a visit to the adjacent Nizwa Souq, which runs right next to the fort and is a highlight in its own right." }
+                ],
+                faqs: [
+                    { q: "Is the Nizwa Fort entrance ticket worth it?", a: "Yes, it's a low-cost, reasonable way to see one of Oman's best-preserved forts without a full guided tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nizwa Fort entrance ticket worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a low-cost way to see one of Oman's best-preserved forts." } }
+                ] },
+            };
+
+        case "is-sayq-plateau-trek-worth-it-nizwa":
+            return {
+                title: "Is the Guided Sayq Plateau Descent Mountain Tour Worth It from Nizwa?",
+                description: "An honest look at the guided mountain tour descending through the Sayq Plateau in the Jebel Akhdar range.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1403262e7e0af3c8e091c6a9a719f22620a99b9912ef5a648b9784a3f8773b9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Descending through the Sayq Plateau on foot with a guide gives a genuinely different, more physically engaged perspective on Jebel Akhdar's terraced villages and rose gardens than a standard drive-up viewpoint tour.", tourCard: { slug: "guided-mountain-tour-sayq-plateau-descent-through", title: "Guided Mountain Tour: Sayq Plateau Descent", description: "A guided mountain descent tour through the Sayq Plateau near Nizwa.", price: "From $205", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1403262e7e0af3c8e091c6a9a719f22620a99b9912ef5a648b9784a3f8773b9.jpg" } },
+                    { title: "Practical Tips", content: "Come with proper hiking shoes and reasonable fitness — this is a genuine descent trek, not a casual viewpoint stop." }
+                ],
+                faqs: [
+                    { q: "Is the Sayq Plateau descent tour worth it from Nizwa?", a: "Yes, it gives a genuinely more physically engaged perspective on Jebel Akhdar than a standard drive-up viewpoint." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sayq Plateau descent tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely more physically engaged perspective on Jebel Akhdar's terraced villages." } }
+                ] },
+            };
+
         default:
             return null;
     }

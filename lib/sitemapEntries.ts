@@ -863,6 +863,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'nizwa-travel-guide-2026',
     'is-cultural-cart-tour-worth-it-nizwa',
     'is-jabreen-bahla-castle-tour-worth-it-nizwa',
+    'is-nizwa-fort-ticket-worth-it-nizwa', 'is-sayq-plateau-trek-worth-it-nizwa',
   ], 'oman', 'nizwa');
 
   const borjomiInfoPages = mapInfoSlugs([
