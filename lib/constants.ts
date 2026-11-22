@@ -274,6 +274,8 @@ export const KOTA_KINABALU_INFO_SLUGS = [
   'is-walking-food-tour-worth-it-kota-kinabalu', 'is-blue-tear-river-tour-worth-it-kota-kinabalu',
   'is-mari-mari-cultural-village-worth-it-kota-kinabalu', 'is-mamutik-island-hopping-worth-it-kota-kinabalu',
   'is-kinabalu-view-fire-show-tour-worth-it-kota-kinabalu',
+  'is-monsopiad-headhunter-village-worth-it-kota-kinabalu', 'is-mount-kinabalu-climb-worth-it-kota-kinabalu',
+  'is-kampung-gipsi-worth-it-kota-kinabalu', 'is-tanjung-aru-sup-worth-it-kota-kinabalu',
 ];
 
 export const KUCHING_INFO_SLUGS = [

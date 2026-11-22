@@ -4207,6 +4207,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-monsopiad-headhunter-village-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Monsopiad Headhunter Village Worth It in Kota Kinabalu?",
+                description: "An honest look at the Monsopiad Headhunter Village tour, a cultural site tied to the legendary Kadazan warrior Monsopiad, distinct from Mari Mari's multi-tribe format.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11cf4e05d602fec2cbacff0c159816adccd7639e679a3e17f15068f27417f745.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Monsopiad centers on one specific Kadazan warrior's legend and his descendants' skull house, a genuinely different, more focused cultural story than Mari Mari's broader multi-tribe format, making it a good pairing rather than a substitute.", tourCard: { slug: "kota-kinabalu-monsopiad-headhunter-village-with", title: "Kota Kinabalu Monsopiad Headhunter Village Tour", description: "A guided tour of Monsopiad Headhunter Village, tied to the legend of warrior Monsopiad.", price: "From $111", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11cf4e05d602fec2cbacff0c159816adccd7639e679a3e17f15068f27417f745.jpg" } },
+                    { title: "Practical Tips", content: "This pairs well with Mari Mari Cultural Village on the same day, since the two cover genuinely different, complementary stories." }
+                ],
+                faqs: [
+                    { q: "Is Monsopiad Headhunter Village worth it in Kota Kinabalu?", a: "Yes, it tells a genuinely different, more focused cultural story than Mari Mari, making it a good pairing rather than a substitute." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Monsopiad Headhunter Village worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it tells a genuinely different, focused cultural story than Mari Mari's multi-tribe format." } }
+                ] },
+            };
+
+        case "is-mount-kinabalu-climb-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Mount Kinabalu 2-Day Climb Worth It?",
+                description: "An honest look at the 2-day, 1-night climb of Mount Kinabalu, Southeast Asia's tallest peak outside the Himalayas.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11fb0ad643e14e3c6062eb80d8ac806cdce5cd83e58b32ecf22bf1b2d0fee354.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Summiting Mount Kinabalu is a genuine physical accomplishment, Southeast Asia's tallest peak outside the Himalayas, and this is a serious multi-day commitment rather than a casual day hike — the premium price reflects permits, a mandatory guide, and overnight mountain-hut lodging.", tourCard: { slug: "mount-kinabalu-2-day-1-night-climb", title: "Mount Kinabalu 2-Day 1-Night Climb", description: "A 2-day, 1-night guided climb of Mount Kinabalu.", price: "From $1322", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11fb0ad643e14e3c6062eb80d8ac806cdce5cd83e58b32ecf22bf1b2d0fee354.jpg" } },
+                    { title: "Practical Tips", content: "Train beforehand with real cardio and stair-climbing — this is a genuine physical challenge, not a casual hike, and permits are limited so book well in advance." }
+                ],
+                faqs: [
+                    { q: "Is the Mount Kinabalu climb worth it?", a: "Yes, for travelers seeking a genuine physical accomplishment, summiting Southeast Asia's tallest peak outside the Himalayas is worth the serious multi-day commitment and premium price." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mount Kinabalu climb worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine physical accomplishment summiting Southeast Asia's tallest peak outside the Himalayas." } }
+                ] },
+            };
+
+        case "is-kampung-gipsi-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Kampung Gipsi Cultural Village Worth It in Kota Kinabalu?",
+                description: "An honest look at Kampung Gipsi, a compact Sabah cultural village, a shorter and more affordable alternative to Mari Mari or Monsopiad.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4117fe903c2584d0e584b13bcf45df37deab0aedd415086b01012322e8d4ee6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At just 1 hour and a modest price, Kampung Gipsi is a genuinely compact, lower-commitment way to get a taste of Sabah's indigenous cultures, a reasonable option if a full Mari Mari or Monsopiad visit doesn't fit your schedule or budget.", tourCard: { slug: "kampung-gipsi-kota-kinabalu-sabah-cultural-village", title: "Kampung Gipsi Kota Kinabalu Sabah Cultural Village", description: "A visit to Kampung Gipsi, a compact Sabah cultural village near Kota Kinabalu.", price: "From $85", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4117fe903c2584d0e584b13bcf45df37deab0aedd415086b01012322e8d4ee6.jpg" } },
+                    { title: "Practical Tips", content: "Set expectations accordingly — at just 1 hour, this is a much more compact experience than the half-day Mari Mari or Monsopiad visits." }
+                ],
+                faqs: [
+                    { q: "Is Kampung Gipsi worth it in Kota Kinabalu?", a: "Yes, for a quick, lower-commitment taste of Sabah's indigenous cultures, it's a reasonable alternative when a full Mari Mari or Monsopiad visit doesn't fit your schedule." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Kampung Gipsi worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quick, lower-commitment taste of Sabah's indigenous cultures." } }
+                ] },
+            };
+
+        case "is-tanjung-aru-sup-worth-it-kota-kinabalu":
+            return {
+                title: "Is Tanjung Aru Stand-Up Paddleboarding Worth It in Kota Kinabalu?",
+                description: "An honest look at the Tanjung Aru stand-up paddleboarding session, a low-key water activity right near the city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33c8141ac0c5f0f661c1a4c27b863fe4204134b8000d4658f6099a0aeb67db60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tanjung Aru's calm, shallow waters right near the city make it a genuinely easy, low-pressure spot to try stand-up paddleboarding, and at 2.5 hours and a modest price it's a solid lighter activity to balance against Kota Kinabalu's bigger island and mountain excursions.", tourCard: { slug: "kota-kinabalu-tanjung-aru-stand-up-paddleboarding", title: "Kota Kinabalu Tanjung Aru Stand-Up Paddleboarding", description: "A stand-up paddleboarding session at Tanjung Aru Beach in Kota Kinabalu.", price: "From $44", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33c8141ac0c5f0f661c1a4c27b863fe4204134b8000d4658f6099a0aeb67db60.jpg" } },
+                    { title: "Practical Tips", content: "No prior paddleboarding experience is needed — Tanjung Aru's calm, shallow waters are genuinely beginner-friendly." }
+                ],
+                faqs: [
+                    { q: "Is Tanjung Aru stand-up paddleboarding worth it in Kota Kinabalu?", a: "Yes, its calm, shallow waters right near the city make it a genuinely easy, low-pressure activity even for first-timers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Tanjung Aru stand-up paddleboarding worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, its calm, shallow waters make it a genuinely easy activity even for first-timers." } }
+                ] },
+            };
+
         default:
             return null;
     }
