@@ -2119,6 +2119,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kelingking-beach-hike-worth-it-nusa-penida', 'is-manta-ray-snorkeling-worth-it-nusa-penida',
     'is-gate-of-heaven-tour-worth-it-nusa-penida', 'is-lembongan-ceningan-day-trip-worth-it-nusa-penida',
     'is-west-coast-tour-worth-it-nusa-penida',
+    'is-lembongan-ceningan-tuk-tuk-tour-worth-it-nusa-penida', 'is-diving-tour-hotel-transfer-worth-it-nusa-penida',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
     lastModified: new Date(),

@@ -1050,6 +1050,48 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lembongan-ceningan-tuk-tuk-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Lembongan & Ceningan Private Tuk-Tuk Tour Worth It?",
+        description: "An honest look at touring Nusa Lembongan and Nusa Ceningan by private tuk-tuk, a different transport mode from the standard scooter or car day trip.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lembongan-and-ceningan-private-tuk-tuk-tour-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Touring Lembongan and Ceningan by tuk-tuk is a genuinely fun, open-air way to see both islands' narrow lanes and coastal viewpoints, a good alternative for travelers who'd rather not navigate a scooter themselves on unfamiliar roads.",
+            tourCard: { slug: "lembongan-and-ceningan-private-tuk-tuk-tour-nusa-penida", title: "Lembongan & Ceningan Private Tuk-Tuk Tour", description: "A private tuk-tuk tour of Nusa Lembongan and Nusa Ceningan.", price: "From $151", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/lembongan-and-ceningan-private-tuk-tuk-tour-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick specifically for travelers uncomfortable riding a scooter on the islands' narrow, unfamiliar roads.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lembongan and Ceningan tuk-tuk tour worth it?", a: "Yes, it's a fun, open-air alternative for travelers who'd rather not navigate a scooter themselves." },
+        ],
+      };
+
+    case "is-diving-tour-hotel-transfer-worth-it-nusa-penida":
+      return {
+        title: "Is the Nusa Penida Diving Tour with Hotel Transfer Worth It?",
+        description: "An honest look at the Nusa Penida diving tour that includes hotel transfer and lunch, a more convenient all-inclusive format than arranging transport separately.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-diving-tour-with-hotel-transfer-and-lunch/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Having hotel transfer and lunch bundled into the diving trip removes the hassle of arranging your own way to the boat departure point, a genuinely more convenient format for certified divers who just want to show up and dive.",
+            tourCard: { slug: "nusa-penida-diving-tour-with-hotel-transfer-and-lunch", title: "Nusa Penida Diving Tour with Hotel Transfer & Lunch", description: "A diving tour in Nusa Penida with hotel transfer and lunch included.", price: "From $375", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-diving-tour-with-hotel-transfer-and-lunch/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your dive certification requirements with the operator before booking, since this is a genuine open-water dive trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nusa Penida diving tour with hotel transfer worth it?", a: "Yes, bundling transfer and lunch into the trip is a genuinely more convenient format than arranging transport yourself." },
+        ],
+      };
+
     default:
       return null;
   }
