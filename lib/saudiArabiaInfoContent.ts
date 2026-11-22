@@ -1628,6 +1628,74 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-masmak-fort-souq-tour-worth-it-riyadh":
+            return {
+                title: "Is the Masmak Fort, Souq Alzal & Murabba Palace Tour Worth It in Riyadh?",
+                description: "An honest look at the combined tour of Masmak Fort, Souq Alzal, and Murabba Palace in old Riyadh.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f997e8e77a57d49f2f2f9ce4497f7fdc77fa99c1f17f06770785d137aded3af0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Masmak Fort holds genuine significance as the site of the 1902 battle that founded modern Saudi Arabia, and pairing it with Souq Alzal's traditional market and Murabba Palace covers three distinct pieces of old Riyadh history in one reasonably priced day.", tourCard: { slug: "riyadh-masmak-fort-souq-alzal-and-murabba-palace", title: "Riyadh: Masmak Fort, Souq Alzal & Murabba Palace Tour", description: "A combined tour of Masmak Fort, Souq Alzal, and Murabba Palace in Riyadh.", price: "From $194", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f997e8e77a57d49f2f2f9ce4497f7fdc77fa99c1f17f06770785d137aded3af0.jpg" } },
+                    { title: "Practical Tips", content: "A good first-day activity to build historical context before heading out to Diriyah or the Edge of the World." },
+                ],
+                faqs: [
+                    { q: "Is the Masmak Fort and Souq Alzal tour worth it in Riyadh?", a: "Yes, it covers three distinct pieces of old Riyadh history in one reasonably priced day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Masmak Fort tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it covers three distinct pieces of old Riyadh history in one day." } },
+                ] },
+            };
+
+        case "is-farm-adventure-atv-horse-worth-it-riyadh":
+            return {
+                title: "Is the Riyadh Farm Adventure with ATV & Horse Riding Worth It?",
+                description: "An honest look at the Riyadh farm adventure combining ATV riding and horse riding.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d1a8be52a909c3672e65afd7ef21b01d73b037d3305999d196ae9ea59743c75.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining ATV riding and horse riding at a private farm gives genuine variety in a single outing, a good pick for families or groups wanting a mix of adrenaline and a more traditional activity without splitting them into separate bookings.", tourCard: { slug: "riyadh-farm-adventure-with-atv-ride-horse-riding", title: "Riyadh Farm Adventure with ATV Ride & Horse Riding", description: "A farm adventure in Riyadh combining ATV riding and horse riding.", price: "From $1937", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d1a8be52a909c3672e65afd7ef21b01d73b037d3305999d196ae9ea59743c75.jpg" } },
+                    { title: "Practical Tips", content: "This is priced as a genuine premium private experience, so confirm group size and inclusions with the operator before booking." },
+                ],
+                faqs: [
+                    { q: "Is the farm adventure with ATV and horse riding worth it in Riyadh?", a: "Yes, it gives genuine variety in one outing for groups wanting a mix of adrenaline and traditional activities." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the farm adventure worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine variety combining ATV and horse riding in one outing." } },
+                ] },
+            };
+
+        case "is-vip-city-tour-saudi-cuisine-worth-it-riyadh":
+            return {
+                title: "Is the VIP Private City Tour with Saudi Cuisine Worth It in Riyadh?",
+                description: "An honest look at the VIP private city tour of Riyadh paired with a genuine Saudi cuisine experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f34e16c7129cdd1cb097d91865012a7bc315136416e85e0f544833d6c83cab43.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a VIP private city tour with a genuine Saudi cuisine meal gives this day real culinary depth beyond just sightseeing, a good fit for travelers wanting a more premium, personalized introduction to the capital.", tourCard: { slug: "riyadh-vip-private-city-tour-with-saudi-cuisine", title: "Riyadh VIP Private City Tour with Saudi Cuisine", description: "A VIP private city tour of Riyadh with a Saudi cuisine experience.", price: "From $715", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f34e16c7129cdd1cb097d91865012a7bc315136416e85e0f544833d6c83cab43.jpg" } },
+                    { title: "Practical Tips", content: "This is priced as a genuine VIP private experience, so it suits travelers wanting a more personalized, premium introduction to the city." },
+                ],
+                faqs: [
+                    { q: "Is the VIP city tour with Saudi cuisine worth it in Riyadh?", a: "Yes, it adds real culinary depth beyond sightseeing with a more premium, personalized experience." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the VIP city tour with cuisine worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it adds real culinary depth to a premium, personalized city tour." } },
+                ] },
+            };
+
+        case "is-kingdom-tower-faisaliah-tour-worth-it-riyadh":
+            return {
+                title: "Is the Kingdom Tower, Al Faisaliah Tower & Skyline Tour Worth It in Riyadh?",
+                description: "An honest look at the tour combining Kingdom Tower, Al Faisaliah Tower, and Riyadh's modern skyline.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering both of Riyadh's most recognizable modern towers in one tour gives a genuinely different, contemporary angle on the city distinct from the old Riyadh heritage circuit, a good fit for travelers interested in modern architecture.", tourCard: { slug: "riyadh-kingdom-tower-al-faisaliah-tower-and-al", title: "Riyadh Kingdom Tower, Al Faisaliah Tower & Skyline Tour", description: "A tour covering Kingdom Tower, Al Faisaliah Tower, and Riyadh's modern skyline.", price: "From $744", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg" } },
+                    { title: "Practical Tips", content: "Time the Kingdom Tower observation deck visit for sunset if possible, for the best skyline lighting." },
+                ],
+                faqs: [
+                    { q: "Is the Kingdom Tower and Al Faisaliah Tower tour worth it in Riyadh?", a: "Yes, it gives a genuinely different, modern architectural angle on the city distinct from the heritage circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kingdom Tower and Al Faisaliah tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives a modern architectural angle distinct from the heritage circuit." } },
+                ] },
+            };
+
         default:
             return null;
     }

@@ -537,6 +537,8 @@ export const RIYADH_INFO_SLUGS: string[] = [
   'best-riyadh-local-culture-experience-riyadh',
   'is-food-trail-tour-worth-it-riyadh',
   'is-paragliding-buggy-adventure-worth-it-riyadh', 'is-misk-institute-art-tour-worth-it-riyadh',
+  'is-masmak-fort-souq-tour-worth-it-riyadh', 'is-farm-adventure-atv-horse-worth-it-riyadh',
+  'is-vip-city-tour-saudi-cuisine-worth-it-riyadh', 'is-kingdom-tower-faisaliah-tour-worth-it-riyadh',
 ];
 
 // Saudi Arabia batch 2 (2026-11-19): Jeddah and AlUla
