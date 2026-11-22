@@ -4343,6 +4343,40 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-upside-down-house-worth-it-malacca":
+            return {
+                title: "Is the Upside Down House Gallery Worth It in Malacca?",
+                description: "An honest look at the Upside Down House Gallery in Melaka, a novelty attraction with an inverted house interior for photos.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1498782/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuine novelty photo-op attraction, a fully furnished house built upside down, and at a modest ticket price it's a fun, quick stop for families or anyone wanting different photos than Melaka's usual heritage shots.", tourCard: { slug: "melaka-upside-down-house-gallery-entry-ticket", title: "Melaka Upside Down House Gallery Entry Ticket", description: "An entry ticket to the Upside Down House Gallery in Melaka.", price: "From $15", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1498782/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good short add-on for families with kids, since it's a quick, low-commitment novelty stop rather than a deep cultural experience." }
+                ],
+                faqs: [
+                    { q: "Is the Upside Down House Gallery worth it in Malacca?", a: "Yes, as a fun, affordable novelty photo-op, especially for families with kids, distinct from Melaka's usual heritage sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Upside Down House Gallery worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a fun, affordable novelty photo-op distinct from the city's usual heritage sightseeing." } }
+                ] },
+            };
+
+        case "is-unesco-walking-tour-worth-it-malacca":
+            return {
+                title: "Is the Melaka UNESCO City Guided Walking Tour Worth It?",
+                description: "An honest look at the tip-based UNESCO city guided walking tour in Melaka, covering the heritage core on foot.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4674fc4690b675a4efa6152e62605659c5f09718c666ff41340353386a644722.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A tip-based guided walk through Melaka's UNESCO World Heritage core is a genuinely low-risk way to get real historical context, since you only pay what you feel the tour was worth at the end rather than committing upfront.", tourCard: { slug: "melaka-unesco-city-guided-walking-tour-tip-based", title: "Melaka UNESCO City Guided Walking Tour (Tip-Based)", description: "A tip-based guided walking tour through Melaka's UNESCO World Heritage core.", price: "From $8", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4674fc4690b675a4efa6152e62605659c5f09718c666ff41340353386a644722.jpg" } },
+                    { title: "Practical Tips", content: "Bring cash for the tip at the end — the listed price is just a reservation fee, and the guide's actual pay depends on your tip." }
+                ],
+                faqs: [
+                    { q: "Is the UNESCO walking tour worth it in Melaka?", a: "Yes, the tip-based format is a genuinely low-risk way to get real historical context, since you only pay what you feel it was worth." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Melaka UNESCO walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the tip-based format is a low-risk way to get real historical context." } }
+                ] },
+            };
+
         default:
             return null;
     }
