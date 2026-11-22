@@ -38381,6 +38381,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Biglietto dell'autista se gli ospiti chiedono di entrare in attrazioni a pagamento o partecipare ad attività a pagamento"
   ]
  },
+ "japanese-postcard-painting-etegami-workshop-in-kyoto": {
+  "title": "Laboratorio di pittura su cartolina giapponese (Etegami) a Kyoto",
+  "metaTitle": "Laboratorio di Etegami, pittura su cartolina, a Kyoto",
+  "metaDescription": "Un'ora a Kyoto per imparare l'etegami, la pittura tradizionale su cartolina, con un istruttore giapponese e una borsa di tela con il proprio disegno.",
+  "shortDescription": "Un'ora a Kyoto per imparare l'etegami, la pittura tradizionale su cartolina, con un istruttore giapponese e una borsa di tela con il proprio disegno.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e splendido nella luce del mattino; il Kiyomizu-dera, la terrazza in legno sulle colline orientali con le vie di Sannenzaka e Ninenzaka sotto di sé; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesto laboratorio di un'ora insegna l'**etegami**, la pittura tradizionale giapponese su cartolina, con strumenti e tecniche autentiche guidati da un istruttore ekaki professionista. L'opera viene digitalizzata e rielaborata, e si riceve in regalo una borsa di tela di alta qualità con il proprio disegno stampato.",
+  "highlights": [],
+  "included": [
+   "Laboratorio tradizionale di pittura su cartolina giapponese",
+   "Istruttore ekaki giapponese professionista",
+   "Strumenti e tecniche autentiche",
+   "Digitalizzazione e rielaborazione dell'opera",
+   "Borsa di tela di alta qualità con il disegno stampato"
+  ],
+  "notIncluded": []
+ },
+ "small-group-authentic-sushi-making-workshop-in-kyoto": {
+  "title": "Laboratorio autentico di preparazione del sushi in piccolo gruppo a Kyoto",
+  "metaTitle": "Laboratorio di sushi in piccolo gruppo a Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto per imparare a preparare il sushi con un host in lingua inglese, zuppa di miso e un sacchetto regalo inclusi.",
+  "shortDescription": "Un'ora e mezza a Kyoto per imparare a preparare il sushi con un host in lingua inglese, zuppa di miso e un sacchetto regalo inclusi.",
+  "fullDescription": "Il mercato all'ingrosso del pesce di Tokyo si è trasferito da Tsukiji a Toyosu nel 2018, ma il mercato esterno di Tsukiji, i vicoli di negozi e banchi intorno al vecchio sito, è rimasto ed è dove si fanno le passeggiate gastronomiche: tamagoyaki su stecco, tagli di tonno, uni, capesante grigliate e negozi di coltelli, più affollati dalle 8:00 alle 11:00 circa e chiusi la domenica e alcuni mercoledì. L'asta del tonno si svolge a Toyosu, osservata da una terrazza prima delle 6:30 con prenotazione a sorteggio. I corsi di sushi insegnano lo shari, il riso condito con aceto, e la pressione delle mani per il nigiri; la maggior parte dura dalle due alle tre ore e si mangia quello che si prepara.\n\nQuesto laboratorio in piccolo gruppo di un'ora e mezza porta la preparazione del sushi con un host in lingua inglese, da mangiare come pranzo o cena, oltre a una zuppa di miso, un sacchetto regalo con stuoia per il sushi, bacchette e ricetta, e guanti e grembiule usa e getta.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di preparazione del sushi con host in lingua inglese",
+   "Il sushi preparato da voi per il pranzo o la cena",
+   "Zuppa di miso",
+   "Sacchetto regalo (stuoia per il sushi, bacchette e scheda con la ricetta)",
+   "Guanti e grembiule usa e getta"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "japanese-taiko-drum-workshop-in-gion": {
+  "title": "Laboratorio di tamburo taiko giapponese a Gion",
+  "metaTitle": "Laboratorio di tamburo taiko a Gion, Kyoto",
+  "metaDescription": "Cinquanta minuti a Gion tra un laboratorio di tamburo taiko, un concerto di musica tradizionale giapponese e una dimostrazione dal vivo di musicisti locali.",
+  "shortDescription": "Cinquanta minuti a Gion tra un laboratorio di tamburo taiko, un concerto di musica tradizionale giapponese e una dimostrazione dal vivo di musicisti locali.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati.\n\nQuesto laboratorio di cinquanta minuti porta un **laboratorio di tamburo taiko**, un concerto di musica tradizionale giapponese, una dimostrazione dal vivo, un'esperienza pratica e un'esibizione di musicisti locali.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di tamburo taiko",
+   "Concerto di musica tradizionale giapponese",
+   "Dimostrazione dal vivo",
+   "Esperienza pratica",
+   "Esibizione di musicisti locali"
+  ],
+  "notIncluded": []
+ },
+ "fushimi-inari-shrine-and-tofukuji-temple-e-bike-tour": {
+  "title": "Tour in e-bike al Santuario Fushimi Inari e al Tempio Tofukuji",
+  "metaTitle": "Tour in e-bike: Santuario Fushimi Inari e Tempio Tofukuji",
+  "metaDescription": "Quattro ore in e-bike tra il Santuario Fushimi Inari e il Tempio Tofukuji, con guida locale, bicicletta elettrica, casco, assicurazione e snack inclusi.",
+  "shortDescription": "Quattro ore in e-bike tra il Santuario Fushimi Inari e il Tempio Tofukuji, con guida locale, bicicletta elettrica, casco, assicurazione e snack inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande sito di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie più basse diventano una fila lenta. Le statue delle volpi portano in bocca le chiavi del granaio del riso.\n\nQuesto tour in e-bike di quattro ore porta una guida locale dal vivo, bicicletta elettrica a noleggio, casco, assicurazione, snack e una bottiglia d'acqua, con biglietto d'ingresso incluso per due luoghi. Pranzo, mance e pick-up in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale dal vivo",
+   "Noleggio bicicletta elettrica",
+   "Casco",
+   "Assicurazione",
+   "Snack",
+   "Bottiglia d'acqua",
+   "Biglietto d'ingresso per 2 luoghi"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Pranzo",
+   "Mance"
+  ]
+ },
+ "gion-district-nighttime-walk-with-souvenir-and-snack": {
+  "title": "Passeggiata notturna nel quartiere di Gion con souvenir e snack",
+  "metaTitle": "Passeggiata notturna a Gion con souvenir e snack",
+  "metaDescription": "Passeggiata serale tra Gion, il fiume Kamo e il Santuario Yasaka, con guida, snack gratuiti e consigli finali inclusi.",
+  "shortDescription": "Passeggiata serale tra Gion, il fiume Kamo e il Santuario Yasaka, con guida, snack gratuiti e consigli finali inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati; una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo.\n\nQuesta passeggiata notturna porta tra **Gion**, il **fiume Kamo** e il **Santuario Yasaka**, con una guida locale, snack gratuiti e consigli finali su dove andare dopo. Cibo e biglietti dei trasporti pubblici restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Passeggiata guidata",
+   "Snack gratuiti",
+   "Consigli finali"
+  ],
+  "notIncluded": [
+   "Cibo",
+   "Biglietti dei trasporti pubblici"
+  ]
+ },
+ "kyoto-evening-fushimi-inari-gion-and-foodie-en-fr-de-guide-by-local-operator": {
+  "title": "Kyoto di sera: Fushimi Inari, Gion e cibo locale, guida in inglese/francese/tedesco, con operatore locale",
+  "metaTitle": "Kyoto serale: Fushimi Inari, Gion e cibo locale",
+  "metaDescription": "Tre ore a Kyoto tra il Santuario Fushimi Inari e Gion, con trasporto pubblico, una cena completa in un locale tipico e una bevanda incluse.",
+  "shortDescription": "Tre ore a Kyoto tra il Santuario Fushimi Inari e Gion, con trasporto pubblico, una cena completa in un locale tipico e una bevanda incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande sito di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati.\n\nQuesto tour serale di tre ore, con guida in inglese, francese o tedesco, collega il Fushimi Inari a Gion e include tutti i costi del trasporto pubblico, diversi piatti che compongono una cena completa in un bar o ristorante locale, e una bevanda, alcolica o no, nello stesso locale.",
+  "highlights": [],
+  "included": [
+   "Trasporto pubblico: tutti i costi del trasporto pubblico sono inclusi",
+   "Pasti: diversi piatti in un bar o ristorante locale che compongono una cena completa",
+   "Bevande alcoliche: una bevanda (alcolica o non alcolica) in un bar o ristorante locale è incluso"
+  ],
+  "notIncluded": []
+ },
+ "japan-jr-ic-train-card-kyoto": {
+  "title": "Carta IC per treni JR Giappone (Kyoto)",
+  "metaTitle": "Carta IC per treni JR in Giappone, consegna a Kyoto",
+  "metaDescription": "Carta IC prericaricata per treni, bus e trasporti pubblici in Giappone, spedita a casa prima della partenza, disponibilità garantita.",
+  "shortDescription": "Carta IC prericaricata per treni, bus e trasporti pubblici in Giappone, spedita a casa prima della partenza, disponibilità garantita.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento, per cui avere i trasporti pronti all'uso conta.\n\nQuesto servizio fornisce una **carta IC prericaricata**, pronta all'uso appena si arriva per treni, bus e altri trasporti pubblici, spedita al proprio indirizzo prima della partenza per il Giappone, già caricata con credito per evitare la ricarica appena arrivati, con disponibilità confermata che elimina il rischio di trovare le carte esaurite all'arrivo.",
+  "highlights": [],
+  "included": [
+   "Carta IC prericaricata: pronta all'uso appena arrivati per treni, bus e altri trasporti pubblici",
+   "Spedizione al proprio indirizzo: la carta viene spedita a casa prima della partenza per il Giappone",
+   "Credito precaricato: così si evita la ricarica appena arrivati",
+   "Disponibilità garantita, che elimina il rischio di trovare le carte esaurite all'arrivo"
+  ],
+  "notIncluded": []
+ },
+ "kyoto-home-cooking-class-and-supermarket-tour-near-fushimiinari-by-local-operator": {
+  "title": "Corso di cucina casalinga e visita al supermercato vicino al Fushimi Inari, con operatore locale",
+  "metaTitle": "Corso di cucina casalinga vicino al Fushimi Inari, Kyoto",
+  "metaDescription": "Quattro ore a Kyoto vicino al Fushimi Inari con un corso di cucina casalinga, visita al supermercato, pranzo e tutti gli ingredienti inclusi.",
+  "shortDescription": "Quattro ore a Kyoto vicino al Fushimi Inari con un corso di cucina casalinga, visita al supermercato, pranzo e tutti gli ingredienti inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande sito di Kyoto visitabile all'alba o dopo il tramonto.\n\nQuesto corso di cucina casalinga di quattro ore, vicino al Fushimi Inari e con operatore locale, inizia con una visita al supermercato e comprende il pranzo e tutti i condimenti e ingredienti necessari. Mance e pick-up in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pranzo",
+   "Tutti i condimenti e gli ingredienti"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Servizio di pick-up e drop-off in hotel"
+  ]
+ },
+ "kyoto-arashiyama-bamboo-forest-and-golden-pavilion-e-bike-tour-by-local-operator": {
+  "title": "Tour in e-bike al Bosco di Bambù di Arashiyama e al Padiglione d'Oro, con operatore locale",
+  "metaTitle": "Tour in e-bike: Bosco di Bambù di Arashiyama e Padiglione d'Oro",
+  "metaDescription": "Sei ore in e-bike da Kyoto tra il Bosco di Bambù di Arashiyama, il Tempio Tenryu-ji e il Santuario Kitano Tenmangu, guida esperta e attrezzatura di sicurezza incluse.",
+  "shortDescription": "Sei ore in e-bike da Kyoto tra il Bosco di Bambù di Arashiyama, il Tempio Tenryu-ji e il Santuario Kitano Tenmangu, guida esperta e attrezzatura di sicurezza incluse.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola e le discese in barca sulle rapide del fiume Hozu partono tutte da qui. I colori autunnali sono al massimo nella seconda metà di novembre e i fiori di ciliegio nella prima settimana di aprile.\n\nQuesto tour in e-bike di sei ore, con operatore locale, collega il **Bosco di Bambù di Arashiyama**, il **Tempio Tenryu-ji** e il **Santuario Kitano Tenmangu**, con una bottiglia d'acqua minerale, una guida esperta in lingua inglese con conoscenza approfondita della storia di ogni luogo, biciclette comode e di alta qualità adatte a ogni livello, e attrezzatura di sicurezza con caschi e gilet riflettenti.",
+  "highlights": [],
+  "included": [
+   "Una bottiglia d'acqua minerale",
+   "Guida esperta in lingua inglese con conoscenza approfondita della storia e del significato di ogni sito",
+   "Biciclette comode e di alta qualità, adatte a ciclisti di ogni livello",
+   "Attrezzatura di sicurezza: caschi e gilet riflettenti"
+  ],
+  "notIncluded": []
+ },
+ "enjoy-sushi-and-market-tour-best-for-family-and-couple-in-kyoto": {
+  "title": "Sushi e visita al mercato, ideale per famiglie e coppie, a Kyoto",
+  "metaTitle": "Tour di sushi e mercato a Kyoto, per famiglie e coppie",
+  "metaDescription": "Due ore a Kyoto tra una visita al mercato Nishiki e la preparazione del sushi, dal riso condito al taglio del pesce, con introduzione alla cucina giapponese.",
+  "shortDescription": "Due ore a Kyoto tra una visita al mercato Nishiki e la preparazione del sushi, dal riso condito al taglio del pesce, con introduzione alla cucina giapponese.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento.\n\nQuesta esperienza di due ore, pensata per famiglie e coppie, inizia con una visita al **mercato Nishiki** (la pescheria può essere chiusa in certi giorni, nel qual caso si viene avvisati in anticipo), seguita dalla preparazione del riso condito con aceto, dal taglio del pesce a pezzi per il sushi, da un'introduzione alla cultura gastronomica giapponese, dalla preparazione del sushi (nigiri, temari, temaki), da come si fa il dashi e la zuppa di miso, e da consigli turistici di stagione da un esperto di turismo di Kyoto.",
+  "highlights": [],
+  "included": [
+   "Visita al mercato Nishiki (la pescheria può essere chiusa in certi giorni; in tal caso si viene avvisati in anticipo)",
+   "Preparazione del riso condito con aceto",
+   "Taglio del pesce a pezzi per il sushi",
+   "Introduzione alla cultura gastronomica giapponese",
+   "Preparazione del sushi (nigiri, temari, temaki)",
+   "Come si fa il dashi / preparazione della zuppa di miso",
+   "Informazioni turistiche di stagione da un esperto di turismo di Kyoto"
+  ],
+  "notIncluded": []
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
