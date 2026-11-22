@@ -947,6 +947,90 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-water-puppet-show-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Vietnamese Water Puppet Show Worth It in Ho Chi Minh City?",
+        description: "An honest look at the water puppet show in Saigon, a centuries-old Vietnamese folk art performed on a water stage.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/vietnamese-water-puppet-show-ticket/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At under an hour and a modest ticket price, the water puppet show is an easy, low-commitment way to see a genuinely unique Vietnamese folk art, and it fits neatly into an evening around other Saigon sightseeing.",
+            tourCard: { slug: "vietnamese-water-puppet-show-ticket", title: "Vietnamese Water Puppet Show Ticket", description: "Tickets to Saigon's traditional water puppet show.", price: "From $30", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/vietnamese-water-puppet-show-ticket/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead for an evening slot, since seats near the front give the best view of the water stage mechanics.",
+          },
+        ],
+        faqs: [
+          { q: "Is the water puppet show worth it in Ho Chi Minh City?", a: "Yes, for a modest price and under an hour it offers a genuinely unique cultural performance that's easy to fit around other sightseeing." },
+        ],
+      };
+
+    case "is-chocolate-workshop-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Chocolate Making Workshop Worth It in Ho Chi Minh City?",
+        description: "An honest look at the hands-on chocolate making workshop with tasting in Saigon, built around Vietnam's own cacao industry.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chocolate-making-workshop-with-tasting-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Vietnam is a genuine cacao-growing country, not just a chocolate-shop stop, so this hands-on workshop with tasting gives real insight into bean-to-bar chocolate-making in a compact 2-hour session.",
+            tourCard: { slug: "chocolate-making-workshop-with-tasting-in-ho-chi-minh-city", title: "Chocolate Making Workshop with Tasting", description: "A hands-on chocolate making workshop with tasting in Ho Chi Minh City.", price: "From $42", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chocolate-making-workshop-with-tasting-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or midday activity between bigger sightseeing blocks, since it only takes about 2 hours.",
+          },
+        ],
+        faqs: [
+          { q: "Is the chocolate making workshop worth it in Ho Chi Minh City?", a: "Yes, Vietnam's own cacao industry gives this hands-on workshop real substance beyond a typical tourist chocolate-shop stop." },
+        ],
+      };
+
+    case "is-sound-of-vietnam-show-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Sound of Vietnam Show with Dinner Worth It?",
+        description: "An honest look at the Sound of Vietnam evening show with dinner in Ho Chi Minh City, pairing a cultural performance with a set meal.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sound-of-vietnam-show-with-dinner/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a Vietnamese cultural performance with a set dinner makes this a convenient one-stop evening, useful for travelers who want a cultural show without arranging a separate dinner afterward.",
+            tourCard: { slug: "sound-of-vietnam-show-with-dinner", title: "Sound of Vietnam Show with Dinner", description: "An evening cultural performance paired with a set dinner in Ho Chi Minh City.", price: "From $113", duration: "Evening", image: "https://images.asiabylocals.com/asiabylocals/tours/sound-of-vietnam-show-with-dinner/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check what's included in the set dinner menu in advance if you have dietary restrictions, since it's typically a fixed menu.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sound of Vietnam show with dinner worth it?", a: "Yes, it's a convenient one-stop evening for travelers who want a cultural performance without arranging a separate dinner." },
+        ],
+      };
+
+    case "is-long-tan-battlefield-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Long Tan & Nui Dat Battlefield Tour Worth It from Ho Chi Minh City?",
+        description: "An honest look at the Long Tan and Nui Dat battlefield tour, which covers a specific, less-visited chapter of the Vietnam War's history.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/long-tan-and-nui-dat-battlefield-real-story-from-the-vietnam-war-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour digs into the Battle of Long Tan and the former Nui Dat base, a specific and less commonly covered chapter of the Vietnam War compared to the well-trodden Cu Chi Tunnels, making it a good fit for travelers who already know the broader war history and want more depth.",
+            tourCard: { slug: "long-tan-and-nui-dat-battlefield-real-story-from-the-vietnam-war-ho-chi-minh-city", title: "Long Tan & Nui Dat Battlefield Tour", description: "A tour covering the Battle of Long Tan and the former Nui Dat base from the Vietnam War.", price: "From $137", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/long-tan-and-nui-dat-battlefield-real-story-from-the-vietnam-war-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers who already know the broader Vietnam War story and want a deeper, more specific site rather than the more commonly visited Cu Chi Tunnels.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Long Tan battlefield tour worth it?", a: "Yes, for travelers wanting more depth beyond the commonly visited Cu Chi Tunnels, this covers a specific, less-visited chapter of the Vietnam War." },
+        ],
+      };
+
     default:
       return null;
   }

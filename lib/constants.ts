@@ -2324,4 +2324,6 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'is-mekong-delta-day-trip-worth-it-ho-chi-minh-city', 'is-can-gio-monkey-island-worth-it-ho-chi-minh-city',
   'is-cat-tien-national-park-worth-it-ho-chi-minh-city', 'is-black-virgin-mountain-cao-dai-tour-worth-it-ho-chi-minh-city',
   'is-ao-dai-photo-experience-worth-it-ho-chi-minh-city',
+  'is-water-puppet-show-worth-it-ho-chi-minh-city', 'is-chocolate-workshop-worth-it-ho-chi-minh-city',
+  'is-sound-of-vietnam-show-worth-it-ho-chi-minh-city', 'is-long-tan-battlefield-tour-worth-it-ho-chi-minh-city',
 ];
