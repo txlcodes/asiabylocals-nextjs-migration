@@ -1074,6 +1074,90 @@ export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hiroshima-miyajima-day-tour-worth-it-hiroshima":
+      return {
+        title: "Is the Hiroshima & Miyajima 1-Day Tour with Lunch Worth It?",
+        description: "An honest look at the combined Hiroshima and Miyajima day tour with lunch included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hiroshima-and-miyajima-1-day-tour-with-lunch/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Hiroshima's Peace Memorial Park with Miyajima's floating torii gate in one guided day, with lunch included, is a genuinely efficient way to cover both of the area's must-see sites without arranging separate transport and timing yourself.",
+            tourCard: { slug: "hiroshima-and-miyajima-1-day-tour-with-lunch", title: "Hiroshima & Miyajima 1-Day Tour with Lunch", description: "A combined day tour of Hiroshima and Miyajima with lunch included.", price: "From $148", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hiroshima-and-miyajima-1-day-tour-with-lunch/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a genuinely full day covering two separate destinations, so expect significant time on transport between the two.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hiroshima and Miyajima day tour worth it?", a: "Yes, it efficiently covers both must-see sites in one guided day without arranging separate transport yourself." },
+        ],
+      };
+
+    case "is-atomic-bomb-story-tour-worth-it-hiroshima":
+      return {
+        title: "Is the Hiroshima Atomic Bomb Story Half-Day Tour Worth It?",
+        description: "An honest look at the half-day group tour covering the story of the atomic bombing of Hiroshima.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hiroshima-atomic-bomb-story-half-day-group-tour-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guide walking you through the historical narrative of the atomic bombing adds real context to Peace Memorial Park's sites that you might miss reading plaques alone, and at a modest price it's an accessible way to engage with this difficult history.",
+            tourCard: { slug: "hiroshima-atomic-bomb-story-half-day-group-tour-by-local-operator", title: "Hiroshima Atomic Bomb Story Half-Day Group Tour", description: "A half-day group tour covering the history of the atomic bombing of Hiroshima.", price: "From $33", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hiroshima-atomic-bomb-story-half-day-group-tour-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach this with emotional readiness — it covers genuinely heavy historical material, not a casual sightseeing pace.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hiroshima atomic bomb story tour worth it?", a: "Yes, a guide's historical context adds real depth to Peace Memorial Park's sites beyond reading plaques alone." },
+        ],
+      };
+
+    case "is-koto-concert-worth-it-hiroshima":
+      return {
+        title: "Is the Koto Concert Near the Atomic Bomb Dome Worth It?",
+        description: "An honest look at the koto concert near the Atomic Bomb Dome in Hiroshima, a traditional Japanese music performance.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/echoes-of-peace-a-soul-stirring-koto-concert-in-hiroshima-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hearing a traditional koto performance near the Atomic Bomb Dome adds a genuinely moving cultural and emotional dimension to a Peace Park visit, and at just 30 minutes it's an easy, affordable addition to the day.",
+            tourCard: { slug: "echoes-of-peace-a-soul-stirring-koto-concert-in-hiroshima-by-local-operator", title: "Echoes of Peace: Koto Concert in Hiroshima", description: "A traditional koto music concert near the Atomic Bomb Dome in Hiroshima.", price: "From $64", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/echoes-of-peace-a-soul-stirring-koto-concert-in-hiroshima-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good way to pause and reflect after visiting the Peace Memorial Museum, rather than moving straight on to the next sightseeing stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the koto concert near the Atomic Bomb Dome worth it?", a: "Yes, it adds a genuinely moving cultural dimension to a Peace Park visit, for an easy, affordable 30 minutes." },
+        ],
+      };
+
+    case "is-okonomiyaki-hopping-tour-worth-it-hiroshima":
+      return {
+        title: "Is the Okonomiyaki Hopping Tour Worth It in Hiroshima?",
+        description: "An honest look at the okonomiyaki hopping tour comparing two local styles of Hiroshima's signature savory pancake.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/okonomiyaki-hopping-tour-compare-2-local-styles-in-hiroshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Comparing two different local okonomiyaki shops in one guided outing lets you taste real variation in Hiroshima's signature dish, which layers noodles into the pancake unlike the Osaka-style version, a genuine must for any visiting food lover.",
+            tourCard: { slug: "okonomiyaki-hopping-tour-compare-2-local-styles-in-hiroshima", title: "Okonomiyaki Hopping Tour: Compare 2 Local Styles", description: "A guided okonomiyaki hopping tour comparing two local Hiroshima shops.", price: "From $145", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/okonomiyaki-hopping-tour-compare-2-local-styles-in-hiroshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry but not full — you're sampling at two separate shops, and okonomiyaki portions are genuinely filling.",
+          },
+        ],
+        faqs: [
+          { q: "Is the okonomiyaki hopping tour worth it in Hiroshima?", a: "Yes, comparing two shops in one outing lets you taste real variation in the city's signature noodle-layered dish." },
+        ],
+      };
+
     default:
             return null;
     }
