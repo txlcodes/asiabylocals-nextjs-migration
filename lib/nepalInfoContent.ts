@@ -2340,6 +2340,60 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-gupteshwor-cave-worth-it-pokhara":
+            return {
+                title: "Is the Gupteshwor Mahadev Cave Worth It in Pokhara?",
+                seoTitle: "Gupteshwor Cave Pokhara 2026 | Honest Review",
+                description: "An honest look at the Gupteshwor Mahadev Cave, a sacred limestone cave with an underground waterfall, a genuinely different sight from Pokhara's lake-and-mountain circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6426c17b83594.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Gupteshwor Mahadev Cave is a sacred limestone cave with a Hindu shrine and a genuinely striking underground waterfall chamber, a completely different kind of sight from Pokhara's usual lake and mountain-viewpoint circuit, and it's close enough to the city center for a short visit.", tourCard: { slug: "pokhara-gupteshwor-mahadev-cave-on-a-private-3", title: "Pokhara: Gupteshwor Mahadev Cave Private Tour", description: "A private tour of the Gupteshwor Mahadev Cave and underground waterfall.", price: "From $62", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6426c17b83594.jpeg" } },
+                    { title: "Practical Tips", content: "The cave floor is genuinely wet and slippery near the underground waterfall — wear shoes with real grip." }
+                ],
+                faqs: [
+                    { q: "Is Gupteshwor Cave worth visiting in Pokhara?", a: "Yes, for a completely different underground sight with a sacred shrine and waterfall, distinct from the city's usual lake and mountain views." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gupteshwor Cave worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different underground sight with a sacred shrine and waterfall chamber." } }
+                ] },
+            };
+
+        case "is-begnas-rupa-lake-tour-worth-it-pokhara":
+            return {
+                title: "Is the Begnas and Rupa Lake Tour Worth It from Pokhara?",
+                seoTitle: "Begnas Rupa Lake Tour 2026 | Honest Review",
+                description: "An honest look at the Begnas and Rupa Lake tour, two genuinely quieter lakes beyond Pokhara's busier Phewa Lake.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee245744d8771dd88495f968e09e6bb446c6901098f8edea1f04a44cb0e0ba3b.png",
+                sections: [
+                    { title: "The Short Answer", content: "Begnas and Rupa are two of the Pokhara valley's other lakes, genuinely quieter and less developed than the busy boats-and-restaurants scene around Phewa Lake, paired here with temple and monastery stops for a more relaxed, local-feeling day.", tourCard: { slug: "pokhara-begnas-rupa-lake-temple-monastery-and", title: "Pokhara: Begnas & Rupa Lake, Temple and Monastery Tour", description: "A tour of Begnas and Rupa Lake with temple and monastery stops.", price: "From $93", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ee245744d8771dd88495f968e09e6bb446c6901098f8edea1f04a44cb0e0ba3b.png" } },
+                    { title: "Practical Tips", content: "A good pick specifically for travellers who've already done Phewa Lake and want a quieter, less touristed lake day instead." }
+                ],
+                faqs: [
+                    { q: "Are Begnas and Rupa Lake worth visiting instead of Phewa Lake?", a: "Yes, as a complement rather than a replacement — genuinely quieter and less developed than Phewa Lake's busy boats-and-restaurants scene." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Begnas and Rupa Lake tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely quieter lakes than Pokhara's busier Phewa Lake." } }
+                ] },
+            };
+
+        case "is-seti-river-rafting-worth-it-pokhara":
+            return {
+                title: "Is Seti River White Water Rafting Worth It in Pokhara?",
+                seoTitle: "Seti River Rafting 2026 | Honest Review",
+                description: "An honest look at Seti River white water rafting, a shorter, more accessible rafting trip close to Pokhara than the area's multi-day river expeditions.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/529a244bd22ff4018ca2784c7e54d758755cb520f706c0197643fc3edc10c3f8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Seti River runs genuinely close to Pokhara, making this a much shorter and more accessible rafting trip than the multi-day expeditions on Nepal's bigger rivers, a good half-day adrenaline activity without a long drive out of the city.", tourCard: { slug: "pokhara-seti-river-whitewater-rafting-adventure", title: "Pokhara: Seti River Whitewater Rafting Adventure", description: "A white water rafting trip on the Seti River near Pokhara.", price: "From $82", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/529a244bd22ff4018ca2784c7e54d758755cb520f706c0197643fc3edc10c3f8.jpg" } },
+                    { title: "Practical Tips", content: "A good half-day adrenaline activity if you don't have time for one of Nepal's longer multi-day river expeditions." }
+                ],
+                faqs: [
+                    { q: "Is Seti River rafting worth it near Pokhara?", a: "Yes, for a much shorter, more accessible rafting trip than Nepal's multi-day river expeditions, without a long drive out of the city." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Seti River rafting worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a shorter, more accessible rafting trip close to Pokhara than Nepal's longer river expeditions." } }
+                ] },
+            };
+
         case "is-pottery-curd-workshop-worth-it-bhaktapur":
             return {
                 title: "Is the Bhaktapur Pottery and King's Curd Workshop Worth It?",

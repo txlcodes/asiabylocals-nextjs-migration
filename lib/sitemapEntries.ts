@@ -875,6 +875,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-jomsom-scenic-flight-worth-it-pokhara', 'is-abc-helicopter-tour-worth-it-pokhara',
     'is-tal-barahi-temple-worth-it-pokhara', 'is-skydiving-worth-it-pokhara',
     'is-hot-air-balloon-worth-it-pokhara', 'is-ultralight-flight-worth-it-pokhara',
+    'is-gupteshwor-cave-worth-it-pokhara', 'is-begnas-rupa-lake-tour-worth-it-pokhara',
+    'is-seti-river-rafting-worth-it-pokhara',
   ], 'nepal', 'pokhara');
 
   const batumiInfoPages = mapInfoSlugs([
