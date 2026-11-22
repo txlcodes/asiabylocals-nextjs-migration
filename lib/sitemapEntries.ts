@@ -2085,6 +2085,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ba-na-hills-tour-worth-it-da-nang', 'is-marble-mountains-tour-worth-it-da-nang',
     'is-mang-den-highland-tour-worth-it-da-nang', 'is-charming-da-nang-show-worth-it',
     'is-surf-retreat-worth-it-da-nang',
+    'is-hue-day-trip-worth-it-da-nang', 'is-hai-van-pass-train-worth-it-da-nang',
+    'is-pottery-workshop-worth-it-da-nang', 'is-surfing-lesson-worth-it-da-nang',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/da-nang/${slug}`,
     lastModified: new Date(),

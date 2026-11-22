@@ -767,6 +767,90 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hue-day-trip-worth-it-da-nang":
+      return {
+        title: "Is a Hue Day Trip Worth It from Da Nang?",
+        description: "An honest look at the day trip to Hue's Imperial City, royal tombs, and Thien Mu Pagoda from Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hue-imperial-city-royal-tombs-and-thien-mu-pagoda/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hue's Imperial City, royal tombs, and Thien Mu Pagoda pack in a different kind of sightseeing than Da Nang's beaches and mountains, and at 8 hours the day trip is a reasonable way to see Vietnam's former imperial capital without needing to overnight there.",
+            tourCard: { slug: "hue-imperial-city-royal-tombs-and-thien-mu-pagoda", title: "Hue Imperial City, Royal Tombs & Thien Mu Pagoda", description: "A day trip from Da Nang to Hue's Imperial City, royal tombs, and Thien Mu Pagoda.", price: "From $73", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hue-imperial-city-royal-tombs-and-thien-mu-pagoda/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a long day with a lot of driving each way, so this suits travelers who want to see Hue's history without committing an extra overnight stay.",
+          },
+        ],
+        faqs: [
+          { q: "Is a Hue day trip worth it from Da Nang?", a: "Yes, it covers Hue's Imperial City, royal tombs, and Thien Mu Pagoda in a single long day without needing to overnight there." },
+        ],
+      };
+
+    case "is-hai-van-pass-train-worth-it-da-nang":
+      return {
+        title: "Is the Hai Van Pass Scenic Train Worth It from Da Nang?",
+        description: "An honest look at the scenic train ride over the Hai Van Pass between Da Nang and Hue, a relaxed alternative to the motorbike version.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-or-hue-hai-van-pass-scenic-train-ticket-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The train over the Hai Van Pass gives you the same dramatic coastal mountain views as the famous motorbike crossing, but without driving yourself or riding pillion — a relaxed option for travelers who'd rather sit back and watch the coastline go by.",
+            tourCard: { slug: "da-nang-or-hue-hai-van-pass-scenic-train-ticket-by-local-operator", title: "Da Nang/Hue Hai Van Pass Scenic Train Ticket", description: "A scenic train ride over the Hai Van Pass between Da Nang and Hue.", price: "From $31", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-or-hue-hai-van-pass-scenic-train-ticket-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book a window seat on the mountain side for the best views, and check the schedule in advance since departures are limited.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hai Van Pass train worth it from Da Nang?", a: "Yes, it delivers the same dramatic coastal views as the motorbike crossing without any of the driving." },
+        ],
+      };
+
+    case "is-pottery-workshop-worth-it-da-nang":
+      return {
+        title: "Is the Pottery Workshop & Craft Village Tour Worth It in Da Nang?",
+        description: "An honest look at the pottery workshop paired with a craft village visit near Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pottery-workshop-with-craft-village-tour-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a hands-on pottery lesson with a visit to a working craft village gives this a bit more depth than a typical souvenir-shop stop, and at 3 hours and a modest price it's an easy add-on to a beach or city day in Da Nang.",
+            tourCard: { slug: "pottery-workshop-with-craft-village-tour-in-da-nang", title: "Pottery Workshop with Craft Village Tour", description: "A hands-on pottery workshop paired with a craft village visit near Da Nang.", price: "From $31", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/pottery-workshop-with-craft-village-tour-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a little messy, since you'll be working with wet clay for part of the session.",
+          },
+        ],
+        faqs: [
+          { q: "Is the pottery workshop worth it in Da Nang?", a: "Yes, visiting a real working craft village alongside the hands-on lesson gives it more depth than a typical souvenir stop." },
+        ],
+      };
+
+    case "is-surfing-lesson-worth-it-da-nang":
+      return {
+        title: "Is a Private Surfing Lesson Worth It in Da Nang?",
+        description: "An honest look at taking a single private surfing lesson at My Khe Beach in Da Nang, distinct from the multi-day surf retreat.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-surfing-lesson-with-instructor-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A single 1.5-hour private lesson at My Khe Beach is the right call if you just want to try surfing once rather than commit to the multi-day surf retreat — one-on-one coaching means faster progress standing up than a group class.",
+            tourCard: { slug: "private-surfing-lesson-with-instructor-in-da-nang", title: "Private Surfing Lesson with Instructor", description: "A private one-on-one surfing lesson at My Khe Beach in Da Nang.", price: "From $120", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-surfing-lesson-with-instructor-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "My Khe Beach's waves are generally gentle and beginner-friendly, so this works well even with zero prior surfing experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is a private surfing lesson worth it in Da Nang?", a: "Yes, for a first-time try, one-on-one coaching gets you standing up faster than a group lesson, without the commitment of the multi-day retreat." },
+        ],
+      };
+
     default:
       return null;
   }
