@@ -39298,6 +39298,183 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande"
   ]
  },
+ "near-sapporo-jozankei-onsen-walk-with-temple-and-cave-visit-by-local-operator": {
+  "title": "Vicino a Sapporo: passeggiata all'onsen di Jozankei con tempio e grotta, con operatore locale",
+  "metaTitle": "Onsen di Jozankei: tempio e grotta, vicino Sapporo",
+  "metaDescription": "Un'ora e mezza all'onsen di Jozankei vicino a Sapporo con tour guidato, pediluvio termale ed esplorazione di una grotta incluse.",
+  "shortDescription": "Un'ora e mezza all'onsen di Jozankei vicino a Sapporo con tour guidato, pediluvio termale ed esplorazione di una grotta incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesta esperienza di un'ora e mezza, con operatore locale, porta un tour guidato dell'**onsen di Jozankei**, un pediluvio nelle acque termali e l'esplorazione di una grotta. Il trasporto fino al punto di incontro resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato dell'onsen di Jozankei",
+   "Pediluvio nelle acque termali",
+   "Esplorazione di una grotta"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto di incontro"
+  ]
+ },
+ "hokkaido-historical-village-step-into-the-frontier-in-sapporo": {
+  "title": "Villaggio Storico dell'Hokkaido: un passo nella frontiera, a Sapporo",
+  "metaTitle": "Villaggio Storico dell'Hokkaido, Sapporo",
+  "metaDescription": "Due ore al Villaggio Storico dell'Hokkaido vicino a Sapporo con tour guidato e racconti sui giorni della frontiera.",
+  "shortDescription": "Due ore al Villaggio Storico dell'Hokkaido vicino a Sapporo con tour guidato e racconti sui giorni della frontiera.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesta esperienza di due ore porta un tour guidato del **Villaggio Storico dell'Hokkaido** e racconti e approfondimenti sui giorni della frontiera dell'isola. Il trasporto fino al punto di incontro resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Villaggio Storico dell'Hokkaido",
+   "Racconti e approfondimenti sui giorni della frontiera dell'Hokkaido"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto di incontro"
+  ]
+ },
+ "otaru-asarigawa-ski-resort-day-trip-with-gear": {
+  "title": "Gita di un giorno alla stazione sciistica di Asarigawa a Otaru con attrezzatura",
+  "metaTitle": "Stazione sciistica di Asarigawa, Otaru, con attrezzatura",
+  "metaDescription": "Dieci ore da Sapporo alla stazione sciistica di Asarigawaonsen, con bus andata e ritorno, sci, scarponi, bastoncini, casco e skipass inclusi.",
+  "shortDescription": "Dieci ore da Sapporo alla stazione sciistica di Asarigawaonsen, con bus andata e ritorno, sci, scarponi, bastoncini, casco e skipass inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesta gita di dieci ore porta il bus andata e ritorno verso la stazione sciistica di **Asarigawaonsen**, con sci, scarponi, bastoncini, casco, maschera e skipass tutti inclusi. Pranzo, guanti e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Bus andata e ritorno",
+   "Sci",
+   "Scarponi",
+   "Bastoncini",
+   "Casco",
+   "Maschera",
+   "Skipass"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Guanti",
+   "Spese personali"
+  ]
+ },
+ "mt-moiwa-ropeway-tour-day-or-night-4-options-in-sapporo": {
+  "title": "Tour della funivia del Monte Moiwa, di giorno o di notte, 4 opzioni, Sapporo",
+  "metaTitle": "Funivia del Monte Moiwa, Sapporo",
+  "metaDescription": "Un'ora e mezza a Sapporo per la funivia del Monte Moiwa, con guida esperta in inglese e accesso alla terrazza panoramica in cima incluso.",
+  "shortDescription": "Un'ora e mezza a Sapporo per la funivia del Monte Moiwa, con guida esperta in inglese e accesso alla terrazza panoramica in cima incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesta esperienza di un'ora e mezza, con quattro opzioni tra giorno e notte, porta il tour guidato alla funivia del **Monte Moiwa**, con una guida esperta locale in lingua inglese, il viaggio in funivia e funicolare, e l'accesso alla terrazza panoramica in cima. Il trasporto fino al punto di incontro resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato alla funivia del Monte Moiwa",
+   "Guida esperta locale in lingua inglese",
+   "Viaggio in funivia e funicolare",
+   "Accesso alla terrazza panoramica in cima"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto di incontro"
+  ]
+ },
+ "sapporo-bar-hopping-tour-choose-your-district": {
+  "title": "Giro dei bar a Sapporo, scegli il tuo quartiere",
+  "metaTitle": "Giro dei bar a Sapporo, scegli il quartiere",
+  "metaDescription": "Due ore a Sapporo tra due izakaya scelti con cura, con un credito di 1.500 yen a persona per piatti locali e bevande incluso.",
+  "shortDescription": "Due ore a Sapporo tra due izakaya scelti con cura, con un credito di 1.500 yen a persona per piatti locali e bevande incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto giro dei bar di due ore, con il quartiere a scelta, porta due tappe in izakaya scelti con cura, un credito di **1.500 yen** a persona per piatti locali e bevande, l'assistenza della guida locale per ordinare, e approfondimenti culturali e gastronomici. Cibo e bevande oltre il credito di 1.500 yen restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Giro dei bar guidato",
+   "Due tappe in izakaya scelti con cura",
+   "Credito di 1.500 yen a persona per piatti locali e bevande",
+   "Assistenza della guida locale per ordinare",
+   "Approfondimenti culturali e gastronomici"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi oltre il credito di 1.500 yen"
+  ]
+ },
+ "private-custom-tour-with-local-guide-in-sapporo": {
+  "title": "Tour privato personalizzato con guida locale a Sapporo",
+  "metaTitle": "Tour privato personalizzato a Sapporo",
+  "metaDescription": "Quattro ore a Sapporo con un tour privato a piedi e guida locale in lingua inglese, itinerario personalizzabile e pick-up dall'alloggio.",
+  "shortDescription": "Quattro ore a Sapporo con un tour privato a piedi e guida locale in lingua inglese, itinerario personalizzabile e pick-up dall'alloggio.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour privato di quattro ore porta un tour a piedi con una guida locale in lingua inglese, un itinerario personalizzabile, e il pick-up dall'alloggio in città, se richiesto. Pranzo, biglietti d'ingresso e trasporto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato",
+   "Tour a piedi",
+   "Guida locale in lingua inglese",
+   "Itinerario personalizzabile",
+   "Pick-up dall'alloggio in città (se richiesto)"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Qualsiasi biglietto d'ingresso",
+   "Trasporto"
+  ]
+ },
+ "otaru-day-trip-from-sapporo-in-1-day-with-licensed-guide-by-local-operator": {
+  "title": "Gita di un giorno a Otaru da Sapporo con guida autorizzata, con operatore locale",
+  "metaTitle": "Gita a Otaru da Sapporo con guida autorizzata",
+  "metaDescription": "Sette ore da Sapporo a Otaru con guida locale autorizzata in inglese e tour a piedi personalizzabile tra tre o quattro luoghi a scelta.",
+  "shortDescription": "Sette ore da Sapporo a Otaru con guida locale autorizzata in inglese e tour a piedi personalizzabile tra tre o quattro luoghi a scelta.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon.\n\nQuesta esperienza di sette ore porta una guida locale autorizzata in lingua inglese e un tour a piedi personalizzabile tra tre o quattro luoghi a scelta dall'elenco \"cosa aspettarsi\", con l'incontro a piedi con la guida in un'area stabilita di Sapporo. Costi di trasporto, biglietti d'ingresso, pranzo e altre spese personali restano a carico del cliente; non è possibile unire più gruppi di tour, e le tariffe d'ingresso della guida sono coperte solo per i luoghi elencati nell'elenco \"cosa aspettarsi\".",
+  "highlights": [],
+  "included": [
+   "Guida locale autorizzata in lingua inglese",
+   "Tour a piedi personalizzabile tra 3-4 luoghi dall'elenco \"cosa aspettarsi\"",
+   "Incontro a piedi con la guida in un'area stabilita di Sapporo"
+  ],
+  "notIncluded": [
+   "Costi di trasporto, biglietti d'ingresso, pranzo e altre spese personali",
+   "Veicolo privato",
+   "Non è possibile unire più gruppi di tour",
+   "Le tariffe d'ingresso della guida sono coperte solo per i luoghi elencati nell'elenco \"cosa aspettarsi\""
+  ]
+ },
+ "noboribetsu-and-lake-toya-a-day-tour-sapporo": {
+  "title": "Noboribetsu e Lago Toya: tour di un giorno, Sapporo",
+  "metaTitle": "Noboribetsu e Lago Toya, tour da Sapporo",
+  "metaDescription": "Dieci ore da Sapporo tra Jigokudani e l'onsen del Lago Toya, con guida in cinese, inglese o giapponese e pullman inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra Jigokudani e l'onsen del Lago Toya, con guida in cinese, inglese o giapponese e pullman inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera.\n\nQuesto tour di dieci ore porta **Jigokudani** e l'**onsen del Lago Toya**, con una guida in cinese, inglese o giapponese e il pullman inclusi. Il biglietto della funivia del Monte Usu o del parco degli orsi, e il pranzo, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica (cinese, inglese, giapponese)",
+   "Pullman"
+  ],
+  "notIncluded": [
+   "Biglietto per la funivia del Monte Usu o il parco degli orsi",
+   "Pranzo"
+  ]
+ },
+ "jozankei-natsu-touro-8-scenic-spots-day-tour-in-sapporo": {
+  "title": "Jozankei Natsu-touro: tour di un giorno di 8 luoghi panoramici, Sapporo",
+  "metaTitle": "Jozankei Natsu-touro: 8 luoghi panoramici, Sapporo",
+  "metaDescription": "Dieci ore a Sapporo tra otto luoghi panoramici del Jozankei Natsu-touro, con tariffa del bus e guida in cinese, inglese o giapponese incluse.",
+  "shortDescription": "Dieci ore a Sapporo tra otto luoghi panoramici del Jozankei Natsu-touro, con tariffa del bus e guida in cinese, inglese o giapponese incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour di dieci ore porta otto luoghi panoramici di **Jozankei Natsu-touro**, con la tariffa del bus e una guida in cinese, inglese o giapponese incluse. Le spese per i pasti, il biglietto d'ingresso alla Collina del Buddha e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus",
+   "Guida in cinese, inglese o giapponese"
+  ],
+  "notIncluded": [
+   "Spese per i pasti",
+   "Biglietto d'ingresso alla Collina del Buddha",
+   "Altre spese personali"
+  ]
+ },
+ "toya-lake-and-noboribetsu-hell-valley-tour": {
+  "title": "Tour del Lago Toya e della Valle dell'Inferno di Noboribetsu",
+  "metaTitle": "Lago Toya e Valle dell'Inferno, Noboribetsu",
+  "metaDescription": "Dieci ore da Sapporo tra il punto panoramico sul Lago Toya e la Lake Hill Farm, con costi di trasporto e tariffa della guida incluse.",
+  "shortDescription": "Dieci ore da Sapporo tra il punto panoramico sul Lago Toya e la Lake Hill Farm, con costi di trasporto e tariffa della guida incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera.\n\nQuesto tour di dieci ore porta il punto panoramico sul **Lago Toya** e la **Lake Hill Farm**, con i costi di trasporto e la tariffa del servizio guida inclusi. Il biglietto d'ingresso al ranch degli orsi di Showa Shinzan, i pasti e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Costi di trasporto",
+   "Tariffa del servizio guida"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al ranch degli orsi di Showa Shinzan",
+   "Pasti",
+   "Spese personali"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
