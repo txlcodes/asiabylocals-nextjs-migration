@@ -1229,6 +1229,90 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-trunyan-penglipuran-tour-worth-it-canggu":
+      return {
+        title: "Is the Trunyan Cemetery, Hot Springs & Penglipuran Village Tour Worth It from Canggu?",
+        description: "An honest look at the combined day trip to Trunyan's unique open-air cemetery, natural hot springs, and the orderly Penglipuran village.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/trunyan-cemetery-hot-springs-and-penglipuran-village-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Trunyan's unusual open-air burial custom, a relaxing hot springs soak, and Penglipuran's strikingly orderly traditional village gives this tour three genuinely distinct stops in one day, far more varied than a typical single-site Bali excursion.",
+            tourCard: { slug: "trunyan-cemetery-hot-springs-and-penglipuran-village-in-canggu", title: "Trunyan Cemetery, Hot Springs & Penglipuran Village Tour", description: "A day trip combining Trunyan's cemetery, hot springs, and Penglipuran village.", price: "From $193", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/trunyan-cemetery-hot-springs-and-penglipuran-village-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach the Trunyan cemetery with respect — it's an active cultural and spiritual practice, not a staged attraction.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Trunyan, hot springs, and Penglipuran tour worth it from Canggu?", a: "Yes, it packs three genuinely distinct cultural stops into one day, far more varied than a typical single-site excursion." },
+        ],
+      };
+
+    case "is-mixology-class-worth-it-canggu":
+      return {
+        title: "Is the Mixology Class at The Break Worth It in Canggu?",
+        description: "An honest look at the mixology class at The Break, Ashta Cafe and Bar, a hands-on cocktail-making session in Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mixology-class-at-the-break-at-ashta-cafe-and-bar-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning real cocktail-making techniques from a working bartender is a genuinely fun, hands-on evening activity, a good change of pace from Canggu's beach club and surf lesson circuit.",
+            tourCard: { slug: "mixology-class-at-the-break-at-ashta-cafe-and-bar-in-canggu", title: "Mixology Class at The Break, Ashta Cafe and Bar", description: "A hands-on mixology class at The Break in Canggu.", price: "From $45", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mixology-class-at-the-break-at-ashta-cafe-and-bar-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good evening activity to pair with dinner at the same venue, since the class runs at a bar and cafe.",
+          },
+        ],
+        faqs: [
+          { q: "Is the mixology class worth it in Canggu?", a: "Yes, it's a genuinely fun, hands-on evening activity that's a good change of pace from the usual beach club circuit." },
+        ],
+      };
+
+    case "is-sign-language-class-dinner-worth-it-canggu":
+      return {
+        title: "Is the Private Indonesian Sign Language Mini Class & Dinner Worth It in Canggu?",
+        description: "An honest look at the private Indonesian sign language mini class paired with dinner in Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-indonesian-sign-language-mini-class-and-dinner-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a genuine introduction to Indonesian sign language with dinner is a meaningfully different cultural experience from Canggu's usual surf-and-beach-club activities, and at a modest price it's an easy, low-risk way to try something new.",
+            tourCard: { slug: "private-indonesian-sign-language-mini-class-and-dinner-in-canggu", title: "Private Indonesian Sign Language Mini Class & Dinner", description: "A private Indonesian sign language mini class paired with dinner in Canggu.", price: "From $23", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/private-indonesian-sign-language-mini-class-and-dinner-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good low-cost evening activity for travelers wanting something genuinely different from the usual beach and surf routine.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Indonesian sign language class and dinner worth it in Canggu?", a: "Yes, it's a meaningfully different, low-cost cultural experience from the usual surf-and-beach-club routine." },
+        ],
+      };
+
+    case "is-perfume-making-worth-it-canggu":
+      return {
+        title: "Is the Perfume Making Experience Worth It in Bali?",
+        description: "An honest look at the perfume making experience in Bali, a quick hands-on workshop blending a custom scent.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/perfume-making-experience-in-bali/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At just 40 minutes and a low price, blending your own custom perfume is a quick, low-commitment creative activity that leaves you with a genuinely personal souvenir, easy to fit between bigger sightseeing blocks.",
+            tourCard: { slug: "perfume-making-experience-in-bali", title: "Perfume Making Experience in Bali", description: "A hands-on perfume making workshop in Bali.", price: "From $29", duration: "40 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/perfume-making-experience-in-bali/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on activity between bigger sightseeing blocks, since the whole session runs under an hour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the perfume making experience worth it in Bali?", a: "Yes, it's a quick, low-commitment activity that leaves you with a genuinely personal souvenir." },
+        ],
+      };
+
     default:
       return null;
   }

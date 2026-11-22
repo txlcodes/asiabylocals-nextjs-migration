@@ -2296,6 +2296,8 @@ export const CANGGU_INFO_SLUGS = [
   'is-surf-lessons-worth-it-canggu', 'is-pool-club-day-pass-worth-it-canggu',
   'is-silver-jewelry-class-worth-it-canggu', 'is-mount-batukaru-trek-worth-it-canggu',
   'is-jatiluwih-tanah-lot-tour-worth-it-canggu',
+  'is-trunyan-penglipuran-tour-worth-it-canggu', 'is-mixology-class-worth-it-canggu',
+  'is-sign-language-class-dinner-worth-it-canggu', 'is-perfume-making-worth-it-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
