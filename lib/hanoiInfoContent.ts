@@ -997,6 +997,69 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-water-puppet-show-worth-it-hanoi":
+      return {
+        title: "Is the Thang Long Water Puppet Show Worth It in Hanoi?",
+        description: "An honest look at Hanoi's famous Thang Long Water Puppet Show, a centuries-old Vietnamese folk art performed on a water stage.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/thang-long-water-puppet-show-tickets-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At under an hour and a modest price, the Thang Long Water Puppet Show is an easy, low-commitment way to see a genuinely unique Vietnamese folk art performed on a water stage with live traditional music, and it fits neatly around any other Hanoi sightseeing.",
+            tourCard: { slug: "thang-long-water-puppet-show-tickets-in-hanoi", title: "Thang Long Water Puppet Show Tickets", description: "Tickets to Hanoi's famous water puppet show.", price: "From $10", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/thang-long-water-puppet-show-tickets-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead for an evening show, since seats near the front sell out first and give the best view of the water stage mechanics.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Thang Long Water Puppet Show worth it in Hanoi?", a: "Yes, for a low price and under an hour it offers a genuinely unique cultural performance that's easy to fit around other sightseeing." },
+        ],
+      };
+
+    case "is-vespa-city-tour-worth-it-hanoi":
+      return {
+        title: "Is the Hanoi Vintage Vespa City Tour Worth It?",
+        description: "An honest look at touring Hanoi by vintage Vespa, riding pillion behind a local guide through the Old Quarter and beyond.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201554/asiabylocals/tours/hanoi-vintage-vespa-city-tours-hanoi/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding pillion on a vintage Vespa behind a local guide is a fun, efficient way to cover more of Hanoi than walking allows, weaving through Old Quarter traffic and out to spots a typical walking tour wouldn't reach, all without needing to drive yourself.",
+            tourCard: { slug: "hanoi-vintage-vespa-city-tours-hanoi", title: "Hanoi Vintage Vespa City Tour", description: "A guided Vespa tour of Hanoi, riding pillion behind a local guide.", price: "From $68", duration: "6 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201554/asiabylocals/tours/hanoi-vintage-vespa-city-tours-hanoi/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress for the weather and wear closed shoes, since you'll be exposed to the elements for most of the 6 hours riding around the city.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hanoi Vespa city tour worth it?", a: "Yes, it covers far more ground than walking and reaches spots a typical walking tour misses, all while someone else does the driving." },
+        ],
+      };
+
+    case "is-cooking-class-worth-it-hanoi":
+      return {
+        title: "Is a Hanoi Cooking Class with Market Tour Worth It?",
+        description: "An honest look at the Maya Traditional Cooking Class and Market Tour in Hanoi, which pairs a local market visit with hands-on cooking.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201452/asiabylocals/tours/maya-traditional-cooking-class-and-market-tour-in-hanoi/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Starting with a real local market visit before cooking gives this class more context than a kitchen-only lesson, and at 3 hours it's a reasonable way to spend a free morning or afternoon in Hanoi while picking up a few Vietnamese dishes you can actually recreate at home.",
+            tourCard: { slug: "maya-traditional-cooking-class-and-market-tour-in-hanoi", title: "Maya Traditional Cooking Class & Market Tour", description: "A Hanoi market visit paired with a hands-on traditional Vietnamese cooking class.", price: "From $42", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201452/asiabylocals/tours/maya-traditional-cooking-class-and-market-tour-in-hanoi/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry — you'll be eating what you cook, and market-tour classes like this one tend to run generous portions.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hanoi cooking class with market tour worth it?", a: "Yes, the market visit adds real context before cooking, making it more worthwhile than a kitchen-only class." },
+        ],
+      };
+
     default:
       return null;
   }

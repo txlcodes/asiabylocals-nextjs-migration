@@ -1897,6 +1897,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-train-street-food-tour-worth-it-hanoi', 'is-ninh-binh-day-trip-worth-it-hanoi',
     'is-ba-vi-national-park-worth-it-hanoi', 'is-mai-chau-pu-luong-trek-worth-it-hanoi',
     'is-ha-giang-loop-worth-it-hanoi',
+    'is-water-puppet-show-worth-it-hanoi', 'is-vespa-city-tour-worth-it-hanoi', 'is-cooking-class-worth-it-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
