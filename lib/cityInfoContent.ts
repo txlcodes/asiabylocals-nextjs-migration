@@ -10,6 +10,7 @@ import { getMaldivesInfoContent } from './maldivesInfoContent';
 import { getPhilippinesInfoContent } from './philippinesInfoContent';
 import { getBoracayInfoContent } from './boracayInfoContent';
 import { getCameronHighlandsInfoContent } from './cameronHighlandsInfoContent';
+import { getMadabaInfoContent } from './madabaInfoContent';
 import { getTokyoInfoContent } from './tokyoInfoContent';
 import { getKyotoInfoContent } from './kyotoInfoContent';
 import { getOsakaInfoContent } from './osakaInfoContent';
@@ -254,6 +255,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const cameronHighlandsPage = getCameronHighlandsInfoContent(slug);
     if (cameronHighlandsPage) return cameronHighlandsPage;
+
+    const madabaPage = getMadabaInfoContent(slug);
+    if (madabaPage) return madabaPage;
 
     const turkeyPage = getTurkeyInfoContent(slug);
     if (turkeyPage) return turkeyPage;

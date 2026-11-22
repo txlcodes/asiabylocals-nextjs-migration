@@ -1184,6 +1184,12 @@ export const CAMERON_HIGHLANDS_INFO_SLUGS = [
   'is-rafflesia-trek-worth-it-cameron-highlands', 'is-coral-hill-adventure-worth-it-cameron-highlands',
 ];
 
+// Madaba (Jordan) — 33 live tours, launched 2026-11-22.
+export const MADABA_INFO_SLUGS = [
+  'is-madaba-mount-nebo-dead-sea-tour-worth-it', 'is-madaba-mosaic-workshop-worth-it',
+  'is-umm-ar-rasas-tour-worth-it-madaba',
+];
+
 export const CEBU_INFO_SLUGS = [
   'best-time-to-visit-cebu', 'things-to-do-in-cebu', 'cebu-travel-guide-2026',
   'cebu-1-day-itinerary', 'cebu-island-hopping-guide', 'oslob-whale-sharks-guide',
