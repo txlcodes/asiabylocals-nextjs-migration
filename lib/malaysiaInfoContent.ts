@@ -4003,6 +4003,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-petronas-towers-ticket-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Petronas Towers E-Ticket Worth It in Kuala Lumpur?",
+                description: "An honest look at the Petronas Towers observation deck e-ticket, KL's most iconic skyline view.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/624e7e3783dbf.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Going up the Petronas Towers' observation deck is KL's single most iconic skyline view, and booking an e-ticket in advance is genuinely worth it to lock in a specific time slot, since walk-up tickets often sell out for the day.", tourCard: { slug: "kuala-lumpur-petronas-towers-e-tickets", title: "Kuala Lumpur Petronas Towers E-Tickets", description: "E-tickets to the Petronas Towers observation deck in Kuala Lumpur.", price: "From $80", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/624e7e3783dbf.jpeg" } },
+                    { title: "Practical Tips", content: "Book your specific time slot well in advance, since walk-up tickets at the counter frequently sell out, especially around sunset." }
+                ],
+                faqs: [
+                    { q: "Is the Petronas Towers ticket worth it in Kuala Lumpur?", a: "Yes, it's the city's most iconic skyline view, and booking an e-ticket in advance locks in a time slot before walk-up tickets sell out." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Petronas Towers e-ticket worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's KL's most iconic view and booking ahead avoids sold-out walk-up slots." } }
+                ] },
+            };
+
+        case "is-sunway-lagoon-worth-it-kuala-lumpur":
+            return {
+                title: "Is Sunway Lagoon Worth It near Kuala Lumpur?",
+                description: "An honest look at Sunway Lagoon, a large multi-park complex combining water park, theme park, and wildlife attractions.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-483926/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Sunway Lagoon packs a water park, amusement rides, and a wildlife park into one complex, making for a genuinely full day out and a solid family alternative to KL's temple and tower sightseeing circuit.", tourCard: { slug: "sunway-lagoon-full-day-admission-tickets", title: "Sunway Lagoon Full-Day Admission Tickets", description: "Full-day admission tickets to Sunway Lagoon's water park, theme park, and wildlife attractions.", price: "From $128", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-483926/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring swimwear and a change of clothes — the water park is a major part of the complex, not an optional add-on." }
+                ],
+                faqs: [
+                    { q: "Is Sunway Lagoon worth it near Kuala Lumpur?", a: "Yes, combining a water park, theme park, and wildlife park into one complex makes for a genuinely full family day out." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Sunway Lagoon worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely full family day combining water park, theme park, and wildlife attractions." } }
+                ] },
+            };
+
+        case "is-night-heritage-food-walk-worth-it-kuala-lumpur":
+            return {
+                title: "Is the KL Night Heritage Street Food Walking Tour Worth It?",
+                description: "An honest look at the Kuala Lumpur night heritage street food walking tour, covering the city's old quarters after dark.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8c66c82df2c0efc345a66b76654db801caa0591254a3722a810bfca431b4795.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "KL's old heritage quarters take on a genuinely different character at night, and pairing that with a guided street food walk is an easy, affordable way to sample several stalls without navigating the city's dense night markets solo.", tourCard: { slug: "kuala-lumpur-night-heritage-street-food-walking", title: "Kuala Lumpur Night Heritage Street Food Walking Tour", description: "A guided night walking tour through KL's heritage quarters with street food tastings.", price: "From $100", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8c66c82df2c0efc345a66b76654db801caa0591254a3722a810bfca431b4795.jpeg" } },
+                    { title: "Practical Tips", content: "Come hungry but not full — the format is several small tastings across stops, not one large sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is the KL night heritage street food walk worth it?", a: "Yes, it's an easy, affordable way to sample several stalls in the city's heritage quarters without navigating them solo after dark." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the KL night heritage street food walk worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an easy, affordable way to sample several food stalls in the heritage quarters after dark." } }
+                ] },
+            };
+
+        case "is-cooking-class-with-market-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the KL Private Cooking Class with Market Tour Worth It?",
+                description: "An honest look at the Kuala Lumpur private cooking class with a local market tour, pairing ingredient shopping with hands-on cooking.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b28f900ffd074b7c0d7f04d1f213910a28b968be42023b264515447f11f5e7ae.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Starting with a real local market visit before cooking gives this class more context than a kitchen-only lesson, and at 4 hours it's a solid way to spend a free morning or afternoon in KL while picking up Malaysian dishes you can recreate at home.", tourCard: { slug: "kuala-lumpur-private-cooking-class-with-market", title: "Kuala Lumpur Private Cooking Class with Market Tour", description: "A private Malaysian cooking class with a local market tour in Kuala Lumpur.", price: "From $215", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b28f900ffd074b7c0d7f04d1f213910a28b968be42023b264515447f11f5e7ae.jpeg" } },
+                    { title: "Practical Tips", content: "Mention any dietary restrictions ahead of time, since the market visit determines what ingredients get cooked that day." }
+                ],
+                faqs: [
+                    { q: "Is the KL cooking class with market tour worth it?", a: "Yes, the market visit gives real context before cooking, making it more worthwhile than a kitchen-only class." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the KL cooking class with market tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the market visit before cooking gives more context than a kitchen-only class." } }
+                ] },
+            };
+
         default:
             return null;
     }
