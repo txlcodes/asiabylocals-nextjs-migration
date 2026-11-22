@@ -1225,6 +1225,90 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-port-city-go-karting-worth-it-colombo":
+      return {
+        title: "Is the Colombo Port City Go-Karting Experience Worth It?",
+        description: "An honest look at the go-karting experience at Colombo's Port City development.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-839467/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Racing go-karts at the modern Port City development is a genuine change of pace from Colombo's temple and market sightseeing, and at just 1 hour it's an easy, fun add-on for travelers wanting a quick adrenaline activity.",
+            tourCard: { slug: "colombo-port-city-go-karting-experience-with", title: "Colombo Port City Go-Karting Experience", description: "A go-karting experience at Colombo's Port City development.", price: "From $185", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-839467/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, fun activity to pair with an evening at Port City's other modern attractions.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Port City go-karting experience worth it in Colombo?", a: "Yes, it's a genuine change of pace from temple and market sightseeing, a fun quick adrenaline fix." },
+        ],
+      };
+
+    case "is-birdwatching-tour-worth-it-colombo":
+      return {
+        title: "Is the Colombo Guided Birdwatching Tour Worth It?",
+        description: "An honest look at the 6-hour guided birdwatching tour in Colombo, covering Sri Lanka's diverse bird species.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-863692/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka hosts genuinely diverse birdlife, and a knowledgeable guide makes a real difference spotting and identifying species compared to going out unguided, making this a solid activity for genuine wildlife enthusiasts.",
+            tourCard: { slug: "colombo-guided-6-hour-birdwatching-tour", title: "Colombo Guided 6-Hour Birdwatching Tour", description: "A 6-hour guided birdwatching tour in Colombo.", price: "From $120", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-863692/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go early morning, when bird activity is genuinely highest, and bring your own binoculars if you have them.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo birdwatching tour worth it?", a: "Yes, for genuine wildlife enthusiasts, a knowledgeable guide makes a real difference spotting Sri Lanka's diverse birdlife." },
+        ],
+      };
+
+    case "is-tea-rubber-estate-tour-worth-it-colombo":
+      return {
+        title: "Is the Colombo Tea Plantation & Rubber Estate Tour Worth It?",
+        description: "An honest look at the tea plantation and rubber estate day tour from Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-930226/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a tea plantation visit with a rubber estate stop gives genuine insight into two of Sri Lanka's major agricultural exports in one day, closer to Colombo than the more famous hill-country tea estates around Nuwara Eliya.",
+            tourCard: { slug: "colombo-tea-plantation-and-rubber-estate-tour", title: "Colombo Tea Plantation & Rubber Estate Tour", description: "A day tour of a tea plantation and rubber estate near Colombo.", price: "From $136", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-930226/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick if you won't be heading up to the hill country, since it brings the plantation experience closer to Colombo.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tea plantation and rubber estate tour worth it from Colombo?", a: "Yes, it gives genuine insight into two major Sri Lankan exports without needing to travel up to the hill country." },
+        ],
+      };
+
+    case "is-tuk-tuk-food-tour-worth-it-colombo":
+      return {
+        title: "Is the Colombo Food Tasting Tour by Tuk-Tuk Worth It?",
+        description: "An honest look at the Colombo food tasting city tour by tuk-tuk, distinct from the standard tuk-tuk sightseeing circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-907796/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining the fun of tuk-tuk transport with a dedicated food-tasting focus, rather than just sightseeing stops, gives genuine insight into Colombo's street food scene that a standard city tour wouldn't prioritize.",
+            tourCard: { slug: "colombo-food-tasting-city-tour-by-tuk-tuk-food", title: "Colombo Food Tasting City Tour by Tuk-Tuk", description: "A food-tasting focused city tour of Colombo by tuk-tuk.", price: "From $60", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-907796/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — the format is several small tastings across stops, not one large sit-down meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo tuk-tuk food tasting tour worth it?", a: "Yes, its dedicated food focus gives genuine insight into the street food scene that a standard sightseeing tuk-tuk tour wouldn't prioritize." },
+        ],
+      };
+
     default:
       return null;
   }

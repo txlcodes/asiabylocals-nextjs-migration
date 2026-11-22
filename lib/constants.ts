@@ -1661,6 +1661,8 @@ export const COLOMBO_INFO_SLUGS = [
   'is-yala-safari-worth-it-colombo', 'is-pinnawala-kandy-tour-worth-it-colombo',
   'is-adams-peak-hike-worth-it-colombo', 'is-jaffna-tour-worth-it-colombo',
   'is-anuradhapura-day-trip-worth-it-colombo',
+  'is-port-city-go-karting-worth-it-colombo', 'is-birdwatching-tour-worth-it-colombo',
+  'is-tea-rubber-estate-tour-worth-it-colombo', 'is-tuk-tuk-food-tour-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
