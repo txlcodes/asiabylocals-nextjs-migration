@@ -2466,6 +2466,78 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-swayambhunath-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Swayambhunath Monkey Temple Tour Worth It?",
+                seoTitle: "Swayambhunath Kathmandu 2026 | Honest Review",
+                description: "An honest look at the Swayambhunath 'Monkey Temple' full-day tour, one of the oldest and most significant Buddhist sites in the Kathmandu Valley.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1781425744/tours/kathmandu/tours/kathmandu_1781425743800_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Swayambhunath is one of the oldest and most significant Buddhist sites in the Kathmandu Valley, its hilltop stupa watched over by the Buddha's painted eyes and genuinely overrun with the free-roaming monkeys that give it its popular nickname, with sweeping views over the city from the summit.", tourCard: { slug: "swayambhunath-monkey-temple-full-day-tour", title: "Swayambhunath Monkey Temple Full-Day Tour", description: "A full-day guided tour of the Swayambhunath stupa complex.", price: "From $80", duration: "6 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1781425744/tours/kathmandu/tours/kathmandu_1781425743800_0.jpg" } },
+                    { title: "Practical Tips", content: "Keep food and loose items secured — the resident monkeys are genuinely bold and will grab anything accessible." }
+                ],
+                faqs: [
+                    { q: "Is Swayambhunath worth visiting in Kathmandu?", a: "Yes, it's one of the valley's oldest and most significant Buddhist sites, with sweeping city views and the free-roaming monkeys that give it its nickname." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Swayambhunath worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's one of the Kathmandu Valley's oldest and most significant Buddhist sites." } }
+                ] },
+            };
+
+        case "is-namobuddha-monastery-hike-worth-it-kathmandu":
+            return {
+                title: "Is the Namobuddha Monastery Hike Worth It from Kathmandu?",
+                seoTitle: "Namobuddha Monastery Hike 2026 | Honest Review",
+                description: "An honest look at the Namobuddha Monastery day hike, a significant Buddhist pilgrimage site genuinely quieter than the valley's main stupas.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b141c748905f0277f8a1a0a2631d563100c055cc579630bc508d15dc878c434.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Namobuddha is a significant Buddhist pilgrimage site tied to a self-sacrifice legend involving a prince and a starving tigress, genuinely quieter and more rural than Boudhanath or Swayambhunath, reached by a pleasant countryside hike through terraced hills.", tourCard: { slug: "kathmandu-namobuddha-monastery-day-hike", title: "Kathmandu: Namobuddha Monastery Day Hike", description: "A day hike to the Namobuddha Monastery pilgrimage site.", price: "From $146", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0b141c748905f0277f8a1a0a2631d563100c055cc579630bc508d15dc878c434.jpg" } },
+                    { title: "Practical Tips", content: "A good pick for travellers who've already covered Kathmandu's busier main stupas and want a quieter, more rural Buddhist site instead." }
+                ],
+                faqs: [
+                    { q: "Is Namobuddha worth visiting?", a: "Yes, for a significant Buddhist pilgrimage site that's genuinely quieter and more rural than the valley's main stupas." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Namobuddha Monastery hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter, more rural Buddhist pilgrimage site than the valley's main stupas." } }
+                ] },
+            };
+
+        case "is-shivapuri-national-park-hike-worth-it-kathmandu":
+            return {
+                title: "Is the Shivapuri National Park Hike Worth It from Kathmandu?",
+                seoTitle: "Shivapuri National Park 2026 | Honest Review",
+                description: "An honest look at the Shivapuri National Park day hike, a forested nature escape close to the city with genuine wildlife-spotting potential.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f786b47a13fb47e9e59b7801f2c66f73b169c849bf27c02e302ce65063e936db.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shivapuri National Park is a genuinely forested nature escape close enough to Kathmandu for a single day, with real wildlife-spotting potential and hiking trails distinct from the valley's temple-and-stupa circuit, a good change of pace without a long drive.", tourCard: { slug: "kathmandu-shivapuri-national-park-day-hike", title: "Kathmandu: Shivapuri National Park Day Hike", description: "A day hike through Shivapuri National Park.", price: "From $189", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f786b47a13fb47e9e59b7801f2c66f73b169c849bf27c02e302ce65063e936db.jpg" } },
+                    { title: "Practical Tips", content: "A good lower-commitment nature day if the multi-day treks don't fit your schedule — genuine forest hiking without leaving the valley." }
+                ],
+                faqs: [
+                    { q: "Is Shivapuri National Park worth visiting?", a: "Yes, for a genuine forested nature escape with real wildlife-spotting potential, close enough to Kathmandu for a single day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Shivapuri National Park hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine forested nature escape close to Kathmandu without a long drive." } }
+                ] },
+            };
+
+        case "is-nagarkot-dhulikhel-namobuddha-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Nagarkot, Dhulikhel and Namobuddha Trek Worth It?",
+                seoTitle: "Nagarkot Dhulikhel Namobuddha Trek 2026 | Honest Review",
+                description: "An honest look at the 3-day Nagarkot, Dhulikhel, Namobuddha, and Balthali valley rim trek, a gentler multi-day trek closer to Kathmandu than Sapa-style mountain routes.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36375c395ea92a307da3e9f219d0397b94a90407f1c7c77645d1251b32a01f22.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This 3-day route links the valley's rim hill stations and villages, Nagarkot, Dhulikhel, Namobuddha, and Balthali, giving a genuinely gentler multi-day trekking experience than the high-altitude Everest or Annapurna routes, suited to travellers wanting real trekking without the altitude demands.", tourCard: { slug: "3-days-nagarkotdhulikhel-namobuddha-balthali", title: "3-Days Nagarkot, Dhulikhel, Namobuddha, Balthali", description: "A 3-day trek through the Kathmandu Valley rim villages.", price: "From $854", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36375c395ea92a307da3e9f219d0397b94a90407f1c7c77645d1251b32a01f22.jpg" } },
+                    { title: "Practical Tips", content: "A good pick for travellers wanting a genuine multi-day trekking experience without the altitude and fitness demands of Everest or Annapurna." }
+                ],
+                faqs: [
+                    { q: "Is the Nagarkot, Dhulikhel and Namobuddha trek worth it?", a: "Yes, for a genuinely gentler multi-day trek through the valley's rim villages, without the altitude demands of the high mountain routes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nagarkot, Dhulikhel and Namobuddha trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a gentler multi-day trek through the valley's rim villages without high-altitude demands." } }
+                ] },
+            };
+
         default:
             return null;
     }

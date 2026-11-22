@@ -420,6 +420,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-rafting-safari-trek-worth-it-kathmandu',
     'is-patan-durbar-square-tour-worth-it-kathmandu', 'is-pashupatinath-boudhanath-tour-worth-it-kathmandu',
     'is-gokyo-lakes-trek-worth-it-kathmandu', 'is-island-peak-climbing-worth-it-kathmandu',
+    'is-swayambhunath-tour-worth-it-kathmandu', 'is-namobuddha-monastery-hike-worth-it-kathmandu',
+    'is-shivapuri-national-park-hike-worth-it-kathmandu', 'is-nagarkot-dhulikhel-namobuddha-trek-worth-it-kathmandu',
   ].map(slug => ({
     url: `${BASE_URL}/nepal/kathmandu/${slug}`,
     lastModified: new Date(),
