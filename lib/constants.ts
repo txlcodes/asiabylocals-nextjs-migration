@@ -494,6 +494,8 @@ export const SINGAPORE_INFO_SLUGS: string[] = [
   'is-hop-on-hop-off-bus-worth-it-singapore', 'is-katong-joo-chiat-tour-worth-it-singapore',
   'is-art-jamming-worth-it-singapore',
   'is-batam-day-trip-worth-it-singapore',
+  'is-pulau-ubin-cycling-tour-worth-it-singapore', 'is-firewalking-worth-it-singapore',
+  'is-punggol-kayak-tour-worth-it-singapore', 'is-peranakan-culture-tour-worth-it-singapore',
 ];
 
 // Laos launched 2026-11-19 with 304 live tours and zero authority pages.

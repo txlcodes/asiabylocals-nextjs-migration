@@ -597,6 +597,74 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-pulau-ubin-cycling-tour-worth-it-singapore":
+            return {
+                title: "Is the Pulau Ubin Guided Cycling & Village Heritage Tour Worth It?",
+                description: "An honest look at the guided cycling tour of Pulau Ubin, one of Singapore's last rustic kampong-style islands.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33be0fd1517a1d2e21405d871b5a059751cb4f50fbf7d580281e14cdd908da34.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pulau Ubin is genuinely one of Singapore's last rustic, undeveloped islands, giving a cycling tour here a striking contrast to the hyper-modern city skyline, a good pick for travelers wanting to see Singapore's fast-disappearing kampong heritage.", tourCard: { slug: "pulau-ubin-guided-cycling-village-heritage-tour", title: "Pulau Ubin Guided Cycling & Village Heritage Tour", description: "A guided cycling tour of Pulau Ubin's rustic village heritage.", price: "From $254", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33be0fd1517a1d2e21405d871b5a059751cb4f50fbf7d580281e14cdd908da34.jpeg" } },
+                    { title: "Practical Tips", content: "A short ferry ride gets you to the island, so build that into your schedule along with the cycling time." }
+                ],
+                faqs: [
+                    { q: "Is the Pulau Ubin cycling tour worth it?", a: "Yes, it's a striking contrast to the city skyline, showing Singapore's fast-disappearing rustic kampong heritage." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Pulau Ubin cycling tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it shows Singapore's fast-disappearing rustic kampong heritage." } }
+                ] },
+            };
+
+        case "is-firewalking-worth-it-singapore":
+            return {
+                title: "Is the Firewalking Experience in Singapore Worth It?",
+                description: "An honest look at the firewalking experience in Singapore, including insights from a practitioner on the tradition's origins.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a060cc02f8ab002c86945a24e922f9679ff07fab252e55f478a6fcf3e53c02f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At a genuinely low price and just 45 minutes, trying firewalking with real insight from a practitioner into the tradition's cultural and spiritual origins is a quick, memorable way to try something you'll never find back home.", tourCard: { slug: "firewalking-in-singapore-insights-from-a", title: "Firewalking in Singapore: Insights from a Practitioner", description: "A firewalking experience in Singapore with cultural insights from a practitioner.", price: "From $21", duration: "45 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a060cc02f8ab002c86945a24e922f9679ff07fab252e55f478a6fcf3e53c02f.jpg" } },
+                    { title: "Practical Tips", content: "Follow the practitioner's safety instructions closely — this is a genuine, controlled tradition, not a casual stunt." }
+                ],
+                faqs: [
+                    { q: "Is the firewalking experience worth it in Singapore?", a: "Yes, at a low price it's a quick, memorable way to try a genuine tradition with real cultural insight." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is firewalking worth it in Singapore?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a quick, memorable, low-cost way to try a genuine cultural tradition." } }
+                ] },
+            };
+
+        case "is-punggol-kayak-tour-worth-it-singapore":
+            return {
+                title: "Is the Punggol Waterway Kayak Tour Worth It in Singapore?",
+                description: "An honest look at the guided Punggol Waterway kayak tour in Singapore.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07a561bbdd3e405d9608c2a8aab00ae75d88010c86c053261b92c7109d339174.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kayaking through Punggol's waterway gives a genuinely active, water-level perspective on a part of Singapore most tourists never see, a good affordable activity to break up the usual museum and shopping circuit.", tourCard: { slug: "singapore-punggol-waterway-kayak-tour-with-guide", title: "Singapore Punggol Waterway Kayak Tour", description: "A guided kayak tour of Punggol Waterway in Singapore.", price: "From $61", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07a561bbdd3e405d9608c2a8aab00ae75d88010c86c053261b92c7109d339174.jpg" } },
+                    { title: "Practical Tips", content: "No prior kayaking experience is needed — the guide keeps the pace accessible for beginners." }
+                ],
+                faqs: [
+                    { q: "Is the Punggol Waterway kayak tour worth it in Singapore?", a: "Yes, it's an affordable, active way to see a part of Singapore most tourists never visit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Punggol kayak tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an affordable, active way to see a part of Singapore most tourists miss." } }
+                ] },
+            };
+
+        case "is-peranakan-culture-tour-worth-it-singapore":
+            return {
+                title: "Is the Peranakan Culture & Cuisine Tour Worth It in Singapore?",
+                description: "An honest look at the Peranakan culture and cuisine tour, exploring Singapore's distinctive hybrid heritage.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0dd64a463d7a8e18127f0275dc8ca56d6e5bd274e6cf4264e942d643249d9a23.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Peranakan culture, a genuine hybrid of Chinese and Malay heritage unique to this region, is distinct from both the Chinatown and Little India circuits, giving this tour real cultural depth that many visitors otherwise miss entirely.", tourCard: { slug: "singapore-peranakan-culture-cuisine-hidden", title: "Singapore Peranakan Culture & Cuisine Tour", description: "A tour exploring Peranakan culture and cuisine in Singapore.", price: "From $147", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0dd64a463d7a8e18127f0275dc8ca56d6e5bd274e6cf4264e942d643249d9a23.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — the cuisine component typically includes several genuine Peranakan dish tastings." }
+                ],
+                faqs: [
+                    { q: "Is the Peranakan culture and cuisine tour worth it in Singapore?", a: "Yes, it gives real cultural depth into a distinctive hybrid heritage that many visitors otherwise miss entirely." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Peranakan culture tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives real depth into a distinctive hybrid heritage many visitors miss." } }
+                ] },
+            };
+
         default:
             return null;
     }

@@ -616,6 +616,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-hop-on-hop-off-bus-worth-it-singapore', 'is-katong-joo-chiat-tour-worth-it-singapore',
     'is-art-jamming-worth-it-singapore',
     'is-batam-day-trip-worth-it-singapore',
+    'is-pulau-ubin-cycling-tour-worth-it-singapore', 'is-firewalking-worth-it-singapore',
+    'is-punggol-kayak-tour-worth-it-singapore', 'is-peranakan-culture-tour-worth-it-singapore',
   ], 'singapore', 'singapore');
   const luangPrabangInfoPages = mapInfoSlugs([
     'best-kuang-si-waterfall-tour-luang-prabang', 'best-alms-giving-ceremony-tour-luang-prabang',
