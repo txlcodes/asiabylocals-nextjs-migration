@@ -1365,6 +1365,74 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-raku-pottery-workshop-worth-it-amman":
+            return {
+                title: "Is the Raku Pottery Workshop Worth It in Amman?",
+                description: "An honest look at Amman's Raku pottery workshop with snacks and drinks, a distinct firing-style pottery craft.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/922be916ef2d8bcda1fb8e8130a2bf3094cf5fd60d9035d3d6bd24bec6987e52.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Raku is a genuinely distinct pottery firing technique producing unpredictable, crackled glaze effects, different from the standard ceramics or Kintsugi repair workshops already found in Amman, a good pick for travelers who enjoy hands-on craft activities.", tourCard: { slug: "amman-raku-pottery-workshop-with-snacks-and-drinks", title: "Amman Raku Pottery Workshop with Snacks and Drinks", description: "A hands-on Raku pottery workshop with snacks and drinks in Amman.", price: "From $96", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/922be916ef2d8bcda1fb8e8130a2bf3094cf5fd60d9035d3d6bd24bec6987e52.jpg" } },
+                    { title: "Practical Tips", content: "No prior pottery experience is needed — the Raku firing technique's unpredictable results are part of its appeal." }
+                ],
+                faqs: [
+                    { q: "Is the Raku pottery workshop worth it in Amman?", a: "Yes, it's a genuinely distinct firing technique with unpredictable results, different from standard ceramics workshops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Raku pottery workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely distinct firing technique with unpredictable, crackled glaze results." } },
+                ] },
+            };
+
+        case "is-stained-glass-workshop-worth-it-amman":
+            return {
+                title: "Is the Stained Glass Workshop Worth It in Amman?",
+                description: "An honest look at Amman's stained glass workshop with snacks and drinks, a hands-on craft activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6e63601d9a03b32bb16550bf717a0bb53eb9ae9feb070423cdf2e747ef3ca76.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Working with real glass to make a stained glass piece gives a genuinely different creative medium from the city's pottery and embroidery workshops, and you leave with a real handmade piece to display.", tourCard: { slug: "amman-stained-glass-workshop-with-snacks-and", title: "Amman Stained Glass Workshop with Snacks and Drinks", description: "A hands-on stained glass workshop with snacks and drinks in Amman.", price: "From $138", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6e63601d9a03b32bb16550bf717a0bb53eb9ae9feb070423cdf2e747ef3ca76.jpg" } },
+                    { title: "Practical Tips", content: "No prior glasswork experience is needed, and proper safety equipment is provided for handling the glass." }
+                ],
+                faqs: [
+                    { q: "Is the stained glass workshop worth it in Amman?", a: "Yes, working with real glass is a genuinely different creative medium from the city's other pottery and craft workshops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the stained glass workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely different creative medium from the city's other craft workshops." } },
+                ] },
+            };
+
+        case "is-dead-sea-soap-wellness-class-worth-it-amman":
+            return {
+                title: "Is the Dead Sea Soap Wellness Class Worth It from Amman?",
+                description: "An honest look at the Dead Sea soap wellness class paired with Lot's Cave and lunch, from Amman.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/458b8b406c2ed917ff3d316916ae3cd039ff4e3f0af94bf228ba677da2219ac6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Learning to make genuine Dead Sea mineral soap, then pairing the class with a visit to the biblically significant Lot's Cave, gives this day a hands-on wellness dimension beyond just floating in the Dead Sea itself.", tourCard: { slug: "amman-dead-sea-soap-wellness-class-lots-cave-lunch", title: "Amman Dead Sea Soap Wellness Class with Lot's Cave & Lunch", description: "A Dead Sea soap wellness class paired with Lot's Cave and lunch from Amman.", price: "From $571", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/458b8b406c2ed917ff3d316916ae3cd039ff4e3f0af94bf228ba677da2219ac6.jpg" } },
+                    { title: "Practical Tips", content: "You take your handmade soap home afterward, a genuinely useful souvenir beyond a typical trinket." }
+                ],
+                faqs: [
+                    { q: "Is the Dead Sea soap wellness class worth it from Amman?", a: "Yes, it adds a genuine hands-on wellness dimension and useful souvenir beyond just floating in the Dead Sea." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Dead Sea soap wellness class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives a genuine hands-on wellness dimension and a useful souvenir." } },
+                ] },
+            };
+
+        case "is-decapolis-route-tour-worth-it-amman":
+            return {
+                title: "Is the Private Decapolis Route Tour Worth It from Amman?",
+                description: "An honest look at the private Decapolis route tour, covering ancient Roman-era cities in Jordan beyond just Jerash.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/190c1a237fdde3c401fecfa8a9d2ae2085e8c387b47600283149d34175a7ae56.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Decapolis was a league of ten Roman-era cities, and this route covers several of them beyond just the famous Jerash, giving travelers with a genuine interest in Roman archaeology a deeper historical layer than the standard single-site day trip.", tourCard: { slug: "from-amman-private-decapolis-route-tour-with", title: "From Amman: Private Decapolis Route Tour", description: "A private tour covering several ancient Decapolis cities from Amman.", price: "From $306", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/190c1a237fdde3c401fecfa8a9d2ae2085e8c387b47600283149d34175a7ae56.jpeg" } },
+                    { title: "Practical Tips", content: "This suits travelers with a genuine interest in Roman archaeology wanting more depth than a single-site Jerash visit." }
+                ],
+                faqs: [
+                    { q: "Is the Decapolis route tour worth it from Amman?", a: "Yes, for travelers with genuine interest in Roman archaeology, it covers several ancient cities beyond just Jerash." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Decapolis route tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine interest in Roman archaeology beyond a single-site Jerash visit." } },
+                ] },
+            };
+
         case "is-sand-art-experience-worth-it-petra":
             return {
                 title: "Is the Petra Day Trip with Sand Art Experience Worth It?",

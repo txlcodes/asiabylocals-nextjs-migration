@@ -558,6 +558,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-dabke-dance-class-worth-it-amman',
     'is-perfume-workshop-worth-it-amman', 'is-embroidery-class-worth-it-amman',
     'is-arabic-class-worth-it-amman', 'is-kintsugi-pottery-workshop-worth-it-amman',
+    'is-raku-pottery-workshop-worth-it-amman', 'is-stained-glass-workshop-worth-it-amman',
+    'is-dead-sea-soap-wellness-class-worth-it-amman', 'is-decapolis-route-tour-worth-it-amman',
   ], 'jordan', 'amman');
   const aqabaInfoPages = mapInfoSlugs([
     'best-wadi-rum-half-day-jeep-tour-aqaba', 'best-wadi-rum-full-day-jeep-tour-aqaba',
