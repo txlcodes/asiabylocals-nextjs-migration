@@ -1347,6 +1347,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'is-mekong-sunset-cruise-worth-it-phnom-penh', 'is-khmer-cooking-class-worth-it-phnom-penh',
     'is-cyclo-tour-worth-it-phnom-penh', 'is-shooting-range-tour-worth-it-phnom-penh',
     'is-contemporary-art-tour-worth-it-phnom-penh', 'is-bokor-national-park-day-trip-worth-it-phnom-penh',
+    'is-kun-khmer-experience-worth-it-phnom-penh', 'is-silk-island-bike-tour-worth-it-phnom-penh',
+    'is-oudong-royal-capital-tour-worth-it-phnom-penh', 'is-upcycling-workshop-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [

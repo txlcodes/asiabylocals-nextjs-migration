@@ -1038,6 +1038,74 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-kun-khmer-experience-worth-it-phnom-penh":
+            return {
+                title: "Is the Authentic Kun Khmer Experience Worth It in Phnom Penh?",
+                description: "An honest look at the authentic Kun Khmer martial arts experience in Phnom Penh, Cambodia's traditional combat sport.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/an-authentic-kun-khmer-experience/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kun Khmer is Cambodia's own traditional combat sport, genuinely distinct from Thai Muay Thai despite similarities, and this hands-on introduction gives real cultural insight beyond just watching a match.", tourCard: { slug: "an-authentic-kun-khmer-experience", title: "An Authentic Kun Khmer Experience", description: "A hands-on introduction to Kun Khmer, Cambodia's traditional martial art.", price: "From $72", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/an-authentic-kun-khmer-experience/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "No prior martial arts experience is needed — the session is designed as a genuine introduction for complete beginners." }
+                ],
+                faqs: [
+                    { q: "Is the Kun Khmer experience worth it in Phnom Penh?", a: "Yes, it gives genuine insight into Cambodia's own traditional combat sport, distinct from Thai Muay Thai." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kun Khmer experience worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine insight into Cambodia's own traditional martial art." } }
+                ] },
+            };
+
+        case "is-silk-island-bike-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Silk Island Bicycle Tour Worth It from Phnom Penh?",
+                description: "An honest look at the Silk Island bicycle tour with lunch, a rural escape via Koh Dach island on the Mekong.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/silk-island-bicycle-tour-with-lunch-dinner/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cycling through Koh Dach, known as Silk Island, gives a genuine rural escape with working silk-weaving villages, a quiet contrast to the city's genocide-history sites and a good active half-day option.", tourCard: { slug: "silk-island-bicycle-tour-with-lunch-dinner", title: "Silk Island Bicycle Tour with Lunch", description: "A bicycle tour of Silk Island (Koh Dach) with lunch included.", price: "From $51", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/silk-island-bicycle-tour-with-lunch-dinner/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good active half-day pick for travelers wanting a break from the city's heavier historical sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Silk Island bicycle tour worth it from Phnom Penh?", a: "Yes, it offers a genuine rural escape with working silk-weaving villages, a quiet contrast to the city's history sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Silk Island bicycle tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine rural escape with working silk-weaving villages." } }
+                ] },
+            };
+
+        case "is-oudong-royal-capital-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Oudong Royal Capital Tour Worth It from Phnom Penh?",
+                description: "An honest look at the Oudong Royal Capital private tour, Cambodia's former royal capital before Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/oudong-royal-capital-private-tour-from-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Oudong served as Cambodia's royal capital before Phnom Penh, and its hilltop stupas and ruins give a genuinely different historical layer than the city's 20th-century genocide-history sites, worth the half-day trip for travelers interested in deeper Khmer history.", tourCard: { slug: "oudong-royal-capital-private-tour-from-phnom-penh", title: "Oudong Royal Capital Private Tour", description: "A private tour of Oudong, Cambodia's former royal capital, from Phnom Penh.", price: "From $224", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/oudong-royal-capital-private-tour-from-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes for climbing the hilltop stupas, and bring water since there's limited shade at the summit." }
+                ],
+                faqs: [
+                    { q: "Is the Oudong Royal Capital tour worth it from Phnom Penh?", a: "Yes, it gives a genuinely different historical layer, Cambodia's former royal capital, than the city's 20th-century history sites." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Oudong Royal Capital tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different historical layer predating Phnom Penh as Cambodia's royal capital." } }
+                ] },
+            };
+
+        case "is-upcycling-workshop-worth-it-phnom-penh":
+            return {
+                title: "Is the Upcycling Workshop with Local Designers Worth It in Phnom Penh?",
+                description: "An honest look at the upcycling workshop with local designers in Phnom Penh, a hands-on sustainable craft activity.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/upcycling-workshop-with-local-designers/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Working directly with local designers on upcycling materials into new products gives a genuinely different, creative activity from the city's history-heavy sightseeing, and you leave with a real handmade piece.", tourCard: { slug: "upcycling-workshop-with-local-designers", title: "Upcycling Workshop with Local Designers", description: "A hands-on upcycling workshop with local designers in Phnom Penh.", price: "From $26", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/upcycling-workshop-with-local-designers/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good rainy-day or lighter activity to balance against the city's more emotionally heavy genocide-history sites." }
+                ],
+                faqs: [
+                    { q: "Is the upcycling workshop worth it in Phnom Penh?", a: "Yes, it's a genuinely creative, different activity from the city's history-heavy sightseeing, with a real handmade souvenir to take home." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the upcycling workshop worth it in Phnom Penh?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely creative, different activity with a real handmade souvenir to take home." } }
+                ] },
+            };
+
         default:
             return null;
     }
