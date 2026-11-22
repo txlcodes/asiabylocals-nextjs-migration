@@ -2268,6 +2268,78 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-tal-barahi-temple-worth-it-pokhara":
+            return {
+                title: "Is the Tal Barahi Temple Evening Aarati Ceremony Worth It?",
+                seoTitle: "Tal Barahi Temple Pokhara 2026 | Honest Review",
+                description: "An honest look at the Tal Barahi Temple evening aarati ceremony, a lake-island shrine and genuine Hindu ritual on Phewa Lake.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3488ad29042b1efdf43870eeb114719e3441b55c795c0991d27830a7815743dd.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tal Barahi sits on its own small island in the middle of Phewa Lake, reached only by boat, and timing a visit for the evening aarati ceremony, a genuine Hindu ritual of lamps and chanting, gives real cultural substance beyond just the scenic boat ride out." , tourCard: { slug: "pokhara-tal-barahi-temple-evening-aarati-ceremony", title: "Pokhara: Tal Barahi Temple Evening Aarati Ceremony", description: "An evening boat trip to Tal Barahi Temple for the aarati ceremony.", price: "From $53", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3488ad29042b1efdf43870eeb114719e3441b55c795c0991d27830a7815743dd.jpg" } },
+                    { title: "Practical Tips", content: "The aarati ceremony runs on a set evening schedule — check current timing with your operator so you arrive while it's actually happening." }
+                ],
+                faqs: [
+                    { q: "Is the Tal Barahi Temple worth visiting?", a: "Yes, especially timed to the evening aarati ceremony, a genuine Hindu ritual that gives real substance beyond the scenic lake-island boat ride." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tal Barahi Temple aarati ceremony worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine Hindu ritual on a scenic lake-island shrine reached only by boat." } }
+                ] },
+            };
+
+        case "is-skydiving-worth-it-pokhara":
+            return {
+                title: "Is Skydiving Worth It in Pokhara?",
+                seoTitle: "Pokhara Skydiving 2026 | Honest Review",
+                description: "An honest look at tandem skydiving in Pokhara, a serious adrenaline splurge with freefall views over the Annapurna range and Phewa Lake.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ea5659379aff82b1be1e5d473f1566fe6f68764f692530c436b5ba695648935.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tandem skydive gives a genuinely unmatched perspective on the Annapurna range and Phewa Lake during the 45-50 second freefall, priced in line with tandem skydiving anywhere in the world rather than being a Pokhara-specific markup." , tourCard: { slug: "pokhara-skydiving-with-a-45-50-second-freefall", title: "Pokhara: Skydiving with a 45-50 Second Freefall", description: "A tandem skydive over Pokhara with Annapurna range views.", price: "From $1716", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ea5659379aff82b1be1e5d473f1566fe6f68764f692530c436b5ba695648935.jpg" } },
+                    { title: "Practical Tips", content: "This price is consistent with tandem skydiving costs worldwide, not a Pokhara-specific premium — budget for it as a genuine bucket-list splurge." }
+                ],
+                faqs: [
+                    { q: "Is skydiving in Pokhara expensive?", a: "It's priced in line with tandem skydiving anywhere in the world, not a local markup, given the genuinely unmatched Annapurna range views during freefall." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is skydiving worth it in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an unmatched aerial perspective on the Annapurna range and Phewa Lake during the freefall." } }
+                ] },
+            };
+
+        case "is-hot-air-balloon-worth-it-pokhara":
+            return {
+                title: "Is the Hot Air Balloon Ride Worth It in Pokhara?",
+                seoTitle: "Pokhara Hot Air Balloon 2026 | Honest Review",
+                description: "An honest look at the hot air balloon ride with Annapurna views, a slower, quieter aerial alternative to paragliding or the ultralight flight.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cdeaf228d18995fe896a9d7cd4c0bc0754665eb00f10a355b88237b4320df875.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A hot air balloon ride gives a genuinely slower, quieter way to take in the Annapurna range from the air than paragliding or an ultralight flight, drifting rather than maneuvering, which suits travellers who want the views without the adrenaline element." , tourCard: { slug: "pokhara-hot-air-balloon-ride-with-annapurna-views", title: "Pokhara: Hot Air Balloon Ride with Annapurna Views", description: "A hot air balloon ride over Pokhara with Annapurna range views.", price: "From $267", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cdeaf228d18995fe896a9d7cd4c0bc0754665eb00f10a355b88237b4320df875.jpg" } },
+                    { title: "Practical Tips", content: "Balloon flights are genuinely weather-dependent and get cancelled or rescheduled in wind — build flexibility into your itinerary around this activity." }
+                ],
+                faqs: [
+                    { q: "Is the hot air balloon ride worth it in Pokhara?", a: "Yes, for a slower, quieter aerial alternative to paragliding, drifting over the Annapurna range rather than maneuvering through the air." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the hot air balloon ride worth it in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a slower, calmer aerial view of the Annapurna range than paragliding offers." } }
+                ] },
+            };
+
+        case "is-ultralight-flight-worth-it-pokhara":
+            return {
+                title: "Is the Ultralight Flight Worth It in Pokhara?",
+                seoTitle: "Pokhara Ultralight Flight 2026 | Honest Review",
+                description: "An honest look at the ultralight flight with Annapurna and Fishtail views, a short but genuine small-aircraft flying experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0632a76a1e711299478ed1d87484896ce97715bcbea1d3cd6e37a9ad9539ff68.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "An ultralight flight puts you in a genuine small open-cockpit aircraft rather than a passenger seat, giving unobstructed views of the Annapurna range and the distinctive Fishtail (Machapuchare) peak in a short, intense 15-minute flight." , tourCard: { slug: "pokhara-ultralight-flight-with-annapurna-fishtail", title: "Pokhara: Ultralight Flight with Annapurna & Fishtail", description: "A short ultralight aircraft flight with Annapurna and Fishtail peak views.", price: "From $254", duration: "15 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0632a76a1e711299478ed1d87484896ce97715bcbea1d3cd6e37a9ad9539ff68.jpg" } },
+                    { title: "Practical Tips", content: "At 15 minutes this is genuinely short — book it specifically for the small-aircraft flying experience itself, not as a leisurely sightseeing flight." }
+                ],
+                faqs: [
+                    { q: "Is the ultralight flight worth it in Pokhara?", a: "Yes, for a genuine small-aircraft flying experience with unobstructed Annapurna and Fishtail peak views, even though it's a short 15 minutes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the ultralight flight worth it in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine small open-cockpit flying experience with unobstructed mountain views." } }
+                ] },
+            };
+
         case "is-pottery-curd-workshop-worth-it-bhaktapur":
             return {
                 title: "Is the Bhaktapur Pottery and King's Curd Workshop Worth It?",

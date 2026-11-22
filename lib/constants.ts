@@ -777,6 +777,8 @@ export const POKHARA_INFO_SLUGS = [
   'is-tilicho-lake-trek-worth-it-pokhara', 'is-australian-camp-hike-worth-it-pokhara',
   'is-world-peace-stupa-hike-worth-it-pokhara', 'is-kushma-bungee-worth-it-pokhara',
   'is-jomsom-scenic-flight-worth-it-pokhara', 'is-abc-helicopter-tour-worth-it-pokhara',
+  'is-tal-barahi-temple-worth-it-pokhara', 'is-skydiving-worth-it-pokhara',
+  'is-hot-air-balloon-worth-it-pokhara', 'is-ultralight-flight-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.
