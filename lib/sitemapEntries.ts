@@ -1180,6 +1180,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-grand-palace-wat-pho-tour-worth-it-bangkok', 'is-ayutthaya-day-trip-worth-it-bangkok',
     'is-death-railway-river-kwai-tour-worth-it-bangkok', 'is-chao-phraya-dinner-cruise-worth-it-bangkok',
     'is-baiyoke-sky-observation-deck-worth-it-bangkok',
+    'bangkok-ancient-city-erawan-museum-tour', 'is-ethical-elephant-sanctuary-worth-it-bangkok',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),

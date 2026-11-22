@@ -1531,6 +1531,42 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "bangkok-ancient-city-erawan-museum-tour":
+            return {
+                title: "Is the Ancient City and Erawan Museum Tour Worth It in Bangkok?",
+                seoTitle: "Ancient City Erawan Museum Tour 2026 | Honest Review",
+                description: "An honest look at the Ancient City (Muang Boran) and Erawan Museum private day trip, pairing the world's largest open-air museum with a striking giant elephant sculpture.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-erawan-museum-ancient-city-and-bang-pu-private-trip-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Ancient City is the world's largest open-air museum, a 200-acre park shaped like Thailand's outline with 116 scaled replicas of the country's most important monuments, and pairing it with the nearby Erawan Museum's giant three-headed bronze elephant gives a genuinely substantial day of Thai architecture and craftsmanship outside central Bangkok.", tourCard: { slug: "bangkok-erawan-museum-ancient-city-and-bang-pu-private-trip-by-local-operator", title: "Bangkok: Erawan Museum, Ancient City & Bang Pu Private Trip", description: "A private day trip combining Ancient City, the Erawan Museum, and Bang Pu.", price: "From $186", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-erawan-museum-ancient-city-and-bang-pu-private-trip-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ancient City is far too large to explore on foot — rent an electric buggy or bicycle on-site, or confirm your tour includes transport around the park." }
+                ],
+                faqs: [
+                    { q: "Is the Ancient City and Erawan Museum tour worth it?", a: "Yes, for a genuinely substantial day of Thai architecture and craftsmanship, pairing the world's largest open-air museum with a striking giant elephant sculpture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ancient City and Erawan Museum tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a substantial day combining the world's largest open-air museum with a striking giant elephant sculpture museum." } }
+                ] },
+            };
+
+        case "is-ethical-elephant-sanctuary-worth-it-bangkok":
+            return {
+                title: "Is the Ethical Elephant Sanctuary Day Trip Worth It from Bangkok?",
+                seoTitle: "Bangkok Elephant Sanctuary 2026 | Honest Review",
+                description: "An honest look at the ethical elephant sanctuary day trip from Bangkok, a no-riding, feeding-and-bathing format reflecting the shift toward responsible elephant tourism.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779389260/tours/bangkok-elephant/eunriytjbvuiictfi04p.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This sanctuary focuses on feeding, bathing, and observing elephants rather than riding them, reflecting the broader shift toward more ethical elephant tourism in Thailand, a genuinely different day from Bangkok's usual temple and market sightseeing.", tourCard: { slug: "bangkok-ethical-elephant-sanctuary-day-trip", title: "Bangkok: Ethical Elephant Sanctuary Day Trip", description: "A day trip to an ethical, no-riding elephant sanctuary from Bangkok.", price: "From $75", duration: "8-9 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1779389260/tours/bangkok-elephant/eunriytjbvuiictfi04p.jpg" } },
+                    { title: "Practical Tips", content: "If elephant welfare matters to you, confirm with the operator that the visit doesn't include riding, which has become widely discouraged." }
+                ],
+                faqs: [
+                    { q: "Is the ethical elephant sanctuary worth it from Bangkok?", a: "Yes, for a genuinely different day reflecting the shift toward ethical, no-riding elephant tourism in Thailand." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the ethical elephant sanctuary worth it from Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for feeding and bathing elephants rather than riding them, reflecting more ethical elephant tourism." } }
+                ] },
+            };
+
         default:
             return null;
     }
