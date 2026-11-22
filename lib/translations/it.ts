@@ -37830,6 +37830,27 @@ export const IT_TOURS: Record<string, TourT> = {
    "Uso del veicolo al di fuori dell'itinerario specificato"
   ]
  },
+ "from-galle-waligama-mirissa-yala-safari-and-drop": {
+  "title": "Da Galle, Weligama, Mirissa: safari a Yala con rientro a Ella",
+  "metaTitle": "Da Galle, Weligama, Mirissa: safari a Yala con rientro a Ella",
+  "metaDescription": "Esperienza di una giornata intera a Galle. Siamo un team di 4 conducenti con oltre 15 anni di esperienza. Offerto da Wanderluxe Ceylon.",
+  "shortDescription": "Esperienza di una giornata intera a Galle. Siamo un team di 4 conducenti con oltre 15 anni di esperienza. Offerto da Wanderluxe Ceylon.",
+  "fullDescription": "Un'esperienza di una giornata intera a Galle. Siamo un team di 4 conducenti con oltre 15 anni di esperienza.\n\nWanderluxe Ceylon se ne occupa, e 8 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende conferma della prenotazione del safari, conducente esperto (farà anche da guida), frutta e acqua. Non comprende biglietto d'ingresso al parco di Yala (13.000 LKR a persona), pickup e drop-off 9.000 LKR a persona per taxi e jeep safari (safari al mattino 4.000 LKR a persona, safari di un'intera giornata 9.000 LKR a persona), quindi preventivalo separatamente.",
+  "highlights": [
+   "Siamo un team di 4 conducenti con oltre 15 anni di esperienza"
+  ],
+  "included": [
+   "conferma della prenotazione del safari",
+   "Conducente esperto (farà anche da guida)",
+   "Frutta",
+   "Acqua"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al parco di Yala (13.000 LKR a persona)",
+   "Pickup e drop-off 9.000 LKR a persona per taxi",
+   "Jeep safari (safari al mattino 4.000 LKR a persona, safari di un'intera giornata 9.000 LKR a persona)"
+  ]
+ },
  "pick-up-ella-yala-safari-drop-waligama-mirissa": {
   "title": "Partenza da Ella, Safari a Yala e Rientro a Weligama, Mirissa, Tangalle",
   "metaTitle": "Partenza da Ella, Safari a Yala e Rientro a Weligama, Mirissa,...",
@@ -38030,6 +38051,25 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Spese personali",
    "Mance"
+  ]
+ },
+ "nanu-oya-to-kandy-transfer-tea-tour-waterfalls": {
+  "title": "Da Nanu Oya a Kandy: trasferimento con tour del te e cascate",
+  "metaTitle": "Da Nanu Oya a Kandy: trasferimento con tour del te e cascate",
+  "metaDescription": "Un'escursione di mezza giornata da Kandy che visita Tuk tuk, Labookellie Tea Factory, Blue Field Tea Center e Tuk tuk. Offerto da TUK TUK TEA FLOWER ADVENTURE.",
+  "shortDescription": "Un'escursione di mezza giornata da Kandy che visita Tuk tuk, Labookellie Tea Factory, Blue Field Tea Center e Tuk tuk. Offerto da TUK TUK TEA FLOWER ADVENTURE.",
+  "fullDescription": "Un'escursione di mezza giornata da Kandy, che passa per Tuk tuk, Labookellie Tea Factory, Blue Field Tea Center e Tuk tuk. La tappa più lunga è Tuk tuk, con una durata di circa 2 ore. Ci sono 5 tappe in totale.\n\nL'ordine del percorso è Tuk tuk (1h), poi Labookellie Tea Factory, poi Blue Field Tea Center, poi Tuk tuk (2h), poi Finish at:.\n\nIl prezzo comprende viaggio panoramico in tuk-tuk da Nanu Oya a Kandy, visita alla fabbrica di te Labookellie e degustazione, visita alle piantagioni di te Bluefield e esperienza di raccolta del tè.",
+  "highlights": [
+   "Un'escursione di mezza giornata da Kandy che visita Tuk tuk, Labookellie Tea Factory, Blue Field Tea Center e Tuk tuk. Offerto da TUK TUK TEA FLOWER ADVENTURE."
+  ],
+  "included": [
+   "Viaggio panoramico in tuk-tuk da Nanu Oya a Kandy",
+   "Visita alla fabbrica di te Labookellie e degustazione",
+   "Visita alle piantagioni di te Bluefield",
+   "Esperienza di raccolta del tè"
+  ],
+  "notIncluded": [
+   ""
   ]
  },
  "galle-e-bike-tour-with-village-lunch-and-local": {
