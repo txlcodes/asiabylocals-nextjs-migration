@@ -1690,6 +1690,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya',
     'is-horseback-riding-worth-it-nuwara-eliya', 'is-adams-peak-hike-worth-it-nuwara-eliya',
     'is-knuckles-range-tour-worth-it-nuwara-eliya',
+    'is-tea-plucking-experience-worth-it-nuwara-eliya', 'is-cloud-forest-hike-worth-it-nuwara-eliya',
+    'is-ramayana-temple-trail-worth-it-nuwara-eliya', 'is-rafting-ziplining-combo-worth-it-nuwara-eliya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),

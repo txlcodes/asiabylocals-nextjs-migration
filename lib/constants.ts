@@ -1600,6 +1600,8 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-nuwara-eliya',
   'is-horseback-riding-worth-it-nuwara-eliya', 'is-adams-peak-hike-worth-it-nuwara-eliya',
   'is-knuckles-range-tour-worth-it-nuwara-eliya',
+  'is-tea-plucking-experience-worth-it-nuwara-eliya', 'is-cloud-forest-hike-worth-it-nuwara-eliya',
+  'is-ramayana-temple-trail-worth-it-nuwara-eliya', 'is-rafting-ziplining-combo-worth-it-nuwara-eliya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.

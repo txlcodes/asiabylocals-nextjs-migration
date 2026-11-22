@@ -388,6 +388,90 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tea-plucking-experience-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Hands-On Tea Plucking & Tasting Experience Worth It in Nuwara Eliya?",
+        description: "An honest look at the hands-on tea plucking and tasting experience in Nuwara Eliya, distinct from a standard factory tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1191049/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Actually picking tea leaves yourself, rather than just watching the factory process on a standard tour, gives a far more hands-on sense of the labor behind Ceylon tea, finished off with a genuine tasting session.",
+            tourCard: { slug: "nuwara-eliya-hands-on-tea-plucking-tasting", title: "Nuwara Eliya Hands-On Tea Plucking & Tasting", description: "A hands-on tea plucking and tasting experience in Nuwara Eliya.", price: "From $56", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1191049/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a little dirty, since you'll be out in the fields actually plucking leaves.",
+          },
+        ],
+        faqs: [
+          { q: "Is the hands-on tea plucking experience worth it in Nuwara Eliya?", a: "Yes, actually picking leaves yourself gives a far more hands-on sense of Ceylon tea's labor than a standard factory tour." },
+        ],
+      };
+
+    case "is-cloud-forest-hike-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Cloud Forest Hike with Cliff Views Worth It in Nuwara Eliya?",
+        description: "An honest look at the cloud forest hike with cliff views near Nuwara Eliya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1159370/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hiking through genuine misty cloud forest to dramatic cliff viewpoints gives a different, moodier landscape than the open tea estates most visitors associate with Nuwara Eliya, a good pick for travelers wanting a real hike over a scenic drive.",
+            tourCard: { slug: "nuwara-eliya-cloud-forest-hike-with-cliff-views", title: "Nuwara Eliya Cloud Forest Hike with Cliff Views", description: "A hiking tour through cloud forest to dramatic cliff viewpoints near Nuwara Eliya.", price: "From $111", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1159370/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light rain jacket — cloud forest conditions mean genuine mist and moisture, even without rain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cloud forest hike worth it in Nuwara Eliya?", a: "Yes, it offers a genuinely different, moodier landscape than the open tea estates, for travelers wanting a real hike." },
+        ],
+      };
+
+    case "is-ramayana-temple-trail-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Ramayana Temple Trail Worth It from Nuwara Eliya?",
+        description: "An honest look at the Ramayana temple trail tour from Nuwara Eliya and Hatton, following sites tied to the Hindu epic.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-384951/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka's hill country holds several sites genuinely tied to the Ramayana epic, and this trail gives real spiritual and cultural significance for Hindu travelers or anyone interested in the story, distinct from the area's usual tea-estate sightseeing.",
+            tourCard: { slug: "from-nuwara-eliyahatton-ramayana-temple-trail-by", title: "From Nuwara Eliya/Hatton: Ramayana Temple Trail", description: "A tour of Ramayana-linked temple sites from Nuwara Eliya and Hatton.", price: "From $162", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-384951/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers with a genuine interest in the Ramayana story or Hindu pilgrimage sites, more than typical scenic sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ramayana temple trail worth it from Nuwara Eliya?", a: "Yes, for travelers with genuine interest in the Ramayana epic, these sites carry real spiritual significance beyond typical sightseeing." },
+        ],
+      };
+
+    case "is-rafting-ziplining-combo-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Rafting, Ziplining & Lunch Combo Worth It from Nuwara Eliya?",
+        description: "An honest look at the combined rafting and ziplining day trip with lunch from Nuwara Eliya and Hatton.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1178342/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing white water rafting with ziplining in one day gives genuine double adrenaline value, a good fit for travelers wanting a serious adventure-sports day rather than splitting the two activities across separate trips.",
+            tourCard: { slug: "nuwara-eliyahatton-rafting-ziplining-lunch-and", title: "Nuwara Eliya/Hatton: Rafting, Ziplining & Lunch", description: "A combined rafting and ziplining day trip with lunch from Nuwara Eliya and Hatton.", price: "From $162", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1178342/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely full, physically active day — come with reasonable fitness and a willingness to get wet.",
+          },
+        ],
+        faqs: [
+          { q: "Is the rafting and ziplining combo worth it from Nuwara Eliya?", a: "Yes, it gives genuine double adrenaline value in one day rather than splitting the activities across separate trips." },
+        ],
+      };
+
     default:
       return null;
   }
