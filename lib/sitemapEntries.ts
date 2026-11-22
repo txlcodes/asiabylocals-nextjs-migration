@@ -573,6 +573,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-aqaba-safe', 'aqaba-diving-guide',
     'aqaba-food-guide', 'aqaba-to-petra-guide',
     'is-jet-ski-worth-it-aqaba', 'is-heritage-walking-tour-worth-it-aqaba',
+    'is-zipline-desert-jeep-worth-it-aqaba', 'is-buggy-ride-worth-it-aqaba',
+    'is-wadi-sabat-trek-worth-it-aqaba', 'is-jebel-rum-summit-climb-worth-it-aqaba',
   ], 'jordan', 'aqaba');
   const bakuInfoPages = mapInfoSlugs([
     'best-gobustan-tour-baku', 'best-old-city-walking-tour-baku',

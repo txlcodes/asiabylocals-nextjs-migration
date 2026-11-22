@@ -1365,6 +1365,74 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-zipline-desert-jeep-worth-it-aqaba":
+            return {
+                title: "Is the Zipline Desert Jeep Adventure Worth It in Wadi Rum?",
+                description: "An honest look at the zipline desert jeep adventure with a tea stop in Wadi Rum, a quick adrenaline combo activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/71bd4dbc56cc9ee0df5b4a7a1afba17053e469bb58a7ce346743911a8cb5c285.png",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a quick zipline run with jeep transport and a traditional Bedouin tea stop gives genuine variety in a compact, affordable 1-hour package, a good add-on if you're already in Wadi Rum for a longer desert day.", tourCard: { slug: "zipline-desert-jeep-adventure-with-a-tea-stop-in", title: "Zipline Desert Jeep Adventure with Tea Stop", description: "A zipline and jeep adventure with a traditional Bedouin tea stop in Wadi Rum.", price: "From $64", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/71bd4dbc56cc9ee0df5b4a7a1afba17053e469bb58a7ce346743911a8cb5c285.png" } },
+                    { title: "Practical Tips", content: "A good short add-on rather than a standalone trip — pair it with a longer jeep tour or overnight camp stay." }
+                ],
+                faqs: [
+                    { q: "Is the zipline desert jeep adventure worth it in Wadi Rum?", a: "Yes, it's a compact, affordable way to add genuine variety to a longer Wadi Rum day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the zipline desert jeep adventure worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a compact, affordable way to add variety to a longer Wadi Rum day." } },
+                ] },
+            };
+
+        case "is-buggy-ride-worth-it-aqaba":
+            return {
+                title: "Is the Off-Road Desert Buggy Adventure Worth It in Wadi Rum?",
+                description: "An honest look at the off-road desert buggy ride in Wadi Rum, a self-driven alternative to riding passenger in a jeep.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52236c92bbc9714f137b6a588deec0a847aaf52ba53bea60304787e419406eaf.png",
+                sections: [
+                    { title: "The Short Answer", content: "Driving your own off-road buggy through Wadi Rum's dunes gives a genuinely more active, hands-on desert experience than riding as a passenger in a standard jeep tour, a good pick specifically for travelers who want to drive themselves.", tourCard: { slug: "buggy-ride-off-road-desert-buggy-adventure-in", title: "Off-Road Desert Buggy Adventure", description: "A self-driven off-road buggy adventure in Wadi Rum.", price: "From $181", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52236c92bbc9714f137b6a588deec0a847aaf52ba53bea60304787e419406eaf.png" } },
+                    { title: "Practical Tips", content: "A valid driving license is typically required since you're piloting the buggy yourself, not riding as a passenger." }
+                ],
+                faqs: [
+                    { q: "Is the desert buggy adventure worth it in Wadi Rum?", a: "Yes, for travelers wanting a more active, hands-on experience than riding passenger in a standard jeep tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the desert buggy adventure worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more active, hands-on experience than riding passenger in a jeep." } },
+                ] },
+            };
+
+        case "is-wadi-sabat-trek-worth-it-aqaba":
+            return {
+                title: "Is the Wadi Sabat Wilderness Trek with Live-Fire Bedouin Cooking Worth It?",
+                description: "An honest look at the Wadi Sabat wilderness trek with live-fire Bedouin cooking, a less-visited canyon trek near Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/abe45dfbd0e7be28d008ec7c6ac6337618aecd9e24d22a329c4eacbc1cab95fe.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Wadi Sabat is genuinely less-visited than the main Wadi Rum circuit, and pairing the wilderness trek with authentic live-fire Bedouin cooking gives real cultural depth alongside the physical hiking, a good pick for travelers wanting to go beyond the standard jeep-tour crowds.", tourCard: { slug: "wadi-sabat-wilderness-trek-with-live-fire-bedouin", title: "Wadi Sabat Wilderness Trek with Live-Fire Bedouin Cooking", description: "A wilderness trek through Wadi Sabat with live-fire Bedouin cooking.", price: "From $389", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/abe45dfbd0e7be28d008ec7c6ac6337618aecd9e24d22a329c4eacbc1cab95fe.jpg" } },
+                    { title: "Practical Tips", content: "Come with real hiking fitness and proper footwear — this is a genuine wilderness trek, not a casual jeep-based tour." }
+                ],
+                faqs: [
+                    { q: "Is the Wadi Sabat trek worth it?", a: "Yes, it's genuinely less-visited than the main Wadi Rum circuit, with real cultural depth from the live-fire Bedouin cooking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Wadi Sabat trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's genuinely less-visited with real cultural depth from the Bedouin cooking." } },
+                ] },
+            };
+
+        case "is-jebel-rum-summit-climb-worth-it-aqaba":
+            return {
+                title: "Is the Jebel Rum Summit Climb via the Historic Route Worth It?",
+                description: "An honest look at climbing Jebel Rum via its historic route, Wadi Rum's highest and most significant peak.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/67ad9defe9142d75a496fd096f06cd9400b776443b90cc3ec75c31b3d6df3d03.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Jebel Rum is genuinely Wadi Rum's most significant peak, and climbing it via the historic route used by past explorers gives a real sense of accomplishment and panoramic desert views that a standard jeep tour simply can't match.", tourCard: { slug: "wadi-rum-jebel-rum-summit-via-the-historic", title: "Wadi Rum: Jebel Rum Summit via the Historic Route", description: "A 2-day climb of Jebel Rum via its historic ascent route.", price: "From $585", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/67ad9defe9142d75a496fd096f06cd9400b776443b90cc3ec75c31b3d6df3d03.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuine multi-day mountaineering commitment requiring real fitness — come prepared accordingly, not expecting a casual day hike." }
+                ],
+                faqs: [
+                    { q: "Is the Jebel Rum summit climb worth it?", a: "Yes, for a real sense of accomplishment and panoramic views that a standard jeep tour can't match." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jebel Rum summit climb worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a real sense of accomplishment and panoramic desert views." } },
+                ] },
+            };
+
         case "is-raku-pottery-workshop-worth-it-amman":
             return {
                 title: "Is the Raku Pottery Workshop Worth It in Amman?",
