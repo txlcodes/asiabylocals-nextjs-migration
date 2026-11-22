@@ -35526,6 +35526,30 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "all-inclusive-sigiriya-day-tour-from-colombo": {
+  "title": "Sigiriya: tour di un giorno tutto incluso da Colombo, Kandy ed Ella",
+  "metaTitle": "Sigiriya: tour di un giorno tutto incluso da Colombo, Kandy ed...",
+  "metaDescription": "Un'escursione di una giornata intera da Colombo che visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya VR Experience, Sigiriya VR Experience e Sigiriya...",
+  "shortDescription": "Un'escursione di una giornata intera da Colombo che visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya VR Experience, Sigiriya VR Experience e Sigiriya Lion Rock. Offerto da Lilly Travels And Tours (PVT) Ltd.",
+  "fullDescription": "Un'escursione di una giornata intera da Colombo, che passa per Dambulla Royal Cave Temple and Golden Temple, Sigiriya VR Experience, Sigiriya VR Experience e Sigiriya Lion Rock. La tappa più lunga è Sigiriya Lion Rock, con una durata di circa 3 ore. Ci sono 4 tappe in totale.\n\nL'ordine del percorso è Dambulla Royal Cave Temple and Golden Temple (1h), poi Sigiriya VR Experience (2h), poi Sigiriya VR Experience (1h), poi Sigiriya Lion Rock (3h).\n\nIl prezzo comprende pickup e drop-off privati in hotel (Colombo, Kandy, Ella o Nuwara Eliya), veicolo privato climatizzato per tutto il tour, autista-guida esperto che parla inglese, costi del carburante e costi di trasporto, pedaggi autostradali, spese di parcheggio e acqua in bottiglia gratuita. Non comprende spese personali e souvenir, bevande alcoliche e non alcoliche e assicurazione di viaggio, quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Colombo che visita Dambulla Royal Cave Temple and Golden Temple, Sigiriya VR Experience, Sigiriya VR Experience e Sigiriya Lion Rock. Offerto da Lilly Travels And Tours (PVT) Ltd."
+  ],
+  "included": [
+   "Pickup e drop-off privati in hotel (Colombo, Kandy, Ella o Nuwara Eliya)",
+   "Veicolo privato climatizzato per tutto il tour",
+   "Autista-guida esperto che parla inglese",
+   "Costi del carburante e costi di trasporto",
+   "Pedaggi autostradali",
+   "Spese di parcheggio",
+   "Acqua in bottiglia gratuita"
+  ],
+  "notIncluded": [
+   "spese personali e souvenir",
+   "Bevande alcoliche e non alcoliche",
+   "Assicurazione di viaggio"
+  ]
+ },
  "from-sigiriya-to-anuradhapura-transfer-with": {
   "title": "Da Sigiriya ad Anuradhapura: transfer con tappa turistica",
   "metaTitle": "Da Sigiriya ad Anuradhapura: transfer con tappa turistica",
@@ -35624,6 +35648,29 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Biglietti d'ingresso alle attrazioni"
+  ]
+ },
+ "kandy-nuwaraeliya-tour-ella-train-free-city-tour": {
+  "title": "Kandy: tour di Nuwara Eliya, treno per Ella e bonus tour gratuito della citta",
+  "metaTitle": "Kandy: tour di Nuwara Eliya, treno per Ella e bonus tour gratu...",
+  "metaDescription": "Esperienza di una giornata intera a Kandy. Biglietto del treno per Ella incluso: biglietto di 2a classe per il treno delle 13:30 per Ella. Offerto da Jet Joy Lank...",
+  "shortDescription": "Esperienza di una giornata intera a Kandy. Biglietto del treno per Ella incluso: biglietto di 2a classe per il treno delle 13:30 per Ella. Offerto da Jet Joy Lanka Tours.",
+  "fullDescription": "Un'esperienza di una giornata intera a Kandy. Biglietto del treno per Ella incluso: biglietto di 2a classe per il treno delle 13:30 per Ella.\n\nJet Joy Lanka Tours se ne occupa, e 6 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende esperienza bonus pre-tour: tour privato gratuito della citta di Kandy di 3-4 ore il giorno prima della partenza (fino a 4 soste), biglietto del treno di 2a classe gratuito: biglietto di 2a classe gratuito fornito per il treno delle 14:30 da Nanu Oya a Ella, trasporto privato: veicolo pulito e completamente climatizzato con autista-guida professionale che parla inglese, fine del tour flessibile: drop-off alla stazione di Nanu Oya per il treno, oppure transfer di ritorno al tuo hotel a Kandy e pickup gratuito in hotel: incluso per tutti gli alloggi entro 4 km dal centro di Kandy. Non comprende posto riservato sul treno (i biglietti di 2a classe non sono riservati; il posto a sedere dipende dalla disponibilita e potrebbe essere necessario stare in piedi nelle ore di punta), biglietti d'ingresso per soste opzionali (Tempio del Sacro Dente, biglietti per lo spettacolo di danza culturale), costi personali di spa/massaggio durante la visita opzionale alla spa ayurvedica e spese per cibo, bevande e pranzo, quindi preventivalo separatamente.",
+  "highlights": [
+   "Biglietto del treno per Ella incluso: biglietto di 2a classe per il treno delle 13:30 per Ella"
+  ],
+  "included": [
+   "Esperienza bonus pre-tour: tour privato gratuito della citta di Kandy di 3-4 ore il giorno prima della partenza (fino a 4 soste)",
+   "Biglietto del treno di 2a classe gratuito: biglietto di 2a classe gratuito fornito per il treno delle 14:30 da Nanu Oya a Ella",
+   "Trasporto privato: veicolo pulito e completamente climatizzato con autista-guida professionale che parla inglese",
+   "Fine del tour flessibile: drop-off alla stazione di Nanu Oya per il treno, oppure transfer di ritorno al tuo hotel a Kandy",
+   "Pickup gratuito in hotel: incluso per tutti gli alloggi entro 4 km dal centro di Kandy"
+  ],
+  "notIncluded": [
+   "Posto riservato sul treno (i biglietti di 2a classe non sono riservati; il posto a sedere dipende dalla disponibilita e potrebbe essere necessario stare in piedi nelle ore di punta)",
+   "Biglietti d'ingresso per soste opzionali (Tempio del Sacro Dente, biglietti per lo spettacolo di danza culturale)",
+   "Costi personali di spa/massaggio durante la visita opzionale alla spa ayurvedica",
+   "Spese per cibo, bevande e pranzo"
   ]
  },
  "kandy-sigiriya-or-pidurangala-dambulla-day-tour": {
@@ -35726,6 +35773,30 @@ export const IT_TOURS: Record<string, TourT> = {
    "Attività opzionali"
   ]
  },
+ "sri-lanka-tour-2-to-10-day-custom-round": {
+  "title": "Sri Lanka: tour personalizzato ad anello da 2 a 10 giorni da Colombo",
+  "metaTitle": "Sri Lanka: tour personalizzato ad anello da 2 a 10 giorni da C...",
+  "metaDescription": "Un'escursione di 2 giorno/i da Colombo che visita Day 1: Colombo to Anuradhapura. Offerto da Pekoe Lanka Tours.",
+  "shortDescription": "Un'escursione di 2 giorno/i da Colombo che visita Day 1: Colombo to Anuradhapura. Offerto da Pekoe Lanka Tours.",
+  "fullDescription": "Un'escursione di 2 giorno/i da Colombo, che passa per Day 1: Colombo to Anuradhapura.\n\nPekoe Lanka Tours se ne occupa, e 11 elementi sono inclusi nel prezzo. La cancellazione è gratuita. Personalizza il tuo viaggio privato nello Sri Lanka da 2 a 10 giorni.\n\nIl prezzo comprende trasporto privato in un'auto o furgone climatizzato, autista-guida professionale che parla inglese, pickup e drop-off in hotel, aeroporto o porto, carburante, spese di parcheggio e pedaggi autostradali, alloggio e pasti dell'autista durante tutto il tour, acqua potabile in bottiglia durante i giorni di viaggio e itinerario flessibile con soste turistiche personalizzabili. Non comprende alloggio per gli ospiti, pasti e bevande e attrazioni e monumenti, quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di 2 giorno/i da Colombo che visita Day 1: Colombo to Anuradhapura. Offerto da Pekoe Lanka Tours."
+  ],
+  "included": [
+   "Trasporto privato in un'auto o furgone climatizzato",
+   "Autista-guida professionale che parla inglese",
+   "Pickup e drop-off in hotel, aeroporto o porto",
+   "Carburante, spese di parcheggio e pedaggi autostradali",
+   "Alloggio e pasti dell'autista durante tutto il tour",
+   "Acqua potabile in bottiglia durante i giorni di viaggio",
+   "Itinerario flessibile con soste turistiche personalizzabili"
+  ],
+  "notIncluded": [
+   "Alloggio per gli ospiti",
+   "Pasti e bevande",
+   "attrazioni e monumenti"
+  ]
+ },
  "sigiriya-night-safari-wildlife-tour-with-guide": {
   "title": "Sigiriya: safari notturno e tour nella fauna selvatica con guida",
   "metaTitle": "Sigiriya: safari notturno e tour nella fauna selvatica con guida",
@@ -35802,6 +35873,28 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Biglietti d'ingresso al parco nazionale (45 USD a persona)"
+  ]
+ },
+ "bentota-water-skiing-and-wakeboarding-with": {
+  "title": "Bentota: sci d’acqua e wakeboard con istruttore",
+  "metaTitle": "Bentota: sci d’acqua e wakeboard con istruttore",
+  "metaDescription": "Esperienza di 0,5 ora/e a Bentota. Goditi una sessione di 30 minuti di sci d'acqua, mono-sci o wakeboard a Bentota. Offerto da Watching Lanka.",
+  "shortDescription": "Esperienza di 0,5 ora/e a Bentota. Goditi una sessione di 30 minuti di sci d'acqua, mono-sci o wakeboard a Bentota. Offerto da Watching Lanka.",
+  "fullDescription": "Un'esperienza di 0,5 ora/e a Bentota. Goditi una sessione di 30 minuti di sci d'acqua, mono-sci o wakeboard a Bentota.\n\nWatching Lanka se ne occupa, e 5 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende sessione di 30 minuti di sci d’acqua, monosci o wakeboard, istruzioni dedicate da un istruttore professionale (per l'opzione principianti), noleggio completo dell'attrezzatura (sci, tavola e corda di traino), giubbotto di salvataggio di alta qualità e attrezzatura di sicurezza e assicurazione per turismo avventura con copertura ospedaliera. Non comprende cibo e bevande, transfer di andata e ritorno dall'hotel e servizi di foto e video, quindi preventivalo separatamente.",
+  "highlights": [
+   "Goditi una sessione di 30 minuti di sci d'acqua, mono-sci o wakeboard a Bentota"
+  ],
+  "included": [
+   "sessione di 30 minuti di sci d’acqua, monosci o wakeboard",
+   "Istruzioni dedicate da un istruttore professionale (per l'opzione principianti)",
+   "Noleggio completo dell'attrezzatura (sci, tavola e corda di traino)",
+   "Giubbotto di salvataggio di alta qualità e attrezzatura di sicurezza",
+   "Assicurazione per turismo avventura con copertura ospedaliera"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Transfer di andata e ritorno dall'hotel",
+   "Servizi di foto e video"
   ]
  },
  "from-colombo-sinharaja-rainforest-nature-adventure": {
@@ -35985,6 +36078,26 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "sigiriya-rockminneriya-safaripidurangala-covering": {
+  "title": "Rocca di Sigiriya/Safari a Minneriya/Pidurangala, tour di un giorno",
+  "metaTitle": "Rocca di Sigiriya/Safari a Minneriya/Pidurangala, tour di un g...",
+  "metaDescription": "Esperienza di una giornata intera a Sigiriya. Scala l'iconica Fortezza Rocciosa di Sigiriya, Patrimonio dell'Umanita UNESCO. Offerto da Green Life Tours.",
+  "shortDescription": "Esperienza di una giornata intera a Sigiriya. Scala l'iconica Fortezza Rocciosa di Sigiriya, Patrimonio dell'Umanita UNESCO. Offerto da Green Life Tours.",
+  "fullDescription": "Un'esperienza di una giornata intera a Sigiriya. Scala l'iconica Fortezza Rocciosa di Sigiriya, Patrimonio dell'Umanita UNESCO.\n\nGreen Life Tours se ne occupa, e 8 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende auto VIP privata climatizzata con autista-guida, assistenza di autista professionale che parla inglese durante tutto il tour, pickup e drop-off in aeroporto o in hotel, carburante, pedaggi autostradali e costi di parcheggio e pianificazione dell'itinerario flessibile e personalizzabile.",
+  "highlights": [
+   "Scala l'iconica Fortezza Rocciosa di Sigiriya, Patrimonio dell'Umanita UNESCO"
+  ],
+  "included": [
+   "Auto VIP privata climatizzata con autista-guida",
+   "Assistenza di autista professionale che parla inglese durante tutto il tour",
+   "Pickup e drop-off in aeroporto o in hotel",
+   "Carburante, pedaggi autostradali e costi di parcheggio",
+   "Pianificazione dell'itinerario flessibile e personalizzabile"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "colombo-guided-city-tuk-tuk-tour-with-snacks-and": {
   "title": "Colombo: tour guidato della città in tuk-tuk con snack e trasporto",
   "metaTitle": "Colombo: tour guidato della città in tuk-tuk con snack e trasp...",
@@ -36047,6 +36160,27 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Pasti",
+   "Spese personali"
+  ]
+ },
+ "sigiriya-to-pasikudah-2-day-beach-escape": {
+  "title": "Da Sigiriya a Pasikudah: fuga in spiaggia di 2 giorni",
+  "metaTitle": "Da Sigiriya a Pasikudah: fuga in spiaggia di 2 giorni",
+  "metaDescription": "Esperienza di 2 giorno/i a Kandy. Visita all'antica città di Polonnaruwa. Offerto da Liyanage Tours.",
+  "shortDescription": "Esperienza di 2 giorno/i a Kandy. Visita all'antica città di Polonnaruwa. Offerto da Liyanage Tours.",
+  "fullDescription": "Un'esperienza di 2 giorno/i a Kandy. Visita all'antica città di Polonnaruwa.\n\nLiyanage Tours se ne occupa, e 6 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende pickup in hotel da Sigiriya/Dambulla, veicolo privato con aria condizionata e conducente che parla inglese, una notte di soggiorno a Pasikudah (colazione incluso) e hotel 3★ o 4★ sulla spiaggia a Pasikudah. Non comprende servizi di guida opzionali, pranzo e cena e spese personali, quindi preventivalo separatamente.",
+  "highlights": [
+   "Visita all'antica città di Polonnaruwa"
+  ],
+  "included": [
+   "Pickup in hotel da Sigiriya/Dambulla",
+   "Veicolo privato con aria condizionata e conducente che parla inglese",
+   "Una notte di soggiorno a Pasikudah (colazione incluso)",
+   "hotel 3★ o 4★ sulla spiaggia a Pasikudah"
+  ],
+  "notIncluded": [
+   "Servizi di guida opzionali",
+   "Pranzo e cena",
    "Spese personali"
   ]
  },
@@ -36318,6 +36452,99 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Spese personali"
+  ]
+ },
+ "kandy-kitulgala-rafting-lunch-adams-peak-night": {
+  "title": "Kandy - rafting a Kitulgala, pranzo ed escursione notturna all'Adam's Peak",
+  "metaTitle": "Kandy - rafting a Kitulgala, pranzo ed escursione notturna all...",
+  "metaDescription": "Esperienza di 2 giorno/i a Kandy. Vivi l'emozione del rafting sul fiume Kelani a Kitulgala. Offerto da Ceylon Heights.",
+  "shortDescription": "Esperienza di 2 giorno/i a Kandy. Vivi l'emozione del rafting sul fiume Kelani a Kitulgala. Offerto da Ceylon Heights.",
+  "fullDescription": "Un'esperienza di 2 giorno/i a Kandy. Vivi l'emozione del rafting sul fiume Kelani a Kitulgala.\n\nCeylon Heights se ne occupa, e 11 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende pickup da Kandy o Colombo, rafting in acque bianche con barca privata, attrezzatura di sicurezza e istruttore e canyoning con scivolate e salti con istruttore. Non comprende spese personali, assicurazione di viaggio e costo dell'hotel (non obbligatorio, solo se l'ospite deve riposare prima dell'escursione), quindi preventivalo separatamente. Due viaggiatori pagano 676 $ insieme invece di 507 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Vivi l'emozione del rafting sul fiume Kelani a Kitulgala"
+  ],
+  "included": [
+   "Pickup da Kandy o Colombo",
+   "Rafting in acque bianche con barca privata",
+   "Attrezzatura di sicurezza e istruttore",
+   "Canyoning con scivolate e salti con istruttore"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Assicurazione di viaggio",
+   "Costo dell'hotel (non obbligatorio, solo se l'ospite deve riposare prima dell'escursione)"
+  ]
+ },
+ "galle-to-bakers-bend-day-tour-scenic-inland": {
+  "title": "Da Galle a Baker’s Bend: tour di un giorno nella natura panoramica dell’entroterra",
+  "metaTitle": "Da Galle a Baker’s Bend: tour di un giorno nella natura panora...",
+  "metaDescription": "Un'escursione di una giornata intera da Galle che visita Baker's Bend. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "shortDescription": "Un'escursione di una giornata intera da Galle che visita Baker's Bend. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "fullDescription": "Un'escursione di una giornata intera da Galle, che passa per Baker's Bend.\n\nIl prezzo comprende veicolo privato con aria condizionata e autista che parla inglese, carburante, parcheggio e tutte le altre spese legate al trasporto, pickup e drop-off da Galle e zone costiere vicine (Unawatuna/Mirissa/Weligama/Hikkaduwa/Ahangama su richiesta), acqua in bottiglia offerta durante il viaggio, assistenza al percorso panoramico interno con soste a cascate e punti panoramici verso Belihuloya e supporto per soste nella natura, vedute del fiume e pause fotografiche. Non comprende pasti, snack e bevande, mance e spese personali, attrezzatura o abbigliamento da trekking personale e biglietti d'ingresso, quindi preventivalo separatamente. Due viaggiatori pagano 592 $ insieme invece di 423 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Galle che visita Baker's Bend. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD."
+  ],
+  "included": [
+   "Veicolo privato con aria condizionata e autista che parla inglese",
+   "Carburante, parcheggio e tutte le altre spese legate al trasporto",
+   "Pickup e drop-off da Galle e zone costiere vicine (Unawatuna/Mirissa/Weligama/Hikkaduwa/Ahangama su richiesta)",
+   "Acqua in bottiglia offerta durante il viaggio",
+   "Assistenza al percorso panoramico interno con soste a cascate e punti panoramici verso Belihuloya",
+   "Supporto per soste nella natura, vedute del fiume e pause fotografiche"
+  ],
+  "notIncluded": [
+   "Pasti, snack e bevande",
+   "Mance e spese personali",
+   "Attrezzatura o abbigliamento da trekking personale",
+   "Biglietti d'ingresso"
+  ]
+ },
+ "ella-to-belihuloya-safari-day-tour-hidden-nature": {
+  "title": "Da Ella a Belihuloya: safari e tour di un giorno nella natura nascosta",
+  "metaTitle": "Da Ella a Belihuloya: safari e tour di un giorno nella natura ...",
+  "metaDescription": "Un'escursione di una giornata intera da Ella che visita Belihuloya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "shortDescription": "Un'escursione di una giornata intera da Ella che visita Belihuloya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "fullDescription": "Un'escursione di una giornata intera da Ella, che passa per Belihuloya.\n\nIl prezzo comprende veicolo privato con aria condizionata e autista che parla inglese, carburante, parcheggio e tutte le altre spese legate al trasporto, pickup e drop-off da Ella e zone vicine (percorso Bandarawela/Haputale su richiesta), acqua in bottiglia offerta durante il viaggio, tragitto panoramico nella regione collinare con soste a cascate e punti panoramici verso Belihuloya e assistenza per visite turistiche, vedute del fiume e soste fotografiche. Non comprende mance e spese personali, attrezzatura o abbigliamento da trekking personale, pasti, snack e bevande e biglietti d'ingresso, quindi preventivalo separatamente. Due viaggiatori pagano 254 $ insieme invece di 203 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Ella che visita Belihuloya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD."
+  ],
+  "included": [
+   "Veicolo privato con aria condizionata e autista che parla inglese",
+   "Carburante, parcheggio e tutte le altre spese legate al trasporto",
+   "Pickup e drop-off da Ella e zone vicine (percorso Bandarawela/Haputale su richiesta)",
+   "Acqua in bottiglia offerta durante il viaggio",
+   "Tragitto panoramico nella regione collinare con soste a cascate e punti panoramici verso Belihuloya",
+   "Assistenza per visite turistiche, vedute del fiume e soste fotografiche"
+  ],
+  "notIncluded": [
+   "Mance e spese personali",
+   "Attrezzatura o abbigliamento da trekking personale",
+   "Pasti, snack e bevande",
+   "Biglietti d'ingresso"
+  ]
+ },
+ "kandy-to-belihuloya-safari-day-tour-with": {
+  "title": "Da Kandy a Belihuloya: safari e tour di un giorno con cascate e montagne",
+  "metaTitle": "Da Kandy a Belihuloya: safari e tour di un giorno con cascate ...",
+  "metaDescription": "Un'escursione di una giornata intera da Kandy che visita Belihuloya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "shortDescription": "Un'escursione di una giornata intera da Kandy che visita Belihuloya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "fullDescription": "Un'escursione di una giornata intera da Kandy, che passa per Belihuloya.\n\nIl prezzo comprende veicolo privato con aria condizionata e autista che parla inglese, carburante, parcheggio e tutte le altre spese legate al trasporto, pickup e drop-off da Kandy e zone vicine, acqua in bottiglia offerta durante il viaggio, tragitto panoramico nella regione collinare con soste nella natura verso Belihuloya e assistenza per visite turistiche, soste fotografiche e punti panoramici sul fiume. Non comprende mance e spese personali, pasti, snack e bevande, attrezzatura o abbigliamento da trekking personale e biglietti d'ingresso, quindi preventivalo separatamente. Due viaggiatori pagano 406 $ insieme invece di 355 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Kandy che visita Belihuloya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD."
+  ],
+  "included": [
+   "Veicolo privato con aria condizionata e autista che parla inglese",
+   "Carburante, parcheggio e tutte le altre spese legate al trasporto",
+   "Pickup e drop-off da Kandy e zone vicine",
+   "Acqua in bottiglia offerta durante il viaggio",
+   "Tragitto panoramico nella regione collinare con soste nella natura verso Belihuloya",
+   "Assistenza per visite turistiche, soste fotografiche e punti panoramici sul fiume"
+  ],
+  "notIncluded": [
+   "Mance e spese personali",
+   "Pasti, snack e bevande",
+   "Attrezzatura o abbigliamento da trekking personale",
+   "Biglietti d'ingresso"
   ]
  },
  "colombo-to-galle-bentota-day-tour-with-cultural": {
@@ -36659,6 +36886,27 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Biglietti d'ingresso alle attrazioni"
+  ]
+ },
+ "colombo-to-hidden-seethawaka-kingdom-secret": {
+  "title": "Da Colombo: fuga al regno nascosto di Seethawaka e al giardino segreto",
+  "metaTitle": "Da Colombo: fuga al regno nascosto di Seethawaka e al giardino...",
+  "metaDescription": "Un'escursione di una giornata intera da Colombo che visita Seethawaka. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "shortDescription": "Un'escursione di una giornata intera da Colombo che visita Seethawaka. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "fullDescription": "Un'escursione di una giornata intera da Colombo, che passa per Seethawaka.\n\nIl prezzo comprende rovine nascoste del regno di Seethawaka (raramente visitate), fuga segreta nel giardino botanico, esperienza di bagno naturale nel fiume e atmosfera autentica di villaggio. Non comprende biglietto d'ingresso (giardino di Seethawaka circa), pranzo (opzionale) e spese personali, quindi preventivalo separatamente. Due viaggiatori pagano 338 $ insieme invece di 229 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Colombo che visita Seethawaka. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD."
+  ],
+  "included": [
+   "Rovine nascoste del regno di Seethawaka (raramente visitate)",
+   "Fuga segreta nel giardino botanico",
+   "Esperienza di bagno naturale nel fiume",
+   "Atmosfera autentica di villaggio"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso (giardino di Seethawaka circa)",
+   "pranzo (opzionale)",
+   "Spese personali"
   ]
  },
  "sri-lanka-8-days-sri-lanka-highlights-private-tour": {
