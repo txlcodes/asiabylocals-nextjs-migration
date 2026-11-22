@@ -2734,6 +2734,90 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ninja-samurai-training-worth-it-tokyo":
+      return {
+        title: "Is the Ninja and Samurai Training Experience Worth It in Tokyo?",
+        description: "An honest look at the ninja and samurai training experience in Tokyo, a compact introduction to both disciplines in one session.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ninja-and-samurai-training-experience-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering both ninja and samurai training basics in a single 1-hour session is an efficient, affordable way to try two distinct pieces of Japanese martial history, a good fit for travelers short on time who still want a hands-on cultural activity.",
+            tourCard: { slug: "ninja-and-samurai-training-experience-in-tokyo", title: "Ninja and Samurai Training Experience", description: "A combined ninja and samurai training experience in Tokyo.", price: "From $107", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/ninja-and-samurai-training-experience-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 1 hour, this is more of an introductory taste than deep training — a good fit for a quick, fun add-on rather than a serious skill-building session.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ninja and samurai training experience worth it in Tokyo?", a: "Yes, it's an efficient, affordable way to try both disciplines in one quick, hands-on session." },
+        ],
+      };
+
+    case "is-sushi-making-class-worth-it-tokyo":
+      return {
+        title: "Is the Asakusa Sushi Making Class with Matcha & Sake Worth It in Tokyo?",
+        description: "An honest look at the sushi making class in Asakusa, paired with matcha and unlimited sake.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/asakusa-tokyo-sushi-making-class-matcha-and-unlimited-sake-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning hands-on sushi technique in Asakusa, with matcha and unlimited sake included, gives genuinely good value alongside the cultural skill-building, making this a solid pick for a relaxed afternoon or evening activity.",
+            tourCard: { slug: "asakusa-tokyo-sushi-making-class-matcha-and-unlimited-sake-by-local-operator", title: "Asakusa Tokyo Sushi Making Class with Matcha & Unlimited Sake", description: "A sushi making class in Asakusa with matcha and unlimited sake included.", price: "From $75", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/asakusa-tokyo-sushi-making-class-matcha-and-unlimited-sake-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself with the unlimited sake if you're also planning sightseeing afterward.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Asakusa sushi making class worth it in Tokyo?", a: "Yes, the included matcha and unlimited sake give genuinely good value alongside the hands-on sushi skill." },
+        ],
+      };
+
+    case "is-kendo-experience-worth-it-tokyo":
+      return {
+        title: "Is the Japanese Kendo Experience Worth It in Tokyo?",
+        description: "An honest look at the kendo experience with a high-ranked instructor in Tokyo, a genuine Japanese martial art taught with real discipline.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/japanese-kendo-experience-with-high-ranked-instructor-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning kendo from a genuinely high-ranked instructor gives real insight into a serious Japanese martial art and its code of discipline, distinct from a more casual, tourist-facing samurai photo-op.",
+            tourCard: { slug: "japanese-kendo-experience-with-high-ranked-instructor-in-tokyo", title: "Japanese Kendo Experience with High-Ranked Instructor", description: "A kendo martial arts experience with a high-ranked instructor in Tokyo.", price: "From $124", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/japanese-kendo-experience-with-high-ranked-instructor-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable, loose clothing you can move in, since this involves genuine physical practice and drills.",
+          },
+        ],
+        faqs: [
+          { q: "Is the kendo experience worth it in Tokyo?", a: "Yes, learning from a genuinely high-ranked instructor gives real insight into a serious martial art and its discipline." },
+        ],
+      };
+
+    case "is-toyosu-tuna-auction-tour-worth-it-tokyo":
+      return {
+        title: "Is the Private Toyosu Tuna Auction & Tsukiji Market Tour Worth It?",
+        description: "An honest look at the private Toyosu tuna auction and Tsukiji outer market tour in Tokyo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-toyosu-tuna-auction-and-tsukiji-market-adventure-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Watching the genuine tuna auction at Toyosu, the successor to the famous old Tsukiji inner market, paired with the still-bustling Tsukiji outer market, gives real insight into Tokyo's seafood industry that most visitors never see up close.",
+            tourCard: { slug: "private-toyosu-tuna-auction-and-tsukiji-market-adventure-tokyo", title: "Private Toyosu Tuna Auction & Tsukiji Market Adventure", description: "A private tour of the Toyosu tuna auction and Tsukiji outer market in Tokyo.", price: "From $431", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-toyosu-tuna-auction-and-tsukiji-market-adventure-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The tuna auction happens very early in the morning, so this is a genuinely early start — plan accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Toyosu tuna auction tour worth it in Tokyo?", a: "Yes, it gives genuine insight into Tokyo's seafood industry that most visitors never see up close." },
+        ],
+      };
+
     default:
             return null;
     }

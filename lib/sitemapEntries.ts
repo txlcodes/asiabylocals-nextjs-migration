@@ -1398,6 +1398,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-cat-cafe-tour-worth-it-tokyo',
     'is-daikoku-jdm-tour-worth-it-tokyo', 'is-geisha-show-worth-it-tokyo',
     'is-ghost-stories-night-walk-worth-it-tokyo',
+    'is-ninja-samurai-training-worth-it-tokyo', 'is-sushi-making-class-worth-it-tokyo',
+    'is-kendo-experience-worth-it-tokyo', 'is-toyosu-tuna-auction-tour-worth-it-tokyo',
 ].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
