@@ -1280,6 +1280,8 @@ export const PATTAYA_INFO_SLUGS = [
   'is-coral-island-tour-worth-it-pattaya', 'is-alcazar-cabaret-show-worth-it-pattaya',
   'is-floating-market-tour-worth-it-pattaya', 'is-big-buddha-temple-night-market-tour-worth-it-pattaya',
   'is-elephant-jungle-sanctuary-worth-it-pattaya',
+  'is-tiffanys-show-worth-it-pattaya', 'is-ramayana-water-park-worth-it-pattaya',
+  'is-max-muay-thai-worth-it-pattaya', 'is-winter-wonderland-worth-it-pattaya',
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.

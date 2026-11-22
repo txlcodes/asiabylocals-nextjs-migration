@@ -1271,6 +1271,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-coral-island-tour-worth-it-pattaya', 'is-alcazar-cabaret-show-worth-it-pattaya',
     'is-floating-market-tour-worth-it-pattaya', 'is-big-buddha-temple-night-market-tour-worth-it-pattaya',
     'is-elephant-jungle-sanctuary-worth-it-pattaya',
+    'is-tiffanys-show-worth-it-pattaya', 'is-ramayana-water-park-worth-it-pattaya',
+    'is-max-muay-thai-worth-it-pattaya', 'is-winter-wonderland-worth-it-pattaya',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),

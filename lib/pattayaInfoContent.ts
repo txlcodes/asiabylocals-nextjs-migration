@@ -826,6 +826,74 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-tiffanys-show-worth-it-pattaya":
+            return {
+                title: "Is Tiffany's Show Worth It in Pattaya?",
+                description: "An honest look at Tiffany's Show, one of Pattaya's longest-running and most elaborate cabaret productions.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tiffany-s-show-cabaret-ticket-with-vip-silver-seat-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Tiffany's is one of Pattaya's longest-running cabaret productions, with notably elaborate costumes and sets even compared to the city's other cabaret shows like Alcazar and Colosseum, making it a strong pick if you're only catching one show.", tourCard: { slug: "tiffany-s-show-cabaret-ticket-with-vip-silver-seat-in-pattaya", title: "Tiffany's Show Cabaret Ticket with VIP Silver Seat", description: "A VIP silver seat ticket to Tiffany's Show cabaret in Pattaya.", price: "From $86", duration: "75 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/tiffany-s-show-cabaret-ticket-with-vip-silver-seat-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book the VIP seating if you can — Tiffany's elaborate sets are worth seeing from a closer vantage point." }
+                ],
+                faqs: [
+                    { q: "Is Tiffany's Show worth it in Pattaya?", a: "Yes, it's one of Pattaya's longest-running and most elaborate cabaret productions, a strong pick if you're only seeing one show." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Tiffany's Show worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's one of the city's longest-running and most elaborate cabaret productions." } }
+                ] },
+            };
+
+        case "is-ramayana-water-park-worth-it-pattaya":
+            return {
+                title: "Is Ramayana Water Park Worth It in Pattaya?",
+                description: "An honest look at Ramayana Water Park, one of Pattaya's larger waterpark options for a family beach-break day.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ramayana-water-park-entry-ticket-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Ramayana is one of the larger waterparks in the Pattaya area, with enough slides and pools to fill a full day, making it a solid choice for families wanting a break from the beach or city sightseeing.", tourCard: { slug: "ramayana-water-park-entry-ticket-in-pattaya", title: "Ramayana Water Park Entry Ticket", description: "An entry ticket to Ramayana Water Park near Pattaya.", price: "From $31", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/ramayana-water-park-entry-ticket-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go on a weekday if possible to avoid the heaviest crowds around the main slides." }
+                ],
+                faqs: [
+                    { q: "Is Ramayana Water Park worth it in Pattaya?", a: "Yes, it's one of the larger waterparks in the area and a solid choice for a family day away from the beach." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Ramayana Water Park worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's one of the area's larger waterparks and a solid family day option." } }
+                ] },
+            };
+
+        case "is-max-muay-thai-worth-it-pattaya":
+            return {
+                title: "Is Max Muay Thai Stadium Worth It in Pattaya?",
+                description: "An honest look at watching a live Muay Thai match at Max Muay Thai Stadium in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/max-muay-thai-stadium-passionate-journey-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Watching a live match at a dedicated stadium like Max Muay Thai gives a genuine look at Thailand's national sport, with real atmosphere from the crowd that a training class alone doesn't capture.", tourCard: { slug: "max-muay-thai-stadium-passionate-journey-in-pattaya", title: "Max Muay Thai Stadium: A Passionate Journey", description: "A ticket to watch a live Muay Thai match at Max Muay Thai Stadium in Pattaya.", price: "From $58", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/max-muay-thai-stadium-passionate-journey-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the fight schedule in advance, since matches run on specific nights rather than every day." }
+                ],
+                faqs: [
+                    { q: "Is Max Muay Thai Stadium worth it in Pattaya?", a: "Yes, for a genuine look at Thailand's national sport with real crowd atmosphere." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Max Muay Thai Stadium worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine look at Thailand's national sport with real crowd atmosphere." } }
+                ] },
+            };
+
+        case "is-winter-wonderland-worth-it-pattaya":
+            return {
+                title: "Is Winter Wonderland Real Snow Park Worth It in Pattaya?",
+                description: "An honest look at Winter Wonderland, a real-snow indoor attraction that's a novelty in Thailand's tropical climate.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/winter-wonderland-real-snow-park-entry-ticket-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Genuine real snow indoors is a real novelty in Thailand's tropical climate, making this a fun, air-conditioned break from the heat, especially appealing for kids who've never seen or touched snow.", tourCard: { slug: "winter-wonderland-real-snow-park-entry-ticket-in-pattaya", title: "Winter Wonderland Real Snow Park Entry Ticket", description: "An entry ticket to Winter Wonderland's real snow park in Pattaya.", price: "From $35", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/winter-wonderland-real-snow-park-entry-ticket-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring warm clothing or rent it on-site, since the indoor temperature is kept genuinely cold to maintain the real snow." }
+                ],
+                faqs: [
+                    { q: "Is Winter Wonderland worth it in Pattaya?", a: "Yes, it's a fun novelty and a cool break from the heat, especially for kids who've never experienced real snow." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Winter Wonderland worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a fun, genuinely cold novelty break from Thailand's tropical heat." } }
+                ] },
+            };
+
         default:
             return null;
     }
