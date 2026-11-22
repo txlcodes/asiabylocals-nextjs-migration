@@ -355,6 +355,8 @@ export const TBILISI_INFO_SLUGS = [
   'is-mtskheta-jvari-tour-worth-it-tbilisi', 'is-ananuri-gudauri-kazbegi-tour-worth-it-tbilisi',
   'is-kakheti-wine-tour-worth-it-tbilisi', 'is-armenia-day-trip-worth-it-tbilisi',
   'is-chronicles-of-georgia-tour-worth-it-tbilisi',
+  'is-khachapuri-food-tour-worth-it-tbilisi', 'is-gori-stalin-museum-tour-worth-it-tbilisi',
+  'is-birtvisi-rock-climbing-worth-it-tbilisi',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.

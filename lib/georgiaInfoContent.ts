@@ -1783,6 +1783,57 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-khachapuri-food-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Tbilisi Khachapuri Food Tour Worth It?",
+                description: "An honest look at the Tbilisi khachapuri food tour, a guided tasting crawl built around Georgia's iconic cheese bread.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8988b65bc2d6a8148e578f638d2c2745e43ac98b14cfe6f38254da29dd79810f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Khachapuri comes in genuinely different regional styles across Georgia, and a guided tasting tour is a good way to sample several versions in one outing and understand what actually distinguishes a good one from a mediocre one.", tourCard: { slug: "tbilisi-khachapuri-food-tour", title: "Tbilisi Khachapuri Food Tour", description: "A guided food tour in Tbilisi centered on Georgia's iconic khachapuri cheese bread.", price: "From $128", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8988b65bc2d6a8148e578f638d2c2745e43ac98b14cfe6f38254da29dd79810f.jpeg" } },
+                    { title: "Practical Tips", content: "Come hungry — khachapuri is genuinely filling, and sampling several versions across stops adds up." }
+                ],
+                faqs: [
+                    { q: "Is the khachapuri food tour worth it in Tbilisi?", a: "Yes, it's a good way to sample Georgia's genuinely different regional khachapuri styles in one guided outing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the khachapuri food tour worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a good way to sample Georgia's different regional khachapuri styles in one outing." } }
+                ] },
+            };
+
+        case "is-gori-stalin-museum-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Gori, Uplistsikhe & Stalin Museum Tour Worth It from Tbilisi?",
+                description: "An honest look at the day trip combining Gori's Stalin Museum with the ancient Uplistsikhe cave town.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/78dcefccad524f7b22515931547eff7299b337b46c65fdcefd36bf5fc3c29322.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the genuinely fascinating and controversial Stalin Museum in his hometown of Gori with the ancient rock-hewn Uplistsikhe cave town gives this day trip a striking mix of 20th-century political history and ancient archaeology.", tourCard: { slug: "tbilisi-gori-uplistsikhe-cave-town-stalin-museum", title: "Tbilisi: Gori, Uplistsikhe Cave Town & Stalin Museum", description: "A day trip from Tbilisi combining the Stalin Museum in Gori with the ancient Uplistsikhe cave town.", price: "From $215", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/78dcefccad524f7b22515931547eff7299b337b46c65fdcefd36bf5fc3c29322.jpg" } },
+                    { title: "Practical Tips", content: "The Stalin Museum presents a notably uncritical narrative of his legacy, so come with your own historical context in mind." }
+                ],
+                faqs: [
+                    { q: "Is the Gori and Stalin Museum tour worth it from Tbilisi?", a: "Yes, pairing it with the ancient Uplistsikhe cave town gives a striking mix of political history and archaeology in one day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gori Stalin Museum tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, pairing it with Uplistsikhe gives a striking mix of political history and ancient archaeology." } }
+                ] },
+            };
+
+        case "is-birtvisi-rock-climbing-worth-it-tbilisi":
+            return {
+                title: "Is the Birtvisi Rock Climbing & Hiking Tour Worth It from Tbilisi?",
+                description: "An honest look at the Birtvisi rock climbing and hiking day trip, a genuine adventure-sports activity among dramatic limestone canyons.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a21a35ba4a6dce1f8732b5a1b0aaae3b6ca0063dd056a2ef067ebc9471883f14.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Birtvisi's dramatic limestone canyons and old fortress ruins make a genuinely good setting for rock climbing and hiking, a real adventure-sports day distinct from Georgia's wine-tasting and monastery day trips.", tourCard: { slug: "from-tbilisi-birtvisi-rock-climbing-and-hiking", title: "From Tbilisi: Birtvisi Rock Climbing & Hiking", description: "A rock climbing and hiking day trip to Birtvisi's limestone canyons from Tbilisi.", price: "From $293", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a21a35ba4a6dce1f8732b5a1b0aaae3b6ca0063dd056a2ef067ebc9471883f14.jpg" } },
+                    { title: "Practical Tips", content: "No prior climbing experience is typically needed — confirm with the operator what skill level the specific route requires." }
+                ],
+                faqs: [
+                    { q: "Is the Birtvisi rock climbing tour worth it from Tbilisi?", a: "Yes, for a genuine adventure-sports day among dramatic limestone canyons, distinct from Georgia's usual wine and monastery day trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Birtvisi rock climbing tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine adventure-sports day among dramatic limestone canyons." } }
+                ] },
+            };
+
         default:
             return null;
     }
