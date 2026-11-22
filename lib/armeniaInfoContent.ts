@@ -713,6 +713,74 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-trchkan-waterfall-4x4-worth-it-yerevan":
+            return {
+                title: "Is the Trchkan Waterfall Private 4x4 Adventure Worth It from Yerevan?",
+                description: "An honest look at the private 4x4 adventure to Trchkan Waterfall, Armenia's largest waterfall.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/79e9380f6669702e3f064300489168115eecbb1f1d30295c05ac8da6a241bc46.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Trchkan is genuinely Armenia's largest waterfall, and reaching it requires a real 4x4 adventure over rough terrain, giving this trip a distinct nature-and-adventure angle beyond the monastery circuit most Yerevan day trips cover.", tourCard: { slug: "trchkan-waterfall-private-4x4-adventure", title: "Trchkan Waterfall Private 4x4 Adventure", description: "A private 4x4 adventure to Trchkan Waterfall, Armenia's largest waterfall.", price: "From $312", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/79e9380f6669702e3f064300489168115eecbb1f1d30295c05ac8da6a241bc46.jpeg" } },
+                    { title: "Practical Tips", content: "Expect a genuinely rough 4x4 ride over rural roads — this isn't a paved scenic drive." },
+                ],
+                faqs: [
+                    { q: "Is the Trchkan Waterfall 4x4 adventure worth it from Yerevan?", a: "Yes, it gives a distinct nature-and-adventure angle, reaching Armenia's largest waterfall beyond the usual monastery circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Trchkan Waterfall 4x4 adventure worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it reaches Armenia's largest waterfall via a genuine 4x4 adventure." } },
+                ] },
+            };
+
+        case "is-urbex-observatory-tour-worth-it-yerevan":
+            return {
+                title: "Is the Urbex Byurakan Observatory Tour Worth It from Yerevan?",
+                description: "An honest look at the urbex tour to the ROT-54 Schmidt telescope at Byurakan Observatory near Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/45d175229c92353d72b7fc18c0800f25bd500eb5913a68f29f41f7260252ad6e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting a real Soviet-era astronomical observatory and its ROT-54 Schmidt telescope gives a genuinely unusual urbex-style activity distinct from Armenia's churches and landscapes, a good fit for travelers into offbeat, scientific history.", tourCard: { slug: "urbex-from-yerevan-rot54-schmidt-telescope-tour", title: "Urbex from Yerevan: ROT-54 Schmidt Telescope Tour", description: "An urbex-style tour to the ROT-54 Schmidt telescope at Byurakan Observatory.", price: "From $455", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/45d175229c92353d72b7fc18c0800f25bd500eb5913a68f29f41f7260252ad6e.jpeg" } },
+                    { title: "Practical Tips", content: "This suits travelers with a genuine interest in astronomy or Soviet-era scientific history, more than typical scenic sightseeing." },
+                ],
+                faqs: [
+                    { q: "Is the Byurakan Observatory urbex tour worth it from Yerevan?", a: "Yes, for travelers into offbeat scientific history, it's a genuinely unusual activity distinct from Armenia's churches and landscapes." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the observatory urbex tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely unusual activity for those into offbeat scientific history." } },
+                ] },
+            };
+
+        case "is-lavash-baking-class-worth-it-yerevan":
+            return {
+                title: "Is the Garni & Geghard Tour with Lavash Baking Worth It from Yerevan?",
+                description: "An honest look at the Garni and Geghard day tour that includes a hands-on lavash bread baking class.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cd277fc5389f6e595376ab6d19fff48117a19d18914ca6e484a15549e6c86cd.png",
+                sections: [
+                    { title: "The Short Answer", content: "Lavash is a genuine UNESCO-recognized Armenian culinary tradition, and adding a hands-on baking class to the standard Garni and Geghard temple circuit gives real cultural depth beyond just sightseeing the ancient sites.", tourCard: { slug: "from-yerevan-garni-geghard-with-lavash-baking", title: "From Yerevan: Garni & Geghard Tour with Lavash Baking", description: "A Garni and Geghard day tour including a hands-on lavash baking class.", price: "From $49", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cd277fc5389f6e595376ab6d19fff48117a19d18914ca6e484a15549e6c86cd.png" } },
+                    { title: "Practical Tips", content: "Come hungry — you'll be eating the lavash you bake, traditionally served warm straight from the tonir oven." },
+                ],
+                faqs: [
+                    { q: "Is the lavash baking class worth it in Yerevan?", a: "Yes, lavash is a genuine UNESCO-recognized tradition, and baking it yourself adds real cultural depth to the Garni and Geghard circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the lavash baking class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, lavash is a genuine UNESCO-recognized tradition, adding real cultural depth." } },
+                ] },
+            };
+
+        case "is-taste-of-yerevan-tour-worth-it-yerevan":
+            return {
+                title: "Is the Taste of Yerevan Beer, Wines & Gelato Tour Worth It?",
+                description: "An honest look at the Taste of Yerevan tour, sampling local beer, wine, and signature gelato around the city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/54c2121b6b0434e7d5583a076034827e0d0e362f2a3e19de69630863f9375bb6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Sampling local beer, wine, and signature gelato across several Yerevan stops gives a genuinely varied taste of the city's food and drink scene in one guided outing, a good evening activity distinct from the day's monastery and temple sightseeing.", tourCard: { slug: "the-taste-of-yerevan-beer-wines-signiture-gelato", title: "The Taste of Yerevan: Beer, Wines & Signature Gelato", description: "A tasting tour of Yerevan's local beer, wine, and signature gelato.", price: "From $227", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/54c2121b6b0434e7d5583a076034827e0d0e362f2a3e19de69630863f9375bb6.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry but not full — the format is several small tastings across stops, not one large meal." },
+                ],
+                faqs: [
+                    { q: "Is the Taste of Yerevan tour worth it?", a: "Yes, it gives a genuinely varied taste of the city's food and drink scene in one guided evening outing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Taste of Yerevan tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives a genuinely varied taste of the city's food and drink scene." } },
+                ] },
+            };
+
         default:
             return null;
     }
