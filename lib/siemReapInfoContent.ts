@@ -1669,6 +1669,74 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-battambang-day-trip-worth-it-siem-reap":
+            return {
+                title: "Is the Battambang Day Trip with Bamboo Train Worth It from Siem Reap?",
+                description: "An honest look at the Battambang day trip from Siem Reap, featuring the famous bamboo train ride.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/battambang-day-trip-with-bamboo-train-ride/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Battambang's bamboo train is a genuinely unique, slightly rickety ride on a repurposed rail cart, and the town itself has a quieter, more authentic colonial-era charm than the temple-focused pace of Siem Reap, worth the long day trip for travelers with time to spare.", tourCard: { slug: "battambang-day-trip-with-bamboo-train-ride", title: "Battambang Day Trip with Bamboo Train Ride", description: "A day trip to Battambang from Siem Reap, including the bamboo train ride.", price: "From $558", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/battambang-day-trip-with-bamboo-train-ride/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "It's a genuinely long day trip given the distance, so this suits travelers with flexible time rather than a tight Angkor-only itinerary." }
+                ],
+                faqs: [
+                    { q: "Is the Battambang day trip worth it from Siem Reap?", a: "Yes, the bamboo train is a genuinely unique ride, and the town has a quieter charm distinct from Siem Reap's temple pace." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Battambang day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the genuinely unique bamboo train ride and a quieter colonial-era town." } }
+                ] },
+            };
+
+        case "is-kulen-mountain-trekking-worth-it-siem-reap":
+            return {
+                title: "Is the Full-Day Kulen Mountain Trekking Tour Worth It from Siem Reap?",
+                description: "An honest look at the full-day Kulen Mountain trekking tour with lunch, a genuine physical hike distinct from temple sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/full-day-kulen-mountain-trekking-tour-and-lunch-package/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Phnom Kulen is Cambodia's most sacred mountain, and a genuine trekking tour rather than just a drive-up visit gives real physical engagement with the site's waterfalls and jungle terrain, a good change of pace from a full day of ancient ruins.", tourCard: { slug: "full-day-kulen-mountain-trekking-tour-and-lunch-pa", title: "Full-Day Kulen Mountain Trekking Tour with Lunch", description: "A full-day trekking tour of Phnom Kulen mountain with lunch included.", price: "From $637", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-kulen-mountain-trekking-tour-and-lunch-package/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come with real hiking fitness and proper footwear — this is a genuine trek, not a casual viewpoint stop." }
+                ],
+                faqs: [
+                    { q: "Is the Kulen Mountain trekking tour worth it from Siem Reap?", a: "Yes, it gives real physical engagement with Cambodia's most sacred mountain, a good change from a full day of temple sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kulen Mountain trekking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for real physical engagement with Cambodia's most sacred mountain." } }
+                ] },
+            };
+
+        case "is-chong-kneas-sunset-cruise-worth-it-siem-reap":
+            return {
+                title: "Is the Chong Kneas Sunset Cruise with Canapes & Wine Worth It?",
+                description: "An honest look at the sunset cruise at Chong Kneas floating village with canapes and wine.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sunset-cruise-at-chong-kneas-with-canap-s-and-wine/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a sunset cruise at the Chong Kneas floating village with canapes and wine gives this a genuinely upscale evening feel, a nicer alternative to the more basic standard floating-village boat tours most visitors take.", tourCard: { slug: "sunset-cruise-at-chong-kneas-with-canapes-and-wine", title: "Sunset Cruise at Chong Kneas with Canapes & Wine", description: "A sunset cruise at the Chong Kneas floating village with canapes and wine.", price: "From $189", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sunset-cruise-at-chong-kneas-with-canap-s-and-wine/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book the sunset time slot specifically, since the lighting is a major part of the experience's appeal." }
+                ],
+                faqs: [
+                    { q: "Is the Chong Kneas sunset cruise worth it?", a: "Yes, the canapes and wine give it a genuinely upscale feel, a nicer alternative to basic floating-village boat tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chong Kneas sunset cruise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely upscale alternative to basic floating-village boat tours." } }
+                ] },
+            };
+
+        case "is-war-museum-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Angkor Wat & War Museum Guided Tour Worth It?",
+                description: "An honest look at the combined Angkor Wat and Cambodia Landmine Museum/War Museum guided tour in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/angkor-wat-and-war-museum-guided-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing Angkor Wat with the War Museum adds a genuinely sobering, more recent historical dimension to a day otherwise focused on 12th-century temple ruins, giving real context to Cambodia's difficult 20th-century history.", tourCard: { slug: "angkor-wat-and-war-museum-guided-tour", title: "Angkor Wat & War Museum Guided Tour", description: "A combined guided tour of Angkor Wat and a War Museum in Siem Reap.", price: "From $64", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/angkor-wat-and-war-museum-guided-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Approach the War Museum with emotional readiness — it covers genuinely difficult modern Cambodian history, not a casual sightseeing pace." }
+                ],
+                faqs: [
+                    { q: "Is the Angkor Wat and War Museum tour worth it?", a: "Yes, it adds a genuinely sobering, more recent historical dimension beyond the ancient temple ruins." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the War Museum tour worth it in Siem Reap?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it adds genuine context to Cambodia's difficult 20th-century history." } }
+                ] },
+            };
+
         default:
             return null;
     }

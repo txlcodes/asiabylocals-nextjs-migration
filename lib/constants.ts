@@ -1388,6 +1388,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'is-apsara-dance-show-worth-it-siem-reap', 'is-quad-bike-tour-worth-it-siem-reap',
     'is-cooking-class-worth-it-siem-reap', 'is-silk-farm-tour-worth-it-siem-reap',
     'is-apopo-visitor-center-worth-it-siem-reap', 'is-local-market-khmer-life-tour-worth-it-siem-reap',
+    'is-battambang-day-trip-worth-it-siem-reap', 'is-kulen-mountain-trekking-worth-it-siem-reap',
+    'is-chong-kneas-sunset-cruise-worth-it-siem-reap', 'is-war-museum-tour-worth-it-siem-reap',
 ];
 
 export const KRABI_INFO_SLUGS = [
