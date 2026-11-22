@@ -895,6 +895,90 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-alpine-coaster-worth-it-sapa":
+      return {
+        title: "Is the Ban Mong Alpine Coaster Worth It in Sapa?",
+        description: "An honest look at the Ban Mong alpine coaster, a self-steered downhill ride paired with a scenic viewpoint escape above Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ban-mong-alpine-coaster-and-best-view-escape-tour-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The alpine coaster is a fun, low-effort thrill ride with genuine mountain views, a good fit for travelers wanting something lighter and more playful than Sapa's trekking-heavy itinerary, and it works well for families with kids too young for a full day's hike.",
+            tourCard: { slug: "ban-mong-alpine-coaster-and-best-view-escape-tour-in-sapa", title: "Ban Mong Alpine Coaster & Best View Escape Tour", description: "A self-steered alpine coaster ride paired with a scenic viewpoint above Sapa.", price: "From $169", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ban-mong-alpine-coaster-and-best-view-escape-tour-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good half-day option on a day you want a break from trekking, especially for families traveling with younger kids.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ban Mong alpine coaster worth it in Sapa?", a: "Yes, it's a fun, low-effort way to see mountain views, and a good fit for families or anyone wanting a break from trekking." },
+        ],
+      };
+
+    case "is-glass-bridge-tour-worth-it-sapa":
+      return {
+        title: "Is the Dragon Cloud Glass Bridge & Love Waterfall Tour Worth It in Sapa?",
+        description: "An honest look at the Dragon Cloud glass bridge paired with a visit to Love Waterfall near Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/dragon-cloud-glass-bridge-and-love-waterfall-tour-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Walking the Dragon Cloud glass bridge over the forest canopy, then following up with Love Waterfall, gives you two distinct photogenic stops in one 5-hour outing without the physical demands of a multi-hour trek.",
+            tourCard: { slug: "dragon-cloud-glass-bridge-and-love-waterfall-tour-in-sapa", title: "Dragon Cloud Glass Bridge & Love Waterfall Tour", description: "A tour combining the Dragon Cloud glass bridge and Love Waterfall near Sapa.", price: "From $135", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/dragon-cloud-glass-bridge-and-love-waterfall-tour-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Not recommended for anyone with a serious fear of heights, since the glass bridge is the main draw of the tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dragon Cloud glass bridge tour worth it in Sapa?", a: "Yes, it packs two distinct photogenic stops into a half-day without the physical demands of a long trek." },
+        ],
+      };
+
+    case "is-mountain-biking-worth-it-sapa":
+      return {
+        title: "Is Mountain Biking in Muong Hoa Valley Worth It in Sapa?",
+        description: "An honest look at the mountain biking adventure through Sapa's Muong Hoa Valley, an alternative to trekking the same rice-terrace scenery.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/muong-hoa-valley-mountain-biking-adventure-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering Muong Hoa Valley's rice terraces and villages by mountain bike instead of on foot lets you see more ground in a single outing, a genuine alternative for travelers who want the same scenery as a trek but prefer two wheels over walking.",
+            tourCard: { slug: "muong-hoa-valley-mountain-biking-adventure-in-sapa", title: "Muong Hoa Valley Mountain Biking Adventure", description: "A mountain biking tour through Sapa's Muong Hoa Valley rice terraces.", price: "From $208", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/muong-hoa-valley-mountain-biking-adventure-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You'll want genuine off-road biking experience, since the valley's trails are uneven and involve real climbs and descents.",
+          },
+        ],
+        faqs: [
+          { q: "Is mountain biking worth it in Muong Hoa Valley?", a: "Yes, for travelers who want Sapa's rice-terrace scenery but prefer covering more ground by bike rather than on foot." },
+        ],
+      };
+
+    case "is-hmong-cooking-class-worth-it-sapa":
+      return {
+        title: "Is the Traditional Cooking Class with a Local Hmong Family Worth It in Sapa?",
+        description: "An honest look at the traditional cooking class hosted by a local Hmong family in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/traditional-cooking-class-with-local-hmong-family-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cooking in a real Hmong family's home, rather than a tourist-facing cooking school, gives this class a more genuine cultural dimension alongside the usual hands-on recipe practice.",
+            tourCard: { slug: "traditional-cooking-class-with-local-hmong-family-in-sapa", title: "Traditional Cooking Class with Local Hmong Family", description: "A hands-on Vietnamese cooking class hosted by a local Hmong family in Sapa.", price: "From $93", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-cooking-class-with-local-hmong-family-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pairing with a village trek, since the class is usually hosted in or near one of the Hmong villages already on Sapa's trekking routes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hmong family cooking class worth it in Sapa?", a: "Yes, cooking in a real family home gives it more genuine cultural depth than a typical tourist cooking school." },
+        ],
+      };
+
     default:
       return null;
   }

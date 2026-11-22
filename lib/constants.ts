@@ -2158,6 +2158,8 @@ export const SAPA_INFO_SLUGS = [
   'is-fansipan-summit-trek-worth-it-sapa', 'is-lao-chai-ta-van-trek-worth-it-sapa',
   'is-mu-cang-chai-trek-worth-it-sapa', 'is-red-dao-herbal-bath-worth-it-sapa',
   'is-overnight-train-tour-worth-it-sapa',
+  'is-alpine-coaster-worth-it-sapa', 'is-glass-bridge-tour-worth-it-sapa',
+  'is-mountain-biking-worth-it-sapa', 'is-hmong-cooking-class-worth-it-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
