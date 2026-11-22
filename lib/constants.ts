@@ -1072,6 +1072,9 @@ export const DOHA_INFO_SLUGS = [
   'is-beach-club-day-pass-worth-it-doha', 'is-camel-racetrack-oryx-farm-tour-worth-it-doha',
   'is-classic-car-tour-worth-it-doha', 'is-villaggio-mall-gondola-worth-it-doha',
   'is-doha-night-tour-worth-it',
+  'is-national-museum-of-qatar-worth-it-doha', 'is-museum-of-islamic-art-worth-it-doha',
+  'is-zekreet-richard-serra-tour-worth-it-doha', 'is-lusail-city-tour-worth-it-doha',
+  'is-khor-al-adaid-inland-sea-worth-it-doha',
 ];
 
 export const BUSAN_INFO_SLUGS = [

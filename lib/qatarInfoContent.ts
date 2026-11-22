@@ -1564,6 +1564,111 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-national-museum-of-qatar-worth-it-doha":
+      return {
+        title: "Is the National Museum of Qatar Worth It in Doha?",
+        description: "An honest look at the National Museum of Qatar, a striking desert-rose-inspired building telling the country's history from ancient times to today.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43118e15f41d2a4837cd26b71ed3cedc111810c7a1dcb2162c088e437fc12ce0.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The museum's building itself, inspired by the desert rose mineral formation, is as much a reason to visit as the exhibits inside, which trace Qatar's history from ancient geology through pearling and oil wealth to the modern state.",
+            tourCard: { slug: "national-museum-of-qatar-admission-ticket", title: "National Museum of Qatar Admission Ticket", description: "Admission to the National Museum of Qatar.", price: "From $9", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43118e15f41d2a4837cd26b71ed3cedc111810c7a1dcb2162c088e437fc12ce0.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Budget real time here — the building's scale and the exhibits together easily fill a few hours, more than a quick drive-by photo stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the National Museum of Qatar worth visiting?", a: "Yes, for both the striking desert-rose-inspired architecture and a genuine walk through Qatar's history from ancient times to today." },
+        ],
+      };
+
+    case "is-museum-of-islamic-art-worth-it-doha":
+      return {
+        title: "Is the Museum of Islamic Art Worth It in Doha?",
+        description: "An honest look at the Museum of Islamic Art, home to one of the world's most significant collections of Islamic artifacts spanning 1,400 years.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/677d2465b4fa294f3a7fb8abaf083c9d4eefaf099eaae1676e9961b8414837b7.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This museum holds one of the world's most significant collections of Islamic art and artifacts, spanning roughly 1,400 years across three continents, set in a striking I.M. Pei-designed building on its own island at the edge of Doha Bay.",
+            tourCard: { slug: "doha-museum-of-islamic-art-admission-ticket", title: "Doha: Museum of Islamic Art Admission Ticket", description: "Admission to the Museum of Islamic Art in Doha.", price: "From $18", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/677d2465b4fa294f3a7fb8abaf083c9d4eefaf099eaae1676e9961b8414837b7.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The surrounding park and waterfront make for a genuinely good sunset walk after your museum visit, with views back across the bay to West Bay's skyline.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Museum of Islamic Art worth visiting in Doha?", a: "Yes, for one of the world's most significant Islamic art collections in a genuinely striking building on the bay." },
+        ],
+      };
+
+    case "is-zekreet-richard-serra-tour-worth-it-doha":
+      return {
+        title: "Is the Zekreet and Richard Serra Sculpture Tour Worth It in Doha?",
+        description: "An honest look at the West Coast tour to Zekreet and Richard Serra's 'East-West/West-East' sculpture, a desert landscape genuinely different from the usual dune-bashing safari circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49d28c982c35820a11859e52d7916fe7cc5967f459dcb54b3abc10cd75ba2506.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Richard Serra's 'East-West/West-East' is four massive steel plates installed in the open desert near Zekreet, alongside the Zekreet mushroom rock formations and the abandoned 'Film City' set, a genuinely different kind of desert excursion from the dune-bashing-and-camel-ride safari circuit.",
+            tourCard: { slug: "doha-west-coast-tour-to-zekreet-richard-serra", title: "Doha: West Coast Tour to Zekreet & Richard Serra", description: "A tour to the Zekreet desert landscape and Richard Serra sculpture.", price: "From $247", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49d28c982c35820a11859e52d7916fe7cc5967f459dcb54b3abc10cd75ba2506.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers with an interest in art and photography rather than the adrenaline-focused standard desert safari.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Zekreet and Richard Serra tour worth it?", a: "Yes, for a genuinely different, art-and-photography-focused desert excursion distinct from the usual dune-bashing safari." },
+        ],
+      };
+
+    case "is-lusail-city-tour-worth-it-doha":
+      return {
+        title: "Is the Lusail City Tour Worth It in Doha?",
+        description: "An honest look at Lusail, Qatar's purpose-built futuristic satellite city and the site of the 2022 World Cup final.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/212c3ec992350971ddcd6a5571660ddfa032326f8008850c1925ecc56edd0acf.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lusail is a purpose-built futuristic satellite city north of Doha, home to Lusail Stadium where the 2022 World Cup final was held, and its planned architecture and waterfront give a genuinely different, more modern feel than Doha's older downtown core.",
+            tourCard: { slug: "lusail-city-tour-qatar", title: "Lusail City Tour, Qatar", description: "A city tour of Lusail, Qatar's futuristic satellite city.", price: "From $186", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/212c3ec992350971ddcd6a5571660ddfa032326f8008850c1925ecc56edd0acf.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers with an interest in modern architecture or World Cup history, distinct from Doha's older heritage sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lusail worth visiting in Doha?", a: "Yes, for a genuinely different, modern planned-city feel and World Cup history, distinct from Doha's older downtown core." },
+        ],
+      };
+
+    case "is-khor-al-adaid-inland-sea-worth-it-doha":
+      return {
+        title: "Is the Khor Al Adaid Inland Sea Tour Worth It in Doha?",
+        description: "An honest look at the 4WD excursion to Khor Al Adaid, a UNESCO-recognized natural inland sea where the desert meets the Arabian Gulf.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf23f92728fbe7e17036575f5ebf36da2b2b0699bc00640af814a0e748f60455.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Khor Al Adaid, the Inland Sea, is a UNESCO-recognized natural phenomenon where sea water reaches deep into the desert, creating a genuinely striking landscape where sand dunes meet open water, usually reached as the endpoint of a 4WD desert drive.",
+            tourCard: { slug: "from-doha-4wd-desert-excursion-to-khor-al-adaid", title: "From Doha: 4WD Desert Excursion to Khor Al Adaid", description: "A 4WD desert excursion to the Khor Al Adaid Inland Sea.", price: "From $45", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf23f92728fbe7e17036575f5ebf36da2b2b0699bc00640af814a0e748f60455.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is usually the destination point of the standard desert safari rather than a separate trip — confirm whether your booking includes dune bashing or is a more direct transfer." ,
+          },
+        ],
+        faqs: [
+          { q: "Is Khor Al Adaid worth visiting?", a: "Yes, it's a genuinely striking UNESCO-recognized natural phenomenon where the desert meets open sea water." },
+        ],
+      };
+
     default:
       return null;
   }
