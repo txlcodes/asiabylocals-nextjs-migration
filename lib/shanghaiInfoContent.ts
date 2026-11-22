@@ -687,6 +687,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tai-chi-class-worth-it-shanghai":
+      return {
+        title: "Is the Chen Tai Chi Class with Tea Ritual Worth It in Shanghai?",
+        description: "An honest look at the authentic Chen-style Tai Chi class paired with a tea ritual in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/de431ddf4847f96687ef521a8e221d53936f760ce1d137747fbce0e72ce1ba82.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chen-style is considered the original form of Tai Chi, and pairing a genuine lesson with a tea ritual gives this session real cultural depth beyond a touristy photo-op class, even at just 1 hour.",
+            tourCard: { slug: "shanghai-authentic-chen-tai-chi-class-tea-ritual", title: "Shanghai Authentic Chen Tai Chi Class & Tea Ritual", description: "An authentic Chen-style Tai Chi class paired with a tea ritual in Shanghai.", price: "From $210", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/de431ddf4847f96687ef521a8e221d53936f760ce1d137747fbce0e72ce1ba82.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear loose, comfortable clothing you can move in, since the class involves genuine physical practice, not just demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chen Tai Chi class worth it in Shanghai?", a: "Yes, Chen-style is considered the original form of Tai Chi, and pairing it with a tea ritual gives real cultural depth." },
+        ],
+      };
+
+    case "is-giant-panda-tour-worth-it-shanghai":
+      return {
+        title: "Is a Giant Panda Tour Worth It from Shanghai?",
+        description: "An honest look at the guided giant panda tour with transfer from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58cbaf442dcb14bf916418981ca6ddfe5fa5d16a8a659472e73f0329d73d5b52.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing giant pandas up close is a genuine highlight for many first-time China visitors, and having transfer included removes the hassle of arranging transport to a facility outside the main city center.",
+            tourCard: { slug: "shanghai-guided-giant-pandas-tour-with-transfer", title: "Shanghai Guided Giant Pandas Tour with Transfer", description: "A guided tour to see giant pandas near Shanghai, with transfer included.", price: "From $736", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58cbaf442dcb14bf916418981ca6ddfe5fa5d16a8a659472e73f0329d73d5b52.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go earlier in the day for a better chance of seeing the pandas active rather than resting, which they do for much of the afternoon.",
+          },
+        ],
+        faqs: [
+          { q: "Is a giant panda tour worth it from Shanghai?", a: "Yes, seeing pandas up close is a genuine highlight for many visitors, and the included transfer removes the hassle of getting there yourself." },
+        ],
+      };
+
+    case "is-jade-buddha-temple-tour-worth-it-shanghai":
+      return {
+        title: "Is the Jade Buddha Temple Tour Worth It in Shanghai?",
+        description: "An honest look at the Jade Buddha Temple day tour in Shanghai, home to the city's famous jade Buddha statues.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b71fe027d2c7dfbe85123f59b7e92a2247a0ded6728de0a3caed35a500b496b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Jade Buddha Temple's namesake jade statues are genuinely striking and distinct from Yu Garden's old-town atmosphere, giving this day tour a different, more spiritual flavor of sightseeing in the city.",
+            tourCard: { slug: "one-day-in-shanghai-jade-buddha-temple-m50", title: "One Day in Shanghai: Jade Buddha Temple & M50", description: "A day tour of the Jade Buddha Temple and M50 art district in Shanghai.", price: "From $520", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b71fe027d2c7dfbe85123f59b7e92a2247a0ded6728de0a3caed35a500b496b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress respectfully since this is an active place of worship, and pair it with the nearby M50 art district for a fuller day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jade Buddha Temple tour worth it in Shanghai?", a: "Yes, the namesake jade statues are genuinely striking and offer a different, more spiritual flavor of sightseeing." },
+        ],
+      };
+
+    case "is-cheongsam-photoshoot-worth-it-shanghai":
+      return {
+        title: "Is the Cheongsam Rental & Photoshoot Worth It in Shanghai?",
+        description: "An honest look at renting a traditional cheongsam dress for a guided photoshoot around Shanghai's landmarks.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a37a0a4837126cfac86afafb8a2ec20dc28f362bdc1c1f7decf4ba810126212.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The cheongsam is Shanghai's iconic traditional dress, strongly associated with the city's 1920s-30s heyday, and renting one for a photoshoot around the Bund or French Concession gives genuinely different, more personal photos than standard tourist snapshots.",
+            tourCard: { slug: "shanghai-cheongsam-rental-and-photoshoot-packages", title: "Shanghai Cheongsam Rental & Photoshoot Packages", description: "A guided photoshoot wearing a traditional cheongsam dress around Shanghai's landmarks.", price: "From $26", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a37a0a4837126cfac86afafb8a2ec20dc28f362bdc1c1f7decf4ba810126212.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on to a half-day of sightseeing around the Bund or French Concession, where the architecture suits the photos best.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cheongsam photoshoot worth it in Shanghai?", a: "Yes, for genuinely different, more personal photos than standard tourist snapshots, wearing the city's iconic traditional dress." },
+        ],
+      };
+
     default:
       return null;
   }
