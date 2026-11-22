@@ -38549,6 +38549,202 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "private-sake-tasting-in-central-kyoto-with-sake-sommelier-by-local-operator": {
+  "title": "Degustazione privata di sake nel centro di Kyoto con un sommelier, con operatore locale",
+  "metaTitle": "Degustazione privata di sake a Kyoto con sommelier",
+  "metaDescription": "Due ore in un bar locale di Kyoto con un sommelier del sake in lingua inglese, degustazione di sake e snack inclusi.",
+  "shortDescription": "Due ore in un bar locale di Kyoto con un sommelier del sake in lingua inglese, degustazione di sake e snack inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e splendido nella luce del mattino; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesta degustazione privata di due ore, con operatore locale, si svolge in un bar locale guidata da un sommelier del sake in lingua inglese, con sake e snack inclusi. Il trasporto da e per le attrazioni e il pick-up in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guidato da un sommelier del sake in lingua inglese",
+   "Sake e snack"
+  ],
+  "notIncluded": [
+   "Trasporto da e per le attrazioni",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "arashiyama-bamboo-forest-and-garden-views-tour": {
+  "title": "Tour del Bosco di Bambù di Arashiyama e vedute panoramiche sui giardini",
+  "metaTitle": "Tour del Bosco di Bambù di Arashiyama a Kyoto",
+  "metaDescription": "Cinque ore a Kyoto tra il Bosco di Bambù di Arashiyama e il Tempio Tenryu-ji, con guida dal vivo, tè verde gratuito e passeggiata nella Foresta di Kimono.",
+  "shortDescription": "Cinque ore a Kyoto tra il Bosco di Bambù di Arashiyama e il Tempio Tenryu-ji, con guida dal vivo, tè verde gratuito e passeggiata nella Foresta di Kimono.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola e le discese in barca sulle rapide del fiume Hozu partono tutte da qui. I colori autunnali sono al massimo nella seconda metà di novembre e i fiori di ciliegio nella prima settimana di aprile.\n\nQuesto tour di cinque ore porta una guida dal vivo, il viaggio in treno insieme fino alla stazione di Saga-Arashiyama, la camminata tra gli alti steli del **Bosco di Bambù**, l'immersione nella quiete del **Tempio Tenryu-ji** e la vista del giardino zen con un tè verde gratuito. Segue l'esperienza della cucina giapponese locale a pranzo, una passeggiata nella Foresta di Kimono e una salita in collina di venti minuti per vedere le scimmie delle nevi e il panorama. Il treno va acquistato separatamente (circa 240 yen), con l'aiuto della guida se si arriva almeno dieci minuti prima dell'incontro; pranzo, cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida dal vivo",
+   "Viaggio in treno insieme fino alla stazione di Saga-Arashiyama",
+   "Passeggiata tra gli alti steli del Bosco di Bambù",
+   "Immersione nella quiete del Tempio Tenryu-ji",
+   "Vista del sorprendente giardino zen con tè verde gratuito",
+   "Esperienza della cucina giapponese locale a pranzo",
+   "Passeggiata nella Foresta di Kimono",
+   "Salita in collina di 20 minuti per vedere le scimmie delle nevi e il panorama"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Cibo e bevande",
+   "Biglietto del treno, da acquistare singolarmente (icoca, suica o pasmo)",
+   "Arrivare almeno 10 minuti prima dell'incontro; la guida aiuta ad acquistare il biglietto del treno, preparare 240 yen a persona"
+  ]
+ },
+ "fushimi-inari-sunrise-sunset-tour-solo-private-group-kyoto": {
+  "title": "Tour all'alba o al tramonto al Fushimi Inari (singolo o piccolo gruppo privato), Kyoto",
+  "metaTitle": "Fushimi Inari all'alba o al tramonto, Kyoto",
+  "metaDescription": "Tre ore a Kyoto con una guida privata uno a uno al Fushimi Inari all'alba, prima della folla, con escursione al punto panoramico di Yotsutsuji.",
+  "shortDescription": "Tre ore a Kyoto con una guida privata uno a uno al Fushimi Inari all'alba, prima della folla, con escursione al punto panoramico di Yotsutsuji.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande sito di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie più basse diventano una fila lenta. Le statue delle volpi portano in bocca le chiavi del granaio del riso.\n\nQuesto tour privato uno a uno di tre ore porta una guida locale in lingua inglese che accompagna lungo i sentieri dei torii all'alba, prima dell'arrivo della folla, con un'escursione guidata al punto panoramico di Yotsutsuji e racconti sulle credenze shintoiste, il simbolismo delle volpi e le tradizioni di Kyoto. Il percorso esplora anche sentieri nascosti lontani dal flusso turistico principale, a un ritmo personalizzato con soste per riposare e fotografare, e un'eventuale sosta al caffè finale è solo un consiglio della guida. Caffè o cibo, trasporto da e per il punto di incontro, spese personali e mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato privato uno a uno del Fushimi Inari Taisha",
+   "Guida locale in lingua inglese (in stile insegnante personale)",
+   "Passeggiata all'alba lungo i sentieri dei torii prima dell'arrivo della folla",
+   "Escursione guidata al punto panoramico di Yotsutsuji",
+   "Racconti culturali sulle credenze shintoiste, il simbolismo delle volpi e le tradizioni di Kyoto",
+   "Esplorazione di sentieri nascosti lontani dal flusso turistico principale",
+   "Ritmo personalizzato (soste per riposare e fotografare incluse)",
+   "Sosta al caffè finale opzionale (solo un consiglio)"
+  ],
+  "notIncluded": [
+   "Caffè o cibo (salvo scelta di aggiungerlo come upgrade)",
+   "Trasporto da e per il punto di incontro",
+   "Spese personali",
+   "Mance (facoltative)"
+  ]
+ },
+ "hands-on-zen-calligraphy-and-150-year-old-kyoto-machiya-tour-by-local-operator": {
+  "title": "Calligrafia zen pratica e tour di una machiya di Kyoto di 150 anni, con operatore locale",
+  "metaTitle": "Calligrafia zen e tour di una machiya storica a Kyoto",
+  "metaDescription": "Settantacinque minuti a Kyoto tra una lezione pratica di calligrafia zen, tè e dolci giapponesi e la visita a una machiya di 150 anni.",
+  "shortDescription": "Settantacinque minuti a Kyoto tra una lezione pratica di calligrafia zen, tè e dolci giapponesi e la visita a una machiya di 150 anni.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesta esperienza di settantacinque minuti, con operatore locale, porta una lezione pratica di calligrafia con tutti gli strumenti necessari, un'opera originale da portare a casa, tè e dolci giapponesi, un tour culturale della **machiya**, la casa tradizionale di legno di 150 anni, e assistenza per le foto. Il trasporto resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Lezione pratica e tutti gli strumenti necessari",
+   "Opera di calligrafia originale",
+   "Tè e dolci giapponesi",
+   "Tour culturale della machiya e di Kyoto",
+   "Assistenza per le foto"
+  ],
+  "notIncluded": [
+   "Trasporto"
+  ]
+ },
+ "kyoto-tea-ceremony-and-150-year-old-traditional-townhouse-tour-by-local-operator": {
+  "title": "Cerimonia del tè a Kyoto e tour di una casa tradizionale di 150 anni, con operatore locale",
+  "metaTitle": "Cerimonia del tè e casa tradizionale di 150 anni a Kyoto",
+  "metaDescription": "Settantacinque minuti a Gion tra una cerimonia del tè tradizionale, la preparazione del matcha e la visita a una machiya storica di 150 anni, in piccolo gruppo.",
+  "shortDescription": "Settantacinque minuti a Gion tra una cerimonia del tè tradizionale, la preparazione del matcha e la visita a una machiya storica di 150 anni, in piccolo gruppo.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha, e il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere.\n\nQuesta esperienza di settantacinque minuti, in piccolo gruppo (massimo 7 persone), porta una cerimonia del tè tradizionale, la preparazione del matcha, dolci giapponesi di stagione a base vegetale, una guida in lingua inglese, l'introduzione guidata a una **machiya** storica di 150 anni, gli utensili e i materiali per il tè, e una foto ricordo. Il trasporto resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Cerimonia del tè tradizionale",
+   "Esperienza di preparazione del matcha",
+   "Dolci giapponesi di stagione a base vegetale",
+   "Guida in lingua inglese",
+   "Esperienza in piccolo gruppo (massimo 7 persone)",
+   "Introduzione guidata a una machiya storica di 150 anni",
+   "Utensili e materiali per il tè",
+   "Foto ricordo"
+  ],
+  "notIncluded": [
+   "Trasporto"
+  ]
+ },
+ "kyoto-zen-experience-in-a-temple-with-matcha-and-sweets-by-local-operator": {
+  "title": "Kyoto: esperienza zen in un tempio con matcha e dolci, con operatore locale",
+  "metaTitle": "Esperienza zen in tempio a Kyoto con matcha e dolci",
+  "metaDescription": "Due ore al Tempio Jusho-in a Kyoto con un'introduzione allo zen del monaco capo, due sessioni di meditazione zazen, matcha e dolci di stagione.",
+  "shortDescription": "Due ore al Tempio Jusho-in a Kyoto con un'introduzione allo zen del monaco capo, due sessioni di meditazione zazen, matcha e dolci di stagione.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari.\n\nQuesta esperienza di due ore, con operatore locale, si svolge al **Tempio Jusho-in** e porta una guida, un fotografo, l'ingresso al tempio, un'introduzione allo zen tenuta dal monaco capo e due sessioni di meditazione zazen, oltre a un tè giapponese di benvenuto, matcha e dolci di stagione di Kyoto, un'esperienza opzionale di keisaku e il materiale fotografico dopo l'esperienza. Pick-up in hotel, trasporto fino al punto di incontro, mance e souvenir restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Fotografo",
+   "Ingresso al tempio",
+   "Introduzione allo zen tenuta dal monaco capo",
+   "Due sessioni di meditazione zazen",
+   "Tè giapponese di benvenuto",
+   "Matcha e dolci di stagione di Kyoto",
+   "Esperienza opzionale di keisaku",
+   "Materiale fotografico dopo l'esperienza"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Trasporto fino al punto di incontro",
+   "Mance",
+   "Souvenir e acquisti personali"
+  ]
+ },
+ "furano-biei-and-ningle-terrace-winter-light-tour": {
+  "title": "Tour delle luci d'inverno a Furano, Biei e Ningle Terrace",
+  "metaTitle": "Tour delle luci d'inverno: Furano, Biei, Ningle Terrace",
+  "metaDescription": "Dieci ore e mezza da Sapporo tra Shikisai no Oka e lo Stagno Blu di Shirogane, con trasporto, guida bilingue e tasse incluse.",
+  "shortDescription": "Dieci ore e mezza da Sapporo tra Shikisai no Oka e lo Stagno Blu di Shirogane, con trasporto, guida bilingue e tasse incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; il Lago Toya e il Lago Shikotsu sono laghi di caldera; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto tour di dieci ore e mezza porta a **Shikisai no Oka** e allo **Stagno Blu di Shirogane**, con trasporto incluso secondo l'itinerario, guida bilingue professionista e tasse sui consumi e altre imposte comprese nel prezzo. Il pranzo, le spese personali e il costo dell'attività in motoslitta restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto indicato nell'itinerario del tour",
+   "Guida bilingue professionista",
+   "Tasse sui consumi e altre imposte"
+  ],
+  "notIncluded": [
+   "Il pranzo non è incluso in questo tour",
+   "Le spese personali non sono incluse in questo tour",
+   "Escluso il costo dell'attività in motoslitta"
+  ]
+ },
+ "shadow-of-osaka-labor-life-and-the-red-light-district-by-local-operator": {
+  "title": "L'ombra di Osaka: lavoro, vita quotidiana e il quartiere a luci rosse, con operatore locale",
+  "metaTitle": "Osaka: lavoro, vita e il quartiere a luci rosse",
+  "metaDescription": "Due ore e mezza a Osaka tra il quartiere di Shinsekai, Tobita Shinchi e Nishinari, con una guida certificata dal governo in inglese o spagnolo.",
+  "shortDescription": "Due ore e mezza a Osaka tra il quartiere di Shinsekai, Tobita Shinchi e Nishinari, con una guida certificata dal governo in inglese o spagnolo.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Shinsekai è il quartiere retrò sotto la torre Tsutenkaku. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa ed economica di Kyoto, e la sua gente lo sa bene.\n\nQuesto tour di due ore e mezza, con operatore locale, porta alla visita del quartiere di **Shinsekai**, con occasioni fotografiche alla torre **Tsutenkaku**, una passeggiata nella galleria di Dobutsuen-mae, la visita a **Tobita Shinchi** e l'esplorazione del quartiere di **Nishinari**, con una guida certificata dal governo nazionale in lingua inglese o spagnola. Bevande e cibo nei locali karaoke, a Shinsekai e a Nishinari restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita al quartiere di Shinsekai",
+   "Occasioni fotografiche alla torre Tsutenkaku",
+   "Passeggiata nella galleria di Dobutsuen-mae",
+   "Visita a Tobita Shinchi",
+   "Esplorazione del quartiere di Nishinari",
+   "Guida in lingua inglese/spagnola (certificata dal governo nazionale)"
+  ],
+  "notIncluded": [
+   "Bevande o cibo nel locale karaoke",
+   "Bevande o cibo a Shinsekai",
+   "Bevande o cibo a Nishinari"
+  ]
+ },
+ "nintendo-museum-admission-ticket-in-kyoto": {
+  "title": "Biglietto d'ingresso al Museo Nintendo a Kyoto",
+  "metaTitle": "Biglietto per il Museo Nintendo, Kyoto",
+  "metaDescription": "Prenotazione e biglietto d'ingresso al Museo Nintendo di Kyoto.",
+  "shortDescription": "Prenotazione e biglietto d'ingresso al Museo Nintendo di Kyoto.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesto servizio fornisce la prenotazione e il biglietto d'ingresso al **Museo Nintendo**, che apre a Kyoto la storia dei giochi della casa giapponese.",
+  "highlights": [],
+  "included": [
+   "Prenotazione del Museo Nintendo",
+   "Biglietto d'ingresso al Museo Nintendo"
+  ],
+  "notIncluded": []
+ },
+ "hands-on-sushi-making-experience-in-kyoto": {
+  "title": "Esperienza pratica di preparazione del sushi a Kyoto",
+  "metaTitle": "Esperienza pratica di sushi a Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto per preparare il sushi con ingredienti e pasto a base di sushi inclusi.",
+  "shortDescription": "Un'ora e mezza a Kyoto per preparare il sushi con ingredienti e pasto a base di sushi inclusi.",
+  "fullDescription": "Il mercato all'ingrosso del pesce di Tokyo si è trasferito da Tsukiji a Toyosu nel 2018, ma il mercato esterno di Tsukiji, i vicoli di negozi e banchi intorno al vecchio sito, è rimasto ed è dove si fanno le passeggiate gastronomiche: tamagoyaki su stecco, tagli di tonno, uni, capesante grigliate e negozi di coltelli, più affollati dalle 8:00 alle 11:00 circa e chiusi la domenica e alcuni mercoledì. L'asta del tonno si svolge a Toyosu, osservata da una terrazza prima delle 6:30 con prenotazione a sorteggio. I corsi di sushi insegnano lo shari, il riso condito con aceto, e la pressione delle mani per il nigiri; la maggior parte dura dalle due alle tre ore e si mangia quello che si prepara.\n\nQuesta esperienza pratica di un'ora e mezza a Kyoto include tutti gli ingredienti del sushi e il pasto finale a base di sushi. Le bevande (soft drink e alcolici ordinabili durante la lezione) e il servizio di pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingredienti del sushi durante l'esperienza",
+   "Pasto a base di sushi"
+  ],
+  "notIncluded": [
+   "Bevande (si possono ordinare soft drink e alcolici durante la lezione)",
+   "Servizio di pick-up e drop-off in hotel"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
