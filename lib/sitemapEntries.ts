@@ -189,6 +189,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-macau-day-trip-worth-it-hong-kong', 'is-lantau-island-big-buddha-tour-worth-it-hong-kong',
     'is-victoria-harbour-yacht-tour-worth-it-hong-kong', 'is-shenzhen-day-trip-worth-it-hong-kong',
     'is-food-tour-worth-it-hong-kong',
+    'is-tai-o-boat-tour-worth-it-hong-kong', 'is-sai-kung-snorkeling-worth-it-hong-kong',
+    'is-hanfu-costume-experience-worth-it-hong-kong', 'is-lion-rock-hike-worth-it-hong-kong',
   ].map(slug => ({
     url: `${BASE_URL}/hong-kong/hongkong/${slug}`,
     lastModified: new Date(),
