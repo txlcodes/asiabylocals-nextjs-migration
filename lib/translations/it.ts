@@ -39970,6 +39970,183 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporto"
   ]
  },
+ "shirakawa-go-takayama-and-gujo-cultural-day-tour": {
+  "title": "Tour culturale di un giorno a Shirakawa-go, Takayama e Gujo",
+  "metaTitle": "Shirakawa-go, Takayama e Gujo da Nagoya",
+  "metaDescription": "Undici ore da Nagoya tra Gujo e Takayama, con trasporto andata e ritorno e personale in inglese e giapponese incluso.",
+  "shortDescription": "Undici ore da Nagoya tra Gujo e Takayama, con trasporto andata e ritorno e personale in inglese e giapponese incluso.",
+  "fullDescription": "Takayama, sui monti Hida a nord di Nagoya, ha conservato le vie dei mercanti del periodo Edo, i mercati del mattino e le fabbriche di sake, e Shirakawa-go, un'ora più avanti, è il villaggio UNESCO delle case gassho-zukuri con tetti di paglia spioventi costruiti per la neve. Il manzo di Hida è il piatto regionale.\n\nQuesto tour culturale di undici ore collega **Gujo** e **Takayama**, con trasporto andata e ritorno e personale in inglese e giapponese incluso. Pasti e varie spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno",
+   "Personale in inglese e giapponese"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Varie spese personali"
+  ]
+ },
+ "custom-fragrance-workshop-in-nagoya": {
+  "title": "Laboratorio di profumo personalizzato a Nagoya",
+  "metaTitle": "Profumo personalizzato a Nagoya",
+  "metaDescription": "Trenta minuti a Nagoya per creare un profumo esclusivo con un consulente, tasse incluse.",
+  "shortDescription": "Trenta minuti a Nagoya per creare un profumo esclusivo con un consulente, tasse incluse.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo.\n\nQuesto laboratorio di trenta minuti porta la creazione esclusiva di un profumo con un consulente, con le tasse incluse.",
+  "highlights": [],
+  "included": [
+   "Creazione esclusiva del profumo con un consulente",
+   "Tasse"
+  ],
+  "notIncluded": []
+ },
+ "nagoya-sakae-world-idol-republic-kawaii-experience-by-local-operator": {
+  "title": "Nagoya Sakae: l'esperienza kawaii della World Idol Republic, con operatore locale",
+  "metaTitle": "Esperienza kawaii a Nagoya Sakae",
+  "metaDescription": "Due ore e mezza a Nagoya Sakae per un'esperienza kawaii, con contenuto variabile in base all'opzione scelta (da una a due ore).",
+  "shortDescription": "Due ore e mezza a Nagoya Sakae per un'esperienza kawaii, con contenuto variabile in base all'opzione scelta (da una a due ore).",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo.\n\nQuesta esperienza kawaii di due ore e mezza alla **World Idol Republic** a Sakae varia in base all'opzione scelta, da una a due ore, con biglietto, costume o lezione secondo l'opzione. Il trasporto, l'interprete, le bevande extra e lo shopping restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Variabile in base all'opzione (da 1 a 2 ore)",
+   "Variabile in base all'opzione (biglietto/costume/lezione, ecc.)"
+  ],
+  "notIncluded": [
+   "Trasporto, interprete, bevande extra e shopping"
+  ]
+ },
+ "guided-nightclub-tour-with-local-guide-in-nagoya": {
+  "title": "Tour guidato dei nightclub con guida locale a Nagoya",
+  "metaTitle": "Tour dei nightclub a Nagoya con guida locale",
+  "metaDescription": "Tre ore a Nagoya per un tour guidato dei nightclub, con assistenza all'ingresso, una bevanda in discoteca e foto e video inclusi.",
+  "shortDescription": "Tre ore a Nagoya per un tour guidato dei nightclub, con assistenza all'ingresso, una bevanda in discoteca e foto e video inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo.\n\nQuesto tour di tre ore porta una guida in lingua inglese, una guida locale, l'assistenza per l'ingresso al club, una bevanda in discoteca e lo scatto di foto e video. Le tariffe d'ingresso al club, le bevande dalla seconda in poi e le spese per cibo e pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Guida locale",
+   "Assistenza per l'ingresso al club",
+   "1 bevanda in discoteca",
+   "Scatto di foto e video"
+  ],
+  "notIncluded": [
+   "Tariffe d'ingresso al club",
+   "Bevande dalla seconda in poi",
+   "Spese per cibo e pasti"
+  ]
+ },
+ "hiroshima-and-miyajima-1-day-tour-with-lunch": {
+  "title": "Hiroshima e Miyajima in un giorno, con pranzo",
+  "metaTitle": "Hiroshima e Miyajima in un giorno, con pranzo",
+  "metaDescription": "Otto ore tra Hiroshima e Miyajima, con bus climatizzato, ingresso al Santuario di Itsukushima, al Museo della Pace e traghetto per Miyajima inclusi.",
+  "shortDescription": "Otto ore tra Hiroshima e Miyajima, con bus climatizzato, ingresso al Santuario di Itsukushima, al Museo della Pace e traghetto per Miyajima inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica, lo scheletro della sala della promozione industriale, è stata lasciata esattamente com'era; il Museo Memoriale della Pace è riaperto nel 2019 dopo un restyling e richiede circa due ore di visita, non adatto ai bambini piccoli. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura. Miyajima è a quaranta minuti di distanza, e la maggior parte dei visitatori abbina le due tappe in un solo giorno.\n\nQuesto tour di otto ore collega **Hiroshima** e **Miyajima**, con bus climatizzato, ingresso al **Santuario di Itsukushima**, al **Museo Memoriale della Pace di Hiroshima**, il biglietto andata e ritorno del traghetto per Miyajima, e un pranzo a base di **okonomiyaki in stile Hiroshima**. Pick-up e drop-off in hotel e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Bus climatizzato",
+   "Ingresso al Santuario di Itsukushima",
+   "Ingresso al Museo Memoriale della Pace di Hiroshima",
+   "Biglietto andata e ritorno del traghetto per l'isola di Miyajima",
+   "Pranzo a base di okonomiyaki in stile Hiroshima"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Bevande"
+  ]
+ },
+ "nightlife-tour-with-local-guide-and-dinner-in-nagoya": {
+  "title": "Tour della vita notturna con guida locale e cena a Nagoya",
+  "metaTitle": "Vita notturna e cena a Nagoya con guida locale",
+  "metaDescription": "Tre ore a Nagoya tra la vita notturna, un izakaya e le specialità locali, con opzione di bevande illimitate.",
+  "shortDescription": "Tre ore a Nagoya tra la vita notturna, un izakaya e le specialità locali, con opzione di bevande illimitate.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo. L'hitsumabushi di anguilla grigliata e il miso katsu sono i piatti tipici della città.\n\nQuesto tour di tre ore porta un tour guidato della vita notturna di Nagoya, la visita a un izakaya, la degustazione delle specialità locali di Nagoya e l'opzione di bevande illimitate.",
+  "highlights": [],
+  "included": [
+   "Tour guidato della vita notturna di Nagoya",
+   "Visita a un izakaya",
+   "Degustazione delle specialità locali di Nagoya",
+   "Opzione di bevande illimitate"
+  ],
+  "notIncluded": []
+ },
+ "sapporo-asahiyama-zoo-tree-spot-and-waterfalls-day-tour-by-local-operator": {
+  "title": "Zoo di Asahiyama, l'albero panoramico e le cascate: tour di un giorno da Sapporo, con operatore locale",
+  "metaTitle": "Zoo di Asahiyama e cascate, tour da Sapporo",
+  "metaDescription": "Dieci ore da Sapporo con ingresso allo Zoo di Asahiyama, guida in lingua cinese e bus andata e ritorno climatizzato inclusi.",
+  "shortDescription": "Dieci ore da Sapporo con ingresso allo Zoo di Asahiyama, guida in lingua cinese e bus andata e ritorno climatizzato inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour di dieci ore, con operatore locale, porta l'ingresso allo **Zoo di Asahiyama**, un autista-guida professionista in lingua cinese, trasporto andata e ritorno in bus comodo, e, solo nell'opzione 3, il pick-up e il drop-off in hotel. Pasti, bevande, spese personali, souvenir e mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso allo Zoo di Asahiyama",
+   "Autista-guida professionista in lingua cinese",
+   "Trasporto andata e ritorno in bus comodo",
+   "Pick-up e drop-off in hotel (solo opzione 3)"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Spese personali",
+   "Souvenir",
+   "Mance"
+  ]
+ },
+ "hiroshima-and-miyajima-in-1-day-private-tour-licensed-guide-by-local-operator": {
+  "title": "Hiroshima e Miyajima in un giorno: tour privato con guida autorizzata, operatore locale",
+  "metaTitle": "Hiroshima e Miyajima: tour privato in un giorno",
+  "metaDescription": "Otto ore private a Hiroshima e Miyajima con guida locale autorizzata, pick-up a piedi dall'alloggio e tour a piedi inclusi.",
+  "shortDescription": "Otto ore private a Hiroshima e Miyajima con guida locale autorizzata, pick-up a piedi dall'alloggio e tour a piedi inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era; il Museo Memoriale della Pace è riaperto nel 2019 dopo un restyling. Miyajima è a quaranta minuti di distanza, e la maggior parte dei visitatori abbina le due tappe in un solo giorno.\n\nQuesto tour privato di otto ore, con operatore locale, porta una guida locale autorizzata, il pick-up a piedi dall'alloggio (se a distanza ragionevole), e un tour a piedi tra **Hiroshima** e **Miyajima**. Cibo e bevande, qualsiasi biglietto d'ingresso, il trasporto da e per il punto di incontro, la tariffa dei trasporti pubblici o privati durante il tour, e la tassa turistica di Miyajima di 100 yen a persona (solo in contanti) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato",
+   "Guida locale autorizzata",
+   "Pick-up a piedi dall'alloggio (se a distanza ragionevole)",
+   "Tour a piedi"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Qualsiasi biglietto d'ingresso",
+   "Trasporto da e per il punto di incontro",
+   "Tariffa dei trasporti pubblici o privati durante il tour",
+   "Tassa turistica di Miyajima di 100 yen a persona (solo in contanti)"
+  ]
+ },
+ "morning-hiking-tour-with-open-air-tea-ceremony-in-hiroshima": {
+  "title": "Escursione mattutina con cerimonia del tè all'aperto a Hiroshima",
+  "metaTitle": "Escursione mattutina con cerimonia del tè, Hiroshima",
+  "metaDescription": "Tre ore a Hiroshima tra il Santuario Hiroshima Toshogu, il Santuario Kinko Inari e la Pagoda della Pace, con cerimonia del tè all'aperto e colazione.",
+  "shortDescription": "Tre ore a Hiroshima tra il Santuario Hiroshima Toshogu, il Santuario Kinko Inari e la Pagoda della Pace, con cerimonia del tè all'aperto e colazione.",
+  "fullDescription": "Il tè all'aperto, nodate, è una tradizione vera e propria praticata storicamente durante l'osservazione dei fiori di ciliegio e nei viaggi, e il bagno nella foresta, shinrin-yoku, significa essere invitati a fermarsi e prestare attenzione invece di continuare a camminare.\n\nQuesta escursione mattutina di tre ore sale verso il **Santuario Hiroshima Toshogu**, il **Santuario Kinko Inari** e la **Pagoda della Pace**, con una guida, la cerimonia del tè all'aperto, l'attività di bagno nella foresta, e la colazione se l'opzione è selezionata. Il pick-up e il drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Cerimonia del tè all'aperto",
+   "Attività di bagno nella foresta",
+   "Colazione (se l'opzione è selezionata)"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "learn-hyakunin-isshu-traditional-card-game-in-hiroshima": {
+  "title": "Impara il gioco di carte tradizionale Hyakunin Isshu a Hiroshima",
+  "metaTitle": "Gioco di carte Hyakunin Isshu a Hiroshima",
+  "metaDescription": "Un'ora e mezza a Hiroshima per imparare il gioco di carte tradizionale Hyakunin Isshu, con la storia del gioco e un tè giapponese inclusi.",
+  "shortDescription": "Un'ora e mezza a Hiroshima per imparare il gioco di carte tradizionale Hyakunin Isshu, con la storia del gioco e un tè giapponese inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura. Miyajima è a quaranta minuti di distanza.\n\nQuesto laboratorio culturale di un'ora e mezza porta l'esperienza del gioco **Hyakunin Isshu**, l'esperienza del gioco di carte **karuta**, un'introduzione alla storia dell'Hyakunin Isshu, una spiegazione delle regole adatta ai principianti, un tè giapponese, personale guida culturale, e un'esperienza culturale giapponese tradizionale a Hiroshima. Il trasporto fino al luogo e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio culturale sull'Hyakunin Isshu",
+   "Esperienza del gioco di carte karuta",
+   "Introduzione alla storia dell'Hyakunin Isshu",
+   "Spiegazione delle regole adatta ai principianti",
+   "Tè giapponese",
+   "Personale guida culturale",
+   "Esperienza culturale giapponese tradizionale a Hiroshima"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo",
+   "Spese personali"
+  ]
+ },
  "nagoya-shirakawago-takayama-observatory-day-trip": {
   "title": "Shirakawa-go dall'osservatorio e il centro storico di Takayama, in un giorno da Nagoya",
   "metaTitle": "Shirakawa-go e Takayama da Nagoya",
