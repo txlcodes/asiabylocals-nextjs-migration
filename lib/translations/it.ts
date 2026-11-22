@@ -38745,6 +38745,192 @@ export const IT_TOURS: Record<string, TourT> = {
    "Servizio di pick-up e drop-off in hotel"
   ]
  },
+ "kyoto-kimono-tea-ceremony-and-city-car-tour-with-photos-by-local-operator": {
+  "title": "Kyoto: kimono, cerimonia del tè e tour in auto con foto, con operatore locale",
+  "metaTitle": "Kimono, cerimonia del tè e tour in auto a Kyoto",
+  "metaDescription": "Un'ora a Kyoto con noleggio kimono, cerimonia del tè tradizionale, trasporto privato in auto, pick-up in hotel e fotografo professionista.",
+  "shortDescription": "Un'ora a Kyoto con noleggio kimono, cerimonia del tè tradizionale, trasporto privato in auto, pick-up in hotel e fotografo professionista.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha, e il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere, ben accolta piuttosto che malvista.\n\nQuesta esperienza di un'ora, con operatore locale, porta trasporto privato in auto, pick-up e drop-off in hotel, il noleggio del kimono, una cerimonia del tè tradizionale e un fotografo professionista, con assistenza in lingua inglese e carburante, parcheggio e pedaggi autostradali inclusi. Pasti, bevande, biglietti d'ingresso, spese personali e accessori o upgrade aggiuntivi per il kimono restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto privato in auto",
+   "Pick-up e drop-off in hotel",
+   "Esperienza di noleggio kimono",
+   "Cerimonia del tè tradizionale",
+   "Fotografo professionista",
+   "Assistenza in lingua inglese",
+   "Carburante, parcheggio e pedaggi autostradali"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso alle attrazioni",
+   "Spese personali",
+   "Accessori o upgrade aggiuntivi per il kimono"
+  ]
+ },
+ "make-your-own-ring-from-a-vintage-japanese-coin-in-kyoto": {
+  "title": "Crea il tuo anello da una moneta giapponese d'epoca a Kyoto",
+  "metaTitle": "Anello da una moneta giapponese d'epoca, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto per creare un anello da una moneta giapponese d'epoca a scelta, con l'aiuto di un artigiano esperto e la lucidatura finale.",
+  "shortDescription": "Un'ora e mezza a Kyoto per creare un anello da una moneta giapponese d'epoca a scelta, con l'aiuto di un artigiano esperto e la lucidatura finale.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesta esperienza di un'ora e mezza porta la scelta di una moneta giapponese d'epoca autentica, compresi pezzi dell'era Meiji con più di 100 anni, la creazione dell'anello guidata da un artigiano esperto, e la lucidatura finale per completarlo. Un ciondolo centrale realizzato dalla moneta è disponibile con un supplemento di 1.000 yen.",
+  "highlights": [],
+  "included": [
+   "Moneta giapponese d'epoca autentica a scelta (compresi pezzi dell'era Meiji con più di 100 anni)",
+   "Esperienza di creazione dell'anello con un artigiano esperto",
+   "Lucidatura finale per completare l'anello"
+  ],
+  "notIncluded": [
+   "Ciondolo centrale realizzato dalla moneta (+1.000 yen)"
+  ]
+ },
+ "private-tour-to-monkey-park-and-arashiyama-highlights-kyoto": {
+  "title": "Tour privato al Monkey Park e ai luoghi iconici di Arashiyama (Kyoto)",
+  "metaTitle": "Tour privato: Monkey Park e Arashiyama, Kyoto",
+  "metaDescription": "Tre ore a Kyoto tra il Bosco di Bambù di Arashiyama, il Monkey Park di Iwatayama e il Tempio Tenryu-ji, biglietti d'ingresso inclusi.",
+  "shortDescription": "Tre ore a Kyoto tra il Bosco di Bambù di Arashiyama, il Monkey Park di Iwatayama e il Tempio Tenryu-ji, biglietti d'ingresso inclusi.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione. I colori autunnali sono al massimo nella seconda metà di novembre e i fiori di ciliegio nella prima settimana di aprile.\n\nQuesto tour privato di tre ore porta l'ingresso al **Bosco di Bambù di Arashiyama**, al **Monkey Park di Iwatayama**, con l'occasione di nutrire le scimmie sotto supervisione e la tariffa per il cibo incluse, e al **Tempio Tenryu-ji**. Il trasporto da e per le attrazioni e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingresso al Bosco di Bambù di Arashiyama",
+   "Ingresso al Monkey Park di Iwatayama",
+   "Occasione di nutrire le scimmie sotto supervisione",
+   "Tariffa per nutrire le scimmie",
+   "Ingresso al Tempio Tenryuji"
+  ],
+  "notIncluded": [
+   "Trasporto da e per le attrazioni",
+   "Spese personali"
+  ]
+ },
+ "local-dinner-and-hidden-counter-pub-crawl-in-sapporo": {
+  "title": "Cena locale e giro dei bar nascosti a Sapporo",
+  "metaTitle": "Cena locale e pub crawl a Sapporo",
+  "metaDescription": "Tre ore e mezza a Sapporo tra una cena giapponese di almeno cinque piatti, novanta minuti di bevande illimitate e due bevande nei bar successivi.",
+  "shortDescription": "Tre ore e mezza a Sapporo tra una cena giapponese di almeno cinque piatti, novanta minuti di bevande illimitate e due bevande nei bar successivi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko.\n\nQuesta esperienza di tre ore e mezza porta una cena giapponese di almeno cinque piatti in un izakaya locale, novanta minuti di bevande illimitate nella prima tappa, una bevanda nel secondo bar e una nel terzo, con opzioni analcoliche sempre disponibili, accompagnati da un \"Sapporo Buddy\" in lingua inglese che guida la passeggiata nel centro di Sapporo e a Susukino, aiuta a comunicare con il personale e gli altri clienti dei bar locali, e scatta foto e brevi video durante il giro. Cibo e bevande aggiuntivi, il trasporto da e per il punto di incontro e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Cena giapponese di almeno 5 piatti in un izakaya locale",
+   "90 minuti di bevande illimitate nella prima tappa",
+   "1 bevanda nel secondo bar",
+   "1 bevanda nel terzo bar",
+   "Opzioni di bevande analcoliche",
+   "Sapporo Buddy in lingua inglese",
+   "Passeggiata guidata nel centro di Sapporo e a Susukino",
+   "Aiuto per comunicare con il personale e i clienti dei bar locali",
+   "Foto e brevi video scattati durante il tour"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi oltre a quelli inclusi nel tour",
+   "Trasporto da e per il punto di incontro",
+   "Spese personali"
+  ]
+ },
+ "wagashi-sweets-nerikiri-making-class-in-sapporo": {
+  "title": "Corso di preparazione dei dolci wagashi nerikiri a Sapporo",
+  "metaTitle": "Corso di dolci wagashi nerikiri a Sapporo",
+  "metaDescription": "Due ore a Sapporo per preparare quattro dolci wagashi nerikiri fatti a mano da portare a casa, con bevanda di benvenuto e ricetta incluse.",
+  "shortDescription": "Due ore a Sapporo per preparare quattro dolci wagashi nerikiri fatti a mano da portare a casa, con bevanda di benvenuto e ricetta incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko.\n\nQuesto corso di due ore porta una bevanda di benvenuto, come il sencha, la ricetta da portare a casa, tutti gli ingredienti e gli strumenti per il laboratorio, e quattro dolci **nerikiri** fatti a mano da portare a casa.",
+  "highlights": [],
+  "included": [
+   "Bevanda di benvenuto (ad esempio sencha)",
+   "Ricetta da portare a casa",
+   "Ingredienti e strumenti per il laboratorio",
+   "4 dolci nerikiri fatti a mano da portare a casa"
+  ],
+  "notIncluded": []
+ },
+ "old-new-sapporo-private-tour-of-history-food-and-local-life-by-local-operator": {
+  "title": "Sapporo antica e nuova: tour privato di storia, cibo e vita locale, con operatore locale",
+  "metaTitle": "Tour privato di Sapporo: storia, cibo e vita locale",
+  "metaDescription": "Tre ore a piedi a Sapporo con una guida privata in lingua inglese, tra storia, cibo locale e foto gratuite durante il percorso.",
+  "shortDescription": "Tre ore a piedi a Sapporo con una guida privata in lingua inglese, tra storia, cibo locale e foto gratuite durante il percorso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour privato a piedi di tre ore, con operatore locale, porta una guida locale in lingua inglese che offre indicazioni e spiegazioni nelle tappe turistiche e culturali indicate, aiuta a orientarsi tra le zone gastronomiche giapponesi, i menù e i negozi locali, e scatta foto gratuite durante il percorso. Cibo, bevande, acquisti personali e biglietti d'ingresso, dove previsti, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato a piedi con una guida locale in lingua inglese",
+   "Indicazioni e spiegazioni nelle tappe turistiche e culturali indicate",
+   "Aiuto a orientarsi tra zone gastronomiche, menù e negozi locali giapponesi",
+   "Foto gratuite scattate dalla guida durante il tour"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Acquisti personali",
+   "Biglietti d'ingresso, dove previsti"
+  ]
+ },
+ "ice-fishing-tour-with-tempura-and-pickup-option-in-sapporo": {
+  "title": "Tour di pesca sul ghiaccio con tempura e opzione pick-up a Sapporo",
+  "metaTitle": "Pesca sul ghiaccio con tempura a Sapporo",
+  "metaDescription": "Tre ore e mezza a Sapporo per la pesca sul ghiaccio, con trasporto andata e ritorno dalla stazione, attrezzatura completa e degustazione di sperlano fritto.",
+  "shortDescription": "Tre ore e mezza a Sapporo per la pesca sul ghiaccio, con trasporto andata e ritorno dalla stazione, attrezzatura completa e degustazione di sperlano fritto.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko.\n\nQuesta esperienza di tre ore e mezza porta il trasporto andata e ritorno dalla **Stazione di Sapporo**, tutta l'attrezzatura da pesca, le istruzioni per pescare, e la cottura e la degustazione dello sperlano appena pescato, fritto in tempura.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno dalla Stazione di Sapporo",
+   "Tutta l'attrezzatura da pesca fornita",
+   "Istruzioni per la pesca",
+   "Cottura e degustazione dello sperlano appena pescato, fritto in tempura"
+  ],
+  "notIncluded": []
+ },
+ "chopstick-and-ramen-making-experience-in-sapporo": {
+  "title": "Esperienza di creazione di bacchette e preparazione del ramen a Sapporo",
+  "metaTitle": "Bacchette fatte a mano e ramen a Sapporo",
+  "metaDescription": "Tre ore a Sapporo tra la creazione delle proprie bacchette e la preparazione del ramen fatto a mano, con materiali e ingredienti inclusi.",
+  "shortDescription": "Tre ore a Sapporo tra la creazione delle proprie bacchette e la preparazione del ramen fatto a mano, con materiali e ingredienti inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesta esperienza di tre ore porta la creazione delle proprie bacchette e la preparazione del ramen fatto a mano, con la guida di un istruttore, tutti i materiali per le bacchette e gli ingredienti per il ramen inclusi. Il trasporto fino al luogo dell'esperienza e l'alloggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza di creazione delle bacchette",
+   "Esperienza di preparazione del ramen fatto a mano",
+   "Guida dell'istruttore",
+   "Materiali per la creazione delle bacchette",
+   "Ingredienti per la preparazione del ramen"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo dell'esperienza",
+   "Alloggio"
+  ]
+ },
+ "snow-fun-shirahige-falls-and-ningle-terrace-in-sapporo": {
+  "title": "Divertimento sulla neve, Cascate Shirahige e Ningle Terrace a Sapporo",
+  "metaTitle": "Neve, Cascate Shirahige e Ningle Terrace, Sapporo",
+  "metaDescription": "Dieci ore e mezza da Sapporo con guida in lingua inglese, trasporto in pullman riscaldato andata e ritorno e assicurazione di viaggio incluse.",
+  "shortDescription": "Dieci ore e mezza da Sapporo con guida in lingua inglese, trasporto in pullman riscaldato andata e ritorno e assicurazione di viaggio incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto tour di dieci ore e mezza porta a vedere le **Cascate Shirahige** e la **Ningle Terrace**, con una guida in lingua inglese, trasporto andata e ritorno in pullman riscaldato e assicurazione di viaggio dell'operatore incluse. Le attività sulla neve si pagano in contanti il giorno stesso, e il pranzo resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Trasporto andata e ritorno in pullman riscaldato",
+   "Assicurazione di viaggio fornita dall'operatore"
+  ],
+  "notIncluded": [
+   "Tariffe delle attività sulla neve (da pagare in contanti il giorno stesso)",
+   "Pranzo"
+  ]
+ },
+ "asahiyama-adventure-zoo-waterfalls-and-blue-pond-day-tour-in-sapporo": {
+  "title": "Avventura ad Asahiyama: zoo, cascate e laghetto blu, tour di un giorno da Sapporo",
+  "metaTitle": "Asahiyama: zoo, cascate e laghetto blu da Sapporo",
+  "metaDescription": "Dieci ore da Sapporo allo Zoo di Asahiyama, con trasporto in veicolo confortevole andata e ritorno e guida professionale incluse.",
+  "shortDescription": "Dieci ore da Sapporo allo Zoo di Asahiyama, con trasporto in veicolo confortevole andata e ritorno e guida professionale incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto tour di dieci ore porta il trasporto andata e ritorno in veicolo confortevole da e per i punti di Sapporo stabiliti, una guida professionale che fornisce informazioni e consigli, e l'ingresso allo **Zoo di Asahiyama**. Pranzo, cibo, bevande, spese personali e assicurazione personale o di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno in veicolo confortevole (da e per i punti stabiliti a Sapporo)",
+   "Guida professionale (informazioni e consigli)",
+   "Ingresso allo Zoo di Asahiyama"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Cibo e bevande",
+   "Spese personali",
+   "Assicurazione personale o di viaggio"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
