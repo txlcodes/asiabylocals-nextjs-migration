@@ -1168,6 +1168,13 @@ export const MANILA_INFO_SLUGS = [
   'is-tagaytay-taal-day-trip-worth-it-manila', 'is-makati-rooftop-bar-hopping-worth-it-manila',
 ];
 
+// Boracay (Philippines) — 27 live tours, launched 2026-11-22.
+export const BORACAY_INFO_SLUGS = [
+  'is-island-hopping-worth-it-boracay', 'is-whale-shark-watching-worth-it-boracay',
+  'is-paraw-sunset-sailing-worth-it-boracay', 'is-fire-dancing-show-worth-it-boracay',
+  'is-helmet-diving-worth-it-boracay', 'is-parasailing-worth-it-boracay',
+];
+
 export const CEBU_INFO_SLUGS = [
   'best-time-to-visit-cebu', 'things-to-do-in-cebu', 'cebu-travel-guide-2026',
   'cebu-1-day-itinerary', 'cebu-island-hopping-guide', 'oslob-whale-sharks-guide',

@@ -63,6 +63,7 @@ export const CITY_URL_MAP: Record<string, { country: string; city: string }> = {
   'shanghai': { country: 'china', city: 'shanghai' },
   'manila': { country: 'philippines', city: 'manila' },
   'cebu': { country: 'philippines', city: 'cebu' },
+  'boracay': { country: 'philippines', city: 'boracay' },
   // Cambodia launch 2026-09-26. GYG location ids taken from the search page,
   // not guessed: siem-reap-l274, phnom-penh-l273.
   'siem-reap': { country: 'cambodia', city: 'siem-reap' },
