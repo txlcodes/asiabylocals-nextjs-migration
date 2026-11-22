@@ -1589,6 +1589,8 @@ export const NEGOMBO_INFO_SLUGS = [
   'is-scuba-diving-worth-it-negombo', 'is-sri-lankan-cooking-class-worth-it-negombo',
   'is-dolphin-whale-watching-worth-it-negombo', 'is-muthurajawela-wetland-tour-worth-it-negombo',
   'is-wilpattu-safari-worth-it-negombo',
+  'is-sunset-lagoon-safari-worth-it-negombo', 'is-paramotoring-worth-it-negombo',
+  'is-catamaran-sailing-worth-it-negombo', 'is-ayurvedic-massage-worth-it-negombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.

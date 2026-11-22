@@ -441,6 +441,90 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sunset-lagoon-safari-worth-it-negombo":
+      return {
+        title: "Is the Negombo Sunset Lagoon Safari with Fishermen Worth It?",
+        description: "An honest look at the sunset lagoon safari with local fishermen in Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-974576/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Joining genuine local fishermen on the lagoon at sunset gives real insight into Negombo's traditional fishing culture, a far more authentic angle than a standard tourist boat ride, with the sunset lighting as a genuine bonus.",
+            tourCard: { slug: "negombo-sunset-lagoon-safari-with-fishermen", title: "Negombo Sunset Lagoon Safari with Fishermen", description: "A sunset lagoon safari joining local fishermen in Negombo.", price: "From $97", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-974576/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Timing matters here — book the slot that lines up with actual sunset for the best lighting and fishing activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Negombo sunset lagoon safari worth it?", a: "Yes, joining genuine local fishermen gives real insight into the city's traditional fishing culture, beyond a standard boat ride." },
+        ],
+      };
+
+    case "is-paramotoring-worth-it-negombo":
+      return {
+        title: "Is Paramotoring Worth It in Negombo?",
+        description: "An honest look at paramotoring in Negombo, a genuine aerial adrenaline activity over the lagoon and coast.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065966/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing Negombo's lagoon, canals, and coastline from a paramotor gives a genuinely unique aerial perspective that no boat tour can match, and at just 15 minutes it's a quick, memorable adrenaline fix.",
+            tourCard: { slug: "paramotoring-in-negombo", title: "Paramotoring in Negombo", description: "A paramotoring flight over Negombo's lagoon and coastline.", price: "From $172", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065966/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior experience is needed — you fly tandem with a certified pilot, so this is accessible even for complete beginners.",
+          },
+        ],
+        faqs: [
+          { q: "Is paramotoring worth it in Negombo?", a: "Yes, it gives a genuinely unique aerial view of the lagoon and coastline that no boat tour can match." },
+        ],
+      };
+
+    case "is-catamaran-sailing-worth-it-negombo":
+      return {
+        title: "Is the Negombo Catamaran Sailing Experience Worth It?",
+        description: "An honest look at the catamaran sailing experience with traditional elements in Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-636198/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sailing on a genuine catamaran, with traditional elements incorporated into the experience, gives a more relaxed, premium feel than a standard motorboat lagoon tour, worth the higher price for travelers wanting a more comfortable sailing experience.",
+            tourCard: { slug: "negombo-catamaran-sailing-with-traditional", title: "Negombo Catamaran Sailing with Traditional Elements", description: "A catamaran sailing experience with traditional elements in Negombo.", price: "From $267", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-636198/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a genuine premium experience, so it suits special occasions or travelers wanting extra comfort over a basic boat tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Negombo catamaran sailing experience worth it?", a: "Yes, for a more relaxed, premium feel than a standard motorboat lagoon tour, worth it for special occasions." },
+        ],
+      };
+
+    case "is-ayurvedic-massage-worth-it-negombo":
+      return {
+        title: "Is the Negombo Ayurvedic Massage & Spa Rituals Experience Worth It?",
+        description: "An honest look at the Ayurvedic massage and spa rituals experience in Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1396749/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ayurveda is a genuine, centuries-old Sri Lankan wellness tradition, and at a notably low price for 30 minutes, this is an easy, affordable way to try it, especially useful as a relaxing wind-down before or after a flight given Negombo's proximity to the airport.",
+            tourCard: { slug: "negombo-ayurvedic-massage-and-spa-rituals", title: "Negombo Ayurvedic Massage & Spa Rituals", description: "An Ayurvedic massage and spa rituals experience in Negombo.", price: "From $19", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1396749/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely good pick right before a flight out, given Negombo's proximity to the airport and the short session length.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ayurvedic massage worth it in Negombo?", a: "Yes, at a notably low price, it's an easy, affordable way to try Sri Lanka's genuine wellness tradition, good right before a flight." },
+        ],
+      };
+
     default:
       return null;
   }
