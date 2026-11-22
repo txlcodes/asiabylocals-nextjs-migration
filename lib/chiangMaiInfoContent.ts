@@ -774,6 +774,74 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-chiang-rai-day-trip-worth-it-chiang-mai":
+            return {
+                title: "Is a Chiang Rai Day Trip Worth It from Chiang Mai?",
+                description: "An honest look at the day trip to Chiang Rai's White, Blue, and Black Temples from Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chiang-rai-white-blue-red-temples-and-options/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Chiang Rai's White, Blue, and sometimes Black Temples are strikingly different from anything in Chiang Mai, and at around 10 hours round trip the day trip is a reasonable way to see all three without an overnight stay.", tourCard: { slug: "chiang-rai-white-blue-red-temples-and-options", title: "Chiang Rai White, Blue & Red Temples Day Trip", description: "A day trip from Chiang Mai covering Chiang Rai's White, Blue, and Red Temples.", price: "From $85", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chiang-rai-white-blue-red-temples-and-options/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "It's a long day with a lot of driving each way, so pick a tour that confirms all three temples are included rather than just one or two." }
+                ],
+                faqs: [
+                    { q: "Is a Chiang Rai day trip worth it from Chiang Mai?", a: "Yes, it covers Chiang Rai's strikingly different temples in a single long day without needing to overnight there." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Chiang Rai day trip worth it from Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it covers Chiang Rai's unique temples in a single long day." } }
+                ] },
+            };
+
+        case "is-khantoke-dinner-worth-it-chiang-mai":
+            return {
+                title: "Is a Khantoke Dinner with Cultural Show Worth It in Chiang Mai?",
+                description: "An honest look at the traditional Khantoke dinner and northern Thai cultural show in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khum-khantoke-northern-thai-cuisine-and-show-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A seated Khantoke dinner pairs northern Thai cuisine served on a traditional low table with a cultural dance show, giving you both a meal and a performance in one evening rather than arranging them separately.", tourCard: { slug: "khum-khantoke-northern-thai-cuisine-and-show-in-chiang-mai", title: "Khum Khantoke: Northern Thai Cuisine & Show", description: "A traditional Khantoke dinner with northern Thai cuisine and a cultural dance show.", price: "From $27", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/khum-khantoke-northern-thai-cuisine-and-show-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Arrive on time for the seated dinner service, since the cultural show runs on a set schedule around the meal." }
+                ],
+                faqs: [
+                    { q: "Is a Khantoke dinner worth it in Chiang Mai?", a: "Yes, it's a convenient one-stop evening combining a traditional northern Thai meal with a cultural performance." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Khantoke dinner worth it in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it combines a traditional meal and cultural show in one evening." } }
+                ] },
+            };
+
+        case "is-thai-cooking-class-worth-it-chiang-mai":
+            return {
+                title: "Is a Thai Cooking Class in an Organic Garden Worth It in Chiang Mai?",
+                description: "An honest look at the Thai cooking class held in an organic garden with a local market visit in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/thai-cooking-class-in-organic-garden-and-visit-local-market-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Picking ingredients straight from an organic garden and visiting a local market before cooking gives this class real context beyond a standard kitchen-only lesson, distinct from the combo classes already paired with elephant sanctuary visits.", tourCard: { slug: "thai-cooking-class-in-organic-garden-and-visit-local-market-in-chiang-mai", title: "Thai Cooking Class in Organic Garden & Local Market", description: "A Thai cooking class held in an organic garden with a local market visit.", price: "From $58", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/thai-cooking-class-in-organic-garden-and-visit-local-market-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Mention any dietary restrictions ahead of time, since the market visit determines what ingredients get cooked that day." }
+                ],
+                faqs: [
+                    { q: "Is the organic garden cooking class worth it in Chiang Mai?", a: "Yes, picking ingredients from the garden and market gives it more context than a typical kitchen-only cooking class." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the organic garden cooking class worth it in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the garden and market visit give it more depth than a typical cooking class." } }
+                ] },
+            };
+
+        case "is-monk-chat-worth-it-chiang-mai":
+            return {
+                title: "Is the Monk Chat at Wat Chedi Luang Worth It in Chiang Mai?",
+                description: "An honest look at the monk chat experience at Wat Chedi Luang, a casual conversation with a Buddhist monk about faith and daily life.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chat-with-a-monk-at-wat-chedi-luang-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A casual, guided conversation with a Buddhist monk about faith, daily monastic life, and Thai culture gives genuine insight you won't get from just walking through a temple, and at 2 hours and a modest price it's an easy addition to a Chiang Mai temple day.", tourCard: { slug: "chat-with-a-monk-at-wat-chedi-luang-in-chiang-mai", title: "Chat with a Monk at Wat Chedi Luang", description: "A guided conversation with a Buddhist monk at Wat Chedi Luang in Chiang Mai.", price: "From $31", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chat-with-a-monk-at-wat-chedi-luang-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly with shoulders and knees covered, as is required at any active Buddhist temple in Thailand." }
+                ],
+                faqs: [
+                    { q: "Is the monk chat worth it in Chiang Mai?", a: "Yes, it offers genuine insight into Buddhist monastic life that a typical temple walk-through doesn't provide." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the monk chat worth it in Chiang Mai?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine insight into monastic life beyond a typical temple visit." } }
+                ] },
+            };
+
         default:
             return null;
     }
