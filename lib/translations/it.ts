@@ -37032,6 +37032,26 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "bentota-jet-ski-ride-mangrove-river-safari": {
+  "title": "Bentota: combo giro in moto d’acqua e safari sul fiume tra le mangrovie",
+  "metaTitle": "Bentota: combo giro in moto d’acqua e safari sul fiume tra le ...",
+  "metaDescription": "Esperienza di 3 ora/e a Bentota. Emozionante giro di 15 minuti in moto d'acqua sulle acque di Bentota. Offerto da AYUBOWAY TOURS.",
+  "shortDescription": "Esperienza di 3 ora/e a Bentota. Emozionante giro di 15 minuti in moto d'acqua sulle acque di Bentota. Offerto da AYUBOWAY TOURS.",
+  "fullDescription": "Un'esperienza di 3 ora/e a Bentota. Emozionante giro di 15 minuti in moto d'acqua sulle acque di Bentota.\n\nAYUBOWAY TOURS se ne occupa, e 4 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende giro in moto d’acqua di 15 minuti, briefing/assistenza sulla sicurezza, safari di 2 ore sul fiume Bentota e bottiglia d'acqua da 500ml gratuita per ciascuno. Non comprende mance e filmati con drone, quindi preventivalo separatamente. Due viaggiatori pagano 305 $ insieme invece di 203 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Emozionante giro di 15 minuti in moto d'acqua sulle acque di Bentota"
+  ],
+  "included": [
+   "giro in moto d’acqua di 15 minuti",
+   "Briefing/assistenza sulla sicurezza",
+   "safari di 2 ore sul fiume Bentota",
+   "Bottiglia d'acqua da 500ml gratuita per ciascuno"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Filmati con drone"
+  ]
+ },
  "from-udawalawe-to-ella-transfer-with-waterfalls": {
   "title": "Da Udawalawe a Ella: transfer con cascate e colline di tè",
   "metaTitle": "Da Udawalawe a Ella: transfer con cascate e colline di tè",
@@ -37051,6 +37071,26 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande",
    "Spese personali",
    "Mance (opzionali)"
+  ]
+ },
+ "sigiriya-sigiriya-rock-hike-minneriya-safari": {
+  "title": "Sigiriya: escursione alla Rocca di Sigiriya e safari a Minneriya, tour privato",
+  "metaTitle": "Sigiriya: escursione alla Rocca di Sigiriya e safari a Minneri...",
+  "metaDescription": "Un'escursione di mezza giornata da Sigiriya che visita Jeep / SUV e Sigiriya. Offerto da Minneriya Wilderness Co.",
+  "shortDescription": "Un'escursione di mezza giornata da Sigiriya che visita Jeep / SUV e Sigiriya. Offerto da Minneriya Wilderness Co.",
+  "fullDescription": "Un'escursione di mezza giornata da Sigiriya, che passa per Jeep / SUV e Sigiriya. La tappa più lunga è Sigiriya, con una durata di circa 3 ore. Ci sono 2 tappe in totale.\n\nL'ordine del percorso è Jeep / SUV (30 min), poi Sigiriya (3h).\n\nIl prezzo comprende transfer di andata e ritorno dall'hotel, veicolo privato, autista-guida che parla inglese e carburante e spese di parcheggio. Non comprende biglietto d'ingresso al Parco Nazionale di Minneriya e biglietto d'ingresso alla fortezza rocciosa di Sigiriya, quindi preventivalo separatamente. Due viaggiatori pagano 107 $ insieme invece di 65 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Un'escursione di mezza giornata da Sigiriya che visita Jeep / SUV e Sigiriya. Offerto da Minneriya Wilderness Co."
+  ],
+  "included": [
+   "Transfer di andata e ritorno dall'hotel",
+   "Veicolo privato",
+   "Autista-guida che parla inglese",
+   "Carburante e spese di parcheggio"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Parco Nazionale di Minneriya",
+   "Biglietto d'ingresso alla fortezza rocciosa di Sigiriya"
   ]
  },
  "from-sigiriya-hurulu-eco-park-safari-ritigala": {
@@ -37131,6 +37171,46 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Pranzo o cena"
+  ]
+ },
+ "mirissa-nordic-sauna-ice-bath-experience-with": {
+  "title": "Mirissa: esperienza di sauna nordica e bagno di ghiaccio con giro in tuk-tuk",
+  "metaTitle": "Mirissa: esperienza di sauna nordica e bagno di ghiaccio con g...",
+  "metaDescription": "Un'escursione di 1,5 ora/e da Mirissa che visita Tuk tuk e Mirissa. Offerto da Heros Adventures.",
+  "shortDescription": "Un'escursione di 1,5 ora/e da Mirissa che visita Tuk tuk e Mirissa. Offerto da Heros Adventures.",
+  "fullDescription": "Un'escursione di 1,5 ora/e da Mirissa, che passa per Tuk tuk e Mirissa. Ci sono 2 tappe in totale.\n\nL'ordine del percorso è Tuk tuk (15 min), poi Mirissa.\n\nIl prezzo comprende giro in tuk-tuk, introduzione guidata alla routine di terapia a contrasto, sessione di sauna nordica e esperienza di bagno di ghiaccio. Non comprende alloggio, quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di 1,5 ora/e da Mirissa che visita Tuk tuk e Mirissa. Offerto da Heros Adventures."
+  ],
+  "included": [
+   "Giro in tuk-tuk",
+   "Introduzione guidata alla routine di terapia a contrasto",
+   "Sessione di sauna nordica",
+   "Esperienza di bagno di ghiaccio"
+  ],
+  "notIncluded": [
+   "Alloggio"
+  ]
+ },
+ "mirissa-village-cooking-experience-spice-blending": {
+  "title": "Mirissa: esperienza di cucina nel villaggio e lezione di miscelazione delle spezie",
+  "metaTitle": "Mirissa: esperienza di cucina nel villaggio e lezione di misce...",
+  "metaDescription": "Un'escursione di 2 ora/e da Mirissa che visita Tuk tuk e Mirissa. Offerto da Heros Adventures and Tours.",
+  "shortDescription": "Un'escursione di 2 ora/e da Mirissa che visita Tuk tuk e Mirissa. Offerto da Heros Adventures and Tours.",
+  "fullDescription": "Un'escursione di 2 ora/e da Mirissa, che passa per Tuk tuk e Mirissa. La tappa più lunga è Mirissa, con una durata di circa 2 ore. Ci sono 2 tappe in totale.\n\nL'ordine del percorso è Tuk tuk (15 min), poi Mirissa (2h).\n\nIl prezzo comprende lezione di miscelazione delle spezie con spezie tradizionali dello Sri Lanka, corso di cucina singalese guidato con un esperto locale, ingredienti freschi e spezie fatte in casa tradizionali e preparazione pratica di diversi piatti singalesi. Non comprende pickup o drop-off in hotel fuori dalla zona di Mirissa (disponibile con costo extra), bevande extra non menzionate e articoli extra del menu, quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di 2 ora/e da Mirissa che visita Tuk tuk e Mirissa. Offerto da Heros Adventures and Tours."
+  ],
+  "included": [
+   "Lezione di miscelazione delle spezie con spezie tradizionali dello Sri Lanka",
+   "Corso di cucina singalese guidato con un esperto locale",
+   "Ingredienti freschi e spezie fatte in casa tradizionali",
+   "Preparazione pratica di diversi piatti singalesi"
+  ],
+  "notIncluded": [
+   "Pickup o drop-off in hotel fuori dalla zona di Mirissa (disponibile con costo extra)",
+   "Bevande extra non menzionate",
+   "Articoli extra del menu"
   ]
  },
  "scuba-diving-in-negombo": {
@@ -37250,6 +37330,27 @@ export const IT_TOURS: Record<string, TourT> = {
    "Transfer di andata e ritorno dall'hotel/guesthouse di Kandy",
    "Visite a cascate nascoste",
    "Passeggiata e degustazione in una piantagione di tè"
+  ],
+  "notIncluded": [
+   "Pasti e spese personali",
+   "Mance/gratifiche",
+   "Biglietti d'ingresso"
+  ]
+ },
+ "ella-to-nuwara-eliya-secret-hill-country-circular": {
+  "title": "Da Ella a Nuwara Eliya: tour circolare di un giorno nelle hill country segrete",
+  "metaTitle": "Da Ella a Nuwara Eliya: tour circolare di un giorno nelle hill...",
+  "metaDescription": "Un'escursione di una giornata intera da Ella che visita Nuwara Eliya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "shortDescription": "Un'escursione di una giornata intera da Ella che visita Nuwara Eliya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD.",
+  "fullDescription": "Un'escursione di una giornata intera da Ella, che passa per Nuwara Eliya.\n\nIl prezzo comprende veicolo privato con aria condizionata e guida/conducente cordiale che parla inglese, pickup e drop-off all'hotel/guesthouse a Ella, escursione su sentiero nascosto a Little Adam's Peak e visite alle cascate di Ravana e Lovers' Leap. Non comprende pasti e spese personali, mance/gratifiche e biglietti d'ingresso, quindi preventivalo separatamente. Due viaggiatori pagano 186 $ insieme invece di 145 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Ella che visita Nuwara Eliya. Offerto da CEYLON OF TRAVELS - C.O.T (PVT) LTD."
+  ],
+  "included": [
+   "Veicolo privato con aria condizionata e guida/conducente cordiale che parla inglese",
+   "Pickup e drop-off all'hotel/guesthouse a Ella",
+   "Escursione su sentiero nascosto a Little Adam's Peak",
+   "Visite alle cascate di Ravana e Lovers' Leap"
   ],
   "notIncluded": [
    "Pasti e spese personali",
@@ -37548,6 +37649,27 @@ export const IT_TOURS: Record<string, TourT> = {
    "Alloggio"
   ]
  },
+ "kandy-sigiriya-and-dambulla-day-trip-with-lunch": {
+  "title": "Kandy: gita di un giorno a Sigiriya e Dambulla con pranzo",
+  "metaTitle": "Kandy: gita di un giorno a Sigiriya e Dambulla con pranzo",
+  "metaDescription": "Esperienza di una giornata intera a Kandy. Ammira l'antica fortezza rocciosa di Sigiriya e i suoi affreschi straordinari. Offerto da Inpura Travels.",
+  "shortDescription": "Esperienza di una giornata intera a Kandy. Ammira l'antica fortezza rocciosa di Sigiriya e i suoi affreschi straordinari. Offerto da Inpura Travels.",
+  "fullDescription": "Un'esperienza di una giornata intera a Kandy. Ammira l'antica fortezza rocciosa di Sigiriya e i suoi affreschi straordinari.\n\nInpura Travels se ne occupa, e 4 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende trasporto privato (veicolo, autista/guida, carburante, pedaggi, parcheggio), biglietti d'ingresso: fortezza rocciosa di Sigiriya e tempio delle caverne di Dambulla, pranzo in un ristorante locale e servizi di guida professionale. Non comprende biglietti aerei internazionali e assicurazione di viaggio, spese personali (souvenir, bevande, mance) e attivita opzionali: giro in mongolfiera, giro in carro trainato da buoi nel villaggio, quindi preventivalo separatamente.",
+  "highlights": [
+   "Ammira l'antica fortezza rocciosa di Sigiriya e i suoi affreschi straordinari"
+  ],
+  "included": [
+   "Trasporto privato (veicolo, autista/guida, carburante, pedaggi, parcheggio)",
+   "Biglietti d'ingresso: fortezza rocciosa di Sigiriya e tempio delle caverne di Dambulla",
+   "Pranzo in un ristorante locale",
+   "Servizi di guida professionale"
+  ],
+  "notIncluded": [
+   "Biglietti aerei internazionali e assicurazione di viaggio",
+   "Spese personali (souvenir, bevande, mance)",
+   "Attivita opzionali: giro in mongolfiera, giro in carro trainato da buoi nel villaggio"
+  ]
+ },
  "sigiriya-elahera-gem-mining-and-moragahakanda-tour": {
   "title": "Sigiriya: tour tra l'estrazione di pietre preziose a Elahera e Moragahakanda",
   "metaTitle": "Sigiriya: tour tra l'estrazione di pietre preziose a Elahera e...",
@@ -37587,6 +37709,27 @@ export const IT_TOURS: Record<string, TourT> = {
    "Alloggio in hotel (possiamo organizzarlo anche noi)",
    "Costi delle attività",
    "Biglietti d'ingresso alle attrazioni"
+  ]
+ },
+ "from-ella-yala-safari-drop-off-mrissa-waligama": {
+  "title": "Da Ella: safari a Yala e rientro a Mirissa, Weligama, Galle",
+  "metaTitle": "Da Ella: safari a Yala e rientro a Mirissa, Weligama, Galle",
+  "metaDescription": "Un'escursione di una giornata intera da Ella che visita Finish at:. Offerto da Yala Osha Safari.",
+  "shortDescription": "Un'escursione di una giornata intera da Ella che visita Finish at:. Offerto da Yala Osha Safari.",
+  "fullDescription": "Un'escursione di una giornata intera da Ella, che passa per Finish at:.\n\nIl prezzo comprende jeep per safari, autista esperto (fungera da guida), frutta e acqua. Non comprende biglietto d'ingresso al parco di Yala (13.000 LKR a persona), taxi 10.000 LKR a persona e tè o caffè, quindi preventivalo separatamente.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Ella che visita Finish at:. Offerto da Yala Osha Safari."
+  ],
+  "included": [
+   "Jeep per safari",
+   "Autista esperto (fungera da guida)",
+   "Frutta",
+   "Acqua"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al parco di Yala (13.000 LKR a persona)",
+   "Taxi 10.000 LKR a persona",
+   "Tè o caffè"
   ]
  },
  "mirissa-snorkeling-turtle-marine-life-with-free": {
