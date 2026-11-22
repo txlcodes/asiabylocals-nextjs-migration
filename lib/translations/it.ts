@@ -39475,6 +39475,195 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "snowmobile-lake-toya-and-noboribetsu-day-tour": {
+  "title": "Motoslitta, Lago Toya e Noboribetsu: tour di un giorno",
+  "metaTitle": "Motoslitta, Lago Toya e Noboribetsu da Sapporo",
+  "metaDescription": "Dieci ore da Sapporo con guida in inglese, cinese, cantonese o giapponese, trasferimenti andata e ritorno e assicurazione dell'operatore incluse.",
+  "shortDescription": "Dieci ore da Sapporo con guida in inglese, cinese, cantonese o giapponese, trasferimenti andata e ritorno e assicurazione dell'operatore incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera.\n\nQuesto tour di dieci ore porta una guida in inglese, cinese, cantonese o giapponese, trasferimenti andata e ritorno dal punto di incontro, l'assicurazione fornita dall'operatore, e il pranzo incluso oppure l'opzione senza pranzo. Altre spese personali, il biglietto d'ingresso al ranch degli orsi di Showa Shinzan (1.000 yen), il biglietto della funivia del Monte Usu (2.000 yen) e la tariffa per l'esperienza in motoslitta (facoltativa) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in inglese, cinese, cantonese o giapponese",
+   "Trasferimenti andata e ritorno dal punto di incontro",
+   "Assicurazione fornita dall'operatore",
+   "Pranzo incluso oppure opzione senza pranzo"
+  ],
+  "notIncluded": [
+   "Altre spese personali",
+   "Biglietto d'ingresso al ranch degli orsi di Showa Shinzan (1.000 yen)",
+   "Biglietto della funivia del Monte Usu (2.000 yen)",
+   "Tariffa per l'esperienza in motoslitta (facoltativa)"
+  ]
+ },
+ "noboribetsu-lake-toya-and-niseko-day-trip": {
+  "title": "Gita di un giorno a Noboribetsu, Lago Toya e Niseko",
+  "metaTitle": "Noboribetsu, Lago Toya e Niseko da Sapporo",
+  "metaDescription": "Dieci ore da Sapporo tra Jigokudani e il Lago Toya, con trasporto andata e ritorno e personale in inglese e coreano incluso.",
+  "shortDescription": "Dieci ore da Sapporo tra Jigokudani e il Lago Toya, con trasporto andata e ritorno e personale in inglese e coreano incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio.\n\nQuesta gita di dieci ore porta **Jigokudani**, la valle dell'inferno, l'onsen del **Lago Toya** e **Niseko**, con trasporto andata e ritorno e personale in inglese e coreano incluso. Pasti, altre spese personali e assicurazione di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno",
+   "Personale in inglese e coreano"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Altre spese personali",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "shikotsu-toya-national-park-guided-snowshoe-hike-and-onsen-in-sapporo": {
+  "title": "Parco Nazionale di Shikotsu-Toya: escursione guidata con racchette da neve e onsen, Sapporo",
+  "metaTitle": "Escursione con racchette da neve e onsen, Shikotsu-Toya",
+  "metaDescription": "Sei ore nel Parco Nazionale di Shikotsu-Toya con racchette da neve, escursione guidata, pranzo abbondante all'aperto e ingresso alle terme incluso.",
+  "shortDescription": "Sei ore nel Parco Nazionale di Shikotsu-Toya con racchette da neve, escursione guidata, pranzo abbondante all'aperto e ingresso alle terme incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; il Lago Toya e il Lago Shikotsu sono laghi di caldera. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko.\n\nQuesta esperienza di sei ore nel **Parco Nazionale di Shikotsu-Toya** porta l'attrezzatura per le racchette da neve, l'escursione guidata, l'istruzione su come muoversi e orientarsi sulla neve, un pranzo abbondante all'aperto, l'ingresso alle terme, snack per il percorso e il trasporto da e per l'inizio del sentiero. Il noleggio degli asciugamani alle terme (400 yen) non è incluso, e si consiglia di portare la propria acqua.",
+  "highlights": [],
+  "included": [
+   "Attrezzatura per le racchette da neve",
+   "Escursione guidata",
+   "Istruzione su come muoversi e orientarsi sulla neve",
+   "Pranzo abbondante all'aperto",
+   "Ingresso alle terme",
+   "Snack per il percorso",
+   "Trasporto da e per l'inizio del sentiero"
+  ],
+  "notIncluded": [
+   "Noleggio degli asciugamani alle terme (400 yen)",
+   "Portare la propria acqua"
+  ]
+ },
+ "biei-and-furano-seasonal-small-group-day-trip": {
+  "title": "Gita di un giorno in piccolo gruppo a Biei e Furano, in base alla stagione",
+  "metaTitle": "Biei e Furano, piccolo gruppo, Sapporo",
+  "metaDescription": "Dieci ore da Sapporo tra Biei e Furano in piccolo gruppo, con pick-up vicino alla stazione, veicolo climatizzato e ingresso stagionale incluso.",
+  "shortDescription": "Dieci ore da Sapporo tra Biei e Furano in piccolo gruppo, con pick-up vicino alla stazione, veicolo climatizzato e ingresso stagionale incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio.\n\nQuesta gita di un giorno in piccolo gruppo, di dieci ore, porta carburante, pedaggi e tariffe autostradali del veicolo, il pick-up e il drop-off in hotel entro 3 chilometri dalla Stazione di Sapporo, il trasporto climatizzato in un Toyota Hiace da nove posti o un Toyota Alphard da sette posti secondo il pacchetto e il numero di partecipanti, il servizio di autista-guida per la guida e la logistica del percorso (senza accompagnare gli ospiti dentro le attrazioni), e l'ingresso stagionale: il pacchetto estivo include l'ingresso a Shikisai-no-Oka, quello invernale l'ingresso allo Zoo di Asahiyama. Pranzo, bevande, snack e altri pasti, i biglietti d'ingresso e le attività opzionali non elencate nel pacchetto scelto, le spese personali e l'assicurazione di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Carburante, pedaggi e tariffe autostradali del veicolo",
+   "Pick-up e drop-off in hotel entro 3 km dalla Stazione di Sapporo",
+   "Trasporto climatizzato in un Toyota Hiace da 9 posti o un Toyota Alphard da 7 posti, secondo il pacchetto e il numero di partecipanti",
+   "Servizio di autista-guida per la guida e la logistica del percorso; l'autista non accompagna gli ospiti dentro le attrazioni",
+   "Ingresso stagionale: il pacchetto estivo include l'ingresso a Shikisai-no-Oka, quello invernale l'ingresso allo Zoo di Asahiyama"
+  ],
+  "notIncluded": [
+   "Pranzo, bevande, snack e altri pasti",
+   "Biglietti d'ingresso alle attrazioni e attività opzionali non elencate per il pacchetto scelto",
+   "Spese personali",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "sapporo-private-customizable-walking-tour": {
+  "title": "Tour a piedi privato e personalizzabile a Sapporo",
+  "metaTitle": "Tour a piedi privato personalizzabile, Sapporo",
+  "metaDescription": "Quattro ore a Sapporo con guida in inglese, itinerario personalizzato e tutte le tasse e commissioni incluse.",
+  "shortDescription": "Quattro ore a Sapporo con guida in inglese, itinerario personalizzato e tutte le tasse e commissioni incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour a piedi privato di quattro ore porta una guida in lingua inglese, un itinerario personalizzato, tutte le tasse e commissioni incluse, e il tour a piedi stesso. Il trasporto privato resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Itinerario personalizzato",
+   "Tutte le tasse e commissioni",
+   "Tour a piedi"
+  ],
+  "notIncluded": [
+   "Trasporto privato"
+  ]
+ },
+ "sushi-making-class-in-sapporo": {
+  "title": "Corso di preparazione del sushi a Sapporo",
+  "metaTitle": "Corso di sushi a Sapporo",
+  "metaDescription": "Un'ora e mezza a Sapporo per imparare a preparare il sushi con un chef, strumenti e ingredienti inclusi, con spiegazioni in inglese disponibili.",
+  "shortDescription": "Un'ora e mezza a Sapporo per imparare a preparare il sushi con un chef, strumenti e ingredienti inclusi, con spiegazioni in inglese disponibili.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto corso di un'ora e mezza porta l'esperienza di preparazione del sushi, l'istruzione di uno chef di sushi, l'uso degli strumenti per prepararlo, gli ingredienti e la degustazione del sushi preparato, con spiegazioni in lingua inglese disponibili.",
+  "highlights": [],
+  "included": [
+   "Esperienza di preparazione del sushi",
+   "Istruzione di uno chef di sushi",
+   "Uso degli strumenti per la preparazione del sushi",
+   "Ingredienti per il sushi",
+   "Degustazione del sushi preparato",
+   "Spiegazioni in lingua inglese disponibili"
+  ],
+  "notIncluded": []
+ },
+ "jr-tower-family-and-accessible-observation-ticket-in-sapporo": {
+  "title": "Biglietto per l'osservatorio della JR Tower, per famiglie e accessibile, a Sapporo",
+  "metaTitle": "Osservatorio della JR Tower, biglietto accessibile, Sapporo",
+  "metaDescription": "Biglietto d'ingresso all'osservatorio della JR Tower a Sapporo, con voucher a codice QR e accesso ad aree accessibili per famiglie e sedie a rotelle.",
+  "shortDescription": "Biglietto d'ingresso all'osservatorio della JR Tower a Sapporo, con voucher a codice QR e accesso ad aree accessibili per famiglie e sedie a rotelle.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto servizio fornisce il biglietto d'ingresso all'osservatorio della **JR Tower**, un voucher diretto con codice QR da cambiare con il biglietto fisico, e l'accesso ad aree di osservazione adatte a famiglie e accessibili in sedia a rotelle. Cibo, bevande, acquisti personali e il trasporto fino alla Stazione di Sapporo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso all'osservatorio della JR Tower",
+   "Voucher diretto con codice QR da cambiare con il biglietto fisico",
+   "Accesso ad aree di osservazione adatte a famiglie e accessibili in sedia a rotelle"
+  ],
+  "notIncluded": [
+   "Cibo, bevande e acquisti personali",
+   "Trasporto fino alla Stazione di Sapporo"
+  ]
+ },
+ "hill-of-the-buddha-and-otaru-mount-tengu-day-trip": {
+  "title": "Gita di un giorno alla Collina del Buddha e al Monte Tengu di Otaru",
+  "metaTitle": "Collina del Buddha e Monte Tengu, Otaru",
+  "metaDescription": "Nove ore da Sapporo tra il Santuario di Hokkaido e la Collina del Buddha, con guida turistica e trasferimenti andata e ritorno dal punto di incontro.",
+  "shortDescription": "Nove ore da Sapporo tra il Santuario di Hokkaido e la Collina del Buddha, con guida turistica e trasferimenti andata e ritorno dal punto di incontro.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon.\n\nQuesta gita di nove ore porta il **Santuario di Hokkaido** e la **Collina del Buddha**, con una guida turistica e trasferimenti andata e ritorno dal punto di incontro. Pick-up e drop-off in hotel, la tariffa per il bagaglio (da comunicare via email in anticipo), le condizioni particolari per chi viaggia con bambini (da confermare in anticipo con il servizio clienti), pasti e bevande (snack acquistabili alle attrazioni), spese personali, assicurazione personale di viaggio o infortuni, l'ingresso alla Collina del Buddha e il biglietto andata e ritorno per la funivia del Monte Tengu di Otaru restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica",
+   "Trasferimenti andata e ritorno dal punto di incontro"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Tariffa per il bagaglio (contattateci via email se dovete portare bagagli)",
+   "Se viaggiate con bambini, dovete consultare in anticipo il servizio clienti per confermare l'ammissibilità al tour",
+   "Pasti e bevande (snack acquistabili alle attrazioni)",
+   "Spese personali",
+   "Assicurazione personale di viaggio o infortuni",
+   "Ingresso alla Collina del Buddha",
+   "Biglietto andata e ritorno per la funivia del Monte Tengu di Otaru"
+  ]
+ },
+ "lake-toya-and-hell-valley-day-trip-with-mt-yotei-in-sapporo": {
+  "title": "Gita di un giorno al Lago Toya e alla Valle dell'Inferno con il Monte Yotei, Sapporo",
+  "metaTitle": "Lago Toya, Valle dell'Inferno e Monte Yotei",
+  "metaDescription": "Giornata intera da Sapporo tra il Lago Toya e la Lake Hill Farm, con trasporto in bus andata e ritorno e servizio guida incluso.",
+  "shortDescription": "Giornata intera da Sapporo tra il Lago Toya e la Lake Hill Farm, con trasporto in bus andata e ritorno e servizio guida incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera.\n\nQuesta gita di una giornata intera porta il **Lago Toya**, la **Lake Hill Farm** e una vista sul **Monte Yotei**, con trasporto in bus andata e ritorno da Sapporo e il servizio guida incluso. Pasti e bevande, i biglietti d'ingresso alle attrazioni, tutte le spese personali, le attività opzionali e il costo del giro in motoslitta restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in bus andata e ritorno da Sapporo",
+   "Servizio guida"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso alle attrazioni",
+   "Tutte le spese personali",
+   "Attività opzionali",
+   "Costo del giro in motoslitta"
+  ]
+ },
+ "late-departure-asahiyama-zoo-and-blue-pond-and-ningle-terrace-in-sapporo": {
+  "title": "Partenza tardiva: Zoo di Asahiyama, laghetto blu e Ningle Terrace, Sapporo",
+  "metaTitle": "Partenza tardiva: Asahiyama, laghetto blu, Ningle Terrace",
+  "metaDescription": "Dieci ore da Sapporo allo Zoo di Asahiyama con partenza tardiva, guida in inglese, cinese, cantonese o giapponese e assicurazione di viaggio incluse.",
+  "shortDescription": "Dieci ore da Sapporo allo Zoo di Asahiyama con partenza tardiva, guida in inglese, cinese, cantonese o giapponese e assicurazione di viaggio incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour di dieci ore, con partenza tardiva, porta il biglietto d'ingresso allo **Zoo di Asahiyama**, una guida in inglese, cinese, cantonese o giapponese, il trasporto andata e ritorno in pullman riscaldato comodo, e l'assicurazione di viaggio. Pasti, bevande e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso allo Zoo di Asahiyama",
+   "Guida in inglese, cinese, cantonese o giapponese",
+   "Trasporto andata e ritorno in pullman riscaldato comodo",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Altre spese personali"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
