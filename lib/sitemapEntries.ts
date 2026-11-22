@@ -1553,7 +1553,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'where-to-stay-in-hakone',
     'hakone-or-kawaguchiko-for-mount-fuji', 'best-tours-in-hakone', 'should-i-book-hakone-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-hakone',
-    'is-forest-bathing-worth-it-hakone', 'is-open-air-museum-worth-it-hakone'].map(slug => ({
+    'is-forest-bathing-worth-it-hakone', 'is-open-air-museum-worth-it-hakone',
+    'is-evangelion-anime-tour-worth-it-hakone', 'is-odawara-castle-walk-worth-it-hakone',
+    'is-venetian-glass-museum-worth-it-hakone', 'is-geothermal-valley-torii-walk-worth-it-hakone'].map(slug => ({
     url: `${BASE_URL}/japan/hakone/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

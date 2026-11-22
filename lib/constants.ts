@@ -1676,6 +1676,8 @@ export const HAKONE_INFO_SLUGS = [
   'should-i-book-hakone-tour-direct-or-through-app',
   'how-much-should-a-private-tour-guide-cost-in-hakone',
   'is-forest-bathing-worth-it-hakone', 'is-open-air-museum-worth-it-hakone',
+  'is-evangelion-anime-tour-worth-it-hakone', 'is-odawara-castle-walk-worth-it-hakone',
+  'is-venetian-glass-museum-worth-it-hakone', 'is-geothermal-valley-torii-walk-worth-it-hakone',
 ];
 
 // Fuji content that was sitting under Hakone. The page bodies still live in

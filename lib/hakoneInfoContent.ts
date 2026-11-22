@@ -1848,6 +1848,90 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-evangelion-anime-tour-worth-it-hakone":
+      return {
+        title: "Is the Evangelion Anime Tour Worth It in Hakone?",
+        description: "An honest look at the Evangelion anime tour with a professional guide, visiting locations tied to the iconic anime series set in Hakone.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/evangelion-anime-tour-with-professional-guide-in-hakone/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Neon Genesis Evangelion is genuinely set in a fictionalized version of Hakone, and visiting the real-world locations that inspired the series gives fans a far deeper connection than just recognizing the setting from the anime alone.",
+            tourCard: { slug: "evangelion-anime-tour-with-professional-guide-in-hakone", title: "Evangelion Anime Tour with Professional Guide", description: "A guided tour of locations tied to the Evangelion anime series in Hakone.", price: "From $472", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/evangelion-anime-tour-with-professional-guide-in-hakone/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a premium specialist tour, so it's really aimed at genuine fans rather than casual visitors unfamiliar with the series.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Evangelion anime tour worth it in Hakone?", a: "Yes, for genuine fans, seeing the real locations that inspired the series gives a far deeper connection than recognizing the setting alone." },
+        ],
+      };
+
+    case "is-odawara-castle-walk-worth-it-hakone":
+      return {
+        title: "Is the Odawara Castle & Samurai History Walk Worth It near Hakone?",
+        description: "An honest look at the Odawara Castle samurai history and local food walking tour, a historical stop on the way into Hakone.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/odawara-castle-samurai-history-and-local-food-walk-in-hakone/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Odawara Castle has genuine samurai-era significance as a former stronghold, and pairing the history walk with local food stops gives this a well-rounded, not-purely-historical pace, a good stop on the way to or from Hakone's volcanic and lake sights.",
+            tourCard: { slug: "odawara-castle-samurai-history-and-local-food-walk-in-hakone", title: "Odawara Castle Samurai History & Local Food Walk", description: "A walking tour of Odawara Castle's samurai history with local food stops.", price: "From $260", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/odawara-castle-samurai-history-and-local-food-walk-in-hakone/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers routing through Odawara station on the way into Hakone, since it's a natural stop along the way.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Odawara Castle walk worth it near Hakone?", a: "Yes, it's a genuine samurai-era historical stop with local food stops, a good addition on the way into Hakone." },
+        ],
+      };
+
+    case "is-venetian-glass-museum-worth-it-hakone":
+      return {
+        title: "Is the Venetian Glass Museum Worth It in Hakone?",
+        description: "An honest look at the Venetian Glass Museum in Hakone, a themed museum and garden distinct from the area's volcanic sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/venetian-glass-museum-ticket-and-digital-art-guide-in-hakone/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dedicated Venetian glass collection and themed gardens give a genuinely different pace from Hakone's volcanic valleys and lake views, a good indoor option on a rainy day or as a change of scenery between bigger sightseeing stops.",
+            tourCard: { slug: "venetian-glass-museum-ticket-and-digital-art-guide-in-hakone", title: "Venetian Glass Museum Ticket with Digital Art Guide", description: "An admission ticket with digital guide to the Venetian Glass Museum in Hakone.", price: "From $38", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/venetian-glass-museum-ticket-and-digital-art-guide-in-hakone/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day option, or a change of pace between Hakone's bigger volcanic and lake sightseeing stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Venetian Glass Museum worth it in Hakone?", a: "Yes, it offers a genuinely different pace from the area's volcanic and lake sightseeing, especially good on a rainy day." },
+        ],
+      };
+
+    case "is-geothermal-valley-torii-walk-worth-it-hakone":
+      return {
+        title: "Is the Geothermal Valley & Floating Torii Walk Worth It in Hakone?",
+        description: "An honest look at the combined walk through Owakudani's volcanic geothermal valley and the floating torii gate at Lake Ashi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/geothermal-valley-and-floating-torii-walk-in-hakone/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing the volcanic steam vents and black-egg stands of Owakudani's geothermal valley with the iconic floating torii gate at Lake Ashi covers two of Hakone's most photographed sights in one guided walk, with genuinely different landscapes in each.",
+            tourCard: { slug: "geothermal-valley-and-floating-torii-walk-in-hakone", title: "Geothermal Valley & Floating Torii Walk", description: "A guided walk combining Owakudani's geothermal valley and the floating torii at Lake Ashi.", price: "From $206", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/geothermal-valley-and-floating-torii-walk-in-hakone/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Try the local black eggs at Owakudani — said to add years to your life according to local tradition, and a fun, cheap snack regardless.",
+          },
+        ],
+        faqs: [
+          { q: "Is the geothermal valley and floating torii walk worth it in Hakone?", a: "Yes, it covers two of Hakone's most photographed, genuinely different landscapes in one guided walk." },
+        ],
+      };
+
     default:
       return null;
   }
