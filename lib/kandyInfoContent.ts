@@ -1076,6 +1076,90 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-knuckles-7-falls-hike-worth-it-kandy":
+      return {
+        title: "Is the Knuckles Range 7 Falls Hiking Tour Worth It from Kandy?",
+        description: "An honest look at the 7 falls hiking tour in the Knuckles mountain range near Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-956692/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Knuckles range is a genuinely rugged, less-touristed mountain area, and hiking to seven separate waterfalls in one outing gives a serious nature-focused day distinct from Kandy's temple and lake sightseeing.",
+            tourCard: { slug: "kandy-7-falls-hiking-tour-in-the-knuckles", title: "Kandy 7 Falls Hiking Tour in the Knuckles", description: "A hiking tour to seven waterfalls in the Knuckles mountain range near Kandy.", price: "From $203", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-956692/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with real hiking fitness and proper footwear — this is a genuine multi-waterfall trek, not a casual walk.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Knuckles 7 falls hike worth it from Kandy?", a: "Yes, it's a genuinely rugged, serious nature hike distinct from Kandy's usual temple and lake sightseeing." },
+        ],
+      };
+
+    case "is-kelani-river-rafting-worth-it-kandy":
+      return {
+        title: "Is the Kelani River White Water Rafting Day Trip Worth It from Kandy?",
+        description: "An honest look at the white water rafting day trip on the Kelani River near Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-866670/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Kelani River is Sri Lanka's genuine white water rafting destination, and this full-day trip gives a real adrenaline activity distinct from Kandy's cultural sightseeing circuit, worth the drive for travelers specifically seeking adventure sports.",
+            tourCard: { slug: "from-kandy-kelani-river-white-water-rafting-day", title: "From Kandy: Kelani River White Water Rafting Day Trip", description: "A white water rafting day trip on the Kelani River from Kandy.", price: "From $296", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-866670/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior rafting experience is needed, but come prepared to get thoroughly wet and bring a change of clothes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kelani River rafting trip worth it from Kandy?", a: "Yes, it's Sri Lanka's genuine white water rafting destination, a real adrenaline activity worth the drive from Kandy." },
+        ],
+      };
+
+    case "is-cooking-class-worth-it-kandy":
+      return {
+        title: "Is the Authentic Sri Lankan Cooking Class Worth It in Kandy?",
+        description: "An honest look at the authentic Sri Lankan cooking class in Kandy, a hands-on introduction to the island's cuisine.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-668452/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning hands-on Sri Lankan cooking technique gives genuine insight beyond just eating rice and curry at a restaurant, and at 3 hours and a modest price it's an easy, affordable addition to a day of temple sightseeing.",
+            tourCard: { slug: "authentic-sri-lankan-cooking-class-in-kandy-by", title: "Authentic Sri Lankan Cooking Class in Kandy", description: "A hands-on authentic Sri Lankan cooking class in Kandy.", price: "From $60", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-668452/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — you'll be eating what you cook, and Sri Lankan meals are traditionally served as a generous, multi-dish spread.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sri Lankan cooking class worth it in Kandy?", a: "Yes, it gives genuine hands-on insight into the island's cuisine beyond just eating at a restaurant." },
+        ],
+      };
+
+    case "is-nanuoya-scenic-train-worth-it-kandy":
+      return {
+        title: "Is the Nanuoya First-Class Scenic Train Worth It from Kandy?",
+        description: "An honest look at the first-class scenic train ticket to/from Nanuoya, the gateway station for Nuwara Eliya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-731614/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nanuoya is the station serving Nuwara Eliya, a genuinely different destination from the more famous Kandy-to-Ella route, and booking first class guarantees a window seat and more comfort for the scenic hill-country journey.",
+            tourCard: { slug: "nanuoya-first-class-scenic-train-ticket-tofrom", title: "Nanuoya First-Class Scenic Train Ticket", description: "A first-class scenic train ticket to/from Nanuoya station near Kandy.", price: "From $161", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-731614/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "First class guarantees a reserved window seat, genuinely worth the upgrade over unreserved second or third class on this popular route.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nanuoya scenic train worth it from Kandy?", a: "Yes, first class guarantees a reserved window seat for the scenic hill-country journey toward Nuwara Eliya." },
+        ],
+      };
+
     default:
       return null;
   }
