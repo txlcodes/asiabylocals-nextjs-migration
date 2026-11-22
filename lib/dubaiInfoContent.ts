@@ -1153,6 +1153,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hot-air-balloon-worth-it-dubai":
+      return {
+        title: "Is the Dubai Sunrise Hot Air Balloon Tour Worth It?",
+        description: "An honest look at the sunrise hot air balloon tour over the Dubai desert.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25663a730df9eab6d7617ac8f8a3fd1cffa4a502b88fd719b90d83df5e9fdaeb.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Floating silently over the desert dunes at sunrise gives a genuinely different perspective than any ground-based safari, and the calm, gentle flight contrasts sharply with the adrenaline-focused dune bashing most desert tours emphasize.",
+            tourCard: { slug: "dubai-sunrise-hot-air-balloon-tour-over-the-desert", title: "Dubai Sunrise Hot Air Balloon Tour over the Desert", description: "A sunrise hot air balloon tour over the Dubai desert.", price: "From $364", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25663a730df9eab6d7617ac8f8a3fd1cffa4a502b88fd719b90d83df5e9fdaeb.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This requires a genuinely early pre-dawn start to catch the right wind conditions and sunrise timing — plan your night before accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dubai hot air balloon tour worth it?", a: "Yes, floating silently over the dunes at sunrise gives a genuinely different, calmer perspective than ground-based desert safaris." },
+        ],
+      };
+
+    case "is-museum-of-the-future-tour-worth-it-dubai":
+      return {
+        title: "Is the Skip-the-Line Museum of the Future Private Tour Worth It?",
+        description: "An honest look at the private skip-the-line tour of Dubai's Museum of the Future.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f654dd34bfc99fa22892ece19460b9a99e1bfe6162916dc5b432d38985534c2.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Museum of the Future is one of Dubai's most popular attractions with genuinely long queues, so skip-the-line access with a private guide saves real time and adds context to its immersive, speculative exhibits.",
+            tourCard: { slug: "skip-the-line-museum-of-the-future-dubai-private", title: "Skip-the-Line Museum of the Future Private Tour", description: "A private skip-the-line tour of the Museum of the Future in Dubai.", price: "From $467", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f654dd34bfc99fa22892ece19460b9a99e1bfe6162916dc5b432d38985534c2.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a premium private experience specifically to avoid the museum's famously long public queues.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Museum of the Future private tour worth it in Dubai?", a: "Yes, skip-the-line access saves real time at one of Dubai's most popular, longest-queued attractions." },
+        ],
+      };
+
+    case "is-flying-dress-experience-worth-it-dubai":
+      return {
+        title: "Is the Flying Dress Experience Worth It in Dubai?",
+        description: "An honest look at the flying dress photoshoot experience in Dubai, a dramatic desert or city backdrop photo session.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/349fc3e15f4e08a1f81184c1986cf872af003291c8efbc18da3975f3e3469280.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wearing a dramatic, oversized flowing dress for a professionally shot photoshoot against Dubai's desert or skyline backdrop gives genuinely striking, shareable photos that are hard to replicate with a standard tourist snapshot.",
+            tourCard: { slug: "the-ultimate-flying-dress-experience-in-dubai", title: "The Ultimate Flying Dress Experience in Dubai", description: "A flying dress photoshoot experience in Dubai.", price: "From $478", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/349fc3e15f4e08a1f81184c1986cf872af003291c8efbc18da3975f3e3469280.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a genuine premium photoshoot experience, so it suits travelers specifically wanting professional, shareable photos as a souvenir.",
+          },
+        ],
+        faqs: [
+          { q: "Is the flying dress experience worth it in Dubai?", a: "Yes, for genuinely striking, shareable photos against Dubai's desert or skyline backdrop, hard to replicate with a standard snapshot." },
+        ],
+      };
+
+    case "is-hatta-bab-al-shams-tour-worth-it-dubai":
+      return {
+        title: "Is the Hatta Mountains & Bab Al Shams Sunset Tour Worth It?",
+        description: "An honest look at the private tour combining Hatta's mountains with a Bab Al Shams desert sunset.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3350822e23da1ba6688c8deee6a09a39247856f741de02213b2f973d920d0b64.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Hatta's rugged mountain scenery, genuinely different from Dubai's urban skyline, with a sunset stop at the desert resort area of Bab Al Shams gives this day two distinct, photogenic landscapes without needing separate trips.",
+            tourCard: { slug: "dubai-private-hatta-mountains-bab-al-shams-sunset", title: "Dubai Private Hatta Mountains & Bab Al Shams Sunset Tour", description: "A private tour combining Hatta's mountains with a Bab Al Shams desert sunset.", price: "From $519", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3350822e23da1ba6688c8deee6a09a39247856f741de02213b2f973d920d0b64.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A full day commitment, so plan for significant drive time between the mountains and the desert sunset stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hatta Mountains and Bab Al Shams tour worth it from Dubai?", a: "Yes, it combines two genuinely distinct, photogenic landscapes — mountains and desert — without needing separate trips." },
+        ],
+      };
+
     default:
       return null;
   }
