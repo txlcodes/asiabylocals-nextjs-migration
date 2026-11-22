@@ -1723,6 +1723,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-yala-safari-worth-it-bentota', 'is-cooking-class-worth-it-bentota',
     'best-madu-river-safari-tour-bentota',
     'is-bawa-garden-richmond-castle-tour-worth-it-bentota',
+    'is-paramotoring-worth-it-bentota', 'is-surfing-lesson-worth-it-bentota',
+    'is-ayurvedic-massage-worth-it-bentota', 'is-hikkaduwa-snorkeling-worth-it-bentota',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/bentota/${slug}`,
     lastModified: new Date(),

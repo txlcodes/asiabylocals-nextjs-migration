@@ -339,6 +339,90 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-paramotoring-worth-it-bentota":
+      return {
+        title: "Is Paramotoring Worth It in Bentota?",
+        description: "An honest look at paramotoring in Bentota, a genuine aerial adrenaline activity over the coastline.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-480250/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing Bentota's coastline, rivers, and lagoons from a paramotor gives a genuinely unique aerial perspective that no boat tour or beach walk can match, and at just 15 minutes it's a quick, affordable adrenaline fix.",
+            tourCard: { slug: "paramotoring-in-bentota", title: "Paramotoring in Bentota", description: "A paramotoring flight over Bentota's coastline.", price: "From $176", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-480250/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior experience is needed — you fly tandem with a certified pilot, so this is accessible even for complete beginners.",
+          },
+        ],
+        faqs: [
+          { q: "Is paramotoring worth it in Bentota?", a: "Yes, it gives a genuinely unique aerial view of the coastline and rivers that no boat tour or beach walk can match." },
+        ],
+      };
+
+    case "is-surfing-lesson-worth-it-bentota":
+      return {
+        title: "Is the Bentota Surfing Lesson Worth It?",
+        description: "An honest look at the surfing lesson with instructor and equipment in Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1117626/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper lesson with an instructor and equipment included gives genuine structured progress for first-time surfers, a good active alternative to the area's river safaris for travelers specifically wanting to be in the ocean.",
+            tourCard: { slug: "bentota-surfing-lesson-with-instructor-and", title: "Bentota Surfing Lesson with Instructor & Equipment", description: "A surfing lesson with instructor and equipment included in Bentota.", price: "From $423", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1117626/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior surfing experience is needed — the lesson starts from the basics with full equipment provided.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bentota surfing lesson worth it?", a: "Yes, a proper instructor and equipment give genuine structured progress for first-time surfers." },
+        ],
+      };
+
+    case "is-ayurvedic-massage-worth-it-bentota":
+      return {
+        title: "Is the Traditional Ayurvedic Massage Worth It in Bentota?",
+        description: "An honest look at the traditional Ayurvedic massage experience in Bentota, Sri Lanka's genuine wellness tradition.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1232214/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ayurveda is a genuine, centuries-old Sri Lankan wellness tradition, not a modern spa invention, and a proper multi-hour session gives real therapeutic benefit beyond a quick tourist-resort rubdown.",
+            tourCard: { slug: "bentota-traditional-2hr-ayurvedic-massage-1hr", title: "Bentota Traditional Ayurvedic Massage Experience", description: "A traditional Ayurvedic massage experience in Bentota.", price: "From $389", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1232214/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for later in the day after beach or safari activities, since this works well as a genuine recovery session.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ayurvedic massage worth it in Bentota?", a: "Yes, Ayurveda is a genuine centuries-old Sri Lankan tradition, and a proper multi-hour session gives real therapeutic benefit." },
+        ],
+      };
+
+    case "is-hikkaduwa-snorkeling-worth-it-bentota":
+      return {
+        title: "Is the Hikkaduwa Snorkeling & Coral Reef Tour Worth It from Bentota?",
+        description: "An honest look at the Hikkaduwa coral reef snorkeling day trip from Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1243166/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hikkaduwa has one of Sri Lanka's most accessible coral reefs, a genuinely good snorkeling destination close to Bentota, giving travelers a reliable marine wildlife day without needing to travel as far as the south coast's bigger dive sites.",
+            tourCard: { slug: "from-bentota-hikkaduwa-snorkeling-coral-reef", title: "From Bentota: Hikkaduwa Snorkeling & Coral Reef Tour", description: "A snorkeling day trip to Hikkaduwa's coral reef from Bentota.", price: "From $186", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1243166/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Reef-safe sunscreen is a good idea here, since Hikkaduwa's reef is a genuinely protected marine area.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hikkaduwa snorkeling tour worth it from Bentota?", a: "Yes, it's one of Sri Lanka's most accessible coral reefs, a reliable marine wildlife day close to Bentota." },
+        ],
+      };
+
     default:
       return null;
   }
