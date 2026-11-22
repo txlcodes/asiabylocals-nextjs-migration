@@ -1175,6 +1175,15 @@ export const BORACAY_INFO_SLUGS = [
   'is-helmet-diving-worth-it-boracay', 'is-parasailing-worth-it-boracay',
 ];
 
+// Cameron Highlands (Malaysia) — 14 live tours, launched 2026-11-22. 3 of the
+// 14 live tours are mis-tagged (Kuala Selangor firefly tour, a Singapore city
+// tour, a Cappadocia photoshoot) — flagged for a backend fix (task_425bc4bc),
+// not covered here.
+export const CAMERON_HIGHLANDS_INFO_SLUGS = [
+  'is-tea-plantation-tour-worth-it-cameron-highlands', 'is-mossy-forest-4wd-tour-worth-it-cameron-highlands',
+  'is-rafflesia-trek-worth-it-cameron-highlands', 'is-coral-hill-adventure-worth-it-cameron-highlands',
+];
+
 export const CEBU_INFO_SLUGS = [
   'best-time-to-visit-cebu', 'things-to-do-in-cebu', 'cebu-travel-guide-2026',
   'cebu-1-day-itinerary', 'cebu-island-hopping-guide', 'oslob-whale-sharks-guide',
