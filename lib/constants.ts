@@ -2270,6 +2270,8 @@ export const UBUD_INFO_SLUGS = [
   'is-mount-batur-sunrise-trek-worth-it-ubud', 'is-tirta-empul-purification-worth-it-ubud',
   'is-monkey-forest-worth-it-ubud', 'is-gunung-kawi-temple-worth-it-ubud',
   'is-yoga-healing-worth-it-ubud',
+  'is-mount-agung-sunrise-trek-worth-it-ubud', 'is-palm-reading-worth-it-ubud',
+  'is-silver-jewelry-making-worth-it-ubud', 'is-trunyan-village-tour-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [

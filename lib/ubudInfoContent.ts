@@ -2361,6 +2361,90 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mount-agung-sunrise-trek-worth-it-ubud":
+      return {
+        title: "Is the Mount Agung Sunrise Trek Worth It from Ubud?",
+        description: "An honest look at the Mount Agung sunrise trek, Bali's highest and most sacred volcano, distinct from the more commonly climbed Mount Batur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-agung-sunrise-trekking-with-breakfast-all-inclusive-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mount Agung is Bali's highest and most spiritually significant volcano, a genuinely tougher and less crowded climb than the popular Mount Batur, making it the right call for travelers who already have decent hiking fitness and want a more serious challenge.",
+            tourCard: { slug: "mount-agung-sunrise-trekking-with-breakfast-all-inclusive-in-ubud", title: "Mount Agung Sunrise Trekking with Breakfast", description: "An all-inclusive sunrise trek up Mount Agung, Bali's highest volcano, with breakfast.", price: "From $242", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-agung-sunrise-trekking-with-breakfast-all-inclusive-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is genuinely more demanding than Mount Batur — come with real hiking fitness and expect a longer, steeper climb.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Agung sunrise trek worth it from Ubud?", a: "Yes, for hikers wanting a tougher, less crowded, and more spiritually significant climb than the popular Mount Batur." },
+        ],
+      };
+
+    case "is-palm-reading-worth-it-ubud":
+      return {
+        title: "Is the Balinese Palm Reading Experience Worth It in Ubud?",
+        description: "An honest look at the palm reading experience with a traditional Balinese palm reader in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/palm-reading-experience-with-a-balinese-palm-reader-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At just 40 minutes and a modest price, a session with a traditional Balinese palm reader is a low-commitment, culturally curious activity, fitting neatly in Ubud's reputation as a spiritual and wellness-focused town.",
+            tourCard: { slug: "palm-reading-experience-with-a-balinese-palm-reader-in-ubud", title: "Palm Reading Experience with a Balinese Palm Reader", description: "A traditional Balinese palm reading experience in Ubud.", price: "From $68", duration: "40 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/palm-reading-experience-with-a-balinese-palm-reader-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with a curious, open mindset rather than expecting rigorous predictions — this is a cultural experience first.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Balinese palm reading experience worth it in Ubud?", a: "Yes, as a low-commitment, culturally curious activity that fits well with Ubud's spiritual and wellness-focused reputation." },
+        ],
+      };
+
+    case "is-silver-jewelry-making-worth-it-ubud":
+      return {
+        title: "Is the Silver Jewelry Making Class Worth It in Ubud?",
+        description: "An honest look at the silver jewelry making class in Ubud, a hands-on craft lesson with pool access included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ubud-silver-jewelry-making-class-with-pool-access/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bali has a genuine silversmithing tradition, and this hands-on class lets you make a real piece of jewelry to take home, with pool access thrown in making it a relaxed, well-rounded half-day activity.",
+            tourCard: { slug: "ubud-silver-jewelry-making-class-with-pool-access", title: "Ubud Silver Jewelry Making Class with Pool Access", description: "A hands-on silver jewelry making class in Ubud with pool access included.", price: "From $58", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-silver-jewelry-making-class-with-pool-access/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit to make use of the included pool access afterward, a nice way to extend the visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the silver jewelry making class worth it in Ubud?", a: "Yes, you leave with a genuine handmade piece, and the included pool access makes it a well-rounded half-day activity." },
+        ],
+      };
+
+    case "is-trunyan-village-tour-worth-it-ubud":
+      return {
+        title: "Is the Trunyan Village & Lake Batur Photography Tour Worth It?",
+        description: "An honest look at the Trunyan Village and Lake Batur photography tour, visiting a traditional Bali Aga village with a unique open-air burial custom.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/trunyan-village-and-lake-batur-photography-tour-guide/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Trunyan is a genuinely distinct Bali Aga village known for its unusual open-air burial custom under a fragrant taru menyan tree, reachable only by boat across Lake Batur, giving this photography tour a culturally unique angle you won't find elsewhere in Bali.",
+            tourCard: { slug: "trunyan-village-and-lake-batur-photography-tour-guide", title: "Trunyan Village & Lake Batur Photography Tour", description: "A guided photography tour to Trunyan Village and Lake Batur.", price: "From $114", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/trunyan-village-and-lake-batur-photography-tour-guide/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach the burial site with respect — it's an active cultural and spiritual practice, not a staged tourist attraction.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Trunyan Village tour worth it?", a: "Yes, it offers a culturally unique angle on Bali Aga traditions you won't find elsewhere, reachable only by boat across Lake Batur." },
+        ],
+      };
+
     default:
       return null;
   }
