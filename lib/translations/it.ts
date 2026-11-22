@@ -37983,6 +37983,186 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasferimenti dall'hotel\nCibo e bevande oltre all'acqua fornita\nAcquisti nelle vie commerciali\nMance"
   ]
  },
+ "1-5-hour-mitaki-ji-temple-guided-tour-in-hiroshima": {
+  "title": "Visita guidata di 1,5 ore al Tempio Mitaki-ji a Hiroshima",
+  "metaTitle": "Visita guidata al Tempio Mitaki-ji a Hiroshima",
+  "metaDescription": "Una passeggiata tranquilla nei terreni del Tempio Mitaki-ji a Hiroshima, tra tre cascate sacre e una pagoda laccata di rosso vermiglio.",
+  "shortDescription": "Una passeggiata tranquilla nei terreni del Tempio Mitaki-ji a Hiroshima, tra tre cascate sacre e una pagoda laccata di rosso vermiglio.",
+  "fullDescription": "Hiroshima è conosciuta soprattutto per il Parco Memoriale della Pace, dove si trova la **Cupola della Bomba Atomica**, lo scheletro della sala della promozione industriale lasciato esattamente com'era, e il **Museo Memoriale della Pace**, riaperto nel 2019 dopo un restyling e che richiede circa due ore di visita, non adatto ai bambini piccoli. Il Monumento della Pace dei Bambini è coperto di gru di carta inviate da tutto il mondo. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura, e Miyajima è a quaranta minuti di distanza, spesso abbinata in giornata.\n\nLontano da questi luoghi carichi di storia, questa visita guidata di un'ora e mezza porta nei terreni silenziosi del **Tempio Mitaki-ji**, tra tre cascate sacre e la pagoda laccata di rosso vermiglio che custodisce la sala principale. È una passeggiata raccolta, pensata come contrappunto tranquillo a una giornata altrimenti densa di memoria e di folla.",
+  "highlights": [],
+  "included": [
+   "Guida professionale",
+   "Passeggiata tranquilla nei terreni del tempio",
+   "Vista delle tre cascate sacre",
+   "Visita alla pagoda laccata di rosso vermiglio e alla sala principale"
+  ],
+  "notIncluded": []
+ },
+ "1-day-bus-tour-with-meiji-jingu-odaiba-lunch-and-skytree-in-tokyo": {
+  "title": "Tour in bus di un giorno con Meiji-Jingu, Odaiba, pranzo e Skytree a Tokyo",
+  "metaTitle": "Tour in bus a Tokyo: Meiji Jingu, Odaiba e Tokyo Skytree",
+  "metaDescription": "Nove ore in bus tra il Santuario Meiji, il Palazzo Imperiale, Odaiba e il Tokyo Skytree, con pranzo a buffet in stile occidentale incluso.",
+  "shortDescription": "Nove ore in bus tra il Santuario Meiji, il Palazzo Imperiale, Odaiba e il Tokyo Skytree, con pranzo a buffet in stile occidentale incluso.",
+  "fullDescription": "Tokyo è la città più popolosa del mondo per area metropolitana e si visita meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e la via dello shopping di Nakamise; Shibuya ha il celebre incrocio e Shinjuku i bar di Golden Gai; Harajuku è Takeshita Street e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono i grandi magazzini e i banconi di sushi.\n\nQuesto tour in bus di nove ore collega diversi di questi punti in una sola giornata: il **Santuario Meiji**, il **Palazzo Imperiale** e **Odaiba**, con un pranzo a buffet in stile occidentale e l'ingresso al Tembo Deck del **Tokyo Skytree**, a 350 metri di altezza. La guida accompagna il gruppo in inglese per tutto il percorso.",
+  "highlights": [],
+  "included": [
+   "Trasporto in bus",
+   "Guida turistica in lingua inglese",
+   "Pranzo a buffet in stile occidentale",
+   "Ingresso al Tembo Deck (350 m) del Tokyo Skytree"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Biglietto per la Tembo Galleria (450 m) del Tokyo Skytree",
+   "Guida in giapponese (il tour si svolge solo in inglese)"
+  ]
+ },
+ "1-day-guided-tour-sky-bldg-castle-namba-shinsekai-in-osaka": {
+  "title": "Tour guidato di un giorno: Sky Building, Castello, Namba e Shinsekai a Osaka",
+  "metaTitle": "Tour guidato a Osaka: Sky Building, Castello, Namba, Shinsekai",
+  "metaDescription": "Quattro ore a piedi tra l'Umeda Sky Building, il Castello di Osaka, Dotonbori e Shinsekai, con guida inclusa.",
+  "shortDescription": "Quattro ore a piedi tra l'Umeda Sky Building, il Castello di Osaka, Dotonbori e Shinsekai, con guida inclusa.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo all'interno e un fossato e un parco che vale un'ora; il mercato di Kuromon è il mercato alimentare; **Shinsekai** è il quartiere retrò sotto la torre Tsutenkaku; l'**Umeda Sky Building** ha l'osservatorio all'aperto.\n\nQuesto tour guidato di quattro ore collega questi quattro punti in una sola uscita a piedi. La guida è inclusa nel prezzo; i biglietti d'ingresso, il treno e il pranzo si pagano separatamente, salvo nell'opzione del tour privato, che li include.",
+  "highlights": [],
+  "included": [
+   "Guida"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso e tariffa del treno (incluse nell'opzione Tour Privato)",
+   "Pranzo"
+  ]
+ },
+ "1-day-mount-fuji-and-kawaguchiko-tour-optional-cruise": {
+  "title": "Tour di un giorno al Monte Fuji e al Lago Kawaguchiko, con crociera opzionale",
+  "metaTitle": "Tour di un giorno al Monte Fuji e al Lago Kawaguchiko",
+  "metaDescription": "Undici ore da Tokyo verso i Cinque Laghi del Fuji: Lago Kawaguchiko, Oshino Hakkai, la Pagoda Chureito e pranzo incluso, con crociera sul lago opzionale.",
+  "shortDescription": "Undici ore da Tokyo verso i Cinque Laghi del Fuji: Lago Kawaguchiko, Oshino Hakkai, la Pagoda Chureito e pranzo incluso, con crociera sul lago opzionale.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite di un giorno da Tokyo raggiungono i Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza: il **Lago Kawaguchiko** per la classica vista riflessa, le sorgenti di **Oshino Hakkai**, la **Pagoda Chureito** sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla quinta stazione a 2.300 metri, quando la strada è aperta, approssimativamente da aprile a novembre. La vetta è scalabile solo in luglio e agosto. Il Fuji è visibile in circa un terzo dei giorni, più spesso nelle mattine d'inverno; da giugno a settembre resta nascosto dalle nuvole più spesso di quanto non si mostri, e nessun operatore può garantire la vista, per cui i laghi e la pagoda sono pensati per valere la giornata di per sé.\n\nQuesto tour di undici ore parte da Tokyo in pullman con aria condizionata, Wi-Fi e ricarica USB, guida in lingua inglese e traduzione simultanea in oltre settantacinque lingue tramite smartphone (cuffie proprie da portare). Il pranzo è incluso, con opzioni buffet, caffè, vegana o halal, e una crociera panoramica sul Lago Kawaguchiko è disponibile come opzione.",
+  "highlights": [],
+  "included": [
+   "Trasporto in pullman andata e ritorno da Tokyo",
+   "Veicolo con aria condizionata, Wi-Fi e ricarica USB",
+   "Guida professionale e cordiale in lingua inglese",
+   "Traduzione simultanea in oltre 75 lingue, tramite smartphone (cuffie proprie da portare)",
+   "Pranzo (buffet, caffè, vegano o halal, se l'opzione è selezionata)",
+   "Crociera panoramica sul Lago Kawaguchiko (se l'opzione è selezionata)"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Pick-up e drop-off in hotel",
+   "Trasporto bagagli"
+  ]
+ },
+ "1-hour-geisha-show-and-dinner-wagyu-vegan-halal-in-kyoto": {
+  "title": "Spettacolo di geisha di un'ora e cena (Wagyu, vegana, halal) a Kyoto",
+  "metaTitle": "Spettacolo di geisha e cena a Kyoto",
+  "metaDescription": "Un'ora di spettacolo di geisha a Gion con tè, dolci tradizionali giapponesi e cena, con opzioni wagyu, vegana e halal.",
+  "shortDescription": "Un'ora di spettacolo di geisha a Gion con tè, dolci tradizionali giapponesi e cena, con opzioni wagyu, vegana e halal.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati; una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha, e il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere, ben accolta piuttosto che malvista.\n\nQuesta esperienza di un'ora porta uno spettacolo di geisha, tè e dolci tradizionali giapponesi, una guida in lingua inglese e una cena in stile bento tradizionale, con opzioni wagyu, vegana e halal.",
+  "highlights": [],
+  "included": [
+   "Spettacolo di geisha (maiko) di 1 ora",
+   "Tè e dolci tradizionali giapponesi",
+   "Guida turistica professionale in lingua inglese",
+   "Cena (in stile bento tradizionale)"
+  ],
+  "notIncluded": []
+ },
+ "1-hour-geisha-show-performance-q-and-a-games-photos-in-tokyo": {
+  "title": "Spettacolo di geisha di un'ora (performance, domande, giochi, foto) a Tokyo",
+  "metaTitle": "Spettacolo di geisha di un'ora a Tokyo",
+  "metaDescription": "Un'ora con una geisha a Tokyo: performance, domande e risposte, foto e un amuleto portafortuna offerto dalla geisha, con guida e traduttore.",
+  "shortDescription": "Un'ora con una geisha a Tokyo: performance, domande e risposte, foto e un amuleto portafortuna offerto dalla geisha, con guida e traduttore.",
+  "fullDescription": "Tokyo è la città più popolosa del mondo per area metropolitana e si visita meglio come un insieme di quartieri lungo la linea circolare Yamanote. Asakusa ha il Senso-ji, il tempio più antico della città, e la via dello shopping di Nakamise; Shibuya ha il celebre incrocio e Shinjuku i bar di Golden Gai; Harajuku è Takeshita Street e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono i grandi magazzini e i banconi di sushi.\n\nQuesta esperienza di un'ora porta uno spettacolo di geisha con guida e traduttore in lingua inglese, l'occasione di fare domande alla geisha, foto insieme a lei e un amuleto portafortuna offerto a fine spettacolo.",
+  "highlights": [],
+  "included": [
+   "Spettacolo di geisha di 1 ora",
+   "Guida e traduttore professionale in lingua inglese",
+   "Occasione di fare domande alla geisha",
+   "Foto con la geisha",
+   "Amuleto portafortuna offerto dalla geisha"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi"
+  ]
+ },
+ "1-hour-geisha-show-performance-q-and-a-photos-in-kyoto-by-local-operator": {
+  "title": "Spettacolo di geisha di un'ora (performance, domande, foto) a Kyoto, con operatore locale",
+  "metaTitle": "Spettacolo di geisha a Kyoto con operatore locale",
+  "metaDescription": "Un'ora di spettacolo di geisha a Gion con tè, dolci tradizionali giapponesi e una sessione di trenta minuti al Santuario Kitano Tenmangu con una maiko.",
+  "shortDescription": "Un'ora di spettacolo di geisha a Gion con tè, dolci tradizionali giapponesi e una sessione di trenta minuti al Santuario Kitano Tenmangu con una maiko.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati; una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo.\n\nQuesta esperienza di un'ora, organizzata da un operatore locale, porta uno spettacolo di geisha con tè e dolci tradizionali giapponesi, una guida in lingua inglese e, nell'opzione con tea house, una sessione di trenta minuti al **Santuario Kitano Tenmangu** con una maiko.",
+  "highlights": [],
+  "included": [
+   "Spettacolo di geisha (maiko) di 1 ora",
+   "Tè e dolci tradizionali giapponesi",
+   "Guida turistica professionale in lingua inglese",
+   "Sessione di 30 minuti al Santuario Kitano Tenmangu con una maiko (solo con l'opzione Tea House)"
+  ],
+  "notIncluded": [
+   "Bevande o cibo aggiuntivi"
+  ]
+ },
+ "1-hour-private-photoshoot-in-tokyo": {
+  "title": "Servizio fotografico privato di un'ora a Tokyo",
+  "metaTitle": "Servizio fotografico privato a Tokyo",
+  "metaDescription": "Un'ora di servizio fotografico privato in un luogo a scelta a Tokyo, con 100-150 scatti originali e fino a 10 foto ritoccate nei toni di colore.",
+  "shortDescription": "Un'ora di servizio fotografico privato in un luogo a scelta a Tokyo, con 100-150 scatti originali e fino a 10 foto ritoccate nei toni di colore.",
+  "fullDescription": "Tokyo è la città più popolosa del mondo per area metropolitana e si visita meglio come un insieme di quartieri lungo la linea circolare Yamanote. Asakusa ha il Senso-ji, il tempio più antico della città, e la via dello shopping di Nakamise; Shibuya ha il celebre incrocio e Shinjuku i bar di Golden Gai; Harajuku è Takeshita Street e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono i grandi magazzini e i banconi di sushi.\n\nQuesto servizio fotografico privato di un'ora si svolge in un luogo a scelta, con 100-150 o più scatti originali consegnati, fino a 10 foto ritoccate (indicando i nomi dei file desiderati) con correzioni di temperatura colore e tono, senza ritocco del corpo, del viso o degli oggetti. Il fotografo raggiunge direttamente il luogo scelto; il punto di incontro esatto viene comunicato via LINE, e non è previsto il servizio di pick-up dall'alloggio. Gli scatti fuori città comportano un sovrapprezzo di circa 5.000 yen.",
+  "highlights": [],
+  "included": [
+   "Servizio fotografico privato",
+   "100-150 (o più) scatti originali",
+   "Ritocco fotografico (fino a 10 foto)",
+   "Possibilità di modificare fino a 10 foto (indicando i nomi dei file)",
+   "Il ritocco comprende solo correzioni di temperatura colore e tono",
+   "Assistenza medica cashless in caso di infortunio o malattia durante il tour"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Il fotografo raggiunge direttamente il luogo scelto; il punto di incontro esatto viene comunicato via LINE",
+   "Il servizio di pick-up dall'alloggio non è incluso",
+   "Costi di trasporto e biglietti d'ingresso (se applicabili)",
+   "Scatti fuori città (sovrapprezzo di circa 5.000 yen)"
+  ]
+ },
+ "10-day-nikko-kamakura-hakone-and-fuji-private-tour": {
+  "title": "Tour privato di 10 giorni tra Nikko, Kamakura, Hakone e Fuji",
+  "metaTitle": "Tour privato di 10 giorni: Nikko, Kamakura, Hakone, Fuji",
+  "metaDescription": "Dieci giorni con un autista privato in lingua inglese tra Tokyo, Nikko, Kamakura, Hakone e i Cinque Laghi del Fuji, pick-up aeroportuale incluso.",
+  "shortDescription": "Dieci giorni con un autista privato in lingua inglese tra Tokyo, Nikko, Kamakura, Hakone e i Cinque Laghi del Fuji, pick-up aeroportuale incluso.",
+  "fullDescription": "Hakone è la località termale tra le montagne novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone e, nelle giornate limpide, il Fuji oltre il lago. I bagni nell'onsen seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molti bagni ancora vietano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre treni, funicolare, funivia e battello; la funivia chiude con vento forte e quando i gas vulcanici salgono, cosa che capita pochi giorni l'anno.\n\nQuesto tour privato di dieci giorni mette a disposizione una Toyota Alphard con autista in lingua inglese per tutta la durata, otto ore al giorno, con pick-up all'arrivo a Haneda o Narita e trasferimento privato all'aeroporto l'ultimo giorno. Il percorso collega Tokyo, Nikko, Kamakura, Enoshima, Yokohama, Hakone e i Cinque Laghi del Fuji, e include il biglietto per la crociera sul Lago Ashi, la funivia Kachi Kachi e la crociera sul fiume Sumida.",
+  "highlights": [],
+  "included": [
+   "Toyota Alphard privata con autista in lingua inglese per tutti i 10 giorni, 8 ore al giorno",
+   "Pick-up all'arrivo a Haneda o Narita",
+   "Trasferimento privato all'aeroporto l'ultimo giorno",
+   "Tutti i trasferimenti tra Tokyo, Nikko, Kamakura, Enoshima, Yokohama, Hakone e i Cinque Laghi del Fuji",
+   "Biglietto per la crociera sul Lago Ashi",
+   "Biglietto per la funivia Kachi Kachi",
+   "Biglietto per la crociera sul fiume Sumida"
+  ],
+  "notIncluded": []
+ },
+ "2-5-hour-nagoya-tour-castle-and-local-flavor-samurai-tales-by-local-operator": {
+  "title": "Tour di 2,5 ore a Nagoya: Castello e sapori locali, racconti di samurai, con operatore locale",
+  "metaTitle": "Tour di 2,5 ore al Castello di Nagoya con operatore locale",
+  "metaDescription": "Due ore e mezza al Castello di Nagoya con guida, visita al Giardino Ninomaru e al Palazzo Honmaru, biglietto d'ingresso incluso.",
+  "shortDescription": "Due ore e mezza al Castello di Nagoya con guida, visita al Giardino Ninomaru e al Palazzo Honmaru, biglietto d'ingresso incluso.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco divertimenti Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrattive proprie della città, mentre l'hitsumabushi di anguilla grigliata e il miso katsu sono i suoi piatti. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, è a novanta minuti a sud.\n\nQuesto tour guidato di due ore e mezza, organizzato da un operatore locale, porta alla visita del **Castello di Nagoya**, con il Giardino Ninomaru e il Palazzo Honmaru, biglietto d'ingresso incluso.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Castello di Nagoya",
+   "Visita al Giardino Ninomaru",
+   "Visita al Palazzo Honmaru",
+   "Biglietto d'ingresso al Castello di Nagoya"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto di incontro",
+   "Spese personali",
+   "Cibo e bevande"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
