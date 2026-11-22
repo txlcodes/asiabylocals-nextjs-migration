@@ -681,6 +681,27 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-yen-tu-mountain-tour-worth-it-ha-long":
+      return {
+        title: "Is the Yen Tu Mountain Tour Worth It from Ha Long?",
+        description: "An honest look at the Yen Tu Mountain UNESCO cultural heritage day tour, a significant Buddhist pilgrimage site genuinely different from the bay's boat-based sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/yen-tu-mountain-unesco-cultural-heritage-day-tour-in-ha-long/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yen Tu is one of Vietnamese Buddhism's most significant pilgrimage mountains, where a 13th-century king founded the Truc Lam Zen tradition, and climbing to its summit pagoda (by cable car or on foot) gives a genuinely different, land-based cultural day distinct from the bay's boat-based cruising and kayaking.",
+            tourCard: { slug: "yen-tu-mountain-unesco-cultural-heritage-day-tour-in-ha-long", title: "Yen Tu Mountain UNESCO Cultural Heritage Day Tour", description: "A day tour to the Yen Tu Mountain Buddhist pilgrimage site.", price: "From $362", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/yen-tu-mountain-unesco-cultural-heritage-day-tour-in-ha-long/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A cable car option exists if you'd rather skip the steep hike to the summit pagoda — worth asking about if stairs and climbing are a concern.",
+          },
+        ],
+        faqs: [
+          { q: "Is Yen Tu Mountain worth visiting from Ha Long?", a: "Yes, for a genuinely different land-based cultural day at one of Vietnamese Buddhism's most significant pilgrimage sites, distinct from the bay's boat-based sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
