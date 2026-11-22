@@ -1445,6 +1445,74 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ] },
       };
 
+    case "is-beitou-hot-springs-worth-it-taipei":
+      return {
+        title: "Is the Beitou Hot Springs Heritage Walking Tour Worth It in Taipei?",
+        description: "An honest look at the Beitou hot springs heritage walking tour, a different hot springs district from the more commonly covered Wulai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb8ecdd3799b61e6b317f26aff64bda69434b789d0e131a1085ee9a6516fbabd.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "Beitou sits right on Taipei's MRT line, making it a genuinely easy half-day hot springs escape without the longer drive Wulai requires, and the heritage walking element adds real historical context around the area's Japanese-era bathhouses.", tourCard: { slug: "taipei-4-hour-beitou-hot-springs-heritage-walking", title: "Taipei 4-Hour Beitou Hot Springs Heritage Walking Tour", description: "A 4-hour heritage walking tour of Beitou's hot springs district.", price: "From $181", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb8ecdd3799b61e6b317f26aff64bda69434b789d0e131a1085ee9a6516fbabd.jpeg" } },
+          { title: "Practical Tips", content: "Bring a swimsuit if you want to actually bathe — some stops are viewing-only heritage sites rather than soakable springs." },
+        ],
+        faqs: [
+          { q: "Is the Beitou hot springs tour worth it in Taipei?", a: "Yes, it's reachable directly by MRT, making it a genuinely easy half-day hot springs escape with real historical context." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Beitou hot springs tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an easy MRT-accessible hot springs escape with real heritage context." } },
+        ] },
+      };
+
+    case "is-national-palace-museum-tour-worth-it-taipei":
+      return {
+        title: "Is the National Palace Museum Guided Tour Worth It in Taipei?",
+        description: "An honest look at the guided tour of Taipei's National Palace Museum, home to one of the world's largest collections of Chinese imperial artifacts.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4dc44eef32afcdd24593872eae313dd6636471134e23ed55d51f9d6335d28504.jpg",
+        sections: [
+          { title: "The Short Answer", content: "The National Palace Museum holds one of the world's largest collections of Chinese imperial artifacts, and a guide genuinely helps make sense of a collection this vast rather than wandering it unguided and missing the key pieces.", tourCard: { slug: "taipei-national-palace-museum-guided-tour", title: "Taipei National Palace Museum Guided Tour", description: "A guided tour of Taipei's National Palace Museum and its Chinese imperial artifacts.", price: "From $58", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4dc44eef32afcdd24593872eae313dd6636471134e23ed55d51f9d6335d28504.jpg" } },
+          { title: "Practical Tips", content: "The museum is genuinely vast, so a guide pointing you to the highlight pieces is worth it if you only have a couple of hours." },
+        ],
+        faqs: [
+          { q: "Is the National Palace Museum tour worth it in Taipei?", a: "Yes, a guide helps make sense of one of the world's largest collections of Chinese imperial artifacts in a limited time." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the National Palace Museum tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a guide helps navigate one of the world's largest collections of Chinese imperial artifacts." } },
+        ] },
+      };
+
+    case "is-houtong-cat-village-worth-it-taipei":
+      return {
+        title: "Is the Houtong Cat Village Tour Worth It from Taipei?",
+        description: "An honest look at the Houtong Cat Village day trip paired with Jiufen and Shifen, a quirky former mining town now overrun with friendly cats.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3a182c823c444e00e65832acfbba8a6c3415b864b4fc614028f28c81070f8a43.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "Houtong is a genuinely unusual stop, a former coal-mining town that's been reclaimed by friendly, well-cared-for cats, and pairing it with the more famous Jiufen and Shifen makes for a varied, slightly offbeat day trip.", tourCard: { slug: "taipei-jiufenshifen-houtong-cat-village-private", title: "Taipei: Jiufen, Shifen & Houtong Cat Village Private Tour", description: "A private day trip combining Jiufen, Shifen, and the quirky Houtong Cat Village.", price: "From $265", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3a182c823c444e00e65832acfbba8a6c3415b864b4fc614028f28c81070f8a43.jpeg" } },
+          { title: "Practical Tips", content: "The cats are genuinely everywhere and used to visitors, so bring a camera, but don't try to pick them up." },
+        ],
+        faqs: [
+          { q: "Is Houtong Cat Village worth it from Taipei?", a: "Yes, it's a genuinely unusual, slightly offbeat stop that pairs well with the more famous Jiufen and Shifen." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is Houtong Cat Village worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely unusual, offbeat stop that pairs well with Jiufen and Shifen." } },
+        ] },
+      };
+
+    case "is-beer-brewery-tour-worth-it-taipei":
+      return {
+        title: "Is the National Taiwan Beer Brewery Tour Worth It in Taipei?",
+        description: "An honest look at the National Taiwan Beer Brewery tour in Taipei, a behind-the-scenes look at the island's best-known domestic beer brand.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9639988c2a658e5e48abb168c8e56bf6ace889a9fc9724ae83b337da75cc3ea3.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Taiwan Beer is the island's best-known domestic brand, and this brewery tour gives a behind-the-scenes look at its production, a good fit for travelers wanting something a bit different from temples and night markets.", tourCard: { slug: "taipei-national-taiwan-beer-brewery-tour", title: "Taipei National Taiwan Beer Brewery Tour", description: "A tour of the National Taiwan Beer brewery in Taipei.", price: "From $59", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9639988c2a658e5e48abb168c8e56bf6ace889a9fc9724ae83b337da75cc3ea3.jpg" } },
+          { title: "Practical Tips", content: "A good half-day activity to pair with nearby sightseeing, since the tour itself runs just a couple of hours." },
+        ],
+        faqs: [
+          { q: "Is the National Taiwan Beer Brewery tour worth it in Taipei?", a: "Yes, it's a genuinely different behind-the-scenes activity from the usual temples and night markets." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the beer brewery tour worth it in Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely different behind-the-scenes activity from the usual sightseeing." } },
+        ] },
+      };
+
     default:
       return null;
   }
