@@ -2567,6 +2567,90 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sushi-making-workshop-worth-it-kyoto":
+      return {
+        title: "Is the Small-Group Sushi Making Workshop Worth It in Kyoto?",
+        description: "An honest look at the small-group authentic sushi making workshop in Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/small-group-authentic-sushi-making-workshop-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning real sushi-making technique from a knowledgeable instructor in a small group gives genuinely hands-on insight that just eating sushi at a restaurant never provides, and at 1.5 hours it's an easy addition to a day of temple sightseeing.",
+            tourCard: { slug: "small-group-authentic-sushi-making-workshop-in-kyoto", title: "Small-Group Authentic Sushi Making Workshop", description: "A small-group hands-on sushi making workshop in Kyoto.", price: "From $120", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-authentic-sushi-making-workshop-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — you'll be eating what you make, which is typically a full, satisfying meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sushi making workshop worth it in Kyoto?", a: "Yes, it gives genuinely hands-on technique insight that simply eating sushi at a restaurant never provides." },
+        ],
+      };
+
+    case "is-nintendo-museum-worth-it-kyoto":
+      return {
+        title: "Is the Nintendo Museum Worth It in Kyoto?",
+        description: "An honest look at the Nintendo Museum in Kyoto, tracing the company's history from playing cards to video games.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nintendo-museum-admission-ticket-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nintendo is headquartered in Kyoto, and this museum traces the company's genuinely surprising history from playing cards to global gaming icon, a must for any real Nintendo fan and a fun, different stop from the city's usual temple circuit.",
+            tourCard: { slug: "nintendo-museum-admission-ticket-in-kyoto", title: "Nintendo Museum Admission Ticket", description: "An admission ticket to the Nintendo Museum in Kyoto.", price: "From $100", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/nintendo-museum-admission-ticket-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Tickets are genuinely limited and released via a lottery system — book as far in advance as the operator allows.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nintendo Museum worth it in Kyoto?", a: "Yes, for any real Nintendo fan, it traces a genuinely surprising company history and makes a fun change from temple sightseeing." },
+        ],
+      };
+
+    case "is-yuzen-dyeing-worth-it-kyoto":
+      return {
+        title: "Is the Traditional Yuzen Dyeing Experience Worth It in Kyoto?",
+        description: "An honest look at the traditional Yuzen dyeing experience in Kyoto, a centuries-old textile art form.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/traditional-yuzen-dyeing-experience-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yuzen is a genuinely centuries-old Kyoto textile dyeing tradition, historically used on kimono fabric, and this hands-on class lets you try the technique yourself and leave with a real handmade piece, distinct from the more commonly offered pottery or calligraphy workshops.",
+            tourCard: { slug: "traditional-yuzen-dyeing-experience-in-kyoto", title: "Traditional Yuzen Dyeing Experience", description: "A hands-on traditional Yuzen textile dyeing experience in Kyoto.", price: "From $230", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-yuzen-dyeing-experience-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced higher than most craft workshops, reflecting the genuine skill and historical pedigree of the Yuzen technique.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yuzen dyeing experience worth it in Kyoto?", a: "Yes, it's a genuinely centuries-old textile art, distinct from the more commonly offered pottery or calligraphy workshops." },
+        ],
+      };
+
+    case "is-archery-workshop-worth-it-kyoto":
+      return {
+        title: "Is the Japanese Archery Workshop Worth It in Kyoto?",
+        description: "An honest look at the Japanese archery (kyudo) workshop with an experienced instructor in Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Japanese archery, or kyudo, is treated as a genuine meditative discipline rather than just a sport, and learning the proper form from an experienced instructor gives real insight into a tradition most visitors never get to try hands-on.",
+            tourCard: { slug: "japanese-archery-workshop-with-experienced-instructor-in-kyoto", title: "Japanese Archery Workshop with Experienced Instructor", description: "A hands-on Japanese archery (kyudo) workshop in Kyoto.", price: "From $81", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior archery experience is needed — the instructor focuses on proper form and technique from the basics.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Japanese archery workshop worth it in Kyoto?", a: "Yes, kyudo is treated as a genuine meditative discipline, giving real insight into a tradition most visitors never try hands-on." },
+        ],
+      };
+
     default:
             return null;
     }

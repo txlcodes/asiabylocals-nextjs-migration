@@ -1476,6 +1476,8 @@ export const KYOTO_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-kyoto',
   'is-amanohashidate-ine-tour-worth-it-kyoto', 'is-sound-bath-worth-it-kyoto',
   'is-ninja-weapon-workshop-worth-it-kyoto',
+  'is-sushi-making-workshop-worth-it-kyoto', 'is-nintendo-museum-worth-it-kyoto',
+  'is-yuzen-dyeing-worth-it-kyoto', 'is-archery-workshop-worth-it-kyoto',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.
