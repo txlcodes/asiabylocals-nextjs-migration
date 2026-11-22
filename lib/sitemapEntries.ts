@@ -354,6 +354,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-south-ari-atoll-diving-worth-it-male', 'is-shark-tank-diving-worth-it-male',
     'is-club-med-resort-day-pass-worth-it-male', 'is-big-game-fishing-charter-worth-it-male',
     'is-thulusdhoo-surf-trip-worth-it-male', 'is-villingili-walking-tour-worth-it-male',
+    'is-underwater-restaurant-worth-it-male', 'is-submarine-tour-worth-it-male',
+    'is-beach-bonfire-dinner-worth-it-male', 'is-hulhumale-kayak-tour-worth-it-male',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),

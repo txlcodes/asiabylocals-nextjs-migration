@@ -952,6 +952,90 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-underwater-restaurant-worth-it-male":
+      return {
+        title: "Is the Maldives Underwater Restaurant Dining Experience Worth It?",
+        description: "An honest look at dining in the Maldives' underwater restaurant, surrounded by reef and marine life through floor-to-ceiling glass.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb79bde5c28a1c1b661855337973d5210ed9b74f0096b9da70076728f5d9d715.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Few places in the world offer a genuine underwater dining room, and this is a real once-in-a-lifetime splurge experience justified by the setting alone, watching reef fish swim past floor-to-ceiling glass while you eat.",
+            tourCard: { slug: "maldives-underwater-restaurant-dining-experience", title: "Maldives Underwater Restaurant Dining Experience", description: "A dining experience in the Maldives' underwater restaurant surrounded by marine life.", price: "From $702", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb79bde5c28a1c1b661855337973d5210ed9b74f0096b9da70076728f5d9d715.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book well in advance — underwater restaurant seating is limited and genuinely in high demand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Maldives underwater restaurant worth it?", a: "Yes, for a genuine once-in-a-lifetime splurge, few places in the world offer a dining room surrounded by reef and marine life like this." },
+        ],
+      };
+
+    case "is-submarine-tour-worth-it-male":
+      return {
+        title: "Is the Maldives Submarine Tour Worth It?",
+        description: "An honest look at the Maldives submarine tour, diving 45 meters below the surface without needing to scuba dive yourself.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9ba7b8d18296684580c4245de41b8770c78172687b327e98cc1d4336c1e4f3b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Descending 45 meters in a real submarine gives non-divers a genuine look at deep reef life that snorkeling simply can't reach, making this a solid alternative for travelers who want the Maldives' underwater world without a dive certification.",
+            tourCard: { slug: "maldives-submarine-tour-dive-45-meters-below-the", title: "Maldives Submarine Tour: Dive 45 Meters Below the Surface", description: "A submarine tour diving 45 meters below the surface in the Maldives.", price: "From $221", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9ba7b8d18296684580c4245de41b8770c78172687b327e98cc1d4336c1e4f3b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No diving certification or swimming ability is needed — this is a genuine advantage for non-divers wanting to see the deep reef.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Maldives submarine tour worth it?", a: "Yes, it lets non-divers see genuine deep reef life at 45 meters that snorkeling simply can't reach." },
+        ],
+      };
+
+    case "is-beach-bonfire-dinner-worth-it-male":
+      return {
+        title: "Is the Private Beach Bonfire Gourmet Dinner Worth It from Male?",
+        description: "An honest look at the private beach bonfire gourmet dinner experience from Male, a romantic splurge on a secluded sandbank.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c1f197b9123d6e6e1d3cecfbab367d836894fad3c82047caa73f20d03d28629.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private gourmet dinner by bonfire on a secluded beach is a genuine splurge experience, best suited for a special occasion like a proposal, anniversary, or honeymoon rather than a casual meal.",
+            tourCard: { slug: "from-male-private-beach-bonfire-gourmet-dinner", title: "Private Beach Bonfire Gourmet Dinner from Male", description: "A private gourmet dinner by bonfire on a secluded beach near Male.", price: "From $1300", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c1f197b9123d6e6e1d3cecfbab367d836894fad3c82047caa73f20d03d28629.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a genuine splurge, so it's best reserved for a special occasion rather than a routine dinner out.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private beach bonfire dinner worth it near Male?", a: "Yes, as a genuine splurge for a special occasion, the private secluded setting justifies the premium price." },
+        ],
+      };
+
+    case "is-hulhumale-kayak-tour-worth-it-male":
+      return {
+        title: "Is the Hulhumale Kayak Tour Worth It near Male?",
+        description: "An honest look at the guided kayak tour from Hulhumale, a low-cost, active way to explore the waters near the capital.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At just 1 hour and a modest price, this guided kayak tour is a genuinely affordable, active way to get on the water near Male without committing to a full-day boat charter or snorkeling trip.",
+            tourCard: { slug: "hulhumale-kayak-tour-with-guide-photos-pickup", title: "Hulhumale Kayak Tour with Guide, Photos & Pickup", description: "A guided kayak tour from Hulhumale with photos and pickup included.", price: "From $90", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, active activity to pair with a day otherwise spent relaxing on the beach.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hulhumale kayak tour worth it near Male?", a: "Yes, it's an affordable, active way to get on the water without committing to a full-day boat charter." },
+        ],
+      };
+
     default:
       return null;
   }
