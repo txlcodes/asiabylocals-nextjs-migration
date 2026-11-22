@@ -38931,6 +38931,192 @@ export const IT_TOURS: Record<string, TourT> = {
    "Assicurazione personale o di viaggio"
   ]
  },
+ "private-day-trip-to-otaru": {
+  "title": "Gita privata di un giorno a Otaru",
+  "metaTitle": "Gita privata a Otaru da Sapporo",
+  "metaDescription": "Sei ore privata da Sapporo a Otaru, con pick-up in hotel, biglietti del treno andata e ritorno e una passeggiata guidata per il canale.",
+  "shortDescription": "Sei ore privata da Sapporo a Otaru, con pick-up in hotel, biglietti del treno andata e ritorno e una passeggiata guidata per il canale.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko.\n\nQuesta esperienza privata e personalizzata di sei ore, incluso il tempo di viaggio, porta il pick-up in hotel nel centro di Sapporo, i biglietti del treno andata e ritorno tra Sapporo e **Otaru**, un tour a piedi della città e un bicchiere di sake, birra o bibita scelto dall'host. Cibo e bevande aggiuntivi, biglietti per le attrazioni e costi di trasporto extra restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza privata e personalizzata",
+   "Pick-up in hotel dal centro di Sapporo",
+   "6 ore con la guida (tempo di viaggio incluso)",
+   "Biglietti del treno andata e ritorno da Sapporo a Otaru",
+   "Tour a piedi di Otaru",
+   "1 bicchiere di sake, birra o bibita, scelto con cura dall'host"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi",
+   "Biglietti per qualsiasi attrazione",
+   "Costi di trasporto aggiuntivi"
+  ]
+ },
+ "otaru-shakotan-and-yoichi-distillery-day-tour-ch-en-guide-sapporo": {
+  "title": "Tour di un giorno a Otaru, Shakotan e la distilleria di Yoichi (guida cinese/inglese), Sapporo",
+  "metaTitle": "Otaru, Shakotan e distilleria di Yoichi da Sapporo",
+  "metaDescription": "Nove ore e mezza da Sapporo tra Otaru, la distilleria Nikka Whisky di Yoichi e la costa di Shimamui, con trasporto e guida bilingue incluse.",
+  "shortDescription": "Nove ore e mezza da Sapporo tra Otaru, la distilleria Nikka Whisky di Yoichi e la costa di Shimamui, con trasporto e guida bilingue incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto tour di nove ore e mezza, con guida bilingue cinese/inglese, collega **Otaru**, la **distilleria Nikka Whisky di Yoichi** e la **costa di Shimamui**, con il trasporto indicato nell'itinerario e le tasse sui consumi e altre imposte incluse. Il pranzo non è incluso (si consiglia di mangiare a Otaru), l'accesso alle aree a pagamento della distilleria con prenotazione obbligatoria non è compreso, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto indicato nell'itinerario del tour",
+   "Guida bilingue professionista",
+   "Tasse sui consumi e altre imposte"
+  ],
+  "notIncluded": [
+   "Il pranzo non è incluso in questo tour; consigliamo di mangiare a Otaru",
+   "L'accesso alle aree a pagamento e con prenotazione obbligatoria della distilleria di Yoichi non è incluso",
+   "Le spese personali non sono incluse in questo tour"
+  ]
+ },
+ "guided-mt-moiwa-hike-with-hotel-transfer-in-sapporo": {
+  "title": "Escursione guidata al Monte Moiwa con transfer in hotel a Sapporo",
+  "metaTitle": "Escursione al Monte Moiwa con transfer, Sapporo",
+  "metaDescription": "Cinque ore a Sapporo per un'escursione guidata al Monte Moiwa, con transfer da e per l'alloggio e gestione della sicurezza incluse.",
+  "shortDescription": "Cinque ore a Sapporo per un'escursione guidata al Monte Moiwa, con transfer da e per l'alloggio e gestione della sicurezza incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesta escursione guidata di cinque ore al **Monte Moiwa** porta la tariffa della guida, la gestione della sicurezza, la comunicazione preliminare di base e il transfer da e per l'alloggio a Sapporo. Pranzo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa della guida",
+   "Gestione della sicurezza",
+   "Comunicazione preliminare di base",
+   "Transfer da e per l'alloggio a Sapporo"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Bevande"
+  ]
+ },
+ "sushi-making-in-spacious-studio-same-day-ok-in-osaka": {
+  "title": "Preparazione del sushi in uno studio spazioso (prenotazione anche lo stesso giorno!) a Osaka",
+  "metaTitle": "Laboratorio di sushi a Osaka, prenotazione last minute",
+  "metaDescription": "Un'ora e mezza a Osaka per preparare il sushi, con certificato di maestro del sushi e un simpatico souvenir giapponese inclusi.",
+  "shortDescription": "Un'ora e mezza a Osaka per preparare il sushi, con certificato di maestro del sushi e un simpatico souvenir giapponese inclusi.",
+  "fullDescription": "Il mercato all'ingrosso del pesce di Tokyo si è trasferito da Tsukiji a Toyosu nel 2018, ma il mercato esterno di Tsukiji, i vicoli di negozi e banchi intorno al vecchio sito, è rimasto ed è dove si fanno le passeggiate gastronomiche. I corsi di sushi insegnano lo shari, il riso condito con aceto, e la pressione delle mani per il nigiri; la maggior parte dura dalle due alle tre ore e si mangia quello che si prepara.\n\nQuesta esperienza di un'ora e mezza a Osaka, con prenotazione possibile anche lo stesso giorno, porta tutti gli ingredienti del sushi, il pasto a base del sushi preparato, un certificato di maestro del sushi e un simpatico souvenir giapponese. Bevande (soft drink e alcolici ordinabili durante la lezione) e il servizio di pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingredienti del sushi durante l'esperienza",
+   "Pasto a base del sushi preparato",
+   "Certificato di maestro del sushi",
+   "Simpatico souvenir giapponese"
+  ],
+  "notIncluded": [
+   "Bevande (si possono ordinare soft drink e alcolici durante la lezione)",
+   "Servizio di pick-up e drop-off in hotel"
+  ]
+ },
+ "canal-historic-streets-and-market-private-walk-in-sapporo": {
+  "title": "Canale, vie storiche e mercato: passeggiata privata a Sapporo",
+  "metaTitle": "Passeggiata privata: canale e vie storiche, Sapporo",
+  "metaDescription": "Tre ore a Otaru tra il Mercato Sankaku, il Canale di Otaru e l'antica linea ferroviaria Temiya, con un tour fotografico privato e guida locale.",
+  "shortDescription": "Tre ore a Otaru tra il Mercato Sankaku, il Canale di Otaru e l'antica linea ferroviaria Temiya, con un tour fotografico privato e guida locale.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon.\n\nQuesta passeggiata privata di tre ore porta un tour fotografico privato con guida locale, la visita al **Mercato Sankaku**, al **Canale di Otaru**, all'antica linea ferroviaria **Temiya** e a **Sakaimachi Street**. Il trasporto da e per Sapporo, i pasti, le bevande e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour fotografico privato",
+   "Guida locale",
+   "Visita al Mercato Sankaku",
+   "Visita al Canale di Otaru",
+   "Visita all'antica linea ferroviaria Temiya",
+   "Visita a Sakaimachi Street"
+  ],
+  "notIncluded": [
+   "Trasporto da e per Sapporo",
+   "Pasti e bevande",
+   "Spese personali"
+  ]
+ },
+ "sushi-roll-making-class-in-sapporo": {
+  "title": "Corso di preparazione dei roll di sushi a Sapporo",
+  "metaTitle": "Corso di roll di sushi a Sapporo",
+  "metaDescription": "Due ore a Sapporo per imparare a preparare roll di sushi decorativi.",
+  "shortDescription": "Due ore a Sapporo per imparare a preparare roll di sushi decorativi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto corso di due ore insegna a preparare **roll di sushi decorativi**.",
+  "highlights": [],
+  "included": [
+   "Corso di preparazione di roll di sushi decorativi"
+  ],
+  "notIncluded": []
+ },
+ "jewelry-workshop-with-3d-projection-mapping-in-sapporo": {
+  "title": "Laboratorio di gioielli con mapping di proiezione 3D a Sapporo",
+  "metaTitle": "Laboratorio di gioielli con proiezione 3D, Sapporo",
+  "metaDescription": "Un'ora e mezza a Sapporo per un laboratorio di creazione di gioielli con mapping di proiezione 3D, tariffa del pacchetto inclusa.",
+  "shortDescription": "Un'ora e mezza a Sapporo per un laboratorio di creazione di gioielli con mapping di proiezione 3D, tariffa del pacchetto inclusa.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto laboratorio di un'ora e mezza a Sapporo porta la creazione di gioielli con **mapping di proiezione 3D**, con la tariffa del pacchetto inclusa. Spese personali e qualsiasi elemento non indicato restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del pacchetto"
+  ],
+  "notIncluded": [
+   "Spese personali e qualsiasi elemento non indicato sopra"
+  ]
+ },
+ "muroran-shukutsu-port-shore-excursion-for-cruise-guests-in-sapporo": {
+  "title": "Porto di Muroran Shukutsu: escursione a terra per ospiti di crociera a Sapporo",
+  "metaTitle": "Escursione a terra a Muroran Shukutsu per crocieristi",
+  "metaDescription": "Otto ore di escursione a terra da Muroran Shukutsu per ospiti di crociera, con trasporto andata e ritorno e guida inglese/giapponese incluse.",
+  "shortDescription": "Otto ore di escursione a terra da Muroran Shukutsu per ospiti di crociera, con trasporto andata e ritorno e guida inglese/giapponese incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesta escursione a terra di otto ore, pensata per gli ospiti di crociera in arrivo a **Muroran Shukutsu**, porta il trasporto andata e ritorno per tutto il tour e una guida in lingua inglese e giapponese: con 15 o più passeggeri un pullman con guida dedicata, con 15 passeggeri o meno un minivan con autista-guida. Cibo, spese personali, cibo o bevande aggiuntivi, attività opzionali non indicate nell'itinerario e assicurazione di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno per tutto il tour",
+   "Guida in lingua inglese e giapponese",
+   "(con 15 o più passeggeri: pullman con servizio di guida dedicata",
+   "con 15 passeggeri o meno: minivan con servizio di autista-guida)"
+  ],
+  "notIncluded": [
+   "Cibo",
+   "Spese personali",
+   "Cibo o bevande aggiuntivi (facoltativi)",
+   "Attività opzionali non indicate nell'itinerario",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "hoheikyo-dam-jozankei-and-lake-shikotsu-tour-in-sapporo": {
+  "title": "Tour della Diga di Hoheikyo, Jozankei e del Lago Shikotsu da Sapporo",
+  "metaTitle": "Diga di Hoheikyo, Jozankei e Lago Shikotsu da Sapporo",
+  "metaDescription": "Dieci ore da Sapporo tra la Diga di Hoheikyo, Jozankei e il Lago Shikotsu, con trasporto andata e ritorno e guida in inglese, cinese e coreano.",
+  "shortDescription": "Dieci ore da Sapporo tra la Diga di Hoheikyo, Jozankei e il Lago Shikotsu, con trasporto andata e ritorno e guida in inglese, cinese e coreano.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; il Lago Toya e il Lago Shikotsu sono laghi di caldera. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto tour di dieci ore porta la **Diga di Hoheikyo**, **Jozankei** e il **Lago Shikotsu**, con trasporto andata e ritorno, guida in inglese, cinese e coreano, e l'ingresso al Parco Collinare di Takino Suzuran. Pasti, assicurazione di viaggio, altre spese personali e l'ingresso al bus navetta elettrico della Diga di Hoheikyo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno",
+   "Guida in lingua inglese, cinese e coreana",
+   "Ingresso al Parco Collinare di Takino Suzuran"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Assicurazione di viaggio",
+   "Altre spese personali",
+   "Ingresso al bus navetta elettrico della Diga di Hoheikyo"
+  ]
+ },
+ "biei-local-food-christmas-tree-furano-photogenic-tour-sapporo": {
+  "title": "Cibo locale a Biei, l'albero di Natale e Furano: tour fotogenico da Sapporo",
+  "metaTitle": "Biei, albero di Natale e Furano: tour da Sapporo",
+  "metaDescription": "Dieci ore da Sapporo tra Biei e Furano, con guida in giapponese, inglese e mandarino, pranzo a buffet e ingresso ai Giardini di Shikisai-no-Oka inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra Biei e Furano, con guida in giapponese, inglese e mandarino, pranzo a buffet e ingresso ai Giardini di Shikisai-no-Oka inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto tour di dieci ore, con guida in giapponese, inglese e mandarino, porta un pranzo a buffet locale dell'Hokkaido con melone a volontà (nelle fasce S1-2 e S2-2) o solo il buffet (nella fascia S2-4), l'esperienza al Miyama Toge Art Park con una coppa di gelato fino a sei gusti, un biglietto per la ruota panoramica e un coupon sconto del 10% sui souvenir (fasce S1-1, S1-2, S2-1, S2-2, S2-3, S2-4), l'ingresso ai **Giardini di Shikisai-no-Oka** di Biei (fasce S2-1, S2-2, S2-3, S2-4), e un pranzo di maiale di Biei con verdure di stagione (fascia W3-2). Le spese non indicate, il pranzo nelle fasce S1-1, S2-1, S2-3 e W3-1, e l'ingresso al ranch degli alpaca (500 yen dai 16 anni in su, 300 yen dai 6 ai 15 anni) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour di un giorno",
+   "Guida in giapponese",
+   "Guida in inglese",
+   "Guida in mandarino",
+   "Fasce S1-2, S2-2: pranzo a buffet locale dell'Hokkaido con melone a volontà",
+   "Fascia S2-4: pranzo a buffet locale dell'Hokkaido",
+   "Fasce S1-1, S1-2, S2-1, S2-2, S2-3, S2-4: esperienza al Miyama Toge Art Park (1 coppa di gelato fino a 6 gusti e 1 biglietto per la ruota panoramica, più coupon sconto del 10% sui souvenir)",
+   "Fasce S2-1, S2-2, S2-3, S2-4: ingresso ai Giardini di Shikisai-no-Oka di Biei",
+   "Fascia W3-2: pranzo (maiale di Biei e verdure di stagione)"
+  ],
+  "notIncluded": [
+   "Spese non indicate",
+   "Fasce S1-1, S2-1, S2-3, W3-1: pranzo",
+   "Fasce S2-1, S2-2, S2-3, S2-4: ingresso al ranch degli alpaca (dai 16 anni in su: 500 yen; dai 6 ai 15 anni: 300 yen)"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
