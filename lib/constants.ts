@@ -1184,6 +1184,13 @@ export const CAMERON_HIGHLANDS_INFO_SLUGS = [
   'is-rafflesia-trek-worth-it-cameron-highlands', 'is-coral-hill-adventure-worth-it-cameron-highlands',
 ];
 
+// Bengaluru (India) — 7 live tours, launched 2026-11-22. 6 of the 7 are
+// genuine (not mis-tagged) fly-from-Bengaluru Taj Mahal packages; Bengaluru
+// itself has only 1 real city-specific tour.
+export const BENGALURU_INFO_SLUGS = [
+  'is-city-guide-tour-worth-it-bengaluru', 'is-taj-mahal-flight-tour-worth-it-bengaluru',
+];
+
 // Madaba (Jordan) — 33 live tours, launched 2026-11-22.
 export const MADABA_INFO_SLUGS = [
   'is-madaba-mount-nebo-dead-sea-tour-worth-it', 'is-madaba-mosaic-workshop-worth-it',
