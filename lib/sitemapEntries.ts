@@ -139,6 +139,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-mutianyu-great-wall-worth-it-beijing', 'is-badaling-great-wall-worth-it-beijing',
     'is-forbidden-city-tour-worth-it-beijing', 'is-temple-of-heaven-tour-worth-it-beijing',
     'is-terracotta-warriors-day-trip-worth-it-beijing', 'is-hutong-sidecar-tour-worth-it-beijing',
+    'is-dumpling-making-class-worth-it-beijing', 'is-simatai-great-wall-worth-it-beijing',
+    'is-calligraphy-masterclass-worth-it-beijing', 'is-lama-temple-tour-worth-it-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),

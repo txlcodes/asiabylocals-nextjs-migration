@@ -922,6 +922,8 @@ export const BEIJING_INFO_SLUGS = [
   'is-mutianyu-great-wall-worth-it-beijing', 'is-badaling-great-wall-worth-it-beijing',
   'is-forbidden-city-tour-worth-it-beijing', 'is-temple-of-heaven-tour-worth-it-beijing',
   'is-terracotta-warriors-day-trip-worth-it-beijing', 'is-hutong-sidecar-tour-worth-it-beijing',
+  'is-dumpling-making-class-worth-it-beijing', 'is-simatai-great-wall-worth-it-beijing',
+  'is-calligraphy-masterclass-worth-it-beijing', 'is-lama-temple-tour-worth-it-beijing',
 ];
 
 export const SHANGHAI_INFO_SLUGS = [

@@ -888,6 +888,90 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-dumpling-making-class-worth-it-beijing":
+      return {
+        title: "Is a Dumpling Making Class Worth It in Beijing?",
+        description: "An honest look at the hands-on dumpling making class with a local host in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/68cf1ea2154466309633bfd1163ce0d2069191423d51d4d84c9163641d13b9f8.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning to fold dumplings by hand from a local host is a genuinely approachable cultural activity, and at 3 hours it fits comfortably into a day otherwise spent at the Forbidden City or Great Wall.",
+            tourCard: { slug: "beijing-dumpling-making-class-with-local-host", title: "Beijing Dumpling Making Class with Local Host", description: "A hands-on dumpling making class hosted by a local in Beijing.", price: "From $117", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/68cf1ea2154466309633bfd1163ce0d2069191423d51d4d84c9163641d13b9f8.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity to pair with a day of heavier sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is a dumpling making class worth it in Beijing?", a: "Yes, it's a genuinely approachable hands-on cultural activity that fits easily alongside a day of sightseeing." },
+        ],
+      };
+
+    case "is-simatai-great-wall-worth-it-beijing":
+      return {
+        title: "Is the Simatai Great Wall Hiking Tour Worth It from Beijing?",
+        description: "An honest look at the Simatai section of the Great Wall, a less-crowded alternative to Mutianyu and Badaling.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dca67466b5e8211a75179ad924d57e1c55759dacd0fef133ece4122465ebc6c9.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Simatai is notably less crowded than the heavily visited Mutianyu and Badaling sections, with a more rugged, partially unrestored character that suits travelers who've already seen the more famous sections or specifically want to avoid the crowds.",
+            tourCard: { slug: "beijing-simatai-great-wall-guided-hiking-tour", title: "Beijing Simatai Great Wall Guided Hiking Tour", description: "A guided hiking tour of the Simatai section of the Great Wall.", price: "From $15", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dca67466b5e8211a75179ad924d57e1c55759dacd0fef133ece4122465ebc6c9.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Parts of this section are unrestored and genuinely rugged, so come with proper hiking shoes and expect more physical exertion than Mutianyu or Badaling.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Simatai Great Wall worth it from Beijing?", a: "Yes, it's notably less crowded than Mutianyu or Badaling, with a more rugged, partially unrestored character." },
+        ],
+      };
+
+    case "is-calligraphy-masterclass-worth-it-beijing":
+      return {
+        title: "Is the Chinese Calligraphy Masterclass Worth It in Beijing?",
+        description: "An honest look at the Chinese calligraphy masterclass on silk in Beijing, a compact hands-on cultural workshop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/517686e82f1dcf8f98196373c7c034760044aab51a0573103aa128c2429ce6cf.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At just 1.5 hours, this calligraphy masterclass is a compact, low-commitment way to try a traditional Chinese art form, and practicing on silk rather than plain paper gives you a genuinely nicer keepsake to take home.",
+            tourCard: { slug: "beijing-chinese-calligraphy-masterclass-silk", title: "Beijing Chinese Calligraphy Masterclass on Silk", description: "A hands-on Chinese calligraphy masterclass practiced on silk in Beijing.", price: "From $111", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/517686e82f1dcf8f98196373c7c034760044aab51a0573103aa128c2429ce6cf.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on between bigger sightseeing blocks, since the whole session runs under 2 hours.",
+          },
+        ],
+        faqs: [
+          { q: "Is the calligraphy masterclass worth it in Beijing?", a: "Yes, it's a compact, low-commitment way to try a traditional art form and leave with a genuine silk keepsake." },
+        ],
+      };
+
+    case "is-lama-temple-tour-worth-it-beijing":
+      return {
+        title: "Is the Lama Temple Tour Worth It in Beijing?",
+        description: "An honest look at the Lama Temple day tour with Chinese cultural experience, Beijing's largest and most important Tibetan Buddhist temple.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6dbfc383b47e39dc45760d0471c68851bc4081a1b3d5897c9f345c0acd7f2839.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Lama Temple is Beijing's largest and most important Tibetan Buddhist temple, a genuinely different atmosphere from the Forbidden City and Temple of Heaven's imperial architecture, with active worship still taking place.",
+            tourCard: { slug: "lama-temple-one-day-tour-with-chinese-cultural", title: "Lama Temple One-Day Tour with Chinese Cultural Experience", description: "A day tour of the Lama Temple with a Chinese cultural experience included.", price: "From $252", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6dbfc383b47e39dc45760d0471c68851bc4081a1b3d5897c9f345c0acd7f2839.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress respectfully since this is an active place of worship, not just a historic sightseeing stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lama Temple tour worth it in Beijing?", a: "Yes, it offers a genuinely different atmosphere from Beijing's imperial sites, as an active Tibetan Buddhist temple." },
+        ],
+      };
+
     default:
       return null;
   }
