@@ -38508,6 +38508,25 @@ export const IT_TOURS: Record<string, TourT> = {
    "Colazione"
   ]
  },
+ "galle-hiriketiya-guided-tour": {
+  "title": "Galle: tour di un giorno da Rekawa/Tangalle/Hiriketiya/Talalla e altro",
+  "metaTitle": "Galle: tour di un giorno da Rekawa/Tangalle/Hiriketiya/Talalla...",
+  "metaDescription": "Un'escursione di una giornata intera da Galle che visita Galle Fort, Sea turtle hatchery habaraduwa, Galle e Koggala Lake. Offerto da Yala Dreams wild Safari Tour...",
+  "shortDescription": "Un'escursione di una giornata intera da Galle che visita Galle Fort, Sea turtle hatchery habaraduwa, Galle e Koggala Lake. Offerto da Yala Dreams wild Safari Tours Sri Lanka.",
+  "fullDescription": "Un'escursione di una giornata intera da Galle, che passa per Galle Fort, Sea turtle hatchery habaraduwa, Galle e Koggala Lake. La tappa più lunga è Galle Fort, con una durata di circa 2 ore. Ci sono 4 tappe in totale.\n\nL'ordine del percorso è Galle Fort (2h), poi Sea turtle hatchery habaraduwa (1h), poi Galle (1h), poi Koggala Lake (2h).\n\nIl prezzo comprende veicolo privato con aria condizionata, pickup e drop-off in hotel, safari in barca sul fiume e visita alla conservazione delle tartarughe marine.",
+  "highlights": [
+   "Un'escursione di una giornata intera da Galle che visita Galle Fort, Sea turtle hatchery habaraduwa, Galle e Koggala Lake. Offerto da Yala Dreams wild Safari Tours Sri Lanka."
+  ],
+  "included": [
+   "Veicolo privato con aria condizionata",
+   "Pickup e drop-off in hotel",
+   "Safari in barca sul fiume",
+   "Visita alla conservazione delle tartarughe marine"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
  "kandy-village-hiking-tour-waterfalls-local": {
   "title": "Kandy: escursione nel villaggio tra cascate e incontri con la gente del posto",
   "metaTitle": "Kandy: escursione nel villaggio tra cascate e incontri con la ...",
@@ -38547,6 +38566,27 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Mance (gratifiche)"
+  ]
+ },
+ "kandy-tea-estate-factory-waterfalls-ambuluwawa": {
+  "title": "Kandy: piantagione e fabbrica del te, cascate e tour di Ambuluwawa",
+  "metaTitle": "Kandy: piantagione e fabbrica del te, cascate e tour di Ambulu...",
+  "metaDescription": "Esperienza di una giornata intera a Kandy. Ammira la statua del Buddha di 138 piedi e goditi la vista panoramica sulle valli. Offerto da Tuk Driver : Kandy City T...",
+  "shortDescription": "Esperienza di una giornata intera a Kandy. Ammira la statua del Buddha di 138 piedi e goditi la vista panoramica sulle valli. Offerto da Tuk Driver : Kandy City Tour.",
+  "fullDescription": "Un'esperienza di una giornata intera a Kandy. Ammira la statua del Buddha di 138 piedi e goditi la vista panoramica sulle valli.\n\nTuk Driver : Kandy City Tour se ne occupa, e 10 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende prelievo da Kandy, tragitto panoramico lungo il fiume Mahaweli, visita alla statua del Buddha di 138 piedi a Gampola e scalata alla Torre di Ambuluwawa. Non comprende pasti, spese personali e prezzo del biglietto ad Ambuluwawa, quindi preventivalo separatamente.",
+  "highlights": [
+   "Ammira la statua del Buddha di 138 piedi e goditi la vista panoramica sulle valli"
+  ],
+  "included": [
+   "Prelievo da Kandy",
+   "Tragitto panoramico lungo il fiume Mahaweli",
+   "Visita alla statua del Buddha di 138 piedi a Gampola",
+   "Scalata alla Torre di Ambuluwawa"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Prezzo del biglietto ad Ambuluwawa"
   ]
  },
  "ella-demodara-cycling-tour-with-train-ride": {
@@ -38686,6 +38726,25 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese di natura personale",
    "Costi d'ingresso",
    "Costi delle attività"
+  ]
+ },
+ "mirissa-whale-dolphin-watching-boat-tour": {
+  "title": "Mirissa: tour in barca per l’osservazione di balene e delfini",
+  "metaTitle": "Mirissa: tour in barca per l’osservazione di balene e delfini",
+  "metaDescription": "Esperienza di una giornata intera a Mirissa. Vivi l'emozione di avvistare balene e delfini nel loro habitat naturale. Offerto da Tourlankaholidays.",
+  "shortDescription": "Esperienza di una giornata intera a Mirissa. Vivi l'emozione di avvistare balene e delfini nel loro habitat naturale. Offerto da Tourlankaholidays.",
+  "fullDescription": "Un'esperienza di una giornata intera a Mirissa. Vivi l'emozione di avvistare balene e delfini nel loro habitat naturale.\n\nTourlankaholidays se ne occupa, e 5 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende tour per l'avvistamento delle balene, avvistamento di delfini, biglietti governativi e colazione (snack). Non comprende questo viaggio non include il nuoto con delfini e balene, quindi preventivalo separatamente.",
+  "highlights": [
+   "Vivi l'emozione di avvistare balene e delfini nel loro habitat naturale"
+  ],
+  "included": [
+   "Tour per l'avvistamento delle balene",
+   "Avvistamento di delfini",
+   "Biglietti governativi",
+   "Colazione (snack)"
+  ],
+  "notIncluded": [
+   "Questo viaggio non include il nuoto con delfini e balene"
   ]
  },
  "kandy-knuckles-mountain-range-2-day-camping-tour": {
@@ -38838,6 +38897,27 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Pasti",
    "Biglietti d'ingresso al parco nazionale"
+  ]
+ },
+ "from-mirissa-all-inclusive-deep-sea-fishing-boat": {
+  "title": "Da Mirissa: tour di pesca d’altura tutto incluso",
+  "metaTitle": "Da Mirissa: tour di pesca d’altura tutto incluso",
+  "metaDescription": "Esperienza di 3 ora/e a Mirissa. Naviga le acque su una barca da pesca tradizionale di 15 piedi. Offerto da Lakpura®.",
+  "shortDescription": "Esperienza di 3 ora/e a Mirissa. Naviga le acque su una barca da pesca tradizionale di 15 piedi. Offerto da Lakpura®.",
+  "fullDescription": "Un'esperienza di 3 ora/e a Mirissa. Naviga le acque su una barca da pesca tradizionale di 15 piedi.\n\nLakpura® se ne occupa, e 4 elementi sono inclusi nel prezzo. La cancellazione è gratuita.\n\nIl prezzo comprende tutta l'attrezzatura da pesca necessaria, servizi di una guida di pesca, colazione al sacco e bottiglie d'acqua. Non comprende pickup/drop-off da/per il punto di partenza a Mirissa, spese di natura personale e mance, quindi preventivalo separatamente. Due viaggiatori pagano 676 $ insieme invece di 491 $ a testa, perché il prezzo è fissato per gruppo e non a persona.",
+  "highlights": [
+   "Naviga le acque su una barca da pesca tradizionale di 15 piedi"
+  ],
+  "included": [
+   "Tutta l'attrezzatura da pesca necessaria",
+   "Servizi di una guida di pesca",
+   "colazione al sacco",
+   "Bottiglie d'acqua"
+  ],
+  "notIncluded": [
+   "Pickup/drop-off da/per il punto di partenza a Mirissa",
+   "Spese di natura personale",
+   "Mance"
   ]
  },
  "from-colombo-8-day-ramayana-tour-in-sri-lanka": {
