@@ -1067,6 +1067,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-james-bond-island-tour-worth-it-phuket', 'is-phi-phi-shark-point-diving-worth-it-phuket',
     'is-coral-island-tour-worth-it-phuket', 'is-big-buddha-old-town-tour-worth-it-phuket',
     'is-andamanda-water-park-worth-it-phuket',
+    'is-simon-cabaret-show-worth-it-phuket', 'is-similan-islands-tour-worth-it-phuket',
+    'is-blue-elephant-cooking-class-worth-it-phuket', 'is-khao-sok-bamboo-rafting-worth-it-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),

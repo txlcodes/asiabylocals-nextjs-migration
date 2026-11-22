@@ -5820,6 +5820,90 @@ description: "Amber Fort at opening, City Palace, Hawa Mahal and Nahargarh for s
                     ],
                 };
 
+            case "is-simon-cabaret-show-worth-it-phuket":
+                return {
+                    title: "Is the Simon Cabaret Show Worth It in Phuket?",
+                    description: "An honest look at the Simon Cabaret ladyboy cabaret show in Phuket, a long-running evening entertainment staple.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/simon-cabaret-show-entry-ticket-in-phuket/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Simon Cabaret is a long-running, polished production with elaborate costumes and sets, and at 1.5 hours and a modest ticket price it's an easy evening add-on distinct from Phuket's beach and island-hopping days.",
+                            tourCard: { slug: "simon-cabaret-show-entry-ticket-in-phuket", title: "Simon Cabaret Show Entry Ticket", description: "An entry ticket to the Simon Cabaret show in Phuket.", price: "From $33", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/simon-cabaret-show-entry-ticket-in-phuket/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "Book ahead for a good seat, since front-row tables tend to sell out first for the evening shows.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is the Simon Cabaret show worth it in Phuket?", a: "Yes, it's a polished, long-running production that makes for an easy, affordable evening add-on." },
+                    ],
+                };
+
+            case "is-similan-islands-tour-worth-it-phuket":
+                return {
+                    title: "Is a Similan Islands Day Trip Worth It from Phuket?",
+                    description: "An honest look at the Similan Islands day trip by speed catamaran, one of Thailand's most pristine marine national parks.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/similan-islands-speed-catamaran-tour-with-lunch/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "The Similan Islands are widely considered among Thailand's best diving and snorkeling waters, genuinely more pristine than the busier Phi Phi circuit, though the longer boat ride from Phuket makes this a full-day commitment.",
+                            tourCard: { slug: "similan-islands-speed-catamaran-tour-with-lunch", title: "Similan Islands Speed Catamaran Tour with Lunch", description: "A day trip to the Similan Islands by speed catamaran with lunch included.", price: "From $128", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/similan-islands-speed-catamaran-tour-with-lunch/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "The Similans are seasonal, typically closed from mid-May to mid-October, so check the park is open before booking.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is a Similan Islands day trip worth it from Phuket?", a: "Yes, the Similans are widely considered among Thailand's most pristine diving and snorkeling waters, though it's a longer full-day trip." },
+                    ],
+                };
+
+            case "is-blue-elephant-cooking-class-worth-it-phuket":
+                return {
+                    title: "Is the Blue Elephant Thai Cooking Class Worth It in Phuket?",
+                    description: "An honest look at the Blue Elephant Thai cooking class with market tour in Phuket, a higher-end cooking school experience.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/blue-elephant-thai-cooking-class-with-market-tour-in-phuket/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Blue Elephant is a recognized, higher-end Thai cooking school brand, and this class pairs a real market tour with professional instruction, justifying its premium price over a basic hotel cooking class for travelers who want a genuinely polished culinary experience.",
+                            tourCard: { slug: "blue-elephant-thai-cooking-class-with-market-tour-in-phuket", title: "Blue Elephant Thai Cooking Class with Market Tour", description: "A Thai cooking class with market tour from the Blue Elephant cooking school in Phuket.", price: "From $222", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/blue-elephant-thai-cooking-class-with-market-tour-in-phuket/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "This is priced well above a basic cooking class, so it suits travelers specifically wanting the recognized Blue Elephant brand experience.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is the Blue Elephant cooking class worth it in Phuket?", a: "Yes, for travelers wanting a genuinely polished culinary experience from a recognized cooking school brand, worth the premium over a basic class." },
+                    ],
+                };
+
+            case "is-khao-sok-bamboo-rafting-worth-it-phuket":
+                return {
+                    title: "Is the Khao Sok Lake & Bamboo Rafting Tour Worth It from Phuket?",
+                    description: "An honest look at the Khao Sok Lake and bamboo rafting day trip from Phuket, covering one of Thailand's oldest rainforests.",
+                    heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khao-sok-lake-and-bamboo-rafting-tour-in-phuket/img0/1600.webp",
+                    sections: [
+                        {
+                            title: "The Short Answer",
+                            content: "Khao Sok is one of Thailand's oldest rainforests, and pairing a visit to its limestone-lined lake with bamboo rafting gives a genuinely different landscape from Phuket's beaches and islands, worth the fairly long drive each way.",
+                            tourCard: { slug: "khao-sok-lake-and-bamboo-rafting-tour-in-phuket", title: "Khao Sok Lake & Bamboo Rafting Tour", description: "A day trip from Phuket to Khao Sok Lake with bamboo rafting.", price: "From $194", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/khao-sok-lake-and-bamboo-rafting-tour-in-phuket/img0/1600.webp" },
+                        },
+                        {
+                            title: "Practical Tips",
+                            content: "It's a long day with significant drive time each way, so this suits travelers who specifically want to see Khao Sok's rainforest landscape rather than another beach day.",
+                        },
+                    ],
+                    faqs: [
+                        { q: "Is the Khao Sok Lake and bamboo rafting tour worth it from Phuket?", a: "Yes, Khao Sok's rainforest and limestone-lined lake offer a genuinely different landscape worth the long drive." },
+                    ],
+                };
+
             default:
                 return null;
     }
