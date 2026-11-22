@@ -1022,6 +1022,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-oslob-whale-shark-watching-worth-it-cebu', 'is-kawasan-falls-canyoneering-worth-it-cebu',
     'is-moalboal-sardine-run-worth-it-cebu', 'is-chocolate-hills-loboc-river-tour-worth-it-cebu',
     'is-bantayan-island-tour-worth-it-cebu', 'is-cebu-city-heritage-tour-worth-it',
+    'is-las-casas-filipinas-worth-it-cebu', 'is-cebu-safari-park-worth-it-cebu',
+    'is-padi-certification-worth-it-cebu', 'is-catch-cook-eat-worth-it-cebu',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/cebu/${slug}`,
     lastModified: new Date(),

@@ -1656,6 +1656,90 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-las-casas-filipinas-worth-it-cebu":
+      return {
+        title: "Is Las Casas Filipinas Heritage Village Worth It near Cebu?",
+        description: "An honest look at Las Casas Filipinas de Acuzar, a heritage village of restored and relocated Spanish-colonial-era buildings.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c67cbfbece07d116c5a2881a15d3458d9594a4185430f0e71413ff17a09d136.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Las Casas gathers restored and relocated Spanish-colonial-era buildings from across the Philippines into one walkable heritage village, giving a genuinely different, more immersive sense of period architecture than a single historic site alone.",
+            tourCard: { slug: "las-casas-filipinas-heritage-village-daypass", title: "Las Casas Filipinas Heritage Village Daypass", description: "A daypass to Las Casas Filipinas, a heritage village of restored Spanish-colonial buildings.", price: "From $119", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c67cbfbece07d116c5a2881a15d3458d9594a4185430f0e71413ff17a09d136.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable walking shoes — the village is genuinely large, with multiple building clusters spread across the grounds.",
+          },
+        ],
+        faqs: [
+          { q: "Is Las Casas Filipinas worth it?", a: "Yes, gathering restored colonial-era buildings into one walkable village gives a genuinely immersive sense of period architecture." },
+        ],
+      };
+
+    case "is-cebu-safari-park-worth-it-cebu":
+      return {
+        title: "Is Cebu Safari and Adventure Park Worth It?",
+        description: "An honest look at Cebu Safari and Adventure Park, a wildlife park with both animal encounters and adventure activities.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d36ddb8b3a32841c1af9a72e724962d7db1533b91e25ed25386cbfe37d285a85.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining wildlife encounters with adventure activities in one park makes this a solid family day, a genuine break from Cebu's heavily water-based island-hopping and canyoneering circuit.",
+            tourCard: { slug: "cebu-safari-and-adventure-park-entry-with", title: "Cebu Safari and Adventure Park Entry", description: "An entry ticket to Cebu Safari and Adventure Park, with transfer included.", price: "From $179", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d36ddb8b3a32841c1af9a72e724962d7db1533b91e25ed25386cbfe37d285a85.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick specifically for families wanting a land-based day away from the usual water activities Cebu is known for.",
+          },
+        ],
+        faqs: [
+          { q: "Is Cebu Safari and Adventure Park worth it?", a: "Yes, it's a solid family day that's a genuine break from Cebu's usual water-based island-hopping and canyoneering." },
+        ],
+      };
+
+    case "is-padi-certification-worth-it-cebu":
+      return {
+        title: "Is the PADI Open Water Certification Course Worth It in Cebu?",
+        description: "An honest look at taking a PADI Open Water scuba certification course in Cebu, a genuine investment for travelers who want to keep diving long-term.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ec51d3849555dc4ec73d2e0068a63c7427c701cb9a7d57606a854ff88982ca5.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cebu's clear waters and established dive infrastructure make it a genuinely good place to earn a real PADI Open Water certification, a worthwhile 2-day investment for travelers who plan to keep diving at other destinations afterward, not just a single discover-dive outing.",
+            tourCard: { slug: "cebu-padi-open-water-certification-course", title: "Cebu PADI Open Water Certification Course", description: "A 2-day PADI Open Water scuba diving certification course in Cebu.", price: "From $442", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ec51d3849555dc4ec73d2e0068a63c7427c701cb9a7d57606a854ff88982ca5.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine certification course, not a casual dive — expect classroom sessions and skill tests alongside the actual diving.",
+          },
+        ],
+        faqs: [
+          { q: "Is the PADI Open Water certification worth it in Cebu?", a: "Yes, for travelers who plan to keep diving afterward, Cebu's clear waters and dive infrastructure make it a genuinely good place to certify." },
+        ],
+      };
+
+    case "is-catch-cook-eat-worth-it-cebu":
+      return {
+        title: "Is the Catch, Cook & Eat Experience with Local Fishermen Worth It in Cebu?",
+        description: "An honest look at joining local fishermen to catch your own seafood, then cook and eat it, in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4af22c39231c14c22ecfda45cf36dc78b211077f4ea026df9be43846a5c7ad59.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Catching your own seafood alongside real local fishermen before cooking and eating it gives genuinely hands-on insight into coastal life that a standard seafood restaurant meal simply can't offer, and the freshness is hard to beat.",
+            tourCard: { slug: "cebu-catch-cook-eat-with-local-fishermen", title: "Cebu Catch, Cook & Eat with Local Fishermen", description: "A hands-on experience catching, cooking, and eating seafood with local fishermen in Cebu.", price: "From $227", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4af22c39231c14c22ecfda45cf36dc78b211077f4ea026df9be43846a5c7ad59.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine full-day experience, not a quick activity, so plan your other sightseeing around it accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the catch, cook and eat experience worth it in Cebu?", a: "Yes, it gives genuinely hands-on insight into coastal life and the freshest seafood you'll find, beyond a standard restaurant meal." },
+        ],
+      };
+
     default:
       return null;
   }
