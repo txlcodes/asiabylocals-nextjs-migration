@@ -1639,6 +1639,60 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-dariali-monastery-gveleti-waterfall-worth-it-kazbegi":
+            return {
+                title: "Is the Dariali Monastery and Gveleti Waterfall Tour Worth It in Kazbegi?",
+                seoTitle: "Dariali Monastery Gveleti Waterfall 2026 | Honest Review",
+                description: "An honest look at the Dariali Monastery and Gveleti Waterfall tour, a quick half-day pairing a border-area monastery with a short waterfall hike near Kazbegi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7e0ced32127b7a1de7f3e9433e4a9a7cc7f867fd87fa851b7a76ae40b469cfe.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dariali Monastery sits right near the Russian border in a dramatic gorge, and pairing it with the short hike to Gveleti Waterfall gives a genuinely efficient half-day that covers both a historic site and a nature stop without the longer time commitment of a Gergeti Trinity Church or Truso Valley trip.", tourCard: { slug: "kazbegi-dariali-monastery-gveleti-waterfall", title: "Kazbegi: Dariali Monastery and Gveleti Waterfall", description: "A half-day tour to Dariali Monastery and Gveleti Waterfall.", price: "From $156", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7e0ced32127b7a1de7f3e9433e4a9a7cc7f867fd87fa851b7a76ae40b469cfe.jpg" } },
+                    { title: "Practical Tips", content: "A good lower-commitment pick if you've already done the longer Gergeti Trinity Church hike and want a shorter half-day instead." },
+                ],
+                faqs: [
+                    { q: "Is the Dariali Monastery and Gveleti Waterfall tour worth it in Kazbegi?", a: "Yes, for an efficient half-day covering a dramatic border-area monastery and a short waterfall hike without a full-day commitment." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Dariali Monastery and Gveleti Waterfall tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an efficient half-day covering a border-area monastery and a short waterfall hike." } },
+                ] },
+            };
+
+        case "is-shkhara-glacier-horseback-tour-worth-it-mestia":
+            return {
+                title: "Is the Shkhara Glacier Horseback Tour Worth It from Mestia?",
+                seoTitle: "Shkhara Glacier Horseback Tour 2026 | Honest Review",
+                description: "An honest look at the Shkhara Glacier horseback tour from Ushguli, reaching one of the highest peaks in the Caucasus on horseback rather than on foot.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7e4fe53408a8db4aff833bcc696b1011634ed31b1a4b315e4200344f34e9e57.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shkhara is one of the highest peaks in the Caucasus, and reaching its glacier on horseback from Ushguli is a genuinely different way to cover the distance than hiking it yourself, letting travelers without serious trekking fitness still reach the glacier viewpoint.", tourCard: { slug: "from-mestia-ushguli-shkhara-glacier-horseback-tour", title: "From Mestia: Ushguli Shkhara Glacier Horseback Tour", description: "A horseback tour to the Shkhara Glacier from Ushguli.", price: "From $502", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7e4fe53408a8db4aff833bcc696b1011634ed31b1a4b315e4200344f34e9e57.jpg" } },
+                    { title: "Practical Tips", content: "No serious prior horseback riding experience is required, but a full day on horseback is still physically demanding — mention any concerns to your guide beforehand." },
+                ],
+                faqs: [
+                    { q: "Is the Shkhara Glacier horseback tour worth it from Mestia?", a: "Yes, for reaching a genuinely high-altitude glacier viewpoint without the fitness demands of hiking it yourself." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Shkhara Glacier horseback tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for reaching a high-altitude Caucasus glacier viewpoint without needing serious trekking fitness." } },
+                ] },
+            };
+
+        case "is-vardzia-rabati-castle-tour-worth-it-borjomi":
+            return {
+                title: "Is the Vardzia and Rabati Castle Tour Worth It from Borjomi?",
+                seoTitle: "Vardzia Rabati Castle Tour 2026 | Honest Review",
+                description: "An honest look at the Vardzia and Rabati Castle day tour, pairing a medieval cave monastery city with a restored Ottoman-era fortress.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5c2aa898b160d9432a28489a27c896e40ee36b053e3f82b6428e58bdc51b7f9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Vardzia is a vast medieval cave city carved directly into a cliff face, and pairing it with Rabati Castle, a restored Ottoman-era fortress in Akhaltsikhe, gives a genuinely different historical angle on the region than Borjomi's own park and spa town, covering two distinct eras of Georgian history in one day.", tourCard: { slug: "day-tour-borjomi-vardzia-rabati-castle-tour", title: "Day Tour: Borjomi, Vardzia and Rabati Castle", description: "A day tour from Borjomi to the Vardzia cave city and Rabati Castle.", price: "From $650", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5c2aa898b160d9432a28489a27c896e40ee36b053e3f82b6428e58bdc51b7f9.jpeg" } },
+                    { title: "Practical Tips", content: "Vardzia involves genuine climbing through narrow cave passages and stairs — wear sturdy shoes and expect some physical exertion." },
+                ],
+                faqs: [
+                    { q: "Is the Vardzia and Rabati Castle tour worth it from Borjomi?", a: "Yes, for covering two genuinely distinct eras of Georgian history, a medieval cave monastery city and a restored Ottoman-era fortress, in one day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Vardzia and Rabati Castle tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for covering a medieval cave city and a restored Ottoman-era fortress in one day." } },
+                ] },
+            };
+
         case "is-mtskheta-jvari-tour-worth-it-tbilisi":
             return {
                 title: "Is the Mtskheta and Jvari Monastery Tour Worth It from Tbilisi?",

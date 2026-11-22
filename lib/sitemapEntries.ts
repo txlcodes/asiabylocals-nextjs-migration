@@ -835,6 +835,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-borjomi-activity-tour-borjomi', 'best-bakuriani-ski-tour-borjomi',
     'borjomi-travel-guide-2026',
     'is-full-day-rafting-worth-it-borjomi',
+    'is-vardzia-rabati-castle-tour-worth-it-borjomi',
   ], 'georgia', 'borjomi');
 
   const haifaInfoPages = mapInfoSlugs([
@@ -914,12 +915,14 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-truso-valley-tour-worth-it-kazbegi', 'best-horse-riding-tour-kazbegi',
     'kazbegi-travel-guide-2026',
     'is-mount-kazbek-climb-worth-it-kazbegi',
+    'is-dariali-monastery-gveleti-waterfall-worth-it-kazbegi',
   ], 'georgia', 'kazbegi');
 
   const mestiaInfoPages = mapInfoSlugs([
     'best-ushguli-day-trip-mestia', 'best-chalaadi-glacier-tour-mestia',
     'best-koruldi-lakes-tour-mestia', 'mestia-travel-guide-2026',
     'is-heshkili-huts-tetnuldi-tour-worth-it-mestia',
+    'is-shkhara-glacier-horseback-tour-worth-it-mestia',
   ], 'georgia', 'mestia');
 
   const wadiRumInfoPages = mapInfoSlugs([
