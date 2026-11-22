@@ -2256,6 +2256,111 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mount-batur-sunrise-trek-worth-it-ubud":
+      return {
+        title: "Is the Mount Batur Sunrise Trek Worth It from Ubud?",
+        description: "An honest look at the Mount Batur sunrise hike, Bali's single most popular trek, climbing an active volcano to watch dawn break over the caldera lake.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-batur-sunrise-hike-1-717-masl/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mount Batur is genuinely Bali's single most popular trek, a pre-dawn climb up an active volcano to watch sunrise break over its caldera lake and the Agung volcano beyond, manageable for most reasonably fit travellers without technical climbing experience.",
+            tourCard: { slug: "mount-batur-sunrise-hike-1-717-masl", title: "Mount Batur Sunrise Hike, 1,717 MASL", description: "A guided pre-dawn hike up Mount Batur for sunrise.", price: "From $68", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-batur-sunrise-hike-1-717-masl/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The pre-dawn start is genuinely early, usually around 2-3am pickup — get what sleep you can beforehand rather than treating this as a leisurely morning activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Batur sunrise trek worth it?", a: "Yes, it's genuinely Bali's single most popular trek, manageable for most reasonably fit travellers without technical climbing experience." },
+        ],
+      };
+
+    case "is-tirta-empul-purification-worth-it-ubud":
+      return {
+        title: "Is the Tirta Empul Purification Ritual Worth It in Ubud?",
+        description: "An honest look at the Tirta Empul sacred water purification ritual, one of Bali's most significant Hindu temples and a genuine participatory ceremony rather than a sightseeing stop.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tirta-empul-sacred-water-purification-ritual-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tirta Empul is one of Bali's most significant Hindu temples, built around a sacred spring, and the purification ritual has you actually participate, moving through a row of spouts in traditional dress, rather than just observing from the side — a genuinely different kind of temple visit from passive sightseeing.",
+            tourCard: { slug: "tirta-empul-sacred-water-purification-ritual-in-ubud", title: "Tirta Empul Sacred Water Purification Ritual", description: "A guided purification ritual at the sacred Tirta Empul spring temple.", price: "From $45", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tirta-empul-sacred-water-purification-ritual-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes and a sarong — you'll get genuinely wet during the purification itself, not just observe it from dry ground.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tirta Empul purification ritual worth it?", a: "Yes, for actually participating in the ritual yourself rather than just observing, a genuinely different kind of temple visit from passive sightseeing." },
+        ],
+      };
+
+    case "is-monkey-forest-worth-it-ubud":
+      return {
+        title: "Is the Ubud Monkey Forest Worth It?",
+        description: "An honest look at the Ubud Monkey Forest, a sacred forest sanctuary home to hundreds of free-roaming long-tailed macaques alongside ancient temples.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789444605/tours/ubud/tours/ubud_1789444604821_0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Monkey Forest is a sacred sanctuary home to several hundred free-roaming long-tailed macaques, with ancient temples and a dense forest canopy woven through the whole site, genuinely close enough to central Ubud to pair with other sightseeing the same day.",
+            tourCard: { slug: "ubud-monkey-forests-temple-waterfall-and-rice-terr", title: "Ubud Monkey Forest, Temple, Waterfall and Rice Terrace", description: "A tour combining the Monkey Forest with a temple, waterfall, and rice terrace.", price: "From $70", duration: "10 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789444605/tours/ubud/tours/ubud_1789444604821_0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep food, sunglasses, and loose items secured — the macaques are genuinely bold and will grab anything accessible.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ubud Monkey Forest worth visiting?", a: "Yes, for genuine free-roaming macaques among ancient temples and dense forest, close enough to central Ubud to pair with other sightseeing." },
+        ],
+      };
+
+    case "is-gunung-kawi-temple-worth-it-ubud":
+      return {
+        title: "Is the Gunung Kawi Temple Worth It near Ubud?",
+        description: "An honest look at Gunung Kawi, a UNESCO-listed ancient temple complex with royal shrines carved directly into river-gorge rock faces.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/gunung-kawi-temple-and-pakerisan-unesco-guided-tour-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gunung Kawi is an 11th-century complex of royal shrines carved directly into the rock faces of a river gorge, part of the UNESCO-listed Pakerisan watershed and genuinely different from the Hindu temple visits most Ubud itineraries otherwise cover.",
+            tourCard: { slug: "gunung-kawi-temple-and-pakerisan-unesco-guided-tour-in-ubud", title: "Gunung Kawi Temple and Pakerisan UNESCO Guided Tour", description: "A guided tour of the ancient Gunung Kawi rock-cut shrines.", price: "From $24", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/gunung-kawi-temple-and-pakerisan-unesco-guided-tour-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "There are genuine steps down into the gorge to reach the shrines — manageable for most fitness levels but not a flat walk.",
+          },
+        ],
+        faqs: [
+          { q: "Is Gunung Kawi worth visiting near Ubud?", a: "Yes, for genuinely ancient royal shrines carved into a river gorge, a UNESCO-listed site distinct from the area's usual temple visits." },
+        ],
+      };
+
+    case "is-yoga-healing-worth-it-ubud":
+      return {
+        title: "Is a Yoga and Healing Session Worth It in Ubud?",
+        description: "An honest look at Ubud's yoga and healing meditation sessions, reflecting the town's well-known reputation as a wellness and spiritual retreat destination.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ubud-yoga-and-healing-meditation/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ubud has a genuine, well-earned reputation as a wellness and spiritual retreat destination, and a standalone yoga and healing meditation session gives a taste of that reputation without committing to a multi-day retreat program, a good lower-key break between days of temple and rice terrace sightseeing.",
+            tourCard: { slug: "ubud-yoga-and-healing-meditation", title: "Ubud Yoga and Healing Meditation", description: "A yoga and healing meditation session in Ubud.", price: "From $34", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ubud-yoga-and-healing-meditation/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good lower-key activity to pair with a rest day between more physically demanding sightseeing or trekking days.",
+          },
+        ],
+        faqs: [
+          { q: "Is a yoga and healing session worth it in Ubud?", a: "Yes, for a genuine taste of the town's well-earned wellness reputation without committing to a multi-day retreat program." },
+        ],
+      };
+
     default:
       return null;
   }

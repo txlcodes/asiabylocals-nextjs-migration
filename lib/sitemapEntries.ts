@@ -1982,6 +1982,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-blue-lagoon-snorkeling-worth-it-ubud', 'is-lempuyang-temple-tour-worth-it-ubud',
     'is-tulamben-wreck-diving-worth-it-ubud', 'is-campuhan-ridge-walk-worth-it-ubud',
     'is-goa-gajah-elephant-cave-worth-it-ubud',
+    'is-mount-batur-sunrise-trek-worth-it-ubud', 'is-tirta-empul-purification-worth-it-ubud',
+    'is-monkey-forest-worth-it-ubud', 'is-gunung-kawi-temple-worth-it-ubud',
+    'is-yoga-healing-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
