@@ -243,6 +243,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bukchon-cooking-class-worth-it-seoul', 'is-suwon-hwaseong-fortress-tour-worth-it-seoul',
     'is-seoraksan-day-trip-worth-it-seoul', 'is-dongdaemun-market-tour-worth-it-seoul',
     'is-perfume-making-workshop-worth-it-seoul',
+    'is-kpop-recording-experience-worth-it-seoul', 'is-taekwondo-lesson-worth-it-seoul',
+    'is-moonlight-rainbow-fountain-show-worth-it-seoul', 'is-gwangjang-market-food-crawl-worth-it-seoul',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),

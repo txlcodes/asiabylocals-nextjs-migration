@@ -1682,6 +1682,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kpop-recording-experience-worth-it-seoul":
+      return {
+        title: "Is the 'Be a K-Pop Star' Studio Recording Experience Worth It in Seoul?",
+        description: "An honest look at the K-pop studio recording experience in Seoul, where you record a track in a real professional studio.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/735a6acd3c7d0a5f204f0723432e2cc29280f51e07f766a6afb5f850c99ad885.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Recording a track in a real professional studio with vocal coaching is a genuinely unique souvenir for K-pop fans, going well beyond a typical K-pop-themed photo stop or dance class.",
+            tourCard: { slug: "be-a-k-pop-star-in-seoul-studio-recording", title: "Be a K-Pop Star in Seoul: Studio Recording Experience", description: "A professional studio recording experience with vocal coaching in Seoul.", price: "From $379", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/735a6acd3c7d0a5f204f0723432e2cc29280f51e07f766a6afb5f850c99ad885.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced well above a casual K-pop activity, so it suits genuine fans wanting a real studio recording to keep, not just a quick photo op.",
+          },
+        ],
+        faqs: [
+          { q: "Is the K-pop studio recording experience worth it in Seoul?", a: "Yes, for genuine fans, recording a real track with vocal coaching is a far more unique souvenir than a typical photo stop." },
+        ],
+      };
+
+    case "is-taekwondo-lesson-worth-it-seoul":
+      return {
+        title: "Is a Private Taekwondo Lesson Worth It in Seoul?",
+        description: "An honest look at the private taekwondo lesson for trainees in Seoul, learning South Korea's national martial art.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9404551919c446328661e7e589718752482387cb8faddc9027c58fa01cb385fc.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private, one-on-one lesson in taekwondo, South Korea's national martial art, gives genuine hands-on instruction rather than just watching a demonstration, and at 1.5 hours it's a solid non-sightseeing activity to break up a Seoul itinerary.",
+            tourCard: { slug: "seoul-private-taekwondo-lesson-for-trainees", title: "Seoul Private Taekwondo Lesson for Trainees", description: "A private, one-on-one taekwondo lesson in Seoul.", price: "From $146", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9404551919c446328661e7e589718752482387cb8faddc9027c58fa01cb385fc.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior martial arts experience is needed — this is genuinely designed for trainees, with instruction starting from the basics.",
+          },
+        ],
+        faqs: [
+          { q: "Is a private taekwondo lesson worth it in Seoul?", a: "Yes, it gives genuine one-on-one instruction in South Korea's national martial art, suited even for complete beginners." },
+        ],
+      };
+
+    case "is-moonlight-rainbow-fountain-show-worth-it-seoul":
+      return {
+        title: "Is the Moonlight Rainbow Fountain Night Show Worth It in Seoul?",
+        description: "An honest look at the Moonlight Rainbow Fountain night show at Banpo Bridge, a free-to-watch evening spectacle on the Han River.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ed8dd51efba2d398135e0339aaae5000d6f071333b517e1ac0f00809e2cc7c9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The world's longest bridge fountain lighting up with colored water jets is a genuinely striking free spectacle, and a guided evening tour around it adds context and a better viewing spot without the hassle of figuring out timing yourself.",
+            tourCard: { slug: "seoul-moonlight-rainbow-fountain-show-night", title: "Seoul Moonlight Rainbow Fountain Show Night Tour", description: "A guided evening tour to see the Moonlight Rainbow Fountain show at Banpo Bridge.", price: "From $286", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ed8dd51efba2d398135e0339aaae5000d6f071333b517e1ac0f00809e2cc7c9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The fountain show runs on a schedule and is seasonal, so a guide who knows the current showtimes saves you from showing up at the wrong hour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Moonlight Rainbow Fountain show worth it in Seoul?", a: "Yes, it's a genuinely striking free spectacle, and a guided tour adds context and better timing than figuring it out yourself." },
+        ],
+      };
+
+    case "is-gwangjang-market-food-crawl-worth-it-seoul":
+      return {
+        title: "Is the Gwangjang Market Food Crawl Worth It in Seoul?",
+        description: "An honest look at the Gwangjang Market food crawl with drinking, a guided tasting tour through Seoul's oldest traditional market.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d961bff343cc430e9b7cda7ac7aa8607b6d3c355561173900473990139133d68.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gwangjang is Seoul's oldest traditional market, and a guided food crawl with drinking pairings makes it easy to try the market's famous bindaetteok and mayak gimbap without the overwhelm of navigating hundreds of stalls on your own.",
+            tourCard: { slug: "seoul-gwangjang-market-food-crawl-drinking", title: "Seoul Gwangjang Market Food Crawl with Drinking", description: "A guided food and drink crawl through Seoul's Gwangjang Market.", price: "From $94", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d961bff343cc430e9b7cda7ac7aa8607b6d3c355561173900473990139133d68.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry but not full — the format is several small tastings across stalls, not one large sit-down meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Gwangjang Market food crawl worth it in Seoul?", a: "Yes, a guide makes it easy to find the market's famous dishes without the overwhelm of navigating hundreds of stalls alone." },
+        ],
+      };
+
     default:
       return null;
   }
