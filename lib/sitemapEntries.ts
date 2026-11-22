@@ -493,6 +493,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bandar-khayran-island-hopping-worth-it-muscat', 'is-amouage-grand-mosque-tour-worth-it-muscat',
     'is-ras-al-jinz-turtle-reserve-worth-it-muscat', 'is-dubai-muscat-road-trip-worth-it',
     'is-barka-nakhal-rustaq-tour-worth-it-muscat',
+    'is-omani-home-dinner-worth-it-muscat', 'is-coral-gardens-snorkeling-worth-it-muscat',
+    'is-jabal-shams-sunrise-tour-worth-it-muscat', 'is-wadi-al-abyad-wakan-tour-worth-it-muscat',
   ].map(slug => ({
     url: `${BASE_URL}/oman/muscat/${slug}`,
     lastModified: new Date(),

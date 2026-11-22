@@ -1210,6 +1210,74 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-omani-home-dinner-worth-it-muscat":
+            return {
+                title: "Is the Omani Home Dinner Experience with Locals Worth It in Muscat?",
+                description: "An honest look at the Omani home dinner experience, eating a meal with local hosts in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2c28fa71451d5194d246ddd9099cc9fcd31bc71d69686adde2ad5fe0e12323cc.png",
+                sections: [
+                    { title: "The Short Answer", content: "Eating a genuine home-cooked meal with local Omani hosts gives real cultural insight that a restaurant simply can't offer, a good evening activity distinct from the usual desert or city sightseeing day.", tourCard: { slug: "muscat-omani-home-dinner-experience-with-locals", title: "Muscat Omani Home Dinner Experience with Locals", description: "A home dinner experience with local Omani hosts in Muscat.", price: "From $111", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2c28fa71451d5194d246ddd9099cc9fcd31bc71d69686adde2ad5fe0e12323cc.png" } },
+                    { title: "Practical Tips", content: "Come with genuine curiosity and questions — the conversation with your hosts is as much the point as the food itself." }
+                ],
+                faqs: [
+                    { q: "Is the Omani home dinner experience worth it in Muscat?", a: "Yes, it gives genuine cultural insight through real conversation with local hosts that a restaurant simply can't offer." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Omani home dinner worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine cultural insight through conversation with local hosts." } }
+                ] },
+            };
+
+        case "is-coral-gardens-snorkeling-worth-it-muscat":
+            return {
+                title: "Is the Coral Gardens Guided Reef Snorkelling Tour Worth It in Muscat?",
+                description: "An honest look at the guided reef snorkelling tour at Muscat's Coral Gardens.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/033b67e6a312e2762314f63e1cc027d2ffc7a2cd6bf7c1df888438d98b6b0e7e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Coral Gardens gives a genuinely accessible, guided introduction to Muscat's reef snorkelling, with a knowledgeable guide pointing out marine life you'd likely miss exploring unguided, at a reasonable 3-hour outing.", tourCard: { slug: "muscat-coral-gardens-guided-reef-snorkelling", title: "Muscat Coral Gardens Guided Reef Snorkelling", description: "A guided reef snorkelling tour at Coral Gardens near Muscat.", price: "From $78", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/033b67e6a312e2762314f63e1cc027d2ffc7a2cd6bf7c1df888438d98b6b0e7e.jpg" } },
+                    { title: "Practical Tips", content: "Bring reef-safe sunscreen, since this is a genuinely protected coral area." }
+                ],
+                faqs: [
+                    { q: "Is the Coral Gardens snorkelling tour worth it in Muscat?", a: "Yes, a knowledgeable guide points out marine life you'd likely miss exploring the reef unguided." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Coral Gardens snorkelling tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a guide points out marine life you'd likely miss exploring unguided." } }
+                ] },
+            };
+
+        case "is-jabal-shams-sunrise-tour-worth-it-muscat":
+            return {
+                title: "Is the Private Jabal Shams Sunrise Tour Worth It from Muscat?",
+                description: "An honest look at the private sunrise tour at dawn to Jabal Shams, Oman's highest peak and the 'Grand Canyon of Arabia'.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/46ecbdcd55153b604103ed4260bdd7fc694bf4aedec029df039740964e404530.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing the sunrise light up Jabal Shams' dramatic canyon walls, often called the Grand Canyon of Arabia, is a genuinely different experience from a midday visit, with far fewer other visitors and much softer light for photos.", tourCard: { slug: "muscat-private-jabal-shams-sunrise-tour-at-dawn", title: "Muscat Private Jabal Shams Sunrise Tour at Dawn", description: "A private dawn sunrise tour to Jabal Shams from Muscat.", price: "From $345", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/46ecbdcd55153b604103ed4260bdd7fc694bf4aedec029df039740964e404530.jpg" } },
+                    { title: "Practical Tips", content: "This requires a genuinely early pre-dawn departure from Muscat, so plan your night before accordingly." }
+                ],
+                faqs: [
+                    { q: "Is the Jabal Shams sunrise tour worth it from Muscat?", a: "Yes, seeing the canyon walls lit at sunrise with far fewer visitors is a genuinely different experience from a midday visit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jabal Shams sunrise tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for softer light and far fewer visitors than a midday visit." } }
+                ] },
+            };
+
+        case "is-wadi-al-abyad-wakan-tour-worth-it-muscat":
+            return {
+                title: "Is the Wadi Al Abyad & Wakan Village Day Tour Worth It from Muscat?",
+                description: "An honest look at the private day tour combining Wadi Al Abyad's white rock canyon with the mountain village of Wakan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3b455deba707ec253a63c692963c7d8e71a509ff0aad505a1bb472ce9617f64c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Wadi Al Abyad's distinctive white rock canyon paired with Wakan, a genuinely remote terraced mountain village still growing pomegranates and roses, gives this day two distinct landscapes well off the more commonly visited Nizwa and Jabal Akhdar circuit.", tourCard: { slug: "muscat-private-wadi-al-abyad-wakan-village-day", title: "Muscat Private Wadi Al Abyad & Wakan Village Day Tour", description: "A private day tour combining Wadi Al Abyad and Wakan village from Muscat.", price: "From $462", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3b455deba707ec253a63c692963c7d8e71a509ff0aad505a1bb472ce9617f64c.jpg" } },
+                    { title: "Practical Tips", content: "The drive up to Wakan involves genuinely steep mountain roads, so this suits travelers comfortable with a long, winding ride." }
+                ],
+                faqs: [
+                    { q: "Is the Wadi Al Abyad and Wakan village tour worth it from Muscat?", a: "Yes, it covers two genuinely distinct landscapes well off the more commonly visited Nizwa and Jabal Akhdar circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Wadi Al Abyad and Wakan tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for two genuinely distinct landscapes off the main tourist circuit." } }
+                ] },
+            };
+
         default:
             return null;
     }
