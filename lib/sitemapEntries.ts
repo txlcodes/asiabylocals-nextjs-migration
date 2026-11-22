@@ -1658,7 +1658,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-exclusive-helicopter-tour-worth-it-abu-dhabi',
     'is-desert-safari-worth-it-abu-dhabi', 'is-qasr-al-watan-city-tour-worth-it-abu-dhabi',
     'is-ferrari-world-worth-it-abu-dhabi', 'is-louvre-abu-dhabi-kayak-tour-worth-it',
-    'is-yas-island-speedboat-tour-worth-it-abu-dhabi'].map(slug => ({
+    'is-yas-island-speedboat-tour-worth-it-abu-dhabi',
+    'is-warner-bros-world-worth-it-abu-dhabi', 'is-seaworld-worth-it-abu-dhabi',
+    'is-dune-dinner-worth-it-abu-dhabi', 'is-padi-certification-worth-it-abu-dhabi'].map(slug => ({
     url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

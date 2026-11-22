@@ -2185,6 +2185,8 @@ export const ABU_DHABI_INFO_SLUGS = [
   'is-desert-safari-worth-it-abu-dhabi', 'is-qasr-al-watan-city-tour-worth-it-abu-dhabi',
   'is-ferrari-world-worth-it-abu-dhabi', 'is-louvre-abu-dhabi-kayak-tour-worth-it',
   'is-yas-island-speedboat-tour-worth-it-abu-dhabi',
+  'is-warner-bros-world-worth-it-abu-dhabi', 'is-seaworld-worth-it-abu-dhabi',
+  'is-dune-dinner-worth-it-abu-dhabi', 'is-padi-certification-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)

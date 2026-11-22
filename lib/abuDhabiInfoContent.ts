@@ -783,6 +783,90 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-warner-bros-world-worth-it-abu-dhabi":
+      return {
+        title: "Is Warner Bros World Worth It in Abu Dhabi?",
+        description: "An honest look at Warner Bros World Abu Dhabi, an indoor theme park based on DC and Looney Tunes characters.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1433698/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Warner Bros World is a genuinely large indoor theme park, meaning you're fully air-conditioned regardless of outside heat, and the DC and Looney Tunes-themed rides give families a solid full day distinct from Yas Island's other outdoor attractions.",
+            tourCard: { slug: "abu-dhabi-warnerbros-world-entry-ticket-private-su", title: "Abu Dhabi Warner Bros World Entry Ticket", description: "An entry ticket to Warner Bros World Abu Dhabi.", price: "From $952", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1433698/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick specifically for families with kids who recognize the DC and Looney Tunes characters, since the theming is a major part of the appeal.",
+          },
+        ],
+        faqs: [
+          { q: "Is Warner Bros World worth it in Abu Dhabi?", a: "Yes, as a fully indoor, air-conditioned theme park, it's a solid family day regardless of outside heat." },
+        ],
+      };
+
+    case "is-seaworld-worth-it-abu-dhabi":
+      return {
+        title: "Is SeaWorld Abu Dhabi Worth It?",
+        description: "An honest look at SeaWorld Abu Dhabi, a marine life park on Yas Island distinct from Yas Island's thrill-ride parks.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-962092/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "SeaWorld Abu Dhabi focuses on marine life exhibits and education rather than thrill rides, giving a genuinely different pace from Ferrari World or Yas Waterworld on the same island, a good fit for families wanting a calmer day.",
+            tourCard: { slug: "seaworld-abu-dhabi-general-admission-optional-add", title: "SeaWorld Abu Dhabi General Admission", description: "General admission to SeaWorld Abu Dhabi on Yas Island.", price: "From $137", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-962092/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pairing with another Yas Island park on the same trip, since it's a calmer, less physically intense day than the thrill-ride parks.",
+          },
+        ],
+        faqs: [
+          { q: "Is SeaWorld worth it in Abu Dhabi?", a: "Yes, it's a genuinely calmer, marine-life-focused day, a good contrast to Yas Island's thrill-ride parks." },
+        ],
+      };
+
+    case "is-dune-dinner-worth-it-abu-dhabi":
+      return {
+        title: "Is the Private Dune Dinner in the Desert Worth It in Abu Dhabi?",
+        description: "An honest look at the private dune dinner experience in the Abu Dhabi desert, a romantic splurge setting.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1493694/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private dinner set up on an isolated dune, away from the bustle of a group desert safari's BBQ camp, is a genuine splurge experience best suited to a special occasion like a proposal or anniversary rather than a casual meal.",
+            tourCard: { slug: "abu-dhabi-private-dune-dinner-in-the-desert", title: "Abu Dhabi Private Dune Dinner in the Desert", description: "A private dinner setup on an isolated desert dune near Abu Dhabi.", price: "From $1151", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1493694/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a genuine premium splurge, so it's best reserved for a special occasion rather than a routine dinner out.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private dune dinner worth it in Abu Dhabi?", a: "Yes, as a genuine splurge for a special occasion, the isolated private setting justifies the premium price." },
+        ],
+      };
+
+    case "is-padi-certification-worth-it-abu-dhabi":
+      return {
+        title: "Is the PADI Advanced Open Water Course Worth It in Abu Dhabi?",
+        description: "An honest look at the PADI Advanced Open Water scuba certification course in Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-522694/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuine certification course for already-certified divers wanting to advance their skills and dive depth limits, a real multi-day investment rather than a casual discover-scuba outing, worth it specifically for divers planning to keep diving at other destinations.",
+            tourCard: { slug: "abu-dhabi-padi-advanced-open-water-course", title: "Abu Dhabi PADI Advanced Open Water Course", description: "A 2-day PADI Advanced Open Water scuba certification course in Abu Dhabi.", price: "From $600", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-522694/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This requires an existing Open Water certification — confirm your current certification level with the operator before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the PADI Advanced Open Water course worth it in Abu Dhabi?", a: "Yes, for already-certified divers wanting to advance their skills and depth limits for future diving elsewhere." },
+        ],
+      };
+
     default:
       return null;
   }
