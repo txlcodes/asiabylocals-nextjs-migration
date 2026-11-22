@@ -1680,6 +1680,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-turkish-cooking-class-worth-it-istanbul":
+      return {
+        title: "Is a Turkish Cuisine Cooking Class Worth It in Istanbul?",
+        description: "An honest look at the Turkish cuisine cooking class in Istanbul, a hands-on lesson in traditional dishes.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e27e484ce363c12bd3e9a9a9bb83c8e2a2ad8dbb4e32a05f65a640e01475799.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A hands-on 2-hour class teaching traditional Turkish dishes is a solid non-sightseeing activity to break up a busy Istanbul itinerary, and it gives you dishes you can actually recreate at home afterward.",
+            tourCard: { slug: "istanbul-turkish-cuisine-cooking-class", title: "Istanbul Turkish Cuisine Cooking Class", description: "A hands-on Turkish cuisine cooking class in Istanbul.", price: "From $211", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e27e484ce363c12bd3e9a9a9bb83c8e2a2ad8dbb4e32a05f65a640e01475799.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity to pair with a day of heavier sightseeing around the Old City.",
+          },
+        ],
+        faqs: [
+          { q: "Is a Turkish cooking class worth it in Istanbul?", a: "Yes, it's a solid non-sightseeing activity that teaches dishes you can actually recreate at home." },
+        ],
+      };
+
+    case "is-turkish-bath-experience-worth-it-istanbul":
+      return {
+        title: "Is the Traditional Turkish Bath Experience Worth It in Istanbul?",
+        description: "An honest look at the traditional Turkish hammam bath experience in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a1de5673a98c8c45423de49c972b2ca571fe7735bfe8f42047d693ed04c5206.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A traditional hammam with a scrub and massage is a genuinely relaxing way to break up a day of walking between Istanbul's major sights, and the ritual itself is a real piece of Ottoman-era culture, not just a spa treatment.",
+            tourCard: { slug: "istanbul-traditional-turkish-bath-experience-with", title: "Istanbul Traditional Turkish Bath Experience", description: "A traditional Turkish hammam bath experience in Istanbul.", price: "From $95", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a1de5673a98c8c45423de49c972b2ca571fe7735bfe8f42047d693ed04c5206.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for later in the day after heavy sightseeing — it's a genuinely good way to recover from a long day of walking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the traditional Turkish bath experience worth it in Istanbul?", a: "Yes, it's a genuine piece of Ottoman-era culture and a relaxing way to recover from a day of sightseeing." },
+        ],
+      };
+
+    case "is-grand-bazaar-shopping-tour-worth-it-istanbul":
+      return {
+        title: "Is the Private Grand Bazaar Shopping Tour Worth It in Istanbul?",
+        description: "An honest look at the private Grand Bazaar shopping tour, including carpet shopping guidance, in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09e5af000b61afab317a5e87bc9d9c28f47e0a4575a4cc3eb8408c4f1c53871c.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Grand Bazaar's thousands of stalls can be genuinely overwhelming, and a guide who knows which vendors are reputable and how to navigate carpet or jewelry negotiation saves real money and hassle compared to wandering in unguided.",
+            tourCard: { slug: "istanbul-private-grand-bazaar-shopping-tour-with", title: "Istanbul Private Grand Bazaar Shopping Tour", description: "A private guided shopping tour through Istanbul's Grand Bazaar.", price: "From $104", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09e5af000b61afab317a5e87bc9d9c28f47e0a4575a4cc3eb8408c4f1c53871c.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good guide's main value here is steering you away from tourist-trap vendors and helping with price negotiation.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Grand Bazaar shopping tour worth it in Istanbul?", a: "Yes, a knowledgeable guide saves real money and hassle navigating the bazaar's thousands of stalls and negotiating prices." },
+        ],
+      };
+
+    case "is-magnificent-century-tour-worth-it-istanbul":
+      return {
+        title: "Is the Magnificent Century TV Locations Tour Worth It in Istanbul?",
+        description: "An honest look at the Magnificent Century TV filming locations tour, visiting spots from the globally popular Ottoman-era drama.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3df12d0102dcf2f56d2de9b54859fe0a2fa49077ef8b801bfdff015e563b6c6.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Magnificent Century is a globally popular Ottoman-era drama with real fans across many countries, and visiting its actual filming locations gives those fans a genuinely different angle on Istanbul's history than a standard sightseeing tour.",
+            tourCard: { slug: "istanbul-magnificent-century-tv-locations-at", title: "Istanbul Magnificent Century TV Locations Tour", description: "A tour of filming locations from the Magnificent Century TV drama in Istanbul.", price: "From $111", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3df12d0102dcf2f56d2de9b54859fe0a2fa49077ef8b801bfdff015e563b6c6.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is aimed specifically at fans of the show — if you haven't watched it, a standard Old City tour will cover the same core historic sites better.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Magnificent Century TV locations tour worth it in Istanbul?", a: "Yes, for fans of the globally popular drama, it offers a genuinely different angle on Istanbul's Ottoman-era history." },
+        ],
+      };
+
     default:
       return null;
   }
