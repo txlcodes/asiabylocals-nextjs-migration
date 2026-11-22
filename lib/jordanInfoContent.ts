@@ -1365,6 +1365,23 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-sand-art-experience-worth-it-petra":
+            return {
+                title: "Is the Petra Day Trip with Sand Art Experience Worth It?",
+                description: "An honest look at the Petra day trip from Amman that includes a sand art bottle-making activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c426a7b57ab9b22bd2efbe34637e7fdeff2aaf5a1d77636d49990f7d6b45f4d0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Adding a hands-on sand art bottle-making activity to a standard Petra day trip gives a genuine creative souvenir to take home, a nice add-on for families or travelers who want more than just ruins and photos.", tourCard: { slug: "from-amman-private-petra-day-trip-sand-art", title: "From Amman: Private Petra Day Trip with Sand Art", description: "A private Petra day trip from Amman including a sand art bottle-making activity.", price: "From $246", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c426a7b57ab9b22bd2efbe34637e7fdeff2aaf5a1d77636d49990f7d6b45f4d0.jpg" } },
+                    { title: "Practical Tips", content: "A good pick specifically for families with kids wanting a hands-on activity alongside the historic sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Petra sand art day trip worth it?", a: "Yes, the hands-on bottle-making activity gives a genuine creative souvenir, a nice add-on for families." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Petra sand art day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the hands-on bottle-making activity gives a genuine creative souvenir." } },
+                ] },
+            };
+
         default:
             return null;
     }

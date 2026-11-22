@@ -541,6 +541,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-petra-hidden-route-tour-petra', 'is-petra-museum-tour-worth-it-petra',
     'best-petra-beyond-the-ruins-experience-petra',
     'is-shobak-castle-tour-worth-it-petra',
+    'is-sand-art-experience-worth-it-petra',
   ], 'jordan', 'petra');
   const ammanInfoPages = mapInfoSlugs([
     'best-dead-sea-day-trip-tour-amman', 'best-jerash-day-trip-tour-amman',
