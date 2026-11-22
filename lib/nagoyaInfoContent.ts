@@ -1188,6 +1188,174 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "nagoya-toyota-commemorative-museum-guided-tour":
+      return {
+        title: "Nagoya Toyota Commemorative Museum Guided Tour",
+        description: "A guided tour of the Toyota Commemorative Museum of Industry and Technology, tracing the company's journey from automatic looms to cars.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-toyota-commemorative-museum-guided-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Housed in the group's original red-brick mill, with looms still running, a guide makes the through-line from automatic loom to hydrogen car genuinely coherent rather than a disconnected set of exhibits.",
+            tourCard: { slug: "nagoya-toyota-commemorative-museum-guided-tour", title: "Nagoya Toyota Commemorative Museum Guided Tour", description: "A guided tour of the Toyota Commemorative Museum of Industry and Technology in Nagoya.", price: "From $113", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-toyota-commemorative-museum-guided-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Live loom demonstrations run on a schedule, so ask your guide to time the visit around one if you want to see the machinery in action.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Toyota Commemorative Museum guided tour worth it in Nagoya?", a: "Yes, a guide makes the company's loom-to-car history genuinely coherent, rather than a disconnected set of exhibits." },
+        ],
+      };
+
+    case "nagoya-tokugawa-art-museum-guided-tour":
+      return {
+        title: "Nagoya Tokugawa Art Museum Guided Tour",
+        description: "A guided tour of the Tokugawa Art Museum, holding the Owari Tokugawa family's own possessions kept together for four centuries.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-tokugawa-art-museum-guided-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Owari Tokugawa family's armour, tea utensils, Noh costumes, and wedding trousseaus have been kept together for four centuries, and a guide explains how a warrior class transformed into a class of patrons, context that's easy to miss browsing the galleries alone.",
+            tourCard: { slug: "nagoya-tokugawa-art-museum-guided-tour", title: "Nagoya Tokugawa Art Museum Guided Tour", description: "A guided tour of the Tokugawa Art Museum in Nagoya.", price: "From $129", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-tokugawa-art-museum-guided-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair this with the nearby Tokugawa Garden for a fuller sense of the family's legacy beyond the museum collection alone.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tokugawa Art Museum guided tour worth it in Nagoya?", a: "Yes, a guide explains how a warrior class became a class of patrons, context easy to miss browsing the galleries alone." },
+        ],
+      };
+
+    case "nagoya-osu-maid-cafe-experience":
+      return {
+        title: "Nagoya Osu Maid Cafe Experience",
+        description: "A priority-entry maid cafe experience in Osu, Nagoya's shopping and anime district.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-osu-maid-cafe-experience/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A maid cafe is a genuinely distinctive piece of Japanese pop culture, and priority entry removes the hassle of a long wait, making this an easy, affordable addition to a visit to Osu's shopping arcades and anime shops.",
+            tourCard: { slug: "nagoya-osu-maid-cafe-experience", title: "Nagoya Osu Maid Cafe Experience", description: "A priority-entry maid cafe experience in Nagoya's Osu district.", price: "From $33", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-osu-maid-cafe-experience/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Photography rules are typically strict inside — confirm what's allowed before you go in to avoid an awkward moment.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Osu maid cafe experience worth it in Nagoya?", a: "Yes, it's an affordable, easy way to try a genuinely distinctive piece of Japanese pop culture while exploring Osu." },
+        ],
+      };
+
+    case "nagoya-private-koto-lesson-with-musician":
+      return {
+        title: "Nagoya Private Koto Lesson with a Professional Musician",
+        description: "A private koto lesson with a professional musician in a tatami room in Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-private-koto-lesson-with-musician/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning the koto, a traditional 13-stringed Japanese instrument, one-on-one from a professional musician in a genuine tatami room setting gives real hands-on insight into an instrument most visitors only ever hear, never play.",
+            tourCard: { slug: "nagoya-private-koto-lesson-with-musician", title: "Nagoya Private Koto Lesson with Musician", description: "A private koto lesson with a professional musician in Nagoya.", price: "From $52", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-private-koto-lesson-with-musician/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No musical background is needed — the lesson starts from the absolute basics of posture and plucking technique.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private koto lesson worth it in Nagoya?", a: "Yes, it gives genuine hands-on insight into an instrument most visitors only ever hear, never play themselves." },
+        ],
+      };
+
+    case "nagoya-private-kyudo-archery-lesson-toyoake-dojo":
+      return {
+        title: "Nagoya Private Kyudo Archery Lesson at a Working Dojo in Toyoake",
+        description: "A private kyudo (Japanese archery) lesson at a genuine working dojo in Toyoake, near Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-private-kyudo-archery-lesson-toyoake-dojo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Training at a genuine working dojo, rather than a tourist-facing setup, gives real insight into kyudo as a meditative discipline, with proper instruction on form and breathing from the ground up.",
+            tourCard: { slug: "nagoya-private-kyudo-archery-lesson-toyoake-dojo", title: "Nagoya Private Kyudo Archery Lesson at Toyoake Dojo", description: "A private kyudo archery lesson at a working dojo in Toyoake, near Nagoya.", price: "From $260", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-private-kyudo-archery-lesson-toyoake-dojo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable, loose clothing you can move in — this is genuine physical practice at a real dojo, not a casual demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the kyudo archery lesson worth it in Nagoya?", a: "Yes, training at a genuine working dojo gives real insight into kyudo as a meditative discipline, not a tourist setup." },
+        ],
+      };
+
+    case "nagoya-shinto-priest-shrine-maiden-experience":
+      return {
+        title: "Nagoya Shinto Priest or Shrine Maiden Experience at Wakaoe Shrine",
+        description: "A hands-on experience dressing and performing as a Shinto priest or shrine maiden (miko) at Wakaoe Shrine in Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-shinto-priest-shrine-maiden-experience/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dressing in genuine Shinto priest or shrine maiden robes at an active shrine, rather than a studio photo set, gives this experience real spiritual and cultural context beyond a standard costume rental.",
+            tourCard: { slug: "nagoya-shinto-priest-shrine-maiden-experience", title: "Nagoya Shinto Priest or Shrine Maiden Experience", description: "A Shinto priest or shrine maiden experience at Wakaoe Shrine in Nagoya.", price: "From $52", duration: "105 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-shinto-priest-shrine-maiden-experience/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach this with genuine respect for the active shrine setting, not purely as a costume photo-op.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shinto priest or shrine maiden experience worth it in Nagoya?", a: "Yes, the active shrine setting gives it real spiritual and cultural context beyond a standard costume rental." },
+        ],
+      };
+
+    case "nagoya-shimenawa-wreath-making-workshop":
+      return {
+        title: "Nagoya Shimenawa Wreath Making Workshop",
+        description: "A hands-on workshop making a traditional shimenawa, the sacred rope wreath used in Shinto ritual and New Year decoration.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-shimenawa-wreath-making-workshop/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shimenawa rope wreaths mark sacred spaces in Shinto practice and are a familiar New Year decoration across Japan, and making your own by hand gives genuine insight into a craft most visitors only see hanging at shrine entrances.",
+            tourCard: { slug: "nagoya-shimenawa-wreath-making-workshop", title: "Nagoya Shimenawa Wreath Making Workshop", description: "A hands-on shimenawa wreath making workshop in Nagoya.", price: "From $52", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-shimenawa-wreath-making-workshop/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, affordable activity to pair with a shrine visit, since you'll immediately recognize shimenawa at the entrance afterward.",
+          },
+        ],
+        faqs: [
+          { q: "Is the shimenawa wreath making workshop worth it in Nagoya?", a: "Yes, it gives genuine insight into a craft most visitors only ever see hanging at shrine entrances." },
+        ],
+      };
+
+    case "nagoya-sword-museum-admission-ticket":
+      return {
+        title: "Nagoya Touken Sword Museum Admission Ticket",
+        description: "An admission ticket to the Nagoya Touken sword museum, which can display up to two hundred Japanese blades at once.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-sword-museum-admission-ticket/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing up to two hundred genuine Japanese swords on display at once, at an admission price under twelve dollars, is a genuinely good value stop for anyone interested in traditional Japanese craftsmanship and metalwork.",
+            tourCard: { slug: "nagoya-sword-museum-admission-ticket", title: "Nagoya Touken Sword Museum Admission Ticket", description: "An admission ticket to the Nagoya Touken sword museum.", price: "From $15", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/nagoya-sword-museum-admission-ticket/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, affordable add-on to pair with the nearby Atsuta Shrine or other central Nagoya sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nagoya sword museum worth it?", a: "Yes, at a low admission price, seeing up to two hundred genuine swords on display is genuinely good value." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1540,6 +1540,10 @@ export const NAGOYA_INFO_SLUGS = [
   'is-miso-brewery-tour-worth-it-nagoya', 'is-inuyama-castle-day-trip-worth-it-nagoya',
   'is-atsuta-shrine-tour-worth-it-nagoya', 'is-ise-jingu-day-trip-worth-it-nagoya',
   'is-legoland-japan-worth-it-nagoya',
+  'nagoya-toyota-commemorative-museum-guided-tour', 'nagoya-tokugawa-art-museum-guided-tour',
+  'nagoya-osu-maid-cafe-experience', 'nagoya-private-koto-lesson-with-musician',
+  'nagoya-private-kyudo-archery-lesson-toyoake-dojo', 'nagoya-shinto-priest-shrine-maiden-experience',
+  'nagoya-shimenawa-wreath-making-workshop', 'nagoya-sword-museum-admission-ticket',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.
