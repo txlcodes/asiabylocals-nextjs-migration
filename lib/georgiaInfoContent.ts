@@ -1351,6 +1351,114 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-svaneti-tour-worth-it-kutaisi":
+            return {
+                title: "Is the Svaneti Mountains Tour Worth It from Kutaisi?",
+                seoTitle: "Svaneti Tour from Kutaisi 2026 | Honest Review",
+                description: "An honest look at the 3-day Svaneti mountains tour from Kutaisi, reaching Georgia's dramatic high-altitude Caucasus region of medieval stone towers.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a6892925deea91b1a64f31c8a4f9786ce191c1211a9c316e1ca915d280754579.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Svaneti is Georgia's most dramatic high-altitude Caucasus region, famous for medieval defensive stone towers in villages like Mestia and Ushguli, and this 3-day trip from Kutaisi is a serious commitment but reaches scenery genuinely unlike anywhere else in the country.", tourCard: { slug: "kutaisi-3-day-svaneti-mountains-tour-with", title: "Kutaisi: 3-Day Svaneti Mountains Tour", description: "A 3-day tour to the Svaneti mountain region from Kutaisi.", price: "From $767", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a6892925deea91b1a64f31c8a4f9786ce191c1211a9c316e1ca915d280754579.jpg" } },
+                    { title: "Practical Tips", content: "Mountain roads into Svaneti can be affected by weather and seasonal closures — check conditions before booking, especially outside summer." },
+                ],
+                faqs: [
+                    { q: "Is the Svaneti tour worth it from Kutaisi?", a: "Yes, for scenery genuinely unlike anywhere else in Georgia, with medieval stone towers in high-altitude mountain villages, though it's a serious 3-day commitment." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Svaneti tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Georgia's most dramatic high-altitude Caucasus scenery and medieval stone towers." } },
+                ] },
+            };
+
+        case "is-gelati-motsameta-bagrati-tour-worth-it-kutaisi":
+            return {
+                title: "Is the Gelati, Motsameta and Bagrati Monastery Tour Worth It?",
+                seoTitle: "Gelati Motsameta Bagrati Tour 2026 | Honest Review",
+                description: "An honest look at the Gelati, Motsameta, and Bagrati cathedral tour, covering Kutaisi's three most significant religious and UNESCO heritage sites.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/196f3e4c49dadde26da394fd5ba679efbeb5dbeffb7c70e94038173385803ace.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Gelati Monastery is a UNESCO World Heritage site and one of Georgia's most significant medieval monasteries, and pairing it with Motsameta's dramatic gorge-edge setting and Bagrati Cathedral in the city center covers Kutaisi's three biggest religious heritage sites in one efficient day.", tourCard: { slug: "gelati-monastery-motsameta-monastery-bagrati", title: "Gelati Monastery, Motsameta Monastery, Bagrati Cathedral", description: "A tour covering Kutaisi's three major religious heritage sites.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/196f3e4c49dadde26da394fd5ba679efbeb5dbeffb7c70e94038173385803ace.jpg" } },
+                    { title: "Practical Tips", content: "Dress modestly for all three sites — they're active religious sites, not just historical monuments." },
+                ],
+                faqs: [
+                    { q: "Is the Gelati, Motsameta and Bagrati tour worth it?", a: "Yes, for efficiently covering Kutaisi's three biggest religious heritage sites, including the UNESCO-listed Gelati Monastery, in one day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gelati, Motsameta and Bagrati tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for efficiently covering Kutaisi's three biggest religious heritage sites in one day." } },
+                ] },
+            };
+
+        case "is-martvili-okatse-prometheus-combo-worth-it-kutaisi":
+            return {
+                title: "Is the Martvili, Okatse and Prometheus Cave Combo Worth It?",
+                seoTitle: "Martvili Okatse Prometheus Combo 2026 | Honest Review",
+                description: "An honest look at the combined Martvili Canyon, Okatse Canyon, and Prometheus Cave day trip, covering three of Kutaisi's biggest natural attractions in one day.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c44e58a46597b667525d7ba4042953b3d557ed69138e8ada1b86d3aab4d57a0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Rather than booking Martvili Canyon's boat ride, Okatse Canyon's cliffside walkway, and Prometheus Cave's underground chambers as three separate trips, this combo covers all three natural attractions in a single long day, a genuinely efficient way to see Kutaisi's best nature sites.", tourCard: { slug: "from-kutaisi-martvili-okatse-canyons-prometheus", title: "From Kutaisi: Martvili, Okatse Canyons & Prometheus Cave", description: "A combined day trip to Martvili Canyon, Okatse Canyon, and Prometheus Cave.", price: "From $48", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c44e58a46597b667525d7ba4042953b3d557ed69138e8ada1b86d3aab4d57a0.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day covering three separate sites — comfortable shoes matter since both canyons involve real walking." },
+                ],
+                faqs: [
+                    { q: "Is the Martvili, Okatse and Prometheus combo worth it?", a: "Yes, for efficiently covering three of Kutaisi's biggest natural attractions in a single day instead of three separate trips." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Martvili, Okatse and Prometheus Cave combo worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for efficiently covering three of Kutaisi's biggest natural attractions in one day." } },
+                ] },
+            };
+
+        case "is-turkey-sumela-day-trip-worth-it-batumi":
+            return {
+                title: "Is the Turkey and Sumela Monastery Day Trip Worth It from Batumi?",
+                seoTitle: "Sumela Monastery from Batumi 2026 | Honest Review",
+                description: "An honest look at the 2-day Turkey and Sumela Monastery tour from Batumi, crossing into Turkey to reach a dramatic cliffside monastery near Trabzon.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1952f9d328bccea499e9ed5d2457c3a920a933fcc676c15208a917c85d4b5812.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Sumela Monastery is a dramatic Greek Orthodox monastery built into a cliff face near Trabzon, Turkey, and this 2-day trip crosses an international border to reach it, a serious commitment but a genuinely unique way to add a second country to a Georgia trip.", tourCard: { slug: "2-day-tour-from-batumi-to-turkey-sumela-and", title: "2-Day Tour from Batumi to Turkey: Sumela and More", description: "A 2-day tour crossing into Turkey to visit Sumela Monastery.", price: "From $1300", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1952f9d328bccea499e9ed5d2457c3a920a933fcc676c15208a917c85d4b5812.jpeg" } },
+                    { title: "Practical Tips", content: "Bring your passport and check Turkey's entry requirements for your nationality well ahead — this is a genuine international border crossing, not a short local excursion." },
+                ],
+                faqs: [
+                    { q: "Is the Sumela Monastery day trip worth it from Batumi?", a: "Yes, for travelers wanting to add Turkey to their Georgia trip, reaching a genuinely unique cliffside monastery, though it's a serious 2-day commitment with a border crossing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sumela Monastery tour worth it from Batumi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely unique cliffside monastery and a chance to add Turkey to a Georgia trip." } },
+                ] },
+            };
+
+        case "is-mtirala-national-park-worth-it-batumi":
+            return {
+                title: "Is Mtirala National Park Worth It from Batumi?",
+                seoTitle: "Mtirala National Park Batumi 2026 | Honest Review",
+                description: "An honest look at Mtirala National Park, one of Georgia's rainiest and greenest protected areas, a short trip from Batumi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33e38751b9aed9ba56cae461f52ddf637bc4d37ed22b584f82fc201341774f44.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mtirala is one of Georgia's rainiest and lushest national parks, genuinely close to Batumi, with hiking trails through dense Colchic rainforest and optional ATV, buggy, or horse riding add-ons for a more active day.", tourCard: { slug: "batumi-mtirala-park-with-optional-atv-buggy-horse", title: "Batumi: Mtirala Park with Optional ATV, Buggy, Horse", description: "A visit to Mtirala National Park with optional ATV, buggy, or horse riding.", price: "From $26", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/33e38751b9aed9ba56cae461f52ddf637bc4d37ed22b584f82fc201341774f44.jpg" } },
+                    { title: "Practical Tips", content: "The park genuinely lives up to its reputation for rain — pack accordingly even on days that start dry in Batumi." },
+                ],
+                faqs: [
+                    { q: "Is Mtirala National Park worth visiting from Batumi?", a: "Yes, for genuinely lush rainforest scenery close to the city, with optional ATV, buggy, or horse riding for a more active day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Mtirala National Park worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely lush rainforest scenery close to Batumi." } },
+                ] },
+            };
+
+        case "is-botanical-garden-tour-worth-it-batumi":
+            return {
+                title: "Is the Batumi Botanical Garden Tour Worth It?",
+                seoTitle: "Batumi Botanical Garden 2026 | Honest Review",
+                description: "An honest look at the Batumi Botanical Garden tour, one of the largest and most diverse botanical collections in the former Soviet region.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d1424e664102801.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Batumi's Botanical Garden is genuinely one of the largest and most diverse plant collections in the former Soviet region, spread across a dramatic coastal hillside with Black Sea views, a relaxed nature walk distinct from the city's beach and nightlife scene.", tourCard: { slug: "batumi-exploring-botanical-garden-family-wine", title: "Batumi: Exploring Botanical Garden with Family Wine", description: "A tour of the Batumi Botanical Garden.", price: "From $366", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d1424e664102801.jpeg" } },
+                    { title: "Practical Tips", content: "The garden covers real walking distance along a hillside — wear comfortable shoes and budget at least a couple of hours to see a meaningful portion." },
+                ],
+                faqs: [
+                    { q: "Is the Batumi Botanical Garden worth visiting?", a: "Yes, it's genuinely one of the largest plant collections in the former Soviet region, with a relaxed coastal hillside setting distinct from the city's beach scene." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Batumi Botanical Garden worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed, genuinely large and diverse botanical collection with coastal views." } },
+                ] },
+            };
+
         case "is-racha-wine-tour-worth-it-kutaisi":
             return {
                 title: "Is the Racha Wine Tasting Day Trip Worth It from Kutaisi?",
