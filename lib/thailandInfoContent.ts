@@ -1567,6 +1567,78 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-damnoen-saduak-floating-market-worth-it-bangkok":
+            return {
+                title: "Is the Damnoen Saduak Floating Market and Maeklong Railway Market Worth It?",
+                seoTitle: "Damnoen Saduak Floating Market 2026 | Honest Review",
+                description: "An honest look at the Damnoen Saduak floating market and Maeklong railway market combo, two of Thailand's most distinctive, genuinely unusual markets paired in one day.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1780313199/tours/bangkok/f2he9kiq2rzt4gxoolah.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Damnoen Saduak is Thailand's best-known floating market, with vendors selling food and goods from boats on narrow canals, and pairing it with Maeklong's railway market, where stalls are packed right up to the active train tracks and cleared seconds before each train passes, covers two of the country's most genuinely unusual markets in a single day.", tourCard: { slug: "damnoen-saduak-market-and-maeklong-railway-market", title: "Damnoen Saduak Market and Maeklong Railway Market", description: "A combined tour of the Damnoen Saduak floating market and Maeklong railway market.", price: "From $25", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1780313199/tours/bangkok/f2he9kiq2rzt4gxoolah.jpg" } },
+                    { title: "Practical Tips", content: "Check the Maeklong train schedule with your guide — the market's signature moment is watching stalls retract seconds before a train passes, so timing matters." }
+                ],
+                faqs: [
+                    { q: "Is the Damnoen Saduak and Maeklong market tour worth it?", a: "Yes, for covering two of Thailand's most genuinely unusual markets, a floating canal market and a market built onto active train tracks, in a single day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Damnoen Saduak floating market worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for two of Thailand's most genuinely unusual markets covered in a single day." } }
+                ] },
+            };
+
+        case "is-jim-thompson-house-worth-it-bangkok":
+            return {
+                title: "Is the Jim Thompson House Worth It in Bangkok?",
+                seoTitle: "Jim Thompson House 2026 | Honest Review",
+                description: "An honest look at the Jim Thompson House museum, the teak home of the American businessman credited with reviving Thailand's silk industry.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jim-thompson-house-museum-ticket-and-tour-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Jim Thompson was an American businessman credited with reviving Thailand's silk industry after WWII, and his traditional teak house, now a museum filled with his Southeast Asian art collection, gives a genuinely different, quieter cultural stop than Bangkok's major temples.", tourCard: { slug: "jim-thompson-house-museum-ticket-and-tour-in-bangkok", title: "Jim Thompson House Museum Ticket and Tour", description: "A guided tour of the Jim Thompson House museum.", price: "From $10", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/jim-thompson-house-museum-ticket-and-tour-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "At 45 minutes this is a quick stop — a good add-on alongside shopping or another half-day activity in the same area." }
+                ],
+                faqs: [
+                    { q: "Is the Jim Thompson House worth visiting?", a: "Yes, for a genuinely quieter, different cultural stop than Bangkok's major temples, with real history behind Thailand's silk industry." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jim Thompson House worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quick, genuinely different cultural stop with real history behind Thailand's silk industry." } }
+                ] },
+            };
+
+        case "is-muay-thai-match-worth-it-bangkok":
+            return {
+                title: "Is a Muay Thai Boxing Match Worth It in Bangkok?",
+                seoTitle: "Bangkok Muay Thai Match 2026 | Honest Review",
+                description: "An honest look at a live Muay Thai boxing match at Rajadamnern Stadium, one of Thailand's two most historic and prestigious boxing venues.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1780313141/tours/bangkok/u8hojtx2jvbck09y2rsb.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Rajadamnern is one of Thailand's two most historic and prestigious Muay Thai stadiums, and watching a live match here, with the pre-fight Wai Kru ritual and the crowd's genuine energy, gives a real feel for the sport's cultural weight rather than just the fighting itself.", tourCard: { slug: "muay-thai-boxing-tickets-at-rajadamnern-stadium", title: "Muay Thai Boxing Tickets at Rajadamnern Stadium", description: "Tickets to a live Muay Thai match at Rajadamnern Stadium.", price: "From $58", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1780313141/tours/bangkok/u8hojtx2jvbck09y2rsb.jpg" } },
+                    { title: "Practical Tips", content: "Arrive early for the undercard fights and the pre-fight Wai Kru ritual — the full evening's atmosphere builds gradually rather than starting with the main event." }
+                ],
+                faqs: [
+                    { q: "Is a Muay Thai match worth it in Bangkok?", a: "Yes, for the genuine cultural weight and crowd energy of watching live at one of Thailand's two most historic stadiums." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a Muay Thai match worth it in Bangkok?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the genuine cultural weight and atmosphere of watching live at a historic stadium." } }
+                ] },
+            };
+
+        case "is-wat-arun-canal-tour-worth-it-bangkok":
+            return {
+                title: "Is the Longtail Boat Canal Tour to Wat Arun Worth It?",
+                seoTitle: "Wat Arun Canal Tour 2026 | Honest Review",
+                description: "An honest look at the longtail boat canal tour to Wat Arun, exploring Bangkok's back canals before reaching the Temple of Dawn from the water.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/longtail-boat-canal-tour-to-wat-arun/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This longtail boat tour winds through Bangkok's back canals, past traditional stilt houses and local canal-side life rarely seen from the main roads, before arriving at Wat Arun, the Temple of Dawn, giving a genuinely different approach to the temple than walking up from the street.", tourCard: { slug: "longtail-boat-canal-tour-to-wat-arun", title: "Longtail Boat Canal Tour to Wat Arun", description: "A longtail boat tour through Bangkok's canals to Wat Arun.", price: "From $36", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/longtail-boat-canal-tour-to-wat-arun/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Sit toward the front of the boat for the best unobstructed views and photos along the narrower canal stretches." }
+                ],
+                faqs: [
+                    { q: "Is the canal tour to Wat Arun worth it?", a: "Yes, for seeing Bangkok's back canals and local stilt-house life rarely visible from the main roads, before reaching the temple from the water." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Wat Arun canal tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for seeing Bangkok's back canals and local life rarely visible from the main roads." } }
+                ] },
+            };
+
         default:
             return null;
     }

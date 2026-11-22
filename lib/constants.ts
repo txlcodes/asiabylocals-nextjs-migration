@@ -1241,6 +1241,8 @@ export const BANGKOK_INFO_SLUGS = [
   'is-death-railway-river-kwai-tour-worth-it-bangkok', 'is-chao-phraya-dinner-cruise-worth-it-bangkok',
   'is-baiyoke-sky-observation-deck-worth-it-bangkok',
   'bangkok-ancient-city-erawan-museum-tour', 'is-ethical-elephant-sanctuary-worth-it-bangkok',
+  'is-damnoen-saduak-floating-market-worth-it-bangkok', 'is-jim-thompson-house-worth-it-bangkok',
+  'is-muay-thai-match-worth-it-bangkok', 'is-wat-arun-canal-tour-worth-it-bangkok',
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
