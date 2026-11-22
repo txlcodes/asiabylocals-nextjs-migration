@@ -1454,6 +1454,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-much-should-a-private-tour-guide-cost-in-osaka',
     'is-cup-noodles-museum-worth-it-osaka', 'is-koshien-baseball-tour-worth-it-osaka',
     'is-ninja-experience-worth-it-osaka',
+    'is-samurai-experience-worth-it-osaka', 'is-minoh-waterfall-tour-worth-it-osaka',
+    'is-maid-cafe-experience-worth-it-osaka', 'is-ramen-gyoza-cooking-class-worth-it-osaka',
 ].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),

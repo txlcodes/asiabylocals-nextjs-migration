@@ -2120,6 +2120,90 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-samurai-experience-worth-it-osaka":
+      return {
+        title: "Is the Private Samurai Experience with a Sword Master Worth It in Osaka?",
+        description: "An honest look at the private samurai training experience with a real sword master in Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-samurai-experience-train-with-a-sword-master-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Training one-on-one with a genuine sword master gives real insight into samurai discipline and technique, a far more serious experience than a tourist-shop costume photo, and the premium price reflects the instructor's specific expertise.",
+            tourCard: { slug: "private-samurai-experience-train-with-a-sword-master-in-osaka", title: "Private Samurai Experience: Train with a Sword Master", description: "A private samurai training session with a real sword master in Osaka.", price: "From $574", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-samurai-experience-train-with-a-sword-master-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a genuine specialized training session, not a casual activity — expect real instruction and discipline, not just a photo-op.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private samurai experience worth it in Osaka?", a: "Yes, training one-on-one with a real sword master gives genuine insight into samurai discipline, far beyond a tourist photo-op." },
+        ],
+      };
+
+    case "is-minoh-waterfall-tour-worth-it-osaka":
+      return {
+        title: "Is the Minoh Waterfall & Katsuoji Temple Tour Worth It from Osaka?",
+        description: "An honest look at the half-day tour combining Minoh Waterfall and Katsuoji Temple, a nature escape close to the city.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/minoh-waterfall-and-katsuo-ji-temple-half-day-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Minoh's waterfall and forested walking trail, paired with the distinctive daruma-doll-covered Katsuoji Temple, gives a genuinely green, nature-focused half-day escape that's surprisingly close to central Osaka.",
+            tourCard: { slug: "minoh-waterfall-and-katsuo-ji-temple-half-day-tour-in-osaka", title: "Minoh Waterfall & Katsuoji Temple Half-Day Tour", description: "A half-day tour combining Minoh Waterfall and Katsuoji Temple near Osaka.", price: "From $90", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/minoh-waterfall-and-katsuo-ji-temple-half-day-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable walking shoes for the trail to the waterfall, and look out for Katsuoji's thousands of small daruma dolls.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Minoh Waterfall and Katsuoji Temple tour worth it from Osaka?", a: "Yes, it's a genuinely green, nature-focused escape that's surprisingly close to central Osaka." },
+        ],
+      };
+
+    case "is-maid-cafe-experience-worth-it-osaka":
+      return {
+        title: "Is the Maid Cafe Experience Worth It in Osaka?",
+        description: "An honest look at the maid cafe experience in Osaka's Namba entertainment district, a distinctive piece of Japanese pop culture.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/osaka-namba-entertainment-hub-maid-cafe-exp-maidreamin-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A maid cafe is a genuinely distinctive piece of Japanese pop culture, and priority entry with a set menu removes the hassle of a long wait line, making this an easy, affordable way to experience something you won't find outside Japan.",
+            tourCard: { slug: "osaka-namba-entertainment-hub-maid-cafe-exp-maidreamin-by-local-operator", title: "Osaka Namba Entertainment Hub: Maid Cafe Experience", description: "A priority-entry maid cafe experience in Osaka's Namba district.", price: "From $30", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/osaka-namba-entertainment-hub-maid-cafe-exp-maidreamin-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Photography rules are typically strict inside — confirm what's allowed before you go in to avoid an awkward moment.",
+          },
+        ],
+        faqs: [
+          { q: "Is the maid cafe experience worth it in Osaka?", a: "Yes, it's an affordable, easy way to try a genuinely distinctive piece of Japanese pop culture you won't find outside Japan." },
+        ],
+      };
+
+    case "is-ramen-gyoza-cooking-class-worth-it-osaka":
+      return {
+        title: "Is the Ramen & Gyoza Cooking Class in Dotonbori Worth It?",
+        description: "An honest look at the ramen and gyoza cooking class in Dotonbori, Osaka's famous food district.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ramen-and-gyoza-cooking-class-in-dotonbori/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning to make ramen broth and gyoza from scratch gives genuinely hands-on technique insight beyond just eating at Dotonbori's famous food stalls, and at 3 hours it's a solid way to spend part of a day in Osaka's best-known food district.",
+            tourCard: { slug: "ramen-and-gyoza-cooking-class-in-dotonbori", title: "Ramen & Gyoza Cooking Class in Dotonbori", description: "A hands-on ramen and gyoza cooking class in Osaka's Dotonbori district.", price: "From $96", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ramen-and-gyoza-cooking-class-in-dotonbori/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — you'll be eating what you make, and ramen plus gyoza adds up to a genuinely filling meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ramen and gyoza cooking class worth it in Osaka?", a: "Yes, it gives genuinely hands-on technique insight beyond just eating at Dotonbori's famous food stalls." },
+        ],
+      };
+
     default:
             return null;
     }
