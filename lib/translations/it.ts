@@ -11607,6 +11607,22 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali"
   ]
  },
+ "2-day-angkor-wat-waterfall-and-floating-village": {
+  "title": "Angkor Wat, cascata e villaggio flottante: 2 giorni",
+  "metaTitle": "Angkor Wat, cascata e villaggio flottante: 2 giorni",
+  "shortDescription": "Visita di 2 giorni a Siem Reap, con Krong Siem Reap. Prenotazione diretta con Travel Choice Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 2 giorni in partenza da Siem Reap che visita Krong Siem Reap.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Ritiro/trasferimento, Tour menzionati nell'itinerario e Veicolo privato con aria condizionata. Non comprende Pass per la montagna di Kulen (20 USD a persona), Pass per il lago Tonle Sap con giro in barca e pasto, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 129 $ a persona, quindi un gruppo di 8 costa 1,030 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nTravel Choice Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro/trasferimento",
+   "Tour menzionati nell'itinerario",
+   "Veicolo privato con aria condizionata"
+  ],
+  "notIncluded": [
+   "Pass per la montagna di Kulen (20 USD a persona)",
+   "Pass per il lago Tonle Sap con giro in barca",
+   "pasto"
+  ]
+ },
  "mechrey-floating-village-on-tonle-sap-lake-private": {
   "title": "Villaggio flottante di Mechrey sul lago Tonle Sap: tour privato",
   "metaTitle": "Villaggio flottante di Mechrey sul lago Tonle Sap: tour privato",
@@ -11618,6 +11634,53 @@ export const IT_TOURS: Record<string, TourT> = {
    "Tour in barca da crociera"
   ],
   "notIncluded": []
+ },
+ "angkor-national-museum-and-bakong-temple-private-t": {
+  "title": "Museo Nazionale di Angkor e Tempio di Bakong: gita privata",
+  "metaTitle": "Museo Nazionale di Angkor e Tempio di Bakong: gita privata",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore che parla inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: esplora le sculture e i manufatti khmer al Museo Nazionale di Angkor.\n\nIl Palazzo Reale di Phnom Penh e la residenza del re cambogiano dal 1866 ed e ancora abitato, quindi gli appartamenti reali sono chiusi e la Sala del Trono si vede solo dall'esterno. La Pagoda d'Argento, nello stesso complesso, prende il nome dalle cinquemila piastrelle d'argento del pavimento, la maggior parte oggi coperte per proteggerle, e custodisce un Buddha di 90 chilogrammi d'oro incastonato con oltre duemila diamanti. Il palazzo impone un codice di abbigliamento al cancello: spalle e ginocchia coperte per tutti. Il Museo Nazionale accanto ha la migliore scultura khmer esistente, e chiude per la pausa pranzo.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore che parla inglese. Non comprende Tassa d'ingresso al Museo Nazionale di Angkor, Angkor Pass / tassa d'ingresso al Tempio di Bakong e Guida turistica con licenza, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "guidatore che parla inglese"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al Museo Nazionale di Angkor",
+   "Angkor Pass / tassa d'ingresso al Tempio di Bakong",
+   "Guida turistica con licenza"
+  ]
+ },
+ "apopo-and-banteay-srei-cambodias-past-and-present": {
+  "title": "APOPO e Banteay Srei: il passato e il presente della Cambogia",
+  "metaTitle": "APOPO e Banteay Srei: il passato e il presente della Cambogia",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore che parla inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: visita il Centro Visitatori APOPO ed esplora le sue mostre didattiche.\n\nBanteay Srei si trova 37 chilometri a nord-est del gruppo principale di Angkor ed e scolpito in un'arenaria rosa che conserva dettagli che nessun altro tempio khmer mantiene: gli architravi e i frontoni sono scolpiti cosi in profondita da proiettare ombre reali, motivo per cui viene chiamata la cittadella delle donne. E piccolo, fu consacrato nel 967 a Shiva, e fu costruito da un bramino piuttosto che da un re. Essendo isolato viene di solito abbinato a Kbal Spean, il fiume dei mille linga, dove sculture di Shiva giacciono dentro e sotto il letto del fiume e la camminata di salita e di circa 1,5 chilometri su sentiero nella foresta. Entrambi chiudono prima dei templi centrali, quindi sono tappe del mattino.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore che parla inglese. Non comprende Tassa d'ingresso al Centro Visitatori APOPO, se applicabile e Tassa d'ingresso a Banteay Srei / parco di Angkor, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 84 $ e 6 costano 110 $, quindi piu siete, meno paga ciascuno.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "guidatore che parla inglese"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al Centro Visitatori APOPO, se applicabile",
+   "Tassa d'ingresso a Banteay Srei / parco di Angkor"
+  ]
+ },
+ "koh-ker-beng-mealea-and-kampong-kleang-tour": {
+  "title": "Tour di Koh Ker, Beng Mealea e Kampong Khleang",
+  "metaTitle": "Tour di Koh Ker, Beng Mealea e Kampong Khleang",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: scopri la remota piramide di Koh Ker e l'antica capitale khmer.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Non comprende Tassa d'ingresso a Koh Ker, Tassa d'ingresso a Beng Mealea e Biglietto per la barca a Kampong Khleang, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 220 $ e 8 costano 292 $, quindi piu siete, meno paga ciascuno.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "guidatore locale che parla inglese"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso a Koh Ker",
+   "Tassa d'ingresso a Beng Mealea",
+   "Biglietto per la barca a Kampong Khleang"
+  ]
  },
  "apopo-visitor-center-and-beng-mealea-temple-experi": {
   "title": "Centro Visitatori APOPO ed esperienza del Tempio di Beng Mealea",
@@ -11651,6 +11714,186 @@ export const IT_TOURS: Record<string, TourT> = {
    "Guida turistica con licenza"
   ]
  },
+ "excursion-to-phnom-kulen-and-beng-mealea": {
+  "title": "Escursione a Phnom Kulen e Beng Mealea",
+  "metaTitle": "Escursione a Phnom Kulen e Beng Mealea",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Phnom Kulen National Park e Kulen waterfall and Wat Preah Ang Thom. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Phnom Kulen National Park e Kulen waterfall and Wat Preah Ang Thom. Ci sono 5 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende Guida in spagnolo, Trasporto con aria condizionata e Acqua fresca. Non comprende Biglietti d'ingresso a Phnom Kulen (20$ a persona) e Beng Mealea (10$ a persona), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 286 $, 5 costano 358 $ e 8 costano 455 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida in spagnolo",
+   "Trasporto con aria condizionata",
+   "Acqua fresca"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso a Phnom Kulen (20$ a persona) e Beng Mealea (10$ a persona)"
+  ]
+ },
+ "from-phnom-penh-phum-taing-snay-birdwatching-day-t": {
+  "title": "Da Phnom Penh: gita di birdwatching di un giorno a Phum Taing Snay",
+  "metaTitle": "Da Phnom Penh: gita di birdwatching di un giorno a Phum Taing Sna",
+  "shortDescription": "Visita di giornata intera a Phnom Penh, con Royal Palace of Cambodia. Prenotazione diretta con Vana Adventures, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Phnom Penh che visita Royal Palace of Cambodia.\n\nIl prezzo comprende Guida ornitologica di lingua inglese, Guida ornitologica della comunita locale e Trasporto privato di andata e ritorno da Phnom Penh. Non comprende spese personali, mance e gratifiche e assicurazione di viaggio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 266 $, 5 costano 1,072 $ e 8 costano 1,716 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nVana Adventures lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida ornitologica di lingua inglese",
+   "Guida ornitologica della comunita locale",
+   "Trasporto privato di andata e ritorno da Phnom Penh"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "mance e gratifiche",
+   "assicurazione di viaggio"
+  ]
+ },
+ "phare-circus-ticket-with-round-trip-tuk-tuk": {
+  "title": "Biglietto per il circo Phare con tuk-tuk di andata e ritorno",
+  "metaTitle": "Biglietto per il circo Phare con tuk-tuk di andata e ritorno",
+  "shortDescription": "Visita di 1 ora a Siem Reap, con Biglietto per lo spettacolo del circo Phare, Spettacolo del circo Phare di un’ora e Trasferimento di andata e ritorno in tuk-tuk dal hotel. Prenotazione diretta con SARUS CO., LTD, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 1 ora a Siem Reap. L'operatore la riassume cosi: vivi la magia di Phare, il circo cambogiano, a Siem Reap.\n\nBattambang e la seconda citta della Cambogia e la piu tranquilla, una cittadina fluviale di case-negozio in stile francese a circa tre ore da Siem Reap. Il treno di bambu, il norry, e una piattaforma di bambu su ruote spinta da un piccolo motore lungo un unico binario; quando due si incontrano, quello piu leggero viene tolto dai binari a mano. La linea originale a O Dambong e stata sostituita da un binario turistico costruito apposta a Banan. Al tramonto, milioni di pipistrelli dalle labbra increspate escono in massa da una grotta nella scogliera di Phnom Sampeau per circa mezz'ora in un nastro ininterrotto, e la stessa collina porta un memoriale della grotta degli omicidi degli anni dei Khmer Rossi.\n\nIl prezzo comprende Biglietto per lo spettacolo del circo Phare, Spettacolo del circo Phare di un’ora e Trasferimento di andata e ritorno in tuk-tuk dal hotel. Non comprende cibo e bevande e spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 37 $ a persona, quindi un gruppo di 8 costa 300 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nSARUS CO., LTD lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Biglietto per lo spettacolo del circo Phare",
+   "Spettacolo del circo Phare di un’ora",
+   "Trasferimento di andata e ritorno in tuk-tuk dal hotel"
+  ],
+  "notIncluded": [
+   "cibo e bevande",
+   "spese personali"
+  ]
+ },
+ "shared-angkor-wat-sunrise-tour-with-spanish-guide": {
+  "title": "Angkor Wat all'alba: tour condiviso con guida spagnola",
+  "metaTitle": "Angkor Wat all'alba: tour condiviso con guida spagnola",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Siem Reap Province, Angkor Wat e Angkor Thom and Bayon Temple. Prenotazione diretta con Journey Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Siem Reap Province, Angkor Wat e Angkor Thom and Bayon Temple. Ci sono 7 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Guida locale di lingua spagnola e Asciugamani freschi. Non comprende Pasti (colazione/pranzo/cena), Pass per i templi e spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 38 $ a persona, quindi un gruppo di 8 costa 302 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nJourney Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Guida locale di lingua spagnola",
+   "Asciugamani freschi"
+  ],
+  "notIncluded": [
+   "Pasti (colazione/pranzo/cena)",
+   "Pass per i templi",
+   "spese personali"
+  ]
+ },
+ "sambor-prei-kuk-and-spean-praptos-private-tour": {
+  "title": "Sambor Prei Kuk e ponte di Spean Praptos: tour privato",
+  "metaTitle": "Sambor Prei Kuk e ponte di Spean Praptos: tour privato",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con Krong Siem Reap e Kampong Kdei Bridge and Prasat Sambor Prei Kuk. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 1 giorno in partenza da Siem Reap che visita Krong Siem Reap e Kampong Kdei Bridge and Prasat Sambor Prei Kuk.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Visita al Tempio di Sambor Prei Kuk e Visita al ponte di Spean Praptos. Non comprende Pass/biglietto per Sambor Prei Kuk: 10 USD a persona, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 418 $ e 8 costano 468 $, quindi piu siete, meno paga ciascuno.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Visita al Tempio di Sambor Prei Kuk",
+   "Visita al ponte di Spean Praptos"
+  ],
+  "notIncluded": [
+   "Pass/biglietto per Sambor Prei Kuk: 10 USD a persona"
+  ]
+ },
+ "a-day-tour-banteay-srei-phnom-kulen-beng-mealea": {
+  "title": "Tour di un giorno: Banteay Srei, Phnom Kulen, Beng Mealea e Koh Ker",
+  "metaTitle": "Tour di un giorno: Banteay Srei, Phnom Kulen, Beng Mealea e Koh K",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap. Prenotazione diretta con Siem Reap Tour Guide, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap.\n\nBanteay Srei si trova 37 chilometri a nord-est del gruppo principale di Angkor ed e scolpito in un'arenaria rosa che conserva dettagli che nessun altro tempio khmer mantiene: gli architravi e i frontoni sono scolpiti cosi in profondita da proiettare ombre reali, motivo per cui viene chiamata la cittadella delle donne. E piccolo, fu consacrato nel 967 a Shiva, e fu costruito da un bramino piuttosto che da un re. Essendo isolato viene di solito abbinato a Kbal Spean, il fiume dei mille linga, dove sculture di Shiva giacciono dentro e sotto il letto del fiume e la camminata di salita e di circa 1,5 chilometri su sentiero nella foresta. Entrambi chiudono prima dei templi centrali, quindi sono tappe del mattino.\n\nIl prezzo comprende Visita al Tempio di Banteay Srei, Visita a Phnom Kulen e Visita alla citta di Koh Ker. Non comprende Ingresso a tutti i siti, spese personali e Colazione, pranzo e cena, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 299 $ e 8 costano 364 $, quindi piu siete, meno paga ciascuno.\n\nSiem Reap Tour Guide lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Visita al Tempio di Banteay Srei",
+   "Visita a Phnom Kulen",
+   "Visita alla citta di Koh Ker"
+  ],
+  "notIncluded": [
+   "Ingresso a tutti i siti",
+   "spese personali",
+   "Colazione, pranzo e cena"
+  ]
+ },
+ "angkor-wat-2-hour-history-tour-with-a-live": {
+  "title": "Angkor Wat: tour storico di 2 ore con guida dal vivo",
+  "metaTitle": "Angkor Wat: tour storico di 2 ore con guida dal vivo",
+  "shortDescription": "Visita di 2 ore a Siem Reap, con Angkor Wat. Prenotazione diretta con Angkor Bike Rental Service, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 2 ore in partenza da Siem Reap che visita Angkor Wat.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Tour guidato di Angkor Wat, Approfondimenti storici e Spiegazioni architettoniche. Non comprende Biglietto per Angkor Wat di 1 giorno, 37$ per adulto, gratis per bambini sotto i 12 anni, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 16 $ a persona, quindi un gruppo di 8 costa 125 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nAngkor Bike Rental Service lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tour guidato di Angkor Wat",
+   "Approfondimenti storici",
+   "Spiegazioni architettoniche"
+  ],
+  "notIncluded": [
+   "Biglietto per Angkor Wat di 1 giorno, 37$ per adulto, gratis per bambini sotto i 12 anni"
+  ]
+ },
+ "koh-ker-beng-mealea-and-rolous-group-sunset-privat": {
+  "title": "Koh Ker, Beng Mealea e gruppo di Roluos al tramonto: tour privato di un giorno",
+  "metaTitle": "Koh Ker, Beng Mealea e gruppo di Roluos al tramonto: tour privato",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con Krong Siem Reap, Kaoh Ker, Cambodia e Prasat Pram and Prasat Neang Khmao. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 1 giorno in partenza da Siem Reap che visita Krong Siem Reap, Kaoh Ker, Cambodia e Prasat Pram and Prasat Neang Khmao. Ci sono 10 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Guida con licenza in inglese e Acqua fresca da bere e asciugamani. Non comprende Pass per i templi per Beng Mealea/gruppo di Roluos e Biglietti per Koh Ker, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 303 $ e 8 costano 338 $, quindi piu siete, meno paga ciascuno.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Guida con licenza in inglese",
+   "Acqua fresca da bere e asciugamani"
+  ],
+  "notIncluded": [
+   "Pass per i templi per Beng Mealea/gruppo di Roluos",
+   "Biglietti per Koh Ker"
+  ]
+ },
+ "siem-reap-to-phnom-kulen-national-park-and-beng": {
+  "title": "Da Siem Reap: tour del Parco Nazionale di Phnom Kulen e Beng Mealea",
+  "metaTitle": "Da Siem Reap: tour del Parco Nazionale di Phnom Kulen e Beng Meal",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Phnom Kulen National Park e Poeng Ta Kho (Amazing Cliff) and Wat Preah Ang Thom. Prenotazione diretta con Siem Reap Shuttle, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Phnom Kulen National Park e Poeng Ta Kho (Amazing Cliff) and Wat Preah Ang Thom. Ci sono 6 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende Ritiro e rientro in hotel, guida parlante inglese e Trasporto. Non comprende pasti, costo di ingresso e Tassa per il Parco Nazionale di Kulen, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 39 $ a persona, quindi un gruppo di 8 costa 312 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nSiem Reap Shuttle lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel",
+   "guida parlante inglese",
+   "Trasporto"
+  ],
+  "notIncluded": [
+   "pasti",
+   "costo di ingresso",
+   "Tassa per il Parco Nazionale di Kulen"
+  ]
+ },
+ "phnom-kulen-mountain-waterfall-sleeping-buddha-pri": {
+  "title": "Montagna di Phnom Kulen, cascata, Buddha sdraiato: tour privato",
+  "metaTitle": "Montagna di Phnom Kulen, cascata, Buddha sdraiato: tour privato",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con Krong Siem Reap, Phnom Kulen Mountain e Poeng Ta Kho (Amazing Cliff) and Kulen park. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 1 giorno in partenza da Siem Reap che visita Krong Siem Reap, Phnom Kulen Mountain e Poeng Ta Kho (Amazing Cliff) and Kulen park. Ci sono 6 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nPhnom Kulen e l'altopiano di arenaria da cui furono estratte le pietre dei templi di Angkor e il luogo dove Jayavarman II si proclamo monarca universale nell'802, data che i cambogiani considerano la fondazione del loro impero. La strada per salire e scoscesa e il sito ha un proprio ingresso da 20 USD, separato dall'Angkor Pass. In cima ci sono la cascata a due livelli sotto cui la gente si tuffa, il letto del fiume scolpito con linga, il cugino piu grande di Kbal Spean, e un Buddha sdraiato scolpito in un masso nella pagoda in vetta, raggiungibile a piedi scalzi. E una giornata intera da Siem Reap e il periodo migliore e durante o appena dopo le piogge, quando le cascate scorrono davvero.\n\nIl prezzo comprende Ritiro e rientro dai tuoi hotel, Guida con licenza in inglese e Veicoli con aria condizionata (auto/furgone/SUV) con guidatore. Non comprende Biglietto per il parco nazionale della montagna di Kulen: 20 USD a persona, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 214 $ e 8 costano 234 $, quindi piu siete, meno paga ciascuno.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro dai tuoi hotel",
+   "Guida con licenza in inglese",
+   "Veicoli con aria condizionata (auto/furgone/SUV) con guidatore"
+  ],
+  "notIncluded": [
+   "Biglietto per il parco nazionale della montagna di Kulen: 20 USD a persona"
+  ]
+ },
+ "prek-toal-bird-sanctuary-and-floating-village-priv": {
+  "title": "Santuario degli uccelli di Prek Toal e villaggio flottante: tour privato",
+  "metaTitle": "Santuario degli uccelli di Prek Toal e villaggio flottante: tour ",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con Krong Siem Reap, Mechrey Floating Village e Prek Toal Floating Village and Tonlé Sap Biosphere Reserve. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 1 giorno in partenza da Siem Reap che visita Krong Siem Reap, Mechrey Floating Village e Prek Toal Floating Village and Tonlé Sap Biosphere Reserve.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende Giro in barca da crociera dal villaggio flottante di Mechrey al villaggio di Prek Toal, Visita al villaggio flottante di Prek Toal e Giro in barca a remi o imbarcazione specializzata del parco locale. Non comprende Pasti (colazione/pranzo/cena), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 381 $, 5 costano 530 $ e 8 costano 666 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Giro in barca da crociera dal villaggio flottante di Mechrey al villaggio di Prek Toal",
+   "Visita al villaggio flottante di Prek Toal",
+   "Giro in barca a remi o imbarcazione specializzata del parco locale"
+  ],
+  "notIncluded": [
+   "Pasti (colazione/pranzo/cena)"
+  ]
+ },
+ "phnom-penh-to-battambang-and-siem-reap-2-day": {
+  "title": "Da Phnom Penh a Battambang e Siem Reap: tour e trasferimento di 2 giorni",
+  "metaTitle": "Da Phnom Penh a Battambang e Siem Reap: tour e trasferimento di 2",
+  "shortDescription": "Visita di 2 giorni a Phnom Penh, con Phnom Penh, Phnom Penh to Oudong mountain temple e Oudong to Aundong Russsey Pottery Village Community and Pottery village to Krakor Kampong Loung Fishing Village. Prenotazione diretta con Cambodia Taxi Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 2 giorni in partenza da Phnom Penh che visita Phnom Penh, Phnom Penh to Oudong mountain temple e Oudong to Aundong Russsey Pottery Village Community and Pottery village to Krakor Kampong Loung Fishing Village. Ci sono 5 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende A 1 via da Phnom Penh a Battambang e Siem Reap (sola andata), soste alla montagna di Oudong, al villaggio della ceramica di Kampong Chhnang, al villaggio flottante di Kampong Luong e Giro in barca a Kampong Luong, pesca sulla riva del lago Tonle Sap. Non comprende pasti, alloggio e spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 488 $, 5 costano 994 $ e 8 costano 1,550 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Taxi Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "A 1 via da Phnom Penh a Battambang e Siem Reap (sola andata)",
+   "soste alla montagna di Oudong, al villaggio della ceramica di Kampong Chhnang, al villaggio flottante di Kampong Luong",
+   "Giro in barca a Kampong Luong, pesca sulla riva del lago Tonle Sap"
+  ],
+  "notIncluded": [
+   "pasti",
+   "alloggio",
+   "spese personali"
+  ]
+ },
  "private-angkor-wat-small-circuit-tour": {
   "title": "Angkor Wat, piccolo circuito: tour privato",
   "metaTitle": "Angkor Wat, piccolo circuito: tour privato",
@@ -11664,6 +11907,21 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Pass per il Tempio di Angkor Wat",
    "pasti"
+  ]
+ },
+ "a-sewing-workshop-with-our-artist": {
+  "title": "Un laboratorio di cucito con la nostra artista",
+  "metaTitle": "Un laboratorio di cucito con la nostra artista",
+  "shortDescription": "Visita di 3 ore a Siem Reap, con Istruttore artista professionale, Tutti i materiali e attrezzature per cucire e 1 biglietto d'ingresso al museo. Prenotazione diretta con SM Art Center, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 3 ore a Siem Reap. L'operatore la riassume cosi: siediti faccia a faccia con un artista al lavoro in un vero studio museale.\n\nIl prezzo comprende Istruttore artista professionale, Tutti i materiali e attrezzature per cucire e 1 biglietto d'ingresso al museo. Non comprende Trasporto da e per il SM Art Center e Cibo o bevande aggiuntivi oltre alla bevanda inclusa, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 91 $ a persona, quindi un gruppo di 2 costa 182 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nSM Art Center lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Istruttore artista professionale",
+   "Tutti i materiali e attrezzature per cucire",
+   "1 biglietto d'ingresso al museo"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il SM Art Center",
+   "Cibo o bevande aggiuntivi oltre alla bevanda inclusa"
   ]
  },
  "killing-fields-s-21-silk-island-halffull-day": {
@@ -11680,6 +11938,16 @@ export const IT_TOURS: Record<string, TourT> = {
    "Ingresso per la prigione S-21 5$ (audioguida opzionale 5$)",
    "Ingresso per i Killing Fields 3$ (audioguida opzionale 3$)"
   ]
+ },
+ "guided-foodie-tour-by-tuk-tuk-with-20-tastings": {
+  "title": "Tour gastronomico guidato in tuk-tuk con 20 degustazioni",
+  "metaTitle": "Tour gastronomico guidato in tuk-tuk con 20 degustazioni",
+  "shortDescription": "Visita di mezza giornata a Phnom Penh, con Phnom Penh, Wat Botum Park e Sisowath Riverside Park and NagaWorld Integrated Resort. Prenotazione diretta con Kesar-Kesor Khmer Tours, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Phnom Penh che visita Phnom Penh, Wat Botum Park e Sisowath Riverside Park and NagaWorld Integrated Resort. Ci sono 7 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nIl prezzo comprende Tutto il cibo, le bevande, il trasporto e la guida di lingua inglese sono inclusi nel tour. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 78 $ a persona, quindi un gruppo di 8 costa 624 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nKesar-Kesor Khmer Tours lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tutto il cibo, le bevande, il trasporto e la guida di lingua inglese sono inclusi nel tour"
+  ],
+  "notIncluded": []
  },
  "battambang-and-bat-cave-experience": {
   "title": "Battambang ed esperienza della grotta dei pipistrelli",
@@ -11713,6 +11981,66 @@ export const IT_TOURS: Record<string, TourT> = {
    "assicurazione di viaggio"
   ]
  },
+ "1-day-royal-palace-killing-fields-and-highlights": {
+  "title": "1 giorno: Palazzo Reale, campi di sterminio e punti salienti",
+  "metaTitle": "1 giorno: Palazzo Reale, campi di sterminio e punti salienti",
+  "shortDescription": "Visita di 1 giorno a Phnom Penh, con Trasporto privato: servizio di giornata intera su un tuk-tuk tradizionale scoperto, Trasferimenti in hotel: ritiro e rientro di andata e ritorno dalla hall del tuo hotel a Phnom Penh e Guidatore locale di lingua inglese: offre navigazione, approfondimenti locali e ottimi consigli per il pranzo. Prenotazione diretta con Cambodia Taxi Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 1 giorno a Phnom Penh. L'operatore la riassume cosi: viaggia su un tuk-tuk tradizionale scoperto per le vivaci strade della citta.\n\nTuol Sleng era una scuola secondaria di Phnom Penh che i Khmer Rossi trasformarono nella Prigione di Sicurezza 21 nel 1975. Delle circa 12.000-20.000 persone detenute li, una dozzina circa sono sopravvissute. Le aule hanno ancora le strutture in ferro dei letti e le fotografie che il regime scattava a ogni prigioniero all'arrivo. Choeung Ek, a circa 15 chilometri di distanza, e dove la maggior parte venivano portati per essere uccisi, e il suo stupa custodisce circa 5.000 teschi; l'audioguida li e narrata in parte da un sopravvissuto ed e il motivo per cui la maggior parte dei visitatori riesce a reggere la visita. Entrambi i siti si visitano in silenzio, richiedono circa mezza giornata insieme, e non sono adatti ai bambini piccoli.\n\nIl prezzo comprende Trasporto privato: servizio di giornata intera su un tuk-tuk tradizionale scoperto, Trasferimenti in hotel: ritiro e rientro di andata e ritorno dalla hall del tuo hotel a Phnom Penh e Guidatore locale di lingua inglese: offre navigazione, approfondimenti locali e ottimi consigli per il pranzo. Non comprende Tassa d'ingresso alla prigione S-21 (Tuol Sleng): 5 USD per adulto (3 USD per giovani dai 10 ai 17 anni), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 65 $, 5 costano 110 $ e 8 costano 177 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Taxi Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Trasporto privato: servizio di giornata intera su un tuk-tuk tradizionale scoperto",
+   "Trasferimenti in hotel: ritiro e rientro di andata e ritorno dalla hall del tuo hotel a Phnom Penh",
+   "Guidatore locale di lingua inglese: offre navigazione, approfondimenti locali e ottimi consigli per il pranzo"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso alla prigione S-21 (Tuol Sleng): 5 USD per adulto (3 USD per giovani dai 10 ai 17 anni)"
+  ]
+ },
+ "private-sunset-cruise-with-english-speak-guide": {
+  "title": "Crociera privata al tramonto con guida di lingua inglese",
+  "metaTitle": "Crociera privata al tramonto con guida di lingua inglese",
+  "shortDescription": "Visita di 2 ore a Phnom Penh, con Barca privata per due ore, guida parlante inglese e Bottiglia di vino. Prenotazione diretta con Cambo Tours Services, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 2 ore a Phnom Penh. L'operatore la riassume cosi: salpa per una crociera privata al tramonto lungo il fiume Mekong a Phnom Penh.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende Barca privata per due ore, guida parlante inglese e Bottiglia di vino. Non comprende mance e gratifiche, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 195 $ e 5 costano 237 $, quindi piu siete, meno paga ciascuno.\n\nCambo Tours Services lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Barca privata per due ore",
+   "guida parlante inglese",
+   "Bottiglia di vino"
+  ],
+  "notIncluded": [
+   "mance e gratifiche"
+  ]
+ },
+ "from-phnom-penh-siem-reap-transfer-with-private-dr": {
+  "title": "Da Phnom Penh: trasferimento a Siem Reap con guidatore privato",
+  "metaTitle": "Da Phnom Penh: trasferimento a Siem Reap con guidatore privato",
+  "shortDescription": "Visita di 2 giorni a Phnom Penh, con guidatore che parla inglese, Guida locale a Sambor Prei Kuk e acqua potabile. Prenotazione diretta con Mr Cake Taxi Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 2 giorni a Phnom Penh. L'operatore la riassume cosi: esplora il Palazzo Reale e la Pagoda d’Argento di Phnom Penh.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende guidatore che parla inglese, Guida locale a Sambor Prei Kuk e acqua potabile. Non comprende spese personali, Tutti i biglietti per le visite turistiche e pasti, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 448 $ e 8 costano 585 $, quindi piu siete, meno paga ciascuno.\n\nMr Cake Taxi Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "guidatore che parla inglese",
+   "Guida locale a Sambor Prei Kuk",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "Tutti i biglietti per le visite turistiche",
+   "pasti"
+  ]
+ },
+ "angkor-eats-food-tour-with-15-tastings": {
+  "title": "Angkor Eats: tour gastronomico con oltre 15 degustazioni",
+  "metaTitle": "Angkor Eats: tour gastronomico con oltre 15 degustazioni",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Footprint Cafes e Siem Reap and Wat Damnak. Prenotazione diretta con A Chef's Tour, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Siem Reap che visita Footprint Cafes e Siem Reap and Wat Damnak.\n\nLa cucina khmer e piu delicata della thailandese e piu acida della vietnamita, basata sul prahok, pasta di pesce fermentato, e sul kroeung, una pasta di citronella, galanga, curcuma e lime kaffir pestata fresca. Il piatto che a tutti viene insegnato e il fish amok, un curry di cocco cotto a vapore in una coppetta di foglia di banano finche non si rassoda come un budino; il lok lak, manzo scottato al pepe con una salsa di lime e pepe, e l'altro. Il pepe di Kampot, che ha un'origine protetta, compare in entrambi. I corsi di solito iniziano al mercato, dove la guida ti fa vedere il pesce fermentato, lo zucchero di palma e il pesce di fiume prima che si cucini qualcosa.\n\nIl prezzo comprende Oltre 15 degustazioni di cibo incluse, piu di qualsiasi altro tour gastronomico di Siem Reap, Banchetto itinerante con 8-9 soste tra le strade della vecchia Denpasar e Massimo 8 ospiti esclusivi, il gruppo piu piccolo di Siem Reap (privato / gruppi piu grandi su richiesta). Non comprende bevande alcoliche, ritiro e riaccompagno dall'hotel esclusi. Punto d'incontro facile da trovare per tutti gli ospiti. e le diete vegetariane prevedono 3-4 degustazioni in meno per le alternative limitate presso alcuni venditori., da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 62 $ a persona, quindi un gruppo di 8 costa 496 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nA Chef's Tour lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Oltre 15 degustazioni di cibo incluse, piu di qualsiasi altro tour gastronomico di Siem Reap",
+   "Banchetto itinerante con 8-9 soste tra le strade della vecchia Denpasar",
+   "Massimo 8 ospiti esclusivi, il gruppo piu piccolo di Siem Reap (privato / gruppi piu grandi su richiesta)"
+  ],
+  "notIncluded": [
+   "bevande alcoliche",
+   "ritiro e riaccompagno dall'hotel esclusi. Punto d'incontro facile da trovare per tutti gli ospiti.",
+   "le diete vegetariane prevedono 3-4 degustazioni in meno per le alternative limitate presso alcuni venditori."
+  ]
+ },
  "3-day-siem-reap-and-angkor-small-circuit": {
   "title": "Siem Reap e piccolo circuito di Angkor: 3 giorni",
   "metaTitle": "Siem Reap e piccolo circuito di Angkor: 3 giorni",
@@ -11729,6 +12057,114 @@ export const IT_TOURS: Record<string, TourT> = {
    "pasti"
   ]
  },
+ "angkor-wat-sunrise-beng-mealea-and-60-road-market": {
+  "title": "Angkor Wat all'alba, Beng Mealea e mercato lungo la strada 60",
+  "metaTitle": "Angkor Wat all'alba, Beng Mealea e mercato lungo la strada 60",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Angkor Wat, Local restaurant and Ta Prohm Temple e Angkor Wat. Prenotazione diretta con Tivorn Angkor Guide, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Angkor Wat, Local restaurant and Ta Prohm Temple e Angkor Wat. Ci sono 8 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende Trasporto in minivan, guida in lingua inglese / giapponese e ritiro e riaccompagno in hotel. Non comprende Pass per i templi e pasti, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 202 $ e 8 costano 202 $, quindi piu siete, meno paga ciascuno.\n\nTivorn Angkor Guide lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Trasporto in minivan",
+   "guida in lingua inglese / giapponese",
+   "ritiro e riaccompagno in hotel"
+  ],
+  "notIncluded": [
+   "Pass per i templi",
+   "pasti"
+  ]
+ },
+ "sambor-prei-kuk-site-hidden-treasures-tour": {
+  "title": "Sito di Sambor Prei Kuk: tour dei tesori nascosti",
+  "metaTitle": "Sito di Sambor Prei Kuk: tour dei tesori nascosti",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Guida turistica professionale di lingua inglese, trasporto in veicolo con aria condizionata e Visite turistiche come indicato nella descrizione. Prenotazione diretta con Angkor Buddy, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: visita Sambor Prei Kuk: sito UNESCO, questo complesso di templi del 7° secolo.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende Guida turistica professionale di lingua inglese, trasporto in veicolo con aria condizionata e Visite turistiche come indicato nella descrizione. Non comprende Tassa d'ingresso ai templi 15$ a persona, Colazione, pranzo e bevande e altre spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 389 $, 5 costano 514 $ e 8 costano 624 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Buddy lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida turistica professionale di lingua inglese",
+   "trasporto in veicolo con aria condizionata",
+   "Visite turistiche come indicato nella descrizione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso ai templi 15$ a persona",
+   "Colazione, pranzo e bevande",
+   "altre spese personali"
+  ]
+ },
+ "angkor-1-day-group-tour-in-spanish-lunch-secret": {
+  "title": "Angkor: tour di gruppo di 1 giorno in spagnolo, pranzo, templi segreti",
+  "metaTitle": "Angkor: tour di gruppo di 1 giorno in spagnolo, pranzo, templi se",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con Krong Siem Reap and Angkor Park. Prenotazione diretta con Guida Cambogia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 1 giorno in partenza da Siem Reap che visita Krong Siem Reap and Angkor Park.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Guida locale autorizzata in spagnolo per tutta la giornata, Ritiro e rientro in hotel a Siem Reap e Veicolo con aria condizionata (gruppo condiviso). Non comprende Angkor Pass di 1 giorno (acquistato presso la biglietteria ufficiale), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 78 $ a persona, quindi un gruppo di 8 costa 624 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nGuida Cambogia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida locale autorizzata in spagnolo per tutta la giornata",
+   "Ritiro e rientro in hotel a Siem Reap",
+   "Veicolo con aria condizionata (gruppo condiviso)"
+  ],
+  "notIncluded": [
+   "Angkor Pass di 1 giorno (acquistato presso la biglietteria ufficiale)"
+  ]
+ },
+ "potteryvillage-bamboo-train-betcave-battambang-1790425624848-24qecf": {
+  "title": "Villaggio della ceramica, treno di bambu, grotta dei pipistrelli, Battambang",
+  "metaTitle": "Villaggio della ceramica, treno di bambu, grotta dei pipistrelli,",
+  "shortDescription": "Visita di giornata intera a Phnom Penh, con Tour privato con guidatore di lingua inglese, Benzina, pedaggi e parcheggio e Acqua fresca. Prenotazione diretta con Cambodia Private Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Phnom Penh. L'operatore la riassume cosi: imparare a fare il vaso con il supporto degli abitanti del villaggio della ceramica.\n\nBattambang e la seconda citta della Cambogia e la piu tranquilla, una cittadina fluviale di case-negozio in stile francese a circa tre ore da Siem Reap. Il treno di bambu, il norry, e una piattaforma di bambu su ruote spinta da un piccolo motore lungo un unico binario; quando due si incontrano, quello piu leggero viene tolto dai binari a mano. La linea originale a O Dambong e stata sostituita da un binario turistico costruito apposta a Banan. Al tramonto, milioni di pipistrelli dalle labbra increspate escono in massa da una grotta nella scogliera di Phnom Sampeau per circa mezz'ora in un nastro ininterrotto, e la stessa collina porta un memoriale della grotta degli omicidi degli anni dei Khmer Rossi.\n\nIl prezzo comprende Tour privato con guidatore di lingua inglese, Benzina, pedaggi e parcheggio e Acqua fresca. Non comprende Pasti e bevande, guida turistica professionista e Mance (facoltative, consigliate), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 188 $, 5 costano 422 $ e 8 costano 676 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Private Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tour privato con guidatore di lingua inglese",
+   "Benzina, pedaggi e parcheggio",
+   "Acqua fresca"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "guida turistica professionista",
+   "Mance (facoltative, consigliate)"
+  ]
+ },
+ "half-day-grand-circuit-temples-guided-jeep-tour": {
+  "title": "Mezza giornata: tour guidato in jeep dei templi del grande circuito",
+  "metaTitle": "Mezza giornata: tour guidato in jeep dei templi del grande circui",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con guida parlante inglese, Jeep vintage privata (se selezionata l'opzione jeep) e Tuk-tuk tradizionale privato (se selezionata l'opzione tuk-tuk). Prenotazione diretta con Cambodian Travel Partner, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: giro in jeep vintage: senti la brezza della giungla in un'iconica jeep scoperta.\n\nIl prezzo comprende guida parlante inglese, Jeep vintage privata (se selezionata l'opzione jeep) e Tuk-tuk tradizionale privato (se selezionata l'opzione tuk-tuk). Non comprende Pass per i templi di Angkor, spese personali e mance (opzionali), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 181 $, 5 costano 455 $ e 8 costano 728 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodian Travel Partner lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "guida parlante inglese",
+   "Jeep vintage privata (se selezionata l'opzione jeep)",
+   "Tuk-tuk tradizionale privato (se selezionata l'opzione tuk-tuk)"
+  ],
+  "notIncluded": [
+   "Pass per i templi di Angkor",
+   "spese personali",
+   "mance (opzionali)"
+  ]
+ },
+ "private-angkor-wat-sunrise-tour-with-romok-tuk-tuk": {
+  "title": "Angkor Wat all'alba: tour privato con remork (tuk-tuk) e guida",
+  "metaTitle": "Angkor Wat all'alba: tour privato con remork (tuk-tuk) e guida",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Angkor Wat, Local restaurant and Ta Prohm Temple e Angkor Wat. Prenotazione diretta con Angkor Buddy, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Angkor Wat, Local restaurant and Ta Prohm Temple e Angkor Wat. Ci sono 6 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende Trasporto: remork (tuk-tuk) con guidatore, Guida turistica con licenza di lingua inglese o giapponese e Acqua fresca e asciugamano fresco. Non comprende Pass per il tempio 37$ a persona e cibo, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 116 $, 5 costano 231 $ e 8 costano 231 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Buddy lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Trasporto: remork (tuk-tuk) con guidatore",
+   "Guida turistica con licenza di lingua inglese o giapponese",
+   "Acqua fresca e asciugamano fresco"
+  ],
+  "notIncluded": [
+   "Pass per il tempio 37$ a persona",
+   "cibo"
+  ]
+ },
+ "from-siem-reap-10-day-cambodia-tour-with-koh": {
+  "title": "Da Siem Reap: tour della Cambogia di 10 giorni con l'isola di Koh Rong",
+  "metaTitle": "Da Siem Reap: tour della Cambogia di 10 giorni con l'isola di Koh",
+  "shortDescription": "Visita di 10 giorni a Siem Reap, con Welcome to Siem Reap, Angkor Wat Sunrise e Hidden Temples & Floating Village and Siem Reap to Phnom Penh. Prenotazione diretta con Tola Angkor Guide, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 10 giorni in partenza da Siem Reap che visita Welcome to Siem Reap, Angkor Wat Sunrise e Hidden Temples & Floating Village and Siem Reap to Phnom Penh. Ci sono 10 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Tour dei templi di Siem Reap, Esperienza dell'alba ad Angkor Wat e Visite turistiche storiche e culturali di Phnom Penh. Non comprende Pasti non menzionati, spese personali e assicurazione di viaggio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 1,273 $ a persona, quindi un gruppo di 7 costa 8,909 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nTola Angkor Guide lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tour dei templi di Siem Reap",
+   "Esperienza dell'alba ad Angkor Wat",
+   "Visite turistiche storiche e culturali di Phnom Penh"
+  ],
+  "notIncluded": [
+   "Pasti non menzionati",
+   "spese personali",
+   "assicurazione di viaggio"
+  ]
+ },
  "angkor-national-and-war-museum-with-killing-field-1790425584132-ctmkut": {
   "title": "Museo nazionale e della guerra di Angkor con i campi di sterminio",
   "metaTitle": "Museo nazionale e della guerra di Angkor con i campi di sterminio",
@@ -11740,6 +12176,67 @@ export const IT_TOURS: Record<string, TourT> = {
    "ritiro e riaccompagno in hotel"
   ],
   "notIncluded": []
+ },
+ "private-tour-of-the-temples-of-angkor-with-lunch": {
+  "title": "Tour privato dei templi di Angkor con pranzo in una casa locale: 2 giorni",
+  "metaTitle": "Tour privato dei templi di Angkor con pranzo in una casa locale: ",
+  "shortDescription": "Visita di 2 giorni a Siem Reap, con Guida professionale con licenza (inglese, spagnolo, italiano, francese o giapponese), Trasporto: per 1-2 persone, tuk-tuk il giorno 1 e auto privata il giorno 2; per 3 persone o piu e ritiro e riaccompagno in hotel. Prenotazione diretta con About Cambodia Travel and Tours, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 2 giorni a Siem Reap. L'operatore la riassume cosi: tour privato di 2 giorni: esplora piu templi in tutta tranquillita.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Guida professionale con licenza (inglese, spagnolo, italiano, francese o giapponese), Trasporto: per 1-2 persone, tuk-tuk il giorno 1 e auto privata il giorno 2; per 3 persone o piu e ritiro e riaccompagno in hotel. Non comprende Biglietto d'ingresso al Complesso di Angkor (62$ a persona/2-3 giorni), Qualsiasi spesa personale non menzionata sopra e Pranzo il giorno 1, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 389 $ e 8 costano 478 $, quindi piu siete, meno paga ciascuno.\n\nAbout Cambodia Travel and Tours lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida professionale con licenza (inglese, spagnolo, italiano, francese o giapponese)",
+   "Trasporto: per 1-2 persone, tuk-tuk il giorno 1 e auto privata il giorno 2; per 3 persone o piu",
+   "ritiro e riaccompagno in hotel"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Complesso di Angkor (62$ a persona/2-3 giorni)",
+   "Qualsiasi spesa personale non menzionata sopra",
+   "Pranzo il giorno 1"
+  ]
+ },
+ "phnom-penh-temple-day-trip-with-mekong-sunset-crui": {
+  "title": "Phnom Penh: gita ai templi con crociera al tramonto sul Mekong",
+  "metaTitle": "Phnom Penh: gita ai templi con crociera al tramonto sul Mekong",
+  "shortDescription": "Visita di giornata intera a Phnom Penh, con Auto privata confortevole con guidatore professionale, Ritiro e rientro in hotel a Phnom Penh e Tutta la benzina, i pedaggi e il parcheggio. Prenotazione diretta con Tola Angkor Guide, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Phnom Penh. L'operatore la riassume cosi: esplora l'antico Tempio di Ta Prohm Bati circondato dagli alberi.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIl prezzo comprende Auto privata confortevole con guidatore professionale, Ritiro e rientro in hotel a Phnom Penh e Tutta la benzina, i pedaggi e il parcheggio. Non comprende pasti e bevande e Pranzo in un ristorante locale (a tua scelta e a tue spese), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 168 $, 4 costano 390 $ e 7 costano 682 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nTola Angkor Guide lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Auto privata confortevole con guidatore professionale",
+   "Ritiro e rientro in hotel a Phnom Penh",
+   "Tutta la benzina, i pedaggi e il parcheggio"
+  ],
+  "notIncluded": [
+   "pasti e bevande",
+   "Pranzo in un ristorante locale (a tua scelta e a tue spese)"
+  ]
+ },
+ "phnom-penh-city-tours-and-mekong-river-sunset-crui": {
+  "title": "Tour della citta di Phnom Penh e crociera al tramonto sul fiume Mekong",
+  "metaTitle": "Tour della citta di Phnom Penh e crociera al tramonto sul fiume M",
+  "shortDescription": "Visita di mezza giornata a Phnom Penh, con Naga World Night Club, Choeung Ek, National Museum of Cambodia and Royal Palace e Phnom Penh. Prenotazione diretta con Bayontabi tour, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Phnom Penh che visita Naga World Night Club, Choeung Ek, National Museum of Cambodia and Royal Palace e Phnom Penh. Ci sono 7 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nIl Palazzo Reale di Phnom Penh e la residenza del re cambogiano dal 1866 ed e ancora abitato, quindi gli appartamenti reali sono chiusi e la Sala del Trono si vede solo dall'esterno. La Pagoda d'Argento, nello stesso complesso, prende il nome dalle cinquemila piastrelle d'argento del pavimento, la maggior parte oggi coperte per proteggerle, e custodisce un Buddha di 90 chilogrammi d'oro incastonato con oltre duemila diamanti. Il palazzo impone un codice di abbigliamento al cancello: spalle e ginocchia coperte per tutti. Il Museo Nazionale accanto ha la migliore scultura khmer esistente, e chiude per la pausa pranzo.\n\nIl prezzo comprende Tasse d'ingresso al Palazzo Reale (con guida locale), Tasse d'ingresso al museo nazionale e Tasse d'ingresso ai campi di sterminio (Choeung Ek) (con audioguida). Non comprende spese personali e mancia, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 325 $, 5 costano 812 $ e 8 costano 1,300 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nBayontabi tour lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tasse d'ingresso al Palazzo Reale (con guida locale)",
+   "Tasse d'ingresso al museo nazionale",
+   "Tasse d'ingresso ai campi di sterminio (Choeung Ek) (con audioguida)"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "mancia"
+  ]
+ },
+ "3-days-angkor-wat-tour-with-english-guide": {
+  "title": "Angkor Wat: tour di 3 giorni con guida in inglese",
+  "metaTitle": "Angkor Wat: tour di 3 giorni con guida in inglese",
+  "shortDescription": "Visita a Siem Reap, con Krong Siem Reap, Angkor Wat e Tonle Om Gate (Southern Gate) and Bayon Temple. Prenotazione diretta con Brother Transports Travels, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour in partenza da Siem Reap che visita Krong Siem Reap, Angkor Wat e Tonle Om Gate (Southern Gate) and Bayon Temple. Ci sono 15 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende Guida turistica con licenza di lingua inglese, Trasporto confortevole con aria condizionata (veicolo privato) e acqua in bottiglia. Non comprende Biglietti per Angkor Wat di 3 giorni (62$ a persona, a carico del cliente) e Biglietto d'ingresso alla cascata di Kulen (20$ a persona, a carico del cliente), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 514 $ e 6 costano 566 $, quindi piu siete, meno paga ciascuno.\n\nBrother Transports Travels lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida turistica con licenza di lingua inglese",
+   "Trasporto confortevole con aria condizionata (veicolo privato)",
+   "acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Biglietti per Angkor Wat di 3 giorni (62$ a persona, a carico del cliente)",
+   "Biglietto d'ingresso alla cascata di Kulen (20$ a persona, a carico del cliente)"
+  ]
  },
  "angkor-wat-sunrise-and-top-temples-small-group-tou": {
   "title": "Angkor Wat all'alba e i templi principali: tour in piccolo gruppo",
@@ -11773,6 +12270,217 @@ export const IT_TOURS: Record<string, TourT> = {
    "mance"
   ]
  },
+ "killing-fields-and-tuol-sleng-s21-museum-half-day": {
+  "title": "Campi di sterminio e museo di Tuol Sleng (S-21): tour di mezza giornata",
+  "metaTitle": "Campi di sterminio e museo di Tuol Sleng (S-21): tour di mezza gi",
+  "shortDescription": "Visita a Phnom Penh, con Phnom Penh. Prenotazione diretta con Cambodia Taxi Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour in partenza da Phnom Penh che visita Phnom Penh.\n\nTuol Sleng era una scuola secondaria di Phnom Penh che i Khmer Rossi trasformarono nella Prigione di Sicurezza 21 nel 1975. Delle circa 12.000-20.000 persone detenute li, una dozzina circa sono sopravvissute. Le aule hanno ancora le strutture in ferro dei letti e le fotografie che il regime scattava a ogni prigioniero all'arrivo. Choeung Ek, a circa 15 chilometri di distanza, e dove la maggior parte venivano portati per essere uccisi, e il suo stupa custodisce circa 5.000 teschi; l'audioguida li e narrata in parte da un sopravvissuto ed e il motivo per cui la maggior parte dei visitatori riesce a reggere la visita. Entrambi i siti si visitano in silenzio, richiedono circa mezza giornata insieme, e non sono adatti ai bambini piccoli.\n\nIl prezzo comprende veicolo con aria condizionata, guida parlante inglese e Tasse d'ingresso al museo del genocidio di Tuol Sleng. Non comprende Pasti, spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 162 $, 5 costano 384 $ e 7 costano 446 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Taxi Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "veicolo con aria condizionata",
+   "guida parlante inglese",
+   "Tasse d'ingresso al museo del genocidio di Tuol Sleng"
+  ],
+  "notIncluded": [
+   "Pasti, spese personali"
+  ]
+ },
+ "shared-transfer-siem-reap-battambang-kampot-sihano": {
+  "title": "Trasferimento condiviso: Siem Reap, Battambang, Kampot, Sihanoukville",
+  "metaTitle": "Trasferimento condiviso: Siem Reap, Battambang, Kampot, Sihanoukv",
+  "shortDescription": "Visita di giornata intera a Phnom Penh, con trasporto in veicolo con aria condizionata, Un guidatore professionale e Posto a sedere proprio per ogni trasferimento. Prenotazione diretta con Angkor Guide Adventure, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Phnom Penh. L'operatore la riassume cosi: esplora le migliori destinazioni della Cambogia.\n\nBattambang e la seconda citta della Cambogia e la piu tranquilla, una cittadina fluviale di case-negozio in stile francese a circa tre ore da Siem Reap. Il treno di bambu, il norry, e una piattaforma di bambu su ruote spinta da un piccolo motore lungo un unico binario; quando due si incontrano, quello piu leggero viene tolto dai binari a mano. La linea originale a O Dambong e stata sostituita da un binario turistico costruito apposta a Banan. Al tramonto, milioni di pipistrelli dalle labbra increspate escono in massa da una grotta nella scogliera di Phnom Sampeau per circa mezz'ora in un nastro ininterrotto, e la stessa collina porta un memoriale della grotta degli omicidi degli anni dei Khmer Rossi.\n\nIl prezzo comprende trasporto in veicolo con aria condizionata, Un guidatore professionale e Posto a sedere proprio per ogni trasferimento. Non comprende alloggio, pasti e bevande e altre spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 65 $ a persona, quindi un gruppo di 5 costa 325 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nAngkor Guide Adventure lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "trasporto in veicolo con aria condizionata",
+   "Un guidatore professionale",
+   "Posto a sedere proprio per ogni trasferimento"
+  ],
+  "notIncluded": [
+   "alloggio",
+   "pasti e bevande",
+   "altre spese personali"
+  ]
+ },
+ "phnom-kulen-sacred-mountain-jeep-adventure": {
+  "title": "Avventura in jeep alla sacra montagna di Phnom Kulen",
+  "metaTitle": "Avventura in jeep alla sacra montagna di Phnom Kulen",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con ritiro e riaccompagno in hotel, Trasporto in jeep scoperta e guida parlante inglese. Prenotazione diretta con Jeep Tour Siem Reap Angkor, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: scopri la sacra montagna di Phnom Kulen, il luogo di nascita della cultura khmer.\n\nPhnom Kulen e l'altopiano di arenaria da cui furono estratte le pietre dei templi di Angkor e il luogo dove Jayavarman II si proclamo monarca universale nell'802, data che i cambogiani considerano la fondazione del loro impero. La strada per salire e scoscesa e il sito ha un proprio ingresso da 20 USD, separato dall'Angkor Pass. In cima ci sono la cascata a due livelli sotto cui la gente si tuffa, il letto del fiume scolpito con linga, il cugino piu grande di Kbal Spean, e un Buddha sdraiato scolpito in un masso nella pagoda in vetta, raggiungibile a piedi scalzi. E una giornata intera da Siem Reap e il periodo migliore e durante o appena dopo le piogge, quando le cascate scorrono davvero.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Trasporto in jeep scoperta e guida parlante inglese. Non comprende pranzo, spese personali e mance, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 176 $ a persona, quindi un gruppo di 8 costa 1,404 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nJeep Tour Siem Reap Angkor lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Trasporto in jeep scoperta",
+   "guida parlante inglese"
+  ],
+  "notIncluded": [
+   "pranzo",
+   "spese personali",
+   "mance"
+  ]
+ },
+ "full-day-preah-khan-kampong-svay-and-spean-praptos": {
+  "title": "Giornata intera: Preah Khan Kampong Svay e Spean Praptos",
+  "metaTitle": "Giornata intera: Preah Khan Kampong Svay e Spean Praptos",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con guida turistica parlante inglese, Auto con aria condizionata e guidatore e Acqua fresca. Prenotazione diretta con Asia Voyage Travel & Tour, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: visita Preah Khan Kampong Svay o Bakan Svay Rolay.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIl prezzo comprende guida turistica parlante inglese, Auto con aria condizionata e guidatore e Acqua fresca. Non comprende biglietti d'ingresso e pasti, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 169 $, 6 costano 338 $ e 8 costano 338 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAsia Voyage Travel & Tour lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "guida turistica parlante inglese",
+   "Auto con aria condizionata e guidatore",
+   "Acqua fresca"
+  ],
+  "notIncluded": [
+   "biglietti d'ingresso",
+   "pasti"
+  ]
+ },
+ "siem-reap-happy-horse-riding-free-pick-up-and": {
+  "title": "Siem Reap: equitazione, ritiro e rientro gratuiti",
+  "metaTitle": "Siem Reap: equitazione, ritiro e rientro gratuiti",
+  "shortDescription": "Visita di 1 ora a Siem Reap, con Esperienza di equitazione nella campagna, Istruttore di equitazione e attrezzatura e Servizio di ritiro e rientro in hotel in tuk-tuk. Prenotazione diretta con SARUS CO., LTD, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 1 ora a Siem Reap. L'operatore la riassume cosi: goditi le favolose risaie verdi e la pagoda dorata.\n\nLa campagna immediatamente intorno a Siem Reap e risaie, palme da zucchero e villaggi che si trovano a cinque minuti dalla strada dei templi e che raramente vengono visti da chi fa i circuiti classici. La palma da zucchero e l'albero nazionale e la sua linfa viene raccolta dalla chioma da uomini che si arrampicano due volte al giorno su un palo intagliato, poi bollita per ottenere lo zucchero di palma usato in ogni cucina khmer. L'anno del riso regola tutto: trapianto nei mesi umidi, i campi verdi durante le piogge, raccolto tra novembre e dicembre, poi stoppie secche e polvere. Il tardo pomeriggio e quando la luce funziona meglio e quando i villaggi sono in attivita, quindi la maggior parte di questi giri si svolgono fino al tramonto.\n\nIl prezzo comprende Esperienza di equitazione nella campagna, Istruttore di equitazione e attrezzatura e Servizio di ritiro e rientro in hotel in tuk-tuk. Non comprende Servizio di trasferimento extra, Cibo e bevande durante il programma e guida turistica, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 87 $ a persona, quindi un gruppo di 7 costa 610 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nSARUS CO., LTD lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Esperienza di equitazione nella campagna",
+   "Istruttore di equitazione e attrezzatura",
+   "Servizio di ritiro e rientro in hotel in tuk-tuk"
+  ],
+  "notIncluded": [
+   "Servizio di trasferimento extra",
+   "Cibo e bevande durante il programma",
+   "guida turistica"
+  ]
+ },
+ "kulen-mountain-and-walking-tour": {
+  "title": "Montagna di Kulen e tour a piedi",
+  "metaTitle": "Montagna di Kulen e tour a piedi",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap. Prenotazione diretta con Cambodian Travel Immersion, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap.\n\nPhnom Kulen e l'altopiano di arenaria da cui furono estratte le pietre dei templi di Angkor e il luogo dove Jayavarman II si proclamo monarca universale nell'802, data che i cambogiani considerano la fondazione del loro impero. La strada per salire e scoscesa e il sito ha un proprio ingresso da 20 USD, separato dall'Angkor Pass. In cima ci sono la cascata a due livelli sotto cui la gente si tuffa, il letto del fiume scolpito con linga, il cugino piu grande di Kbal Spean, e un Buddha sdraiato scolpito in un masso nella pagoda in vetta, raggiungibile a piedi scalzi. E una giornata intera da Siem Reap e il periodo migliore e durante o appena dopo le piogge, quando le cascate scorrono davvero.\n\nIl prezzo comprende Trasporto con aria condizionata, Guida turistica fotografa professionale di lingua inglese e acqua in bottiglia. Non comprende Biglietti per Kulen (20 USD a persona), mance e assicurazione di viaggio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 110 $ a persona, quindi un gruppo di 8 costa 884 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nCambodian Travel Immersion lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Trasporto con aria condizionata",
+   "Guida turistica fotografa professionale di lingua inglese",
+   "acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Biglietti per Kulen (20 USD a persona)",
+   "mance",
+   "assicurazione di viaggio"
+  ]
+ },
+ "nightlife-city-tour": {
+  "title": "Tour della citta e vita notturna",
+  "metaTitle": "Tour della citta e vita notturna",
+  "shortDescription": "Visita di 3 ore a Phnom Penh, con Statue of His Majesty Preah Bat Samdech Preah Norodom Sihanouk, Secret stop e Local bar and Visit (45 minutes). Prenotazione diretta con Cambo Tours Services, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 3 ore in partenza da Phnom Penh che visita Statue of His Majesty Preah Bat Samdech Preah Norodom Sihanouk, Secret stop e Local bar and Visit (45 minutes).\n\nIl prezzo comprende Costo della guida locale e Trasporto, ritiro/rientro in tuk-tuk. Non comprende bevande, cibi e Qualsiasi tipo di spesa personale, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 77 $, 5 costano 292 $ e 8 costano 468 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambo Tours Services lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Costo della guida locale",
+   "Trasporto, ritiro/rientro in tuk-tuk"
+  ],
+  "notIncluded": [
+   "bevande",
+   "cibi",
+   "Qualsiasi tipo di spesa personale"
+  ]
+ },
+ "from-siem-reap-phnom-kulen-national-park-trekking-": {
+  "title": "Da Siem Reap: trekking nel Parco Nazionale di Phnom Kulen",
+  "metaTitle": "Da Siem Reap: trekking nel Parco Nazionale di Phnom Kulen",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Phnom Kulen National Park e Preah Ang Choub Pagoda and Sacred place. Prenotazione diretta con Angkor Focus Travel, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Phnom Kulen National Park e Preah Ang Choub Pagoda and Sacred place. Ci sono 11 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nPhnom Kulen e l'altopiano di arenaria da cui furono estratte le pietre dei templi di Angkor e il luogo dove Jayavarman II si proclamo monarca universale nell'802, data che i cambogiani considerano la fondazione del loro impero. La strada per salire e scoscesa e il sito ha un proprio ingresso da 20 USD, separato dall'Angkor Pass. In cima ci sono la cascata a due livelli sotto cui la gente si tuffa, il letto del fiume scolpito con linga, il cugino piu grande di Kbal Spean, e un Buddha sdraiato scolpito in un masso nella pagoda in vetta, raggiungibile a piedi scalzi. E una giornata intera da Siem Reap e il periodo migliore e durante o appena dopo le piogge, quando le cascate scorrono davvero.\n\nIl prezzo comprende Ritiro e rientro in hotel (fornisci i dettagli del tuo hotel per il ritiro), guida turistica autorizzata in lingua inglese e Trasferimento privato di andata e ritorno in veicolo con aria condizionata. Non comprende pranzo e Mancia per guida turistica e guidatore, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 340 $, 4 costano 644 $ e 7 costano 1,126 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Focus Travel lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel (fornisci i dettagli del tuo hotel per il ritiro)",
+   "guida turistica autorizzata in lingua inglese",
+   "Trasferimento privato di andata e ritorno in veicolo con aria condizionata"
+  ],
+  "notIncluded": [
+   "pranzo",
+   "Mancia per guida turistica e guidatore"
+  ]
+ },
+ "pottery-classes-in-siem-reap-with-pickup-and-drop": {
+  "title": "Corsi di ceramica a Siem Reap con ritiro e rientro",
+  "metaTitle": "Corsi di ceramica a Siem Reap con ritiro e rientro",
+  "shortDescription": "Visita di 2 ore a Siem Reap, con ritiro e riaccompagno in hotel, Visita al laboratorio e Costo del corso di ceramica. Prenotazione diretta con Passion Indochina Travel Co.,Ltd., invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 2 ore a Siem Reap. L'operatore la riassume cosi: scopri la ceramica cambogiana da un artista locale esperto.\n\nIl traffico di Siem Reap e leggero rispetto agli standard regionali e il tragitto dall'Aeroporto Internazionale Siem Reap Angkor, inaugurato nel 2023 a circa 40 chilometri a est della citta, richiede ora circa 45 minuti invece dei dieci minuti del vecchio aeroporto. In citta un tuk-tuk e il modo normale di spostarsi e un'auto privata e la scelta abituale per i circuiti dei templi, dove la giornata comporta lunghe pause tra una tappa e l'altra in un caldo che si aggira sui trentacinque gradi da marzo a maggio. Gli autisti aspettano ai templi invece di andarsene, quindi un'auto per la giornata intera viene noleggiata a giornata, non a tratta.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Visita al laboratorio e Costo del corso di ceramica. Non comprende Spese per il tuo pezzo di ceramica, Cibo e bevande, salvo diversa indicazione e gratifiche facoltative, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nPassion Indochina Travel Co.,Ltd. lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Visita al laboratorio",
+   "Costo del corso di ceramica"
+  ],
+  "notIncluded": [
+   "Spese per il tuo pezzo di ceramica",
+   "Cibo e bevande, salvo diversa indicazione",
+   "gratifiche facoltative"
+  ]
+ },
+ "bird-watching-at-tonle-sap-forest-and-lotus-farm": {
+  "title": "Birdwatching nella foresta del Tonle Sap e nella fattoria di loto a Siem Reap",
+  "metaTitle": "Birdwatching nella foresta del Tonle Sap e nella fattoria di loto",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Krong Siem Reap and Pearaing Biodiversity Conservation Center. Prenotazione diretta con Pitt Angkor Tour, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Siem Reap che visita Krong Siem Reap and Pearaing Biodiversity Conservation Center.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende Trasporto in auto con aria condizionata, Colazione locale con dolci e Bottiglia d'acqua fresca e asciugamani. Non comprende Cibo e bevande non menzionati e Mancia di apprezzamento, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 195 $, 5 costano 390 $ e 8 costano 499 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nPitt Angkor Tour lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Trasporto in auto con aria condizionata",
+   "Colazione locale con dolci",
+   "Bottiglia d'acqua fresca e asciugamani"
+  ],
+  "notIncluded": [
+   "Cibo e bevande non menzionati",
+   "Mancia di apprezzamento"
+  ]
+ },
+ "one-day-small-circuit-tour-angkor-wat-bayon-ta": {
+  "title": "Tour di un giorno del piccolo circuito: Angkor Wat, Bayon, Ta Prohm",
+  "metaTitle": "Tour di un giorno del piccolo circuito: Angkor Wat, Bayon, Ta Pro",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Angkor Wat e Angkor Thom and Ta Prohm Temple. Prenotazione diretta con Cambodia Angkor Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Angkor Wat e Angkor Thom and Ta Prohm Temple. Ci sono 5 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, veicolo con aria condizionata e trasporto privato. Non comprende Prezzo d'ingresso del pass per i templi di Angkor per un giorno (37$ a persona) e Opzione 2: guida storica di lingua inglese, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 84 $, 5 costano 169 $ e 8 costano 169 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Angkor Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "veicolo con aria condizionata",
+   "trasporto privato"
+  ],
+  "notIncluded": [
+   "Prezzo d'ingresso del pass per i templi di Angkor per un giorno (37$ a persona)",
+   "Opzione 2: guida storica di lingua inglese"
+  ]
+ },
+ "kampong-phluk-floating-village-and-local-market-pr": {
+  "title": "Villaggio flottante di Kampong Phluk e mercato locale: mezza giornata privata",
+  "metaTitle": "Villaggio flottante di Kampong Phluk e mercato locale: mezza gior",
+  "shortDescription": "Visita a Siem Reap, con Krong Siem Reap e Phsar Leu Thom Tmey and Kampong Phluk. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour in partenza da Siem Reap che visita Krong Siem Reap e Phsar Leu Thom Tmey and Kampong Phluk.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende guida parlante inglese, ritiro e riaccompagno e Tuk-tuk privato (upgrade a SUV o furgone con aria condizionata disponibile al momento del pagamento). Non comprende Biglietti della barca per il villaggio flottante, Piccole barche a remi (facoltative) e Mance per un buon servizio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 127 $, 4 costano 146 $ e 6 costano 218 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "guida parlante inglese",
+   "ritiro e riaccompagno",
+   "Tuk-tuk privato (upgrade a SUV o furgone con aria condizionata disponibile al momento del pagamento)"
+  ],
+  "notIncluded": [
+   "Biglietti della barca per il villaggio flottante",
+   "Piccole barche a remi (facoltative)",
+   "Mance per un buon servizio"
+  ]
+ },
+ "from-siem-reap-2-hour-quad-bike-tour-in": {
+  "title": "Da Siem Reap: tour in quad di 2 ore in campagna",
+  "metaTitle": "Da Siem Reap: tour in quad di 2 ore in campagna",
+  "shortDescription": "Visita di 2 ore a Siem Reap, con Istruzioni di sicurezza e su come guidare il quad e Noleggio quad Polaris Trailboss 330 e Kawasaki Bruteforce 300. Prenotazione diretta con SIEM REAP QUAD BIKE ADVENTURE, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 2 ore a Siem Reap. L'operatore la riassume cosi: goditi la bella campagna e osserva le risaie sotto un cielo azzurro terso.\n\nLa campagna immediatamente intorno a Siem Reap e risaie, palme da zucchero e villaggi che si trovano a cinque minuti dalla strada dei templi e che raramente vengono visti da chi fa i circuiti classici. La palma da zucchero e l'albero nazionale e la sua linfa viene raccolta dalla chioma da uomini che si arrampicano due volte al giorno su un palo intagliato, poi bollita per ottenere lo zucchero di palma usato in ogni cucina khmer. L'anno del riso regola tutto: trapianto nei mesi umidi, i campi verdi durante le piogge, raccolto tra novembre e dicembre, poi stoppie secche e polvere. Il tardo pomeriggio e quando la luce funziona meglio e quando i villaggi sono in attivita, quindi la maggior parte di questi giri si svolgono fino al tramonto.\n\nIl prezzo comprende Istruzioni di sicurezza e su come guidare il quad e Noleggio quad Polaris Trailboss 330 e Kawasaki Bruteforce 300. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nSIEM REAP QUAD BIKE ADVENTURE lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Istruzioni di sicurezza e su come guidare il quad",
+   "Noleggio quad Polaris Trailboss 330 e Kawasaki Bruteforce 300"
+  ],
+  "notIncluded": []
+ },
+ "discover-toul-sleng-and-choeung-ek-genocide-museum": {
+  "title": "Scopri Tuol Sleng e il museo del genocidio di Choeung Ek",
+  "metaTitle": "Scopri Tuol Sleng e il museo del genocidio di Choeung Ek",
+  "shortDescription": "Visita di mezza giornata a Phnom Penh, con SUN & MO and Independence Monument. Prenotazione diretta con Welcome Pickups, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Phnom Penh che visita SUN & MO and Independence Monument.\n\nTuol Sleng era una scuola secondaria di Phnom Penh che i Khmer Rossi trasformarono nella Prigione di Sicurezza 21 nel 1975. Delle circa 12.000-20.000 persone detenute li, una dozzina circa sono sopravvissute. Le aule hanno ancora le strutture in ferro dei letti e le fotografie che il regime scattava a ogni prigioniero all'arrivo. Choeung Ek, a circa 15 chilometri di distanza, e dove la maggior parte venivano portati per essere uccisi, e il suo stupa custodisce circa 5.000 teschi; l'audioguida li e narrata in parte da un sopravvissuto ed e il motivo per cui la maggior parte dei visitatori riesce a reggere la visita. Entrambi i siti si visitano in silenzio, richiedono circa mezza giornata insieme, e non sono adatti ai bambini piccoli.\n\nIl prezzo comprende Maglietta, Ritiro/rientro in hotel gratuito e Trasporto in bus turistico con aria condizionata. Non comprende Biglietto d'ingresso (si paga al banco vicino alla tappa 1) e Lettore audio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 30 $, 5 costano 150 $ e 8 costano 299 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nWelcome Pickups lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Maglietta",
+   "Ritiro/rientro in hotel gratuito",
+   "Trasporto in bus turistico con aria condizionata"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso (si paga al banco vicino alla tappa 1)",
+   "Lettore audio"
+  ]
+ },
  "kulen-elephant-forest-tour-with-hotel-pick-up-and": {
   "title": "Tour della foresta degli elefanti di Kulen con ritiro e rientro in hotel",
   "metaTitle": "Tour della foresta degli elefanti di Kulen con ritiro e rientro i",
@@ -11785,6 +12493,99 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "spese personali"
+  ]
+ },
+ "angkor-wat-four-days-tour-standard": {
+  "title": "Angkor Wat: tour standard di quattro giorni",
+  "metaTitle": "Angkor Wat: tour standard di quattro giorni",
+  "shortDescription": "Visita di 4 giorni a Siem Reap, con ritiro e riaccompagno in hotel, Guida turistica di lingua inglese con licenza completa e guidatore. Prenotazione diretta con Angkor Wat Private Tour, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 4 giorni a Siem Reap. L'operatore la riassume cosi: vivi un paesaggio splendido per foto dalla montagna e dalla cascata sacra.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Guida turistica di lingua inglese con licenza completa e guidatore. Non comprende Costo del biglietto per il tempio, Costo del biglietto per il parco nazionale e Costo del biglietto per il giro in barca, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 670 $ e 8 costano 708 $, quindi piu siete, meno paga ciascuno.\n\nAngkor Wat Private Tour lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Guida turistica di lingua inglese con licenza completa",
+   "guidatore"
+  ],
+  "notIncluded": [
+   "Costo del biglietto per il tempio",
+   "Costo del biglietto per il parco nazionale",
+   "Costo del biglietto per il giro in barca"
+  ]
+ },
+ "small-group-angkor-wat-guided-tour-with-sunset": {
+  "title": "Angkor Wat: tour guidato in piccolo gruppo con tramonto",
+  "metaTitle": "Angkor Wat: tour guidato in piccolo gruppo con tramonto",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Bus/coach, Angkor Wat and Ta Prohm Temple e Angkor Wat. Prenotazione diretta con Journey Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Bus/coach, Angkor Wat and Ta Prohm Temple e Angkor Wat. Ci sono 7 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, guida parlante inglese e Minivan o pullman con aria condizionata. Non comprende pasti e Angkor Pass (37$ per 1 giorno), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 14 $ a persona, quindi un gruppo di 6 costa 86 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nJourney Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "guida parlante inglese",
+   "Minivan o pullman con aria condizionata"
+  ],
+  "notIncluded": [
+   "pasti",
+   "Angkor Pass (37$ per 1 giorno)"
+  ]
+ },
+ "2-day-angkor-wat-with-small-and-big-circuits": {
+  "title": "Angkor Wat con piccolo e grande circuito e tour di Banteay Srei: 2 giorni",
+  "metaTitle": "Angkor Wat con piccolo e grande circuito e tour di Banteay Srei: ",
+  "shortDescription": "Visita di 2 giorni a Siem Reap, con Angkor Wat Temple, Banteay Kdei Temple e Ta Promh Temple and Ta Nei Temple. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 2 giorni in partenza da Siem Reap che visita Angkor Wat Temple, Banteay Kdei Temple e Ta Promh Temple and Ta Nei Temple. Ci sono 23 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, trasporto privato con aria condizionata e guida. Non comprende Pass per i templi e Cibo (disponibile per l’acquisto), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 327 $ e 7 costano 364 $, quindi piu siete, meno paga ciascuno.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "trasporto privato con aria condizionata",
+   "guida"
+  ],
+  "notIncluded": [
+   "Pass per i templi",
+   "Cibo (disponibile per l’acquisto)"
+  ]
+ },
+ "from-phnom-penh-koh-rong-island-day-trip-with": {
+  "title": "Da Phnom Penh: gita di un giorno all'isola di Koh Rong con ritiro in hotel",
+  "metaTitle": "Da Phnom Penh: gita di un giorno all'isola di Koh Rong con ritiro",
+  "shortDescription": "Visita di giornata intera a Phnom Penh, con Ritiro privato dal hotel a Phnom Penh, Trasporto in auto privata e Traghetto per l'isola di Koh Rong. Prenotazione diretta con Tola Angkor Guide, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Phnom Penh. L'operatore la riassume cosi: goditi una gita di un giorno all'isola di Koh Rong con ritiro in hotel da Phnom Penh.\n\nLa costa meridionale della Cambogia e un viaggio diverso dai templi. Kampot si trova su un fiume sotto la montagna Bokor ed e nota per il suo pepe, coltivato in piccole proprieta che si possono visitare, e per una griglia di case-negozio in stile francese. Kep, a mezz'ora di distanza, e un'ex citta balneare dell'elite con ville moderniste in rovina, il cui mercato del granchio vende granchi blu nuotatori cucinati con pepe verde di Kampot mentre aspetti. La Stazione Collinare di Bokor sopra Kampot era un ritiro francese abbandonato due volte, e il suo guscio di casino rimane avvolto dalle nuvole quasi ogni mattina. Sihanoukville e il porto e il punto d'imbarco dei traghetti per Koh Rong e Koh Rong Sanloem.\n\nIl prezzo comprende Ritiro privato dal hotel a Phnom Penh, Trasporto in auto privata e Traghetto per l'isola di Koh Rong. Non comprende pasti e spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 259 $, 4 costano 723 $ e 7 costano 1,265 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nTola Angkor Guide lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro privato dal hotel a Phnom Penh",
+   "Trasporto in auto privata",
+   "Traghetto per l'isola di Koh Rong"
+  ],
+  "notIncluded": [
+   "pasti",
+   "spese personali"
+  ]
+ },
+ "3-day-angkor-wat-kulen-waterfall-and-floating-vill": {
+  "title": "Angkor Wat, cascata di Kulen e villaggio flottante: 3 giorni",
+  "metaTitle": "Angkor Wat, cascata di Kulen e villaggio flottante: 3 giorni",
+  "shortDescription": "Visita di 3 giorni a Siem Reap, con Cambodia and វត្តកេសរារាម ហៅវត្តធម្មយុត្តិ. Prenotazione diretta con BREKSA TRAVEL, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 3 giorni in partenza da Siem Reap che visita Cambodia and វត្តកេសរារាម ហៅវត្តធម្មយុត្តិ.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, SUV o minivan con aria condizionata e Tuk-tuk (opzionale). Non comprende pasti, Navetta aeroportuale e Pass per la montagna di Kulen, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 507 $ e 8 costano 507 $, quindi piu siete, meno paga ciascuno.\n\nBREKSA TRAVEL lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "SUV o minivan con aria condizionata",
+   "Tuk-tuk (opzionale)"
+  ],
+  "notIncluded": [
+   "pasti",
+   "Navetta aeroportuale",
+   "Pass per la montagna di Kulen"
+  ]
+ },
+ "angkor-museum-and-kampong-kleang-private-trip": {
+  "title": "Museo di Angkor e Kampong Khleang: gita privata",
+  "metaTitle": "Museo di Angkor e Kampong Khleang: gita privata",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore che parla inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: esplora le sculture e i manufatti khmer al Museo Nazionale di Angkor.\n\nIl Palazzo Reale di Phnom Penh e la residenza del re cambogiano dal 1866 ed e ancora abitato, quindi gli appartamenti reali sono chiusi e la Sala del Trono si vede solo dall'esterno. La Pagoda d'Argento, nello stesso complesso, prende il nome dalle cinquemila piastrelle d'argento del pavimento, la maggior parte oggi coperte per proteggerle, e custodisce un Buddha di 90 chilogrammi d'oro incastonato con oltre duemila diamanti. Il palazzo impone un codice di abbigliamento al cancello: spalle e ginocchia coperte per tutti. Il Museo Nazionale accanto ha la migliore scultura khmer esistente, e chiude per la pausa pranzo.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore che parla inglese. Non comprende Tassa d'ingresso al Museo Nazionale di Angkor, Biglietto per la barca a Kampong Khleang, se richiesto e pasti e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 98 $ e 8 costano 124 $, quindi piu siete, meno paga ciascuno.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "guidatore che parla inglese"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al Museo Nazionale di Angkor",
+   "Biglietto per la barca a Kampong Khleang, se richiesto",
+   "pasti e bevande"
   ]
  },
  "koh-ker-pyramid-and-phnom-kulen-waterfall-private-": {
@@ -11803,6 +12604,157 @@ export const IT_TOURS: Record<string, TourT> = {
    "pasti e bevande"
   ]
  },
+ "apopo-visitor-center-and-kampong-kleang-village-ex": {
+  "title": "Centro Visitatori APOPO ed esperienza del villaggio di Kampong Khleang",
+  "metaTitle": "Centro Visitatori APOPO ed esperienza del villaggio di Kampong Kh",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: scopri la storia delle mine antiuomo della Cambogia al Centro Visitatori APOPO.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Non comprende Biglietto e barca per Kampong Khleang, Tassa d'ingresso al Centro Visitatori APOPO e pasti e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 98 $ e 8 costano 124 $, quindi piu siete, meno paga ciascuno.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "guidatore locale che parla inglese"
+  ],
+  "notIncluded": [
+   "Biglietto e barca per Kampong Khleang",
+   "Tassa d'ingresso al Centro Visitatori APOPO",
+   "pasti e bevande"
+  ]
+ },
+ "angkor-wat-bayon-ta-prohm-and-apopo-experience": {
+  "title": "Angkor Wat, Bayon, Ta Prohm ed esperienza APOPO",
+  "metaTitle": "Angkor Wat, Bayon, Ta Prohm ed esperienza APOPO",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: esplora la magnifica Angkor Wat e le sue antiche gallerie.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Non comprende Pass per i templi di Angkor / tassa d'ingresso, Ingresso al Centro Visitatori APOPO e pasti e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 84 $ e 8 costano 110 $, quindi piu siete, meno paga ciascuno.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "guidatore locale che parla inglese"
+  ],
+  "notIncluded": [
+   "Pass per i templi di Angkor / tassa d'ingresso",
+   "Ingresso al Centro Visitatori APOPO",
+   "pasti e bevande"
+  ]
+ },
+ "apopo-visitor-center-and-kampong-phluk-village-exp": {
+  "title": "Centro Visitatori APOPO ed esperienza del villaggio di Kampong Phluk",
+  "metaTitle": "Centro Visitatori APOPO ed esperienza del villaggio di Kampong Ph",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: scopri gli sforzi contro le mine antiuomo della Cambogia al Centro Visitatori APOPO.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e guidatore locale che parla inglese. Non comprende Biglietto per la barca a Kampong Phluk, Tassa d'ingresso al Centro Visitatori APOPO e pasti e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 84 $ e 8 costano 110 $, quindi piu siete, meno paga ciascuno.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "guidatore locale che parla inglese"
+  ],
+  "notIncluded": [
+   "Biglietto per la barca a Kampong Phluk",
+   "Tassa d'ingresso al Centro Visitatori APOPO",
+   "pasti e bevande"
+  ]
+ },
+ "phnom-kulen-beng-mealea-and-roluos-day-trip": {
+  "title": "Gita di un giorno: Phnom Kulen, Beng Mealea e Roluos",
+  "metaTitle": "Gita di un giorno: Phnom Kulen, Beng Mealea e Roluos",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e Guidatore locale professionale di lingua inglese. Prenotazione diretta con Golden Escape Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: esplora la sacra montagna di Phnom Kulen e l'antico fiume dei 1.000 linga.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, veicolo privato con aria condizionata e Guidatore locale professionale di lingua inglese. Non comprende Tassa d'ingresso al Parco Nazionale di Phnom Kulen e Beng Mealea e gruppo di Roluos con lo stesso Angkor Pass, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 155 $ e 8 costano 194 $, quindi piu siete, meno paga ciascuno.\n\nGolden Escape Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "veicolo privato con aria condizionata",
+   "Guidatore locale professionale di lingua inglese"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al Parco Nazionale di Phnom Kulen",
+   "Beng Mealea e gruppo di Roluos con lo stesso Angkor Pass"
+  ]
+ },
+ "2-days-angkor-wat-and-kulen-mountain-tour-with": {
+  "title": "Angkor Wat e montagna di Kulen: tour di 2 giorni con colazione/pranzo",
+  "metaTitle": "Angkor Wat e montagna di Kulen: tour di 2 giorni con colazione/pr",
+  "shortDescription": "Visita di 2 giorni a Siem Reap, con Watch Sunrise At Angkor Wat Temple, Ta Promh Temple e Break Hour For Breakfast/Lunch At Local Restaurant and Ta Keo is a granite stone temple. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 2 giorni in partenza da Siem Reap che visita Watch Sunrise At Angkor Wat Temple, Ta Promh Temple e Break Hour For Breakfast/Lunch At Local Restaurant and Ta Keo is a granite stone temple. Ci sono 15 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende Biglietto d'ingresso al Parco Nazionale di Phnom Kulen 20$, guida turistica professionista in lingua inglese e Trasporto con aria condizionata. Non comprende Biglietto d'ingresso ad Angkor di 2 o 3 giorni 62$, Gratitudine per guidatore e guida e Spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 364 $, 5 costano 650 $ e 8 costano 936 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Biglietto d'ingresso al Parco Nazionale di Phnom Kulen 20$",
+   "guida turistica professionista in lingua inglese",
+   "Trasporto con aria condizionata"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso ad Angkor di 2 o 3 giorni 62$",
+   "Gratitudine per guidatore e guida",
+   "Spese personali"
+  ]
+ },
+ "angkor-wat-and-major-temples-sunset-shared-tour": {
+  "title": "Angkor Wat e i templi principali al tramonto: tour condiviso",
+  "metaTitle": "Angkor Wat e i templi principali al tramonto: tour condiviso",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con guida turistica in inglese, Veicolo con aria condizionata: furgone/bus con guidatore e Parcheggi e pedaggi autostradali. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 1 giorno a Siem Reap. L'operatore la riassume cosi: esplora l'iconica Angkor Wat, la piu grande struttura religiosa del mondo.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende guida turistica in inglese, Veicolo con aria condizionata: furgone/bus con guidatore e Parcheggi e pedaggi autostradali. Non comprende Pass per i templi di Angkor: 37 USD e Pasti (pranzo), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 46 $, 5 costano 162 $ e 8 costano 172 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "guida turistica in inglese",
+   "Veicolo con aria condizionata: furgone/bus con guidatore",
+   "Parcheggi e pedaggi autostradali"
+  ],
+  "notIncluded": [
+   "Pass per i templi di Angkor: 37 USD",
+   "Pasti (pranzo)"
+  ]
+ },
+ "3-day-small-group-angkor-and-kulen-mountain-tour": {
+  "title": "Angkor e montagna di Kulen: tour in piccolo gruppo di 3 giorni",
+  "metaTitle": "Angkor e montagna di Kulen: tour in piccolo gruppo di 3 giorni",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Ritiro e rientro in hotel (hotel selezionati a Siem Reap), Guidatore con licenza di lingua inglese e trasporto con veicolo confortevole e aria condizionata. Prenotazione diretta con Cambodian Travel Immersion, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: un'alba magnifica getta il suo bagliore dorato sulle iconiche guglie di Angkor Wat.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende Ritiro e rientro in hotel (hotel selezionati a Siem Reap), Guidatore con licenza di lingua inglese e trasporto con veicolo confortevole e aria condizionata. Non comprende Angkor Pass (biglietto d'ingresso), Cascata di Kulen (biglietto d'ingresso) e Spese personali, pasti e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 286 $ e 8 costano 286 $, quindi piu siete, meno paga ciascuno.\n\nCambodian Travel Immersion lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel (hotel selezionati a Siem Reap)",
+   "Guidatore con licenza di lingua inglese",
+   "trasporto con veicolo confortevole e aria condizionata"
+  ],
+  "notIncluded": [
+   "Angkor Pass (biglietto d'ingresso)",
+   "Cascata di Kulen (biglietto d'ingresso)",
+   "Spese personali, pasti e bevande"
+  ]
+ },
+ "preah-khan-kompong-svay-and-spean-praptos-private-": {
+  "title": "Preah Khan Kompong Svay e Spean Praptos: tour privato",
+  "metaTitle": "Preah Khan Kompong Svay e Spean Praptos: tour privato",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con ritiro e riaccompagno in hotel, Guida turistica dal vivo in inglese e Veicolo con aria condizionata: auto/furgone. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 1 giorno a Siem Reap. L'operatore la riassume cosi: esplora l'antico complesso del Tempio di Preah Khan Kompong Svay con una guida.\n\nTa Prohm is the temple the French conservators deliberately left half-swallowed, so the silk-cotton and strangler fig roots still pour over its galleries, and it is the one every visitor recognises from Tomb Raider. It was built by Jayavarman VII in 1186 as a Buddhist monastery and university; an inscription records that it once supported more than 12,500 people, with another 80,000 in the villages that fed it. Wooden walkways now route visitors past the famous roots, which means the queue for the best-known tree can be long by mid-morning. Preah Khan, its larger companion to the north, gets a fraction of the crowds and is the better walk for anyone who wants the same atmosphere without the line.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Guida turistica dal vivo in inglese e Veicolo con aria condizionata: auto/furgone. Non comprende Biglietto per Preah Khan Kampong Svay: 5 USD a persona, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 410 $ e 8 costano 447 $, quindi piu siete, meno paga ciascuno.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Guida turistica dal vivo in inglese",
+   "Veicolo con aria condizionata: auto/furgone"
+  ],
+  "notIncluded": [
+   "Biglietto per Preah Khan Kampong Svay: 5 USD a persona"
+  ]
+ },
+ "countryside-bike-tour-lotus-farms-and-local-life": {
+  "title": "Tour in bicicletta in campagna, fattorie di loto e vita locale",
+  "metaTitle": "Tour in bicicletta in campagna, fattorie di loto e vita locale",
+  "shortDescription": "Visita di 1 giorno a Siem Reap, con Old Market, Mountain bike e Crocodile House and ជុំរំភ្នំក្រោម-Food and Clothing Sr. Prenotazione diretta con Siem Reaper Travel, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 1 giorno in partenza da Siem Reap che visita Old Market, Mountain bike e Crocodile House and ជុំរំភ្នំក្រោម-Food and Clothing Sr. Ci sono 8 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nLa campagna immediatamente intorno a Siem Reap e risaie, palme da zucchero e villaggi che si trovano a cinque minuti dalla strada dei templi e che raramente vengono visti da chi fa i circuiti classici. La palma da zucchero e l'albero nazionale e la sua linfa viene raccolta dalla chioma da uomini che si arrampicano due volte al giorno su un palo intagliato, poi bollita per ottenere lo zucchero di palma usato in ogni cucina khmer. L'anno del riso regola tutto: trapianto nei mesi umidi, i campi verdi durante le piogge, raccolto tra novembre e dicembre, poi stoppie secche e polvere. Il tardo pomeriggio e quando la luce funziona meglio e quando i villaggi sono in attivita, quindi la maggior parte di questi giri si svolgono fino al tramonto.\n\nIl prezzo comprende Ritiro e rientro nel tuo hotel a Siem Reap, Noleggio mountain bike e guida locale. Non comprende bevande e spese personali e Mancia per la guida, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 194 $, 5 costano 350 $ e 8 costano 467 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nSiem Reaper Travel lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro nel tuo hotel a Siem Reap",
+   "Noleggio mountain bike",
+   "guida locale"
+  ],
+  "notIncluded": [
+   "bevande e spese personali",
+   "Mancia per la guida"
+  ]
+ },
+ "traditional-buddhist-water-blessing-private-tour": {
+  "title": "Tradizionale benedizione buddista con acqua: tour privato",
+  "metaTitle": "Tradizionale benedizione buddista con acqua: tour privato",
+  "shortDescription": "Visita di 3 ore a Siem Reap, con Ritiro e rientro in hotel con veicoli tuk-tuk, Guida turistica con licenza in inglese e Tradizionale benedizione buddista con acqua. Prenotazione diretta con Happy Angkor Tour Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 3 ore a Siem Reap. L'operatore la riassume cosi: vivi una tradizionale cerimonia buddista di benedizione con acqua a Siem Reap.\n\nIl prezzo comprende Ritiro e rientro in hotel con veicoli tuk-tuk, Guida turistica con licenza in inglese e Tradizionale benedizione buddista con acqua. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 103 $, 5 costano 159 $ e 8 costano 187 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nHappy Angkor Tour Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel con veicoli tuk-tuk",
+   "Guida turistica con licenza in inglese",
+   "Tradizionale benedizione buddista con acqua"
+  ],
+  "notIncluded": []
+ },
  "angkor-park-jungle-biking-adventure-private-tour": {
   "title": "Avventura in bicicletta nella giungla del parco di Angkor: tour privato",
   "metaTitle": "Avventura in bicicletta nella giungla del parco di Angkor: tour p",
@@ -11817,6 +12769,21 @@ export const IT_TOURS: Record<string, TourT> = {
    "Angkor Pass: 37 USD a persona per il pass di un giorno (bambini sotto i 12 anni gratis)"
   ]
  },
+ "phnom-krom-sunset-picnic-with-vintage-land-rover": {
+  "title": "Picnic al tramonto a Phnom Krom con Land Rover vintage",
+  "metaTitle": "Picnic al tramonto a Phnom Krom con Land Rover vintage",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Pub Street e Vintage car and Phnom Kraom. Prenotazione diretta con Angkor Bike Rental Service, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Siem Reap che visita Pub Street e Vintage car and Phnom Kraom.\n\nLa campagna immediatamente intorno a Siem Reap e risaie, palme da zucchero e villaggi che si trovano a cinque minuti dalla strada dei templi e che raramente vengono visti da chi fa i circuiti classici. La palma da zucchero e l'albero nazionale e la sua linfa viene raccolta dalla chioma da uomini che si arrampicano due volte al giorno su un palo intagliato, poi bollita per ottenere lo zucchero di palma usato in ogni cucina khmer. L'anno del riso regola tutto: trapianto nei mesi umidi, i campi verdi durante le piogge, raccolto tra novembre e dicembre, poi stoppie secche e polvere. Il tardo pomeriggio e quando la luce funziona meglio e quando i villaggi sono in attivita, quindi la maggior parte di questi giri si svolgono fino al tramonto.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, guidatore e guida privati e Trasporto in Land Rover vintage. Non comprende assicurazione di viaggio e spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 422 $, 5 costano 422 $ e 8 costano 585 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Bike Rental Service lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "guidatore e guida privati",
+   "Trasporto in Land Rover vintage"
+  ],
+  "notIncluded": [
+   "assicurazione di viaggio",
+   "spese personali"
+  ]
+ },
  "private-half-day-city-tour": {
   "title": "Tour privato della citta di mezza giornata",
   "metaTitle": "Tour privato della citta di mezza giornata",
@@ -11828,6 +12795,38 @@ export const IT_TOURS: Record<string, TourT> = {
    "Carburante e pedaggi"
   ],
   "notIncluded": []
+ },
+ "phnom-kulen-national-park-and-banteay-srei-tour": {
+  "title": "Tour del Parco Nazionale di Phnom Kulen e di Banteay Srei",
+  "metaTitle": "Tour del Parco Nazionale di Phnom Kulen e di Banteay Srei",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Phnom Kulen National Park e Poeng Ta Kho (Amazing Cliff) and Wat Preah Ang Thom. Prenotazione diretta con Siem Reap Shuttle, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Phnom Kulen National Park e Poeng Ta Kho (Amazing Cliff) and Wat Preah Ang Thom. Ci sono 6 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nBanteay Srei si trova 37 chilometri a nord-est del gruppo principale di Angkor ed e scolpito in un'arenaria rosa che conserva dettagli che nessun altro tempio khmer mantiene: gli architravi e i frontoni sono scolpiti cosi in profondita da proiettare ombre reali, motivo per cui viene chiamata la cittadella delle donne. E piccolo, fu consacrato nel 967 a Shiva, e fu costruito da un bramino piuttosto che da un re. Essendo isolato viene di solito abbinato a Kbal Spean, il fiume dei mille linga, dove sculture di Shiva giacciono dentro e sotto il letto del fiume e la camminata di salita e di circa 1,5 chilometri su sentiero nella foresta. Entrambi chiudono prima dei templi centrali, quindi sono tappe del mattino.\n\nIl prezzo comprende Ritiro e rientro in hotel tra le 7:40 e le 8:10, guida che parla inglese e acqua in bottiglia. Non comprende pasti, spese personali e costo di ingresso, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 39 $ a persona, quindi un gruppo di 8 costa 312 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nSiem Reap Shuttle lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel tra le 7:40 e le 8:10",
+   "guida che parla inglese",
+   "acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "pasti",
+   "spese personali",
+   "costo di ingresso"
+  ]
+ },
+ "jeep-and-land-rover-vintage-tour": {
+  "title": "Tour in jeep e Land Rover vintage",
+  "metaTitle": "Tour in jeep e Land Rover vintage",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Angkor Wat e South Gate Angkor and Bayon Temple. Prenotazione diretta con Angkor Bike Rental Service, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Angkor Wat e South Gate Angkor and Bayon Temple. Ci sono 6 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Viaggio su una jeep vintage e Land Rover, Visita al Tempio di Angkor Wat all'alba e Visita al Tempio di Bayon, Tempio di Ta Prohm. Non comprende Tasse d'ingresso ai templi, spese personali e assicurazione di viaggio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 188 $, 5 costano 416 $ e 8 costano 390 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Bike Rental Service lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Viaggio su una jeep vintage e Land Rover",
+   "Visita al Tempio di Angkor Wat all'alba",
+   "Visita al Tempio di Bayon, Tempio di Ta Prohm"
+  ],
+  "notIncluded": [
+   "Tasse d'ingresso ai templi",
+   "spese personali",
+   "assicurazione di viaggio"
+  ]
  },
  "private-architecture-tour": {
   "title": "Tour privato dell'architettura",
@@ -11872,6 +12871,81 @@ export const IT_TOURS: Record<string, TourT> = {
    "assicurazione di viaggio"
   ]
  },
+ "phnom-penh-to-battambang-and-siem-reap-day-trip": {
+  "title": "Da Phnom Penh a Battambang e Siem Reap: gita di un giorno",
+  "metaTitle": "Da Phnom Penh a Battambang e Siem Reap: gita di un giorno",
+  "shortDescription": "Visita di 1 giorno a Phnom Penh, con Ritiro in hotel a Phnom Penh e rientro a Siem Reap, Trasferimento panoramico su strada a Battambang e Esperienza in stile locale sul treno di bambu. Prenotazione diretta con Cambodia Taxi Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 1 giorno a Phnom Penh. L'operatore la riassume cosi: scopri la campagna della Cambogia in una gita di un giorno da Phnom Penh a Siem Reap.\n\nBattambang e la seconda citta della Cambogia e la piu tranquilla, una cittadina fluviale di case-negozio in stile francese a circa tre ore da Siem Reap. Il treno di bambu, il norry, e una piattaforma di bambu su ruote spinta da un piccolo motore lungo un unico binario; quando due si incontrano, quello piu leggero viene tolto dai binari a mano. La linea originale a O Dambong e stata sostituita da un binario turistico costruito apposta a Banan. Al tramonto, milioni di pipistrelli dalle labbra increspate escono in massa da una grotta nella scogliera di Phnom Sampeau per circa mezz'ora in un nastro ininterrotto, e la stessa collina porta un memoriale della grotta degli omicidi degli anni dei Khmer Rossi.\n\nIl prezzo comprende Ritiro in hotel a Phnom Penh e rientro a Siem Reap, Trasferimento panoramico su strada a Battambang e Esperienza in stile locale sul treno di bambu. Non comprende Bevanda del pranzo non inclusa nel pacchetto e Spese di viaggio personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 306 $, 5 costano 682 $ e 8 costano 926 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Taxi Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro in hotel a Phnom Penh e rientro a Siem Reap",
+   "Trasferimento panoramico su strada a Battambang",
+   "Esperienza in stile locale sul treno di bambu"
+  ],
+  "notIncluded": [
+   "Bevanda del pranzo non inclusa nel pacchetto",
+   "Spese di viaggio personali"
+  ]
+ },
+ "angkor-wat-sunrise-and-small-circuit-private-tour-": {
+  "title": "Angkor Wat all'alba e piccolo circuito: tour privato in furgone Alphard",
+  "metaTitle": "Angkor Wat all'alba e piccolo circuito: tour privato in furgone A",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Angkor Wat e Bayon Temple and Ta Keo Temple. Prenotazione diretta con Empire Angkor Service, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Angkor Wat e Bayon Temple and Ta Keo Temple. Ci sono 7 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende Trasporto privato in Toyota Alphard Hybrid con aria condizionata, Guidatore di lingua inglese (entrambe le opzioni) e Guida con licenza APSARA e certificata dal Ministero del Turismo (solo opzione A). Non comprende Pass d'ingresso al Parco Archeologico di Angkor (1 giorno 37$ / 3 giorni 62$ / 7 giorni 72$) e pranzo, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 98 $, 5 costano 98 $ e 8 costano 195 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nEmpire Angkor Service lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Trasporto privato in Toyota Alphard Hybrid con aria condizionata",
+   "Guidatore di lingua inglese (entrambe le opzioni)",
+   "Guida con licenza APSARA e certificata dal Ministero del Turismo (solo opzione A)"
+  ],
+  "notIncluded": [
+   "Pass d'ingresso al Parco Archeologico di Angkor (1 giorno 37$ / 3 giorni 62$ / 7 giorni 72$)",
+   "pranzo"
+  ]
+ },
+ "olympic-stadium-and-islands-tour": {
+  "title": "Tour dello stadio olimpico e delle isole",
+  "metaTitle": "Tour dello stadio olimpico e delle isole",
+  "shortDescription": "Visita di giornata intera a Phnom Penh, con Phnom Penh, National Olympic Stadium e Silk Island and Samaky Restaurant and Lounge. Prenotazione diretta con Kesar-Kesor Khmer Tours, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Phnom Penh che visita Phnom Penh, National Olympic Stadium e Silk Island and Samaky Restaurant and Lounge. Ci sono 6 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nPhnom Penh si trova dove si incontrano il Mekong, il Tonle Sap e il Bassac, e la passeggiata lungo il fiume su Sisowath Quay e dove la citta passeggia la sera. Koh Dach, l'isola della seta, e un breve traghetto a monte e ha ancora tessitori che lavorano su telai manuali sotto le loro case, vendendo direttamente. Oudong, 40 chilometri a nord-ovest, fu la capitale reale per oltre 250 anni fino al 1866 e i suoi stupa in cima alla collina custodiscono le ceneri dei re. La cupola art deco del Mercato Centrale apri nel 1937 e il Mercato Russo, propriamente Psar Toul Tom Poung, e quello per argento, seta e imitazioni.\n\nIl prezzo comprende Tour guidato da una guida locale di lingua inglese, Visita allo Stadio Olimpico Nazionale e Visita a Koh Pich (l'isola dei diamanti). Non comprende cibo e Pranzo al ristorante Samaky o al Lumiere Cafe a spese dei viaggiatori, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 156 $ a persona, quindi un gruppo di 6 costa 936 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nKesar-Kesor Khmer Tours lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tour guidato da una guida locale di lingua inglese",
+   "Visita allo Stadio Olimpico Nazionale",
+   "Visita a Koh Pich (l'isola dei diamanti)"
+  ],
+  "notIncluded": [
+   "cibo",
+   "Pranzo al ristorante Samaky o al Lumiere Cafe a spese dei viaggiatori"
+  ]
+ },
+ "city-highlights-tour": {
+  "title": "Tour dei punti salienti della citta",
+  "metaTitle": "Tour dei punti salienti della citta",
+  "shortDescription": "Visita di giornata intera a Phnom Penh, con Phnom Penh, Royal Palace, Phnom Penh e Sisowath Riverside Park and Wat Ounalom Monastery. Prenotazione diretta con Kesar-Kesor Khmer Tours, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Phnom Penh che visita Phnom Penh, Royal Palace, Phnom Penh e Sisowath Riverside Park and Wat Ounalom Monastery. Ci sono 9 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nTuol Sleng era una scuola secondaria di Phnom Penh che i Khmer Rossi trasformarono nella Prigione di Sicurezza 21 nel 1975. Delle circa 12.000-20.000 persone detenute li, una dozzina circa sono sopravvissute. Le aule hanno ancora le strutture in ferro dei letti e le fotografie che il regime scattava a ogni prigioniero all'arrivo. Choeung Ek, a circa 15 chilometri di distanza, e dove la maggior parte venivano portati per essere uccisi, e il suo stupa custodisce circa 5.000 teschi; l'audioguida li e narrata in parte da un sopravvissuto ed e il motivo per cui la maggior parte dei visitatori riesce a reggere la visita. Entrambi i siti si visitano in silenzio, richiedono circa mezza giornata insieme, e non sono adatti ai bambini piccoli.\n\nIl prezzo comprende Tour guidato da Sam Ang, khmer locale e guida con licenza di lingua inglese, Visite al Palazzo Reale e alla Pagoda d’Argento e Visite a Wat Ounalom. Non comprende Cibo, pranzo al ristorante Samaky a spese del cliente e biglietti d'ingresso, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 130 $ a persona, quindi un gruppo di 3 costa 390 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nKesar-Kesor Khmer Tours lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tour guidato da Sam Ang, khmer locale e guida con licenza di lingua inglese",
+   "Visite al Palazzo Reale e alla Pagoda d’Argento",
+   "Visite a Wat Ounalom"
+  ],
+  "notIncluded": [
+   "Cibo, pranzo al ristorante Samaky a spese del cliente",
+   "biglietti d'ingresso"
+  ]
+ },
+ "from-siem-reap-a-battambang-cultural-and-immersive": {
+  "title": "Da Siem Reap: Battambang, tour culturale e immersivo di un giorno",
+  "metaTitle": "Da Siem Reap: Battambang, tour culturale e immersivo di un giorno",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con KrongSiemReap Angkor, Avian Bird Sanctuary e Bamboo Rice (Battambang Traditional Style) and Rice Wine Production Place. Prenotazione diretta con Limny Travel, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita KrongSiemReap Angkor, Avian Bird Sanctuary e Bamboo Rice (Battambang Traditional Style) and Rice Wine Production Place. Ci sono 9 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nBattambang e la seconda citta della Cambogia e la piu tranquilla, una cittadina fluviale di case-negozio in stile francese a circa tre ore da Siem Reap. Il treno di bambu, il norry, e una piattaforma di bambu su ruote spinta da un piccolo motore lungo un unico binario; quando due si incontrano, quello piu leggero viene tolto dai binari a mano. La linea originale a O Dambong e stata sostituita da un binario turistico costruito apposta a Banan. Al tramonto, milioni di pipistrelli dalle labbra increspate escono in massa da una grotta nella scogliera di Phnom Sampeau per circa mezz'ora in un nastro ininterrotto, e la stessa collina porta un memoriale della grotta degli omicidi degli anni dei Khmer Rossi.\n\nIl prezzo comprende Ritiro e rientro in hotel a Siem Reap, trasporto in veicolo con aria condizionata e guida turistica dal vivo. Non comprende Palazzo Provinciale di Battambang (visita esterna gratuita) e mance, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 182 $ e 6 costano 182 $, quindi piu siete, meno paga ciascuno.\n\nLimny Travel lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro in hotel a Siem Reap",
+   "trasporto in veicolo con aria condizionata",
+   "guida turistica dal vivo"
+  ],
+  "notIncluded": [
+   "Palazzo Provinciale di Battambang (visita esterna gratuita)",
+   "mance"
+  ]
+ },
  "full-day-guided-city-tour-with-food-and-street": {
   "title": "Tour guidato della citta di giornata intera con cibo e street art",
   "metaTitle": "Tour guidato della citta di giornata intera con cibo e street art",
@@ -11885,6 +12959,158 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "biglietti d'ingresso",
    "spese personali"
+  ]
+ },
+ "angkor-wat-sunrise-breakfast-and-monk-blessing": {
+  "title": "Angkor Wat all'alba, colazione e benedizione del monaco",
+  "metaTitle": "Angkor Wat all'alba, colazione e benedizione del monaco",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Sok S and Taphul Road. Prenotazione diretta con ASEAN ANGKOR GUIDE, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Sok S and Taphul Road.\n\nL'alba ad Angkor Wat si osserva dal bordo dello stagno riflettente settentrionale, dove le cinque torri si stagliano in nero contro il cielo e poi si raddoppiano nell'acqua. La biglietteria apre alle 04:30 e Angkor Wat fa entrare le persone dalle 05:00, motivo per cui i tour partono da Siem Reap verso le 04:30 per venti minuti di strada; il cielo si colora prima che il sole superi le torri, quindi arrivare alle prime luci e gia tardi per il meglio dello spettacolo. La stagione secca da novembre a marzo offre i cieli piu limpidi, mentre le piogge portano nuvole che possono rovinare l'alba oppure renderla ancora piu bella. Il bordo dello stagno si riempie presto, lo stagno meridionale e di solito piu tranquillo, e una guida che sa da quale lato posizionarsi fa la differenza tra una fotografia e un muro di telefoni alzati.\n\nIl prezzo comprende Un trasporto con aria condizionata, Guida turistica locale che parla inglese e Parcheggio, carburante e guidatore. Non comprende biglietto d'ingresso, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 51 $ a persona, quindi un gruppo di 8 costa 406 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nASEAN ANGKOR GUIDE lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Un trasporto con aria condizionata",
+   "Guida turistica locale che parla inglese",
+   "Parcheggio, carburante e guidatore"
+  ],
+  "notIncluded": [
+   "biglietto d'ingresso"
+  ]
+ },
+ "koh-ker-unessco-temple-transfer-tour-phnom-penh-to": {
+  "title": "Tempio UNESCO di Koh Ker: tour con trasferimento da Phnom Penh a Siem Reap",
+  "metaTitle": "Tempio UNESCO di Koh Ker: tour con trasferimento da Phnom Penh a ",
+  "shortDescription": "Visita di 1 giorno a Phnom Penh, con Phnom Penh Autonomous Port (PPAP) - កំពង់ផែស្វយ័តភ and Cambodia. Prenotazione diretta con Cambodia Taxi Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di 1 giorno in partenza da Phnom Penh che visita Phnom Penh Autonomous Port (PPAP) - កំពង់ផែស្វយ័តភ and Cambodia.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende Viaggio a 1 via da Phnom Penh a Siem Reap o viceversa, Soste turistiche a Sambor Prei Kuk e Koh Ker e guidatore che parla inglese. Non comprende Pasti e spese dell'assicurazione di viaggio personale e Biglietto per Sambor Prei Kuk e il Tempio di Koh Ker, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 422 $, 3 costano 644 $ e 4 costano 806 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Taxi Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Viaggio a 1 via da Phnom Penh a Siem Reap o viceversa",
+   "Soste turistiche a Sambor Prei Kuk e Koh Ker",
+   "guidatore che parla inglese"
+  ],
+  "notIncluded": [
+   "Pasti e spese dell'assicurazione di viaggio personale",
+   "Biglietto per Sambor Prei Kuk e il Tempio di Koh Ker"
+  ]
+ },
+ "siem-reap-birdwatching-with-breakfast-included": {
+  "title": "Siem Reap: birdwatching con colazione incluso",
+  "metaTitle": "Siem Reap: birdwatching con colazione incluso",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con អ៊ីម៉ាប់ស៊ុបគោខ្មែរ, ទំនប់៧៨ e ផ្សារច្រមុះភ្នំ and Phnom Kraom. Prenotazione diretta con Angkor Bike Rental Service, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Siem Reap che visita អ៊ីម៉ាប់ស៊ុបគោខ្មែរ, ទំនប់៧៨ e ផ្សារច្រមុះភ្នំ and Phnom Kraom. Ci sono 7 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nLa campagna immediatamente intorno a Siem Reap e risaie, palme da zucchero e villaggi che si trovano a cinque minuti dalla strada dei templi e che raramente vengono visti da chi fa i circuiti classici. La palma da zucchero e l'albero nazionale e la sua linfa viene raccolta dalla chioma da uomini che si arrampicano due volte al giorno su un palo intagliato, poi bollita per ottenere lo zucchero di palma usato in ogni cucina khmer. L'anno del riso regola tutto: trapianto nei mesi umidi, i campi verdi durante le piogge, raccolto tra novembre e dicembre, poi stoppie secche e polvere. Il tardo pomeriggio e quando la luce funziona meglio e quando i villaggi sono in attivita, quindi la maggior parte di questi giri si svolgono fino al tramonto.\n\nIl prezzo comprende Ritiro in hotel (1 ospite in moto; 2 o piu ospiti in tuk-tuk), colazione locale e Briefing del tour. Non comprende Opzioni di colazione senza glutine, Attrezzatura per il birdwatching (binocolo e macchina fotografica) e assicurazione di viaggio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 78 $, 5 costano 292 $ e 8 costano 416 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Bike Rental Service lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro in hotel (1 ospite in moto; 2 o piu ospiti in tuk-tuk)",
+   "colazione locale",
+   "Briefing del tour"
+  ],
+  "notIncluded": [
+   "Opzioni di colazione senza glutine",
+   "Attrezzatura per il birdwatching (binocolo e macchina fotografica)",
+   "assicurazione di viaggio"
+  ]
+ },
+ "3-day-aural-mountain-trek-to-cambodias-tallest-pea": {
+  "title": "Trekking di 3 giorni alla montagna di Aural, la vetta piu alta della Cambogia",
+  "metaTitle": "Trekking di 3 giorni alla montagna di Aural, la vetta piu alta de",
+  "shortDescription": "Visita di 3 giorni a Phnom Penh, con ritiro e riaccompagno in hotel, Guida professionale e guide locali e Alloggio di 2 notti in tenda o amaca, fornito da Vana. Prenotazione diretta con Vana Adventures, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 3 giorni a Phnom Penh. L'operatore la riassume cosi: intraprendi un trekking di 3 giorni attraverso i monti Cardamomo da Phnom Penh.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, Guida professionale e guide locali e Alloggio di 2 notti in tenda o amaca, fornito da Vana. Non comprende assicurazione di viaggio personale, spese personali e alcol, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 2 viaggiatore costa 1,001 $, 5 costano 2,178 $ e 8 costano 2,964 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nVana Adventures lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno in hotel",
+   "Guida professionale e guide locali",
+   "Alloggio di 2 notti in tenda o amaca, fornito da Vana"
+  ],
+  "notIncluded": [
+   "assicurazione di viaggio personale",
+   "spese personali",
+   "alcol"
+  ]
+ },
+ "city-sights-and-countryside-sunset-by-tuktuk-jeep": {
+  "title": "Vedute della citta e tramonto in campagna in tuk-tuk/jeep",
+  "metaTitle": "Vedute della citta e tramonto in campagna in tuk-tuk/jeep",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Guida con licenza di lingua inglese (se selezionata l'opzione guida), Andata e ritorno in tuk-tuk ventilato (o opzione jeep scoperta) e ritiro e riaccompagno. Prenotazione diretta con BAYON GUIDES, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: viaggia su un tuk-tuk scoperto per esplorare gli iconici monumenti della citta.\n\nTuol Sleng era una scuola secondaria di Phnom Penh che i Khmer Rossi trasformarono nella Prigione di Sicurezza 21 nel 1975. Delle circa 12.000-20.000 persone detenute li, una dozzina circa sono sopravvissute. Le aule hanno ancora le strutture in ferro dei letti e le fotografie che il regime scattava a ogni prigioniero all'arrivo. Choeung Ek, a circa 15 chilometri di distanza, e dove la maggior parte venivano portati per essere uccisi, e il suo stupa custodisce circa 5.000 teschi; l'audioguida li e narrata in parte da un sopravvissuto ed e il motivo per cui la maggior parte dei visitatori riesce a reggere la visita. Entrambi i siti si visitano in silenzio, richiedono circa mezza giornata insieme, e non sono adatti ai bambini piccoli.\n\nIl prezzo comprende Guida con licenza di lingua inglese (se selezionata l'opzione guida), Andata e ritorno in tuk-tuk ventilato (o opzione jeep scoperta) e ritiro e riaccompagno. Non comprende Campi di sterminio di Wat Thmey 3$ a persona (donazioni), da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 36 $, 3 costano 47 $ e 4 costano 57 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nBAYON GUIDES lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida con licenza di lingua inglese (se selezionata l'opzione guida)",
+   "Andata e ritorno in tuk-tuk ventilato (o opzione jeep scoperta)",
+   "ritiro e riaccompagno"
+  ],
+  "notIncluded": [
+   "Campi di sterminio di Wat Thmey 3$ a persona (donazioni)"
+  ]
+ },
+ "beng-mealea-phnom-kulen-banteay-srei-pre-rup-sunse": {
+  "title": "Beng Mealea, Phnom Kulen, Banteay Srei, Pre Rup: tour al tramonto di un giorno",
+  "metaTitle": "Beng Mealea, Phnom Kulen, Banteay Srei, Pre Rup: tour al tramonto",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap. Prenotazione diretta con Siem Reap Tour Guide, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende SUV privato con aria condizionata o minivan premium, Guida turistica locale con licenza, molto esperta e Esplorazione di antiche rovine nella giungla. Non comprende biglietti d'ingresso, Pasti e bibite e spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 182 $ e 8 costano 208 $, quindi piu siete, meno paga ciascuno.\n\nSiem Reap Tour Guide lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "SUV privato con aria condizionata o minivan premium",
+   "Guida turistica locale con licenza, molto esperta",
+   "Esplorazione di antiche rovine nella giungla"
+  ],
+  "notIncluded": [
+   "biglietti d'ingresso",
+   "Pasti e bibite",
+   "spese personali"
+  ]
+ },
+ "2-day-hidden-temples-and-kulen-waterfall-tour": {
+  "title": "Templi nascosti e cascata di Kulen: tour di 2 giorni",
+  "metaTitle": "Templi nascosti e cascata di Kulen: tour di 2 giorni",
+  "shortDescription": "Visita di 2 giorni a Phnom Penh, con ritiro e riaccompagno, Benzina, pedaggi, parcheggio e Biglietti inclusi. Prenotazione diretta con Cambodia Taxi Driver, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 2 giorni a Phnom Penh. L'operatore la riassume cosi: percorso da Phnom Penh a Siem Reap per esplorare antichi templi e la cascata di Kulen.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende ritiro e riaccompagno, Benzina, pedaggi, parcheggio e Biglietti inclusi. Non comprende Spese di viaggio personali e pranzo e cena, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 831 $, 5 costano 1,918 $ e 8 costano 2,964 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCambodia Taxi Driver lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "ritiro e riaccompagno",
+   "Benzina, pedaggi, parcheggio",
+   "Biglietti inclusi"
+  ],
+  "notIncluded": [
+   "Spese di viaggio personali",
+   "pranzo e cena"
+  ]
+ },
+ "from-phnom-penh-5-day-angkor-temples-and-private": {
+  "title": "Da Phnom Penh: templi di Angkor e gita privata di 5 giorni",
+  "metaTitle": "Da Phnom Penh: templi di Angkor e gita privata di 5 giorni",
+  "shortDescription": "Visita di 5 giorni a Phnom Penh, con guidatore che parla inglese, Trasporto privato per 5 giorni e Carburante e pedaggi. Prenotazione diretta con Mr Cake Taxi Cambodia, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 5 giorni a Phnom Penh. L'operatore la riassume cosi: viaggia da Phnom Penh a Siem Reap in veicolo privato.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende guidatore che parla inglese, Trasporto privato per 5 giorni e Carburante e pedaggi. Non comprende Angkor Pass, Gita in barca sul Tonle Sap e alloggio, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 1,105 $ e 8 costano 1,430 $, quindi piu siete, meno paga ciascuno.\n\nMr Cake Taxi Cambodia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "guidatore che parla inglese",
+   "Trasporto privato per 5 giorni",
+   "Carburante e pedaggi"
+  ],
+  "notIncluded": [
+   "Angkor Pass",
+   "Gita in barca sul Tonle Sap",
+   "alloggio"
+  ]
+ },
+ "kulen-mountain-landmine-history-and-wat-thmey": {
+  "title": "Montagna di Kulen, storia delle mine antiuomo e Wat Thmey",
+  "metaTitle": "Montagna di Kulen, storia delle mine antiuomo e Wat Thmey",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Acqua in bottiglia e piccolo asciugamano fresco, Ritiro e rientro gratuiti negli hotel della citta e guida turistica professionista in lingua inglese. Prenotazione diretta con Angkor Buddy, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: esplora la sacra montagna di Kulen e fai il bagno nella sua famosa cascata.\n\nPhnom Kulen e l'altopiano di arenaria da cui furono estratte le pietre dei templi di Angkor e il luogo dove Jayavarman II si proclamo monarca universale nell'802, data che i cambogiani considerano la fondazione del loro impero. La strada per salire e scoscesa e il sito ha un proprio ingresso da 20 USD, separato dall'Angkor Pass. In cima ci sono la cascata a due livelli sotto cui la gente si tuffa, il letto del fiume scolpito con linga, il cugino piu grande di Kbal Spean, e un Buddha sdraiato scolpito in un masso nella pagoda in vetta, raggiungibile a piedi scalzi. E una giornata intera da Siem Reap e il periodo migliore e durante o appena dopo le piogge, quando le cascate scorrono davvero.\n\nIl prezzo comprende Acqua in bottiglia e piccolo asciugamano fresco, Ritiro e rientro gratuiti negli hotel della citta e guida turistica professionista in lingua inglese. Non comprende Tassa d'ingresso al Parco Nazionale della montagna di Kulen 20$ a persona (solo contanti, carte non accettate), Biglietto per il museo delle mine 7$ a persona e Biglietto per APOPO 10$ a persona, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 188 $, 5 costano 312 $ e 8 costano 447 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Buddy lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Acqua in bottiglia e piccolo asciugamano fresco",
+   "Ritiro e rientro gratuiti negli hotel della citta",
+   "guida turistica professionista in lingua inglese"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al Parco Nazionale della montagna di Kulen 20$ a persona (solo contanti, carte non accettate)",
+   "Biglietto per il museo delle mine 7$ a persona",
+   "Biglietto per APOPO 10$ a persona"
+  ]
+ },
+ "tonle-sap-lake-sunset-and-floating-village-kompung": {
+  "title": "Tramonto sul lago Tonle Sap e villaggio flottante di Kompong Phluk",
+  "metaTitle": "Tramonto sul lago Tonle Sap e villaggio flottante di Kompong Phlu",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Krong Siem Reap, Bus/coach e River boat and Kampong Phluk. Prenotazione diretta con Camboya Travel, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Siem Reap che visita Krong Siem Reap, Bus/coach e River boat and Kampong Phluk. Ci sono 5 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende Guida turistica locale di lingua inglese, trasporto e Un po' di birra e acqua. Non comprende cibo, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 32 $ a persona, quindi un gruppo di 8 costa 260 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nCamboya Travel lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida turistica locale di lingua inglese",
+   "trasporto",
+   "Un po' di birra e acqua"
+  ],
+  "notIncluded": [
+   "cibo"
   ]
  },
  "offbeat-beng-mealea-and-banteay-ampil-ruins-by-jee": {
@@ -11902,6 +13128,99 @@ export const IT_TOURS: Record<string, TourT> = {
    "mance (opzionali)"
   ]
  },
+ "angkor-wat-day-trip-with-japanese-live-guide": {
+  "title": "Angkor Wat: gita di un giorno con guida dal vivo in giapponese",
+  "metaTitle": "Angkor Wat: gita di un giorno con guida dal vivo in giapponese",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Cambodia, Angkor Wat e Bayon and Angkor Thom and Ta Prohm. Prenotazione diretta con Wadi Rum Fire Camp, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Cambodia, Angkor Wat e Bayon and Angkor Thom and Ta Prohm.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Guida giapponese, Ritiro e rientro in hotel a Siem Reap e Acqua fresca. Non comprende Biglietto d'ingresso al Parco Archeologico di Angkor e cibo e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 64 $ a persona, quindi un gruppo di 6 costa 382 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nWadi Rum Fire Camp lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida giapponese",
+   "Ritiro e rientro in hotel a Siem Reap",
+   "Acqua fresca"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Parco Archeologico di Angkor",
+   "cibo e bevande"
+  ]
+ },
+ "3-day-angkor-origins-to-lost-empire": {
+  "title": "Angkor: dalle origini all'impero perduto, 3 giorni",
+  "metaTitle": "Angkor: dalle origini all'impero perduto, 3 giorni",
+  "shortDescription": "Visita di 3 giorni a Siem Reap, con Acqua in bottiglia e piccolo asciugamano fresco, Ritiro e rientro gratuiti negli hotel della citta e guida turistica professionista in lingua inglese. Prenotazione diretta con Angkor Buddy, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di 3 giorni a Siem Reap. L'operatore la riassume cosi: ammira le intricate sculture di Banteay Srei, il gioiello dell'arte khmer.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Acqua in bottiglia e piccolo asciugamano fresco, Ritiro e rientro gratuiti negli hotel della citta e guida turistica professionista in lingua inglese. Non comprende Angkor Pass (pass di 3 giorni = 62 USD), Pass di gruppo per i templi di Koh Ker (15 USD) e Pasti e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nAngkor Buddy lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Acqua in bottiglia e piccolo asciugamano fresco",
+   "Ritiro e rientro gratuiti negli hotel della citta",
+   "guida turistica professionista in lingua inglese"
+  ],
+  "notIncluded": [
+   "Angkor Pass (pass di 3 giorni = 62 USD)",
+   "Pass di gruppo per i templi di Koh Ker (15 USD)",
+   "Pasti e bevande"
+  ]
+ },
+ "full-day-tour-in-portuguese-secret-temples-local-g": {
+  "title": "Tour di giornata intera in portoghese: templi segreti e guida locale che parla portoghese",
+  "metaTitle": "Tour di giornata intera in portoghese: templi segreti e guida loc",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap and Angkor Park. Prenotazione diretta con Guida Cambogia, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap and Angkor Park.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende Guida locale ufficiale in portoghese per tutta la giornata, Trasferimento di andata e ritorno al hotel a Siem Reap e Veicolo privato con aria condizionata o tuk-tuk grande. Non comprende Biglietto d'ingresso al Parco Archeologico di Angkor (Angkor Pass di 1 giorno) e pasti e bevande, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 91 $ a persona, quindi un gruppo di 8 costa 728 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nGuida Cambogia lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Guida locale ufficiale in portoghese per tutta la giornata",
+   "Trasferimento di andata e ritorno al hotel a Siem Reap",
+   "Veicolo privato con aria condizionata o tuk-tuk grande"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Parco Archeologico di Angkor (Angkor Pass di 1 giorno)",
+   "pasti e bevande"
+  ]
+ },
+ "the-crowd-escape-sunrise-at-angkor-wat": {
+  "title": "L'alba ad Angkor Wat senza folla",
+  "metaTitle": "L'alba ad Angkor Wat senza folla",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Krong Siem Reap, Banteay Kdei e Angkor park and Ta Prohm Temple. Prenotazione diretta con Camboya Travel, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di giornata intera in partenza da Siem Reap che visita Krong Siem Reap, Banteay Kdei e Angkor park and Ta Prohm Temple. Ci sono 6 tappe in totale, cosi la giornata e ben riempita invece di lasciare lunghi intervalli tra due o tre momenti salienti.\n\nAngkor Wat fu costruito nella prima meta del 12° secolo da Suryavarman II come tempio induista dedicato a Vishnu, poi convertito all'uso buddista, ed e il piu grande monumento religioso della Terra con circa 162 ettari all'interno del suo fossato. A differenza di quasi tutti gli altri templi khmer, e orientato verso ovest. La galleria esterna porta circa 600 metri di bassorilievi, incluso il Frullamento dell'Oceano di Latte, e le torri centrali rappresentano il Monte Meru. Il livello superiore ha un codice di abbigliamento che viene effettivamente applicato: spalle e ginocchia coperte, niente canottiere, altrimenti si viene rimandati indietro sulle scale. E richiesto un Angkor Pass che costa 37 USD per un giorno, 62 per tre e 72 per sette, venduto solo tramite Angkor Enterprise; i minori di 12 anni entrano gratis con passaporto.\n\nIl prezzo comprende guida turistica locale, trasporto e Acqua fresca durante il tour. Non comprende pasti e Biglietti per i templi, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo e di circa 52 $ a persona, quindi un gruppo di 8 costa 416 $. L'importo che vedi su questa pagina e il totale per la dimensione di gruppo scelta, non una cifra a persona da moltiplicare.\n\nCamboya Travel lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "guida turistica locale",
+   "trasporto",
+   "Acqua fresca durante il tour"
+  ],
+  "notIncluded": [
+   "pasti",
+   "Biglietti per i templi"
+  ]
+ },
+ "mini-golf-and-countryside-half-day-by-tuk-tuk": {
+  "title": "Minigolf e campagna, mezza giornata in tuk-tuk",
+  "metaTitle": "Minigolf e campagna, mezza giornata in tuk-tuk",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Ritiro e rientro privati, Andata e ritorno in tuk-tuk e guidatore che parla inglese. Prenotazione diretta con CWE Travel, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: porta a porta: ritiro comodo in hotel e rientro inclusi.\n\nLa campagna immediatamente intorno a Siem Reap e risaie, palme da zucchero e villaggi che si trovano a cinque minuti dalla strada dei templi e che raramente vengono visti da chi fa i circuiti classici. La palma da zucchero e l'albero nazionale e la sua linfa viene raccolta dalla chioma da uomini che si arrampicano due volte al giorno su un palo intagliato, poi bollita per ottenere lo zucchero di palma usato in ogni cucina khmer. L'anno del riso regola tutto: trapianto nei mesi umidi, i campi verdi durante le piogge, raccolto tra novembre e dicembre, poi stoppie secche e polvere. Il tardo pomeriggio e quando la luce funziona meglio e quando i villaggi sono in attivita, quindi la maggior parte di questi giri si svolgono fino al tramonto.\n\nIl prezzo comprende Ritiro e rientro privati, Andata e ritorno in tuk-tuk e guidatore che parla inglese. Non comprende Tasse d'ingresso al minigolf:, 1 giro: 5$ a persona per adulti e 1 giro: 4$ a persona per bambini sotto i 12 anni, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 27 $, 5 costano 46 $ e 8 costano 73 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCWE Travel lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Ritiro e rientro privati",
+   "Andata e ritorno in tuk-tuk",
+   "guidatore che parla inglese"
+  ],
+  "notIncluded": [
+   "Tasse d'ingresso al minigolf:",
+   "1 giro: 5$ a persona per adulti",
+   "1 giro: 4$ a persona per bambini sotto i 12 anni"
+  ]
+ },
+ "guided-tour-with-monk-blessing-and-massage": {
+  "title": "Tour guidato con benedizione del monaco e massaggio",
+  "metaTitle": "Tour guidato con benedizione del monaco e massaggio",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Krong Siem Reap and Royal Residence. Prenotazione diretta con CWE Travel, invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di mezza giornata in partenza da Siem Reap che visita Krong Siem Reap and Royal Residence.\n\nIl prezzo comprende Autentica colazione locale, Visita al santuario di Preah Ang Chek Preah Ang Chorm e Tradizionale cerimonia di benedizione del monaco. Non comprende Pasti non menzionati nel programma, spese personali e mance, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 321 $, 5 costano 904 $ e 8 costano 1,425 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nCWE Travel lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Autentica colazione locale",
+   "Visita al santuario di Preah Ang Chek Preah Ang Chorm",
+   "Tradizionale cerimonia di benedizione del monaco"
+  ],
+  "notIncluded": [
+   "Pasti non menzionati nel programma",
+   "spese personali",
+   "mance"
+  ]
+ },
  "2-day-kulen-mountain-angkor-sunrise-local-life": {
   "title": "Montagna di Kulen, alba ad Angkor, vita locale: 2 giorni",
   "metaTitle": "Montagna di Kulen, alba ad Angkor, vita locale: 2 giorni",
@@ -11915,6 +13234,52 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "Angkor Pass",
    "pasti e spese personali"
+  ]
+ },
+ "apopo-hero-rats-killing-fields-pagodas-and-city": {
+  "title": "HeroRATs di APOPO, campi di sterminio, pagode e citta",
+  "metaTitle": "HeroRATs di APOPO, campi di sterminio, pagode e citta",
+  "shortDescription": "Visita di mezza giornata a Siem Reap, con Tuk-tuk privato con guidatore inglese, Ritiro e rientro in tuk-tuk e Guida con licenza (se selezionata l'opzione guida). Prenotazione diretta con Angkor Daily Trip, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di mezza giornata a Siem Reap. L'operatore la riassume cosi: HeroRATs salvavita: vedi ratti straordinari fiutare le mine per salvare vite cambogiane.\n\nTuol Sleng era una scuola secondaria di Phnom Penh che i Khmer Rossi trasformarono nella Prigione di Sicurezza 21 nel 1975. Delle circa 12.000-20.000 persone detenute li, una dozzina circa sono sopravvissute. Le aule hanno ancora le strutture in ferro dei letti e le fotografie che il regime scattava a ogni prigioniero all'arrivo. Choeung Ek, a circa 15 chilometri di distanza, e dove la maggior parte venivano portati per essere uccisi, e il suo stupa custodisce circa 5.000 teschi; l'audioguida li e narrata in parte da un sopravvissuto ed e il motivo per cui la maggior parte dei visitatori riesce a reggere la visita. Entrambi i siti si visitano in silenzio, richiedono circa mezza giornata insieme, e non sono adatti ai bambini piccoli.\n\nIl prezzo comprende Tuk-tuk privato con guidatore inglese, Ritiro e rientro in tuk-tuk e Guida con licenza (se selezionata l'opzione guida). Non comprende Biglietti per APOPO, Biglietti per i campi di sterminio di Wat Thmey e spese personali, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 109 $, 5 costano 188 $ e 8 costano 302 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nAngkor Daily Trip lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Tuk-tuk privato con guidatore inglese",
+   "Ritiro e rientro in tuk-tuk",
+   "Guida con licenza (se selezionata l'opzione guida)"
+  ],
+  "notIncluded": [
+   "Biglietti per APOPO",
+   "Biglietti per i campi di sterminio di Wat Thmey",
+   "spese personali"
+  ]
+ },
+ "koh-ke-temple-amazing-trip": {
+  "title": "Tempio di Koh Ker: viaggio straordinario",
+  "metaTitle": "Tempio di Koh Ker: viaggio straordinario",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Veicolo di trasporto privato, ritiro e riaccompagno in hotel e Acqua fresca in bottiglia. Prenotazione diretta con Siem Reap Taxi Batman, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: esplora il Tempio di Koh Ker.\n\nI templi periferici richiedono mezza giornata o una giornata intera di guida e ripagano con il vuoto. Beng Mealea, a circa 60 chilometri a est, e un tempio del 12° secolo delle dimensioni di Angkor Wat lasciato in gran parte non sgomberato, attraversato su passerelle sopra gallerie crollate. Koh Ker, due ore a nord-est, fu brevemente la capitale nel 10° secolo e ha Prasat Thom, una piramide di arenaria a sette livelli alta 36 metri che si puo scalare con una scala di legno. Sambor Prei Kuk, inserito dall'UNESCO nel 2017, e piu antico di Angkor stesso, torri di mattoni pre-angkoriane che si ergono nella foresta. Alcuni di questi siti hanno un ingresso separato in aggiunta all'Angkor Pass.\n\nIl prezzo comprende Veicolo di trasporto privato, ritiro e riaccompagno in hotel e Acqua fresca in bottiglia. Non comprende spese personali e Costo dei biglietti d'ingresso, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nQuesto prezzo e per gruppo e non per persona: 1 viaggiatore costa 182 $ e 5 costano 182 $, quindi piu siete, meno paga ciascuno.\n\nSiem Reap Taxi Batman lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Veicolo di trasporto privato",
+   "ritiro e riaccompagno in hotel",
+   "Acqua fresca in bottiglia"
+  ],
+  "notIncluded": [
+   "spese personali",
+   "Costo dei biglietti d'ingresso"
+  ]
+ },
+ "beng-mealea-kulen-mountain-and-tonle-sap-tour": {
+  "title": "Tour di Beng Mealea, montagna di Kulen e Tonle Sap",
+  "metaTitle": "Tour di Beng Mealea, montagna di Kulen e Tonle Sap",
+  "shortDescription": "Visita di giornata intera a Siem Reap, con Pranzo bento, Veicolo privato con aria condizionata, ritiro/rientro in hotel e Guida con licenza di lingua inglese (giornata intera). Prenotazione diretta con BREKSA TRAVEL, invece che tramite un rivenditore.",
+  "fullDescription": "Un'esperienza di giornata intera a Siem Reap. L'operatore la riassume cosi: prendi autentici snack di zucchero di palma a Preah Dak, una gustosa pausa per il viaggio.\n\nIl Tonle Sap e il piu grande lago d'acqua dolce del sud-est asiatico e inverte direzione due volte all'anno: durante il monsone il Mekong spinge l'acqua indietro su per il fiume Tonle Sap e il lago si gonfia diverse volte, poi si svuota di nuovo a partire da novembre. I villaggi che vi si trovano vivono con questo ritmo. Le case su palafitte di Kampong Phluk si innalzano da sei a dieci metri sulle loro gambe, asciutte sotto a marzo e immerse fino a altezza di guado a ottobre; Kampong Khleang e piu grande, piu lontano e molto meno visitato; Chong Kneas e il piu vicino a Siem Reap e il piu turistico. Quale villaggio funziona, e se la barca puo raggiungere la foresta inondata, dipende interamente dal mese.\n\nIl prezzo comprende Pranzo bento, Veicolo privato con aria condizionata, ritiro/rientro in hotel e Guida con licenza di lingua inglese (giornata intera). Non comprende mance opzionali e Spese personali e bevande/snack extra, da prevedere separatamente. Tutto quanto incluso e elencato per intero in questa pagina; se qualcosa non figura in questo elenco, considera che non e compreso nel prezzo.\n\nIl prezzo aumenta in base alla dimensione del gruppo invece di moltiplicarsi: 1 viaggiatore costa 390 $, 5 costano 1,105 $ e 8 costano 1,768 $. L'importo indicato e il totale per il tuo gruppo, non una tariffa a persona.\n\nBREKSA TRAVEL lo gestisce. Prenotiamo direttamente con loro, cosi la guida che ti accoglie lavora per l'operatore e non per un rivenditore.",
+  "included": [
+   "Pranzo bento",
+   "Veicolo privato con aria condizionata, ritiro/rientro in hotel",
+   "Guida con licenza di lingua inglese (giornata intera)"
+  ],
+  "notIncluded": [
+   "mance opzionali",
+   "Spese personali e bevande/snack extra"
   ]
  },
  "kampot-and-kep-sihaunoukville-day-tour": {
