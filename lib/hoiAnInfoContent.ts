@@ -817,6 +817,69 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lantern-boat-ride-worth-it-hoi-an":
+      return {
+        title: "Is the Hoai River Lantern Boat Ride Worth It in Hoi An?",
+        description: "An honest look at the night boat trip with floating lantern release on the Hoai River, Hoi An's single most iconic evening activity.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Releasing a floating paper lantern onto the Hoai River at night, with the Ancient Town's own lanterns reflecting on the water, is genuinely Hoi An's single most iconic evening activity, a short but memorable boat ride rather than a long outing.",
+            tourCard: { slug: "hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an", title: "Hoai River Night Boat Trip and Floating Lantern", description: "A night boat trip with a floating lantern release on the Hoai River.", price: "From $26", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/hoai-river-night-boat-trip-and-floating-lantern-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go on or near a full moon night if possible — the Hoai River gets an extra festival atmosphere during the monthly Lantern Festival dates.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hoai River lantern boat ride worth it?", a: "Yes, it's genuinely Hoi An's single most iconic evening activity, even though it's a short ride." },
+        ],
+      };
+
+    case "is-lantern-making-workshop-worth-it-hoi-an":
+      return {
+        title: "Is the Lantern Making Workshop Worth It in Hoi An?",
+        description: "An honest look at the hands-on lantern making workshop in the Old Town, a craft class distinct from simply buying a lantern or releasing one on the river.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lantern-making-workshop-in-hoi-an-old-town/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rather than just buying a finished silk lantern from a shop, this workshop teaches you to build the bamboo frame and stretch the silk yourself, a genuinely hands-on craft activity and a more meaningful souvenir than anything purchased ready-made.",
+            tourCard: { slug: "lantern-making-workshop-in-hoi-an-old-town", title: "Lantern Making Workshop in Hoi An Old Town", description: "A hands-on lantern making workshop in Hoi An's Old Town.", price: "From $11", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/lantern-making-workshop-in-hoi-an-old-town/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, inexpensive add-on to pair with the evening river lantern release — do the workshop first and bring your own lantern to the river.",
+          },
+        ],
+        faqs: [
+          { q: "Is the lantern making workshop worth it?", a: "Yes, for a genuinely hands-on craft activity and a more meaningful souvenir than a shop-bought lantern." },
+        ],
+      };
+
+    case "is-hai-van-pass-motorbike-tour-worth-it-hoi-an":
+      return {
+        title: "Is the Hai Van Pass Motorbike Tour Worth It from Hoi An?",
+        description: "An honest look at the easy rider motorbike tour via Hai Van Pass, one of Vietnam's most scenic coastal mountain roads connecting Hoi An, Da Nang, and Hue.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/easy-rider-motorbike-tour-via-hai-van-pass-hoi-an-da-nang-hue-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hai Van Pass is one of Vietnam's most scenic coastal mountain roads, winding along cliffs between Da Nang and Hue, and this easy rider tour puts you on the back of an experienced local driver's motorbike, so no riding experience is required to take in the views.",
+            tourCard: { slug: "easy-rider-motorbike-tour-via-hai-van-pass-hoi-an-da-nang-hue-by-local-operator", title: "Easy Rider Motorbike Tour via Hai Van Pass", description: "An easy rider motorbike tour over Hai Van Pass connecting Hoi An, Da Nang, and Hue.", price: "From $72", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/easy-rider-motorbike-tour-via-hai-van-pass-hoi-an-da-nang-hue-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Choose the easy rider option (riding pillion) rather than self-driving if you don't have real motorbike experience — the pass has genuine hairpin turns and cliffside drops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hai Van Pass tour worth it from Hoi An?", a: "Yes, it's one of Vietnam's most scenic coastal roads, and the easy rider format means no riding experience is needed to enjoy it." },
+        ],
+      };
+
     default:
       return null;
   }

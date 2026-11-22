@@ -2175,6 +2175,8 @@ export const HOI_AN_INFO_SLUGS = [
   'is-ba-na-hills-tour-worth-it-hoi-an', 'is-cham-islands-snorkeling-worth-it-hoi-an',
   'is-my-son-sanctuary-tour-worth-it-hoi-an', 'is-basket-boat-coconut-forest-worth-it-hoi-an',
   'is-countryside-bicycle-tour-worth-it-hoi-an',
+  'is-lantern-boat-ride-worth-it-hoi-an', 'is-lantern-making-workshop-worth-it-hoi-an',
+  'is-hai-van-pass-motorbike-tour-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [
