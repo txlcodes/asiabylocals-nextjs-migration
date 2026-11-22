@@ -1493,7 +1493,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'sapporo-with-kids', 'best-tours-in-sapporo', 'should-i-book-sapporo-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-sapporo',
     'is-ramen-making-class-worth-it-sapporo',
-    'is-ice-fishing-worth-it-sapporo', 'is-mount-moiwa-hike-worth-it-sapporo'].map(slug => ({
+    'is-ice-fishing-worth-it-sapporo', 'is-mount-moiwa-hike-worth-it-sapporo',
+    'is-otaru-shakotan-yoichi-distillery-tour-worth-it-sapporo', 'is-sushi-roll-making-class-worth-it-sapporo',
+    'is-nijo-market-tour-worth-it-sapporo', 'is-red-brick-government-office-tour-worth-it-sapporo'].map(slug => ({
     url: `${BASE_URL}/japan/sapporo/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

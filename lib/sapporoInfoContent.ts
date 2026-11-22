@@ -1238,6 +1238,90 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-otaru-shakotan-yoichi-distillery-tour-worth-it-sapporo":
+      return {
+        title: "Is the Otaru, Shakotan & Yoichi Distillery Day Tour Worth It?",
+        description: "An honest look at the day tour combining Otaru's canal town, Shakotan's coastline, and the Yoichi whisky distillery.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/otaru-shakotan-and-yoichi-distillery-day-tour-ch-en-guide-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Otaru's canal town with Shakotan's dramatic coastline and a stop at the Yoichi whisky distillery gives this day tour real variety, combining a scenic coastal drive with a genuine behind-the-scenes look at Japanese whisky production.",
+            tourCard: { slug: "otaru-shakotan-and-yoichi-distillery-day-tour-ch-en-guide-sapporo", title: "Otaru, Shakotan & Yoichi Distillery Day Tour", description: "A day tour combining Otaru, Shakotan's coastline, and the Yoichi whisky distillery.", price: "From $62", duration: "9.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/otaru-shakotan-and-yoichi-distillery-day-tour-ch-en-guide-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you're driving yourself afterward or have evening plans, go easy on the whisky tastings at Yoichi.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Otaru, Shakotan, and Yoichi distillery tour worth it from Sapporo?", a: "Yes, it combines a scenic coastal drive with a genuine behind-the-scenes look at Japanese whisky production." },
+        ],
+      };
+
+    case "is-sushi-roll-making-class-worth-it-sapporo":
+      return {
+        title: "Is the Sushi Roll Making Class Worth It in Sapporo?",
+        description: "An honest look at the sushi roll making class in Sapporo, a hands-on introduction to Hokkaido's famous seafood.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sushi-roll-making-class-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hokkaido is genuinely famous for its seafood quality, and learning to roll sushi with it yourself gives hands-on technique insight beyond just eating at a sushi restaurant, at a reasonable price and just 2 hours.",
+            tourCard: { slug: "sushi-roll-making-class-in-sapporo", title: "Sushi Roll Making Class in Sapporo", description: "A hands-on sushi roll making class in Sapporo.", price: "From $75", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sushi-roll-making-class-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity to pair with a day otherwise spent sightseeing or skiing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sushi roll making class worth it in Sapporo?", a: "Yes, it gives genuinely hands-on technique insight with Hokkaido's famous seafood, beyond just eating at a restaurant." },
+        ],
+      };
+
+    case "is-nijo-market-tour-worth-it-sapporo":
+      return {
+        title: "Is the Nijo Market Guided Tour with Seafood Meal Worth It?",
+        description: "An honest look at the guided tour of Nijo Market in Sapporo, paired with a fresh seafood meal.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nijo-market-guided-tour-with-seafood-meal-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guide at Nijo Market helps navigate the stalls to find the genuinely best seafood rather than tourist-trap pricing, and ending with a real seafood meal makes this a solid way to experience Hokkaido's famous catch in just 1.5 hours.",
+            tourCard: { slug: "nijo-market-guided-tour-with-seafood-meal-in-sapporo", title: "Nijo Market Guided Tour with Seafood Meal", description: "A guided tour of Nijo Market in Sapporo with a seafood meal included.", price: "From $206", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nijo-market-guided-tour-with-seafood-meal-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite — the included meal is typically a substantial fresh seafood spread.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nijo Market guided tour worth it in Sapporo?", a: "Yes, a guide helps find the genuinely best seafood stalls rather than tourist-trap pricing, and the included meal is substantial." },
+        ],
+      };
+
+    case "is-red-brick-government-office-tour-worth-it-sapporo":
+      return {
+        title: "Is the Historic Red Brick Government Office Tour Worth It in Sapporo?",
+        description: "An honest look at the guided tour of Sapporo's historic Red Brick Government Office building.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tour-of-the-historic-red-brick-government-office-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Red Brick Government Office is one of Sapporo's most recognizable historic buildings, and a guided tour gives genuine context to its Meiji-era architecture and role in Hokkaido's development that you'd otherwise miss just photographing the exterior.",
+            tourCard: { slug: "tour-of-the-historic-red-brick-government-office-in-sapporo", title: "Historic Red Brick Government Office Tour", description: "A guided tour of Sapporo's historic Red Brick Government Office.", price: "From $148", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tour-of-the-historic-red-brick-government-office-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on to a central Sapporo walking day, since the building sits right in the city center.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Red Brick Government Office tour worth it in Sapporo?", a: "Yes, a guide gives genuine context to the building's Meiji-era history that you'd otherwise miss just photographing the exterior." },
+        ],
+      };
+
     default:
             return null;
     }
