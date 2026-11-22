@@ -2320,6 +2320,8 @@ export const ULUWATU_INFO_SLUGS = [
   'is-kecak-sunset-temple-tour-worth-it-uluwatu', 'is-gwk-cultural-park-worth-it-uluwatu',
   'is-tanjung-benoa-watersports-worth-it-uluwatu', 'is-surf-lessons-worth-it-uluwatu',
   'is-nusa-dua-snorkeling-turtle-tour-worth-it-uluwatu',
+  'is-tulamben-liberty-wreck-diving-worth-it-uluwatu', 'is-nusa-dua-spa-worth-it-uluwatu',
+  'is-silver-jewelry-workshop-worth-it-uluwatu', 'is-cooking-class-market-tour-worth-it-uluwatu',
 ];
 
 export const NUSA_PENIDA_INFO_SLUGS = [

@@ -1128,6 +1128,90 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tulamben-liberty-wreck-diving-worth-it-uluwatu":
+      return {
+        title: "Is the Tulamben USAT Liberty Shipwreck Diving Experience Worth It?",
+        description: "An honest look at diving the USAT Liberty shipwreck at Tulamben, one of Bali's most famous dive sites.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tulamben-usat-liberty-shipwreck-diving-experience-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The USAT Liberty is genuinely one of Bali's most famous dive sites, a WWII-era shipwreck now covered in coral and marine life, making the long drive from Uluwatu worthwhile for certified divers specifically seeking a world-class wreck dive.",
+            tourCard: { slug: "tulamben-usat-liberty-shipwreck-diving-experience-in-uluwatu", title: "Tulamben USAT Liberty Shipwreck Diving Experience", description: "A diving trip to the USAT Liberty shipwreck at Tulamben from Uluwatu.", price: "From $237", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tulamben-usat-liberty-shipwreck-diving-experience-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a genuinely long day trip from Uluwatu, so confirm your dive certification requirements with the operator before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tulamben USAT Liberty wreck dive worth it from Uluwatu?", a: "Yes, for certified divers, it's one of Bali's most famous dive sites and worth the long drive." },
+        ],
+      };
+
+    case "is-nusa-dua-spa-worth-it-uluwatu":
+      return {
+        title: "Is the Nusa Dua Traditional Spa Massage Experience Worth It?",
+        description: "An honest look at the traditional spa massage experience in Nusa Dua, a relaxed break from South Bali's beach and temple sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-dua-relaxing-traditional-spa-massage-experience-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At just 1 hour and a modest price, a traditional Balinese massage is an easy, affordable way to recover from a day of beach hopping or temple sightseeing, genuinely good value compared to resort spa pricing.",
+            tourCard: { slug: "nusa-dua-relaxing-traditional-spa-massage-experience-in-uluwatu", title: "Nusa Dua Relaxing Traditional Spa Massage Experience", description: "A traditional Balinese spa massage experience in Nusa Dua.", price: "From $32", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-dua-relaxing-traditional-spa-massage-experience-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for later in the day after beach or sightseeing activities, since it works well as a recovery session.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nusa Dua traditional spa massage worth it?", a: "Yes, it's an affordable, relaxing way to recover from sightseeing, genuinely good value compared to resort spa pricing." },
+        ],
+      };
+
+    case "is-silver-jewelry-workshop-worth-it-uluwatu":
+      return {
+        title: "Is the Uluwatu Silver Jewelry Making Workshop Worth It?",
+        description: "An honest look at the silver jewelry making workshop in Uluwatu, a hands-on craft lesson distinct from the area's beach and temple circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-silver-jewelry-making-workshop/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bali has a genuine silversmithing tradition, and this hands-on workshop lets you make a real wearable piece to take home, a good change of pace from Uluwatu's usual beach, surf, and temple activities.",
+            tourCard: { slug: "uluwatu-silver-jewelry-making-workshop", title: "Uluwatu Silver Jewelry Making Workshop", description: "A hands-on silver jewelry making workshop in Uluwatu.", price: "From $57", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-silver-jewelry-making-workshop/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or non-beach activity, since it's a genuine hands-on craft session rather than outdoor sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Uluwatu silver jewelry workshop worth it?", a: "Yes, you leave with a genuine handmade piece, and it's a good change of pace from the usual beach and temple circuit." },
+        ],
+      };
+
+    case "is-cooking-class-market-tour-worth-it-uluwatu":
+      return {
+        title: "Is the Private Cooking Class with Market Tour Worth It in Uluwatu?",
+        description: "An honest look at the private cooking class with a local market tour in Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-cooking-class-with-market-tour-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Starting with a real local market visit before cooking gives this class more context than a kitchen-only lesson, and at 6.5 hours it's a solid full-morning or afternoon activity teaching Balinese dishes you can actually recreate at home.",
+            tourCard: { slug: "private-cooking-class-with-market-tour-in-uluwatu", title: "Private Cooking Class with Market Tour in Uluwatu", description: "A private Balinese cooking class with a local market tour in Uluwatu.", price: "From $246", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-cooking-class-with-market-tour-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any dietary restrictions ahead of time, since the market visit determines what ingredients get cooked that day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cooking class with market tour worth it in Uluwatu?", a: "Yes, the market visit gives real context before cooking, making it more worthwhile than a kitchen-only class." },
+        ],
+      };
+
     default:
       return null;
   }
