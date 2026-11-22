@@ -562,6 +562,74 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-yacht-tour-worth-it-baku":
+            return {
+                title: "Is the Private Yacht Tour Worth It from Baku?",
+                description: "An honest look at the private yacht tour on the Caspian Sea from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1f0704ca0ba06893.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing Baku's skyline and Flame Towers from the water on a private yacht gives a genuinely different, more relaxed perspective than the standard city walking tours, worth the premium for a special occasion or small-group outing.", tourCard: { slug: "from-baku-private-yacht-tour-tour", title: "From Baku: Private Yacht Tour", description: "A private yacht tour on the Caspian Sea from Baku.", price: "From $520", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1f0704ca0ba06893.jpeg" } },
+                    { title: "Practical Tips", content: "Book a sunset slot if possible for the best skyline lighting from the water." },
+                ],
+                faqs: [
+                    { q: "Is the private yacht tour worth it from Baku?", a: "Yes, it gives a genuinely different, relaxed perspective on the skyline than standard city walking tours." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the private yacht tour worth it from Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it offers a genuinely different, relaxed perspective on the skyline from the water." } },
+                ] },
+            };
+
+        case "is-paragliding-worth-it-baku":
+            return {
+                title: "Is the Paragliding Tour Worth It from Baku?",
+                description: "An honest look at the paragliding tour near Baku, a genuine aerial adrenaline activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/649448eb58e1e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Paragliding over the Azerbaijani landscape gives a genuinely different adrenaline perspective than the hot air balloon option, with a more active, in-the-moment flying sensation rather than a slow, drifting ride.", tourCard: { slug: "from-baku-paragliding-tour-tour", title: "From Baku: Paragliding Tour", description: "A paragliding tour over the landscape near Baku.", price: "From $390", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/649448eb58e1e.jpeg" } },
+                    { title: "Practical Tips", content: "No prior paragliding experience is needed — you fly tandem with a certified pilot." },
+                ],
+                faqs: [
+                    { q: "Is the paragliding tour worth it from Baku?", a: "Yes, it gives a genuinely more active flying sensation than a hot air balloon ride, for travelers wanting real adrenaline." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the paragliding tour worth it from Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely more active flying sensation than a balloon ride." } },
+                ] },
+            };
+
+        case "is-massage-spa-worth-it-baku":
+            return {
+                title: "Is the Baku Massage & Spa Experience Worth It?",
+                description: "An honest look at the Baku massage and spa experience, a relaxing wind-down activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2064a38a7b8d67d8f25ca904755a219bc12d53262858bd7099ab60aa72491580.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "At a genuinely low price for 3 hours, a proper massage and spa session is an easy, affordable way to recover after a day of walking Baku's Old City or a desert day trip, without the premium pricing of a resort spa.", tourCard: { slug: "baku-massage-guided-tour", title: "Baku Massage & Spa", description: "A massage and spa experience in Baku.", price: "From $26", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2064a38a7b8d67d8f25ca904755a219bc12d53262858bd7099ab60aa72491580.jpeg" } },
+                    { title: "Practical Tips", content: "Book for later in the day after heavier sightseeing — it works well as a genuine recovery session." },
+                ],
+                faqs: [
+                    { q: "Is the Baku massage and spa experience worth it?", a: "Yes, at a genuinely low price, it's an easy, affordable way to recover from a day of sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Baku massage and spa worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an affordable way to recover from a day of sightseeing." } },
+                ] },
+            };
+
+        case "is-pink-lake-beshbarmag-tour-worth-it-baku":
+            return {
+                title: "Is the Pink Lake & Beshbarmag Mountain Tour Worth It from Baku?",
+                description: "An honest look at the private tour combining the Pink Lake and Beshbarmag Mountain near Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20392cfa864beba0774818d9465b460b568303460daab24a5672e5448b9f8c37.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the genuinely striking pink-hued salt lake with Beshbarmag Mountain, a site of real pilgrimage significance, gives this tour two visually and culturally distinct stops in one half-day outing, a good alternative to the more commonly visited Gobustan circuit.", tourCard: { slug: "lake-beshbarmag-private-tour", title: "Baku: Private Pink Lake & Beshbarmag Mountain Tour", description: "A private tour combining the Pink Lake and Beshbarmag Mountain near Baku.", price: "From $225", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20392cfa864beba0774818d9465b460b568303460daab24a5672e5448b9f8c37.jpg" } },
+                    { title: "Practical Tips", content: "The lake's pink color intensity varies seasonally, so check with your operator about current conditions before booking." },
+                ],
+                faqs: [
+                    { q: "Is the Pink Lake and Beshbarmag Mountain tour worth it from Baku?", a: "Yes, it combines two visually and culturally distinct stops, a good alternative to the more commonly visited Gobustan circuit." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Pink Lake and Beshbarmag tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it combines two visually and culturally distinct stops near Baku." } },
+                ] },
+            };
+
         default:
             return null;
     }

@@ -593,6 +593,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-khinalug-lahij-village-tour-baku', 'best-quba-shahdag-tour-baku',
     'is-ganja-day-trip-worth-it-baku',
     'is-windsurfing-wakeboarding-worth-it-baku', 'is-balloon-adventure-worth-it-baku',
+    'is-yacht-tour-worth-it-baku', 'is-paragliding-worth-it-baku',
+    'is-massage-spa-worth-it-baku', 'is-pink-lake-beshbarmag-tour-worth-it-baku',
   ], 'azerbaijan', 'baku');
   const singaporeInfoPages = mapInfoSlugs([
     'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',

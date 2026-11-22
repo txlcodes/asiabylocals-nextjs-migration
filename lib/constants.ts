@@ -469,6 +469,8 @@ export const BAKU_INFO_SLUGS: string[] = [
   'best-khinalug-lahij-village-tour-baku', 'best-quba-shahdag-tour-baku',
   'is-ganja-day-trip-worth-it-baku',
   'is-windsurfing-wakeboarding-worth-it-baku', 'is-balloon-adventure-worth-it-baku',
+  'is-yacht-tour-worth-it-baku', 'is-paragliding-worth-it-baku',
+  'is-massage-spa-worth-it-baku', 'is-pink-lake-beshbarmag-tour-worth-it-baku',
 ];
 
 // Singapore launched 2026-11-19 with 318 live tours and zero authority pages.
