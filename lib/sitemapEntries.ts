@@ -1749,6 +1749,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-pidurangala-rock-worth-it-sigiriya', 'is-kaudulla-safari-worth-it-sigiriya',
     'is-cooking-class-worth-it-sigiriya', 'is-village-tour-worth-it-sigiriya',
     'is-trincomalee-day-trip-worth-it-sigiriya', 'is-mihintale-tour-worth-it-sigiriya',
+    'is-hurulu-eco-park-safari-worth-it-sigiriya', 'is-tuk-tuk-safari-worth-it-sigiriya',
+    'is-sunrise-hike-village-breakfast-worth-it-sigiriya', 'is-habarana-polonnaruwa-dambulla-tour-worth-it-sigiriya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/sigiriya/${slug}`,
     lastModified: new Date(),

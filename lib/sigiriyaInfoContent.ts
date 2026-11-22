@@ -1001,6 +1001,90 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hurulu-eco-park-safari-worth-it-sigiriya":
+      return {
+        title: "Is the Hurulu Eco Park Safari Worth It from Sigiriya?",
+        description: "An honest look at the all-inclusive Hurulu Eco Park safari, a lesser-known elephant park alternative to Minneriya or Kaudulla.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-668223/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hurulu Eco Park sees genuinely fewer tourist jeeps than the more famous Minneriya and Kaudulla parks, giving a quieter, less crowded safari experience with a reasonable chance of spotting elephants without the jeep-traffic that can mar peak season visits elsewhere.",
+            tourCard: { slug: "from-sigiriya-hurulu-eco-park-safari-all-inclusive", title: "From Sigiriya: Hurulu Eco Park Safari, All-Inclusive", description: "An all-inclusive safari at Hurulu Eco Park from Sigiriya.", price: "From $46", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-668223/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good alternative if you've heard Minneriya or Kaudulla get overcrowded with jeeps during peak elephant-gathering season.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hurulu Eco Park safari worth it from Sigiriya?", a: "Yes, it's a genuinely quieter alternative to the more crowded Minneriya and Kaudulla parks." },
+        ],
+      };
+
+    case "is-tuk-tuk-safari-worth-it-sigiriya":
+      return {
+        title: "Is the Non-Touristic Spots Tuk-Tuk Safari Worth It in Sigiriya?",
+        description: "An honest look at the tuk-tuk safari to non-touristic local spots around Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-560685/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At a very low price and genuinely off the main sightseeing circuit, this tuk-tuk ride to local, non-touristic spots gives a glimpse of everyday rural life around Sigiriya that the rock fortress and safari crowds never see.",
+            tourCard: { slug: "non-touristic-spots-tuk-tuk-safari-sigiriya", title: "Non-Touristic Spots Tuk-Tuk Safari", description: "A tuk-tuk safari to non-touristic local spots around Sigiriya.", price: "From $16", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-560685/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep expectations realistic — this is about everyday rural scenery and village life, not major named attractions.",
+          },
+        ],
+        faqs: [
+          { q: "Is the non-touristic tuk-tuk safari worth it in Sigiriya?", a: "Yes, for a genuine glimpse of everyday rural life around Sigiriya at a very low price, away from the main sightseeing crowds." },
+        ],
+      };
+
+    case "is-sunrise-hike-village-breakfast-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya Sunrise Hike & Village Breakfast Worth It?",
+        description: "An honest look at the sunrise hike paired with a village breakfast near Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1494436/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a sunrise hike with an actual village breakfast afterward gives this a genuine local-life dimension beyond just the scenery, a good fit for travelers who want both the nature and the cultural angle in one morning.",
+            tourCard: { slug: "sigiriya-sunrise-hike-village-breakfast-nature", title: "Sigiriya Sunrise Hike & Village Breakfast", description: "A sunrise hike paired with a village breakfast near Sigiriya.", price: "From $69", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1494436/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "An early start is required to catch the sunrise, so plan for a pre-dawn pickup.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sunrise hike and village breakfast worth it in Sigiriya?", a: "Yes, the village breakfast adds a genuine local-life dimension beyond just the scenic hike itself." },
+        ],
+      };
+
+    case "is-habarana-polonnaruwa-dambulla-tour-worth-it-sigiriya":
+      return {
+        title: "Is the Habarana, Polonnaruwa, Sigiriya & Dambulla Day Tour Worth It?",
+        description: "An honest look at the combined day tour covering Habarana, Polonnaruwa, Sigiriya, and Dambulla.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-793949/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining four of the Cultural Triangle's key sites in one guided day is a genuinely efficient way to cover a lot of ground if your time in the area is limited, though it's a demanding pace covering ancient ruins, a rock fortress, and cave temples in one outing.",
+            tourCard: { slug: "habarana-polonnaruwa-sigiriya-and-dambulla-day", title: "Habarana, Polonnaruwa, Sigiriya & Dambulla Day Tour", description: "A combined day tour covering Habarana, Polonnaruwa, Sigiriya, and Dambulla.", price: "From $245", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-793949/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely demanding pace covering four sites in one day — better suited to travelers with limited time than those wanting to savor each site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Habarana, Polonnaruwa, Sigiriya, and Dambulla tour worth it?", a: "Yes, for travelers with limited time, it efficiently covers four major Cultural Triangle sites in one day." },
+        ],
+      };
+
     default:
       return null;
   }
