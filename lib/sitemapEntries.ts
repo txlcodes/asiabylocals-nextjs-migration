@@ -1320,6 +1320,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-4-islands-tour-worth-it-krabi', 'is-7-islands-sunset-plankton-tour-worth-it-krabi',
     'is-phi-phi-islands-tour-worth-it-krabi', 'is-khao-sok-cheow-lan-lake-tour-worth-it-krabi',
     'is-hong-island-lagoon-tour-worth-it-krabi',
+    'is-railay-rock-climbing-worth-it-krabi', 'is-thai-cooking-class-worth-it-krabi',
+    'is-muay-thai-fight-worth-it-krabi', 'is-ko-lanta-emerald-cave-tour-worth-it-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),

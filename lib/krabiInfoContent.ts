@@ -764,6 +764,74 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-railay-rock-climbing-worth-it-krabi":
+            return {
+                title: "Is Railay Rock Climbing Worth It in Krabi?",
+                description: "An honest look at the Railay rock climbing, bat cave, and viewpoint abseil tour, on some of Krabi's most famous limestone cliffs.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/railay-rock-climbing-bat-cave-and-viewpoint-abseil/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Railay's limestone cliffs are genuinely world-famous among climbers, and this guided half-day session with a bat cave stop and viewpoint abseil is a solid way to try the sport even with zero prior climbing experience.", tourCard: { slug: "railay-rock-climbing-bat-cave-and-viewpoint-abseil", title: "Railay Rock Climbing, Bat Cave & Viewpoint Abseil", description: "A guided rock climbing session on Railay's limestone cliffs with a bat cave stop and viewpoint abseil.", price: "From $68", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/railay-rock-climbing-bat-cave-and-viewpoint-abseil/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "No prior climbing experience is needed — guides set routes for beginners, so this works even for a first-time try." }
+                ],
+                faqs: [
+                    { q: "Is Railay rock climbing worth it in Krabi?", a: "Yes, Railay's cliffs are genuinely world-famous among climbers, and guides can set beginner-friendly routes for first-timers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Railay rock climbing worth it in Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, Railay's cliffs are world-famous among climbers and beginner-friendly routes are available." } }
+                ] },
+            };
+
+        case "is-thai-cooking-class-worth-it-krabi":
+            return {
+                title: "Is a Traditional Thai Cooking Class Worth It in Krabi?",
+                description: "An honest look at the traditional Thai cooking class in Krabi, a hands-on half-day lesson in local dishes.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/traditional-thai-cooking-class-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A hands-on 3.5-hour cooking class is a solid non-beach day in Krabi, teaching a handful of Thai dishes you can actually recreate at home, and it pairs well as a change of pace between island-hopping days.", tourCard: { slug: "traditional-thai-cooking-class-in-krabi", title: "Traditional Thai Cooking Class in Krabi", description: "A hands-on traditional Thai cooking class in Krabi.", price: "From $77", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-thai-cooking-class-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good rainy-day activity or a change of pace between island-hopping trips." }
+                ],
+                faqs: [
+                    { q: "Is the Thai cooking class worth it in Krabi?", a: "Yes, it's a solid non-beach day that teaches dishes you can actually recreate at home." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Thai cooking class worth it in Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a solid non-beach activity teaching dishes you can recreate at home." } }
+                ] },
+            };
+
+        case "is-muay-thai-fight-worth-it-krabi":
+            return {
+                title: "Is the Muay Thai Live Fight Experience Worth It in Krabi?",
+                description: "An honest look at watching a live Muay Thai fight in Krabi, with transfer included.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/muay-thai-live-fight-experience-with-transfer-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Watching a genuine live Muay Thai match ringside gives a different kind of cultural experience than training a class yourself, and with transfer included there's no need to arrange your own way to the stadium.", tourCard: { slug: "muay-thai-live-fight-experience-with-transfer-in-krabi", title: "Muay Thai Live Fight Experience with Transfer", description: "A ticket to watch a live Muay Thai fight in Krabi, with round-trip transfer.", price: "From $82", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/muay-thai-live-fight-experience-with-transfer-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check fight nights in advance, since matches run on a fixed weekly schedule rather than every night." }
+                ],
+                faqs: [
+                    { q: "Is the Muay Thai live fight experience worth it in Krabi?", a: "Yes, watching a genuine live match ringside is a distinct cultural experience from taking a training class yourself." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Muay Thai live fight worth it in Krabi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine cultural experience watching a live match ringside." } }
+                ] },
+            };
+
+        case "is-ko-lanta-emerald-cave-tour-worth-it-krabi":
+            return {
+                title: "Is the Ko Lanta Emerald Cave & 4 Islands Tour Worth It from Krabi?",
+                description: "An honest look at the Ko Lanta Emerald Cave and 4 Islands longtail boat tour, a swim-through sea cave distinct from Krabi's other island-hopping routes.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ko-lanta-emerald-cave-and-4-islands-tour-by-longtail-boat-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Emerald Cave near Ko Lanta is a swim-through sea cave opening onto a hidden hidden-beach lagoon, a genuinely different feature from the standard Hong or 4 Islands routes departing closer to Krabi town.", tourCard: { slug: "ko-lanta-emerald-cave-and-4-islands-tour-by-longtail-boat-krabi", title: "Ko Lanta Emerald Cave & 4 Islands Tour", description: "A longtail boat tour to Ko Lanta's Emerald Cave and 4 nearby islands.", price: "From $47", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ko-lanta-emerald-cave-and-4-islands-tour-by-longtail-boat-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "You'll need to swim or wade through a dark section of the cave to reach the hidden lagoon, so come prepared to get wet." }
+                ],
+                faqs: [
+                    { q: "Is the Ko Lanta Emerald Cave tour worth it from Krabi?", a: "Yes, the swim-through sea cave and hidden lagoon are genuinely different from the standard Hong or 4 Islands routes." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ko Lanta Emerald Cave tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the swim-through cave and hidden lagoon are genuinely different from standard island-hopping routes." } }
+                ] },
+            };
+
         default:
             return null;
     }
