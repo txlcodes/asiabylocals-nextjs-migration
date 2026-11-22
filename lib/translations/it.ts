@@ -39785,6 +39785,191 @@ export const IT_TOURS: Record<string, TourT> = {
    "Prelievo e riaccompagno in hotel"
   ]
  },
+ "shirakawa-go-and-hida-takayama-full-day-trip": {
+  "title": "Gita di un giorno intero a Shirakawa-go e Hida-Takayama",
+  "metaTitle": "Shirakawa-go e Hida-Takayama da Nagoya",
+  "metaDescription": "Dieci ore da Nagoya tra Takayama e Shirakawa-go, con pick-up al punto di incontro, guida multilingue e bus climatizzato incluso.",
+  "shortDescription": "Dieci ore da Nagoya tra Takayama e Shirakawa-go, con pick-up al punto di incontro, guida multilingue e bus climatizzato incluso.",
+  "fullDescription": "Takayama, sui monti Hida a nord di Nagoya, ha conservato le vie dei mercanti del periodo Edo, i mercati del mattino e le fabbriche di sake, e Shirakawa-go, un'ora più avanti, è il villaggio UNESCO delle case gassho-zukuri con tetti di paglia spioventi costruiti per la neve. Le gite di un giorno da Nagoya, Kanazawa o Takayama stessa raggiungono il villaggio; il punto panoramico sopra di esso regala la vista, e l'inverno, quando i tetti portano due metri di neve e il villaggio è illuminato in alcune serate di gennaio e febbraio, è il motivo per cui molti lo scelgono. Il manzo di Hida è il piatto regionale.\n\nQuesta gita di dieci ore collega **Takayama** e **Shirakawa-go**, con pick-up e drop-off al punto di incontro, una guida multilingue, autista, tariffa di parcheggio e trasporto in bus climatizzato. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off al punto di incontro",
+   "Guida multilingue",
+   "Autista",
+   "Tariffa di parcheggio",
+   "Trasporto in bus climatizzato"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "sushi-and-chopstick-making-workshop-in-sapporo": {
+  "title": "Laboratorio di preparazione del sushi e creazione di bacchette a Sapporo",
+  "metaTitle": "Sushi e bacchette fatte a mano, Sapporo",
+  "metaDescription": "Due ore e mezza a Sapporo tra la preparazione del sushi e la creazione delle proprie bacchette, con istruzione di uno chef e noleggio di grembiule e uniforme.",
+  "shortDescription": "Due ore e mezza a Sapporo tra la preparazione del sushi e la creazione delle proprie bacchette, con istruzione di uno chef e noleggio di grembiule e uniforme.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto laboratorio di due ore e mezza porta l'esperienza di preparazione del sushi, l'esperienza di creazione delle bacchette, l'istruzione di uno chef di sushi professionista, e il noleggio di grembiule e uniforme.",
+  "highlights": [],
+  "included": [
+   "Esperienza di preparazione del sushi",
+   "Esperienza di creazione delle bacchette",
+   "Istruzione di uno chef di sushi professionista",
+   "Noleggio di grembiule e uniforme"
+  ],
+  "notIncluded": []
+ },
+ "hokkaido-highlights-biei-blue-pond-and-asahiyama-zoo": {
+  "title": "Punti forti dell'Hokkaido: Biei, laghetto blu e Zoo di Asahiyama",
+  "metaTitle": "Biei, laghetto blu e Zoo di Asahiyama, Hokkaido",
+  "metaDescription": "Dieci ore da Sapporo tra lo Zoo di Asahiyama, la Fattoria Tomita e Biei, con bus andata e ritorno incluso.",
+  "shortDescription": "Dieci ore da Sapporo tra lo Zoo di Asahiyama, la Fattoria Tomita e Biei, con bus andata e ritorno incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio.\n\nQuesto tour di dieci ore porta la visita allo **Zoo di Asahiyama**, alla **Fattoria Tomita** e a **Biei**, vista dal finestrino del bus, con il bus andata e ritorno incluso. Il pranzo resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita allo Zoo di Asahiyama",
+   "Fattoria Tomita",
+   "Biei (vista dal finestrino del bus)",
+   "Bus andata e ritorno"
+  ],
+  "notIncluded": [
+   "Pranzo"
+  ]
+ },
+ "hokkaido-6-day-tour-natural-wonders-and-urban-exploration-in-sapporo": {
+  "title": "Tour di 6 giorni dell'Hokkaido: meraviglie naturali ed esplorazione urbana, Sapporo",
+  "metaTitle": "Tour di 6 giorni dell'Hokkaido da Sapporo",
+  "metaDescription": "Sei giorni a Sapporo con pick-up in hotel, veicolo climatizzato, carburante, pedaggi e trenta minuti di attesa gratuita inclusi.",
+  "shortDescription": "Sei giorni a Sapporo con pick-up in hotel, veicolo climatizzato, carburante, pedaggi e trenta minuti di attesa gratuita inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour di sei giorni, incentrato sull'**Aeroporto di New Chitose**, **Sapporo** e il **Museo del Carillon di Otaru**, porta il pick-up e il drop-off in hotel entro la città di Sapporo, veicolo climatizzato, carburante, pedaggi autostradali e tariffe di parcheggio per il percorso concordato, Wi-Fi a bordo secondo la disponibilità del veicolo, un seggiolino per neonati gratuito per prenotazione, assistenza di base al percorso in base alla durata scelta e alle tappe confermate, e trenta minuti di attesa gratuita dall'orario di pick-up previsto. Pasti e bevande, spese personali, biglietti d'ingresso e alloggio restano a carico del cliente. Il secondo seggiolino per neonati e quelli successivi costano 2.000 yen, il servizio notturno dalle 22:00 alle 07:00 comporta un supplemento di 2.000 yen per tutti i servizi, e gli straordinari costano 5.000 yen all'ora per veicoli fino a 13 posti e 10.000 yen all'ora per veicoli da 18 o 44 posti.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off in hotel entro la città di Sapporo",
+   "Veicolo climatizzato",
+   "Carburante",
+   "Pedaggi autostradali per il percorso concordato",
+   "Tariffe di parcheggio per il percorso concordato",
+   "Wi-Fi a bordo, secondo la disponibilità del veicolo",
+   "Un seggiolino per neonati gratuito per prenotazione",
+   "Assistenza di base al percorso in base alla durata scelta e alle tappe confermate",
+   "30 minuti di attesa gratuita dall'orario di pick-up previsto"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Spese personali",
+   "Biglietti d'ingresso",
+   "Alloggio",
+   "Il secondo seggiolino per neonati e quelli successivi costano 2.000 yen",
+   "Il servizio notturno dalle 22:00 alle 07:00 comporta un supplemento di 2.000 yen per tutti i servizi",
+   "Straordinari per veicoli fino a 13 posti: 5.000 yen all'ora",
+   "Straordinari per veicoli da 18 posti: 10.000 yen all'ora",
+   "Straordinari per bus da 44 posti: 10.000 yen all'ora"
+  ]
+ },
+ "day-trip-to-shirakawago-and-kanazawa": {
+  "title": "Gita di un giorno a Shirakawago e Kanazawa",
+  "metaTitle": "Shirakawago e Kanazawa, gita da Nagoya",
+  "metaDescription": "Otto ore da Nagoya tra Shirakawa-go e Kanazawa, con guida bilingue in inglese e spagnolo e ingresso al Giardino Kenrokuen incluso.",
+  "shortDescription": "Otto ore da Nagoya tra Shirakawa-go e Kanazawa, con guida bilingue in inglese e spagnolo e ingresso al Giardino Kenrokuen incluso.",
+  "fullDescription": "Takayama, sui monti Hida a nord di Nagoya, ha conservato le vie dei mercanti del periodo Edo, i mercati del mattino e le fabbriche di sake, e Shirakawa-go, un'ora più avanti, è il villaggio UNESCO delle case gassho-zukuri con tetti di paglia spioventi costruiti per la neve. Il manzo di Hida è il piatto regionale.\n\nQuesta gita di otto ore porta il trasporto dal punto di incontro, una guida bilingue in inglese e spagnolo, il biglietto del treno da e per Osaka (se l'opzione è selezionata), e l'ingresso al **Giardino Kenrokuen**. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto dal punto di incontro",
+   "Guida bilingue in inglese e spagnolo",
+   "Biglietto del treno da e per Osaka (se l'opzione è selezionata)",
+   "Ingresso al Giardino Kenrokuen"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "private-bonsai-workshop-with-master-ajisawa-in-nagoya": {
+  "title": "Laboratorio privato di bonsai con il maestro Ajisawa a Nagoya",
+  "metaTitle": "Laboratorio di bonsai con il maestro Ajisawa, Nagoya",
+  "metaDescription": "Un'ora a Nagoya con un'istruzione privata uno a uno con il maestro Mamoru Ajisawa, strumenti e un vero bonsai su cui lavorare inclusi.",
+  "shortDescription": "Un'ora a Nagoya con un'istruzione privata uno a uno con il maestro Mamoru Ajisawa, strumenti e un vero bonsai su cui lavorare inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrattive proprie della città, mentre l'hitsumabushi di anguilla grigliata e il miso katsu sono i suoi piatti.\n\nQuesta esperienza di un'ora porta un'istruzione privata uno a uno con il **maestro Mamoru Ajisawa**, tutti gli strumenti per bonsai e un vero bonsai su cui lavorare, l'istruzione bilingue in inglese o giapponese, tè e piccoli rinfreschi, e le indicazioni dettagliate per raggiungere il luogo, inviate dopo la conferma della prenotazione. Il trasporto da e per lo studio (una breve camminata dalla Stazione di Inazawa), i pasti e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Istruzione privata uno a uno con il maestro Mamoru Ajisawa",
+   "Tutti gli strumenti per bonsai e un vero bonsai su cui lavorare",
+   "Istruzione bilingue in inglese o giapponese",
+   "Tè e piccoli rinfreschi",
+   "Indicazioni dettagliate per raggiungere il luogo, inviate dopo la conferma della prenotazione"
+  ],
+  "notIncluded": [
+   "Trasporto da e per lo studio (una breve camminata dalla Stazione di Inazawa)",
+   "Pasti",
+   "Mance"
+  ]
+ },
+ "samurai-kendo-practice-experience-in-nagoya": {
+  "title": "Esperienza di pratica del kendo da samurai a Nagoya",
+  "metaTitle": "Esperienza di kendo a Nagoya",
+  "metaDescription": "Due ore a Nagoya per praticare il kendo, con noleggio dell'armatura e dell'attrezzatura, acqua minerale e un asciugamano giapponese gratuiti.",
+  "shortDescription": "Due ore a Nagoya per praticare il kendo, con noleggio dell'armatura e dell'attrezzatura, acqua minerale e un asciugamano giapponese gratuiti.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale.\n\nQuesta esperienza di due ore porta una guida o istruttore professionista, il noleggio dell'armatura e dell'attrezzatura da **kendo**, acqua minerale gratuita e un asciugamano giapponese gratuito.",
+  "highlights": [],
+  "included": [
+   "Guida o istruttore professionista",
+   "Noleggio dell'armatura e dell'attrezzatura da kendo",
+   "Acqua minerale gratuita",
+   "Asciugamano giapponese gratuito"
+  ],
+  "notIncluded": []
+ },
+ "osu-kannon-photoshoot-with-local-guide-in-nagoya": {
+  "title": "Servizio fotografico a Osu Kannon con guida locale a Nagoya",
+  "metaTitle": "Servizio fotografico a Osu Kannon, Nagoya",
+  "metaDescription": "Un'ora a Nagoya tra Osu Kannon e il quartiere dello shopping di Osu, con un servizio fotografico e 40 immagini professionali modificate incluse.",
+  "shortDescription": "Un'ora a Nagoya tra Osu Kannon e il quartiere dello shopping di Osu, con un servizio fotografico e 40 immagini professionali modificate incluse.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale.\n\nQuesta esperienza di un'ora, tra **Osu Kannon** e il **quartiere dello shopping di Osu**, porta un servizio fotografico professionale, una guida locale e 40 immagini professionali modificate in alta risoluzione. Il trasporto da e per il luogo, i pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio fotografico professionale",
+   "Guida locale",
+   "40 immagini professionali modificate in alta risoluzione"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il luogo",
+   "Pasti e bevande"
+  ]
+ },
+ "shirakawa-go-and-hida-takayama-old-streets-day-tour": {
+  "title": "Tour di un giorno a Shirakawa-go e alle vecchie vie di Hida Takayama",
+  "metaTitle": "Shirakawa-go e le vecchie vie di Hida Takayama",
+  "metaDescription": "Dieci ore da Nagoya tra Takayama e Shirakawa-go, con trasporto andata e ritorno, guida professionale in inglese o cinese, pedaggi e carburante inclusi.",
+  "shortDescription": "Dieci ore da Nagoya tra Takayama e Shirakawa-go, con trasporto andata e ritorno, guida professionale in inglese o cinese, pedaggi e carburante inclusi.",
+  "fullDescription": "Takayama, sui monti Hida a nord di Nagoya, ha conservato le vie dei mercanti del periodo Edo, i mercati del mattino e le fabbriche di sake, e Shirakawa-go, un'ora più avanti, è il villaggio UNESCO delle case gassho-zukuri con tetti di paglia spioventi costruiti per la neve. Il manzo di Hida è il piatto regionale.\n\nQuesto tour di dieci ore collega **Takayama** e **Shirakawa-go**, con trasporto andata e ritorno da Nagoya, una guida professionista in inglese o cinese, e pedaggi autostradali e carburante inclusi. Pasti e bevande, spese personali e mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno da Nagoya",
+   "Guida professionista in inglese o cinese",
+   "Pedaggi autostradali e carburante"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Spese personali",
+   "Mance"
+  ]
+ },
+ "make-handmade-udon-and-miso-tasting-experience-in-nagoya": {
+  "title": "Preparazione dell'udon fatto a mano e degustazione del miso a Nagoya",
+  "metaTitle": "Udon fatto a mano e degustazione del miso, Nagoya",
+  "metaDescription": "Due ore e mezza a Nagoya per preparare l'udon fatto a mano e degustare il miso, con strumenti, ingredienti e istruzione in inglese inclusi.",
+  "shortDescription": "Due ore e mezza a Nagoya per preparare l'udon fatto a mano e degustare il miso, con strumenti, ingredienti e istruzione in inglese inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo. L'hitsumabushi di anguilla grigliata e il miso katsu sono i piatti tipici della città.\n\nQuesta esperienza di due ore e mezza porta gli strumenti di cottura, gli ingredienti, l'istruzione in lingua inglese, grembiule e asciugamano, e acqua da bere, per preparare l'**udon** fatto a mano e degustare il **miso**. Il trasporto resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Strumenti di cottura",
+   "Ingredienti",
+   "Istruzione in lingua inglese",
+   "Grembiule e asciugamano",
+   "Acqua da bere"
+  ],
+  "notIncluded": [
+   "Trasporto"
+  ]
+ },
  "nagoya-shirakawago-takayama-observatory-day-trip": {
   "title": "Shirakawa-go dall'osservatorio e il centro storico di Takayama, in un giorno da Nagoya",
   "metaTitle": "Shirakawa-go e Takayama da Nagoya",
