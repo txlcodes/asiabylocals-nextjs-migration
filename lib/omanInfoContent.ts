@@ -1380,6 +1380,40 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-dhow-zipline-combo-worth-it-khasab":
+            return {
+                title: "Is the Musandam Half-Day Dhow Cruise & Zipline Combo Worth It?",
+                description: "An honest look at the combined dhow cruise and zipline experience in Musandam, Khasab.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d3f619fa23f31aaeeb9d6f3a3b707e94a4cab3dc18a512ff56ec6969127cfd6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the fjord scenery of a traditional dhow cruise with a genuine adrenaline zipline activity gives this half-day trip real variety, a good fit for travelers who want more than just a relaxed boat ride.", tourCard: { slug: "musandam-half-day-dhow-cruise-and-zipline", title: "Musandam Half-Day Dhow Cruise & Zipline", description: "A combined dhow cruise and zipline experience in Musandam.", price: "From $112", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d3f619fa23f31aaeeb9d6f3a3b707e94a4cab3dc18a512ff56ec6969127cfd6.jpg" } },
+                    { title: "Practical Tips", content: "A good pick if you want more activity than a standard relaxed dhow cruise, without committing to a full day." }
+                ],
+                faqs: [
+                    { q: "Is the dhow cruise and zipline combo worth it in Khasab?", a: "Yes, it adds genuine adrenaline variety to the standard relaxed dhow cruise experience." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the dhow and zipline combo worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it adds genuine adrenaline variety to a standard relaxed dhow cruise." } }
+                ] },
+            };
+
+        case "is-jabel-mountain-safari-worth-it-khasab":
+            return {
+                title: "Is the Half-Day Mountain Safari to Jabel Worth It from Khasab?",
+                description: "An honest look at the half-day mountain safari into Musandam's rugged interior from Khasab.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e23057593639.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Most Khasab visitors only see the fjords by dhow cruise, so this mountain safari into Musandam's rugged interior gives a genuinely different landscape perspective, trading sea views for dramatic mountain terrain.", tourCard: { slug: "from-khasab-half-day-mountain-safari-to-jabel", title: "From Khasab: Half-Day Mountain Safari to Jabel", description: "A half-day 4x4 mountain safari into Musandam's interior from Khasab.", price: "From $350", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e23057593639.jpeg" } },
+                    { title: "Practical Tips", content: "Expect a genuinely rough 4x4 ride on mountain tracks — this isn't a paved scenic drive." }
+                ],
+                faqs: [
+                    { q: "Is the Jabel mountain safari worth it from Khasab?", a: "Yes, it gives a genuinely different landscape perspective than the standard dhow cruise, trading sea views for dramatic mountains." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jabel mountain safari worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it trades the usual sea views for a genuinely different dramatic mountain landscape." } }
+                ] },
+            };
+
         default:
             return null;
     }
