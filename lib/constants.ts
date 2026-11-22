@@ -1516,7 +1516,9 @@ export const NARA_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-nara',
   'is-tea-ceremony-worth-it-nara',
   'is-koriyama-goldfish-tour-worth-it-nara', 'is-hasedera-temple-tour-worth-it-nara',
-  'is-rickshaw-tour-worth-it-nara'];
+  'is-rickshaw-tour-worth-it-nara',
+  'is-samurai-tour-worth-it-nara', 'is-omiwa-shrine-tour-worth-it-nara',
+  'is-asuka-ancient-capital-tour-worth-it-nara', 'is-deer-lantern-night-walk-worth-it-nara'];
 
 // Re-add a slug here ONLY once its page exists in lib/nagoyaInfoContent.ts.
 export const NAGOYA_INFO_SLUGS = [

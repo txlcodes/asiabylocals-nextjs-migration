@@ -951,6 +951,90 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-samurai-tour-worth-it-nara":
+      return {
+        title: "Is the Nara Samurai Tour with Yagyu Village & Split Rock Hike Worth It?",
+        description: "An honest look at the samurai-themed tour to Yagyu Village and the split rock, tied to a legendary swordsman's training grounds.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nara-samurai-tour-yagyu-village-and-split-rock-hike-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yagyu Village is genuinely tied to a legendary samurai swordsman lineage, and hiking to the famous split rock he's said to have cut gives this tour real historical substance, a good fit for travelers who want samurai history beyond a tourist costume photo-op.",
+            tourCard: { slug: "nara-samurai-tour-yagyu-village-and-split-rock-hike-by-local-operator", title: "Nara Samurai Tour: Yagyu Village & Split Rock Hike", description: "A samurai-themed tour to Yagyu Village and the legendary split rock in Nara.", price: "From $99", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nara-samurai-tour-yagyu-village-and-split-rock-hike-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This involves a real hike to reach the split rock, so come with proper footwear and reasonable fitness.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yagyu Village samurai tour worth it in Nara?", a: "Yes, it has real historical substance tied to a legendary swordsman, beyond a typical tourist costume photo-op." },
+        ],
+      };
+
+    case "is-omiwa-shrine-tour-worth-it-nara":
+      return {
+        title: "Is the Private Tour of Omiwa Shrine Worth It in Nara?",
+        description: "An honest look at the private tour of Omiwa Shrine, considered Japan's oldest shrine.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-tour-of-omiwa-shrine-japan-s-oldest-shrine/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Omiwa Shrine is widely considered Japan's oldest shrine, with no main hall since the mountain itself is worshipped directly, giving this a genuinely different spiritual significance from Nara's more commonly visited Kasuga Taisha or Todai-ji.",
+            tourCard: { slug: "private-tour-of-omiwa-shrine-japan-s-oldest-shrine", title: "Private Tour of Omiwa Shrine, Japan's Oldest Shrine", description: "A private tour of Omiwa Shrine, considered Japan's oldest Shinto shrine.", price: "From $121", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-tour-of-omiwa-shrine-japan-s-oldest-shrine/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide genuinely helps here, since the shrine's mountain-worship significance isn't obvious without context.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Omiwa Shrine tour worth it in Nara?", a: "Yes, as Japan's oldest shrine with a genuinely different mountain-worship tradition, a guide adds real context you'd otherwise miss." },
+        ],
+      };
+
+    case "is-asuka-ancient-capital-tour-worth-it-nara":
+      return {
+        title: "Is the Asuka Ancient Capital Private Tour Worth It from Nara?",
+        description: "An honest look at the private tour of Asuka, Japan's ancient capital predating Nara itself.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/asuka-ancient-capital-and-future-heritage-private-tour-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Asuka was Japan's capital before Nara, with genuinely ancient burial mounds and archaeological sites that go even further back in Japanese history than Nara's temples, a good pick for travelers with a deeper interest in the country's earliest history.",
+            tourCard: { slug: "asuka-ancient-capital-and-future-heritage-private-tour-in-nara", title: "Asuka Ancient Capital & Future Heritage Private Tour", description: "A private tour of Asuka, Japan's ancient capital predating Nara.", price: "From $190", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/asuka-ancient-capital-and-future-heritage-private-tour-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers with a genuine interest in archaeology and early Japanese history more than typical temple sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Asuka ancient capital tour worth it from Nara?", a: "Yes, for travelers with a deeper interest in Japan's earliest history, Asuka's ancient sites predate even Nara's temples." },
+        ],
+      };
+
+    case "is-deer-lantern-night-walk-worth-it-nara":
+      return {
+        title: "Is the Nara After Dark Sacred Deer Lantern Walk Worth It?",
+        description: "An honest look at the nighttime lantern walk through Nara's deer park with hidden viewpoints.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nara-after-dark-sacred-deer-lantern-walk-with-hidden-views-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nara's deer park and historic lanterns take on a genuinely different atmosphere after dark, far quieter and more atmospheric than the busy daytime crowds, with the lantern lighting adding a distinctly different photographic angle.",
+            tourCard: { slug: "nara-after-dark-sacred-deer-lantern-walk-with-hidden-views-by-local-operator", title: "Nara After Dark: Sacred Deer Lantern Walk", description: "A nighttime lantern walking tour through Nara's deer park with hidden viewpoints.", price: "From $70", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nara-after-dark-sacred-deer-lantern-walk-with-hidden-views-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Deer are typically calmer at night with fewer crowds, making this a good pick for travelers who found the daytime park too busy.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nara deer lantern night walk worth it?", a: "Yes, the park feels genuinely different and far quieter after dark, with the lantern lighting adding a distinct photographic angle." },
+        ],
+      };
+
     default:
       return null;
   }
