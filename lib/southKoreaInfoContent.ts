@@ -1766,6 +1766,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-spa-land-worth-it-busan":
+      return {
+        title: "Is Spa Land Centum City Worth It in Busan?",
+        description: "An honest look at Spa Land Centum City, one of the world's largest jjimjilbang-style spa and sauna complexes.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20f910a25e3d1cf43bb0ad3a45f3a201d6ca49bae18d8f35a0fc719b5874219d.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spa Land is one of the world's largest jjimjilbang-style complexes, with a wide variety of themed saunas and soaking pools, making for a genuinely relaxing full afternoon break from Busan's beaches and sightseeing at a modest entry price.",
+            tourCard: { slug: "busan-spaland-centum-city-entry-ticket", title: "Busan Spa Land Centum City Entry Ticket", description: "An entry ticket to Spa Land, a large jjimjilbang spa complex in Busan.", price: "From $26", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/20f910a25e3d1cf43bb0ad3a45f3a201d6ca49bae18d8f35a0fc719b5874219d.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Most saunas are gender-separated and clothing-optional in the bathing areas, following standard Korean jjimjilbang etiquette — the common lounge areas are mixed and require the provided spa clothing.",
+          },
+        ],
+        faqs: [
+          { q: "Is Spa Land worth it in Busan?", a: "Yes, it's one of the world's largest jjimjilbang complexes and a genuinely relaxing full-afternoon break at a modest price." },
+        ],
+      };
+
+    case "is-kdrama-filming-locations-tour-worth-it-busan":
+      return {
+        title: "Is the K-Drama Filming Locations Tour Worth It in Busan?",
+        description: "An honest look at the private movie and K-drama filming locations tour in Busan, visiting spots recognizable from Korean screen productions.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/94b852863934669c1d58bf528507d549dc206bf49d4cf5fb8d8ddafb0c796f14.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting real locations recognizable from Korean films and dramas gives genuine fans a different lens on Busan's neighborhoods than standard sightseeing, and a private guide helps track down spots that aren't obviously marked.",
+            tourCard: { slug: "busan-private-movie-filming-locations-tour-with", title: "Busan Private Movie & K-Drama Filming Locations Tour", description: "A private tour of movie and K-drama filming locations around Busan.", price: "From $233", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/94b852863934669c1d58bf528507d549dc206bf49d4cf5fb8d8ddafb0c796f14.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Worth confirming with the guide beforehand which specific productions' locations are included, since there are many to choose from.",
+          },
+        ],
+        faqs: [
+          { q: "Is the K-drama filming locations tour worth it in Busan?", a: "Yes, for genuine fans, it offers a different lens on the city's neighborhoods than standard sightseeing." },
+        ],
+      };
+
+    case "is-rice-wine-brewing-worth-it-busan":
+      return {
+        title: "Is the Korean Rice Wine Brewing & Tasting Worth It in Busan?",
+        description: "An honest look at the Korean rice wine brewing and tasting session in Busan, covering makgeolli and other traditional rice wines.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/882e3e466b52e100d5319864eb54f9d00185d3db6f0c1d18cb1d1a10716681c5.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning how traditional Korean rice wines like makgeolli are actually brewed, rather than just drinking it at a restaurant, gives real insight into a drink most visitors only ever try casually, and at 1.5 hours it's an easy evening activity.",
+            tourCard: { slug: "busan-korean-rice-wine-brewing-tasting", title: "Busan Korean Rice Wine Brewing & Tasting", description: "A hands-on session on brewing and tasting traditional Korean rice wine in Busan.", price: "From $59", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/882e3e466b52e100d5319864eb54f9d00185d3db6f0c1d18cb1d1a10716681c5.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or evening activity, since the session runs under 2 hours and ends with the tasting.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Korean rice wine brewing session worth it in Busan?", a: "Yes, it gives real insight into how makgeolli and other traditional rice wines are actually made, beyond just drinking it at a restaurant." },
+        ],
+      };
+
+    case "is-jagalchi-market-walking-tour-worth-it-busan":
+      return {
+        title: "Is the Jagalchi Market & Gamcheon Village Walking Tour Worth It in Busan?",
+        description: "An honest look at the guided walking tour combining Jagalchi Fish Market and Gamcheon Culture Village in Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jagalchi is Korea's largest seafood market and Gamcheon's colorful hillside houses are visually striking in a totally different way, and pairing the two in one guided walk covers two of Busan's most distinct neighborhoods in a single outing.",
+            tourCard: { slug: "busan-jagalchi-market-gamcheon-village-walking", title: "Busan Jagalchi Market & Gamcheon Village Walking Tour", description: "A guided walking tour combining Jagalchi Fish Market and Gamcheon Culture Village.", price: "From $262", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd3dab2e37e064f0ebeef9b3bbb9ad0bf893ff1b16eefdf4fae1e358afde878f.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — Gamcheon's hillside streets involve genuine uphill walking and stairs.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jagalchi Market and Gamcheon Village walking tour worth it in Busan?", a: "Yes, it covers two of Busan's most visually and culturally distinct neighborhoods in a single guided outing." },
+        ],
+      };
+
     default:
       return null;
   }

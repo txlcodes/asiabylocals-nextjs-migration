@@ -261,6 +261,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-gamcheon-village-tour-worth-it-busan', 'is-haedong-yonggungsa-temple-tour-worth-it-busan',
     'is-gyeongju-day-trip-worth-it-busan', 'is-taekwondo-experience-worth-it-busan',
     'is-cable-car-tower-tour-worth-it-busan', 'is-night-yacht-cruise-worth-it-busan',
+    'is-spa-land-worth-it-busan', 'is-kdrama-filming-locations-tour-worth-it-busan',
+    'is-rice-wine-brewing-worth-it-busan', 'is-jagalchi-market-walking-tour-worth-it-busan',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/busan/${slug}`,
     lastModified: new Date(),
