@@ -2592,6 +2592,74 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-thakali-dinner-worth-it-pokhara":
+            return {
+                title: "Is the Traditional Thakali Dinner Worth It in Pokhara?",
+                description: "An honest look at the traditional Thakali dinner experience in Pokhara, built around the distinct cuisine of Nepal's Thakali community.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e5e4f4fe627c6bf2b3c580ea1171f6f18810052b304e4fa82ccaa13739a2d858.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Thakali cuisine is genuinely distinct from standard Nepali dal bhat, known for its specific spice blends and preparation methods from the Thak Khola region, and at just 3 hours with hotel transfer this is an easy, low-commitment way to try it.", tourCard: { slug: "pokhara-traditional-thakali-dinner-with-hotel", title: "Pokhara Traditional Thakali Dinner with Hotel Transfer", description: "A traditional Thakali dinner experience in Pokhara with hotel transfer included.", price: "From $84", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e5e4f4fe627c6bf2b3c580ea1171f6f18810052b304e4fa82ccaa13739a2d858.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — Thakali meals are traditionally served as a generous, multi-dish thali." }
+                ],
+                faqs: [
+                    { q: "Is the traditional Thakali dinner worth it in Pokhara?", a: "Yes, Thakali cuisine is genuinely distinct from standard Nepali food, and this is an easy, low-commitment way to try it." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Thakali dinner worth it in Pokhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an easy way to try Thakali cuisine's genuinely distinct spice blends and dishes." } }
+                ] },
+            };
+
+        case "is-phewa-lake-yoga-worth-it-pokhara":
+            return {
+                title: "Is Phewa Lake Yoga and Meditation Worth It in Pokhara?",
+                description: "An honest look at the Phewa Lake yoga and meditation session in Pokhara, with hotel transfer included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9ef04ec4b29e1d6f71339492cee2a0eea0b076a316926b44d4378acee6555be.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Practicing yoga and meditation right on the shore of Phewa Lake with Annapurna views genuinely elevates the setting beyond a standard studio session, and at 3 hours it's an easy, relaxed morning or afternoon activity.", tourCard: { slug: "pokhara-phewa-lake-yoga-and-meditation-with-hotel", title: "Pokhara Phewa Lake Yoga and Meditation", description: "A yoga and meditation session on the shore of Phewa Lake in Pokhara, with hotel transfer.", price: "From $133", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9ef04ec4b29e1d6f71339492cee2a0eea0b076a316926b44d4378acee6555be.jpg" } },
+                    { title: "Practical Tips", content: "Book a morning slot for the calmest lake conditions and the clearest Annapurna range views." }
+                ],
+                faqs: [
+                    { q: "Is Phewa Lake yoga and meditation worth it in Pokhara?", a: "Yes, practicing right on the lakeshore with Annapurna views genuinely elevates the setting beyond a standard studio session." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Phewa Lake yoga and meditation worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the lakeshore setting with Annapurna views genuinely elevates a standard yoga session." } }
+                ] },
+            };
+
+        case "is-royal-enfield-adventure-worth-it-pokhara":
+            return {
+                title: "Is the Royal Enfield Himalayan Adventure Worth It in Pokhara?",
+                description: "An honest look at the Royal Enfield Himalayan motorbike day tour from Pokhara, a genuine riding adventure for experienced motorcyclists.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6714f5e8431dfba2f48ce42d53716d365df942e0bf08fa2ab6888602788740ea.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a genuine Royal Enfield Himalayan through the mountain roads around Pokhara is a real motorcycling adventure, distinct from sitting pillion on a guided tour, and this suits travelers who specifically want to ride themselves rather than be driven.", tourCard: { slug: "pokhara-royal-enfield-himalayan-adventure-day-tour", title: "Pokhara Royal Enfield Himalayan Adventure Day Tour", description: "A day tour riding a Royal Enfield Himalayan motorbike through the mountains around Pokhara.", price: "From $364", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6714f5e8431dfba2f48ce42d53716d365df942e0bf08fa2ab6888602788740ea.jpeg" } },
+                    { title: "Practical Tips", content: "A valid motorcycle license and real riding experience are typically required, since you're piloting the bike yourself, not riding pillion." }
+                ],
+                faqs: [
+                    { q: "Is the Royal Enfield Himalayan adventure worth it in Pokhara?", a: "Yes, for experienced motorcyclists wanting to ride themselves rather than sit pillion, it's a genuine mountain-road adventure." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Royal Enfield Himalayan adventure worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for experienced motorcyclists wanting a genuine self-ridden mountain-road adventure." } }
+                ] },
+            };
+
+        case "is-pokhara-bungee-worth-it-pokhara":
+            return {
+                title: "Is the Pokhara Himalayan 80m Bungee Adventure Worth It?",
+                description: "An honest look at the 80-meter bungee jump near Pokhara, a shorter and more accessible alternative to the Kushma bungee site.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58da1b636c3be8ab01ff8e91d3353bcab659cc4eef108dda63eb2d6dacf772ca.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At 80 meters and a short drive from the city, this bungee jump is a more accessible adrenaline fix than the more remote Kushma site, a good pick for travelers short on time who still want a genuine jump.", tourCard: { slug: "pokhara-himalayan-80m-bungee-adventure", title: "Pokhara Himalayan 80m Bungee Adventure", description: "An 80-meter bungee jump experience near Pokhara.", price: "From $80", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58da1b636c3be8ab01ff8e91d3353bcab659cc4eef108dda63eb2d6dacf772ca.jpg" } },
+                    { title: "Practical Tips", content: "Check the age and weight requirements in advance, since bungee operators typically enforce strict safety limits." }
+                ],
+                faqs: [
+                    { q: "Is the Pokhara 80m bungee worth it?", a: "Yes, it's a more accessible, closer-to-city alternative to the Kushma bungee site, still a genuine adrenaline jump." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Pokhara 80m bungee worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a more accessible bungee jump closer to the city than the Kushma site." } }
+                ] },
+            };
+
         case "is-khukuri-forging-demo-worth-it-kathmandu":
             return {
                 title: "Is the Khukuri Forging Demo Worth It in Kathmandu?",

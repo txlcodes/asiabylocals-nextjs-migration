@@ -800,6 +800,8 @@ export const POKHARA_INFO_SLUGS = [
   'is-hot-air-balloon-worth-it-pokhara', 'is-ultralight-flight-worth-it-pokhara',
   'is-gupteshwor-cave-worth-it-pokhara', 'is-begnas-rupa-lake-tour-worth-it-pokhara',
   'is-seti-river-rafting-worth-it-pokhara',
+  'is-thakali-dinner-worth-it-pokhara', 'is-phewa-lake-yoga-worth-it-pokhara',
+  'is-royal-enfield-adventure-worth-it-pokhara', 'is-pokhara-bungee-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.
