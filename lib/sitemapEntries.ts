@@ -1211,6 +1211,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-siniawan-night-market-worth-it-kuching', 'is-gula-apong-tour-worth-it-kuching',
     'is-weaving-workshop-worth-it-kuching',
     'is-bako-national-park-tour-worth-it-kuching',
+    'is-gunung-gading-rafflesia-tour-worth-it-kuching', 'is-royal-cruise-show-worth-it-kuching',
+    'is-tanjung-datu-national-park-worth-it-kuching', 'is-maludam-national-park-worth-it-kuching',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kuching/${slug}`,
     lastModified: new Date(),

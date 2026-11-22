@@ -291,6 +291,8 @@ export const KUCHING_INFO_SLUGS = [
   'is-siniawan-night-market-worth-it-kuching', 'is-gula-apong-tour-worth-it-kuching',
   'is-weaving-workshop-worth-it-kuching',
   'is-bako-national-park-tour-worth-it-kuching',
+  'is-gunung-gading-rafflesia-tour-worth-it-kuching', 'is-royal-cruise-show-worth-it-kuching',
+  'is-tanjung-datu-national-park-worth-it-kuching', 'is-maludam-national-park-worth-it-kuching',
 ];
 
 // Nepal launched 2026-11-16 with 1,535 live tours and zero authority pages.

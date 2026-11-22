@@ -4275,6 +4275,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-gunung-gading-rafflesia-tour-worth-it-kuching":
+            return {
+                title: "Is the Gunung Gading Rafflesia Tour Worth It from Kuching?",
+                description: "An honest look at the Gunung Gading National Park tour, where the chance to see the world's largest flower, the Rafflesia, depends on timing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1346377/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Rafflesia is genuinely the world's largest flower and blooms unpredictably for only a few days at a time, so this tour is a worthwhile gamble for plant enthusiasts, though a guide checking current bloom status before you go is essential.", tourCard: { slug: "kuching-gunung-gading-national-park-rafflesia-tour", title: "Kuching Gunung Gading National Park Rafflesia Tour", description: "A guided tour of Gunung Gading National Park to see the Rafflesia flower.", price: "From $410", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1346377/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask the operator to confirm a Rafflesia is currently blooming before booking, since the flower only opens for a few days at unpredictable intervals." }
+                ],
+                faqs: [
+                    { q: "Is the Gunung Gading Rafflesia tour worth it from Kuching?", a: "Yes, for plant enthusiasts, though confirm a bloom is currently active first, since the world's largest flower only opens for a few unpredictable days at a time." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gunung Gading Rafflesia tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for plant enthusiasts, but confirm a bloom is active first since it only opens briefly." } }
+                ] },
+            };
+
+        case "is-royal-cruise-show-worth-it-kuching":
+            return {
+                title: "Is the Kuching Royal Cruise with Sunset & Live Show Worth It?",
+                description: "An honest look at the Kuching Royal Cruise with an optional live show, a short sunset boat ride on the Sarawak River.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/56830c13fd686051e181b64e474f489d53b28453b7d4a65ada7e4a96584306dc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At just 1.5 hours and a modest price, this sunset cruise on the Sarawak River is an easy, affordable evening activity, and adding the optional live show gives it a bit more entertainment value than a plain scenic cruise.", tourCard: { slug: "kuching-royal-cruise-sunset-live-show-optional", title: "Kuching Royal Cruise: Sunset & Live Show (Optional)", description: "A sunset cruise on the Sarawak River with an optional live show.", price: "From $46", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/56830c13fd686051e181b64e474f489d53b28453b7d4a65ada7e4a96584306dc.jpg" } },
+                    { title: "Practical Tips", content: "Confirm whether the live show is included or an add-on when booking, since pricing can vary between the two options." }
+                ],
+                faqs: [
+                    { q: "Is the Kuching Royal Cruise worth it?", a: "Yes, it's an easy, affordable evening on the Sarawak River, and the optional live show adds extra entertainment value." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kuching Royal Cruise worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an easy, affordable sunset cruise, with the optional show adding extra value." } }
+                ] },
+            };
+
+        case "is-tanjung-datu-national-park-worth-it-kuching":
+            return {
+                title: "Is the Tanjung Datu National Park 2-Day Tour Worth It from Kuching?",
+                description: "An honest look at the 2-day guided tour of Tanjung Datu National Park, one of Sarawak's most remote and least-visited parks.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1347610/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Tanjung Datu is genuinely one of Sarawak's most remote and least-visited national parks, with pristine beaches and reef that see a fraction of Bako's visitor traffic, making the 2-day commitment and premium price worthwhile for travelers specifically seeking an off-the-beaten-path escape.", tourCard: { slug: "kuching-tanjung-datu-national-park-2-day-guided", title: "Kuching Tanjung Datu National Park 2-Day Guided Tour", description: "A 2-day guided tour of the remote Tanjung Datu National Park from Kuching.", price: "From $1077", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1347610/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a genuine remote-park commitment, so pack accordingly — facilities are minimal compared to the more visited Bako National Park." }
+                ],
+                faqs: [
+                    { q: "Is the Tanjung Datu National Park tour worth it from Kuching?", a: "Yes, for travelers specifically seeking an off-the-beaten-path escape, it's genuinely one of Sarawak's least-visited parks with pristine beaches." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tanjung Datu National Park tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers wanting an off-the-beaten-path escape with pristine, little-visited beaches." } }
+                ] },
+            };
+
+        case "is-maludam-national-park-worth-it-kuching":
+            return {
+                title: "Is the Maludam National Park 2-Day Wildlife Tour Worth It from Kuching?",
+                description: "An honest look at the 2-day wildlife tour of Maludam National Park, home to one of the world's largest populations of proboscis monkeys.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1346501/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Maludam is home to one of the world's largest proboscis monkey populations, a genuinely different and less-touristed wildlife destination than Bako, making the 2-day trip worthwhile specifically for serious wildlife watchers.", tourCard: { slug: "kuching-maludam-national-park-2-day-wildlife-tour", title: "Kuching Maludam National Park 2-Day Wildlife Tour", description: "A 2-day wildlife tour of Maludam National Park, known for its large proboscis monkey population.", price: "From $1077", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1346501/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This suits serious wildlife watchers specifically wanting proboscis monkeys — Bako offers a shorter, cheaper day-trip alternative if that's your main goal." }
+                ],
+                faqs: [
+                    { q: "Is the Maludam National Park tour worth it from Kuching?", a: "Yes, for serious wildlife watchers, it hosts one of the world's largest proboscis monkey populations in a genuinely less-touristed park than Bako." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Maludam National Park tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for serious wildlife watchers wanting one of the world's largest proboscis monkey populations." } }
+                ] },
+            };
+
         default:
             return null;
     }
