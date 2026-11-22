@@ -1926,6 +1926,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ayung-river-rafting-worth-it-ubud', 'is-bali-swing-worth-it-ubud',
     'is-arma-museum-worth-it-ubud', 'is-batik-workshop-worth-it-ubud',
     'is-atv-jungle-ride-worth-it-ubud',
+    'is-blue-lagoon-snorkeling-worth-it-ubud', 'is-lempuyang-temple-tour-worth-it-ubud',
+    'is-tulamben-wreck-diving-worth-it-ubud', 'is-campuhan-ridge-walk-worth-it-ubud',
+    'is-goa-gajah-elephant-cave-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),

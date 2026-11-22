@@ -2151,6 +2151,111 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-blue-lagoon-snorkeling-worth-it-ubud":
+      return {
+        title: "Is Blue Lagoon Snorkeling Worth It near Ubud?",
+        description: "An honest look at the Blue Lagoon snorkeling trip near Amed, a clear-water cove distinct from Bali's more common beach and river rafting activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/blue-lagoon-snorkeling-with-lunch-and-transport-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Blue Lagoon near Amed is a sheltered, genuinely clear-water cove with easy shore access, making it a dependable snorkeling spot distinct from Bali's more common beach days and river rafting activities, with lunch and transport included for a full day out.",
+            tourCard: { slug: "blue-lagoon-snorkeling-with-lunch-and-transport-in-ubud", title: "Blue Lagoon Snorkeling with Lunch and Transport", description: "A snorkeling trip to the Blue Lagoon with lunch and transport included.", price: "From $113", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/blue-lagoon-snorkeling-with-lunch-and-transport-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long drive from Ubud to the island's east coast — factor in real travel time on both ends of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is Blue Lagoon snorkeling worth it?", a: "Yes, for a dependable, genuinely clear-water cove, though it's a long drive from Ubud to reach the island's east coast." },
+        ],
+      };
+
+    case "is-lempuyang-temple-tour-worth-it-ubud":
+      return {
+        title: "Is the Lempuyang Temple Tour Worth It from Ubud?",
+        description: "An honest look at the Lempuyang Temple and East Bali tour, home to the famous 'Gate of Heaven' photo spot and panoramic Mount Agung views.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lempuyang-temple-and-east-bali-customizable-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lempuyang Temple is home to the famous 'Gate of Heaven' mirrored photo spot, which has become genuinely iconic on social media, and the climb up to the temple itself also offers panoramic views of Mount Agung on a clear day, giving substance beyond just the photo.",
+            tourCard: { slug: "lempuyang-temple-and-east-bali-customizable-tour", title: "Lempuyang Temple and East Bali Customizable Tour", description: "A customizable tour to Lempuyang Temple and East Bali.", price: "From $132", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/lempuyang-temple-and-east-bali-customizable-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with realistic expectations about the mirrored photo effect — it's created with a handheld mirror below the camera lens, not a literal reflecting pool.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lempuyang Temple worth visiting from Ubud?", a: "Yes, for the iconic Gate of Heaven photo plus genuine Mount Agung views from the temple climb, though the mirror effect is staged, not a natural reflection." },
+        ],
+      };
+
+    case "is-tulamben-wreck-diving-worth-it-ubud":
+      return {
+        title: "Is Tulamben WWII Wreck Diving Worth It near Ubud?",
+        description: "An honest look at discover scuba diving at Tulamben's USAT Liberty wreck, one of the most accessible wreck dives in the world.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/discover-scuba-diving-and-wwii-liberty-wreck-at-tulamben-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The USAT Liberty, a sunken WWII cargo ship at Tulamben, is one of the most accessible wreck dives in the world, reachable close to shore at a shallow enough depth for an introductory dive, a genuinely different activity from Ubud's temple and rice terrace sightseeing.",
+            tourCard: { slug: "discover-scuba-diving-and-wwii-liberty-wreck-at-tulamben-in-ubud", title: "Discover Scuba Diving and WWII Liberty Wreck at Tulamben", description: "An introductory scuba dive at the Tulamben USAT Liberty wreck.", price: "From $143", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/discover-scuba-diving-and-wwii-liberty-wreck-at-tulamben-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior diving certification is needed for a discover scuba session — a basic safety briefing and instructor supervision are included.",
+          },
+        ],
+        faqs: [
+          { q: "Is Tulamben wreck diving worth it?", a: "Yes, it's one of the most accessible wreck dives in the world, shallow and close enough to shore for an introductory dive with no certification needed." },
+        ],
+      };
+
+    case "is-campuhan-ridge-walk-worth-it-ubud":
+      return {
+        title: "Is the Campuhan Ridge Walk Worth It in Ubud?",
+        description: "An honest look at the half-day Campuhan Ridge and Ubud Palace tour, a free, scenic walking route through Ubud's hilly rice-field outskirts.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/half-day-campuhan-ridge-and-ubud-palace-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Campuhan Ridge is a well-known, genuinely scenic walking trail through grassy hills just outside central Ubud, and pairing it with a visit to Ubud Palace gives a good mix of nature and heritage sites within the town itself, no long drive required.",
+            tourCard: { slug: "half-day-campuhan-ridge-and-ubud-palace-tour", title: "Half-Day Campuhan Ridge and Ubud Palace Tour", description: "A half-day tour combining the Campuhan Ridge walk with Ubud Palace.", price: "From $39", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/half-day-campuhan-ridge-and-ubud-palace-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the early morning for cooler temperatures and softer light over the ridge's grassy hills.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Campuhan Ridge Walk worth it in Ubud?", a: "Yes, for a genuinely scenic walk and Ubud Palace visit without needing a long drive out of town." },
+        ],
+      };
+
+    case "is-goa-gajah-elephant-cave-worth-it-ubud":
+      return {
+        title: "Is the Goa Gajah Elephant Cave Worth It in Ubud?",
+        description: "An honest look at the Elephant Cave and Pakerisan UNESCO guided tour, a compact ancient cave temple site close to central Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/elephant-cave-and-pakerisan-unesco-guided-tour-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Goa Gajah, the Elephant Cave, is an ancient rock-cut sanctuary with a carved demon-face entrance, part of the UNESCO-listed Pakerisan watershed, and it's quick and close enough to central Ubud to pair easily with other half-day sightseeing without a long drive.",
+            tourCard: { slug: "elephant-cave-and-pakerisan-unesco-guided-tour-in-ubud", title: "Elephant Cave and Pakerisan UNESCO Guided Tour", description: "A guided tour of the Goa Gajah Elephant Cave and Pakerisan UNESCO site.", price: "From $25", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/elephant-cave-and-pakerisan-unesco-guided-tour-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a quick stop at 2 hours — a good add-on to pair with another half-day activity rather than a destination on its own.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Elephant Cave worth visiting in Ubud?", a: "Yes, it's a quick, close UNESCO-listed ancient cave temple, a good add-on alongside other half-day Ubud sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

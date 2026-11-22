@@ -2168,6 +2168,9 @@ export const UBUD_INFO_SLUGS = [
   'is-ayung-river-rafting-worth-it-ubud', 'is-bali-swing-worth-it-ubud',
   'is-arma-museum-worth-it-ubud', 'is-batik-workshop-worth-it-ubud',
   'is-atv-jungle-ride-worth-it-ubud',
+  'is-blue-lagoon-snorkeling-worth-it-ubud', 'is-lempuyang-temple-tour-worth-it-ubud',
+  'is-tulamben-wreck-diving-worth-it-ubud', 'is-campuhan-ridge-walk-worth-it-ubud',
+  'is-goa-gajah-elephant-cave-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [
