@@ -1737,6 +1737,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sri-lankan-cooking-class-worth-it-mirissa', 'is-deep-sea-fishing-worth-it-mirissa',
     'is-snake-conservation-farm-tour-worth-it-mirissa', 'is-crocodile-watching-worth-it-mirissa',
     'is-batik-workshop-worth-it-mirissa',
+    'is-whale-watching-tour-worth-it-mirissa', 'is-sunset-catamaran-worth-it-mirissa',
+    'is-village-cooking-experience-worth-it-mirissa', 'is-kayak-floating-dinner-worth-it-mirissa',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/mirissa/${slug}`,
     lastModified: new Date(),

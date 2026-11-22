@@ -306,6 +306,90 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-whale-watching-tour-worth-it-mirissa":
+      return {
+        title: "Is the Mirissa Whale Watching Boat Tour Worth It?",
+        description: "An honest look at the whale watching boat tour with breakfast in Mirissa, one of the world's best spots for blue whale sightings.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1422108/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mirissa is genuinely one of the world's best places to see blue whales, the largest animal on Earth, and this morning tour with breakfast included combines a real chance at a life-changing wildlife sighting with practical comfort for what can be a long few hours at sea.",
+            tourCard: { slug: "mirissa-whale-watching-boat-tour-with-breakfast", title: "Mirissa Whale Watching Boat Tour with Breakfast", description: "A whale watching boat tour in Mirissa with breakfast included.", price: "From $129", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1422108/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Take seasickness precautions in advance if you're prone to it — the open ocean swells can be significant even on calm days.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mirissa whale watching tour worth it?", a: "Yes, Mirissa is genuinely one of the world's best spots for blue whale sightings, and this tour gives a real chance at seeing them." },
+        ],
+      };
+
+    case "is-sunset-catamaran-worth-it-mirissa":
+      return {
+        title: "Is the Mirissa Sunset Catamaran Sailing Tour Worth It?",
+        description: "An honest look at the sunset catamaran sailing boat tour in Mirissa, a relaxed premium evening on the water.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-819588/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sailing on a genuine catamaran at sunset is a far more relaxed, premium experience than a standard motorboat tour, and the price reflects a smoother ride and more spacious deck for watching the sun go down over the Indian Ocean.",
+            tourCard: { slug: "mirissa-sunset-catamaran-sailing-boat-tour-with", title: "Mirissa Sunset Catamaran Sailing Boat Tour", description: "A sunset catamaran sailing boat tour in Mirissa.", price: "From $761", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-819588/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a genuine premium experience, so it suits special occasions or travelers wanting a more comfortable sailing experience over a basic boat tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mirissa sunset catamaran tour worth it?", a: "Yes, for a far more relaxed, premium experience than a standard motorboat, the catamaran's smoother ride and space justify the cost for special occasions." },
+        ],
+      };
+
+    case "is-village-cooking-experience-worth-it-mirissa":
+      return {
+        title: "Is the Traditional Sri Lankan Village Cooking Experience Worth It in Mirissa?",
+        description: "An honest look at the traditional village cooking experience in Mirissa, distinct from a standard chef-led cooking class.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1475966/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cooking in a genuine village household setting, rather than a dedicated cooking-school kitchen, gives this experience a more authentic, home-cooked feel, a good complement to the area's whale-watching and beach-focused days.",
+            tourCard: { slug: "mirissa-traditional-sri-lankan-village-cooking", title: "Mirissa Traditional Sri Lankan Village Cooking Experience", description: "A traditional Sri Lankan cooking experience in a village household setting in Mirissa.", price: "From $77", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1475966/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — you'll be eating what you cook, and village-style meals are traditionally generous.",
+          },
+        ],
+        faqs: [
+          { q: "Is the village cooking experience worth it in Mirissa?", a: "Yes, cooking in a genuine village household setting gives a more authentic, home-cooked feel than a standard cooking-school class." },
+        ],
+      };
+
+    case "is-kayak-floating-dinner-worth-it-mirissa":
+      return {
+        title: "Is the Mirissa Kayak Tour with Floating Dinner Worth It?",
+        description: "An honest look at the Mirissa kayak tour with a day or night option and floating dinner experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1458066/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a kayak paddle with a genuinely novel floating dinner setup gives this a more memorable, Instagram-worthy evening than a standard restaurant meal, and choosing between day or night options adds real flexibility.",
+            tourCard: { slug: "mirissa-kayak-tours-day-night-floating-dinner", title: "Mirissa Kayak Tours: Day/Night with Floating Dinner", description: "A kayak tour in Mirissa with day or night options and a floating dinner experience.", price: "From $85", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1458066/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the night option specifically if the floating dinner setup and lighting are the main draw for you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the kayak floating dinner tour worth it in Mirissa?", a: "Yes, it's a genuinely novel, memorable evening setup, more distinctive than a standard restaurant meal." },
+        ],
+      };
+
     default:
       return null;
   }
