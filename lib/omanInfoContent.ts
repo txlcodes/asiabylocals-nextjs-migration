@@ -1066,6 +1066,60 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-jabreen-bahla-castle-tour-worth-it-nizwa":
+            return {
+                title: "Is the Nizwa, Jabreen Castle and Bahla Castle Tour Worth It?",
+                seoTitle: "Jabreen Bahla Castle Tour 2026 | Honest Review",
+                description: "An honest look at the historical day trip covering Nizwa Fort, Jabreen Castle, and the UNESCO-listed Bahla Fort, three of Oman's most significant forts in one day.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fc5eb04092cd31e81e20f57ef5e5b2ff5fd4167a3923fe5c169ea779ce624026.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers three of Oman's most significant historical forts in one day: Nizwa Fort, the ornately decorated Jabreen Castle, and Bahla Fort, a UNESCO World Heritage Site, a genuinely substantial history day for travelers who want more than the Nizwa Fort visit alone.", tourCard: { slug: "historical-day-trip-nizwa-jabreen-castle-bahla", title: "Historical Day Trip: Nizwa, Jabreen Castle, Bahla", description: "A historical day trip covering Nizwa Fort, Jabreen Castle, and Bahla Fort.", price: "From $585", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fc5eb04092cd31e81e20f57ef5e5b2ff5fd4167a3923fe5c169ea779ce624026.jpg" } },
+                    { title: "Practical Tips", content: "Jabreen Castle's interior decoration is genuinely one of the most ornate in Oman — budget real time there rather than rushing through." }
+                ],
+                faqs: [
+                    { q: "Is the Nizwa, Jabreen and Bahla castle tour worth it?", a: "Yes, for a substantial history day covering three of Oman's most significant forts, including the UNESCO-listed Bahla Fort." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nizwa, Jabreen and Bahla castle tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for covering three of Oman's most significant historical forts, including the UNESCO-listed Bahla Fort, in one day." } }
+                ] },
+            };
+
+        case "is-east-salalah-tour-worth-it":
+            return {
+                title: "Is the East Salalah Tour Worth It?",
+                seoTitle: "East Salalah Tour 2026 | Honest Review",
+                description: "An honest look at the East Salalah tour covering Wadi Darbat and the ancient Sumhuram ruins, a historical and natural circuit on the eastern side of the city.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5a638daef57992c4adb5f14c0e9dd4aab459278cb5db3447c2a90f790d13405f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers the eastern side of Salalah, pairing Wadi Darbat's lagoon scenery with Sumhuram, an ancient incense-trade port ruin, a genuinely different historical and natural combination from Salalah's more common desert and frankincense trail excursions.", tourCard: { slug: "salalah-east-salalah-tour-with-wadi-and-sumhuram", title: "Salalah: East Salalah Tour with Wadi and Sumhuram", description: "A tour of East Salalah covering Wadi Darbat and the Sumhuram ruins.", price: "From $143", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5a638daef57992c4adb5f14c0e9dd4aab459278cb5db3447c2a90f790d13405f.jpg" } },
+                    { title: "Practical Tips", content: "Wadi Darbat looks most dramatic during and shortly after the Khareef monsoon season, when the lagoon and waterfalls are at their fullest." }
+                ],
+                faqs: [
+                    { q: "Is the East Salalah tour worth it?", a: "Yes, for a genuinely different historical and natural combination pairing Wadi Darbat's lagoon scenery with the ancient Sumhuram ruins." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the East Salalah tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different historical and natural combination on the eastern side of the city." } }
+                ] },
+            };
+
+        case "is-jabal-samhan-via-ferrata-worth-it-salalah":
+            return {
+                title: "Is Jabal Samhan Via Ferrata and Abseiling Worth It in Salalah?",
+                seoTitle: "Jabal Samhan Via Ferrata 2026 | Honest Review",
+                description: "An honest look at the Jabal Samhan via ferrata and abseiling adventure, a serious adrenaline activity on Salalah's dramatic mountain escarpment.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/727a1db18bb37996cf5f51c3d0ad0e5e9cafe9c1ca6b852ee3b2dd67eeea3348.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Jabal Samhan's dramatic cliff escarpment is genuinely suited to via ferrata climbing and abseiling, a serious adrenaline activity distinct from the ATV version of the same mountain, aimed at travelers specifically after a climbing-style adventure.", tourCard: { slug: "salalah-jabal-samhan-abseiling-and-hiking", title: "Salalah: Jabal Samhan Abseiling and Hiking", description: "A via ferrata and abseiling adventure on Jabal Samhan.", price: "From $221", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/727a1db18bb37996cf5f51c3d0ad0e5e9cafe9c1ca6b852ee3b2dd67eeea3348.jpeg" } },
+                    { title: "Practical Tips", content: "This is genuinely more physically demanding than the ATV version of Jabal Samhan — basic fitness and comfort with heights matter here." }
+                ],
+                faqs: [
+                    { q: "Is the Jabal Samhan via ferrata worth it?", a: "Yes, for travelers specifically wanting a serious climbing-style adventure on the mountain's dramatic escarpment, distinct from the ATV tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Jabal Samhan via ferrata worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a serious climbing-style adrenaline activity on a dramatic cliff escarpment." } }
+                ] },
+            };
+
         case "is-bandar-khayran-island-hopping-worth-it-muscat":
             return {
                 title: "Is Bandar Khayran Island Hopping Worth It in Muscat?",

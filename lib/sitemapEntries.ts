@@ -831,6 +831,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-nizwa-day-trip-nizwa', 'best-jebel-akhdar-tour-nizwa',
     'nizwa-travel-guide-2026',
     'is-cultural-cart-tour-worth-it-nizwa',
+    'is-jabreen-bahla-castle-tour-worth-it-nizwa',
   ], 'oman', 'nizwa');
 
   const borjomiInfoPages = mapInfoSlugs([
@@ -897,6 +898,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-jabal-samhan-atv-tour-worth-it-salalah',
     'is-kayaking-worth-it-salalah', 'is-mirbat-snorkeling-worth-it-salalah',
     'is-fishing-trip-worth-it-salalah', 'is-night-city-tour-worth-it-salalah',
+    'is-east-salalah-tour-worth-it', 'is-jabal-samhan-via-ferrata-worth-it-salalah',
   ], 'oman', 'salalah');
 
   const bhaktapurInfoPages = mapInfoSlugs([
