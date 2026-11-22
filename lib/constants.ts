@@ -328,6 +328,8 @@ export const KATHMANDU_INFO_SLUGS = [
   'is-gokyo-lakes-trek-worth-it-kathmandu', 'is-island-peak-climbing-worth-it-kathmandu',
   'is-swayambhunath-tour-worth-it-kathmandu', 'is-namobuddha-monastery-hike-worth-it-kathmandu',
   'is-shivapuri-national-park-hike-worth-it-kathmandu', 'is-nagarkot-dhulikhel-namobuddha-trek-worth-it-kathmandu',
+  'is-khukuri-forging-demo-worth-it-kathmandu', 'is-nagarkot-zipline-worth-it-kathmandu',
+  'is-nepali-cinema-tour-worth-it-kathmandu', 'is-kite-flying-experience-worth-it-kathmandu',
 ];
 
 // Georgia launched 2026-11-16 with 1,024 live tours and zero authority pages.

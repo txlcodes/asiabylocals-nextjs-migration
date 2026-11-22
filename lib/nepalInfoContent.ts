@@ -2592,6 +2592,74 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-khukuri-forging-demo-worth-it-kathmandu":
+            return {
+                title: "Is the Khukuri Forging Demo Worth It in Kathmandu?",
+                description: "An honest look at the private khukuri forging demonstration with a local blacksmith in Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be6f52e3a3984ca18b12383fee17c86a779ff4c9594dff1290f7a8f4baf77452.png",
+                sections: [
+                    { title: "The Short Answer", content: "The khukuri is a genuine piece of Nepali and Gurkha history, and watching a real blacksmith forge one by hand gives insight into traditional craftsmanship that a souvenir shop purchase simply can't offer.", tourCard: { slug: "kathmandu-private-khukuri-forging-demo-with-a", title: "Kathmandu Private Khukuri Forging Demo", description: "A private demonstration of traditional khukuri knife forging with a local blacksmith.", price: "From $150", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be6f52e3a3984ca18b12383fee17c86a779ff4c9594dff1290f7a8f4baf77452.png" } },
+                    { title: "Practical Tips", content: "Ask about purchasing a genuinely handmade khukuri directly from the blacksmith as a more meaningful souvenir than a tourist-shop version." }
+                ],
+                faqs: [
+                    { q: "Is the khukuri forging demo worth it in Kathmandu?", a: "Yes, watching a real blacksmith forge Nepal's iconic knife gives genuine insight into traditional craftsmanship." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the khukuri forging demo worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine insight into traditional Nepali blacksmithing craftsmanship." } }
+                ] },
+            };
+
+        case "is-nagarkot-zipline-worth-it-kathmandu":
+            return {
+                title: "Is the Nagarkot Zipline Adventure Worth It?",
+                description: "An honest look at the Nagarkot zipline adventure, an adrenaline activity paired with Himalayan foothill views.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36d74a390c058d23ff014b01c5f60a050b49b4dc729f2da994b5e0cec3fbfc5f.png",
+                sections: [
+                    { title: "The Short Answer", content: "Zipping across Nagarkot's hillside terrain with Himalayan foothill views below is a genuinely fun adrenaline activity, a good active alternative to Nagarkot's usual sunrise-viewpoint sightseeing pace.", tourCard: { slug: "kathmandu-nagarkot-zipline-adventure-with-pickup", title: "Kathmandu Nagarkot Zipline Adventure", description: "A zipline adventure through Nagarkot's hillside terrain, with pickup included.", price: "From $182", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/36d74a390c058d23ff014b01c5f60a050b49b4dc729f2da994b5e0cec3fbfc5f.png" } },
+                    { title: "Practical Tips", content: "A good active half-day add-on if you're already heading to Nagarkot for the sunrise viewpoint." }
+                ],
+                faqs: [
+                    { q: "Is the Nagarkot zipline worth it?", a: "Yes, it's a genuinely fun adrenaline activity that pairs well with Nagarkot's usual sunrise sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nagarkot zipline worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely fun adrenaline activity with Himalayan foothill views." } }
+                ] },
+            };
+
+        case "is-nepali-cinema-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Nepali Cinema Tour Worth It in Kathmandu?",
+                description: "An honest look at the guided Nepali cinema tour, including a film screening and insight into the local film industry.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/412a0e8cf2d8fc801d6353b9fa518b94b8d121d22df813ac30b3ad8cd91c1039.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Nepal has a genuine, little-known-abroad domestic film industry, and this guided tour with a screening gives real cultural insight beyond temples and trekking, a good pick for travelers wanting something off the usual sightseeing circuit.", tourCard: { slug: "kathmandu-nepali-cinema-tour-with-guided-film", title: "Kathmandu Nepali Cinema Tour with Guided Film Screening", description: "A guided tour of Nepal's film industry with a film screening in Kathmandu.", price: "From $156", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/412a0e8cf2d8fc801d6353b9fa518b94b8d121d22df813ac30b3ad8cd91c1039.jpg" } },
+                    { title: "Practical Tips", content: "Ask whether the screening includes English subtitles if you don't speak Nepali." }
+                ],
+                faqs: [
+                    { q: "Is the Nepali cinema tour worth it in Kathmandu?", a: "Yes, it gives real cultural insight into Nepal's little-known domestic film industry, beyond the usual temple and trekking circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nepali cinema tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives real insight into Nepal's little-known domestic film industry." } }
+                ] },
+            };
+
+        case "is-kite-flying-experience-worth-it-kathmandu":
+            return {
+                title: "Is the Kite Flying Experience Worth It in Kathmandu?",
+                description: "An honest look at the guided kite flying experience with an instructor in Kathmandu, tied to a genuine local pastime.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/546b07787fc0933dcffd5be5a8c632ef6c193c90550a5119dcd537009084ee83.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kite flying is a genuine local pastime in Kathmandu, especially around the Dashain festival season, and a guided instructor session is a relaxed, easy activity that works well as a lighter day between temple visits or trekking.", tourCard: { slug: "kathmandu-kite-flying-experience-with-instructor", title: "Kathmandu Kite Flying Experience with Instructor", description: "A guided kite flying experience with an instructor in Kathmandu.", price: "From $94", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/546b07787fc0933dcffd5be5a8c632ef6c193c90550a5119dcd537009084ee83.jpg" } },
+                    { title: "Practical Tips", content: "Check if your visit coincides with Dashain festival season, when kite flying is at its most vibrant and widely practiced." }
+                ],
+                faqs: [
+                    { q: "Is the kite flying experience worth it in Kathmandu?", a: "Yes, it's a relaxed, easy activity tied to a genuine local pastime, especially vibrant during Dashain festival season." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the kite flying experience worth it in Kathmandu?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a relaxed activity tied to a genuine local pastime, especially during Dashain festival season." } }
+                ] },
+            };
+
         default:
             return null;
     }
