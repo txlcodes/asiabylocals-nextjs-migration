@@ -4071,6 +4071,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-spice-garden-cooking-class-worth-it-penang":
+            return {
+                title: "Is the Tropical Spice Garden Cooking Class Worth It in Penang?",
+                description: "An honest look at the Tropical Spice Garden tour with hands-on cooking in Penang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a43be71be26bd10eb01b7b0c502811a40e1143c416e68784e59e14329cd25c20.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Walking through a real tropical spice garden before cooking with the ingredients gives genuine context you won't get from a standard kitchen-only class, and it's a good pairing with Penang's otherwise heavily food-stall-focused culinary scene.", tourCard: { slug: "penang-spice-garden-tour-with-hands-on-cooking", title: "Penang Tropical Spice Garden Tour with Hands-On Cooking", description: "A guided tour of the Tropical Spice Garden paired with a hands-on cooking class.", price: "From $93", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a43be71be26bd10eb01b7b0c502811a40e1143c416e68784e59e14329cd25c20.jpg" } },
+                    { title: "Practical Tips", content: "A good non-street-food culinary activity to pair with Penang's otherwise hawker-stall-heavy food scene." }
+                ],
+                faqs: [
+                    { q: "Is the Tropical Spice Garden cooking class worth it in Penang?", a: "Yes, walking through a real spice garden before cooking gives genuine context beyond a standard kitchen-only class." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the spice garden cooking class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the garden walk gives genuine context beyond a kitchen-only cooking class." } }
+                ] },
+            };
+
+        case "is-heritage-costume-rental-worth-it-penang":
+            return {
+                title: "Is the Penang Heritage Costume Rental Experience Worth It?",
+                description: "An honest look at renting traditional heritage costumes for a guided photo session around George Town's colonial architecture.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1412643/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "George Town's colonial-era shophouses and heritage streets make a genuinely great backdrop for traditional costume photos, and at just 1.5 hours and a modest price it's an easy, affordable add-on to a day of heritage sightseeing.", tourCard: { slug: "penang-heritage-costume-rental-experience-by", title: "Penang Heritage Costume Rental Experience", description: "A traditional costume rental and photo experience around George Town's heritage streets.", price: "From $78", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1412643/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pair this with a morning heritage walk, since the costumes photograph best against George Town's colonial shophouse backdrops." }
+                ],
+                faqs: [
+                    { q: "Is the heritage costume rental worth it in Penang?", a: "Yes, George Town's colonial architecture makes a genuinely great backdrop, and it's an easy, affordable add-on to a heritage sightseeing day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the heritage costume rental worth it in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an affordable add-on that photographs well against George Town's colonial architecture." } }
+                ] },
+            };
+
+        case "is-teluk-bahang-fishing-village-tour-worth-it-penang":
+            return {
+                title: "Is the Teluk Bahang Fishing Village Tour Worth It in Penang?",
+                description: "An honest look at the Teluk Bahang fishing village tour, a genuine working fishing community away from George Town's heritage core.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2e4bd2e67d1e5fd4b4ff515b444e9924906ce92d7a8d15f1e3fc90ebdbe8cb4.png",
+                sections: [
+                    { title: "The Short Answer", content: "Teluk Bahang is a genuinely working fishing village, not a staged tourist recreation, giving a different, quieter side of Penang island than the dense George Town heritage core most visitors stick to.", tourCard: { slug: "penang-teluk-bahang-fishing-village-tour-with", title: "Penang Teluk Bahang Fishing Village Tour", description: "A guided tour of the Teluk Bahang fishing village in Penang.", price: "From $116", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2e4bd2e67d1e5fd4b4ff515b444e9924906ce92d7a8d15f1e3fc90ebdbe8cb4.png" } },
+                    { title: "Practical Tips", content: "A good pick specifically for travelers wanting a quieter, more authentic side of Penang away from George Town's busier heritage streets." }
+                ],
+                faqs: [
+                    { q: "Is the Teluk Bahang fishing village tour worth it in Penang?", a: "Yes, it's a genuinely working fishing community, offering a quieter, different side of Penang than George Town's heritage core." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Teluk Bahang fishing village tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely working fishing community offering a quieter side of Penang." } }
+                ] },
+            };
+
+        case "is-umi-umi-dining-show-worth-it-penang":
+            return {
+                title: "Is the Umi Umi Penang Immersive Dining & Live Show Worth It?",
+                description: "An honest look at Umi Umi, an immersive dining experience in Penang paired with a live show.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3be661583a8ec098e4566b0708892097cfdc587858d7d244b4af78da2aece2f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing dinner with a live immersive show makes Umi Umi a genuinely different evening option from Penang's usual street-food-crawl dinners, suited to travelers wanting a more theatrical, one-stop evening out.", tourCard: { slug: "umi-umi-penang-immersive-dining-live-show", title: "Umi Umi Penang: Immersive Dining & Live Show", description: "An immersive dining experience in Penang paired with a live show.", price: "From $119", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e3be661583a8ec098e4566b0708892097cfdc587858d7d244b4af78da2aece2f.jpg" } },
+                    { title: "Practical Tips", content: "Book ahead for an evening slot, since this combines dinner timing with a live performance schedule." }
+                ],
+                faqs: [
+                    { q: "Is Umi Umi's immersive dining and show worth it in Penang?", a: "Yes, for a genuinely different, more theatrical evening than Penang's usual street-food-crawl dinners." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Umi Umi's dining show worth it in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely different, theatrical one-stop evening option." } }
+                ] },
+            };
+
         default:
             return null;
     }

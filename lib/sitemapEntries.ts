@@ -1134,6 +1134,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bujang-valley-tour-worth-it-penang', 'is-bukit-merah-orangutan-tour-worth-it-penang',
     'is-george-town-walking-tour-worth-it-penang', 'is-penang-food-tour-worth-it',
     'is-henna-walking-tour-worth-it-george-town', 'is-balik-pulau-tour-worth-it-penang',
+    'is-spice-garden-cooking-class-worth-it-penang', 'is-heritage-costume-rental-worth-it-penang',
+    'is-teluk-bahang-fishing-village-tour-worth-it-penang', 'is-umi-umi-dining-show-worth-it-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),
