@@ -2322,6 +2322,78 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-patan-durbar-square-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Patan Durbar Square Tour Worth It in Kathmandu?",
+                seoTitle: "Patan Durbar Square Tour 2026 | Honest Review",
+                description: "An honest look at the Patan cultural tour, a UNESCO World Heritage square widely considered to have the finest concentration of Newari architecture in the Kathmandu Valley.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/28e43cf7dfbaa436b20d83203631aa0ab730f84ea7bcef410e25a81f3c672b37.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Patan is often considered to have the finest concentration of Newari temple architecture and metalwork craftsmanship in the Kathmandu Valley, genuinely distinct from Kathmandu's own Durbar Square and quieter to walk through given fewer crowds.", tourCard: { slug: "from-kathmandu-2-hour-patan-cultural-tour-at", title: "From Kathmandu: 2-Hour Patan Cultural Tour", description: "A 2-hour guided cultural tour of Patan Durbar Square.", price: "From $149", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/28e43cf7dfbaa436b20d83203631aa0ab730f84ea7bcef410e25a81f3c672b37.jpeg" } },
+                    { title: "Practical Tips", content: "Pair this with the nearby Patan Museum, housed in a former royal palace, for more context on the metalwork and architecture on display." }
+                ],
+                faqs: [
+                    { q: "Is Patan Durbar Square worth visiting?", a: "Yes, it's often considered to have the finest Newari architecture in the Kathmandu Valley, and genuinely quieter than Kathmandu's own Durbar Square." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Patan Durbar Square tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the finest concentration of Newari architecture in the Kathmandu Valley, with fewer crowds than Kathmandu's own square." } }
+                ] },
+            };
+
+        case "is-pashupatinath-boudhanath-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Pashupatinath and Boudhanath Tour Worth It in Kathmandu?",
+                seoTitle: "Pashupatinath Boudhanath Tour 2026 | Honest Review",
+                description: "An honest look at the Pashupatinath and Boudhanath tour, pairing Nepal's most significant Hindu temple with one of the largest Buddhist stupas in the world.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d824fff056cd49c589506115a01677e45d7130ee373e5dd6e590ba0cc57ff297.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pashupatinath is Nepal's most significant Hindu temple, with open-air cremation ceremonies along the Bagmati River that visitors can respectfully observe, and pairing it with Boudhanath, one of the largest Buddhist stupas in the world, covers two of the valley's most significant religious sites side by side.", tourCard: { slug: "from-kathmandu-pashupatinath-boudhanath-and", title: "From Kathmandu: Pashupatinath, Boudhanath and More", description: "A tour combining Pashupatinath Temple and Boudhanath Stupa.", price: "From $142", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d824fff056cd49c589506115a01677e45d7130ee373e5dd6e590ba0cc57ff297.jpeg" } },
+                    { title: "Practical Tips", content: "Cremation ceremonies at Pashupatinath are genuine religious rites, not a tourist performance — observe respectfully from the designated viewing areas across the river." }
+                ],
+                faqs: [
+                    { q: "Is the Pashupatinath and Boudhanath tour worth it?", a: "Yes, for covering two of the Kathmandu Valley's most significant religious sites, Nepal's most important Hindu temple and one of the world's largest Buddhist stupas, in one trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Pashupatinath and Boudhanath tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for covering Nepal's most significant Hindu temple and one of the world's largest Buddhist stupas in one trip." } }
+                ] },
+            };
+
+        case "is-gokyo-lakes-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Gokyo Lakes Trek Worth It?",
+                seoTitle: "Gokyo Lakes Trek 2026 | Honest Review",
+                description: "An honest look at the 14-day Gokyo Lakes trek, an alternative Everest-region route to a chain of turquoise glacial lakes rather than the base camp itself.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/781393cd95fc7373115f756e7dda60942b0565b25bc39fc729cb73aacc3d8584.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Rather than heading to Everest Base Camp itself, this route climbs to the Gokyo Lakes, a chain of turquoise glacial lakes, and Gokyo Ri, a viewpoint with arguably better panoramic mountain views than base camp itself, while seeing noticeably fewer trekkers along the way.", tourCard: { slug: "14-day-gokyo-lakes-trek-with-guide", title: "14-Day Gokyo Lakes Trek with Guide", description: "A 14-day guided trek to the Gokyo Lakes in the Everest region.", price: "From $2504", duration: "14 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/781393cd95fc7373115f756e7dda60942b0565b25bc39fc729cb73aacc3d8584.jpg" } },
+                    { title: "Practical Tips", content: "Gokyo Ri's viewpoint is widely considered to rival or exceed Kala Patthar's views near Everest Base Camp — worth it specifically for photographers prioritizing the panorama." }
+                ],
+                faqs: [
+                    { q: "Is the Gokyo Lakes trek better than Everest Base Camp?", a: "It's a genuine alternative rather than strictly better — turquoise glacial lakes and arguably superior panoramic views, with noticeably fewer trekkers on the trail." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gokyo Lakes trek worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for turquoise glacial lakes and arguably superior panoramic mountain views with fewer trekkers than the Everest Base Camp route." } }
+                ] },
+            };
+
+        case "is-island-peak-climbing-worth-it-kathmandu":
+            return {
+                title: "Is Island Peak Climbing Worth It?",
+                seoTitle: "Island Peak Climbing 2026 | Honest Review",
+                description: "An honest look at Island Peak climbing, a genuine technical mountaineering summit in the Everest region, distinct from standard trekking routes.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73631196fe05e060388847db6f6f5bd1a296bd456ef77f24a8202e18fa69e6f1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Island Peak is a genuine technical mountaineering summit above 6,000 metres, requiring rope work, crampons, and ice axe skills, a serious step up from any standard Everest region trek and aimed specifically at travellers with mountaineering ambitions rather than trekking fitness alone.", tourCard: { slug: "island-peak-climbing", title: "Island Peak Climbing", description: "A technical mountaineering expedition to summit Island Peak.", price: "From $1755", duration: "14 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73631196fe05e060388847db6f6f5bd1a296bd456ef77f24a8202e18fa69e6f1.jpg" } },
+                    { title: "Practical Tips", content: "Prior basic mountaineering training genuinely matters here — this is not an extension of the standard Everest Base Camp trek, it's a technical climb requiring real rope and ice skills." }
+                ],
+                faqs: [
+                    { q: "Is Island Peak climbing difficult?", a: "Yes, it's a genuine technical mountaineering summit above 6,000 metres requiring rope work and ice axe skills, a serious step up from standard trekking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Island Peak climbing worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travellers with genuine mountaineering ambitions wanting a real technical summit above 6,000 metres." } }
+                ] },
+            };
+
         default:
             return null;
     }

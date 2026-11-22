@@ -418,6 +418,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-manaslu-circuit-trek-worth-it-kathmandu', 'is-upper-mustang-trek-worth-it-kathmandu',
     'is-mount-kailash-kora-worth-it-kathmandu', 'is-rickshaw-tour-worth-it-kathmandu',
     'is-rafting-safari-trek-worth-it-kathmandu',
+    'is-patan-durbar-square-tour-worth-it-kathmandu', 'is-pashupatinath-boudhanath-tour-worth-it-kathmandu',
+    'is-gokyo-lakes-trek-worth-it-kathmandu', 'is-island-peak-climbing-worth-it-kathmandu',
   ].map(slug => ({
     url: `${BASE_URL}/nepal/kathmandu/${slug}`,
     lastModified: new Date(),
