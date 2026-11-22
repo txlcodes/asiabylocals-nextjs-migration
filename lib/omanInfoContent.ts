@@ -1312,6 +1312,74 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-lost-city-of-ubar-tour-worth-it-salalah":
+            return {
+                title: "Is the Lost City of Ubar & Rub al Khali Desert Tour Worth It from Salalah?",
+                description: "An honest look at the tour to the Lost City of Ubar and the Rub al Khali (Empty Quarter) desert from Salalah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb400998b7e5276721de94f72df1d63a686d6356353506bfb3a887a2da7f1e26.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Ubar is a genuinely legendary lost city with a real archaeological site, and reaching it means crossing into the edge of the Rub al Khali, one of the world's largest sand deserts, giving this tour real historical and geographical significance beyond a standard dune-bashing outing.", tourCard: { slug: "salalah-lost-city-of-ubar-rub-al-khali-desert", title: "Salalah: Lost City of Ubar & Rub al Khali Desert Tour", description: "A tour to the Lost City of Ubar and the edge of the Rub al Khali desert from Salalah.", price: "From $801", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb400998b7e5276721de94f72df1d63a686d6356353506bfb3a887a2da7f1e26.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long desert day, so bring sun protection and plenty of water for the journey." }
+                ],
+                faqs: [
+                    { q: "Is the Lost City of Ubar tour worth it from Salalah?", a: "Yes, it has real historical and geographical significance, reaching a legendary archaeological site at the edge of one of the world's largest deserts." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Lost City of Ubar tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine historical and geographical significance at the edge of the Empty Quarter desert." } }
+                ] },
+            };
+
+        case "is-surfboarding-worth-it-salalah":
+            return {
+                title: "Is the Salalah Surfboarding Experience Worth It?",
+                description: "An honest look at the surfboarding experience in Salalah, a genuine water-sports activity distinct from the area's desert and mountain tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1eee9e30d9d0ab0d620a5c48cd2635a523657c3af25242af2d9acb84fcef3aa3.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "At just 1 hour and a low price, trying surfing on Salalah's coast is an easy, affordable way to add a water-sports activity to a trip otherwise dominated by desert and mountain sightseeing.", tourCard: { slug: "salalah-surfboarding-experience", title: "Salalah Surfboarding Experience", description: "A surfboarding experience on Salalah's coast.", price: "From $50", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1eee9e30d9d0ab0d620a5c48cd2635a523657c3af25242af2d9acb84fcef3aa3.jpeg" } },
+                    { title: "Practical Tips", content: "No prior surfing experience is needed — this is designed as an introductory session for beginners." }
+                ],
+                faqs: [
+                    { q: "Is the surfboarding experience worth it in Salalah?", a: "Yes, it's an easy, affordable way to add a water-sports activity to a trip otherwise dominated by desert and mountain sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is surfboarding worth it in Salalah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an easy, affordable water-sports add-on to the usual desert and mountain itinerary." } }
+                ] },
+            };
+
+        case "is-ayn-ghedh-waterfall-hike-worth-it-salalah":
+            return {
+                title: "Is the Hike to Hidden Waterfalls at Ayn Ghedh Worth It in Salalah?",
+                description: "An honest look at the hike to hidden waterfalls at Ayn Ghedh near Salalah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66926bd8eca5e698d9bf2e1f3118eafe3b6efc5f9c7414ea4ca6b37951859837.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Ayn Ghedh's hidden waterfalls are genuinely less visited than the area's more famous Wadi Darbat, and the hike itself gives a real sense of the Dhofar mountains' lush, seasonal greenery that surprises most first-time visitors expecting only desert.", tourCard: { slug: "hike-to-hidden-waterfalls-ayn-ghedh-adventure", title: "Hike to Hidden Waterfalls at Ayn Ghedh", description: "A hiking adventure to hidden waterfalls at Ayn Ghedh near Salalah.", price: "From $234", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66926bd8eca5e698d9bf2e1f3118eafe3b6efc5f9c7414ea4ca6b37951859837.jpeg" } },
+                    { title: "Practical Tips", content: "This is best during or shortly after the khareef monsoon season, when the waterfalls and surrounding greenery are at their fullest." }
+                ],
+                faqs: [
+                    { q: "Is the Ayn Ghedh waterfall hike worth it in Salalah?", a: "Yes, it's genuinely less visited than Wadi Darbat and shows off the Dhofar mountains' surprising seasonal greenery." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ayn Ghedh waterfall hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's genuinely less visited than Wadi Darbat and shows off surprising seasonal greenery." } }
+                ] },
+            };
+
+        case "is-dhofar-mountains-coffee-sunset-worth-it-salalah":
+            return {
+                title: "Is the Dhofar Mountains Sunset Tour with Coffee Worth It in Salalah?",
+                description: "An honest look at the Dhofar Mountains sunset tour with coffee in Salalah, a compact scenic evening activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2b584f46b604977bbb79317744b173d06a2ed035103c6e0d33f7afbb25d6789.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At just 2.5 hours and a very low price, watching the sunset over the Dhofar Mountains with a coffee in hand is a genuinely relaxed, low-commitment evening activity, easy to fit alongside a bigger day of sightseeing.", tourCard: { slug: "salalah-dhofar-mountains-sunset-tour-with-coffee", title: "Salalah Dhofar Mountains Sunset Tour with Coffee", description: "A sunset tour of the Dhofar Mountains with coffee in Salalah.", price: "From $52", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2b584f46b604977bbb79317744b173d06a2ed035103c6e0d33f7afbb25d6789.jpg" } },
+                    { title: "Practical Tips", content: "A good easy evening add-on after a more physically demanding day of hiking or desert touring." }
+                ],
+                faqs: [
+                    { q: "Is the Dhofar Mountains sunset coffee tour worth it in Salalah?", a: "Yes, it's a genuinely relaxed, low-commitment evening activity at a very low price." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Dhofar Mountains sunset tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a relaxed, low-commitment evening activity at a very low price." } }
+                ] },
+            };
+
         default:
             return null;
     }

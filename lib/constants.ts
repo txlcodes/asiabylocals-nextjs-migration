@@ -840,6 +840,8 @@ export const SALALAH_INFO_SLUGS = [
   'is-kayaking-worth-it-salalah', 'is-mirbat-snorkeling-worth-it-salalah',
   'is-fishing-trip-worth-it-salalah', 'is-night-city-tour-worth-it-salalah',
   'is-east-salalah-tour-worth-it', 'is-jabal-samhan-via-ferrata-worth-it-salalah',
+  'is-lost-city-of-ubar-tour-worth-it-salalah', 'is-surfboarding-worth-it-salalah',
+  'is-ayn-ghedh-waterfall-hike-worth-it-salalah', 'is-dhofar-mountains-coffee-sunset-worth-it-salalah',
 ];
 
 // Bhaktapur & Lumbini (Nepal) — launched 2026-11-21.
