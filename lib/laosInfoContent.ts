@@ -1409,6 +1409,74 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-traditional-costume-photoshoot-worth-it-luang-prabang":
+            return {
+                title: "Is the Traditional Clothing Photoshoot Experience Worth It in Luang Prabang?",
+                description: "An honest look at the traditional Lao clothing photoshoot experience in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf14fdcea7fc469e90431a0cf92f1539e97c1ba2e4f3cbb1b2903fbff81cece6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Wearing traditional Lao clothing for a guided photoshoot against Luang Prabang's temple and heritage backdrops gives genuinely different, more personal photos than standard tourist snapshots, and at 3 hours it's an easy half-day activity.", tourCard: { slug: "luang-prabang-traditional-photography-tour", title: "Luang Prabang Traditional Clothing Photoshoot Experience", description: "A guided photoshoot wearing traditional Lao clothing in Luang Prabang.", price: "From $260", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bf14fdcea7fc469e90431a0cf92f1539e97c1ba2e4f3cbb1b2903fbff81cece6.jpg" } },
+                    { title: "Practical Tips", content: "Pair this with a morning temple visit, since the traditional clothing photographs best against Luang Prabang's heritage architecture." },
+                ],
+                faqs: [
+                    { q: "Is the traditional clothing photoshoot worth it in Luang Prabang?", a: "Yes, for genuinely different, more personal photos than standard tourist snapshots." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the traditional clothing photoshoot worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely different, personal photos against the city's heritage architecture." } },
+                ] },
+            };
+
+        case "is-kayaking-zipline-blue-lagoon-worth-it-vang-vieng":
+            return {
+                title: "Is the Kayaking & Cave with Zip Line/Blue Lagoon Tour Worth It in Vang Vieng?",
+                description: "An honest look at the combined kayaking, cave, zip line, and Blue Lagoon tour in Vang Vieng.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea4de1e87e9245e3e771232a972d8f7310dbcabd7d35fd750b5c2d267404740a.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining kayaking, cave exploration, and a zipline into one 7-hour day with a Blue Lagoon stop gives genuinely full-day adventure variety, a good fit for travelers who want multiple activities without arranging them separately.", tourCard: { slug: "cave-kayaking-guided-tour", title: "Vang Vieng: Kayaking & Cave with Zip Line/Blue Lagoon", description: "A combined kayaking, cave, and zipline tour with a Blue Lagoon stop in Vang Vieng.", price: "From $72", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea4de1e87e9245e3e771232a972d8f7310dbcabd7d35fd750b5c2d267404740a.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a waterproof bag for valuables, since the day involves genuine water activities across multiple stops." },
+                ],
+                faqs: [
+                    { q: "Is the kayaking, cave, and zipline combo worth it in Vang Vieng?", a: "Yes, it packs genuine full-day adventure variety into one outing without arranging separate activities." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the kayak, cave, and zipline combo worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it packs genuine full-day adventure variety into one outing." } },
+                ] },
+            };
+
+        case "is-coffee-farm-roasting-tour-worth-it-luang-prabang":
+            return {
+                title: "Is the Coffee Farm Tour with Roasting & Workshop Worth It in Luang Prabang?",
+                description: "An honest look at the coffee farm tour with roasting workshop near Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe71c64e3b69166e045acaf193f793cb2b258b66d90a25cb33dd8506990e9e8f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Laos is a genuine coffee-growing country, and seeing the beans actually grown and roasted on a real farm gives much deeper insight than just drinking coffee at a cafe, a good full-day activity for travelers with a genuine interest in coffee.", tourCard: { slug: "luang-prabang-roasting-guided-tour", title: "Luang Prabang Coffee Farm Tour with Roasting & Workshop", description: "A coffee farm tour with a roasting workshop near Luang Prabang.", price: "From $228", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe71c64e3b69166e045acaf193f793cb2b258b66d90a25cb33dd8506990e9e8f.jpg" } },
+                    { title: "Practical Tips", content: "You typically get to roast and take home your own batch of coffee, a genuinely useful souvenir beyond a typical trinket." },
+                ],
+                faqs: [
+                    { q: "Is the coffee farm roasting tour worth it in Luang Prabang?", a: "Yes, seeing beans grown and roasted on a real farm gives much deeper insight than drinking coffee at a cafe." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the coffee farm roasting tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives much deeper insight into coffee growing and roasting than drinking it at a cafe." } },
+                ] },
+            };
+
+        case "is-rice-farming-tour-worth-it-luang-prabang":
+            return {
+                title: "Is the Living Land Farm Hands-On Rice-Farming Tour Worth It in Luang Prabang?",
+                description: "An honest look at the hands-on rice-farming tour at Living Land Farm near Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/65b4c500847c656966c8ad8e59c43175685dc688a31e52e7d67148d949633280.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Actually plowing with a water buffalo and planting rice yourself gives genuine hands-on insight into Laos's agricultural backbone, a far more immersive experience than just viewing rice fields from a bus window.", tourCard: { slug: "luang-prabang-farming-guided-tour", title: "Luang Prabang Living Land Farm Hands-On Rice-Farming Tour", description: "A hands-on rice-farming tour at Living Land Farm near Luang Prabang.", price: "From $179", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/65b4c500847c656966c8ad8e59c43175685dc688a31e52e7d67148d949633280.jpeg" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting muddy — this is genuine hands-on fieldwork, not an observation-only tour." },
+                ],
+                faqs: [
+                    { q: "Is the Living Land Farm rice-farming tour worth it?", a: "Yes, actually plowing and planting yourself gives far more immersive insight than viewing rice fields from a bus." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the rice-farming tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives far more immersive insight than viewing rice fields from a bus." } },
+                ] },
+            };
+
         default:
             return null;
     }

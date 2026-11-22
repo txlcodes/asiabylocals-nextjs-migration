@@ -634,6 +634,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-monk-talk-meditation-tour-worth-it-luang-prabang', 'is-vintage-electric-car-ride-worth-it-luang-prabang',
     'is-natural-soap-making-workshop-worth-it-luang-prabang', 'is-krathong-making-sunset-cruise-worth-it-luang-prabang',
     'is-fishing-picnic-worth-it-luang-prabang', 'is-buffalo-tour-worth-it-luang-prabang',
+    'is-traditional-costume-photoshoot-worth-it-luang-prabang', 'is-coffee-farm-roasting-tour-worth-it-luang-prabang',
+    'is-rice-farming-tour-worth-it-luang-prabang',
   ], 'laos', 'luang-prabang');
   const riyadhInfoPages = mapInfoSlugs([
     'best-edge-of-the-world-tour-riyadh', 'best-desert-safari-tour-riyadh',
@@ -709,6 +711,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-time-to-visit-vang-vieng', 'vang-vieng-1-day-itinerary',
     'is-vang-vieng-safe', 'vang-vieng-tubing-safety-guide',
     'vang-vieng-food-guide', 'vang-vieng-nightlife-guide',
+    'is-kayaking-zipline-blue-lagoon-worth-it-vang-vieng',
   ], 'laos', 'vang-vieng');
 
   const almatyInfoPages = mapInfoSlugs([
