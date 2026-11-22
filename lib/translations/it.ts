@@ -38163,6 +38163,224 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande"
   ]
  },
+ "2-day-hokkaido-asahiyama-zoo-and-monbetsu-icebreaker-in-sapporo": {
+  "title": "Hokkaido in 2 giorni: Zoo di Asahiyama e rompighiaccio di Monbetsu da Sapporo",
+  "metaTitle": "Hokkaido 2 giorni: Zoo di Asahiyama e rompighiaccio a Monbetsu",
+  "metaDescription": "Due giorni da Sapporo tra lo Zoo di Asahiyama, l'onsen di Sounkyo e una crociera sul rompighiaccio Garinko III a Monbetsu, pasti inclusi.",
+  "shortDescription": "Due giorni da Sapporo tra lo Zoo di Asahiyama, l'onsen di Sounkyo e una crociera sul rompighiaccio Garinko III a Monbetsu, pasti inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto viaggio di due giorni porta allo **Zoo di Asahiyama**, con pranzo a buffet all'Art Hotel Asahikawa, a un pernottamento con onsen a Sounkyo, e a Monbetsu per una crociera sul rompighiaccio **Garinko III**, con ingresso alla torre Okhotsk, al centro delle foche Okhotsk e al Snow Park. Colazione, due pranzi e cena sono inclusi, oltre a supplemento carburante e parcheggio.",
+  "highlights": [],
+  "included": [
+   "Colazione",
+   "2 pranzi",
+   "Cena",
+   "Supplemento carburante",
+   "Tariffe di parcheggio",
+   "Pernottamento all'onsen di Sounkyo",
+   "Ingresso allo Zoo di Asahiyama",
+   "Ingresso alla torre Okhotsk",
+   "Ingresso al centro delle foche Okhotsk",
+   "Ingresso al Snow Park",
+   "Crociera sul rompighiaccio Garinko III IMERU"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Mance"
+  ]
+ },
+ "2-day-private-mt-fuji-kawaguchiko-and-hakone-journey": {
+  "title": "Viaggio privato di 2 giorni al Monte Fuji, Kawaguchiko e Hakone",
+  "metaTitle": "Viaggio privato di 2 giorni: Monte Fuji, Kawaguchiko, Hakone",
+  "metaDescription": "Due giorni privati tra i Cinque Laghi del Fuji e Hakone, con veicolo climatizzato, autista-guida in lingua inglese e trenta minuti di attesa gratuita.",
+  "shortDescription": "Due giorni privati tra i Cinque Laghi del Fuji e Hakone, con veicolo climatizzato, autista-guida in lingua inglese e trenta minuti di attesa gratuita.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite da Tokyo raggiungono i Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista riflessa, le sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla quinta stazione a 2.300 metri, quando la strada è aperta, approssimativamente da aprile a novembre. La vetta è scalabile solo in luglio e agosto. Il Fuji è visibile in circa un terzo dei giorni, più spesso nelle mattine d'inverno; da giugno a settembre resta nascosto dalle nuvole più spesso di quanto non si mostri, e nessun operatore può garantire la vista.\n\nQuesto servizio privato di due giorni copre pick-up e drop-off in hotel nell'area di Tokyo selezionata, veicolo climatizzato con autista-guida in lingua inglese, assistenza di base al percorso, trenta minuti di attesa gratuita dall'orario di pick-up previsto e un seggiolino per bambini gratuito su richiesta anticipata. Carburante, pedaggi autostradali e parcheggio per il percorso concordato sono inclusi; biglietti d'ingresso, pasti, bevande, spese personali e alloggio restano a carico del cliente. Fermate extra non confermate in anticipo, pick-up o drop-off fuori zona, straordinari (5.000 yen all'ora fino a 14 posti) e il servizio notturno dalle 22:00 alle 07:00 (supplemento di 2.000 yen) comportano costi aggiuntivi.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off in hotel nell'area di servizio Tokyo selezionata",
+   "Servizio turistico privato di 2 giorni",
+   "Veicolo privato climatizzato",
+   "Autista-guida in lingua inglese",
+   "Assistenza di base al percorso e indicazioni",
+   "Comunicazione del percorso e assistenza di base",
+   "Carburante per il percorso concordato",
+   "Pedaggi autostradali per il percorso concordato",
+   "Tariffe di parcheggio per il percorso concordato",
+   "30 minuti di attesa gratuita dall'orario di pick-up previsto",
+   "Un seggiolino per bambini gratuito su richiesta anticipata"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso",
+   "Pasti e bevande",
+   "Spese personali",
+   "Alloggio",
+   "Fermate extra non confermate in anticipo",
+   "Pick-up o drop-off fuori zona",
+   "Straordinari: 5.000 yen all'ora fino a 14 posti",
+   "Servizio notturno dalle 22:00 alle 07:00: supplemento di 2.000 yen per tutti i servizi",
+   "Servizio di guida professionale autorizzata, salvo prenotazione separata e confermata",
+   "Biglietto dell'autista-guida se gli ospiti chiedono di entrare in attrazioni a pagamento o partecipare ad attività a pagamento"
+  ]
+ },
+ "2-day-wakayama-and-kii-peninsula-trip-in-nagoya": {
+  "title": "Viaggio di 2 giorni a Wakayama e nella Penisola di Kii da Nagoya",
+  "metaTitle": "Viaggio di 2 giorni a Wakayama e Penisola di Kii",
+  "metaDescription": "Due giorni da Nagoya nella Penisola di Kii, con esperienza in costume Heian, una notte a Katsuura con colazione e veicolo con servizio entro dieci ore.",
+  "shortDescription": "Due giorni da Nagoya nella Penisola di Kii, con esperienza in costume Heian, una notte a Katsuura con colazione e veicolo con servizio entro dieci ore.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrattive proprie della città, mentre l'hitsumabushi di anguilla grigliata e il miso katsu sono i suoi piatti. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, è a novanta minuti a sud.\n\nQuesto viaggio di due giorni, con un servizio veicolo entro dieci ore al giorno come richiesto dalla legge giapponese, include l'esperienza in costume Heian, un pernottamento a Katsuura con colazione in camera doppia a uso condiviso (i viaggiatori singoli ricevono una camera individuale), e il costo del servizio veicolo con carburante, pedaggi e autostrade secondo l'itinerario. Il veicolo di riferimento è un minivan a sette posti, Alphard o HiAce, adeguato al numero di partecipanti del giorno. Pasti, attività opzionali, spese personali, assicurazione e ingresso alla Grotta di Sandanbeki restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Viaggiatori di 2 giorni: tariffa dell'esperienza in costume Heian",
+   "Viaggiatori di 2 giorni: pernottamento a Katsuura (colazione inclusa), camera doppia a uso condiviso; ai viaggiatori singoli viene assegnata una camera individuale",
+   "Costo del servizio veicolo come indicato nell'itinerario",
+   "Carburante, pedaggi e tariffe autostradali",
+   "Servizio veicolo entro 10 ore (come richiesto dalla legge giapponese)",
+   "Tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni)",
+   "Veicolo di riferimento: minivan a 7 posti, Alphard o HiAce; il veicolo effettivo è adeguato al numero di partecipanti del giorno"
+  ],
+  "notIncluded": [
+   "Pasti, attività opzionali a destinazione e altre spese personali",
+   "Costi dell'assicurazione (data la necessità di dati personali, consigliamo un'assicurazione propria)",
+   "Ingresso alla Grotta di Sandanbeki"
+  ]
+ },
+ "2-hour-highlights-and-hidden-gems-walking-tour-in-osaka": {
+  "title": "Tour a piedi di 2 ore tra i luoghi iconici e gemme nascoste di Osaka",
+  "metaTitle": "Tour a piedi di 2 ore a Osaka: iconici e gemme nascoste",
+  "metaDescription": "Due ore a piedi tra Dotonbori, Hozenji Yokocho e il mercato di Kuromon Ichiba, con guida inclusa.",
+  "shortDescription": "Due ore a piedi tra Dotonbori, Hozenji Yokocho e il mercato di Kuromon Ichiba, con guida inclusa.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo all'interno e un fossato e un parco che vale un'ora; il mercato di Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa ed economica di Kyoto, e la sua gente lo sa bene.\n\nQuesto tour guidato a piedi di due ore porta a **Dotonbori**, **Hozenji Yokocho** e il **mercato di Kuromon Ichiba**. La guida è inclusa nel prezzo; cibo e bevande si pagano separatamente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato di 2 ore"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "2-hour-shopping-tour-plan-private-in-kyoto": {
+  "title": "Tour di shopping privato di 2 ore a Kyoto",
+  "metaTitle": "Tour di shopping privato di 2 ore a Kyoto",
+  "metaDescription": "Due ore di shopping privato a Kyoto con personale in lingua straniera e un percorso pianificato su misura.",
+  "shortDescription": "Due ore di shopping privato a Kyoto con personale in lingua straniera e un percorso pianificato su misura.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e splendido nella luce del mattino; il Kiyomizu-dera, la terrazza in legno sulle colline orientali con le vie di Sannenzaka e Ninenzaka sotto di sé; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento; una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesto tour di shopping privato di due ore porta personale in lingua straniera e un percorso pianificato su misura. Il trasporto da e per il punto di incontro, le spese personali e il costo effettivo di prodotti ed esperienze restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Personale in lingua straniera",
+   "Pianificazione del percorso"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto di incontro",
+   "Spese personali",
+   "Costo effettivo di prodotti ed esperienze"
+  ]
+ },
+ "2-hour-vegan-and-vegetarian-ramen-guided-walking-tour-in-tokyo": {
+  "title": "Tour a piedi guidato di 2 ore sul ramen vegano e vegetariano a Tokyo",
+  "metaTitle": "Tour a piedi sul ramen vegano e vegetariano a Tokyo",
+  "metaDescription": "Due ore a piedi tra Shibuya e Shinjuku alla scoperta del ramen vegano e vegetariano, con quattro mini-ciotole e una bevanda incluse.",
+  "shortDescription": "Due ore a piedi tra Shibuya e Shinjuku alla scoperta del ramen vegano e vegetariano, con quattro mini-ciotole e una bevanda incluse.",
+  "fullDescription": "Tokyo è la città più popolosa del mondo per area metropolitana e si visita meglio come un insieme di quartieri lungo la linea circolare Yamanote. Asakusa ha il Senso-ji, il tempio più antico della città, e la via dello shopping di Nakamise; Shibuya ha il celebre incrocio e Shinjuku i bar di Golden Gai; Harajuku è Takeshita Street e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono i grandi magazzini e i banconi di sushi.\n\nQuesto tour a piedi guidato di due ore porta a scoprire il ramen vegano e vegetariano tra Shibuya e Shinjuku, con quattro mini-ciotole di ramen e una bevanda incluse. Il biglietto del treno da Shibuya a Shinjuku resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "4 mini-ciotole di ramen",
+   "1 bevanda"
+  ],
+  "notIncluded": [
+   "Biglietto del treno da Shibuya a Shinjuku, da portare con tessera di trasporto o contanti"
+  ]
+ },
+ "2-types-of-japanese-sweets-making-and-tea-ceremony-in-kyoto": {
+  "title": "Corso di 2 tipi di dolci giapponesi e cerimonia del tè a Kyoto",
+  "metaTitle": "Dolci giapponesi e cerimonia del tè a Kyoto",
+  "metaDescription": "Centoventicinque minuti a Gion tra la preparazione di due tipi di dolci giapponesi e una cerimonia del tè, in un'esperienza di tre momenti.",
+  "shortDescription": "Centoventicinque minuti a Gion tra la preparazione di due tipi di dolci giapponesi e una cerimonia del tè, in un'esperienza di tre momenti.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati; una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha.\n\nQuesta esperienza di centoventicinque minuti porta la preparazione di due tipi di dolci giapponesi insieme a una cerimonia del tè, in un percorso di tre momenti. La colorazione aggiuntiva costa 200 yen, la scatola da asporto per i dolci 100 yen e il certificato di completamento dell'esperienza 300 yen, tutti extra rispetto al prezzo base.",
+  "highlights": [],
+  "included": [
+   "Esperienza completa di 2 tipi di dolci giapponesi e cerimonia del tè (3 momenti)"
+  ],
+  "notIncluded": [
+   "Colorazione aggiuntiva: 200 yen",
+   "Scatola da asporto per i dolci: 100 yen",
+   "Certificato di completamento dell'esperienza: 300 yen"
+  ]
+ },
+ "3-4-5-hours-private-tour-with-local-guide-in-osaka": {
+  "title": "Tour privato di 3, 4 o 5 ore con guida locale a Osaka",
+  "metaTitle": "Tour privato con guida locale a Osaka",
+  "metaDescription": "Tour privato a piedi a Osaka, da tre a cinque ore, personalizzato, con pick-up in hotel e consigli per il resto del viaggio.",
+  "shortDescription": "Tour privato a piedi a Osaka, da tre a cinque ore, personalizzato, con pick-up in hotel e consigli per il resto del viaggio.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo all'interno e un fossato e un parco che vale un'ora; il mercato di Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza.\n\nQuesto tour privato a piedi, della durata di tre, quattro o cinque ore a scelta, porta una guida locale che personalizza il percorso, il pick-up in hotel e consigli pratici per il resto del viaggio. Biglietti d'ingresso, cibo, bevande, trasporto e mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato a piedi",
+   "Personalizzazione dell'esperienza",
+   "Pick-up in hotel",
+   "Consigli e suggerimenti per il resto del viaggio"
+  ],
+  "notIncluded": [
+   "Biglietti per qualsiasi attrazione",
+   "Cibo e bevande",
+   "Trasporto",
+   "Mance (facoltative)"
+  ]
+ },
+ "3-day-japan-highlights-tour-tokyo-fuji-nara-kyoto-osaka-by-local-operator": {
+  "title": "Tour dei luoghi iconici del Giappone in 3 giorni: Tokyo, Fuji, Nara, Kyoto, Osaka, con operatore locale",
+  "metaTitle": "Tour di 3 giorni: Tokyo, Fuji, Nara, Kyoto, Osaka",
+  "metaDescription": "Tre giorni tra Tokyo, il Monte Fuji, Nara, Kyoto e Osaka in piccolo gruppo, con guida, biglietti d'ingresso, trasporto tra le città e due notti in hotel incluse.",
+  "shortDescription": "Tre giorni tra Tokyo, il Monte Fuji, Nara, Kyoto e Osaka in piccolo gruppo, con guida, biglietti d'ingresso, trasporto tra le città e due notti in hotel incluse.",
+  "fullDescription": "Tokyo è la città più popolosa del mondo per area metropolitana e si visita meglio come un insieme di quartieri lungo la linea circolare Yamanote. Asakusa ha il Senso-ji, il tempio più antico della città, e la via dello shopping di Nakamise; Shibuya ha il celebre incrocio e Shinjuku i bar di Golden Gai; Harajuku è Takeshita Street e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono i grandi magazzini e i banconi di sushi.\n\nQuesto tour in piccolo gruppo di tre giorni collega Tokyo, il Monte Fuji, Nara, Kyoto e Osaka, con guida in lingua inglese, biglietti d'ingresso, trasporto tra le città in veicolo climatizzato con Wi-Fi, due notti in hotel a tre stelle e due colazioni incluse. Pasti, bevande (salvo diversa indicazione) e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Biglietti d'ingresso",
+   "Trasporto tra le città",
+   "Tour in piccolo gruppo per un'esperienza più personalizzata",
+   "Veicolo climatizzato",
+   "Wi-Fi",
+   "Pernottamento in hotel 3 stelle (2 notti)",
+   "Colazioni (2 pasti)"
+  ],
+  "notIncluded": [
+   "Pasti e bevande (salvo diversa indicazione)",
+   "Spese personali"
+  ]
+ },
+ "3-day-to-otaru-furano-and-lake-shikotsu": {
+  "title": "3 giorni a Otaru, Furano e Lago Shikotsu",
+  "metaTitle": "Viaggio di 3 giorni: Otaru, Furano, Lago Shikotsu",
+  "metaDescription": "Tre giorni da Sapporo con veicolo privato per tutte le giornate confermate, pick-up in hotel e drop-off finale all'aeroporto di New Chitose.",
+  "shortDescription": "Tre giorni da Sapporo con veicolo privato per tutte le giornate confermate, pick-up in hotel e drop-off finale all'aeroporto di New Chitose.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko.\n\nQuesto viaggio di tre giorni mette a disposizione un veicolo privato climatizzato per tutte le giornate confermate, con pick-up dagli hotel di Sapporo concordati, carburante e pedaggi autostradali per i percorsi stabiliti, trenta minuti di attesa gratuita ogni giorno dall'orario di pick-up previsto, un seggiolino per bambini gratuito su richiesta anticipata, e il drop-off finale del terzo giorno all'**aeroporto di New Chitose**. Biglietti d'ingresso, pasti, bevande, alloggio e spese personali restano a carico del cliente, così come un'eventuale guida.",
+  "highlights": [],
+  "included": [
+   "Servizio veicolo privato per tutti i 3 giorni di tour confermati",
+   "Pick-up dagli hotel o alloggi di Sapporo concordati",
+   "Veicolo privato climatizzato",
+   "Carburante per i percorsi concordati",
+   "Pedaggi autostradali per i percorsi concordati",
+   "Tariffe di parcheggio per i percorsi concordati",
+   "Itinerario standard di 3 giorni o percorso adattato confermato",
+   "Drop-off il giorno 3 all'aeroporto di New Chitose",
+   "30 minuti di attesa gratuita ogni giorno dall'orario di pick-up previsto",
+   "Un seggiolino per bambini gratuito su richiesta anticipata"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso",
+   "Pasti e bevande",
+   "Alloggio",
+   "Spese personali",
+   "Guida o autista-guida in lingua inglese",
+   "Fermate extra non confermate in anticipo",
+   "Pick-up o drop-off fuori zona",
+   "Il secondo seggiolino per bambini e quelli successivi costano 2.000 yen",
+   "Straordinari: 5.000 yen all'ora fino a 14 posti; 10.000 yen all'ora per veicoli da 18 o 44 posti",
+   "Servizio notturno dalle 22:00 alle 07:00: supplemento di 2.000 yen per tutti i servizi",
+   "Servizio di guida professionale autorizzata, salvo prenotazione separata e confermata",
+   "Biglietto dell'autista se gli ospiti chiedono di entrare in attrazioni a pagamento o partecipare ad attività a pagamento"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
