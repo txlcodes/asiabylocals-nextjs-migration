@@ -1932,6 +1932,90 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mount-hoei-crater-trek-worth-it-mount-fuji":
+      return {
+        title: "Is the Mount Hoei Crater Day Trek Worth It?",
+        description: "An honest look at the day trek to Mount Fuji's Hoei crater, the scar left by the mountain's last eruption in 1707.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271575/asiabylocals/tours/mount-fuji-hoei-crater-base-camp-trek/img0.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Hoei crater is a genuinely dramatic reminder that Fuji is an active volcano, not just a postcard backdrop, and trekking to it gives a completely different, far less crowded perspective than the standard summit climb routes.",
+            tourCard: { slug: "mount-hoei-crater-day-trek-fuji", title: "Mount Hoei Crater Day Trek", description: "A day trek to Mount Fuji's Hoei crater, left by the 1707 eruption.", price: "From $424", duration: "1 day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788271575/asiabylocals/tours/mount-fuji-hoei-crater-base-camp-trek/img0.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine trek requiring real fitness, distinct from a casual viewpoint stop — come prepared for a demanding day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Hoei crater trek worth it?", a: "Yes, it gives a genuinely dramatic, far less crowded perspective on Fuji's volcanic history than the standard summit routes." },
+        ],
+      };
+
+    case "is-aokigahara-forest-day-trip-worth-it-mount-fuji":
+      return {
+        title: "Is the Mount Fuji & Aokigahara Forest Day Trip Worth It?",
+        description: "An honest look at the combined Mount Fuji and Aokigahara lava forest day trip.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-and-aokigahara-forest-day-trip/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Aokigahara's dense lava forest, grown over a volcanic flow, gives a genuinely eerie, atmospheric contrast to Fuji's open mountain views, and a guided walk adds real context to the forest's unique ecology beyond its unfortunate reputation.",
+            tourCard: { slug: "mt-fuji-and-aokigahara-forest-day-trip", title: "Mount Fuji & Aokigahara Forest Day Trip", description: "A day trip combining Mount Fuji views with a guided walk through Aokigahara forest.", price: "From $100", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-and-aokigahara-forest-day-trip/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Stick to the marked trails with your guide — the forest's volcanic rock terrain makes it genuinely easy to lose your bearings off-path.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Aokigahara forest day trip worth it from Mount Fuji?", a: "Yes, a guided walk gives real context to the forest's unique volcanic ecology, a genuinely different atmosphere from Fuji's open views." },
+        ],
+      };
+
+    case "is-sumo-experience-day-trip-worth-it-mount-fuji":
+      return {
+        title: "Is the Mount Fuji Day Trip with Sumo Experience Worth It?",
+        description: "An honest look at the small-group day trip combining Mount Fuji sightseeing with a hands-on sumo experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-fuji-day-trip-and-sumo-experience-small-group/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Mount Fuji sightseeing with a hands-on introduction to sumo, Japan's national sport, gives this day a genuinely different cultural dimension beyond the usual lake and viewpoint circuit, in a small-group format that keeps it personal.",
+            tourCard: { slug: "mount-fuji-day-trip-and-sumo-experience-small-group", title: "Mount Fuji Day Trip & Sumo Experience", description: "A small-group day trip combining Mount Fuji sightseeing with a sumo experience.", price: "From $70", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-fuji-day-trip-and-sumo-experience-small-group/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior sumo knowledge or fitness is needed — the experience is designed as an introductory, hands-on taste of the sport.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Fuji day trip with sumo experience worth it?", a: "Yes, it adds a genuinely different cultural dimension beyond the usual lake and viewpoint sightseeing." },
+        ],
+      };
+
+    case "is-gotemba-outlets-tour-worth-it-mount-fuji":
+      return {
+        title: "Is the Mount Fuji & Gotemba Premium Outlets Day Trip Worth It?",
+        description: "An honest look at the combined Mount Fuji sightseeing and Gotemba Premium Outlets shopping day trip.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-fuji-and-gotemba-premium-outlets-day-trip/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Fuji sightseeing with a stop at Gotemba's large outlet mall, which has genuinely good views of the mountain itself from the grounds, gives this day a practical shopping component without needing a separate trip.",
+            tourCard: { slug: "mount-fuji-and-gotemba-premium-outlets-day-trip", title: "Mount Fuji & Gotemba Premium Outlets Day Trip", description: "A day trip combining Mount Fuji sightseeing with Gotemba Premium Outlets shopping.", price: "From $74", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-fuji-and-gotemba-premium-outlets-day-trip/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Budget real time at the outlets if shopping is a priority — it's a genuinely large complex that can easily absorb a couple of hours.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Fuji and Gotemba Outlets day trip worth it?", a: "Yes, it adds a practical shopping stop with genuinely good mountain views from the outlet grounds, without a separate trip." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1571,6 +1571,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'mount-fuji-day-tour-routes', 'best-tours-in-mount-fuji', 'should-i-book-mount-fuji-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-mount-fuji',
     'is-mount-fuji-summit-climb-worth-it',
+    'is-mount-hoei-crater-trek-worth-it-mount-fuji', 'is-aokigahara-forest-day-trip-worth-it-mount-fuji',
+    'is-sumo-experience-day-trip-worth-it-mount-fuji', 'is-gotemba-outlets-tour-worth-it-mount-fuji',
 ].map(slug => ({
     url: `${BASE_URL}/japan/mount-fuji/${slug}`,
     lastModified: new Date(),
