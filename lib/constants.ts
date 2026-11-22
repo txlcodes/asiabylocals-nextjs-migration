@@ -1188,6 +1188,8 @@ export const MANILA_INFO_SLUGS = [
   'is-intramuros-walking-tour-worth-it-manila', 'is-hundred-islands-tour-worth-it-manila',
   'is-pampanga-hot-springs-tour-worth-it-manila', 'is-baguio-city-tour-worth-it-manila',
   'is-tagaytay-taal-day-trip-worth-it-manila', 'is-makati-rooftop-bar-hopping-worth-it-manila',
+  'is-manila-ocean-park-worth-it-manila', 'is-bataan-wwii-memorial-tour-worth-it-manila',
+  'is-pampanga-ube-farm-tour-worth-it-manila', 'is-zambales-island-hopping-worth-it-manila',
 ];
 
 // Boracay (Philippines) — 27 live tours, launched 2026-11-22.

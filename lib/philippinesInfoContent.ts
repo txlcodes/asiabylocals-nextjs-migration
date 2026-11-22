@@ -1572,6 +1572,90 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-manila-ocean-park-worth-it-manila":
+      return {
+        title: "Is Manila Ocean Park Worth It?",
+        description: "An honest look at Manila Ocean Park, an oceanarium with an underwater tunnel and marine exhibits right on Manila Bay.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3739d74f1d646c641834f815c2ffe1dd4c2ed6d9ffa0cc1e09bd3532045f057b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Walking through the underwater tunnel surrounded by sharks and rays is a genuine highlight for families and kids, and at just 2 hours it's an easy, air-conditioned break between heavier Manila sightseeing stops.",
+            tourCard: { slug: "manila-ocean-park-tour-with-an-underwater-tunnel", title: "Manila Ocean Park Tour with Underwater Tunnel", description: "A tour of Manila Ocean Park, including its underwater tunnel exhibit.", price: "From $87", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3739d74f1d646c641834f815c2ffe1dd4c2ed6d9ffa0cc1e09bd3532045f057b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick specifically for families with younger kids wanting an air-conditioned break from the heat and heavier historical sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is Manila Ocean Park worth it?", a: "Yes, especially for families, the underwater tunnel is a genuine highlight and an easy air-conditioned break from the heat." },
+        ],
+      };
+
+    case "is-bataan-wwii-memorial-tour-worth-it-manila":
+      return {
+        title: "Is the Bataan WWII Memorial Tour Worth It from Manila?",
+        description: "An honest look at the Bataan WWII memorial tour, covering the historic Death March route and memorial sites, distinct from Intramuros' WWII history.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a0befffc860ee824c6c72b80b7d428c579c193bdc94bf0c226670242697625c.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bataan covers a genuinely different, more somber chapter of WWII history than Intramuros' Walled City sites, following the Death March route and memorial markers, making it a good fit for travelers with a deeper interest in the Philippines' wartime history.",
+            tourCard: { slug: "bataan-wwii-memorial-tour-a-historical-guide", title: "Bataan WWII Memorial Tour: A Historical Guide", description: "A guided WWII memorial tour of Bataan, covering the Death March route and historic sites.", price: "From $539", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a0befffc860ee824c6c72b80b7d428c579c193bdc94bf0c226670242697625c.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day with significant drive time, so it suits travelers with a genuine, deeper interest in WWII history beyond Intramuros' sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bataan WWII memorial tour worth it from Manila?", a: "Yes, for travelers with a deeper interest in WWII history, it covers a genuinely different, more somber chapter than Intramuros' sites." },
+        ],
+      };
+
+    case "is-pampanga-ube-farm-tour-worth-it-manila":
+      return {
+        title: "Is the Pampanga Ube Farm Tour Worth It from Manila?",
+        description: "An honest look at the Pampanga ube farm tour with snacks, a day trip centered on the Philippines' famous purple yam.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5fa341657b389544acbe3c70e0731b9d56313e936101c94c55d7687c31a0971d.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ube is a genuine Filipino culinary icon, and seeing it actually grown and harvested on a working farm, paired with tastings, gives real context beyond just eating ube desserts in Manila's cafes and restaurants.",
+            tourCard: { slug: "from-manila-pampanga-ube-farm-tour-with-snacks", title: "From Manila: Pampanga Ube Farm Tour with Snacks", description: "A day trip to a working ube farm in Pampanga with tastings included.", price: "From $410", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5fa341657b389544acbe3c70e0731b9d56313e936101c94c55d7687c31a0971d.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers who already love Filipino ube desserts and want to see where the ingredient actually comes from.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pampanga ube farm tour worth it from Manila?", a: "Yes, seeing ube actually grown and harvested gives real context beyond just eating the desserts in Manila." },
+        ],
+      };
+
+    case "is-zambales-island-hopping-worth-it-manila":
+      return {
+        title: "Is the Zambales Island Hopping Day Trip Worth It from Manila?",
+        description: "An honest look at the Zambales island hopping day trip from Manila, a beach and snorkeling escape distinct from Hundred Islands.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e8838a30cb80991cbe3142dadded316aea86741804bbce7026daeccd083fa569.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Zambales offers a genuinely different stretch of islands and beaches from the more commonly covered Hundred Islands further north, with good snorkeling spots that see fewer crowds, though the long drive each way makes this a full 12-hour day.",
+            tourCard: { slug: "from-manila-zambales-island-hopping-day-trip", title: "From Manila: Zambales Island Hopping Day Trip", description: "A day trip to Zambales for island hopping and snorkeling from Manila.", price: "From $533", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e8838a30cb80991cbe3142dadded316aea86741804bbce7026daeccd083fa569.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a genuinely long day with significant drive time each way, so this suits travelers who specifically want to avoid Hundred Islands' bigger crowds.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Zambales island hopping day trip worth it from Manila?", a: "Yes, it offers a genuinely different, less crowded stretch of islands than Hundred Islands, worth the long drive for travelers wanting quieter snorkeling spots." },
+        ],
+      };
+
     default:
       return null;
   }
