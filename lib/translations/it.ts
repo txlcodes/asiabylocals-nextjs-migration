@@ -39117,6 +39117,187 @@ export const IT_TOURS: Record<string, TourT> = {
    "Fasce S2-1, S2-2, S2-3, S2-4: ingresso al ranch degli alpaca (dai 16 anni in su: 500 yen; dai 6 ai 15 anni: 300 yen)"
   ]
  },
+ "silver-ring-workshop-smith-at-keio-plaza-sapporo-by-local-operator": {
+  "title": "Laboratorio di anelli d'argento con un fabbro al Keio Plaza di Sapporo, con operatore locale",
+  "metaTitle": "Laboratorio di anelli d'argento al Keio Plaza, Sapporo",
+  "metaDescription": "Un'ora e mezza al Keio Plaza di Sapporo per creare il proprio anello d'argento con un fabbro, tariffa del pacchetto inclusa.",
+  "shortDescription": "Un'ora e mezza al Keio Plaza di Sapporo per creare il proprio anello d'argento con un fabbro, tariffa del pacchetto inclusa.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto laboratorio di un'ora e mezza al **Keio Plaza** di Sapporo, con operatore locale, porta la creazione del proprio anello d'argento con un fabbro, con la tariffa del pacchetto inclusa. Le spese fuori dal pacchetto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del pacchetto"
+  ],
+  "notIncluded": [
+   "Spese fuori dal pacchetto"
+  ]
+ },
+ "sapporo-walking-tour-by-local-operator": {
+  "title": "Tour a piedi di Sapporo con operatore locale",
+  "metaTitle": "Tour a piedi di Sapporo, con operatore locale",
+  "metaDescription": "Due ore a piedi a Sapporo con guida in inglese o cinese, biglietto d'ingresso all'osservatorio della Torre TV di Sapporo incluso.",
+  "shortDescription": "Due ore a piedi a Sapporo con guida in inglese o cinese, biglietto d'ingresso all'osservatorio della Torre TV di Sapporo incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour a piedi di due ore, con operatore locale, porta una guida in inglese o in cinese e il biglietto d'ingresso all'osservatorio della **Torre TV di Sapporo**. Spese personali non indicate, cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in inglese",
+   "Guida in cinese",
+   "Biglietto d'ingresso all'osservatorio della Torre TV di Sapporo"
+  ],
+  "notIncluded": [
+   "Spese personali non indicate",
+   "Cibo o bevande"
+  ]
+ },
+ "furano-and-biei-day-tour-with-lavender-pillow-making-option-sapporo": {
+  "title": "Tour di un giorno a Furano e Biei con opzione di creazione di un cuscino di lavanda, Sapporo",
+  "metaTitle": "Furano e Biei: tour con cuscino di lavanda, Sapporo",
+  "metaDescription": "Dieci ore da Sapporo tra Furano e Biei, con guida in cinese, inglese o giapponese, ingresso ai Giardini di Shikisai no Oka incluso, pranzo secondo il pacchetto.",
+  "shortDescription": "Dieci ore da Sapporo tra Furano e Biei, con guida in cinese, inglese o giapponese, ingresso ai Giardini di Shikisai no Oka incluso, pranzo secondo il pacchetto.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. Le distanze sono lunghe e i treni pochi, perciò le gite di un giorno da Sapporo viaggiano soprattutto in bus e durano dalle otto alle dieci ore.\n\nQuesto tour di dieci ore porta la tariffa del bus, una guida in cinese, inglese o giapponese, l'ingresso ai **Giardini di Shikisai no Oka**, il pranzo incluso secondo il pacchetto scelto, e l'esperienza fai-da-te di creazione di un mini cuscino di lavanda, anche inclusa secondo il pacchetto. Altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus",
+   "Guida in cinese, inglese o giapponese",
+   "Ingresso ai Giardini di Shikisai no Oka",
+   "Tariffa del pranzo: inclusa in base al pacchetto scelto",
+   "Esperienza fai-da-te di creazione di un mini cuscino di lavanda: inclusa in base al pacchetto scelto"
+  ],
+  "notIncluded": [
+   "Altre spese personali"
+  ]
+ },
+ "with-lunch-mt-usu-noboribetsu-lake-shikotsu-day-trip-sapporo": {
+  "title": "Con pranzo: gita di un giorno al Monte Usu, Noboribetsu e Lago Shikotsu, Sapporo",
+  "metaTitle": "Monte Usu, Noboribetsu, Lago Shikotsu da Sapporo",
+  "metaDescription": "Giornata intera da Sapporo tra il Monte Usu, Noboribetsu e il Lago Shikotsu, con guida in inglese, cinese o giapponese e tariffa della funivia incluse.",
+  "shortDescription": "Giornata intera da Sapporo tra il Monte Usu, Noboribetsu e il Lago Shikotsu, con guida in inglese, cinese o giapponese e tariffa della funivia incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera.\n\nQuesta gita di un giorno intero porta una guida in inglese, cinese o giapponese, un assaggio di \"oishii manju\", il tradizionale panino dolce, e la tariffa della funivia del **Monte Usu**. Nelle opzioni 2 e 4 è incluso un set autentico Genghis Khan di agnello dell'Hokkaido alla griglia, riservato agli abbonati al piano, e nelle opzioni 1 e 2 il biglietto della funivia del Monte Usu. L'ingresso al ranch degli orsi di Showa-shinzan, altre spese personali, quanto non indicato tra gli elementi inclusi, il pranzo nelle opzioni 1 e 3, e il biglietto della funivia nelle opzioni 3 e 4 restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Gita di un giorno",
+   "Guida in inglese, cinese o giapponese",
+   "\"Oishii manju\" (tradizionale panino dolce)",
+   "Tariffa della funivia del Monte Usu",
+   "Opzioni 2 e 4: set autentico Genghis Khan (agnello dell'Hokkaido alla griglia), riservato agli abbonati al piano",
+   "Opzioni 1 e 2: biglietto della funivia del Monte Usu"
+  ],
+  "notIncluded": [
+   "Ingresso al ranch degli orsi di Showa-shinzan",
+   "Altre spese personali",
+   "Quanto non indicato tra gli elementi inclusi",
+   "Opzioni 1 e 3: pranzo",
+   "Opzioni 3 e 4: biglietto della funivia del Monte Usu"
+  ]
+ },
+ "lake-toya-and-noboribetsu-jigokudani-valley": {
+  "title": "Lago Toya e Valle di Jigokudani a Noboribetsu",
+  "metaTitle": "Lago Toya e Valle di Jigokudani, Noboribetsu",
+  "metaDescription": "Giornata intera tra il Lago Toya e la Valle di Jigokudani a Noboribetsu, con tour guidato, trasporto andata e ritorno, carburante e parcheggio inclusi.",
+  "shortDescription": "Giornata intera tra il Lago Toya e la Valle di Jigokudani a Noboribetsu, con tour guidato, trasporto andata e ritorno, carburante e parcheggio inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera.\n\nQuesta gita di una giornata intera porta un tour guidato tra il **Lago Toya** e la **Valle di Jigokudani** a **Noboribetsu**, con trasporto andata e ritorno, supplemento carburante, autista, parcheggio e pedaggio inclusi. Cibo, bevande, biglietti per le attrazioni visitate, spese personali, assicurazione personale di viaggio o infortuni, e la tariffa per il giro in motoslitta restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato",
+   "Trasporto andata e ritorno",
+   "Supplemento carburante",
+   "Autista",
+   "Parcheggio",
+   "Pedaggio"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Biglietti per le attrazioni indicate",
+   "Spese personali",
+   "Assicurazione personale di viaggio o infortuni",
+   "Tariffa del giro in motoslitta"
+  ]
+ },
+ "private-susukino-tanukikoji-and-city-lights-walk-in-sapporo": {
+  "title": "Passeggiata privata tra Susukino, Tanukikoji e le luci della città a Sapporo",
+  "metaTitle": "Passeggiata notturna privata a Sapporo: Susukino, Tanukikoji",
+  "metaDescription": "Due ore di passeggiata notturna privata a Sapporo tra il Parco Odori, la Torre TV e la via dello shopping di Tanukikoji, con guida locale.",
+  "shortDescription": "Due ore di passeggiata notturna privata a Sapporo tra il Parco Odori, la Torre TV e la via dello shopping di Tanukikoji, con guida locale.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesta passeggiata privata notturna di due ore porta una guida locale, la visita al **Parco Odori**, alla zona della **Torre TV di Sapporo**, una camminata lungo la via dello shopping di **Tanukikoji**, la visita al quartiere della vita notturna di **Susukino**, e facoltativamente al Parco Soseigawa o al mercato Nijo. Cibo, bevande e il giro dei bar restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Passeggiata notturna privata",
+   "Guida locale",
+   "Visita al Parco Odori",
+   "Visita alla zona della Torre TV di Sapporo",
+   "Camminata lungo la via dello shopping di Tanukikoji",
+   "Visita al quartiere della vita notturna di Susukino",
+   "Visita opzionale al Parco Soseigawa o al mercato Nijo"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Giro dei bar"
+  ]
+ },
+ "kumiko-woodworking-workshop-in-sapporo": {
+  "title": "Laboratorio di falegnameria Kumiko a Sapporo",
+  "metaTitle": "Laboratorio di falegnameria Kumiko, Sapporo",
+  "metaDescription": "Un'ora e mezza a Sapporo per creare un sottobicchiere in legno con la tecnica Kumiko, con tè giapponese e un dolce leggero inclusi.",
+  "shortDescription": "Un'ora e mezza a Sapporo per creare un sottobicchiere in legno con la tecnica Kumiko, con tè giapponese e un dolce leggero inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto laboratorio di un'ora e mezza porta un kit per creare un sottobicchiere in legno con la tecnica **Kumiko**, l'istruzione e il supporto del personale, un'introduzione alla storia e ai motivi del Kumiko, un tè giapponese con un dolce leggero, e l'accesso alla visione di opere Kumiko autentiche, oltre all'occasione di acquistare artigianato tradizionale.",
+  "highlights": [],
+  "included": [
+   "Kit per creare un sottobicchiere in legno con la tecnica Kumiko",
+   "Istruzione e supporto del personale",
+   "Introduzione alla storia e ai motivi del Kumiko",
+   "Tè giapponese e un dolce leggero",
+   "Accesso alla visione di opere Kumiko autentiche",
+   "Occasione di acquistare artigianato tradizionale"
+  ],
+  "notIncluded": []
+ },
+ "nijo-market-guided-tour-with-seafood-meal-in-sapporo": {
+  "title": "Tour guidato del Mercato Nijo con pasto a base di pesce a Sapporo",
+  "metaTitle": "Mercato Nijo con pasto a base di pesce, Sapporo",
+  "metaDescription": "Un'ora e mezza al Mercato Nijo di Sapporo con guida esperta in inglese, spese di cibo e bevande fino a 3.000 yen incluse.",
+  "shortDescription": "Un'ora e mezza al Mercato Nijo di Sapporo con guida esperta in inglese, spese di cibo e bevande fino a 3.000 yen incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour guidato di un'ora e mezza al **Mercato Nijo** porta una guida esperta del mercato in lingua inglese, con spese di cibo e bevande incluse fino a 3.000 yen. Il trasporto privato e le spese di cibo e bevande oltre l'importo incluso restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato di 1,5 ore del Mercato Nijo",
+   "Guida esperta del mercato in lingua inglese",
+   "Spese di cibo e bevande fino a 3.000 yen"
+  ],
+  "notIncluded": [
+   "Trasporto privato",
+   "Spese di cibo e bevande oltre l'importo incluso"
+  ]
+ },
+ "hokkaido-shrine-guided-tour-and-local-sweets-in-sapporo": {
+  "title": "Tour guidato del Santuario di Hokkaido e dolci locali a Sapporo",
+  "metaTitle": "Santuario di Hokkaido e dolci locali, Sapporo",
+  "metaDescription": "Un'ora al Santuario di Hokkaido a Sapporo con tour guidato, esperienza dell'omikuji e degustazione di dolci mochi incluse.",
+  "shortDescription": "Un'ora al Santuario di Hokkaido a Sapporo con tour guidato, esperienza dell'omikuji e degustazione di dolci mochi incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesta esperienza di un'ora al **Santuario di Hokkaido** porta un tour guidato del santuario, l'esperienza dell'**omikuji**, l'oracolo scritto su carta, e una degustazione di dolci **mochi**.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Santuario di Hokkaido",
+   "Esperienza dell'omikuji",
+   "Degustazione di dolci mochi"
+  ],
+  "notIncluded": []
+ },
+ "tour-of-the-historic-red-brick-government-office-in-sapporo": {
+  "title": "Tour dello storico palazzo di governo in mattoni rossi a Sapporo",
+  "metaTitle": "Palazzo di governo in mattoni rossi, Sapporo",
+  "metaDescription": "Un'ora e mezza al Vecchio Palazzo del Governo dell'Hokkaido a Sapporo con tour guidato e accesso alle esposizioni del museo incluso.",
+  "shortDescription": "Un'ora e mezza al Vecchio Palazzo del Governo dell'Hokkaido a Sapporo con tour guidato e accesso alle esposizioni del museo incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio.\n\nQuesto tour guidato di un'ora e mezza porta la visita al **Vecchio Palazzo del Governo dell'Hokkaido**, con l'accesso alle esposizioni del museo e approfondimenti sulla storia, il paesaggio e la cultura dell'Hokkaido. Il trasporto da e per il luogo, cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Vecchio Palazzo del Governo dell'Hokkaido",
+   "Accesso alle esposizioni del museo",
+   "Approfondimenti sulla storia, il paesaggio e la cultura dell'Hokkaido"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il luogo",
+   "Cibo e bevande"
+  ]
+ },
  "nagoya-shimenawa-wreath-making-workshop": {
   "title": "Crea uno shimenawa: la ghirlanda giapponese del Capodanno, a Nagoya",
   "metaTitle": "Workshop di shimenawa a Nagoya",
