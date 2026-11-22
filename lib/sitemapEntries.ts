@@ -1152,6 +1152,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kilim-geoforest-mangrove-tour-worth-it-langkawi', 'is-cable-car-worth-it-langkawi',
     'is-jet-ski-worth-it-langkawi', 'is-atv-waterfall-tour-worth-it-langkawi',
     'is-hidden-islands-cruise-worth-it-langkawi', 'is-gunung-raya-hike-worth-it-langkawi',
+    'is-night-mangrove-safari-worth-it-langkawi', 'is-sunset-dinner-cruise-worth-it-langkawi',
+    'is-organic-farm-cooking-class-worth-it-langkawi', 'is-birdwatching-tour-worth-it-langkawi',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/langkawi/${slug}`,
     lastModified: new Date(),

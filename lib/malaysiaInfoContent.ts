@@ -4139,6 +4139,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-night-mangrove-safari-worth-it-langkawi":
+            return {
+                title: "Is the Night Mangrove Safari with BBQ Worth It in Langkawi?",
+                description: "An honest look at the night mangrove safari tour with a BBQ buffet in Langkawi, a nocturnal alternative to the standard daytime mangrove cruise.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3168d4733ea37a79834ea0536d4b9e80670e148f9b9436dfea57417a9cb0ade0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Langkawi's mangroves show a genuinely different side of themselves after dark, with different wildlife active at night, and pairing the safari with a BBQ buffet makes this a full evening rather than just a quick boat ride.", tourCard: { slug: "night-safari-mangrove-tour-with-guide-bbq-buffet", title: "Night Safari Mangrove Tour with Guide & BBQ Buffet", description: "A guided night mangrove safari in Langkawi with a BBQ buffet included.", price: "From $88", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3168d4733ea37a79834ea0536d4b9e80670e148f9b9436dfea57417a9cb0ade0.jpg" } },
+                    { title: "Practical Tips", content: "Bring insect repellent — mangrove areas are genuinely more active with insects after dark." }
+                ],
+                faqs: [
+                    { q: "Is the night mangrove safari worth it in Langkawi?", a: "Yes, nocturnal wildlife and the included BBQ buffet make this a genuinely different experience from the standard daytime mangrove cruise." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the night mangrove safari worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, nocturnal wildlife and the BBQ buffet make it genuinely different from the daytime cruise." } }
+                ] },
+            };
+
+        case "is-sunset-dinner-cruise-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Sunset Dinner Cruise Worth It?",
+                description: "An honest look at the Langkawi sunset dinner cruise with buffet, a relaxed evening on the water watching the sunset over the Andaman Sea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/494efba7c4acaec14e8c6965152e7e48c5547b44cee5d283e4c40d0b9797a849.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Watching the sunset over the Andaman Sea from a boat with a buffet dinner included is a genuinely relaxed way to end a day, with none of the adrenaline-activity pace of Langkawi's jet-ski and ATV tours.", tourCard: { slug: "langkawi-sunset-dinner-cruise-with-buffet-and", title: "Langkawi Sunset Dinner Cruise with Buffet", description: "A sunset dinner cruise in Langkawi with a buffet meal included.", price: "From $93", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/494efba7c4acaec14e8c6965152e7e48c5547b44cee5d283e4c40d0b9797a849.jpeg" } },
+                    { title: "Practical Tips", content: "Book a seat on the upper or open deck if available for the best unobstructed sunset views." }
+                ],
+                faqs: [
+                    { q: "Is the sunset dinner cruise worth it in Langkawi?", a: "Yes, it's a genuinely relaxed way to end a day of adrenaline activities, watching the sunset over the Andaman Sea with dinner included." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the sunset dinner cruise worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely relaxed evening watching the sunset with dinner included." } }
+                ] },
+            };
+
+        case "is-organic-farm-cooking-class-worth-it-langkawi":
+            return {
+                title: "Is the Malaysian Cooking Class at an Organic Farm Worth It in Langkawi?",
+                description: "An honest look at the Malaysian cooking class held at an organic farm in Langkawi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1171e9d84472b63923105d547a040339c441b3f0d9c093440df2ba04a29cc7f2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Picking ingredients straight from a working organic farm before cooking gives this class real context beyond a standard kitchen-only lesson, and it's a good non-adrenaline, non-beach activity to break up Langkawi's usual pace.", tourCard: { slug: "langkawi-malaysian-cooking-class-at-organic-farm", title: "Langkawi Malaysian Cooking Class at Organic Farm", description: "A Malaysian cooking class held at an organic farm in Langkawi.", price: "From $337", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1171e9d84472b63923105d547a040339c441b3f0d9c093440df2ba04a29cc7f2.jpg" } },
+                    { title: "Practical Tips", content: "A good relaxed day activity to pair with a beach afternoon, since this doesn't involve the physical intensity of Langkawi's ATV or jet-ski tours." }
+                ],
+                faqs: [
+                    { q: "Is the organic farm cooking class worth it in Langkawi?", a: "Yes, picking ingredients from a real working farm gives genuine context beyond a standard kitchen-only cooking class." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the organic farm cooking class worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine context beyond a standard kitchen-only class, picking ingredients straight from the farm." } }
+                ] },
+            };
+
+        case "is-birdwatching-tour-worth-it-langkawi":
+            return {
+                title: "Is the Half-Day Birdwatching Tour Worth It in Langkawi?",
+                description: "An honest look at the half-day birdwatching tour in Langkawi, a quiet, nature-focused alternative to the island's adrenaline-sport activities.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b7b9eaea7381509439f5024eb5b59aee9938afe0a448ad3cf66e7184b5807228.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Langkawi's mangroves and forested areas host genuinely diverse birdlife, including hornbills and sea eagles, and a knowledgeable guide makes a real difference in actually spotting and identifying species compared to going out unguided.", tourCard: { slug: "langkawi-half-day-birdwatching-tour", title: "Langkawi Half-Day Birdwatching Tour", description: "A guided half-day birdwatching tour around Langkawi's mangroves and forests.", price: "From $179", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b7b9eaea7381509439f5024eb5b59aee9938afe0a448ad3cf66e7184b5807228.jpg" } },
+                    { title: "Practical Tips", content: "Go early morning, when bird activity is genuinely highest, and bring your own binoculars if you have them." }
+                ],
+                faqs: [
+                    { q: "Is the birdwatching tour worth it in Langkawi?", a: "Yes, for genuine wildlife enthusiasts, a knowledgeable guide makes a real difference spotting the island's diverse birdlife." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the birdwatching tour worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a knowledgeable guide makes a real difference spotting the island's diverse birdlife." } }
+                ] },
+            };
+
         default:
             return null;
     }
