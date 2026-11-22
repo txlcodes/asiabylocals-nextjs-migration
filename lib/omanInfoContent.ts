@@ -1102,6 +1102,60 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-ras-al-jinz-turtle-reserve-worth-it-muscat":
+            return {
+                title: "Is the Ras Al Jinz Turtle Reserve Tour Worth It from Muscat?",
+                seoTitle: "Ras Al Jinz Turtle Reserve 2026 | Honest Review",
+                description: "An honest look at the 2-day Wadi Shab and Ras Al Jinz turtle reserve tour, reaching one of the most significant green turtle nesting sites in the world.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0fc2b8e74ba65bbdc31647e3867ff6933e05dbb29352b840e4a2d7c0eda98ee6.png",
+                sections: [
+                    { title: "The Short Answer", content: "Ras Al Jinz is one of the most significant green turtle nesting sites in the world, and this 2-day trip pairs a night at the reserve, timed to watch turtles nest or hatch after dark, with a stop at Wadi Shab's turquoise pools, a genuinely different wildlife angle from Muscat's usual mountain and desert day trips.", tourCard: { slug: "from-muscat-2-day-wadi-shab-ras-al-jinz", title: "From Muscat: 2-Day Wadi Shab & Ras Al Jinz", description: "A 2-day trip combining Wadi Shab with the Ras Al Jinz turtle reserve.", price: "From $554", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0fc2b8e74ba65bbdc31647e3867ff6933e05dbb29352b840e4a2d7c0eda98ee6.png" } },
+                    { title: "Practical Tips", content: "Turtle nesting and hatching activity is seasonal, so ask your operator about current conditions for your travel dates if seeing turtles is the priority." },
+                ],
+                faqs: [
+                    { q: "Is the Ras Al Jinz turtle reserve worth it from Muscat?", a: "Yes, it's one of the most significant green turtle nesting sites in the world, a genuinely different wildlife experience from Muscat's usual mountain and desert trips." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Ras Al Jinz turtle reserve worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's one of the most significant green turtle nesting sites in the world." } },
+                ] },
+            };
+
+        case "is-dubai-muscat-road-trip-worth-it":
+            return {
+                title: "Is the Dubai to Muscat Private Road Trip Worth It?",
+                seoTitle: "Dubai Muscat Road Trip 2026 | Honest Review",
+                description: "An honest look at the private Dubai to Muscat road trip with scenic stops, a cross-border alternative to flying between the UAE and Oman.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ac9baf491e639e66cd6072278e2ceaccb4a0624f676f1bfdee903e4d62037c3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Rather than flying between Dubai and Muscat, this private road trip crosses the UAE-Oman border by car with scenic stops along the way, a genuinely different, more scenic way to travel between the two countries for travelers who'd rather see the landscape than fly over it.", tourCard: { slug: "dubai-to-muscat-private-road-trip-with-scenic", title: "Dubai to Muscat Private Road Trip with Scenic Stops", description: "A private road trip from Dubai to Muscat with scenic stops.", price: "From $1261", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ac9baf491e639e66cd6072278e2ceaccb4a0624f676f1bfdee903e4d62037c3.jpg" } },
+                    { title: "Practical Tips", content: "Bring your passport — this crosses an international border between the UAE and Oman, so check entry requirements for your nationality beforehand." },
+                ],
+                faqs: [
+                    { q: "Is the Dubai to Muscat road trip worth it?", a: "Yes, for travelers who'd rather see the UAE-Oman border landscape by car with scenic stops than fly between the two countries." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Dubai to Muscat road trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more scenic cross-border alternative to flying between Dubai and Muscat." } },
+                ] },
+            };
+
+        case "is-barka-nakhal-rustaq-tour-worth-it-muscat":
+            return {
+                title: "Is the Barka, Nakhal and Rustaq Batinah Tour Worth It from Muscat?",
+                seoTitle: "Barka Nakhal Rustaq Tour 2026 | Honest Review",
+                description: "An honest look at the mini Batinah region tour covering Barka, Nakhal Fort, and Rustaq, a quieter coastal and fort circuit distinct from Muscat's main mountain day trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e44fa13dcce34ed11ccebc98dc78e4af6b69a786a2c6af591dcff4757648197f.png",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers the Batinah coastal region's forts and towns, including Barka and Rustaq, alongside Nakhal Fort, a genuinely different regional circuit from the more common Nizwa and Jebel Akhdar mountain day trips, with historic Omani forts as the throughline.", tourCard: { slug: "barka-nakhal-rustaq-mini-batinah-tour", title: "Barka, Nakhal and Rustaq Mini Batinah Tour", description: "A tour of the Batinah region's forts covering Barka, Nakhal, and Rustaq.", price: "From $239", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e44fa13dcce34ed11ccebc98dc78e4af6b69a786a2c6af591dcff4757648197f.png" } },
+                    { title: "Practical Tips", content: "This is a genuinely fort-focused day — good for travelers with real interest in Omani historical architecture beyond the more scenic mountain routes." },
+                ],
+                faqs: [
+                    { q: "Is the Barka, Nakhal and Rustaq tour worth it?", a: "Yes, for a genuinely different regional fort circuit along the Batinah coast, distinct from Muscat's more common mountain day trips." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Barka, Nakhal and Rustaq tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different fort-focused regional circuit along the Batinah coast." } },
+                ] },
+            };
+
         default:
             return null;
     }

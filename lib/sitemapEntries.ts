@@ -462,6 +462,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-nakhal-fort-hot-springs-tour-muscat', 'best-sunset-dhow-cruise-muscat',
     'best-wadi-bani-awf-bilad-sayt-tour-muscat', 'best-muttrah-souq-tour-muscat',
     'is-bandar-khayran-island-hopping-worth-it-muscat', 'is-amouage-grand-mosque-tour-worth-it-muscat',
+    'is-ras-al-jinz-turtle-reserve-worth-it-muscat', 'is-dubai-muscat-road-trip-worth-it',
+    'is-barka-nakhal-rustaq-tour-worth-it-muscat',
   ].map(slug => ({
     url: `${BASE_URL}/oman/muscat/${slug}`,
     lastModified: new Date(),
