@@ -1669,6 +1669,90 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lusail-winter-wonderland-worth-it-doha":
+      return {
+        title: "Is Lusail Winter Wonderland Worth It in Doha?",
+        description: "An honest look at Lusail Winter Wonderland, an indoor winter-themed attraction near the Qanat Quartier.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/87b2a730c9abe649ea663293ad4ad895dd1a88b2129207799ff1b3484f5552ee.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A genuine winter-themed attraction in Qatar's desert climate is a real novelty, and pairing entry with the Qanat Quartier's Venice-style canals nearby makes for a fun, air-conditioned half-day escape from the heat.",
+            tourCard: { slug: "doha-lusail-winter-wonderland-entry-qanat", title: "Doha Lusail Winter Wonderland Entry & Qanat Quartier", description: "An entry ticket to Lusail Winter Wonderland near the Qanat Quartier in Doha.", price: "From $202", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/87b2a730c9abe649ea663293ad4ad895dd1a88b2129207799ff1b3484f5552ee.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light jacket — the indoor winter theming is kept genuinely cold to maintain the effect.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lusail Winter Wonderland worth it in Doha?", a: "Yes, it's a genuine novelty in Qatar's desert climate, and pairing it with the nearby Qanat Quartier makes for a fun half-day escape." },
+        ],
+      };
+
+    case "is-snow-dunes-theme-park-worth-it-doha":
+      return {
+        title: "Is Snow Dunes Theme Park Worth It in Doha?",
+        description: "An honest look at Snow Dunes, an indoor theme park with snow and ice attractions in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c68f1a560c90c8dd10072024bb8a468fcec1954a3cbab7a1c6ea3c839daf6482.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Snow Dunes is a genuine indoor snow and ice theme park, a fun novelty break from Doha's desert heat and a solid pick for families with kids wanting something different from the usual desert safari and city tour circuit.",
+            tourCard: { slug: "doha-snow-dunes-theme-park-entry-ticket-with", title: "Doha Snow Dunes Theme Park Entry Ticket", description: "An entry ticket to Snow Dunes, an indoor snow and ice theme park in Doha.", price: "From $156", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c68f1a560c90c8dd10072024bb8a468fcec1954a3cbab7a1c6ea3c839daf6482.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring warm clothing or rent it on-site, since the indoor temperature is kept genuinely cold to maintain the snow.",
+          },
+        ],
+        faqs: [
+          { q: "Is Snow Dunes theme park worth it in Doha?", a: "Yes, it's a fun, genuinely cold novelty break from the desert heat, especially good for families." },
+        ],
+      };
+
+    case "is-education-city-tour-worth-it-doha":
+      return {
+        title: "Is the Guided Education City Tour Worth It in Doha?",
+        description: "An honest look at the guided Education City tour, covering Qatar's striking university campus architecture.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c26efb6ff4208857f314ed9e483ddbcc2f691aa9c6acfe12bdac21eeabd9dc9d.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Education City's striking architecture, featuring campus buildings designed by globally recognized architects, offers a genuinely different kind of sightseeing from Doha's desert safaris and museums, with a guide adding real context to the design choices.",
+            tourCard: { slug: "doha-guided-education-city-tour-featuring", title: "Doha Guided Education City Tour", description: "A guided tour of Education City's architecturally striking university campus in Doha.", price: "From $124", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c26efb6ff4208857f314ed9e483ddbcc2f691aa9c6acfe12bdac21eeabd9dc9d.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick specifically for travelers interested in architecture and design, since this is a genuinely different focus from Doha's usual sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Education City tour worth it in Doha?", a: "Yes, for travelers interested in architecture, the campus's globally recognized building designs offer a genuinely different kind of sightseeing." },
+        ],
+      };
+
+    case "is-desert-falls-water-park-worth-it-doha":
+      return {
+        title: "Is Desert Falls Water Park Worth It in Doha?",
+        description: "An honest look at Desert Falls, a water park attraction offering a family-friendly break from desert sightseeing in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff92f04b7bbda2687a60080e5c43e2e54ce7fa5348956efe3cb0a430482252d4.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper water park is a genuine change of pace from Doha's desert safaris and museum circuit, and it's a solid way to cool off and give kids a full active day while traveling with family.",
+            tourCard: { slug: "doha-desert-falls-water-park-tour-entry-ticket", title: "Doha Desert Falls Water Park Entry Ticket", description: "An entry ticket to Desert Falls Water Park in Doha.", price: "From $195", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff92f04b7bbda2687a60080e5c43e2e54ce7fa5348956efe3cb0a430482252d4.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring swimwear and sun protection — this is a genuine outdoor water park, not an indoor attraction.",
+          },
+        ],
+        faqs: [
+          { q: "Is Desert Falls Water Park worth it in Doha?", a: "Yes, it's a genuine change of pace from desert safaris and museums, and a solid family day to cool off." },
+        ],
+      };
+
     default:
       return null;
   }
