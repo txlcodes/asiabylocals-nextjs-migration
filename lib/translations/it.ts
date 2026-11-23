@@ -39880,6 +39880,186 @@ export const IT_TOURS: Record<string, TourT> = {
    "Acquisti"
   ]
  },
+ "tenjinbashi-market-walk-and-osaka-tenmangu-tour": {
+  "title": "Passeggiata al mercato di Tenjinbashi e tour al Santuario Osaka Tenmangu",
+  "metaTitle": "Tenjinbashi e Osaka Tenmangu",
+  "metaDescription": "Due ore a Osaka tra la via commerciale Tenjinbashi-suji e il Santuario Osaka Tenmangu, con la guida e il tour a piedi della via commerciale Tenjinbashisuji incluse.",
+  "shortDescription": "Due ore a Osaka tra la via commerciale Tenjinbashi-suji e il Santuario Osaka Tenmangu, con la guida e il tour a piedi della via commerciale Tenjinbashisuji incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di due ore a Osaka è costruita intorno alla via commerciale **Tenjinbashi-suji** e al **Santuario Osaka Tenmangu**. La guida, il tour a piedi della via commerciale Tenjinbashisuji, la visita al mercato Tenma, la visita guidata al Santuario Osaka Tenmangu, e gli assaggi di cibo durante la passeggiata sono inclusi nel prezzo; il punto d'incontro è il minimarket FamilyMart presso la via commerciale Tenjinbashi. Cibo o bevande aggiuntivi oltre l'importo incluso, le spese personali e lo shopping, e il trasporto da e per il punto d'incontro restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Tour a piedi della via commerciale Tenjinbashisuji",
+   "Visita al mercato Tenma",
+   "Visita guidata al Santuario Osaka Tenmangu",
+   "Assaggi di cibo durante la passeggiata (fino a un valore di 1.000 yen)"
+  ],
+  "notIncluded": [
+   "Cibo o bevande aggiuntivi oltre l'importo incluso",
+   "Spese personali e shopping",
+   "Trasporto da e per il punto d'incontro"
+  ]
+ },
+ "matcha-making-experience-with-japanese-sweets-in-osaka": {
+  "title": "Esperienza di preparazione del matcha con dolci giapponesi, a Osaka",
+  "metaTitle": "Preparazione del matcha, Osaka",
+  "metaDescription": "Un'ora a Osaka con un corso di cucina, gli ingredienti e l'istruttore incluse.",
+  "shortDescription": "Un'ora a Osaka con un corso di cucina, gli ingredienti e l'istruttore incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di un'ora a Osaka porta un corso di cucina, gli ingredienti, e l'istruttore; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pick-up e il drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Corso di cucina",
+   "Ingredienti",
+   "Istruttore"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "namba-pub-bar-crawl-with-a-local-guide-in-osaka": {
+  "title": "Giro dei pub e dei bar a Namba con una guida locale, a Osaka",
+  "metaTitle": "Namba, giro dei bar",
+  "metaDescription": "Tre ore e mezza da Osaka tra Namba e Shinsaibashi, con una guida locale e un tour notturno a piedi incluse.",
+  "shortDescription": "Tre ore e mezza da Osaka tra Namba e Shinsaibashi, con una guida locale e un tour notturno a piedi incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore e mezza da Osaka è costruita intorno a **Namba**, **Shinsaibashi** e American Village. Una guida locale, un tour notturno a piedi, foto di gruppo (scattate e condivise dopo il tour), assistenza fotografica (la guida può scattare foto del gruppo), e assistenza nell'ordinazione (aiuto nell'ordinare cibo e bevande) sono inclusi nel prezzo; il punto d'incontro è l'Apple Store a Shinsaibashi. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Tour notturno a piedi",
+   "Foto di gruppo, scattate e condivise dopo il tour",
+   "Assistenza fotografica, la guida può scattare foto del gruppo",
+   "Assistenza nell'ordinazione, aiuto nell'ordinare cibo e bevande"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "master-washoku-5-core-techniques-for-authentic-cooking-in-osaka": {
+  "title": "Padroneggia il washoku: le 5 tecniche fondamentali per una cucina autentica, a Osaka",
+  "metaTitle": "Washoku, 5 tecniche fondamentali",
+  "metaDescription": "Tre ore a Osaka con l'istruzione esperta di uno chef formato in un ristorante stellato Michelin e la preparazione pratica di cinque piatti giapponesi autentici incluse.",
+  "shortDescription": "Tre ore a Osaka con l'istruzione esperta di uno chef formato in un ristorante stellato Michelin e la preparazione pratica di cinque piatti giapponesi autentici incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore a Osaka porta l'istruzione esperta di uno chef formato in un ristorante stellato Michelin, la preparazione pratica di cinque piatti giapponesi autentici, una degustazione guidata opzionale di tre sake premium (due freddi, uno caldo), tutti gli ingredienti e le attrezzature di cucina necessarie, approfondimenti culturali e tecniche di cottura, un appartamento comodo e facilmente accessibile vicino al centro di Osaka, un ambiente in piccolo gruppo per un'attenzione personalizzata, acqua e tè in omaggio durante il corso, foto digitali della propria esperienza, e grembiuli; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto per raggiungere la sede resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Istruzione esperta di uno chef formato in un ristorante stellato Michelin",
+   "Preparazione pratica di cinque piatti giapponesi autentici",
+   "Degustazione guidata opzionale di tre sake premium (due freddi, uno caldo)",
+   "Tutti gli ingredienti e le attrezzature di cucina necessarie",
+   "Approfondimenti culturali e tecniche di cottura",
+   "Appartamento comodo e facilmente accessibile vicino al centro di Osaka",
+   "Ambiente in piccolo gruppo per un'attenzione personalizzata",
+   "Acqua e tè in omaggio durante il corso",
+   "Foto digitali della propria esperienza",
+   "Grembiuli"
+  ],
+  "notIncluded": [
+   "Trasporto per raggiungere la sede"
+  ]
+ },
+ "shinsekai-and-nishinari-cultural-night-walking-tour-in-osaka": {
+  "title": "Shinsekai e Nishinari, tour culturale notturno a piedi, a Osaka",
+  "metaTitle": "Shinsekai e Nishinari, notturno",
+  "metaDescription": "Due ore a Osaka con una guida dal vivo e un tour a piedi guidato di Shinsekai, Nishinari e Tobita Shinchi incluse.",
+  "shortDescription": "Due ore a Osaka con una guida dal vivo e un tour a piedi guidato di Shinsekai, Nishinari e Tobita Shinchi incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, formano gallerie che salgono il Monte Inari, alto 233 metri, dietro la sala principale. L'anello completo fino alla cima è lungo circa quattro chilometri e dura due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande luogo di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie inferiori sono già una coda lenta. Le statue delle volpi portano in bocca le chiavi del granaio di riso.\n\nQuesta esperienza di due ore a Osaka porta una guida dal vivo, un tour a piedi guidato di **Shinsekai**, **Nishinari** e Tobita Shinchi, e l'esplorazione di Shinsekai, Nishinari e di altri quartieri importanti; il punto d'incontro è il MEGA Don Quijote a Shinsekai. Il pick-up e il drop-off in hotel, e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida dal vivo",
+   "Tour a piedi guidato di Shinsekai, Nishinari e Tobita Shinchi",
+   "Esplorazione di Shinsekai, Nishinari e di altri quartieri importanti"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande"
+  ]
+ },
+ "ninja-experience-cafe-in-dotonbori": {
+  "title": "Il Ninja Experience Cafe, a Dotonbori",
+  "metaTitle": "Ninja Experience Cafe, Dotonbori",
+  "metaDescription": "Un'ora a Osaka con l'addestramento con armi ninja, shuriken, cerbottana e katana, e la guida di istruttori ninja incluse.",
+  "shortDescription": "Un'ora a Osaka con l'addestramento con armi ninja, shuriken, cerbottana e katana, e la guida di istruttori ninja incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di un'ora a Osaka porta l'addestramento con armi **ninja**: shuriken, cerbottana e katana, la guida di istruttori ninja, opportunità fotografiche e assistenza (è possibile scattare foto in qualsiasi punto del locale), il noleggio del costume da ninja, l'accesso alla struttura al chiuso e climatizzata, una bevanda non alcolica al bar, e un pasto (se l'opzione è selezionata); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Addestramento con armi ninja: shuriken, cerbottana e katana",
+   "Guida di istruttori ninja",
+   "Opportunità fotografiche e assistenza (è possibile scattare foto in qualsiasi punto del locale)",
+   "Noleggio del costume da ninja",
+   "Accesso alla struttura al chiuso e climatizzata",
+   "Una bevanda non alcolica al bar",
+   "Un pasto (se l'opzione è selezionata)"
+  ],
+  "notIncluded": []
+ },
+ "samurai-training-experience-kendo-in-osaka": {
+  "title": "Esperienza di addestramento da samurai: il kendo, a Osaka",
+  "metaTitle": "Kendo, addestramento samurai",
+  "metaDescription": "Due ore a Osaka con una lezione sul kendo e la vestizione dell'uniforme e dell'armatura protettiva del kendo incluse.",
+  "shortDescription": "Due ore a Osaka con una lezione sul kendo e la vestizione dell'uniforme e dell'armatura protettiva del kendo incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di due ore a Osaka porta una lezione sul **kendo**, la vestizione dell'uniforme e dell'armatura protettiva del kendo, l'apprendimento da un istruttore esperto, paziente e di lingua inglese, e foto da samurai; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Lezione sul kendo",
+   "Vestizione dell'uniforme e dell'armatura protettiva del kendo",
+   "Apprendimento da un istruttore esperto, paziente e di lingua inglese",
+   "Foto da samurai"
+  ],
+  "notIncluded": []
+ },
+ "deep-backstreets-walking-tour-with-dinner-option-in-osaka": {
+  "title": "Tour a piedi tra i vicoli profondi con opzione cena, a Osaka",
+  "metaTitle": "Vicoli profondi, opzione cena",
+  "metaDescription": "Tre ore e mezza a Osaka con la visita a una bancarella per un piccolo contorno e la cena dopo il tour incluse.",
+  "shortDescription": "Tre ore e mezza a Osaka con la visita a una bancarella per un piccolo contorno e la cena dopo il tour incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore e mezza a Osaka porta la visita a una bancarella per un piccolo contorno, la cena dopo il tour (se si seleziona l'opzione cena al momento della prenotazione), e una guida turistica professionista; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le bevande e il pick-up in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita a una bancarella per un piccolo contorno",
+   "Cena dopo il tour (se si seleziona l'opzione cena al momento della prenotazione)",
+   "Guida turistica professionista"
+  ],
+  "notIncluded": [
+   "Bevande",
+   "Pick-up in hotel"
+  ]
+ },
+ "himeji-castle-arima-onsen-and-mt-rokko-day-tour": {
+  "title": "Il Castello di Himeji, le terme di Arima e il Monte Rokko, gita di un giorno",
+  "metaTitle": "Himeji, Arima, Monte Rokko",
+  "metaDescription": "Dieci ore da Osaka tra il Castello di Himeji e il Koko-en, con veicolo climatizzato, guida parlante inglese/cinese e pranzo incluse.",
+  "shortDescription": "Dieci ore da Osaka tra il Castello di Himeji e il Koko-en, con veicolo climatizzato, guida parlante inglese/cinese e pranzo incluse.",
+  "fullDescription": "Le gite di un giorno da Osaka hanno ciascuna una propria ragione. Himeji ha il castello meglio conservato del Giappone, l'Airone Bianco, un originale del 1609 con sei piani di interni in legno, il cui intonaco è stato riportato al bianco in un restauro completato nel 2015; la salita alla torre principale è impegnativa e la fila al momento dei fiori di ciliegio è lunga. Kobe ha il manzo, venduto a grado ai banchi dove lo si guarda cucinare, e il porto. Koyasan, due ore a sud, è la città-monastero di montagna fondata da Kukai nell'816, dove 117 templi si trovano in una foresta di cedri e il cimitero di Okunoin è il più grande del Giappone; una notte in uno shukubo, l'alloggio nei templi, con la shojin ryori vegetariana è la ragione per andarci.\n\nQuesta esperienza di dieci ore da Osaka è costruita intorno al **Castello di Himeji**, al **Koko-en** e al Karoyashiki-ato Park (parco di sito storico). Il veicolo climatizzato, la guida parlante inglese/cinese, e il pranzo (se l'opzione è selezionata) sono inclusi nel prezzo; il punto d'incontro è a Naniwa-ku, Osaka. L'ingresso alle terme (onsen) e i biglietti d'ingresso per il Castello di Himeji e il Koko-en (a partire dal 1° marzo) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Veicolo climatizzato",
+   "Guida parlante inglese/cinese",
+   "Pranzo (se l'opzione è selezionata)"
+  ],
+  "notIncluded": [
+   "Ingresso alle terme (onsen)",
+   "Biglietti d'ingresso per il Castello di Himeji e il Koko-en (a partire dal 1° marzo)"
+  ]
+ },
+ "osaka-street-food-tour-18-foods-and-3-drinks-at-4-eateries-by-local-operator": {
+  "title": "Osaka, tour di street food: 18 cibi e 3 bevande in 4 locande, con operatore locale",
+  "metaTitle": "Osaka, street food, 18 cibi",
+  "metaDescription": "Tre ore da Osaka tra Shinsekai e la torre Tsutenkaku, con il tour a piedi, 17 cibi giapponesi e 2 bevande incluse.",
+  "shortDescription": "Tre ore da Osaka tra Shinsekai e la torre Tsutenkaku, con il tour a piedi, 17 cibi giapponesi e 2 bevande incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore da Osaka è costruita intorno a **Shinsekai** e alla torre **Tsutenkaku**. Il tour a piedi, 17 cibi giapponesi, 2 bevande (alcolica e non alcolica), una guida locale, e la possibilità di adattarsi in qualche misura alle richieste vegetariane, alle allergie e alle preferenze alimentari (con eventuale riduzione delle degustazioni) sono inclusi nel prezzo; il punto d'incontro è a Naniwa-ku, Osaka. Cibo e bevande aggiuntivi, e la possibilità limitata di adattarsi a diete senza glutine, preferenze o allergie (con riduzione delle degustazioni) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi",
+   "17 cibi giapponesi",
+   "2 bevande (alcolica e non alcolica)",
+   "Guida locale",
+   "Possibilità di adattarsi in qualche misura alle richieste vegetariane, alle allergie e alle preferenze alimentari (con eventuale riduzione delle degustazioni)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi",
+   "Possibilità limitata di adattarsi a diete senza glutine, preferenze o allergie (con riduzione delle degustazioni)"
+  ]
+ },
  "hiroshima-night-evening-tour": {
   "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
   "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
