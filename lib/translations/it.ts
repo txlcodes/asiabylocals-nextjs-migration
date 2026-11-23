@@ -35765,6 +35765,176 @@ export const IT_TOURS: Record<string, TourT> = {
    "Shopping e souvenir"
   ]
  },
+ "5-type-of-tea-tasting-and-mindful-tea-ceremony-in-nara": {
+  "title": "Degustazione di 5 tipi di tè e cerimonia del tè consapevole, a Nara",
+  "metaTitle": "Degustazione di 5 tè, Nara",
+  "metaDescription": "Un'ora e mezza a Nara con 5 tipi di tè giapponese, il matcha e un dolce giapponese inclusi.",
+  "shortDescription": "Un'ora e mezza a Nara con 5 tipi di tè giapponese, il matcha e un dolce giapponese inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di un'ora e mezza a Nara porta 5 tipi di **tè** giapponese, il matcha, e un dolce giapponese; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "5 tipi di tè giapponese",
+   "Matcha",
+   "Dolce giapponese"
+  ],
+  "notIncluded": []
+ },
+ "nara-in-spanish-half-day-small-group-tour-private-option-available-by-local-operator": {
+  "title": "Nara in spagnolo: tour di mezza giornata in piccolo gruppo, opzione privata disponibile, con operatore locale",
+  "metaTitle": "Nara in spagnolo, mezza giornata",
+  "metaDescription": "Quattro ore a Nara con una guida turistica esperta locale di lingua spagnola inclusa.",
+  "shortDescription": "Quattro ore a Nara con una guida turistica esperta locale di lingua spagnola inclusa.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di quattro ore a Nara porta una guida turistica esperta locale di lingua spagnola; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Pasti e bevande, i biglietti d'ingresso a templi e santuari, e le tariffe di trasporto opzionali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica esperta locale di lingua spagnola"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso a templi e santuari",
+   "Tariffe di trasporto opzionali"
+  ]
+ },
+ "yoshikien-and-isuien-gardens-tour-with-tea-tasting-in-nara": {
+  "title": "I giardini Yoshikien e Isuien, tour con degustazione di tè, a Nara",
+  "metaTitle": "Giardini Yoshikien e Isuien",
+  "metaDescription": "Tre ore da Nara al Giardino Yoshikien, con un tour guidato dei giardini Yoshikien e Isuien e la degustazione di tè matcha incluse.",
+  "shortDescription": "Tre ore da Nara al Giardino Yoshikien, con un tour guidato dei giardini Yoshikien e Isuien e la degustazione di tè matcha incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di tre ore da Nara è costruita intorno al **Giardino Yoshikien**. Un tour guidato dei giardini **Yoshikien** e **Isuien**, e la degustazione di tè matcha sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Tour guidato dei giardini Yoshikien e Isuien",
+   "Degustazione di tè matcha"
+  ],
+  "notIncluded": []
+ },
+ "private-city-tour-with-a-local-guide-in-nara": {
+  "title": "Tour privato della città con una guida locale, a Nara",
+  "metaTitle": "Nara, tour privato della città",
+  "metaDescription": "Sei ore a Nara con un tour privato ed esclusivo, il pick-up in hotel e il tour a piedi con i trasporti pubblici inclusi.",
+  "shortDescription": "Sei ore a Nara con un tour privato ed esclusivo, il pick-up in hotel e il tour a piedi con i trasporti pubblici inclusi.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di sei ore a Nara porta un tour privato ed esclusivo, il pick-up in hotel, il tour a piedi con i trasporti pubblici, e l'assistenza del nostro team per prenotare i biglietti per le visite desiderate; il punto d'incontro è a Nara. L'ingresso ai monumenti e ai musei, bevande o cibo, le mance (opzionali), i biglietti per eventuali attrazioni, e il trasporto locale intorno alla città (è un tour a piedi, il trasporto in auto non è incluso) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato ed esclusivo",
+   "Pick-up in hotel",
+   "Tour a piedi con i trasporti pubblici",
+   "Assistenza del nostro team per prenotare i biglietti per le visite desiderate"
+  ],
+  "notIncluded": [
+   "Ingresso ai monumenti e ai musei",
+   "Bevande o cibo",
+   "Mance (opzionali)",
+   "Biglietti per eventuali attrazioni",
+   "Trasporto locale intorno alla città (è un tour a piedi, il trasporto in auto non è incluso)"
+  ]
+ },
+ "wagashi-making-workshop-with-matcha-tasting-in-nara": {
+  "title": "Laboratorio di preparazione del wagashi con degustazione di matcha, a Nara",
+  "metaTitle": "Wagashi e degustazione di matcha",
+  "metaDescription": "Un'ora e mezza a Nara con un'esperienza pratica di preparazione del wagashi e l'assistenza di un traduttore locale incluse.",
+  "shortDescription": "Un'ora e mezza a Nara con un'esperienza pratica di preparazione del wagashi e l'assistenza di un traduttore locale incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di un'ora e mezza a Nara porta un'esperienza pratica di preparazione del **wagashi** (tre pezzi di wagashi creati), l'assistenza di un traduttore locale, il servizio di tè di stagione, e la degustazione di tè matcha; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Esperienza pratica di preparazione del wagashi (tre pezzi di wagashi creati)",
+   "Assistenza di un traduttore locale",
+   "Servizio di tè di stagione",
+   "Degustazione di tè matcha"
+  ],
+  "notIncluded": []
+ },
+ "nara-private-custom-tour-with-local-guide-by-local-operator": {
+  "title": "Nara, tour privato personalizzato con guida locale, con operatore locale",
+  "metaTitle": "Nara, tour privato personalizzato",
+  "metaDescription": "Quattro ore a Nara con tour privato, tour a piedi e guida locale di lingua inglese incluse.",
+  "shortDescription": "Quattro ore a Nara con tour privato, tour a piedi e guida locale di lingua inglese incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di quattro ore a Nara porta il tour privato, il tour a piedi, la guida locale di lingua inglese, e la personalizzazione dell'itinerario; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pranzo, eventuali biglietti d'ingresso, e il trasporto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato",
+   "Tour a piedi",
+   "Guida locale di lingua inglese",
+   "Personalizzazione dell'itinerario"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Eventuali biglietti d'ingresso",
+   "Trasporto"
+  ]
+ },
+ "cultural-heritage-tour-by-rickshaw-in-nara": {
+  "title": "Tour del patrimonio culturale in risciò, a Nara",
+  "metaTitle": "Risciò, patrimonio culturale, Nara",
+  "metaDescription": "Settanta minuti a Nara con un tour privato in risciò e una guida locale esperta incluse.",
+  "shortDescription": "Settanta minuti a Nara con un tour privato in risciò e una guida locale esperta incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di settanta minuti a Nara porta un tour privato in **risciò**, una guida locale esperta, e le soste fotografiche nei punti più fotogenici del tour; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le mance (opzionali), gli snack e le bevande, il pick-up in hotel, e i biglietti d'ingresso ai templi restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato in risciò",
+   "Guida locale esperta",
+   "Soste fotografiche nei punti più fotogenici del tour"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)",
+   "Snack e bevande",
+   "Pick-up in hotel",
+   "Biglietti d'ingresso ai templi"
+  ]
+ },
+ "nara-takayama-tea-whisk-craft-and-tea-culture-experience-by-local-operator": {
+  "title": "Nara Takayama: artigianato del frullino da tè e cultura del tè, con operatore locale",
+  "metaTitle": "Frullino da tè, cultura del tè, Nara",
+  "metaDescription": "Due ore e mezza da Nara a Tango Tanimura, con una guida, la dimostrazione di creazione del chasen e la scelta tra intaglio del chashaku incluse.",
+  "shortDescription": "Due ore e mezza da Nara a Tango Tanimura, con una guida, la dimostrazione di creazione del chasen e la scelta tra intaglio del chashaku incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di due ore e mezza da Nara è costruita intorno a **Tango Tanimura**. Una guida, la dimostrazione di creazione del **chasen** (frullino da tè, inclusa in tutte le opzioni), la scelta tra intaglio del chashaku, laboratorio del chasen o cerimonia del tè, e l'opzione premium che include tutto (cerimonia del tè, pranzo, laboratorio del chasen, chashaku e preparazione del matcha con il frullino) sono inclusi nel prezzo; il punto d'incontro è lo studio Wahokudo a Tanimura Tango (prenotazione obbligatoria). Il trasporto da e per Tanimura Tango, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Dimostrazione di creazione del chasen (inclusa in tutte le opzioni)",
+   "Scelta tra intaglio del chashaku, laboratorio del chasen o cerimonia del tè",
+   "Opzione premium che include tutto: cerimonia del tè, pranzo, laboratorio del chasen, chashaku e preparazione del matcha con il frullino"
+  ],
+  "notIncluded": [
+   "Trasporto da e per Tanimura Tango",
+   "Spese personali"
+  ]
+ },
+ "great-buddha-kasuga-shrine-and-deer-park-tour-in-nara": {
+  "title": "Il Grande Buddha, il Santuario Kasuga e il Parco dei Cervi, tour a Nara",
+  "metaTitle": "Grande Buddha e Santuario Kasuga",
+  "metaDescription": "Tre ore a Nara tra il parco e il Kasuga-taisha, con una guida professionista di lingua inglese e un tour guidato del parco di Nara, del Kasuga Taisha e del Todai-ji incluse.",
+  "shortDescription": "Tre ore a Nara tra il parco e il Kasuga-taisha, con una guida professionista di lingua inglese e un tour guidato del parco di Nara, del Kasuga Taisha e del Todai-ji incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di tre ore a Nara è costruita intorno al **Parco di Nara**, al **Kasuga-taisha** e al **Tōdai-ji**. Una guida professionista di lingua inglese, un tour guidato del Parco di Nara, del Kasuga Taisha e del Todai-ji, il biglietto d'ingresso al Tempio Todai-ji, l'ingresso speciale al santuario interno del Kasuga Taisha, e i biscotti per i cervi (shika senbei) per dare loro da mangiare sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per il punto d'incontro, cibo o bevande aggiuntivi, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida professionista di lingua inglese",
+   "Tour guidato del Parco di Nara, del Kasuga Taisha e del Todai-ji",
+   "Biglietto d'ingresso al Tempio Todai-ji",
+   "Ingresso speciale al santuario interno del Kasuga Taisha",
+   "Biscotti per i cervi (shika senbei) per dare loro da mangiare"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto d'incontro",
+   "Cibo o bevande aggiuntivi",
+   "Spese personali"
+  ]
+ },
+ "guided-tour-with-furoshiki-experience-and-lunch-in-nara": {
+  "title": "Tour guidato con esperienza di furoshiki e pranzo, a Nara",
+  "metaTitle": "Furoshiki e pranzo, Nara",
+  "metaDescription": "Cinque ore e mezza a Nara con il biglietto d'ingresso al Tempio Todaiji e il biglietto d'ingresso al Santuario Kasuga Taisha inclusi.",
+  "shortDescription": "Cinque ore e mezza a Nara con il biglietto d'ingresso al Tempio Todaiji e il biglietto d'ingresso al Santuario Kasuga Taisha inclusi.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di cinque ore e mezza a Nara porta il biglietto d'ingresso al **Tempio Todaiji**, il biglietto d'ingresso al **Santuario Kasuga Taisha** (non incluso nell'opzione di 3 ore), un'autentica esperienza della cultura giapponese del **furoshiki** utilizzabile nella vita quotidiana (non incluso nell'opzione di 3 ore), e il pranzo in un ristorante locale (non incluso nell'opzione di 3 ore); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Tempio Todaiji",
+   "Biglietto d'ingresso al Santuario Kasuga Taisha (non incluso nell'opzione di 3 ore)",
+   "Autentica esperienza della cultura giapponese del furoshiki utilizzabile nella vita quotidiana (non incluso nell'opzione di 3 ore)",
+   "Pranzo in un ristorante locale (non incluso nell'opzione di 3 ore)"
+  ],
+  "notIncluded": []
+ },
  "hakone-yosegi-zaiku-marquetry-workshop": {
   "title": "Laboratorio di intarsio yosegi zaiku a Hakone: create la vostra opera in legno",
   "metaTitle": "Laboratorio di intarsio yosegi zaiku a Hakone",
