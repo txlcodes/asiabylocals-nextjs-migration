@@ -41630,6 +41630,186 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "evangelion-anime-tour-with-professional-guide-in-hakone": {
+  "title": "Tour anime su Evangelion con guida professionista, a Hakone",
+  "metaTitle": "Tour anime Evangelion, Hakone",
+  "metaDescription": "Mezza giornata a Hakone, che comprende Owakudani e una crociera panoramica. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Mezza giornata a Hakone, che comprende Owakudani e una crociera panoramica. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di 6,5 ore da Hakone, costruita intorno al treno, alla funicolare e a Owakudani. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la guida, la visita ad ambientazioni famose di Evangelion e lo shopping in minimarket a tema Evangelion. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n箱根湯本駅. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida professionista",
+   "Visita ad ambientazioni famose di Evangelion",
+   "Shopping in minimarket a tema Evangelion"
+  ],
+  "notIncluded": []
+ },
+ "introductory-shinrin-yoku-forest-bathing-in-hakone": {
+  "title": "Shinrin-yoku introduttivo: bagno nella foresta, a Hakone",
+  "metaTitle": "Shinrin-yoku, bagno nella foresta",
+  "metaDescription": "Due ore a Hakone, con un facilitatore professionista di shinrin-yoku e stuoie per la sessione incluse. Gestito da Coconuts Hike Japan, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Due ore a Hakone, con un facilitatore professionista di shinrin-yoku e stuoie per la sessione incluse. Gestito da Coconuts Hike Japan, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di due ore a Hakone. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il facilitatore di shinrin-yoku, le stuoie per la sessione e le foto della sessione. Non comprende il trasporto fino al punto d'incontro e dal punto finale, il ritiro e il rientro in hotel, pasti, bevande e snack extra, e spese personali e souvenir, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Facilitatore professionista di shinrin-yoku",
+   "Stuoie per la sessione",
+   "Foto della sessione"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto d'incontro e dal punto finale",
+   "Ritiro e rientro in hotel",
+   "Pasti, bevande e snack extra",
+   "Spese personali e souvenir",
+   "Assicurazione di viaggio",
+   "Qualsiasi voce non specificamente elencata in \"cosa è incluso\""
+  ]
+ },
+ "refreshing-valley-walk-half-day-tour-in-hakone": {
+  "title": "Rinfrescante passeggiata nella valle: tour di mezza giornata a Hakone",
+  "metaTitle": "Passeggiata nella valle, Hakone",
+  "metaDescription": "Mezza giornata a Hakone, che comprende un caffè locale. Gestito da Coconuts Hike Japan, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Mezza giornata a Hakone, che comprende un caffè locale. Gestito da Coconuts Hike Japan, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di 3,5 ore da Hakone, costruita intorno a bus/pullman e a un caffè locale. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il facilitatore di shinrin-yoku, il trasporto in bus tra i siti del tour e un set di dolci giapponesi. Non comprende il trasporto fino al punto d'incontro e dal punto finale, il ritiro e il rientro in hotel, biglietti d'ingresso o costi di attività non specificati nell'itinerario, e bevande e snack extra oltre al set di dolci incluso, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n箱根湯本駅. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Facilitatore di shinrin-yoku",
+   "Trasporto in bus tra i siti del tour",
+   "Set di dolci giapponesi"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto d'incontro e dal punto finale",
+   "Ritiro e rientro in hotel",
+   "Biglietti d'ingresso o costi di attività non specificati nell'itinerario",
+   "Bevande e snack extra oltre al set di dolci incluso",
+   "Spese personali e souvenir",
+   "Assicurazione di viaggio",
+   "Qualsiasi voce non specificamente elencata in \"cosa è incluso\""
+  ]
+ },
+ "odawara-ramen-crawl-experience-to-2-iconic-restaurants-in-hakone": {
+  "title": "Odawara: giro gastronomico del ramen in 2 ristoranti iconici, a Hakone",
+  "metaTitle": "Giro del ramen, Odawara",
+  "metaDescription": "Tour a Hakone, che comprende Odawara. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Hakone, che comprende Odawara. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di un'ora e mezza da Hakone, costruita intorno a Odawara. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende una guida in lingua inglese, la visita a due ristoranti di ramen selezionati a Odawara, un budget cibo fino a 1.500 yen a persona in ciascuno, e consigli personalizzati sul ramen in base alle tue preferenze. Non comprende il trasporto da e per il punto d'incontro, quindi va previsto a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n小田原駅観光案内所. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida locale in lingua inglese",
+   "Visita a due ristoranti di ramen selezionati a Odawara",
+   "Budget cibo fino a 1.500 yen a persona in ciascun ristorante (3.000 yen totali a persona)",
+   "Consigli personalizzati sul ramen in base alle tue preferenze"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto d'incontro"
+  ]
+ },
+ "lake-ashi-autumn-colors-and-hakone-shrine-walk": {
+  "title": "Colori d'autunno sul Lago Ashi e passeggiata al Santuario di Hakone",
+  "metaTitle": "Colori d'autunno, Lago Ashi",
+  "metaDescription": "Due ore e mezza a Hakone, con un tour a piedi guidato e la visita al Santuario di Hakone incluse. Gestito da ACE Travel Japan, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Due ore e mezza a Hakone, con un tour a piedi guidato e la visita al Santuario di Hakone incluse. Gestito da ACE Travel Japan, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di due ore e mezza a Hakone. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un tour a piedi guidato, la visita al Santuario di Hakone, la visita al Vecchio Viale dei Cedri del Tokaido e la visita al Parco Onshi-Hakone. Non comprende cibo e bevande, il trasporto fino al punto d'incontro e gli acquisti personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi guidato",
+   "Visita al Santuario di Hakone",
+   "Visita al Vecchio Viale dei Cedri del Tokaido",
+   "Visita al Parco Onshi-Hakone"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Trasporto fino al punto d'incontro",
+   "Acquisti personali"
+  ]
+ },
+ "hakone-adventure-explore-nature-s-beauty-and-tranquility-by-local-operator": {
+  "title": "Avventura a Hakone: esplora la bellezza e la tranquillità della natura, con operatore locale",
+  "metaTitle": "Avventura a Hakone, natura",
+  "metaDescription": "Tour a Hakone, che comprende Owakudani, una crociera panoramica e il Lago Ashi. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Hakone, che comprende Owakudani, una crociera panoramica e il Lago Ashi. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di 4,5 ore a Hakone, costruita intorno al treno, alla funicolare e a Owakudani. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende una guida esperta in lingua inglese per tutto il viaggio, un percorso curato che tocca i luoghi più importanti di Hakone, opzioni di partenza flessibili da diversi punti d'incontro, e una navigazione senza intoppi nella rete di trasporti di Hakone. Non comprende le tariffe di trasporto, cibo e bevande e le tariffe di funivia e battello, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida esperta in lingua inglese per tutto il viaggio",
+   "Percorso curato che tocca i luoghi più importanti di Hakone",
+   "Opzioni di partenza flessibili da diversi punti d'incontro",
+   "Navigazione senza intoppi nella rete di trasporti di Hakone"
+  ],
+  "notIncluded": [
+   "Tariffe di trasporto (pagate separatamente durante il tour)",
+   "Cibo e bevande",
+   "Tariffe di funivia e battello"
+  ]
+ },
+ "hakone-customized-private-tour-in-1-day-with-licensed-guide-by-local-operator": {
+  "title": "Tour privato personalizzato di 1 giorno a Hakone con guida autorizzata, con operatore locale",
+  "metaTitle": "Tour privato personalizzato, Hakone",
+  "metaDescription": "Tour a Hakone, con una guida locale autorizzata in lingua inglese e un incontro a piedi nell'area designata inclusi. Gestito da Japan Guide Agency, JGA Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Hakone, con una guida locale autorizzata in lingua inglese e un incontro a piedi nell'area designata inclusi. Gestito da Japan Guide Agency, JGA Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di 6 ore da Hakone, costruita intorno al treno, alla funicolare e a bus/pullman. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende una guida locale autorizzata in lingua inglese, l'incontro a piedi con la guida nell'area designata di Hakone, e un tour personalizzabile a scelta tra 3 e 4 siti dall'elenco \"cosa aspettarsi\". Non comprende le tariffe di trasporto, i biglietti d'ingresso, il pranzo, il veicolo privato, le tariffe d'ingresso con guida sono coperte solo per i siti elencati sotto, e non si possono combinare più gruppi del tour, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nHakone. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida locale autorizzata in lingua inglese",
+   "Incontro a piedi con la guida nell'area designata di Hakone",
+   "Tour personalizzabile a scelta tra 3 e 4 siti dall'elenco \"cosa aspettarsi\""
+  ],
+  "notIncluded": [
+   "Tariffe di trasporto, biglietti d'ingresso, pranzo e altre spese personali",
+   "Veicolo privato",
+   "Le tariffe d'ingresso con guida sono coperte solo per i siti elencati in \"cosa aspettarsi\"",
+   "Non si possono combinare più gruppi del tour"
+  ]
+ },
+ "mt-fuji-6-must-see-spots-oshino-and-lake-kawaguchi-from-tokyo-mount-fuji": {
+  "title": "Monte Fuji: 6 luoghi da non perdere, Oshino e Lago Kawaguchi da Tokyo (Monte Fuji)",
+  "metaTitle": "Monte Fuji, Oshino, Lago Kawaguchi",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende l'Arakurayama Sengen Park, l'Hikawa Clock Shop e Oshino Hakkai. Gestito da Wandering Japan Adventure, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende l'Arakurayama Sengen Park, l'Hikawa Clock Shop e Oshino Hakkai. Gestito da Wandering Japan Adventure, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno a bus/pullman, all'Arakurayama Sengen Park e all'Hikawa Clock Shop. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende i biglietti d'ingresso alle attrazioni, una guida turistica in lingua inglese, cinese e giapponese, un pullman turistico con aria condizionata, il ritiro e il rientro al punto d'incontro, e un conducente. Non comprende pasti e bevande e le spese personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Biglietti d'ingresso alle attrazioni",
+   "Guida turistica in lingua inglese, cinese e giapponese",
+   "Pullman turistico con aria condizionata",
+   "Ritiro e rientro al punto d'incontro",
+   "Conducente professionista"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Spese personali"
+  ]
+ },
+ "mount-fuji-full-day-private-tour-from-tokyo-customizable-by-local-operator": {
+  "title": "Tour privato di un giorno intero al Monte Fuji da Tokyo (personalizzabile), con operatore locale",
+  "metaTitle": "Tour privato, Monte Fuji",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende la 5ª Stazione del Monte Fuji, Oshino Hakkai e il Santuario Kitaguchi-hongu Fuji Sengen. Gestito da Travels on peak, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende la 5ª Stazione del Monte Fuji, Oshino Hakkai e il Santuario Kitaguchi-hongu Fuji Sengen. Gestito da Travels on peak, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno alla 5ª Stazione del Monte Fuji, a Oshino Hakkai e al Santuario Kitaguchi-hongu Fuji Sengen. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl ritiro è offerto da Tokyo, Fujiyoshida, Fujikawaguchiko e Hakone; il punto e l'orario esatti vengono concordati con Travels on peak una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nIl prezzo comprende il ritiro e il rientro in hotel, il trasporto in un veicolo con aria condizionata, un conducente e acqua in bottiglia. Non comprende il pranzo e le spese personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nRitiro in hotel al Monte Fuji. Travels on peak confermerà l'orario di ritiro e il punto esatto una volta ricevuta la prenotazione. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Ritiro e rientro in hotel",
+   "Trasporto in un veicolo con aria condizionata",
+   "Conducente",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Spese personali"
+  ]
+ },
+ "hakone-scenic-day-tour-owakudani-lake-ashi-and-fuji-views-by-local-operator": {
+  "title": "Tour panoramico di un giorno a Hakone: Owakudani, Lago Ashi e vedute del Fuji, con operatore locale",
+  "metaTitle": "Tour panoramico, Owakudani",
+  "metaDescription": "Tour di un giorno intero a Hakone, con una guida locale inclusa. Gestito da MARKEVISION株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero a Hakone, con una guida locale inclusa. Gestito da MARKEVISION株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di 8 ore a Hakone. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la guida. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida locale"
+  ],
+  "notIncluded": []
+ },
  "imperial-palace-bike-tour": {
   "title": "Tokyo centrale in e-bike: tre ore tra i luoghi iconici",
   "metaTitle": "Tokyo centrale in e-bike in tre ore",
