@@ -46934,6 +46934,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporto (non obbligatorio, 300 yen a persona)"
   ]
  },
+ "kyoto-temples-and-nara-deer-park-small-group-tour": {
+  "title": "Kyoto, templi, e il parco dei cervi di Nara, tour in piccolo gruppo",
+  "metaTitle": "Kyoto, templi e il parco dei cervi di Nara",
+  "metaDescription": "Undici ore a Nara tra il Kinkaku-ji e il Bosco di Bambù di Arashiyama, con guida esperta selezionata con cura e tutto il trasporto incluso.",
+  "shortDescription": "Undici ore a Nara tra il Kinkaku-ji e il Bosco di Bambù di Arashiyama, con guida esperta selezionata con cura e tutto il trasporto incluso.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza in piccolo gruppo di undici ore a Nara è costruita intorno al bus/pullman, al **Kinkaku-ji** e al **Bosco di Bambù di Arashiyama**. Il tragitto in treno Nara-Osaka, una guida esperta selezionata con cura e tutto il trasporto sono inclusi nel prezzo. Pasti e bevande, i biglietti d'ingresso a Kyoto e Nara (circa 1.300 yen a persona), l'assicurazione di viaggio personale, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta selezionata con cura",
+   "Tutto il trasporto",
+   "Treno: Nara-Osaka"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso a Kyoto e Nara (circa 1.300 yen a persona)",
+   "Assicurazione di viaggio personale",
+   "Mance"
+  ]
+ },
+ "highlights-of-kyoto-half-day-small-group-tour": {
+  "title": "I luoghi iconici di Kyoto, tour in piccolo gruppo di mezza giornata",
+  "metaTitle": "I luoghi iconici di Kyoto, tour di mezza giornata",
+  "metaDescription": "Sei ore da Kyoto tra il Bosco di Bambù di Arashiyama e il Kinkaku-ji, con guida esperta selezionata con cura e tutto il trasporto inclusi.",
+  "shortDescription": "Sei ore da Kyoto tra il Bosco di Bambù di Arashiyama e il Kinkaku-ji, con guida esperta selezionata con cura e tutto il trasporto inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza in piccolo gruppo di sei ore da Kyoto è costruita intorno al bus/pullman, al **Bosco di Bambù di Arashiyama** e al **Kinkaku-ji**. La guida esperta selezionata con cura e tutto il trasporto sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Pasti e bevande, il biglietto d'ingresso al Kinkaku-ji (circa 500 yen a persona), l'assicurazione di viaggio personale, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta selezionata con cura",
+   "Tutto il trasporto"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietto d'ingresso al Kinkaku-ji (circa 500 yen a persona)",
+   "Assicurazione di viaggio personale",
+   "Mance"
+  ]
+ },
+ "volleyball-in-osaka-kobe-and-kyoto-with-locals-by-local-operator": {
+  "title": "Pallavolo a Osaka, Kobe e Kyoto con la gente del posto, con operatore locale",
+  "metaTitle": "Pallavolo a Osaka, Kobe e Kyoto con locali",
+  "metaDescription": "Tre ore a Kyoto con palloni da pallavolo e spogliatoio e docce inclusi.",
+  "shortDescription": "Tre ore a Kyoto con palloni da pallavolo e spogliatoio e docce inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di tre ore a Kyoto porta i palloni da pallavolo e lo spogliatoio con docce; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Si prega di portare scarpe sportive da interno (scarpe non usate all'aperto); purtroppo non è disponibile il noleggio di scarpe.",
+  "highlights": [],
+  "included": [
+   "Palloni da pallavolo",
+   "Spogliatoio e docce"
+  ],
+  "notIncluded": [
+   "Si prega di portare scarpe sportive da interno (scarpe non usate all'aperto)",
+   "Purtroppo non è disponibile il noleggio di scarpe"
+  ]
+ },
+ "kyoto-aquarium-family-pass-and-digital-explorer-guide-by-local-operator": {
+  "title": "Acquario di Kyoto: pass famiglia e guida digitale per esploratori, con operatore locale",
+  "metaTitle": "Acquario di Kyoto, pass famiglia",
+  "metaDescription": "Ingresso generale all'Acquario di Kyoto, con servizio di ingresso diretto con codice QR e guida digitale esclusiva per famiglie inclusi.",
+  "shortDescription": "Ingresso generale all'Acquario di Kyoto, con servizio di ingresso diretto con codice QR e guida digitale esclusiva per famiglie inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesto servizio a Kyoto porta l'ingresso generale all'**Acquario di Kyoto**, il servizio di ingresso diretto con codice QR, e la guida digitale esclusiva per famiglie; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. La guida dal vivo, cibo, bevande e acquisti personali, e il trasporto fino alla sede restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingresso generale all'Acquario di Kyoto",
+   "Servizio di ingresso diretto con codice QR",
+   "Guida digitale esclusiva per famiglie"
+  ],
+  "notIncluded": [
+   "Guida dal vivo",
+   "Cibo, bevande e acquisti personali",
+   "Trasporto fino alla sede"
+  ]
+ },
+ "lunch-or-dinner-with-maiko-in-kyoto": {
+  "title": "Pranzo o cena con una maiko a Kyoto",
+  "metaTitle": "Pranzo o cena con una maiko",
+  "metaDescription": "Un'ora e mezza a Kyoto con la cena inclusa.",
+  "shortDescription": "Un'ora e mezza a Kyoto con la cena inclusa.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di un'ora e mezza a Kyoto porta la cena; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le seguenti opzioni non sono incluse nel prezzo: se lo si desidera, è possibile selezionarle al momento della prenotazione. Opzione cerimonia del tè: 1.600 yen. Posto SS (prima fila): 3.300 yen. Posto S2 (seconda fila): 2.200 yen. Posto S3 (terza fila): 1.100 yen.",
+  "highlights": [],
+  "included": [
+   "Cena"
+  ],
+  "notIncluded": [
+   "Le seguenti opzioni non sono incluse nel prezzo",
+   "Se lo si desidera, selezionarle al momento della prenotazione",
+   "Opzione cerimonia del tè: 1.600 yen",
+   "Posto SS (prima fila): 3.300 yen",
+   "Posto S2 (seconda fila): 2.200 yen",
+   "Posto S3 (terza fila): 1.100 yen"
+  ]
+ },
+ "kyoto-private-tour-iconic-sights-and-hidden-gems-with-a-local-by-local-operator": {
+  "title": "Kyoto, tour privato: luoghi iconici e gemme nascoste con un locale, con operatore locale",
+  "metaTitle": "Kyoto, tour privato con un locale",
+  "metaDescription": "Due ore a Kyoto con la guida e la tariffa della guida incluse.",
+  "shortDescription": "Due ore a Kyoto con la guida e la tariffa della guida incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza privata di due ore a Kyoto porta la guida e la tariffa della guida (trasporto della guida, pranzo e biglietti d'ingresso); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Guida e tariffa della guida (trasporto della guida, pranzo e biglietti d'ingresso)"
+  ],
+  "notIncluded": []
+ },
+ "tea-ceremony-with-maiko-premium-in-kyoto": {
+  "title": "Cerimonia del tè con una maiko, versione premium, a Kyoto",
+  "metaTitle": "Cerimonia del tè con una maiko, premium",
+  "metaDescription": "Un'ora e mezza a Kyoto con la cerimonia del tè con maiko premium incluse.",
+  "shortDescription": "Un'ora e mezza a Kyoto con la cerimonia del tè con maiko premium incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di un'ora e mezza a Kyoto porta la cerimonia del tè con maiko, versione premium; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il posto SS (prima fila, 3.300 yen), il posto S2 (seconda fila, 2.200 yen), il posto S3 (terza fila, 1.100 yen), e la comunicazione se si desidera aggiungere questa opzione restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Cerimonia del tè con maiko, versione premium"
+  ],
+  "notIncluded": [
+   "Posto SS (prima fila): 3.300 yen",
+   "Posto S2 (seconda fila): 2.200 yen",
+   "Posto S3 (terza fila): 1.100 yen",
+   "Comunicare se si desidera aggiungere questa opzione"
+  ]
+ },
+ "kyoto-tower-observation-deck-ticket": {
+  "title": "Biglietto per la terrazza panoramica della Torre di Kyoto",
+  "metaTitle": "Torre di Kyoto, terrazza panoramica",
+  "metaDescription": "Biglietto elettronico di ingresso generale alla terrazza panoramica della Torre di Kyoto, con un pacchetto digitale di letture culturali su Kyoto incluso.",
+  "shortDescription": "Biglietto elettronico di ingresso generale alla terrazza panoramica della Torre di Kyoto, con un pacchetto digitale di letture culturali su Kyoto incluso.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesto servizio a Kyoto porta il biglietto elettronico di ingresso generale alla **Torre di Kyoto**, il pacchetto digitale bonus di letture culturali su Kyoto, e il codice QR diretto per un ingresso agevole. Cibo, bevande e acquisti personali alla torre, l'uso dei bagni pubblici o le tariffe del telescopio, e il trasporto fino alla sede restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto elettronico di ingresso generale alla Torre di Kyoto",
+   "Pacchetto digitale bonus di letture culturali su Kyoto (PDF/testo)",
+   "Codice QR diretto per un ingresso agevole"
+  ],
+  "notIncluded": [
+   "Cibo, bevande e acquisti personali alla torre",
+   "Uso dei bagni pubblici o tariffe del telescopio",
+   "Trasporto fino alla sede"
+  ]
+ },
+ "arashiyama-monkey-park-bamboo-forest-and-temples": {
+  "title": "Il parco delle scimmie di Arashiyama, il bosco di bambù e i templi",
+  "metaTitle": "Arashiyama: parco delle scimmie e bosco di bambù",
+  "metaDescription": "Tre ore da Kyoto tra il parco delle scimmie Iwatayama e il tempio Tenryuji, con guida dal vivo e biglietti d'ingresso inclusi.",
+  "shortDescription": "Tre ore da Kyoto tra il parco delle scimmie Iwatayama e il tempio Tenryuji, con guida dal vivo e biglietti d'ingresso inclusi.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero di bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle fotografie sono scattate prima delle 7:30; a metà mattina è già una processione di persone. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola, e le gite in barca lungo le rapide di Hozu partono tutte da qui. I colori autunnali raggiungono il picco nella seconda metà di novembre, e i fiori di ciliegio intorno alla prima settimana di aprile.\n\nIl pick-up è offerto da Kyoto, dalla Stazione di Saga-Arashiyama e dalla Stazione di Hankyu Arashiyama; il punto e l'orario esatti vengono concordati con Nara Guide una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nQuesta esperienza di tre ore da Kyoto è costruita intorno al **parco delle scimmie Iwatayama**, a un ristorante locale e al **tempio Tenryuji**. La guida dal vivo, la passeggiata nel bosco di bambù, e i biglietti d'ingresso al parco delle scimmie Iwatayama e al tempio Tenryuji sono inclusi nel prezzo. Il pranzo e le spese di trasporto (gratuite per i possessori di JR Pass) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida dal vivo",
+   "Passeggiata nel bosco di bambù",
+   "Biglietti d'ingresso al parco delle scimmie Iwatayama e al tempio Tenryuji"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Spese di trasporto (gratuite per i possessori di JR Pass)"
+  ]
+ },
+ "traditional-tea-ceremony-experience-in-kyoto-by-local-operator": {
+  "title": "Esperienza tradizionale di cerimonia del tè a Kyoto, con operatore locale",
+  "metaTitle": "Cerimonia del tè tradizionale a Kyoto",
+  "metaDescription": "Trenta minuti a Kyoto con un set dell'esperienza OTE-MAE, la cerimonia del tè giapponese, incluso.",
+  "shortDescription": "Trenta minuti a Kyoto con un set dell'esperienza OTE-MAE, la cerimonia del tè giapponese, incluso.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di trenta minuti a Kyoto porta un set dell'esperienza di **OTE-MAE**, la cerimonia del tè giapponese; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il certificato di completamento dell'esperienza (300 yen) resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Set dell'esperienza di OTE-MAE (cerimonia del tè giapponese)"
+  ],
+  "notIncluded": [
+   "Certificato di completamento dell'esperienza: 300 yen"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
