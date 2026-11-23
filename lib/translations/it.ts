@@ -36486,6 +36486,187 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande: durante questo tour di solito si fa una pausa per il pranzo verso l'una del pomeriggio, si consiglia di portare del contante"
   ]
  },
+ "kyoto-ninenzaka-japanese-calligraphy-class-in-townhouse-by-local-operator": {
+  "title": "Kyoto Ninenzaka: corso di calligrafia giapponese in una casa tradizionale, con operatore locale",
+  "metaTitle": "Calligrafia a Ninenzaka, Kyoto",
+  "metaDescription": "Quarantacinque minuti a Kyoto con istruttori esperti, una guida attenta e un libretto originale sulla calligrafia incluse.",
+  "shortDescription": "Quarantacinque minuti a Kyoto con istruttori esperti, una guida attenta e un libretto originale sulla calligrafia incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di quarantacinque minuti a Kyoto porta istruttori esperti, una guida attenta, e un libretto originale sulla **calligrafia**; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto fino alla sede resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Istruttori esperti",
+   "Guida attenta",
+   "Libretto originale sulla calligrafia"
+  ],
+  "notIncluded": [
+   "Trasporto fino alla sede"
+  ]
+ },
+ "nijo-castle-tour-with-authentic-kyoto-brewery-tasting": {
+  "title": "Il Castello Nijo, tour con autentica degustazione in una distilleria di Kyoto",
+  "metaTitle": "Castello Nijo e degustazione di sake",
+  "metaDescription": "Due ore e mezza da Kyoto tra il Giardino Shinsen-en e il Castello Nijo, con una guida locale e la degustazione di sake alla distilleria Sasaki incluse.",
+  "shortDescription": "Due ore e mezza da Kyoto tra il Giardino Shinsen-en e il Castello Nijo, con una guida locale e la degustazione di sake alla distilleria Sasaki incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di due ore e mezza da Kyoto è costruita intorno al **Giardino Shinsen-en**, al **Castello Nijo** e alla distilleria Sasaki Shuzo. La guida locale, la degustazione di sake alla distilleria Sasaki (1.000 yen a persona), e il biglietto d'ingresso al Castello Nijo (1.300 yen a persona) sono inclusi nel prezzo; il punto d'incontro è la Stazione di Nijo. I pasti e il trasporto da e per il punto d'incontro restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Degustazione di sake alla distilleria Sasaki (1.000 yen a persona)",
+   "Biglietto d'ingresso al Castello Nijo (1.300 yen a persona)"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Trasporto da e per il punto d'incontro"
+  ]
+ },
+ "manga-drawing-workshop-guided-by-pro-artist-in-kyoto": {
+  "title": "Laboratorio di disegno manga guidato da un artista professionista, a Kyoto",
+  "metaTitle": "Disegno manga, Kyoto",
+  "metaDescription": "Due ore e mezza a Kyoto con un artista istruttore professionista, un interprete e i materiali per il disegno manga incluse.",
+  "shortDescription": "Due ore e mezza a Kyoto con un artista istruttore professionista, un interprete e i materiali per il disegno manga incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di due ore e mezza a Kyoto porta un artista istruttore professionista, un interprete, e i materiali per il disegno **manga**; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande, e il pick-up restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Artista istruttore professionista",
+   "Interprete",
+   "Materiali per il disegno manga"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Pick-up"
+  ]
+ },
+ "kiyomizu-dera-ninenzaka-and-gion-evening-tour": {
+  "title": "Tour serale al Kiyomizu-dera, Ninenzaka e Gion",
+  "metaTitle": "Kiyomizu-dera, Ninenzaka, Gion, serale",
+  "metaDescription": "Tre ore e mezza da Kyoto tra la Pagoda Koyasunoto del Kiyomizu-dera e Sannenzaka, con la guida turistica locale inclusa.",
+  "shortDescription": "Tre ore e mezza da Kyoto tra la Pagoda Koyasunoto del Kiyomizu-dera e Sannenzaka, con la guida turistica locale inclusa.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di tre ore e mezza da Kyoto è costruita intorno ai trasporti pubblici, alla Pagoda Koyasunoto del **Kiyomizu-dera** e a **Sannenzaka**. La guida turistica locale è inclusa nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande, i costi di trasporto, i biglietti d'ingresso non specificati nella sezione \"incluso\", e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica locale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Costi di trasporto",
+   "Biglietti d'ingresso non specificati nella sezione \"incluso\"",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "discover-kinkaku-ji-and-ginkaku-ji-in-one-tour": {
+  "title": "Alla scoperta del Kinkaku-ji e del Ginkaku-ji in un solo tour",
+  "metaTitle": "Kinkaku-ji e Ginkaku-ji, un tour",
+  "metaDescription": "Tre ore da Kyoto tra il Kinkaku-ji e il Tempio Ginkaku-ji, con un tour guidato del Kinkaku-ji e un tour guidato del Ginkaku-ji incluse.",
+  "shortDescription": "Tre ore da Kyoto tra il Kinkaku-ji e il Tempio Ginkaku-ji, con un tour guidato del Kinkaku-ji e un tour guidato del Ginkaku-ji incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di tre ore da Kyoto è costruita intorno al **Kinkaku-ji** e al **Tempio Ginkaku-ji**. Un tour guidato del Kinkaku-ji (Padiglione d'Oro), un tour guidato del Ginkaku-ji (Padiglione d'Argento), un breve trasferimento tra i templi, l'accesso ai giardini dei templi, e approfondimenti culturali sull'estetica e la filosofia giapponese sono inclusi nel prezzo; il punto d'incontro è il minimarket 7-Eleven davanti al Kinkaku-ji. I pasti e il trasporto da e per il punto d'incontro restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Kinkaku-ji (Padiglione d'Oro)",
+   "Tour guidato del Ginkaku-ji (Padiglione d'Argento)",
+   "Breve trasferimento tra i templi",
+   "Accesso ai giardini dei templi",
+   "Approfondimenti culturali sull'estetica e la filosofia giapponese"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Trasporto da e per il punto d'incontro"
+  ]
+ },
+ "tea-ceremony-in-100-year-old-kyo-machiya-townhouse-in-kyoto": {
+  "title": "Cerimonia del tè in una casa machiya kyoto di 100 anni, a Kyoto",
+  "metaTitle": "Cerimonia del tè, casa machiya",
+  "metaDescription": "Cinquanta minuti a Kyoto con l'esperienza della cerimonia del tè in una casa tradizionale, il tè matcha e dolci tradizionali giapponesi incluse.",
+  "shortDescription": "Cinquanta minuti a Kyoto con l'esperienza della cerimonia del tè in una casa tradizionale, il tè matcha e dolci tradizionali giapponesi incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di cinquanta minuti a Kyoto porta l'esperienza della **cerimonia del tè** in una casa tradizionale, il tè matcha, dolci tradizionali giapponesi (il contenuto varia secondo la stagione), un opuscolo che spiega la cerimonia del tè, un maestro del tè e un interprete, il noleggio del haori (giacca) giapponese (se selezionato come opzione extra), il noleggio del kimono casual (se selezionato nel piano), l'acconciatura femminile (se selezionata come opzione extra), il trucco femminile (se selezionato come opzione extra), un accessorio per capelli (se selezionato come opzione extra), l'upgrade da kimono casual a kimono formale (houmongi, se selezionato come opzione extra), e una visita guidata di 30 minuti alla machiya subito dopo la cerimonia del tè (20 minuti di tour più 10 minuti per i selfie, se selezionata come opzione extra); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le foto/video professionali, e il trasporto tra il negozio di Gojo e la casa tradizionale restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza della cerimonia del tè in una casa tradizionale",
+   "Tè matcha",
+   "Dolci tradizionali giapponesi (il contenuto varia secondo la stagione)",
+   "Opuscolo che spiega la cerimonia del tè",
+   "Maestro del tè e interprete",
+   "Noleggio del haori (giacca) giapponese, se selezionato come opzione extra",
+   "Noleggio del kimono casual, se selezionato nel piano",
+   "Acconciatura femminile, se selezionata come opzione extra",
+   "Trucco femminile, se selezionato come opzione extra",
+   "Accessorio per capelli, se selezionato come opzione extra",
+   "Upgrade da kimono casual a kimono formale (houmongi), se selezionato come opzione extra",
+   "Visita guidata di 30 minuti alla machiya subito dopo la cerimonia del tè (20 minuti di tour più 10 minuti per i selfie), se selezionata come opzione extra"
+  ],
+  "notIncluded": [
+   "Foto/video professionali",
+   "Trasporto tra il negozio di Gojo e la casa tradizionale"
+  ]
+ },
+ "geiko-or-maiko-dance-and-gion-museum-visit": {
+  "title": "Spettacolo di danza geiko o maiko e visita al museo di Gion",
+  "metaTitle": "Danza geiko o maiko, museo di Gion",
+  "metaDescription": "Quindici minuti a Kyoto con l'ingresso al Gion Kagai Art Museum e le tariffe di spettacolo incluse.",
+  "shortDescription": "Quindici minuti a Kyoto con l'ingresso al Gion Kagai Art Museum e le tariffe di spettacolo incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di quindici minuti a Kyoto porta l'ingresso al **Gion Kagai Art Museum** e le tariffe di spettacolo, incluse anche per le esibizioni di danza Kyoto Mai da parte di geiko o maiko; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Ingresso al Gion Kagai Art Museum e tariffe di spettacolo, incluse anche per le esibizioni di danza Kyoto Mai da parte di geiko o maiko"
+  ],
+  "notIncluded": []
+ },
+ "live-sumo-show-and-photo-with-wrestlers-drink-included-in-kyoto": {
+  "title": "Spettacolo di sumo dal vivo e foto con i lottatori, bevanda incluso, a Kyoto",
+  "metaTitle": "Spettacolo di sumo dal vivo, Kyoto",
+  "metaDescription": "Novanta minuti a Kyoto con una dimostrazione professionale di lotta sumo, un presentatore di lingua inglese e una bevanda di benvenuto incluse.",
+  "shortDescription": "Novanta minuti a Kyoto con una dimostrazione professionale di lotta sumo, un presentatore di lingua inglese e una bevanda di benvenuto incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di novanta minuti a Kyoto porta una dimostrazione professionale di lotta **sumo**, un presentatore di lingua inglese, una bevanda di benvenuto (acqua in bottiglia), e l'opportunità di sfidare un lottatore di sumo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Dimostrazione professionale di lotta sumo",
+   "Presentatore di lingua inglese",
+   "Bevanda di benvenuto (acqua in bottiglia)",
+   "Opportunità di sfidare un lottatore di sumo"
+  ],
+  "notIncluded": []
+ },
+ "evening-sound-bath-in-a-traditional-machiya-in-kyoto": {
+  "title": "Bagno di suoni serale in una machiya tradizionale, a Kyoto",
+  "metaTitle": "Bagno di suoni, machiya, Kyoto",
+  "metaDescription": "Un'ora a Kyoto con un'esperienza privata di bagno di suoni e una sessione con campane tibetane e gong incluse.",
+  "shortDescription": "Un'ora a Kyoto con un'esperienza privata di bagno di suoni e una sessione con campane tibetane e gong incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora a Kyoto porta un'esperienza privata di **bagno di suoni**, una sessione con campane tibetane e gong, una guida alla respirazione e al rilassamento, l'uso privato di una machiya tradizionale di Kyoto di 100 anni, e lo spazio tatami con tappetini da yoga, oltre a tutta l'attrezzatura necessaria per l'esperienza; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per il punto d'incontro, cibo e bevande, e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza privata di bagno di suoni",
+   "Sessione con campane tibetane e gong",
+   "Guida alla respirazione e al rilassamento",
+   "Uso privato di una machiya tradizionale di Kyoto di 100 anni",
+   "Spazio tatami con tappetini da yoga",
+   "Tutta l'attrezzatura necessaria per l'esperienza"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto d'incontro",
+   "Cibo e bevande",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "kyoto-ninenzaka-tea-ceremony-in-old-townhouse-with-chairs-by-local-operator": {
+  "title": "Kyoto Ninenzaka: cerimonia del tè in una vecchia casa tradizionale con sedie, con operatore locale",
+  "metaTitle": "Cerimonia del tè a Ninenzaka, con sedie",
+  "metaDescription": "Quarantacinque minuti a Kyoto con istruttori esperti, sedute per una cerimonia del tè da seduti e una guida detagliata incluse.",
+  "shortDescription": "Quarantacinque minuti a Kyoto con istruttori esperti, sedute per una cerimonia del tè da seduti e una guida detagliata incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di quarantacinque minuti a Kyoto porta istruttori esperti, le sedute per una **cerimonia del tè** da seduti, una guida dettagliata, un libretto originale sulla cerimonia del tè, due tazze di matcha, e deliziosi dolci giapponesi di stagione; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto fino alla sede, i pasti, e il kimono (kimono a due pezzi disponibile con un costo aggiuntivo) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Istruttori esperti",
+   "Sedute per una cerimonia del tè da seduti",
+   "Guida dettagliata",
+   "Libretto originale sulla cerimonia del tè",
+   "Due tazze di matcha",
+   "Deliziosi dolci giapponesi di stagione"
+  ],
+  "notIncluded": [
+   "Trasporto fino alla sede",
+   "Pasti",
+   "Kimono (kimono a due pezzi disponibile con un costo aggiuntivo)"
+  ]
+ },
  "hakone-yosegi-zaiku-marquetry-workshop": {
   "title": "Laboratorio di intarsio yosegi zaiku a Hakone: create la vostra opera in legno",
   "metaTitle": "Laboratorio di intarsio yosegi zaiku a Hakone",
