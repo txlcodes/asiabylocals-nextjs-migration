@@ -1683,6 +1683,8 @@ export const KANDY_INFO_SLUGS = [
   'is-vedda-village-tour-worth-it-kandy', 'is-ella-scenic-train-worth-it-kandy',
   'is-knuckles-7-falls-hike-worth-it-kandy', 'is-kelani-river-rafting-worth-it-kandy',
   'is-cooking-class-worth-it-kandy', 'is-nanuoya-scenic-train-worth-it-kandy',
+  'best-tuk-tuk-city-tour-kandy', 'is-gem-museum-workshop-worth-it-kandy',
+  'is-night-temple-tour-worth-it-kandy', 'is-sacred-forest-hike-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.

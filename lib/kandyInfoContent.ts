@@ -1160,6 +1160,108 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tuk-tuk-city-tour-kandy":
+      return {
+        title: "Which Is the Best Tuk-Tuk City Tour in Kandy?",
+        description: "Kandy has by far the largest tuk-tuk tour selection of any Sri Lankan city — here's how the real options actually differ.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-847720/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nearly all Kandy tuk-tuk tours cover the same core stops — Temple of the Tooth, the lake, a viewpoint, maybe a spice or gem workshop — over a full day with hotel pickup. The real differences are whether entrance fees are bundled into the price and how large a group you're sharing the tuk-tuk with.",
+            tourCard: { slug: "kandy-city-tour-by-tuk-tuk-with-hotel-pickup", title: "Kandy City Tour by Tuk Tuk with hotel Pickup and Dropoff", description: "A standard full-day Kandy city tour by tuk-tuk.", price: "From $4", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-847720/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest: Standard Tour with Hotel Pickup",
+            content: "At $4, this is about as low as Kandy tuk-tuk tours go — entrance fees to sites like the Temple of the Tooth are paid separately on the day.",
+            tourCard: { slug: "kandy-city-tour-by-tuk-tuk-with-hotel-pickup", title: "Kandy City Tour by Tuk Tuk with hotel Pickup and Dropoff", description: "The budget full-day city tour.", price: "From $4", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-847720/img0/1600.webp" },
+          },
+          {
+            title: "Best for No Surprises: All Entrance Fees Included",
+            content: "This version bundles entrance fees for the sites visited directly into the upfront price — worth it if you'd rather know the total cost before you go, since Temple of the Tooth and botanical garden entry fees for foreigners add up.",
+            tourCard: { slug: "kandy-city-tour-by-tuk-tuk-with-all-entrance", title: "Kandy: City Tour by Tuk Tuk with All Entrance Fees Included", description: "A Kandy city tour with all entrance fees bundled into the price.", price: "From $120", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-847720/img0/1600.webp" },
+          },
+          {
+            title: "Best Private Option: Private Tuk-Tuk with Hotel Pickup",
+            content: "For travellers who don't want to share the tuk-tuk with strangers, this private version covers similar ground at a similarly low price.",
+            tourCard: { slug: "kandy-private-tuk-tuk-tour-with-hotel-pickup-and", title: "Kandy: Private Tuk-Tuk Tour with Hotel Pickup and Drop-Off", description: "A private tuk-tuk tour of Kandy.", price: "From $4", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1330644/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check whether entrance fees are included before booking — the headline price alone can be misleading, since the cheapest tours leave fees for you to pay separately at each site.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best tuk-tuk city tour in Kandy?", a: "A standard tour with hotel pickup suits most budgets; pick the all-inclusive version if you want entrance fees bundled into one upfront price." },
+          { q: "Are entrance fees included in Kandy tuk-tuk tours?", a: "It varies — the cheapest options leave fees for you to pay separately, while pricier versions bundle them in." },
+        ],
+      };
+
+    case "is-gem-museum-workshop-worth-it-kandy":
+      return {
+        title: "Is the Kandy Gem Museum & Lapidary Tour Worth It?",
+        description: "An honest look at the guided gem museum and lapidary tour with a Mahaweli River stop near Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1394716/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka is genuinely known for gemstones, and this gives a behind-the-scenes look at lapidary (gem-cutting) work alongside a museum visit, paired with a river stop to break up the afternoon.",
+            tourCard: { slug: "kandy-guided-gem-museum-lapidary-tour-mahaweli", title: "Kandy: Guided Gem Museum & Lapidary Tour + Mahaweli River", description: "A guided gem museum and lapidary tour with a river stop.", price: "From $6", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1394716/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "There's commonly a sales element at the end of gem/jewelry workshop tours in Sri Lanka — go in aware there's no obligation to buy.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kandy gem museum tour worth it?", a: "Yes for a genuine look at Sri Lankan gem-cutting craft, especially combined with the river stop — just expect a sales pitch at the end." },
+        ],
+      };
+
+    case "is-night-temple-tour-worth-it-kandy":
+      return {
+        title: "Is the Kandy Night Tour with Temple of the Sacred Tooth Relic Worth It?",
+        description: "An honest look at the evening version of the Temple of the Tooth visit, distinct from a standard daytime tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1215594/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The temple holds evening puja ceremonies with a different atmosphere from the daytime crowds, and this tour is timed specifically around that — a good pick if your schedule allows an evening slot and you want to see the ritual rather than just the building.",
+            tourCard: { slug: "kandy-night-tour-with-temple-of-the-sacred-tooth", title: "Kandy: Night Tour with Temple of the Sacred Tooth Relic", description: "An evening tour timed around the Temple of the Tooth's puja ceremony.", price: "From $6", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1215594/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Modest dress (shoulders and knees covered, shoes off inside) is required regardless of day or night — the same dress code as the daytime visit applies.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kandy night temple tour worth it?", a: "Yes if you want to see an evening puja ceremony rather than just visiting during the day — it's a genuinely different atmosphere." },
+          { q: "Is there a dress code for the night temple tour?", a: "Yes, the same modest dress code as the daytime visit — shoulders and knees covered, shoes removed inside." },
+        ],
+      };
+
+    case "is-sacred-forest-hike-worth-it-kandy":
+      return {
+        title: "Is the Kandy Sacred Forest Sanctuary Hike Worth It?",
+        description: "An honest look at the Sacred Forest Sanctuary hike with a secret vista stop by tuk-tuk from Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1475895/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuine hiking/nature outing rather than a sightseeing tour, built around a forest sanctuary and a lesser-known viewpoint — a good pick for travellers who've already done the standard temple-and-lake circuit and want something more active.",
+            tourCard: { slug: "kandy-sacred-forest-sanctuary-hike-secret-vista", title: "Kandy: Sacred Forest Sanctuary Hike, Secret Vista by Tuk-Tuk", description: "A hike through a sacred forest sanctuary with a secret viewpoint stop.", price: "From $8", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1475895/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At a full 8 hours, this is a proper day out rather than a quick add-on — bring proper footwear and water for the hiking portion.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sacred Forest Sanctuary hike worth it from Kandy?", a: "Yes for travellers wanting a more active, nature-focused alternative to the standard temple-and-lake city circuit." },
+          { q: "How long is the Sacred Forest Sanctuary hike?", a: "A full day, about 8 hours including transport by tuk-tuk." },
+        ],
+      };
+
     default:
       return null;
   }

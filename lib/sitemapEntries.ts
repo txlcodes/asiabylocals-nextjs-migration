@@ -1810,7 +1810,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-cultural-dance-show-worth-it-kandy', 'is-tea-factory-tour-worth-it-kandy',
     'is-vedda-village-tour-worth-it-kandy', 'is-ella-scenic-train-worth-it-kandy',
     'is-knuckles-7-falls-hike-worth-it-kandy', 'is-kelani-river-rafting-worth-it-kandy',
-    'is-cooking-class-worth-it-kandy', 'is-nanuoya-scenic-train-worth-it-kandy'].map(slug => ({
+    'is-cooking-class-worth-it-kandy', 'is-nanuoya-scenic-train-worth-it-kandy',
+    'best-tuk-tuk-city-tour-kandy', 'is-gem-museum-workshop-worth-it-kandy',
+    'is-night-temple-tour-worth-it-kandy', 'is-sacred-forest-hike-worth-it-kandy'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/kandy/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

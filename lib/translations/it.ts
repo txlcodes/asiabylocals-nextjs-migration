@@ -42284,6 +42284,186 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporto da e per le attrazioni"
   ]
  },
+ "day-tour-to-arashiyama-nara-park-and-fushimi-inari-taisha-by-local-operator": {
+  "title": "Tour di un giorno ad Arashiyama, al Parco di Nara e al Fushimi Inari Taisha, con operatore locale",
+  "metaTitle": "Arashiyama, Nara e Fushimi Inari, tour di un giorno",
+  "metaDescription": "Dieci ore tra Arashiyama e il Parco di Nara, con guida in cinese e inglese e pullman inclusi.",
+  "shortDescription": "Dieci ore tra Arashiyama e il Parco di Nara, con guida in cinese e inglese e pullman inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesto tour di dieci ore collega **Arashiyama**, il **Parco di Nara** e il **Fushimi Inari Taisha**, con una guida in cinese e inglese e un pullman inclusi. Il pranzo resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica in cinese e inglese",
+   "Pullman"
+  ],
+  "notIncluded": [
+   "Pranzo"
+  ]
+ },
+ "kyoto-and-nara-fushimi-inari-arashiyama-and-sacred-deer-by-local-operator": {
+  "title": "Kyoto e Nara: Fushimi Inari, Arashiyama e i cervi sacri, con operatore locale",
+  "metaTitle": "Kyoto e Nara: Fushimi Inari e i cervi sacri",
+  "metaDescription": "Sei ore tra Kyoto e Nara con una guida privata in giapponese, inglese o tedesco, trasporto completo e biscotti per i cervi inclusi.",
+  "shortDescription": "Sei ore tra Kyoto e Nara con una guida privata in giapponese, inglese o tedesco, trasporto completo e biscotti per i cervi inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. È aperto 24 ore su 24 ed è gratuito.\n\nQuesto tour privato di un giorno intero, di sei ore, porta una guida professionista locale in giapponese, inglese o tedesco, un viaggio senza pensieri con tutti i costi di trasporto inclusi dal pick-up al drop-off (treno JR, tram, metropolitana), biscotti per i cervi, il pick-up e il drop-off in hotel nell'area di servizio stabilita secondo l'opzione scelta, visite guidate a **Kyoto** e **Nara**, spiegazioni culturali e storiche, assistenza durante il tour, e i biglietti d'ingresso ai santuari e ai templi. Cibo e bevande, spese personali, attività opzionali, taxi e alloggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato di un giorno intero",
+   "Guida professionista locale in giapponese, inglese o tedesco",
+   "Viaggio senza pensieri con tutti i costi di trasporto inclusi dal pick-up al drop-off (treno JR/tram/metropolitana)",
+   "Biscotti per i cervi",
+   "Pick-up e drop-off in hotel nell'area di servizio stabilita, secondo l'opzione scelta",
+   "Visite guidate a Kyoto e Nara",
+   "Spiegazioni culturali e storiche",
+   "Assistenza durante il tour",
+   "Biglietti d'ingresso ai santuari e ai templi"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali",
+   "Attività opzionali",
+   "Taxi",
+   "Alloggio"
+  ]
+ },
+ "nara-art-forest-hidden-gem-temples-day-tour": {
+  "title": "Nara: foresta d'arte e templi poco noti, tour di un giorno",
+  "metaTitle": "Nara: foresta d'arte e templi poco noti",
+  "metaDescription": "Nove ore da Nara con tariffa dell'autista, veicolo e biglietti d'ingresso alle attrazioni inclusi.",
+  "shortDescription": "Nove ore da Nara con tariffa dell'autista, veicolo e biglietti d'ingresso alle attrazioni inclusi.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Nara è a quarantacinque minuti da Kyoto o Osaka in treno e si visita in mezza giornata.\n\nQuesto tour di nove ore porta la tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni), il veicolo, e i biglietti d'ingresso alle attrazioni. Qualsiasi elemento non indicato nella sezione \"incluso nella tariffa\", i pasti, l'alloggio, le attività opzionali a destinazione e altre spese personali, e le spese di assicurazione (dato che sono richiesti dati personali, si consiglia di procurarsi un'assicurazione propria) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni)",
+   "Veicolo",
+   "Biglietti d'ingresso alle attrazioni"
+  ],
+  "notIncluded": [
+   "Qualsiasi elemento non indicato nella sezione \"incluso nella tariffa\"",
+   "Pasti, alloggio, attività opzionali a destinazione e altre spese personali",
+   "Spese di assicurazione (dato che sono richiesti dati personali, si consiglia un'assicurazione propria)"
+  ]
+ },
+ "hidden-gems-walking-tour-naramachi-and-deer-park": {
+  "title": "Tour a piedi tra gemme nascoste, Naramachi e il parco dei cervi",
+  "metaTitle": "Gemme nascoste: Naramachi e parco dei cervi",
+  "metaDescription": "Tre ore tra il laghetto Sarusawa e Naramachi, con tour a piedi e biglietto d'ingresso al Tempio Gangoji, patrimonio UNESCO, incluso.",
+  "shortDescription": "Tre ore tra il laghetto Sarusawa e Naramachi, con tour a piedi e biglietto d'ingresso al Tempio Gangoji, patrimonio UNESCO, incluso.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti.\n\nQuesto tour a piedi di tre ore porta il tour a piedi e il biglietto d'ingresso al **Tempio Gangoji**, patrimonio mondiale UNESCO, tra il **laghetto Sarusawa** e **Naramachi**. Il trasporto da e per il punto di incontro, i pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi",
+   "Biglietto d'ingresso al Tempio Gangoji (patrimonio mondiale UNESCO)"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto di incontro",
+   "Pasti e bevande"
+  ]
+ },
+ "design-your-own-deer-ceramic-figurine-with-shipping-in-nara": {
+  "title": "Crea la tua statuetta in ceramica a forma di cervo, con spedizione, a Nara",
+  "metaTitle": "Statuetta in ceramica a forma di cervo, Nara",
+  "metaDescription": "Un'ora a Nara per creare una statuetta in ceramica a forma di cervo, con tutti i materiali, l'istruzione, la cottura in forno e la spedizione internazionale incluse.",
+  "shortDescription": "Un'ora a Nara per creare una statuetta in ceramica a forma di cervo, con tutti i materiali, l'istruzione, la cottura in forno e la spedizione internazionale incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Circa 1.200 cervi sika vagano protetti nel parco, considerati messaggeri degli dei.\n\nQuesta esperienza di un'ora porta tutti i materiali, l'istruzione, la cottura in forno e la spedizione internazionale, per creare la propria statuetta in **ceramica** a forma di cervo.",
+  "highlights": [],
+  "included": [
+   "Tutti i materiali",
+   "Istruzione",
+   "Cottura in forno",
+   "Spedizione internazionale"
+  ],
+  "notIncluded": []
+ },
+ "private-custom-walking-tour-with-local-guide-in-nara": {
+  "title": "Tour a piedi privato personalizzato con guida locale a Nara",
+  "metaTitle": "Tour a piedi privato personalizzato, Nara",
+  "metaDescription": "Quattro ore a Nara con guida in lingua inglese e itinerario personalizzato, tutte le tasse e il trasporto privato restano a carico del cliente.",
+  "shortDescription": "Quattro ore a Nara con guida in lingua inglese e itinerario personalizzato, tutte le tasse e il trasporto privato restano a carico del cliente.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Nara è a quarantacinque minuti da Kyoto o Osaka in treno.\n\nQuesto tour a piedi privato di quattro ore porta una guida in lingua inglese e un itinerario personalizzato. Tutte le tasse e le imposte, e il trasporto privato restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Itinerario personalizzato"
+  ],
+  "notIncluded": [
+   "Tutte le tasse e le imposte",
+   "Trasporto privato"
+  ]
+ },
+ "nara-deer-park-kiyomizu-and-fushimi-inari-day-tour-from-osaka-by-local-operator": {
+  "title": "Parco dei Cervi di Nara, Kiyomizu e Fushimi Inari: tour di un giorno da Osaka, con operatore locale",
+  "metaTitle": "Nara, Kiyomizu, Fushimi Inari da Osaka",
+  "metaDescription": "Dieci ore da Osaka tra il Fushimi Inari Taisha e il Parco di Nara, con servizio veicolo fino a 10 ore, carburante e guida professionale inclusi.",
+  "shortDescription": "Dieci ore da Osaka tra il Fushimi Inari Taisha e il Parco di Nara, con servizio veicolo fino a 10 ore, carburante e guida professionale inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesto tour di dieci ore da Osaka collega il **Fushimi Inari Taisha** e il **Parco di Nara**, con il servizio veicolo per tutto l'itinerario, carburante, pedaggi e tariffe autostradali, il servizio veicolo fino a 10 ore come previsto dalla legge giapponese, una guida professionista, un piccolo gruppo (1-13 ospiti) o un tour in bus (14-45 ospiti) secondo la dimensione giornaliera del gruppo, un veicolo climatizzato adeguato al gruppo (da 5-8 posti con una Toyota Alphard o simile, a oltre 22 posti con un bus grande), e i bambini da 0 a 2 anni possono partecipare gratuitamente in braccio a un adulto, con preavviso richiesto. Pasti (colazione, pranzo e cena), attività opzionali non elencate nell'itinerario, qualsiasi spesa personale, il servizio bagagli (non consigliato per questa gita di un giorno; verificare la disponibilità in anticipo per più bagagli), e qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio veicolo per tutto l'itinerario",
+   "Carburante, pedaggi e tariffe autostradali",
+   "Servizio veicolo fino a 10 ore (come previsto dalla legge giapponese)",
+   "Guida professionista",
+   "Piccolo gruppo (1-13 ospiti) o tour in bus (14-45 ospiti), secondo la dimensione giornaliera del gruppo",
+   "Veicolo climatizzato (tipo secondo la dimensione del gruppo): 5-8 posti Toyota Alphard o simile; 9-14 posti Toyota Hiace o simile; 18-22 posti minibus; oltre 22 posti bus grande",
+   "Bambini da 0 a 2 anni possono partecipare gratuitamente in braccio a un adulto (preavviso richiesto)"
+  ],
+  "notIncluded": [
+   "Pasti (colazione, pranzo e cena)",
+   "Attività opzionali non elencate nell'itinerario",
+   "Qualsiasi spesa personale",
+   "Servizio bagagli: gita di un giorno, bagagli non consigliati; verificare la disponibilità in anticipo per più bagagli",
+   "Qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\""
+  ]
+ },
+ "choose-your-wood-chopstick-making-experience-in-nara": {
+  "title": "Scegli il tuo legno per creare bacchette fatte a mano a Nara",
+  "metaTitle": "Creazione di bacchette fatte a mano, Nara",
+  "metaDescription": "Quarantacinque minuti a Nara per creare le proprie bacchette, con oltre 10 tipi di legno a scelta e assistenza in lingua inglese dal personale.",
+  "shortDescription": "Quarantacinque minuti a Nara per creare le proprie bacchette, con oltre 10 tipi di legno a scelta e assistenza in lingua inglese dal personale.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Nara è a quarantacinque minuti da Kyoto o Osaka in treno e si visita in mezza giornata.\n\nQuesto laboratorio pratico di quarantacinque minuti porta la creazione delle proprie **bacchette** in legno, la scelta tra oltre dieci tipi di legno, e l'assistenza in lingua inglese da parte del personale cordiale. L'incisione personalizzata costa un supplemento di 1.000 yen, l'upgrade del legno da 1.500 yen in su, il trasporto fino al laboratorio e i pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio pratico di falegnameria",
+   "Scelta del legno tra oltre 10 tipi",
+   "Assistenza in lingua inglese da parte del personale cordiale"
+  ],
+  "notIncluded": [
+   "Incisione personalizzata (+1.000 yen)",
+   "Upgrade del legno (+1.500 yen in su)",
+   "Trasporto fino al laboratorio",
+   "Pasti e bevande"
+  ]
+ },
+ "kyoto-and-nara-heritage-day-tour-with-optional-culture-lunch-by-local-operator": {
+  "title": "Kyoto e Nara: tour del patrimonio di un giorno, con pranzo culturale opzionale, operatore locale",
+  "metaTitle": "Kyoto e Nara: tour del patrimonio di un giorno",
+  "metaDescription": "Dieci ore tra il Kiyomizu-dera e i mille torii del Fushimi Inari Taisha, con guida, bus climatizzato e pick-up e drop-off a Kyoto o Osaka inclusi.",
+  "shortDescription": "Dieci ore tra il Kiyomizu-dera e i mille torii del Fushimi Inari Taisha, con guida, bus climatizzato e pick-up e drop-off a Kyoto o Osaka inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il **Kiyomizu-dera**; e i mille torii del **Fushimi Inari Taisha**. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesto tour del patrimonio di dieci ore porta una guida turistica, un bus turistico climatizzato, il pick-up e il drop-off a Kyoto o Osaka, e la tariffa di parcheggio. Le spese personali e i biglietti per le attrazioni restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica",
+   "Bus turistico climatizzato",
+   "Pick-up e drop-off a Kyoto/Osaka",
+   "Tariffa di parcheggio"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Biglietti per le attrazioni"
+  ]
+ },
+ "half-day-private-guided-visit-of-mount-ikoma-in-nara": {
+  "title": "Visita guidata privata di mezza giornata al Monte Ikoma, Nara",
+  "metaTitle": "Monte Ikoma, visita guidata privata",
+  "metaDescription": "Quattro ore al Monte Ikoma, con la funicolare Ikoma e il parco divertimenti Ikomasanjo, tariffa della guida e dell'attività incluse.",
+  "shortDescription": "Quattro ore al Monte Ikoma, con la funicolare Ikoma e il parco divertimenti Ikomasanjo, tariffa della guida e dell'attività incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Nara è a quarantacinque minuti da Kyoto o Osaka in treno e si visita in mezza giornata.\n\nQuesta visita guidata privata di quattro ore al **Monte Ikoma** porta la tariffa della guida (incluso il trasporto e i biglietti d'ingresso della guida) e le tariffe legate all'attività, tra la **funicolare Ikoma** e il **parco divertimenti Ikomasanjo**.",
+  "highlights": [],
+  "included": [
+   "Tariffa della guida (trasporto e biglietti d'ingresso della guida)",
+   "Tariffe legate all'attività"
+  ],
+  "notIncluded": []
+ },
  "nara-wagashi-workshop-with-matcha-tasting": {
   "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
   "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
