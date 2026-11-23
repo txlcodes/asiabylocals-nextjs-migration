@@ -45081,6 +45081,203 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporto"
   ]
  },
+ "nakazakicho-and-tenma-retro-streets-private-walk-in-osaka": {
+  "title": "Nakazakicho e le vie retrò di Tenma: passeggiata privata a Osaka",
+  "metaTitle": "Nakazakicho e Tenma, vie retrò, Osaka",
+  "metaDescription": "Due ore e mezza a Osaka con un tour a piedi privato e una guida dal vivo inclusi.",
+  "shortDescription": "Due ore e mezza a Osaka con un tour a piedi privato e una guida dal vivo inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta passeggiata privata di due ore e mezza porta un tour a piedi privato e una guida dal vivo, tra le vie retrò di **Nakazakicho** e **Tenma**. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi privato",
+   "Guida dal vivo"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "lake-biwa-architecture-and-miho-museum-day-trip-in-osaka": {
+  "title": "Architettura del Lago Biwa e Museo Miho: gita di un giorno da Osaka",
+  "metaTitle": "Lago Biwa e Museo Miho, gita da Osaka",
+  "metaDescription": "Nove ore tra il Castello di Hikone, Omihachiman e La Collina Omi-Hachiman, con ingresso incluso, servizio veicolo fino a 10 ore e autista inclusi.",
+  "shortDescription": "Nove ore tra il Castello di Hikone, Omihachiman e La Collina Omi-Hachiman, con ingresso incluso, servizio veicolo fino a 10 ore e autista inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta gita di nove ore collega il **Castello di Hikone**, **Omihachiman** e **La Collina Omi-Hachiman**, e include: 1) il prezzo comprende l'ingresso; 2) la tariffa del servizio veicolo indicata nell'itinerario; 3) carburante, pedaggi e tariffe autostradali; 4) il servizio veicolo entro 10 ore, come richiesto dalla legge giapponese; 5) la tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni); 6) il veicolo di riferimento: minivan a sette posti, Alphard o HiAce, adeguato al numero di partecipanti del giorno. Restano a carico del cliente: 1) pasti, alloggio, attività opzionali a destinazione e altre spese personali; 2) le spese di assicurazione (dato che sono richiesti dati personali, si consiglia un'assicurazione propria).",
+  "highlights": [],
+  "included": [
+   "1) Il prezzo comprende l'ingresso",
+   "2) Tariffa del servizio veicolo indicata nell'itinerario",
+   "3) Carburante, pedaggi e tariffe autostradali",
+   "4) Servizio veicolo entro 10 ore (come richiesto dalla legge giapponese)",
+   "5) Tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni)",
+   "6) Veicolo di riferimento: minivan a 7 posti, Alphard o HiAce; il veicolo effettivo è adeguato al numero di partecipanti del giorno"
+  ],
+  "notIncluded": [
+   "1) Pasti, alloggio, attività opzionali a destinazione e altre spese personali",
+   "2) Spese di assicurazione (dato che sono richiesti dati personali, si consiglia un'assicurazione propria)"
+  ]
+ },
+ "hoshi-no-buranko-osaka-s-hidden-nature-escape-by-local-operator": {
+  "title": "Hoshi no Buranko: la fuga nella natura nascosta di Osaka, con operatore locale",
+  "metaTitle": "Hoshi no Buranko, la natura nascosta di Osaka",
+  "metaDescription": "Cinque ore tra il Parco Amanogawa e il ponte sospeso Hoshi no Buranko, con guida locale e pick-up e ritorno da Osaka inclusi.",
+  "shortDescription": "Cinque ore tra il Parco Amanogawa e il ponte sospeso Hoshi no Buranko, con guida locale e pick-up e ritorno da Osaka inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di cinque ore porta una guida locale, il **Parco Hoshida**, il ponte sospeso **Hoshi no Buranko**, e il pick-up e il ritorno da Osaka, tra il **Parco Amanogawa** e il **Ponte Forest Tetsudofuhodo**. Cibo, bevande e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Parco Hoshida",
+   "Ponte sospeso Hoshi no Buranko",
+   "Pick-up e ritorno da Osaka"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "osaka-bar-hopping-local-style-by-local-operator": {
+  "title": "Giro dei bar a Osaka in stile locale, con operatore locale",
+  "metaTitle": "Giro dei bar a Osaka in stile locale",
+  "metaDescription": "Tre ore tra Nipponbashi Denden Town, Namba e l'insegna Glico a Dotonbori, con una bevanda in ogni bar e un tour a piedi guidato di 3 ore incluse.",
+  "shortDescription": "Tre ore tra Nipponbashi Denden Town, Namba e l'insegna Glico a Dotonbori, con una bevanda in ogni bar e un tour a piedi guidato di 3 ore incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto giro dei bar di tre ore porta una bevanda in ogni bar, un tour a piedi guidato di tre ore, la visita a autentici **tachinomi**, i bar in piedi, un'introduzione alla cultura del bere di Osaka, consigli sul **nihonshu**, il sake giapponese, consigli locali su cibo e bevande, e una guida locale in lingua inglese, tra **Nipponbashi Denden Town**, **Namba** e l'insegna **Glico** a Dotonbori. Bevande aggiuntive, cibo e snack, spese personali, il trasporto da e per il punto di incontro, e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Una bevanda in ogni bar",
+   "Tour a piedi guidato di 3 ore",
+   "Visita ad autentici tachinomi (bar in piedi)",
+   "Introduzione alla cultura del bere di Osaka",
+   "Consigli sul nihonshu (sake giapponese)",
+   "Consigli locali su cibo e bevande",
+   "Guida locale in lingua inglese"
+  ],
+  "notIncluded": [
+   "Bevande aggiuntive",
+   "Cibo e snack",
+   "Spese personali",
+   "Trasporto da e per il punto di incontro",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "hyogo-kinosaki-onsen-hot-spring-day-trip-from-osaka-by-local-operator": {
+  "title": "Hyogo: gita di un giorno alle terme di Kinosaki Onsen da Osaka, con operatore locale",
+  "metaTitle": "Kinosaki Onsen, terme da Osaka",
+  "metaDescription": "Dieci ore tra il Kinosaki Marine World e Kinosaki Onsen, con costi del servizio veicolo, ingresso al Marine World e carburante inclusi.",
+  "shortDescription": "Dieci ore tra il Kinosaki Marine World e Kinosaki Onsen, con costi del servizio veicolo, ingresso al Marine World e carburante inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta gita di dieci ore collega il **Kinosaki Marine World** e le **terme di Kinosaki Onsen**, e include: 1) i costi del servizio veicolo secondo l'itinerario; 2) il biglietto d'ingresso al Kinosaki Marine World; 3) carburante, pedaggi autostradali e tariffe stradali; 4) il servizio veicolo entro 10 ore, il limite legale in Giappone; 5) la tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni); 6) il veicolo di riferimento: furgone a sette posti, Alphard o Hiace, adeguato alla dimensione del gruppo; 7) le tariffe per i bagni alle terme di Kinosaki Onsen. Restano a carico del cliente: 1) qualsiasi spesa non menzionata nell'itinerario; 2) pasti, alloggio, attività opzionali, spese personali; 3) l'assicurazione di viaggio, vivamente consigliata a proprie spese.",
+  "highlights": [],
+  "included": [
+   "1) Costi del servizio veicolo secondo l'itinerario",
+   "2) Biglietto d'ingresso al Kinosaki Marine World",
+   "3) Carburante, pedaggi autostradali e tariffe stradali",
+   "4) Servizio veicolo entro 10 ore (limite legale in Giappone)",
+   "5) Tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni)",
+   "6) Veicolo di riferimento: furgone a 7 posti, Alphard o Hiace (adeguato alla dimensione del gruppo)",
+   "7) Tariffe per i bagni alle terme di Kinosaki Onsen"
+  ],
+  "notIncluded": [
+   "1) Qualsiasi spesa non menzionata nell'itinerario",
+   "2) Pasti, alloggio, attività opzionali, spese personali",
+   "3) Assicurazione di viaggio (vivamente consigliata a proprie spese)"
+  ]
+ },
+ "kobe-s-top-restaurant-reservation-for-a5-kobe-beef-and-sushi-osaka": {
+  "title": "Prenotazione al miglior ristorante di Kobe per manzo A5 e sushi (Osaka)",
+  "metaTitle": "Miglior ristorante di Kobe: manzo A5 e sushi",
+  "metaDescription": "Due ore a Osaka con un menu completo a più portate, tasse sulle vendite e la prenotazione incluse.",
+  "shortDescription": "Due ore a Osaka con un menu completo a più portate, tasse sulle vendite e la prenotazione incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di due ore porta un menu completo a più portate con manzo **A5** di Kobe e **sushi**, le tasse sulle vendite, e la prenotazione. Le bevande (eccetto l'acqua) e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Menu completo a più portate",
+   "Tasse sulle vendite",
+   "Prenotazione"
+  ],
+  "notIncluded": [
+   "Bevande (eccetto l'acqua)",
+   "Altre spese personali"
+  ]
+ },
+ "private-3-5-7-or-10-day-japan-tour-with-english-speaking-guide-osaka": {
+  "title": "Tour privato del Giappone di 3, 5, 7 o 10 giorni con guida in lingua inglese (Osaka)",
+  "metaTitle": "Tour privato del Giappone, 3-10 giorni",
+  "metaDescription": "Tre giorni o più da Osaka con pick-up e drop-off in hotel, trasporto di lusso, autista-guida in lingua inglese e trasferimenti tra le città incluse.",
+  "shortDescription": "Tre giorni o più da Osaka con pick-up e drop-off in hotel, trasporto di lusso, autista-guida in lingua inglese e trasferimenti tra le città incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour privato, di 3, 5, 7 o 10 giorni a scelta, porta il pick-up e il drop-off in hotel, un trasporto di lusso, un autista-guida in lingua inglese, un itinerario personalizzabile, trasferimenti tra le città tra **Tokyo**, **Kyoto** e **Osaka**, tariffe di parcheggio, carburante e pedaggi, accordi di tour flessibili, e fotografia informale. Pasti, spese personali e alloggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off in hotel",
+   "Trasporto di lusso",
+   "Autista-guida in lingua inglese",
+   "Itinerario personalizzabile",
+   "Trasferimenti tra le città tra Tokyo, Kyoto e Osaka",
+   "Tariffe di parcheggio, carburante e pedaggi",
+   "Accordi di tour flessibili",
+   "Fotografia informale"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Alloggio"
+  ]
+ },
+ "katsuoji-minoo-expo-70-park-one-day-trip-small-group-in-osaka": {
+  "title": "Katsuoji, Minoo e l'Expo '70 Park: gita di un giorno in piccolo gruppo da Osaka",
+  "metaTitle": "Katsuoji, Minoo, Expo '70 Park, gita di un giorno",
+  "metaDescription": "Dieci ore tra il Tempio Katsuo-ji, il Sentiero Naturale di Minoh e l'Insettario del Parco di Minoh, con veicolo climatizzato e pick-up e drop-off in hotel inclusi.",
+  "shortDescription": "Dieci ore tra il Tempio Katsuo-ji, il Sentiero Naturale di Minoh e l'Insettario del Parco di Minoh, con veicolo climatizzato e pick-up e drop-off in hotel inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta gita in piccolo gruppo di dieci ore collega il **Tempio Katsuo-ji**, il **Sentiero Naturale di Minoh** e l'**Insettario del Parco di Minoh**, con un veicolo climatizzato e il pick-up e drop-off in hotel inclusi (l'opzione di pick-up richiede un minimo di due persone). Il pranzo resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Veicolo climatizzato",
+   "Pick-up e drop-off in hotel (l'opzione di pick-up richiede un minimo di 2 persone)"
+  ],
+  "notIncluded": [
+   "Pranzo"
+  ]
+ },
+ "wakayama-day-trip-with-cat-stationmaster-train-in-osaka": {
+  "title": "Gita di un giorno a Wakayama con il treno del capostazione gatto, da Osaka",
+  "metaTitle": "Wakayama e il treno del capostazione gatto",
+  "metaDescription": "Dieci ore tra la Stazione Kishi e il Mercato Toretore, con servizio veicolo fino a 10 ore, carburante e pedaggi, e servizio guida inclusi.",
+  "shortDescription": "Dieci ore tra la Stazione Kishi e il Mercato Toretore, con servizio veicolo fino a 10 ore, carburante e pedaggi, e servizio guida inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta gita di dieci ore porta il servizio veicolo come indicato nell'itinerario, carburante, pedaggi e tariffe autostradali, il servizio veicolo fino a 10 ore come previsto dalle normative giapponesi, il servizio di guida locale, e un piccolo gruppo di 1-13 ospiti o un tour in bus di 14-45 ospiti, adeguato alla dimensione del gruppo, tra la **Stazione Kishi** e il **Mercato Toretore**. I veicoli di riferimento, secondo la dimensione del gruppo, vanno da 5-8 posti con una Toyota Alphard o simile a oltre 22 posti con un bus grande; i bambini sotto i 3 anni possono partecipare gratuitamente in braccio a un adulto, dai 3 anni in su si applica la tariffa intera. L'alloggio, i pasti, i biglietti per le attrazioni, le attività opzionali e le spese personali, un secondo bagaglio oltre quello gratuito consentito per ospite (da segnalare in anticipo), e qualsiasi elemento non indicato sotto \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio veicolo come indicato nell'itinerario",
+   "Carburante, pedaggi e tariffe autostradali",
+   "Servizio veicolo fino a 10 ore (come previsto dalle normative giapponesi)",
+   "Servizio di guida locale",
+   "Piccolo gruppo di 1-13 ospiti; tour in bus di 14-45 ospiti, adeguato alla dimensione del gruppo",
+   "Veicoli di riferimento (secondo la dimensione del gruppo):",
+   "Da 5 a 8 posti: Toyota Alphard o simile",
+   "Da 9 a 14 posti: Toyota Hiace o simile",
+   "Da 18 a 22 posti: minibus",
+   "Oltre 22 posti: bus grande",
+   "I bambini sotto i 3 anni partecipano gratuitamente in braccio a un adulto",
+   "I bambini dai 3 anni in su pagano la tariffa intera"
+  ],
+  "notIncluded": [
+   "Alloggio, pasti, biglietti per le attrazioni, attività opzionali e spese personali",
+   "Un bagaglio a ospite è gratuito (da segnalare in anticipo)",
+   "Qualsiasi elemento non indicato sotto \"cosa è incluso\""
+  ]
+ },
+ "chopstick-making-workshop-with-local-instructor-in-osaka": {
+  "title": "Laboratorio di creazione di bacchette con un istruttore locale a Osaka",
+  "metaTitle": "Laboratorio di bacchette con istruttore locale",
+  "metaDescription": "Un'ora a Osaka per creare le proprie bacchette con legno standard e un istruttore in lingua inglese incluse.",
+  "shortDescription": "Un'ora a Osaka per creare le proprie bacchette con legno standard e un istruttore in lingua inglese incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto laboratorio di un'ora porta la creazione delle proprie **bacchette** con legno standard, e un istruttore in lingua inglese. Gli upgrade opzionali disponibili sul posto con un costo aggiuntivo, e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di creazione di bacchette con legno standard",
+   "Istruttore in lingua inglese"
+  ],
+  "notIncluded": [
+   "Upgrade opzionali disponibili sul posto con un costo aggiuntivo",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
