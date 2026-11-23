@@ -1085,6 +1085,91 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-minneriya-safari-worth-it-sigiriya":
+      return {
+        title: "Is the Minneriya National Park Safari Worth It from Sigiriya?",
+        description: "An honest look at the Minneriya National Park elephant eco jeep safari, home to one of the world's largest elephant gatherings.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1433780/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Minneriya is famous for 'The Gathering', a seasonal congregation of hundreds of elephants around its reservoir, making it genuinely distinct from the other nearby parks (Kaudulla, Hurulu Eco Park) that this area's safaris also visit.",
+            tourCard: { slug: "sigiriya-minneriya-national-park-elephant-eco", title: "Sigiriya: Minneriya National Park Elephant Eco Jeep Safari", description: "An elephant-focused eco jeep safari in Minneriya National Park.", price: "From $36", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1433780/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Gathering is seasonal (roughly the dry months), so elephant numbers vary significantly by time of year — ask your operator which park currently has the most reliable sightings before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Minneriya safari worth it from Sigiriya?", a: "Yes, especially in season — it's genuinely known for large elephant gatherings, distinct from the area's other wildlife parks." },
+          { q: "Is Minneriya better than Kaudulla for elephants?", a: "It depends on the season — ask your operator which park is currently seeing the most elephant activity." },
+        ],
+      };
+
+    case "is-night-wildlife-tour-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya Night Wildlife Tour Worth It?",
+        description: "An honest look at the guided night wildlife jeep tour around Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1469646/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Many animals in this region are more active at night, and this tour targets nocturnal species a standard daytime safari would miss — a genuinely different experience from the daytime elephant-focused safaris at Minneriya or Kaudulla.",
+            tourCard: { slug: "sigiriya-night-wildlife-tour-with-jeep-and-guide", title: "Sigiriya: Night Wildlife Tour with Jeep and Guide", description: "A guided night wildlife jeep tour around Sigiriya.", price: "From $49", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1469646/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a light jacket — evenings in this region cool down noticeably compared to the daytime heat.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya night wildlife tour worth it?", a: "Yes for seeing nocturnal species a daytime safari would miss, though it's a different experience from the elephant-focused day safaris." },
+        ],
+      };
+
+    case "is-batik-experience-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya Batik Experience Class Worth It?",
+        description: "An honest look at the batik experience class with Sri Lankan artworks in Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1388048/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Batik is a traditional Sri Lankan textile craft, and this class gives a hands-on introduction to the wax-resist dyeing technique — a cultural, craft-focused break from the area's wildlife safaris and ancient sites.",
+            tourCard: { slug: "sigiriya-batik-experience-class-with-sri-lankan", title: "Sigiriya Batik Experience Class With Sri Lankan Artworks", description: "A hands-on batik textile craft class in Sigiriya.", price: "From $65", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1388048/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick if you want a cultural craft experience to break up a trip otherwise dominated by safaris and ruins — you typically keep the piece you make.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya batik class worth it?", a: "Yes for a hands-on taste of traditional Sri Lankan textile craft, and a nice change of pace from safaris and ancient sites." },
+        ],
+      };
+
+    case "is-wewela-lake-boat-worth-it-sigiriya":
+      return {
+        title: "Is the Wewela Lake Private Boat Sailing & Picnic Dining Worth It from Sigiriya?",
+        description: "An honest look at the private boat sailing and picnic dining experience on Wewela Lake near Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1277927/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a relaxed, scenic water-based experience on a reservoir lake near Sigiriya, a slower-paced alternative to the jeep safaris and rock-climbing that dominate most Sigiriya itineraries.",
+            tourCard: { slug: "sigiriya-wewela-lake-private-boat-sailing-picnic", title: "Sigiriya: Wewela Lake Private Boat Sailing Picnic Dining", description: "A private boat sailing and picnic dining experience on Wewela Lake.", price: "From $68", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1277927/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for sunset timing, when the lake and surrounding scenery are at their most scenic for the picnic dining portion.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Wewela Lake boat experience worth it from Sigiriya?", a: "Yes for a relaxed, scenic change of pace from the jeep safaris and rock climbing that dominate most Sigiriya itineraries." },
+        ],
+      };
+
     default:
       return null;
   }

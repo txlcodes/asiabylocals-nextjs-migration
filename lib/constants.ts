@@ -1667,6 +1667,8 @@ export const SIGIRIYA_INFO_SLUGS = [
   'is-trincomalee-day-trip-worth-it-sigiriya', 'is-mihintale-tour-worth-it-sigiriya',
   'is-hurulu-eco-park-safari-worth-it-sigiriya', 'is-tuk-tuk-safari-worth-it-sigiriya',
   'is-sunrise-hike-village-breakfast-worth-it-sigiriya', 'is-habarana-polonnaruwa-dambulla-tour-worth-it-sigiriya',
+  'is-minneriya-safari-worth-it-sigiriya', 'is-night-wildlife-tour-worth-it-sigiriya',
+  'is-batik-experience-worth-it-sigiriya', 'is-wewela-lake-boat-worth-it-sigiriya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kandyInfoContent.ts.

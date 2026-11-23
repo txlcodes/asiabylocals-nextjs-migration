@@ -1791,6 +1791,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-trincomalee-day-trip-worth-it-sigiriya', 'is-mihintale-tour-worth-it-sigiriya',
     'is-hurulu-eco-park-safari-worth-it-sigiriya', 'is-tuk-tuk-safari-worth-it-sigiriya',
     'is-sunrise-hike-village-breakfast-worth-it-sigiriya', 'is-habarana-polonnaruwa-dambulla-tour-worth-it-sigiriya',
+    'is-minneriya-safari-worth-it-sigiriya', 'is-night-wildlife-tour-worth-it-sigiriya',
+    'is-batik-experience-worth-it-sigiriya', 'is-wewela-lake-boat-worth-it-sigiriya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/sigiriya/${slug}`,
     lastModified: new Date(),
