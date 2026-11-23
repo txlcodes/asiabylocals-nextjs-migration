@@ -40805,6 +40805,200 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporti privati"
   ]
  },
+ "taiko-drumming-experience-boom-feel-the-tradition-in-tokyo": {
+  "title": "Esperienza di tamburi taiko: Boom! Senti la tradizione! a Tokyo",
+  "metaTitle": "Tamburi taiko, senti la tradizione",
+  "metaDescription": "Un'ora e mezza a Tokyo con la tariffa di partecipazione al laboratorio e la tariffa di noleggio dell'attrezzatura usata per il laboratorio incluse.",
+  "shortDescription": "Un'ora e mezza a Tokyo con la tariffa di partecipazione al laboratorio e la tariffa di noleggio dell'attrezzatura usata per il laboratorio incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora e mezza a Tokyo porta la tariffa di partecipazione al laboratorio e la tariffa di noleggio dell'attrezzatura usata per il laboratorio (tamburi **taiko**, bachi, costumi); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Tariffa di partecipazione al laboratorio",
+   "Tariffa di noleggio dell'attrezzatura usata per il laboratorio (tamburi taiko, bachi, costumi)"
+  ],
+  "notIncluded": []
+ },
+ "private-food-snack-and-whisky-crawl-in-meguro-in-tokyo": {
+  "title": "Giro privato tra cibo, snack e whisky a Meguro, a Tokyo",
+  "metaTitle": "Giro privato, Meguro, whisky",
+  "metaDescription": "Due ore a Tokyo con un tour serale privato di 3 ore e la visita a un bar di pesce in piedi incluse.",
+  "shortDescription": "Due ore a Tokyo con un tour serale privato di 3 ore e la visita a un bar di pesce in piedi incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di due ore a Tokyo porta un tour serale privato di 3 ore, la visita a un bar di pesce in piedi, la visita a un bar locale di tipo \"snack\", la visita a una lounge di **whisky**, birra artigianale giapponese o sake, piatti giapponesi casalinghi, karaoke, e whisky o cocktail giapponesi premium; il punto d'incontro è la Stazione di Gakugei-daigaku.",
+  "highlights": [],
+  "included": [
+   "Tour serale privato di 3 ore",
+   "Visita a un bar di pesce in piedi",
+   "Visita a un bar locale di tipo \"snack\"",
+   "Visita a una lounge di whisky",
+   "Birra artigianale giapponese o sake",
+   "Piatti giapponesi casalinghi",
+   "Karaoke",
+   "Whisky o cocktail giapponesi premium"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-asakusa-kimono-rental-with-hair-and-optional-photos-by-local-operator": {
+  "title": "Tokyo Asakusa: noleggio di kimono con acconciatura e foto opzionali, con operatore locale",
+  "metaTitle": "Noleggio di kimono, Asakusa",
+  "metaDescription": "Trenta minuti a Tokyo con il noleggio del kimono, il servizio di kitsuke (vestizione) professionale e l'acconciatura con ornamenti a noleggio incluse.",
+  "shortDescription": "Trenta minuti a Tokyo con il noleggio del kimono, il servizio di kitsuke (vestizione) professionale e l'acconciatura con ornamenti a noleggio incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di trenta minuti a Tokyo porta il noleggio del **kimono**, il servizio di kitsuke (vestizione) professionale, l'acconciatura con ornamenti a noleggio, il deposito dei bagagli, e il piano pausa caffè con una bevanda al caffè; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. L'alcol e il supplemento di 1.100 yen per le taglie extra-large (vita o fianchi) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio del kimono",
+   "Servizio di kitsuke (vestizione) professionale",
+   "Acconciatura con ornamenti a noleggio",
+   "Deposito dei bagagli",
+   "Piano pausa caffè con una bevanda al caffè"
+  ],
+  "notIncluded": [
+   "Alcol",
+   "Supplemento di 1.100 yen per le taglie extra-large (vita o fianchi)"
+  ]
+ },
+ "michelin-selected-gastronomy-course-at-ethica-ginza": {
+  "title": "Corso gastronomico selezionato dalla Michelin all'ETHICA Ginza",
+  "metaTitle": "Corso gastronomico Michelin, Ginza",
+  "metaDescription": "Due ore e mezza a Tokyo con un menù degustazione a più portate, servito a tutto il tavolo, e la tariffa dell'acqua incluse.",
+  "shortDescription": "Due ore e mezza a Tokyo con un menù degustazione a più portate, servito a tutto il tavolo, e la tariffa dell'acqua incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di due ore e mezza a Tokyo porta un menù degustazione a più portate, servito a tutto il tavolo, la tariffa dell'acqua, l'imposta sui consumi giapponese, un supplemento di servizio del 10%, il servizio in lingua inglese per tutto il pasto, e alternative vegetariane e non alcoliche su richiesta, da organizzare in anticipo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Gli accostamenti di bevande e qualsiasi bevanda ordinata durante il pasto, il trasporto da e per il ristorante, e le mance (il tipping non è un'usanza in Giappone) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Menù degustazione a più portate, servito a tutto il tavolo",
+   "Tariffa dell'acqua",
+   "Imposta sui consumi giapponese",
+   "Supplemento di servizio del 10%",
+   "Servizio in lingua inglese per tutto il pasto",
+   "Alternative vegetariane e non alcoliche su richiesta, da organizzare in anticipo"
+  ],
+  "notIncluded": [
+   "Accostamenti di bevande e qualsiasi bevanda ordinata durante il pasto",
+   "Trasporto da e per il ristorante",
+   "Mance (il tipping non è un'usanza in Giappone)"
+  ]
+ },
+ "private-photoshoot-in-tokyo": {
+  "title": "Sessione fotografica privata, a Tokyo",
+  "metaTitle": "Sessione fotografica privata, Tokyo",
+  "metaDescription": "Un'ora a Tokyo con oltre 50 foto e 20 foto modificate incluse.",
+  "shortDescription": "Un'ora a Tokyo con oltre 50 foto e 20 foto modificate incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo è costruita intorno a Tokyo. Oltre 50 foto, 20 foto modificate, la personalizzazione, la consegna entro una settimana, e un fotografo che parla inglese, spagnolo, giapponese e portoghese, con una fotocamera professionale full-frame, sono inclusi nel prezzo; il punto d'incontro è a Tokyo, Giappone. Cibo e bevande, le spese di viaggio, e i biglietti d'ingresso (se applicabili) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Oltre 50 foto",
+   "20 foto modificate",
+   "Personalizzazione",
+   "Consegna entro una settimana",
+   "Fotografo che parla inglese, spagnolo, giapponese e portoghese",
+   "Fotocamera professionale full-frame"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese di viaggio",
+   "Biglietti d'ingresso (se applicabili)"
+  ]
+ },
+ "tokyo-bay-scenic-skyline-go-kart-tour-90-minutes-by-local-operator": {
+  "title": "Baia di Tokyo: tour panoramico in go-kart tra i grattacieli (90 minuti), con operatore locale",
+  "metaTitle": "Baia di Tokyo, go-kart panoramico",
+  "metaDescription": "Un'ora e mezza a Tokyo tra il Toyosu Senkyaku Banrai e il mercato del pesce di Toyosu, con il noleggio di un go-kart omologato per la strada e il carburante per tutto il tour incluse.",
+  "shortDescription": "Un'ora e mezza a Tokyo tra il Toyosu Senkyaku Banrai e il mercato del pesce di Toyosu, con il noleggio di un go-kart omologato per la strada e il carburante per tutto il tour incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora e mezza a Tokyo è costruita intorno al **Toyosu Senkyaku Banrai**, al mercato del pesce di **Toyosu** e all'Ariake Coliseum. Il noleggio di un **go-kart** omologato per la strada, il carburante per tutto il tour, una guida turistica locale professionista, il noleggio di un costume da anime, opportunità fotografiche durante il tour, l'assicurazione obbligatoria di responsabilità civile per veicoli giapponesi, e la comunicazione radio bidirezionale sono inclusi nel prezzo; il punto d'incontro è Kartzilla Discovery Japan, Kartzilla Go Kart Tokyo Activity. Il noleggio della fotocamera Insta360 e della microSD (acquistabili) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio di un go-kart omologato per la strada",
+   "Carburante per tutto il tour",
+   "Guida turistica locale professionista",
+   "Noleggio di un costume da anime",
+   "Opportunità fotografiche durante il tour",
+   "Assicurazione obbligatoria di responsabilità civile per veicoli giapponesi",
+   "Comunicazione radio bidirezionale"
+  ],
+  "notIncluded": [
+   "Noleggio della fotocamera Insta360 e della microSD (acquistabili)"
+  ]
+ },
+ "shibuya-electric-kart-tour-japanese-car-culture": {
+  "title": "Tour in kart elettrico a Shibuya e cultura automobilistica giapponese",
+  "metaTitle": "Kart elettrico, Shibuya",
+  "metaDescription": "Cinquanta minuti a Tokyo con la visita al negozio di merchandising Liberty Walk×TokyoZ e un giro in kart elettrico attraverso Tokyo incluse.",
+  "shortDescription": "Cinquanta minuti a Tokyo con la visita al negozio di merchandising Liberty Walk×TokyoZ e un giro in kart elettrico attraverso Tokyo incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di cinquanta minuti a Tokyo porta la visita al negozio di merchandising **Liberty Walk×TokyoZ**, un giro in **kart** elettrico attraverso Tokyo, una guida professionista, il servizio fotografico, e l'assicurazione; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le bevande, le mance per la guida (opzionali), la fotocamera GoPro, la fotocamera a 360° e la scheda SD restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita al negozio di merchandising Liberty Walk×TokyoZ",
+   "Giro in kart elettrico attraverso Tokyo",
+   "Guida professionista",
+   "Servizio fotografico",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Bevande",
+   "Mance per la guida (opzionali)",
+   "Fotocamera GoPro",
+   "Fotocamera a 360°",
+   "Scheda SD"
+  ]
+ },
+ "fully-custom-akihabara-anime-and-otaku-private-tour": {
+  "title": "Tour privato completamente personalizzato ad Akihabara, tra anime e cultura otaku",
+  "metaTitle": "Akihabara, anime e otaku, privato",
+  "metaDescription": "Due ore a Tokyo con un tour privato con un esperto otaku locale e la visita ad Animate Main e Annex incluse.",
+  "shortDescription": "Due ore a Tokyo con un tour privato con un esperto otaku locale e la visita ad Animate Main e Annex incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza privata di due ore a Tokyo porta un tour privato con un esperto otaku locale, la visita ad **Animate Main** e Annex, la visita a negozi di figure retrò e negozi segreti, la visita alla Gachapon Hall, soste opzionali ai maid café, visite a negozi specializzati nascosti, un itinerario personalizzato secondo le preferenze, e consigli su prezzo, rarità e autenticità degli oggetti; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per la Stazione di Akihabara, i pasti e le bevande, e gli acquisti personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato con un esperto otaku locale",
+   "Visita ad Animate Main e Annex",
+   "Visita a negozi di figure retrò e negozi segreti",
+   "Visita alla Gachapon Hall",
+   "Soste opzionali ai maid café",
+   "Visite a negozi specializzati nascosti",
+   "Itinerario personalizzato secondo le preferenze",
+   "Consigli su prezzo, rarità e autenticità degli oggetti"
+  ],
+  "notIncluded": [
+   "Trasporto da e per la Stazione di Akihabara",
+   "Pasti e bevande",
+   "Acquisti personali"
+  ]
+ },
+ "akihabara-maid-cafe-at-home-cafe-priority-entry-with-a-set-tokyo": {
+  "title": "Akihabara: ingresso prioritario al maid cafe at-home cafe con un set (Tokyo)",
+  "metaTitle": "Maid cafe at-home cafe, Akihabara",
+  "metaDescription": "Un'ora a Tokyo con la tariffa d'ingresso prioritario e la scelta tra cibo o dessert incluse.",
+  "shortDescription": "Un'ora a Tokyo con la tariffa d'ingresso prioritario e la scelta tra cibo o dessert incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo porta la tariffa d'ingresso prioritario, la scelta tra cibo o dessert, una bevanda analcolica, il CHEKI (foto polaroid con un'illustrazione personalizzata della **maid**), e un portafoto esclusivo con la maid; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Tariffa d'ingresso prioritario",
+   "Scelta tra cibo o dessert",
+   "Bevanda analcolica",
+   "CHEKI (foto polaroid con un'illustrazione personalizzata della maid)",
+   "Portafoto esclusivo con la maid"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-asakusa-kimono-rental-with-add-on-photos-and-rickshaw-by-local-operator": {
+  "title": "Tokyo Asakusa: noleggio di kimono con foto e risciò come opzioni extra, con operatore locale",
+  "metaTitle": "Noleggio di kimono, foto e risciò",
+  "metaDescription": "Trenta minuti a Tokyo con il noleggio del kimono, il servizio di vestizione professionale e l'acconciatura professionale incluse.",
+  "shortDescription": "Trenta minuti a Tokyo con il noleggio del kimono, il servizio di vestizione professionale e l'acconciatura professionale incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di trenta minuti a Tokyo porta il noleggio del **kimono**, il servizio di vestizione professionale, l'acconciatura professionale, il servizio di deposito bagagli, un tour guidato in risciò per Asakusa (opzione), e lo scatto di foto (opzione); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande, e i biglietti d'ingresso alle attrazioni restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio del kimono",
+   "Servizio di vestizione professionale",
+   "Acconciatura professionale",
+   "Servizio di deposito bagagli",
+   "Tour guidato in risciò per Asakusa (opzione)",
+   "Scatto di foto (opzione)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Biglietti d'ingresso alle attrazioni"
+  ]
+ },
  "hiroshima-night-evening-tour": {
   "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
   "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
