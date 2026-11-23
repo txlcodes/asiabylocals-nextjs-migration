@@ -42552,6 +42552,162 @@ export const IT_TOURS: Record<string, TourT> = {
    "Ritiro e rientro in hotel"
   ]
  },
+ "shinjuku-izakaya-food-and-drink-tour-tokyo": {
+  "title": "Tour gastronomico negli izakaya di Shinjuku (Tokyo)",
+  "metaTitle": "Tour izakaya, Shinjuku",
+  "metaDescription": "Tour di 3 ore a Tokyo, con tre bevande incluse (alcoliche o analcoliche) e generose porzioni di piccoli piatti e portate condivise incluse. Gestito da Tokyo Ramen Tours, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 3 ore a Tokyo, con tre bevande incluse (alcoliche o analcoliche) e generose porzioni di piccoli piatti e portate condivise incluse. Gestito da Tokyo Ramen Tours, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3 ore a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende tre bevande incluse e generose porzioni di piccoli piatti e portate condivise, più che sufficienti per una cena. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tre bevande incluse (alcoliche o analcoliche)",
+   "Generose porzioni di piccoli piatti e portate condivise, più che sufficienti per una cena"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-sumo-morning-practice-tour-with-real-stable-viewing-and-guide-by-local-operator": {
+  "title": "Tokyo: tour dell'allenamento mattutino di sumo con visita a una vera scuderia e guida, con operatore locale",
+  "metaTitle": "Allenamento mattutino di sumo, Tokyo",
+  "metaDescription": "Tour a Tokyo, con l'osservazione di una vera scuderia di sumo e foto con i lottatori (quando disponibili) incluse. Gestito da Japan Wonder Travel, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, con l'osservazione di una vera scuderia di sumo e foto con i lottatori (quando disponibili) incluse. Gestito da Japan Wonder Travel, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 2 ore a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende l'osservazione di una vera scuderia di sumo, foto con i lottatori (quando disponibili) e una guida autorizzata competente e professionista. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Osservazione di una vera scuderia di sumo",
+   "Foto con i lottatori (quando disponibili)",
+   "Guida autorizzata, competente e professionista"
+  ],
+  "notIncluded": []
+ },
+ "meiji-shrine-walking-tour-shinto-and-imperial-system-in-tokyo": {
+  "title": "Tour a piedi al Santuario Meiji: shintoismo e sistema imperiale, a Tokyo",
+  "metaTitle": "Santuario Meiji, shintoismo e impero",
+  "metaDescription": "Tour a Tokyo, che comprende il Meiji Jingu Ichino Torii, i barili di vino consacrato del Meiji Jingu e i barili di sake consacrati. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, che comprende il Meiji Jingu Ichino Torii, i barili di vino consacrato del Meiji Jingu e i barili di sake consacrati. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora e mezza da Tokyo, costruita intorno al Meiji Jingu Ichino Torii, ai barili di vino consacrato del Meiji Jingu e ai barili di sake consacrati. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende una guida in lingua inglese e un tour panoramico. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Tour panoramico"
+  ],
+  "notIncluded": []
+ },
+ "crossing-hachiko-and-shibuya-sky-guided-tour": {
+  "title": "Tour guidato tra l'incrocio, Hachiko e Shibuya Sky",
+  "metaTitle": "Incrocio, Hachiko, Shibuya Sky",
+  "metaDescription": "Tour di 2 ore da Tokyo, che comprende Shibuya Sky, l'incrocio di Shibuya e Center Gai. Gestito da Planet Japan合同会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 2 ore da Tokyo, che comprende Shibuya Sky, l'incrocio di Shibuya e Center Gai. Gestito da Planet Japan合同会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 2 ore da Tokyo, costruita intorno a Shibuya Sky, all'incrocio di Shibuya e a Center Gai. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un tour guidato di Shibuya, la visita all'incrocio Shibuya Scramble, l'esplorazione di Center Gai, la visita a Shibuya Sky e la visita a SHIBUYA PARCO. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n忠犬ハチ公像. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour guidato di Shibuya",
+   "Visita all'incrocio Shibuya Scramble",
+   "Esplorazione di Center Gai",
+   "Visita a Shibuya Sky",
+   "Visita a SHIBUYA PARCO"
+  ],
+  "notIncluded": []
+ },
+ "traditional-tea-ceremony-with-a-tea-master-in-tokyo": {
+  "title": "Cerimonia del tè tradizionale con un maestro del tè, a Tokyo",
+  "metaTitle": "Cerimonia del tè, maestro del tè",
+  "metaDescription": "Un'ora a Tokyo, con tè e dolce di benvenuto (wakocha, tè nero giapponese, e un dolce al tè) e degustazione di sencha (tè verde giapponese) incluse. Gestito da Sunrise Adventure, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Un'ora a Tokyo, con tè e dolce di benvenuto (wakocha, tè nero giapponese, e un dolce al tè) e degustazione di sencha (tè verde giapponese) incluse. Gestito da Sunrise Adventure, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il tè e il dolce di benvenuto (wakocha, tè nero giapponese, e un dolce tradizionale), la degustazione di sencha (tè verde giapponese) e dolci giapponesi di stagione, il matcha, il genmaicha (una miscela di sencha e riso tostato), e un certificato di completamento. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tè e dolce di benvenuto: wakocha (tè nero giapponese) e un dolce tradizionale",
+   "Degustazione di sencha (tè verde giapponese) e dolci giapponesi di stagione",
+   "Matcha",
+   "Genmaicha, una miscela di sencha e riso tostato",
+   "Certificato di completamento",
+   "Tutto il necessario per immergersi completamente nella cultura del tè giapponese"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-go-karting-experience-shibuya-crossing-with-photos-by-local-operator": {
+  "title": "Esperienza in go-kart a Tokyo: incrocio di Shibuya con foto, con operatore locale",
+  "metaTitle": "Go-kart, incrocio di Shibuya",
+  "metaDescription": "Un'ora a Tokyo, con go-kart e tour incluse. Gestito da Monkey Adventure Kart, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Un'ora a Tokyo, con go-kart e tour incluse. Gestito da Monkey Adventure Kart, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il go-kart, il tour, la guida, la sessione fotografica e le foto digitali. Non comprende la action camera, quindi va prevista a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Go-kart",
+   "Tour",
+   "Guida",
+   "Sessione fotografica",
+   "Foto digitali",
+   "Acqua",
+   "Una foto in copia stampata",
+   "Action camera o supporto per Insta 360"
+  ],
+  "notIncluded": [
+   "Action camera"
+  ]
+ },
+ "visit-sumo-morning-practice-with-english-guide-in-tokyo": {
+  "title": "Visita all'allenamento mattutino di sumo con guida in lingua inglese, a Tokyo",
+  "metaTitle": "Allenamento mattutino di sumo",
+  "metaDescription": "Tour di 2 ore da Tokyo, che comprende la scuderia di sumo Takasago-beya. Gestito da Air Choice, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 2 ore da Tokyo, che comprende la scuderia di sumo Takasago-beya. Gestito da Air Choice, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 2 ore da Tokyo, costruita intorno alla scuderia di sumo Takasago-beya. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la guida turistica, la visita alla scuderia di sumo, l'allenamento mattutino dei lottatori di sumo e le foto con i lottatori di sumo. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida turistica",
+   "Visita alla scuderia di sumo",
+   "Allenamento mattutino dei lottatori di sumo",
+   "Foto con i lottatori di sumo"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-imperial-palace-tour-gardens-castle-and-shogun-stories-by-local-operator": {
+  "title": "Tour al Palazzo Imperiale di Tokyo: giardini, castello e storie degli shogun, con operatore locale",
+  "metaTitle": "Palazzo Imperiale, giardini, castello",
+  "metaDescription": "Tour di 2 ore a Tokyo, che comprende il Sakurada Tatsumi Yagura, la Shiomi Hill e 諏訪の茶屋. Gestito da YUMI TOURS JAPAN, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 2 ore a Tokyo, che comprende il Sakurada Tatsumi Yagura, la Shiomi Hill e 諏訪の茶屋. Gestito da YUMI TOURS JAPAN, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 2 ore a Tokyo, costruita intorno al Sakurada Tatsumi Yagura, alla Shiomi Hill e a 諏訪の茶屋. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un tour guidato dei Giardini Orientali del Palazzo Imperiale, un'esperienza narrativa incentrata sulla storia del Castello di Edo e sul suo legame con il Giappone moderno, e l'esplorazione di storie e concetti culturali poco conosciuti. Non comprende il trasporto da e per il punto d'incontro e l'ingresso al palazzo interno, non accessibile al pubblico, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nStarbucks Coffee - Kokyo Gaien Wadakura Fountain Park. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour guidato dei Giardini Orientali del Palazzo Imperiale",
+   "Esperienza narrativa incentrata sulla storia del Castello di Edo e sul suo legame con il Giappone moderno",
+   "Esplorazione di storie e concetti culturali poco conosciuti"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto d'incontro",
+   "Ingresso al palazzo interno, non accessibile al pubblico"
+  ]
+ },
+ "unlimited-sake-tasting-with-sushi-omakase-near-tokyo-tower-by-local-operator": {
+  "title": "Degustazione illimitata di sake con sushi omakase vicino alla Tokyo Tower, con operatore locale",
+  "metaTitle": "Sake illimitato e sushi omakase",
+  "metaDescription": "Tour a Tokyo, con la degustazione illimitata di sake e la degustazione di sushi incluse. Gestito da SUSHI GARYU, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, con la degustazione illimitata di sake e la degustazione di sushi incluse. Gestito da SUSHI GARYU, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora e mezza a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la degustazione illimitata di sake e la degustazione di sushi. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Degustazione illimitata di sake",
+   "Degustazione di sushi"
+  ],
+  "notIncluded": []
+ },
+ "shibuya-local-bar-and-izakaya-crawl-tour": {
+  "title": "Giro tra bar locali e izakaya, a Shibuya",
+  "metaTitle": "Giro tra bar e izakaya, Shibuya",
+  "metaDescription": "Tour di 3 ore da Tokyo, che comprende Shibuya City e l'incrocio di Shibuya. Gestito da Travel Japan Together, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 3 ore da Tokyo, che comprende Shibuya City e l'incrocio di Shibuya. Gestito da Travel Japan Together, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3 ore da Tokyo, costruita intorno a Shibuya City e all'incrocio di Shibuya. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende una guida esperta in lingua inglese, un tour a piedi, il biglietto d'ingresso per ogni locale e le foto durante il tour. Non comprende cibo e bevande, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida esperta in lingua inglese",
+   "Tour a piedi",
+   "Biglietto d'ingresso per ogni locale",
+   "Foto durante il tour"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
  "imperial-palace-bike-tour": {
   "title": "Tokyo centrale in e-bike: tre ore tra i luoghi iconici",
   "metaTitle": "Tokyo centrale in e-bike in tre ore",
