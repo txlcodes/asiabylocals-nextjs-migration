@@ -40240,6 +40240,193 @@ export const IT_TOURS: Record<string, TourT> = {
    "Biglietto della funivia per la Biwako Terrace (circa 4.000 yen)"
   ]
  },
+ "shinjuku-and-akihabara-walking-with-grand-food-tour": {
+  "title": "Shinjuku e Akihabara a piedi, con grande tour enogastronomico",
+  "metaTitle": "Shinjuku e Akihabara, enogastronomico",
+  "metaDescription": "Quattro ore da Tokyo tra la Testa di Godzilla e Kabukicho, con il pranzo incluso nel tour e una guida privata di lingua inglese incluse.",
+  "shortDescription": "Quattro ore da Tokyo tra la Testa di Godzilla e Kabukicho, con il pranzo incluso nel tour e una guida privata di lingua inglese incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di quattro ore da Tokyo è costruita intorno alla **Testa di Godzilla**, a **Kabukicho** e a **Golden Gai**. Il pranzo incluso nel tour, una guida privata di lingua inglese, un itinerario a piedi di 4 ore completamente personalizzabile, e un pranzo giapponese autentico sono inclusi nel prezzo; il punto d'incontro è la Stazione di Shinjuku. I costi di trasporto durante il tour, i biglietti d'ingresso, e le spese personali per lo shopping restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pranzo incluso nel tour",
+   "Guida privata di lingua inglese",
+   "Itinerario a piedi di 4 ore completamente personalizzabile",
+   "Pranzo giapponese autentico"
+  ],
+  "notIncluded": [
+   "Costi di trasporto durante il tour",
+   "Biglietti d'ingresso",
+   "Spese personali per lo shopping"
+  ]
+ },
+ "guided-walking-tour-with-a-native-expert-top-sights-in-osaka": {
+  "title": "Tour guidato a piedi con un esperto madrelingua: i luoghi più importanti, a Osaka",
+  "metaTitle": "Osaka, luoghi più importanti",
+  "metaDescription": "Quattro ore a Osaka tra il Santuario Hokoku e il Castello di Osaka, con la guida e il biglietto d'ingresso alla torre principale del Castello di Osaka incluse.",
+  "shortDescription": "Quattro ore a Osaka tra il Santuario Hokoku e il Castello di Osaka, con la guida e il biglietto d'ingresso alla torre principale del Castello di Osaka incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di quattro ore a Osaka è costruita intorno al **Santuario Hokoku**, al **Castello di Osaka** e alla metropolitana. La guida, il biglietto d'ingresso alla torre principale del Castello di Osaka, e l'assistenza fotografica (la guida può aiutare a scattare foto del gruppo) sono inclusi nel prezzo; il punto d'incontro è il minimarket 7-Eleven a Tanimachi 3-chome, a Osaka. Il costo di trasporto, 430 yen (due corse in treno: 190 yen più 240 yen), e il fatto che il JR Pass non sia utilizzabile, poiché si usa la metropolitana di Osaka, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Biglietto d'ingresso alla torre principale del Castello di Osaka",
+   "Assistenza fotografica (la guida può aiutare a scattare foto del gruppo)"
+  ],
+  "notIncluded": [
+   "Costo di trasporto: 430 yen (due corse in treno: 190 yen più 240 yen)",
+   "Il JR Pass non è utilizzabile, poiché si usa la metropolitana di Osaka"
+  ]
+ },
+ "unesco-mount-koya-hidden-gems-and-temple-tour-small-group-in-osaka": {
+  "title": "UNESCO Monte Koya: gemme nascoste e tour dei templi (piccolo gruppo), da Osaka",
+  "metaTitle": "Monte Koya, gemme nascoste",
+  "metaDescription": "Otto ore da Osaka tra la Porta Daimon e il tempio speciale principale di Koyasan Shojoshin-in, con un autista-guida parlante inglese, giapponese e cinese incluse.",
+  "shortDescription": "Otto ore da Osaka tra la Porta Daimon e il tempio speciale principale di Koyasan Shojoshin-in, con un autista-guida parlante inglese, giapponese e cinese incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di otto ore da Osaka è costruita intorno alla **Porta Daimon**, al tempio speciale principale di Koyasan **Shojoshin-in** e al cimitero di **Okunoin**. Un autista-guida parlante inglese, giapponese e cinese, l'accesso alla sacra cerimonia del rituale del fuoco Goma, e un'immersione culturale pura tramite la nostra audioguida multilingue, con supporto per spagnolo, francese, tedesco, italiano, arabo, ebraico, lingue nordiche e altre ancora, senza barriere, sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pranzo e le bevande (viene fornito un buono per il pasto nel tempio), il pick-up e il drop-off in hotel (il punto d'incontro è Shinsaibashi/Nippombashi), le spese personali, e le tariffe dei templi (circa 2.200 yen in totale, per il Konpon Daito, il Kondo, il Kongobuji, ecc., solo in contanti) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Autista-guida parlante inglese, giapponese e cinese",
+   "Accesso alla sacra cerimonia del rituale del fuoco Goma",
+   "Immersione culturale pura tramite l'audioguida multilingue, con supporto per spagnolo, francese, tedesco, italiano, arabo, ebraico, lingue nordiche e altre ancora, senza barriere"
+  ],
+  "notIncluded": [
+   "Pranzo e bevande (viene fornito un buono per il pasto nel tempio)",
+   "Pick-up e drop-off in hotel (il punto d'incontro è Shinsaibashi/Nippombashi)",
+   "Spese personali",
+   "Tariffe dei templi (circa 2.200 yen in totale, per il Konpon Daito, il Kondo, il Kongobuji, ecc., solo in contanti)"
+  ]
+ },
+ "tokyo-to-osaka-10-day-autumn-foliage-private-car-tour-by-local-operator": {
+  "title": "Da Tokyo a Osaka: tour privato in auto di 10 giorni tra i colori autunnali, con operatore locale",
+  "metaTitle": "Tokyo-Osaka, 10 giorni, autunno",
+  "metaDescription": "Dieci giorni a Osaka con una Toyota Alphard privata con un autista autorizzato di lingua inglese e il pick-up e drop-off aeroportuale incluse.",
+  "shortDescription": "Dieci giorni a Osaka con una Toyota Alphard privata con un autista autorizzato di lingua inglese e il pick-up e drop-off aeroportuale incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di dieci giorni a Osaka porta una **Toyota Alphard** privata con un autista autorizzato di lingua inglese per tutti i 10 giorni (8 ore al giorno), il pick-up e il drop-off aeroportuale, tutto il trasporto in veicolo privato tra Tokyo, Hakone, il Monte Fuji, Kyoto e Osaka, i biglietti del Shinkansen sulla tratta Tokyo-Kyoto, inclusi nel prezzo del tour, la crociera panoramica sul Lago Ashi a Hakone, la funivia di Hakone sopra la valle di Owakudani, e tutti i pedaggi, i parcheggi e i costi di trasporto obbligatori; l'autista incontra il cliente all'arrivo a Narita o Haneda e lo porta direttamente al suo hotel di Tokyo. I biglietti d'ingresso a templi, giardini e illuminazioni notturne, e i pasti e le bevande non specificati nell'itinerario restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Toyota Alphard privata con un autista autorizzato di lingua inglese per tutti i 10 giorni (8 ore al giorno)",
+   "Pick-up e drop-off aeroportuale",
+   "Tutto il trasporto in veicolo privato tra Tokyo, Hakone, il Monte Fuji, Kyoto e Osaka",
+   "Biglietti del Shinkansen sulla tratta Tokyo-Kyoto, inclusi nel prezzo del tour",
+   "Crociera panoramica sul Lago Ashi a Hakone",
+   "Funivia di Hakone sopra la valle di Owakudani",
+   "Tutti i pedaggi, i parcheggi e i costi di trasporto obbligatori"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso a templi, giardini e illuminazioni notturne",
+   "Pasti e bevande non specificati nell'itinerario"
+  ]
+ },
+ "tokyo-asakusa-premium-kimono-rental-and-hairstyling-and-accessorie-by-local-operator": {
+  "title": "Tokyo Asakusa: noleggio premium di kimono, acconciatura e accessori, con operatore locale",
+  "metaTitle": "Noleggio premium di kimono, Asakusa",
+  "metaDescription": "Un'ora a Tokyo con il noleggio di un kimono komon per una giornata fino alle 17:00 e la vestizione da uno stilista certificato incluse.",
+  "shortDescription": "Un'ora a Tokyo con il noleggio di un kimono komon per una giornata fino alle 17:00 e la vestizione da uno stilista certificato incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo porta il noleggio di un **kimono** komon per una giornata fino alle 17:00, la vestizione del kimono da uno stilista certificato, il noleggio di accessori incluso nel prezzo, il servizio base di acconciatura incluso nel prezzo, un servizio di vestizione privato e personalizzato, lo spogliatoio e le strutture per la vestizione, biancheria intima, calzini, una borsa per l'asciugamano, il deposito dei bagagli, e il supporto in più lingue; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il servizio di trucco (da prenotare in anticipo), cibo o bevande, lo studio fotografico al chiuso (disponibile con un costo extra), la sessione fotografica professionale (opzione extra), e il trasporto da e per il negozio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio di un kimono komon per una giornata fino alle 17:00",
+   "Vestizione del kimono da uno stilista certificato",
+   "Noleggio di accessori incluso nel prezzo",
+   "Servizio base di acconciatura incluso nel prezzo",
+   "Servizio di vestizione privato e personalizzato",
+   "Spogliatoio e strutture per la vestizione",
+   "Biancheria intima",
+   "Calzini",
+   "Borsa per l'asciugamano",
+   "Deposito dei bagagli",
+   "Supporto in più lingue"
+  ],
+  "notIncluded": [
+   "Servizio di trucco (da prenotare in anticipo)",
+   "Cibo o bevande",
+   "Studio fotografico al chiuso (disponibile con un costo extra)",
+   "Sessione fotografica professionale (opzione extra)",
+   "Trasporto da e per il negozio"
+  ]
+ },
+ "tokyo-shibuya-pro-photography-in-kimono-english-friendly-by-local-operator": {
+  "title": "Tokyo, Shibuya: fotografia professionale in kimono, adatta a chi parla inglese, con operatore locale",
+  "metaTitle": "Fotografia in kimono, Shibuya",
+  "metaDescription": "Un'ora a Tokyo con la scelta del kimono dalla collezione e la vestizione da parte di un vestitore professionista incluse.",
+  "shortDescription": "Un'ora a Tokyo con la scelta del kimono dalla collezione e la vestizione da parte di un vestitore professionista incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo porta la scelta del proprio **kimono** preferito dalla collezione, la vestizione da parte di un vestitore professionista, e una sessione fotografica di circa 15 minuti nello studio; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Scelta del proprio kimono preferito dalla collezione",
+   "Vestizione da parte di un vestitore professionista",
+   "Sessione fotografica di circa 15 minuti nello studio"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-national-museum-private-tour-by-local-operator": {
+  "title": "Il Museo Nazionale di Tokyo, tour privato, con operatore locale",
+  "metaTitle": "Museo Nazionale di Tokyo, privato",
+  "metaDescription": "Due ore a Tokyo al Museo Nazionale d'Arte Moderna di Tokyo, con una guida di lingua inglese e i biglietti d'ingresso incluse.",
+  "shortDescription": "Due ore a Tokyo al Museo Nazionale d'Arte Moderna di Tokyo, con una guida di lingua inglese e i biglietti d'ingresso incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di due ore a Tokyo è costruita intorno al **Museo Nazionale d'Arte Moderna di Tokyo**. Una guida di lingua inglese e i biglietti d'ingresso sono inclusi nel prezzo; il punto d'incontro è a Ueno, Taito-ku, Tokyo. Le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "Bevande"
+  ]
+ },
+ "make-your-own-chopsticks-in-shibuya": {
+  "title": "Crea le tue bacchette, a Shibuya",
+  "metaTitle": "Crea le tue bacchette, Shibuya",
+  "metaDescription": "Un'ora a Tokyo con la selezione di legni di stagione e istruttori di lingua inglese, spagnola o giapponese incluse.",
+  "shortDescription": "Un'ora a Tokyo con la selezione di legni di stagione e istruttori di lingua inglese, spagnola o giapponese incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo porta la selezione di legni di stagione (2 inclusi gratuitamente, 8 disponibili con un costo aggiuntivo) per la creazione delle **bacchette**, e istruttori di lingua inglese, spagnola o giapponese; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Selezione di legni di stagione (2 inclusi gratuitamente, 8 disponibili con un costo aggiuntivo)",
+   "Istruttori di lingua inglese, spagnola o giapponese"
+  ],
+  "notIncluded": []
+ },
+ "shibuya-and-asakusa-walking-with-grand-food-tour": {
+  "title": "Shibuya e Asakusa a piedi, con grande tour enogastronomico",
+  "metaTitle": "Shibuya e Asakusa, enogastronomico",
+  "metaDescription": "Quattro ore da Tokyo tra la statua di Hachiko e la Shibuya Scramble Square, con il cibo incluso nel tour e una guida privata di lingua inglese incluse.",
+  "shortDescription": "Quattro ore da Tokyo tra la statua di Hachiko e la Shibuya Scramble Square, con il cibo incluso nel tour e una guida privata di lingua inglese incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di quattro ore da Tokyo è costruita intorno alla **statua di Hachiko**, alla **Shibuya Scramble Square** e al Center Gai. Il cibo incluso nel tour, una guida privata di lingua inglese, un itinerario a piedi di 4 ore completamente personalizzabile, e un pranzo giapponese autentico sono inclusi nel prezzo; il punto d'incontro è la Stazione di Shinjuku. I costi di trasporto durante il tour, i biglietti d'ingresso, e le spese personali per lo shopping restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Cibo incluso nel tour",
+   "Guida privata di lingua inglese",
+   "Itinerario a piedi di 4 ore completamente personalizzabile",
+   "Pranzo giapponese autentico"
+  ],
+  "notIncluded": [
+   "Costi di trasporto durante il tour",
+   "Biglietti d'ingresso",
+   "Spese personali per lo shopping"
+  ]
+ },
+ "japanese-kendo-experience-with-high-ranked-instructor-in-tokyo": {
+  "title": "Esperienza di kendo giapponese con un istruttore di alto rango, a Tokyo",
+  "metaTitle": "Kendo, istruttore di alto rango",
+  "metaDescription": "Tre ore a Tokyo con 5 programmi per fare esperienza del kendo e un programma per sperimentare lo spirito del budo e la cultura tradizionale giapponese incluse.",
+  "shortDescription": "Tre ore a Tokyo con 5 programmi per fare esperienza del kendo e un programma per sperimentare lo spirito del budo e la cultura tradizionale giapponese incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di tre ore a Tokyo porta 5 programmi per fare esperienza del **kendo**, un programma per sperimentare lo spirito del budo e la cultura tradizionale giapponese attraverso il kendo, il tema del programma \"Senshin\" (purificare il cuore), che rappresenta avere un cuore puro rimuovendo lo sporco e i sentimenti negativi dalla mente, e con un cuore puro si può trattare gli altri con umiltà e serenità, oltre a: 1. \"Ascoltare\": cos'è il kendo? La storia del kendo, la differenza tra arti marziali e sport, e altro ancora, in un'aula; 2. \"Toccare\": si potranno toccare con le proprie mani i pensieri e le vere intenzioni dietro l'equipaggiamento da kendo; 3. \"Fare\": si sudorà e si lavorerà sodo nella pratica del kendo sotto la guida di un istruttore di alto rango; 4. \"Guardare\": si avrà l'opportunità di vedere praticare e competere giocatori di alto rango, un'esperienza molto potente da vedere dal vivo; 5. \"Comunicazione\": viene offerto uno spazio per scattare foto ricordo, parlare davanti a una tazza di tè, approfondire gli scambi reciproci e conoscere nuove persone; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto fino alla sede, e le spese per bevande e pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "5 programmi per fare esperienza del kendo",
+   "Programma per sperimentare lo spirito del budo e la cultura tradizionale giapponese attraverso il kendo",
+   "Tema del programma \"Senshin\" (purificare il cuore)",
+   "1. \"Ascoltare\": storia del kendo e differenza tra arti marziali e sport, in un'aula",
+   "2. \"Toccare\": toccare con le proprie mani i pensieri e le intenzioni dietro l'equipaggiamento da kendo",
+   "3. \"Fare\": praticare il kendo sotto la guida di un istruttore di alto rango",
+   "4. \"Guardare\": vedere praticare e competere giocatori di alto rango",
+   "5. \"Comunicazione\": spazio per scattare foto ricordo, parlare davanti a una tazza di tè e conoscere nuove persone"
+  ],
+  "notIncluded": [
+   "Trasporto fino alla sede",
+   "Spese per bevande e pasti"
+  ]
+ },
  "hiroshima-night-evening-tour": {
   "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
   "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
