@@ -46736,6 +46736,204 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pick-up e drop-off in aeroporto o al porto"
   ]
  },
+ "lake-toya-noboribetsu-private-1-day-tour": {
+  "title": "Lago Toya, Noboribetsu, tour privato di 1 giorno",
+  "metaTitle": "Lago Toya e Noboribetsu, tour privato",
+  "metaDescription": "Dieci ore a Sapporo con pick-up e drop-off in hotel, veicolo climatizzato, autista e tutte le tasse e imposte incluse.",
+  "shortDescription": "Dieci ore a Sapporo con pick-up e drop-off in hotel, veicolo climatizzato, autista e tutte le tasse e imposte incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera.\n\nQuesto tour privato di dieci ore collega il **Lago Toya** e **Noboribetsu**, con il pick-up e il drop-off in hotel, un veicolo climatizzato, un autista professionista, tutte le tasse e le imposte (incluse le tariffe di parcheggio), e dieci ore di servizio in totale (estendibile con un costo extra). Il biglietto d'ingresso, cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off in hotel",
+   "Veicolo climatizzato",
+   "Autista professionista",
+   "Tutte le tasse e le imposte (incluse le tariffe di parcheggio)",
+   "10 ore di servizio in totale (estendibile con un costo extra)"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso",
+   "Cibo e bevande"
+  ]
+ },
+ "hakone-and-mount-fuji-day-trip-with-boat-ride": {
+  "title": "Gita di un giorno a Hakone e al Monte Fuji con giro in barca",
+  "metaTitle": "Hakone e Monte Fuji, giro in barca",
+  "metaDescription": "Dieci ore tra il Santuario di Hakone, i Gotemba Premium Outlets e Oshino Hakkai, con pick-up in hotel da Tokyo e trasporto andata e ritorno incluse.",
+  "shortDescription": "Dieci ore tra il Santuario di Hakone, i Gotemba Premium Outlets e Oshino Hakkai, con pick-up in hotel da Tokyo e trasporto andata e ritorno incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesta gita di dieci ore porta il pick-up in hotel da aree selezionate di Tokyo, il trasporto in veicolo andata e ritorno, la visita al **Santuario di Hakone**, la visita ai **Gotemba Premium Outlets**, la visita a **Oshino Hakkai**, la visita al **Lago Yamanaka**, il cibo per nutrire i cigni al Lago Yamanaka, e il biglietto del Ninja Bus/barca, solo se l'opzione è selezionata. Pranzo, cibo e bevande oltre il cibo incluso per i cigni, spese personali, e altri servizi non specificamente indicati tra gli elementi inclusi restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up in hotel da aree selezionate di Tokyo",
+   "Trasporto in veicolo andata e ritorno",
+   "Visita al Santuario di Hakone",
+   "Visita ai Gotemba Premium Outlets",
+   "Visita a Oshino Hakkai",
+   "Visita al Lago Yamanaka",
+   "Cibo per nutrire i cigni al Lago Yamanaka",
+   "Biglietto del Ninja Bus/barca, solo se l'opzione è selezionata"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Cibo e bevande oltre il cibo incluso per i cigni",
+   "Spese personali",
+   "Altri servizi non specificamente indicati tra gli elementi inclusi"
+  ]
+ },
+ "tokyo-to-kamakura-day-trip-mt-fuji-temples-coast-and-culture-mount-fuji": {
+  "title": "Gita di un giorno da Tokyo a Kamakura: Monte Fuji, templi, costa e cultura (Monte Fuji)",
+  "metaTitle": "Kamakura: Monte Fuji, templi, costa",
+  "metaDescription": "Dieci ore tra il Kotoku-in e la Stazione di Hase, con biglietto del treno Enoden, servizio veicolo per tutto l'itinerario e servizio veicolo fino a 10 ore incluse.",
+  "shortDescription": "Dieci ore tra il Kotoku-in e la Stazione di Hase, con biglietto del treno Enoden, servizio veicolo per tutto l'itinerario e servizio veicolo fino a 10 ore incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesta gita di dieci ore collega **Tokyo** e **Kamakura**, con il biglietto del treno **Enoden**, il servizio veicolo per tutto l'itinerario, i costi del carburante, i pedaggi e le tariffe autostradali, il servizio veicolo fino a 10 ore come previsto dalla legge giapponese, il servizio di guida professionista, un piccolo gruppo di 1-13 ospiti o un tour in bus di 14-45 ospiti, secondo la dimensione giornaliera del gruppo, un veicolo climatizzato adeguato al gruppo (da 5-8 posti con una Toyota Alphard o simile, a oltre 22 posti con un bus grande), e i bambini da 0 a 2 anni possono partecipare gratuitamente in braccio a un adulto, con preavviso richiesto, tra il **Kotoku-in** e la **Stazione di Hase**. Pasti (colazione, pranzo e cena), biglietti opzionali per le attrazioni durante il viaggio, attività e esperienze opzionali non elencate nell'itinerario, qualsiasi spesa personale, il servizio bagagli (non consigliato per questa gita di un giorno; verificare la disponibilità in anticipo per più bagagli), e qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto del treno Enoden",
+   "Servizio veicolo per tutto l'itinerario",
+   "Costi del carburante, pedaggi e tariffe autostradali",
+   "Servizio veicolo fino a 10 ore (come previsto dalla legge giapponese)",
+   "Servizio di guida professionista",
+   "Piccolo gruppo (1-13 ospiti) o tour in bus (14-45 ospiti), secondo la dimensione giornaliera del gruppo",
+   "Veicolo climatizzato (tipo secondo la dimensione del gruppo): 5-8 posti Toyota Alphard o simile; 9-14 posti Toyota Hiace o simile; 18-22 posti minibus; oltre 22 posti bus grande",
+   "Bambini da 0 a 2 anni possono partecipare gratuitamente in braccio a un adulto (preavviso richiesto)"
+  ],
+  "notIncluded": [
+   "Pasti (colazione, pranzo e cena)",
+   "Biglietti opzionali per le attrazioni durante il viaggio",
+   "Attività ed esperienze opzionali non elencate nell'itinerario",
+   "Qualsiasi spesa personale",
+   "Servizio bagagli: gita di un giorno, bagagli non consigliati; verificare la disponibilità in anticipo per più bagagli",
+   "Qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\""
+  ]
+ },
+ "takasu-snow-park-ski-and-snowboard-day-trip-in-nagoya": {
+  "title": "Gita di un giorno sugli sci e snowboard al Takasu Snow Park, da Nagoya",
+  "metaTitle": "Takasu Snow Park: sci e snowboard, da Nagoya",
+  "metaDescription": "Undici ore e mezza da Nagoya al Takasu Snow Park, con tariffa del bus andata e ritorno e lo skipass di un giorno, secondo l'opzione scelta, inclusi.",
+  "shortDescription": "Undici ore e mezza da Nagoya al Takasu Snow Park, con tariffa del bus andata e ritorno e lo skipass di un giorno, secondo l'opzione scelta, inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale.\n\nQuesta gita di undici ore e mezza al **Takasu Snow Park** porta la tariffa del bus andata e ritorno, lo skipass di un giorno (per chi ha scelto \"bus e skipass incluso\" o \"bus, skipass e attrezzatura completa a noleggio incluse\"), un coupon di sconto per il noleggio di sci carving o snowboard (per chi ha scelto \"bus e skipass incluso\"), un coupon di sconto per il noleggio dell'abbigliamento da sci (stessa opzione), un coupon di sconto per lezioni di sci o snowboard (stessa opzione), il set di sci a noleggio (sci, bastoncini e scarponi) o il set da snowboard (tavola e scarponi), per chi ha scelto \"bus, skipass e attrezzatura completa a noleggio incluse\", e il set di abbigliamento da sci/snowboard a noleggio (giacca, pantaloni, guanti, cappello e maschera), stessa opzione. I pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus andata e ritorno",
+   "Skipass di un giorno (per chi ha scelto \"bus e skipass incluso\" o \"bus, skipass e attrezzatura completa incluse\")",
+   "Coupon di sconto per il noleggio di sci carving o snowboard (per chi ha scelto \"bus e skipass incluso\")",
+   "Coupon di sconto per il noleggio dell'abbigliamento da sci (stessa opzione)",
+   "Coupon di sconto per lezioni di sci o snowboard (stessa opzione)",
+   "Set di sci a noleggio (sci, bastoncini e scarponi) o set da snowboard (tavola e scarponi), per chi ha scelto \"bus, skipass e attrezzatura completa incluse\"",
+   "Set di abbigliamento da sci/snowboard a noleggio (giacca, pantaloni, guanti, cappello e maschera), stessa opzione"
+  ],
+  "notIncluded": [
+   "Pasti"
+  ]
+ },
+ "hirugano-kogen-ski-resort-day-trip-in-nagoya": {
+  "title": "Gita di un giorno alla stazione sciistica di Hirugano Kogen, da Nagoya",
+  "metaTitle": "Hirugano Kogen, stazione sciistica, da Nagoya",
+  "metaDescription": "Undici ore e mezza da Nagoya a Hirugano Kogen, con tariffa del bus andata e ritorno e lo skipass di un giorno, secondo l'opzione scelta, inclusi.",
+  "shortDescription": "Undici ore e mezza da Nagoya a Hirugano Kogen, con tariffa del bus andata e ritorno e lo skipass di un giorno, secondo l'opzione scelta, inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo.\n\nQuesta gita di undici ore e mezza all'altopiano **Hirugano Kogen** porta la tariffa del bus andata e ritorno, lo skipass di un giorno (per chi ha scelto \"bus e skipass incluso\" o \"bus, skipass e attrezzatura completa incluse\"), il set di sci a noleggio (per chi ha scelto \"bus, skipass e attrezzatura completa incluse\"), il set di abbigliamento da sci/snowboard a noleggio (stessa opzione), e l'ingresso alla zona famiglia per giocare sulla neve, Kids Land, per chi ha scelto \"bus incluso e ingresso a Kids Land\". I pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus andata e ritorno",
+   "Skipass di un giorno (per chi ha scelto \"bus e skipass incluso\" o \"bus, skipass e attrezzatura completa incluse\")",
+   "Set di sci a noleggio (sci, bastoncini e scarponi) o set da snowboard (tavola e scarponi), per chi ha scelto \"bus, skipass e attrezzatura completa incluse\"",
+   "Set di abbigliamento da sci/snowboard a noleggio (giacca, pantaloni, guanti, cappello e maschera), stessa opzione",
+   "Ingresso alla zona famiglia per giocare sulla neve, Kids Land, per chi ha scelto \"bus incluso e ingresso a Kids Land\""
+  ],
+  "notIncluded": [
+   "Pasti"
+  ]
+ },
+ "dynaland-ski-resort-day-trip-in-nagoya": {
+  "title": "Gita di un giorno alla stazione sciistica Dynaland, da Nagoya",
+  "metaTitle": "Dynaland, stazione sciistica, da Nagoya",
+  "metaDescription": "Undici ore e mezza da Nagoya a Dynaland, con tariffa del bus andata e ritorno e lo skipass di un giorno, secondo l'opzione scelta, inclusi.",
+  "shortDescription": "Undici ore e mezza da Nagoya a Dynaland, con tariffa del bus andata e ritorno e lo skipass di un giorno, secondo l'opzione scelta, inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo.\n\nQuesta gita di undici ore e mezza a **Dynaland** porta la tariffa del bus andata e ritorno, lo skipass di un giorno (per chi ha scelto \"bus e skipass incluso\" o \"bus, skipass e attrezzatura completa incluse\"), un coupon di sconto per il noleggio di sci carving o snowboard (per chi ha scelto \"bus e skipass incluso\"), un coupon di sconto per il noleggio dell'abbigliamento da sci (stessa opzione), un coupon di sconto per lezioni di sci o snowboard (stessa opzione), il set di sci o snowboard a noleggio (per chi ha scelto \"bus, skipass e attrezzatura completa incluse\"), e il set di abbigliamento da sci/snowboard a noleggio (stessa opzione). Il noleggio dell'attrezzatura da sci o snowboard, se non si è scelta l'opzione \"bus, skipass e attrezzatura completa incluse\", e i pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus andata e ritorno",
+   "Skipass di un giorno (per chi ha scelto \"bus e skipass incluso\" o \"bus, skipass e attrezzatura completa incluse\")",
+   "Coupon di sconto per il noleggio di sci carving o snowboard (per chi ha scelto \"bus e skipass incluso\")",
+   "Coupon di sconto per il noleggio dell'abbigliamento da sci (stessa opzione)",
+   "Coupon di sconto per lezioni di sci o snowboard (stessa opzione)",
+   "Set di sci a noleggio (sci, bastoncini e scarponi) o set da snowboard (tavola e scarponi), per chi ha scelto \"bus, skipass e attrezzatura completa incluse\"",
+   "Set di abbigliamento da sci/snowboard a noleggio (giacca, pantaloni, guanti, cappello e maschera), stessa opzione"
+  ],
+  "notIncluded": [
+   "Noleggio dell'attrezzatura da sci o snowboard, se non si è scelta l'opzione \"bus, skipass e attrezzatura completa incluse\"",
+   "Pasti"
+  ]
+ },
+ "kyoto-and-nara-small-group-tour-with-temples-and-deer-park": {
+  "title": "Kyoto e Nara, tour in piccolo gruppo tra templi e il parco dei cervi",
+  "metaTitle": "Kyoto e Nara: templi e parco dei cervi",
+  "metaDescription": "Dieci ore tra il Kinkaku-ji e Arashiyama, con una guida esperta selezionata con cura e tutto il trasporto incluso.",
+  "shortDescription": "Dieci ore tra il Kinkaku-ji e Arashiyama, con una guida esperta selezionata con cura e tutto il trasporto incluso.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesto tour in piccolo gruppo di dieci ore collega **Kyoto** e **Nara**, con una guida esperta selezionata con cura e tutto il trasporto, tra il **Kinkaku-ji** e **Arashiyama**. Pasti e bevande, i biglietti d'ingresso a Kyoto e Nara (circa 1.300 yen a persona), l'assicurazione di viaggio personale, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta selezionata con cura",
+   "Tutto il trasporto"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso a Kyoto e Nara (circa 1.300 yen a persona)",
+   "Assicurazione di viaggio personale",
+   "Mance"
+  ]
+ },
+ "legoland-japan-resort-and-sea-life-nagoya-combo-ticketz-by-local-operator": {
+  "title": "Biglietto combinato per il Legoland Japan Resort e Sea Life Nagoya, con operatore locale",
+  "metaTitle": "Legoland Japan e Sea Life Nagoya, biglietto combo",
+  "metaDescription": "Biglietto d'ingresso al Legoland Japan Resort e a Sea Life Nagoya, con un servizio di ingresso diretto con codice QR per entrambe le sedi incluso.",
+  "shortDescription": "Biglietto d'ingresso al Legoland Japan Resort e a Sea Life Nagoya, con un servizio di ingresso diretto con codice QR per entrambe le sedi incluso.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale.\n\nQuesto servizio fornisce il biglietto d'ingresso al **Legoland Japan Resort**, il biglietto d'ingresso a **Sea Life Nagoya**, e un servizio di ingresso diretto con codice QR per entrambe le sedi. Il trasporto tra le sedi e il proprio hotel, qualsiasi trasporto interno al parco, e cibo, bevande e acquisti di souvenir restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Legoland Japan Resort",
+   "Biglietto d'ingresso a Sea Life Nagoya",
+   "Servizio di ingresso diretto con codice QR per entrambe le sedi"
+  ],
+  "notIncluded": [
+   "Trasporto tra le sedi e il proprio hotel",
+   "Qualsiasi trasporto interno al parco",
+   "Cibo, bevande e acquisti di souvenir"
+  ]
+ },
+ "nara-private-tour-iconic-sights-and-hidden-gems-with-a-local-by-local-operator": {
+  "title": "Nara, tour privato: luoghi iconici e gemme nascoste con un locale, con operatore locale",
+  "metaTitle": "Nara, tour privato con un locale",
+  "metaDescription": "Due ore a Nara con guida e relative tariffe incluse.",
+  "shortDescription": "Due ore a Nara con guida e relative tariffe incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti.\n\nQuesta esperienza privata di due ore, con operatore locale, porta la guida e le relative tariffe. La tariffa del pranzo (circa 2.000 yen a persona), i biglietti d'ingresso ai monumenti (scelti insieme sul momento, se lo si desidera), le tariffe di trasporto (gratuite per i possessori di JR Pass), e il tour, che è un'esperienza a piedi a Nara, con i trasporti pubblici usabili come opzione aggiuntiva, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida e relative tariffe"
+  ],
+  "notIncluded": [
+   "Tariffa del pranzo (circa 2.000 yen a persona)",
+   "Biglietti d'ingresso ai monumenti (scelti insieme sul momento, se lo si desidera)",
+   "Tariffe di trasporto (gratuite per i possessori di JR Pass)",
+   "Il tour è un'esperienza a piedi a Nara; i trasporti pubblici possono essere usati come opzione aggiuntiva"
+  ]
+ },
+ "nara-park-3-hour-private-guided-tour-by-local-operator": {
+  "title": "Parco di Nara: tour guidato privato di 3 ore, con operatore locale",
+  "metaTitle": "Parco di Nara, tour privato di 3 ore",
+  "metaDescription": "Tre ore tra il Todai-ji, il Kasuga Taisha e il Parco di Nara, con le tariffe della guida incluse.",
+  "shortDescription": "Tre ore tra il Todai-ji, il Kasuga Taisha e il Parco di Nara, con le tariffe della guida incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti.\n\nIl pick-up è offerto dalla Stazione di Kintetsu-Nara e dalla Stazione di Nara; il punto e l'orario esatti vengono concordati con Nara Guide una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nQuesto tour guidato privato di tre ore porta le tariffe della guida, tra il **Todai-ji**, il **Kasuga Taisha** e il **Parco di Nara**. Il biglietto d'ingresso al Tempio Todaiji (600 yen a persona), il biglietto d'ingresso al Santuario Kasuga Taisha (6.000 yen a persona), il pranzo (se previsto, circa 2.500 yen a persona), snack o bevande, e il trasporto (non obbligatorio, 300 yen a persona) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffe della guida"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Tempio Todaiji (600 yen a persona)",
+   "Biglietto d'ingresso al Santuario Kasuga Taisha (6.000 yen a persona)",
+   "Pranzo (se previsto, circa 2.500 yen a persona), snack o bevande",
+   "Trasporto (non obbligatorio, 300 yen a persona)"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
