@@ -38015,6 +38015,176 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pasti e bevande"
   ]
  },
+ "kyoto-private-custom-tour-with-local-guide-by-local-operator": {
+  "title": "Kyoto, tour privato personalizzato con guida locale, con operatore locale",
+  "metaTitle": "Kyoto, tour privato personalizzato",
+  "metaDescription": "Un'ora da Kyoto tra il Fushimi Inari Taisha e il Kiyomizu-dera, con una guida turistica privata locale e la pianificazione personalizzata dell'itinerario incluse.",
+  "shortDescription": "Un'ora da Kyoto tra il Fushimi Inari Taisha e il Kiyomizu-dera, con una guida turistica privata locale e la pianificazione personalizzata dell'itinerario incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora da Kyoto è costruita intorno al **Fushimi Inari Taisha**, al **Kiyomizu-dera** e a **Gion**. Una guida turistica privata locale, la pianificazione personalizzata dell'itinerario di viaggio, i consigli basati sui propri interessi, e il pick-up in hotel (se applicabile) sono inclusi nel prezzo; il punto d'incontro effettivo viene confermato da Travel Japan Together una volta effettuata la prenotazione. Cibo e bevande, eventuali biglietti d'ingresso, la tariffa di trasporto, e il pranzo e il biglietto d'ingresso dell'host restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica privata locale",
+   "Pianificazione personalizzata dell'itinerario di viaggio",
+   "Consigli basati sui propri interessi",
+   "Pick-up in hotel (se applicabile)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Eventuali biglietti d'ingresso",
+   "Tariffa di trasporto",
+   "Pranzo e biglietto d'ingresso dell'host"
+  ]
+ },
+ "vintage-coin-ring-making-workshop-with-in-kyoto": {
+  "title": "Laboratorio di creazione di anelli con monete d'epoca, a Kyoto",
+  "metaTitle": "Anelli con monete d'epoca, Kyoto",
+  "metaDescription": "Un'ora a Kyoto con un laboratorio pratico e la guida di un istruttore incluse.",
+  "shortDescription": "Un'ora a Kyoto con un laboratorio pratico e la guida di un istruttore incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora a Kyoto porta un laboratorio pratico, la guida di un istruttore, e alcune monete d'epoca (le monete giapponesi e quelle rare hanno un costo aggiuntivo); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio pratico",
+   "Guida di un istruttore",
+   "Alcune monete d'epoca (monete giapponesi e rare con costo aggiuntivo)"
+  ],
+  "notIncluded": [
+   "Mance"
+  ]
+ },
+ "private-cultural-and-historical-sightseeing-tour-in-spanish-in-kyoto": {
+  "title": "Tour panoramico culturale e storico privato in spagnolo, a Kyoto",
+  "metaTitle": "Tour privato in spagnolo, Kyoto",
+  "metaDescription": "Quattro ore da Kyoto tra il Santuario Yasaka e il Maruyama Park, con una guida privata locale di lingua spagnola e il biglietto d'ingresso a un'attrazione incluse.",
+  "shortDescription": "Quattro ore da Kyoto tra il Santuario Yasaka e il Maruyama Park, con una guida privata locale di lingua spagnola e il biglietto d'ingresso a un'attrazione incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza privata di quattro ore da Kyoto è costruita intorno al **Santuario Yasaka**, al **Maruyama Park** e a **Ninenzaka**. Una guida privata locale di lingua spagnola, il biglietto d'ingresso incluso per un'attrazione, il commento sulla storia, la cultura e le tradizioni, e un itinerario personalizzabile secondo i propri interessi sono inclusi nel prezzo; il punto d'incontro è il Museo e Biblioteca del Kanji del Giappone.",
+  "highlights": [],
+  "included": [
+   "Guida privata locale di lingua spagnola",
+   "Biglietto d'ingresso incluso per un'attrazione",
+   "Commento sulla storia, la cultura e le tradizioni",
+   "Itinerario personalizzabile secondo i propri interessi"
+  ],
+  "notIncluded": []
+ },
+ "full-day-city-highlights-bike-tour-with-light-lunch-in-kyoto": {
+  "title": "I luoghi iconici della città, tour in bici di una giornata intera con pranzo leggero, a Kyoto",
+  "metaTitle": "Tour in bici, pranzo leggero, Kyoto",
+  "metaDescription": "Otto ore da Kyoto tra il Bosco di Bambù di Arashiyama e il Fushimi Inari Taisha, con una guida bilingue, bicicletta, casco e acqua in bottiglia incluse.",
+  "shortDescription": "Otto ore da Kyoto tra il Bosco di Bambù di Arashiyama e il Fushimi Inari Taisha, con una guida bilingue, bicicletta, casco e acqua in bottiglia incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di otto ore da Kyoto è costruita intorno al **Bosco di Bambù di Arashiyama**, al Senbontorii del Fushimi Inari Taisha e al **Kiyomizu-dera**. Una guida bilingue, la bicicletta, il casco, l'acqua in bottiglia, i biglietti d'ingresso, e un pranzo leggero sono inclusi nel prezzo; il punto d'incontro è la Stazione di Saga-Arashiyama. Il pick-up e il drop-off in hotel, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue",
+   "Bicicletta",
+   "Casco",
+   "Acqua in bottiglia",
+   "Biglietti d'ingresso",
+   "Pranzo leggero"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Mance"
+  ]
+ },
+ "pagoda-d-oro-bamb-kiyomizu-geisya-guida-italiana": {
+  "title": "Pagoda d'oro, bambù, Kiyomizu, \"geisha\" (guida italiana)",
+  "metaTitle": "Pagoda d'oro e bambù, Kyoto",
+  "metaDescription": "Una giornata intera a Kyoto tra il Bosco di Bambù di Sagano e il Kinkaku-ji, con tutti i trasporti e i biglietti d'ingresso ai monumenti incluse.",
+  "shortDescription": "Una giornata intera a Kyoto tra il Bosco di Bambù di Sagano e il Kinkaku-ji, con tutti i trasporti e i biglietti d'ingresso ai monumenti incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di una giornata intera a Kyoto è costruita intorno al treno, al **Bosco di Bambù di Sagano** e al bus/pullman. Il punto d'incontro alla Stazione di Kyoto, ingresso nord (Karasuma-guchi), il tour di gruppo o individuale, accompagnato da una guida di lingua italiana, e tutti i trasporti e i biglietti d'ingresso ai monumenti visitati durante l'itinerario sono inclusi nel prezzo; il punto d'incontro è la Stazione di Kyoto.",
+  "highlights": [],
+  "included": [
+   "Punto d'incontro alla Stazione di Kyoto, ingresso nord (Karasuma-guchi)",
+   "Tour di gruppo o individuale, accompagnato da una guida di lingua italiana",
+   "Tutti i trasporti e i biglietti d'ingresso ai monumenti visitati durante l'itinerario"
+  ],
+  "notIncluded": []
+ },
+ "kifune-shrine-and-the-sacred-kifune-valley-day-trip-in-kyoto": {
+  "title": "Il Santuario Kifune e la sacra valle di Kifune, gita di un giorno da Kyoto",
+  "metaTitle": "Santuario Kifune, valle sacra",
+  "metaDescription": "Un'ora e mezza da Kyoto al Santuario Kifune, con la visita al santuario e l'immersione nel paesaggio montano sereno incluse.",
+  "shortDescription": "Un'ora e mezza da Kyoto al Santuario Kifune, con la visita al santuario e l'immersione nel paesaggio montano sereno incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora e mezza da Kyoto è costruita intorno al **Santuario Kifune**. La visita al Santuario Kifune, l'immersione nel sereno paesaggio montano, e la possibilità di provare il raro rituale della sorte Mizu-ura, un'esperienza unica di divinazione con l'acqua, sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita al Santuario Kifune",
+   "Immersione nel sereno paesaggio montano",
+   "Possibilità di provare il raro rituale della sorte Mizu-ura, un'esperienza unica di divinazione con l'acqua"
+  ],
+  "notIncluded": [
+   "Pasti e bevande"
+  ]
+ },
+ "day-trip-to-amanohashidate-and-ine-from-osaka-kyoto-by-local-operator": {
+  "title": "Gita di un giorno ad Amanohashidate e Ine da Osaka/Kyoto, con operatore locale",
+  "metaTitle": "Amanohashidate e Ine, gita",
+  "metaDescription": "Undici ore da Kyoto tra l'Amanohashidate Viewland e una Funaya, con trasporto, carburante e una guida-autista autorizzata incluse.",
+  "shortDescription": "Undici ore da Kyoto tra l'Amanohashidate Viewland e una Funaya, con trasporto, carburante e una guida-autista autorizzata incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di undici ore da Kyoto è costruita intorno all'**Amanohashidate Viewland**, al bus/pullman e a una **Funaya**. Il trasporto, il carburante, i pedaggi e le tariffe autostradali, e una guida-autista autorizzata sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I pasti e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto",
+   "Carburante, pedaggi e tariffe autostradali",
+   "Guida-autista autorizzata"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali"
+  ]
+ },
+ "amanohashidate-and-ine-funaya-day-tour-in-kyoto": {
+  "title": "Amanohashidate e le Funaya di Ine, tour di un giorno da Kyoto",
+  "metaTitle": "Amanohashidate e Funaya di Ine",
+  "metaDescription": "Dieci ore da Kyoto tra Amanohashidate e il Tempio Chionji, con la vista del \"Drago Volante\" su Amanohashidate e l'esplorazione delle Funaya di Ine incluse.",
+  "shortDescription": "Dieci ore da Kyoto tra Amanohashidate e il Tempio Chionji, con la vista del \"Drago Volante\" su Amanohashidate e l'esplorazione delle Funaya di Ine incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di dieci ore da Kyoto è costruita intorno al bus/pullman, ad **Amanohashidate** e al **Tempio Chionji**. La vista del \"Drago Volante\" su **Amanohashidate**, uno dei tre paesaggi più belli del Giappone, dove la straordinaria bellezza naturale incontra un ricco patrimonio culturale, e l'esplorazione delle **Funaya di Ine**, un autentico villaggio di pescatori sul mare, per vivere la vita quotidiana delle sue tradizionali case sull'acqua, sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Questo pacchetto non include di default i biglietti della funivia o della barca turistica delle Funaya di Ine: per assistenza nell'acquisto, contattare la guida dopo essere saliti a bordo del veicolo. I pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Vista del \"Drago Volante\" su Amanohashidate, uno dei tre paesaggi più belli del Giappone",
+   "Esplorazione delle Funaya di Ine, un autentico villaggio di pescatori sul mare",
+   "Il pacchetto non include di default i biglietti della funivia o della barca turistica delle Funaya di Ine; per assistenza nell'acquisto, contattare la guida dopo essere saliti a bordo del veicolo"
+  ],
+  "notIncluded": [
+   "Pasti"
+  ]
+ },
+ "must-see-sights-all-inclusive-1-day-tour-with-lunch-in-kyoto": {
+  "title": "I luoghi da non perdere, tour tutto incluso di 1 giorno con pranzo, a Kyoto",
+  "metaTitle": "Luoghi da non perdere, tutto incluso",
+  "metaDescription": "Duecentosessanta minuti da Kyoto tra il Kiyomizu-dera e il Fushimi Inari Taisha, con guida in inglese, bus climatizzato e pranzo incluse.",
+  "shortDescription": "Duecentosessanta minuti da Kyoto tra il Kiyomizu-dera e il Fushimi Inari Taisha, con guida in inglese, bus climatizzato e pranzo incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di duecentosessanta minuti da Kyoto è costruita intorno al **Kiyomizu-dera**, al **Fushimi Inari Taisha** e al bus/pullman. La guida in inglese, il bus climatizzato, il pranzo (buffet in stile Kyoto), il biglietto d'ingresso al Tempio Kiyomizu-dera, il biglietto d'ingresso al Tempio Kinkakuji, e il biglietto d'ingresso al Tempio Tenryuji sono inclusi nel prezzo; il punto d'incontro è la piazza del Sunk Garden, davanti all'uscita Hachijo della Stazione di Kyoto. Altre spese restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in inglese",
+   "Bus climatizzato",
+   "Pranzo (buffet in stile Kyoto)",
+   "Biglietto d'ingresso al Tempio Kiyomizu-dera",
+   "Biglietto d'ingresso al Tempio Kinkakuji",
+   "Biglietto d'ingresso al Tempio Tenryuji"
+  ],
+  "notIncluded": [
+   "Altre spese"
+  ]
+ },
+ "treasures-of-kyoto-gion-and-historical-walking-tour-by-local-operator": {
+  "title": "I tesori di Kyoto: Gion e tour storico a piedi, con operatore locale",
+  "metaTitle": "Tesori di Kyoto, Gion, a piedi",
+  "metaDescription": "Tre ore a Kyoto con un tour privato o in piccolo gruppo e il tour a piedi con i trasporti pubblici incluse.",
+  "shortDescription": "Tre ore a Kyoto con un tour privato o in piccolo gruppo e il tour a piedi con i trasporti pubblici incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di tre ore a Kyoto porta un tour privato o in piccolo gruppo, e il tour a piedi con i trasporti pubblici (eccetto se si seleziona una delle opzioni); il punto d'incontro è nel quartiere di Higashiyama, a Kyoto. Bevande o cibo, le mance (opzionali), e il trasporto locale intorno alla città (è un tour a piedi, il trasporto in auto non è incluso) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato o in piccolo gruppo",
+   "Tour a piedi con i trasporti pubblici (eccetto se si seleziona una delle opzioni)"
+  ],
+  "notIncluded": [
+   "Bevande o cibo",
+   "Mance (opzionali)",
+   "Trasporto locale intorno alla città (è un tour a piedi, il trasporto in auto non è incluso)"
+  ]
+ },
  "hiroshima-highlights-private-tour": {
   "title": "Tour privato dei punti salienti di Hiroshima: Memoriale della Pace, castello e Shukkei-en",
   "metaTitle": "Tour privato dei punti salienti di Hiroshima",
