@@ -41448,6 +41448,183 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "anime-singing-lesson-with-cosplay-video-in-hiroshima": {
+  "title": "Lezione di canto anime con video in cosplay a Hiroshima",
+  "metaTitle": "Canto anime e video cosplay a Hiroshima",
+  "metaDescription": "Ottanta minuti a Hiroshima per una lezione di canto personalizzata, pronuncia giapponese, registrazione audio e un video musicale in cosplay.",
+  "shortDescription": "Ottanta minuti a Hiroshima per una lezione di canto personalizzata, pronuncia giapponese, registrazione audio e un video musicale in cosplay.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura. Miyajima è a quaranta minuti di distanza.\n\nQuesta esperienza di ottanta minuti porta una lezione di canto personalizzata, un allenamento sulla pronuncia giapponese, la registrazione audio professionale, e la realizzazione di un video musicale in **cosplay**. I costumi cosplay di personaggi diversi da Naruto e One Piece restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Lezione di canto personalizzata",
+   "Allenamento sulla pronuncia giapponese",
+   "Registrazione audio professionale",
+   "Realizzazione di un video musicale in cosplay"
+  ],
+  "notIncluded": [
+   "Costumi cosplay di personaggi diversi da Naruto e One Piece"
+  ]
+ },
+ "nara-half-day-small-group-tour": {
+  "title": "Tour di mezza giornata a Nara in piccolo gruppo",
+  "metaTitle": "Nara, tour di mezza giornata in piccolo gruppo",
+  "metaDescription": "Cinque ore a Nara tra il Todai-ji e il Parco di Nara, con guida esperta selezionata con cura e tutto il trasporto incluso.",
+  "shortDescription": "Cinque ore a Nara tra il Todai-ji e il Parco di Nara, con guida esperta selezionata con cura e tutto il trasporto incluso.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il **Todai-ji**, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il **Kasuga Taisha** con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e cornano chi li disturba. Nara è a quarantacinque minuti da Kyoto o Osaka in treno e si visita in mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesto tour in piccolo gruppo di cinque ore porta una guida esperta selezionata con cura e tutto il trasporto. Pasti e bevande, i biglietti d'ingresso (circa 800 yen a persona), l'assicurazione di viaggio personale e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta selezionata con cura",
+   "Tutto il trasporto"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso (circa 800 yen a persona)",
+   "Assicurazione di viaggio personale",
+   "Mance"
+  ]
+ },
+ "hiroshima-and-miyajima-island-unesco-sites-private-tour-by-local-operator": {
+  "title": "Hiroshima e l'isola di Miyajima: tour privato dei siti UNESCO, con operatore locale",
+  "metaTitle": "Hiroshima e Miyajima: siti UNESCO, tour privato",
+  "metaDescription": "Sei ore private tra Hiroshima e Miyajima con guida in lingua inglese, pick-up a piedi e biglietti d'ingresso al museo e al santuario inclusi.",
+  "shortDescription": "Sei ore private tra Hiroshima e Miyajima con guida in lingua inglese, pick-up a piedi e biglietti d'ingresso al museo e al santuario inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Miyajima è a quaranta minuti di distanza, e la maggior parte dei visitatori abbina le due tappe in un solo giorno.\n\nQuesto tour privato di sei ore, con operatore locale, porta una guida turistica in lingua inglese, il pick-up a piedi dall'alloggio, i biglietti d'ingresso al **Museo Memoriale della Pace** e al **Santuario di Itsukushima**, e la tassa turistica di Miyajima. Pranzo, un veicolo privato e l'alloggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato",
+   "Guida turistica in lingua inglese",
+   "Pick-up a piedi dall'alloggio",
+   "Biglietti d'ingresso al Museo Memoriale della Pace",
+   "Biglietti d'ingresso al Santuario di Itsukushima",
+   "Tassa turistica di Miyajima"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Veicolo privato",
+   "Alloggio"
+  ]
+ },
+ "nara-and-kyoto-ancient-charm-one-day-tour-by-local-operator": {
+  "title": "Nara e Kyoto, il fascino antico: tour di un giorno, con operatore locale",
+  "metaTitle": "Nara e Kyoto: tour di un giorno, fascino antico",
+  "metaDescription": "Dieci ore tra Nara e Kyoto, con il Kiyomizu-dera e il Fushimi Inari Taisha, veicolo e assicurazione passeggeri incluse.",
+  "shortDescription": "Dieci ore tra Nara e Kyoto, con il Kiyomizu-dera e il Fushimi Inari Taisha, veicolo e assicurazione passeggeri incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il **Kiyomizu-dera**, la terrazza in legno sulle colline orientali; e i torii del **Fushimi Inari**. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesto tour di dieci ore collega **Nara** e **Kyoto**, con il veicolo, l'assicurazione passeggeri, e le tariffe per il servizio dell'autista e della guida incluse. I pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Veicolo",
+   "Assicurazione passeggeri",
+   "Tariffe per il servizio dell'autista e della guida"
+  ],
+  "notIncluded": [
+   "Pasti"
+  ]
+ },
+ "nara-customized-private-tour-in-1-day-with-licensed-guide-by-local-operator": {
+  "title": "Nara: tour privato personalizzato di un giorno con guida autorizzata, con operatore locale",
+  "metaTitle": "Nara: tour privato personalizzato con guida autorizzata",
+  "metaDescription": "Sei ore a Nara con un tour privato e personalizzato di 4 o 6 ore, con una guida locale autorizzata e il pick-up a piedi dall'alloggio incluso.",
+  "shortDescription": "Sei ore a Nara con un tour privato e personalizzato di 4 o 6 ore, con una guida locale autorizzata e il pick-up a piedi dall'alloggio incluso.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. Nara è a quarantacinque minuti da Kyoto o Osaka in treno e si visita in mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesto tour privato di sei ore, con operatore locale, porta un tour privato e personalizzato di 4 o 6 ore a scelta, una guida locale autorizzata, il pick-up a piedi dall'alloggio (se a distanza ragionevole), e un tour a piedi (altri mezzi di trasporto possono essere organizzati con costo extra). Cibo e bevande, qualsiasi biglietto d'ingresso, il trasporto da e per il punto di incontro, e la tariffa dei trasporti pubblici o privati durante il tour restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato e personalizzato di 4 o 6 ore",
+   "Guida locale autorizzata",
+   "Pick-up a piedi dall'alloggio (se a distanza ragionevole)",
+   "Tour a piedi (altri mezzi di trasporto organizzabili con costo extra)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Qualsiasi biglietto d'ingresso",
+   "Trasporto da e per il punto di incontro",
+   "Tariffa dei trasporti pubblici o privati durante il tour"
+  ]
+ },
+ "kyoto-and-nara-fushimi-inari-sacred-deer-and-heritage-tour-by-local-operator": {
+  "title": "Kyoto e Nara: Fushimi Inari, i cervi sacri e un tour del patrimonio, con operatore locale",
+  "metaTitle": "Kyoto e Nara: Fushimi Inari e i cervi sacri",
+  "metaDescription": "Cinque ore tra Nara e il Fushimi Inari Taisha, con una guida locale inclusa, cibo e bevande a carico del cliente.",
+  "shortDescription": "Cinque ore tra Nara e il Fushimi Inari Taisha, con una guida locale inclusa, cibo e bevande a carico del cliente.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande sito di Kyoto visitabile all'alba o dopo il tramonto. Entro le nove del mattino le gallerie più basse diventano una fila lenta. Le statue delle volpi portano in bocca le chiavi del granaio del riso.\n\nQuesta esperienza di cinque ore collega il **Parco di Nara** e il **Fushimi Inari Taisha**, con una guida locale inclusa. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "deer-park-todai-ji-and-naramachi-walking-tour": {
+  "title": "Tour a piedi del Parco dei Cervi, del Todai-ji e di Naramachi",
+  "metaTitle": "Parco dei Cervi, Todai-ji e Naramachi, tour a piedi",
+  "metaDescription": "Due ore e mezza a Nara tra il Parco di Nara, il Kasuga Taisha e Naramachi, con tour guidato a piedi incluso.",
+  "shortDescription": "Due ore e mezza a Nara tra il Parco di Nara, il Kasuga Taisha e Naramachi, con tour guidato a piedi incluso.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752. Circa 1.200 cervi sika, considerati messaggeri degli dei, vagano protetti nel parco.\n\nQuesto tour guidato a piedi di due ore e mezza porta la visita al **Parco di Nara**, al **Kasuga Taisha** e a **Naramachi**, il quartiere delle vecchie case di legno. Il biglietto d'ingresso al Tempio Todaiji resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato a piedi",
+   "Visita al Parco di Nara",
+   "Visita al Kasuga Taisha",
+   "Visita a Naramachi"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Tempio Todaiji"
+  ]
+ },
+ "old-town-alleys-temple-culture-and-fresh-mochi-in-nara": {
+  "title": "Vicoli della città vecchia, cultura dei templi e mochi fresco a Nara",
+  "metaTitle": "Vicoli storici e mochi fresco a Nara",
+  "metaDescription": "Un'ora e mezza a Nara tra il Tempio Gangoji e Naramachi, con una degustazione di mochi fresco da Nakatanidou e guida in lingua inglese incluse.",
+  "shortDescription": "Un'ora e mezza a Nara tra il Tempio Gangoji e Naramachi, con una degustazione di mochi fresco da Nakatanidou e guida in lingua inglese incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Nara è a quarantacinque minuti da Kyoto o Osaka in treno e si visita in mezza giornata.\n\nQuesta esperienza di un'ora e mezza porta una guida in lingua inglese, il biglietto d'ingresso al **Tempio Gangoji**, un tour guidato a piedi di **Naramachi**, e una degustazione di mochi fresco da **Nakatanidou**. Cibo e bevande aggiuntivi, il trasporto fino al punto di incontro e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Biglietto d'ingresso al Tempio Gangoji",
+   "Tour guidato a piedi di Naramachi",
+   "Degustazione di mochi fresco da Nakatanidou"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi",
+   "Trasporto fino al punto di incontro",
+   "Spese personali"
+  ]
+ },
+ "kyoto-and-nara-historic-city-day-trip-with-hotel-pickup": {
+  "title": "Gita di un giorno tra le città storiche di Kyoto e Nara, con pick-up in hotel",
+  "metaTitle": "Kyoto e Nara: gita storica con pick-up in hotel",
+  "metaDescription": "Dieci ore tra Kyoto e Nara con il Kiyomizu-dera, il Fushimi Inari Taisha e il Parco di Nara, veicolo climatizzato da 4 a 9 posti incluso.",
+  "shortDescription": "Dieci ore tra Kyoto e Nara con il Kiyomizu-dera, il Fushimi Inari Taisha e il Parco di Nara, veicolo climatizzato da 4 a 9 posti incluso.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il **Kiyomizu-dera**; e i torii del **Fushimi Inari**. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesta gita di dieci ore collega **Kyoto** e **Nara**, con un veicolo climatizzato comodo da 4 a 9 posti, tutte le tasse, le tariffe di parcheggio, i pedaggi, il carburante e le imposte ambientali, e il servizio di pick-up in hotel nell'area della linea circolare di Osaka. Pasti, bevande e biglietti per le attrazioni restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Veicolo climatizzato comodo da 4 a 9 posti",
+   "Tutte le tasse, tariffe di parcheggio, pedaggi, carburante e imposte ambientali",
+   "Servizio di pick-up in hotel nell'area della linea circolare di Osaka"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "I biglietti per le attrazioni non sono inclusi"
+  ]
+ },
+ "from-osaka-or-kyoto-3-day-kyoto-nara-and-hiroshima-tour-by-local-operator": {
+  "title": "Da Osaka o Kyoto: tour di 3 giorni tra Kyoto, Nara e Hiroshima, con operatore locale",
+  "metaTitle": "Tour di 3 giorni: Kyoto, Nara, Hiroshima",
+  "metaDescription": "Tre giorni da Osaka o Kyoto con pick-up e drop-off in hotel, veicolo privato climatizzato, autista-guida in lingua inglese e carburante inclusi.",
+  "shortDescription": "Tre giorni da Osaka o Kyoto con pick-up e drop-off in hotel, veicolo privato climatizzato, autista-guida in lingua inglese e carburante inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00.\n\nQuesto tour privato di tre giorni, con operatore locale, porta il pick-up e il drop-off in hotel da Osaka o Kyoto, un veicolo privato climatizzato, un autista-guida in lingua inglese, carburante, pedaggi e tariffe di parcheggio, un itinerario completamente personalizzabile, e rinfreschi di benvenuto, collegando **Kyoto**, **Nara** e **Hiroshima**.",
+  "highlights": [],
+  "included": [
+   "Tour privato di 3 giorni",
+   "Pick-up e drop-off in hotel da Osaka o Kyoto",
+   "Veicolo privato climatizzato",
+   "Autista-guida in lingua inglese",
+   "Carburante, pedaggi e tariffe di parcheggio",
+   "Itinerario completamente personalizzabile",
+   "Rinfreschi di benvenuto"
+  ],
+  "notIncluded": []
+ },
  "nagoya-shirakawago-takayama-observatory-day-trip": {
   "title": "Shirakawa-go dall'osservatorio e il centro storico di Takayama, in un giorno da Nagoya",
   "metaTitle": "Shirakawa-go e Takayama da Nagoya",
