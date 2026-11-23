@@ -1,6 +1,15 @@
 // Japan density batch reviews (2026-09), keyed by DB slug. Generated from jp/reviews_db.json (guest photos on R2).
 import type { TourReviewData } from './tourReviews';
 export const JAPAN_REVIEWS: Record<string, TourReviewData> = {
+  'sapporo-ramen-yokocho-ramen-alley-food-tour': {
+            averageRating: 5.0,
+            totalReviews: 1,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Traveller", country: "Verified traveller review", rating: 5, date: "2026-06-01", text: "Tetsuya was our guide, he took a lot of time with us and showed us many of the alley's ramen shops, explaining the history along the way." }
+            ]
+        },
   'private-tour-from-tokyo-to-mount-fuji-with-custom-itinerary-by-local-operator': {
             averageRating: 5.0,
             totalReviews: 4,
