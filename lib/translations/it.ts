@@ -42821,6 +42821,163 @@ export const IT_TOURS: Record<string, TourT> = {
    "Biglietti d'ingresso ai siti fuori dall'opzione di percorso scelta non inclusi"
   ]
  },
+ "kamigamo-and-shimogamo-shrines-guided-tour-3h-in-kyoto": {
+  "title": "Santuari di Kamigamo e Shimogamo: tour guidato di 3 ore a Kyoto",
+  "metaTitle": "Santuari di Kamigamo e Shimogamo, Kyoto",
+  "metaDescription": "Tre ore tra il Santuario Kamigamo, il Santuario Shimogamo e la Foresta di Tadasu-no-Mori, con approfondimenti storici e credenze shintoiste incluse.",
+  "shortDescription": "Tre ore tra il Santuario Kamigamo, il Santuario Shimogamo e la Foresta di Tadasu-no-Mori, con approfondimenti storici e credenze shintoiste incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour guidato di tre ore porta approfondimenti storici, le credenze shintoiste, i significati simbolici, e racconti trasmessi di generazione in generazione, tra il **Santuario Kamigamo**, il **Santuario Shimogamo** e la **Foresta di Tadasu-no-Mori**. Il trasporto fino al punto di partenza, i pasti e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato di 3 ore",
+   "Approfondimenti storici",
+   "Credenze shintoiste",
+   "Significati simbolici",
+   "Racconti trasmessi di generazione in generazione"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto di partenza",
+   "Pasti",
+   "Spese personali"
+  ]
+ },
+ "night-e-bike-tour-of-hidden-gems-and-backstreets-in-kyoto": {
+  "title": "Tour notturno in e-bike tra gemme nascoste e vicoli di Kyoto",
+  "metaTitle": "Tour notturno in e-bike, Kyoto",
+  "metaDescription": "Due ore di notte a Kyoto in e-bike tra il Museo Nazionale, il Kiyomizu-dera e la Pagoda Yasaka, con noleggio bici, casco e guida dal vivo inclusi.",
+  "shortDescription": "Due ore di notte a Kyoto in e-bike tra il Museo Nazionale, il Kiyomizu-dera e la Pagoda Yasaka, con noleggio bici, casco e guida dal vivo inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari.\n\nQuesto tour notturno di due ore in **e-bike** porta il noleggio della bicicletta elettrica, il casco e una guida dal vivo, tra il **Museo Nazionale di Kyoto**, il **Kiyomizu-dera** e il punto panoramico della **Pagoda Yasaka**. Pick-up e drop-off in hotel, cibo e bevande, e l'assicurazione restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio e-bike",
+   "Casco",
+   "Guida dal vivo"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande",
+   "Assicurazione"
+  ]
+ },
+ "gion-hidden-gems-and-geisha-culture-tour": {
+  "title": "Gion: gemme nascoste e la cultura delle geisha, tour",
+  "metaTitle": "Gion: gemme nascoste e cultura delle geisha",
+  "metaDescription": "Due ore tra il Canale Shirakawa, il Santuario Tatsumi-jinja e il Santuario Yasaka, con guida locale in lingua inglese inclusa.",
+  "shortDescription": "Due ore tra il Canale Shirakawa, il Santuario Tatsumi-jinja e il Santuario Yasaka, con guida locale in lingua inglese inclusa.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati.\n\nQuesta esperienza di due ore porta una guida locale in lingua inglese, tra il **Canale Shirakawa**, il **Santuario Tatsumi-jinja** e il **Santuario Yasaka**.",
+  "highlights": [],
+  "included": [
+   "Guida locale in lingua inglese"
+  ],
+  "notIncluded": []
+ },
+ "gion-and-geisha-district-nighttime-walking-tour": {
+  "title": "Tour a piedi notturno di Gion e del quartiere delle geisha",
+  "metaTitle": "Gion di notte: quartiere delle geisha",
+  "metaDescription": "Due ore di notte tra Gion, il Santuario Yasaka e Nene no Michi, con guida, approfondimenti storici e foto durante il tour incluse.",
+  "shortDescription": "Due ore di notte tra Gion, il Santuario Yasaka e Nene no Michi, con guida, approfondimenti storici e foto durante il tour incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha.\n\nQuesto tour a piedi notturno di due ore porta una guida in lingua inglese, approfondimenti storici sul **Santuario Yasaka**, e foto scattate durante il tour, tra **Gion**, il santuario e **Nene no Michi**.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Approfondimenti storici sul Santuario Yasaka",
+   "Foto durante il tour"
+  ],
+  "notIncluded": []
+ },
+ "fromosaka-katsuojitemple-kiyomizudera-arashiyama-matcha-kyoto": {
+  "title": "Da Osaka: Tempio Katsuo-ji, Kiyomizudera, Arashiyama, matcha (Kyoto)",
+  "metaTitle": "Da Osaka: Katsuo-ji, Kiyomizudera, Arashiyama",
+  "metaDescription": "Dieci ore e mezza da Osaka tra il Tempio Katsuo-ji e Arashiyama, con veicolo climatizzato, autista in inglese o cinese e biglietto del tempio inclusi.",
+  "shortDescription": "Dieci ore e mezza da Osaka tra il Tempio Katsuo-ji e Arashiyama, con veicolo climatizzato, autista in inglese o cinese e biglietto del tempio inclusi.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione.\n\nQuesto tour di dieci ore e mezza, da Osaka, porta un veicolo climatizzato, un autista in lingua inglese o cinese, il biglietto del **Tempio Katsuo-ji** incluso, e il pranzo con un'esperienza di **matcha**, se l'opzione è selezionata, tra il tempio e **Arashiyama**.",
+  "highlights": [],
+  "included": [
+   "Veicolo climatizzato",
+   "Autista in lingua inglese o cinese",
+   "Biglietto del Tempio Katsuo-ji incluso",
+   "Pranzo ed esperienza di matcha (se l'opzione è selezionata)"
+  ],
+  "notIncluded": []
+ },
+ "city-secrets-ebike-tour-in-kyoto": {
+  "title": "Tour in e-bike tra i segreti della città a Kyoto",
+  "metaTitle": "Segreti della città in e-bike, Kyoto",
+  "metaDescription": "Duecentoventicinque minuti a Kyoto in e-bike, con guida in lingua inglese, biciclette, caschi e tutti i biglietti d'ingresso alle attrazioni inclusi.",
+  "shortDescription": "Duecentoventicinque minuti a Kyoto in e-bike, con guida in lingua inglese, biciclette, caschi e tutti i biglietti d'ingresso alle attrazioni inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari.\n\nQuesta esperienza di duecentoventicinque minuti porta una guida in lingua inglese, le biciclette, i caschi, e tutti i biglietti d'ingresso alle attrazioni.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Biciclette",
+   "Caschi",
+   "Tutti i biglietti d'ingresso alle attrazioni"
+  ],
+  "notIncluded": []
+ },
+ "japanese-archery-workshop-with-experienced-instructor-in-kyoto": {
+  "title": "Laboratorio di tiro con l'arco giapponese con istruttore esperto a Kyoto",
+  "metaTitle": "Tiro con l'arco giapponese, Kyoto",
+  "metaDescription": "Un'ora a Kyoto per una lezione di kyudo con istruttore esperto, con tutta l'attrezzatura necessaria per il kyudo inclusa.",
+  "shortDescription": "Un'ora a Kyoto per una lezione di kyudo con istruttore esperto, con tutta l'attrezzatura necessaria per il kyudo inclusa.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di un'ora porta una lezione di **kyudo**, il tiro con l'arco giapponese, un istruttore esperto, e tutta l'attrezzatura necessaria per il kyudo. Il pick-up e il drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Lezione di kyudo",
+   "Istruttore esperto",
+   "Tutta l'attrezzatura necessaria per il kyudo"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "traditional-yuzen-dyeing-experience-in-kyoto": {
+  "title": "Esperienza tradizionale di tintura yuzen a Kyoto",
+  "metaTitle": "Tintura tradizionale yuzen, Kyoto",
+  "metaDescription": "Due ore a Kyoto per un'esperienza di tintura yuzen con istruzione diretta da un artigiano, interprete e la visione di opere yuzen di Kyoto incluse.",
+  "shortDescription": "Due ore a Kyoto per un'esperienza di tintura yuzen con istruzione diretta da un artigiano, interprete e la visione di opere yuzen di Kyoto incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di due ore porta l'esperienza di tintura **yuzen**, l'istruzione diretta da un artigiano, un interprete, e la visione di opere yuzen di Kyoto. Il trasporto da e per il punto di incontro e i costi aggiuntivi restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza di tintura yuzen",
+   "Istruzione diretta da un artigiano",
+   "Interprete",
+   "Visione di opere yuzen di Kyoto"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto di incontro",
+   "Costi aggiuntivi (ad esempio l'acquisto di opere dall'artigiano in contanti)"
+  ]
+ },
+ "asuka-private-guided-tour-of-an-ancient-capital-of-japan-kyoto": {
+  "title": "Asuka: tour privato guidato di un'antica capitale del Giappone (Kyoto)",
+  "metaTitle": "Asuka: antica capitale del Giappone, tour privato",
+  "metaDescription": "Otto ore ad Asuka con una guida e le relative tariffe incluse, tra il Tempio Asuka-dera e il sito del Palazzo Asuka Itabuki-no-miya.",
+  "shortDescription": "Otto ore ad Asuka con una guida e le relative tariffe incluse, tra il Tempio Asuka-dera e il sito del Palazzo Asuka Itabuki-no-miya.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour privato di otto ore porta la guida e le relative tariffe (pranzo della guida, biglietti d'ingresso e trasporto della guida), tra il **Tempio Asuka-dera** e il sito del **Palazzo Asuka Itabuki-no-miya**. La tariffa del pranzo (circa 2.000 yen a persona), i trasporti pubblici usati per un costo extra, poiché il tour è a piedi, e i biglietti d'ingresso (scelti insieme sul momento, se lo si desidera) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida e relative tariffe (pranzo della guida, biglietti d'ingresso e trasporto della guida)"
+  ],
+  "notIncluded": [
+   "Tariffa del pranzo (circa 2.000 yen a persona)",
+   "Il tour è un'esperienza a piedi; i trasporti pubblici possono essere usati con un costo extra",
+   "Biglietti d'ingresso (scelti insieme sul momento, se lo si desidera)"
+  ]
+ },
+ "ry-an-ji-greatest-zen-garden-guided-tour-in-90-min-in-kyoto": {
+  "title": "Ryōan-ji, il più grande giardino zen: tour guidato in 90 minuti a Kyoto",
+  "metaTitle": "Ryōan-ji: il giardino zen, tour di 90 minuti",
+  "metaDescription": "Un'ora e mezza al Ryōan-ji con la tariffa della guida e il biglietto d'ingresso al giardino zen più famoso di Kyoto incluse.",
+  "shortDescription": "Un'ora e mezza al Ryōan-ji con la tariffa della guida e il biglietto d'ingresso al giardino zen più famoso di Kyoto incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il **Ryoan-ji** il giardino di rocce.\n\nQuesta esperienza di un'ora e mezza porta la tariffa della guida e il biglietto d'ingresso al **Ryōan-ji**, il più grande giardino zen.",
+  "highlights": [],
+  "included": [
+   "Tariffa della guida",
+   "Biglietto d'ingresso al Ryōan-ji"
+  ],
+  "notIncluded": []
+ },
  "nara-wagashi-workshop-with-matcha-tasting": {
   "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
   "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
