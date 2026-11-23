@@ -40341,6 +40341,180 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pranzo"
   ]
  },
+ "japanese-sake-etiquette-experience-with-tasting-in-hiroshima": {
+  "title": "Esperienza di etichetta del sake giapponese con degustazione a Hiroshima",
+  "metaTitle": "Etichetta e degustazione di sake a Hiroshima",
+  "metaDescription": "Trenta minuti a Hiroshima per imparare l'etichetta del sake giapponese, con degustazione guidata di tre varietà locali e una mappa delle fabbriche di sake.",
+  "shortDescription": "Trenta minuti a Hiroshima per imparare l'etichetta del sake giapponese, con degustazione guidata di tre varietà locali e una mappa delle fabbriche di sake.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura.\n\nQuesta esperienza di trenta minuti porta un'introduzione al **sake giapponese**, le tazze tradizionali e gli stili di servizio, l'etichetta giapponese di versare e ricevere, una degustazione guidata di tre varietà di sake di Hiroshima, una mappa delle fabbriche di sake della città, e un istruttore in lingua inglese.",
+  "highlights": [],
+  "included": [
+   "Introduzione al sake giapponese",
+   "Tazze tradizionali e stili di servizio",
+   "Etichetta giapponese di versare e ricevere",
+   "Degustazione guidata di 3 varietà di sake di Hiroshima",
+   "Mappa delle fabbriche di sake di Hiroshima",
+   "Istruttore in lingua inglese"
+  ],
+  "notIncluded": []
+ },
+ "historical-highlights-of-hiroshima-group-walking-tour-by-local-operator": {
+  "title": "I luoghi storici iconici di Hiroshima: tour di gruppo a piedi, con operatore locale",
+  "metaTitle": "Luoghi storici di Hiroshima, tour di gruppo",
+  "metaDescription": "Due ore a Hiroshima tra le Porte della Pace, la statua Madre e Bambino nella Tempesta e la Fontana della Preghiera, con ingresso al memoriale incluso.",
+  "shortDescription": "Due ore a Hiroshima tra le Porte della Pace, la statua Madre e Bambino nella Tempesta e la Fontana della Preghiera, con ingresso al memoriale incluso.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era. Il Monumento della Pace dei Bambini è coperto di gru di carta inviate da tutto il mondo.\n\nQuesto tour di gruppo a piedi di due ore porta un tour guidato tra le **Porte della Pace**, la statua **Madre e Bambino nella Tempesta** e la **Fontana della Preghiera**, con l'ingresso alla Sala Memoriale della Pace di Hiroshima per le vittime della bomba atomica. Cibo, bevande e trasporto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato",
+   "Ingresso alla Sala Memoriale della Pace di Hiroshima per le vittime della bomba atomica"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Trasporto"
+  ]
+ },
+ "heritage-walk-and-old-town-walking-tour-in-hiroshima": {
+  "title": "Passeggiata nel patrimonio e tour a piedi nella città vecchia a Hiroshima",
+  "metaTitle": "Tour a piedi nella città vecchia, Hiroshima",
+  "metaDescription": "Tre ore a Hiroshima tra la Stazione di Hiroshima e la via dello shopping di Hondori, con guida locale e punti panoramici per le foto incluse.",
+  "shortDescription": "Tre ore a Hiroshima tra la Stazione di Hiroshima e la via dello shopping di Hondori, con guida locale e punti panoramici per le foto incluse.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura.\n\nQuesto tour a piedi di tre ore porta una guida locale, una guida in lingua inglese e punti panoramici per le foto, tra la **Stazione di Hiroshima** e la via dello shopping di **Hondori**. Il pick-up in hotel, gli acquisti personali e il cibo e le bevande aggiuntivi restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Guida in lingua inglese",
+   "Punti panoramici per le foto"
+  ],
+  "notIncluded": [
+   "Pick-up in hotel",
+   "Acquisti personali",
+   "Cibo e bevande aggiuntivi"
+  ]
+ },
+ "miyajima-and-hiroshima-unesco-day-tour": {
+  "title": "Tour di un giorno UNESCO a Miyajima e Hiroshima",
+  "metaTitle": "Miyajima e Hiroshima, tour UNESCO di un giorno",
+  "metaDescription": "Otto ore tra Hiroshima e Miyajima con biglietto d'ingresso al Museo Atomico, traghetto per Miyajima e ingresso al Santuario di Itsukushima inclusi.",
+  "shortDescription": "Otto ore tra Hiroshima e Miyajima con biglietto d'ingresso al Museo Atomico, traghetto per Miyajima e ingresso al Santuario di Itsukushima inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era; il Museo Memoriale della Pace è riaperto nel 2019 dopo un restyling. Miyajima è a quaranta minuti di distanza.\n\nQuesto tour di otto ore porta il biglietto d'ingresso al **Museo Atomico**, una guida turistica, la traversata in traghetto verso **Miyajima**, e l'ingresso al **Santuario di Itsukushima**. Il cibo, le spese personali per lo shopping e un'assicurazione di viaggio più estesa (questa gita include solo l'assicurazione di base; si consiglia di organizzare una coperture propria per maggiore protezione) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietti d'ingresso al Museo Atomico",
+   "Guida turistica",
+   "Traversata in traghetto verso Miyajima",
+   "Ingresso al Santuario di Itsukushima"
+  ],
+  "notIncluded": [
+   "Cibo",
+   "Spese personali per lo shopping",
+   "Questa gita include solo l'assicurazione di viaggio di base; organizzate una coperture propria se avete bisogno di più protezione"
+  ]
+ },
+ "osaka-kyoto-hiroshima-hiroshima-miyajima-bus-tour-by-local-operator": {
+  "title": "Osaka/Kyoto/Hiroshima: tour in bus a Hiroshima e Miyajima, con operatore locale",
+  "metaTitle": "Hiroshima e Miyajima da Osaka o Kyoto, tour in bus",
+  "metaDescription": "Otto ore con biglietto Shinkansen andata e ritorno da Kyoto o Osaka, bus climatizzato, ingresso al santuario, al museo e traghetto per Miyajima inclusi.",
+  "shortDescription": "Otto ore con biglietto Shinkansen andata e ritorno da Kyoto o Osaka, bus climatizzato, ingresso al santuario, al museo e traghetto per Miyajima inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera, la terrazza in legno sulle colline orientali; e i torii del Fushimi Inari.\n\nQuesto tour di otto ore, con operatore locale, porta il biglietto Shinkansen andata e ritorno da Kyoto o Osaka, il trasporto andata e ritorno in bus climatizzato, il biglietto d'ingresso al **Santuario di Itsukushima**, il biglietto d'ingresso al **Museo Memoriale della Pace di Hiroshima**, la traversata in traghetto andata e ritorno per Miyajima, una guida locale, e un pranzo a base di **okonomiyaki in stile Hiroshima**. Il pick-up e il drop-off in hotel, e il biglietto Shinkansen andata e ritorno nel piano \"da Hiroshima\", restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto Shinkansen andata e ritorno da Kyoto o Osaka",
+   "Trasporto andata e ritorno in bus climatizzato",
+   "Biglietto d'ingresso al Santuario di Itsukushima",
+   "Biglietto d'ingresso al Museo Memoriale della Pace di Hiroshima",
+   "Traversata in traghetto andata e ritorno per Miyajima",
+   "Guida locale",
+   "Pranzo a base di okonomiyaki in stile Hiroshima"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Biglietto Shinkansen andata e ritorno (piano \"da Hiroshima\")"
+  ]
+ },
+ "hiroshima-osaka-kyoto-miyajima-and-hiroshima-1-day-bus-tour-by-local-operator": {
+  "title": "Hiroshima, Osaka, Kyoto: tour in bus di un giorno a Miyajima e Hiroshima, con operatore locale",
+  "metaTitle": "Miyajima e Hiroshima, tour in bus di un giorno",
+  "metaDescription": "Otto ore con bus climatizzato, guida in inglese, biglietto del traghetto per Miyajima, ingresso al santuario e al museo della pace inclusi.",
+  "shortDescription": "Otto ore con bus climatizzato, guida in inglese, biglietto del traghetto per Miyajima, ingresso al santuario e al museo della pace inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour in bus di un giorno, di otto ore, con operatore locale, porta il bus climatizzato, una guida in lingua inglese, il biglietto del traghetto per **Miyajima**, il biglietto d'ingresso al **Santuario di Itsukushima**, il biglietto d'ingresso al **Museo Memoriale della Pace di Hiroshima**, e, solo per l'opzione con piano Kyoto/Osaka, il biglietto Shinkansen andata e ritorno. Pranzo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Bus climatizzato",
+   "Guida in lingua inglese",
+   "Biglietto del traghetto per Miyajima",
+   "Biglietto d'ingresso al Santuario di Itsukushima",
+   "Biglietto d'ingresso al Museo Memoriale della Pace di Hiroshima",
+   "Biglietto Shinkansen andata e ritorno (solo per l'opzione con piano Kyoto e Osaka)"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Bevande"
+  ]
+ },
+ "play-the-koto-near-hiroshima-s-atomic-bomb-dome-by-local-operator": {
+  "title": "Suona il koto vicino alla Cupola della Bomba Atomica di Hiroshima, con operatore locale",
+  "metaTitle": "Suona il koto vicino alla Cupola della Bomba Atomica",
+  "metaDescription": "Un'ora e mezza a Hiroshima per suonare il koto, lo strumento tradizionale a corde, vicino alla Cupola della Bomba Atomica.",
+  "shortDescription": "Un'ora e mezza a Hiroshima per suonare il koto, lo strumento tradizionale a corde, vicino alla Cupola della Bomba Atomica.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era; il Museo Memoriale della Pace è riaperto nel 2019 dopo un restyling. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura. Miyajima è a quaranta minuti di distanza.\n\nQuesta esperienza di un'ora e mezza, con operatore locale, porta la possibilità di suonare il **koto**, lo strumento tradizionale giapponese a corde, vicino alla Cupola della Bomba Atomica.",
+  "highlights": [],
+  "included": [],
+  "notIncluded": []
+ },
+ "hiroshima-calligraphy-create-your-own-kanji-art-and-souvenir-by-local-operator": {
+  "title": "Calligrafia a Hiroshima: crea la tua opera in kanji e un souvenir, con operatore locale",
+  "metaTitle": "Laboratorio di calligrafia kanji a Hiroshima",
+  "metaDescription": "Un'ora e mezza a Hiroshima per creare la propria opera di calligrafia in kanji, con noleggio degli strumenti e adesivi personalizzati inclusi.",
+  "shortDescription": "Un'ora e mezza a Hiroshima per creare la propria opera di calligrafia in kanji, con noleggio degli strumenti e adesivi personalizzati inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura.\n\nQuesta esperienza di un'ora e mezza porta tutte le tasse e le imposte, il noleggio degli strumenti di **calligrafia**, un'opera di calligrafia creata personalmente e gli adesivi personalizzati. Il pick-up e il drop-off in hotel, il cibo e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tutte le tasse e le imposte",
+   "Noleggio degli strumenti di calligrafia",
+   "Un'opera di calligrafia creata personalmente e gli adesivi personalizzati"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande"
+  ]
+ },
+ "history-of-hiroshima-private-walking-tour-multilingual-by-local-operator": {
+  "title": "La storia di Hiroshima: tour a piedi privato e multilingue, con operatore locale",
+  "metaTitle": "Storia di Hiroshima, tour privato multilingue",
+  "metaDescription": "Tre ore a Hiroshima tra le Porte della Pace, la statua Madre e Bambino nella Tempesta e la Fontana della Preghiera, con tour guidato privato.",
+  "shortDescription": "Tre ore a Hiroshima tra le Porte della Pace, la statua Madre e Bambino nella Tempesta e la Fontana della Preghiera, con tour guidato privato.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era.\n\nQuesto tour a piedi privato e multilingue di tre ore, con operatore locale, porta un tour guidato tra le **Porte della Pace**, la statua **Madre e Bambino nella Tempesta** e la **Fontana della Preghiera**. Il cibo, il biglietto d'ingresso al museo e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato"
+  ],
+  "notIncluded": [
+   "Cibo",
+   "Biglietto d'ingresso al museo",
+   "Mance"
+  ]
+ },
+ "hiroshima-and-miyajima-private-1-day-food-tour-by-local-operator": {
+  "title": "Hiroshima e Miyajima: tour gastronomico privato di un giorno, con operatore locale",
+  "metaTitle": "Tour gastronomico a Hiroshima e Miyajima",
+  "metaDescription": "Sette ore tra Hiroshima e Miyajima con pick-up in hotel, guida bilingue e dolcetti momiji manju inclusi.",
+  "shortDescription": "Sette ore tra Hiroshima e Miyajima con pick-up in hotel, guida bilingue e dolcetti momiji manju inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura. Miyajima è a quaranta minuti di distanza, e la maggior parte dei visitatori abbina le due tappe in un solo giorno.\n\nQuesto tour gastronomico privato di sette ore, con operatore locale, porta il pick-up in hotel, una guida bilingue, e un assaggio di **momiji manju**, i dolcetti d'acero, tra **Hiroshima** e **Miyajima**. Trasporto, ingresso al museo e al santuario, pranzo, bevande personali e mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up in hotel",
+   "Guida bilingue",
+   "Momiji manju"
+  ],
+  "notIncluded": [
+   "Trasporto",
+   "Ingresso al museo e al santuario",
+   "Pranzo",
+   "Bevande personali",
+   "Mance"
+  ]
+ },
  "nagoya-shirakawago-takayama-observatory-day-trip": {
   "title": "Shirakawa-go dall'osservatorio e il centro storico di Takayama, in un giorno da Nagoya",
   "metaTitle": "Shirakawa-go e Takayama da Nagoya",
