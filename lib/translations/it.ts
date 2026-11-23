@@ -42708,6 +42708,188 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande"
   ]
  },
+ "shinjuku-chopstick-making-workshop": {
+  "title": "Laboratorio di creazione di bacchette, a Shinjuku",
+  "metaTitle": "Laboratorio di bacchette, Shinjuku",
+  "metaDescription": "Un'ora a Tokyo, con il laboratorio di creazione di bacchette e la scelta tra oltre 10 tipi di legno di alta qualità incluse. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Un'ora a Tokyo, con il laboratorio di creazione di bacchette e la scelta tra oltre 10 tipi di legno di alta qualità incluse. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il laboratorio di creazione di bacchette, la scelta tra oltre 10 tipi di legno di alta qualità, consigli per esplorare Shinjuku, tutti gli strumenti e i materiali forniti e il personale. Non comprende gli altri legni di alta qualità, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di creazione di bacchette",
+   "Scelta tra oltre 10 tipi di legno di alta qualità (3 tipi di legno sono inclusi nel programma)",
+   "Consigli per esplorare Shinjuku",
+   "Tutti gli strumenti e i materiali forniti",
+   "Personale che parla inglese"
+  ],
+  "notIncluded": [
+   "Gli altri legni di alta qualità"
+  ]
+ },
+ "kamakura-and-enoshima-day-tour-tram-ticket-included": {
+  "title": "Tour di un giorno a Kamakura ed Enoshima (biglietto del tram incluso)",
+  "metaTitle": "Kamakura ed Enoshima, tour di un giorno",
+  "metaDescription": "Tour di un giorno intero da Tokyo, che comprende il Kotoku-in, la Stazione di Hase e la Stazione di Kamakurakōkō-Mae. Gestito da イ一エストラベル株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero da Tokyo, che comprende il Kotoku-in, la Stazione di Hase e la Stazione di Kamakurakōkō-Mae. Gestito da イ一エストラベル株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Kamakura, un'ora a sud di Tokyo, fu la sede del primo shogunato giapponese dal 1185 ed è oggi una città di templi sul mare. Il Grande Buddha del Kotoku-in, un bronzo del 1252 rimasto all'aperto da quando uno tsunami ne distrusse la sala nel 1498, è il motivo principale per venire; le ortensie del Hase-dera a giugno, il Tsurugaoka Hachimangu all'inizio della via principale, e i sentieri escursionistici tra i templi riempiono il resto. Il tram Enoden costeggia la costa fino all'isola di Enoshima, con il Fuji visibile oltre la baia nelle giornate limpide d'inverno.\n\nQuesta è un'esperienza di 10 ore da Tokyo, costruita intorno a bus/pullman, al Kotoku-in e alla Stazione di Hase. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il servizio di trasporto, il biglietto della Enoshima Electric Railway, una guida turistica multilingue, i pedaggi autostradali e le spese di parcheggio. Non comprende il pranzo, cibo e bevande, le spese personali e il biglietto d'ingresso al Grande Buddha di Kamakura (300 yen), quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Servizio di trasporto",
+   "Biglietto della Enoshima Electric Railway",
+   "Guida turistica multilingue (inglese, giapponese, coreano, cinese)",
+   "Pedaggi autostradali",
+   "Spese di parcheggio",
+   "Conducente professionista"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Cibo e bevande",
+   "Spese personali",
+   "Biglietto d'ingresso al Grande Buddha di Kamakura: 300 yen"
+  ]
+ },
+ "shinjuku-calligraphy-workshop-premium-package": {
+  "title": "Laboratorio di calligrafia a Shinjuku: pacchetto premium",
+  "metaTitle": "Laboratorio di calligrafia, Shinjuku",
+  "metaDescription": "Tour a Tokyo, con un istruttore professionista di calligrafia e tutti gli strumenti e materiali di calligrafia incluse. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, con un istruttore professionista di calligrafia e tutti gli strumenti e materiali di calligrafia incluse. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora e mezza a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende l'istruttore di calligrafia, tutti gli strumenti e i materiali di calligrafia, il noleggio di abiti tradizionali giapponesi, l'opera di calligrafia finita da portare a casa e le istruzioni e il supporto in inglese. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Istruttore professionista di calligrafia",
+   "Tutti gli strumenti e i materiali di calligrafia (pennello, inchiostro, calamaio, carta, foglietti di pratica)",
+   "Noleggio di abiti tradizionali giapponesi",
+   "Opera di calligrafia finita da portare a casa",
+   "Istruzioni e supporto in inglese"
+  ],
+  "notIncluded": []
+ },
+ "street-kart-experience-in-shibuya": {
+  "title": "Esperienza in street kart, a Shibuya",
+  "metaTitle": "Street kart, Shibuya",
+  "metaDescription": "Un'ora a Tokyo, con il kart e la benzina incluse. Gestito da Reservation Center, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Un'ora a Tokyo, con il kart e la benzina incluse. Gestito da Reservation Center, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il kart, la benzina, la guida, i costumi e le foto scattate dalla guida durante l'attività. Non comprende la action camera per riprese video, la micro-SD per salvare i filmati della action camera, il supporto per montare la action camera su testa o petto, e le mance, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Kart",
+   "Benzina",
+   "Guida in lingua inglese",
+   "Costumi",
+   "Foto scattate dalla guida durante l'attività",
+   "Impermeabile per i giorni di pioggia",
+   "Occhialini"
+  ],
+  "notIncluded": [
+   "Action camera per riprese video (noleggio opzionale)",
+   "Micro-SD per salvare i filmati della action camera (acquisto opzionale)",
+   "Supporto per montare la action camera su testa o petto (noleggio opzionale)",
+   "Mance"
+  ]
+ },
+ "private-and-customizable-tour-all-in-one-experience-in-tokyo": {
+  "title": "Tour privato e personalizzabile: esperienza all-in-one, a Tokyo",
+  "metaTitle": "Tour privato personalizzabile, Tokyo",
+  "metaDescription": "Tour di 2 ore a Tokyo, con i bambini sotto i 12 anni gratuiti e il ritiro in hotel o in un luogo incluse. Gestito da ShogunTours, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 2 ore a Tokyo, con i bambini sotto i 12 anni gratuiti e il ritiro in hotel o in un luogo incluse. Gestito da ShogunTours, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 2 ore a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la partecipazione gratuita per i bambini sotto i 12 anni, il ritiro in hotel o in un luogo, la pianificazione flessibile dell'itinerario con il supporto di un esperto locale e la fotografia. Non comprende i biglietti d'ingresso e le spese personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nRitiro in hotel a Tokyo. ShogunTours confermerà l'orario di ritiro e il punto esatto una volta ricevuta la prenotazione. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Bambini sotto i 12 anni gratuiti (vanno inclusi nella prenotazione)",
+   "Ritiro in hotel o in un luogo (a piedi, opzione extra)",
+   "Pianificazione flessibile dell'itinerario con il supporto di un esperto locale",
+   "Fotografia professionale (se disponibile)"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso (se necessari, per sé stessi)",
+   "Spese personali (pasti, snack, shopping, ecc.)"
+  ]
+ },
+ "samurai-ninja-museum-asakusa-samurai-sword-lesson-for-families-tokyo": {
+  "title": "Samurai Ninja Museum Asakusa: lezione di spada da samurai per famiglie (Tokyo)",
+  "metaTitle": "Samurai Ninja Museum, famiglie",
+  "metaDescription": "Due ore a Tokyo, con la lezione di spada da samurai e l'uso del hakama incluse. Gestito da GLOBA Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Due ore a Tokyo, con la lezione di spada da samurai e l'uso del hakama incluse. Gestito da GLOBA Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di due ore a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la lezione di spada da samurai, l'uso del hakama, l'uso dell'elmo da samurai, l'uso dell'armatura casual da samurai e opportunità fotografiche a tema. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Lezione di spada da samurai",
+   "Uso del hakama",
+   "Uso dell'elmo da samurai",
+   "Uso dell'armatura casual da samurai",
+   "Opportunità fotografiche a tema",
+   "Prova con armi ninja",
+   "Affrontare un manichino a forma di samurai con colpi reali a piena potenza",
+   "Visita al museo"
+  ],
+  "notIncluded": []
+ },
+ "sushi-making-with-pro-chef-and-tsukiji-fish-market-tour": {
+  "title": "Preparazione del sushi con uno chef professionista e tour del mercato del pesce di Tsukiji",
+  "metaTitle": "Sushi con chef professionista, Tsukiji",
+  "metaDescription": "Mezza giornata a Tokyo, che comprende Tsukiji e il Tsukiji Outer Market. Gestito da Japan Wonder Travel, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Mezza giornata a Tokyo, che comprende Tsukiji e il Tsukiji Outer Market. Gestito da Japan Wonder Travel, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il mercato all'ingrosso del pesce di Tokyo si è trasferito da Tsukiji a Toyosu nel 2018, ma il Tsukiji Outer Market, i vicoli di negozi e banchetti attorno al vecchio sito, è rimasto ed è dove si svolgono i giri gastronomici: tamagoyaki su stecco, tagli di tonno, uni, capesante grigliate e negozi di coltelli, più affollato dalle 8:00 alle 11:00 circa e chiuso la domenica e alcuni mercoledì. L'asta del tonno si svolge a Toyosu, osservata da una piattaforma panoramica prima delle 6:30 con una lotteria anticipata. I corsi di sushi insegnano lo shari, il riso condito con aceto, e la pressione delle mani per il nigiri; durano in genere da due a tre ore e si mangia ciò che si prepara.\n\nQuesta è un'esperienza di 4 ore da Tokyo, costruita intorno a Tsukiji e al Tsukiji Outer Market. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il pranzo, il laboratorio di sushi e una guida professionista, un laboratorio di preparazione del sushi adatto alle famiglie con storia e un conduttore. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nTsukiji Honganji. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Pranzo (il sushi che prepari: 5 diversi nigiri sushi e 1 sushi arrotolato)",
+   "Laboratorio di sushi",
+   "Guida locale e professionista",
+   "Laboratorio di preparazione del sushi adatto alle famiglie con storia, curiosità e aneddoti poco conosciuti",
+   "Conduttore in lingua inglese e un maestro di sushi professionista della zona felice di rispondere alle domande",
+   "Ingredienti freschi e utensili adeguati, tutti provenienti dal mercato",
+   "Zuppa di dashi e alcuni pezzi di sushi preparati dal maestro"
+  ],
+  "notIncluded": []
+ },
+ "private-3-hour-e-bike-tour-of-best-city-highlights-in-tokyo": {
+  "title": "Tour privato di 3 ore in e-bike tra i migliori punti salienti della città, a Tokyo",
+  "metaTitle": "Tour privato in e-bike, Tokyo",
+  "metaDescription": "Tour di 3 ore a Tokyo, che comprende Shinjuku, Kabukicho e la via Takeshita. Gestito da Trip Port, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 3 ore a Tokyo, che comprende Shinjuku, Kabukicho e la via Takeshita. Gestito da Trip Port, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3 ore a Tokyo, costruita intorno a Shinjuku, a Kabukicho e alla via Takeshita. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il noleggio dell'e-bike, le indicazioni private di una guida locale amichevole e le foto scattate durante il tour. Non comprende cibo e bevande e il servizio di ritiro e rientro in hotel, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Noleggio dell'e-bike",
+   "Indicazioni private di una guida locale amichevole",
+   "Foto scattate durante il tour e inviate dopo l'esperienza"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Servizio di ritiro e rientro in hotel"
+  ]
+ },
+ "tokyo-asakusa-miu-kimono-rental-and-optional-photoshoot-by-local-operator": {
+  "title": "Tokyo Asakusa: noleggio di kimono Miu e sessione fotografica opzionale, con operatore locale",
+  "metaTitle": "Noleggio di kimono Miu, Asakusa",
+  "metaDescription": "Tour di un giorno intero a Tokyo, con il set completo di kimono (fino a 130 cm di fianchi) e il set completo di yukata (da giugno a settembre) incluse. Gestito da Kaiseido Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero a Tokyo, con il set completo di kimono (fino a 130 cm di fianchi) e il set completo di yukata (da giugno a settembre) incluse. Gestito da Kaiseido Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un giorno intero a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il kimono, lo yukata e l'acconciatura. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Kimono (⚠ fino a 130 cm di fianchi), set completo (kimono, fascia obi, clutch giapponese, sandali, calzini)",
+   "Yukata (da giugno a settembre / ⚠ fino a 130 cm di fianchi), set completo (yukata, fascia obi, clutch giapponese, sandali)",
+   "Acconciatura (solo donne)"
+  ],
+  "notIncluded": []
+ },
+ "tsukiji-market-tour-with-a-local-guide-tokyo": {
+  "title": "Mercato di Tsukiji: tour con una guida locale (Tokyo)",
+  "metaTitle": "Tour con guida locale, Tsukiji",
+  "metaDescription": "Tour a Tokyo, con il tour guidato del Mercato del Pesce di Tsukiji e l'esplorazione del mercato esterno incluse. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, con il tour guidato del Mercato del Pesce di Tsukiji e l'esplorazione del mercato esterno incluse. Gestito da Japan Guide Stars, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il mercato all'ingrosso del pesce di Tokyo si è trasferito da Tsukiji a Toyosu nel 2018, ma il Tsukiji Outer Market, i vicoli di negozi e banchetti attorno al vecchio sito, è rimasto ed è dove si svolgono i giri gastronomici: tamagoyaki su stecco, tagli di tonno, uni, capesante grigliate e negozi di coltelli, più affollato dalle 8:00 alle 11:00 circa e chiuso la domenica e alcuni mercoledì. L'asta del tonno si svolge a Toyosu, osservata da una piattaforma panoramica prima delle 6:30 con una lotteria anticipata. I corsi di sushi insegnano lo shari, il riso condito con aceto, e la pressione delle mani per il nigiri; durano in genere da due a tre ore e si mangia ciò che si prepara.\n\nQuesta è un'esperienza di un'ora e mezza a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il tour guidato del Mercato del Pesce di Tsukiji, l'esplorazione del mercato esterno, la visita al Tempio Tsukiji Hongwanji e approfondimenti sulla cucina e gli ingredienti giapponesi. Non comprende cibo e bevande, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Mercato del Pesce di Tsukiji",
+   "Esplorazione del mercato esterno",
+   "Visita al Tempio Tsukiji Hongwanji",
+   "Approfondimenti sulla cucina e gli ingredienti giapponesi"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
  "imperial-palace-bike-tour": {
   "title": "Tokyo centrale in e-bike: tre ore tra i luoghi iconici",
   "metaTitle": "Tokyo centrale in e-bike in tre ore",
