@@ -1714,6 +1714,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-wilpattu-safari-worth-it-negombo',
     'is-sunset-lagoon-safari-worth-it-negombo', 'is-paramotoring-worth-it-negombo',
     'is-catamaran-sailing-worth-it-negombo', 'is-ayurvedic-massage-worth-it-negombo',
+    'is-jewelry-workshop-worth-it-negombo', 'is-bicycle-city-tour-worth-it-negombo',
+    'is-snorkeling-worth-it-negombo', 'is-scooter-ride-worth-it-negombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/negombo/${slug}`,
     lastModified: new Date(),

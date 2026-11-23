@@ -525,6 +525,90 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-jewelry-workshop-worth-it-negombo":
+      return {
+        title: "Is the Negombo Ring-Making Jewelry Workshop Worth It?",
+        description: "An honest look at the make-your-own-ring jewelry workshop in Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1454030/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "At a very low price and just 2 hours, this is a quick, hands-on craft activity that gives you a tangible souvenir you've made yourself — a nice, low-commitment add-on alongside a lagoon or city tour rather than a day's main activity.",
+            tourCard: { slug: "negombo-make-your-own-ring-jewelry-workshop", title: "Negombo: Make Your Own Ring - Jewelry Workshop", description: "A hands-on ring-making jewelry workshop in Negombo.", price: "From $8", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1454030/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Given the low price and short time, this pairs well as a half-day add-on alongside a lagoon boat safari or city tour rather than standing alone.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Negombo jewelry workshop worth it?", a: "Yes, it's cheap, quick, and gives you a handmade souvenir — a good add-on alongside another Negombo activity." },
+        ],
+      };
+
+    case "is-bicycle-city-tour-worth-it-negombo":
+      return {
+        title: "Is the Negombo Bicycle City Tour Worth It?",
+        description: "An honest look at the guided bicycle city tour of Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1448822/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cycling covers more ground than walking while staying slower-paced than a tuk-tuk, letting you stop more freely at the fishing village, markets, and canal-side spots that make up Negombo's local life.",
+            tourCard: { slug: "negombo-explore-the-city-by-bicycle-with-a-local", title: "Negombo: Explore the City by Bicycle with a Local Guide", description: "A guided bicycle tour of Negombo with a local guide.", price: "From $43", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1448822/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mornings are more comfortable for cycling before the midday heat sets in — ask if an early start is available.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Negombo bicycle city tour worth it?", a: "Yes if you want a slower, more flexible pace than a tuk-tuk tour while still covering more ground than walking." },
+        ],
+      };
+
+    case "is-snorkeling-worth-it-negombo":
+      return {
+        title: "Is Snorkeling Worth It in Negombo?",
+        description: "An honest look at the snorkeling experience in Negombo, a lighter-weight alternative to the area's scuba diving.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-481287/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Negombo isn't primarily known as a reef destination the way the south coast is, so expectations matter — this suits travelers wanting a casual snorkel without the certification and commitment scuba diving requires, rather than those seeking the area's best reef life.",
+            tourCard: { slug: "snorkeling-in-negombo", title: "Snorkeling in Negombo", description: "A guided snorkeling experience in Negombo.", price: "From $88", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-481287/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If reef quality is your priority, the south coast (Mirissa, Galle) is generally considered the stronger snorkeling destination — pick Negombo's version for convenience near the airport, not for the best reef in Sri Lanka.",
+          },
+        ],
+        faqs: [
+          { q: "Is snorkeling worth it in Negombo?", a: "Yes for a casual, no-certification-needed water activity, though the south coast generally has stronger reef life if that's your main priority." },
+        ],
+      };
+
+    case "is-scooter-ride-worth-it-negombo":
+      return {
+        title: "Is the Negombo Scooter City Ride Worth It?",
+        description: "An honest look at the self-ride scooter tour through Negombo's best spots.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1100354/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Like the bicycle tour, this covers Negombo's sights at your own pace rather than being driven, but with a motor doing the work — a faster, less physically demanding way to cover the same kind of ground.",
+            tourCard: { slug: "negombo-by-scooty-ride-through-the-citys-best", title: "Negombo by Scooty: Ride Through the City's Best Spots", description: "A self-ride scooter tour through Negombo.", price: "From $68", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1100354/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits confident riders comfortable with Sri Lankan traffic — if you'd rather be driven, the tuk-tuk city tours are the better fit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Negombo scooter ride worth it?", a: "Yes for confident riders who want to explore at their own pace without the effort of cycling — if you'd rather be driven, go with a tuk-tuk tour instead." },
+        ],
+      };
+
     default:
       return null;
   }

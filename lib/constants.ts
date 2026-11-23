@@ -1621,6 +1621,8 @@ export const NEGOMBO_INFO_SLUGS = [
   'is-wilpattu-safari-worth-it-negombo',
   'is-sunset-lagoon-safari-worth-it-negombo', 'is-paramotoring-worth-it-negombo',
   'is-catamaran-sailing-worth-it-negombo', 'is-ayurvedic-massage-worth-it-negombo',
+  'is-jewelry-workshop-worth-it-negombo', 'is-bicycle-city-tour-worth-it-negombo',
+  'is-snorkeling-worth-it-negombo', 'is-scooter-ride-worth-it-negombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
