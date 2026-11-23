@@ -44192,6 +44192,183 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande"
   ]
  },
+ "private-walking-tour-with-a-local-in-osaka": {
+  "title": "Tour a piedi privato con un locale a Osaka",
+  "metaTitle": "Tour a piedi privato con un locale, Osaka",
+  "metaDescription": "Due ore a Osaka con pick-up e drop-off in hotel, tour a piedi privato personalizzato e guida locale, biglietti d'ingresso e trasporto a carico del cliente.",
+  "shortDescription": "Due ore a Osaka con pick-up e drop-off in hotel, tour a piedi privato personalizzato e guida locale, biglietti d'ingresso e trasporto a carico del cliente.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour a piedi privato di due ore porta il pick-up e il drop-off in hotel (senza trasporto), un tour a piedi privato personalizzato, e una guida locale. Biglietti d'ingresso, cibo e bevande, trasporto in città, spese personali, mance e costi di attività opzionali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off in hotel (senza trasporto)",
+   "Tour a piedi privato personalizzato",
+   "Guida locale"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso",
+   "Cibo e bevande",
+   "Trasporto in città",
+   "Spese personali",
+   "Mance",
+   "Costi di attività opzionali"
+  ]
+ },
+ "ramen-and-gyoza-cooking-class-in-dotonbori": {
+  "title": "Corso di cucina di ramen e gyoza a Dotonbori",
+  "metaTitle": "Corso di ramen e gyoza a Dotonbori",
+  "metaDescription": "Tre ore a Dotonbori per un corso di cucina di ramen e gyoza, con tutti gli ingredienti inclusi.",
+  "shortDescription": "Tre ore a Dotonbori per un corso di cucina di ramen e gyoza, con tutti gli ingredienti inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto corso di cucina di tre ore a **Dotonbori** porta tutti gli ingredienti per preparare **ramen** e **gyoza**. Il pick-up e il drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tutti gli ingredienti del corso di cucina"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "maid-cafe-at-home-cafe-priority-entry-with-a-set-in-osaka": {
+  "title": "Maid cafe, a casa: ingresso prioritario con un set a Osaka",
+  "metaTitle": "Maid cafe a Osaka, ingresso prioritario",
+  "metaDescription": "Un'ora a Osaka con ingresso prioritario a un maid cafe, scelta tra cibo o dolce, una bevanda analcolica e una foto cheki incluse.",
+  "shortDescription": "Un'ora a Osaka con ingresso prioritario a un maid cafe, scelta tra cibo o dolce, una bevanda analcolica e una foto cheki incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di un'ora in un **maid cafe** porta la tariffa di ingresso prioritario, la scelta tra cibo o dolce, una bevanda analcolica, una foto **cheki** (una polaroid con un disegno personalizzato della maid), e un portafoto esclusivo con la maid.",
+  "highlights": [],
+  "included": [
+   "Tariffa di ingresso prioritario",
+   "Scelta tra cibo o dolce",
+   "Bevanda analcolica",
+   "Cheki (polaroid con disegno personalizzato della maid)",
+   "Portafoto esclusivo con la maid"
+  ],
+  "notIncluded": []
+ },
+ "eat-like-a-local-in-osaka-private-custom-street-food-tour-by-local-operator": {
+  "title": "Mangia come un locale a Osaka: tour gastronomico di strada privato e personalizzato, con operatore locale",
+  "metaTitle": "Mangia come un locale a Osaka: street food privato",
+  "metaDescription": "Tre ore a Osaka con un host locale, un questionario online per personalizzare l'esperienza, da 6 a 8 degustazioni e due bevande locali incluse.",
+  "shortDescription": "Tre ore a Osaka con un host locale, un questionario online per personalizzare l'esperienza, da 6 a 8 degustazioni e due bevande locali incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour gastronomico di strada privato e personalizzato, di tre ore, con operatore locale, porta un host locale, un questionario online inviato dopo la prenotazione per personalizzare l'esperienza e trovare l'host giusto, da 6 a 8 degustazioni di cibo di strada scelte secondo le proprie preferenze, due bevande locali, alcoliche o analcoliche secondo la preferenza, il pick-up a piedi dall'alloggio se centrale, e la comunicazione diretta con l'host per la pianificazione dell'itinerario e i consigli locali. Cibo o bevande aggiuntivi oltre quanto incluso, biglietti per le attrazioni, il trasporto (prevalentemente a piedi; i mezzi pubblici possono essere usati con un costo extra), e le mance, facoltative, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour gastronomico di strada privato e personalizzato di 3 ore con un host locale",
+   "Questionario online inviato dopo la prenotazione per personalizzare l'esperienza e trovare l'host giusto",
+   "6-8 degustazioni di cibo di strada scelte secondo le proprie preferenze",
+   "Due bevande locali, alcoliche o analcoliche secondo la preferenza",
+   "Pick-up a piedi dall'alloggio, se centrale",
+   "Comunicazione diretta con l'host per la pianificazione dell'itinerario e i consigli locali"
+  ],
+  "notIncluded": [
+   "Cibo o bevande aggiuntivi oltre quanto incluso",
+   "Biglietti per qualsiasi attrazione",
+   "Trasporto (prevalentemente a piedi; i mezzi pubblici possono essere usati con un costo extra)",
+   "Mance (facoltative)"
+  ]
+ },
+ "osaka-namba-entertainment-hub-maid-cafe-exp-maidreamin-by-local-operator": {
+  "title": "Osaka Namba: centro dell'intrattenimento, esperienza al maid cafe Maidreamin, con operatore locale",
+  "metaTitle": "Maid cafe Maidreamin a Namba, Osaka",
+  "metaDescription": "Un'ora a Namba con una bevanda, un pasto o dolce, un servizio fotografico con una maid, il \"Passport of Dreamland\" e l'omajinai inclusi.",
+  "shortDescription": "Un'ora a Namba con una bevanda, un pasto o dolce, un servizio fotografico con una maid, il \"Passport of Dreamland\" e l'omajinai inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di un'ora al maid cafe **Maidreamin**, a **Namba**, porta una bevanda, un pasto o dolce, un servizio fotografico con una maid, il \"Passport of Dreamland\" (il coperto), e l'**omajinai**, le parole magiche per rendere il piatto più gustoso. Le opzioni extra per rendere l'esperienza ancora più piacevole restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Una bevanda",
+   "Pasto o dolce",
+   "Servizio fotografico con una maid",
+   "Passport of Dreamland (coperto)",
+   "Omajinai (parole magiche per un piatto gustoso)"
+  ],
+  "notIncluded": [
+   "Opzioni extra per rendere l'esperienza ancora più piacevole"
+  ]
+ },
+ "asahi-beer-brewery-tour-with-beer-tasting-in-osaka": {
+  "title": "Tour della fabbrica di birra Asahi con degustazione a Osaka",
+  "metaTitle": "Fabbrica di birra Asahi con degustazione",
+  "metaDescription": "Due ore e mezza alla Fabbrica di Birra Asahi con un tour audioguidato di 60 minuti in inglese e una degustazione di 30 minuti incluse.",
+  "shortDescription": "Due ore e mezza alla Fabbrica di Birra Asahi con un tour audioguidato di 60 minuti in inglese e una degustazione di 30 minuti incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di due ore e mezza porta la visita alla **Fabbrica di Birra Asahi**, un tour audioguidato in inglese di 60 minuti, una sessione di degustazione di birra di 30 minuti (due bicchieri di birra o cocktail personalizzati, con snack), l'attrazione in realtà virtuale Super Dry GO RIDE, la proiezione Super Dry 318 THE DIVE, e un souvenir Asahi. Il trasporto da e per la fabbrica resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita alla Fabbrica di Birra Asahi",
+   "Tour audioguidato in inglese di 60 minuti",
+   "Sessione di degustazione di birra di 30 minuti (2 bicchieri di birra o cocktail personalizzati, con snack)",
+   "Attrazione in realtà virtuale Super Dry GO RIDE",
+   "Proiezione Super Dry 318 THE DIVE",
+   "Un souvenir Asahi"
+  ],
+  "notIncluded": [
+   "Trasporto da e per la fabbrica"
+  ]
+ },
+ "osaka-castle-three-hour-private-guided-tour-by-local-operator": {
+  "title": "Castello di Osaka: tour guidato privato di tre ore, con operatore locale",
+  "metaTitle": "Castello di Osaka, tour privato di 3 ore",
+  "metaDescription": "Tre ore tra il Ponte Gokuraku-bashi, il Castello di Osaka e Miraiza Osaka-Jo, con tariffa della guida e ingresso alla torre principale inclusi.",
+  "shortDescription": "Tre ore tra il Ponte Gokuraku-bashi, il Castello di Osaka e Miraiza Osaka-Jo, con tariffa della guida e ingresso alla torre principale inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo all'interno e un fossato e un parco che vale un'ora.\n\nQuesto tour guidato privato di tre ore, con operatore locale, porta la tariffa della guida e l'ingresso alla **torre principale del Castello di Osaka**, tra il **Ponte Gokuraku-bashi**, il castello e **Miraiza Osaka-Jo**. L'ingresso al Castello di Osaka (facoltativo, ma consigliato per vedere l'interno del museo) resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa della guida",
+   "Ingresso alla torre principale del Castello di Osaka"
+  ],
+  "notIncluded": [
+   "Ingresso al Castello di Osaka (facoltativo, ma consigliato per vedere l'interno del museo)"
+  ]
+ },
+ "shore-excursion-for-cruise-guests-group-in-osaka": {
+  "title": "Escursione a terra per ospiti di crociera (gruppo) a Osaka",
+  "metaTitle": "Escursione a terra per crocieristi, Osaka",
+  "metaDescription": "Sette ore tra il Parco del Castello di Osaka, Shitennoji e Tsutenkaku, con trasporto durante il viaggio e servizio in inglese/giapponese/cinese inclusi.",
+  "shortDescription": "Sette ore tra il Parco del Castello di Osaka, Shitennoji e Tsutenkaku, con trasporto durante il viaggio e servizio in inglese/giapponese/cinese inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta escursione a terra di gruppo, di sette ore, porta il trasporto durante il viaggio e il servizio in inglese, giapponese o cinese, tra il **Parco del Castello di Osaka**, **Shitennoji** e **Tsutenkaku**. Pasti, spese personali e biglietti per il tour restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto durante il viaggio",
+   "Servizio in inglese/giapponese/cinese"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Biglietti per il tour"
+  ]
+ },
+ "osaka-private-custom-tour-with-local-guide-by-local-operator": {
+  "title": "Osaka, tour privato personalizzato con guida locale, con operatore locale",
+  "metaTitle": "Osaka, tour privato personalizzato",
+  "metaDescription": "Un'ora tra Shinsekai, il Mercato Kuromon e il Santuario Namba Yasaka, con guida privata in lingua inglese e itinerario personalizzabile incluso.",
+  "shortDescription": "Un'ora tra Shinsekai, il Mercato Kuromon e il Santuario Namba Yasaka, con guida privata in lingua inglese e itinerario personalizzabile incluso.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; Kuromon market è il mercato alimentare.\n\nQuesto tour privato personalizzato di un'ora, con operatore locale, porta una guida privata in lingua inglese, un itinerario personalizzabile secondo i propri interessi, consigli locali su cibo, luoghi da visitare e gemme nascoste, un veicolo privato (facoltativo), e un pick-up facoltativo all'alloggio, tra **Shinsekai**, il **Mercato Kuromon** e il **Santuario Namba Yasaka**. Cibo e bevande, qualsiasi biglietto d'ingresso, la tariffa di trasporto, e il pranzo e il biglietto d'ingresso dell'host restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida privata in lingua inglese",
+   "Itinerario personalizzabile secondo i propri interessi",
+   "Consigli locali su cibo, luoghi da visitare e gemme nascoste",
+   "Veicolo privato (facoltativo)",
+   "Pick-up facoltativo all'alloggio"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Qualsiasi biglietto d'ingresso",
+   "Tariffa di trasporto",
+   "Pranzo e biglietto d'ingresso dell'host"
+  ]
+ },
+ "osaka-photo-shoot-with-a-professional-photographer-by-local-operator": {
+  "title": "Servizio fotografico a Osaka con un fotografo professionista, con operatore locale",
+  "metaTitle": "Servizio fotografico professionale a Osaka",
+  "metaDescription": "Un'ora e mezza a Osaka con un fotografo locale, circa 50 foto modificate professionalmente, e indicazioni verso i luoghi iconici e le gemme nascoste incluse.",
+  "shortDescription": "Un'ora e mezza a Osaka con un fotografo locale, circa 50 foto modificate professionalmente, e indicazioni verso i luoghi iconici e le gemme nascoste incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di un'ora e mezza, con operatore locale, porta un fotografo locale professionista, circa 50 foto modificate professionalmente ad alta qualità, e indicazioni locali verso i luoghi iconici e le gemme nascoste di **Osaka**.",
+  "highlights": [],
+  "included": [
+   "Fotografo locale professionista",
+   "Circa 50 foto modificate professionalmente ad alta qualità",
+   "Indicazioni locali verso i luoghi iconici e le gemme nascoste di Osaka"
+  ],
+  "notIncluded": []
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
