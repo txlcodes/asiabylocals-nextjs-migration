@@ -41454,6 +41454,182 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pasti diversi dai dolci"
   ]
  },
+ "3-hour-bike-or-e-bike-city-highlights-tour-in-tokyo": {
+  "title": "Tour di 3 ore in bicicletta o e-bike tra i punti salienti della città, a Tokyo",
+  "metaTitle": "Tour in bicicletta, punti salienti di Tokyo",
+  "metaDescription": "Tour di 3 ore a Tokyo, che comprende il Tempio Zojo-ji, Tokyo, il Hibiya Park e il Palazzo Imperiale di Tokyo. Gestito da TRB BIKE TOUR, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 3 ore a Tokyo, che comprende il Tempio Zojo-ji, Tokyo, il Hibiya Park e il Palazzo Imperiale di Tokyo. Gestito da TRB BIKE TOUR, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3 ore a Tokyo, costruita intorno al Hibiya Park, al Palazzo Imperiale di Tokyo e alla Stazione di Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende biciclette da strada di alta qualità, racconti e aneddoti, una piccola borsa e l'assicurazione per la bicicletta. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nStatua del Commodoro Perry. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese, gentile e competente",
+   "Biciclette da strada di alta qualità (Bianchi e Fuji) o e-bike (a seconda dell'opzione scelta)",
+   "Racconti e aneddoti locali",
+   "Piccola borsa (sulla bici per telefono, portafoglio, chiavi, ecc.)",
+   "Assicurazione per la bicicletta"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-drift-daikoku-car-meet-gt-r35-34-r33-silvia-gt86-supra-by-local-operator": {
+  "title": "Tokyo Drift Daikoku Car Meet: GT-R35-34, R33, Silvia, GT86, Supra, con operatore locale",
+  "metaTitle": "Daikoku car meet, Tokyo Drift",
+  "metaDescription": "Mezza giornata a Tokyo, che comprende Rainbow Bridge, Tokyo e Daikoku Parking Area. Gestito da EDO CARS, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Mezza giornata a Tokyo, che comprende Rainbow Bridge, Tokyo e Daikoku Parking Area. Gestito da EDO CARS, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3,5 ore da Tokyo, costruita intorno al Daikoku Parking Area. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la visita al Daikoku Parking Area, l'esplorazione della cultura automobilistica notturna di Tokyo, opportunità fotografiche con iconiche auto JDM e un'esperienza guidata incentrata sulla cultura JDM e sui raduni di auto. Non comprende il servizio taxi, il servizio di transfer e il servizio di noleggio auto, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n1-chōme-12-13 Jinnan, Shibuya, Tokyo 150-0041, Giappone. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Visita al Daikoku Parking Area",
+   "Esplorazione della cultura automobilistica notturna di Tokyo",
+   "Opportunità fotografiche con iconiche auto JDM",
+   "Esperienza guidata incentrata sulla cultura JDM e sui raduni di auto"
+  ],
+  "notIncluded": [
+   "Servizio taxi",
+   "Servizio di transfer",
+   "Servizio di noleggio auto"
+  ]
+ },
+ "kabuki-bunraku-etc-presented-by-national-theatre-in-tokyo": {
+  "title": "Kabuki, bunraku ecc. presentati dal National Theatre, a Tokyo",
+  "metaTitle": "Kabuki e bunraku, National Theatre",
+  "metaDescription": "Tre ore e un quarto a Tokyo, con i biglietti del teatro e l'audioguida in inglese (spettacolo kabuki e bunraku) inclusi. Gestito da National Theatre, Japan, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tre ore e un quarto a Tokyo, con i biglietti del teatro e l'audioguida in inglese (spettacolo kabuki e bunraku) inclusi. Gestito da National Theatre, Japan, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 195 minuti a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende i biglietti del teatro, l'audioguida in inglese e un foglio illustrativo gratuito in inglese. Non comprende il trasporto fino al teatro, quindi va previsto a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Biglietti del teatro",
+   "Audioguida in inglese (spettacolo kabuki e bunraku)",
+   "Foglio illustrativo gratuito in inglese (spettacolo hogaku)"
+  ],
+  "notIncluded": [
+   "Trasporto fino al teatro"
+  ]
+ },
+ "retro-asakusa-night-walk-and-senso-ji-temple": {
+  "title": "Passeggiata notturna retrò ad Asakusa e il Tempio Senso-ji",
+  "metaTitle": "Passeggiata notturna, Asakusa",
+  "metaDescription": "Tour a Tokyo, con un tour fotografico notturno guidato e consigli e indicazioni di fotografia inclusi. Gestito da Native Japan, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, con un tour fotografico notturno guidato e consigli e indicazioni di fotografia inclusi. Gestito da Native Japan, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora e mezza a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un tour fotografico notturno guidato, consigli e indicazioni di fotografia, la visita al Kaminarimon Gate, la visita al Tempio Senso-ji e la passeggiata lungo la via Nakamise. Non comprende l'attrezzatura fotografica professionale, quindi va prevista a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nスターバックス コーヒー 浅草駅前店. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour fotografico notturno guidato",
+   "Consigli e indicazioni di fotografia",
+   "Visita al Kaminarimon Gate",
+   "Visita al Tempio Senso-ji",
+   "Passeggiata lungo la via Nakamise",
+   "Esplorazione di vicoli nascosti",
+   "Visita al fiume Sumida per le vedute notturne"
+  ],
+  "notIncluded": [
+   "Attrezzatura fotografica professionale"
+  ]
+ },
+ "nrt-hnd-airport-private-transfer-and-city-tour-in-tokyo": {
+  "title": "Transfer privato aeroporto NRT/HND e tour della città, a Tokyo",
+  "metaTitle": "Transfer aeroportuale privato, Tokyo",
+  "metaDescription": "Tour a Tokyo, con il transfer aeroportuale privato 24 ore e l'assistenza bagagli incluse. Gestito da Relax Airport Taxi, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, con il transfer aeroportuale privato 24 ore e l'assistenza bagagli incluse. Gestito da Relax Airport Taxi, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il transfer aeroportuale privato 24 ore, l'assistenza bagagli, il monitoraggio del volo, 60 minuti di attesa gratuita per gli arrivi e 30 minuti di attesa gratuita per le partenze. Non comprende le mance e le spese per bagagli in eccesso, quindi vanno previste a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Transfer aeroportuale privato 24 ore",
+   "Assistenza bagagli",
+   "Monitoraggio del volo",
+   "60 minuti di attesa gratuita per gli arrivi",
+   "30 minuti di attesa gratuita per le partenze",
+   "120 minuti di attesa gratuita in caso di ritardo del volo"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)",
+   "Spese per bagagli in eccesso (se applicabili)"
+  ]
+ },
+ "daikoku-jdm-tokyo-drift-night-tour-by-local-operator": {
+  "title": "Daikoku: tour notturno JDM×Tokyo Drift, con operatore locale",
+  "metaTitle": "JDM Tokyo Drift, Daikoku",
+  "metaDescription": "Tour di 3 ore a Tokyo, che comprende Rainbow Bridge, Daikokufuto e la Tokyo Tower. Gestito da TOUGE DRIFT JAPAN, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 3 ore a Tokyo, che comprende Rainbow Bridge, Daikokufuto e la Tokyo Tower. Gestito da TOUGE DRIFT JAPAN, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3 ore a Tokyo, costruita intorno al Rainbow Bridge, a Daikokufuto e alla Tokyo Tower. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il trasporto durante l'esperienza e il tempo per le foto in ogni luogo. Non comprende cibo e bevande, acquisti personali in qualsiasi luogo e il ritiro o il rientro in hotel, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n3COINS 原宿本店. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Trasporto durante l'esperienza (dal punto d'incontro e ritorno)",
+   "Tempo per le foto in ogni luogo"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Acquisti personali in qualsiasi luogo",
+   "Ritiro o rientro in hotel"
+  ]
+ },
+ "geothermal-valley-and-floating-torii-walk-in-hakone": {
+  "title": "Valle geotermica e passeggiata al torii fluttuante, a Hakone",
+  "metaTitle": "Valle geotermica, torii fluttuante",
+  "metaDescription": "Mezza giornata a Hakone, con una guida locale inclusa. Gestito da MARKEVISION株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Mezza giornata a Hakone, con una guida locale inclusa. Gestito da MARKEVISION株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di 5 ore a Hakone. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la guida. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida locale"
+  ],
+  "notIncluded": []
+ },
+ "tea-house-lake-ashi-and-volcanic-wonders-day-trip-in-hakone": {
+  "title": "Casa del tè, Lago Ashi e meraviglie vulcaniche: gita di un giorno a Hakone",
+  "metaTitle": "Casa del tè, Lago Ashi, Hakone",
+  "metaDescription": "Tour di un giorno intero a Hakone, che comprende la Amasake Tea House, il Hakone Checkpoint e il Santuario di Hakone. Gestito da Pegasus観光株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero a Hakone, che comprende la Amasake Tea House, il Hakone Checkpoint e il Santuario di Hakone. Gestito da Pegasus観光株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di 10 ore a Hakone, costruita intorno alla Amasake Tea House, al Hakone Checkpoint e al Santuario di Hakone. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il costo del servizio del conducente, il veicolo, l'amazake e il biglietto per la crociera in battello pirata sul Lago Ashi. Non comprende 1) qualsiasi voce non menzionata nella sezione \"il prezzo comprende\" sopra, 2) pasti, attività o esperienze locali opzionali e altre spese personali, e 4) biglietti d'ingresso alle attrazioni, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n东京站丸之内北口. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Costo del servizio del conducente (non accompagna nelle attrazioni)",
+   "Veicolo",
+   "Amazake (bevanda di riso fermentato dolce) o tè",
+   "Biglietto per la crociera in battello pirata sul Lago Ashi (dal porto di Motohakone a Togendai)"
+  ],
+  "notIncluded": [
+   "1) Qualsiasi voce non menzionata nella sezione \"il prezzo comprende\" sopra",
+   "2) Pasti, attività o esperienze locali opzionali e altre spese personali",
+   "4) Biglietti d'ingresso alle attrazioni"
+  ]
+ },
+ "aichi-meiji-village-and-japan-s-modernization-journey-tokyo": {
+  "title": "Aichi: Meiji Village e il viaggio della modernizzazione del Giappone (Tokyo)",
+  "metaTitle": "Meiji Village, Aichi",
+  "metaDescription": "Tour a Tokyo, che comprende il Museo Meiji-Mura. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, che comprende il Museo Meiji-Mura. Gestito da DeepExperience, Inc., prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora e mezza da Tokyo, costruita intorno al Museo Meiji-Mura. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un tour guidato del Meiji Village, l'accesso agli edifici storici e il trasporto all'interno del villaggio, che può includere corse su. Non comprende pasti e spese personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\n第八高等学校正門. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Meiji Village",
+   "Accesso agli edifici storici",
+   "Trasporto all'interno del villaggio, che può includere corse su tram storici, locomotive a vapore e bus del villaggio"
+  ],
+  "notIncluded": [
+   "Pasti (incluso nell'opzione di 5 ore)",
+   "Spese personali"
+  ]
+ },
+ "odawara-castle-samurai-history-and-local-food-walk-in-hakone": {
+  "title": "Odawara: castello, storia dei samurai e passeggiata gastronomica locale, a Hakone",
+  "metaTitle": "Castello di Odawara, storia dei samurai",
+  "metaDescription": "Due ore e mezza a Hakone, con un tour a piedi di Odawara e la visita al Santuario Hotoku Ninomiya incluse. Gestito da Native Japan, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Due ore e mezza a Hakone, con un tour a piedi di Odawara e la visita al Santuario Hotoku Ninomiya incluse. Gestito da Native Japan, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Hakone è la località termale di montagna 90 minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il giro classico comprende la funivia di Hakone sopra le fumarole sulfuree di Owakudani, dove le uova vengono bollite nere nelle sorgenti, una traversata in barca sul Lago Ashi passando davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji visto oltre il lago. I bagni termali seguono le regole consuete: lavarsi prima di entrare, niente costume da bagno, e molte terme ancora rifiutano i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con vento forte e quando sale il gas vulcanico, cosa che accade qualche giorno all'anno.\n\nQuesta è un'esperienza di due ore e mezza a Hakone. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un tour a piedi di Odawara, la visita al Santuario Hotoku Ninomiya, la visita a Kamaboko Street, una degustazione gastronomica e opportunità fotografiche. Non comprende il trasporto da e per Odawara, pasti e bevande non specificati nel tour, e spese personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi di Odawara",
+   "Visita al Santuario Hotoku Ninomiya",
+   "Visita a Kamaboko Street",
+   "Degustazione gastronomica locale",
+   "Opportunità fotografiche"
+  ],
+  "notIncluded": [
+   "Trasporto da e per Odawara",
+   "Pasti e bevande non specificati nel tour",
+   "Spese personali"
+  ]
+ },
  "imperial-palace-bike-tour": {
   "title": "Tokyo centrale in e-bike: tre ore tra i luoghi iconici",
   "metaTitle": "Tokyo centrale in e-bike in tre ore",
