@@ -47102,6 +47102,187 @@ export const IT_TOURS: Record<string, TourT> = {
    "Certificato di completamento dell'esperienza: 300 yen"
   ]
  },
+ "customizable-2-day-private-daytrips-with-guide-in-tokyo": {
+  "title": "Gite private personalizzabili di 2 giorni con guida a Tokyo",
+  "metaTitle": "Gite private personalizzabili di 2 giorni, Tokyo",
+  "metaDescription": "Due giorni a Tokyo con veicolo privato climatizzato, pick-up e drop-off in hotel, itinerario personalizzabile, autista e biglietti d'ingresso inclusi.",
+  "shortDescription": "Due giorni a Tokyo con veicolo privato climatizzato, pick-up e drop-off in hotel, itinerario personalizzabile, autista e biglietti d'ingresso inclusi.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di due giorni a Tokyo porta il veicolo privato climatizzato, il pick-up e il drop-off in hotel, l'itinerario personalizzabile, l'autista e i biglietti d'ingresso. Cibo e bevande, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato climatizzato",
+   "Pick-up e drop-off in hotel",
+   "Itinerario personalizzabile",
+   "Autista esperto",
+   "Biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "open-air-museum-ticket-and-digital-art-guide-in-hakone": {
+  "title": "Biglietto per il Museo all'Aperto e guida digitale d'arte a Hakone",
+  "metaTitle": "Museo all'Aperto di Hakone, biglietto",
+  "metaDescription": "Biglietto elettronico di ingresso generale al Museo all'Aperto di Hakone, con una guida digitale esclusiva di arte e scultura inclusa.",
+  "shortDescription": "Biglietto elettronico di ingresso generale al Museo all'Aperto di Hakone, con una guida digitale esclusiva di arte e scultura inclusa.",
+  "fullDescription": "Hakone è la stazione termale di montagna novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole di zolfo di Owakudani, dove le uova vengono fatte bollire fino a diventare nere nelle sorgenti, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Monte Fuji oltre il lago. Il bagno nelle onsen segue le regole abituali: lavarsi prima di entrare, niente costume da bagno, e molte terme rifiutano ancora i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con forte vento e quando salgono i gas vulcanici, cosa che accade pochi giorni l'anno.\n\nQuesto servizio a Hakone porta il biglietto elettronico di ingresso generale al **Museo all'Aperto di Hakone**, la guida digitale esclusiva di arte e scultura di Hakone, e il servizio di ingresso diretto con codice QR. Cibo e il trasporto fino alla sede restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto elettronico di ingresso generale al Museo all'Aperto di Hakone",
+   "Guida digitale esclusiva di arte e scultura di Hakone (PDF/testo)",
+   "Servizio di ingresso diretto con codice QR"
+  ],
+  "notIncluded": [
+   "Cibo, bevande e acquisti personali",
+   "Trasporto fino alla sede"
+  ]
+ },
+ "pola-museum-of-art-ticket-and-digital-guide-in-hakone": {
+  "title": "Biglietto per il POLA Museum of Art e guida digitale a Hakone",
+  "metaTitle": "POLA Museum of Art, Hakone, biglietto",
+  "metaDescription": "Biglietto elettronico di ingresso generale al POLA Museum of Art, con una guida digitale esclusiva di arte e museo inclusa.",
+  "shortDescription": "Biglietto elettronico di ingresso generale al POLA Museum of Art, con una guida digitale esclusiva di arte e museo inclusa.",
+  "fullDescription": "Hakone è la stazione termale di montagna novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole di zolfo di Owakudani, dove le uova vengono fatte bollire fino a diventare nere nelle sorgenti, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Monte Fuji oltre il lago. Il bagno nelle onsen segue le regole abituali: lavarsi prima di entrare, niente costume da bagno, e molte terme rifiutano ancora i tatuaggi o chiedono di coprirli. Il Hakone Free Pass copre i treni, la funicolare, la funivia e la barca; la funivia chiude con forte vento e quando salgono i gas vulcanici, cosa che accade pochi giorni l'anno.\n\nQuesto servizio a Hakone porta il biglietto elettronico di ingresso generale al **POLA Museum of Art**, la guida digitale esclusiva di arte e museo, e il servizio di ingresso diretto con codice QR. Cibo nel caffè del museo e il trasporto fino alla sede restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto elettronico di ingresso generale al POLA Museum of Art",
+   "Guida digitale esclusiva di arte e museo (PDF/testo)",
+   "Servizio di ingresso diretto con codice QR"
+  ],
+  "notIncluded": [
+   "Cibo, bevande e acquisti personali al caffè del museo",
+   "Trasporto fino alla sede"
+  ]
+ },
+ "tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka": {
+  "title": "Biglietto per la Pirate Ship di Hakone, famiglia e accessibile, a Osaka",
+  "metaTitle": "Pirate Ship di Hakone, biglietto",
+  "metaDescription": "Biglietto elettronico di sola andata per la Pirate Ship di Hakone, con un pacchetto digitale di letture su Hakone incluso.",
+  "shortDescription": "Biglietto elettronico di sola andata per la Pirate Ship di Hakone, con un pacchetto digitale di letture su Hakone incluso.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesto servizio porta il biglietto elettronico di sola andata per la **Pirate Ship di Hakone** (dal Porto di Hakonemachi al Porto di Togendai), il pacchetto digitale bonus di letture su Hakone, e il codice QR diretto per un imbarco agevole. Il biglietto di crociera andata e ritorno, l'upgrade alla cabina di prima classe (acquistabile sul posto), cibo e bevande, e il trasporto fino al Porto di Hakonemachi restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto elettronico di sola andata per la Pirate Ship di Hakone (dal Porto di Hakonemachi al Porto di Togendai)",
+   "Pacchetto digitale bonus di letture su Hakone (PDF/testo)",
+   "Codice QR diretto per un imbarco agevole"
+  ],
+  "notIncluded": [
+   "Biglietto di crociera andata e ritorno",
+   "Upgrade alla cabina di prima classe (acquistabile sul posto)",
+   "Cibo, bevande e acquisti personali",
+   "Trasporto fino al Porto di Hakonemachi"
+  ]
+ },
+ "retro-tsutenkaku-deck-and-shinsekai-culture-guide-in-osaka": {
+  "title": "Terrazza retrò della Tsutenkaku e guida culturale di Shinsekai a Osaka",
+  "metaTitle": "Tsutenkaku e Shinsekai, Osaka",
+  "metaDescription": "Accesso generale e speciale alla terrazza panoramica all'aperto, con una guida digitale esclusiva sulla cultura di Shinsekai inclusa.",
+  "shortDescription": "Accesso generale e speciale alla terrazza panoramica all'aperto, con una guida digitale esclusiva sulla cultura di Shinsekai inclusa.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesto servizio a Osaka porta l'accesso generale e speciale alla **terrazza panoramica all'aperto della Tsutenkaku**, la guida digitale esclusiva sulla cultura di Shinsekai, e il servizio di ingresso diretto con codice QR. Le attrazioni opzionali sul posto (per esempio lo scivolo della torre) e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Accesso generale e speciale alla terrazza panoramica all'aperto della Tsutenkaku",
+   "Guida digitale esclusiva sulla cultura di Shinsekai (PDF/testo)",
+   "Servizio di ingresso diretto con codice QR"
+  ],
+  "notIncluded": [
+   "Attrazioni opzionali sul posto (per esempio lo scivolo della torre)",
+   "Cibo, bevande e acquisti personali"
+  ]
+ },
+ "premium-japan-private-tour-with-driver-and-guide-4-days": {
+  "title": "Tour privato premium del Giappone con autista e guida: 4 giorni",
+  "metaTitle": "Tour privato premium del Giappone, 4 giorni",
+  "metaDescription": "Quattro giorni a Hakone con veicolo privato climatizzato, pick-up e drop-off in hotel, itinerario personalizzabile, autista e biglietti d'ingresso inclusi.",
+  "shortDescription": "Quattro giorni a Hakone con veicolo privato climatizzato, pick-up e drop-off in hotel, itinerario personalizzabile, autista e biglietti d'ingresso inclusi.",
+  "fullDescription": "Una giornata privata con un autista-guida è il modo per vedere il massimo possibile di una città o regione giapponese in un giorno, perché elimina i trasferimenti tra i luoghi d'interesse che consumano un terzo della giornata sui mezzi pubblici. I prezzi sono di solito per veicolo, per un numero stabilito di ospiti, piuttosto che per persona, e coprono l'auto, il carburante, i pedaggi e la guida; i biglietti d'ingresso e il pranzo si pagano sul momento, a meno che l'annuncio non dica altrimenti. Le guide giapponesi sono autorizzate per questo lavoro e tipicamente puntuali al minuto. Si comunicano all'operatore le proprie priorità, e ci si può aspettare che la giornata venga riordinata secondo gli orari di apertura e la folla: è per questo che si paga.\n\nQuesta esperienza di quattro giorni a Hakone porta il veicolo privato climatizzato, il pick-up e il drop-off in hotel, l'itinerario personalizzabile, l'autista e i biglietti d'ingresso. Cibo e bevande, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato climatizzato",
+   "Pick-up e drop-off in hotel",
+   "Itinerario personalizzabile",
+   "Autista esperto",
+   "Biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "mount-koya-full-day-private-guided-tour-in-osaka": {
+  "title": "Monte Koya: tour guidato privato di una giornata intera, da Osaka",
+  "metaTitle": "Monte Koya, tour privato da Osaka",
+  "metaDescription": "Cinque ore da Osaka tra la Porta Daimon, un ristorante locale e il Tempio Okunoin, con guida, tariffe della guida e ingresso al Tempio Kongobuji inclusi.",
+  "shortDescription": "Cinque ore da Osaka tra la Porta Daimon, un ristorante locale e il Tempio Okunoin, con guida, tariffe della guida e ingresso al Tempio Kongobuji inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di cinque ore da Osaka è costruita intorno al treno, alla **Porta Daimon** e a un ristorante locale, al **Monte Koya**. La guida e le tariffe della guida (ingresso, pranzo e spese di trasporto della guida), e il biglietto d'ingresso al Tempio Kongobuji (il Danjogaran si visita dall'esterno) sono inclusi nel prezzo. Il tour è un'esperienza a piedi sul Monte Koya; i trasporti pubblici possono essere usati come opzione aggiuntiva.",
+  "highlights": [],
+  "included": [
+   "Guida e tariffe della guida (ingresso, pranzo e spese di trasporto della guida)",
+   "Biglietto d'ingresso al Tempio Kongobuji (il Danjogaran si visita dall'esterno)"
+  ],
+  "notIncluded": [
+   "Il tour è un'esperienza a piedi sul Monte Koya; i trasporti pubblici possono essere usati come opzione aggiuntiva"
+  ]
+ },
+ "yoshino-private-guided-tour-and-hiking-in-a-japanese-mountain-in-mount-fuji": {
+  "title": "Yoshino: tour guidato privato ed escursione su una montagna giapponese (Monte Fuji)",
+  "metaTitle": "Yoshino, tour privato ed escursione",
+  "metaDescription": "Sette ore tra il Santuario Kimpu Jinja, il Santuario Yoshino Mikumari Jinja e il punto panoramico di Hanayagura, con la guida e le tariffe della guida incluse.",
+  "shortDescription": "Sette ore tra il Santuario Kimpu Jinja, il Santuario Yoshino Mikumari Jinja e il punto panoramico di Hanayagura, con la guida e le tariffe della guida incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, circa da aprile a novembre. La cima è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo dei giorni e più spesso nelle mattine d'inverno; da giugno a settembre è più spesso nascosto dalle nuvole, e nessun operatore può garantire la vista, quindi i laghi e la pagoda sono pensati per valere la giornata da soli.\n\nIl pick-up è offerto dalla Stazione di Yoshino, dalla Stazione di Yamato-Saidaiji, dalla Stazione di Kyoto Kintetsu e dalla Stazione di Osaka-Abenobashi; il punto e l'orario esatti vengono concordati con Nara Guide una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nQuesta esperienza di sette ore è costruita intorno al **Santuario Kimpu Jinja**, al **Santuario Yoshino Mikumari Jinja** e al **punto panoramico di Hanayagura**. La guida e le tariffe della guida (i loro trasporti, il pranzo e altro) sono incluse nel prezzo. La tariffa del pranzo (circa 2.500 yen a persona) e le spese di trasporto (il tour è un'esperienza a piedi a Yoshino; trasporti pubblici o taxi disponibili su richiesta) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida e tariffe della guida (i loro trasporti, il pranzo e altro)"
+  ],
+  "notIncluded": [
+   "Tariffa del pranzo (circa 2.500 yen a persona)",
+   "Spese di trasporto: il tour è un'esperienza a piedi a Yoshino; trasporti pubblici o taxi disponibili su richiesta"
+  ]
+ },
+ "mount-fuji-private-tour-with-guide-and-pickup": {
+  "title": "Monte Fuji, tour privato con guida e pick-up",
+  "metaTitle": "Monte Fuji, tour privato con pick-up",
+  "metaDescription": "Dodici ore tra il Lago Kawaguchi, l'Oishi Park e la Pagoda Chureito, con tour privato di una giornata intera da Tokyo, guida di lingua inglese e trasporto privato comodo inclusi.",
+  "shortDescription": "Dodici ore tra il Lago Kawaguchi, l'Oishi Park e la Pagoda Chureito, con tour privato di una giornata intera da Tokyo, guida di lingua inglese e trasporto privato comodo inclusi.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, circa da aprile a novembre. La cima è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo dei giorni e più spesso nelle mattine d'inverno; da giugno a settembre è più spesso nascosto dalle nuvole, e nessun operatore può garantire la vista, quindi i laghi e la pagoda sono pensati per valere la giornata da soli.\n\nQuesta esperienza di dodici ore è costruita intorno all'Associazione Turistica della 5ª Stazione del Monte Fuji, al **Lago Kawaguchi** e all'**Oishi Park**. Il tour privato di una giornata intera da Tokyo, la guida professionista di lingua inglese, il trasporto privato comodo, la visita alla 5ª Stazione del Monte Fuji, la visita al Lago Kawaguchi, la visita all'Arakurayama Sengen Park e alla Pagoda Chureito, la visita a Oshino Hakkai, la visita a Oshino Shinobi no Sato, la visita ai Gotemba Premium Outlets, e le soste fotografiche al Monte Fuji sono incluse nel prezzo. Cibo e bevande, le spese personali, e i biglietti d'ingresso alle attrazioni opzionali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato di una giornata intera da Tokyo",
+   "Guida professionista di lingua inglese",
+   "Trasporto privato comodo",
+   "Visita alla 5ª Stazione del Monte Fuji",
+   "Visita al Lago Kawaguchi",
+   "Visita all'Arakurayama Sengen Park e alla Pagoda Chureito",
+   "Visita a Oshino Hakkai",
+   "Visita a Oshino Shinobi no Sato",
+   "Visita ai Gotemba Premium Outlets",
+   "Soste fotografiche al Monte Fuji"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali",
+   "Biglietti d'ingresso alle attrazioni opzionali"
+  ]
+ },
+ "mount-fuji-english-private-tour": {
+  "title": "Monte Fuji, tour privato con guida di lingua inglese",
+  "metaTitle": "Monte Fuji, tour privato in inglese",
+  "metaDescription": "Dodici ore tra il Lago Kawaguchi, l'Oishi Park e la Pagoda Chureito, con guida di lingua inglese e tour privato di una giornata intera inclusi.",
+  "shortDescription": "Dodici ore tra il Lago Kawaguchi, l'Oishi Park e la Pagoda Chureito, con guida di lingua inglese e tour privato di una giornata intera inclusi.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, circa da aprile a novembre. La cima è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo dei giorni e più spesso nelle mattine d'inverno; da giugno a settembre è più spesso nascosto dalle nuvole, e nessun operatore può garantire la vista, quindi i laghi e la pagoda sono pensati per valere la giornata da soli.\n\nQuesta esperienza di dodici ore è costruita intorno all'Associazione Turistica della 5ª Stazione del Monte Fuji, al **Lago Kawaguchi** e all'**Oishi Park**. La guida di lingua inglese, il tour privato di una giornata intera, e la visita panoramica del Monte Fuji e delle aree circostanti sono inclusi nel prezzo. I pasti, le spese personali, e i biglietti d'ingresso a certe attrazioni restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour privato di una giornata intera",
+   "Visita panoramica del Monte Fuji e delle aree circostanti"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Biglietti d'ingresso a certe attrazioni"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
