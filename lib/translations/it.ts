@@ -46344,6 +46344,203 @@ export const IT_TOURS: Record<string, TourT> = {
    "Tariffe di trasporto (tariffe del treno, circa 200-1.500 yen)"
   ]
  },
+ "explore-3-day-private-tour-of-tokyo-mt-fuji-and-nikko-by-local-operator": {
+  "title": "Esplora: tour privato di 3 giorni tra Tokyo, il Monte Fuji e Nikko, con operatore locale",
+  "metaTitle": "Tour privato di 3 giorni: Tokyo, Fuji, Nikko",
+  "metaDescription": "Tre giorni a Tokyo tra la Pagoda Chureito, il Lago Kawaguchi e Oshino Hakkai, con pick-up e drop-off in hotel, veicolo privato e itinerario flessibile.",
+  "shortDescription": "Tre giorni a Tokyo tra la Pagoda Chureito, il Lago Kawaguchi e Oshino Hakkai, con pick-up e drop-off in hotel, veicolo privato e itinerario flessibile.",
+  "fullDescription": "Tokyo è la città più popolosa del mondo per area metropolitana e si visita meglio come un insieme di quartieri lungo la linea circolare Yamanote. Asakusa ha il Senso-ji, il tempio più antico della città; Shibuya ha il celebre incrocio e Shinjuku i bar di Golden Gai; Akihabara è elettronica e anime; Ginza sono i grandi magazzini e i banconi di sushi.\n\nQuesto tour privato di tre giorni collega **Tokyo**, il **Monte Fuji** e **Nikko**, con pick-up e drop-off in hotel, un veicolo privato, un itinerario flessibile, i pedaggi e il carburante, tra la **Pagoda Chureito**, il **Lago Kawaguchi** e **Oshino Hakkai**. I pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato di 3 giorni",
+   "Pick-up e drop-off in hotel",
+   "Veicolo privato",
+   "Itinerario flessibile",
+   "Pedaggi",
+   "Carburante"
+  ],
+  "notIncluded": [
+   "Pasti"
+  ]
+ },
+ "learn-traditional-origami-with-a-local-in-tokyo": {
+  "title": "Impara l'origami tradizionale con un locale a Tokyo",
+  "metaTitle": "Origami tradizionale con un locale, Tokyo",
+  "metaDescription": "Un'ora e mezza a Tokyo per imparare l'origami, con carta tradizionale e moderna, forbici, penne, sacchetti per le creazioni, acqua e snack inclusi.",
+  "shortDescription": "Un'ora e mezza a Tokyo per imparare l'origami, con carta tradizionale e moderna, forbici, penne, sacchetti per le creazioni, acqua e snack inclusi.",
+  "fullDescription": "Tokyo è la città più popolosa del mondo per area metropolitana e si visita meglio come un insieme di quartieri lungo la linea circolare Yamanote. Asakusa ha il Senso-ji, il tempio più antico della città.\n\nQuesta esperienza di un'ora e mezza porta la carta per l'**origami**: verranno preparati diversi tipi di carta tradizionale e moderna con disegni splendidi, forbici, penne, piccoli sacchetti per portare a casa le proprie creazioni, e acqua e snack. Il pick-up alla stazione resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Carta per l'origami: diversi tipi di carta tradizionale e moderna con disegni splendidi",
+   "Forbici",
+   "Penne",
+   "Piccoli sacchetti per portare a casa le proprie creazioni",
+   "Acqua e snack"
+  ],
+  "notIncluded": [
+   "Pick-up alla stazione"
+  ]
+ },
+ "hakone-hachiri-old-tokaido-highway-hiking-tour-by-local-operator": {
+  "title": "Hakone Hachiri: escursione sulla vecchia strada Tokaido, con operatore locale",
+  "metaTitle": "Hakone Hachiri: la vecchia strada Tokaido",
+  "metaDescription": "Otto ore tra il Fiume Sukumo e Hatajuku con una guida certificata nazionale con primo soccorso avanzato in natura, trasporto e un pranzo incluse.",
+  "shortDescription": "Otto ore tra il Fiume Sukumo e Hatajuku con una guida certificata nazionale con primo soccorso avanzato in natura, trasporto e un pranzo incluse.",
+  "fullDescription": "Hakone è la località termale tra le montagne novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole sulfuree di Owakudani, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji oltre il lago.\n\nQuesta escursione di otto ore sulla vecchia strada **Tokaido**, nella zona di **Hakone Hachiri**, porta una guida certificata a livello nazionale con addestramento avanzato al primo soccorso in natura, il trasporto in bus e taxi condiviso tra i siti del tour, una tazza di **amazake**, e un pranzo, tra il **Fiume Sukumo** e **Hatajuku**. Il trasporto fino al punto di incontro e dal punto finale, il pick-up e drop-off in hotel, i biglietti d'ingresso o le attività non specificate nell'itinerario, bevande e snack aggiuntivi oltre l'amazake e il pranzo inclusi, le spese personali e i souvenir, l'assicurazione di viaggio, e qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida certificata a livello nazionale con addestramento avanzato al primo soccorso in natura",
+   "Trasporto in bus e taxi condiviso tra i siti del tour",
+   "Una tazza di amazake",
+   "Pranzo"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto di incontro e dal punto finale",
+   "Pick-up e drop-off in hotel",
+   "Biglietti d'ingresso o attività non specificate nell'itinerario",
+   "Bevande e snack aggiuntivi oltre l'amazake e il pranzo inclusi",
+   "Spese personali e souvenir",
+   "Assicurazione di viaggio",
+   "Qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\""
+  ]
+ },
+ "hakone-shrine-atami-beach-and-bay-firework-night": {
+  "title": "Santuario di Hakone, Spiaggia di Atami e serata di fuochi d'artificio sulla baia",
+  "metaTitle": "Hakone, Atami e fuochi d'artificio sulla baia",
+  "metaDescription": "Undici ore tra il Santuario di Hakone e la Spiaggia Atami Sun, con pick-up e drop-off a Tokyo e Shinjuku, veicolo climatizzato e biglietto del santuario incluse.",
+  "shortDescription": "Undici ore tra il Santuario di Hakone e la Spiaggia Atami Sun, con pick-up e drop-off a Tokyo e Shinjuku, veicolo climatizzato e biglietto del santuario incluse.",
+  "fullDescription": "Hakone è la località termale tra le montagne novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole sulfuree di Owakudani, una traversata in barca sul Lago Ashi davanti al torii rosso del **Santuario di Hakone**, e, nelle giornate limpide, il Fuji oltre il lago.\n\nQuesta esperienza di undici ore collega il **Santuario di Hakone**, la **Spiaggia Atami Sun** e i fuochi d'artificio sulla baia, con pick-up e drop-off a Tokyo, pick-up e drop-off a Shinjuku, veicoli climatizzati puliti e spaziosi, un autista e una guida turistica, l'indennità gratuita per i bagagli, il biglietto del santuario, e il biglietto per il festival dei fuochi d'artificio. Cibo e bevande, le spese personali, e il biglietto per l'onsen restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off a Tokyo",
+   "Pick-up e drop-off a Shinjuku",
+   "Veicoli climatizzati, puliti e spaziosi",
+   "Autista e guida turistica",
+   "Indennità gratuita per i bagagli",
+   "Biglietto del santuario",
+   "Biglietto per il festival dei fuochi d'artificio"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali",
+   "Biglietto per l'onsen"
+  ]
+ },
+ "hakone-hachiri-old-tokaido-highway-hiking-half-day-tour-by-local-operator": {
+  "title": "Hakone Hachiri: escursione sulla vecchia strada Tokaido, tour di mezza giornata, con operatore locale",
+  "metaTitle": "Hakone Hachiri: Tokaido, mezza giornata",
+  "metaDescription": "Tre ore e mezza tra il Fiume Sukumo e Hatajuku con una guida certificata nazionale con primo soccorso avanzato in natura e trasporto condiviso incluse.",
+  "shortDescription": "Tre ore e mezza tra il Fiume Sukumo e Hatajuku con una guida certificata nazionale con primo soccorso avanzato in natura e trasporto condiviso incluse.",
+  "fullDescription": "Hakone è la località termale tra le montagne novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole sulfuree di Owakudani, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone.\n\nQuesto tour di mezza giornata, di tre ore e mezza, sulla vecchia strada **Tokaido**, a **Hakone Hachiri**, porta una guida certificata a livello nazionale con addestramento avanzato al primo soccorso in natura, il trasporto in taxi condiviso e bus locale tra i siti del tour, e una tazza di **amazake**, tra il **Fiume Sukumo** e **Hatajuku**. Il trasporto fino al punto di incontro e dal punto finale, il pick-up e drop-off in hotel, i biglietti d'ingresso o le attività non specificate nell'itinerario, bevande e snack aggiuntivi oltre la tazza di amazake, il pranzo dopo il tour, le spese personali e i souvenir, l'assicurazione di viaggio, e qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida certificata a livello nazionale con addestramento avanzato al primo soccorso in natura",
+   "Trasporto in taxi condiviso e bus locale tra i siti del tour",
+   "Una tazza di amazake"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto di incontro e dal punto finale",
+   "Pick-up e drop-off in hotel",
+   "Biglietti d'ingresso o attività non specificate nell'itinerario",
+   "Bevande e snack aggiuntivi oltre la tazza di amazake inclusa",
+   "Pranzo dopo il tour",
+   "Spese personali e souvenir",
+   "Assicurazione di viaggio",
+   "Qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\""
+  ]
+ },
+ "hakone-in-1-day-by-private-car-with-licensed-guide-by-local-operator": {
+  "title": "Hakone in 1 giorno in auto privata con guida autorizzata, con operatore locale",
+  "metaTitle": "Hakone in 1 giorno, guida autorizzata",
+  "metaDescription": "Sei ore a Hakone con una guida locale autorizzata in lingua inglese, veicolo privato, e un tour personalizzabile tra 3 o 4 luoghi a scelta.",
+  "shortDescription": "Sei ore a Hakone con una guida locale autorizzata in lingua inglese, veicolo privato, e un tour personalizzabile tra 3 o 4 luoghi a scelta.",
+  "fullDescription": "Hakone è la località termale tra le montagne novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole sulfuree di Owakudani, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone, e, nelle giornate limpide, il Fuji oltre il lago.\n\nQuesto tour di sei ore porta una guida locale autorizzata in lingua inglese, un veicolo privato, e un tour personalizzabile tra tre o quattro luoghi a scelta dall'elenco. Le tariffe di trasporto, i biglietti d'ingresso, il pranzo e altre spese personali restano a carico del cliente; non è possibile unire più gruppi di tour, e le tariffe d'ingresso della guida sono coperte solo per i luoghi elencati nell'elenco \"cosa aspettarsi\".",
+  "highlights": [],
+  "included": [
+   "Guida locale autorizzata in lingua inglese",
+   "Veicolo privato",
+   "Tour personalizzabile tra 3-4 luoghi a scelta dall'elenco"
+  ],
+  "notIncluded": [
+   "Tariffe di trasporto, biglietti d'ingresso, pranzo e altre spese personali",
+   "Non è possibile unire più gruppi di tour",
+   "Le tariffe d'ingresso della guida sono coperte solo per i luoghi elencati nell'elenco \"cosa aspettarsi\""
+  ]
+ },
+ "lakeshore-shinrin-yoku-forest-bathing-in-hakone": {
+  "title": "Bagno nella foresta shinrin-yoku sulle rive del lago a Hakone",
+  "metaTitle": "Shinrin-yoku sulle rive del lago, Hakone",
+  "metaDescription": "Tre ore a Hakone con un facilitatore professionista di shinrin-yoku, il biglietto d'ingresso alla foresta e i tappetini per la sessione inclusi.",
+  "shortDescription": "Tre ore a Hakone con un facilitatore professionista di shinrin-yoku, il biglietto d'ingresso alla foresta e i tappetini per la sessione inclusi.",
+  "fullDescription": "Hakone è la località termale tra le montagne novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole sulfuree di Owakudani, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone.\n\nQuesta esperienza di tre ore porta un facilitatore professionista di **shinrin-yoku**, il bagno nella foresta, il biglietto d'ingresso alla foresta, e i tappetini per la sessione. Il trasporto fino al punto di incontro e dal punto finale, il pick-up e drop-off in hotel, i pasti, bevande e snack aggiuntivi, le spese personali e i souvenir, l'assicurazione di viaggio, e qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Facilitatore professionista di shinrin-yoku",
+   "Biglietto d'ingresso alla foresta",
+   "Tappetini per la sessione"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto di incontro e dal punto finale",
+   "Pick-up e drop-off in hotel",
+   "Pasti, bevande e snack aggiuntivi",
+   "Spese personali e souvenir",
+   "Assicurazione di viaggio",
+   "Qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\""
+  ]
+ },
+ "small-group-mt-fuji-lake-tanuki-and-makaino-farm-day-tour": {
+  "title": "Tour di un giorno in piccolo gruppo al Monte Fuji, Lago Tanuki e la fattoria Makaino",
+  "metaTitle": "Monte Fuji, Lago Tanuki, fattoria Makaino",
+  "metaDescription": "Dieci ore tra il Parco Arakurayama Sengen, il Makaino Farm Resort e il Lago Tanuki, con trasporto in furgone, autista-guida e carburante incluse.",
+  "shortDescription": "Dieci ore tra il Parco Arakurayama Sengen, il Makaino Farm Resort e il Lago Tanuki, con trasporto in furgone, autista-guida e carburante incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite di un giorno da Tokyo raggiungono i Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista riflessa, le sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida, e spesso la Fuji Subaru Line fino alla quinta stazione a 2.300 metri, quando la strada è aperta, approssimativamente da aprile a novembre.\n\nQuesto tour in piccolo gruppo di dieci ore collega il **Parco Arakurayama Sengen**, il **Makaino Farm Resort** e il **Lago Tanuki**, con il trasporto in furgone, un autista-guida, dieci ore di durata del tour, e carburante, pedaggi e tariffe di parcheggio. Pasti, attività opzionali (ad esempio l'equitazione in fattoria), e spese personali e elementi non indicati nella sezione \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in furgone",
+   "Autista-guida",
+   "Durata del tour di 10 ore",
+   "Carburante, pedaggi e tariffe di parcheggio"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Attività opzionali (ad esempio l'equitazione in fattoria)",
+   "Spese personali ed elementi non indicati nella sezione \"cosa è incluso\""
+  ]
+ },
+ "mt-yoshino-cherry-blossoms-and-nara-deer-day-trip": {
+  "title": "Gita di un giorno ai fiori di ciliegio del Monte Yoshino e ai cervi di Nara",
+  "metaTitle": "Monte Yoshino e i cervi di Nara",
+  "metaDescription": "Dieci ore tra il Monte Yoshino e il Parco di Nara, con la tariffa del servizio autista, il veicolo e i biglietti d'ingresso alle attrazioni incluse.",
+  "shortDescription": "Dieci ore tra il Monte Yoshino e il Parco di Nara, con la tariffa del servizio autista, il veicolo e i biglietti d'ingresso alle attrazioni incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesta gita di dieci ore collega il **Monte Yoshino**, il Tsubosakadera Shutokukai e il **Parco di Nara**, con la tariffa del servizio autista (l'autista non accompagna all'interno delle attrazioni), il veicolo, e i biglietti d'ingresso alle attrazioni (salvo siti opzionali). I pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del servizio autista (l'autista non accompagna all'interno delle attrazioni)",
+   "Veicolo",
+   "Biglietti d'ingresso alle attrazioni (salvo siti opzionali)"
+  ],
+  "notIncluded": [
+   "Pasti e bevande"
+  ]
+ },
+ "hakone-and-mt-fuji-day-trip-ropeway-owakudani-oshino-hakkai-mount-fuji": {
+  "title": "Gita di un giorno a Hakone e al Monte Fuji: funivia, Owakudani, Oshino Hakkai (Monte Fuji)",
+  "metaTitle": "Hakone e Monte Fuji: funivia e Owakudani",
+  "metaDescription": "Dieci ore tra il Santuario di Hakone e il Lago Ashi, con la tariffa di sola andata per la funivia di Hakone, il servizio di trasporto e la guida turistica incluse.",
+  "shortDescription": "Dieci ore tra il Santuario di Hakone e il Lago Ashi, con la tariffa di sola andata per la funivia di Hakone, il servizio di trasporto e la guida turistica incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite di un giorno da Tokyo raggiungono i Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza.\n\nQuesta gita di dieci ore collega **Hakone** e il **Monte Fuji**, con la tariffa di sola andata per la **funivia di Hakone**, la tariffa del servizio di trasporto durante l'itinerario, e il servizio di guida turistica, tra il **Santuario di Hakone** e il **Lago Ashi**. La tariffa di sola andata per la **Nave Pirata di Hakone** (1.700 yen), il pranzo personale e snack aggiuntivi, e altre spese personali non menzionate restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa di sola andata per la funivia di Hakone",
+   "Tariffa del servizio di trasporto durante l'itinerario",
+   "Servizio di guida turistica"
+  ],
+  "notIncluded": [
+   "Tariffa di sola andata per la Nave Pirata di Hakone (1.700 yen)",
+   "Pranzo personale e snack aggiuntivi",
+   "Altre spese personali non menzionate"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
