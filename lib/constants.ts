@@ -1605,6 +1605,8 @@ export const GALLE_INFO_SLUGS = [
   'is-surf-lesson-worth-it-galle', 'is-cooking-class-worth-it-galle',
   'is-ceylon-gem-workshop-worth-it-galle', 'is-koggala-lake-tour-worth-it-galle',
   'is-kayaking-village-tour-worth-it-galle',
+  'best-galle-fort-walking-tour-galle', 'is-turtle-hatchery-worth-it-galle',
+  'is-muay-thai-training-worth-it-galle', 'is-escooter-tour-worth-it-galle',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.

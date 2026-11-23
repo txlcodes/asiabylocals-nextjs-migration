@@ -637,6 +637,101 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-galle-fort-walking-tour-galle":
+      return {
+        title: "Which Is the Best Galle Fort Walking Tour?",
+        description: "Compare the real guided walking tour options inside the UNESCO-listed Galle Fort.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1009869/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "All the real options walk you through the same Dutch colonial fort, ramparts, and old-town streets — the differences are length, whether a coffee break is built in, and how much the tour leans into hidden-gems storytelling versus the standard highlights.",
+            tourCard: { slug: "explore-galle-fort-with-local-guide", title: "Explore Galle Fort with Local Guide", description: "A standard guided walk through Galle Fort.", price: "From $32", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1009869/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest & Most Relaxed: Private Tour with Coffee Break",
+            content: "At $21 and spread over 5 hours, this is the lowest-priced option and builds in time to stop for coffee rather than rushing the ramparts.",
+            tourCard: { slug: "galle-private-galle-fort-walking-tour-with-coffee", title: "Galle: Private Galle Fort Walking Tour with Coffee Break", description: "A relaxed private Fort walk with a coffee stop.", price: "From $21", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1394588/img0/1600.webp" },
+          },
+          {
+            title: "Best for Hidden Gems: Private Heritage & Hidden Gems Walking Tour",
+            content: "This leans into lesser-known corners and stories beyond the standard rampart-and-lighthouse route, good for repeat visitors or history enthusiasts.",
+            tourCard: { slug: "galle-fort-private-heritage-hidden-gems-walking", title: "Galle Fort: Private Heritage & Hidden Gems Walking Tour", description: "A heritage-focused Fort walk covering hidden corners.", price: "From $33", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1388368/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Galle Fort is genuinely walkable and compact, so even the shorter 2-hour option covers the main sights — the longer versions add depth and pacing rather than covering vastly more ground.",
+          },
+        ],
+        faqs: [
+          { q: "What is the best Galle Fort walking tour?", a: "A standard 2-hour guide suits most visitors; go for the heritage/hidden-gems version if you want deeper stories and lesser-known corners." },
+          { q: "Is Galle Fort walkable on foot?", a: "Yes, it's compact — even a 2-hour tour covers the main sights comfortably." },
+        ],
+      };
+
+    case "is-turtle-hatchery-worth-it-galle":
+      return {
+        title: "Is the Sea Turtle Hatchery Visit Worth It near Galle?",
+        description: "An honest look at the private day tour combining a sea turtle visit with a boat safari near Galle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-714407/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka's south coast runs several turtle conservation hatcheries, and this tour pairs a visit with a boat safari, giving a conservation-focused activity distinct from the area's beach, surf, and fort sightseeing.",
+            tourCard: { slug: "galle-private-day-tours-with-sea-turtles-visit", title: "Galle Private Day Tours with Sea Turtles visit & Boat Safari", description: "A private day tour with a sea turtle hatchery visit and boat safari.", price: "From $77", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-714407/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask whether the specific hatchery visited is a genuine conservation operation — standards vary between hatcheries along this coast, so a reputable guide matters.",
+          },
+        ],
+        faqs: [
+          { q: "Is the turtle hatchery visit worth it near Galle?", a: "Yes, as a conservation-focused activity distinct from the area's beach and fort sightseeing — just confirm the hatchery's conservation credentials with your guide." },
+        ],
+      };
+
+    case "is-muay-thai-training-worth-it-galle":
+      return {
+        title: "Is the Muay Thai Training Session Worth It in Galle?",
+        description: "An honest look at the Dragon Muay Thai Club training session in Galle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1167827/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuine fitness/sport activity rather than sightseeing — a one-off training session at a real Muay Thai club, suited to travelers who want to stay active or try something physical during their stay rather than another beach or fort visit.",
+            tourCard: { slug: "galle-dragon-muay-thai-club-training-session", title: "Galle: Dragon Muay Thai Club Training Session", description: "A Muay Thai training session at a Galle club.", price: "From $15", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1167827/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior Muay Thai experience is needed for a one-off session — wear comfortable athletic clothing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Galle Muay Thai session worth it?", a: "Yes for travelers wanting an active break from sightseeing — no prior experience needed for a single session." },
+        ],
+      };
+
+    case "is-escooter-tour-worth-it-galle":
+      return {
+        title: "Is the Galle Fort Premium E-Scooter Tour Worth It?",
+        description: "An honest look at the guided e-scooter tour along Galle Fort's scenic coastal ramparts.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This covers the same ramparts and coastal views as the walking tours, but on an e-scooter — a faster, lower-effort way to see the Fort's perimeter, trading the slower pace of walking for covering more ground in less time.",
+            tourCard: { slug: "galle-fort-premium-e-scooter-guided-tour-scenic", title: "Galle Fort Premium E-Scooter Guided Tour Scenic Coastal Ride", description: "A guided e-scooter tour of Galle Fort's coastal ramparts.", price: "From $102", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At a premium price for just 1 hour, this suits travelers who specifically want the novelty of e-scooter sightseeing rather than those simply trying to save money over a walking tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Galle Fort e-scooter tour worth it?", a: "Yes if you want a faster, lower-effort way to see the ramparts and specifically want the e-scooter novelty — it's priced at a premium over the walking tours." },
+        ],
+      };
+
     default:
       return null;
   }
