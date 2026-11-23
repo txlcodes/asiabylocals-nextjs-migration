@@ -1589,6 +1589,8 @@ export const ELLA_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-ella',
   'is-cooking-class-worth-it-ella',
   'is-diyaluma-falls-tour-worth-it-ella', 'is-sinharaja-rainforest-trek-worth-it-ella',
+  'is-tea-making-workshop-worth-it-ella', 'is-demodara-cycling-tour-worth-it-ella',
+  'is-sunrise-yoga-worth-it-ella', 'is-ella-rock-sunrise-hike-worth-it-ella',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.

@@ -1076,6 +1076,93 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tea-making-workshop-worth-it-ella":
+      return {
+        title: "Is the Ella Hand-Rolled Tea Making Workshop Worth It?",
+        description: "An honest look at the hand-rolled tea making workshop with tasting and estate walk in Ella's Uva tea country.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463006/asiabylocals/tours/ella-tea-making-experience-tasting-snacks-with-tuk-tuk/img0.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ella sits in the Uva tea region, and this workshop goes beyond a standard factory-tour tasting by letting you hand-pick and hand-roll your own tea leaves, plus a walk through the estate — a more hands-on experience than simply watching a factory process.",
+            tourCard: { slug: "hand-rolled-tea-making-workshop-in-ella-with-a-tasting-and-estate-walk", title: "Hand-Rolled Tea Making Workshop in Ella with a Tasting and Estate Walk", description: "A hands-on tea making workshop with tasting and estate walk.", price: "From $54", duration: "5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463006/asiabylocals/tours/ella-tea-making-experience-tasting-snacks-with-tuk-tuk/img0.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At 5 hours including the estate walk, this is longer and more immersive than a quick factory-tasting stop — budget a half-day for it rather than treating it as a short add-on.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ella tea making workshop worth it?", a: "Yes for a genuinely hands-on experience — hand-picking and rolling your own tea leaves, not just watching a factory tour." },
+          { q: "How long is the Ella tea making workshop?", a: "About 5 hours, including an estate walk and tasting." },
+        ],
+      };
+
+    case "is-demodara-cycling-tour-worth-it-ella":
+      return {
+        title: "Is the Ella to Demodara Cycling Tour Worth It?",
+        description: "An honest look at the cycling tour from Ella to Demodara that includes the Nine Arch Bridge and a train ride back.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462774/asiabylocals/tours/ella-demodara-cycling-tour-with-train-ride/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This combines two of Ella's signature experiences — cycling through tea-country scenery and riding the hill-country train — into one loop, ending with a scenic train ride back rather than cycling the whole route both ways.",
+            tourCard: { slug: "ella-to-demodara-cycling-tour-with-the-nine-arch-bridge-and-a-train", title: "Ella to Demodara Cycling Tour with the Nine Arch Bridge and a Train Ride Back", description: "A cycling tour from Ella to Demodara with a train ride back.", price: "From $27", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788462774/asiabylocals/tours/ella-demodara-cycling-tour-with-train-ride/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good active alternative if you've already done the standard Nine Arch Bridge walk and want to see the same landmark from a cycling route instead.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ella to Demodara cycling tour worth it?", a: "Yes, it pairs cycling through tea country with a scenic train ride back — a nice combination of two signature Ella experiences." },
+          { q: "Do I cycle the whole route both ways?", a: "No, the return leg is by train rather than cycling back." },
+        ],
+      };
+
+    case "is-sunrise-yoga-worth-it-ella":
+      return {
+        title: "Is the Ella Sunrise Yoga, Meditation & Sound Healing Experience Worth It?",
+        description: "An honest look at the sunrise yoga, meditation, and sound healing experience in Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1421329/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a wellness-focused experience rather than a sightseeing or adventure activity, timed around sunrise for a calmer, quieter version of Ella's hill-country views than the crowded sunrise hikes up Little Adam's Peak or Ella Rock.",
+            tourCard: { slug: "ella-sunrise-yoga-meditation-and-sound-healing", title: "Ella: Sunrise Yoga, Meditation and Sound Healing Experience", description: "A sunrise yoga, meditation, and sound healing session in Ella.", price: "From $56", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1421329/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick if you want sunrise hill-country views without the physical exertion and crowds of a sunrise hike up Ella Rock or Little Adam's Peak.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ella sunrise yoga experience worth it?", a: "Yes for travellers wanting a calm, wellness-focused way to experience sunrise in the hills without hiking." },
+        ],
+      };
+
+    case "is-ella-rock-sunrise-hike-worth-it-ella":
+      return {
+        title: "Is the All-Inclusive Sunrise Hike to Ella Rock Worth It?",
+        description: "An honest look at the guided sunrise hike up Ella Rock with a waterfall visit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1091347/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ella Rock's sunrise views over the hill country are genuinely rewarding, and going with a guide on a timed, all-inclusive sunrise hike avoids the route-finding mistakes solo hikers commonly make on the unmarked trail, plus adds a waterfall stop.",
+            tourCard: { slug: "all-inclusive-sunrise-hike-to-ella-rock-waterfall", title: "All-inclusive Sunrise Hike to Ella Rock & Waterfall Visit", description: "A guided sunrise hike up Ella Rock with a waterfall stop.", price: "From $54", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1091347/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ella Rock's trail is genuinely easy to get wrong without a guide — several unmarked junctions lead hikers astray, so a guided version removes that risk for a sunrise start.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ella Rock sunrise hike worth it?", a: "Yes — the views are genuinely rewarding, and a guide avoids the route-finding mistakes common on this unmarked trail." },
+          { q: "Is the Ella Rock trail easy to navigate alone?", a: "No, several unmarked junctions commonly lead solo hikers astray, which is why a guided version is worth considering." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1620,7 +1620,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'leaving-ella-onward-transfers', 'best-tours-in-ella', 'should-i-book-ella-tour-direct-or-through-app',
     'how-much-should-a-private-tour-guide-cost-in-ella',
     'is-cooking-class-worth-it-ella',
-    'is-diyaluma-falls-tour-worth-it-ella', 'is-sinharaja-rainforest-trek-worth-it-ella'].map(slug => ({
+    'is-diyaluma-falls-tour-worth-it-ella', 'is-sinharaja-rainforest-trek-worth-it-ella',
+    'is-tea-making-workshop-worth-it-ella', 'is-demodara-cycling-tour-worth-it-ella',
+    'is-sunrise-yoga-worth-it-ella', 'is-ella-rock-sunrise-hike-worth-it-ella'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
