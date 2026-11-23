@@ -42464,6 +42464,186 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "private-walking-tour-with-a-local-in-nara": {
+  "title": "Tour a piedi privato con un locale a Nara",
+  "metaTitle": "Tour a piedi privato con un locale, Nara",
+  "metaDescription": "Tre ore a Nara con un tour a piedi privato personalizzato e una guida locale, biglietti d'ingresso e trasporto locale restano a carico del cliente.",
+  "shortDescription": "Tre ore a Nara con un tour a piedi privato personalizzato e una guida locale, biglietti d'ingresso e trasporto locale restano a carico del cliente.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Nara è a quarantacinque minuti da Kyoto o Osaka in treno e si visita in mezza giornata.\n\nQuesto tour a piedi privato di tre ore porta una guida locale (\"lokafyer\") e un tour a piedi personalizzato. Biglietti d'ingresso, spese personali, mance, costi di attività opzionali, pasti e bevande, e il trasporto locale in città restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale (lokafyer)",
+   "Tour a piedi privato personalizzato"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso",
+   "Spese personali",
+   "Mance",
+   "Costi di attività opzionali",
+   "Pasti e bevande",
+   "Trasporto locale in città"
+  ]
+ },
+ "write-your-own-name-in-kanji-japanese-calligraphy-in-nara": {
+  "title": "Scrivi il tuo nome in kanji, calligrafia giapponese, a Nara",
+  "metaTitle": "Scrivi il tuo nome in kanji, Nara",
+  "metaDescription": "Un'ora a Nara per scrivere il proprio nome in kanji con un pennello, con tutti i materiali necessari e l'opera finita incluse.",
+  "shortDescription": "Un'ora a Nara per scrivere il proprio nome in kanji con un pennello, con tutti i materiali necessari e l'opera finita incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji. Nara è a quarantacinque minuti da Kyoto o Osaka in treno.\n\nQuesta esperienza di un'ora porta l'esperienza di scrivere il proprio nome in **kanji** con un pennello, tutti i materiali necessari per l'attività, e il proprio nome disegnato in kanji da portare a casa.",
+  "highlights": [],
+  "included": [
+   "Esperienza di scrivere il proprio nome in kanji con un pennello",
+   "Tutti i materiali necessari per l'attività",
+   "Il proprio nome disegnato in kanji"
+  ],
+  "notIncluded": []
+ },
+ "nara-park-and-uji-hot-spring-day-trip": {
+  "title": "Gita di un giorno al Parco di Nara e alle terme di Uji",
+  "metaTitle": "Parco di Nara e terme di Uji, gita di un giorno",
+  "metaDescription": "Dieci ore tra il Parco di Nara, il Tempio Todai-ji, il Santuario Kasuga Taisha e le terme Genji no Yu a Uji.",
+  "shortDescription": "Dieci ore tra il Parco di Nara, il Tempio Todai-ji, il Santuario Kasuga Taisha e le terme Genji no Yu a Uji.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti.\n\nQuesta gita di dieci ore porta la visita al **Parco di Nara**, al **Tempio Todai-ji**, al **Santuario Kasuga Taisha**, e alle **terme Genji no Yu** a Uji. Cibo e bevande, e la tariffa delle terme restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita al Parco di Nara",
+   "Visita al Tempio Todai-ji",
+   "Visita al Santuario Kasuga Taisha",
+   "Visita alle terme Genji no Yu a Uji"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Tariffa delle terme"
+  ]
+ },
+ "half-day-local-guide-big-buddha-deer-shrine-forest-in-nara": {
+  "title": "Guida locale per mezza giornata: Grande Buddha, cervi, santuario e foresta a Nara",
+  "metaTitle": "Mezza giornata a Nara: Grande Buddha e cervi",
+  "metaDescription": "Quattro ore a Nara tra il Todai-ji, il Santuario Tamukeyama Hachimangu e il Kasuga Taisha, con tutti i biglietti d'ingresso ai templi e santuari inclusi.",
+  "shortDescription": "Quattro ore a Nara tra il Todai-ji, il Santuario Tamukeyama Hachimangu e il Kasuga Taisha, con tutti i biglietti d'ingresso ai templi e santuari inclusi.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752. Circa 1.200 cervi sika vagano protetti nel parco.\n\nQuesto tour di quattro ore include tutto quanto descritto: tutti i biglietti d'ingresso ai templi e santuari, un tour guidato a piedi con una guida locale bilingue (inglese e giapponese), e assistenza allo shopping per souvenir e cibo, tra il **Todai-ji**, il **Santuario Tamukeyama Hachimangu** e il **Kasuga Taisha**. Il tour esclude tutto quanto descritto di seguito: cibo e bevande, e la mancia per la guida (non obbligatoria, ma sempre apprezzata).",
+  "highlights": [],
+  "included": [
+   "Questo tour include tutto quanto descritto:",
+   "Tutti i biglietti d'ingresso ai templi e santuari",
+   "Tour guidato a piedi con una guida locale bilingue (inglese e giapponese)",
+   "Assistenza allo shopping per souvenir e per l'acquisto di cibo"
+  ],
+  "notIncluded": [
+   "Questo tour esclude tutto quanto descritto di seguito:",
+   "Cibo e bevande",
+   "Mancia per la guida (non obbligatoria, ma sempre apprezzata)"
+  ]
+ },
+ "horyuji-temple-guided-tour-and-write-your-name-in-kanji": {
+  "title": "Tour guidato del Tempio Horyuji e scrivi il tuo nome in kanji!",
+  "metaTitle": "Tempio Horyuji e il proprio nome in kanji",
+  "metaDescription": "Tre ore con un tour guidato del Tempio Horyuji e un'esperienza di kanji, con un'opera personalizzata del proprio nome inclusa.",
+  "shortDescription": "Tre ore con un tour guidato del Tempio Horyuji e un'esperienza di kanji, con un'opera personalizzata del proprio nome inclusa.",
+  "fullDescription": "I santuari shintoisti e i templi buddisti convivono fianco a fianco in tutto il Giappone, e l'etichetta cambia leggermente: in un santuario, si fa un inchino al torii, si sciacquano le mani e la bocca al bacile dell'acqua, poi ci si inchina due volte, si battono le mani due volte e ci si inchina una volta davanti alla sala; in un tempio, non si battono le mani, si uniscono le mani e si offre incenso se previsto. Le fotografie sono generalmente permesse all'esterno e di solito non all'interno delle sale.\n\nQuesta esperienza di tre ore porta un tour guidato del **Tempio Horyuji**, un'esperienza di scrittura in **kanji**, e un'opera personalizzata di kanji con il proprio nome. Il biglietto d'ingresso al Tempio Horyuji resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Tempio Horyuji",
+   "Esperienza di kanji",
+   "Opera personalizzata di kanji con il proprio nome"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Tempio Horyuji"
+  ]
+ },
+ "nijo-castle-arashiyama-kinkakuji-day-tour": {
+  "title": "Tour di un giorno al Castello Nijo, Arashiyama e Kinkakuji",
+  "metaTitle": "Castello Nijo, Arashiyama, Kinkakuji: tour di un giorno",
+  "metaDescription": "Dieci ore da Kyoto tra il Castello Nijo e il Bosco di Bambù di Arashiyama, con guida bilingue, veicolo climatizzato e trasferimenti andata e ritorno inclusi.",
+  "shortDescription": "Dieci ore da Kyoto tra il Castello Nijo e il Bosco di Bambù di Arashiyama, con guida bilingue, veicolo climatizzato e trasferimenti andata e ritorno inclusi.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione. I colori autunnali sono al massimo nella seconda metà di novembre e i fiori di ciliegio nella prima settimana di aprile.\n\nQuesto tour di dieci ore collega il **Castello Nijo**, **Arashiyama** e il **Bosco di Bambù di Arashiyama**, con una guida bilingue professionista in inglese e cinese, un veicolo comodo con aria condizionata, trasferimenti andata e ritorno dal punto di incontro, e tutte le tasse, tariffe di parcheggio, pedaggi, carburante e imposte ambientali incluse. L'ingresso al Castello Nijo e al Tempio Kinkaku-ji, i pasti e le bevande, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue professionista (inglese e cinese)",
+   "Veicolo comodo con aria condizionata",
+   "Trasferimenti andata e ritorno dal punto di incontro",
+   "Tutte le tasse, tariffe di parcheggio, pedaggi, carburante e imposte ambientali"
+  ],
+  "notIncluded": [
+   "Ingresso al Castello Nijo e al Tempio Kinkaku-ji",
+   "Pasti e bevande",
+   "Altre spese personali"
+  ]
+ },
+ "traditional-japanese-home-cooking-class-in-kyoto": {
+  "title": "Corso di cucina casalinga tradizionale giapponese a Kyoto",
+  "metaTitle": "Cucina casalinga tradizionale a Kyoto",
+  "metaDescription": "Due ore a Kyoto per un corso di cucina obanzai, con ingredienti, utensili di cottura e biglietto d'ingresso inclusi.",
+  "shortDescription": "Due ore a Kyoto per un corso di cucina obanzai, con ingredienti, utensili di cottura e biglietto d'ingresso inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari.\n\nQuesto corso di cucina di due ore porta gli ingredienti e i condimenti per la cucina **obanzai**, tutti gli strumenti e gli utensili di cottura forniti, la degustazione dei piatti preparati, e il biglietto d'ingresso. I calzini restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingredienti e condimenti per la cucina obanzai",
+   "Tutti gli strumenti e gli utensili di cottura forniti",
+   "Degustazione dei piatti preparati",
+   "Biglietto d'ingresso"
+  ],
+  "notIncluded": [
+   "Calzini"
+  ]
+ },
+ "kyoto-geisha-walking-tour-gion-district-and-local-sites-by-local-operator": {
+  "title": "Tour a piedi sulle geisha a Kyoto: quartiere di Gion e siti locali, con operatore locale",
+  "metaTitle": "Tour delle geisha a Kyoto: Gion e siti locali",
+  "metaDescription": "Due ore a Kyoto tra Gion e i siti locali, con una guida turistica, cibo, bevande, souvenir e trasporto restano a carico del cliente.",
+  "shortDescription": "Due ore a Kyoto tra Gion e i siti locali, con una guida turistica, cibo, bevande, souvenir e trasporto restano a carico del cliente.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati; una passeggiata con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo.\n\nQuesto tour a piedi di due ore, con operatore locale, porta una guida turistica tra **Gion** e i siti locali. Cibo e bevande (acquistabili a proprie spese), souvenir e spese personali, e il trasporto da e per il punto di incontro restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica"
+  ],
+  "notIncluded": [
+   "Cibo e bevande (acquistabili a proprie spese)",
+   "Souvenir e spese personali",
+   "Trasporto da e per il punto di incontro"
+  ]
+ },
+ "kyoto-and-uji-tour-kinkakuji-kiyomizudera-byodo-in": {
+  "title": "Tour di Kyoto e Uji, Kinkakuji, Kiyomizudera, Byodo-in",
+  "metaTitle": "Kyoto e Uji: Kinkakuji, Kiyomizudera, Byodo-in",
+  "metaDescription": "Dieci ore da Kyoto tra il Kinkaku-ji, il Kiyomizu-dera e Ninenzaka, con guida bilingue, veicolo climatizzato e trasferimenti andata e ritorno inclusi.",
+  "shortDescription": "Dieci ore da Kyoto tra il Kinkaku-ji, il Kiyomizu-dera e Ninenzaka, con guida bilingue, veicolo climatizzato e trasferimenti andata e ritorno inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il **Kiyomizu-dera**, la terrazza in legno sulle colline orientali con le vie di Sannenzaka e **Ninenzaka** sotto di sé; e i torii del Fushimi Inari.\n\nQuesto tour di dieci ore collega **Kyoto** e **Uji**, con il **Kinkaku-ji**, il **Kiyomizu-dera** e **Ninenzaka**, una guida bilingue professionista in inglese e cinese, un veicolo comodo con aria condizionata, trasferimenti andata e ritorno dal punto di incontro, e tutte le tasse, tariffe di parcheggio, pedaggi, carburante e imposte ambientali incluse. L'ingresso al Tempio Kiyomizu-dera, al Tempio Kinkaku-ji e al Tempio Byodo-in, i pasti e le bevande, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue professionista (inglese e cinese)",
+   "Veicolo comodo con aria condizionata",
+   "Trasferimenti andata e ritorno dal punto di incontro",
+   "Tutte le tasse, tariffe di parcheggio, pedaggi, carburante e imposte ambientali"
+  ],
+  "notIncluded": [
+   "Ingresso al Tempio Kiyomizu-dera, al Tempio Kinkaku-ji e al Tempio Byodo-in",
+   "Pasti e bevande",
+   "Altre spese personali"
+  ]
+ },
+ "kyoto-hidden-gems-tour-miyama-village-and-amanohashidate-by-local-operator": {
+  "title": "Kyoto, gemme nascoste: il villaggio di Miyama e Amanohashidate, con operatore locale",
+  "metaTitle": "Kyoto, gemme nascoste: Miyama e Amanohashidate",
+  "metaDescription": "Dieci ore tra il villaggio dai tetti di paglia di Miyama, il villaggio di pescatori di Ine e il banco di sabbia di Amanohashidate, con trasporto andata e ritorno da Osaka.",
+  "shortDescription": "Dieci ore tra il villaggio dai tetti di paglia di Miyama, il villaggio di pescatori di Ine e il banco di sabbia di Amanohashidate, con trasporto andata e ritorno da Osaka.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour di dieci ore, con operatore locale, porta la visita al villaggio dai tetti di paglia di **Miyama**, al villaggio di pescatori di **Ine**, e al banco di sabbia di **Amanohashidate**, con trasporto andata e ritorno da Osaka, una guida turistica, e un bus turistico climatizzato. Pasti, spese personali, la funicolare di Amanohashidate (circa 1.000 yen a persona, facoltativa), e la barca turistica di Ine (circa 800-1.600 yen a persona, facoltativa) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita al villaggio dai tetti di paglia di Miyama",
+   "Visita al villaggio di pescatori di Ine",
+   "Visita al banco di sabbia di Amanohashidate",
+   "Trasporto andata e ritorno da Osaka",
+   "Guida turistica",
+   "Bus turistico climatizzato"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Funicolare di Amanohashidate: circa 1.000 yen a persona (facoltativa)",
+   "Barca turistica di Ine: circa 800-1.600 yen a persona (facoltativa)"
+  ]
+ },
  "nara-wagashi-workshop-with-matcha-tasting": {
   "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
   "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
