@@ -44725,6 +44725,183 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "hair-and-make-up-by-a-professional-in-osaka": {
+  "title": "Capelli e trucco da una professionista a Osaka",
+  "metaTitle": "Capelli e trucco professionale, Osaka",
+  "metaDescription": "Trenta minuti a Osaka con acconciatura e trucco da trucchisti professionisti, la fotografia in uno studio fotografico resta a carico del cliente.",
+  "shortDescription": "Trenta minuti a Osaka con acconciatura e trucco da trucchisti professionisti, la fotografia in uno studio fotografico resta a carico del cliente.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di trenta minuti porta l'acconciatura e il trucco da trucchisti professionisti. La fotografia in uno studio fotografico (con costo aggiuntivo) resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Acconciatura e trucco da trucchisti professionisti"
+  ],
+  "notIncluded": [
+   "Fotografia in uno studio fotografico (costo aggiuntivo)"
+  ]
+ },
+ "bike-adventure-with-lunch-in-osaka": {
+  "title": "Avventura in bicicletta con pranzo a Osaka",
+  "metaTitle": "Avventura in bicicletta con pranzo, Osaka",
+  "metaDescription": "Cinque ore e mezza a Osaka in bicicletta con noleggio bici, casco, guida locale, pranzo e acqua inclusi.",
+  "shortDescription": "Cinque ore e mezza a Osaka in bicicletta con noleggio bici, casco, guida locale, pranzo e acqua inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta avventura in bicicletta di cinque ore e mezza porta il noleggio della bicicletta, il casco, una guida locale, il pranzo e l'acqua. Pick-up e drop-off in hotel, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio della bicicletta",
+   "Casco",
+   "Guida locale",
+   "Pranzo",
+   "Acqua"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Mance"
+  ]
+ },
+ "japan-s-music-and-street-culture-tour-with-jazz-cafe": {
+  "title": "Tour della musica e della cultura di strada giapponese, con un jazz cafe",
+  "metaTitle": "Musica e cultura di strada, jazz cafe",
+  "metaDescription": "Tre ore a Osaka con una guida esperta di musica, ingresso a un jazz cafe, esibizioni dal vivo, un negozio di dischi e un bar segreto inclusi.",
+  "shortDescription": "Tre ore a Osaka con una guida esperta di musica, ingresso a un jazz cafe, esibizioni dal vivo, un negozio di dischi e un bar segreto inclusi.",
+  "fullDescription": "Questa esperienza di tre ore a Osaka porta una guida locale appassionata di musica, l'ingresso a un **jazz cafe**, esibizioni musicali dal vivo, la visita a un negozio di dischi, e l'accesso a un bar segreto. Pasti e bevande, il trasporto da e per il punto di partenza, e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale appassionata di musica",
+   "Ingresso a un jazz cafe",
+   "Esibizioni musicali dal vivo",
+   "Visita a un negozio di dischi",
+   "Accesso a un bar segreto"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Trasporto da e per il punto di partenza",
+   "Spese personali"
+  ]
+ },
+ "near-osaka-explore-itami-the-birthplace-of-clear-sake-by-local-operator": {
+  "title": "Vicino a Osaka: scopri Itami, la culla del sake limpido, con operatore locale",
+  "metaTitle": "Itami: la culla del sake limpido",
+  "metaDescription": "Due ore a Itami con un tour guidato, la visita al più antico edificio di una fabbrica di sake del Giappone, e una degustazione curata incluse.",
+  "shortDescription": "Due ore a Itami con un tour guidato, la visita al più antico edificio di una fabbrica di sake del Giappone, e una degustazione curata incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour guidato di due ore a **Itami**, la culla del **sake** limpido, porta la visita al più antico edificio di una fabbrica di sake ancora esistente in Giappone, l'ingresso a un museo che mostra gli strumenti e le tecniche tradizionali di produzione del sake, e una degustazione curata in un ristorante al primo piano del museo. Il trasporto da e per Itami, e i pasti oltre la degustazione di sake restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato di 2 ore a Itami",
+   "Visita al più antico edificio di una fabbrica di sake ancora esistente in Giappone",
+   "Ingresso a un museo con strumenti e tecniche tradizionali di produzione del sake",
+   "Degustazione curata in un ristorante al primo piano del museo"
+  ],
+  "notIncluded": [
+   "Trasporto da e per Itami",
+   "Pasti oltre la degustazione di sake"
+  ]
+ },
+ "osaka-winery-tour-with-wine-tasting-and-vineyard-walk-by-local-operator": {
+  "title": "Tour di una cantina a Osaka con degustazione di vino e passeggiata nel vigneto, con operatore locale",
+  "metaTitle": "Cantina di Osaka: degustazione e vigneto",
+  "metaDescription": "Due ore a Osaka con una degustazione di tre vini giapponesi, piccoli assaggi con vino, guida e biglietti del museo del vino inclusi.",
+  "shortDescription": "Due ore a Osaka con una degustazione di tre vini giapponesi, piccoli assaggi con vino, guida e biglietti del museo del vino inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour di due ore porta la degustazione di **vino** (tre tipi diversi di vino giapponese), piccoli assaggi accompagnati dal vino, una guida professionista, e i biglietti del museo del vino, con una passeggiata nel vigneto a **Katashimo Wine Food**. Una degustazione aggiuntiva resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Degustazione di vino (3 tipi diversi di vino giapponese)",
+   "Piccoli assaggi accompagnati dal vino",
+   "Guida professionista",
+   "Biglietti del museo del vino"
+  ],
+  "notIncluded": [
+   "Degustazione aggiuntiva"
+  ]
+ },
+ "anime-character-cosplay-photoshoot-includes-50-photo-data-in-osaka": {
+  "title": "Servizio fotografico in cosplay di un personaggio anime, incluso con 50 foto digitali, a Osaka",
+  "metaTitle": "Cosplay di anime, 50 foto digitali, Osaka",
+  "metaDescription": "Un'ora a Osaka con costume cosplay, parrucca, servizio fotografico e tutti i dati fotografici inclusi, scelti tra personaggi anime selezionati.",
+  "shortDescription": "Un'ora a Osaka con costume cosplay, parrucca, servizio fotografico e tutti i dati fotografici inclusi, scelti tra personaggi anime selezionati.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di un'ora porta il costume **cosplay** (solo donne), una parrucca, il servizio fotografico, e tutti i dati fotografici. Sono disponibili solo i personaggi di \"Sailor Moon\", \"Oshi no Ko\", \"Spy x Family\", \"Princess Peach\", \"Hatsune Miku\" e \"Frieren\". Il trucco (9.900 yen) e il ritocco fotografico (11.000 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Cosplay (solo donne)",
+   "Parrucca",
+   "Servizio fotografico",
+   "Tutti i dati fotografici",
+   "Sono disponibili solo i personaggi \"Sailor Moon\", \"Oshi no Ko\", \"Spy x Family\", \"Princess Peach\", \"Hatsune Miku\" e \"Frieren\""
+  ],
+  "notIncluded": [
+   "Trucco: 9.900 yen",
+   "Ritocco fotografico: 11.000 yen"
+  ]
+ },
+ "retro-and-modern-gaming-adventure-in-nipponbashi-in-osaka": {
+  "title": "Avventura tra videogiochi retrò e moderni a Nipponbashi, Osaka",
+  "metaTitle": "Videogiochi retrò e moderni, Nipponbashi",
+  "metaDescription": "Tre ore a Nipponbashi Denden Town con un tour guidato della cultura dei videogiochi incluso.",
+  "shortDescription": "Tre ore a Nipponbashi Denden Town con un tour guidato della cultura dei videogiochi incluso.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di tre ore porta un tour guidato della cultura dei **videogiochi** di **Nipponbashi Denden Town**. Pasti e bevande, il trasporto da e per il punto di incontro, e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato della cultura dei videogiochi di Nipponbashi"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Trasporto da e per il punto di incontro",
+   "Spese personali"
+  ]
+ },
+ "temple-katsuo-full-day-tour": {
+  "title": "Gita di un giorno al Tempio Katsuo-ji, Kobe e l'Onsen di Arima",
+  "metaTitle": "Katsuo-ji, Kobe e Onsen di Arima, gita di un giorno",
+  "metaDescription": "Dieci ore da Osaka tra il Tempio Katsuo-ji e i Kobe Sanda Premium Outlets, con veicolo per piccoli gruppi fino a 9 ospiti e pick-up nell'area della Osaka Loop Line.",
+  "shortDescription": "Dieci ore da Osaka tra il Tempio Katsuo-ji e i Kobe Sanda Premium Outlets, con veicolo per piccoli gruppi fino a 9 ospiti e pick-up nell'area della Osaka Loop Line.",
+  "fullDescription": "Le gite di un giorno da Osaka hanno ciascuna una ragione precisa. Himeji ha il castello meglio conservato del Giappone, l'Airone Bianco, un originale del 1609 con sei piani di interni in legno, il cui intonaco è stato riportato al bianco in un restauro completato nel 2015. Kobe ha il manzo, venduto a grado ai banconi dove si guarda cucinarlo, e il porto. Koyasan, due ore più a sud, è la città-monastero fondata da Kukai nell'816, dove 117 templi si trovano in una foresta di cedri e il cimitero di Okunoin è il più grande del Giappone.\n\nQuesta gita di dieci ore collega il **Tempio Katsuo-ji**, **Kobe** e l'**Onsen di Arima**, con il trasporto in veicolo per piccoli gruppi fino a 9 ospiti, il pick-up e il drop-off nell'area della linea circolare JR di Osaka, il punto di incontro al Vessel Inn Shinsaibashi, il trasporto tra tutte le attrazioni indicate nell'itinerario, e il biglietto d'ingresso al Tempio Katsuo-ji. Il pranzo e gli altri pasti, le tariffe per i bagni termali all'Onsen di Arima, le esperienze e attività opzionali non indicate come incluse, le spese per lo shopping, le spese personali, e qualsiasi servizio non specificamente indicato sotto \"incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in veicolo per piccoli gruppi, fino a 9 ospiti",
+   "Pick-up e drop-off nell'area della linea circolare JR di Osaka",
+   "Punto di incontro al Vessel Inn Shinsaibashi",
+   "Trasporto tra tutte le attrazioni indicate nell'itinerario",
+   "Biglietto d'ingresso al Tempio Katsuo-ji"
+  ],
+  "notIncluded": [
+   "Pranzo e altri pasti",
+   "Tariffe per i bagni termali all'Onsen di Arima",
+   "Esperienze e attività opzionali non indicate come incluse",
+   "Spese per lo shopping",
+   "Spese personali",
+   "Qualsiasi servizio non specificamente indicato sotto \"incluso\""
+  ]
+ },
+ "cup-noodles-museum-guided-tour-90-minutes-in-osaka": {
+  "title": "Tour guidato del Museo delle Cup Noodles (90 minuti) a Osaka",
+  "metaTitle": "Museo delle Cup Noodles, tour di 90 minuti",
+  "metaDescription": "Un'ora e mezza al Museo delle Cup Noodles di Osaka Ikeda, con la tariffa della guida e la tariffa dell'esperienza della coppa di noodle incluse.",
+  "shortDescription": "Un'ora e mezza al Museo delle Cup Noodles di Osaka Ikeda, con la tariffa della guida e la tariffa dell'esperienza della coppa di noodle incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di un'ora e mezza porta la tariffa della guida e la tariffa dell'esperienza della **coppa di noodle**, al **Museo delle Cup Noodles di Osaka Ikeda**.",
+  "highlights": [],
+  "included": [
+   "Tariffa della guida",
+   "Tariffa dell'esperienza della coppa di noodle"
+  ],
+  "notIncluded": []
+ },
+ "naruto-whirlpool-watching-and-awa-odori-1d-bus-tour-from-osaka-by-local-operator": {
+  "title": "Osservazione dei vortici di Naruto e Awa Odori: tour in bus di un giorno da Osaka, con operatore locale",
+  "metaTitle": "Vortici di Naruto e Awa Odori, tour da Osaka",
+  "metaDescription": "Dieci ore da Osaka tra A Happy Pancake e i Vortici di Naruto, con guida in inglese e cinese e bus climatizzato incluse.",
+  "shortDescription": "Dieci ore da Osaka tra A Happy Pancake e i Vortici di Naruto, con guida in inglese e cinese e bus climatizzato incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour in bus di un giorno, di dieci ore, porta una guida in inglese e cinese e un bus climatizzato, tra **A Happy Pancake**, i **Vortici di Naruto** e la stazione di servizio **Kurukurunaruto**. Il pranzo, la colazione o i pancake, il biglietto della barca turistica per i Vortici di Naruto, il biglietto d'ingresso all'Awa Odori Kaikan, e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in inglese e cinese",
+   "Bus climatizzato"
+  ],
+  "notIncluded": [
+   "Pranzo, colazione o pancake",
+   "Biglietto della barca turistica per i Vortici di Naruto",
+   "Biglietto d'ingresso all'Awa Odori Kaikan",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
