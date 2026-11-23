@@ -35935,6 +35935,195 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "sake-tasting-tour-at-the-birthplace-of-japanese-sake-in-nara": {
+  "title": "Tour di degustazione del sake nel luogo di nascita del sake giapponese, a Nara",
+  "metaTitle": "Degustazione di sake, Nara",
+  "metaDescription": "Tre ore a Nara con un tour guidato dei quartieri del sake di Nara e la visita a quattro luoghi di degustazione incluse.",
+  "shortDescription": "Tre ore a Nara con un tour guidato dei quartieri del sake di Nara e la visita a quattro luoghi di degustazione incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di tre ore a Nara porta un tour guidato dei quartieri del **sake** di Nara, la visita a quattro luoghi di degustazione, e le degustazioni di sake in tre birrerie/distillerie attive e in un negozio di sake; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Tour guidato dei quartieri del sake di Nara",
+   "Visita a quattro luoghi di degustazione",
+   "Degustazioni di sake in tre distillerie attive e in un negozio di sake"
+  ],
+  "notIncluded": []
+ },
+ "private-walking-shore-excursion-kyoto-osaka-nara-kobe": {
+  "title": "Escursione privata a piedi dalla nave: Kyoto/Osaka/Nara/Kobe",
+  "metaTitle": "Escursione privata dalla nave",
+  "metaDescription": "Sei ore a Nara con una guida locale e l'incontro con la guida e l'accompagnamento al punto d'incontro incluse.",
+  "shortDescription": "Sei ore a Nara con una guida locale e l'incontro con la guida e l'accompagnamento al punto d'incontro incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nIl pick-up è offerto da Osaka, Kobe e Kyoto; il punto e l'orario esatti vengono concordati con Kansai Local Tours una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nQuesta esperienza di sei ore a Nara porta la guida, l'incontro con la guida e l'accompagnamento al punto d'incontro, e un itinerario personalizzabile; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I costi dei trasporti pubblici, i costi del Shinkansen, i costi del taxi, il pasto, e i biglietti d'ingresso restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Incontro con la guida e accompagnamento al punto d'incontro",
+   "Itinerario personalizzabile"
+  ],
+  "notIncluded": [
+   "Costi dei trasporti pubblici",
+   "Costi del Shinkansen",
+   "Costi del taxi",
+   "Pasto",
+   "Biglietti d'ingresso"
+  ]
+ },
+ "nara-and-traditional-matcha-experience-bus-tour": {
+  "title": "Nara e un'esperienza tradizionale di matcha, tour in bus",
+  "metaTitle": "Nara e matcha, tour in bus",
+  "metaDescription": "Otto ore e mezza a Nara tra il Kasuga-taisha e il parco di Nara, con una guida turistica professionista di lingua inglese e il trasporto in bus climatizzato con Wi-Fi gratuito inclusi.",
+  "shortDescription": "Otto ore e mezza a Nara tra il Kasuga-taisha e il parco di Nara, con una guida turistica professionista di lingua inglese e il trasporto in bus climatizzato con Wi-Fi gratuito inclusi.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di otto ore e mezza a Nara è costruita intorno al bus/pullman, al **Kasuga-taisha** e al **Parco di Nara**. La guida turistica professionista di lingua inglese, il trasporto in bus climatizzato con Wi-Fi gratuito, il pranzo giapponese (se selezionato), il biglietto d'ingresso al Tempio Todaiji, il biglietto d'ingresso al Tempio Byodoin, la tariffa per l'esperienza del matcha a Uji, e le cuffie audio per le audioguide, disponibili in spagnolo, francese, italiano, tedesco, portoghese e ucraino, sono inclusi nel prezzo; il punto d'incontro è lo Tully's Coffee all'Avanti di Kyoto. Le mance (opzionali), cibo e bevande aggiuntivi, e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica professionista di lingua inglese",
+   "Trasporto in bus climatizzato con Wi-Fi gratuito",
+   "Pranzo giapponese (se selezionato)",
+   "Biglietto d'ingresso al Tempio Todaiji",
+   "Biglietto d'ingresso al Tempio Byodoin",
+   "Tariffa per l'esperienza del matcha a Uji",
+   "Cuffie audio per le audioguide, disponibili in spagnolo, francese, italiano, tedesco, portoghese e ucraino"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)",
+   "Cibo e bevande aggiuntivi",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "himeji-kobe-and-nara-trip": {
+  "title": "Viaggio a Himeji, Kobe e Nara",
+  "metaTitle": "Himeji, Kobe e Nara",
+  "metaDescription": "Undici ore a Nara tra il Castello di Himeji e Kobe, con una guida bilingue inglese/spagnolo e il trasporto dal punto d'incontro incluse.",
+  "shortDescription": "Undici ore a Nara tra il Castello di Himeji e Kobe, con una guida bilingue inglese/spagnolo e il trasporto dal punto d'incontro incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di undici ore a Nara è costruita intorno al bus/pullman, al **Castello di Himeji** e a **Kobe**. Una guida bilingue inglese/spagnolo, il trasporto dal punto d'incontro, e l'accesso al Castello di Himeji sono inclusi nel prezzo; il punto d'incontro è l'Osaka Mode Gakuen. Cibo e bevande, e il pick-up e il drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue inglese/spagnolo",
+   "Trasporto dal punto d'incontro",
+   "Accesso al Castello di Himeji"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "nara-and-kyoto-world-heritage-1-day-bus-tour": {
+  "title": "Nara e Kyoto, patrimonio mondiale, tour in bus di 1 giorno",
+  "metaTitle": "Nara e Kyoto, patrimonio mondiale",
+  "metaDescription": "Quattro ore a Nara tra il Kasuga-taisha e il Tōdai-ji, con bus climatizzato, guida di lingua inglese e il biglietto d'ingresso al Tempio Todaiji incluse.",
+  "shortDescription": "Quattro ore a Nara tra il Kasuga-taisha e il Tōdai-ji, con bus climatizzato, guida di lingua inglese e il biglietto d'ingresso al Tempio Todaiji incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di quattro ore a Nara è costruita intorno al bus/pullman, al **Kasuga-taisha** e al **Tōdai-ji**. Il bus climatizzato, la guida di lingua inglese, il biglietto d'ingresso al Tempio Todaiji (Nara Morning Tour e Nara & Kyoto Full Day Tour con cerimonia del tè), il biglietto d'ingresso al Padiglione d'Oro (Kyoto Afternoon Tour con cerimonia del tè e Nara & Kyoto Full Day Tour con cerimonia del tè), un'autentica esperienza di cerimonia del tè (Kyoto Afternoon Tour con cerimonia del tè e Nara & Kyoto Full Day Tour con cerimonia del tè), e il pranzo (Nara Morning Tour e Nara & Kyoto Full Day Tour con cerimonia del tè) sono inclusi nel prezzo; il punto d'incontro è il giardino incassato della piazza d'ingresso Hachijo della Stazione di Kyoto. Le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Bus climatizzato",
+   "Guida di lingua inglese",
+   "Biglietto d'ingresso al Tempio Todaiji (Nara Morning Tour e Nara & Kyoto Full Day Tour con cerimonia del tè)",
+   "Biglietto d'ingresso al Padiglione d'Oro (Kyoto Afternoon Tour con cerimonia del tè e Nara & Kyoto Full Day Tour con cerimonia del tè)",
+   "Autentica esperienza di cerimonia del tè (Kyoto Afternoon Tour con cerimonia del tè e Nara & Kyoto Full Day Tour con cerimonia del tè)",
+   "Pranzo (Nara Morning Tour e Nara & Kyoto Full Day Tour con cerimonia del tè)"
+  ],
+  "notIncluded": [
+   "Bevande"
+  ]
+ },
+ "kyoto-and-nara-and-uji-tour-todaiji-fushimi-inari-taisha": {
+  "title": "Kyoto, Nara e Uji, tour tra il Todaiji e il Fushimi Inari Taisha",
+  "metaTitle": "Kyoto, Nara, Uji, Fushimi Inari",
+  "metaDescription": "Dieci ore a Nara tra il parco e il Tōdai-ji, con guida bilingue professionista, veicolo confortevole climatizzato e trasferimenti andata e ritorno incluse.",
+  "shortDescription": "Dieci ore a Nara tra il parco e il Tōdai-ji, con guida bilingue professionista, veicolo confortevole climatizzato e trasferimenti andata e ritorno incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, formano gallerie che salgono il Monte Inari, alto 233 metri, dietro la sala principale. L'anello completo fino alla cima è lungo circa quattro chilometri e dura due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande luogo di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie inferiori sono già una coda lenta. Le statue delle volpi portano in bocca le chiavi del granaio di riso.\n\nQuesta esperienza di dieci ore a Nara è costruita intorno al **Parco di Nara**, al **Tōdai-ji** e al **Fushimi Inari Taisha**. Una guida bilingue professionista (inglese e cinese), un veicolo confortevole climatizzato, i trasferimenti andata e ritorno da e per il punto d'incontro, e tutte le tasse (tariffe di parcheggio, pedaggi, costi del carburante, tasse ambientali) sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. L'ingresso al Tempio Todai-ji e al Tempio Byodo-in, i pasti e le bevande, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue professionista (inglese e cinese)",
+   "Veicolo confortevole climatizzato",
+   "Trasferimenti andata e ritorno da e per il punto d'incontro",
+   "Tutte le tasse (tariffe di parcheggio, pedaggi, costi del carburante, tasse ambientali)"
+  ],
+  "notIncluded": [
+   "Ingresso al Tempio Todai-ji e al Tempio Byodo-in",
+   "Pasti e bevande",
+   "Altre spese personali"
+  ]
+ },
+ "best-of-kyoto-and-nara-group-tour-with-2-iconic-routes": {
+  "title": "Il meglio di Kyoto e Nara, tour di gruppo con 2 percorsi iconici",
+  "metaTitle": "Kyoto e Nara, 2 percorsi iconici",
+  "metaDescription": "Dieci ore a Nara con trasporto climatizzato, una guida parlante inglese, coreano e cinese e i costi del carburante incluse.",
+  "shortDescription": "Dieci ore a Nara con trasporto climatizzato, una guida parlante inglese, coreano e cinese e i costi del carburante incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di dieci ore a Nara porta il trasporto climatizzato, una guida parlante inglese, coreano e cinese, e i costi del carburante, i pedaggi, le tariffe di parcheggio e i costi autostradali; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I biglietti d'ingresso opzionali e le tariffe per le attività, e l'assicurazione di viaggio, i pasti e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto climatizzato",
+   "Guida parlante inglese, coreano e cinese",
+   "Costi del carburante, pedaggi, tariffe di parcheggio e costi autostradali"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso opzionali e tariffe per le attività",
+   "Assicurazione di viaggio, pasti e altre spese personali"
+  ]
+ },
+ "nara-giant-buddha-deer-pagoda-geisha-italian-full-day": {
+  "title": "NARA: il Grande Buddha, i cervi, la pagoda, la \"geisha\" (italiano, giornata intera)",
+  "metaTitle": "Nara in italiano, giornata intera",
+  "metaDescription": "Una giornata intera da Nara tra il Tōdai-ji e il Padiglione Ukimido, con le tariffe di trasporto e i biglietti d'ingresso ai monumenti del programma incluse.",
+  "shortDescription": "Una giornata intera da Nara tra il Tōdai-ji e il Padiglione Ukimido, con le tariffe di trasporto e i biglietti d'ingresso ai monumenti del programma incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di una giornata intera da Nara è costruita intorno al treno, al bus/pullman e al **Tōdai-ji**. Le tariffe di trasporto (treni e autobus) incluse nel tour, i biglietti d'ingresso ai monumenti da visitare secondo il programma, l'illustrazione esplicativa (in italiano) di tutti i monumenti storici visitati nell'itinerario, e le informazioni pratiche (su richiesta e gratuite) sui viaggi in Giappone in generale sono inclusi nel prezzo; il punto d'incontro è la Stazione di Kyoto.",
+  "highlights": [],
+  "included": [
+   "Tariffe di trasporto (treni e autobus) incluse nel tour",
+   "Biglietti d'ingresso ai monumenti da visitare secondo il programma",
+   "Illustrazione esplicativa (in italiano) di tutti i monumenti storici visitati nell'itinerario",
+   "Informazioni pratiche (su richiesta e gratuite) sui viaggi in Giappone in generale"
+  ],
+  "notIncluded": []
+ },
+ "5-hour-private-night-tour-with-driver-guide-in-kyoto": {
+  "title": "Tour notturno privato di 5 ore con autista-guida, a Kyoto",
+  "metaTitle": "Kyoto, tour notturno privato",
+  "metaDescription": "Cinque ore a Kyoto con un tour notturno privato di 5 ore, assistenza di base sul percorso e consigli locali inclusi.",
+  "shortDescription": "Cinque ore a Kyoto con un tour notturno privato di 5 ore, assistenza di base sul percorso e consigli locali inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza privata di cinque ore a Kyoto porta un tour notturno privato di 5 ore, l'assistenza di base sul percorso e i consigli locali, l'itinerario notturno estivo consigliato a Kyoto, le soste fotografiche flessibili e un tempo di camminata breve, l'assistenza per la personalizzazione del percorso se richiesta con 24 ore di anticipo, l'assistenza con i tempi durante l'esperienza, e il servizio privato confortevole per il proprio gruppo; il punto d'incontro è a Izumisano. La guida professionista autorizzata, la guida storica approfondita, i biglietti d'ingresso alle attrazioni, cibo e bevande, le spese personali, le esperienze culturali a pagamento, il servizio di fotografia professionale, gli straordinari (5.000 yen/ora per veicoli fino a 14 posti; 10.000 yen/ora per veicoli da 18 o 44 posti), il servizio notturno dalle 22:00 alle 7:00 (tariffa aggiuntiva di 2.000 yen per tutti i servizi), e il secondo seggiolino per bambini e successivi (2.000 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour notturno privato di 5 ore",
+   "Assistenza di base sul percorso e consigli locali",
+   "Itinerario notturno estivo consigliato a Kyoto",
+   "Soste fotografiche flessibili e tempo di camminata breve",
+   "Assistenza per la personalizzazione del percorso se richiesta con 24 ore di anticipo",
+   "Assistenza con i tempi durante l'esperienza",
+   "Servizio privato confortevole per il proprio gruppo"
+  ],
+  "notIncluded": [
+   "Guida professionista autorizzata",
+   "Guida storica approfondita",
+   "Biglietti d'ingresso alle attrazioni",
+   "Cibo e bevande",
+   "Spese personali",
+   "Esperienze culturali a pagamento",
+   "Servizio di fotografia professionale",
+   "Straordinari: 5.000 yen/ora per veicoli fino a 14 posti; 10.000 yen/ora per veicoli da 18 o 44 posti",
+   "Servizio notturno dalle 22:00 alle 7:00: tariffa aggiuntiva di 2.000 yen per tutti i servizi",
+   "Secondo seggiolino per bambini e successivi: 2.000 yen"
+  ]
+ },
+ "nara-early-morning-tour-kyoto-or-osaka-departure-available-by-local-operator": {
+  "title": "Nara, tour del primo mattino (partenza da Kyoto o Osaka disponibile), con operatore locale",
+  "metaTitle": "Nara, tour del primo mattino",
+  "metaDescription": "Tre ore e mezza a Nara tra il Kōfuku-ji e il Kasuga-taisha, con una guida di lingua inglese e la tariffa di trasporto da Kyoto a Nara incluse.",
+  "shortDescription": "Tre ore e mezza a Nara tra il Kōfuku-ji e il Kasuga-taisha, con una guida di lingua inglese e la tariffa di trasporto da Kyoto a Nara incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di tre ore e mezza a Nara è costruita intorno al treno, al **Kōfuku-ji** e al **Kasuga-taisha**. La guida di lingua inglese, la tariffa di trasporto da Kyoto a Nara (tariffa del treno pubblico), e l'apprendimento della storia di Nara da una guida locale sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il biglietto d'ingresso al Tempio Todaiji (800 yen) e il trasporto di ritorno alla Stazione di Kyoto/Osaka (per chi fa una gita di un giorno a Nara) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Tariffa di trasporto da Kyoto a Nara (tariffa del treno pubblico)",
+   "Apprendimento della storia di Nara da una guida locale"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Tempio Todaiji (800 yen)",
+   "Trasporto di ritorno alla Stazione di Kyoto/Osaka (per chi fa una gita di un giorno a Nara)"
+  ]
+ },
  "hakone-yosegi-zaiku-marquetry-workshop": {
   "title": "Laboratorio di intarsio yosegi zaiku a Hakone: create la vostra opera in legno",
   "metaTitle": "Laboratorio di intarsio yosegi zaiku a Hakone",
