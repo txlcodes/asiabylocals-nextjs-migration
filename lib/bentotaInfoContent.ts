@@ -423,6 +423,90 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-banana-boat-worth-it-bentota":
+      return {
+        title: "Is the Bentota Banana Boat Ride Worth It?",
+        description: "An honest look at the banana boat ride in Bentota, a casual group water activity distinct from the area's jet ski and wakeboarding options.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1332733/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is the lowest-effort, most sociable option among Bentota's water sports — no skill or instruction needed, just hang on while a boat tows an inflatable banana full of riders through the surf.",
+            tourCard: { slug: "bentota-fun-banana-boat-ride-with-ocean-splashes", title: "Bentota: Fun Banana Boat Ride with Ocean Splashes", description: "A towed inflatable banana boat ride in Bentota.", price: "From $21", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1332733/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for groups or families with mixed ages and swimming ability, since it needs no prior skill, unlike water skiing or windsurfing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bentota banana boat ride worth it?", a: "Yes for a fun, no-skill-needed group activity — the most accessible of Bentota's water sports for mixed-ability groups." },
+        ],
+      };
+
+    case "is-fly-fish-worth-it-bentota":
+      return {
+        title: "Is the Bentota Fly Fish Water Sports Ride Worth It?",
+        description: "An honest look at the fly fish ride in Bentota, a more airborne alternative to the banana boat.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1337168/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fly fish is similar to a banana boat ride but designed to lift riders briefly out of the water as the boat speeds up, giving a bit more of a thrill than the steadier banana boat for a similar low-skill, group-friendly format.",
+            tourCard: { slug: "bentota-fly-fish-water-sports-ride-with-safety", title: "Bentota: Fly Fish Water Sports Ride with Safety Equipment", description: "A towed fly fish water sports ride in Bentota.", price: "From $39", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1337168/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a bumpier, more airborne ride than the banana boat — a better pick if your group wants more thrill than a gentle tow.",
+          },
+        ],
+        faqs: [
+          { q: "Is the fly fish ride worth it in Bentota?", a: "Yes if you want more of a thrill than the banana boat — it briefly lifts riders out of the water as the boat speeds up." },
+        ],
+      };
+
+    case "is-lagoon-fishing-worth-it-bentota":
+      return {
+        title: "Is the Bentota Private Lagoon Fishing Tour with a Local Fisherman Worth It?",
+        description: "An honest look at the private lagoon fishing tour with a local fisherman in Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1405828/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This pairs an actual fishing experience with the chance to learn from someone who fishes the lagoon for a living, a more authentic, slower-paced activity than the area's adrenaline water sports or wildlife-watching boat safaris.",
+            tourCard: { slug: "bentota-private-lagoon-fishing-tour-with-a-local", title: "Bentota: Private Lagoon Fishing Tour with a Local Fisherman", description: "A private lagoon fishing experience with a local fisherman.", price: "From $127", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1405828/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick if you want a genuine cultural exchange and a slower pace, rather than another fast-paced water sport or wildlife checklist tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bentota lagoon fishing tour worth it?", a: "Yes for a genuine, slower-paced cultural experience with a working local fisherman, distinct from the area's adrenaline water sports." },
+        ],
+      };
+
+    case "is-speed-boat-ride-worth-it-bentota":
+      return {
+        title: "Is the Bentota Speed Boat Ride Worth It?",
+        description: "An honest look at the standalone speed boat ride in Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065592/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a straightforward, short joyride on open water rather than a towed activity like the banana boat or fly fish — a good pick if you just want the sensation of speed without a specific sport attached to it.",
+            tourCard: { slug: "speed-boat-ride-in-bentota", title: "Speed Boat Ride in Bentota", description: "A standalone speed boat joyride in Bentota.", price: "From $138", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065592/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At 15 minutes, this is a short add-on rather than a main activity — pair it with another water sport or a river safari to fill out the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bentota speed boat ride worth it?", a: "Yes for a quick speed thrill on open water — just note it's a short 15-minute ride best paired with another activity." },
+        ],
+      };
+
     default:
       return null;
   }

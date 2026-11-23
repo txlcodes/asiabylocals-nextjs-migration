@@ -1648,6 +1648,8 @@ export const BENTOTA_INFO_SLUGS = [
   'is-bawa-garden-richmond-castle-tour-worth-it-bentota',
   'is-paramotoring-worth-it-bentota', 'is-surfing-lesson-worth-it-bentota',
   'is-ayurvedic-massage-worth-it-bentota', 'is-hikkaduwa-snorkeling-worth-it-bentota',
+  'is-banana-boat-worth-it-bentota', 'is-fly-fish-worth-it-bentota',
+  'is-lagoon-fishing-worth-it-bentota', 'is-speed-boat-ride-worth-it-bentota',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/mirissaInfoContent.ts.
