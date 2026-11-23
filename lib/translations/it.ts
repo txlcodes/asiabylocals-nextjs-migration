@@ -40515,6 +40515,189 @@ export const IT_TOURS: Record<string, TourT> = {
    "Mance"
   ]
  },
+ "flexible-ramen-crawl-2-local-shops-in-2-hours-in-hiroshima": {
+  "title": "Giro flessibile del ramen: 2 negozi locali in 2 ore a Hiroshima",
+  "metaTitle": "Giro del ramen a Hiroshima, 2 negozi in 2 ore",
+  "metaDescription": "Due ore a Hiroshima tra due negozi di ramen locali, con guida in lingua inglese e un credito di 1.500 yen a negozio per cibo e bevande.",
+  "shortDescription": "Due ore a Hiroshima tra due negozi di ramen locali, con guida in lingua inglese e un credito di 1.500 yen a negozio per cibo e bevande.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'okonomiyaki a strati di noodle, servito ai banconi di Okonomimura.\n\nQuesto giro del **ramen** di due ore porta una guida professionista in lingua inglese, la visita guidata a due negozi locali, e un credito di 1.500 yen per cibo e bevande in ciascun negozio (3.000 yen in totale). Cibo e bevande oltre il credito previsto, il trasporto da e per il punto di incontro, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida professionista in lingua inglese",
+   "Tour guidato del ramen con visita a 2 negozi locali",
+   "Credito di 1.500 yen per cibo e bevande a negozio (3.000 yen in totale)"
+  ],
+  "notIncluded": [
+   "Cibo o bevande aggiuntivi oltre il credito previsto",
+   "Trasporto da e per il punto di incontro",
+   "Spese personali"
+  ]
+ },
+ "hiroshima-peace-park-customized-tour-with-licensed-guide-by-local-operator": {
+  "title": "Tour personalizzato del Parco della Pace di Hiroshima con guida autorizzata, con operatore locale",
+  "metaTitle": "Parco della Pace di Hiroshima, tour personalizzato",
+  "metaDescription": "Quattro ore a Hiroshima con una guida locale autorizzata in lingua inglese, incontro a piedi in un'area stabilita della città.",
+  "shortDescription": "Quattro ore a Hiroshima con una guida locale autorizzata in lingua inglese, incontro a piedi in un'area stabilita della città.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era.\n\nQuesto tour personalizzato di quattro ore, con operatore locale, porta una guida locale autorizzata in lingua inglese e l'incontro a piedi con la guida in un'area stabilita di Hiroshima. Costi di trasporto, biglietti d'ingresso, pranzo e altre spese personali, un veicolo privato, e i biglietti d'ingresso al Museo Memoriale della Pace di Hiroshima, al Castello di Hiroshima e al Giardino Shukkei restano a carico del cliente; non è possibile unire più gruppi di tour, e le tariffe d'ingresso della guida sono coperte solo per i luoghi elencati nell'elenco \"cosa aspettarsi\".",
+  "highlights": [],
+  "included": [
+   "Guida locale autorizzata in lingua inglese",
+   "Incontro a piedi con la guida in un'area stabilita di Hiroshima"
+  ],
+  "notIncluded": [
+   "Costi di trasporto, biglietti d'ingresso, pranzo e altre spese personali",
+   "Veicolo privato",
+   "Non è possibile unire più gruppi di tour",
+   "Le tariffe d'ingresso della guida sono coperte solo per i luoghi elencati nell'elenco \"cosa aspettarsi\"",
+   "Biglietti d'ingresso: Museo Memoriale della Pace di Hiroshima, Castello di Hiroshima e Giardino Shukkei"
+  ]
+ },
+ "miyajima-private-itsukushima-shrine-and-island-nature-hiroshima": {
+  "title": "Miyajima privata: Santuario di Itsukushima e natura dell'isola (Hiroshima)",
+  "metaTitle": "Miyajima privata: Itsukushima e natura dell'isola",
+  "metaDescription": "Cinque ore private tra Hiroshima e Miyajima, con una guida giapponese, pick-up a piedi e ingresso al Santuario di Itsukushima inclusi.",
+  "shortDescription": "Cinque ore private tra Hiroshima e Miyajima, con una guida giapponese, pick-up a piedi e ingresso al Santuario di Itsukushima inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Miyajima è a quaranta minuti di distanza, e la maggior parte dei visitatori abbina le due tappe in un solo giorno.\n\nIl pick-up è offerto dal Crowne Plaza - ANA Hiroshima, un hotel IHG, dal THE KNOT HIROSHIMA, dal Hilton Hiroshima, dal Hotel Granvia Hiroshima e dal HOTEL INTERGATE Hiroshima; il punto e l'orario esatti vengono concordati con Local Gem Tour Hiroshima una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nQuesta esperienza privata di cinque ore porta una guida giapponese locale, il pick-up a piedi, l'ingresso al **Santuario di Itsukushima**, e la possibilità di personalizzare il percorso in anticipo. I costi di trasporto di base (per chi non usa il JR Pass, 1.340 yen a persona), la tassa turistica per chi usa il JR Pass (100 yen a persona), le opzioni di barche rapide, dirette o taxi (da 2.500 a 8.500 yen a tratta), un supplemento di 2.000 yen in contanti per chi si incontra al porto di Itsukaichi, cibo, bevande e mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida giapponese locale",
+   "Pick-up a piedi",
+   "Ingresso al Santuario di Itsukushima",
+   "Possibilità di personalizzare il percorso in anticipo"
+  ],
+  "notIncluded": [
+   "Costi di trasporto di base (per chi non usa il JR Pass): 1.340 yen a persona",
+   "Costi di trasporto per chi usa il JR Pass: tassa turistica di 100 yen a persona",
+   "Opzionale: barche rapide, dirette o taxi (da 2.500 a 8.500 yen a tratta)",
+   "Nota: incontrarsi al porto di Itsukaichi comporta un supplemento di 2.000 yen, da pagare in contanti il giorno stesso",
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
+ "the-history-of-hiroshima-the-event-that-shaped-history-by-local-operator": {
+  "title": "La storia di Hiroshima: \"l'evento che ha cambiato la storia\", con operatore locale",
+  "metaTitle": "La storia di Hiroshima: l'evento che ha cambiato la storia",
+  "metaDescription": "Due ore a Hiroshima tra le Porte della Pace, il Cenotafio delle Vittime di Hiroshima e il Cenotafio delle Vittime Coreane, con guida privata e museo incluso.",
+  "shortDescription": "Due ore a Hiroshima tra le Porte della Pace, il Cenotafio delle Vittime di Hiroshima e il Cenotafio delle Vittime Coreane, con guida privata e museo incluso.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era.\n\nQuesto tour di due ore, con operatore locale, porta una guida privata, l'ingresso al **Museo Memoriale della Pace**, la visita a luoghi poco noti, tra le **Porte della Pace**, il **Cenotafio delle Vittime di Hiroshima** e il **Cenotafio delle Vittime Coreane della Bomba Atomica**, con il biglietto del museo incluso.",
+  "highlights": [],
+  "included": [
+   "Guida privata",
+   "Ingresso al Museo Memoriale della Pace",
+   "Luoghi poco noti",
+   "Biglietti del museo"
+  ],
+  "notIncluded": []
+ },
+ "hiroshima-and-miyajima-private-custom-tour-with-local-guide-by-local-operator": {
+  "title": "Hiroshima e Miyajima: tour privato personalizzato con guida locale, con operatore locale",
+  "metaTitle": "Hiroshima e Miyajima: tour privato personalizzato",
+  "metaDescription": "Due ore private tra Hiroshima e Miyajima con una guida privata in lingua inglese, tour personalizzato.",
+  "shortDescription": "Due ore private tra Hiroshima e Miyajima con una guida privata in lingua inglese, tour personalizzato.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Miyajima è a quaranta minuti di distanza, e la maggior parte dei visitatori abbina le due tappe in un solo giorno.\n\nQuesto tour privato personalizzato di due ore, con operatore locale, porta un tour privato e una guida in lingua inglese tra **Hiroshima** e **Miyajima**. Spese personali, biglietti d'ingresso e pranzo (per sé stessi), le spese necessarie della guida durante il tour e il trasporto privato restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato",
+   "Guida in lingua inglese"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Biglietti d'ingresso (per sé stessi)",
+   "Pranzo (per sé stessi)",
+   "Spese necessarie della guida durante il tour",
+   "Trasporto privato"
+  ]
+ },
+ "hiroshima-highlights-guided-tour": {
+  "title": "Tour guidato dei luoghi iconici di Hiroshima",
+  "metaTitle": "Luoghi iconici di Hiroshima, tour guidato",
+  "metaDescription": "Quattro ore a Hiroshima con guida, biglietti del treno e del traghetto per il Santuario di Itsukushima e ingresso al Museo della Pace inclusi.",
+  "shortDescription": "Quattro ore a Hiroshima con guida, biglietti del treno e del traghetto per il Santuario di Itsukushima e ingresso al Museo della Pace inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica è stata lasciata esattamente com'era; il Museo Memoriale della Pace è riaperto nel 2019 dopo un restyling.\n\nQuesto tour guidato di quattro ore porta una guida professionista, i biglietti del treno e della barca per il **Santuario di Itsukushima**, l'ingresso al **Museo Memoriale della Pace di Hiroshima**, e la visita alla **Cupola della Bomba Atomica**. Pasti e bevande, pick-up e drop-off in hotel, spese personali e tutte le tasse e le imposte per l'opzione di tour personalizzato di 4 o 8 ore restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida professionista",
+   "Biglietti del treno e della barca per il Santuario di Itsukushima",
+   "Ingresso al Museo Memoriale della Pace di Hiroshima",
+   "Visita alla Cupola della Bomba Atomica"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Pick-up e drop-off in hotel",
+   "Spese personali",
+   "Tutte le tasse e le imposte per l'opzione di tour personalizzato di 4/8 ore"
+  ]
+ },
+ "okonomiyaki-hopping-tour-compare-2-local-styles-in-hiroshima": {
+  "title": "Giro dell'okonomiyaki: confronta 2 stili locali a Hiroshima",
+  "metaTitle": "Giro dell'okonomiyaki a Hiroshima, 2 stili",
+  "metaDescription": "Un'ora e mezza a Hiroshima tra due ristoranti di okonomiyaki diversi, con un credito di 1.500 yen a ristorante e guida con spiegazioni culturali.",
+  "shortDescription": "Un'ora e mezza a Hiroshima tra due ristoranti di okonomiyaki diversi, con un credito di 1.500 yen a ristorante e guida con spiegazioni culturali.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il cibo tipico della città è l'**okonomiyaki** a strati di noodle, servito ai banconi di Okonomimura.\n\nQuesto giro dell'**okonomiyaki** di un'ora e mezza porta l'esperienza guidata, la scelta del luogo di partenza (Okonomimura o Stazione di Hiroshima), la visita a due ristoranti di okonomiyaki diversi, un credito di 1.500 yen in ciascun ristorante (3.000 yen in totale), e una guida locale con spiegazioni culturali. Cibo e bevande oltre il credito previsto, e il trasporto da e per il punto di incontro, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza guidata del giro dell'okonomiyaki",
+   "Scelta del luogo di partenza (Okonomimura o Stazione di Hiroshima)",
+   "Visita a 2 ristoranti di okonomiyaki diversi",
+   "Credito di 1.500 yen in ciascun ristorante (3.000 yen in totale)",
+   "Guida locale con spiegazioni culturali"
+  ],
+  "notIncluded": [
+   "Cibo o bevande aggiuntivi oltre il credito previsto",
+   "Trasporto da e per il punto di incontro"
+  ]
+ },
+ "discover-hidden-meanings-of-shukkeien-garden-in-hiroshima": {
+  "title": "Scopri i significati nascosti del Giardino Shukkeien a Hiroshima",
+  "metaTitle": "Significati nascosti del Giardino Shukkeien",
+  "metaDescription": "Un'ora e mezza al Giardino Shukkeien di Hiroshima con biglietto d'ingresso, tè matcha e un dolcetto in una casa da tè e tour guidato inclusi.",
+  "shortDescription": "Un'ora e mezza al Giardino Shukkeien di Hiroshima con biglietto d'ingresso, tè matcha e un dolcetto in una casa da tè e tour guidato inclusi.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945.\n\nQuesta esperienza di un'ora e mezza al **Giardino Shukkeien** porta il biglietto d'ingresso al giardino, il tè matcha e un dolcetto in una casa da tè, e un tour guidato. Il trasporto e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al giardino",
+   "Tè matcha e un dolcetto in una casa da tè",
+   "Tour guidato"
+  ],
+  "notIncluded": [
+   "Trasporto",
+   "Spese personali"
+  ]
+ },
+ "half-day-private-tour-from-hiroshima-station": {
+  "title": "Tour privato di mezza giornata dalla Stazione di Hiroshima",
+  "metaTitle": "Tour privato di mezza giornata, Hiroshima",
+  "metaDescription": "Quattro ore private dalla Stazione di Hiroshima con tour guidato e visita al Tempio Daisho-in incluse.",
+  "shortDescription": "Quattro ore private dalla Stazione di Hiroshima con tour guidato e visita al Tempio Daisho-in incluse.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Miyajima è a quaranta minuti di distanza, e la maggior parte dei visitatori abbina le due tappe in un solo giorno.\n\nQuesto tour privato di mezza giornata, di quattro ore, parte dalla **Stazione di Hiroshima** e porta un tour guidato e la visita al **Tempio Daisho-in**. Il costo del trasporto (chi possiede un JR Pass può usarlo per treno e traghetto), il cibo e i biglietti d'ingresso alle attrazioni restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato",
+   "Visita al Tempio Daisho-in"
+  ],
+  "notIncluded": [
+   "Costo del trasporto (chi possiede un JR Pass può usarlo per treno e traghetto)",
+   "Cibo",
+   "Biglietti d'ingresso alle attrazioni"
+  ]
+ },
+ "hiroshima-s-untold-stories-history-recovery-and-peace-by-local-operator": {
+  "title": "Le storie non raccontate di Hiroshima: storia, ricostruzione e pace, con operatore locale",
+  "metaTitle": "Le storie non raccontate di Hiroshima",
+  "metaDescription": "Tre ore a Hiroshima tra il Giardino Shukkeien e il Castello di Hiroshima, con tour guidato a piedi e ingresso al giardino incluso.",
+  "shortDescription": "Tre ore a Hiroshima tra il Giardino Shukkeien e il Castello di Hiroshima, con tour guidato a piedi e ingresso al giardino incluso.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto dove la bomba esplose alle 8:15 del 6 agosto 1945. Il Monumento della Pace dei Bambini è coperto di gru di carta inviate da tutto il mondo.\n\nQuesto tour a piedi di tre ore porta un tour guidato e l'ingresso al **Giardino Shukkeien**, con tappe anche al **Castello di Hiroshima**. Il trasporto da e per il punto di incontro, i pasti e le bevande, e il biglietto d'ingresso al Castello di Hiroshima restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato a piedi",
+   "Ingresso al Giardino Shukkeien"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto di incontro",
+   "Pasti e bevande",
+   "Biglietto d'ingresso al Castello di Hiroshima"
+  ]
+ },
  "nagoya-shirakawago-takayama-observatory-day-trip": {
   "title": "Shirakawa-go dall'osservatorio e il centro storico di Takayama, in un giorno da Nagoya",
   "metaTitle": "Shirakawa-go e Takayama da Nagoya",
