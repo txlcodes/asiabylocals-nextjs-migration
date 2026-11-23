@@ -40427,6 +40427,190 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese per bevande e pasti"
   ]
  },
+ "tokyo-and-daikoku-by-night-in-a-fast-and-furious-skyline-34-by-local-operator": {
+  "title": "Tokyo e Daikoku di notte, su una Skyline 34 stile Fast and Furious, con operatore locale",
+  "metaTitle": "Tokyo e Daikoku di notte, Skyline",
+  "metaDescription": "Tre ore a Tokyo tra l'area di parcheggio Daikoku e Umihotaru, con pick-up e drop-off e un tour notturno della scena automobilistica underground di Tokyo incluse.",
+  "shortDescription": "Tre ore a Tokyo tra l'area di parcheggio Daikoku e Umihotaru, con pick-up e drop-off e un tour notturno della scena automobilistica underground di Tokyo incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di tre ore a Tokyo è costruita intorno all'**area di parcheggio Daikoku**, a **Umihotaru** e a Tokyo. Il pick-up e il drop-off (se si seleziona l'opzione privata), un tour notturno della scena automobilistica underground di Tokyo, un giro attraverso il Rainbow Bridge, un tour intorno all'anello C1, e la visita a luoghi iconici della cultura automobilistica, tra cui l'area di parcheggio Daikoku, sono inclusi nel prezzo; il punto d'incontro effettivo a Tokyo viene confermato da Octane Kabushiki Kaisha una volta effettuata la prenotazione.",
+  "highlights": [],
+  "included": [
+   "Pick-up e drop-off (se si seleziona l'opzione privata)",
+   "Tour notturno della scena automobilistica underground di Tokyo",
+   "Giro attraverso il Rainbow Bridge",
+   "Tour intorno all'anello C1",
+   "Visita a luoghi iconici della cultura automobilistica, tra cui l'area di parcheggio Daikoku"
+  ],
+  "notIncluded": []
+ },
+ "samurai-experience-learn-bushido-through-kendo-in-tokyo-by-local-operator": {
+  "title": "Esperienza da samurai: imparare il bushido attraverso il kendo, a Tokyo, con operatore locale",
+  "metaTitle": "Bushido attraverso il kendo, Tokyo",
+  "metaDescription": "Due ore a Tokyo con un'esperienza di kendo di 2 ore e l'abbigliamento da kendo incluse.",
+  "shortDescription": "Due ore a Tokyo con un'esperienza di kendo di 2 ore e l'abbigliamento da kendo incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di due ore a Tokyo porta un'esperienza di **kendo** di 2 ore, l'abbigliamento da kendo, la spada di bambù (shinai), bevande, e souvenir; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Esperienza di kendo di 2 ore",
+   "Abbigliamento da kendo",
+   "Spada di bambù (shinai)",
+   "Bevande",
+   "Souvenir"
+  ],
+  "notIncluded": []
+ },
+ "tokyo-asakusa-sightseeing-rickshaw-by-local-operator": {
+  "title": "【Tokyo Asakusa】 Risciò panoramico, con operatore locale",
+  "metaTitle": "Asakusa, risciò panoramico",
+  "metaDescription": "Trenta minuti a Tokyo con un tour guidato in risciò e foto scattate con la fotocamera del cliente incluse.",
+  "shortDescription": "Trenta minuti a Tokyo con un tour guidato in risciò e foto scattate con la fotocamera del cliente incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di trenta minuti a Tokyo porta un tour guidato in **risciò**, foto scattate con la fotocamera del cliente, e l'introduzione a negozi popolari tra i locali; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande durante il tour, e la tariffa di estensione restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato in risciò",
+   "Foto scattate con la fotocamera del cliente",
+   "Introduzione a negozi popolari tra i locali"
+  ],
+  "notIncluded": [
+   "Cibo e bevande durante il tour",
+   "Tariffa di estensione"
+  ]
+ },
+ "ninja-and-samurai-training-experience-in-tokyo": {
+  "title": "Esperienza di addestramento da ninja e samurai, a Tokyo",
+  "metaTitle": "Addestramento ninja e samurai, Tokyo",
+  "metaDescription": "Un'ora a Tokyo con il biglietto d'ingresso e il noleggio del costume da ninja incluse.",
+  "shortDescription": "Un'ora a Tokyo con il biglietto d'ingresso e il noleggio del costume da ninja incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo porta il biglietto d'ingresso, il noleggio del costume da **ninja**, e la tariffa delle strutture; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto privato resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso",
+   "Noleggio del costume da ninja",
+   "Tariffa delle strutture"
+  ],
+  "notIncluded": [
+   "Trasporto privato"
+  ]
+ },
+ "jdm-journey-daikoku-parking-area-in-tokyo": {
+  "title": "JDM Journey: l'area di parcheggio Daikoku, a Tokyo",
+  "metaTitle": "JDM Journey, area Daikoku",
+  "metaDescription": "Quattro ore a Tokyo tra l'Autobacs Shinonome e l'area di parcheggio Daikoku, con un'esperienza della cultura automobilistica nei luoghi di incontro leggendari di Tokyo incluse.",
+  "shortDescription": "Quattro ore a Tokyo tra l'Autobacs Shinonome e l'area di parcheggio Daikoku, con un'esperienza della cultura automobilistica nei luoghi di incontro leggendari di Tokyo incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di quattro ore a Tokyo è costruita intorno all'**area di parcheggio Daikoku** e alla **Torre di Tokyo**. Un'esperienza della cultura automobilistica nei luoghi di incontro leggendari di Tokyo, un giro su un'auto JDM modificata, completamente assicurata e omologata per la strada, un autista professionista autorizzato, benzina, pedaggi autostradali e tariffe di parcheggio, e un drop-off gratuito in hotel al termine dell'esperienza sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il servizio di pick-up in hotel (il cliente deve raggiungere il punto d'incontro da solo), le spese personali (cibo, bevande, shopping), e l'assicurazione di viaggio personale restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza della cultura automobilistica nei luoghi di incontro leggendari di Tokyo",
+   "Giro su un'auto JDM modificata, completamente assicurata e omologata per la strada",
+   "Autista professionista autorizzato",
+   "Benzina, pedaggi autostradali e tariffe di parcheggio",
+   "Drop-off gratuito in hotel al termine dell'esperienza"
+  ],
+  "notIncluded": [
+   "Servizio di pick-up in hotel (il cliente deve raggiungere il punto d'incontro da solo)",
+   "Spese personali (cibo, bevande, shopping)",
+   "Assicurazione di viaggio personale"
+  ]
+ },
+ "akihabara-the-anime-and-entertainment-center-tokyo": {
+  "title": "Akihabara: il centro degli anime e dell'intrattenimento (Tokyo)",
+  "metaTitle": "Akihabara, anime e intrattenimento",
+  "metaDescription": "Tre ore a Tokyo con un esperto locale per tutta l'esperienza e una conversazione di pianificazione pre-esperienza tramite l'app TOMOGO! incluse.",
+  "shortDescription": "Tre ore a Tokyo con un esperto locale per tutta l'esperienza e una conversazione di pianificazione pre-esperienza tramite l'app TOMOGO! incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di tre ore a Tokyo porta un esperto locale per tutta l'esperienza, una conversazione di pianificazione pre-esperienza tramite l'app TOMOGO!, consigli personalizzati prima, durante e dopo l'esperienza, e soste flessibili o modifiche dell'itinerario, dove applicabile; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande, a meno che non siano specificamente indicati, i biglietti d'ingresso, a meno che non siano specificamente indicati, gli acquisti personali, i souvenir o le attività opzionali, e il trasporto fino al punto d'incontro e durante l'esperienza restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperto locale per tutta l'esperienza",
+   "Conversazione di pianificazione pre-esperienza tramite l'app TOMOGO!",
+   "Consigli personalizzati prima, durante e dopo l'esperienza",
+   "Soste flessibili o modifiche dell'itinerario, dove applicabile"
+  ],
+  "notIncluded": [
+   "Cibo e bevande, a meno che non siano specificamente indicati",
+   "Biglietti d'ingresso, a meno che non siano specificamente indicati",
+   "Acquisti personali, souvenir o attività opzionali",
+   "Trasporto fino al punto d'incontro e durante l'esperienza"
+  ]
+ },
+ "shinjuku-and-shibuya-walking-with-grand-food-tour": {
+  "title": "Shinjuku e Shibuya a piedi, con grande tour enogastronomico",
+  "metaTitle": "Shinjuku e Shibuya, enogastronomico",
+  "metaDescription": "Quattro ore da Tokyo tra la Testa di Godzilla e Kabukicho, con una guida privata di lingua inglese e un itinerario a piedi di 4 ore completamente personalizzabile incluse.",
+  "shortDescription": "Quattro ore da Tokyo tra la Testa di Godzilla e Kabukicho, con una guida privata di lingua inglese e un itinerario a piedi di 4 ore completamente personalizzabile incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di quattro ore da Tokyo è costruita intorno alla **Testa di Godzilla**, a **Kabukicho** e al Center Gai. Una guida privata di lingua inglese, un itinerario a piedi di 4 ore completamente personalizzabile, un grande pranzo con oltre 70 piatti e oltre 70 bevande presso Osusumeya, consigli e guida per la ristorazione halal-friendly, e tutte le tasse, le commissioni e i costi di gestione sono inclusi nel prezzo; il punto d'incontro è la Stazione di Shinjuku. I costi di trasporto durante il tour, i biglietti d'ingresso (a meno che non diversamente specificato), e le spese personali per lo shopping restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida privata di lingua inglese",
+   "Itinerario a piedi di 4 ore completamente personalizzabile",
+   "Grande pranzo con oltre 70 piatti e oltre 70 bevande presso Osusumeya",
+   "Consigli e guida per la ristorazione halal-friendly",
+   "Tutte le tasse, le commissioni e i costi di gestione"
+  ],
+  "notIncluded": [
+   "Costi di trasporto durante il tour",
+   "Biglietti d'ingresso (a meno che non diversamente specificato)",
+   "Spese personali per lo shopping"
+  ]
+ },
+ "tokyo-private-tour-with-french-speaking-guide-by-local-operator": {
+  "title": "Tokyo, tour privato con guida di lingua francese, con operatore locale",
+  "metaTitle": "Tokyo, tour privato in francese",
+  "metaDescription": "Cinque ore a Tokyo con una guida locale professionista e un servizio di pick-up in hotel incluse.",
+  "shortDescription": "Cinque ore a Tokyo con una guida locale professionista e un servizio di pick-up in hotel incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nIl pick-up è offerto dall'Aeroporto di Haneda e da Tokyo; il punto e l'orario esatti vengono concordati con nfnl una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nQuesta esperienza di cinque ore a Tokyo è costruita intorno a **Tokyo**. Una guida locale professionista, un servizio di pick-up in hotel, e un tour a piedi privato personalizzato, con la possibilità di usare i trasporti pubblici o i taxi, sono inclusi nel prezzo; il punto d'incontro effettivo a Tokyo viene confermato da nfnl una volta effettuata la prenotazione. I costi di trasporto (per il cliente e la guida), il biglietto d'ingresso (per il cliente e la guida), e il pranzo (per il cliente e la guida) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Servizio di pick-up in hotel",
+   "Tour a piedi privato personalizzato, con la possibilità di usare i trasporti pubblici o i taxi"
+  ],
+  "notIncluded": [
+   "Costi di trasporto (per il cliente e la guida)",
+   "Biglietto d'ingresso (per il cliente e la guida)",
+   "Pranzo (per il cliente e la guida)"
+  ]
+ },
+ "become-an-anime-voice-actor-pro-studio-dubbing-in-tokyo": {
+  "title": "Diventa un doppiatore di anime: doppiaggio professionale in studio, a Tokyo",
+  "metaTitle": "Doppiatore di anime, Tokyo",
+  "metaDescription": "Un'ora e mezza a Tokyo con un tour dietro le quinte di uno studio di registrazione per anime attivo e la propria scena e il proprio script preparati per la sessione incluse.",
+  "shortDescription": "Un'ora e mezza a Tokyo con un tour dietro le quinte di uno studio di registrazione per anime attivo e la propria scena e il proprio script preparati per la sessione incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora e mezza a Tokyo porta un tour dietro le quinte di uno studio di registrazione per **anime** attivo, la propria scena e il proprio script, preparati per la sessione, la guida di un doppiatore giapponese professionista (seiyuu), una sessione di doppiaggio registrata in sincronia con l'animazione, un mixaggio professionale con musica ed effetti sonori, il video finito, consegnato come file digitale, gli script con inglese e romaji, il supporto in lingua inglese durante tutta l'esperienza, e un piccolo gruppo, massimo 4 partecipanti; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pick-up e il drop-off in hotel, cibo e bevande, e il noleggio di costumi/cosplay restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour dietro le quinte di uno studio di registrazione per anime attivo",
+   "Propria scena e proprio script, preparati per la sessione",
+   "Guida di un doppiatore giapponese professionista (seiyuu)",
+   "Sessione di doppiaggio registrata in sincronia con l'animazione",
+   "Mixaggio professionale con musica ed effetti sonori",
+   "Video finito, consegnato come file digitale",
+   "Script con inglese e romaji",
+   "Supporto in lingua inglese durante tutta l'esperienza",
+   "Piccolo gruppo, massimo 4 partecipanti"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande",
+   "Noleggio di costumi/cosplay"
+  ]
+ },
+ "re-bonsai-experience-create-japanese-bonsai-art-in-tokyo": {
+  "title": "Esperienza RE BONSAI™: crea un'opera d'arte bonsai giapponese, a Tokyo",
+  "metaTitle": "RE BONSAI, arte bonsai",
+  "metaDescription": "Un'ora a Tokyo con tutti i materiali necessari per la creazione del bonsai e personale di lingua inglese incluse.",
+  "shortDescription": "Un'ora a Tokyo con tutti i materiali necessari per la creazione del bonsai e personale di lingua inglese incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo porta tutti i materiali necessari per la creazione del **bonsai**, personale di lingua inglese, personale di lingua spagnola, il bonsai da portare a casa, un'esperienza adatta ai principianti, e un piccolo gruppo (massimo 8 persone); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Tutti i materiali necessari per la creazione del bonsai",
+   "Personale di lingua inglese",
+   "Personale di lingua spagnola",
+   "Bonsai da portare a casa",
+   "Esperienza adatta ai principianti",
+   "Piccolo gruppo (massimo 8 persone)"
+  ],
+  "notIncluded": []
+ },
  "hiroshima-night-evening-tour": {
   "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
   "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
