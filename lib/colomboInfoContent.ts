@@ -1309,6 +1309,94 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-silver-jewelry-workshop-worth-it-colombo":
+      return {
+        title: "Is the Colombo Silver Jewelry Handcrafting Workshop Worth It?",
+        description: "An honest look at the hands-on silver jewelry handcrafting workshop experience in Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1185699/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely hands-on craft experience rather than a sightseeing tour — you make your own piece of silver jewelry with guidance, a good fit for travellers who want a tangible souvenir and a change of pace from temple and city circuits.",
+            tourCard: { slug: "colombo-silver-jewelry-handcrafting-workshop", title: "Colombo: Silver Jewelry Handcrafting Workshop Experience", description: "A hands-on silver jewelry handcrafting workshop in Colombo.", price: "From $25", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1185699/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 1 hour and a low price, this slots in easily as a half-day add-on alongside a city or food tour rather than needing its own dedicated day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo silver jewelry workshop worth it?", a: "Yes for travellers who want a hands-on craft experience and a tangible, handmade souvenir rather than more sightseeing." },
+          { q: "How long does the silver jewelry workshop take?", a: "About 1 hour." },
+        ],
+      };
+
+    case "is-port-city-canoeing-worth-it-colombo":
+      return {
+        title: "Is the Colombo Port City Canoeing Session Worth It?",
+        description: "An honest look at the guided canoeing session at Colombo Port City.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368519/asiabylocals/tours/canoeing-in-port-city/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Port City's reclaimed waterways give Colombo a rare on-the-water activity right in the city center, distinct from the beach-based water sports found further down the coast at Bentota or Mirissa.",
+            tourCard: { slug: "colombo-port-city-guided-canoeing-session", title: "Colombo Port City Guided Canoeing Session", description: "A guided canoeing session in Colombo's Port City waterways.", price: "From $28", duration: "1 hour", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368519/asiabylocals/tours/canoeing-in-port-city/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on for travellers based near the city center who want an active break without travelling out to the coast.",
+          },
+        ],
+        faqs: [
+          { q: "Is Port City canoeing in Colombo worth it?", a: "Yes if you want an on-the-water activity without leaving the city center — it's a different setting from the coastal water sports further south." },
+          { q: "How long is the Port City canoeing session?", a: "About 1 hour, guided." },
+        ],
+      };
+
+    case "is-scooter-tour-worth-it-colombo":
+      return {
+        title: "Is Exploring Colombo on a Scooter Worth It?",
+        description: "An honest look at the self-ride scooter tour of Colombo, an alternative to the standard tuk-tuk city tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1091276/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Unlike the tuk-tuk tours where a driver takes you around, this puts you in control of your own scooter, suiting confident riders who want more flexibility over pace and stops than a chauffeured tuk-tuk tour offers.",
+            tourCard: { slug: "explore-colombo-on-a-scooter", title: "Explore Colombo on a Scooter", description: "A self-ride scooter tour of Colombo.", price: "From $34", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1091276/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travellers comfortable riding in Colombo's traffic — if you'd rather be driven, the tuk-tuk city tours are the better fit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo scooter tour worth it?", a: "Yes for confident riders who want to set their own pace rather than being driven around on a tuk-tuk tour." },
+          { q: "Do I need riding experience for the Colombo scooter tour?", a: "You should be comfortable riding in traffic, since you ride the scooter yourself rather than being chauffeured." },
+        ],
+      };
+
+    case "is-free-tea-tasting-worth-it-colombo":
+      return {
+        title: "Is the Colombo Unlimited Tea Tasting Experience Worth It?",
+        description: "An honest look at the free, unlimited Ceylon tea tasting experience in Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1391858/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a quick, low-cost tasting stop in the city itself, not a substitute for a full tea plantation or estate day tour further out — it's best treated as a short, casual introduction to Ceylon tea rather than an in-depth plantation experience.",
+            tourCard: { slug: "colombo-unlimited-free-tea-tasting-experience", title: "Colombo: Unlimited Free Tea Tasting Experience", description: "An unlimited Ceylon tea tasting experience in Colombo.", price: "From $8", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1391858/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you want the full plantation experience rather than just a tasting, the Tea Plantation & Rubber Estate Tour covers that in more depth.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo tea tasting experience worth it?", a: "Yes as a cheap, quick introduction to Ceylon tea — for the full plantation experience, look at the Tea Plantation & Rubber Estate Tour instead." },
+          { q: "Is the Colombo tea tasting unlimited?", a: "Yes, this specific experience is advertised as unlimited tasting for about $8." },
+        ],
+      };
+
     default:
       return null;
   }
