@@ -43981,6 +43981,217 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo, bevande o spese personali"
   ]
  },
+ "kendo-samurai-experience-tour-in-kyoto": {
+  "title": "Esperienza di kendo da samurai a Kyoto",
+  "metaTitle": "Esperienza di kendo da samurai, Kyoto",
+  "metaDescription": "Due ore a Kyoto per praticare il kendo, con noleggio dell'armatura e dell'attrezzatura, acqua minerale e un asciugamano kendo gratuiti.",
+  "shortDescription": "Due ore a Kyoto per praticare il kendo, con noleggio dell'armatura e dell'attrezzatura, acqua minerale e un asciugamano kendo gratuiti.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di due ore porta una guida o istruttore professionista, il noleggio dell'armatura e dell'attrezzatura da **kendo**, acqua minerale gratuita e un asciugamano \"kendo\" gratuito. Il pick-up e il drop-off in hotel e il cibo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida o istruttore professionista",
+   "Noleggio dell'armatura e dell'attrezzatura da kendo",
+   "Acqua minerale gratuita",
+   "Asciugamano \"kendo\" gratuito"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo"
+  ]
+ },
+ "gion-private-photoshoot-professional-and-guided-tour": {
+  "title": "Servizio fotografico privato a Gion, professionale e con tour guidato",
+  "metaTitle": "Servizio fotografico e tour guidato a Gion",
+  "metaDescription": "Due ore a Gion con un fotografo professionista e una guida locale, tour a piedi personalizzabile, 40 foto modificate in alta risoluzione incluse.",
+  "shortDescription": "Due ore a Gion con un fotografo professionista e una guida locale, tour a piedi personalizzabile, 40 foto modificate in alta risoluzione incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati.\n\nQuesta esperienza di due ore porta un fotografo professionista privato e una guida locale di Kyoto, un tour a piedi completamente personalizzabile secondo i propri interessi e preferenze, fotografia professionale spontanea e in posa durante tutta l'esperienza, 40 foto modificate in alta risoluzione selezionate tra gli scatti migliori del tour, la consegna tramite una galleria privata su Google Drive per il download e la condivisione, le foto modificate consegnate entro 48-72 ore dal tour, una guida esperta verso i luoghi più fotogenici di **Gion** e le angolazioni migliori, approfondimenti affascinanti sulla storia, la cultura e le tradizioni di Kyoto, e consigli personalizzati su ristoranti, caffè e gemme nascoste da visitare dopo il tour. Biglietti d'ingresso ai templi e ai santuari, costi di trasporto, cibo e bevande, e pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Fotografo professionista privato e guida locale di Kyoto",
+   "Tour a piedi completamente personalizzabile secondo interessi e preferenze",
+   "Fotografia professionale spontanea e in posa durante tutta l'esperienza",
+   "40 foto modificate in alta risoluzione selezionate tra gli scatti migliori del tour",
+   "Consegna tramite una galleria privata su Google Drive per download e condivisione",
+   "Foto modificate consegnate entro 48-72 ore dal tour",
+   "Guida esperta verso i luoghi più fotogenici di Kyoto e le angolazioni migliori",
+   "Approfondimenti affascinanti sulla storia, la cultura e le tradizioni di Kyoto",
+   "Consigli personalizzati su ristoranti, caffè e gemme nascoste da visitare dopo il tour"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso ai templi e ai santuari",
+   "Costi di trasporto",
+   "Cibo e bevande",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "private-walking-tour-with-a-local-in-kyoto": {
+  "title": "Tour a piedi privato con un locale a Kyoto",
+  "metaTitle": "Tour a piedi privato con un locale, Kyoto",
+  "metaDescription": "Tre ore a Kyoto con un tour a piedi privato personalizzato e una guida locale, biglietti d'ingresso e trasporto in città restano a carico del cliente.",
+  "shortDescription": "Tre ore a Kyoto con un tour a piedi privato personalizzato e una guida locale, biglietti d'ingresso e trasporto in città restano a carico del cliente.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour a piedi privato di tre ore porta una guida locale e un tour a piedi privato personalizzato. Biglietti d'ingresso, spese personali, mance, costi di attività opzionali, pasti e bevande, e il trasporto in città restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Tour a piedi privato personalizzato"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso",
+   "Spese personali",
+   "Mance",
+   "Costi di attività opzionali",
+   "Pasti e bevande",
+   "Trasporto in città"
+  ]
+ },
+ "kyoto-amanohashidate-and-ine-premium-small-group-tour-by-local-operator": {
+  "title": "Kyoto, Amanohashidate e Ine: tour premium in piccolo gruppo, con operatore locale",
+  "metaTitle": "Amanohashidate e Ine, tour premium",
+  "metaDescription": "Dieci ore tra Kyoto, Amanohashidate e Ine, con guida turistica, veicolo climatizzato, Wi-Fi gratuito e la barca panoramica da Kasamatsu Park incluse.",
+  "shortDescription": "Dieci ore tra Kyoto, Amanohashidate e Ine, con guida turistica, veicolo climatizzato, Wi-Fi gratuito e la barca panoramica da Kasamatsu Park incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour premium in piccolo gruppo, di dieci ore, con operatore locale, porta una guida turistica, un veicolo climatizzato, il Wi-Fi gratuito a bordo, una bottiglia d'acqua, la crociera panoramica da **Kasamatsu Park** ad **Amanohashidate**, un sacchetto di cibo a persona per nutrire i gabbiani o le aquile, e la monorotaia o seggiovia panoramica di **Amanohashidate View Land**. Pasti e bevande, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica",
+   "Veicolo climatizzato",
+   "Wi-Fi gratuito a bordo",
+   "Bottiglia d'acqua",
+   "Crociera panoramica da Kasamatsu Park ad Amanohashidate",
+   "Sacchetto di cibo a persona per nutrire i gabbiani o le aquile",
+   "Monorotaia/seggiovia panoramica di Amanohashidate View Land"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Altre spese personali"
+  ]
+ },
+ "keihoku-and-miyama-countryside-guided-car-tour-in-kyoto": {
+  "title": "Tour guidato in auto nella campagna di Keihoku e Miyama, Kyoto",
+  "metaTitle": "Campagna di Keihoku e Miyama, tour in auto",
+  "metaDescription": "Giornata intera tra il Santuario Yamakuni e il Tempio Joshoko-ji, con tutti i biglietti d'ingresso ai templi e santuari e una guida bilingue incluse.",
+  "shortDescription": "Giornata intera tra il Santuario Yamakuni e il Tempio Joshoko-ji, con tutti i biglietti d'ingresso ai templi e santuari e una guida bilingue incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour di una giornata intera nella campagna di **Keihoku** e **Miyama** include tutto quanto descritto: tutti i biglietti d'ingresso ai templi e santuari, un tour guidato da persone locali bilingui (inglese e giapponese), un tour guidato in auto, la tariffa di parcheggio, e assistenza allo shopping per i souvenir, se necessario, tra il **Santuario Yamakuni** e il **Tempio Joshoko-ji**. Il tour esclude tutto quanto descritto di seguito: il pranzo, cibo e bevande extra, e la mancia per la guida, non obbligatoria ma sempre apprezzata.",
+  "highlights": [],
+  "included": [
+   "Questo tour include tutto quanto descritto:",
+   "Tutti i biglietti d'ingresso ai templi e santuari",
+   "Tour guidato da persone locali bilingui (inglese e giapponese)",
+   "Tour guidato in auto",
+   "Tariffa di parcheggio",
+   "Assistenza allo shopping per i souvenir, se necessario"
+  ],
+  "notIncluded": [
+   "Questo tour esclude tutto quanto descritto di seguito:",
+   "Pranzo",
+   "Cibo e bevande extra",
+   "Mancia per la guida (non obbligatoria, ma sempre apprezzata)"
+  ]
+ },
+ "kyoto-customisable-private-tour-with-a-local-guide-by-local-operator": {
+  "title": "Kyoto, tour privato personalizzabile con una guida locale, con operatore locale",
+  "metaTitle": "Kyoto, tour privato personalizzabile",
+  "metaDescription": "Cinque ore tra il Fushimi Inari Taisha, il Kiyomizu-dera e Gion, con un itinerario personalizzato e 5 ore con una guida locale esperta incluse.",
+  "shortDescription": "Cinque ore tra il Fushimi Inari Taisha, il Kiyomizu-dera e Gion, con un itinerario personalizzato e 5 ore con una guida locale esperta incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour privato e personalizzabile di cinque ore, con operatore locale, porta un itinerario personalizzato secondo i propri interessi, 5 ore con una guida locale esperta, approfondimenti culturali, storia e racconti locali, assistenza nell'orientarsi nelle zone e attrazioni locali, supporto con gli ordini, l'etichetta e i consigli, il pick-up in hotel o in un altro luogo a scelta, un ritmo flessibile adeguato al gruppo, e un tour a piedi, tra il **Fushimi Inari Taisha**, il **Kiyomizu-dera** e **Gion**. Il trasporto (treno, bus, taxi, ecc.), il pranzo e altri costi di cibo, snack e bevande, i biglietti d'ingresso (pagabili sul posto; il tour può essere adattato per evitare luoghi con questi costi), e le spese personali per lo shopping restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato e personalizzabile di Kyoto",
+   "Itinerario personalizzato secondo i propri interessi",
+   "5 ore con una guida locale esperta",
+   "Approfondimenti culturali, storia e racconti locali",
+   "Assistenza nell'orientarsi nelle zone e attrazioni locali",
+   "Supporto con gli ordini, l'etichetta e i consigli",
+   "Pick-up in hotel (o altro luogo a scelta)",
+   "Ritmo flessibile adeguato al gruppo",
+   "Tour a piedi"
+  ],
+  "notIncluded": [
+   "Trasporto: treno, bus, taxi, ecc.",
+   "Pranzo e altri costi di cibo, snack e bevande",
+   "Biglietti d'ingresso, pagabili sul posto; il tour può essere adattato per evitare luoghi con questi costi",
+   "Spese personali per lo shopping"
+  ]
+ },
+ "kyoto-4-iconic-sights-full-day-private-tour-by-local-operator": {
+  "title": "Kyoto, 4 luoghi iconici: tour privato di un giorno intero, con operatore locale",
+  "metaTitle": "Kyoto, 4 luoghi iconici, tour privato",
+  "metaDescription": "Otto ore tra il Kinkaku-ji e il Bosco di Bambù di Arashiyama, con guida locale e l'ingresso a tutti i siti menzionati incluso.",
+  "shortDescription": "Otto ore tra il Kinkaku-ji e il Bosco di Bambù di Arashiyama, con guida locale e l'ingresso a tutti i siti menzionati incluso.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour privato di un giorno intero, di otto ore, con operatore locale, porta una guida turistica locale, l'ingresso a tutti i siti menzionati, un tour a piedi dell'area di **Gion**, la visita al **Bosco di Bambù di Arashiyama**, l'ingresso al **Tempio Kinkakuji**, e la visita al **Santuario Fushimi Inari**. Pasti e bevande, pick-up e drop-off in hotel, e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica locale",
+   "Ingresso a tutti i siti menzionati",
+   "Tour a piedi dell'area di Gion",
+   "Visita al Bosco di Bambù di Arashiyama",
+   "Ingresso al Tempio Kinkakuji",
+   "Visita al Santuario Fushimi Inari"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Pick-up e drop-off in hotel",
+   "Spese personali"
+  ]
+ },
+ "stone-seal-carving-workshop-with-calligrapher-in-kyoto": {
+  "title": "Laboratorio di scultura su sigillo di pietra con un calligrafo a Kyoto",
+  "metaTitle": "Scultura su sigillo di pietra, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto per scolpire un sigillo di pietra, con la guida di un calligrafo giapponese e una cartolina con il proprio nome inclusi.",
+  "shortDescription": "Un'ora e mezza a Kyoto per scolpire un sigillo di pietra, con la guida di un calligrafo giapponese e una cartolina con il proprio nome inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto laboratorio di un'ora e mezza porta il laboratorio di scultura su **sigillo di pietra**, la guida di un calligrafo giapponese, una cartolina con l'impronta del proprio sigillo e il proprio nome in giapponese, e la pietra con una scatola speciale per portarla a casa.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di scultura su sigillo di pietra",
+   "Guida di un calligrafo giapponese",
+   "Cartolina con l'impronta del sigillo e il proprio nome in giapponese",
+   "Pietra e scatola speciale per portarla a casa"
+  ],
+  "notIncluded": []
+ },
+ "spring-limited-nemophila-festival-and-osaka-kaiyukan-day-trip-by-local-operator": {
+  "title": "Edizione primaverile limitata: Festival dei Nemophila e Osaka Kaiyukan, gita di un giorno, con operatore locale",
+  "metaTitle": "Festival dei Nemophila e Osaka Kaiyukan",
+  "metaDescription": "Dieci ore a Osaka con trasporto andata e ritorno, pedaggi autostradali e parcheggio, autista-guida in inglese o cinese inclusi.",
+  "shortDescription": "Dieci ore a Osaka con trasporto andata e ritorno, pedaggi autostradali e parcheggio, autista-guida in inglese o cinese inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta gita di edizione primaverile limitata, di dieci ore, tra il **Festival dei Nemophila** e il **Kaiyukan di Osaka**, porta il trasporto andata e ritorno, i pedaggi autostradali e le tariffe di parcheggio, e un autista-guida in inglese o cinese. I biglietti d'ingresso per tutte le attrazioni opzionali (la partecipazione sul posto è volontaria), le spese personali, inclusi i souvenir, e i pasti restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno",
+   "Pedaggi autostradali e tariffe di parcheggio",
+   "Autista-guida in inglese o cinese"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso per tutte le attrazioni opzionali (partecipazione volontaria sul posto)",
+   "Spese personali, inclusi i souvenir",
+   "Pasti, spese personali, souvenir"
+  ]
+ },
+ "gion-magical-night-walk": {
+  "title": "Passeggiata notturna magica a Gion",
+  "metaTitle": "Passeggiata notturna magica, Gion",
+  "metaDescription": "Due ore a Gion di sera con un tour guidato tra Hanamikoji Street, il Santuario Yasaka e Ninenzaka, con avvistamento di geisha e maiko con una guida locale.",
+  "shortDescription": "Due ore a Gion di sera con un tour guidato tra Hanamikoji Street, il Santuario Yasaka e Ninenzaka, con avvistamento di geisha e maiko con una guida locale.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati.\n\nQuesto tour serale guidato a piedi di due ore porta una guida locale attraverso **Gion**, la visita a **Hanamikoji Street** e ai vicoli nascosti illuminati dalle lanterne, una passeggiata serale al **Santuario Yasaka** e al Parco Maruyama, le vie di pietra di **Ninenzaka** e **Sannenzaka** con vista sulla Pagoda Yasaka, la visita al **Kiyomizudera** dopo che la folla diurna è sparita, un'esperienza in piccolo gruppo per un'atmosfera intima, e consigli per l'avvistamento di geisha e maiko da un locale che conosce bene le strade, con cena (facoltativa) e posti riservati (facoltativi) al ristorante Stars n Cacio. Le spese personali, il trasporto, il pick-up e il drop-off in hotel, i biglietti d'ingresso, e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour serale guidato a piedi a Gion con una guida locale",
+   "Visita a Hanamikoji Street e ai vicoli nascosti illuminati dalle lanterne",
+   "Passeggiata serale al Santuario Yasaka e al Parco Maruyama",
+   "Vie di pietra di Ninenzaka e Sannenzaka con vista sulla Pagoda Yasaka",
+   "Visita al Kiyomizudera dopo che la folla diurna è sparita",
+   "Esperienza in piccolo gruppo per un'atmosfera intima",
+   "Consigli per l'avvistamento di geisha e maiko da un locale che conosce le strade",
+   "Cena al ristorante Stars n Cacio (facoltativa)",
+   "Posti riservati al ristorante Stars n Cacio (facoltativi)"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Trasporto",
+   "Pick-up e drop-off in hotel",
+   "Biglietti d'ingresso",
+   "Cibo e bevande"
+  ]
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
