@@ -1730,6 +1730,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-knuckles-range-tour-worth-it-nuwara-eliya',
     'is-tea-plucking-experience-worth-it-nuwara-eliya', 'is-cloud-forest-hike-worth-it-nuwara-eliya',
     'is-ramayana-temple-trail-worth-it-nuwara-eliya', 'is-rafting-ziplining-combo-worth-it-nuwara-eliya',
+    'is-labookellie-tea-factory-worth-it-nuwara-eliya', 'is-horton-plains-sunrise-hike-worth-it-nuwara-eliya',
+    'is-tea-field-cycling-worth-it-nuwara-eliya', 'is-ramboda-waterfall-tuk-tuk-tour-worth-it-nuwara-eliya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),

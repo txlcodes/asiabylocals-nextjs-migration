@@ -472,6 +472,92 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-labookellie-tea-factory-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Labookellie Tea Factory Tour Worth It near Nuwara Eliya?",
+        description: "An honest look at the Labookellie Tea Factory tour, one of the most visited and accessible tea factories on the Nuwara Eliya road.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1291965/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Labookellie is a specific, well-established factory right along the main road into Nuwara Eliya, making it one of the easiest and cheapest tea factory stops to add to an itinerary — a standard factory-and-tasting tour rather than the more hands-on plucking experience.",
+            tourCard: { slug: "nuwara-eliya-labookellie-tea-factory-story-of", title: "Nuwara Eliya Labookellie Tea Factory Story of Ceylon Tea", description: "A guided tour of the Labookellie Tea Factory.", price: "From $10", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1291965/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you want to actually pick tea leaves yourself rather than just tour the factory, the separate hands-on tea plucking experience is the better fit — Labookellie's tour is more about the factory process and tasting.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Labookellie Tea Factory tour worth it?", a: "Yes, it's one of the cheapest and most convenient tea factory stops near Nuwara Eliya, though it's a standard tour rather than a hands-on plucking experience." },
+          { q: "Can I pick tea leaves at Labookellie?", a: "This specific tour is more about the factory process and tasting — for hands-on picking, look at the separate tea plucking experience instead." },
+        ],
+      };
+
+    case "is-horton-plains-sunrise-hike-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Horton Plains Sunrise Guided Hike Worth It from Nuwara Eliya?",
+        description: "An honest look at the sunrise-timed guided hike through Horton Plains National Park, home to World's End viewpoint.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1361286/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Horton Plains' famous World's End cliff is reliably clear only in the early morning before clouds roll in, so a sunrise-timed guided hike is genuinely the right way to see it — arriving later in the day is a common mistake that leads to a clouded-over view.",
+            tourCard: { slug: "from-nuwara-eliya-horton-plains-sunrise-guided", title: "From Nuwara Eliya: Horton Plains Sunrise Guided Hike", description: "A sunrise-timed guided hike through Horton Plains National Park.", price: "From $271", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1361286/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This means a genuinely early departure, often before dawn — confirm pickup time in advance, since missing the early slot defeats the point of the sunrise timing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Horton Plains sunrise hike worth it?", a: "Yes — World's End viewpoint is reliably clear only in the early morning, so the sunrise timing genuinely matters, unlike a later-in-the-day visit." },
+          { q: "Why does timing matter at Horton Plains?", a: "Clouds typically roll in by mid-morning, obscuring the World's End viewpoint — arriving later is a common mistake." },
+        ],
+      };
+
+    case "is-tea-field-cycling-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Tea Field Cycling and Local Food Tour Worth It in Nuwara Eliya?",
+        description: "An honest look at the tea field cycling and local food tour near Nuwara Eliya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1459558/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cycling through the tea estates gives a more active, ground-level view of the rolling plantations than a scenic drive or walk, and pairing it with a local food stop rounds it into more than just a workout.",
+            tourCard: { slug: "tea-field-cycling-and-local-food-tour", title: "Tea field cycling and local food tour", description: "A cycling tour through tea fields with a local food stop.", price: "From $65", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1459558/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Nuwara Eliya's hill roads involve real elevation change — reasonable fitness helps, especially for longer uphill stretches between estates.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tea field cycling tour worth it in Nuwara Eliya?", a: "Yes for a more active, ground-level way to see the tea estates, especially paired with a local food stop — just come with reasonable fitness for the hill roads." },
+        ],
+      };
+
+    case "is-ramboda-waterfall-tuk-tuk-tour-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Ramboda Waterfall & Tea Factory Tuk-Tuk Tour Worth It?",
+        description: "An honest look at the Ramboda Waterfall and tea factory combination tour by tuk-tuk.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1422171/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This pairs a genuine waterfall stop with a tea factory visit in one tuk-tuk outing, a convenient, budget-friendly way to combine two of the area's main attractions rather than booking them separately.",
+            tourCard: { slug: "nuwara-eliya-ramboda-waterfall-tea-factory-tour", title: "Nuwara Eliya Ramboda Waterfall & Tea Factory Tour by Tuk Tuk", description: "A combined Ramboda Waterfall and tea factory tour by tuk-tuk.", price: "From $34", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1422171/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At this price point, it's a good budget-friendly way to tick off both the waterfall and a tea factory in one outing rather than arranging them as two separate trips.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ramboda Waterfall and tea factory tuk-tuk tour worth it?", a: "Yes, it's a convenient, budget-friendly way to combine two of the area's main attractions in one outing." },
+        ],
+      };
+
     default:
       return null;
   }
