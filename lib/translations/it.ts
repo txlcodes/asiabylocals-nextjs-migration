@@ -42978,6 +42978,178 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "kyoto-unesco-world-heritage-sites-tour-from-osaka-kyoto-by-local-operator": {
+  "title": "Tour dei siti patrimonio UNESCO di Kyoto da Osaka/Kyoto, con operatore locale",
+  "metaTitle": "Siti patrimonio UNESCO di Kyoto, tour",
+  "metaDescription": "Nove ore tra il Kinkaku-ji, Arashiyama e il Sanjusangen-do, con veicolo climatizzato, guida in inglese e cinese, biglietti ai templi inclusi.",
+  "shortDescription": "Nove ore tra il Kinkaku-ji, Arashiyama e il Sanjusangen-do, con veicolo climatizzato, guida in inglese e cinese, biglietti ai templi inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il **Kinkaku-ji**, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari.\n\nQuesto tour di nove ore porta il pranzo (se l'opzione è selezionata), un veicolo climatizzato, una guida in inglese e cinese, il biglietto del **Tempio Kinkaku-ji** e del **Tempio Sanjusangendo** inclusi, tra il tempio, **Arashiyama** e il Sanjusangen-do.",
+  "highlights": [],
+  "included": [
+   "Pranzo (se l'opzione è selezionata)",
+   "Veicolo climatizzato",
+   "Guida in inglese e cinese",
+   "Biglietto del Tempio Kinkakuji incluso",
+   "Biglietto del Tempio Sanjusangendo incluso"
+  ],
+  "notIncluded": []
+ },
+ "japanese-traditional-sweets-making-and-tea-ceremony-in-kyoto": {
+  "title": "Preparazione di dolci tradizionali giapponesi e cerimonia del tè a Kyoto",
+  "metaTitle": "Dolci tradizionali e cerimonia del tè, Kyoto",
+  "metaDescription": "Novantacinque minuti a Gion per un'esperienza completa di dolci tradizionali giapponesi e cerimonia del tè.",
+  "shortDescription": "Novantacinque minuti a Gion per un'esperienza completa di dolci tradizionali giapponesi e cerimonia del tè.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha.\n\nQuesta esperienza di novantacinque minuti porta l'esperienza completa di preparazione di **dolci tradizionali giapponesi** e **cerimonia del tè**. La scatola da asporto per i dolci (100 yen) e il certificato di completamento dell'esperienza (400 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza completa di preparazione di dolci tradizionali giapponesi e cerimonia del tè"
+  ],
+  "notIncluded": [
+   "Scatola da asporto per i dolci: 100 yen",
+   "Certificato di completamento dell'esperienza: 400 yen"
+  ]
+ },
+ "tea-ceremony-with-maiko-in-kyoto": {
+  "title": "Cerimonia del tè con una maiko a Kyoto",
+  "metaTitle": "Cerimonia del tè con una maiko, Kyoto",
+  "metaDescription": "Quarantacinque minuti a Kyoto con una cerimonia del tè con una maiko, due dolci giapponesi secchi, matcha e un regalo senjafuda inclusi.",
+  "shortDescription": "Quarantacinque minuti a Kyoto con una cerimonia del tè con una maiko, due dolci giapponesi secchi, matcha e un regalo senjafuda inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi.\n\nQuesta esperienza di quarantacinque minuti porta una **cerimonia del tè** con una **maiko**, due dolci giapponesi secchi e il matcha, l'occasione per una foto, e un regalo **senjafuda**.",
+  "highlights": [],
+  "included": [
+   "Cerimonia del tè con una maiko",
+   "2 dolci giapponesi secchi e matcha",
+   "Occasione per una foto",
+   "Regalo senjafuda"
+  ],
+  "notIncluded": []
+ },
+ "kyoto-professional-photoshoot-in-traditional-kimono-by-local-operator": {
+  "title": "Servizio fotografico professionale a Kyoto in kimono tradizionale, con operatore locale",
+  "metaTitle": "Servizio fotografico in kimono, Kyoto",
+  "metaDescription": "Due ore a Kyoto con noleggio del kimono informale, servizio fotografico professionale, acconciatura e trucco femminile opzionali.",
+  "shortDescription": "Due ore a Kyoto con noleggio del kimono informale, servizio fotografico professionale, acconciatura e trucco femminile opzionali.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere e ben accolta.\n\nQuesta esperienza di due ore porta il noleggio del **kimono** informale, un servizio fotografico professionale, l'acconciatura femminile, il trucco femminile e un accessorio per capelli, se gli extra sono selezionati, con l'upgrade dal kimono informale a uno formale (furisode, montsuki hakama, houmongi) se selezionato. Il trasporto tra il negozio Gojo e la casa storica, o tra il negozio Gojo e Higashiyama secondo l'opzione scelta, gli accessori decorativi sul kimono (sul posto, a partire da 220 yen), l'acconciatura personalizzata (sul posto, +1.100 yen), le ciglia finte (sul posto, 550 yen), e il vestirsi del proprio kimono restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio del kimono informale",
+   "Servizio fotografico professionale",
+   "Acconciatura femminile (se l'extra è selezionato)",
+   "Trucco femminile (se l'extra è selezionato)",
+   "Accessorio per capelli (se l'extra è selezionato)",
+   "Upgrade dal kimono informale a uno formale (furisode/montsuki hakama/houmongi), se l'extra è selezionato"
+  ],
+  "notIncluded": [
+   "Trasporto tra il negozio Gojo e la casa storica, se scelta l'opzione \"Servizio fotografico in kimono in una casa storica di 100 anni\"",
+   "Trasporto tra il negozio Gojo e Higashiyama, se scelta l'opzione corrispondente",
+   "Accessori decorativi sul kimono (sul posto, a partire da 220 yen)",
+   "Acconciatura personalizzata (sul posto, +1.100 yen)",
+   "Ciglia finte (sul posto, 550 yen)",
+   "Vestirsi del proprio kimono"
+  ]
+ },
+ "japanese-traditional-sweets-nerikiri-making-in-kyoto": {
+  "title": "Preparazione dei dolci tradizionali giapponesi \"nerikiri\" a Kyoto",
+  "metaTitle": "Dolci nerikiri, Kyoto",
+  "metaDescription": "Sessantacinque minuti a Kyoto per un laboratorio completo di preparazione dei dolci nerikiri, tradizionali giapponesi.",
+  "shortDescription": "Sessantacinque minuti a Kyoto per un laboratorio completo di preparazione dei dolci nerikiri, tradizionali giapponesi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di sessantacinque minuti porta un set completo per preparare i **nerikiri**, i dolci tradizionali giapponesi. La scatola da asporto per i dolci (100 yen), il certificato di completamento dell'esperienza (300 yen), e il tè matcha tatedashi (500 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Set completo per preparare i nerikiri (dolci tradizionali giapponesi)"
+  ],
+  "notIncluded": [
+   "Scatola da asporto per i dolci: 100 yen",
+   "Certificato di completamento dell'esperienza: 300 yen",
+   "Tè matcha tatedashi: 500 yen"
+  ]
+ },
+ "kyoto-gion-night-tour-geisha-district-sake-and-hidden-gems-by-local-operator": {
+  "title": "Tour notturno di Kyoto a Gion: quartiere delle geisha, sake e gemme nascoste, con operatore locale",
+  "metaTitle": "Gion di notte: geisha, sake e gemme nascoste",
+  "metaDescription": "Un'ora e mezza a Gion con un bicchiere di sake locale, una guida locale in lingua inglese e un tour a piedi in piccolo gruppo inclusi.",
+  "shortDescription": "Un'ora e mezza a Gion con un bicchiere di sake locale, una guida locale in lingua inglese e un tour a piedi in piccolo gruppo inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in viaggio verso i loro impegni, non artiste di strada.\n\nQuesto tour notturno di un'ora e mezza porta un bicchiere di **sake** locale, una guida locale in lingua inglese, un tour a piedi in piccolo gruppo, e assistenza per le foto, tra **Gion**, il Santuario Yasui Kompira-gū e il Tempio Hōkan-ji.",
+  "highlights": [],
+  "included": [
+   "Sake locale",
+   "Guida locale in lingua inglese",
+   "Tour a piedi in piccolo gruppo",
+   "Assistenza per le foto"
+  ],
+  "notIncluded": []
+ },
+ "tea-ceremony-with-kimono-and-photoshoot-in-kyoto": {
+  "title": "Cerimonia del tè con kimono e servizio fotografico a Kyoto",
+  "metaTitle": "Cerimonia del tè con kimono e foto, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto con una dimostrazione della cerimonia del tè in inglese, tè matcha e dolci, vestizione del kimono e 3 foto professionali.",
+  "shortDescription": "Un'ora e mezza a Kyoto con una dimostrazione della cerimonia del tè in inglese, tè matcha e dolci, vestizione del kimono e 3 foto professionali.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere.\n\nQuesta esperienza di un'ora e mezza porta una dimostrazione della **cerimonia del tè** in lingua inglese, tè matcha e dolci, la vestizione del **kimono**, e 3 foto scattate da un fotografo professionista.",
+  "highlights": [],
+  "included": [
+   "Dimostrazione della cerimonia del tè in lingua inglese",
+   "Tè matcha e dolci",
+   "Vestizione del kimono",
+   "3 foto scattate da un fotografo professionista"
+  ],
+  "notIncluded": []
+ },
+ "e-bike-tour-fushimi-inari-shrine-and-hidden-gems": {
+  "title": "Tour in e-bike al Santuario Fushimi Inari e alle gemme nascoste",
+  "metaTitle": "Fushimi Inari in e-bike e gemme nascoste",
+  "metaDescription": "Tre ore in e-bike con biglietto per il Tempio Sanjusangendo, noleggio bici e guida inclusi.",
+  "shortDescription": "Tre ore in e-bike con biglietto per il Tempio Sanjusangendo, noleggio bici e guida inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesto tour in e-bike di tre ore porta il biglietto per il **Tempio Sanjusangendo**, la bicicletta a noleggio, e una guida in lingua inglese, tra il tempio e il **Fushimi Inari**. Acqua, impermeabile e occhiali da sole restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto per il Tempio Sanjusangendo",
+   "Bicicletta a noleggio",
+   "Guida in lingua inglese"
+  ],
+  "notIncluded": [
+   "Acqua",
+   "Impermeabile",
+   "Occhiali da sole"
+  ]
+ },
+ "kyoto-private-tour-full-day-highlights-with-english-guide-by-local-operator": {
+  "title": "Kyoto, tour privato: luoghi iconici di un giorno intero con guida in inglese, con operatore locale",
+  "metaTitle": "Kyoto: tour privato di un giorno con guida inglese",
+  "metaDescription": "Otto ore tra l'Adashino Nenbutsuji e l'Otagi Nenbutsu-ji, con trasporto in veicolo climatizzato, guida in inglese e pick-up e drop-off in hotel inclusi.",
+  "shortDescription": "Otto ore tra l'Adashino Nenbutsuji e l'Otagi Nenbutsu-ji, con trasporto in veicolo climatizzato, guida in inglese e pick-up e drop-off in hotel inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari.\n\nQuesto tour privato di un giorno intero, di otto ore, porta il trasporto in veicolo climatizzato, una guida in lingua inglese, il pick-up e il drop-off in hotel nelle aree selezionate, un giro turistico guidato, nessun costo nascosto, un viaggio senza pensieri a Kyoto, e autisti professionisti con grande esperienza, tra l'**Adashino Nenbutsuji** e l'**Otagi Nenbutsu-ji**. L'ingresso al Kinkaku-ji, l'ingresso al Kurama-dera, il biglietto della funicolare, cibo e bevande, e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in veicolo climatizzato",
+   "Guida in lingua inglese",
+   "Pick-up e drop-off in hotel (nelle aree selezionate)",
+   "Giro turistico guidato",
+   "Nessun costo nascosto",
+   "Viaggio senza pensieri a Kyoto",
+   "Autisti professionisti con grande esperienza"
+  ],
+  "notIncluded": [
+   "Ingresso al Kinkaku-ji",
+   "Ingresso al Kurama-dera",
+   "Biglietto della funicolare",
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "morning-highlights-e-bike-tour-in-kyoto": {
+  "title": "Tour mattutino in e-bike tra i luoghi iconici di Kyoto",
+  "metaTitle": "Luoghi iconici di Kyoto in e-bike, al mattino",
+  "metaDescription": "Due ore e mezza al mattino a Kyoto in e-bike, con guide, biglietti d'ingresso e bicicletta elettrica a noleggio inclusi.",
+  "shortDescription": "Due ore e mezza al mattino a Kyoto in e-bike, con guide, biglietti d'ingresso e bicicletta elettrica a noleggio inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro; il Kiyomizu-dera; e i torii del Fushimi Inari.\n\nQuesto tour mattutino in **e-bike** di due ore e mezza porta le guide, i biglietti d'ingresso, e la bicicletta elettrica a noleggio.",
+  "highlights": [],
+  "included": [
+   "Guide",
+   "Biglietti d'ingresso",
+   "Bicicletta elettrica a noleggio"
+  ],
+  "notIncluded": []
+ },
  "nara-wagashi-workshop-with-matcha-tasting": {
   "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
   "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
