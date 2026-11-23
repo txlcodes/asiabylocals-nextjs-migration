@@ -44369,6 +44369,192 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "osaka-dotombori-uranamba-local-bar-and-izakaya-crawl-tour-by-local-operator": {
+  "title": "Giro dei bar e izakaya locali a Dotombori e Uranamba, Osaka, con operatore locale",
+  "metaTitle": "Giro dei bar e izakaya a Dotombori e Uranamba",
+  "metaDescription": "Tre ore tra Dotonbori e Namba con una guida locale professionista, tour a piedi guidato, foto e aiuto per ordinare cibo e bevande inclusi.",
+  "shortDescription": "Tre ore tra Dotonbori e Namba con una guida locale professionista, tour a piedi guidato, foto e aiuto per ordinare cibo e bevande inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour di tre ore porta una guida locale professionista, un tour a piedi guidato nell'area locale, foto scattate durante il tour (condivise dopo l'esperienza), aiuto per ordinare cibo e bevande in ogni locale, e consigli locali e approfondimenti culturali durante tutto il tour, tra **Dotonbori** e **Namba**. Pick-up e drop-off in hotel, cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista",
+   "Tour a piedi guidato nell'area locale",
+   "Foto scattate durante il tour (condivise dopo l'esperienza)",
+   "Aiuto per ordinare cibo e bevande in ogni locale",
+   "Consigli locali e approfondimenti culturali durante tutto il tour"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande"
+  ]
+ },
+ "ultimate-osaka-walking-tour-osaka-castle-dotonbori-and-lunch-by-local-operator": {
+  "title": "Il tour a piedi definitivo di Osaka: Castello di Osaka, Dotonbori e pranzo, con operatore locale",
+  "metaTitle": "Tour a piedi definitivo di Osaka",
+  "metaDescription": "Cinque ore tra il Castello di Osaka e Namba con una guida locale per tutto il tour e un pranzo gratuito di street food in stile Osaka incluso.",
+  "shortDescription": "Cinque ore tra il Castello di Osaka e Namba con una guida locale per tutto il tour e un pranzo gratuito di street food in stile Osaka incluso.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi.\n\nQuesto tour di cinque ore porta una guida locale che accompagna per tutto il percorso, offrendo una prospettiva unica su Osaka, un pranzo gratuito con street food in stile Osaka e una bevanda in un ristorante locale, curiosità, storia e qualche bella risata lungo il percorso, tra il **Castello di Osaka**, la metropolitana e **Namba**; il tour è principalmente a piedi, con un breve tragitto in treno richiesto. Il breve tragitto in treno (240 yen), le diete vegane e senza glutine, i biglietti per qualsiasi attrazione, l'ingresso al Castello di Osaka per i tour privati, e il pick-up in hotel per le prenotazioni di gruppo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Una guida locale accompagna per tutto il percorso, offrendo una prospettiva unica su Osaka",
+   "Pranzo gratuito con street food in stile Osaka e una bevanda in un ristorante locale",
+   "Curiosità, storia e qualche bella risata lungo il percorso",
+   "Tour principalmente a piedi; richiesto un breve tragitto in treno"
+  ],
+  "notIncluded": [
+   "Breve tragitto in treno (240 yen)",
+   "Diete vegane e senza glutine",
+   "Biglietti per qualsiasi attrazione",
+   "Ingresso al Castello di Osaka per i tour privati",
+   "Pick-up in hotel per le prenotazioni di gruppo"
+  ]
+ },
+ "osaka-highlights-tour-castle-dotonbori-and-hidden-gems-by-local-operator": {
+  "title": "Tour dei luoghi iconici di Osaka: castello, Dotonbori e gemme nascoste, con operatore locale",
+  "metaTitle": "Osaka: castello, Dotonbori, gemme nascoste",
+  "metaDescription": "Quattro ore tra il Castello di Osaka e il Santuario Hokoku, con guida in lingua inglese, biglietto d'ingresso alla torre principale e foto incluse.",
+  "shortDescription": "Quattro ore tra il Castello di Osaka e il Santuario Hokoku, con guida in lingua inglese, biglietto d'ingresso alla torre principale e foto incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi.\n\nQuesto tour di quattro ore porta una guida in lingua inglese, il biglietto d'ingresso alla **torre principale del Castello di Osaka**, e foto scattate durante il tour, tra il castello e il **Santuario Hokoku**. Le tariffe di trasporto, il cibo e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Biglietto d'ingresso alla torre principale del Castello di Osaka",
+   "Foto scattate durante il tour"
+  ],
+  "notIncluded": [
+   "Tariffe di trasporto",
+   "Cibo e spese personali"
+  ]
+ },
+ "a5-grade-japanese-black-wagyu-yakiniku-experience-in-osaka-by-local-operator": {
+  "title": "Esperienza di yakiniku di wagyu nero giapponese grado A5 a Osaka, con operatore locale",
+  "metaTitle": "Yakiniku di wagyu A5 a Osaka",
+  "metaDescription": "Due ore a Osaka con un menu completo a più portate, tasse sulle vendite e la prenotazione incluse.",
+  "shortDescription": "Due ore a Osaka con un menu completo a più portate, tasse sulle vendite e la prenotazione incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di due ore porta un menu completo a più portate di **yakiniku** con wagyu nero giapponese grado A5, le tasse sulle vendite, e la prenotazione. Le bevande (eccetto l'acqua) e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Menu completo a più portate",
+   "Tasse sulle vendite",
+   "Prenotazione"
+  ],
+  "notIncluded": [
+   "Bevande (eccetto l'acqua)",
+   "Altre spese personali"
+  ]
+ },
+ "osaka-authentic-japanese-tempura-and-miso-soup-cooking-class-by-local-operator": {
+  "title": "Corso autentico di tempura e zuppa di miso giapponese a Osaka, con operatore locale",
+  "metaTitle": "Tempura e zuppa di miso, corso di cucina a Osaka",
+  "metaDescription": "Due ore e mezza a Osaka per un corso pratico di tempura e zuppa di miso, con ingredienti freschi, istruttore in lingua inglese e ricette da portare a casa incluse.",
+  "shortDescription": "Due ore e mezza a Osaka per un corso pratico di tempura e zuppa di miso, con ingredienti freschi, istruttore in lingua inglese e ricette da portare a casa incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto corso di cucina pratico di due ore e mezza porta una lezione sulla preparazione della **tempura** e della **zuppa di miso**, ingredienti freschi e tutti gli strumenti di cottura necessari, un istruttore in lingua inglese con esperienza, ricette dettagliate per riprodurre i piatti a casa, la degustazione dei piatti preparati durante il corso, e bevande da accompagnare al pasto. Il trasporto fino al luogo, cibo o bevande aggiuntivi non previsti dal programma, le spese personali come souvenir o acquisti, e l'assicurazione sanitaria o di viaggio personale restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Lezione pratica sulla preparazione della tempura e della zuppa di miso",
+   "Ingredienti freschi e tutti gli strumenti di cottura necessari",
+   "Istruttore in lingua inglese con esperienza",
+   "Ricette dettagliate per riprodurre i piatti a casa",
+   "Degustazione dei piatti preparati durante il corso",
+   "Bevande da accompagnare al pasto"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo del corso",
+   "Cibo o bevande aggiuntivi non previsti dal programma",
+   "Spese personali come souvenir o acquisti",
+   "Assicurazione sanitaria o di viaggio personale"
+  ]
+ },
+ "modern-vegetarian-sushi-cooking-class-in-osaka": {
+  "title": "Corso moderno di sushi vegetariano a Osaka",
+  "metaTitle": "Sushi vegetariano, corso di cucina a Osaka",
+  "metaDescription": "Tre ore a Osaka per un corso pratico di sushi vegetariano con lo chef Yuki, con tutti gli ingredienti, ricette da portare a casa e tè giapponese incluse.",
+  "shortDescription": "Tre ore a Osaka per un corso pratico di sushi vegetariano con lo chef Yuki, con tutti gli ingredienti, ricette da portare a casa e tè giapponese incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto corso di cucina pratico di tre ore porta una lezione con lo **chef Yuki**, tutti gli ingredienti per il **sushi vegetariano**, le ricette da portare a casa, un tè giapponese di benvenuto, il grembiule, e, come opzione facoltativa, bevande alcoliche: tre tipi di sake (45 ml ciascuno a persona). Il trasporto fino al luogo del corso resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Corso pratico di cucina con lo chef Yuki",
+   "Tutti gli ingredienti per il sushi vegetariano",
+   "Ricette da portare a casa",
+   "Tè giapponese di benvenuto",
+   "Grembiule",
+   "Bevande alcoliche (facoltativo): 3 tipi di sake (45 ml ciascuno a persona)"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo del corso"
+  ]
+ },
+ "near-kix-mt-inunaki-shugendo-waterfall-hiking-guided-tour-in-osaka": {
+  "title": "Vicino a KIX: escursione guidata alle cascate shugendo del Monte Inunaki, Osaka",
+  "metaTitle": "Monte Inunaki: escursione guidata alle cascate",
+  "metaDescription": "Tre ore vicino all'aeroporto KIX con un tour guidato del Tempio Shipporyu-ji e un'esperienza di tranquillità naturale e religiosa incluse.",
+  "shortDescription": "Tre ore vicino all'aeroporto KIX con un tour guidato del Tempio Shipporyu-ji e un'esperienza di tranquillità naturale e religiosa incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di tre ore, vicino all'aeroporto **KIX**, porta un tour guidato del **Tempio Shipporyu-ji**, un'esperienza di tranquillità naturale e religiosa, e una guida locale, tra il tempio e le **Cascate Gyojano**. Pasti e bevande, pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Tempio Shipporyu-ji",
+   "Esperienza di tranquillità naturale e religiosa",
+   "Guida locale"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "premium-go-kart-city-tour-with-costumes-and-photos-in-osaka": {
+  "title": "Tour premium della città in go-kart, con costumi e foto, a Osaka",
+  "metaTitle": "Tour in go-kart con costumi e foto, Osaka",
+  "metaDescription": "Settantacinque minuti a Osaka con l'uso gratuito di una vasta scelta di costumi, foto, carburante, guida turistica e go-kart inclusi.",
+  "shortDescription": "Settantacinque minuti a Osaka con l'uso gratuito di una vasta scelta di costumi, foto, carburante, guida turistica e go-kart inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di settantacinque minuti in **go-kart** porta l'uso gratuito di una vasta scelta di costumi, le foto, il carburante, una guida turistica professionista, il go-kart stesso, e l'accesso agli armadietti. La GoPro (3.500 yen) e l'Insta360 con montaggio (13.500 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Uso gratuito di una vasta scelta di costumi",
+   "Foto!",
+   "Carburante",
+   "Guida turistica professionista",
+   "Go-kart",
+   "Accesso agli armadietti"
+  ],
+  "notIncluded": [
+   "GoPro: 3.500 yen",
+   "Insta360 con montaggio: 13.500 yen"
+  ]
+ },
+ "osaka-food-tour-20-dishes-at-4-local-eateries-by-local-operator": {
+  "title": "Tour gastronomico di Osaka: 20 piatti in 4 locali tipici, con operatore locale",
+  "metaTitle": "Osaka: 20 piatti in 4 locali tipici",
+  "metaDescription": "Tre ore tra un bar locale e Shinsekai con la visita a quattro locali tipici selezionati con cura, 15 degustazioni autentiche e due bevande incluse.",
+  "shortDescription": "Tre ore tra un bar locale e Shinsekai con la visita a quattro locali tipici selezionati con cura, 15 degustazioni autentiche e due bevande incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. **Shinsekai** è il quartiere retrò sotto la torre Tsutenkaku.\n\nQuesto tour gastronomico di tre ore porta la visita a **quattro locali tipici** selezionati con cura, 15 degustazioni autentiche di cucina giapponese, due bevande (alcoliche o analcoliche), e un tour a piedi guidato da un esperto locale, tra un bar locale e **Shinsekai**. Cibo e bevande aggiuntivi oltre le degustazioni incluse, l'adattamento completo per diete vegetariane (le degustazioni possono essere limitate), e l'adattamento completo per diete senza glutine, allergie o altre restrizioni specifiche restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita a 4 locali tipici selezionati con cura",
+   "15 degustazioni autentiche di cucina giapponese",
+   "2 bevande (alcoliche o analcoliche)",
+   "Tour a piedi guidato da un esperto locale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande aggiuntivi oltre le degustazioni incluse",
+   "Adattamento completo per diete vegetariane (le degustazioni possono essere limitate)",
+   "Adattamento completo per diete senza glutine, allergie o altre restrizioni specifiche"
+  ]
+ },
+ "iga-full-day-private-and-unique-guided-ninja-experience-in-osaka": {
+  "title": "Iga: esperienza ninja privata e unica, guidata, di una giornata intera, da Osaka",
+  "metaTitle": "Iga: esperienza ninja privata di un giorno",
+  "metaDescription": "Cinque ore tra il Museo Danjiri e il Museo dei Ninja Iga-ryu, con guida e relative tariffe e i biglietti d'ingresso inclusi.",
+  "shortDescription": "Cinque ore tra il Museo Danjiri e il Museo dei Ninja Iga-ryu, con guida e relative tariffe e i biglietti d'ingresso inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza privata e unica di una giornata intera, di cinque ore, da Osaka, porta la guida e le relative tariffe (trasporto, pranzo e biglietti d'ingresso della guida), e i biglietti d'ingresso (Museo dei Ninja Iga e Casa dei Ninja), tra il **Museo Danjiri** e il **Museo dei Ninja Iga-ryu**. I costi di trasporto (gratuiti per i possessori di JR Pass) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida e relative tariffe (trasporto, pranzo e biglietti d'ingresso della guida)",
+   "Biglietti d'ingresso (Museo dei Ninja Iga e Casa dei Ninja)"
+  ],
+  "notIncluded": [
+   "Costi di trasporto (gratuiti per i possessori di JR Pass)"
+  ]
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
