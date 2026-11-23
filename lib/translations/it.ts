@@ -43150,6 +43150,167 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "authentic-tea-ceremony-calligraphy-in-kyoto-with-river-view-by-local-operator": {
+  "title": "Autentica cerimonia del tè e calligrafia a Kyoto con vista sul fiume, con operatore locale",
+  "metaTitle": "Cerimonia del tè e calligrafia con vista sul fiume",
+  "metaDescription": "Un'ora a Kyoto con una lezione di cerimonia del tè, dolci tradizionali giapponesi, una lezione di calligrafia giapponese e il noleggio di un haori.",
+  "shortDescription": "Un'ora a Kyoto con una lezione di cerimonia del tè, dolci tradizionali giapponesi, una lezione di calligrafia giapponese e il noleggio di un haori.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha.\n\nQuesta esperienza di un'ora, con vista sul fiume, porta una lezione di **cerimonia del tè** (solo nel piano cerimonia del tè autentica o nel piano combinato con calligrafia), dolci tradizionali giapponesi (stesso piano), una lezione di **calligrafia giapponese** (solo nel piano laboratorio di calligrafia o nel piano combinato), carta washi (stesso piano), e il noleggio di un haori.",
+  "highlights": [],
+  "included": [
+   "Lezione di cerimonia del tè (piano cerimonia del tè autentica o piano combinato con calligrafia)",
+   "Dolci tradizionali giapponesi (stesso piano)",
+   "Lezione di calligrafia giapponese (piano laboratorio di calligrafia o piano combinato)",
+   "Carta washi (stesso piano)",
+   "Noleggio di un haori"
+  ],
+  "notIncluded": []
+ },
+ "simple-plan-with-maiko-in-kyoto": {
+  "title": "Piano semplice con una maiko a Kyoto",
+  "metaTitle": "Piano semplice con una maiko, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto con il piano semplice con una maiko, gratuito per i bambini sotto i 2 anni, con posti e snack opzionali disponibili.",
+  "shortDescription": "Un'ora e mezza a Kyoto con il piano semplice con una maiko, gratuito per i bambini sotto i 2 anni, con posti e snack opzionali disponibili.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi.\n\nQuesta esperienza di un'ora e mezza porta il piano semplice con una **maiko**, gratuito per i bambini sotto i 2 anni (se è richiesto un posto o un pasto, si applica la stessa tariffa di una persona). Le seguenti opzioni restano a carico del cliente, da scegliere al momento della prenotazione se desiderate: snack e bevanda, 500 yen; posto SS (prima fila), 3.300 yen; posto S2 (seconda fila), 2.200 yen; posto S3 (terza fila), 1.100 yen.",
+  "highlights": [],
+  "included": [
+   "Piano semplice con una maiko",
+   "Gratuito per i bambini sotto i 2 anni (se è richiesto un posto o un pasto, si applica la stessa tariffa di una persona)"
+  ],
+  "notIncluded": [
+   "Le seguenti opzioni non sono incluse nel prezzo",
+   "Se desiderate una di queste, selezionatela al momento della prenotazione",
+   "Opzione snack e bevanda: 500 yen",
+   "Posto SS (prima fila): 3.300 yen",
+   "Posto S2 (seconda fila): 2.200 yen",
+   "Posto S3 (terza fila): 1.100 yen"
+  ]
+ },
+ "fushimi-inari-shrine-and-torii-gates-guided-tour": {
+  "title": "Tour guidato al Santuario Fushimi Inari e ai cancelli torii",
+  "metaTitle": "Fushimi Inari e i cancelli torii, tour guidato",
+  "metaDescription": "Un'ora e mezza al Santuario Fushimi Inari con una guida esperta locale in lingua inglese e la visita guidata al santuario incluse.",
+  "shortDescription": "Un'ora e mezza al Santuario Fushimi Inari con una guida esperta locale in lingua inglese e la visita guidata al santuario incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri, dietro la sala principale. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesta esperienza di un'ora e mezza porta una guida esperta locale in lingua inglese e la visita guidata al **Fushimi Inari Taisha**. Pasti e il trasporto da e per il punto di incontro restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta locale in lingua inglese",
+   "Visita guidata al Fushimi Inari Taisha"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Trasporto da e per il punto di incontro"
+  ]
+ },
+ "katsuoji-kinkakuji-arashiyama-1-day-bus-tour": {
+  "title": "Katsuoji, Kinkakuji, Arashiyama: tour in bus di un giorno",
+  "metaTitle": "Katsuoji, Kinkakuji, Arashiyama in bus",
+  "metaDescription": "Nove ore tra il Tempio Katsuo-ji, Arashiyama e Kinkakujicho, con guida in inglese o cinese, trasferimenti andata e ritorno e pedaggi inclusi.",
+  "shortDescription": "Nove ore tra il Tempio Katsuo-ji, Arashiyama e Kinkakujicho, con guida in inglese o cinese, trasferimenti andata e ritorno e pedaggi inclusi.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30.\n\nQuesto tour in bus di un giorno, di nove ore, collega il **Tempio Katsuo-ji**, **Arashiyama** e **Kinkakujicho**, con una guida in inglese o cinese, trasferimenti andata e ritorno dal punto di incontro, pedaggi, tariffe di parcheggio e carburante inclusi. L'ingresso al Tempio Katsuo-ji e al Tempio Kinkaku-ji, i pasti e le bevande, altre spese personali e l'assicurazione restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in inglese o cinese",
+   "Trasferimenti andata e ritorno dal punto di incontro",
+   "Pedaggi",
+   "Tariffe di parcheggio",
+   "Carburante"
+  ],
+  "notIncluded": [
+   "Ingresso al Tempio Katsuo-ji e al Tempio Kinkaku-ji",
+   "Pasti e bevande",
+   "Altre spese personali",
+   "Assicurazione"
+  ]
+ },
+ "early-access-fushimi-inari-private-walking-tour": {
+  "title": "Accesso anticipato al Fushimi Inari: tour a piedi privato",
+  "metaTitle": "Fushimi Inari all'alba, tour privato",
+  "metaDescription": "Tre ore al Fushimi Inari con accesso anticipato, tour a piedi privato, guida dal vivo e approfondimenti culturali inclusi.",
+  "shortDescription": "Tre ore al Fushimi Inari con accesso anticipato, tour a piedi privato, guida dal vivo e approfondimenti culturali inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. È aperto 24 ore su 24 ed è gratuito, il che lo rende visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati.\n\nQuesto tour a piedi privato di tre ore, con accesso anticipato, porta un tour guidato dal vivo, approfondimenti culturali, e occasioni fotografiche, al **Fushimi Inari Taisha**. Acqua e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi privato",
+   "Guida dal vivo",
+   "Approfondimenti culturali",
+   "Occasioni fotografiche"
+  ],
+  "notIncluded": [
+   "Acqua e bevande"
+  ]
+ },
+ "kyoto-shinkyogoku-custom-fragrance-workshop-by-local-operator": {
+  "title": "Kyoto Shinkyogoku: laboratorio di profumo personalizzato, con operatore locale",
+  "metaTitle": "Profumo personalizzato a Shinkyogoku, Kyoto",
+  "metaDescription": "Trenta minuti a Kyoto per creare un profumo personalizzato, con una consulenza con un esperto di profumi inclusa.",
+  "shortDescription": "Trenta minuti a Kyoto per creare un profumo personalizzato, con una consulenza con un esperto di profumi inclusa.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto laboratorio di trenta minuti a **Shinkyogoku** porta la creazione di un **profumo personalizzato** e una consulenza con un esperto di profumi.",
+  "highlights": [],
+  "included": [
+   "Creazione di un profumo personalizzato",
+   "Consulenza con un esperto di profumi"
+  ],
+  "notIncluded": []
+ },
+ "exclusive-architecture-tour-in-taisho-heritage-home-in-kyoto": {
+  "title": "Tour esclusivo di architettura in una casa storica dell'era Taisho a Kyoto",
+  "metaTitle": "Casa storica dell'era Taisho, tour di architettura",
+  "metaDescription": "Un'ora e mezza a Kyoto con un tour guidato e il servizio del tè all'interno della casa storica Hachikuan incluse.",
+  "shortDescription": "Un'ora e mezza a Kyoto con un tour guidato e il servizio del tè all'interno della casa storica Hachikuan incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour esclusivo di architettura di un'ora e mezza, in una casa storica dell'**era Taisho**, porta il tour guidato e il servizio del tè all'interno di **Hachikuan**. Il trasporto da e per il luogo resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato di 1,5 ore",
+   "Servizio del tè all'interno di Hachikuan"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il luogo"
+  ]
+ },
+ "hanakoushi-shibori-cotton-scarf-class-in-kyoto": {
+  "title": "Corso di sciarpa in cotone con la tecnica shibori hanakoushi a Kyoto",
+  "metaTitle": "Sciarpa shibori hanakoushi, Kyoto",
+  "metaDescription": "Un'ora a Kyoto per creare una sciarpa in cotone con la tecnica shibori hanakoushi, con ingresso gratuito al Museo Shibori di Kyoto incluso.",
+  "shortDescription": "Un'ora a Kyoto per creare una sciarpa in cotone con la tecnica shibori hanakoushi, con ingresso gratuito al Museo Shibori di Kyoto incluso.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto laboratorio di un'ora porta la creazione di una sciarpa in cotone con la tecnica **shibori hanakoushi**, e i partecipanti ricevono l'ingresso gratuito al **Museo Shibori di Kyoto**, normalmente a pagamento con una tariffa di 1.000 yen.",
+  "highlights": [],
+  "included": [
+   "I partecipanti al laboratorio ricevono l'ingresso gratuito al Museo Shibori di Kyoto, normalmente a 1.000 yen"
+  ],
+  "notIncluded": []
+ },
+ "japanese-language-and-origami-class-in-kyoto": {
+  "title": "Corso di lingua giapponese e origami a Kyoto",
+  "metaTitle": "Lingua giapponese e origami, Kyoto",
+  "metaDescription": "Un'ora a Kyoto con una breve lezione pratica di giapponese, origami pratico, tè e uno snack locale, con consigli di viaggio inclusi.",
+  "shortDescription": "Un'ora a Kyoto con una breve lezione pratica di giapponese, origami pratico, tè e uno snack locale, con consigli di viaggio inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di un'ora porta una breve e pratica lezione di **lingua giapponese**, la creazione pratica di **origami**, tè e un piccolo snack locale, e consigli di viaggio e segreti locali.",
+  "highlights": [],
+  "included": [
+   "Breve e pratica lezione di lingua giapponese",
+   "Creazione pratica di origami",
+   "Tè e un piccolo snack locale",
+   "Consigli di viaggio e segreti locali"
+  ],
+  "notIncluded": []
+ },
+ "samurai-ninja-museum-guided-tour-in-kyoto": {
+  "title": "Tour guidato al Museo dei Samurai e Ninja a Kyoto",
+  "metaTitle": "Museo dei Samurai e Ninja, Kyoto",
+  "metaDescription": "Un'ora a Kyoto al Museo dei Samurai e Ninja, con guida professionista, costume da samurai e lancio di shuriken ninja inclusi.",
+  "shortDescription": "Un'ora a Kyoto al Museo dei Samurai e Ninja, con guida professionista, costume da samurai e lancio di shuriken ninja inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di un'ora al **Museo dei Samurai e Ninja** porta il tour del museo con una guida professionista, il costume da **samurai**, e il lancio di **shuriken ninja**. Il trasporto da e per le attrazioni resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour del museo con guida professionista",
+   "Costume da samurai",
+   "Lancio di shuriken ninja"
+  ],
+  "notIncluded": [
+   "Trasporto da e per le attrazioni"
+  ]
+ },
  "nara-wagashi-workshop-with-matcha-tasting": {
   "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
   "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
