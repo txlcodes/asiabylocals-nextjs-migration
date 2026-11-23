@@ -37484,6 +37484,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pasti e costi di trasporto"
   ]
  },
+ "custom-japanese-knife-making-workshop-in-arashiyama": {
+  "title": "Laboratorio di creazione di un coltello giapponese personalizzato, ad Arashiyama",
+  "metaTitle": "Coltello giapponese, Arashiyama",
+  "metaDescription": "Un'ora a Kyoto con un coltello da cucina giapponese per il laboratorio e la scelta tra combinazioni di lame e manici incluse.",
+  "shortDescription": "Un'ora a Kyoto con un coltello da cucina giapponese per il laboratorio e la scelta tra combinazioni di lame e manici incluse.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero di bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle fotografie sono scattate prima delle 7:30; a metà mattina è già una processione di persone. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola, e le gite in barca lungo le rapide di Hozu partono tutte da qui. I colori autunnali raggiungono il picco nella seconda metà di novembre, e i fiori di ciliegio intorno alla prima settimana di aprile.\n\nQuesta esperienza di un'ora a Kyoto porta un coltello da cucina giapponese per il laboratorio, la scelta tra combinazioni di lame e manici, l'esperienza di affilatura del **coltello**, il montaggio e la finitura del manico, la timbratura iniziale, l'uso di tutti gli strumenti e le attrezzature del laboratorio, la guida passo dopo passo dell'istruttore, e il coltello giapponese finito da portare a casa; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per il laboratorio resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Coltello da cucina giapponese per il laboratorio",
+   "Scelta tra combinazioni di lame e manici",
+   "Esperienza di affilatura del coltello",
+   "Montaggio e finitura del manico",
+   "Timbratura iniziale",
+   "Uso di tutti gli strumenti e le attrezzature del laboratorio",
+   "Guida passo dopo passo dell'istruttore",
+   "Coltello giapponese finito da portare a casa"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il laboratorio"
+  ]
+ },
+ "nijo-castle-admission-world-heritage-guided-tour-in-kyoto": {
+  "title": "Ingresso al Castello Nijo, tour guidato al patrimonio mondiale, a Kyoto",
+  "metaTitle": "Castello Nijo, patrimonio mondiale",
+  "metaDescription": "Un'ora e mezza da Kyoto al Castello Nijo, con l'ingresso al Castello Nijo e un tour guidato di un'ora e mezza incluse.",
+  "shortDescription": "Un'ora e mezza da Kyoto al Castello Nijo, con l'ingresso al Castello Nijo e un tour guidato di un'ora e mezza incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora e mezza da Kyoto è costruita intorno al **Castello Nijo**. L'ingresso al Castello Nijo e un tour guidato di un'ora e mezza sono inclusi nel prezzo; il punto d'incontro è la Stazione di Nijojo-mae (Castello Nijo).",
+  "highlights": [],
+  "included": [
+   "Ingresso al Castello Nijo",
+   "Tour guidato di un'ora e mezza"
+  ],
+  "notIncluded": []
+ },
+ "best-of-kyoto-ginkakuji-and-path-of-philosophy-e-bike-tour-by-local-operator": {
+  "title": "Il meglio di Kyoto: il Ginkakuji e il Sentiero del Filosofo, tour in e-bike, con operatore locale",
+  "metaTitle": "Ginkakuji e Sentiero del Filosofo",
+  "metaDescription": "Quattro ore da Kyoto tra il Tempio Ginkaku-ji e il Tempio Nanzenji, con il noleggio dell'e-bike, la guida turistica e i biglietti d'ingresso ai giardini incluse.",
+  "shortDescription": "Quattro ore da Kyoto tra il Tempio Ginkaku-ji e il Tempio Nanzenji, con il noleggio dell'e-bike, la guida turistica e i biglietti d'ingresso ai giardini incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di quattro ore da Kyoto è costruita intorno al **Tempio Ginkaku-ji**, al **Tempio Nanzenji** e al Santuario Heian. Il noleggio dell'e-bike, la guida turistica, i biglietti d'ingresso ai giardini, e i caschi sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pick-up e il drop-off in hotel, e il pranzo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio dell'e-bike",
+   "Guida turistica",
+   "Biglietti d'ingresso ai giardini",
+   "Caschi"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Pranzo"
+  ]
+ },
+ "nighttime-zen-meditation-and-matcha-tea-experience-in-kyoto": {
+  "title": "Meditazione zen notturna e esperienza con il tè matcha, a Kyoto",
+  "metaTitle": "Meditazione zen notturna, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto con una visita notturna speciale al Tempio Keishunin e la visita a quattro giardini designati come siti storici nazionali incluse.",
+  "shortDescription": "Un'ora e mezza a Kyoto con una visita notturna speciale al Tempio Keishunin e la visita a quattro giardini designati come siti storici nazionali incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora e mezza a Kyoto porta una visita notturna speciale al **Tempio Keishunin**, la visita a quattro giardini designati come siti storici e paesaggistici nazionali, la visita alla sala da tè nascosta \"Sehakuan\", la visione dei dipinti su fusuma di Kano Sansetsu, un'esperienza di meditazione **zazen**, e tè matcha con un dolce giapponese; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per il punto d'incontro, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita notturna speciale al Tempio Keishunin",
+   "Visita a quattro giardini designati come siti storici e paesaggistici nazionali",
+   "Visita alla sala da tè nascosta \"Sehakuan\"",
+   "Visione dei dipinti su fusuma di Kano Sansetsu",
+   "Esperienza di meditazione zazen",
+   "Tè matcha con un dolce giapponese"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto d'incontro",
+   "Spese personali"
+  ]
+ },
+ "kid-friendly-ninja-class-at-the-samurai-ninja-museum-in-kyoto": {
+  "title": "Corso di ninja adatto ai bambini al Museo dei Samurai e Ninja, a Kyoto",
+  "metaTitle": "Corso di ninja per bambini, Kyoto",
+  "metaDescription": "Due ore a Kyoto con il biglietto d'ingresso, un costume da ninja per trasformarsi in un ninja moderno, e una sessione di addestramento ninja autentica incluse.",
+  "shortDescription": "Due ore a Kyoto con il biglietto d'ingresso, un costume da ninja per trasformarsi in un ninja moderno, e una sessione di addestramento ninja autentica incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di due ore a Kyoto porta il biglietto d'ingresso, un costume da **ninja** per trasformarsi in un ninja moderno, una sessione di addestramento ninja autentica e speciale, e l'apprendimento delle tecniche segrete di furtività dei ninja; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per le attrazioni, e la partecipazione dei bambini sotto i 3 anni all'esperienza ninja (possono entrare nel locale, ma non partecipare) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso",
+   "Costume da ninja per trasformarsi in un ninja moderno",
+   "Sessione di addestramento ninja autentica e speciale",
+   "Apprendimento delle tecniche segrete di furtività dei ninja"
+  ],
+  "notIncluded": [
+   "Trasporto da e per le attrazioni",
+   "I bambini sotto i 3 anni non possono partecipare all'esperienza ninja, ma possono entrare nel locale"
+  ]
+ },
+ "distrito-de-las-geishas-al-atardecer-tour-en-gion": {
+  "title": "Il distretto delle geisha al tramonto, tour a Gion",
+  "metaTitle": "Distretto delle geisha, tramonto",
+  "metaDescription": "Due ore da Kyoto tra il Vicolo Pontocho e il Canale di Shirakawa, con una guida esperta locale madrelingua spagnola inclusa.",
+  "shortDescription": "Due ore da Kyoto tra il Vicolo Pontocho e il Canale di Shirakawa, con una guida esperta locale madrelingua spagnola inclusa.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di due ore da Kyoto è costruita intorno al **Vicolo Pontocho**, al **Canale di Shirakawa** e al Santuario Yasaka. Una guida esperta locale madrelingua spagnola è inclusa nel prezzo; il punto d'incontro è il McDonald's presso il ponte Shijo-ohashi.",
+  "highlights": [],
+  "included": [
+   "Guida esperta locale madrelingua spagnola"
+  ],
+  "notIncluded": []
+ },
+ "sacred-pathways-discover-the-philosopher-s-path-of-kyoto-by-local-operator": {
+  "title": "Sentieri sacri: alla scoperta del Sentiero del Filosofo di Kyoto, con operatore locale",
+  "metaTitle": "Sentiero del Filosofo, Kyoto",
+  "metaDescription": "Quattro ore a Kyoto con tutti i biglietti d'ingresso, una guida bilingue e una guida digitale della città incluse.",
+  "shortDescription": "Quattro ore a Kyoto con tutti i biglietti d'ingresso, una guida bilingue e una guida digitale della città incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di quattro ore a Kyoto porta tutti i biglietti d'ingresso, una guida bilingue, e una guida digitale della città; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo, bevande, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tutti i biglietti d'ingresso",
+   "Guida bilingue",
+   "Guida digitale della città"
+  ],
+  "notIncluded": [
+   "Cibo",
+   "Bevande",
+   "Mance"
+  ]
+ },
+ "best-of-kyoto-red-gates-of-fushimi-inari-and-kiyomizu-temple-by-local-operator": {
+  "title": "Il meglio di Kyoto: i cancelli rossi del Fushimi Inari e il Tempio Kiyomizu, con operatore locale",
+  "metaTitle": "Fushimi Inari e Kiyomizu",
+  "metaDescription": "Tre ore da Kyoto tra il Fushimi Inari Taisha e il Kiyomizu-dera, con guida, tariffe del treno, tariffe del taxi e biglietti d'ingresso incluse.",
+  "shortDescription": "Tre ore da Kyoto tra il Fushimi Inari Taisha e il Kiyomizu-dera, con guida, tariffe del treno, tariffe del taxi e biglietti d'ingresso incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, formano gallerie che salgono il Monte Inari, alto 233 metri, dietro la sala principale. L'anello completo fino alla cima è lungo circa quattro chilometri e dura due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande luogo di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie inferiori sono già una coda lenta. Le statue delle volpi portano in bocca le chiavi del granaio di riso.\n\nQuesta esperienza di tre ore da Kyoto è costruita intorno al **Fushimi Inari Taisha** e al **Kiyomizu-dera**. La guida, le tariffe del treno, le tariffe del taxi, e i biglietti d'ingresso sono inclusi nel prezzo; il punto d'incontro è davanti all'entrata della Stazione di Inari. Il pick-up e il drop-off in hotel, cibo e bevande, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Tariffe del treno",
+   "Tariffe del taxi",
+   "Biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
+ "escape-the-crowds-with-a-private-japanese-sound-bath-in-kyoto": {
+  "title": "Fuggi dalla folla con un bagno di suoni giapponese privato, a Kyoto",
+  "metaTitle": "Bagno di suoni privato, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto con una guida turistica, un bagno di suoni e un'esperienza pratica di suonare uno strumento incluse.",
+  "shortDescription": "Un'ora e mezza a Kyoto con una guida turistica, un bagno di suoni e un'esperienza pratica di suonare uno strumento incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora e mezza a Kyoto porta una guida turistica, un **bagno di suoni**, e un'esperienza pratica di suonare uno strumento come laboratorio; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Non sono disponibili pasti.",
+  "highlights": [],
+  "included": [
+   "Guida turistica",
+   "Bagno di suoni",
+   "Esperienza pratica di suonare uno strumento come laboratorio"
+  ],
+  "notIncluded": [
+   "Non sono disponibili pasti"
+  ]
+ },
+ "arashiyama-unesco-walking-tour-with-admission": {
+  "title": "Arashiyama, tour a piedi patrimonio UNESCO con ingresso",
+  "metaTitle": "Arashiyama UNESCO, tour a piedi",
+  "metaDescription": "Un'ora e mezza da Kyoto tra il Tempio Tenryuji e il Bosco di Bambù di Sagano, con il biglietto d'ingresso al Tempio Tenryuji e la guida incluse.",
+  "shortDescription": "Un'ora e mezza da Kyoto tra il Tempio Tenryuji e il Bosco di Bambù di Sagano, con il biglietto d'ingresso al Tempio Tenryuji e la guida incluse.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero di bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle fotografie sono scattate prima delle 7:30; a metà mattina è già una processione di persone. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola, e le gite in barca lungo le rapide di Hozu partono tutte da qui. I colori autunnali raggiungono il picco nella seconda metà di novembre, e i fiori di ciliegio intorno alla prima settimana di aprile.\n\nQuesta esperienza di un'ora e mezza da Kyoto è costruita intorno al **Tempio Tenryuji**, al **Bosco di Bambù di Sagano** e al ponte Togetsu-kyo. Il biglietto d'ingresso al Tempio Tenryuji e la guida sono inclusi nel prezzo; il punto d'incontro è il Chopsticks Studio Kyoto.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Tempio Tenryuji",
+   "Guida"
+  ],
+  "notIncluded": []
+ },
  "hiroshima-highlights-private-tour": {
   "title": "Tour privato dei punti salienti di Hiroshima: Memoriale della Pace, castello e Shukkei-en",
   "metaTitle": "Tour privato dei punti salienti di Hiroshima",
