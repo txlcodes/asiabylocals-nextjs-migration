@@ -43613,6 +43613,191 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "arashiyama-highlights-and-hozu-river-boat-private-tour": {
+  "title": "I luoghi iconici di Arashiyama e la crociera in barca sul fiume Hozu: tour privato",
+  "metaTitle": "Arashiyama e il fiume Hozu, tour privato",
+  "metaDescription": "Sei ore e mezza ad Arashiyama con guida locale, foto digitali scattate dalla guida, e biglietti per la crociera sul Hozu, Okochi Sanso e il Monkey Park inclusi.",
+  "shortDescription": "Sei ore e mezza ad Arashiyama con guida locale, foto digitali scattate dalla guida, e biglietti per la crociera sul Hozu, Okochi Sanso e il Monkey Park inclusi.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione.\n\nQuesto tour privato di sei ore e mezza porta una guida locale in lingua inglese, foto digitali scattate dalla guida durante il tour, il biglietto prenotato in anticipo per la **crociera in barca sul fiume Hozu** (6.000 yen), l'ingresso alla **Villa Okochi Sanso** (1.000 yen), e l'ingresso al **Monkey Park** (800 yen). Il pranzo o i pasti (gli ospiti possono scegliere opzioni di ristorazione locale con i consigli della guida) e le mance, facoltative, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale in lingua inglese",
+   "Foto digitali scattate dalla guida durante il tour",
+   "Biglietto prenotato in anticipo per la crociera sul fiume Hozu (6.000 yen), ingresso alla Villa Okochi Sanso (1.000 yen) e ingresso al Monkey Park (800 yen)"
+  ],
+  "notIncluded": [
+   "Pranzo/pasti (gli ospiti possono scegliere opzioni di ristorazione locale con i consigli della guida)",
+   "Mance (facoltative)"
+  ]
+ },
+ "kifune-shrine-and-scenic-train-small-group-day-tour-in-kyoto": {
+  "title": "Santuario Kifune e treno panoramico: tour di un giorno in piccolo gruppo a Kyoto",
+  "metaTitle": "Santuario Kifune e treno panoramico, Kyoto",
+  "metaDescription": "Dieci ore tra il Nanzen-ji, il Tempio Sanzen-in e il Santuario Kifune, con biglietto della ferrovia Eizan, trasporto, pedaggi e autista inclusi.",
+  "shortDescription": "Dieci ore tra il Nanzen-ji, il Tempio Sanzen-in e il Santuario Kifune, con biglietto della ferrovia Eizan, trasporto, pedaggi e autista inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour di un giorno in piccolo gruppo, di dieci ore, collega il **Nanzen-ji**, il **Tempio Sanzen-in** e il **Santuario Kifune**, con il biglietto della **ferrovia Eizan**, il servizio di trasporto, i pedaggi autostradali, le tariffe di parcheggio e un autista professionista. Pranzo, cibo e bevande, e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto della ferrovia Eizan",
+   "Servizio di trasporto",
+   "Pedaggi autostradali",
+   "Tariffe di parcheggio",
+   "Autista professionista"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "traditional-mochi-pounding-experience-with-tasting-in-kyoto": {
+  "title": "Esperienza tradizionale di battitura del mochi con degustazione a Kyoto",
+  "metaTitle": "Battitura del mochi con degustazione, Kyoto",
+  "metaDescription": "Un'ora a Kyoto per la battitura tradizionale del mochi, con diversi tipi di mochi, un giovane istruttore in lingua inglese e bevande incluse.",
+  "shortDescription": "Un'ora a Kyoto per la battitura tradizionale del mochi, con diversi tipi di mochi, un giovane istruttore in lingua inglese e bevande incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di un'ora porta diversi tipi di **mochi**, un giovane istruttore in lingua inglese, e bevande da accompagnare al mochi.",
+  "highlights": [],
+  "included": [
+   "Diversi tipi di mochi",
+   "Giovane istruttore in lingua inglese",
+   "Bevande da accompagnare al mochi"
+  ],
+  "notIncluded": []
+ },
+ "kintsugi-workshop-restore-ceramics-with-gold-in-kyoto": {
+  "title": "Laboratorio di kintsugi: restaura la ceramica con l'oro a Kyoto",
+  "metaTitle": "Kintsugi: restauro della ceramica con l'oro",
+  "metaDescription": "Un'ora a Kyoto per un laboratorio di kintsugi, con tutti i materiali e gli strumenti necessari e la guida di un istruttore incluse.",
+  "shortDescription": "Un'ora a Kyoto per un laboratorio di kintsugi, con tutti i materiali e gli strumenti necessari e la guida di un istruttore incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto laboratorio di un'ora porta l'esperienza di **kintsugi**, tutti i materiali e gli strumenti necessari, e la guida di un istruttore.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di kintsugi",
+   "Tutti i materiali e gli strumenti necessari",
+   "Guida di un istruttore"
+  ],
+  "notIncluded": []
+ },
+ "crowd-free-kyoto-fushimi-inari-nijo-castle-and-kinkaku-ji-by-local-operator": {
+  "title": "Kyoto senza folla: Fushimi Inari, Castello Nijo e Kinkaku-ji, con operatore locale",
+  "metaTitle": "Kyoto senza folla: Fushimi Inari, Nijo, Kinkaku-ji",
+  "metaDescription": "Cinque ore tra il Fushimi Inari Taisha, il Castello Nijo e il Kinkaku-ji, con approfondimenti locali inclusi.",
+  "shortDescription": "Cinque ore tra il Fushimi Inari Taisha, il Castello Nijo e il Kinkaku-ji, con approfondimenti locali inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesta esperienza di cinque ore porta approfondimenti locali, tra il **Fushimi Inari Taisha**, il **Castello Nijo** e il **Kinkaku-ji**. I biglietti dei trasporti pubblici e i biglietti d'ingresso restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Approfondimenti locali"
+  ],
+  "notIncluded": [
+   "Biglietti dei trasporti pubblici",
+   "Biglietti d'ingresso"
+  ]
+ },
+ "authentic-sumo-food-wrestler-challenge-photos-in-kyoto": {
+  "title": "Cibo autentico del sumo, sfida con un lottatore, foto a Kyoto",
+  "metaTitle": "Spettacolo di sumo, cibo e sfida con un lottatore",
+  "metaDescription": "Centocinque minuti a Kyoto con uno spettacolo di sumo, un pasto autentico di sumo, un presentatore dal vivo in inglese e una sessione fotografica gratuita.",
+  "shortDescription": "Centocinque minuti a Kyoto con uno spettacolo di sumo, un pasto autentico di sumo, un presentatore dal vivo in inglese e una sessione fotografica gratuita.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di centocinque minuti porta uno spettacolo di **sumo**, un pasto autentico di sumo (chankonabe, non incluso nello spettacolo delle 21:30), un presentatore dal vivo con spiegazioni in inglese, la possibilità di salire sul ring con un lottatore di sumo, una sessione fotografica gratuita con i lottatori, e la prima bevanda offerta. Lo spettacolo serale delle 21:30 non comprende la cena.",
+  "highlights": [],
+  "included": [
+   "Spettacolo di sumo",
+   "Pasto autentico di sumo (chankonabe) (la cena non è inclusa nello spettacolo delle 21:30)",
+   "Presentatore dal vivo con spiegazioni in inglese",
+   "Possibilità di salire sul ring con un lottatore di sumo",
+   "Sessione fotografica gratuita con i lottatori",
+   "Prima bevanda offerta"
+  ],
+  "notIncluded": [
+   "Lo spettacolo serale delle 21:30 non comprende la cena"
+  ]
+ },
+ "kintsugi-gold-repair-workshop-in-gion": {
+  "title": "Laboratorio di kintsugi, la riparazione in oro, a Gion",
+  "metaTitle": "Kintsugi, riparazione in oro, Gion",
+  "metaDescription": "Un'ora a Gion per un laboratorio di kintsugi, con tutti i materiali e gli strumenti necessari, un piatto e un istruttore in inglese inclusi.",
+  "shortDescription": "Un'ora a Gion per un laboratorio di kintsugi, con tutti i materiali e gli strumenti necessari, un piatto e un istruttore in inglese inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi.\n\nQuesto laboratorio di un'ora porta l'esperienza di **kintsugi**, la riparazione in oro, tutti i materiali e gli strumenti necessari, un piatto incluso, e un istruttore in lingua inglese. L'upgrade a un piatto premium e le mance, facoltative, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di kintsugi",
+   "Tutti i materiali e gli strumenti necessari per l'esperienza di kintsugi",
+   "Un piatto incluso",
+   "Istruttore in lingua inglese"
+  ],
+  "notIncluded": [
+   "Upgrade a un piatto premium (disponibile con un costo aggiuntivo)",
+   "Mance (facoltative)"
+  ]
+ },
+ "private-japanese-tea-ceremony-with-matcha-and-sweets-in-kyoto": {
+  "title": "Cerimonia del tè giapponese privata con matcha e dolci a Kyoto",
+  "metaTitle": "Cerimonia del tè privata con matcha e dolci",
+  "metaDescription": "Quarantacinque minuti a Kyoto con la storia della cerimonia del tè, l'esplorazione degli utensili e la preparazione del matcha incluse.",
+  "shortDescription": "Quarantacinque minuti a Kyoto con la storia della cerimonia del tè, l'esplorazione degli utensili e la preparazione del matcha incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha.\n\nQuesta esperienza privata di quarantacinque minuti porta la storia e il significato culturale della **cerimonia del tè**, l'esplorazione degli utensili del tè, la loro funzione e la cura, la pratica della corretta etichetta e delle tecniche di servizio, una dimostrazione dei gesti eleganti della cerimonia e dell'ospitalità stagionale, la preparazione del **matcha**, e la partecipazione a una sessione di domande e risposte. Pick-up e trasporto in hotel, il servizio di spedizione, l'assicurazione per gli effetti personali, le bevande alcoliche, l'acqua in bottiglia, e un kimono in due pezzi (disponibile a 1.000 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Storia e significato culturale della cerimonia del tè",
+   "Esplorazione degli utensili del tè, la loro funzione e la cura",
+   "Pratica della corretta etichetta e delle tecniche di servizio",
+   "Dimostrazione dei gesti eleganti della cerimonia e dell'ospitalità stagionale",
+   "Preparazione del matcha",
+   "Partecipazione a una sessione di domande e risposte"
+  ],
+  "notIncluded": [
+   "Pick-up e trasporto in hotel",
+   "Servizio di spedizione",
+   "Assicurazione per gli effetti personali",
+   "Bevande alcoliche",
+   "Acqua in bottiglia",
+   "Kimono in due pezzi (disponibile a 1.000 yen)"
+  ]
+ },
+ "kinkakuji-kiyomizu-and-fushimi-inari-tour-anime-spots": {
+  "title": "Kinkakuji, Kiyomizu e Fushimi Inari: tour tra i luoghi anime",
+  "metaTitle": "Kinkakuji, Kiyomizu, Fushimi Inari: luoghi anime",
+  "metaDescription": "Dieci ore tra il Kinkaku-ji, il Kiyomizu-dera e il Fushimi Inari Taisha, con pick-up da Osaka o Kyoto, veicolo fino a 10 ore incluso.",
+  "shortDescription": "Dieci ore tra il Kinkaku-ji, il Kiyomizu-dera e il Fushimi Inari Taisha, con pick-up da Osaka o Kyoto, veicolo fino a 10 ore incluso.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesto tour di dieci ore porta il pick-up da Osaka o Kyoto, il drop-off a Kyoto o Osaka, la visita al **Kinkaku-ji**, all'area del **Kiyomizu-dera**, e al **Santuario Fushimi Inari**, con la tariffa del servizio veicolo, i pedaggi e le tariffe autostradali, il servizio veicolo fino a 10 ore come previsto dalla legge giapponese, le tariffe del servizio di guida e autista, e un gruppo organizzato come piccolo gruppo di 1-13 persone o un gruppo in pullman di 14-45 persone, secondo il numero effettivo di partecipanti del giorno. Ogni ospite può portare un bagaglio gratuito nel veicolo; i bambini da 0 a 2 anni che non occupano un posto viaggiano gratis, dai 3 anni si applica la tariffa intera. Il noleggio del kimono, cibo e bevande, i biglietti per i templi, le attività opzionali non elencate nell'itinerario, le spese personali, e qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\" restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pick-up da Osaka o Kyoto, drop-off a Kyoto o Osaka",
+   "Visita al Kinkaku-ji",
+   "Visita all'area del Kiyomizu-dera",
+   "Visita al Santuario Fushimi Inari",
+   "Trasporto: tariffa del servizio veicolo, pedaggi e tariffe autostradali",
+   "Tempo di servizio: veicolo per fino a 10 ore (come previsto dalla legge giapponese)",
+   "Servizio di guida/autista: tariffe del servizio per la guida e l'autista",
+   "Nota sulla dimensione del gruppo: il tour si svolge come piccolo gruppo di 1-13 persone o gruppo in pullman di 14-45 persone, secondo il numero effettivo di partecipanti del giorno",
+   "Bagaglio: ogni ospite può mettere un bagaglio gratuito nel veicolo",
+   "Bambini da 0 a 2 anni (senza occupare un posto): gratis; dai 3 anni: tariffa intera"
+  ],
+  "notIncluded": [
+   "Noleggio del kimono",
+   "Cibo e bevande",
+   "Biglietti per i templi esclusi",
+   "Attività opzionali non elencate nell'itinerario",
+   "Spese personali",
+   "Qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\""
+  ]
+ },
+ "craft-metal-ninja-weapons-at-arashiyama-ninja-house": {
+  "title": "Crea armi ninja in metallo alla Casa dei Ninja di Arashiyama",
+  "metaTitle": "Armi ninja in metallo, Arashiyama",
+  "metaDescription": "Un'ora ad Arashiyama per un laboratorio di fusione di shuriken in metallo, con introduzione alla storia dei samurai e dei ninja e guida passo passo dello staff.",
+  "shortDescription": "Un'ora ad Arashiyama per un laboratorio di fusione di shuriken in metallo, con introduzione alla storia dei samurai e dei ninja e guida passo passo dello staff.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30.\n\nQuesto laboratorio di un'ora alla **Casa dei Ninja di Arashiyama** porta il laboratorio di fusione di **shuriken** in metallo, un'introduzione alla storia delle armi dell'era dei samurai e dei ninja, una guida passo passo dello staff, l'uso dei materiali di fusione e degli strumenti del laboratorio, e la possibilità di portare a casa le proprie creazioni fatte a mano.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di fusione di shuriken in metallo",
+   "Introduzione alla storia delle armi dell'era dei samurai e dei ninja",
+   "Guida passo passo dello staff",
+   "Uso dei materiali di fusione e degli strumenti del laboratorio",
+   "Possibilità di portare a casa le proprie creazioni fatte a mano"
+  ],
+  "notIncluded": []
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
