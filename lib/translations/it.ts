@@ -34436,6 +34436,190 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande aggiuntivi oltre i 3.000 yen inclusi"
   ]
  },
+ "nagoya-food-and-culture-tour-atsuta-shrine-and-osu-market-by-local-operator": {
+  "title": "Nagoya, tour tra cibo e cultura: il Santuario di Atsuta e il Mercato di Osu, con operatore locale",
+  "metaTitle": "Santuario di Atsuta e Mercato di Osu",
+  "metaDescription": "Tre ore da Nagoya tra il Santuario di Atsuta-jingu e il quartiere commerciale di Osu, con una guida locale e il cibo al Mercato di Osu inclusi.",
+  "shortDescription": "Tre ore da Nagoya tra il Santuario di Atsuta-jingu e il quartiere commerciale di Osu, con una guida locale e il cibo al Mercato di Osu inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di tre ore da Nagoya è costruita intorno al **Santuario di Atsuta-jingu**, al treno e al **quartiere commerciale di Osu**. La guida locale e il cibo locale al Mercato di Osu sono inclusi nel prezzo; il punto d'incontro è il primo torii. La tariffa di trasporto (a proprio carico) resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Cibo locale al Mercato di Osu"
+  ],
+  "notIncluded": [
+   "Tariffa di trasporto (a proprio carico)"
+  ]
+ },
+ "rie-asai-s-traditional-japanese-performing-arts-in-nagoya": {
+  "title": "Le arti dello spettacolo tradizionale giapponese di Rie Asai, a Nagoya",
+  "metaTitle": "Arti dello spettacolo tradizionale, Nagoya",
+  "metaDescription": "Un'ora e mezza a Nagoya con la tariffa di noleggio del koto e il biglietto d'ingresso inclusi.",
+  "shortDescription": "Un'ora e mezza a Nagoya con la tariffa di noleggio del koto e il biglietto d'ingresso inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di un'ora e mezza a Nagoya porta la tariffa di noleggio del **koto** e il biglietto d'ingresso; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto privato e i calzini restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa di noleggio del koto",
+   "Biglietto d'ingresso"
+  ],
+  "notIncluded": [
+   "Trasporto privato",
+   "Calzini"
+  ]
+ },
+ "let-s-have-fun-making-the-very-popular-takoyaki-in-nagoya": {
+  "title": "Divertiamoci a preparare il popolarissimo takoyaki, a Nagoya",
+  "metaTitle": "Preparazione del takoyaki, Nagoya",
+  "metaDescription": "Due ore a Nagoya con un corso di cucina, gli ingredienti usati, gli utensili da cucina e i grembiuli inclusi.",
+  "shortDescription": "Due ore a Nagoya con un corso di cucina, gli ingredienti usati, gli utensili da cucina e i grembiuli inclusi.",
+  "fullDescription": "Le gite di un giorno da Osaka hanno ciascuna una propria ragione. Himeji ha il castello meglio conservato del Giappone, l'Airone Bianco, un originale del 1609 con sei piani di interni in legno, il cui intonaco è stato riportato al bianco in un restauro completato nel 2015; la salita alla torre principale è impegnativa e la fila al momento dei fiori di ciliegio è lunga. Kobe ha il manzo, venduto a grado ai banchi dove lo si guarda cucinare, e il porto. Koyasan, due ore a sud, è la città-monastero di montagna fondata da Kukai nell'816, dove 117 templi si trovano in una foresta di cedri e il cimitero di Okunoin è il più grande del Giappone; una notte in uno shukubo, l'alloggio nei templi, con la shojin ryori vegetariana è la ragione per andarci.\n\nQuesta esperienza di due ore a Nagoya porta un corso di cucina, gli ingredienti usati, gli utensili da cucina, i grembiuli, e il tempo per l'assaggio; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto fino alla sede resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Corso di cucina",
+   "Ingredienti usati",
+   "Utensili da cucina",
+   "Grembiuli",
+   "Tempo per l'assaggio"
+  ],
+  "notIncluded": [
+   "Trasporto fino alla sede"
+  ]
+ },
+ "nagoya-highlights-toyota-samurai-culture-and-food-by-local-operator": {
+  "title": "I luoghi iconici di Nagoya: Toyota, samurai, cultura e cibo, con operatore locale",
+  "metaTitle": "Nagoya: Toyota, samurai, cultura",
+  "metaDescription": "Nove ore a Nagoya tra il Toyota Commemorative Museum of Industry and Technology e la metropolitana, con guida turistica di lingua inglese e tutti i biglietti d'ingresso al Castello di Nagoya e al museo Toyota inclusi.",
+  "shortDescription": "Nove ore a Nagoya tra il Toyota Commemorative Museum of Industry and Technology e la metropolitana, con guida turistica di lingua inglese e tutti i biglietti d'ingresso al Castello di Nagoya e al museo Toyota inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di nove ore a Nagoya è costruita intorno al treno, al **Toyota Commemorative Museum of Industry and Technology** e alla metropolitana. La guida turistica di lingua inglese, tutti i biglietti d'ingresso al **Castello di Nagoya** e al museo Toyota, e le tariffe dei trasporti pubblici sono inclusi nel prezzo. Le mance per la guida, le spese medico-sanitarie d'emergenza, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica di lingua inglese",
+   "Tutti i biglietti d'ingresso al Castello di Nagoya e al museo Toyota",
+   "Tariffe dei trasporti pubblici"
+  ],
+  "notIncluded": [
+   "Mance per la guida",
+   "Spese medico-sanitarie d'emergenza",
+   "Altre spese personali"
+  ]
+ },
+ "choose-meieki-sakae-kanayama-or-osu-bar-hop-in-nagoya": {
+  "title": "Scegli tra Meieki, Sakae, Kanayama o Osu: giro dei bar a Nagoya",
+  "metaTitle": "Giro dei bar, Nagoya",
+  "metaDescription": "Due ore da Nagoya con un tour guidato tra i bar, cibo e bevande fino a 1.500 yen a bar e visite a due bar locali incluse.",
+  "shortDescription": "Due ore da Nagoya con un tour guidato tra i bar, cibo e bevande fino a 1.500 yen a bar e visite a due bar locali incluse.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di due ore da Nagoya è costruita intorno a un ristorante locale. Il tour guidato tra i bar, il cibo e le bevande fino a 1.500 yen a bar (3.000 yen in totale), il giro dei bar nella zona a scelta, e le visite a due bar locali sono inclusi nel prezzo. Il trasporto da e per il punto d'incontro, e cibo e bevande oltre i 1.500 yen a bar restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato tra i bar",
+   "Cibo e bevande fino a 1.500 yen a bar (3.000 yen in totale)",
+   "Giro dei bar nella zona a scelta",
+   "Visite a due bar locali"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto d'incontro",
+   "Cibo e bevande oltre i 1.500 yen a bar"
+  ]
+ },
+ "nagoya-round-trip-ise-shrine-mikimoto-pearl-island-or-toba-aquarium-by-local-operator": {
+  "title": "Andata e ritorno da Nagoya: il Santuario di Ise, l'Isola delle Perle Mikimoto o l'Acquario di Toba, con operatore locale",
+  "metaTitle": "Santuario di Ise e Isola delle Perle",
+  "metaDescription": "Dieci ore da Nagoya con la visita al Grande Santuario di Ise, la visita all'Isola delle Perle Mikimoto o all'Acquario di Toba, e la visita al Santuario di Futami Okitama incluse.",
+  "shortDescription": "Dieci ore da Nagoya con la visita al Grande Santuario di Ise, la visita all'Isola delle Perle Mikimoto o all'Acquario di Toba, e la visita al Santuario di Futami Okitama incluse.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di dieci ore da Nagoya è costruita intorno al bus/pullman. La visita al **Grande Santuario di Ise**, la visita all'**Isola delle Perle Mikimoto** o all'**Acquario di Toba**, la visita al Santuario di Futami Okitama, e i piccoli gruppi da 1 a 13 persone, o i grandi gruppi in bus da 22 a 45 persone (la dimensione effettiva del gruppo può variare secondo il numero di partecipanti del giorno) sono inclusi nel prezzo; il punto d'incontro è il minimarket Ministop. Il pranzo, il biglietto d'ingresso all'Isola delle Perle Mikimoto, e il biglietto d'ingresso all'Acquario di Toba restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita al Grande Santuario di Ise",
+   "Visita all'Isola delle Perle Mikimoto o all'Acquario di Toba",
+   "Visita al Santuario di Futami Okitama",
+   "Piccoli gruppi da 1 a 13 persone, o grandi gruppi in bus da 22 a 45 persone (la dimensione effettiva del gruppo può variare secondo il numero di partecipanti del giorno)"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Biglietto d'ingresso all'Isola delle Perle Mikimoto",
+   "Biglietto d'ingresso all'Acquario di Toba"
+  ]
+ },
+ "historic-miso-brewery-tour-and-sushi-roll-making-in-nagoya": {
+  "title": "Tour storico in una fabbrica di miso e preparazione di sushi roll, a Nagoya",
+  "metaTitle": "Fabbrica di miso e sushi roll, Nagoya",
+  "metaDescription": "Due ore a Nagoya con un tour guidato della fabbrica di miso Sato Jozo e un'introduzione alla fermentazione giapponese incluse.",
+  "shortDescription": "Due ore a Nagoya con un tour guidato della fabbrica di miso Sato Jozo e un'introduzione alla fermentazione giapponese incluse.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di due ore a Nagoya porta un tour guidato della fabbrica di miso **Sato Jozo**, un'introduzione alla fermentazione giapponese, con le varietà di miso, la salsa di soia e le tecniche di produzione tradizionali, una lezione pratica di preparazione di sushi roll e zuppa di miso, il grembiule e tutti gli utensili da cucina necessari, l'assaggio del proprio sushi roll e della zuppa di miso fatti in casa, e un'istruzione adatta a chi parla inglese; il punto d'incontro è la fabbrica di miso e salsa di soia Sato Brewery Co., Ltd., a Shippo. Il trasporto da e per la sede resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato della fabbrica di miso Sato Jozo",
+   "Introduzione alla fermentazione giapponese, con le varietà di miso, la salsa di soia e le tecniche di produzione tradizionali",
+   "Lezione pratica di preparazione di sushi roll e zuppa di miso",
+   "Grembiule e tutti gli utensili da cucina necessari",
+   "Assaggio del proprio sushi roll e della zuppa di miso fatti in casa",
+   "Istruzione adatta a chi parla inglese"
+  ],
+  "notIncluded": [
+   "Trasporto da e per la sede"
+  ]
+ },
+ "gujo-hachiman-snow-park-and-onsen-day-trip-in-nagoya": {
+  "title": "Gujo Hachiman, parco sulla neve e onsen, gita di un giorno da Nagoya",
+  "metaTitle": "Gujo Hachiman, parco sulla neve e onsen",
+  "metaDescription": "Dieci ore da Nagoya con il trasporto in bus, la visita alla città vecchia di Gujo Hachiman e l'ingresso al Morigata no Sato Snow Park inclusi.",
+  "shortDescription": "Dieci ore da Nagoya con il trasporto in bus, la visita alla città vecchia di Gujo Hachiman e l'ingresso al Morigata no Sato Snow Park inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di dieci ore da Nagoya è costruita intorno al bus/pullman. Il trasporto in bus, la visita alla **città vecchia di Gujo Hachiman**, l'ingresso al **Morigata no Sato Snow Park**, lo slittino e il snow tube (un'ora di utilizzo), le attività sulla neve, e l'esperienza alle sorgenti termali sono inclusi nel prezzo; il punto d'incontro è il minimarket Ministop. I pasti, le spese personali, e altre spese non menzionate restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in bus",
+   "Visita alla città vecchia di Gujo Hachiman",
+   "Ingresso al Morigata no Sato Snow Park",
+   "Slittino e snow tube (un'ora di utilizzo)",
+   "Attività sulla neve",
+   "Esperienza alle sorgenti termali"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Altre spese non menzionate"
+  ]
+ },
+ "private-customizable-shopping-tour-with-guide-in-nagoya": {
+  "title": "Tour privato di shopping personalizzabile con guida, a Nagoya",
+  "metaTitle": "Shopping personalizzabile, Nagoya",
+  "metaDescription": "Due ore a Nagoya con un tour privato personalizzabile, una guida locale e shopping nei quartieri di Nagoya inclusi.",
+  "shortDescription": "Due ore a Nagoya con un tour privato personalizzabile, una guida locale e shopping nei quartieri di Nagoya inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di due ore a Nagoya porta un tour privato personalizzabile, una guida locale, lo shopping nei quartieri di Nagoya, consigli di viaggio, e l'assistenza nell'orientamento; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I pasti, i biglietti d'ingresso, le spese personali, e la tariffa di trasporto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato personalizzabile",
+   "Guida locale",
+   "Shopping nei quartieri di Nagoya",
+   "Consigli di viaggio",
+   "Assistenza nell'orientamento"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Biglietti d'ingresso",
+   "Spese personali",
+   "Tariffa di trasporto"
+  ]
+ },
+ "nagoya-sakae-traditional-kimono-rental-by-local-operator": {
+  "title": "Nagoya Sakae: noleggio di kimono tradizionale, con operatore locale",
+  "metaTitle": "Noleggio di kimono, Nagoya Sakae",
+  "metaDescription": "Noleggio di kimono, kimono interno, obi, accessori per capelli e borsa inclusi.",
+  "shortDescription": "Noleggio di kimono, kimono interno, obi, accessori per capelli e borsa inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesto servizio a Nagoya porta il **kimono**, il kimono interno, l'obi, gli accessori per capelli, la borsa, e i sandali tradizionali; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. L'acconciatura resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Kimono",
+   "Kimono interno",
+   "Obi",
+   "Accessori per capelli",
+   "Borsa",
+   "Sandali tradizionali"
+  ],
+  "notIncluded": [
+   "Acconciatura"
+  ]
+ },
  "fuji-motorsports-museum-private-tour": {
   "title": "Fuji Speedway e NISMO: giornata JDM privata da Tokyo",
   "metaTitle": "Fuji Speedway e NISMO da Tokyo",
