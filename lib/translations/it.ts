@@ -37840,6 +37840,181 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pick-up e drop-off in hotel"
   ]
  },
+ "guided-tea-ceremony-garden-and-castle-tour-in-kyoto": {
+  "title": "Cerimonia del tè guidata, giardino e tour del castello, a Kyoto",
+  "metaTitle": "Cerimonia del tè, giardino, castello",
+  "metaDescription": "Tre ore a Kyoto con una guida di lingua inglese, un tour a piedi, la cerimonia del tè e i biglietti d'ingresso incluse.",
+  "shortDescription": "Tre ore a Kyoto con una guida di lingua inglese, un tour a piedi, la cerimonia del tè e i biglietti d'ingresso incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di tre ore a Kyoto porta una guida di lingua inglese, un tour a piedi, la **cerimonia del tè**, e i biglietti d'ingresso; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pick-up e il drop-off in hotel, i pasti e altre bevande, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour a piedi",
+   "Cerimonia del tè",
+   "Biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Pasti e altre bevande",
+   "Spese personali"
+  ]
+ },
+ "arashiyama-bamboo-grove-sagano-train-matcha-and-temple-tour-kyoto": {
+  "title": "Bosco di Bambù di Arashiyama, treno Sagano, matcha e tempio, tour (Kyoto)",
+  "metaTitle": "Arashiyama, treno Sagano, matcha",
+  "metaDescription": "Tre ore da Kyoto al Bosco di Bambù di Arashiyama, con guida turistica di lingua inglese e un tour a piedi di 3 ore incluse.",
+  "shortDescription": "Tre ore da Kyoto al Bosco di Bambù di Arashiyama, con guida turistica di lingua inglese e un tour a piedi di 3 ore incluse.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero di bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle fotografie sono scattate prima delle 7:30; a metà mattina è già una processione di persone. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola, e le gite in barca lungo le rapide di Hozu partono tutte da qui. I colori autunnali raggiungono il picco nella seconda metà di novembre, e i fiori di ciliegio intorno alla prima settimana di aprile.\n\nQuesta esperienza di tre ore da Kyoto è costruita intorno al **Bosco di Bambù di Arashiyama**. La guida turistica di lingua inglese, un tour a piedi di 3 ore, il biglietto d'ingresso al Tempio Tenryu-ji (se l'opzione è selezionata), il biglietto d'ingresso alla Villa Okochi Sanso (se l'opzione è selezionata), la pausa per il tè matcha con snack tradizionali alla Villa Okochi Sanso (se l'opzione è selezionata), e il giro in treno romantico Sagano (solo per il pacchetto tour privato con corsa in treno) sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pick-up e il drop-off in hotel, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica di lingua inglese",
+   "Tour a piedi di 3 ore",
+   "Biglietto d'ingresso al Tempio Tenryu-ji (se l'opzione è selezionata)",
+   "Biglietto d'ingresso alla Villa Okochi Sanso (se l'opzione è selezionata)",
+   "Pausa per il tè matcha con snack tradizionali alla Villa Okochi Sanso (se l'opzione è selezionata)",
+   "Giro in treno romantico Sagano (solo per il pacchetto tour privato con corsa in treno)"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Spese personali"
+  ]
+ },
+ "itajime-shibori-scarf-class-at-kyoto-shibori-museum-by-local-operator": {
+  "title": "Corso di sciarpa itajime shibori al Museo dello Shibori di Kyoto, con operatore locale",
+  "metaTitle": "Itajime shibori, Museo di Kyoto",
+  "metaDescription": "Un'ora a Kyoto: i partecipanti al laboratorio ricevono l'ingresso gratuito al Museo dello Shibori di Kyoto, che normalmente costa 1.000 yen.",
+  "shortDescription": "Un'ora a Kyoto: i partecipanti al laboratorio ricevono l'ingresso gratuito al Museo dello Shibori di Kyoto, che normalmente costa 1.000 yen.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora a Kyoto porta un laboratorio di sciarpa **itajime shibori**: i partecipanti ricevono l'ingresso gratuito al Museo dello Shibori di Kyoto, che normalmente costa 1.000 yen; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "I partecipanti al laboratorio ricevono l'ingresso gratuito al Museo dello Shibori di Kyoto, che normalmente costa 1.000 yen"
+  ],
+  "notIncluded": []
+ },
+ "gion-geisha-district-night-walking-tour": {
+  "title": "Il distretto delle geisha di Gion, tour notturno a piedi",
+  "metaTitle": "Gion, tour notturno, geisha",
+  "metaDescription": "Due ore da Kyoto tra il Santuario Yasaka e Ninenzaka, con una passeggiata guidata nei distretti di Gion e Higashiyama e una guida bilingue incluse.",
+  "shortDescription": "Due ore da Kyoto tra il Santuario Yasaka e Ninenzaka, con una passeggiata guidata nei distretti di Gion e Higashiyama e una guida bilingue incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di due ore da Kyoto è costruita intorno al **Santuario Yasaka**, a **Ninenzaka** e al **Tempio Hōkan-ji**. Una passeggiata guidata nei distretti di Gion e Higashiyama, una guida bilingue simpatica e divertente, e una guida digitale di Kyoto con tantissimi consigli sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Passeggiata guidata nei distretti di Gion e Higashiyama",
+   "Guida bilingue simpatica e divertente",
+   "Guida digitale di Kyoto con tantissimi consigli"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
+ "samurai-kenbu-traditional-sword-dancing-show-in-kyoto": {
+  "title": "Spettacolo tradizionale di danza con la spada kenbu dei samurai, a Kyoto",
+  "metaTitle": "Kenbu, danza con la spada",
+  "metaDescription": "Un'ora a Kyoto con il biglietto d'ingresso al Teatro Samurai Kenbu, lo spettacolo di kenbu e una breve lezione con la spada incluse.",
+  "shortDescription": "Un'ora a Kyoto con il biglietto d'ingresso al Teatro Samurai Kenbu, lo spettacolo di kenbu e una breve lezione con la spada incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora a Kyoto porta il biglietto d'ingresso al Teatro **Samurai Kenbu**, lo spettacolo di kenbu, e una breve lezione con la spada; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pick-up e il drop-off in hotel, e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Teatro Samurai Kenbu",
+   "Spettacolo di kenbu",
+   "Breve lezione con la spada"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande"
+  ]
+ },
+ "ring-making-workshop-with-vintage-coin-in-kyoto": {
+  "title": "Laboratorio di creazione di anelli con monete d'epoca, a Kyoto",
+  "metaTitle": "Anelli con monete d'epoca, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto con un laboratorio guidato di creazione di anelli e una moneta d'epoca per un anello incluse.",
+  "shortDescription": "Un'ora e mezza a Kyoto con un laboratorio guidato di creazione di anelli e una moneta d'epoca per un anello incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di trentacinque minuti a Kyoto porta un laboratorio guidato di creazione di **anelli** di un'ora e mezza, una moneta d'epoca per un anello (le monete giapponesi sono incluse, quelle rare o pregiate hanno un costo aggiuntivo), l'uso di tutti gli strumenti e le attrezzature, e le opzioni di finitura (texture base e lucidatura); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. L'incisione e le monete rare o pregiate (costo aggiuntivo) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio guidato di creazione di anelli di un'ora e mezza",
+   "Moneta d'epoca per un anello (monete giapponesi incluse, quelle rare o pregiate con costo aggiuntivo)",
+   "Uso di tutti gli strumenti e le attrezzature",
+   "Opzioni di finitura (texture base e lucidatura)"
+  ],
+  "notIncluded": [
+   "Incisione",
+   "Monete rare o pregiate (costo aggiuntivo)"
+  ]
+ },
+ "kyoto-early-bird-english-tour-fushimi-inari-and-arashiyama-by-local-operator": {
+  "title": "Kyoto, tour mattiniero in inglese: Fushimi-Inari e Arashiyama, con operatore locale",
+  "metaTitle": "Fushimi Inari e Arashiyama, mattiniero",
+  "metaDescription": "Quattro ore e mezza da Kyoto tra il treno e il Fushimi Inari Taisha, con la guida e l'ingresso al Tempio Tenryu-ji incluse.",
+  "shortDescription": "Quattro ore e mezza da Kyoto tra il treno e il Fushimi Inari Taisha, con la guida e l'ingresso al Tempio Tenryu-ji incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, formano gallerie che salgono il Monte Inari, alto 233 metri, dietro la sala principale. L'anello completo fino alla cima è lungo circa quattro chilometri e dura due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande luogo di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie inferiori sono già una coda lenta. Le statue delle volpi portano in bocca le chiavi del granaio di riso.\n\nQuesta esperienza di quattro ore e mezza da Kyoto è costruita intorno al treno, al **Fushimi Inari Taisha** e al **Bosco di Bambù di Arashiyama**. La guida di lingua inglese e l'ingresso al Tempio Tenryu-ji sono inclusi nel prezzo; il punto d'incontro è il 7-Eleven Heart-In presso l'ingresso centrale della Stazione JR di Kyoto. Il pick-up e il drop-off in hotel, la tariffa di trasporto (circa 630 yen), e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Ingresso al Tempio Tenryu-ji"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Tariffa di trasporto (circa 630 yen)",
+   "Spese personali"
+  ]
+ },
+ "gion-food-tour-with-13-dishes-at-4-local-eateries": {
+  "title": "Tour enogastronomico a Gion con 13 piatti in 4 locande locali",
+  "metaTitle": "Gion, 13 piatti, enogastronomico",
+  "metaDescription": "Tre ore da Kyoto tra il Vicolo Pontocho e un ristorante locale, con una guida esperta di lingua inglese e un tour a piedi incluse.",
+  "shortDescription": "Tre ore da Kyoto tra il Vicolo Pontocho e un ristorante locale, con una guida esperta di lingua inglese e un tour a piedi incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di tre ore da Kyoto è costruita intorno al **Vicolo Pontocho**, a un ristorante locale e alla Stazione di Gion-Shijo. Una guida esperta di lingua inglese, un tour a piedi, 13 piatti giapponesi in 4 locande, 2 bevande in omaggio (alcoliche e non alcoliche), il cibo in una bancarella, un izakaya, una locanda tradizionale e un banco di dolci, e i consigli sui propri piani per il soggiorno da parte della guida esperta sono inclusi nel prezzo; il punto d'incontro è lo Starbucks Coffee presso il ponte Sanjo-ohashi a Kyoto. Le mance (opzionali) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta di lingua inglese",
+   "Tour a piedi",
+   "13 piatti giapponesi in 4 locande",
+   "2 bevande in omaggio (alcoliche e non alcoliche)",
+   "Cibo in una bancarella, un izakaya, una locanda tradizionale e un banco di dolci",
+   "Consigli sui propri piani per il soggiorno da parte della guida esperta"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)"
+  ]
+ },
+ "arashiyama-bamboo-forest-hiking-tour": {
+  "title": "Il Bosco di Bambù di Arashiyama, tour escursionistico",
+  "metaTitle": "Arashiyama, tour escursionistico",
+  "metaDescription": "Tre ore a Kyoto con accesso esclusivo anticipato al bosco di bambù e un tour escursionistico guidato ad Arashiyama incluse.",
+  "shortDescription": "Tre ore a Kyoto con accesso esclusivo anticipato al bosco di bambù e un tour escursionistico guidato ad Arashiyama incluse.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero di bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle fotografie sono scattate prima delle 7:30; a metà mattina è già una processione di persone. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola, e le gite in barca lungo le rapide di Hozu partono tutte da qui. I colori autunnali raggiungono il picco nella seconda metà di novembre, e i fiori di ciliegio intorno alla prima settimana di aprile.\n\nQuesta esperienza di tre ore a Kyoto porta l'accesso esclusivo anticipato al **bosco di bambù**, un tour escursionistico guidato ad Arashiyama, l'assicurazione per incidenti e soccorso in montagna, e l'esplorazione di viste splendide e sentieri nascosti; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I pasti e le bevande, il trasporto fino al punto d'incontro, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Accesso esclusivo anticipato al bosco di bambù",
+   "Tour escursionistico guidato ad Arashiyama",
+   "Assicurazione per incidenti e soccorso in montagna",
+   "Esplorazione di viste splendide e sentieri nascosti"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Trasporto fino al punto d'incontro",
+   "Spese personali"
+  ]
+ },
+ "kyoto-early-morning-english-tour-fushimi-inari-and-gion-by-local-operator": {
+  "title": "Kyoto, tour del primo mattino in inglese: Fushimi Inari e Gion, con operatore locale",
+  "metaTitle": "Fushimi Inari e Gion, primo mattino",
+  "metaDescription": "Quattro ore e mezza da Kyoto tra il treno e il Fushimi Inari Taisha, con una guida locale appassionata di lingua inglese e splendide foto professionali incluse.",
+  "shortDescription": "Quattro ore e mezza da Kyoto tra il treno e il Fushimi Inari Taisha, con una guida locale appassionata di lingua inglese e splendide foto professionali incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, formano gallerie che salgono il Monte Inari, alto 233 metri, dietro la sala principale. L'anello completo fino alla cima è lungo circa quattro chilometri e dura due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande luogo di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie inferiori sono già una coda lenta. Le statue delle volpi portano in bocca le chiavi del granaio di riso.\n\nQuesta esperienza di quattro ore e mezza da Kyoto è costruita intorno al treno, al **Fushimi Inari Taisha** e al **Kiyomizu-dera**. Una guida locale appassionata di lingua inglese, e splendide foto professionali scattate durante il tour sono inclusi nel prezzo; il punto d'incontro è la Stazione di Kyoto. La tariffa dei trasporti pubblici (circa 400 yen), i biglietti d'ingresso al Tempio Kiyomizu-dera (500 yen), e i pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale appassionata di lingua inglese",
+   "Splendide foto professionali scattate durante il tour"
+  ],
+  "notIncluded": [
+   "Tariffa dei trasporti pubblici (circa 400 yen)",
+   "Biglietti d'ingresso al Tempio Kiyomizu-dera (500 yen)",
+   "Pasti e bevande"
+  ]
+ },
  "hiroshima-highlights-private-tour": {
   "title": "Tour privato dei punti salienti di Hiroshima: Memoriale della Pace, castello e Shukkei-en",
   "metaTitle": "Tour privato dei punti salienti di Hiroshima",
