@@ -39531,6 +39531,185 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "kumano-kodo-2-day-hike-nachi-shrine-and-dual-pilgrim-trails-in-osaka": {
+  "title": "Kumano Kodo, escursione di 2 giorni: il Santuario Nachi e i doppi sentieri di pellegrinaggio, da Osaka",
+  "metaTitle": "Kumano Kodo, 2 giorni, pellegrinaggio",
+  "metaDescription": "Due giorni a Osaka con trasporto andata e ritorno in bus comodo e tutti i biglietti d'ingresso ai templi, santuari e siti incluse.",
+  "shortDescription": "Due giorni a Osaka con trasporto andata e ritorno in bus comodo e tutti i biglietti d'ingresso ai templi, santuari e siti incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di due giorni a Osaka porta il trasporto andata e ritorno in bus comodo, tutti i biglietti d'ingresso ai templi, santuari e siti, un autista-guida professionista, un'audioguida multilingue sul bus (inglese, cinese, giapponese), un libretto di timbri del pellegrinaggio in omaggio, l'esperienza del pediluvio alle terme di Totsukawa, e tè giapponese e snack locali in omaggio; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il costo dell'hotel, il costo del pranzo (è fornito un buono per un gelato gratuito da usare al ristorante; si raccomanda vivamente il gelato speciale allo zucchero nero), il pick-up in hotel il primo giorno e il drop-off l'ultimo giorno (il punto d'incontro è Shinsaibashi/Nippombashi), e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno in bus comodo",
+   "Tutti i biglietti d'ingresso ai templi, santuari e siti",
+   "Autista-guida professionista",
+   "Audioguida multilingue sul bus (inglese, cinese, giapponese)",
+   "Libretto di timbri del pellegrinaggio in omaggio",
+   "Esperienza del pediluvio alle terme di Totsukawa",
+   "Tè giapponese e snack locali in omaggio"
+  ],
+  "notIncluded": [
+   "Costo dell'hotel",
+   "Costo del pranzo (buono per un gelato gratuito fornito per l'uso al ristorante; si raccomanda il gelato speciale allo zucchero nero)",
+   "Pick-up in hotel il primo giorno e drop-off l'ultimo giorno (il punto d'incontro è Shinsaibashi/Nippombashi)",
+   "Spese personali"
+  ]
+ },
+ "osaka-castle-night-walk-and-guided-tour-by-local-operator": {
+  "title": "Il Castello di Osaka, passeggiata notturna e tour guidato, con operatore locale",
+  "metaTitle": "Castello di Osaka, notturna",
+  "metaDescription": "Un'ora da Osaka tra il punto panoramico e il Santuario Hokoku, con un tour guidato dell'esterno del Castello di Osaka incluso.",
+  "shortDescription": "Un'ora da Osaka tra il punto panoramico e il Santuario Hokoku, con un tour guidato dell'esterno del Castello di Osaka incluso.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di un'ora da Osaka è costruita intorno a un punto panoramico, al **Santuario Hokoku** e alla Porta Sakuramon. Un tour guidato dell'esterno del **Castello di Osaka** è incluso nel prezzo; il punto d'incontro è a Chuo-ku, Osaka. L'ingresso alla torre principale resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato dell'esterno del Castello di Osaka"
+  ],
+  "notIncluded": [
+   "Ingresso alla torre principale"
+  ]
+ },
+ "osaka-sushi-and-miso-soup-adventure-a-journey-of-exotic-flavors-by-local-operator": {
+  "title": "Osaka: avventura di sushi e zuppa di miso, un viaggio tra sapori esotici, con operatore locale",
+  "metaTitle": "Sushi e zuppa di miso, Osaka",
+  "metaDescription": "Tre ore a Osaka con ingredienti freschi e condimenti tradizionali e l'istruzione di uno chef ben addestrato incluse.",
+  "shortDescription": "Tre ore a Osaka con ingredienti freschi e condimenti tradizionali e l'istruzione di uno chef ben addestrato incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore a Osaka porta ingredienti freschi e condimenti tradizionali, e l'istruzione chiara di uno chef ben addestrato per la cucina; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Ingredienti freschi e condimenti tradizionali",
+   "Istruzione chiara di uno chef ben addestrato per la cucina"
+  ],
+  "notIncluded": []
+ },
+ "cup-noodles-museum-guide-and-make-your-own-cup-noodles-in-osaka": {
+  "title": "Il Museo dei Cup Noodles, guida e crea le tue Cup Noodles, a Osaka",
+  "metaTitle": "Museo dei Cup Noodles, Osaka",
+  "metaDescription": "Un'ora e mezza a Osaka al Museo dei Cup Noodles di Osaka Ikeda, con la guida di lingua inglese e la spiegazione guidata all'interno del museo incluse.",
+  "shortDescription": "Un'ora e mezza a Osaka al Museo dei Cup Noodles di Osaka Ikeda, con la guida di lingua inglese e la spiegazione guidata all'interno del museo incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di un'ora e mezza a Osaka è costruita intorno al **Museo dei Cup Noodles di Osaka Ikeda**. La guida di lingua inglese, la spiegazione guidata all'interno del museo, la tariffa dell'esperienza \"My Cup Noodles\" (dal valore di 500 yen), una ciotola standard di ramen (dal valore di 1.000 yen), e l'assistenza per ordinare il ramen sono inclusi nel prezzo; il punto d'incontro è il Museo dei Cup Noodles di Osaka Ikeda. Il trasporto fino al punto d'incontro o dopo il tour, eventuali costi aggiuntivi per il ramen oltre i 1.000 yen, ordini e bevande aggiuntivi, l'esperienza alla Chicken Ramen Factory, e le spese personali per lo shopping restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Spiegazione guidata all'interno del museo",
+   "Tariffa dell'esperienza \"My Cup Noodles\" (dal valore di 500 yen)",
+   "Una ciotola standard di ramen (dal valore di 1.000 yen)",
+   "Assistenza per ordinare il ramen"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto d'incontro o dopo il tour",
+   "Eventuali costi aggiuntivi per il ramen oltre i 1.000 yen",
+   "Ordini e bevande aggiuntivi",
+   "Esperienza alla Chicken Ramen Factory",
+   "Spese personali per lo shopping"
+  ]
+ },
+ "shinsekai-food-tour-taste-must-try-local-dishes-in-osaka": {
+  "title": "Tour enogastronomico a Shinsekai: assapora i piatti locali da non perdere, a Osaka",
+  "metaTitle": "Shinsekai, piatti locali",
+  "metaDescription": "Tre ore da Osaka tra Shinsekai e la torre Tsutenkaku, con la guida e la degustazione di cibo locale incluse.",
+  "shortDescription": "Tre ore da Osaka tra Shinsekai e la torre Tsutenkaku, con la guida e la degustazione di cibo locale incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore da Osaka è costruita intorno a **Shinsekai** e alla torre **Tsutenkaku**. La guida e la degustazione di cibo locale (per esempio kushikatsu, okonomiyaki, takoyaki) sono inclusi nel prezzo; il punto d'incontro è l'ufficio postale di Shinsekai, a Osaka.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Degustazione di cibo locale (per esempio kushikatsu, okonomiyaki, takoyaki)"
+  ],
+  "notIncluded": []
+ },
+ "kobe-day-and-night-tour-arima-onsen-and-mt-rokko": {
+  "title": "Kobe, tour di giorno e di notte, le terme di Arima e il Monte Rokko",
+  "metaTitle": "Kobe, terme di Arima, Monte Rokko",
+  "metaDescription": "Nove ore a Osaka con il trasporto e una guida parlante inglese e coreano incluse.",
+  "shortDescription": "Nove ore a Osaka con il trasporto e una guida parlante inglese e coreano incluse.",
+  "fullDescription": "Le gite di un giorno da Osaka hanno ciascuna una propria ragione. Himeji ha il castello meglio conservato del Giappone, l'Airone Bianco, un originale del 1609 con sei piani di interni in legno, il cui intonaco è stato riportato al bianco in un restauro completato nel 2015; la salita alla torre principale è impegnativa e la fila al momento dei fiori di ciliegio è lunga. Kobe ha il manzo, venduto a grado ai banchi dove lo si guarda cucinare, e il porto. Koyasan, due ore a sud, è la città-monastero di montagna fondata da Kukai nell'816, dove 117 templi si trovano in una foresta di cedri e il cimitero di Okunoin è il più grande del Giappone; una notte in uno shukubo, l'alloggio nei templi, con la shojin ryori vegetariana è la ragione per andarci.\n\nQuesta esperienza di nove ore a Osaka porta il trasporto e una guida parlante inglese e coreano; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I pasti, l'assicurazione di viaggio, altre spese personali, e l'ingresso alle attrazioni restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto",
+   "Guida parlante inglese e coreano"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Assicurazione di viaggio",
+   "Altre spese personali",
+   "Ingresso alle attrazioni"
+  ]
+ },
+ "off-the-beaten-path-nishinari-walking-tour-in-osaka": {
+  "title": "Fuori dai sentieri battuti: tour a piedi a Nishinari, a Osaka",
+  "metaTitle": "Nishinari, fuori dai sentieri battuti",
+  "metaDescription": "Due ore da Osaka tra Shinsekai e la via commerciale Nanyo-dori, con una guida locale di lingua inglese e un tour a piedi guidato di Shinsekai, Janjan Yokocho, Tobita Shinchi e il quartiere Airin incluse.",
+  "shortDescription": "Due ore da Osaka tra Shinsekai e la via commerciale Nanyo-dori, con una guida locale di lingua inglese e un tour a piedi guidato di Shinsekai, Janjan Yokocho, Tobita Shinchi e il quartiere Airin incluse.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, formano gallerie che salgono il Monte Inari, alto 233 metri, dietro la sala principale. L'anello completo fino alla cima è lungo circa quattro chilometri e dura due ore; la maggior parte dei visitatori torna indietro al punto panoramico di Yotsutsuji, a metà strada. È aperto 24 ore su 24 ed è gratuito, il che lo rende l'unico grande luogo di Kyoto visitabile all'alba o dopo il tramonto, quando i torii sono vuoti e illuminati. Entro le nove del mattino le gallerie inferiori sono già una coda lenta. Le statue delle volpi portano in bocca le chiavi del granaio di riso.\n\nQuesta esperienza di due ore da Osaka è costruita intorno a **Shinsekai**, alla via commerciale **Nanyo-dori** e a **Nishinari**. Una guida locale di lingua inglese, un tour a piedi guidato di Shinsekai, Janjan Yokocho, Tobita Shinchi e il quartiere Airin, un commento culturale e storico durante tutto il tour, e cibo e bevande in tre ristoranti locali (incluso solo per chi seleziona l'opzione da 210 minuti con cibo; valore totale 4.500 yen, 1.500 yen a locale) sono inclusi nel prezzo; il punto d'incontro è la Stazione di Ebisucho. Cibo e bevande per chi seleziona l'opzione da 120 minuti senza cibo, cibo o bevande aggiuntivi oltre i 1.500 yen inclusi per ristorante (solo per l'opzione con cibo), il trasporto fino al punto d'incontro e dal luogo di arrivo, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale di lingua inglese",
+   "Tour a piedi guidato di Shinsekai, Janjan Yokocho, Tobita Shinchi e il quartiere Airin",
+   "Commento culturale e storico durante tutto il tour",
+   "Cibo e bevande in tre ristoranti locali (incluso solo per l'opzione da 210 minuti con cibo; valore totale 4.500 yen, 1.500 yen a locale)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande per chi seleziona l'opzione da 120 minuti senza cibo",
+   "Cibo o bevande aggiuntivi oltre i 1.500 yen inclusi per ristorante (solo per l'opzione con cibo)",
+   "Trasporto fino al punto d'incontro e dal luogo di arrivo",
+   "Spese personali"
+  ]
+ },
+ "osaka-sushi-workshop-at-uodai-sho-nigiri-and-maki-class-by-local-operator": {
+  "title": "Laboratorio di sushi all'Uodai-Sho, a Osaka: corso di nigiri e maki, con operatore locale",
+  "metaTitle": "Sushi all'Uodai-Sho, nigiri e maki",
+  "metaDescription": "Un'ora e mezza a Osaka con la tariffa degli ingredienti, la tariffa dell'esperienza e la tariffa di noleggio del costume incluse.",
+  "shortDescription": "Un'ora e mezza a Osaka con la tariffa degli ingredienti, la tariffa dell'esperienza e la tariffa di noleggio del costume incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di un'ora e mezza a Osaka porta la tariffa degli ingredienti, la tariffa dell'esperienza, la tariffa di noleggio del costume, e la tariffa del servizio; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le spese di trasporto andata e ritorno e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa degli ingredienti",
+   "Tariffa dell'esperienza",
+   "Tariffa di noleggio del costume",
+   "Tariffa del servizio"
+  ],
+  "notIncluded": [
+   "Spese di trasporto andata e ritorno",
+   "Altre spese personali"
+  ]
+ },
+ "osaka-castle-and-shitennoji-temple-with-ramen-lunch-by-local-operator": {
+  "title": "Il Castello di Osaka e il Tempio Shitennoji con pranzo di ramen, con operatore locale",
+  "metaTitle": "Castello di Osaka e Shitennoji",
+  "metaDescription": "Quattro ore a Osaka tra il JO-TERRACE OSAKA e la metropolitana, con il pranzo di ramen, un pass giornaliero per la metropolitana di Osaka e la guida di lingua inglese incluse.",
+  "shortDescription": "Quattro ore a Osaka tra il JO-TERRACE OSAKA e la metropolitana, con il pranzo di ramen, un pass giornaliero per la metropolitana di Osaka e la guida di lingua inglese incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di quattro ore a Osaka è costruita intorno al **JO-TERRACE OSAKA** e alla metropolitana. Il pranzo di **ramen**, un pass giornaliero per la metropolitana di Osaka, una guida locale di lingua inglese, il commento e la guida durante il tour, e l'assistenza per le foto sono inclusi nel prezzo; il punto d'incontro è il minimarket FamilyMart a Tanimachi 3-chome. Il biglietto d'ingresso al Castello di Osaka (1.200 yen) e il biglietto d'ingresso al Tempio Shitennoji (500 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pranzo di ramen",
+   "Pass giornaliero per la metropolitana di Osaka",
+   "Guida locale di lingua inglese",
+   "Commento e guida durante il tour",
+   "Assistenza per le foto"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Castello di Osaka (1.200 yen)",
+   "Biglietto d'ingresso al Tempio Shitennoji (500 yen)"
+  ]
+ },
+ "mt-koya-and-kishi-station-1-day-bus-tour-in-osaka": {
+  "title": "Il Monte Koya e la Stazione di Kishi, tour in bus di 1 giorno, da Osaka",
+  "metaTitle": "Monte Koya e Stazione di Kishi",
+  "metaDescription": "Da Osaka tra la Stazione di Kishi e il Tempio Okunoin, con trasporto in bus noleggiato da Osaka, guida e tariffa del treno incluse.",
+  "shortDescription": "Da Osaka tra la Stazione di Kishi e il Tempio Okunoin, con trasporto in bus noleggiato da Osaka, guida e tariffa del treno incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza da Osaka è costruita intorno alla **Stazione di Kishi**, a un ristorante locale e al **Tempio Okunoin**. Il trasporto in bus noleggiato da Osaka, una guida esperta, la tariffa del treno, il pranzo vegetariano, e il biglietto d'ingresso al Tempio Kongobuji, al Tempio Danjo Garan e al Tempio Konpon Daito sono inclusi nel prezzo; il punto d'incontro è il Mainichi Shimbun Building. Il pick-up e il drop-off in hotel, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in bus noleggiato da Osaka",
+   "Guida esperta",
+   "Tariffa del treno",
+   "Pranzo vegetariano",
+   "Biglietto d'ingresso al Tempio Kongobuji, al Tempio Danjo Garan e al Tempio Konpon Daito"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Spese personali"
+  ]
+ },
  "hiroshima-night-evening-tour": {
   "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
   "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
