@@ -32813,6 +32813,172 @@ if (slug === "hong-island-boat-tour") {
         };
     }
 
+    if (slug === 'siem-reap-city-tour-apopo-rats-war-museum-killing') {
+        return {
+            averageRating: 4.75,
+            totalReviews: 8,
+            guideRating: 4.75,
+            valueRating: 4.75,
+            reviews: [
+                { author: "Daniel", country: "United States", rating: 5, date: "2026-03-29", text: "Amazing trip with War Museum, Wat Bo, APOPO and Preah Enkosei Tour. Our guide Mr. Longdy was excellent and driver Mr. Vi Soth was very friendly. We are strongly recommend." },
+                { author: "Jessi", country: "Cambodia", rating: 5, date: "2026-02-28", text: "Meaningful Siem Reap Heritage Tour with APOPO, Killing Field & War Museum Cambodia - Insightful and Informative Guided Experience Our guide was excellent, knowledgeable, and very informative, providing deep insight into Cambodia’s history and culture throughout the tour. We truly appreciated the meaningful experience and highly recommend this journey to anyone visiting Siem Reap." },
+                { author: "Jake", country: "United States", rating: 5, date: "2026-10-20", text: "Great experience would do again" },
+                { author: "Verified traveller", country: "United States", rating: 5, date: "2026-04-17", text: "Great experience, our guide was excellence and informative. Driver did a good job. Highly recommend." },
+                { author: "Verified traveller", country: "Australia", rating: 4, date: "2026-04-08", text: "The activity was great, incredibly knowledgeable guide who was able to share so much information and personal anecdotes. APOPO was a highlight for me personally. The driver was prepared and ready at every stop, such fantastic service. If you need anything, they are incredibly accomodating. My only feedback would be to include the National museum, and also an opportunity to stop and eat something as it is a very long tour (5.5 hours for me) to not eat anything. Great day overall ☺️☺️" },
+                { author: "JUNICHI", country: "Japan", rating: 4, date: "2026-03-09", text: "キリング・フィールドと戦争博物館は本物の迫力があってお勧めです✨" },
+            ]
+        };
+    }
+
+    if (slug === 'angkor-wat-full-day-small-group-temples-tour') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 748,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Ella", country: "Canada", rating: 5, date: "2026-09-09", text: "The tour was wonderful! Pal Saruon, the guide, and Da the driver, were extremely professional and provided an amazing tour filled with historical and religious information that allowed you to better appreciate the wonder that is Angkor Wat. Pal Saruon provided loads of information with accompanying photos before each temple, which really helped you to connect and understand with what you were seeing at the temples. Da always kept the van cold and provided cool cloths and ice cold water throughout the day, which was definitely needed in the Cambodian heat. Overall a lovely day hitting the highl" },
+                { author: "Ezhar", country: "Singapore", rating: 5, date: "2026-09-05", text: "Sopheap Rath ( tour guide) and Da (driver) were very efficient and friendly. We enjoyed our trip very much." },
+                { author: "Reem", country: "Singapore", rating: 5, date: "2026-09-05", text: "The Sopheap Rath tour guide and Da the driver was very nice and professional" },
+                { author: "Olga", country: "United Kingdom", rating: 5, date: "2026-02-10", text: "The tour was amazing! Mr.Sarkiya told us all about the history behind the temples and buddhism - undoubtedly showing his passion for the region in a very eloquent and inspiring way! Totally recommend this tour, it was one of the few tours in Cambodia that the tour guide was genuinely so talented!" },
+                { author: "Priscilla", country: "France", rating: 5, date: "2026-01-07", text: "We had an amazing full-day tour exploring the Angkor temples, ending with a beautiful sunset at Phnom Bakheng. Our guide, Pal Saruon, was excellent, very knowledgeable, friendly, and passionate about Khmer history and culture. He explained everything clearly and made the day both informative and enjoyable. Our driver, Mr. Rada, was professional, punctual, and drove very safely, keeping us comfortable throughout the long day. The itinerary was well organized, and the sunset view was the perfect finale. We highly recommend this tour and team to anyone visiting Siem Reap!" },
+                { author: "Adrián", country: "Argentina", rating: 5, date: "2026-01-03", text: "Yuth our guide and Naro the driver had been both great. Yuth detailed and kind information on both places and general Cambodia history was the best and made us learn more about this great country. Naro helped with water and fresh towels across the day. Visited places were one of a kind and selected restaurant was delicious. If you go to Angkor, go with Yuth and his team!" },
+                { author: "karen", country: "Mauritius", rating: 5, date: "2025-11-27", text: "We had a fantastic day with Sam. he is knowledgeable and thorough in answering questions and explaining what we are looking at. this tour was a great orientation to the history and key sights of the area. We were also very fortunate to be the only people on the tour. That was great for us. I highly recommend this tour as an orientation to.the area, history and sights." },
+                { author: "Caitlin", country: "Canada", rating: 5, date: "2025-11-24", text: "AMAZING experience! My second time at Angkor Wat, and I learned so much more this time around. Our guide was phenomenal, clearly passionate about sharing his wealth of knowledge about all the sites we went to, and taking great pictures of the group along the way! I would give this tour 10 stars if I could, don’t miss it!" },
+            ]
+        };
+    }
+
+    if (slug === 'siem-reap-angkor-wat-day-tour-japanese-guide') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 47,
+            guideRating: 4.67,
+            valueRating: 4.67,
+            reviews: [
+                { author: "Verified traveller", country: "Japan", rating: 5, date: "2026-11-06", text: "英語の団体ツアーと迷いましたが、日本語の個人ツアーにして大正解でした。 ガイドのチュンさんは日本語が上手でとても知識が豊富でした。アンコールワットの橋が通っている大学の支援で出来たと聞き、より親近感が湧きました。 写真が綺麗に撮れるポイントも教えて頂き、沢山の思い出が作れました。ありがとうございました。" },
+                { author: "Verified traveller", country: "Philippines", rating: 5, date: "2026-11-05", text: "非常にわかりやすく細部まで丁寧に説明頂き、本当に充実した時間でした。ありがとうございました。" },
+                { author: "Verified traveller", country: "Japan", rating: 5, date: "2026-11-02", text: "遠出はせず主要な遺跡のみ、朝日もなしで周りたくてシンプルなプランにしました。それでも暑さで最後はシャワーを浴びたような汗でしたので正解でした。 少しの追加料金だったのでプライベートツアー、トゥクトゥク以外の車を選びました。自分たちのペースで周れたし移動中(結構長い)は冷房の効いた車内で過ごせたので良かったです。 おしぼりと冷たい水有難かったです。 車止めから遺跡まで遮るものが何もないような場所を歩くことが多いので帽子は必須、日傘やハンディファンあるとより良いでしょう。足場も悪いのでサンダルよりスニーカーがおすすめです。 担当ガイドのヴァタナさん、とっても人が良い優しい方で良かったです。 ありがとうございました。" },
+                { author: "Verified traveller", country: "Japan", rating: 5, date: "2026-10-12", text: "日本語ガイドチュンさんでした。 知識が豊富で日本語での説明もとてもわかりやすかったです。雨季で後半は雨のなかの観光となりましたが傘もご用意いただきとても助かりました。チュンさんはジョークも写真撮影もとても上手でした。" },
+                { author: "Seisyu", country: "Japan", rating: 5, date: "2026-09-25", text: "初めてのカンボジアでプライベートツアー（日本語ガイド）で利用しました。ガイドはチュン（Chhun）さんで、期待以上の素晴らしい案内でした。 雨季だったため日の出は見られませんでしたが、それを忘れるほどアンコールワットや周辺遺跡の歴史解説がわかりやすく、ときどきジョークも交えてくれるので、学びながら楽しく観光できました。 お水やおしぼりの用意に加え、トイレ休憩やランチのタイミングもこちらの様子を見ながら柔軟に組み立ててくださり、ホスピタリティにあふれた方だと感じました。 次にカンボジアを訪れる際もまたお願いしたいですし、友人にもぜひ紹介したいと思います。素敵な時間をありがとうございました😊" },
+            ]
+        };
+    }
+
+    if (slug === 'phnom-penh-night-foodie-tour-by-tuk-tuk-with') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 70,
+            guideRating: 5.0,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Anna", country: "United States", rating: 5, date: "2026-07-17", text: "we loved our guide Lee, he kept us laughing and told us tons of info about the food! the whole experience was a blast and the food was delish." },
+                { author: "Chantelle", country: "Australia", rating: 5, date: "2026-06-02", text: "Sok was a brilliant tour guide. It ended up being a private tour, but Sok made it fun and I enjoyed meeting the variety of food vendors. Highly recommend this tour" },
+                { author: "Lara", country: "Netherlands", rating: 5, date: "2026-02-25", text: "Tina was an exceptional host and made it feel like we were eating our way through the city with a good, old friend. He was able to show us delicious stops and entertain us with his humor. He is also very knowledgable and could answer any food and non-food related questions we had. I wish all tours had guides like this!" },
+                { author: "Ilona", country: "Poland", rating: 5, date: "2025-12-09", text: "Really was full of flavours 😍 different tastes all perfect! TinTin is a great guide showing really delicious side of Phnom Phen. You should go and meet him and taste khmer food!" },
+                { author: "Zico", country: "Australia", rating: 5, date: "2025-12-01", text: "Our tour guide Tin Tin was excellent! Made the tour super enjoyable for me and my friends. Got to see so many places in Phnom Penh i wouldn’t have otherwise seen and tried food I never would’ve ever tried without him. Cannot recommend enough" },
+                { author: "Fabio", country: "Netherlands", rating: 5, date: "2025-12-01", text: "Kim was amazing, came with a lot of Cambodian fun facts and really knew his way around Phnom Penh. We got shown around food places you would not regularly go to as a tourist. Overall a great time with good food." },
+                { author: "Denise", country: "Australia", rating: 5, date: "2025-11-26", text: "Enjoy the variety of street food and Tin Tin’s tour description and love of his Cambodia." },
+                { author: "Marilee", country: "United States", rating: 5, date: "2025-11-17", text: "Nam was the best teacher! So enjoyed the class and the experience. Lots of great food and made it so easy and fun!" },
+            ]
+        };
+    }
+
+    if (slug === 'siem-reap-angkor-wat-private-tour-with-sunset-or') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 106,
+            guideRating: 5.0,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Dan", country: "United States", rating: 5, date: "2026-10-22", text: "Sun was so much more than a guide. She knew every corner of Angkor and every perfect photo spot, but what she gave me went far beyond the tour. She talked to me like a friend. She gently shared her Buddhist way of seeing life, never pushy, and it made me slow down and truly feel the moment instead of rushing from temple to temple. I shoot my own photos with a tripod, and most guides just let you be. Not Sun. While I shot with my camera, she was right there with hers, curious, learning, playing with angles, and patiently capturing beautiful shots of me I never could have gotten alone. She was c" },
+                { author: "Mateusz", country: "Poland", rating: 5, date: "2026-04-09", text: "Watching the sunrise at Angkor Wat was an unforgettable experience. The whole trip was incredibly enjoyable and fascinating from start to finish. Our guide, Sokha, was truly amazing, friendly, attentive, and genuinely caring throughout the entire tour. He made sure everyone felt comfortable and well looked after. What made the experience even more special was his passion and deep knowledge about Cambodia and Angkor Wat. His stories and explanations were so engaging that they really captured our interest and brought the place to life. And on top of that he is a great photographer and knows the " },
+                { author: "Kim", country: "Vietnam", rating: 5, date: "2026-02-23", text: "A truly wonderful day out and experience! I cannot thank our guide Youk enough, his professionalism and incredible knowledge is exemplary. Throughout the day whenever there were any questions, he would answer them fully and with great detail. His passion and attention to his craft truly made this an unforgettable experience. Cannot recommend enough!" },
+                { author: "DanThomas", country: "Switzerland", rating: 5, date: "2026-02-22", text: "We had an amazing experience exploring many of the different and unique temples in Siem Reap. Our guide Buth was perfect. Very knowledgeable, patient, friendly, on time, and energetic, funny, and hospitable. His car was great, the AC was such a plus. He brought us to the nicest places, took great pictures of us, told us very interesting stories about the temples, and the history of Cambodia. We definitely recommend Buth and his services !" },
+                { author: "Geraldine", country: "Italy", rating: 5, date: "2026-02-10", text: "Two days is the minimun for Agkor Temples to have a full view of the art. I would suggest to take a look to the Siem Reap Historical Museum before starting your vist, it is no a waste of time! You got an explication what you are looking next in Temples. It is a wide and extensive view of the Angkor Temples in Siem Reap. It is a long walking tour for the first day in the Small circuit, less tiring the second day as there are many transfert for the Great Circuit. The sky was little cloudy for sunset in this case it is not worth to climb the hill for...we do not see anything. Surise it is gorgeus" },
+                { author: "Nigel", country: "United Kingdom", rating: 5, date: "2026-01-06", text: "Phat was a fantastic guide, extremely knowledgeable about not just Angkor but about Siem Reap and Cambodian history generally. We had a thoroughly enjoyable and informative day, and feel we made the best use of the limited time we had to see and learn as much as possible. The TukTuk driver was also brilliant, very welcoming and well organised with cold towels and water bottles." },
+                { author: "Christian", country: "Austria", rating: 5, date: "2026-01-04", text: "Amazing tour guide - did show us even the hidden gems and was very knowledged / experienced. Highly recommendable." },
+                { author: "Hillary", country: "France", rating: 5, date: "2025-12-28", text: "I had an absolutely incredible experience visiting Angkor Wat thanks to my private guide, Visal. He is extremely patient, deeply passionate about his work, and truly knowledgeable. I learned so much from him throughout the visit.. his explanations were clear, engaging, and full of fascinating details about the history of Angkor. Visal is genuinely amazing and knows the very best places to visit, including hidden gems that make the experience even more special. He also knows all the best spots for taking photos and takes excellent pictures himself, which was a huge bonus for me." },
+            ]
+        };
+    }
+
+    if (slug === 'siem-reap-angkor-wat-2-day-tour-with-sunrise') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 5295,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Yordan", country: "Bulgaria", rating: 5, date: "2026-11-20", text: "Sok was a great guide, had a lot of fun, interesting stories. He's quite knowledgeable and shared with us a lot of info. Gave us always enough time to explore on our own." },
+                { author: "Tamara", country: "Australia", rating: 5, date: "2026-11-20", text: "So glad I did this tour ! specially the AC vehicle was such a good break from the heat. John and Sam were great guides and answered my questions. Thank you John specially for the lovely photos he took for me . Highly recommend this tour to get actual knowledge of the temples and not just looking at them on your own. The provide cold water all throughout the tour and everything is on schedule" },
+                { author: "Emma", country: "Switzerland", rating: 5, date: "2026-11-19", text: "Sok was a great guide and he explains well about the tenple. overall the tour was good guided by hom. Highly reccommended!!" },
+                { author: "willem", country: "United States", rating: 5, date: "2026-11-17", text: "Excellent 2-day private tour. We much appreciated having the freedom to stay longer or shorter at each stop, and oh how we loved having a driver with an airconditioned car and cold water waiting for us after each visit in the sweltering heat (in total we visited 8 different temples/sites). Our guide Kanha was truly terrific. Knowledgeable and personable, helping us understand both the Khmer civilization, the unique aspects of each site, and modern Cambodia. She also had a great sense of humor and is a top notch photographer who got us amazing pictures that we would not have been able to take b" },
+                { author: "Alex", country: "United Kingdom", rating: 5, date: "2026-11-17", text: "Day one of the tour was a great experience and well organised with Vone as the guide who gave great insight into the history and cultural significance. A little exhausting due to the early start but necessary to catch the sunrise at Angkor Wat. Day 2 was less crowded and again, well organised. Sam was the guide on day 2 and was again, very friendly and gave great insight about the history and architecture." },
+                { author: "Elizabeth", country: "United Kingdom", rating: 5, date: "2026-11-17", text: "I loved this tour! Our guide was Sayon on the first day - he was really knowledgeable about the temples and also a great photographer! On day two, our guide was Sam - he was also really friendly and took us to some quieter temples while explaining the significance of them all. The drivers were also great and always on hand with cold water and towels for us. Would 100% recommend this tour and our wonderful guides!" },
+                { author: "Guilherme", country: "Australia", rating: 5, date: "2026-11-16", text: "The first day of tour was really nice, our tour guide Mr. Touch Pheap very knowledgeable and friendly, definitely recommend it! Very hot day and the bus driver waiting for us on every stop with a fresh cold bottle of water. Excited for the second day." },
+                { author: "Cassie", country: "United States", rating: 5, date: "2026-11-16", text: "Amazing tour! Great pace, so muck knowledge shared. Thank you, John!" },
+            ]
+        };
+    }
+
+    if (slug === 'phnom-penh-evening-food-tour-with-drinks-tuk-tuk') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 266,
+            guideRating: 5.0,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Daniela", country: "Germany", rating: 5, date: "2026-11-04", text: "This tour is a really great way to see different parts of the city at night and try various local dishes. We had a great group size and the guide Lee told us so much about food but also local life, and had great recommendations. There will be a lot of food, make sure you come hungry!" },
+                { author: "Mark", country: "United States", rating: 5, date: "2026-10-29", text: "Excellent tour. My guides name was Lee and he was excellent as well. Very engaging and knowledgeable. All the food I ate (which was a lot) was delicious. I plan on going back to some of the places during the rest of my time in Cambodia. I highly recommend this tour and highly recommend my guide Lee." },
+                { author: "Sean", country: "Malaysia", rating: 5, date: "2026-10-22", text: "It was an excellent tour. Kim was a great and informative guide. Ho Chi drove his very up market TikTok around the city on a lovely evening. Thank you." },
+                { author: "Calvin", country: "United States", rating: 5, date: "2026-09-26", text: "Happy Lee was amazing and his driver got us around town safely" },
+                { author: "Michael", country: "Germany", rating: 5, date: "2026-09-20", text: "Lee was a great guide and showed us places we would never go to. Great insight into Cambodian food and culture. Thank you!" },
+                { author: "Jessica", country: "Australia", rating: 5, date: "2026-09-13", text: "Great way to see the city and local food. Lee was a wonderful guide." },
+                { author: "Lily", country: "Australia", rating: 5, date: "2026-07-06", text: "Delicious and great to try some food we wouldn’t otherwise have had" },
+                { author: "Joel", country: "United Kingdom", rating: 5, date: "2026-07-03", text: "Everything was perfect and Sok our tour guide what a guy! had an incredible evening and all of the food and drink was delicious! can't recommend this enough!" },
+            ]
+        };
+    }
+
+    if (slug === 'siem-reap-half-day-private-grand-circuit-temples') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 19,
+            guideRating: 5.0,
+            valueRating: 5.0,
+            reviews: [
+                { author: "Julia", country: "Australia", rating: 5, date: "2026-11-08", text: "Wonderful way to spend an afternoon. mr Oeun was a great tuk tuk driver and the lemongrass scented cold towels he gave us were extra special!!!" },
+                { author: "Joanne", country: "Singapore", rating: 5, date: "2026-11-01", text: "Our guide Makara is very knowledgeable and friendly. The driver is very considerate as well. We really enjoyed the tour. Highly recommended!! :)" },
+                { author: "Chris", country: "United Kingdom", rating: 5, date: "2026-06-01", text: "Excellent tour with a smooth ride and cold water and towels to help with the heavy Cambodian heat. The guide Ra was friendly, knowledgeable and experienced. He answered all my questions and provided an informative and interesting tour. He also has tips for the local area so feel free to ask him anything! Thanks again." },
+                { author: "Sabrina", country: "Switzerland", rating: 5, date: "2026-05-01", text: "Ra was the perfect guide for us. We‘ve spent an afternoon with him exploring the fascinating world of temples around Siem Reap. Ra has an outstanding knowledge not only of the temples but also of the Cambodian/ Kmehr history. I must also state that he knows great spots for picutures and took great pictures from us. Full recommendation, i would book it again anytime." },
+                { author: "Natalie", country: "United States", rating: 5, date: "2026-11-12", text: "Everything was excellent!" },
+                { author: "Franziska", country: "Germany", rating: 5, date: "2026-11-05", text: "Unser Guide war sehr zuvorkommend, höflich und freundlich. Er hat sich Zeit genommen, um Fotos von uns zu machen und Geschichten zu erzählen. Jederzeit wieder und wir sind absolut zufrieden." },
+                { author: "Verified traveller", country: "United States", rating: 5, date: "2026-10-14", text: "really lovely guide! super kind." },
+                { author: "Verified traveller", country: "Austria", rating: 5, date: "2026-10-10", text: "nice private tour at my own speed. well educated guide. thank you!" },
+            ]
+        };
+    }
+
+    if (slug === 'siem-reap-angkor-wat-sunrise-small-group-tour-and') {
+        return {
+            averageRating: 5.0,
+            totalReviews: 488,
+            guideRating: 5.0,
+            valueRating: 4.88,
+            reviews: [
+                { author: "Danny", country: "United States", rating: 5, date: "2026-11-20", text: "I did really enjoy this tour, and Mr August was a good guide and very enthusiastic. We actually even saw him on a private tour the next day and he recognized us and was super friendly. The sunrise portion itself was very crowded, and kind of hard to post up somewhere and get pictures as people kept stepping in front of us. The rest of the temples were not terribly crowded except the top of the Ankor Wat temple. I'm sure it would have been more comfortable as a private tour but for the price, I thought it was very good. I would have like to know more about the engineering when it comes to the b" },
+                { author: "Asha", country: "United States", rating: 5, date: "2026-11-20", text: "As advertised, the tour was perfect. The guide was very knowledgeable and very friendly. The Angkor Wat was breathtaking and impressive. The breakfast was at a very nice and clean restaurant. The food was delicious. I recommend the group if anyone is planning a trip to Cambodia to visit Angkor Wat." },
+                { author: "Angela", country: "Australia", rating: 5, date: "2026-11-18", text: "An absolutely incredible experience made even better by the wonderful Mr. V who was very knowledgeable and super friendly. Small group size, excellent value for money. I’d highly recommend this tour." },
+                { author: "Beth", country: "United Kingdom", rating: 5, date: "2026-10-31", text: "Phanne was the most incredible tour guide. She was extremely knowledgeable and attentive throughout the tour. I would highly recommend this tour for anyone who is interested in the culture and history behind Angkor Wat." },
+                { author: "Vicky", country: "Switzerland", rating: 5, date: "2026-10-10", text: "We had a great tour of Angkor Wat with Jan. He was friendly, knowledgeable, and took some amazing photos of us. We really enjoyed the day and would definitely recommend him!" },
+                { author: "Kinzah", country: "United Kingdom", rating: 5, date: "2026-10-07", text: "Great morning tour of Angkor wat with super friendly and knowledgable guide, Jan. He explained all the sites to us and took fantastic photos at each iconic spot. We went to the local village, watched them make palm cakes and got to try too!" },
+                { author: "Charles", country: "United States", rating: 5, date: "2026-10-01", text: "Highly recommended and very informative. Our guide Sean and driver Tha provided excellent service during very hot day touring temples. Every detail of trip was planned out and verbalized itinerary throughout the day. They cared for us especially with wife not acclaimated to hot humidity. Sean was very informative and accommodating." },
+                { author: "Lydia", country: "Philippines", rating: 5, date: "2026-09-02", text: "Had an amazing experience with our tour guide Mony and our driver Jame. We learned a lot during this tour and Mony’s energy kept us going throughout the tour starting from sunrise. We had the best pictures too from Mony. Everything was well taken cared of, from our pick up to the delicious breakfast, palm cake cold towels and water. I highly recommend this tour esp with Mony and Jame, We had a wonderful time" },
+            ]
+        };
+    }
+
 
     return null;
 };
