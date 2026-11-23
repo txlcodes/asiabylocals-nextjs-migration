@@ -42644,6 +42644,183 @@ export const IT_TOURS: Record<string, TourT> = {
    "Barca turistica di Ine: circa 800-1.600 yen a persona (facoltativa)"
   ]
  },
+ "uji-and-kyoto-seasonnal-day-trip-small-group": {
+  "title": "Gita stagionale di un giorno a Uji e Kyoto (piccolo gruppo)",
+  "metaTitle": "Uji e Kyoto, gita stagionale in piccolo gruppo",
+  "metaDescription": "Dieci ore da Kyoto tra Sewaritei, il Tempio Katsuo-ji e le Cascate di Minoo, con tariffa del bus andata e ritorno e parcheggio inclusi.",
+  "shortDescription": "Dieci ore da Kyoto tra Sewaritei, il Tempio Katsuo-ji e le Cascate di Minoo, con tariffa del bus andata e ritorno e parcheggio inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta gita stagionale di dieci ore, in piccolo gruppo, porta la tariffa del bus andata e ritorno e le tariffe di parcheggio durante il tour, tra **Sewaritei**, il **Tempio Katsuo-ji** e le **Cascate di Minoo**. Tutte le spese personali diverse da quelle elencate restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus andata e ritorno",
+   "Tariffe di parcheggio durante il tour"
+  ],
+  "notIncluded": [
+   "Tutte le spese personali diverse da quelle elencate"
+  ]
+ },
+ "japanese-knife-craft-and-sharpening-workshop-in-gion": {
+  "title": "Laboratorio di artigianato e affilatura di coltelli giapponesi a Gion",
+  "metaTitle": "Coltelli giapponesi fatti a mano, Gion",
+  "metaDescription": "Un'ora a Gion per creare il proprio coltello da cucina, con personale bilingue, tutti gli strumenti e i materiali necessari inclusi.",
+  "shortDescription": "Un'ora a Gion per creare il proprio coltello da cucina, con personale bilingue, tutti gli strumenti e i materiali necessari inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi.\n\nQuesto laboratorio pratico di un'ora porta la creazione di un **coltello**, personale bilingue (inglese/giapponese), tutti gli strumenti e i materiali necessari, approfondimenti sull'artigianato giapponese, e un coltello da cucina fatto a mano da portare a casa. Gli upgrade della lama e del manico restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio pratico di creazione di coltelli",
+   "Personale bilingue (inglese/giapponese)",
+   "Tutti gli strumenti e i materiali necessari",
+   "Approfondimenti sull'artigianato giapponese",
+   "Coltello da cucina fatto a mano da portare a casa"
+  ],
+  "notIncluded": [
+   "Upgrade della lama e del manico"
+  ]
+ },
+ "3-hour-guided-nara-tour-deer-park-and-todaiji-highlights-by-local-operator": {
+  "title": "Tour guidato di 3 ore a Nara: Parco dei Cervi e luoghi iconici del Todaiji, con operatore locale",
+  "metaTitle": "Nara: Parco dei Cervi e Todaiji, tour di 3 ore",
+  "metaDescription": "Tre ore a Nara con il biglietto d'ingresso al Tempio Todai-ji e una guida turistica locale incluse.",
+  "shortDescription": "Tre ore a Nara con il biglietto d'ingresso al Tempio Todai-ji e una guida turistica locale incluse.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti.\n\nQuesto tour di tre ore, con operatore locale, porta il biglietto d'ingresso al **Tempio Todai-ji** e una guida turistica locale, tra il tempio e il **Parco dei Cervi**.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Tempio Todai-ji",
+   "Guida turistica locale"
+  ],
+  "notIncluded": []
+ },
+ "japanese-washoku-bento-small-group-cooking-class-in-kyoto": {
+  "title": "Corso di cucina in piccolo gruppo: bento washoku giapponese a Kyoto",
+  "metaTitle": "Corso di bento washoku a Kyoto",
+  "metaDescription": "Due ore e mezza a Kyoto per un corso di cucina in piccolo gruppo, con istruttore, ingredienti e quattro piatti preparati inclusi.",
+  "shortDescription": "Due ore e mezza a Kyoto per un corso di cucina in piccolo gruppo, con istruttore, ingredienti e quattro piatti preparati inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto corso di cucina in piccolo gruppo, di due ore e mezza, porta un istruttore, la lezione di cucina, gli ingredienti per **quattro piatti** del **washoku bento** giapponese, e grembiuli e altro equipaggiamento.",
+  "highlights": [],
+  "included": [
+   "Istruttore",
+   "Corso di cucina",
+   "Ingredienti",
+   "4 piatti",
+   "Grembiuli e altro equipaggiamento"
+  ],
+  "notIncluded": []
+ },
+ "pickleball-in-osaka-kobe-and-kyoto-with-locals-by-local-operator": {
+  "title": "Pickleball a Osaka, Kobe e Kyoto con la gente del posto, con operatore locale",
+  "metaTitle": "Pickleball con la gente del posto, Osaka, Kobe, Kyoto",
+  "metaDescription": "Tre ore a Kyoto per giocare a pickleball con la gente del posto, con palline e spogliatoio con doccia inclusi, racchetta propria e scarpe da interno richieste.",
+  "shortDescription": "Tre ore a Kyoto per giocare a pickleball con la gente del posto, con palline e spogliatoio con doccia inclusi, racchetta propria e scarpe da interno richieste.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di tre ore, con operatore locale, porta le palline da **pickleball** e lo spogliatoio con doccia. La propria racchetta (sono disponibili alcune racchette a noleggio se necessario) e le scarpe da sport da interno (non indossate all'esterno, poiché non è disponibile il noleggio scarpe) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Palline da pickleball",
+   "Spogliatoio con doccia"
+  ],
+  "notIncluded": [
+   "Portare la propria racchetta (se necessaria, sono disponibili alcune racchette a noleggio)",
+   "Portare scarpe da sport da interno (non indossate all'esterno; non è disponibile il noleggio scarpe)"
+  ]
+ },
+ "kyoto-shiga-highlights-day-tour-miho-museum-and-shirahige-shrine-by-local-operator": {
+  "title": "Kyoto e Shiga, luoghi iconici: tour di un giorno al Museo Miho e al Santuario Shirahige, con operatore locale",
+  "metaTitle": "Museo Miho e Santuario Shirahige, da Kyoto",
+  "metaDescription": "Dieci ore da Kyoto al Museo Miho e all'ex Tempio Chikurin-in, con servizio veicolo fino a 10 ore, carburante e autista-guida inclusi.",
+  "shortDescription": "Dieci ore da Kyoto al Museo Miho e all'ex Tempio Chikurin-in, con servizio veicolo fino a 10 ore, carburante e autista-guida inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour di dieci ore collega il **Museo Miho** e l'**ex Tempio Chikurin-in**, con la tariffa del servizio veicolo indicata nell'itinerario, carburante, pedaggi e tariffe autostradali, il servizio veicolo fino a 10 ore come previsto dalla legge giapponese, la tariffa del servizio autista-guida, e un piccolo gruppo da 1 a 13 ospiti, oppure un tour in bus da 14 a 45 ospiti, con il tipo di veicolo adeguato alla dimensione finale del gruppo il giorno del viaggio. I veicoli di riferimento sono: da 5 a 8 posti una Toyota Alphard o equivalente, da 9 a 14 posti una Toyota Hiace o equivalente, da 18 a 22 posti un minibus, oltre 22 posti un bus grande; i modelli sono indicativi e possono variare secondo la dimensione del gruppo. L'alloggio, i pasti, i biglietti d'ingresso alle attrazioni, le attività opzionali e qualsiasi spesa personale restano a carico del cliente; è una gita di un giorno, per cui i bagagli non sono consigliati, ma se necessari vanno segnalati alla prenotazione con una tariffa di 100 yuan cinesi a pezzo, e qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\" resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del servizio veicolo indicata nell'itinerario",
+   "Carburante, pedaggi e tariffe autostradali",
+   "Servizio veicolo fino a 10 ore (come previsto dalla legge giapponese)",
+   "Tariffa del servizio autista-guida",
+   "Piccolo gruppo da 1 a 13 ospiti; tour in bus da 14 a 45 ospiti",
+   "Il tipo di veicolo è adeguato alla dimensione finale del gruppo il giorno del viaggio",
+   "Veicoli di riferimento",
+   "Da 5 a 8 posti: Toyota Alphard o equivalente",
+   "Da 9 a 14 posti: Toyota Hiace o equivalente",
+   "Da 18 a 22 posti: minibus",
+   "Oltre 22 posti: bus grande",
+   "I modelli di veicolo sono indicativi e possono variare secondo la dimensione del gruppo"
+  ],
+  "notIncluded": [
+   "Alloggio, pasti, biglietti d'ingresso alle attrazioni, attività opzionali e qualsiasi spesa personale",
+   "È una gita di un giorno; i bagagli non sono consigliati",
+   "Se sono necessari bagagli, segnalarlo alla prenotazione con una tariffa di 100 yuan cinesi a pezzo",
+   "Qualsiasi elemento non specificamente indicato nella sezione \"cosa è incluso\""
+  ]
+ },
+ "kyoto-ohara-forest-rail-and-kifune-shrine-day-trip": {
+  "title": "Gita di un giorno a Ohara, sulla ferrovia nel bosco e al Santuario Kifune, Kyoto",
+  "metaTitle": "Ohara, ferrovia panoramica e Santuario Kifune",
+  "metaDescription": "Dieci ore da Kyoto tra il Tempio Nanzenji, il Tempio Sanzen-in e il treno, con tariffa dell'autista, veicolo e biglietto della ferrovia Eizan inclusi.",
+  "shortDescription": "Dieci ore da Kyoto tra il Tempio Nanzenji, il Tempio Sanzen-in e il treno, con tariffa dell'autista, veicolo e biglietto della ferrovia Eizan inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta gita di dieci ore collega il **Tempio Nanzenji**, il **Tempio Sanzen-in** e il viaggio in treno, con la tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni), il veicolo, e il biglietto della panoramica **ferrovia Eizan**. Pasti e bevande, l'ingresso al Nanzen-ji e all'Eikan-do, e l'ingresso al Sanzen-in restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del servizio di guida (l'autista non accompagna all'interno delle attrazioni)",
+   "Veicolo",
+   "Biglietto della panoramica ferrovia Eizan"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Ingresso al Nanzen-ji e all'Eikan-do non incluso",
+   "Ingresso al Sanzen-in non incluso"
+  ]
+ },
+ "arashiyama-unveiled-bamboo-temple-matcha-monkeys": {
+  "title": "Arashiyama svelata: bambù, tempio, matcha e scimmie",
+  "metaTitle": "Arashiyama: bambù, tempio, matcha, scimmie",
+  "metaDescription": "Quattro ore ad Arashiyama tra il Tempio Tenryu-ji, il Bosco di Bambù e il Santuario Nonomiya, con un tè matcha e l'ingresso al Monkey Park inclusi.",
+  "shortDescription": "Quattro ore ad Arashiyama tra il Tempio Tenryu-ji, il Bosco di Bambù e il Santuario Nonomiya, con un tè matcha e l'ingresso al Monkey Park inclusi.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione.\n\nQuesta esperienza di quattro ore porta un tour guidato in lingua inglese, l'ingresso al **Tempio Tenryu-ji**, una bevanda di **matcha**, e l'ingresso al **Monkey Park**, tra il tempio, il **Bosco di Bambù di Arashiyama** e il **Santuario Nonomiya**. Cibo e bevande extra restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato in lingua inglese",
+   "Ingresso al Tempio Tenryu-ji incluso",
+   "Una bevanda di matcha offerta",
+   "Ingresso al Monkey Park incluso"
+  ],
+  "notIncluded": [
+   "Cibo e bevande extra"
+  ]
+ },
+ "kurama-temple-and-mountain-legends-guided-hike-in-kyoto": {
+  "title": "Tempio Kurama e le leggende della montagna: escursione guidata a Kyoto",
+  "metaTitle": "Tempio Kurama, leggende della montagna, Kyoto",
+  "metaDescription": "Quattro ore di escursione guidata al Tempio Kurama, con guida esperta locale e biglietto d'ingresso a Kurama inclusi.",
+  "shortDescription": "Quattro ore di escursione guidata al Tempio Kurama, con guida esperta locale e biglietto d'ingresso a Kurama inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta escursione guidata di quattro ore porta una guida locale esperta e il biglietto d'ingresso al **Tempio Kurama**. Il trasporto da e per Kurama resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato di 4 ore",
+   "Guida locale esperta",
+   "Biglietto d'ingresso a Kurama"
+  ],
+  "notIncluded": [
+   "Trasporto da e per Kurama"
+  ]
+ },
+ "philosopher-s-path-and-hidden-temple-cultural-walk-in-kyoto": {
+  "title": "Il Sentiero del Filosofo e un tempio nascosto: passeggiata culturale a Kyoto",
+  "metaTitle": "Sentiero del Filosofo e tempio nascosto, Kyoto",
+  "metaDescription": "Un'ora e mezza a Kyoto tra il Tempio Honen-in e l'Eikan-do Zenrin-ji, con guida culturale e biglietti d'ingresso secondo il percorso scelto inclusi.",
+  "shortDescription": "Un'ora e mezza a Kyoto tra il Tempio Honen-in e l'Eikan-do Zenrin-ji, con guida culturale e biglietti d'ingresso secondo il percorso scelto inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta passeggiata culturale di un'ora e mezza porta una guida locale con approfondimenti culturali e storici per tutto il percorso, visite guidate a templi, giardini e percorsi panoramici a seconda dell'opzione scelta, i biglietti d'ingresso ai siti del templi inclusi nel percorso scelto, e opzioni di percorso flessibili tra una passeggiata ai templi più breve o un itinerario culturale più lungo, tra il **Tempio Honen-in** e l'**Eikan-do Zenrin-ji**. Il trasporto da e per il punto di incontro, cibo e bevande, le spese personali come souvenir o donazioni ai templi, e i biglietti d'ingresso ai siti fuori dall'opzione di percorso scelta restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale con approfondimenti culturali e storici per tutto il percorso",
+   "Visite guidate a templi, giardini e percorsi panoramici a seconda dell'opzione scelta",
+   "Biglietti d'ingresso ai siti dei templi inclusi nel percorso scelto",
+   "Opzioni di percorso flessibili, tra una passeggiata ai templi più breve o un itinerario culturale più lungo"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto di incontro non incluso",
+   "Cibo e bevande non inclusi durante il tour",
+   "Spese personali come souvenir o donazioni ai templi non incluse",
+   "Biglietti d'ingresso ai siti fuori dall'opzione di percorso scelta non inclusi"
+  ]
+ },
  "nara-wagashi-workshop-with-matcha-tasting": {
   "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
   "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
