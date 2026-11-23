@@ -46541,6 +46541,201 @@ export const IT_TOURS: Record<string, TourT> = {
    "Altre spese personali non menzionate"
   ]
  },
+ "mt-fuji-scenic-day-trip-lake-ashi-volcanic-cable-car-shrine-mount-fuji": {
+  "title": "Gita panoramica di un giorno al Monte Fuji: Lago Ashi, funivia vulcanica, santuario (Monte Fuji)",
+  "metaTitle": "Monte Fuji, Lago Ashi e funivia vulcanica",
+  "metaDescription": "Dieci ore tra il Santuario di Hakone e il Torii della Pace, con trasporto in veicolo climatizzato, guida in inglese/francese/giapponese e funivia incluse.",
+  "shortDescription": "Dieci ore tra il Santuario di Hakone e il Torii della Pace, con trasporto in veicolo climatizzato, guida in inglese/francese/giapponese e funivia incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707. Le gite di un giorno da Tokyo raggiungono i Cinque Laghi del Fuji sul lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista riflessa, le sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida, e spesso la Fuji Subaru Line fino alla quinta stazione a 2.300 metri.\n\nQuesta gita panoramica di dieci ore porta il trasporto in veicolo climatizzato, una guida in inglese, francese o giapponese, il biglietto della funivia aerea, e tutte le tasse e tariffe di servizio, tra il **Santuario di Hakone** e il **Torii della Pace**. Pasti, spese personali e la crociera opzionale sulla Nave Pirata del Lago Ashi (1.700 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in veicolo climatizzato",
+   "Guida in inglese, francese o giapponese",
+   "Biglietto della funivia aerea",
+   "Tutte le tasse e tariffe di servizio"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Crociera sulla Nave Pirata del Lago Ashi (1.700 yen), attività opzionale"
+  ]
+ },
+ "mt-fuji-hakone-day-tour-with-lake-ashi-cruise-free-ropeway-mount-fuji": {
+  "title": "Tour di un giorno Monte Fuji e Hakone con crociera sul Lago Ashi, funivia gratuita (Monte Fuji)",
+  "metaTitle": "Monte Fuji e Hakone: crociera e funivia gratuita",
+  "metaDescription": "Dieci ore tra il Santuario di Hakone e la Valle di Owakudani, con trasporto andata e ritorno da Tokyo, biglietto della funivia e guida turistica incluse.",
+  "shortDescription": "Dieci ore tra il Santuario di Hakone e la Valle di Owakudani, con trasporto andata e ritorno da Tokyo, biglietto della funivia e guida turistica incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesto tour di dieci ore collega **Hakone** e il **Monte Fuji**, con il trasporto andata e ritorno da Tokyo, il biglietto della funivia, una guida turistica, un autista, e la tariffa di parcheggio, tra il **Santuario di Hakone** e la **Valle di Owakudani**. Pranzo e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno da Tokyo",
+   "Biglietto della funivia",
+   "Guida turistica",
+   "Autista",
+   "Tariffa di parcheggio"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Spese personali"
+  ]
+ },
+ "mt-fuji-and-hakone-lake-ashi-pirate-ship-and-owakudani-ropeway-mount-fuji": {
+  "title": "Monte Fuji e Hakone, nave pirata sul Lago Ashi e funivia di Owakudani (Monte Fuji)",
+  "metaTitle": "Monte Fuji e Hakone: nave pirata e funivia",
+  "metaDescription": "Otto ore al Monte Fuji con una guida turistica professionista e l'ingresso alla funivia di Hakone (1.500 yen) incluse.",
+  "shortDescription": "Otto ore al Monte Fuji con una guida turistica professionista e l'ingresso alla funivia di Hakone (1.500 yen) incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesta esperienza di otto ore porta una guida turistica professionista, l'ingresso alla **funivia di Hakone** (1.500 yen), e trasferimenti andata e ritorno dal punto di incontro. Pasti e bevande, altre spese personali, e la tariffa della crociera sulla Nave Pirata di Hakone sul Lago Ashi (si può chiedere alla guida di acquistarla) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica professionista",
+   "Ingresso alla funivia di Hakone (1.500 yen)",
+   "Trasferimenti andata e ritorno dal punto di incontro"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Altre spese personali",
+   "Tariffa della crociera sulla Nave Pirata di Hakone sul Lago Ashi (si può chiedere alla guida di acquistarla)"
+  ]
+ },
+ "mt-fuji-hakone-ninja-bus-water-spider-day-trip": {
+  "title": "Gita di un giorno Monte Fuji, Hakone, Ninja Bus e Water Spider",
+  "metaTitle": "Monte Fuji, Hakone, Ninja Bus e Water Spider",
+  "metaDescription": "Dieci ore tra il Santuario di Hakone e Owakudani, con veicolo climatizzato, pick-up e drop-off in hotel e il biglietto del Ninja Bus incluse.",
+  "shortDescription": "Dieci ore tra il Santuario di Hakone e Owakudani, con veicolo climatizzato, pick-up e drop-off in hotel e il biglietto del Ninja Bus incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesta gita di dieci ore collega **Hakone** e **Owakudani**, con un veicolo climatizzato, il pick-up e il drop-off in hotel (quartieri selezionati), e il biglietto del **Ninja Bus**, tra il **Santuario di Hakone**. Pasti e bevande, spese personali (ad esempio souvenir, snack), e il biglietto della funivia di Hakone restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Veicolo climatizzato",
+   "Pick-up e drop-off in hotel (quartieri selezionati)",
+   "Biglietto del Ninja Bus"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Spese personali (ad esempio souvenir, snack)",
+   "Biglietto della funivia di Hakone"
+  ]
+ },
+ "venetian-glass-museum-ticket-and-digital-art-guide-in-hakone": {
+  "title": "Biglietto per il Museo del Vetro Veneziano e guida digitale sull'arte a Hakone",
+  "metaTitle": "Museo del Vetro Veneziano, biglietto e guida digitale",
+  "metaDescription": "Biglietto elettronico d'ingresso generale al Museo del Vetro Veneziano di Hakone, con una guida digitale esclusiva sull'arte del vetro veneziano e l'ingresso con codice QR incluse.",
+  "shortDescription": "Biglietto elettronico d'ingresso generale al Museo del Vetro Veneziano di Hakone, con una guida digitale esclusiva sull'arte del vetro veneziano e l'ingresso con codice QR incluse.",
+  "fullDescription": "Hakone è la località termale tra le montagne novanta minuti a sud-ovest di Tokyo, dentro la caldera di un antico vulcano. Il percorso classico è la funivia di Hakone sopra le fumarole sulfuree di Owakudani, una traversata in barca sul Lago Ashi davanti al torii rosso del Santuario di Hakone.\n\nQuesto servizio fornisce il biglietto elettronico d'ingresso generale al **Museo del Vetro Veneziano di Hakone**, una guida digitale esclusiva sull'arte del vetro veneziano (in PDF o testo), e il servizio di ingresso diretto con codice QR. I laboratori di lavorazione del vetro (acquistabili separatamente sul posto), cibo, bevande e acquisti personali, e il trasporto fino al luogo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto elettronico d'ingresso generale al Museo del Vetro Veneziano di Hakone",
+   "Guida digitale esclusiva sull'arte del vetro veneziano (PDF/testo)",
+   "Servizio di ingresso diretto con codice QR"
+  ],
+  "notIncluded": [
+   "Laboratori di lavorazione del vetro (acquistabili separatamente sul posto)",
+   "Cibo, bevande e acquisti personali",
+   "Trasporto fino al luogo"
+  ]
+ },
+ "mt-fuji-hakone-owakudani-and-lake-ashi-bus-tour": {
+  "title": "Tour in bus Monte Fuji, Hakone, Owakudani e Lago Ashi",
+  "metaTitle": "Monte Fuji, Hakone, Owakudani, Lago Ashi",
+  "metaDescription": "Dieci ore tra il Lago Ashi e Owakudani, con guida in lingua inglese, trasporto in bus o veicolo privato, e soste fotografiche incluse.",
+  "shortDescription": "Dieci ore tra il Lago Ashi e Owakudani, con guida in lingua inglese, trasporto in bus o veicolo privato, e soste fotografiche incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesto tour in bus di dieci ore collega il **Monte Fuji**, **Hakone**, **Owakudani** e il **Lago Ashi**, con una guida in lingua inglese, il trasporto in bus o veicolo privato, e soste fotografiche. Le tariffe d'ingresso per la funivia di Hakone e la nave pirata (facoltative), e il pranzo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Trasporto in bus o veicolo privato",
+   "Soste fotografiche"
+  ],
+  "notIncluded": [
+   "Tariffe d'ingresso per la funivia di Hakone e la nave pirata (facoltative)",
+   "Pranzo"
+  ]
+ },
+ "hakone-and-mt-fuji-classic-day-tour-cable-car-included-mount-fuji": {
+  "title": "Tour classico di un giorno a Hakone e al Monte Fuji (funivia incluse) (Monte Fuji)",
+  "metaTitle": "Hakone e Monte Fuji, tour classico con funivia",
+  "metaDescription": "Dieci ore tra il Santuario di Hakone e il torii sull'acqua, con tariffa della funivia, servizio di trasporto, pedaggi autostradali e autista incluse.",
+  "shortDescription": "Dieci ore tra il Santuario di Hakone e il torii sull'acqua, con tariffa della funivia, servizio di trasporto, pedaggi autostradali e autista incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesto tour classico di dieci ore collega **Hakone** e il **Monte Fuji**, con la tariffa della funivia, il servizio di trasporto, i pedaggi autostradali, le tariffe di parcheggio, e un autista professionista, tra il **Santuario di Hakone** e il torii sull'acqua. Pranzo, la tariffa della nave pirata, cibo e bevande, e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa della funivia",
+   "Servizio di trasporto",
+   "Pedaggi autostradali",
+   "Tariffe di parcheggio",
+   "Autista professionista"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Tariffa della nave pirata",
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "mount-fuji-hakone-tour-volcano-cable-car-and-lake-ashi-cruise-by-local-operator": {
+  "title": "Monte Fuji e Hakone: vulcano, funivia e crociera sul Lago Ashi, con operatore locale",
+  "metaTitle": "Monte Fuji e Hakone: vulcano e crociera sul Lago Ashi",
+  "metaDescription": "Undici ore tra il Santuario di Hakone e una crociera panoramica, con tariffa del servizio veicolo, carburante, servizio fino a 10 ore e biglietto della funivia incluse.",
+  "shortDescription": "Undici ore tra il Santuario di Hakone e una crociera panoramica, con tariffa del servizio veicolo, carburante, servizio fino a 10 ore e biglietto della funivia incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesto tour di undici ore, con operatore locale, porta: 1) la tariffa del servizio veicolo indicata nell'itinerario; 2) i costi del carburante del veicolo, i pedaggi e le tariffe autostradali; 3) il servizio veicolo entro 10 ore, come previsto dalla legge giapponese; 4) la guida turistica; 5) il pick-up e il drop-off nel punto di incontro stabilito; 6) il biglietto della funivia (1.700 yen), tra il **Santuario di Hakone** e una crociera panoramica. Restano a carico del cliente: 1) le spese personali; 2) il biglietto della crociera (1.700 yen).",
+  "highlights": [],
+  "included": [
+   "1) Tariffa del servizio veicolo indicata nell'itinerario",
+   "2) Costi del carburante del veicolo, pedaggi e tariffe autostradali",
+   "3) Servizio veicolo entro 10 ore (legge giapponese)",
+   "4) Guida turistica",
+   "5) Pick-up e drop-off nel punto di incontro stabilito",
+   "6) Biglietto della funivia: 1.700 yen"
+  ],
+  "notIncluded": [
+   "1) Spese personali",
+   "2) Biglietto della crociera: 1.700 yen"
+  ]
+ },
+ "mt-fuji-hakone-and-arakura-pagoda-day-tour-from-tokyo-mount-fuji": {
+  "title": "Tour di un giorno da Tokyo: Monte Fuji, Hakone e la Pagoda Arakura (Monte Fuji)",
+  "metaTitle": "Monte Fuji, Hakone, Pagoda Arakura da Tokyo",
+  "metaDescription": "Dieci ore tra il Santuario di Hakone e la Valle di Owakudani, con guida in cinese, inglese e giapponese, biglietto della funivia di Hakone e pullman incluse.",
+  "shortDescription": "Dieci ore tra il Santuario di Hakone e la Valle di Owakudani, con guida in cinese, inglese e giapponese, biglietto della funivia di Hakone e pullman incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesto tour di dieci ore da Tokyo collega il **Monte Fuji**, **Hakone** e la **Pagoda Arakura**, con una guida in cinese, inglese e giapponese, il biglietto della **funivia di Hakone**, e il pullman, tra il **Santuario di Hakone** e la **Valle di Owakudani**. Spese personali, cibo e snack, assicurazione di viaggio, e mance (facoltative) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in cinese, inglese e giapponese",
+   "Biglietto della funivia di Hakone",
+   "Pullman"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Cibo e snack",
+   "Assicurazione di viaggio",
+   "Mance (facoltative)"
+  ]
+ },
+ "4-day-private-tour-nikko-nagano-mount-fuji-and-tokyo": {
+  "title": "Tour privato di 4 giorni: Nikko, Nagano, Monte Fuji e Tokyo",
+  "metaTitle": "Tour privato di 4 giorni: Nikko, Nagano, Fuji, Tokyo",
+  "metaDescription": "Quattro giorni al Monte Fuji con tour privato solo per il proprio gruppo, pick-up e drop-off porta a porta a Tokyo e dintorni, carburante e bevande incluse.",
+  "shortDescription": "Quattro giorni al Monte Fuji con tour privato solo per il proprio gruppo, pick-up e drop-off porta a porta a Tokyo e dintorni, carburante e bevande incluse.",
+  "fullDescription": "Il Monte Fuji è alto 3.776 metri, la montagna più alta del Giappone e un vulcano attivo che ha eruttato per l'ultima volta nel 1707.\n\nQuesto tour privato di quattro giorni collega **Nikko**, **Nagano**, il **Monte Fuji** e **Tokyo**, con un tour privato solo per il proprio gruppo (fino a sei persone), il pick-up e il drop-off porta a porta a Tokyo e nelle aree vicine, il carburante, i pedaggi autostradali e le tariffe di parcheggio, tutti inclusi, un autista in lingua inglese, bevande gratuite (acqua in bottiglia, tè, caffè), orari di inizio e fine flessibili secondo le proprie preferenze, un'ora extra gratuita da usare in due giornate a scelta, assistenza per video e foto, assistenza via chat 24 ore su 24 tramite email, WhatsApp o Line, e un calendario flessibile: quattro giorni consecutivi o un giorno di riposo tra i tour. Pasti, spese personali (abbigliamento invernale, ombrelli o attrezzatura da trekking), l'alloggio in hotel, e il pick-up e drop-off in aeroporto o al porto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato solo per il proprio gruppo (per gruppo fino a 6)",
+   "Pick-up e drop-off porta a porta a Tokyo e nelle aree vicine",
+   "Carburante, pedaggi autostradali, tariffe di parcheggio, tutto incluso",
+   "Autista in lingua inglese",
+   "Bevande gratuite: acqua in bottiglia, tè, caffè",
+   "Orari di inizio e fine flessibili secondo le proprie preferenze",
+   "1 ora extra gratuita disponibile da usare in due giornate a scelta",
+   "Assistenza per video e foto",
+   "Assistenza via chat 24 ore su 24 tramite email e WhatsApp o Line",
+   "Calendario flessibile: 4 giorni consecutivi o un giorno di riposo tra i tour"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali (abbigliamento invernale, ombrelli o attrezzatura da trekking)",
+   "Alloggio in hotel",
+   "Pick-up e drop-off in aeroporto o al porto"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
