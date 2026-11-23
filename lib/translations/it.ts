@@ -43798,6 +43798,189 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "private-customized-walking-tour-with-a-local-insider-in-kyoto": {
+  "title": "Tour a piedi privato e personalizzato con un local insider a Kyoto",
+  "metaTitle": "Tour a piedi privato con un local insider",
+  "metaDescription": "Due ore a Kyoto con un tour a piedi privato e personalizzato, consigli da insider, orari flessibili e un questionario preliminare incluso.",
+  "shortDescription": "Due ore a Kyoto con un tour a piedi privato e personalizzato, consigli da insider, orari flessibili e un questionario preliminare incluso.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour a piedi privato e personalizzato di due ore porta consigli da insider di un locale appassionato, durate e orari di partenza flessibili (scelti al momento della prenotazione), un questionario preliminare per personalizzare l'esperienza, e la comunicazione diretta con l'host per la pianificazione dell'itinerario e i consigli. Cibo e bevande aggiuntivi o biglietti per le attrazioni, i costi di trasporto (essendo un tour a piedi, i mezzi pubblici possono essere usati con un costo extra), e le mance, facoltative, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi privato e personalizzato",
+   "Consigli da insider di un locale appassionato",
+   "Durate e orari di partenza flessibili, scelti al momento della prenotazione",
+   "Questionario preliminare per personalizzare l'esperienza",
+   "Comunicazione diretta con l'host per la pianificazione dell'itinerario e i consigli"
+  ],
+  "notIncluded": [
+   "Cibo, bevande o biglietti per attrazioni aggiuntivi",
+   "Costi di trasporto (essendo un tour a piedi, i mezzi pubblici possono essere usati con un costo extra)",
+   "Mance (facoltative)"
+  ]
+ },
+ "early-bird-arashiyama-bamboo-and-tenryu-ji-tour": {
+  "title": "Tour mattutino al Bosco di Bambù di Arashiyama e al Tenryu-ji",
+  "metaTitle": "Arashiyama e Tenryu-ji al mattino presto",
+  "metaDescription": "Tre ore ad Arashiyama tra il Tempio Tenryuji e il Bosco di Bambù, con una guida turistica locale inclusa.",
+  "shortDescription": "Tre ore ad Arashiyama tra il Tempio Tenryuji e il Bosco di Bambù, con una guida turistica locale inclusa.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30; a metà mattina diventa una processione.\n\nQuesto tour mattutino di tre ore porta una guida turistica locale, tra il **Tempio Tenryuji** e il **Bosco di Bambù di Arashiyama**. Cibo e bevande, la tariffa di trasporto, i biglietti d'ingresso non indicati nella sezione \"incluso\", e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica locale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Tariffa di trasporto",
+   "Biglietti d'ingresso non indicati nella sezione \"incluso\"",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "amanohashidate-and-ine-boat-houses-day-trip-in-kyoto": {
+  "title": "Gita di un giorno ad Amanohashidate e alle case barca di Ine, Kyoto",
+  "metaTitle": "Amanohashidate e le case barca di Ine",
+  "metaDescription": "Dieci ore tra Amanohashidate e il villaggio dai tetti di paglia di Miyama, con trasporto andata e ritorno dal punto di incontro e guida in cinese/inglese incluse.",
+  "shortDescription": "Dieci ore tra Amanohashidate e il villaggio dai tetti di paglia di Miyama, con trasporto andata e ritorno dal punto di incontro e guida in cinese/inglese incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta gita di dieci ore collega **Amanohashidate** e il villaggio dai tetti di paglia di **Miyama**, con il trasporto andata e ritorno dal punto di incontro e una guida professionista in cinese e inglese. Pasti e bevande, spese personali, la gita opzionale in barca a Ine (1.200 yen), il biglietto della funicolare o della monorotaia di Amanohashidate (1.000 yen), e le mance, facoltative, restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno dal punto di incontro",
+   "Guida professionista in cinese e inglese"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Spese personali",
+   "Gita opzionale in barca a Ine (1.200 yen)",
+   "Biglietto della funicolare/monorotaia di Amanohashidate (1.000 yen)",
+   "Mance (facoltative)"
+  ]
+ },
+ "lake-biwa-scenic-tour-and-omihachiman-old-town-walk-in-kyoto": {
+  "title": "Tour panoramico del Lago Biwa e passeggiata nella città vecchia di Omihachiman, Kyoto",
+  "metaTitle": "Lago Biwa e città vecchia di Omihachiman",
+  "metaDescription": "Dieci ore tra il Santuario Shirahige e il punto panoramico sul Lago Biwa, con trasporto comodo, autista-guida autorizzato e veicolo adeguato al gruppo inclusi.",
+  "shortDescription": "Dieci ore tra il Santuario Shirahige e il punto panoramico sul Lago Biwa, con trasporto comodo, autista-guida autorizzato e veicolo adeguato al gruppo inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour panoramico di dieci ore collega il **Santuario Shirahige** e il punto panoramico sul **Lago Biwa**, con trasporto comodo, carburante, pedaggi e parcheggio inclusi, il servizio di un autista-guida autorizzato, e un veicolo moderno adeguato alla dimensione del gruppo, passando per la città vecchia di **Omihachiman**. Pranzo, la tariffa della funivia, l'ingresso al Tempio della Luna Piena, e pasti e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto comodo con carburante, pedaggi e parcheggio",
+   "Servizio di autista-guida autorizzato",
+   "Veicolo moderno adeguato alla dimensione del gruppo"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Tariffa della funivia",
+   "Ingresso al Tempio della Luna Piena",
+   "Pasti e spese personali"
+  ]
+ },
+ "kinkaku-ji-arashiyama-and-fushimi-inari-bus-tour": {
+  "title": "Tour in bus al Kinkaku-ji, Arashiyama e Fushimi Inari",
+  "metaTitle": "Kinkaku-ji, Arashiyama, Fushimi Inari in bus",
+  "metaDescription": "Nove ore tra il Parco di Nara, Arashiyama e il Ponte Togetsukyo, con biglietto d'ingresso al Kinkakuji, guida in inglese o cinese e veicolo climatizzato inclusi.",
+  "shortDescription": "Nove ore tra il Parco di Nara, Arashiyama e il Ponte Togetsukyo, con biglietto d'ingresso al Kinkakuji, guida in inglese o cinese e veicolo climatizzato inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesto tour in bus di nove ore collega il **Parco di Nara**, **Arashiyama** e il **Ponte Togetsukyo**, con il biglietto d'ingresso al **Tempio Kinkakuji**, una guida in inglese o cinese, un veicolo climatizzato, e il pranzo se l'opzione è selezionata. Il biglietto d'ingresso al Tempio Todai-ji resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Tempio Kinkakuji",
+   "Guida in inglese o cinese",
+   "Veicolo climatizzato",
+   "Pranzo (se l'opzione è selezionata)"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Tempio Todai-ji"
+  ]
+ },
+ "samurai-canals-and-edo-sake-brewery-walk-in-kyoto": {
+  "title": "Canali dei samurai e una fabbrica di sake dell'era Edo: passeggiata a Kyoto",
+  "metaTitle": "Canali dei samurai e fabbrica di sake Edo",
+  "metaDescription": "Tre ore e mezza a Kyoto tra i canali storici dei samurai e una fabbrica di sake dell'era Edo, con guida e tariffe del treno locale incluse.",
+  "shortDescription": "Tre ore e mezza a Kyoto tra i canali storici dei samurai e una fabbrica di sake dell'era Edo, con guida e tariffe del treno locale incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta passeggiata di tre ore e mezza porta una guida locale e le tariffe del treno locale, tra i canali storici dei **samurai** e una fabbrica di **sake** dell'era **Edo**.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Tariffe del treno locale"
+  ],
+  "notIncluded": []
+ },
+ "kyoto-tour-with-kimono-and-foot-spa": {
+  "title": "Tour di Kyoto con kimono e spa per i piedi",
+  "metaTitle": "Kyoto con kimono e spa per i piedi",
+  "metaDescription": "Giornata intera da Osaka a Kyoto con trasferimento privato, visita al Tempio Tenryu-ji, al Ponte Togetsukyo, l'esperienza del kimono e un pacchetto di spa per i piedi.",
+  "shortDescription": "Giornata intera da Osaka a Kyoto con trasferimento privato, visita al Tempio Tenryu-ji, al Ponte Togetsukyo, l'esperienza del kimono e un pacchetto di spa per i piedi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere.\n\nQuesta gita di una giornata intera porta il trasferimento privato da Osaka a Kyoto, la visita al **Tempio Tenryu-ji**, al **Ponte Togetsukyo**, l'esperienza di vestizione del **kimono**, la visita al **Bosco di Bambù di Arashiyama**, un pacchetto di spa per i piedi con massaggio, e il trasferimento privato di ritorno a Osaka. Le spese del pranzo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasferimento privato da Osaka a Kyoto",
+   "Visita al Tempio Tenryu-ji",
+   "Visita al Ponte Togetsukyo",
+   "Esperienza di vestizione del kimono",
+   "Visita al Bosco di Bambù di Arashiyama",
+   "Pacchetto di spa per i piedi con massaggio",
+   "Trasferimento privato di ritorno a Osaka"
+  ],
+  "notIncluded": [
+   "Spese del pranzo"
+  ]
+ },
+ "hidden-kyoto-e-bike-tour-local-alleyways-and-everyday-life-by-local-operator": {
+  "title": "Kyoto nascosta in e-bike: vicoli locali e vita quotidiana, con operatore locale",
+  "metaTitle": "Kyoto nascosta in e-bike: vicoli e vita quotidiana",
+  "metaDescription": "Tre ore e mezza tra il Parco Maruyama, il Chion-in e il Canale Shirakawa, con guida in lingua inglese, bicicletta elettrica, casco e assicurazione inclusi.",
+  "shortDescription": "Tre ore e mezza tra il Parco Maruyama, il Chion-in e il Canale Shirakawa, con guida in lingua inglese, bicicletta elettrica, casco e assicurazione inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour in **e-bike** di tre ore e mezza, con operatore locale, collega il **Parco Maruyama**, il **Chion-in** e il **Canale Shirakawa**, con una guida professionista in lingua inglese, una bicicletta elettrica ad alte prestazioni, casco e assicurazione per la bicicletta, e un poncho antipioggia se necessario. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida professionista in lingua inglese (selezionata da Kiyoto)",
+   "Bicicletta elettrica ad alte prestazioni (e-bike)",
+   "Casco e assicurazione per la bicicletta",
+   "Poncho antipioggia (se necessario)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "japanese-calligraphy-workshop-with-a-calligrapher-in-kyoto": {
+  "title": "Laboratorio di calligrafia giapponese con un calligrafo a Kyoto",
+  "metaTitle": "Calligrafia giapponese con un calligrafo",
+  "metaDescription": "Un'ora a Kyoto per un laboratorio di calligrafia giapponese, con istruzione sull'uso del pennello e dell'inchiostro, esplorazione dei kanji e un modello personalizzato.",
+  "shortDescription": "Un'ora a Kyoto per un laboratorio di calligrafia giapponese, con istruzione sull'uso del pennello e dell'inchiostro, esplorazione dei kanji e un modello personalizzato.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto laboratorio di un'ora porta il laboratorio di **calligrafia giapponese**, l'istruzione sull'uso del pennello e dell'inchiostro, la pratica dei tratti di base, l'esplorazione dei caratteri **kanji**, un modello di kanji personalizzato, la creazione di un souvenir (ventaglio, tavola shikishi o cartolina washi), e una foto ricordo con l'opera. Il trasporto fino al luogo, i pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di calligrafia giapponese",
+   "Istruzione sull'uso del pennello e dell'inchiostro",
+   "Pratica dei tratti di base",
+   "Esplorazione dei caratteri kanji",
+   "Modello di kanji personalizzato",
+   "Creazione di un souvenir (ventaglio, tavola shikishi o cartolina washi)",
+   "Foto ricordo con l'opera"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo",
+   "Pasti e bevande"
+  ]
+ },
+ "gion-private-professional-photoshoot": {
+  "title": "Servizio fotografico professionale privato a Gion",
+  "metaTitle": "Servizio fotografico professionale a Gion",
+  "metaDescription": "Quarantacinque minuti a Gion con un servizio fotografico narrativo e cinematografico, 35 foto modificate in alta risoluzione e consegna rapida in 3 giorni.",
+  "shortDescription": "Quarantacinque minuti a Gion con un servizio fotografico narrativo e cinematografico, 35 foto modificate in alta risoluzione e consegna rapida in 3 giorni.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Kyoto ha vietato le fotografie nei vicoli privati, ma un servizio fotografico guidato correttamente resta possibile nelle vie pubbliche.\n\nQuesta esperienza di quarantacinque minuti porta un servizio fotografico privato narrativo e cinematografico nelle vie storiche e nascoste di **Gion**, una guida esperta sulle pose e la direzione creativa per scatti naturali, 35 foto modificate in alta risoluzione (comprese 10 a propria scelta), una correzione colore cinematografica di qualità premium e un ritocco professionale, e una consegna rapida in 3 giorni tramite un link di download digitale sicuro. Il noleggio del kimono o di un costume tradizionale (da organizzare prima del tour), il trasporto da e per il punto di incontro, e cibo, bevande o spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio fotografico privato narrativo e cinematografico nelle vie storiche e nascoste di Gion",
+   "Guida esperta sulle pose e direzione creativa per scatti naturali",
+   "35 foto modificate in alta risoluzione (comprese 10 a propria scelta)",
+   "Correzione colore cinematografica di qualità premium e ritocco professionale",
+   "Consegna rapida in 3 giorni tramite link di download digitale sicuro"
+  ],
+  "notIncluded": [
+   "Noleggio del kimono o di un costume tradizionale (da organizzare prima del tour)",
+   "Trasporto da e per il punto di incontro",
+   "Cibo, bevande o spese personali"
+  ]
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
