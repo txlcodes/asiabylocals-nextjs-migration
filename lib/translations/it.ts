@@ -41272,6 +41272,188 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pasti, bevande e oggetti personali, biglietti del treno tra Osaka e Ikoma (circa 4 USD a tratta), costo della funivia di Ikoma (circa 2 USD a tratta)"
   ]
  },
+ "harajuku-tokyo-hand-building-pottery-class-standard-by-local-operator": {
+  "title": "Harajuku, Tokyo: corso di ceramica modellata a mano (Standard), con operatore locale",
+  "metaTitle": "Corso di ceramica, Harajuku",
+  "metaDescription": "Tour a Tokyo, con la creazione di 1-2 pezzi di ceramica con tecniche di modellazione a mano e la rifinitura del proprio lavoro incluse. Gestito da CLAY STUDIO, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour a Tokyo, con la creazione di 1-2 pezzi di ceramica con tecniche di modellazione a mano e la rifinitura del proprio lavoro incluse. Gestito da CLAY STUDIO, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 1,5 ore a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la creazione di 1-2 pezzi di ceramica, la rifinitura del proprio lavoro, la scelta tra diversi colori di smalto e il supporto completo di un istruttore esperto. Non comprende le spese di spedizione e un pezzo aggiuntivo di cottura se richiesto, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Creazione di 1-2 pezzi di ceramica con tecniche di modellazione a mano",
+   "Rifinitura del proprio lavoro",
+   "Scelta tra diversi colori di smalto",
+   "Supporto completo di un istruttore esperto"
+  ],
+  "notIncluded": [
+   "Spese di spedizione",
+   "Pezzo aggiuntivo di cottura se richiesto"
+  ]
+ },
+ "tokyo-night-jdm-car-culture-cruise-daikoku-pa-experience-by-local-operator": {
+  "title": "Tokyo: crociera notturna nella cultura delle auto JDM, l'esperienza del Daikoku PA, con operatore locale",
+  "metaTitle": "Cultura JDM, Daikoku PA",
+  "metaDescription": "Tour di 3 ore a Tokyo, che comprende Daikoku Parking Area, Rainbow Bridge, Tokyo e la Tokyo Tower. Gestito da RC26, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 3 ore a Tokyo, che comprende Daikoku Parking Area, Rainbow Bridge, Tokyo e la Tokyo Tower. Gestito da RC26, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3 ore a Tokyo, costruita intorno al Daikoku Parking Area e alla Tokyo Tower. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un tour guidato da madrelingua inglesi che conoscono Tokyo e la cultura JDM a fondo, il ritiro e il rientro su veicoli profondamente modificati e ad alte prestazioni, tutti i pedaggi autostradali e i costi del carburante interamente coperti, e un servizio fotografico disponibile durante tutto il viaggio. Non comprende biglietti d'ingresso, pasti, bevande e souvenir, eventuali spese personali fuori dall'itinerario previsto, e l'accesso ad aree fuori dal Daikoku Parking o a qualsiasi luogo di corse illegali su strada, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo. Gli animali domestici non sono ammessi nei veicoli.\n\nRitiro in hotel a Tokyo. RC26 confermerà l'orario di ritiro e il punto esatto una volta ricevuta la prenotazione. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour guidato da madrelingua inglesi che conoscono Tokyo e la cultura JDM a fondo",
+   "Ritiro e rientro su veicoli profondamente modificati e ad alte prestazioni",
+   "Tutti i pedaggi autostradali e i costi del carburante interamente coperti",
+   "Servizio fotografico disponibile durante tutto il viaggio (ti aiutiamo a catturare i tuoi momenti migliori)"
+  ],
+  "notIncluded": [
+   "Animali domestici non ammessi nei veicoli",
+   "Biglietti d'ingresso, pasti, bevande e souvenir non sono inclusi nel prezzo del tour",
+   "Eventuali spese personali fuori dall'itinerario previsto",
+   "Accesso ad aree fuori dal Daikoku Parking o a qualsiasi luogo di corse illegali su strada"
+  ]
+ },
+ "tokyo-private-cooking-class-ramen-and-gyoza-japan-home-exp-by-local-operator": {
+  "title": "Corso di cucina privato a Tokyo: ramen e gyoza, Japan Home Exp, con operatore locale",
+  "metaTitle": "Corso di cucina, ramen e gyoza",
+  "metaDescription": "Tour di 3 ore a Tokyo, con il corso di cucina e gli ingredienti per cucinare inclusi. Gestito da Cooking Trip, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di 3 ore a Tokyo, con il corso di cucina e gli ingredienti per cucinare inclusi. Gestito da Cooking Trip, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 3 ore a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il corso di cucina, gli ingredienti per cucinare, l'uso dell'attrezzatura da cucina e sake illimitato. Non comprende il trasporto fino al luogo e l'alloggio, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Corso di cucina",
+   "Ingredienti per cucinare",
+   "Uso dell'attrezzatura da cucina",
+   "Sake, birra, vino, tè giapponese, bibite ecc. illimitati"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo",
+   "Alloggio"
+  ]
+ },
+ "ninja-experience-cafe-asakusa": {
+  "title": "Ninja Experience Cafe Asakusa",
+  "metaTitle": "Ninja Experience Cafe, Asakusa",
+  "metaDescription": "Un'ora a Tokyo, con l'addestramento con armi ninja (shuriken, cerbottana e katana) e le indicazioni di istruttori ninja incluse. Gestito da Ninja Experience Cafe Asakusa, Tokyo, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Un'ora a Tokyo, con l'addestramento con armi ninja (shuriken, cerbottana e katana) e le indicazioni di istruttori ninja incluse. Gestito da Ninja Experience Cafe Asakusa, Tokyo, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende l'addestramento con armi ninja (shuriken, cerbottana e katana), le indicazioni di istruttori ninja, opportunità fotografiche con assistenza, il noleggio del costume da ninja e l'accesso alla struttura interna climatizzata. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Addestramento con armi ninja: shuriken, cerbottana e katana",
+   "Indicazioni di istruttori ninja",
+   "Opportunità fotografiche con assistenza (si possono scattare foto ovunque nel cafe)",
+   "Noleggio del costume da ninja",
+   "Accesso alla struttura interna climatizzata",
+   "Una bevanda analcolica al cafe",
+   "Un pasto (se l'opzione è selezionata)"
+  ],
+  "notIncluded": []
+ },
+ "cute-character-bento-art-cooking-class-in-tokyo": {
+  "title": "Corso di cucina artistica per bento a tema personaggi carini, a Tokyo",
+  "metaTitle": "Corso di bento art, personaggi carini",
+  "metaDescription": "Due ore a Tokyo, con un corso di cucina (istruzioni in inglese) e la creazione del proprio bento a tema personaggi con facce decorate incluse. Gestito da Tokyo Cute Bento (kawaii Cooking class), prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Due ore a Tokyo, con un corso di cucina (istruzioni in inglese) e la creazione del proprio bento a tema personaggi con facce decorate incluse. Gestito da Tokyo Cute Bento (kawaii Cooking class), prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di due ore a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il corso di cucina, la creazione del proprio bento a tema personaggi con facce e contorni decorati, tutti gli ingredienti e gli strumenti, una spiegazione culturale e il momento del pasto. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Corso di cucina (istruzioni in inglese)",
+   "Creazione del proprio bento a tema personaggi con facce e contorni decorati",
+   "Tutti gli ingredienti e gli strumenti",
+   "Spiegazione culturale",
+   "Momento del pasto",
+   "Sessione fotografica",
+   "Ricette in inglese",
+   "Souvenir dopo il corso"
+  ],
+  "notIncluded": []
+ },
+ "stand-up-comedy-in-shibuya-english-tokyo": {
+  "title": "Stand-up comedy a Shibuya (in inglese) (Tokyo)",
+  "metaTitle": "Stand-up comedy, Shibuya",
+  "metaDescription": "Un'ora e mezza a Tokyo, con il prezzo del biglietto che comprende solo l'ingresso. Gestito da Tokyo Comedy Bar, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Un'ora e mezza a Tokyo, con il prezzo del biglietto che comprende solo l'ingresso. Gestito da Tokyo Comedy Bar, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora e mezza a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo del biglietto comprende solo l'ingresso. Non comprende le bevande, quindi vanno previste a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Il prezzo del biglietto comprende solo l'ingresso"
+  ],
+  "notIncluded": [
+   "Bevande"
+  ]
+ },
+ "manga-drawing-workshop-guided-by-pro-manga-artist-in-tokyo": {
+  "title": "Laboratorio di disegno manga guidato da un artista manga professionista, a Tokyo",
+  "metaTitle": "Laboratorio di disegno manga",
+  "metaDescription": "Due ore e mezza a Tokyo, con un istruttore artista manga professionista e un interprete inclusi. Gestito da Manga Do, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Due ore e mezza a Tokyo, con un istruttore artista manga professionista e un interprete inclusi. Gestito da Manga Do, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di due ore e mezza a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende l'istruttore artista manga, l'interprete e i materiali per il disegno manga. Non comprende cibo e bevande e il ritiro, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Istruttore artista manga professionista",
+   "Interprete",
+   "Materiali per il disegno manga"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Ritiro"
+  ]
+ },
+ "authentic-ginza-chopstick-workshop-with-26-woods": {
+  "title": "Autentico laboratorio di bacchette a Ginza con 26 tipi di legno",
+  "metaTitle": "Laboratorio di bacchette, Ginza",
+  "metaDescription": "Un'ora a Tokyo, con il laboratorio di creazione di bacchette e l'uso di attrezzi e materiali incluse. Gestito da 株式会社木工房蔵, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Un'ora a Tokyo, con il laboratorio di creazione di bacchette e l'uso di attrezzi e materiali incluse. Gestito da 株式会社木工房蔵, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di un'ora a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il laboratorio di creazione di bacchette, l'uso di attrezzi e materiali, la piallatura a mano, la levigatura e la finitura a olio, le bacchette da portare a casa lo stesso giorno, e il supporto di personale che parla inglese. Non comprende l'incisione personalizzata (1.100 yen) e costi aggiuntivi per alcuni legni pregiati e rari, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di creazione di bacchette",
+   "Uso di attrezzi e materiali",
+   "Piallatura a mano, levigatura e finitura a olio",
+   "Bacchette da portare a casa lo stesso giorno",
+   "Supporto di personale che parla inglese",
+   "Uso di supporti per smartphone a ogni tavolo"
+  ],
+  "notIncluded": [
+   "Incisione personalizzata: 1.100 yen",
+   "Costi aggiuntivi per alcuni legni pregiati e rari. Nota: 5 tipi di legno sono disponibili senza sovrapprezzo. Per le altre opzioni di legno si applicano costi aggiuntivi a seconda del materiale scelto"
+  ]
+ },
+ "japanese-style-deep-tissue-massage-and-tea-experience-in-tokyo": {
+  "title": "Massaggio in stile giapponese ai tessuti profondi e degustazione di tè, a Tokyo",
+  "metaTitle": "Massaggio giapponese e tè",
+  "metaDescription": "Cinquanta minuti a Tokyo, con il trattamento di massaggio e il pediluvio inclusi. Gestito da クレディ・テック株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Cinquanta minuti a Tokyo, con il trattamento di massaggio e il pediluvio inclusi. Gestito da クレディ・テック株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 50 minuti a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il trattamento di massaggio, il pediluvio e il tè giapponese. Non comprende le spese di trasporto, quindi vanno previste a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Trattamento di massaggio",
+   "Pediluvio",
+   "Tè giapponese"
+  ],
+  "notIncluded": [
+   "Spese di trasporto"
+  ]
+ },
+ "3-geisha-show-with-shamisen-game-and-matcha-in-asakusa": {
+  "title": "Spettacolo con 3 geisha, shamisen, gioco e matcha, ad Asakusa",
+  "metaTitle": "Spettacolo con 3 geisha, Asakusa",
+  "metaDescription": "Settantacinque minuti a Tokyo, con un'esperienza culturale di 75 minuti e l'incontro con tre geisha professioniste incluse. Gestito da 料亭都鳥, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Settantacinque minuti a Tokyo, con un'esperienza culturale di 75 minuti e l'incontro con tre geisha professioniste incluse. Gestito da 料亭都鳥, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta è un'esperienza di 75 minuti a Tokyo. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende un'esperienza culturale di 75 minuti, l'incontro con tre geisha professioniste, un'esibizione di danza, musica dal vivo di shamisen e il gioco dell'Ozashiki-asobi. Non comprende il trasporto fino alla sede e i pasti diversi dai dolci, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Esperienza culturale di 75 minuti",
+   "Incontro con tre geisha professioniste",
+   "Esibizione di danza",
+   "Musica dal vivo di shamisen",
+   "Gioco dell'Ozashiki-asobi",
+   "Dolci giapponesi di stagione",
+   "Matcha appena frullato",
+   "Foto ricordo con le geisha"
+  ],
+  "notIncluded": [
+   "Trasporto fino alla sede",
+   "Pasti diversi dai dolci"
+  ]
+ },
  "imperial-palace-bike-tour": {
   "title": "Tokyo centrale in e-bike: tre ore tra i luoghi iconici",
   "metaTitle": "Tokyo centrale in e-bike in tre ore",
