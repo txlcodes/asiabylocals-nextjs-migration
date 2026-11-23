@@ -390,6 +390,108 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-nordic-sauna-worth-it-mirissa":
+      return {
+        title: "Is the Mirissa Nordic Sauna & Ice Bath Experience Worth It?",
+        description: "An honest look at the Nordic sauna and ice bath experience in Mirissa, a wellness activity distinct from the area's beach and marine-life tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1252500/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A genuinely unexpected offering for a tropical beach town — a proper Nordic-style sauna paired with a cold ice bath, the contrast therapy trend brought to Sri Lanka's south coast.",
+            tourCard: { slug: "mirissa-nordic-sauna-ice-bath-experience-with", title: "Mirissa: Nordic Sauna & Ice Bath Experience with TukTuk Ride", description: "A Nordic sauna and ice bath contrast therapy session in Mirissa.", price: "From $60", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1252500/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you have a heart condition or are pregnant, check with the operator first — cold-water immersion isn't suitable for everyone.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mirissa Nordic sauna experience worth it?", a: "Yes for travelers interested in contrast therapy wellness — it's a genuinely unusual offering for a tropical beach destination." },
+          { q: "Is the ice bath safe for everyone?", a: "Check with the operator if you have a heart condition or are pregnant — cold-water immersion isn't suitable for everyone." },
+        ],
+      };
+
+    case "is-night-snorkeling-worth-it-mirissa":
+      return {
+        title: "Is Night Snorkeling Worth It in Mirissa?",
+        description: "An honest look at the night snorkeling tour in Mirissa, focused on nocturnal marine life.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1232445/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Different marine species are active at night, so this gives a genuinely different view of the reef than the daytime turtle-snorkeling tours that dominate Mirissa's water activities — with dive lights revealing creatures rarely seen in daylight.",
+            tourCard: { slug: "night-snorkeling-in-mirissa-discover-nocturnal", title: "Night Snorkeling in Mirissa: Discover Nocturnal Marine Life", description: "A guided night snorkeling tour focused on nocturnal marine life.", price: "From $111", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1232445/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Comfortable open-water swimming ability matters more here than for a calm daytime turtle swim, since visibility is lower and you're relying on a dive light.",
+          },
+        ],
+        faqs: [
+          { q: "Is night snorkeling worth it in Mirissa?", a: "Yes for a genuinely different view of the reef — nocturnal species that daytime turtle-snorkeling tours won't show you." },
+          { q: "Do I need diving experience for night snorkeling?", a: "No, but comfortable open-water swimming matters more than for a calm daytime swim, given lower visibility." },
+        ],
+      };
+
+    case "best-water-sports-mirissa":
+      return {
+        title: "Which Water Sport Is Best to Try in Mirissa?",
+        description: "Mirissa's beach runs a full lineup of short motorized water sports — here's how the real options compare.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-945828/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "All of these are short (around 15-minute) motorized rides from the same stretch of beach — the real choice is which thrill you're after: speed and control (jet ski, water skiing), balance (wakeboarding), or a goofy group ride (donut tube).",
+            tourCard: { slug: "mirissa-jet-ski-experience", title: "Mirissa: Jet Ski Experience", description: "A jet ski ride in Mirissa.", price: "From $145", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-945828/img0/1600.webp" },
+          },
+          {
+            title: "Most Independent: Jet Ski",
+            content: "At $145, this is the priciest of the group, but it's the one where you're actually driving rather than being towed.",
+            tourCard: { slug: "mirissa-jet-ski-experience", title: "Mirissa: Jet Ski Experience", description: "A self-driven jet ski ride.", price: "From $145", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-945828/img0/1600.webp" },
+          },
+          {
+            title: "Best for Balance & Skill: Wakeboarding or Water Skiing",
+            content: "Both are towed behind a boat and roughly the same price — wakeboarding uses a single board, water skiing uses two skis. Pick based on which skill you'd rather attempt.",
+            tourCard: { slug: "wake-boarding-in-mirissa", title: "Wake Boarding in Mirissa", description: "A towed wakeboarding ride.", price: "From $103", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-917739/img0/1600.webp" },
+          },
+          {
+            title: "Cheapest & Most Fun in a Group: Donut Tube Ride",
+            content: "At $29, this is by far the cheapest option and the easiest for non-athletic travelers or small groups riding together.",
+            tourCard: { slug: "donut-tube-ride-in-mirissa", title: "Donut Tube Ride in Mirissa", description: "A towed inflatable donut tube ride.", price: "From $29", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-916918/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "All of these run in short 15-minute slots — book two or three back to back if you want a fuller water-sports afternoon rather than just one ride.",
+          },
+        ],
+        faqs: [
+          { q: "What's the best water sport to try in Mirissa?", a: "Jet ski if you want to drive yourself, wakeboarding or water skiing for a skill challenge, or the donut tube for the cheapest and most group-friendly option." },
+          { q: "How long do Mirissa's water sport rides last?", a: "Typically 15 minutes each — book multiple rides back to back for a longer session." },
+        ],
+      };
+
+    case "is-ayurvedic-retreat-worth-it-mirissa":
+      return {
+        title: "Is the Mirissa 2-Day Ayurvedic Wellness Retreat Worth It?",
+        description: "An honest look at the 2-day Ayurvedic wellness retreat with meals in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1432937/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuine multi-day wellness commitment rather than a single spa session — Sri Lanka has a long Ayurvedic medicine tradition, and a 2-day retreat with meals included gives a proper, immersive taste of it rather than a quick treatment.",
+            tourCard: { slug: "mirissa-2-day-ayurvedic-wellness-retreat-with", title: "Mirissa: 2-Day Ayurvedic Wellness Retreat with Meals", description: "A 2-day Ayurvedic wellness retreat with meals included.", price: "From $231", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1432937/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a real time commitment — block out 2 full days in your itinerary rather than treating it as a quick add-on activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mirissa Ayurvedic retreat worth it?", a: "Yes for travelers wanting a genuine, immersive taste of Ayurvedic tradition rather than a quick spa treatment — just budget 2 full days for it." },
+        ],
+      };
+
     default:
       return null;
   }

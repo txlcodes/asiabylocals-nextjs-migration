@@ -1658,6 +1658,8 @@ export const MIRISSA_INFO_SLUGS = [
   'is-batik-workshop-worth-it-mirissa',
   'is-whale-watching-tour-worth-it-mirissa', 'is-sunset-catamaran-worth-it-mirissa',
   'is-village-cooking-experience-worth-it-mirissa', 'is-kayak-floating-dinner-worth-it-mirissa',
+  'is-nordic-sauna-worth-it-mirissa', 'is-night-snorkeling-worth-it-mirissa',
+  'best-water-sports-mirissa', 'is-ayurvedic-retreat-worth-it-mirissa',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.
