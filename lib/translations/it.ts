@@ -45581,6 +45581,193 @@ export const IT_TOURS: Record<string, TourT> = {
    "Assicurazione di viaggio"
   ]
  },
+ "nifrel-interactive-aquazoo-entry-ticket-in-osaka": {
+  "title": "Biglietto d'ingresso all'acquario interattivo NIFREL a Osaka",
+  "metaTitle": "Biglietto per NIFREL, acquario interattivo",
+  "metaDescription": "Biglietto elettronico d'ingresso generale al NIFREL, con un pacchetto digitale bonus di letture sugli animali e un codice QR per un ingresso rapido.",
+  "shortDescription": "Biglietto elettronico d'ingresso generale al NIFREL, con un pacchetto digitale bonus di letture sugli animali e un codice QR per un ingresso rapido.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto servizio fornisce il biglietto elettronico d'ingresso generale al **NIFREL**, un pacchetto digitale bonus di letture sugli animali (in PDF o testo), e un codice QR diretto per un ingresso rapido. Cibo, bevande e shopping a EXPOCITY, il trasporto fino al luogo, e l'ingresso alla ruota panoramica OSAKA WHEEL restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto elettronico d'ingresso generale al NIFREL",
+   "Pacchetto digitale bonus di letture sugli animali (PDF/testo)",
+   "Codice QR diretto per un ingresso rapido"
+  ],
+  "notIncluded": [
+   "Cibo, bevande e shopping a EXPOCITY",
+   "Trasporto fino al luogo",
+   "Ingresso alla ruota panoramica OSAKA WHEEL"
+  ]
+ },
+ "chopstick-making-workshop-in-osaka": {
+  "title": "Laboratorio di creazione di bacchette a Osaka",
+  "metaTitle": "Laboratorio di bacchette, Osaka",
+  "metaDescription": "Un'ora a Osaka per creare le proprie bacchette, con scelta tra 6 tipi di legno, tra cui il cipresso giapponese, e la guida di un istruttore incluse.",
+  "shortDescription": "Un'ora a Osaka per creare le proprie bacchette, con scelta tra 6 tipi di legno, tra cui il cipresso giapponese, e la guida di un istruttore incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto laboratorio di un'ora porta la creazione delle proprie **bacchette**, la scelta tra sei tipi di legno diversi (il cipresso giapponese è incluso), la guida di un istruttore, e l'incisione opzionale con un costo aggiuntivo. Le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di creazione di bacchette",
+   "Scelta tra 6 tipi di legno diversi (il cipresso giapponese è incluso)",
+   "Guida di un istruttore",
+   "Incisione opzionale con un costo aggiuntivo"
+  ],
+  "notIncluded": [
+   "Mance"
+  ]
+ },
+ "kintsugi-gold-repair-pottery-workshop-in-osaka": {
+  "title": "Laboratorio di ceramica kintsugi, la riparazione in oro, a Osaka",
+  "metaTitle": "Kintsugi, riparazione in oro, Osaka",
+  "metaDescription": "Un'ora a Osaka per un laboratorio pratico di kintsugi, con la guida passo passo di un istruttore e piccoli piatti inclusi.",
+  "shortDescription": "Un'ora a Osaka per un laboratorio pratico di kintsugi, con la guida passo passo di un istruttore e piccoli piatti inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto laboratorio pratico di un'ora porta l'esperienza di **kintsugi**, la riparazione in oro, la guida passo passo di un istruttore, la creazione di un pezzo unico, e piccoli piatti (altri piatti comportano un costo aggiuntivo). Le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio pratico di kintsugi",
+   "Guida passo passo di un istruttore",
+   "Creazione di un pezzo unico di kintsugi",
+   "Piccoli piatti (altri piatti con costo aggiuntivo)"
+  ],
+  "notIncluded": [
+   "Mance"
+  ]
+ },
+ "wakayama-cat-train-and-soy-sauce-factory-guided-tour-in-osaka": {
+  "title": "Wakayama: il treno del gatto e un tour guidato alla fabbrica di salsa di soia, da Osaka",
+  "metaTitle": "Wakayama: treno del gatto e salsa di soia",
+  "metaDescription": "Nove ore dalla Stazione Kishi con guida turistica, veicolo climatizzato, Wi-Fi gratuito a bordo e un biglietto di sola andata per il treno del gatto incluse.",
+  "shortDescription": "Nove ore dalla Stazione Kishi con guida turistica, veicolo climatizzato, Wi-Fi gratuito a bordo e un biglietto di sola andata per il treno del gatto incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di nove ore, dalla **Stazione Kishi**, porta una guida turistica, un veicolo climatizzato, il Wi-Fi gratuito a bordo, acqua in bottiglia, un biglietto di sola andata per il **treno del gatto**, e una degustazione di salsa di soia. Pasti, spese personali e mance (facoltative) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica",
+   "Veicolo climatizzato",
+   "Wi-Fi gratuito a bordo",
+   "Acqua in bottiglia",
+   "Biglietto di sola andata per il treno del gatto",
+   "Degustazione di salsa di soia"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Mance (facoltative)"
+  ]
+ },
+ "vintage-coin-ring-making-workshop-in-osaka": {
+  "title": "Laboratorio di creazione di anelli da monete d'epoca a Osaka",
+  "metaTitle": "Anelli da monete d'epoca, Osaka",
+  "metaDescription": "Un'ora a Osaka per creare il proprio anello da una moneta d'epoca, con una selezione di monete, finitura standard e guida alla creazione di gioielli incluse.",
+  "shortDescription": "Un'ora a Osaka per creare il proprio anello da una moneta d'epoca, con una selezione di monete, finitura standard e guida alla creazione di gioielli incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto laboratorio pratico di un'ora porta la creazione del proprio anello da una **moneta d'epoca**, con una selezione di alcune monete d'epoca (monete rare e monete giapponesi comportano un costo aggiuntivo), una finitura standard, e la guida alla creazione di gioielli. Le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Laboratorio pratico",
+   "Selezione di alcune monete d'epoca (monete rare e giapponesi con costo aggiuntivo)",
+   "Finitura standard",
+   "Guida alla creazione di gioielli"
+  ],
+  "notIncluded": [
+   "Mance"
+  ]
+ },
+ "calligraphy-experience-with-sweets-and-matcha-in-osaka": {
+  "title": "Esperienza di calligrafia con dolci e matcha a Osaka",
+  "metaTitle": "Calligrafia con dolci e matcha, Osaka",
+  "metaDescription": "Un'ora e mezza a Osaka per una lezione di calligrafia con istruttore certificato, la creazione di dolci wagashi casual e una degustazione di matcha incluse.",
+  "shortDescription": "Un'ora e mezza a Osaka per una lezione di calligrafia con istruttore certificato, la creazione di dolci wagashi casual e una degustazione di matcha incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di un'ora e mezza porta una lezione di **calligrafia** con un istruttore certificato, un'opera di calligrafia da portare a casa, l'esperienza casual di preparazione dei dolci **wagashi** giapponesi, la degustazione di tè **matcha**, e bevande alternative per chi non preferisce il matcha. La scrittura sul ventaglio resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Lezione di calligrafia con istruttore certificato",
+   "Opera di calligrafia da portare a casa",
+   "Esperienza casual di preparazione dei dolci wagashi giapponesi",
+   "Degustazione di tè matcha",
+   "Bevande alternative per chi non preferisce il matcha"
+  ],
+  "notIncluded": [
+   "Scrittura sul ventaglio"
+  ]
+ },
+ "private-walking-tour-with-castle-dotonbori-old-city": {
+  "title": "Tour a piedi privato con castello, Dotonbori e la città vecchia",
+  "metaTitle": "Tour privato: castello, Dotonbori, città vecchia",
+  "metaDescription": "Quattro ore tra il Castello di Osaka e il Santuario Toyokuni, con guida in lingua inglese e la visita al Parco del Castello e a un giardino giapponese nascosto incluse.",
+  "shortDescription": "Quattro ore tra il Castello di Osaka e il Santuario Toyokuni, con guida in lingua inglese e la visita al Parco del Castello e a un giardino giapponese nascosto incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi.\n\nQuesto tour a piedi privato di quattro ore porta una guida in lingua inglese, un tour a piedi, la visita al **Parco del Castello di Osaka**, la visita al **Castello di Osaka** (dall'esterno), la visita a un giardino giapponese nascosto, la visita alla Pietra del Polpo, al **Santuario Hokoku**, al quartiere di **Shinsekai New World**, a **Nipponbashi**, a **Doguya suji street**, e a **Dotonbori**. Il pranzo e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Tour a piedi",
+   "Visita al Parco del Castello di Osaka",
+   "Visita al Castello di Osaka (dall'esterno)",
+   "Visita a un giardino giapponese nascosto",
+   "Visita alla Pietra del Polpo",
+   "Visita al Santuario Hokoku",
+   "Visita al quartiere di Shinsekai New World",
+   "Visita a Nipponbashi",
+   "Visita a Doguya suji street",
+   "Visita a Dotonbori"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "katsuo-ji-temple-kobe-and-arima-onsen-day-trip-2": {
+  "title": "Gita di un giorno al Tempio Katsuo-ji, Kobe e l'Onsen di Arima",
+  "metaTitle": "Katsuo-ji, Kobe e Onsen di Arima",
+  "metaDescription": "Dieci ore da Osaka con l'ingresso al Tempio Katsuo-ji, la visita ai Kobe-Sanda Premium Outlets e all'Onsen di Arima incluse, con soste fotografiche a Kobe.",
+  "shortDescription": "Dieci ore da Osaka con l'ingresso al Tempio Katsuo-ji, la visita ai Kobe-Sanda Premium Outlets e all'Onsen di Arima incluse, con soste fotografiche a Kobe.",
+  "fullDescription": "Le gite di un giorno da Osaka hanno ciascuna una ragione precisa. Himeji ha il castello meglio conservato del Giappone, l'Airone Bianco, un originale del 1609 con sei piani di interni in legno, il cui intonaco è stato riportato al bianco in un restauro completato nel 2015. Kobe ha il manzo, venduto a grado ai banconi dove si guarda cucinarlo, e il porto. Koyasan, due ore più a sud, è la città-monastero fondata da Kukai nell'816, dove 117 templi si trovano in una foresta di cedri.\n\nQuesta gita di dieci ore collega il **Tempio Katsuo-ji**, **Kobe** e l'**Onsen di Arima**, con l'ingresso al Tempio Katsuo-ji, la visita ai **Kobe-Sanda Premium Outlets**, la visita alla città dell'Onsen di Arima, la visita al porto di Kobe, e soste fotografiche al Monumento BE KOBE e alla Torre del Porto di Kobe. Il pranzo e l'ingresso agli impianti termali della città dell'Onsen di Arima restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingresso al Tempio Katsuo-ji",
+   "Visita ai Kobe-Sanda Premium Outlets",
+   "Visita alla città dell'Onsen di Arima",
+   "Visita al porto di Kobe",
+   "Sosta fotografica al Monumento BE KOBE",
+   "Sosta fotografica alla Torre del Porto di Kobe"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Ingresso agli impianti termali della città dell'Onsen di Arima"
+  ]
+ },
+ "guided-tour-of-the-most-iconic-neighborhoods-history-legends-and-more-in-osaka": {
+  "title": "Tour guidato dei quartieri più iconici: storia, leggende e altro, a Osaka",
+  "metaTitle": "Quartieri iconici di Osaka: storia e leggende",
+  "metaDescription": "Quattro ore tra l'insegna Glico a Dotonbori, Dotonbori e Ukiyo Koji, con tutte le tariffe della guida incluse.",
+  "shortDescription": "Quattro ore tra l'insegna Glico a Dotonbori, Dotonbori e Ukiyo Koji, con tutte le tariffe della guida incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour guidato di quattro ore porta tutte le tariffe della guida, tra l'**insegna Glico** a **Dotonbori**, **Dotonbori** e **Ukiyo Koji**. Le tariffe del treno o della metropolitana (circa 180-400 yen in totale) e gli acquisti personali di cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tutte le tariffe della guida"
+  ],
+  "notIncluded": [
+   "Tariffe del treno o della metropolitana (circa 180-400 yen in totale)",
+   "Acquisti personali di cibo e bevande"
+  ]
+ },
+ "step-into-the-samurai-world-learn-iaido-from-a-master-in-osaka": {
+  "title": "Entra nel mondo dei samurai: impara l'iaido da un maestro, a Osaka",
+  "metaTitle": "Iaido da un maestro, il mondo dei samurai",
+  "metaDescription": "Tre ore a Osaka con un istruttore, l'esperienza da samurai, l'abito da allenamento, una spada da esercitazione e una spada autentica incluse.",
+  "shortDescription": "Tre ore a Osaka con un istruttore, l'esperienza da samurai, l'abito da allenamento, una spada da esercitazione e una spada autentica incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di tre ore porta un istruttore, l'esperienza da **samurai**, l'abito da allenamento, una spada da esercitazione, una spada autentica, e l'uniforme da samurai, per imparare l'**iaido**, l'arte di estrazione della spada, da un maestro. L'assicurazione resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Istruttore",
+   "Esperienza da samurai",
+   "Abito da allenamento",
+   "Spada da esercitazione",
+   "Spada autentica/reale",
+   "Uniforme da samurai"
+  ],
+  "notIncluded": [
+   "Assicurazione"
+  ]
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
