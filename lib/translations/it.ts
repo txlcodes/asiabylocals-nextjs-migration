@@ -45278,6 +45278,188 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pick-up e drop-off in hotel"
   ]
  },
+ "osaka-castle-stories-and-cultural-journey": {
+  "title": "Racconti del Castello di Osaka e un viaggio culturale",
+  "metaTitle": "Racconti e cultura del Castello di Osaka",
+  "metaDescription": "Un'ora e mezza tra il Santuario Hokoku e il Castello di Osaka, con esperienza guidata in piccolo gruppo e l'esplorazione del Parco del Castello incluse.",
+  "shortDescription": "Un'ora e mezza tra il Santuario Hokoku e il Castello di Osaka, con esperienza guidata in piccolo gruppo e l'esplorazione del Parco del Castello incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo all'interno e un fossato e un parco che vale un'ora.\n\nQuesta esperienza di un'ora e mezza porta un'esperienza guidata in piccolo gruppo intorno al **Castello di Osaka**, l'esplorazione del Parco del Castello, dal fossato ai punti principali, la visita al santuario all'interno del complesso, approfondimenti culturali e racconti su Osaka e sul Giappone, e, come opzione facoltativa, il biglietto prioritario per la torre principale del Castello di Osaka. Il tour guidato all'interno della torre principale resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza guidata in piccolo gruppo intorno al Castello di Osaka",
+   "Esplorazione del Parco del Castello, dal fossato ai punti principali",
+   "Visita al santuario all'interno del complesso",
+   "Approfondimenti culturali e racconti su Osaka e sul Giappone",
+   "Facoltativo: biglietto prioritario per la torre principale del Castello di Osaka, dove disponibile"
+  ],
+  "notIncluded": [
+   "Tour guidato all'interno della torre principale del Castello di Osaka"
+  ]
+ },
+ "osaka-ghost-tour-dark-castle-history-legends-cursed-namba-by-local-operator": {
+  "title": "Tour dei fantasmi di Osaka: la storia oscura del castello, leggende, la Namba maledetta, con operatore locale",
+  "metaTitle": "Tour dei fantasmi di Osaka: castello e Namba",
+  "metaDescription": "Tre ore tra il Castello di Osaka e Sennichimae con una bevanda, una guida fantasma, leggende e storie di fantasmi reali incluse.",
+  "shortDescription": "Tre ore tra il Castello di Osaka e Sennichimae con una bevanda, una guida fantasma, leggende e storie di fantasmi reali incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour di tre ore porta una bevanda (alcolica o analcolica), una guida fantasma (talvolta ancora viva), leggende, storie di fantasmi reali e storia oscura, una maledizione giapponese (che dura solo 24 ore!), la visita ai terreni del **Castello di Osaka**, e la visita al quartiere di **Dotonbori Namba**. Mance (ben accolte), cena e trasporto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "1 bevanda (alcolica o analcolica)",
+   "Una guida fantasma (talvolta ancora viva)",
+   "Leggende, storie di fantasmi reali e storia oscura",
+   "Una maledizione giapponese (che dura solo 24 ore!)",
+   "Visita ai terreni del Castello di Osaka",
+   "Visita al quartiere di Dotonbori Namba"
+  ],
+  "notIncluded": [
+   "Mance (ben accolte)",
+   "Cibo, cena",
+   "Trasporto"
+  ]
+ },
+ "chopstick-making-workshop-in-osaka-by-local-operator": {
+  "title": "Laboratorio di creazione di bacchette a Osaka, con operatore locale",
+  "metaTitle": "Laboratorio di bacchette, Osaka",
+  "metaDescription": "Un'ora a Osaka per creare le proprie bacchette, con legno standard di tre tipi, strumenti, olio di finitura e supporto dell'istruttore inclusi.",
+  "shortDescription": "Un'ora a Osaka per creare le proprie bacchette, con legno standard di tre tipi, strumenti, olio di finitura e supporto dell'istruttore inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto laboratorio di un'ora porta legno standard (3 tipi), tutti gli strumenti e l'attrezzatura, l'olio o la vernice di finitura, e il supporto di un istruttore, per creare le proprie **bacchette**. Il legno premium (costo extra), l'opzione di incisione del nome (costo extra), e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Legno standard (3 tipi)",
+   "Tutti gli strumenti e l'attrezzatura",
+   "Olio/vernice di finitura",
+   "Supporto di un istruttore"
+  ],
+  "notIncluded": [
+   "Legno premium (costo extra)",
+   "Opzione di incisione del nome (costo extra)",
+   "Cibo e bevande"
+  ]
+ },
+ "shirahama-beach-and-unique-rock-formations-small-group-day-trip-in-osaka": {
+  "title": "Spiaggia di Shirahama e formazioni rocciose unico: gita di un giorno in piccolo gruppo da Osaka",
+  "metaTitle": "Shirahama e formazioni rocciose, gita da Osaka",
+  "metaDescription": "Dieci ore tra il Mercato Nanki Shirahama Toretore e l'Altopiano Roccioso Senjojiki, con servizio di trasporto, autista-guida, pedaggi e parcheggio inclusi.",
+  "shortDescription": "Dieci ore tra il Mercato Nanki Shirahama Toretore e l'Altopiano Roccioso Senjojiki, con servizio di trasporto, autista-guida, pedaggi e parcheggio inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta gita in piccolo gruppo di dieci ore collega il **Mercato Nanki Shirahama Toretore** e l'**Altopiano Roccioso Senjojiki**, con il servizio di trasporto, un autista-guida professionista (inglese, giapponese, cinese), i pedaggi autostradali, e le tariffe di parcheggio. Pranzo, la tariffa per l'esperienza alle terme di Shiraraso (420 yen), cibo e bevande, e spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio di trasporto",
+   "Autista-guida professionista (inglese, giapponese, cinese)",
+   "Pedaggi autostradali",
+   "Tariffe di parcheggio"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Tariffa per l'esperienza alle terme di Shiraraso (420 yen)",
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "himeji-castle-and-arima-onsen-and-mount-maya-trip-small-group": {
+  "title": "Castello di Himeji, Onsen di Arima e Monte Maya: viaggio in piccolo gruppo",
+  "metaTitle": "Himeji, Arima Onsen e Monte Maya, piccolo gruppo",
+  "metaDescription": "Dieci ore dal Corridoio Ono Sakura Dzutsumi, con tariffa andata e ritorno in auto o furgone, tariffa di parcheggio e pedaggi autostradali incluse.",
+  "shortDescription": "Dieci ore dal Corridoio Ono Sakura Dzutsumi, con tariffa andata e ritorno in auto o furgone, tariffa di parcheggio e pedaggi autostradali incluse.",
+  "fullDescription": "Le gite di un giorno da Osaka hanno ciascuna una ragione precisa. Himeji ha il castello meglio conservato del Giappone, l'Airone Bianco, un originale del 1609 con sei piani di interni in legno, il cui intonaco è stato riportato al bianco in un restauro completato nel 2015; la salita alla torre principale è impegnativa e la coda nel periodo dei fiori di ciliegio è lunga. Kobe ha il manzo, venduto a grado ai banconi dove si guarda cucinarlo, e il porto.\n\nQuesto viaggio in piccolo gruppo di dieci ore collega il **Castello di Himeji**, l'**Onsen di Arima** e il **Monte Maya**, con la tariffa andata e ritorno in auto o furgone, la tariffa di parcheggio, e i pedaggi autostradali. Il pranzo, i biglietti per i punti panoramici (ingresso facoltativo) e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa andata e ritorno in auto/furgone",
+   "Tariffa di parcheggio",
+   "Pedaggi autostradali"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Biglietti per i punti panoramici (ingresso facoltativo)",
+   "Altre spese personali"
+  ]
+ },
+ "private-walking-tour-with-a-spanish-speaking-tour-guide-in-osaka": {
+  "title": "Tour a piedi privato con una guida in lingua spagnola a Osaka",
+  "metaTitle": "Tour a piedi privato con guida in spagnolo",
+  "metaDescription": "Quattro ore tra il Castello di Osaka e Shinsekai, con guida privata locale in lingua spagnola, biglietto d'ingresso a un'attrazione e itinerario personalizzabile.",
+  "shortDescription": "Quattro ore tra il Castello di Osaka e Shinsekai, con guida privata locale in lingua spagnola, biglietto d'ingresso a un'attrazione e itinerario personalizzabile.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. **Shinsekai** è il quartiere retrò sotto la torre Tsutenkaku.\n\nQuesto tour a piedi privato di quattro ore porta una guida privata locale in lingua spagnola, il biglietto d'ingresso a un'attrazione incluso, e un itinerario personalizzabile secondo i propri interessi, tra il **Castello di Osaka** e **Shinsekai**.",
+  "highlights": [],
+  "included": [
+   "Guida privata locale in lingua spagnola",
+   "Biglietto d'ingresso a un'attrazione incluso",
+   "Itinerario personalizzabile secondo i propri interessi"
+  ],
+  "notIncluded": []
+ },
+ "private-customizable-shopping-tour-with-guide-in-osaka": {
+  "title": "Tour di shopping privato e personalizzabile con guida a Osaka",
+  "metaTitle": "Tour di shopping privato personalizzabile, Osaka",
+  "metaDescription": "Due ore a Osaka con un tour di shopping personalizzabile, assistenza della guida locale e servizi di navigazione e traduzione inclusi.",
+  "shortDescription": "Due ore a Osaka con un tour di shopping personalizzabile, assistenza della guida locale e servizi di navigazione e traduzione inclusi.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour di shopping privato e personalizzabile di due ore porta un tour di shopping a Osaka, l'assistenza di una guida locale, servizi di navigazione e traduzione, e lo shopping in diversi quartieri come **Shinsaibashi-suji**, Dotonbori, Americamura, Umeda, Nipponbashi, Tenjinbashisuji, Orange Street e Namba/Minami. Le spese personali per lo shopping, i pasti e le bevande, il trasporto da e per il punto di incontro, e le tariffe dei trasporti pubblici durante il tour (se applicabili) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour di shopping personalizzabile a Osaka",
+   "Assistenza di una guida locale",
+   "Servizi di navigazione e traduzione",
+   "Shopping in diversi quartieri come Shinsaibashi-suji, Dotonbori, Americamura, Umeda, Nipponbashi, Tenjinbashisuji, Orange Street e Namba/Minami"
+  ],
+  "notIncluded": [
+   "Spese personali per lo shopping",
+   "Pasti e bevande",
+   "Trasporto da e per il punto di incontro",
+   "Tariffe dei trasporti pubblici durante il tour (se applicabili)"
+  ]
+ },
+ "katsuoji-temple-guided-tour-in-osaka": {
+  "title": "Tour guidato del Tempio Katsuoji a Osaka",
+  "metaTitle": "Tempio Katsuoji, tour guidato, Osaka",
+  "metaDescription": "Quattro ore a Osaka con una guida in lingua inglese e il biglietto d'ingresso al Tempio Katsuoji incluse.",
+  "shortDescription": "Quattro ore a Osaka con una guida in lingua inglese e il biglietto d'ingresso al Tempio Katsuoji incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour guidato di quattro ore porta una guida in lingua inglese e il biglietto d'ingresso al **Tempio Katsuoji**. Le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Biglietto d'ingresso al Tempio Katsuoji"
+  ],
+  "notIncluded": [
+   "Spese personali"
+  ]
+ },
+ "kobe-day-trip-with-arima-onsen-and-mt-rokko-night-view": {
+  "title": "Gita di un giorno a Kobe con l'Onsen di Arima e la vista notturna dal Monte Rokko",
+  "metaTitle": "Kobe, Onsen di Arima e Monte Rokko di notte",
+  "metaDescription": "Nove ore tra Kobe e il Quartiere Kitano Ijinkan-Gai, con trasporto andata e ritorno da Osaka, autista, guida e bus climatizzato incluse.",
+  "shortDescription": "Nove ore tra Kobe e il Quartiere Kitano Ijinkan-Gai, con trasporto andata e ritorno da Osaka, autista, guida e bus climatizzato incluse.",
+  "fullDescription": "Le gite di un giorno da Osaka hanno ciascuna una ragione precisa. Kobe ha il manzo, venduto a grado ai banconi dove si guarda cucinarlo, e il porto. Koyasan, due ore più a sud, è la città-monastero fondata da Kukai nell'816, dove 117 templi si trovano in una foresta di cedri.\n\nQuesta gita di nove ore collega **Kobe** e il **Quartiere Kitano Ijinkan-Gai**, con il trasporto andata e ritorno da Osaka, un autista professionista (indicazioni di base), una guida turistica (se i partecipanti superano le 13 persone), un bus turistico climatizzato, e tutte le tasse, tariffe di parcheggio e pedaggi, e carburante. Il pranzo e le spese personali (biglietto dell'onsen, biglietto della funivia) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno da Osaka",
+   "Autista professionista (indicazioni di base)",
+   "Guida turistica (se i partecipanti superano le 13 persone)",
+   "Bus turistico climatizzato",
+   "Tutte le tasse, tariffe di parcheggio, pedaggi e carburante"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Spese personali (biglietto dell'onsen, biglietto della funivia)"
+  ]
+ },
+ "osaka-street-food-tour-7-stops-in-japan-s-longest-arcade-by-local-operator": {
+  "title": "Tour gastronomico di strada a Osaka: 7 tappe nella galleria commerciale più lunga del Giappone, con operatore locale",
+  "metaTitle": "Street food a Osaka: 7 tappe nella galleria più lunga",
+  "metaDescription": "Tre ore a Osaka con fino a 10 degustazioni di cibo di strada, una bevanda, guida in lingua inglese e approfondimenti culturali incluse.",
+  "shortDescription": "Tre ore a Osaka con fino a 10 degustazioni di cibo di strada, una bevanda, guida in lingua inglese e approfondimenti culturali incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto tour gastronomico di strada di tre ore, con **7 tappe** nella galleria commerciale più lunga del Giappone, porta fino a 10 degustazioni di cibo di strada (sufficienti per un pasto completo), una bevanda, una guida locale in lingua inglese, e approfondimenti culturali e racconti sul quartiere. Gli acquisti aggiuntivi e il trasporto da e per il punto di incontro restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Fino a 10 degustazioni di cibo di strada (sufficienti per un pasto completo)",
+   "1 bevanda",
+   "Guida locale in lingua inglese",
+   "Approfondimenti culturali e racconti sul quartiere"
+  ],
+  "notIncluded": [
+   "Acquisti aggiuntivi",
+   "Trasporto da e per il punto di incontro"
+  ]
+ },
  "kyoto-arashiyama-sagano-train-hozugawa-boat-onsen": {
   "title": "Arashiyama con il treno Sagano, la barca sul fiume Hozugawa e un onsen per finire",
   "metaTitle": "Arashiyama, treno Sagano e barca Hozugawa",
