@@ -33877,6 +33877,192 @@ export const IT_TOURS: Record<string, TourT> = {
    "Assicurazione di viaggio"
   ]
  },
+ "karaoke-experience-with-english-speaking-guide-in-sapporo": {
+  "title": "Esperienza di karaoke con guida di lingua inglese, a Sapporo",
+  "metaTitle": "Karaoke con guida inglese, Sapporo",
+  "metaDescription": "Due ore a Sapporo con il noleggio della sala karaoke, l'assistenza nella scelta delle canzoni e bevande alcoliche illimitate incluse.",
+  "shortDescription": "Due ore a Sapporo con il noleggio della sala karaoke, l'assistenza nella scelta delle canzoni e bevande alcoliche illimitate incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di due ore a Sapporo è costruita intorno al Karaokeutaya Sapporosusukinominami 4 Joten. La guida di lingua inglese, il noleggio della sala karaoke, l'assistenza nella scelta delle canzoni e nell'uso del telecomando, l'introduzione alla cultura e all'etichetta del karaoke, e le bevande alcoliche illimitate (90 minuti) con birra alla spina incluse, e uno snack a scelta (come edamame, takoyaki o patatine fritte) sono inclusi nel prezzo; il punto d'incontro è l'insegna Nikka Whisky. Il trasporto fino al locale karaoke e le spese personali per cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida di lingua inglese",
+   "Noleggio della sala karaoke",
+   "Assistenza nella scelta delle canzoni e nell'uso del telecomando",
+   "Introduzione alla cultura e all'etichetta del karaoke",
+   "Bevande alcoliche illimitate (90 minuti) con birra alla spina inclusa",
+   "Uno snack a scelta (come edamame, takoyaki o patatine fritte)"
+  ],
+  "notIncluded": [
+   "Trasporto fino al locale karaoke",
+   "Spese personali per cibo e bevande"
+  ]
+ },
+ "city-highlights-and-mt-moiwa-night-view-in-sapporo": {
+  "title": "I luoghi iconici della città e la vista notturna dal Monte Moiwa, a Sapporo",
+  "metaTitle": "Monte Moiwa, vista notturna, Sapporo",
+  "metaDescription": "Quattro ore e mezza a Sapporo con una guida locale privata, biglietto andata e ritorno della funivia del Monte Moiwa e assistenza fotografica con lo smartphone incluse.",
+  "shortDescription": "Quattro ore e mezza a Sapporo con una guida locale privata, biglietto andata e ritorno della funivia del Monte Moiwa e assistenza fotografica con lo smartphone incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza privata di quattro ore e mezza a Sapporo porta una guida locale privata, un tour a piedi privato di quattro ore e mezza, il biglietto andata e ritorno della **funivia del Monte Moiwa**, il biglietto andata e ritorno della mini funicolare, l'assistenza fotografica con lo smartphone, e i consigli locali della guida; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le spese personali e le macchine fotografiche professionali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale privata",
+   "Tour a piedi privato di quattro ore e mezza",
+   "Biglietto andata e ritorno della funivia del Monte Moiwa",
+   "Biglietto andata e ritorno della mini funicolare",
+   "Assistenza fotografica con lo smartphone",
+   "Consigli locali della guida"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Macchine fotografiche professionali"
+  ]
+ },
+ "illuminated-landmarks-and-tv-tower-night-view-tour-in-sapporo": {
+  "title": "Monumenti illuminati e la vista notturna dalla Torre TV, a Sapporo",
+  "metaTitle": "Torre TV di Sapporo, vista notturna",
+  "metaDescription": "Un'ora e mezza a Sapporo tra il Sapporo Odori Park e la Torre dell'Orologio di Sapporo, con tour serale guidato a piedi e biglietto d'ingresso alla terrazza panoramica della Torre TV di Sapporo inclusi.",
+  "shortDescription": "Un'ora e mezza a Sapporo tra il Sapporo Odori Park e la Torre dell'Orologio di Sapporo, con tour serale guidato a piedi e biglietto d'ingresso alla terrazza panoramica della Torre TV di Sapporo inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di un'ora e mezza a Sapporo è costruita intorno al **Sapporo Odori Park**, alla **Torre dell'Orologio di Sapporo** e all'ex sede del governo di Hokkaido. Il tour serale guidato a piedi in lingua inglese (un'ora e mezza), il biglietto d'ingresso alla terrazza panoramica della **Torre TV di Sapporo**, e gli approfondimenti locali e il commento storico durante il tour sono inclusi nel prezzo; il punto d'incontro è il centro informazioni turistiche dell'Odori Park. L'accesso all'interno della Torre dell'Orologio di Sapporo, l'accesso all'interno dell'ex sede del governo di Hokkaido, il pick-up e il drop-off in hotel, e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour serale guidato a piedi in lingua inglese (un'ora e mezza)",
+   "Biglietto d'ingresso alla terrazza panoramica della Torre TV di Sapporo",
+   "Approfondimenti locali e commento storico durante il tour"
+  ],
+  "notIncluded": [
+   "Accesso all'interno della Torre dell'Orologio di Sapporo",
+   "Accesso all'interno dell'ex sede del governo di Hokkaido",
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande"
+  ]
+ },
+ "hokkaido-shrine-maruyama-forest-and-local-streets-in-sapporo": {
+  "title": "Il Santuario di Hokkaido, il bosco di Maruyama e le strade locali, a Sapporo",
+  "metaTitle": "Santuario di Hokkaido e Maruyama",
+  "metaDescription": "Due ore e mezza a Sapporo con tour guidato a piedi, visita al quartiere di Urasando e visita al Santuario di Hokkaido incluse.",
+  "shortDescription": "Due ore e mezza a Sapporo con tour guidato a piedi, visita al quartiere di Urasando e visita al Santuario di Hokkaido incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di due ore e mezza a Sapporo porta il tour guidato a piedi, la visita al quartiere di **Urasando**, la visita al **Santuario di Hokkaido**, l'esplorazione del Maruyama Park, e l'introduzione ai caffè e negozi locali; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato a piedi",
+   "Visita al quartiere di Urasando",
+   "Visita al Santuario di Hokkaido",
+   "Esplorazione del Maruyama Park",
+   "Introduzione ai caffè e negozi locali"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "chopstick-making-workshop-in-sapporo": {
+  "title": "Laboratorio di creazione di bacchette, a Sapporo",
+  "metaTitle": "Laboratorio di bacchette, Sapporo",
+  "metaDescription": "Un'ora e mezza a Sapporo con la selezione del materiale in legno, l'uso di strumenti per modellare e lucidare, e la guida di un istruttore incluse.",
+  "shortDescription": "Un'ora e mezza a Sapporo con la selezione del materiale in legno, l'uso di strumenti per modellare e lucidare, e la guida di un istruttore incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di un'ora e mezza a Sapporo porta la selezione del materiale in legno, l'uso di strumenti per modellare e lucidare, la guida di un istruttore, e un grembiule di protezione; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Selezione del materiale in legno",
+   "Uso di strumenti per modellare e lucidare",
+   "Guida di un istruttore",
+   "Grembiule di protezione"
+  ],
+  "notIncluded": []
+ },
+ "asahiyama-zoo-waterfall-and-blue-pond-tour-in-sapporo": {
+  "title": "Zoo di Asahiyama, la cascata e lo Stagno Blu, tour da Sapporo",
+  "metaTitle": "Zoo di Asahiyama, cascata, Stagno Blu",
+  "metaDescription": "Nove ore da Sapporo tra lo Zoo di Asahiyama e l'Albero di Ken e Mary, con trasporto andata e ritorno in veicolo comodo e ingresso allo zoo inclusi.",
+  "shortDescription": "Nove ore da Sapporo tra lo Zoo di Asahiyama e l'Albero di Ken e Mary, con trasporto andata e ritorno in veicolo comodo e ingresso allo zoo inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di nove ore da Sapporo è costruita intorno al bus/pullman, allo **Zoo di Asahiyama** e all'**Albero di Ken e Mary**. Il trasporto andata e ritorno in veicolo comodo (da e per luoghi designati a Sapporo), il servizio di guida professionista (con informazioni di base e consigli), e l'ingresso allo Zoo di Asahiyama sono inclusi nel prezzo. L'assicurazione personale/di viaggio e il pranzo restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno in veicolo comodo (da e per luoghi designati a Sapporo)",
+   "Servizio di guida professionista (con informazioni di base e consigli)",
+   "Ingresso allo Zoo di Asahiyama"
+  ],
+  "notIncluded": [
+   "Assicurazione personale/di viaggio",
+   "Pranzo"
+  ]
+ },
+ "nijo-market-odori-park-and-city-highlights-in-sapporo": {
+  "title": "Mercato Nijo, l'Odori Park e i luoghi iconici della città, a Sapporo",
+  "metaTitle": "Mercato Nijo e Odori Park, Sapporo",
+  "metaDescription": "Due ore con tour guidato a piedi, opportunità fotografiche e visita all'ex sede del governo di Hokkaido incluse.",
+  "shortDescription": "Due ore con tour guidato a piedi, opportunità fotografiche e visita all'ex sede del governo di Hokkaido incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di due ore porta il tour guidato a piedi, le opportunità fotografiche, la visita all'ex sede del governo di Hokkaido, la visita all'**Odori Park**, la visita alla **Torre TV di Sapporo**, la visita alla via commerciale Tanukikoji, e la visita al **Mercato Nijo**; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per il punto d'incontro, e i pasti e le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato a piedi",
+   "Opportunità fotografiche",
+   "Visita all'ex sede del governo di Hokkaido",
+   "Visita all'Odori Park",
+   "Visita alla Torre TV di Sapporo",
+   "Visita alla via commerciale Tanukikoji",
+   "Visita al Mercato Nijo"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto d'incontro",
+   "Pasti e bevande"
+  ]
+ },
+ "asahikawa-biei-and-furano-day-tour-in-small-group": {
+  "title": "Asahikawa, Biei e Furano, gita di un giorno in piccolo gruppo",
+  "metaTitle": "Asahikawa, Biei e Furano, piccolo gruppo",
+  "metaDescription": "Dieci ore da Sapporo tra Asahikawa e la Cascata Shirahige, con trasporto andata e ritorno da Sapporo e i costi dell'autista e del veicolo inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra Asahikawa e la Cascata Shirahige, con trasporto andata e ritorno da Sapporo e i costi dell'autista e del veicolo inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore da Sapporo è costruita intorno al Bosco Campione di Specie Arboree Straniere della Città di Asahikawa, ad **Asahikawa** e all'Albero di Natale. Il trasporto andata e ritorno da Sapporo, i costi dell'autista e del veicolo (carburante, parcheggio, pedaggi), e il coordinamento del tour e la gestione del programma sono inclusi nel prezzo. I pasti, le bevande e le spese personali per il cibo, i biglietti d'ingresso alle attrazioni (opzionali; solo tempo libero, partecipazione non obbligatoria), le attività opzionali o le strutture di intrattenimento, e le spese personali e l'assicurazione di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno da Sapporo",
+   "Costi dell'autista e del veicolo (carburante, parcheggio, pedaggi)",
+   "Coordinamento del tour e gestione del programma"
+  ],
+  "notIncluded": [
+   "Pasti, bevande e spese personali per il cibo",
+   "Biglietti d'ingresso alle attrazioni (opzionali; solo tempo libero, partecipazione non obbligatoria)",
+   "Attività opzionali o strutture di intrattenimento",
+   "Spese personali e assicurazione di viaggio"
+  ]
+ },
+ "private-highlights-tour-for-families-and-groups-in-sapporo": {
+  "title": "Tour privato dei luoghi iconici per famiglie e gruppi, a Sapporo",
+  "metaTitle": "Tour privato per famiglie, Sapporo",
+  "metaDescription": "Due ore e mezza a Sapporo con tour a piedi privato di due ore, guida locale di lingua inglese e visite guidate ai principali luoghi iconici del centro incluse.",
+  "shortDescription": "Due ore e mezza a Sapporo con tour a piedi privato di due ore, guida locale di lingua inglese e visite guidate ai principali luoghi iconici del centro incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza privata di due ore e mezza a Sapporo porta un tour a piedi privato di due ore, una guida locale di lingua inglese, visite guidate ai principali luoghi iconici del centro di Sapporo, un ritmo adattato alla propria famiglia o gruppo, spiegazioni adatte ai bambini quando applicabile, foto scattate con lo smartphone del cliente, brevi pause di riposo quando necessario, e consigli locali su cibo, shopping e punti di interesse; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande, e gli acquisti al mercato restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour a piedi privato di due ore",
+   "Guida locale di lingua inglese",
+   "Visite guidate ai principali luoghi iconici del centro di Sapporo",
+   "Ritmo adattato alla propria famiglia o gruppo",
+   "Spiegazioni adatte ai bambini quando applicabile",
+   "Foto scattate con lo smartphone del cliente",
+   "Brevi pause di riposo quando necessario",
+   "Consigli locali su cibo, shopping e punti di interesse"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Acquisti al mercato"
+  ]
+ },
+ "explore-all-must-see-landmarks-in-the-city-center-in-sapporo": {
+  "title": "Alla scoperta di tutti i luoghi imperdibili del centro città, a Sapporo",
+  "metaTitle": "Luoghi imperdibili del centro, Sapporo",
+  "metaDescription": "Tre ore e mezza a Sapporo con l'ingresso e un tour guidato con un esperto locale incluso.",
+  "shortDescription": "Tre ore e mezza a Sapporo con l'ingresso e un tour guidato con un esperto locale incluso.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di tre ore e mezza a Sapporo porta l'ingresso e un tour guidato con un esperto locale; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingresso",
+   "Tour guidato con un esperto locale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
  "fuji-motorsports-museum-private-tour": {
   "title": "Fuji Speedway e NISMO: giornata JDM privata da Tokyo",
   "metaTitle": "Fuji Speedway e NISMO da Tokyo",
