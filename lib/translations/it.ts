@@ -40611,6 +40611,200 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "ikebana-workshop-in-tokyo-japanese-flower-art-experience-by-local-operator": {
+  "title": "Laboratorio di ikebana a Tokyo: esperienza dell'arte floreale giapponese, con operatore locale",
+  "metaTitle": "Ikebana, arte floreale giapponese",
+  "metaDescription": "Un'ora e mezza a Tokyo con fiori di stagione e tutti gli strumenti necessari incluse.",
+  "shortDescription": "Un'ora e mezza a Tokyo con fiori di stagione e tutti gli strumenti necessari incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora e mezza a Tokyo porta fiori di stagione, tutti gli strumenti necessari (forbici per fiori, vaso, kenzan, superficie di lavoro), e il tè giapponese servito dopo l'esperienza (se lo si desidera) per l'**ikebana**; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto da e per lo studio resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Fiori di stagione",
+   "Tutti gli strumenti necessari (forbici per fiori, vaso, kenzan, superficie di lavoro)",
+   "Tè giapponese servito dopo l'esperienza (se lo si desidera)"
+  ],
+  "notIncluded": [
+   "Trasporto da e per lo studio"
+  ]
+ },
+ "jdm-tour-daikoku-car-meet-with-a-jdm-car-and-a-guide-in-tokyo": {
+  "title": "Tour JDM: l'incontro di auto a Daikoku con un'auto JDM e una guida, a Tokyo",
+  "metaTitle": "Tour JDM, incontro a Daikoku",
+  "metaDescription": "Tre ore a Tokyo con l'interazione con proprietari di auto locali e un tour dei luoghi iconici di Tokyo (senza fermate) incluse.",
+  "shortDescription": "Tre ore a Tokyo con l'interazione con proprietari di auto locali e un tour dei luoghi iconici di Tokyo (senza fermate) incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di tre ore a Tokyo porta l'interazione con proprietari di auto locali, un tour dei luoghi iconici di Tokyo (senza fermate), il percorso lungo i tragitti popolari dei runner, il servizio fotografico (su richiesta durante il tour), il pick-up e il drop-off gratuiti vicino alla Stazione di Shinbashi, e l'esperienza di un giro casuale su un'auto **JDM** (Subaru, RX8, R34 Skyline, Civic; scelta a caso, non GTR né RX7); il punto d'incontro effettivo a Tokyo viene confermato da Wangun OG una volta effettuata la prenotazione. Cibo e bevande, e il giro su auto JDM speciali come GTR35, R34 Coupe, GTR32 (consultare il pacchetto VIP per queste opzioni) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Interazione con proprietari di auto locali",
+   "Tour dei luoghi iconici di Tokyo (senza fermate)",
+   "Percorso lungo i tragitti popolari dei runner",
+   "Servizio fotografico (su richiesta durante il tour)",
+   "Pick-up e drop-off gratuiti vicino alla Stazione di Shinbashi",
+   "Esperienza di un giro casuale su un'auto JDM (Subaru, RX8, R34 Skyline, Civic; scelta a caso, non GTR né RX7)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Giro su auto JDM speciali come GTR35, R34 Coupe, GTR32 (consultare il pacchetto VIP per queste opzioni)"
+  ]
+ },
+ "tokyo-s-authentic-and-finest-taiko-drumming-experience-by-local-operator": {
+  "title": "L'autentica e migliore esperienza di tamburi taiko di Tokyo, con operatore locale",
+  "metaTitle": "Tamburi taiko, Tokyo",
+  "metaDescription": "Un'ora e mezza a Tokyo con un laboratorio di tamburi taiko di 90 minuti e l'addestramento di base incluse.",
+  "shortDescription": "Un'ora e mezza a Tokyo con un laboratorio di tamburi taiko di 90 minuti e l'addestramento di base incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora e mezza a Tokyo porta un laboratorio di tamburi **taiko** di 90 minuti, l'addestramento di base, l'allenamento del ritmo, l'apprendimento di un pezzo di tamburi taiko tradizionale e contemporaneo, un'esibizione dimostrativa di Eva, una breve storia dei tamburi taiko, un video personalizzato del partecipante che suona i tamburi taiko, e i tamburi taiko e le bacchette da taiko fornite; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Si prega di portare abiti comodi e una bottiglia d'acqua.",
+  "highlights": [],
+  "included": [
+   "Laboratorio di tamburi taiko di 90 minuti",
+   "Addestramento di base",
+   "Allenamento del ritmo",
+   "Apprendimento di un pezzo di tamburi taiko tradizionale e contemporaneo",
+   "Esibizione dimostrativa di Eva",
+   "Breve storia dei tamburi taiko",
+   "Video personalizzato del partecipante che suona i tamburi taiko",
+   "Tamburi taiko e bacchette da taiko fornite"
+  ],
+  "notIncluded": [
+   "Si prega di portare abiti comodi e una bottiglia d'acqua"
+  ]
+ },
+ "matcha-tasting-and-making-experience-in-tokyo": {
+  "title": "Degustazione e preparazione del matcha, a Tokyo",
+  "metaTitle": "Degustazione e preparazione del matcha",
+  "metaDescription": "Un'ora e mezza a Tokyo con una bevanda di benvenuto e la degustazione di matcha da 5 diverse zone di produzione incluse.",
+  "shortDescription": "Un'ora e mezza a Tokyo con una bevanda di benvenuto e la degustazione di matcha da 5 diverse zone di produzione incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora e mezza a Tokyo porta una bevanda di benvenuto, la degustazione di **matcha** da 5 diverse zone di produzione, l'esperienza di preparazione del matcha, e un latte al matcha con dolci al matcha; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto fino al luogo dell'esperienza resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Bevanda di benvenuto",
+   "Degustazione di matcha da 5 diverse zone di produzione",
+   "Esperienza di preparazione del matcha",
+   "Latte al matcha con dolci al matcha"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo dell'esperienza"
+  ]
+ },
+ "tokyo-vintage-luxury-shopping-and-auction-access-up-to-15-off-by-local-operator": {
+  "title": "Tokyo: shopping di lusso vintage e accesso all'asta, fino al 15% di sconto, con operatore locale",
+  "metaTitle": "Shopping di lusso vintage, Tokyo",
+  "metaDescription": "Un'ora da Tokyo al NUIR COFFEE, Vintage Luxury & Lounge, con l'accesso esclusivo a un'asta di marchi riservata ai professionisti e un mini-briefing con una bevanda in omaggio incluse.",
+  "shortDescription": "Un'ora da Tokyo al NUIR COFFEE, Vintage Luxury & Lounge, con l'accesso esclusivo a un'asta di marchi riservata ai professionisti e un mini-briefing con una bevanda in omaggio incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora da Tokyo è costruita intorno al NUIR COFFEE, **Vintage Luxury & Lounge**, e al NUIR Vintage Shibuya. L'accesso esclusivo a un'asta di marchi BtoB riservata ai professionisti, un mini-briefing con una bevanda in omaggio, e una sessione di shopping privata nel negozio al dettaglio diretto dell'organizzatore sono inclusi nel prezzo; il punto d'incontro è il NUIR COFFEE, Vintage Luxury & Lounge.",
+  "highlights": [],
+  "included": [
+   "Accesso esclusivo a un'asta di marchi BtoB riservata ai professionisti",
+   "Mini-briefing con una bevanda in omaggio",
+   "Sessione di shopping privata nel negozio al dettaglio diretto dell'organizzatore"
+  ],
+  "notIncluded": []
+ },
+ "j-league-soccer-game-with-local-fan-and-ticket-in-tokyo": {
+  "title": "Partita di calcio della J-League con un tifoso locale e biglietto, a Tokyo",
+  "metaTitle": "Calcio J-League, Tokyo",
+  "metaDescription": "Due ore e mezza a Tokyo con il biglietto ufficiale della partita e una guida di lingua inglese incluse.",
+  "shortDescription": "Due ore e mezza a Tokyo con il biglietto ufficiale della partita e una guida di lingua inglese incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di due ore e mezza a Tokyo porta il biglietto ufficiale della partita e una guida di lingua inglese; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. I costi di cibo e bevande, il trasporto allo stadio, e i costi d'acquisto di gadget restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietto ufficiale della partita",
+   "Guida di lingua inglese"
+  ],
+  "notIncluded": [
+   "Costi di cibo e bevande",
+   "Trasporto allo stadio",
+   "Costi d'acquisto di gadget"
+  ]
+ },
+ "tokyo-private-jdm-tour-r34-r35-supra-silvia-and-rx-7-by-local-operator": {
+  "title": "Tokyo, tour JDM privato: R34, R35, Supra, Silvia e RX-7, con operatore locale",
+  "metaTitle": "Tour JDM privato, Tokyo",
+  "metaDescription": "Tre ore a Tokyo tra il Rainbow Bridge e TokyoCar, con la tariffa di partecipazione al tour privato con guida e un'auto JDM personalizzata incluse.",
+  "shortDescription": "Tre ore a Tokyo tra il Rainbow Bridge e TokyoCar, con la tariffa di partecipazione al tour privato con guida e un'auto JDM personalizzata incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di tre ore a Tokyo è costruita intorno al **Rainbow Bridge** e a TokyoCar. La tariffa di partecipazione al tour privato con guida, un'auto **JDM** personalizzata, l'incontro e il controllo dell'auto a APIT, incluso il briefing del tour, un giro notturno nella città di Tokyo, l'esperienza del convoglio di auto JDM modificate, un giro attraverso il Rainbow Bridge con splendide viste notturne della Baia di Tokyo, una spiegazione guidata sulla cultura automobilistica giapponese e su ogni modello d'auto, il supporto fotografico e video nei punti consigliati, l'assicurazione e il supporto per una guida sicura, il pick-up e il drop-off in hotel o in un luogo designato, e le tariffe di parcheggio e di accesso necessarie per l'itinerario del tour previsto sono inclusi nel prezzo; il punto d'incontro effettivo a Tokyo viene confermato da JAPAN DREAM CAR TOUR una volta effettuata la prenotazione. Le spese personali come cibo, bevande o souvenir, e le attività opzionali non elencate nell'itinerario del tour restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa di partecipazione al tour privato con guida",
+   "Auto JDM personalizzata",
+   "Incontro e controllo dell'auto a APIT, incluso il briefing del tour",
+   "Giro notturno nella città di Tokyo",
+   "Esperienza del convoglio di auto JDM modificate",
+   "Giro attraverso il Rainbow Bridge con splendide viste notturne della Baia di Tokyo",
+   "Spiegazione guidata sulla cultura automobilistica giapponese e su ogni modello d'auto",
+   "Supporto fotografico e video nei punti consigliati",
+   "Assicurazione e supporto per una guida sicura",
+   "Pick-up e drop-off in hotel o in un luogo designato",
+   "Tariffe di parcheggio e di accesso necessarie per l'itinerario del tour previsto"
+  ],
+  "notIncluded": [
+   "Spese personali come cibo, bevande o souvenir",
+   "Attività opzionali non elencate nell'itinerario del tour"
+  ]
+ },
+ "ginza-go-kart-experience-with-neo-ginza-stay-cool-in-tokyo-by-local-operator": {
+  "title": "Ginza: esperienza di go kart con Neo Ginza [resta al fresco a Tokyo], con operatore locale",
+  "metaTitle": "Ginza, go kart",
+  "metaDescription": "Un'ora a Tokyo tra la Torre di Tokyo e il Palazzo Imperiale di Tokyo, con un'esperienza di go kart di 60 minuti e personale incluse.",
+  "shortDescription": "Un'ora a Tokyo tra la Torre di Tokyo e il Palazzo Imperiale di Tokyo, con un'esperienza di go kart di 60 minuti e personale incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza di un'ora a Tokyo è costruita intorno alla **Torre di Tokyo**, al **Palazzo Imperiale di Tokyo** e alla Stazione di Tokyo. Un'esperienza di **go kart** di 60 minuti, il personale di lingua inglese, il personale di lingua giapponese, l'assicurazione, il costume, il servizio di foto, e il noleggio di una GoPro con scheda SD sono inclusi nel prezzo; il punto d'incontro è a Chuo-ku, Tokyo. Il pick-up e il drop-off in hotel, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Esperienza di go kart di 60 minuti",
+   "Personale di lingua inglese",
+   "Personale di lingua giapponese",
+   "Assicurazione",
+   "Costume",
+   "Servizio di foto",
+   "Noleggio di una GoPro con scheda SD"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Altre spese personali"
+  ]
+ },
+ "nikko-day-trip-with-hot-spring-experience": {
+  "title": "Nikko, gita di un giorno con esperienza alle sorgenti termali",
+  "metaTitle": "Nikko, gita con sorgenti termali",
+  "metaDescription": "Dieci ore da Tokyo tra il Nikkō Tōshō-gū e il Lago Chūzenji, con la visita al Santuario Nikko Toshogu (biglietto d'ingresso non incluso) e la visita al Lago Chuzenji incluse.",
+  "shortDescription": "Dieci ore da Tokyo tra il Nikkō Tōshō-gū e il Lago Chūzenji, con la visita al Santuario Nikko Toshogu (biglietto d'ingresso non incluso) e la visita al Lago Chuzenji incluse.",
+  "fullDescription": "Nikko, due ore a nord di Tokyo, è il Toshogu, il mausoleo di Tokugawa Ieyasu, lo shogun che unificò il Giappone nel 1603: il santuario più elaboratamente scolpito e dorato del paese, con le tre scimmie sagge e il gatto dormiente tra le sue sculture, in una foresta di cedri. Oltre la città, la strada sale i tornanti di Irohazaka fino al Lago Chuzenji e alle Cascate Kegon, alte 97 metri, al loro meglio con i colori autunnali tra metà e fine ottobre. È una lunga gita di un giorno e il santuario da solo richiede due ore.\n\nQuesta esperienza di dieci ore da Tokyo è costruita intorno al bus/pullman, al **Nikkō Tōshō-gū** e al **Lago Chūzenji**. La visita al Santuario Nikko Toshogu (biglietto d'ingresso non incluso), la visita al Lago Chuzenji, la visita all'area panoramica delle **Cascate Kegon**, e la visita al villaggio di sorgenti termali di Nikko sono incluse nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il biglietto d'ingresso al Santuario Nikko Toshogu, il biglietto per l'ascensore all'area di osservazione inferiore delle Cascate Kegon, l'ingresso alle sorgenti termali di Nikko, la tariffa di noleggio dell'asciugamano da bagno, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Visita al Santuario Nikko Toshogu (biglietto d'ingresso non incluso)",
+   "Visita al Lago Chuzenji",
+   "Visita all'area panoramica delle Cascate Kegon",
+   "Visita al villaggio di sorgenti termali di Nikko"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Santuario Nikko Toshogu",
+   "Biglietto per l'ascensore all'area di osservazione inferiore delle Cascate Kegon",
+   "Ingresso alle sorgenti termali di Nikko",
+   "Tariffa di noleggio dell'asciugamano da bagno",
+   "Spese personali"
+  ]
+ },
+ "customizable-private-tour-top-attractions-in-1-day-in-tokyo": {
+  "title": "Tour privato personalizzabile: le migliori attrazioni in 1 giorno, a Tokyo",
+  "metaTitle": "Tokyo, tour privato, migliori attrazioni",
+  "metaDescription": "Quattro ore a Tokyo con una guida locale bilingue giapponese-inglese e il pick-up in hotel incluse.",
+  "shortDescription": "Quattro ore a Tokyo con una guida locale bilingue giapponese-inglese e il pick-up in hotel incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nQuesta esperienza privata di quattro ore a Tokyo porta una guida locale bilingue giapponese-inglese, il pick-up in hotel, la personalizzazione del tour, gli spostamenti a piedi e con i trasporti pubblici, l'esplorazione di tranquilli vicoli secondari, e un'esperienza con il kimono (opzionale, con spese aggiuntive); il punto d'incontro è nei 23 distretti di Tokyo. Le tariffe di trasporto, cibo e spese personali, i biglietti d'ingresso alle attrazioni, e i trasporti privati restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale bilingue giapponese-inglese",
+   "Pick-up in hotel",
+   "Personalizzazione del tour",
+   "Spostamenti a piedi e con i trasporti pubblici",
+   "Esplorazione di tranquilli vicoli secondari",
+   "Esperienza con il kimono (opzionale, con spese aggiuntive)"
+  ],
+  "notIncluded": [
+   "Tariffe di trasporto",
+   "Cibo e spese personali",
+   "Biglietti d'ingresso alle attrazioni",
+   "Trasporti privati"
+  ]
+ },
  "hiroshima-night-evening-tour": {
   "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
   "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
