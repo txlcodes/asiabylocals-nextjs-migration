@@ -33692,6 +33692,191 @@ export const IT_TOURS: Record<string, TourT> = {
    "Assicurazione di viaggio"
   ]
  },
+ "kiyomizu-dera-sightseeing-bus-with-guide-and-temple-admission-kyoto": {
+  "title": "Bus panoramico per il Kiyomizu-dera con guida e ingresso al tempio (Kyoto)",
+  "metaTitle": "Kiyomizu-dera, bus panoramico con guida",
+  "metaDescription": "Giro in bus panoramico con posti confermati, ingresso al tempio Kiyomizu-dera e una guida locale inclusi.",
+  "shortDescription": "Giro in bus panoramico con posti confermati, ingresso al tempio Kiyomizu-dera e una guida locale inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesto servizio a Kyoto porta il giro in bus panoramico, l'ingresso al **tempio Kiyomizu-dera**, i posti confermati, e una guida locale con storie e approfondimenti sul paesaggio e la storia di Kyoto; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Eventuali costi aggiuntivi non elencati sopra restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Giro in bus panoramico",
+   "Ingresso al tempio Kiyomizu-dera",
+   "Posti confermati",
+   "Guida locale con storie e approfondimenti sul paesaggio e la storia di Kyoto"
+  ],
+  "notIncluded": [
+   "Eventuali costi aggiuntivi non elencati sopra"
+  ]
+ },
+ "lake-shikotsu-ice-festival-and-lake-toya-day-trip-in-sapporo": {
+  "title": "Festival del Ghiaccio del Lago Shikotsu e gita al Lago Toya, da Sapporo",
+  "metaTitle": "Festival del Ghiaccio del Lago Shikotsu",
+  "metaDescription": "Dieci ore da Sapporo tra il Lago Toya e la terrazza panoramica del Toya National Park Silo, con servizio di pick-up e drop-off al punto d'incontro e guida professionista inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra il Lago Toya e la terrazza panoramica del Toya National Park Silo, con servizio di pick-up e drop-off al punto d'incontro e guida professionista inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore da Sapporo è costruita intorno al bus/pullman, al **Lago Toya** e alla **terrazza panoramica del Toya National Park Silo**. Il servizio di pick-up e drop-off al punto d'incontro e la guida professionista sono inclusi nel prezzo. Il biglietto d'ingresso al Festival del Ghiaccio del Lago Shikotsu, la tariffa dell'esperienza in motoslitta, l'assicurazione di viaggio, cibo e bevande, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio di pick-up e drop-off al punto d'incontro",
+   "Guida professionista"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Festival del Ghiaccio del Lago Shikotsu",
+   "Tariffa dell'esperienza in motoslitta",
+   "Assicurazione di viaggio",
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "ningle-terrace-illumination-and-biei-snow-tour": {
+  "title": "Illuminazione della Ningle Terrace e tour nella neve a Biei",
+  "metaTitle": "Ningle Terrace, illuminazione, e Biei",
+  "metaDescription": "Dieci ore a Sapporo con la tariffa del bus e una guida parlante cinese, inglese o giapponese incluse.",
+  "shortDescription": "Dieci ore a Sapporo con la tariffa del bus e una guida parlante cinese, inglese o giapponese incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore a Sapporo porta la tariffa del bus e una guida parlante cinese, inglese o giapponese. Le spese per i pasti, la tariffa dell'esperienza in motoslitta, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus",
+   "Guida parlante cinese, inglese o giapponese"
+  ],
+  "notIncluded": [
+   "Spese per i pasti",
+   "Tariffa dell'esperienza in motoslitta",
+   "Altre spese personali"
+  ]
+ },
+ "hokkaid-lake-shikotsu-ice-festival-and-lake-toya-day-trip-in-sapporo": {
+  "title": "Hokkaido: Festival del Ghiaccio del Lago Shikotsu e gita al Lago Toya, da Sapporo",
+  "metaTitle": "Hokkaido, Festival del Ghiaccio del Lago Shikotsu",
+  "metaDescription": "Nove ore da Sapporo tra la terrazza panoramica del Toya National Park Silo e il monumento del 100° anniversario dell'onsen di Toyako, con trasporto andata e ritorno e guida professionista inclusi.",
+  "shortDescription": "Nove ore da Sapporo tra la terrazza panoramica del Toya National Park Silo e il monumento del 100° anniversario dell'onsen di Toyako, con trasporto andata e ritorno e guida professionista inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di nove ore da Sapporo è costruita intorno al bus/pullman, alla **terrazza panoramica del Toya National Park Silo** e al **monumento del 100° anniversario dell'onsen di Toyako**. Il trasporto andata e ritorno in veicolo comodo (da e per luoghi designati a Sapporo) e la guida professionista sono inclusi nel prezzo. L'assicurazione personale/di viaggio, il pranzo, il supplemento per la motoslitta, e il biglietto d'ingresso al Festival del Ghiaccio del Lago Shikotsu restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno in veicolo comodo (da e per luoghi designati a Sapporo)",
+   "Guida professionista"
+  ],
+  "notIncluded": [
+   "Assicurazione personale/di viaggio",
+   "Pranzo",
+   "Supplemento per la motoslitta",
+   "Biglietto d'ingresso al Festival del Ghiaccio del Lago Shikotsu"
+  ]
+ },
+ "lake-shikotsu-ice-festival-noboribetsu-and-lake-toya": {
+  "title": "Festival del Ghiaccio del Lago Shikotsu, Noboribetsu e il Lago Toya",
+  "metaTitle": "Lago Shikotsu, Noboribetsu, Lago Toya",
+  "metaDescription": "Dieci ore da Sapporo tra la Valle dell'Inferno di Jigokudani e le sorgenti termali del Lago Toya, con pullman climatizzato e guida professionista inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra la Valle dell'Inferno di Jigokudani e le sorgenti termali del Lago Toya, con pullman climatizzato e guida professionista inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore da Sapporo è costruita intorno al bus/pullman, alla **Valle dell'Inferno di Jigokudani** e alle **sorgenti termali del Lago Toya**. Il pullman climatizzato, la guida professionista (inglese/cinese), il trasporto andata e ritorno da Sapporo, e i pedaggi autostradali e le tariffe di parcheggio sono inclusi nel prezzo. Il biglietto d'ingresso al Festival del Ghiaccio di Shikotsu (nei giorni infrasettimanali circa 1.000 yen, nel fine settimana/festivi circa 3.000 yen; dai 12 anni; sotto i 12 anni gratis), l'esperienza in motoslitta al Snow World Toya (singolo 15.000 yen, tandem 20.000 yen; solo in contanti), il pranzo, le spese personali, e l'assicurazione di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pullman climatizzato",
+   "Guida professionista (inglese/cinese)",
+   "Trasporto andata e ritorno da Sapporo",
+   "Pedaggi autostradali e tariffe di parcheggio"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Festival del Ghiaccio di Shikotsu (infrasettimanale circa 1.000 yen, fine settimana/festivi circa 3.000 yen; dai 12 anni; sotto i 12 anni gratis)",
+   "Esperienza in motoslitta al Snow World Toya (singolo 15.000 yen, tandem 20.000 yen; solo in contanti)",
+   "Pranzo",
+   "Spese personali",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "blue-pond-illumination-and-ningle-terrace-in-sapporo": {
+  "title": "Illuminazione dello Stagno Blu e la Ningle Terrace, a Sapporo",
+  "metaTitle": "Stagno Blu, illuminazione, Sapporo",
+  "metaDescription": "Dieci ore a Sapporo con la tariffa del bus e una guida parlante cinese, inglese o giapponese incluse.",
+  "shortDescription": "Dieci ore a Sapporo con la tariffa del bus e una guida parlante cinese, inglese o giapponese incluse.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore a Sapporo porta la tariffa del bus e una guida parlante cinese, inglese o giapponese. Le spese per i pasti, la tariffa dell'esperienza in motoslitta, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tariffa del bus",
+   "Guida parlante cinese, inglese o giapponese"
+  ],
+  "notIncluded": [
+   "Spese per i pasti",
+   "Tariffa dell'esperienza in motoslitta",
+   "Altre spese personali"
+  ]
+ },
+ "asahiyama-zoo-and-snow-park-winter-day-trip-in-sapporo": {
+  "title": "Zoo di Asahiyama e parco sulla neve, gita invernale di un giorno da Sapporo",
+  "metaTitle": "Zoo di Asahiyama e parco sulla neve",
+  "metaDescription": "Dieci ore da Sapporo tra Furano e la Cascata Shirahige, con pullman andata e ritorno, guida parlante inglese, giapponese o cinese, e ingresso allo zoo inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra Furano e la Cascata Shirahige, con pullman andata e ritorno, guida parlante inglese, giapponese o cinese, e ingresso allo zoo inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore da Sapporo è costruita intorno al bus/pullman, a **Furano** e alla **Cascata Shirahige**. Il pullman andata e ritorno, la guida parlante inglese, giapponese o cinese, e l'ingresso allo zoo sono inclusi nel prezzo; il punto d'incontro è la Piazza Nord della Stazione di Sapporo. Pasti e bevande, le attività opzionali sulla neve, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pullman andata e ritorno",
+   "Guida parlante inglese, giapponese o cinese",
+   "Ingresso allo zoo"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Attività opzionali sulla neve",
+   "Spese personali"
+  ]
+ },
+ "hoheikyo-dam-jozankei-and-outlet-tour-in-sapporo": {
+  "title": "La Diga di Hoheikyo, Jozankei e tour degli outlet, da Sapporo",
+  "metaTitle": "Diga di Hoheikyo e Jozankei",
+  "metaDescription": "Dieci ore da Sapporo tra la Diga di Hoheikyo e il Jozankei Tsuruga Resort Spa MORI no UTA, con trasporto in bus e pranzo a Jozankei Tsuruga inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra la Diga di Hoheikyo e il Jozankei Tsuruga Resort Spa MORI no UTA, con trasporto in bus e pranzo a Jozankei Tsuruga inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore da Sapporo è costruita intorno alla **Diga di Hoheikyo** e al **Jozankei Tsuruga Resort Spa MORI no UTA**. Il trasporto in bus, il pranzo a Jozankei Tsuruga, il biglietto d'ingresso alla Diga di Hoheikyo, e il biglietto d'ingresso al Takino Suzuran Hillside Park sono inclusi nel prezzo. Le spese personali e l'assicurazione di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto in bus",
+   "Pranzo a Jozankei Tsuruga",
+   "Biglietto d'ingresso alla Diga di Hoheikyo",
+   "Biglietto d'ingresso al Takino Suzuran Hillside Park"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "blue-pond-and-ningle-terrace-illumination-biei-tour": {
+  "title": "Illuminazione dello Stagno Blu e della Ningle Terrace, tour a Biei",
+  "metaTitle": "Stagno Blu e Ningle Terrace, Biei",
+  "metaDescription": "Dieci ore da Sapporo tra l'Albero di Natale e il ristorante della fattoria Chiyoda, con pullman climatizzato e servizio di guida inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra l'Albero di Natale e il ristorante della fattoria Chiyoda, con pullman climatizzato e servizio di guida inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore da Sapporo è costruita intorno al bus/pullman, all'Albero di Natale e al ristorante della **fattoria Chiyoda**. Il pullman climatizzato, il servizio di guida (inglese/cinese), e i pedaggi autostradali e le tariffe di parcheggio sono inclusi nel prezzo. Il pranzo, le spese personali, l'assicurazione di viaggio, e l'esperienza in motoslitta alla fattoria Chiyoda (singolo 15.000 yen, tandem 20.000 yen; solo in contanti) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Pullman climatizzato",
+   "Servizio di guida (inglese/cinese)",
+   "Pedaggi autostradali e tariffe di parcheggio"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Spese personali",
+   "Assicurazione di viaggio",
+   "Esperienza in motoslitta alla fattoria Chiyoda (singolo 15.000 yen, tandem 20.000 yen; solo in contanti)"
+  ]
+ },
+ "blue-pond-and-ningle-terrace-winter-illumination-tour-in-sapporo": {
+  "title": "Illuminazione invernale dello Stagno Blu e della Ningle Terrace, da Sapporo",
+  "metaTitle": "Stagno Blu e Ningle Terrace, illuminazione invernale",
+  "metaDescription": "Dieci ore da Sapporo tra l'Albero di Ken e Mary e lo Shikisai No Oka, con trasporto andata e ritorno in pullman riscaldato e guida multilingue inclusi.",
+  "shortDescription": "Dieci ore da Sapporo tra l'Albero di Ken e Mary e lo Shikisai No Oka, con trasporto andata e ritorno in pullman riscaldato e guida multilingue inclusi.",
+  "fullDescription": "Hokkaido è l'isola settentrionale del Giappone, un clima diverso e una scala diversa: Sapporo è la sua città, con il museo della birra, il vicolo del ramen e il festival della neve di febbraio; Otaru, a quaranta minuti, ha il canale e i negozi di vetro e carillon; Noboribetsu sono le sorgenti termali della valle dell'inferno; il Lago Toya e il Lago Shikotsu sono laghi di caldera; e Biei e Furano, al centro, sono i campi di fiori e la lavanda di luglio. L'inverno porta due metri di neve a Sapporo e la polvere che ha reso famosa Niseko. Le distanze sono lunghe e i treni pochi, quindi le gite di un giorno da Sapporo sono soprattutto in autobus e durano da otto a dieci ore.\n\nQuesta esperienza di dieci ore da Sapporo è costruita intorno al bus/pullman, all'Albero di Natale e all'**Albero di Ken e Mary**. Il trasporto andata e ritorno in pullman riscaldato, la guida multilingue (inglese, cinese, giapponese), i pedaggi autostradali e le tariffe di parcheggio, e l'autista professionista sono inclusi nel prezzo. Pasti e bevande, il giro in motoslitta (opzionale, pagabile sul posto in contanti): singolo 15.000 yen a persona, tandem (due persone) 20.000 yen a coppia, altre tariffe per attività sulla neve (slittino, rafting sulla neve), le spese personali e i souvenir, e l'assicurazione di viaggio restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno in pullman riscaldato",
+   "Guida multilingue (inglese, cinese, giapponese)",
+   "Pedaggi autostradali e tariffe di parcheggio",
+   "Autista professionista"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Giro in motoslitta (opzionale, pagabile sul posto in contanti): singolo 15.000 yen a persona, tandem (due persone) 20.000 yen a coppia",
+   "Altre tariffe per attività sulla neve (slittino, rafting sulla neve)",
+   "Spese personali e souvenir",
+   "Assicurazione di viaggio"
+  ]
+ },
  "fuji-motorsports-museum-private-tour": {
   "title": "Fuji Speedway e NISMO: giornata JDM privata da Tokyo",
   "metaTitle": "Fuji Speedway e NISMO da Tokyo",
