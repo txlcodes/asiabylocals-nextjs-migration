@@ -35331,6 +35331,182 @@ export const IT_TOURS: Record<string, TourT> = {
    "Tariffa per le sorgenti termali"
   ]
  },
+ "kegonji-temple-yoro-park-and-kiyosu-castle-tour-in-nagoya": {
+  "title": "Tempio Kegonji, Yoro Park e Castello di Kiyosu, tour da Nagoya",
+  "metaTitle": "Tempio Kegonji e Castello di Kiyosu",
+  "metaDescription": "Dieci ore da Nagoya tra il Kegon-ji e il Yorokoen, con servizio di trasporto, guida multilingue e pedaggi autostradali inclusi.",
+  "shortDescription": "Dieci ore da Nagoya tra il Kegon-ji e il Yorokoen, con servizio di trasporto, guida multilingue e pedaggi autostradali inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di dieci ore da Nagoya è costruita intorno al bus/pullman, al **Kegon-ji** e al **Yorokoen**. Il servizio di trasporto, la guida turistica multilingue (inglese, giapponese, cinese), i pedaggi autostradali, le tariffe di parcheggio, e l'autista professionista sono inclusi nel prezzo; il punto d'incontro è il Silver Clock. Il pranzo, cibo e bevande, le spese personali, e il biglietto d'ingresso alla torre del Castello di Kiyosu (400 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio di trasporto",
+   "Guida turistica multilingue (inglese, giapponese, cinese)",
+   "Pedaggi autostradali",
+   "Tariffe di parcheggio",
+   "Autista professionista"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Cibo e bevande",
+   "Spese personali",
+   "Biglietto d'ingresso alla torre del Castello di Kiyosu (400 yen)"
+  ]
+ },
+ "miso-factory-and-fox-statue-temple-eco-tour-from-nagoya-by-local-operator": {
+  "title": "Fabbrica di miso e tempio della volpe, eco-tour da Nagoya, con operatore locale",
+  "metaTitle": "Fabbrica di miso e tempio della volpe",
+  "metaDescription": "Una giornata intera da Nagoya tra il Santuario di Toyokawa Inari (Tempio Myogonji) e il tour della fabbrica Kakukyu Hatcho Miso no Sato, con una guida turistica di lingua inglese e le tariffe dei trasporti pubblici incluse.",
+  "shortDescription": "Una giornata intera da Nagoya tra il Santuario di Toyokawa Inari (Tempio Myogonji) e il tour della fabbrica Kakukyu Hatcho Miso no Sato, con una guida turistica di lingua inglese e le tariffe dei trasporti pubblici incluse.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di una giornata intera da Nagoya è costruita intorno al treno, al **Santuario di Toyokawa Inari** (Tempio Myogonji) e al tour della fabbrica **Kakukyu Hatcho Miso no Sato**. La guida turistica di lingua inglese e le tariffe dei trasporti pubblici sono inclusi nel prezzo; il punto d'incontro è lo Starbucks all'interno del Meitetsu Department Store di Nagoya. Il pranzo, le mance per la guida, le spese medico-sanitarie d'emergenza, e altre spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica di lingua inglese",
+   "Tariffe dei trasporti pubblici"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Mance per la guida",
+   "Spese medico-sanitarie d'emergenza",
+   "Altre spese personali"
+  ]
+ },
+ "golden-palace-and-futuristic-oasis-walk-in-nagoya": {
+  "title": "Il palazzo dorato e la passeggiata nell'oasi futuristica, a Nagoya",
+  "metaTitle": "Palazzo dorato e oasi futuristica",
+  "metaDescription": "Quattro ore a Nagoya tra i trasporti pubblici, il Castello di Nagoya e Oasis 21, con la guida inclusa.",
+  "shortDescription": "Quattro ore a Nagoya tra i trasporti pubblici, il Castello di Nagoya e Oasis 21, con la guida inclusa.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di quattro ore a Nagoya è costruita intorno ai trasporti pubblici, al **Castello di Nagoya** e a **Oasis 21**. La guida locale è inclusa nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Guida locale"
+  ],
+  "notIncluded": []
+ },
+ "kamikochi-day-tour-from-nagoya-discover-the-pristine-valley-by-local-operator": {
+  "title": "Kamikochi, gita di un giorno da Nagoya: alla scoperta della valle incontaminata, con operatore locale",
+  "metaTitle": "Kamikochi, la valle incontaminata",
+  "metaDescription": "Dieci ore da Nagoya a Kamikochi, con trasporto andata e ritorno in bus climatizzato e guida turistica multilingue inclusi.",
+  "shortDescription": "Dieci ore da Nagoya a Kamikochi, con trasporto andata e ritorno in bus climatizzato e guida turistica multilingue inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di dieci ore da Nagoya è costruita intorno al bus/pullman e a **Kamikochi**. Il trasporto andata e ritorno in bus climatizzato, la guida turistica multilingue (inglese, giapponese, cinese), i pedaggi autostradali, le tariffe di parcheggio, e l'autista professionista sono inclusi nel prezzo; il punto d'incontro è il Silver Clock. Cibo e bevande, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasporto andata e ritorno in bus climatizzato",
+   "Guida turistica multilingue (inglese, giapponese, cinese)",
+   "Pedaggi autostradali",
+   "Tariffe di parcheggio",
+   "Autista professionista"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "toyota-commemorative-museum-and-monozukuri-tour-in-nagoya": {
+  "title": "Il Toyota Commemorative Museum e il tour del monozukuri, a Nagoya",
+  "metaTitle": "Toyota Commemorative Museum, monozukuri",
+  "metaDescription": "Quattro ore a Nagoya con l'ingresso al Toyota Commemorative Museum e una guida parlante inglese e giapponese inclusi.",
+  "shortDescription": "Quattro ore a Nagoya con l'ingresso al Toyota Commemorative Museum e una guida parlante inglese e giapponese inclusi.",
+  "fullDescription": "Nagoya è la quarta città del Giappone e la porta d'accesso al Ghibli Park di Nagakute, apertosi nel 2022 con biglietti a orario che si esauriscono con settimane d'anticipo, al parco Nagashima Spa Land con le sue montagne russe, e a Inuyama, il cui castello è uno dei dodici mantenuti nella forma originale. I delfini dorati del Castello di Nagoya e il Toyota Commemorative Museum sono le attrazioni proprie della città, e l'anguilla grigliata hitsumabushi e il miso katsu sono la sua cucina. Il Grande Santuario di Ise, il sito più sacro dello shintoismo, ricostruito ogni venti anni, si trova novanta minuti a sud.\n\nQuesta esperienza di quattro ore a Nagoya porta l'ingresso al **Toyota Commemorative Museum** e una guida parlante inglese e giapponese; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le tariffe di trasporto, cibo e bevande, le strutture opzionali a pagamento al Noritake Garden, e il pick-up e il drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Ingresso al Toyota Commemorative Museum",
+   "Guida parlante inglese e giapponese"
+  ],
+  "notIncluded": [
+   "Tariffe di trasporto",
+   "Cibo e bevande",
+   "Strutture opzionali a pagamento al Noritake Garden",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "shirakawa-go-unesco-village-day-tour": {
+  "title": "Shirakawa-go, il villaggio UNESCO, gita di un giorno",
+  "metaTitle": "Shirakawa-go, villaggio UNESCO",
+  "metaDescription": "Dieci ore da Nagoya tra Takayama e Shirakawa-go, con il bus andata e ritorno da Nagoya, l'autista multilingue e tutti i pedaggi autostradali inclusi.",
+  "shortDescription": "Dieci ore da Nagoya tra Takayama e Shirakawa-go, con il bus andata e ritorno da Nagoya, l'autista multilingue e tutti i pedaggi autostradali inclusi.",
+  "fullDescription": "Takayama, sulle montagne di Hida a nord di Nagoya, ha conservato le sue strade mercantili del periodo Edo, i mercati del mattino e le distillerie di sake, e Shirakawa-go, un'ora più avanti, è il villaggio UNESCO di case gassho-zukuri con tetti spioventi di paglia costruiti per la neve. Le gite di un giorno da Nagoya, Kanazawa o Takayama stessa raggiungono il villaggio; il punto panoramico sopra di esso offre la vista, e l'inverno, quando i tetti portano due metri di neve e il villaggio viene illuminato in alcune serate di gennaio e febbraio, è la ragione per cui molti vi si recano. Il manzo di Hida è il piatto tipico della regione.\n\nQuesta esperienza di dieci ore da Nagoya è costruita intorno al bus/pullman, a **Takayama** e a **Shirakawa-go**. Il bus andata e ritorno da Nagoya, l'autista multilingue, tutti i pedaggi autostradali, il pick-up in hotel (entro 3km dalla Stazione di Nagoya), il veicolo premium (Toyota Alphard/HiAce) con autista di lingua inglese, e un bagaglio a persona sono inclusi nel prezzo. I pasti e i biglietti per le attrazioni (con flessibilità di scelta), e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Bus andata e ritorno da Nagoya",
+   "Autista multilingue",
+   "Tutti i pedaggi autostradali",
+   "Pick-up in hotel (entro 3km dalla Stazione di Nagoya)",
+   "Veicolo premium (Toyota Alphard/HiAce) con autista di lingua inglese",
+   "Un bagaglio a persona"
+  ],
+  "notIncluded": [
+   "Pasti e biglietti per le attrazioni (con flessibilità di scelta)",
+   "Spese personali"
+  ]
+ },
+ "shirakawago-and-kanazawa-day-trip-by-bullet-train": {
+  "title": "Shirakawago e Kanazawa, gita di un giorno con il treno superveloce",
+  "metaTitle": "Shirakawago e Kanazawa, Shinkansen",
+  "metaDescription": "Otto ore da Nagoya tra Shirakawa-go e il Giardino Kenroku-en, con una guida bilingue in spagnolo e inglese e il trasporto inclusi.",
+  "shortDescription": "Otto ore da Nagoya tra Shirakawa-go e il Giardino Kenroku-en, con una guida bilingue in spagnolo e inglese e il trasporto inclusi.",
+  "fullDescription": "Takayama, sulle montagne di Hida a nord di Nagoya, ha conservato le sue strade mercantili del periodo Edo, i mercati del mattino e le distillerie di sake, e Shirakawa-go, un'ora più avanti, è il villaggio UNESCO di case gassho-zukuri con tetti spioventi di paglia costruiti per la neve. Le gite di un giorno da Nagoya, Kanazawa o Takayama stessa raggiungono il villaggio; il punto panoramico sopra di esso offre la vista, e l'inverno, quando i tetti portano due metri di neve e il villaggio viene illuminato in alcune serate di gennaio e febbraio, è la ragione per cui molti vi si recano. Il manzo di Hida è il piatto tipico della regione.\n\nQuesta esperienza di otto ore da Nagoya è costruita intorno al treno, al bus/pullman e a **Shirakawa-go**. La guida bilingue in spagnolo e inglese, il trasporto, il biglietto del treno da/per Kyoto (se l'opzione è selezionata), e l'ingresso al **Giardino Kenroku-en** sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue in spagnolo e inglese",
+   "Trasporto",
+   "Biglietto del treno da/per Kyoto (se l'opzione è selezionata)",
+   "Ingresso al Giardino Kenroku-en"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "sacred-morning-walk-with-deer-in-the-mist-in-nara": {
+  "title": "Passeggiata sacra del mattino tra i cervi nella nebbia, a Nara",
+  "metaTitle": "Nara, passeggiata del mattino tra i cervi",
+  "metaDescription": "Un'ora e mezza da Nara tra l'Ukimido e il Kasuga-taisha, con un tour guidato del primo mattino e una guida esperta locale inclusi.",
+  "shortDescription": "Un'ora e mezza da Nara tra l'Ukimido e il Kasuga-taisha, con un tour guidato del primo mattino e una guida esperta locale inclusi.",
+  "fullDescription": "Nara è stata la prima capitale permanente del Giappone, dal 710 al 784, e il suo parco custodisce il Todai-ji, la cui Sala del Grande Buddha è uno dei più grandi edifici in legno del mondo e contiene un Buddha di bronzo alto 15 metri, fuso nel 752, il Kasuga Taisha con le sue tremila lanterne, e circa 1.200 cervi sika, considerati messaggeri degli dei e protetti. I cervi si inchinano per i biscotti shika senbei venduti nel parco e scalciano chi li provoca. Nara è a 45 minuti da Kyoto o Osaka in treno ed è una mezza giornata; il Todai-ji prima delle 10:00 è l'ora tranquilla.\n\nQuesta esperienza di un'ora e mezza da Nara è costruita intorno all'**Ukimido** e al **Kasuga-taisha**. Il tour guidato del primo mattino a Nara e una guida esperta locale sono inclusi nel prezzo; il punto d'incontro è il primo torii del Kasuga Taisha. L'ingresso alla Sala del Grande Buddha resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del primo mattino a Nara",
+   "Guida esperta locale"
+  ],
+  "notIncluded": [
+   "Ingresso alla Sala del Grande Buddha"
+  ]
+ },
+ "private-nara-tour-and-sake-tasting-departing-from-kyoto-nara-by-local-operator": {
+  "title": "Tour privato di Nara e degustazione di sake (partenza da Kyoto/Nara), con operatore locale",
+  "metaTitle": "Nara, tour privato e degustazione di sake",
+  "metaDescription": "Cinque ore a Nara tra il Kōfuku-ji e il Tōdai-ji, con una guida locale appassionata di lingua inglese e i biglietti d'ingresso al Tempio Todai-ji inclusi.",
+  "shortDescription": "Cinque ore a Nara tra il Kōfuku-ji e il Tōdai-ji, con una guida locale appassionata di lingua inglese e i biglietti d'ingresso al Tempio Todai-ji inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di cinque ore a Nara è costruita intorno al **Kōfuku-ji**, al **Tōdai-ji** e al Todai-ji Nigatsu-do. Una guida locale appassionata di lingua inglese, i biglietti d'ingresso al Tempio Todai-ji (800 yen), splendide foto professionali scattate durante il tour, e il Wi-Fi gratuito sono inclusi nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. La tariffa della degustazione di sake (700 yen, valida solo per chi desidera partecipare) resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale appassionata di lingua inglese",
+   "Biglietti d'ingresso al Tempio Todai-ji (800 yen)",
+   "Splendide foto professionali scattate durante il tour",
+   "Wi-Fi gratuito"
+  ],
+  "notIncluded": [
+   "Tariffa della degustazione di sake (700 yen, valida solo per chi desidera partecipare)"
+  ]
+ },
+ "nara-in-spanish-private-sightseeing-tour-with-pick-up-from-osaka-or-kyoto-by-local-operato": {
+  "title": "Nara in spagnolo: tour privato con pick-up da Osaka o Kyoto, con operatore locale",
+  "metaTitle": "Nara in spagnolo, tour privato",
+  "metaDescription": "Sei ore a Nara con una guida e traduttrice parlante inglese, spagnolo o giapponese, esclusiva, e un itinerario personalizzato secondo gli interessi del cliente incluse.",
+  "shortDescription": "Sei ore a Nara con una guida e traduttrice parlante inglese, spagnolo o giapponese, esclusiva, e un itinerario personalizzato secondo gli interessi del cliente incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di sei ore a Nara porta una guida e traduttrice parlante inglese, spagnolo o giapponese, esclusiva per il tour di 6 o 8 ore, un itinerario personalizzato secondo gli interessi del cliente, e il pick-up all'inizio del tour panoramico presso il proprio hotel o alle stazioni ferroviarie di Osaka, Kyoto o Nara (in aree designate). Pasti e bevande, i biglietti d'ingresso a templi e santuari, il servizio di drop-off in hotel alla fine del tour panoramico (non incluso; servizio opzionale, da richiedere), e le spese di trasporto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida e traduttrice parlante inglese, spagnolo o giapponese, esclusiva per il tour di 6 o 8 ore",
+   "Itinerario personalizzato secondo gli interessi del cliente",
+   "Pick-up all'inizio del tour panoramico presso il proprio hotel o alle stazioni ferroviarie di Osaka, Kyoto o Nara (in aree designate)"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Biglietti d'ingresso a templi e santuari",
+   "Servizio di drop-off in hotel alla fine del tour panoramico (non incluso; servizio opzionale, da richiedere)",
+   "Spese di trasporto"
+  ]
+ },
  "fuji-motorsports-museum-private-tour": {
   "title": "Fuji Speedway e NISMO: giornata JDM privata da Tokyo",
   "metaTitle": "Fuji Speedway e NISMO da Tokyo",
