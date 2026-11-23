@@ -39350,6 +39350,187 @@ export const IT_TOURS: Record<string, TourT> = {
    "Mance"
   ]
  },
+ "hiroshima-historical-walking-tour-why-the-a-bomb-was-dropped-by-local-operator": {
+  "title": "Tour storico a piedi a Hiroshima: perché è stata lanciata la bomba atomica, con operatore locale",
+  "metaTitle": "Hiroshima, tour storico a piedi",
+  "metaDescription": "Due ore e mezza a Hiroshima tra il Castello di Hiroshima e il Hiroshima Gate Park, con il tour guidato incluso.",
+  "shortDescription": "Due ore e mezza a Hiroshima tra il Castello di Hiroshima e il Hiroshima Gate Park, con il tour guidato incluso.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto in cui la bomba detonò alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica, lo scheletro del padiglione di promozione industriale, è stata lasciata com'era; il Museo Memoriale della Pace ha riaperto nel 2019 dopo un riallestimento e richiede circa due ore, e non è adatto ai bambini piccoli. Il Monumento della Pace dei Bambini è coperto di gru di carta inviate da tutto il mondo. Il piatto tipico di Hiroshima è l'okonomiyaki a strati con i noodles, mangiato ai banconi di Okonomimura. Miyajima è a 40 minuti e la maggior parte dei visitatori combina le due tappe in un giorno.\n\nQuesta esperienza di due ore e mezza a Hiroshima è costruita intorno al **Castello di Hiroshima**, al Hiroshima Gate Park e alla **Cupola della Bomba Atomica**. Il tour guidato è incluso nel prezzo; il punto d'incontro è il Santuario Hiroshima Gokoku. La mancia per la guida resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato"
+  ],
+  "notIncluded": [
+   "Mancia per la guida"
+  ]
+ },
+ "hiroshima-and-miyajima-2-unesco-sites-1-day-small-group-tour-by-local-operator": {
+  "title": "Hiroshima e Miyajima: 2 siti UNESCO, tour di 1 giorno in piccolo gruppo, con operatore locale",
+  "metaTitle": "Hiroshima e Miyajima, 2 siti UNESCO",
+  "metaDescription": "Sei ore e mezza a Hiroshima tra il treno e il traghetto a Miyajima, con un tour guidato locale e i biglietti d'ingresso incluse.",
+  "shortDescription": "Sei ore e mezza a Hiroshima tra il treno e il traghetto a Miyajima, con un tour guidato locale e i biglietti d'ingresso incluse.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto in cui la bomba detonò alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica, lo scheletro del padiglione di promozione industriale, è stata lasciata com'era; il Museo Memoriale della Pace ha riaperto nel 2019 dopo un riallestimento e richiede circa due ore, e non è adatto ai bambini piccoli. Il Monumento della Pace dei Bambini è coperto di gru di carta inviate da tutto il mondo. Il piatto tipico di Hiroshima è l'okonomiyaki a strati con i noodles, mangiato ai banconi di Okonomimura. Miyajima è a 40 minuti e la maggior parte dei visitatori combina le due tappe in un giorno.\n\nQuesta esperienza di sei ore e mezza a Hiroshima è costruita intorno al treno, al traghetto e a **Miyajima**. Un tour guidato locale e i biglietti d'ingresso sono inclusi nel prezzo; il punto d'incontro è la Biglietteria Midori no Madoguchi all'ingresso centrale della Stazione di Hiroshima. I pasti e il trasporto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato locale",
+   "Biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Trasporto"
+  ]
+ },
+ "highlights-and-hidden-gems-private-walking-tour-in-osaka": {
+  "title": "I luoghi iconici e le gemme nascoste, tour a piedi privato a Osaka",
+  "metaTitle": "Osaka, luoghi iconici e gemme nascoste",
+  "metaDescription": "Due ore a Osaka con l'incontro in hotel (disponibile su richiesta, da una posizione centrale) e la guida turistica incluse.",
+  "shortDescription": "Due ore a Osaka con l'incontro in hotel (disponibile su richiesta, da una posizione centrale) e la guida turistica incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di due ore a Osaka porta l'incontro in hotel (disponibile su richiesta, da una posizione centrale), la guida turistica, e consigli per il resto del soggiorno; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Cibo e bevande, l'ingresso alle attrazioni a pagamento, il trasporto, e le mance (opzionali) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Incontro in hotel (disponibile su richiesta, da una posizione centrale)",
+   "Guida turistica",
+   "Consigli per il resto del soggiorno"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Ingresso alle attrazioni a pagamento",
+   "Trasporto",
+   "Mance (opzionali)"
+  ]
+ },
+ "tokyo-to-osaka-6-day-private-charter-journey-by-local-operator": {
+  "title": "Da Tokyo a Osaka: viaggio privato con noleggio di 6 giorni, con operatore locale",
+  "metaTitle": "Tokyo-Osaka, noleggio 6 giorni",
+  "metaDescription": "Sei giorni a Osaka con un tour privato di 6 giorni da Tokyo a Osaka, un autista e veicolo dedicati e il pick-up in hotel incluse.",
+  "shortDescription": "Sei giorni a Osaka con un tour privato di 6 giorni da Tokyo a Osaka, un autista e veicolo dedicati e il pick-up in hotel incluse.",
+  "fullDescription": "Tokyo è la più grande città della Terra per popolazione metropolitana, e si vede meglio come un insieme di quartieri lungo la linea circolare Yamanote piuttosto che come un unico luogo. Asakusa ha il Senso-ji, il tempio più antico della città, e il vicolo commerciale di Nakamise; Shibuya ha l'incrocio a scramble e Shinjuku i bar di Golden Gai e Omoide Yokocho; Harajuku è la via Takeshita e il bosco del Santuario Meiji; Akihabara è elettronica e anime; Ginza sono grandi magazzini e banconi di sushi. Tutto funziona in orario e gli ultimi treni partono verso mezzanotte. Il contante conta ancora nei piccoli ristoranti, una IC card copre ogni treno e autobus, e la mancia non si usa da nessuna parte.\n\nIl pick-up è offerto da Suginami Izumi Gakuen e da Tokyo; il punto e l'orario esatti vengono concordati con HavenTrip una volta confermata la prenotazione, e l'opzione scelta determina se il trasporto è incluso.\n\nQuesta esperienza di sei giorni a Osaka porta un tour privato di 6 giorni da **Tokyo** a **Osaka**, un autista e veicolo dedicati, il pick-up in hotel, le visite a Tokyo, Kamakura, al Monte Fuji, al Lago Kawaguchi, Shizuoka, Kyoto, Nara e Osaka, e il commento di base dell'autista; il punto d'incontro effettivo a Osaka viene confermato da HavenTrip una volta effettuata la prenotazione. I pasti, l'alloggio, e i biglietti d'ingresso alle attrazioni restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour privato di 6 giorni da Tokyo a Osaka",
+   "Autista e veicolo dedicati",
+   "Pick-up in hotel",
+   "Visite a Tokyo, Kamakura, al Monte Fuji, al Lago Kawaguchi, Shizuoka, Kyoto, Nara e Osaka",
+   "Commento di base dell'autista"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Alloggio",
+   "Biglietti d'ingresso alle attrazioni"
+  ]
+ },
+ "rokko-snow-park-winter-ski-day-tour-lesson-optional-in-osaka": {
+  "title": "Mt. Rokko Snow Park, gita invernale sugli sci (lezione opzionale), da Osaka",
+  "metaTitle": "Mt. Rokko Snow Park, da Osaka",
+  "metaDescription": "Dieci ore da Osaka tra il Mt. Rokkō Snow Park e le terme di Arima, con il trasporto e il personale parlante inglese, cinese o coreano incluse.",
+  "shortDescription": "Dieci ore da Osaka tra il Mt. Rokkō Snow Park e le terme di Arima, con il trasporto e il personale parlante inglese, cinese o coreano incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di dieci ore da Osaka è costruita intorno al bus/pullman, al **Mt. Rokkō Snow Park** e alle terme di **Arima**. Tutte le opzioni: trasporto e personale parlante inglese/cinese/coreano; opzione B-1: biglietto d'ingresso, skilift, attrezzatura da sci e abbigliamento da sci (giacca e pantaloni); opzione B-2: biglietto d'ingresso, skilift, attrezzatura da snowboard e abbigliamento da sci (giacca e pantaloni); opzione C: biglietto d'ingresso, skilift, attrezzatura da sci, abbigliamento da sci (giacca e pantaloni) e una lezione base di 1 ora; opzione D: biglietto d'ingresso e slittino sono inclusi secondo l'opzione scelta; il punto d'incontro è il ristorante Tsurutontan Soemoncho. I pasti, le spese personali, l'assicurazione di viaggio, gli accessori da sci (casco, guanti di maglia, guanti, maschera, cappelli, calzini, ecc.), l'ingresso alle terme di Arima, il casco (700 yen), e gli stivali da neve per lo slittino e il gioco sulla neve (500 yen) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tutte le opzioni: trasporto e personale parlante inglese/cinese/coreano",
+   "Opzione B-1: biglietto d'ingresso, skilift, attrezzatura da sci e abbigliamento da sci (giacca e pantaloni)",
+   "Opzione B-2: biglietto d'ingresso, skilift, attrezzatura da snowboard e abbigliamento da sci (giacca e pantaloni)",
+   "Opzione C: biglietto d'ingresso, skilift, attrezzatura da sci, abbigliamento da sci (giacca e pantaloni) e una lezione base di 1 ora",
+   "Opzione D: biglietto d'ingresso e slittino"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Assicurazione di viaggio",
+   "Accessori da sci (casco, guanti di maglia, guanti, maschera, cappelli, calzini, ecc.)",
+   "Ingresso alle terme di Arima",
+   "Casco (700 yen)",
+   "Stivali da neve per lo slittino e il gioco sulla neve (500 yen)"
+  ]
+ },
+ "eat-drink-cycle-osaka-food-and-bike-tour-by-local-operator": {
+  "title": "Mangia, bevi, pedala: tour enogastronomico in bici a Osaka, con operatore locale",
+  "metaTitle": "Osaka, enogastronomico in bici",
+  "metaDescription": "Tre ore e mezza a Osaka con cibo locale, bicicletta e casco incluse.",
+  "shortDescription": "Tre ore e mezza a Osaka con cibo locale, bicicletta e casco incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore e mezza a Osaka porta il cibo locale, la bicicletta e il casco, una guida locale, e l'acqua; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il pick-up e il drop-off in hotel, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Cibo locale",
+   "Bicicletta e casco",
+   "Guida locale",
+   "Acqua"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Spese personali"
+  ]
+ },
+ "sightseening-photo-in-osaka-includes-100-photo-data-by-local-operator": {
+  "title": "Servizio fotografico turistico a Osaka, include 100 foto digitali, con operatore locale",
+  "metaTitle": "Servizio fotografico, Osaka",
+  "metaDescription": "Un'ora a Osaka con una sessione fotografica professionale a Dotonbori e la guida ai migliori punti fotografici incluse.",
+  "shortDescription": "Un'ora a Osaka con una sessione fotografica professionale a Dotonbori e la guida ai migliori punti fotografici incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di un'ora a Osaka porta una sessione fotografica professionale a **Dotonbori**, la guida ai migliori punti fotografici, e i dati delle immagini digitali di alta qualità (circa 100); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. La stampa delle foto, l'acconciatura e il trucco professionali, e il noleggio del kimono restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Sessione fotografica professionale a Dotonbori",
+   "Guida ai migliori punti fotografici",
+   "Dati delle immagini digitali di alta qualità (circa 100)"
+  ],
+  "notIncluded": [
+   "Stampa delle foto",
+   "Acconciatura e trucco professionali",
+   "Noleggio del kimono"
+  ]
+ },
+ "osaka-castle-tenjinbashi-nakazaki-and-umeda-sky-walking-tour-by-local-operator": {
+  "title": "Castello di Osaka, Tenjinbashi, Nakazaki e Umeda Sky, tour a piedi, con operatore locale",
+  "metaTitle": "Castello di Osaka e Umeda Sky",
+  "metaDescription": "Cinque ore a Osaka tra il Castello di Osaka e la metropolitana, con una guida locale professionista di lingua inglese e il biglietto d'ingresso al Castello di Osaka incluse.",
+  "shortDescription": "Cinque ore a Osaka tra il Castello di Osaka e la metropolitana, con una guida locale professionista di lingua inglese e il biglietto d'ingresso al Castello di Osaka incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di cinque ore a Osaka è costruita intorno al **Castello di Osaka**, alla metropolitana e al giardino dell'**Umeda Sky Building**. Una guida locale professionista di lingua inglese, il biglietto d'ingresso al Castello di Osaka, il biglietto d'ingresso all'osservatorio dell'Umeda Sky Building, un tour a piedi guidato, e i trasporti pubblici tra i quartieri sono inclusi nel prezzo; il punto d'incontro è la Stazione di Tanimachi 4-chome. Cibo e bevande, gli acquisti aggiuntivi, e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale professionista di lingua inglese",
+   "Biglietto d'ingresso al Castello di Osaka",
+   "Biglietto d'ingresso all'osservatorio dell'Umeda Sky Building",
+   "Tour a piedi guidato",
+   "Trasporti pubblici tra i quartieri"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Acquisti aggiuntivi",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "miyajima-trip-full-day-tour": {
+  "title": "Gita di un giorno a Hiroshima e Miyajima con il treno superveloce",
+  "metaTitle": "Hiroshima e Miyajima, giornata intera",
+  "metaDescription": "Otto ore a Hiroshima tra il treno e il traghetto, con i biglietti del Shinkansen andata e ritorno da Osaka e una guida bilingue in spagnolo e inglese incluse.",
+  "shortDescription": "Otto ore a Hiroshima tra il treno e il traghetto, con i biglietti del Shinkansen andata e ritorno da Osaka e una guida bilingue in spagnolo e inglese incluse.",
+  "fullDescription": "Il Parco Memoriale della Pace di Hiroshima si trova sul terreno sotto il punto in cui la bomba detonò alle 8:15 del 6 agosto 1945. La Cupola della Bomba Atomica, lo scheletro del padiglione di promozione industriale, è stata lasciata com'era; il Museo Memoriale della Pace ha riaperto nel 2019 dopo un riallestimento e richiede circa due ore, e non è adatto ai bambini piccoli. Il Monumento della Pace dei Bambini è coperto di gru di carta inviate da tutto il mondo. Il piatto tipico di Hiroshima è l'okonomiyaki a strati con i noodles, mangiato ai banconi di Okonomimura. Miyajima è a 40 minuti e la maggior parte dei visitatori combina le due tappe in un giorno.\n\nQuesta esperienza di otto ore a Hiroshima è costruita intorno al treno, al bus/pullman e al traghetto. I biglietti del Shinkansen andata e ritorno da Osaka (se l'opzione Osaka è selezionata), una guida bilingue in spagnolo e inglese, il trasporto dal punto d'incontro, il giro in traghetto a **Miyajima**, e il biglietto d'ingresso al **Santuario Itsukushima** sono inclusi nel prezzo; il punto d'incontro è la Stazione di Hiroshima. Il pranzo resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Biglietti del Shinkansen andata e ritorno da Osaka (se l'opzione Osaka è selezionata)",
+   "Guida bilingue in spagnolo e inglese",
+   "Trasporto dal punto d'incontro",
+   "Giro in traghetto a Miyajima",
+   "Biglietto d'ingresso al Santuario Itsukushima"
+  ],
+  "notIncluded": [
+   "Pranzo"
+  ]
+ },
+ "izakaya-dinner-and-variety-show-with-free-drinks-in-osaka": {
+  "title": "Cena izakaya e spettacolo di varietà con bevande gratuite, a Osaka",
+  "metaTitle": "Izakaya e spettacolo di varietà",
+  "metaDescription": "Tre ore a Osaka con una cena izakaya giapponese, lo spettacolo di varietà di Osaka e bevande illimitate durante lo spettacolo incluse.",
+  "shortDescription": "Tre ore a Osaka con una cena izakaya giapponese, lo spettacolo di varietà di Osaka e bevande illimitate durante lo spettacolo incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori con le sue insegne al neon è dove li si mangia. Il Castello di Osaka è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi, con un museo al suo interno e un fossato e un parco che valgono un'ora; il mercato Kuromon è il mercato alimentare; Shinsekai è il quartiere retrò sotto la torre Tsutenkaku; l'Umeda Sky Building ha l'osservatorio all'aperto. Osaka è la base per gite di un giorno a Nara, Kobe, Himeji e Koyasan, tutte a meno di un'ora e mezza. La città è più rumorosa e più economica di Kyoto, e la sua gente ne è nota.\n\nQuesta esperienza di tre ore a Osaka porta una cena **izakaya** giapponese, lo spettacolo di varietà di Osaka, e bevande illimitate durante lo spettacolo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Cena izakaya giapponese",
+   "Spettacolo di varietà di Osaka",
+   "Bevande illimitate durante lo spettacolo"
+  ],
+  "notIncluded": []
+ },
  "hiroshima-night-evening-tour": {
   "title": "Bocconi notturni a Hiroshima: tour gastronomico serale guidato con degustazioni",
   "metaTitle": "Tour gastronomico serale guidato di Hiroshima",
