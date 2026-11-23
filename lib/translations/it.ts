@@ -41810,6 +41810,212 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": []
  },
+ "mt-fuji-and-arakura-park-and-lake-kawaguchi-and-oishi-park": {
+  "title": "Monte Fuji, Arakura Park, Lago Kawaguchi e Oishi Park",
+  "metaTitle": "Monte Fuji, Arakura Park, Lago Kawaguchi",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Santuario Kitaguchi-hongu Fuji Sengen, l'Oishi Park e il LAWSON della stazione di Kawaguchiko. Gestito da シーアイティーエス・ジャパン株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Santuario Kitaguchi-hongu Fuji Sengen, l'Oishi Park e il LAWSON della stazione di Kawaguchiko. Gestito da シーアイティーエス・ジャパン株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno a bus/pullman, al Santuario Kitaguchi-hongu Fuji Sengen e all'Oishi Park. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il trasporto di andata e ritorno da Tokyo e la guida turistica. Non comprende le spese personali, l'assicurazione di viaggio e il pranzo teppanyaki su pietra lavica del Fuji, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Trasporto di andata e ritorno da Tokyo",
+   "Guida turistica in lingua inglese"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Assicurazione di viaggio",
+   "Pranzo teppanyaki su pietra lavica del Fuji"
+  ]
+ },
+ "mount-fuji-and-hakone-private-day-tour": {
+  "title": "Tour privato di un giorno al Monte Fuji e Hakone",
+  "metaTitle": "Tour privato, Monte Fuji e Hakone",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Lago Shoji, la Pagoda Chureito e il Santuario Arakura Fuji Sengen. Gestito da Lavender Hana Travels, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Lago Shoji, la Pagoda Chureito e il Santuario Arakura Fuji Sengen. Gestito da Lavender Hana Travels, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno al Lago Shoji, alla Pagoda Chureito e al Santuario Arakura Fuji Sengen. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il tour privato, la visita al Santuario Murayama Sengen, la visita ai campi di tè di Obuchi Sasaba, la visita al Tempio Jissoji e la visita al Lago Saiko / Lago Shoji. Non comprende i pasti, le spese personali e i biglietti d'ingresso, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nTokyo. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Tour privato",
+   "Visita al Santuario Murayama Sengen",
+   "Visita ai campi di tè di Obuchi Sasaba",
+   "Visita al Tempio Jissoji",
+   "Visita al Lago Saiko / Lago Shoji",
+   "Visita al villaggio Saiko Iyashi no Sato Nenba",
+   "Visita alla Pagoda Chureito",
+   "Visita a Oshino Hakkai",
+   "Visita al Michi-no-Eki Fujiyoshida",
+   "Visita al Fujisan Radar Dome Museum",
+   "Visita all'Amazake Chaya",
+   "Visita a Hatajuku"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Spese personali",
+   "Biglietti d'ingresso"
+  ]
+ },
+ "tokyo-mt-fuji-5th-st-and-hakone-cruise-bus-tour-withbullet-train": {
+  "title": "Tokyo, 5ª Stazione del Monte Fuji e tour in bus con crociera a Hakone, con treno veloce",
+  "metaTitle": "Monte Fuji e Hakone, con treno veloce",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende la 5ª Stazione del Monte Fuji, un ristorante locale e un punto panoramico. Gestito da Japan Panoramic Tours, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende la 5ª Stazione del Monte Fuji, un ristorante locale e un punto panoramico. Gestito da Japan Panoramic Tours, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno a bus/pullman, alla 5ª Stazione del Monte Fuji e a un ristorante locale. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il ritiro da Matsuya Ginza o dalla statua Love a Shinjuku, il trasporto in pullman deluxe con aria condizionata, il Wi-Fi a bordo, una guida turistica in lingua inglese e il biglietto per la funivia di Hakone. Non comprende le mance e il ritiro e il rientro in hotel, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nRitiro in hotel al Monte Fuji. Japan Panoramic Tours confermerà l'orario di ritiro e il punto esatto una volta ricevuta la prenotazione. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Ritiro da Matsuya Ginza o dalla statua Love a Shinjuku",
+   "Trasporto in pullman deluxe con aria condizionata",
+   "Wi-Fi a bordo",
+   "Guida turistica professionista in lingua inglese",
+   "Biglietto per la funivia di Hakone",
+   "Biglietto per la crociera sul Lago Ashi",
+   "Cuffie audio per audioguide disponibili in spagnolo, francese, italiano, tedesco, portoghese e ucraino",
+   "Pranzo a buffet (se l'opzione è selezionata)",
+   "Biglietto del treno veloce di sola andata da Odawara a Tokyo"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)",
+   "Ritiro e rientro in hotel"
+  ]
+ },
+ "private-car-day-tour-to-mt-fuji-hakone-and-owakudani": {
+  "title": "Tour privato in auto di un giorno al Monte Fuji, Hakone e Owakudani",
+  "metaTitle": "Tour privato in auto, Monte Fuji",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Santuario di Hakone, la crociera panoramica e la valle di Owakudani. Gestito da Wandering Japan Adventures, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Santuario di Hakone, la crociera panoramica e la valle di Owakudani. Gestito da Wandering Japan Adventures, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno a bus/pullman, al Santuario di Hakone e alla crociera panoramica. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il percorso panoramico, il biglietto per la funivia di Hakone, la guida, il trasporto confortevole e tutte le tasse e i costi di gestione. Non comprende le spese personali, il biglietto per la crociera sul battello pirata di Hakone sul Lago Ashi (1.700 yen a persona), attività o esperienze opzionali scelte sul posto, e qualsiasi voce o servizio non specificamente elencato in \"cosa è incluso\", quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Percorso panoramico",
+   "Biglietto per la funivia di Hakone (sezione Owakudani inclusa)",
+   "Guida professionista",
+   "Trasporto confortevole",
+   "Tutte le tasse e i costi di gestione"
+  ],
+  "notIncluded": [
+   "Spese personali (pasti, snack, bevande e souvenir)",
+   "Biglietto per la crociera sul battello pirata di Hakone sul Lago Ashi, 1.700 yen a persona",
+   "Attività o esperienze opzionali scelte sul posto",
+   "Qualsiasi voce o servizio non specificamente elencato in \"cosa è incluso\""
+  ]
+ },
+ "hakone-gotemba-oshino-hakkai-and-lake-yamanaka-tour": {
+  "title": "Tour di Hakone, Gotemba, Oshino Hakkai e Lago Yamanaka",
+  "metaTitle": "Hakone, Gotemba, Lago Yamanaka",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Santuario di Hakone, il Gotemba Premium Outlets e Oshino Hakkai. Gestito da Pika Go, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Santuario di Hakone, il Gotemba Premium Outlets e Oshino Hakkai. Gestito da Pika Go, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno a bus/pullman, al Santuario di Hakone e al Gotemba Premium Outlets. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende la visita al Santuario di Hakone, la visita al Gotemba Premium Outlets, la visita a Oshino Hakkai e la visita al Lago Yamanaka. Non comprende il biglietto del Ninja Bus se non incluso nell'opzione selezionata, il pranzo, bevande e snack, e gli acquisti personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nShinjuku City. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Visita al Santuario di Hakone",
+   "Visita al Gotemba Premium Outlets",
+   "Visita a Oshino Hakkai",
+   "Visita al Lago Yamanaka"
+  ],
+  "notIncluded": [
+   "Biglietto del Ninja Bus se non incluso nell'opzione selezionata",
+   "Pranzo",
+   "Bevande e snack",
+   "Acquisti personali",
+   "Qualsiasi servizio non specificamente indicato come incluso"
+  ]
+ },
+ "mt-fuji-and-momiji-season-kamakura-big-buddha-and-lake-ashi-mount-fuji": {
+  "title": "Monte Fuji e stagione del momiji: Kamakura, il Grande Buddha e il Lago Ashi (Monte Fuji)",
+  "metaTitle": "Monte Fuji, momiji, Grande Buddha",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Kotoku-in, il Lago Ashi e Hakone. Gestito da AMIGO TOURS JAPAN GK, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Kotoku-in, il Lago Ashi e Hakone. Gestito da AMIGO TOURS JAPAN GK, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 11 ore al Monte Fuji, costruita intorno a bus/pullman, al Kotoku-in e al Lago Ashi. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende una guida bilingue inglese/spagnolo, il trasporto dal punto d'incontro, una crociera sul Lago Ashi e il biglietto per il Kotoku-in. Non comprende cibo e bevande, quindi va previsto a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nGinza Inz 2. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue inglese/spagnolo",
+   "Trasporto dal punto d'incontro",
+   "Crociera sul Lago Ashi",
+   "Biglietto per il Kotoku-in"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "must-visit-mt-fuji-air-land-and-sea-day-tour": {
+  "title": "Il tour di un giorno da non perdere al Monte Fuji: aria, terra e acqua",
+  "metaTitle": "Monte Fuji, aria terra e acqua",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, con le spese del servizio veicolo incluse nell'itinerario e i costi di carburante, pedaggi e autostrada per il veicolo incluse. Gestito da Pegasus観光株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, con le spese del servizio veicolo incluse nell'itinerario e i costi di carburante, pedaggi e autostrada per il veicolo incluse. Gestito da Pegasus観光株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore al Monte Fuji. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende: 1. le spese del servizio veicolo incluse nell'itinerario, 2. i costi di carburante, 3. la durata del servizio veicolo entro 10 ore, 4. i tipi di veicolo di riferimento (minivan aziendale a 7 posti, Toyota Alphard o Toyota HiAce); il tipo di veicolo è solo indicativo e verrà adeguato. Non comprende: 1. qualsiasi spesa non menzionata nell'itinerario, 2. altri costi personali, 3. pasti, alloggio, attività opzionali e spese personali, e 4. assicurazione di viaggio, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "1. Spese del servizio veicolo incluse nell'itinerario",
+   "2. Costi di carburante, pedaggi e autostrada per il veicolo",
+   "3. Durata del servizio veicolo entro 10 ore (come richiesto dalle normative giapponesi)",
+   "4. Tipi di veicolo di riferimento: minivan aziendale a 7 posti, Toyota Alphard o Toyota HiAce; il tipo di veicolo è solo indicativo e verrà adeguato in base al numero di partecipanti il giorno effettivo del tour",
+   "5. Tariffe d'ingresso: biglietto per il giro in barca a cigno sul Lago Yamanaka"
+  ],
+  "notIncluded": [
+   "1. Qualsiasi spesa non menzionata nell'itinerario",
+   "2. Altri costi personali",
+   "3. Pasti, alloggio, attività opzionali, spese personali",
+   "4. Assicurazione di viaggio (consigliata a proprie spese)"
+  ]
+ },
+ "mt-fuji-and-hakone-tour-w-return-by-bullet-train": {
+  "title": "Tour al Monte Fuji e Hakone con ritorno in treno veloce",
+  "metaTitle": "Monte Fuji e Hakone, treno veloce",
+  "metaDescription": "Tour al Monte Fuji, che comprende il Monte Fuji, Owakudani e la funivia di Hakone. Gestito da H.I.S. Co Ltd(TIC), prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour al Monte Fuji, che comprende il Monte Fuji, Owakudani e la funivia di Hakone. Gestito da H.I.S. Co Ltd(TIC), prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore al Monte Fuji, costruita intorno a bus/pullman, al Monte Fuji e a Owakudani. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende il trasporto in bus con aria condizionata, la funivia di Hakone, il biglietto per la crociera, una guida in lingua inglese e il pranzo. Non comprende il ritiro e il rientro in hotel e le bevande, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Trasporto in bus con aria condizionata",
+   "Biglietto per la funivia di Hakone (cabinovia)",
+   "Biglietto per la crociera",
+   "Guida professionista in lingua inglese",
+   "Pranzo (se l'opzione è selezionata)",
+   "Biglietto del treno veloce Shinkansen",
+   "Servizio di traduzione multilingue in 20 lingue",
+   "Conducente professionista"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel",
+   "Bevande"
+  ]
+ },
+ "izu-and-mt-fuji-day-coast-onsen-and-scenic-trip": {
+  "title": "Izu e Monte Fuji: viaggio di un giorno sulla costa, tra onsen e panorami",
+  "metaTitle": "Izu e Monte Fuji, costa e onsen",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, con le spese del servizio del conducente (che non accompagna nelle attrazioni) e il veicolo incluse. Gestito da Pegasus観光株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, con le spese del servizio del conducente (che non accompagna nelle attrazioni) e il veicolo incluse. Gestito da Pegasus観光株式会社, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore al Monte Fuji. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende le spese del servizio del conducente, il veicolo, il ritiro in hotel nei 4 principali quartieri di Tokyo con trasporto di andata e ritorno, e, per gli ospiti del viaggio di due giorni, un pernottamento con colazione inclusa. Non comprende i pasti e le spese assicurative, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nRitiro in hotel al Monte Fuji. Pegasus観光株式会社 confermerà l'orario di ritiro e il punto esatto una volta ricevuta la prenotazione. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Spese del servizio del conducente (non accompagna nelle attrazioni)",
+   "Veicolo",
+   "Ritiro in hotel nei 4 principali quartieri di Tokyo con trasporto di andata e ritorno",
+   "Per gli ospiti del viaggio di due giorni: un pernottamento con colazione inclusa (in camera doppia twin)"
+  ],
+  "notIncluded": [
+   "Pasti, attività opzionali a destinazione e altre spese personali",
+   "Spese assicurative (poiché servono dati personali, consigliamo di acquistare un'assicurazione propria)"
+  ]
+ },
+ "mt-fuji-and-hakone-arakurayama-owakudani-oshino-hakkai": {
+  "title": "Monte Fuji e Hakone: Arakurayama, Owakudani, Oshino Hakkai",
+  "metaTitle": "Monte Fuji, Arakurayama, Owakudani",
+  "metaDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Lago Ashi, la funivia di Hakone e la valle di Owakudani. Gestito da Japan Vision Tour, prenotato direttamente e non tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero al Monte Fuji, che comprende il Lago Ashi, la funivia di Hakone e la valle di Owakudani. Gestito da Japan Vision Tour, prenotato direttamente e non tramite un rivenditore.",
+  "fullDescription": "Il Monte Fuji, 3.776 metri, è la montagna più alta del Giappone e un vulcano attivo la cui ultima eruzione risale al 1707. I tour di un giorno da Tokyo vanno ai Cinque Laghi del Fuji sul suo lato nord, a circa due ore di distanza: il Lago Kawaguchiko per la classica vista con riflesso, gli stagni alimentati da sorgenti di Oshino Hakkai, la Pagoda Chureito sopra Fujiyoshida con la montagna sullo sfondo, e spesso la Fuji Subaru Line fino alla 5ª Stazione a 2.300 metri quando la strada è aperta, grosso modo da aprile a novembre. La vetta è scalabile solo a luglio e agosto. Il Fuji è visibile in circa un terzo delle giornate e più spesso nelle mattine d'inverno; da giugno a settembre è nascosto dalle nuvole più spesso di quanto non sia visibile, e nessun operatore può garantire la vista, quindi i laghi e la pagoda vengono pianificati come valore della giornata a prescindere.\n\nQuesta è un'esperienza di 10 ore dal Monte Fuji, costruita intorno a bus/pullman, al Lago Ashi e alla funivia di Hakone. Il tuo posto viene tenuto con l'operatore prima che consideriamo la tua prenotazione definitiva.\n\nIl prezzo comprende una guida bilingue, un veicolo confortevole con aria condizionata, i transfer di andata e ritorno da e per il punto d'incontro, tutte le tasse, e un'offerta a tempo limitato: funivia di Hakone gratuita. Non comprende pasti e bevande e altre spese personali, quindi vanno previsti a parte. Tutto ciò che è incluso è elencato per intero in questa pagina; se qualcosa non è in quella lista, va considerato come non compreso nel prezzo.\n\nIl punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Serve almeno un giorno di preavviso, e confermiamo la data prima di considerare la prenotazione definitiva. Se la data non può essere confermata te lo comunichiamo e ti rimborsiamo, invece di lasciarti in attesa.",
+  "highlights": [],
+  "included": [
+   "Guida bilingue professionista (inglese e cinese)",
+   "Veicolo confortevole con aria condizionata",
+   "Transfer di andata e ritorno da e per il punto d'incontro",
+   "Tutte le tasse, i parcheggi, i pedaggi, i costi del carburante e le tasse ambientali",
+   "Offerta a tempo limitato: funivia di Hakone gratuita"
+  ],
+  "notIncluded": [
+   "Pasti e bevande",
+   "Altre spese personali"
+  ]
+ },
  "imperial-palace-bike-tour": {
   "title": "Tokyo centrale in e-bike: tre ore tra i luoghi iconici",
   "metaTitle": "Tokyo centrale in e-bike in tre ore",
