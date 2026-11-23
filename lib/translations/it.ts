@@ -36667,6 +36667,177 @@ export const IT_TOURS: Record<string, TourT> = {
    "Kimono (kimono a due pezzi disponibile con un costo aggiuntivo)"
   ]
  },
+ "traditional-tea-ceremony-with-matcha-and-sweets-in-gion": {
+  "title": "Cerimonia del tè tradizionale con matcha e dolci, a Gion",
+  "metaTitle": "Cerimonia del tè a Gion, matcha",
+  "metaDescription": "Un'ora a Kyoto con una bevanda al matcha preparata con polvere proveniente da una fattoria di tè locale e la guida di un maestro del tè incluse.",
+  "shortDescription": "Un'ora a Kyoto con una bevanda al matcha preparata con polvere proveniente da una fattoria di tè locale e la guida di un maestro del tè incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di un'ora a Kyoto porta una bevanda al **matcha** preparata con polvere proveniente da una fattoria di tè locale, la guida di un maestro del tè sulla preparazione del matcha e la sua storia, una semplice ricetta di matcha da usare a casa, e dolci tradizionali giapponesi per la cerimonia del tè scelti dal maestro del tè; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Bevanda al matcha preparata con polvere proveniente da una fattoria di tè locale",
+   "Guida di un maestro del tè sulla preparazione del matcha e la sua storia",
+   "Semplice ricetta di matcha da usare a casa",
+   "Dolci tradizionali giapponesi per la cerimonia del tè scelti dal maestro del tè"
+  ],
+  "notIncluded": []
+ },
+ "unlimited-sake-tasting-with-sushi-omakase-in-kyoto": {
+  "title": "Degustazione illimitata di sake con sushi omakase, a Kyoto",
+  "metaTitle": "Sake illimitato e sushi omakase",
+  "metaDescription": "Un'ora e mezza a Kyoto con un omakase di sushi da 10 pezzi e la degustazione illimitata di sake giapponese incluse.",
+  "shortDescription": "Un'ora e mezza a Kyoto con un omakase di sushi da 10 pezzi e la degustazione illimitata di sake giapponese incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di un'ora e mezza a Kyoto porta un omakase di **sushi** da 10 pezzi e la degustazione illimitata di sake giapponese (oltre 8 tipi, 75 minuti); il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Omakase di sushi da 10 pezzi",
+   "Degustazione illimitata di sake giapponese (oltre 8 tipi, 75 minuti)"
+  ],
+  "notIncluded": []
+ },
+ "nishiki-market-tour-with-a-local-foodie-and-tastings": {
+  "title": "Tour del Mercato Nishiki con un buongustaio locale e degustazioni",
+  "metaTitle": "Mercato Nishiki, buongustaio locale",
+  "metaDescription": "Un'ora e mezza da Kyoto tra il Santuario Nishiki-Tenmangu e la via commerciale Teramachi Street, con la guida e le degustazioni incluse.",
+  "shortDescription": "Un'ora e mezza da Kyoto tra il Santuario Nishiki-Tenmangu e la via commerciale Teramachi Street, con la guida e le degustazioni incluse.",
+  "fullDescription": "Questa esperienza di un'ora e mezza da Kyoto è costruita intorno al **Santuario Nishiki-Tenmangu**, alla via commerciale Teramachi Street e al **Mercato Nishiki**. La guida e le degustazioni sono incluse nel prezzo; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Degustazioni"
+  ],
+  "notIncluded": [
+   "Bevande"
+  ]
+ },
+ "bamboo-forest-lunch-and-hidden-gems-e-bike-tour-5-or-7-hours-in-kyoto": {
+  "title": "Bosco di bambù, pranzo e gemme nascoste, tour in e-bike, 5 o 7 ore, a Kyoto",
+  "metaTitle": "Bosco di bambù, e-bike, pranzo",
+  "metaDescription": "Cinque ore a Kyoto tra l'antica tomba di Mozume Kurumazuka e il Rakusai Bamboo Park, con una guida locale (inglese, francese, spagnolo o portoghese) ed e-bike incluse.",
+  "shortDescription": "Cinque ore a Kyoto tra l'antica tomba di Mozume Kurumazuka e il Rakusai Bamboo Park, con una guida locale (inglese, francese, spagnolo o portoghese) ed e-bike incluse.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero di bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle fotografie sono scattate prima delle 7:30; a metà mattina è già una processione di persone. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola, e le gite in barca lungo le rapide di Hozu partono tutte da qui. I colori autunnali raggiungono il picco nella seconda metà di novembre, e i fiori di ciliegio intorno alla prima settimana di aprile.\n\nQuesta esperienza di cinque ore a Kyoto è costruita intorno all'antica tomba di **Mozume Kurumazuka**, al **Rakusai Bamboo Park** della città di Kyoto, e al Museo del Bambù. Una guida locale (inglese, francese, spagnolo o portoghese), l'e-bike, i caschi (se richiesti), tutti i biglietti d'ingresso e le tasse, l'accesso al gioco del Wanage se disponibile, un menù pranzo con sushi e udon/soba in un ristorante locale, e foto ricordo durante il tour, accessibili tramite il nostro drive privato sono inclusi nel prezzo; il punto d'incontro è lo spazio d'ingresso TauT presso la stazione Hankyu Rakusaiguchi. Cibo e bevande extra, i souvenir e lo shopping, e il gesto di apprezzamento per la guida (opzionale) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale (inglese, francese, spagnolo o portoghese)",
+   "E-bike",
+   "Caschi, se richiesti",
+   "Tutti i biglietti d'ingresso e le tasse",
+   "Accesso al gioco del Wanage se disponibile",
+   "Menù pranzo con sushi e udon/soba in un ristorante locale",
+   "Foto ricordo durante il tour, accessibili tramite il drive privato"
+  ],
+  "notIncluded": [
+   "Cibo e bevande extra",
+   "Souvenir e shopping",
+   "Gesto di apprezzamento per la guida (opzionale)"
+  ]
+ },
+ "tea-ceremony-experience-in-a-small-tea-room-in-kyoto": {
+  "title": "Esperienza di cerimonia del tè in una piccola sala da tè, a Kyoto",
+  "metaTitle": "Cerimonia del tè, piccola sala",
+  "metaDescription": "Un'ora a Kyoto con la cerimonia del tè e le istruzioni di un insegnante esperto incluse.",
+  "shortDescription": "Un'ora a Kyoto con la cerimonia del tè e le istruzioni di un insegnante esperto incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di un'ora a Kyoto porta la **cerimonia del tè**, le istruzioni di un insegnante esperto, il tè matcha, e dolci secchi tradizionali; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata.",
+  "highlights": [],
+  "included": [
+   "Cerimonia del tè",
+   "Istruzioni di un insegnante esperto",
+   "Tè matcha",
+   "Dolci secchi tradizionali"
+  ],
+  "notIncluded": []
+ },
+ "afternoon-bamboo-forest-and-monkey-park-bike-tour-in-kyoto": {
+  "title": "Tour in bicicletta del pomeriggio al bosco di bambù e al parco delle scimmie, a Kyoto",
+  "metaTitle": "Bosco di bambù e parco scimmie, bici",
+  "metaDescription": "Quattro ore da Kyoto tra il Bosco di Bambù di Arashiyama e il Tempio Tenryuji, con guida turistica, bicicletta, casco e acqua in bottiglia incluse.",
+  "shortDescription": "Quattro ore da Kyoto tra il Bosco di Bambù di Arashiyama e il Tempio Tenryuji, con guida turistica, bicicletta, casco e acqua in bottiglia incluse.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero di bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle fotografie sono scattate prima delle 7:30; a metà mattina è già una processione di persone. Le corse in risciò, la ferrovia panoramica Sagano lungo la gola, e le gite in barca lungo le rapide di Hozu partono tutte da qui. I colori autunnali raggiungono il picco nella seconda metà di novembre, e i fiori di ciliegio intorno alla prima settimana di aprile.\n\nQuesta esperienza di quattro ore da Kyoto è costruita intorno al **Bosco di Bambù di Arashiyama**, al **Tempio Tenryuji** e al **Parco delle Scimmie Iwatayama**. La guida turistica, la bicicletta, il casco, l'acqua in bottiglia, e i biglietti d'ingresso sono inclusi nel prezzo; il punto d'incontro è la Stazione di Saga-Arashiyama. Il pick-up e il drop-off in hotel, cibo e bevande, e le mance restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida turistica",
+   "Bicicletta",
+   "Casco",
+   "Acqua in bottiglia",
+   "Biglietti d'ingresso"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
+ "hidden-gems-guided-bike-tour-and-short-walk-in-kyoto": {
+  "title": "Tour guidato in bicicletta tra gemme nascoste e breve camminata, a Kyoto",
+  "metaTitle": "Gemme nascoste in bici, Kyoto",
+  "metaDescription": "Quattro ore a Kyoto con il noleggio della bicicletta, dolci giapponesi in un negozio di dolciumi tradizionale e tè giapponese incluse.",
+  "shortDescription": "Quattro ore a Kyoto con il noleggio della bicicletta, dolci giapponesi in un negozio di dolciumi tradizionale e tè giapponese incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di quattro ore a Kyoto porta il noleggio della bicicletta, dolci giapponesi in un negozio di dolciumi tradizionale, tè giapponese nello stesso negozio tradizionale, e qualsiasi biglietto d'ingresso a templi o santuari visitati come piano alternativo in caso di pioggia; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le e-bike restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio della bicicletta",
+   "Dolci giapponesi in un negozio di dolciumi tradizionale",
+   "Tè giapponese nello stesso negozio tradizionale",
+   "Qualsiasi biglietto d'ingresso a templi o santuari visitati come piano alternativo in caso di pioggia"
+  ],
+  "notIncluded": [
+   "E-bike"
+  ]
+ },
+ "gion-geisha-district-and-higashiyama-night-walk": {
+  "title": "Il distretto delle geisha di Gion e la passeggiata notturna a Higashiyama",
+  "metaTitle": "Gion e Higashiyama, notturna",
+  "metaDescription": "Un'ora e mezza da Kyoto tra Gion e il Santuario Yasaka, con un tour notturno guidato a piedi del quartiere di Gion e la visita al Santuario Yasaka incluse.",
+  "shortDescription": "Un'ora e mezza da Kyoto tra Gion e il Santuario Yasaka, con un tour notturno guidato a piedi del quartiere di Gion e la visita al Santuario Yasaka incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesta esperienza di un'ora e mezza da Kyoto è costruita intorno a **Gion**, al **Santuario Yasaka** e a **Sannenzaka**. Un tour notturno guidato a piedi del quartiere di Gion a Kyoto, la visita al Santuario Yasaka, la passeggiata tra i vecchi vicoli, e la vista notturna del Kiyomizu-dera sono inclusi nel prezzo; il punto d'incontro è il Gion Kobu Kaburenjo. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour notturno guidato a piedi del quartiere di Gion a Kyoto",
+   "Visita al Santuario Yasaka",
+   "Passeggiata tra i vecchi vicoli",
+   "Vista notturna del Kiyomizu-dera"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "kimono-rental-classic-and-traditional-selection-in-kyoto": {
+  "title": "Noleggio di kimono: selezione classica e tradizionale, a Kyoto",
+  "metaTitle": "Noleggio di kimono classico, Kyoto",
+  "metaDescription": "Un'ora a Kyoto con il piano standard di noleggio del kimono (se selezionato) e il piano di noleggio del yukata (se selezionato) incluse.",
+  "shortDescription": "Un'ora a Kyoto con il piano standard di noleggio del kimono (se selezionato) e il piano di noleggio del yukata (se selezionato) incluse.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Sono professioniste in cammino verso i loro impegni, non artiste di strada, e Kyoto ha vietato le fotografie nei vicoli privati: una passeggiata serale con una guida che spiega il sistema delle ochaya è il modo rispettoso di vederlo. Le sessioni di cerimonia del tè a Gion insegnano in un'ora la forma base della preparazione del matcha. Il noleggio di un kimono per un giorno, con vestizione e acconciatura, è un'attività consolidata nel distretto e viene accolta, non malvista.\n\nQuesto servizio di un'ora a Kyoto porta il piano standard di noleggio del **kimono** (se selezionato), il piano di noleggio del yukata (se selezionato), il piano premium di noleggio del kimono (se selezionato), l'acconciatura femminile (se selezionata come opzione extra), il trucco femminile (se selezionato come opzione extra), un accessorio per capelli (se selezionato come opzione extra), e il deposito di vestiti e borsa; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Le foto/video professionali, e il deposito di valigia, passeggino o bagagli grandi (550 yen in più a pezzo al giorno, da pagare sul posto) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Piano standard di noleggio del kimono (se selezionato)",
+   "Piano di noleggio del yukata (se selezionato)",
+   "Piano premium di noleggio del kimono (se selezionato)",
+   "Acconciatura femminile (se selezionata come opzione extra)",
+   "Trucco femminile (se selezionato come opzione extra)",
+   "Accessorio per capelli (se selezionato come opzione extra)",
+   "Deposito di vestiti e borsa"
+  ],
+  "notIncluded": [
+   "Foto/video professionali",
+   "Deposito di valigia, passeggino o bagagli grandi (550 yen in più a pezzo al giorno, da pagare sul posto)"
+  ]
+ },
+ "kyoto-half-day-walking-tour-with-local-expert-guide-by-local-operator": {
+  "title": "Kyoto, tour a piedi di mezza giornata con una guida esperta locale, con operatore locale",
+  "metaTitle": "Kyoto, tour a piedi, mezza giornata",
+  "metaDescription": "Quattro ore a Kyoto con una guida esperta locale incluse.",
+  "shortDescription": "Quattro ore a Kyoto con una guida esperta locale incluse.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari. I tre grandi sono il Kinkaku-ji, il Padiglione d'Oro, ricoperto di foglia d'oro e al suo meglio con la luce del mattino; il Kiyomizu-dera, la terrazza di legno sulle colline orientali con i vicoli di Higashiyama, Sannenzaka e Ninenzaka, più in basso; e i torii del Fushimi Inari. Il Castello Nijo ha i pavimenti usignolo che scricchiolano contro gli intrusi, e il Ryoan-ji il giardino di rocce. I templi aprono intorno alle 8:00 o alle 9:00 e chiudono alle 17:00, e il bus cittadino è lento: una giornata con un autista o una guida che ordina le tappe contro la folla fa la differenza tra quattro luoghi visti e sette.\n\nQuesta esperienza di quattro ore a Kyoto porta una guida esperta locale; il punto d'incontro e l'orario vengono comunicati per email non appena la prenotazione è confermata. Il trasporto, i biglietti d'ingresso, e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta locale"
+  ],
+  "notIncluded": [
+   "Trasporto",
+   "Biglietti d'ingresso",
+   "Cibo e bevande"
+  ]
+ },
  "hakone-yosegi-zaiku-marquetry-workshop": {
   "title": "Laboratorio di intarsio yosegi zaiku a Hakone: create la vostra opera in legno",
   "metaTitle": "Laboratorio di intarsio yosegi zaiku a Hakone",
