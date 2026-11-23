@@ -43311,6 +43311,190 @@ export const IT_TOURS: Record<string, TourT> = {
    "Trasporto da e per le attrazioni"
   ]
  },
+ "fushimi-inari-shrine-and-nijo-castle-highlights-tour": {
+  "title": "Tour dei luoghi iconici del Santuario Fushimi Inari e del Castello Nijo",
+  "metaTitle": "Fushimi Inari e Castello Nijo, tour",
+  "metaDescription": "Tre ore tra il Fushimi Inari Taisha e il Castello Nijo, con un tour guidato da un host locale, consigli fotografici e racconti locali inclusi.",
+  "shortDescription": "Tre ore tra il Fushimi Inari Taisha e il Castello Nijo, con un tour guidato da un host locale, consigli fotografici e racconti locali inclusi.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. Il giro completo fino alla cima è di circa quattro chilometri e due ore. È aperto 24 ore su 24 ed è gratuito.\n\nQuesto tour di tre ore collega il **Fushimi Inari Taisha** e il **Castello Nijo**, con un tour guidato da un host locale, consigli e trucchi fotografici, e racconti e consigli locali. Cibo e bevande, e il trasporto da e per la Stazione di Kyoto restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato con un host locale",
+   "Consigli e trucchi fotografici",
+   "Racconti e consigli locali"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Trasporto da e per la Stazione di Kyoto"
+  ]
+ },
+ "karasuma-shijo-kimono-tea-ceremony-with-matcha-and-sweets-in-kyoto": {
+  "title": "Karasuma Shijo: cerimonia del tè in kimono con matcha e dolci a Kyoto",
+  "metaTitle": "Cerimonia del tè in kimono, Karasuma Shijo",
+  "metaDescription": "Un'ora e mezza a Kyoto con vestizione del kimono, cerimonia del tè tradizionale, preparazione pratica del matcha e dolci giapponesi inclusi.",
+  "shortDescription": "Un'ora e mezza a Kyoto con vestizione del kimono, cerimonia del tè tradizionale, preparazione pratica del matcha e dolci giapponesi inclusi.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere.\n\nQuesta esperienza di un'ora e mezza a **Karasuma Shijo** porta la vestizione del **kimono**, una cerimonia del tè tradizionale guidata da un maestro del tè, la preparazione pratica del tè matcha, dolci giapponesi, assistenza del personale bilingue, e l'acconciatura per le donne (solo capelli lunghi). Il trasporto da e per il luogo resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Vestizione del kimono",
+   "Cerimonia del tè tradizionale guidata da un maestro del tè",
+   "Preparazione pratica del tè matcha",
+   "Dolci giapponesi",
+   "Assistenza del personale bilingue",
+   "Acconciatura per le donne (solo capelli lunghi)"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il luogo"
+  ]
+ },
+ "yamashina-farm-tour-with-breakfast-in-kyoto": {
+  "title": "Tour della fattoria di Yamashina con colazione a Kyoto",
+  "metaTitle": "Fattoria di Yamashina con colazione, Kyoto",
+  "metaDescription": "Un'ora e mezza alla fattoria Chino a Yamashina con tour guidato, attività agricola pratica, colazione giapponese tradizionale e un souvenir di verdure.",
+  "shortDescription": "Un'ora e mezza alla fattoria Chino a Yamashina con tour guidato, attività agricola pratica, colazione giapponese tradizionale e un souvenir di verdure.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza di un'ora e mezza a **Yamashina** porta il tour guidato della **fattoria Chino**, un'attività agricola pratica, una colazione giapponese tradizionale con prodotti freschi di fattoria, e un souvenir di verdure raccolte.",
+  "highlights": [],
+  "included": [
+   "Tour guidato della fattoria Chino",
+   "Attività agricola pratica",
+   "Colazione giapponese tradizionale con prodotti freschi di fattoria",
+   "Souvenir di verdure raccolte"
+  ],
+  "notIncluded": []
+ },
+ "kyoto-private-e-cycling-iconic-highlights-or-quiet-serenity-by-local-operator": {
+  "title": "Kyoto in e-bike privato: luoghi iconici o quiete tranquilla, con operatore locale",
+  "metaTitle": "E-bike privato a Kyoto: iconico o tranquillo",
+  "metaDescription": "Tre ore a Kyoto tra il Palazzo Imperiale, Demachi Futaba e il Santuario Shimogamo-jinja, con guida, noleggio e-bike e caschi inclusi.",
+  "shortDescription": "Tre ore a Kyoto tra il Palazzo Imperiale, Demachi Futaba e il Santuario Shimogamo-jinja, con guida, noleggio e-bike e caschi inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesta esperienza privata di tre ore porta una guida professionista, il noleggio dell'**e-bike**, e i caschi (non obbligatori per legge, disponibilità limitata), tra il **Palazzo Imperiale di Kyoto**, **Demachi Futaba** e il **Santuario Shimogamo-jinja**. Cibo e bevande, le spese per i pasti, e il pick-up e drop-off al porto o all'aeroporto (facoltativo) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida professionista",
+   "Noleggio e-bike",
+   "Caschi (non obbligatori per legge; disponibilità limitata)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese per i pasti",
+   "Pick-up e drop-off al porto o all'aeroporto (facoltativo)"
+  ]
+ },
+ "arashiyama-hidden-temples-and-bamboo-grove-guided-tour": {
+  "title": "Arashiyama: templi nascosti e il bosco di bambù, tour guidato",
+  "metaTitle": "Templi nascosti e bosco di bambù, Arashiyama",
+  "metaDescription": "Quattro ore tra il Ponte Togetsukyo e Arashiyama, con una guida locale e l'ingresso ai templi Otagi Nenbutsuji e Adashino Nenbutsuji incluso.",
+  "shortDescription": "Quattro ore tra il Ponte Togetsukyo e Arashiyama, con una guida locale e l'ingresso ai templi Otagi Nenbutsuji e Adashino Nenbutsuji incluso.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30.\n\nQuesto tour guidato di quattro ore collega il **Ponte Togetsukyo** e **Arashiyama**, con una guida locale, l'ingresso al **Tempio Otagi Nenbutsuji**, e l'ingresso al **Tempio Adashino Nenbutsuji**. Cibo, bevande e souvenir restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale",
+   "Ingresso al Tempio Otagi Nenbutsuji",
+   "Ingresso al Tempio Adashino Nenbutsuji"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Souvenir"
+  ]
+ },
+ "hidden-gems-e-bike-tour-with-local-japanese-guide-in-kyoto": {
+  "title": "Tour in e-bike tra gemme nascoste con una guida locale giapponese a Kyoto",
+  "metaTitle": "Gemme nascoste in e-bike, guida giapponese",
+  "metaDescription": "Tre ore e mezza a Kyoto in e-bike con guida, noleggio bicicletta elettrica e casco, biglietto d'ingresso e tariffe di parcheggio inclusi.",
+  "shortDescription": "Tre ore e mezza a Kyoto in e-bike con guida, noleggio bicicletta elettrica e casco, biglietto d'ingresso e tariffe di parcheggio inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour in **e-bike** di tre ore e mezza porta il noleggio della bicicletta elettrica con casco, una guida turistica, il biglietto d'ingresso, e le tariffe di parcheggio. Acqua, cibo, pick-up e drop-off in hotel, e mancia restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio bicicletta elettrica e casco",
+   "Guida turistica",
+   "Biglietto d'ingresso",
+   "Tariffe di parcheggio"
+  ],
+  "notIncluded": [
+   "Acqua",
+   "Cibo",
+   "Pick-up e drop-off in hotel",
+   "Mancia"
+  ]
+ },
+ "hidden-gems-e-bike-tour-through-backstreets-and-temples-in-kyoto": {
+  "title": "Tour in e-bike tra gemme nascoste, vicoli e templi a Kyoto",
+  "metaTitle": "Gemme nascoste in e-bike, vicoli e templi",
+  "metaDescription": "Quattro ore tra Gion, il Tempio Nanzenji e il Santuario Heian, con noleggio e-bike comodo, guida esperta locale e commenti sulla cultura di Kyoto inclusi.",
+  "shortDescription": "Quattro ore tra Gion, il Tempio Nanzenji e il Santuario Heian, con noleggio e-bike comodo, guida esperta locale e commenti sulla cultura di Kyoto inclusi.",
+  "fullDescription": "Kyoto è stata la capitale del Giappone per più di mille anni, fino al 1868, e conta 17 siti UNESCO tra circa 2.000 templi e santuari.\n\nQuesto tour in **e-bike** di quattro ore collega **Gion**, il **Tempio Nanzenji** e il **Santuario Heian**, con il noleggio di una e-bike comoda, una guida esperta locale, visite ai luoghi principali e alle gemme nascoste, commenti approfonditi sulla cultura e la storia di Kyoto, un piccolo gruppo per un'esperienza personalizzata, occasioni fotografiche nei luoghi panoramici, e la possibilità di scegliere un ritmo rilassato o avventuroso. L'assicurazione resta a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Noleggio di una e-bike comoda",
+   "Guida esperta locale",
+   "Visite ai luoghi principali e alle gemme nascoste",
+   "Commenti approfonditi sulla cultura e la storia di Kyoto",
+   "Piccolo gruppo per un'esperienza personalizzata",
+   "Occasioni fotografiche nei luoghi panoramici",
+   "Possibilità di scegliere un ritmo rilassato o avventuroso"
+  ],
+  "notIncluded": [
+   "Assicurazione"
+  ]
+ },
+ "kyoto-night-walk-fushimi-inari-s-lantern-lit-torii-by-local-operator": {
+  "title": "Passeggiata notturna a Kyoto: i torii illuminati dalle lanterne del Fushimi Inari, con operatore locale",
+  "metaTitle": "Fushimi Inari di notte, torii illuminati",
+  "metaDescription": "Due ore di notte al Fushimi Inari Taisha con una guida locale inclusa.",
+  "shortDescription": "Due ore di notte al Fushimi Inari Taisha con una guida locale inclusa.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. È aperto 24 ore su 24 ed è gratuito, il che lo rende visitabile dopo il tramonto, quando i torii sono vuoti e illuminati.\n\nQuesta passeggiata notturna di due ore porta una guida locale al **Fushimi Inari Taisha**. Cibo e bevande, la tariffa di trasporto, i biglietti d'ingresso non indicati nella sezione \"incluso\", e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida locale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Tariffa di trasporto",
+   "Biglietti d'ingresso non indicati nella sezione \"incluso\"",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "arashiyama-guided-tour-bamboo-monkey-zen-temple": {
+  "title": "Tour guidato ad Arashiyama: bambù, scimmie, tempio zen",
+  "metaTitle": "Arashiyama: bambù, scimmie, tempio zen",
+  "metaDescription": "Due ore ad Arashiyama tra il Bosco di Bambù, il Tempio Tenryu-ji e il Ponte Togetsukyo, con tour guidato e ingresso al Monkey Park di Iwatayama incluso.",
+  "shortDescription": "Due ore ad Arashiyama tra il Bosco di Bambù, il Tempio Tenryu-ji e il Ponte Togetsukyo, con tour guidato e ingresso al Monkey Park di Iwatayama incluso.",
+  "fullDescription": "Arashiyama, sul lato occidentale di Kyoto, è il bosco di bambù, il ponte Togetsukyo sul fiume Katsura, i giardini del Tenryu-ji e il parco delle scimmie sulla collina sopra. Il sentiero nel bambù è lungo circa 500 metri ed è fotografato vuoto in ogni guida turistica perché quelle foto sono scattate prima delle 7:30.\n\nQuesto tour guidato di due ore porta la visita ad **Arashiyama**, l'ingresso al **Tempio Tenryu-ji**, una passeggiata nel **Bosco di Bambù**, e l'ingresso al **Monkey Park di Iwatayama**. Il pick-up e il drop-off in hotel, cibo e bevande, e le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato ad Arashiyama",
+   "Ingresso al Tempio Tenryu-ji",
+   "Passeggiata nel Bosco di Bambù",
+   "Ingresso al Monkey Park di Iwatayama"
+  ],
+  "notIncluded": [
+   "Pick-up e drop-off in hotel",
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "fushimi-inari-sunrise-photoshoot-and-storytelling-walk": {
+  "title": "Servizio fotografico all'alba e passeggiata narrativa al Fushimi Inari",
+  "metaTitle": "Fushimi Inari all'alba: foto e racconti",
+  "metaDescription": "Un'ora al Fushimi Inari Taisha con un fotografo privato in lingua inglese, oltre 30 foto modificate in alta risoluzione e consegna digitale entro 48 ore.",
+  "shortDescription": "Un'ora al Fushimi Inari Taisha con un fotografo privato in lingua inglese, oltre 30 foto modificate in alta risoluzione e consegna digitale entro 48 ore.",
+  "fullDescription": "Il Fushimi Inari Taisha è il santuario principale di Inari, la divinità del riso e degli affari, e i suoi oltre mille torii vermigli, ciascuno donato da un'azienda o una famiglia, si susseguono come gallerie sulla salita del Monte Inari, alto 233 metri. È aperto 24 ore su 24 ed è gratuito, il che lo rende visitabile all'alba, quando i torii sono vuoti e illuminati.\n\nQuesta esperienza di un'ora al **Fushimi Inari Taisha** porta un fotografo e guida privato professionista in lingua inglese, oltre 30 foto modificate in alta risoluzione, correzione colore e ritocco professionali, un link di consegna digitale delle foto entro 48 ore, scatti in oltre 5 luoghi panoramici all'interno del santuario, i diritti d'uso commerciale completi per tutte le foto, e consigli su abbigliamento e posa durante tutta la sessione. Il trasporto da e per il punto di incontro, il cibo o le bevande, e il noleggio del kimono restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Fotografo e guida privato professionista in lingua inglese",
+   "30 o più foto modificate in alta risoluzione",
+   "Correzione colore e ritocco professionali",
+   "Link di consegna digitale delle foto entro 48 ore",
+   "Scatti in 5 o più luoghi panoramici all'interno del santuario",
+   "Diritti d'uso commerciale completi per tutte le foto",
+   "Consigli su abbigliamento e posa durante tutta la sessione"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il punto di incontro",
+   "Cibo o bevande",
+   "Noleggio del kimono"
+  ]
+ },
  "nara-wagashi-workshop-with-matcha-tasting": {
   "title": "Prepara tre wagashi di stagione con un maestro a Nara, e assaggia il suo matcha",
   "metaTitle": "Workshop di wagashi a Nara con degustazione di matcha",
