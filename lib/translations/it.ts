@@ -45972,6 +45972,197 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "umeda-sky-underground-mall-and-nakazakicho-walk-in-osaka": {
+  "title": "Umeda Sky, il centro commerciale sotterraneo e Nakazakicho: passeggiata a Osaka",
+  "metaTitle": "Umeda Sky e Nakazakicho, passeggiata, Osaka",
+  "metaDescription": "Quattro ore tra l'Umeda Sky Building, Whity Umeda e Nakazakicho, con guida e biglietto d'ingresso all'Umeda Sky Building incluse.",
+  "shortDescription": "Quattro ore tra l'Umeda Sky Building, Whity Umeda e Nakazakicho, con guida e biglietto d'ingresso all'Umeda Sky Building incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. L'**Umeda Sky Building** ha l'osservatorio all'aperto.\n\nQuesta passeggiata di quattro ore porta una guida in lingua inglese e il biglietto d'ingresso all'**Umeda Sky Building**, tra l'edificio, il centro commerciale sotterraneo **Whity Umeda** e **Nakazakicho**. Le spese personali restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese",
+   "Biglietto d'ingresso all'Umeda Sky Building"
+  ],
+  "notIncluded": [
+   "Spese personali"
+  ]
+ },
+ "seto-inland-3-day-2-night-from-osaka-naoshima-teshima-and-shodoshima": {
+  "title": "Mare Interno di Seto, 3 giorni e 2 notti da Osaka: Naoshima, Teshima e Shodoshima",
+  "metaTitle": "Mare Interno di Seto: Naoshima, Teshima, Shodoshima",
+  "metaDescription": "Tre giorni e due notti da Osaka tra Naoshima, Teshima e Shodoshima, con trasferimenti privati, biglietti del traghetto e alloggio per due notti incluse.",
+  "shortDescription": "Tre giorni e due notti da Osaka tra Naoshima, Teshima e Shodoshima, con trasferimenti privati, biglietti del traghetto e alloggio per due notti incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto viaggio di tre giorni e due notti da Osaka collega **Naoshima**, **Teshima** e **Shodoshima**, con trasferimenti privati in veicolo climatizzato da Osaka e tra le isole, i biglietti del traghetto tra i porti (Himeji-Shodoshima-Teshima-Naoshima-Uno), l'alloggio per due notti in hotel sul mare selezionati con cura (camera doppia o matrimoniale), la colazione negli alloggi, i biglietti d'ingresso ai musei d'arte selezionati (Museo d'Arte di Teshima, Museo Benesse House, Museo Chichu), una guida professionista in lingua inglese per tutto il viaggio, tutti i pedaggi, il carburante e le tariffe di parcheggio, acqua in bottiglia durante i trasferimenti, e l'assicurazione di viaggio. Pranzi e cene non specificati nell'itinerario, l'ingresso facoltativo a musei o attrazioni aggiuntivi non indicati nella sezione \"cosa è incluso\", le spese personali (souvenir, snack, ecc.), e le mance per la guida e l'autista (facoltative) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Trasferimenti privati in veicolo climatizzato da Osaka e tra le isole",
+   "Biglietti del traghetto tra i porti (Himeji-Shodoshima-Teshima-Naoshima-Uno)",
+   "Alloggio per 2 notti in hotel sul mare selezionati con cura (camera doppia o matrimoniale)",
+   "Colazione negli alloggi",
+   "Biglietti d'ingresso ai musei d'arte selezionati (Museo d'Arte di Teshima, Museo Benesse House, Museo Chichu)",
+   "Guida professionista in lingua inglese per tutto il viaggio",
+   "Tutti i pedaggi, il carburante e le tariffe di parcheggio",
+   "Acqua in bottiglia durante i trasferimenti",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "Pranzi e cene non specificati nell'itinerario",
+   "Ingresso facoltativo a musei o attrazioni aggiuntivi non indicati nella sezione \"cosa è incluso\"",
+   "Spese personali (souvenir, snack, ecc.)",
+   "Mance per la guida e l'autista (facoltative)"
+  ]
+ },
+ "modern-vintage-kimono-styling-and-namba-photo-walk-in-osaka": {
+  "title": "Stile kimono moderno-vintage e passeggiata fotografica a Namba, Osaka",
+  "metaTitle": "Kimono moderno-vintage, passeggiata a Namba",
+  "metaDescription": "Giornata intera a Osaka con una consulenza di stile kimono personalizzata, vestizione wayo-setchu e una passeggiata fotografica autonoma a Namba e Dotonbori.",
+  "shortDescription": "Giornata intera a Osaka con una consulenza di stile kimono personalizzata, vestizione wayo-setchu e una passeggiata fotografica autonoma a Namba e Dotonbori.",
+  "fullDescription": "Gion è il quartiere storico dell'intrattenimento di Kyoto, le strade di case machiya in legno intorno a Hanamikoji dove le geiko e le maiko del distretto di Gion Kobu lavorano ancora oggi. Il noleggio del kimono per una giornata, con vestizione e acconciatura, è un'attività consolidata nel quartiere.\n\nQuesta esperienza di una giornata intera porta una consulenza personalizzata di stile **kimono** moderno, l'assistenza professionale alla vestizione e allo stile **wayo-setchu**, una passeggiata fotografica autonoma a **Namba** e **Dotonbori**, l'uso di un kimono moderno-vintage durante l'esperienza, accessori coordinati per la sessione di stile, calzature tradizionali e una piccola borsa per la passeggiata, e il deposito bagagli gratuito durante l'esperienza. Sono disponibili come upgrade opzionali: l'acconciatura professionale e gli ornamenti decorativi per capelli. Un fotografo professionista, un tour guidato, cibo e bevande, e il pick-up e drop-off in hotel restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Consulenza personalizzata di stile kimono moderno",
+   "Assistenza professionale alla vestizione e allo stile wayo-setchu",
+   "Passeggiata fotografica autonoma a Namba e Dotonbori",
+   "Uso di un kimono moderno-vintage durante l'esperienza",
+   "Accessori coordinati per la sessione di stile",
+   "Calzature tradizionali e piccola borsa per la passeggiata",
+   "Deposito bagagli gratuito durante l'esperienza",
+   "Disponibili come upgrade opzionali:",
+   "Acconciatura professionale",
+   "Ornamenti decorativi per capelli"
+  ],
+  "notIncluded": [
+   "Fotografo professionista",
+   "Tour guidato",
+   "Cibo e bevande",
+   "Pick-up e drop-off in hotel"
+  ]
+ },
+ "osaka-like-a-local-custom-local-experience-by-local-operator": {
+  "title": "Osaka come un locale: esperienza locale personalizzata, con operatore locale",
+  "metaTitle": "Osaka come un locale, esperienza personalizzata",
+  "metaDescription": "Quattro ore tra il Castello di Osaka e Shinsaibashisuji, con guida esperta locale e un itinerario completamente personalizzabile incluse.",
+  "shortDescription": "Quattro ore tra il Castello di Osaka e Shinsaibashisuji, con guida esperta locale e un itinerario completamente personalizzabile incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi.\n\nQuesto tour di quattro ore porta una guida esperta locale, un itinerario completamente personalizzabile secondo i propri interessi, consigli personalizzati dalla guida locale, un tour a piedi di **Osaka**, e la visita ai luoghi iconici e ai quartieri locali inclusi nell'itinerario scelto, tra il **Castello di Osaka** e **Shinsaibashisuji**. Cibo e bevande, i biglietti d'ingresso alle attrazioni, ai templi o ad altri siti a pagamento (se applicabile), lo shopping e le spese personali, il trasporto durante il tour (salvo scelta specifica come opzione), e il pick-up e drop-off (salvo scelta specifica come opzione) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta locale",
+   "Itinerario completamente personalizzabile secondo i propri interessi",
+   "Consigli personalizzati dalla guida locale",
+   "Tour a piedi di Osaka",
+   "Visita ai luoghi iconici e ai quartieri locali inclusi nell'itinerario scelto"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Biglietti d'ingresso alle attrazioni, ai templi o ad altri siti a pagamento, se applicabile",
+   "Shopping e spese personali",
+   "Trasporto durante il tour, salvo scelta specifica come opzione",
+   "Pick-up e drop-off, salvo scelta specifica come opzione"
+  ]
+ },
+ "dotonbori-private-photoshoot-with-edited-photos": {
+  "title": "Servizio fotografico privato a Dotonbori con foto modificate",
+  "metaTitle": "Servizio fotografico privato a Dotonbori",
+  "metaDescription": "Quindici minuti a Dotonbori con un servizio fotografico privato, foto modificate in alta risoluzione e consegna velocissima in 48 ore incluse.",
+  "shortDescription": "Quindici minuti a Dotonbori con un servizio fotografico privato, foto modificate in alta risoluzione e consegna velocissima in 48 ore incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di quindici minuti a **Dotonbori** porta un servizio fotografico privato, foto modificate in alta risoluzione (5 foto per la versione da 15 minuti, 20 foto per la versione da 30 minuti), tutte le foto non modificate (file JPEG originali), e una consegna velocissima in 48 ore. Il trasporto, le spese personali (cibo, bevande o shopping), e le foto stampate restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Servizio fotografico privato",
+   "Foto modificate in alta risoluzione (5 foto per 15 minuti / 20 foto per 30 minuti)",
+   "Tutte le foto non modificate (file JPEG originali)",
+   "Consegna velocissima in 48 ore"
+  ],
+  "notIncluded": [
+   "Trasporto",
+   "Spese personali (cibo, bevande o shopping)",
+   "Foto stampate"
+  ]
+ },
+ "sake-tasting-experience-with-a-former-brewer-in-osaka": {
+  "title": "Degustazione di sake con un ex maestro birraio a Osaka",
+  "metaTitle": "Degustazione di sake con un ex maestro birraio",
+  "metaDescription": "Due ore a Osaka con la degustazione di sei tipi di sake, note di degustazione e la spiegazione guidata di un ex produttore di sake incluse.",
+  "shortDescription": "Due ore a Osaka con la degustazione di sei tipi di sake, note di degustazione e la spiegazione guidata di un ex produttore di sake incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di due ore porta la degustazione di sei tipi di **sake**, note di degustazione, la spiegazione guidata da un ex produttore di sake, una sessione di domande e risposte, e, come opzione facoltativa, l'abbinamento con due piatti leggeri del Kansai. Il trasporto fino al luogo, le spese personali, cibo e bevande aggiuntivi non menzionati, e le mance per la guida (facoltative) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Degustazione di 6 tipi di sake",
+   "Note di degustazione",
+   "Spiegazione guidata da un ex produttore di sake",
+   "Sessione di domande e risposte",
+   "Abbinamento opzionale con 2 piatti leggeri del Kansai"
+  ],
+  "notIncluded": [
+   "Trasporto fino al luogo",
+   "Spese personali",
+   "Cibo e bevande aggiuntivi non menzionati",
+   "Mance per la guida (facoltative)"
+  ]
+ },
+ "essential-city-loop-tour-with-local-guide-in-osaka": {
+  "title": "Tour essenziale ad anello della città con guida locale, Osaka",
+  "metaTitle": "Tour ad anello della città, guida locale, Osaka",
+  "metaDescription": "Quattro ore tra il Castello di Osaka e Shinsekai, con una guida esperta locale appassionata e consigli di viaggio personalizzati incluse.",
+  "shortDescription": "Quattro ore tra il Castello di Osaka e Shinsekai, con una guida esperta locale appassionata e consigli di viaggio personalizzati incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi.\n\nQuesto tour di quattro ore porta una guida esperta locale appassionata, pronta a condividere storie poco note e a guidare tra la folla, e consigli di viaggio e raccomandazioni personalizzate su dove mangiare localmente, tra il **Castello di Osaka** e **Shinsekai**. La tariffa di trasporto, e cibo e bevande (gli assaggi ai mercati si pagano individualmente, così si può scegliere esattamente cosa mangiare; non sono previste soste per un pranzo seduto formale) restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Guida esperta locale appassionata, pronta a condividere storie poco note e a guidare tra la folla",
+   "Consigli di viaggio e raccomandazioni personalizzate su dove mangiare localmente"
+  ],
+  "notIncluded": [
+   "Tariffa di trasporto",
+   "Cibo e bevande: gli assaggi ai mercati si pagano individualmente, così si può scegliere esattamente cosa mangiare (non sono previste soste per un pranzo seduto formale)"
+  ]
+ },
+ "osaka-castle-walking-tour-with-local-osaka-guide": {
+  "title": "Tour a piedi del Castello di Osaka con una guida locale di Osaka",
+  "metaTitle": "Castello di Osaka, tour a piedi con guida locale",
+  "metaDescription": "Quarantacinque minuti al Castello di Osaka con un tour guidato del parco e una foto istantanea con stampa fisica come souvenir incluse.",
+  "shortDescription": "Quarantacinque minuti al Castello di Osaka con un tour guidato del parco e una foto istantanea con stampa fisica come souvenir incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia. Il **Castello di Osaka** è una ricostruzione in cemento del 1931 della fortezza di Hideyoshi.\n\nQuesta esperienza di quarantacinque minuti porta un tour guidato del **Parco del Castello di Osaka** e una foto istantanea con stampa fisica come souvenir. Il biglietto del museo del Castello di Osaka, il trasporto da e per il punto di incontro, e cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Tour guidato del Parco del Castello di Osaka",
+   "Foto istantanea con stampa fisica come souvenir"
+  ],
+  "notIncluded": [
+   "Biglietto del museo del Castello di Osaka",
+   "Trasporto da e per il punto di incontro",
+   "Cibo e bevande"
+  ]
+ },
+ "dotonbori-20-minute-pirates-cruise": {
+  "title": "Crociera dei pirati di 20 minuti a Dotonbori",
+  "metaTitle": "Crociera dei pirati, 20 minuti, Dotonbori",
+  "metaDescription": "Venti minuti di crociera fluviale a Dotonbori, con cibo e bevande a carico del cliente.",
+  "shortDescription": "Venti minuti di crociera fluviale a Dotonbori, con cibo e bevande a carico del cliente.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesta esperienza di venti minuti porta una crociera fluviale di venti minuti lungo il canale di **Dotonbori**. Cibo e bevande restano a carico del cliente.",
+  "highlights": [],
+  "included": [
+   "Crociera fluviale di 20 minuti"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "make-sushi-food-replicas-in-osaka-and-win-a-lucky-capsule-toy-by-local-operator": {
+  "title": "Crea repliche di cibo sushi a Osaka e vinci un capsule toy della fortuna, con operatore locale",
+  "metaTitle": "Repliche di sushi e capsule toy della fortuna",
+  "metaDescription": "Un'ora a Osaka per un laboratorio pratico di repliche di sushi, con materiali, un istruttore artigiano e un gettone per l'estrazione fortunata incluse.",
+  "shortDescription": "Un'ora a Osaka per un laboratorio pratico di repliche di sushi, con materiali, un istruttore artigiano e un gettone per l'estrazione fortunata incluse.",
+  "fullDescription": "Osaka è la cucina del Giappone: la città che ha inventato il takoyaki, l'okonomiyaki e il kushikatsu, e il canale di Dotonbori, tra le insegne al neon, è dove li si mangia.\n\nQuesto laboratorio pratico di un'ora porta la creazione di repliche di **sushi**, i materiali necessari, la guida di artigiani giapponesi di repliche alimentari, un portachiavi e un magnete di sushi finito da portare a casa, e un gettone per un'estrazione fortunata al **capsule toy** (del valore di 1.000-5.000 yen).",
+  "highlights": [],
+  "included": [
+   "Laboratorio pratico di repliche di sushi",
+   "Materiali per creare le repliche di sushi",
+   "Guida di artigiani giapponesi di repliche alimentari",
+   "Portachiavi e magnete di sushi finito da portare a casa",
+   "1 gettone per un'estrazione fortunata al capsule toy (del valore di 1.000-5.000 yen)"
+  ],
+  "notIncluded": []
+ },
  "kandy-nuwara-eliya-or-ambewala-raiway-station": {
   "title": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya o Ambewela",
   "metaTitle": "Kandy: trasferimento alla stazione ferroviaria di Nuwara Eliya...",
