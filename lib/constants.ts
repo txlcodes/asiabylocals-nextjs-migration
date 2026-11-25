@@ -1235,6 +1235,7 @@ export const MANILA_INFO_SLUGS = [
   'is-tagaytay-taal-day-trip-worth-it-manila', 'is-makati-rooftop-bar-hopping-worth-it-manila',
   'is-manila-ocean-park-worth-it-manila', 'is-bataan-wwii-memorial-tour-worth-it-manila',
   'is-pampanga-ube-farm-tour-worth-it-manila', 'is-zambales-island-hopping-worth-it-manila',
+  'best-tours-in-manila',
 ];
 
 // Boracay (Philippines) — 27 live tours, launched 2026-11-22.
@@ -1282,6 +1283,7 @@ export const CEBU_INFO_SLUGS = [
   'is-bantayan-island-tour-worth-it-cebu', 'is-cebu-city-heritage-tour-worth-it',
   'is-las-casas-filipinas-worth-it-cebu', 'is-cebu-safari-park-worth-it-cebu',
   'is-padi-certification-worth-it-cebu', 'is-catch-cook-eat-worth-it-cebu',
+  'best-tours-in-cebu',
 ];
 
 export const BANGKOK_INFO_SLUGS = [

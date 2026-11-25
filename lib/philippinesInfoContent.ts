@@ -1740,6 +1740,103 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-manila":
+      return {
+        title: "Best Tours in Manila — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Manila 2026: Top-Rated Picks by Category",
+        description: "The best Manila tours for 2026, picked by category — Intramuros walking tour, Tagaytay & Taal Volcano, Baguio's cool mountain air and a cultural dinner show — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1490d2f837b6f5c75e163d7d1620c70c3314abc89b90bc3ac2ac0916e9a31b97.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Start with **Intramuros** — Manila's walled Spanish colonial old city, and the single most efficient way to get the city's history in a few hours on foot.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "viva-old-manila-intramuros-walking-tour", title: "Viva Old Manila! Intramuros Walking Tour", description: "Manila's walled Spanish colonial old city, explained on foot.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1490d2f837b6f5c75e163d7d1620c70c3314abc89b90bc3ac2ac0916e9a31b97.jpg" },
+          },
+          {
+            title: "Best Easy Escape: Tagaytay & Taal Volcano",
+            content: "**Tagaytay** sits on a ridge with sweeping views of Taal, an active volcano sitting inside its own lake — the easiest, most scenic half-day escape from Manila's heat without needing an overnight trip.",
+            tourCard: { slug: "manila-private-tour-tagaytay-highlands-and-taal", title: "Manila: Private Tour! Tagaytay Highlands and Taal Volcano", description: "Ridgeline volcano views, a half-day from the city.", price: "From $126", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eae3fbce18e94579aa0917b1750405937c1bcc5cec7b9f49e7a5a2a2e421b287.jpg" },
+          },
+          {
+            title: "Best for Cooler Air: Baguio",
+            content: "Known as the Philippines' summer capital for its genuinely cool mountain climate, **Baguio** is the real change of pace from Manila's tropical heat — this private tour with an accredited guide covers the city's history properly in one day.",
+            tourCard: { slug: "baguio-history-culture-private-tour-accredited", title: "Baguio: History & Culture Private Tour, Accredited Tour Guide", description: "Cool mountain air and a proper history tour, in one day from Manila.", price: "From $184", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d7eed53c752e36108f6865324dd01cbf1c901c563fd009ef6175e003d560ca3b.jpg" },
+          },
+          {
+            title: "Best Evening Experience: Cultural Dinner Show",
+            content: "A **private dinner paired with a cultural show and city tour** is the right way to close a day in Manila — folk dance and food in one evening, rather than splitting them across two separate bookings.",
+            tourCard: { slug: "manila-private-dinner-with-cultural-show-and-city", title: "Manila: Private Dinner with Cultural Show and City Tour", description: "Filipino folk dance and dinner, with a city tour built in.", price: "From $126", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a0d52c6f71bbb62453a3d039cde3af41a3f0b7ccd62d110082777f78b33778b.jpg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Manila tours](/philippines/manila)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Manila?", a: "An Intramuros walking tour is the most efficient way to get the city's history in a few hours. For a half-day escape, Tagaytay and Taal Volcano is the easiest scenic option." },
+          { q: "Should I visit Baguio or Tagaytay from Manila?", a: "Tagaytay for an easy half-day; Baguio if you want a full day specifically for cooler mountain air and a deeper history tour." },
+          { q: "What is the best evening activity in Manila?", a: "A private dinner with a Filipino cultural dance show and city tour, combining food and folk performance in one evening." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Manila?", "acceptedAnswer": { "@type": "Answer", "text": "An Intramuros walking tour for history, or Tagaytay and Taal Volcano for an easy scenic half-day escape." } },
+                { "@type": "Question", "name": "Should I visit Baguio or Tagaytay from Manila?", "acceptedAnswer": { "@type": "Answer", "text": "Tagaytay for an easy half-day; Baguio for a full day of cooler mountain air." } }
+              ]
+            }
+          ]
+        },
+      };
+
+    case "best-tours-in-cebu":
+      return {
+        title: "Best Tours in Cebu — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Cebu 2026: Top-Rated Picks by Category",
+        description: "The best Cebu tours for 2026, picked by category — Oslob whale sharks, Kawasan Falls canyoneering, and Bohol's Chocolate Hills and tarsiers — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b261bd6a953a7a10df09c7306176b5c5f0ad9226a690b3b1f6bdfbd3927059b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "**Oslob whale shark watching** is Cebu's single most famous wildlife activity — one of the most reliable whale shark encounters anywhere in the world, though the feeding practice that makes sightings near-guaranteed is genuinely debated, so research your operator if that matters to you.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "cebu-oslob-whale-shark-watching", title: "Cebu: Oslob Whale Shark Watching", description: "One of the most reliable whale shark encounters anywhere.", price: "From $76", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b261bd6a953a7a10df09c7306176b5c5f0ad9226a690b3b1f6bdfbd3927059b.jpg" },
+          },
+          {
+            title: "Best Adventure Activity: Kawasan Falls Canyoneering",
+            content: "**Canyoneering down to Kawasan Falls** means cliff jumps, natural rock slides and turquoise-pool swims along the way — Cebu's signature active adventure, not a passive waterfall photo stop.",
+            tourCard: { slug: "cebu-half-day-kawasan-falls-canyoneering", title: "Cebu: Half-Day Kawasan Falls Canyoneering", description: "Cliff jumps and rock slides down to the falls.", price: "From $78", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cd8e3140114f49fa86e699f37cb201537ea8fc6fa906e1e35965e406cec2c41e.png" },
+          },
+          {
+            title: "Best Day Trip: Bohol's Chocolate Hills",
+            content: "The **Chocolate Hills** are Bohol's single most iconic landscape — hundreds of symmetrical grass mounds turning brown in dry season — and this tour pairs them with the tiny, endangered tarsier primates and a river lunch cruise.",
+            tourCard: { slug: "bohol-guided-chocolate-hills-tarsiers-tour", title: "Bohol: Guided Chocolate Hills & Tarsiers Tour", description: "Bohol's iconic hills, tarsiers, and a river lunch cruise.", price: "From $51", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5fdd421b7f2adabc96a5becdc391f3c5c7757229606cac1b9c5b899482c2a4e8.jpeg" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Cebu tours](/philippines/cebu)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Cebu?", a: "Oslob whale shark watching is the most famous, though research the feeding practice if animal ethics matter to you. Kawasan Falls canyoneering is the best adventure pick." },
+          { q: "Is the Chocolate Hills tour worth the trip to Bohol?", a: "Yes — it's Bohol's single most iconic landscape, and pairing it with tarsier viewing and a river cruise makes for a well-rounded day from Cebu." },
+          { q: "Is Oslob whale shark watching ethical?", a: "It's genuinely debated since the sharks are fed to stay near the boats — research your specific operator's practices if this matters to you." }
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Cebu?", "acceptedAnswer": { "@type": "Answer", "text": "Oslob whale shark watching and Kawasan Falls canyoneering are the two standout picks." } },
+                { "@type": "Question", "name": "Is the Chocolate Hills tour worth the trip to Bohol?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's Bohol's single most iconic landscape." } }
+              ]
+            }
+          ]
+        },
+      };
+
     default:
       return null;
   }
