@@ -1014,6 +1014,8 @@ export const SHANGHAI_INFO_SLUGS = [
   'how-much-should-a-private-tour-guide-cost-in-shanghai',
   'is-jin-mao-skywalk-worth-it-shanghai', 'is-van-gogh-starry-night-worth-it-shanghai',
   'is-hanfu-photoshoot-worth-it-shanghai', 'is-dragon-beard-candy-worth-it-shanghai',
+  'is-shanghai-zoo-worth-it-shanghai', 'is-shanghai-science-museum-worth-it-shanghai',
+  'is-pub-crawl-worth-it-shanghai', 'is-jade-buddha-temple-private-tour-worth-it-shanghai',
 ];
 
 // Hong Kong launched 2026-10 with 197 live tours and zero authority pages.

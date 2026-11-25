@@ -973,6 +973,91 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-shanghai-zoo-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Zoo Worth It?",
+        description: "An honest look at the Shanghai Zoo, including its giant pandas, a family-friendly alternative to the city's garden and skyline sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/16714a8b7e02e13a63df962cf53da2ceb066a59729d3fa78e1684eb3db8ffd7b.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper zoo with giant pandas is a straightforward family day out, genuinely different from Yu Garden or the Bund — worth it specifically if you're traveling with kids who want animals over architecture.",
+            tourCard: { slug: "shanghai-shanghai-zoo-entry-ticket-with-pandas", title: "Shanghai: Shanghai Zoo Entry Ticket with Pandas", description: "Entry to Shanghai Zoo, including giant pandas.", price: "From $29", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/16714a8b7e02e13a63df962cf53da2ceb066a59729d3fa78e1684eb3db8ffd7b.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pandas tend to be most active earlier in the day — arrive in the morning if seeing them active (rather than resting) is a priority.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shanghai Zoo worth it?", a: "Yes for families with kids wanting a straightforward animal-focused day, distinct from the city's garden and skyline sightseeing." },
+          { q: "What time should I visit to see the pandas active?", a: "Earlier in the day — pandas tend to rest more as the day goes on." },
+        ],
+      };
+
+    case "is-shanghai-science-museum-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Science and Technology Museum Worth It?",
+        description: "An honest look at the Shanghai Science and Technology Museum, a hands-on alternative to the city's garden and history sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4849dea35d7b1035718c43c48121bad9eb8767d60143a9a14c237197b6307f96.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a large, hands-on museum built for engagement rather than passive viewing, genuinely different from Yu Garden's historical focus — a good indoor pick for families or on a bad-weather day.",
+            tourCard: { slug: "shanghai-science-and-technology-museum-admission", title: "Shanghai Science and Technology Museum Admission Ticket", description: "Admission to the Shanghai Science and Technology Museum.", price: "From $25", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4849dea35d7b1035718c43c48121bad9eb8767d60143a9a14c237197b6307f96.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's large enough to fill a full day if you want to see everything — budget accordingly rather than treating it as a quick stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shanghai Science and Technology Museum worth it?", a: "Yes for a hands-on, family-friendly alternative to the city's garden and history sightseeing, especially on a bad-weather day." },
+        ],
+      };
+
+    case "is-pub-crawl-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Pub Crawl Worth It?",
+        description: "An honest look at the guided Shanghai pub crawl through the city's local nightlife area.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bb025edaf098e89d7aa56d48d403f9afdfd868a573908e6830057bc6a1032e41.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This takes the guesswork out of finding Shanghai's nightlife scene for yourself, guiding you between bars with a built-in social group — a good fit for solo travelers specifically wanting to meet people on a night out.",
+            tourCard: { slug: "shanghai-pub-crawl-bar-hopping-in-local-nightlife", title: "Shanghai Pub Crawl (Bar Hopping) in local nightlife area", description: "A guided bar-hopping pub crawl through Shanghai's nightlife area.", price: "From $32", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bb025edaf098e89d7aa56d48d403f9afdfd868a573908e6830057bc6a1032e41.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good option specifically if you're traveling solo and want an easy way to meet other travelers, rather than for those who already have a group.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shanghai pub crawl worth it?", a: "Yes especially for solo travelers wanting an easy way to meet people — less necessary if you already have a group to go out with." },
+        ],
+      };
+
+    case "is-jade-buddha-temple-private-tour-worth-it-shanghai":
+      return {
+        title: "Is the Private Jade Buddha Temple & Buddhism Meal Tour Worth It in Shanghai?",
+        description: "An honest look at the 2-hour private Jade Buddha Temple tour with an all-inclusive Buddhist meal.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/513002f80d6c31734d7ff3669eee6323d42ec4d2461eb4d6cd5979851baa28cb.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing the Jade Buddha Temple visit with an actual Buddhist vegetarian meal gives genuine cultural depth beyond just viewing the temple's jade Buddha statues — a private, all-inclusive format that removes the guesswork of finding a suitable meal yourself afterward.",
+            tourCard: { slug: "2h-private-tour-jade-temple-buddhism-meal-all", title: "2H Private Tour: Jade Temple & Buddhism Meal (All Inclusive)", description: "A private Jade Buddha Temple tour with an all-inclusive Buddhist meal.", price: "From $59", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/513002f80d6c31734d7ff3669eee6323d42ec4d2461eb4d6cd5979851baa28cb.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Buddhist vegetarian meal is a genuine part of the cultural experience here, not just a convenience — go in open to trying dishes you might not otherwise order.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jade Buddha Temple tour with meal worth it in Shanghai?", a: "Yes, pairing the temple visit with an actual Buddhist vegetarian meal adds genuine cultural depth beyond just viewing the statues." },
+        ],
+      };
+
     default:
       return null;
   }
