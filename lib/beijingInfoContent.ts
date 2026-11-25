@@ -412,6 +412,39 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-time-to-visit-beijing":
+      return {
+        title: "Best Time to Visit Beijing: Weather and Crowds by Season (2026)",
+        description: "Beijing swings between bitterly cold, dry winters and hot, humid summers — here's the month-by-month breakdown of weather and crowd levels, separate from the air-quality question covered elsewhere.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03",
+        fastFacts: [
+          { icon: "Flower", label: "Best months", value: "September-October and April-May" },
+          { icon: "Snowflake", label: "Coldest", value: "January (well below freezing, dry and windy)" },
+          { icon: "Thermometer", label: "Hottest, most humid", value: "July-August" },
+          { icon: "Users", label: "Peak domestic crowds", value: "National Day (Oct 1-7) and Chinese New Year" },
+        ],
+        sections: [
+          {
+            title: "Why Autumn Is the Standout Season",
+            content: "September and October bring Beijing's most comfortable weather — mild days, cool nights, and generally the clearest skies of the year, which matters as much for Great Wall photos as it does for simple comfort. This is also when the Great Wall sections and the Summer Palace are at their most photogenic, with none of summer's haze or winter's bare, grey cold.\n\nThe one exception within this window is **National Day Golden Week (October 1-7)**, when domestic tourism peaks hard and major sites get genuinely crowded — avoid booking a Great Wall trip or Forbidden City visit during that specific week if you can shift your dates even slightly either side of it.",
+          },
+          {
+            title: "Spring as a Reasonable Second Choice",
+            content: "**April and May** offer a similar mild-temperature window to autumn, with the tradeoff that spring occasionally brings dust storms blown in from Mongolia's deserts, which can turn a clear day hazy with little warning. Still, this is a solid alternative if autumn doesn't fit your travel dates.",
+            tourCard: { slug: "off-peak-mutianyu-great-wall-tour-early", title: "Off-Peak Mutianyu Great Wall Tour: Early Morning/Last Entry", description: "A good pick for either shoulder season, timed to beat the tour-bus crowd wave regardless of month.", price: "From $181", duration: "Half day", rating: "4.8", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6c2e541f4e7c143070d03" },
+          },
+          {
+            title: "Why Summer and Winter Are Harder",
+            content: "**Summer (June-August)** is hot and genuinely humid, uncomfortable for a full day walking the Forbidden City or climbing Great Wall steps, and it's also peak season for domestic school-holiday travel, meaning bigger crowds alongside the heat. **Winter (December-February)** is the opposite problem: bitterly cold and dry, with wind chill making an open-air Great Wall visit genuinely tough without serious layering, though winter does have noticeably thinner crowds at most sites if cold doesn't bother you.",
+          }
+        ],
+        faqs: [
+          { q: "What is the best time to visit Beijing?", a: "September and October, for the mildest weather and clearest skies of the year — just avoid the National Day Golden Week (Oct 1-7) crowd spike within that window." },
+          { q: "Is spring a good time to visit Beijing?", a: "Yes, April and May offer similarly mild weather to autumn, though spring occasionally brings dust storms from Mongolia that can turn a clear day hazy." },
+          { q: "Is Beijing too cold to visit in winter?", a: "It's genuinely cold and dry, with real wind chill at outdoor sites like the Great Wall, but crowds are noticeably thinner if you dress for it." },
+        ],
+      };
+
     case "beijing-air-quality-when-to-visit":
       return {
         title: "Beijing Air Quality: When to Visit to Avoid the Smog",
