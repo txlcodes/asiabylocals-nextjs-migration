@@ -136062,7 +136062,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Vivi Dubai su una Lamborghini",
   "metaDescription": "Esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.",
   "shortDescription": "Esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.",
-  "fullDescription": "Un'esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.\n\nSe ne occupa GMZ RENTAL CAR. Puoi cancellare gratuitamente.\n\nDue viaggiatori pagano 2185 $ insieme invece di 2185 $ a testa, perche il prezzo e per gruppo e non a persona.",
+  "fullDescription": "Un'esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.\n\nGestito da un operatore locale verificato. Puoi cancellare gratuitamente.\n\nDue viaggiatori pagano 2185 $ insieme invece di 2185 $ a testa, perche il prezzo e per gruppo e non a persona.",
   "highlights": [
    "Noleggio Lamborghini con deposito gratuito"
   ],
@@ -136450,6 +136450,417 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Trasporto"
+  ]
+ },
+ "abu-dhabi-day-trip-from-dubai-with-grand-mosque-and-a-theme-park": {
+  "title": "Gita di un giorno ad Abu Dhabi da Dubai con la Grande Moschea e un parco a tema",
+  "metaTitle": "Gita di un giorno ad Abu Dhabi da Dubai con la Grande Moschea e un parco a tema",
+  "metaDescription": "Dieci ore, da hotel a hotel, che abbinano la Grande Moschea Sheikh Zayed a un'attrazione a tua scelta tra Ferrari World, Warner Bros. World o il Louvre Abu Dhabi, selezionata al momento della prenotazione, con l'ingresso incluso.",
+  "shortDescription": "Dieci ore, da hotel a hotel, che abbinano la Grande Moschea Sheikh Zayed a un'attrazione a tua scelta tra Ferrari World, Warner Bros. World o il Louvre Abu Dhabi, selezionata al momento della prenotazione, con l'ingresso incluso.",
+  "fullDescription": "Dieci ore, da hotel a hotel, che abbinano la Grande Moschea Sheikh Zayed a un'attrazione a tua scelta tra Ferrari World, Warner Bros. World o il Louvre Abu Dhabi, selezionata al momento della prenotazione, con l'ingresso incluso.\n\nLa moschea viene prima: una guida ti accompagna e un'abaya viene fornita all'ingresso per chi ne ha bisogno. Poi, in base a cosa hai scelto in fase di prenotazione, passi il resto della giornata a Ferrari World, dentro Warner Bros. World, oppure al Louvre Abu Dhabi, con l'ingresso gia incluso nel prezzo.\n\nLa scelta va fatta alla prenotazione, cosi un gruppo misto puo coprire entrambe le meta della giornata senza discutere all'ultimo momento su dove andare.\n\nIl ritiro e a Dubai e il percorso e porta a porta: dieci ore in tutto.\n\nAttenzione: il Louvre e chiuso il lunedi e la moschea e chiusa la mattina del venerdi, quindi la data scelta conta per decidere l'attrazione.",
+  "highlights": [
+   "Grande Moschea Sheikh Zayed con guida e abaya fornita",
+   "Una tra Ferrari World, Warner Bros. World o il Louvre, ingresso incluso",
+   "Scelta alla prenotazione, cosi un gruppo misto ottiene entrambe le meta",
+   "Ritiro in hotel a Dubai; dieci ore porta a porta",
+   "attenzione: il Louvre e chiuso il lunedi, la moschea la mattina del venerdi"
+  ],
+  "included": [
+   "Ritiro e riaccompagno dagli hotel entro i confini della citta di Dubai",
+   "Ingresso a Ferrari World Abu Dhabi, Warner Bros. o Louvre Abu Dhabi (secondo l'opzione scelta)",
+   "Guida turistica autorizzata in lingua inglese",
+   "Visita alla iconica Grande Moschea Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel ad Abu Dhabi",
+   "Cibo e bevande",
+   "Spese personali",
+   "Mance"
+  ]
+ },
+ "abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner": {
+  "title": "Abu Dhabi: safari nel deserto con fattoria di cammelli e cena nel campo beduino",
+  "metaTitle": "Abu Dhabi: safari nel deserto con fattoria di cammelli e cena nel campo beduino",
+  "metaDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono piu alte e piu vuote, i campi piu lontani dalla citta, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.",
+  "shortDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono piu alte e piu vuote, i campi piu lontani dalla citta, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.",
+  "fullDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono piu alte e piu vuote, i campi piu lontani dalla citta, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.\n\nIl programma: ritiro in hotel, guida sulle dune a bordo di un 4x4 con aria condizionata, sandboarding, un breve giro in cammello e il tramonto visto dalle dune.\n\nSegue il campo beduino, con cena barbecue, fuoco e spettacoli tanoura, oltre a bevande di benvenuto, pittura con l'henne e shisha.\n\nUn autista inglese autorizzato guida per tutto il tragitto, e l'acqua minerale fredda e disponibile in auto durante il trasferimento.",
+  "highlights": [
+   "Dune piu alte e piu vuote del lato di Dubai del deserto",
+   "Visita a una fattoria di cammelli vera, non una sosta fotografica di passaggio",
+   "Guida sulle dune, sandboarding e tramonto dalle dune",
+   "Campo beduino con cena barbecue, fuoco e spettacoli tanoura",
+   "Sei ore, 4x4 con aria condizionata, autista autorizzato, acqua fredda per tutto il tragitto"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasporto con veicolo 4x4 con aria condizionata",
+   "Acqua minerale fredda in auto durante il trasferimento",
+   "Autista inglese professionista e autorizzato",
+   "Guida sulle dune",
+   "Attivita di sandboarding",
+   "Giro in quad (se l'opzione e selezionata)",
+   "Bevande di benvenuto",
+   "Pittura con l'henne",
+   "Breve giro in cammello",
+   "Sosta fotografica al tramonto",
+   "Esperienza shisha"
+  ],
+  "notIncluded": []
+ },
+ "abu-dhabi-dune-bashing-safari-with-camel-farm-visit": {
+  "title": "Abu Dhabi: safari con guida sulle dune e visita a una fattoria di cammelli",
+  "metaTitle": "Abu Dhabi: safari con guida sulle dune e visita a una fattoria di cammelli",
+  "metaDescription": "Quattro ore nel deserto fuori Abu Dhabi, disponibili come turno al mattino o alla sera, una scelta su cui vale la pena pensare invece di lasciarla al caso.",
+  "shortDescription": "Quattro ore nel deserto fuori Abu Dhabi, disponibili come turno al mattino o alla sera, una scelta su cui vale la pena pensare invece di lasciarla al caso.",
+  "fullDescription": "Quattro ore nel deserto fuori Abu Dhabi, disponibili come turno al mattino o alla sera, una scelta su cui vale la pena pensare invece di lasciarla al caso.\n\nLa guida sulle dune avviene a bordo di un Land Cruiser 4WD con le gomme sgonfiate per la sabbia, seguita da sandboarding e una sosta a una fattoria di cammelli vera, non una tappa fotografica di passaggio.\n\nAcqua e bibite sono illimitate in auto, e per il turno serale si aggiungono cena barbecue, danza del ventre, te arabo, caffe e datteri, danza tanoura e un falco per le foto.\n\nL'abito tradizionale arabo e disponibile per chi vuole foto in costume.\n\nL'alcol non e incluso ma si puo acquistare, e il giro in quad e disponibile con un pagamento extra.",
+  "highlights": [
+   "Turno al mattino o alla sera: esperienze davvero diverse, a tua scelta",
+   "Guida sulle dune con Land Cruiser 4WD e gomme sgonfiate",
+   "Una fattoria di cammelli vera invece di una sosta fotografica di passaggio",
+   "Sandboarding e bibite illimitate in auto",
+   "Quattro ore con ritiro in hotel ad Abu Dhabi"
+  ],
+  "included": [
+   "Ritiro e riaccompagno ad Abu Dhabi",
+   "Safari nel deserto con veicolo 4WD",
+   "Guida sulle dune",
+   "Sandboarding",
+   "Sosta alla fattoria di cammelli e giro in cammello",
+   "Acqua e bibite illimitate",
+   "Abito tradizionale arabo (per le foto)",
+   "Cena barbecue (solo tour serale)",
+   "Danza del ventre",
+   "Te, caffe arabo e datteri (solo tour serale)",
+   "Danza tanoura",
+   "Falco (per le foto, solo tour serale)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche (disponibili per acquisto)",
+   "Quad (disponibile con pagamento aggiuntivo)"
+  ]
+ },
+ "abu-dhabi-electric-catamaran-ride-at-the-louvre": {
+  "title": "Abu Dhabi: giro in catamarano elettrico al Louvre",
+  "metaTitle": "Abu Dhabi: giro in catamarano elettrico al Louvre",
+  "metaDescription": "Un piccolo catamarano elettrico che guidi tu stesso, sull'acqua proprio sotto la cupola del Louvre Abu Dhabi, e siccome il motore e elettrico tutto avviene quasi in silenzio.",
+  "shortDescription": "Un piccolo catamarano elettrico che guidi tu stesso, sull'acqua proprio sotto la cupola del Louvre Abu Dhabi, e siccome il motore e elettrico tutto avviene quasi in silenzio.",
+  "fullDescription": "Un piccolo catamarano elettrico che guidi tu stesso, sull'acqua proprio sotto la cupola del Louvre Abu Dhabi, e siccome il motore e elettrico tutto avviene quasi in silenzio.\n\nUna breve introduzione basta: non serve alcuna patente nautica. A bordo trovi parasole e una tettoia ventilata.\n\nSi accompagna bene a una visita al museo, meglio fatta prima del giro in barca.\n\nAttenzione: il museo e chiuso il lunedi, e si applicano limiti di eta e di peso per imbarcazione.",
+  "highlights": [
+   "Lo guidi tu stesso: una breve introduzione basta, nessuna patente richiesta",
+   "Elettrico e quasi silenzioso, proprio sotto la cupola del Louvre",
+   "Parasole e tettoia ventilata a bordo",
+   "Si abbina bene a una visita al museo, meglio fatta prima",
+   "attenzione: il museo e chiuso il lunedi, si applicano limiti di eta e peso"
+  ],
+  "included": [
+   "Noleggio del catamarano elettrico",
+   "Equipaggiamento di sicurezza",
+   "Parasole e tettoia ventilata",
+   "Breve introduzione alla guida"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Guida personale",
+   "Acquisto di souvenir",
+   "Ingresso al Louvre Abu Dhabi"
+  ]
+ },
+ "abu-dhabi-full-day-tour-from-dubai-with-grand-mosque-and-corniche": {
+  "title": "Abu Dhabi: tour di un giorno intero da Dubai con la Grande Moschea e la Corniche",
+  "metaTitle": "Abu Dhabi: tour di un giorno intero da Dubai con la Grande Moschea e la Corniche",
+  "metaDescription": "Abu Dhabi e a circa novanta minuti lungo la costa da Dubai, e una giornata basta davvero per vedere quello per cui la gente arriva, a patto che qualcun altro guidi e la moschea sia pianificata al momento giusto.",
+  "shortDescription": "Abu Dhabi e a circa novanta minuti lungo la costa da Dubai, e una giornata basta davvero per vedere quello per cui la gente arriva, a patto che qualcun altro guidi e la moschea sia pianificata al momento giusto.",
+  "fullDescription": "Abu Dhabi e a circa novanta minuti lungo la costa da Dubai, e una giornata basta davvero per vedere quello per cui la gente arriva, a patto che qualcun altro guidi e la moschea sia pianificata al momento giusto.\n\nLa Grande Moschea Sheikh Zayed viene prima, con una guida e un'abaya fornita all'ingresso. Segue un giro lungo la Corniche con soste all'Emirates Palace e alle Etihad Towers, e una sosta fotografica al Louvre Abu Dhabi sotto la cupola.\n\nIl ritiro e a Dubai, in veicolo con aria condizionata, con acqua illimitata a bordo. Il tragitto e di circa novanta minuti in ciascuna direzione, cosi la giornata resta senza fretta.\n\nCon l'opzione Premium si aggiungono l'accesso alla terrazza panoramica delle Etihad Towers e l'ingresso al Palazzo Presidenziale Qasr Al Watan.",
+  "highlights": [
+   "Grande Moschea Sheikh Zayed con guida, abaya fornita all'ingresso",
+   "Giro sulla Corniche con soste all'Emirates Palace e alle Etihad Towers",
+   "Sosta fotografica al Louvre Abu Dhabi sotto la cupola",
+   "Ritiro in hotel a Dubai, veicolo con aria condizionata, acqua illimitata",
+   "Circa novanta minuti per tragitto, quindi la giornata resta senza fretta"
+  ],
+  "included": [
+   "Ritiro e riaccompagno dagli hotel di Dubai",
+   "Guida locale professionista dal vivo",
+   "Biglietto d'ingresso alla Moschea Sheikh Zayed",
+   "Sosta fotografica al Museo del Louvre",
+   "Sosta fotografica all'Emirates Palace",
+   "Punto panoramico sulla Corniche",
+   "Abaya per le signore per la visita alla moschea (da restituire)",
+   "Acqua illimitata",
+   "Visita alla terrazza panoramica dell'Etihad Tower (se selezionata l'opzione Premium)",
+   "Biglietto d'ingresso al Palazzo Presidenziale Qasr Al Watan (se selezionata l'opzione Premium)"
+  ],
+  "notIncluded": [
+   "Mance (facoltative)"
+  ]
+ },
+ "abu-dhabi-grand-mosque-and-qasr-al-watan-private-transfer-tour": {
+  "title": "Abu Dhabi: tour privato con transfer alla Grande Moschea e Qasr Al Watan",
+  "metaTitle": "Abu Dhabi: tour privato con transfer alla Grande Moschea e Qasr Al Watan",
+  "metaDescription": "I due edifici che insieme spiegano l'Abu Dhabi moderna, visitati in privato invece che su un pullman, con un autista e un veicolo solo per voi.",
+  "shortDescription": "I due edifici che insieme spiegano l'Abu Dhabi moderna, visitati in privato invece che su un pullman, con un autista e un veicolo solo per voi.",
+  "fullDescription": "I due edifici che insieme spiegano l'Abu Dhabi moderna, visitati in privato invece che su un pullman, con un autista e un veicolo solo per voi.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il biglietto d'ingresso e gia incluso e non e un extra.\n\nAcqua in bottiglia e un autista professionista accompagnano tutto il percorso.\n\nAttenzione: confermiamo che entrambi i siti siano aperti nella tua data prima che tu paghi.",
+  "highlights": [
+   "Veicolo e autista privati, non un gruppo su pullman",
+   "Grande Moschea Sheikh Zayed con l'abaya fornita all'ingresso",
+   "Biglietto d'ingresso a Qasr Al Watan incluso, non un extra",
+   "Acqua in bottiglia e autista professionista per tutto il percorso",
+   "attenzione: confermiamo che entrambi i siti siano aperti nella tua data prima del pagamento"
+  ],
+  "included": [
+   "Transfer privato",
+   "Autista professionista",
+   "Acqua in bottiglia",
+   "Biglietto d'ingresso a Qasr Al Watan",
+   "Ingresso alla Moschea Sheikh Zayed"
+  ],
+  "notIncluded": [
+   "Altre spese personali"
+  ]
+ },
+ "abu-dhabi-grand-mosque-qasr-al-watan-and-etihad-towers-tour": {
+  "title": "Abu Dhabi: tour alla Grande Moschea, Qasr Al Watan e Etihad Towers",
+  "metaTitle": "Abu Dhabi: tour alla Grande Moschea, Qasr Al Watan e Etihad Towers",
+  "metaDescription": "Tre edifici che insieme spiegano come Abu Dhabi vede se stessa, in sei ore con guida e auto con aria condizionata, partendo da un hotel di Abu Dhabi invece che da Dubai.",
+  "shortDescription": "Tre edifici che insieme spiegano come Abu Dhabi vede se stessa, in sei ore con guida e auto con aria condizionata, partendo da un hotel di Abu Dhabi invece che da Dubai.",
+  "fullDescription": "Tre edifici che insieme spiegano come Abu Dhabi vede se stessa, in sei ore con guida e auto con aria condizionata, partendo da un hotel di Abu Dhabi invece che da Dubai.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il palazzo presidenziale ancora in funzione, visitato dall'interno e non solo dall'esterno. Poi la terrazza panoramica delle Etihad Towers, a 300 metri d'altezza.\n\nCompletano il giro una sosta fotografica al Louvre Abu Dhabi e la Corniche.\n\nSei ore in tutto, con guida autorizzata, veicolo con aria condizionata e ritiro ad Abu Dhabi, piu acqua minerale fredda a bordo.",
+  "highlights": [
+   "Grande Moschea Sheikh Zayed, con abaya fornita all'ingresso",
+   "Qasr Al Watan, il palazzo presidenziale in funzione, visitato dall'interno",
+   "Terrazza panoramica delle Etihad Towers a 300 metri",
+   "Sosta fotografica al Louvre Abu Dhabi e la Corniche",
+   "Sei ore, guida autorizzata, veicolo con aria condizionata, ritiro ad Abu Dhabi"
+  ],
+  "included": [
+   "Ritiro e riaccompagno",
+   "Trasporto con veicolo moderno con aria condizionata",
+   "Autista professionista",
+   "Visita alla Grande Moschea Sheikh Zayed",
+   "Visita al Palazzo Qasr Al Watan",
+   "Visita alla terrazza panoramica delle Etihad Towers",
+   "Sosta fotografica al Museo del Louvre",
+   "Abaya per le signore durante la visita alla moschea (da restituire dopo l'uso)",
+   "Acqua minerale fredda"
+  ],
+  "notIncluded": [
+   "Qualsiasi servizio o spesa extra (escluso quanto sopra)"
+  ]
+ },
+ "abu-dhabi-guided-kayak-tour-around-the-louvre": {
+  "title": "Abu Dhabi: tour guidato in kayak intorno al Louvre",
+  "metaTitle": "Abu Dhabi: tour guidato in kayak intorno al Louvre",
+  "metaDescription": "Un'ora sull'acqua intorno al Louvre Abu Dhabi, la prospettiva per cui l'edificio e stato progettato e quella che quasi nessuno vede.",
+  "shortDescription": "Un'ora sull'acqua intorno al Louvre Abu Dhabi, la prospettiva per cui l'edificio e stato progettato e quella che quasi nessuno vede.",
+  "fullDescription": "Un'ora sull'acqua intorno al Louvre Abu Dhabi, la prospettiva per cui l'edificio e stato progettato e quella che quasi nessuno vede.\n\nIl percorso passa vicino alle installazioni all'aperto, alla stessa altezza dell'occhio, abbastanza vicino da vedere il reticolo della cupola.\n\nL'acqua e piatta e riparata, e non serve esperienza precedente: guida, giubbotto di salvataggio, sacche impermeabili e briefing di sicurezza sono tutti inclusi.\n\nAttenzione: il museo e chiuso il lunedi, meglio scegliere un turno presto o tardo in estate per il caldo.",
+  "highlights": [
+   "Un'ora intorno alla cupola del Louvre vista dall'acqua",
+   "Passa accanto alle installazioni all'aperto, abbastanza vicino da vedere il reticolo",
+   "Acqua piatta e riparata, non serve esperienza",
+   "Guida, giubbotto di salvataggio, sacche impermeabili e briefing di sicurezza inclusi",
+   "attenzione: museo chiuso il lunedi, scegli un turno presto o tardo in estate"
+  ],
+  "included": [
+   "Giubbotti di salvataggio",
+   "Sacche impermeabili",
+   "Briefing di sicurezza",
+   "Stazione di ricarica dell'acqua (porta la tua borraccia)"
+  ],
+  "notIncluded": [
+   "Borraccia",
+   "Biglietti d'ingresso al museo",
+   "Ritiro e riaccompagno in hotel",
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
+ "abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village": {
+  "title": "Abu Dhabi: tour cittadino di mezza giornata con la Grande Moschea e il Villaggio del Patrimonio",
+  "metaTitle": "Abu Dhabi: tour cittadino di mezza giornata con la Grande Moschea e il Villaggio del Patrimonio",
+  "metaDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna gia in citta o arriva con solo una mattinata a disposizione.",
+  "shortDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna gia in citta o arriva con solo una mattinata a disposizione.",
+  "fullDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna gia in citta o arriva con solo una mattinata a disposizione.\n\nLa Grande Moschea Sheikh Zayed viene prima, con ingresso e abaya inclusi. Segue il Villaggio del Patrimonio, con un souq funzionante e lo skyline della Corniche visibile oltre l'acqua.\n\nIl mercato dei datteri e una sosta locale vera, non una tappa organizzata. Completano il giro un passaggio lungo la Corniche con l'Emirates Palace e Saadiyat Island.\n\nCinque ore in tutto, con ritiro e riaccompagno in hotel ad Abu Dhabi.",
+  "highlights": [
+   "Grande Moschea Sheikh Zayed con ingresso e abaya incluse",
+   "Villaggio del Patrimonio con un souq funzionante e la Corniche sullo sfondo",
+   "Il mercato dei datteri, una sosta locale vera",
+   "Passaggio lungo la Corniche con Emirates Palace e Saadiyat Island",
+   "Cinque ore con ritiro e riaccompagno in hotel ad Abu Dhabi"
+  ],
+  "included": [
+   "Autista professionista",
+   "Ritiro e riaccompagno in hotel",
+   "Ingressi",
+   "Visita alla Grande Moschea Sheikh Zayed",
+   "Villaggio del Patrimonio",
+   "Emirates Palace (solo passaggio)",
+   "Percorso lungo la Corniche",
+   "Saadiyat Island (solo passaggio)",
+   "Yas Island (solo passaggio)",
+   "Visita al mercato dei datteri",
+   "Acqua minerale"
+  ],
+  "notIncluded": [
+   "Pranzo"
+  ]
+ },
+ "abu-dhabi-half-day-tour-with-airport-or-cruise-port-pickup": {
+  "title": "Abu Dhabi: tour di mezza giornata con ritiro da aeroporto o porto crociere",
+  "metaTitle": "Abu Dhabi: tour di mezza giornata con ritiro da aeroporto o porto crociere",
+  "metaDescription": "Pensato per due situazioni in cui un tour cittadino normale non funziona: un lungo scalo all'aeroporto di Abu Dhabi, e una nave da crociera che attracca per il giorno al porto di Zayed. Il ritiro avviene da entrambi, con gli orari organizzati intorno al tuo volo o arrivo.",
+  "shortDescription": "Pensato per due situazioni in cui un tour cittadino normale non funziona: un lungo scalo all'aeroporto di Abu Dhabi, e una nave da crociera che attracca per il giorno al porto di Zayed. Il ritiro avviene da entrambi, con gli orari organizzati intorno al tuo volo o arrivo.",
+  "fullDescription": "Pensato per due situazioni in cui un tour cittadino normale non funziona: un lungo scalo all'aeroporto di Abu Dhabi, e una nave da crociera che attracca per il giorno al porto di Zayed. Il ritiro avviene da entrambi, con gli orari organizzati intorno al tuo volo o arrivo.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il palazzo presidenziale ancora in funzione, visto dall'interno. Poi la terrazza panoramica delle Etihad Towers, a 300 metri d'altezza.\n\nUna sosta fotografica al Louvre Abu Dhabi completa il giro.\n\nAttenzione: confermiamo che la moschea e il palazzo siano aperti nella tua data prima che tu paghi. Il ritiro da Dubai non e incluso in questa versione.",
+  "highlights": [
+   "Ritiro dall'aeroporto di Abu Dhabi o dal terminal crociere, calibrato sui tuoi orari",
+   "Grande Moschea Sheikh Zayed con l'abaya fornita all'ingresso",
+   "Qasr Al Watan, il palazzo presidenziale in funzione, visto dall'interno",
+   "Terrazza panoramica delle Etihad Towers a 300 metri",
+   "attenzione: confermiamo che moschea e palazzo siano aperti nella tua data prima del pagamento"
+  ],
+  "included": [
+   "Ritiro e riaccompagno da Abu Dhabi",
+   "Trasporto con veicolo moderno con aria condizionata",
+   "Guida turistica autorizzata",
+   "Visita alla Grande Moschea Sheikh Zayed",
+   "Visita al Palazzo Qasr Al Watan",
+   "Visita alla terrazza panoramica delle Etihad Towers",
+   "Sosta fotografica al Museo del Louvre",
+   "Abaya per le signore durante la visita alla moschea (da restituire dopo l'uso)",
+   "Acqua minerale fredda"
+  ],
+  "notIncluded": [
+   "Ritiro da Dubai",
+   "Qualsiasi servizio o spesa extra (escluso quanto sopra)"
+  ]
+ },
+ "abu-dhabi-private-helicopter-tour-over-the-corniche": {
+  "title": "Abu Dhabi: tour privato in elicottero sopra la Corniche",
+  "metaTitle": "Abu Dhabi: tour privato in elicottero sopra la Corniche",
+  "metaDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della citta e abbastanza breve perche nessuno si stanchi.",
+  "shortDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della citta e abbastanza breve perche nessuno si stanchi.",
+  "fullDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della citta e abbastanza breve perche nessuno si stanchi.\n\nL'aereo e tuo e basta: diciassette minuti privati, con la Corniche, l'Emirates Palace, il Marina Mall e la Grande Moschea visti dall'alto.\n\nUn commento dal vivo arriva attraverso le cuffie, e ogni passeggero ha un posto vicino al finestrino, cosa che su un volo condiviso non e garantita.\n\nAttenzione: il volo dipende dal meteo, meglio lasciare un giorno libero prima e dopo.",
+  "highlights": [
+   "Diciassette minuti, privato: l'aereo e tutto tuo",
+   "Corniche, Emirates Palace, Marina Mall e Grande Moschea dall'alto",
+   "Commento dal vivo attraverso le cuffie",
+   "Posto vicino al finestrino per tutti, diversamente da un volo condiviso",
+   "attenzione: dipende dal meteo, lascia un giorno libero prima e dopo"
+  ],
+  "included": [
+   "Volo privato esclusivo in elicottero di 17 minuti",
+   "Cuffie per sentire chiaramente il pilota"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Cibo e bevande"
+  ]
+ },
+ "abu-dhabi-reem-central-park-guided-kayak-tour": {
+  "title": "Abu Dhabi: tour guidato in kayak al Reem Central Park",
+  "metaTitle": "Abu Dhabi: tour guidato in kayak al Reem Central Park",
+  "metaDescription": "Due ore a pagaiare lungo i canali del Reem Central Park, nel centro di Abu Dhabi e tuttavia quasi del tutto silenzioso una volta che sei in acqua.",
+  "shortDescription": "Due ore a pagaiare lungo i canali del Reem Central Park, nel centro di Abu Dhabi e tuttavia quasi del tutto silenzioso una volta che sei in acqua.",
+  "fullDescription": "Due ore a pagaiare lungo i canali del Reem Central Park, nel centro di Abu Dhabi e tuttavia quasi del tutto silenzioso una volta che sei in acqua.\n\nI canali si snodano tra rive piantumate con lo skyline sopra di te, su acqua piatta e riparata nel cuore della citta.\n\nNon serve esperienza: i kayak sono stabili e il ritmo e guidato. Kayak, giubbotto di salvataggio, sacche impermeabili e frutta fresca sono inclusi.\n\nAttenzione: porta una borraccia riutilizzabile, c'e una stazione di ricarica e non acqua in bottiglia.",
+  "highlights": [
+   "Due ore su acqua piatta e riparata nel centro della citta",
+   "Canali tortuosi tra rive piantumate, con lo skyline sopra",
+   "Non serve esperienza, kayak stabili e ritmo guidato",
+   "Kayak, giubbotto di salvataggio, sacche impermeabili e frutta fresca inclusi",
+   "attenzione: porta una borraccia riutilizzabile, c'e una stazione di ricarica"
+  ],
+  "included": [
+   "Guida turistica",
+   "Attrezzatura per il kayak",
+   "Giubbotti di salvataggio",
+   "Sacche impermeabili asciutte",
+   "Stazione di ricarica dell'acqua (porta la tua borraccia)",
+   "Frutta intera",
+   "Briefing di sicurezza"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Asciugamani",
+   "Borraccia",
+   "Mance"
+  ]
+ },
+ "al-marmoom-heritage-desert-safari-with-vintage-g-class-and-oasis-dinner": {
+  "title": "Al Marmoom: safari del patrimonio nel deserto con G-Class vintage e cena all'oasi",
+  "metaTitle": "Al Marmoom: safari del patrimonio nel deserto con G-Class vintage e cena all'oasi",
+  "metaDescription": "Il safari nel deserto per chi non vuole un safari nel deserto.",
+  "shortDescription": "Il safari nel deserto per chi non vuole un safari nel deserto.",
+  "fullDescription": "Il safari nel deserto per chi non vuole un safari nel deserto.\n\nAl Marmoom e una riserva protetta e non un campo di dune commerciale: niente guida sulle dune. Al suo posto, un giro su una G-Class vintage e una carovana di cammelli invece di un recinto.\n\nSegue un'accoglienza in un villaggio beduino con un falco sul guanto, e la cena si svolge all'oasi di Al Marmoom sotto le luci.\n\nE il safari per chi non puo o preferisce non fare la guida sulle dune.",
+  "highlights": [
+   "Riserva protetta, non un campo di dune commerciale, niente guida sulle dune",
+   "Giro su una G-Class vintage e carovana di cammelli invece di un recinto",
+   "Accoglienza in villaggio beduino e un falco sul guanto",
+   "Cena all'oasi di Al Marmoom sotto le luci",
+   "Il safari per chi non puo o non vuole fare dune bashing"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasporto con veicolo con aria condizionata",
+   "Accoglienza tradizionale in un villaggio beduino",
+   "Giro su una G-Class vintage (30-40 minuti)",
+   "Giro in carovana di cammelli (10-12 minuti, ripetuto due volte)",
+   "Autentica cena beduina a 5 portate (menu fisso)",
+   "Intrattenimento in stile beduino",
+   "Spettacolo con falco arabo",
+   "Pittura con l'henne",
+   "Osservazione delle stelle con telescopio",
+   "Acqua e bibite illimitate",
+   "Postazione dal vivo per caffe arabo, te e luqaimat (dolci emiratini)"
+  ],
+  "notIncluded": [
+   "Mance (non obbligatorie)"
+  ]
+ },
+ "al-marmoom-oasis-arabian-horse-riding-experience": {
+  "title": "Oasi di Al Marmoom: esperienza di equitazione con cavalli arabi",
+  "metaTitle": "Oasi di Al Marmoom: esperienza di equitazione con cavalli arabi",
+  "metaDescription": "Trenta minuti su un cavallo arabo all'Al Salah Studs, nella riserva protetta di Al Marmoom, con le persone che li allevano.",
+  "shortDescription": "Trenta minuti su un cavallo arabo all'Al Salah Studs, nella riserva protetta di Al Marmoom, con le persone che li allevano.",
+  "fullDescription": "Trenta minuti su un cavallo arabo all'Al Salah Studs, nella riserva protetta di Al Marmoom, con le persone che li allevano.\n\nLe linee di sangue documentate vengono spiegate da chi li alleva davvero. Istruzioni e casco sono inclusi, ed essere alle prime armi e la norma, non l'eccezione.\n\nSeguono caffe arabo, te e datteri.\n\nIl turno all'alba e preferibile in estate: la prima ora di luce e la parte migliore della giornata.",
+  "highlights": [
+   "Trenta minuti su un cavallo arabo in una scuderia funzionante",
+   "Linee di sangue documentate spiegate da chi li alleva",
+   "Istruzioni e casco forniti, chi e alle prime armi e la norma",
+   "Caffe arabo, te e datteri dopo il giro",
+   "Turno all'alba in estate: la prima ora di luce e la parte migliore"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (se l'opzione e selezionata)",
+   "Casco",
+   "Breve istruzione da un cavaliere professionista",
+   "Giro a cavallo di 30 minuti",
+   "Te, caffe arabo e datteri",
+   "Acqua e bibite illimitate"
+  ],
+  "notIncluded": [
+   "Giro in pony per bambini"
+  ]
+ },
+ "atlantis-aquaventure-waterpark-day-pass-dubai": {
+  "title": "Dubai: biglietto giornaliero per il parco acquatico Atlantis Aquaventure",
+  "metaTitle": "Dubai: biglietto giornaliero per il parco acquatico Atlantis Aquaventure",
+  "metaDescription": "Il piu grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.",
+  "shortDescription": "Il piu grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.",
+  "fullDescription": "Il piu grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.\n\nTra gli scivoli ci sono uno scivolo sulla laguna degli squali, cadute quasi verticali e un simulatore di surf.\n\nL'accesso alla spiaggia privata e incluso, e di solito e la parte piu tranquilla. Lo stesso biglietto da accesso anche al Lost Chambers Aquarium.\n\nAttenzione: asciugamani e armadietti costano extra, meglio portare il proprio asciugamano.",
+  "highlights": [
+   "Oltre cento scivoli, il piu grande parco acquatico del Medio Oriente",
+   "Scivolo sulla laguna degli squali, cadute quasi verticali e un simulatore di surf",
+   "Accesso alla spiaggia privata incluso, di solito la parte piu tranquilla",
+   "Lost Chambers Aquarium con lo stesso biglietto",
+   "attenzione: asciugamani e armadietti costano extra, porta il tuo asciugamano"
+  ],
+  "included": [
+   "Biglietto giornaliero per il parco acquatico con accesso a oltre 105 scivoli da record, inclusa la spiaggia privata e il simulatore di surf Surf's Up",
+   "Accesso alle zone Splashers per bambini",
+   "Ingresso al Lost Chambers Aquarium (se l'opzione e selezionata)"
+  ],
+  "notIncluded": [
+   "Aqua Xpress - Fast Pass (acquistabile in loco) da 225 a 795 AED a seconda della stagione e della data di visita",
+   "Noleggio di asciugamano e armadietto (acquistabile in loco)",
+   "Pasti"
   ]
  },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
