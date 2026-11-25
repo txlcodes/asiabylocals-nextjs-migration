@@ -2728,6 +2728,75 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-himalayan-honey-tasting-worth-it-kathmandu":
+            return {
+                title: "Is the Himalayan Honey Tasting and Walking Tour Worth It in Kathmandu?",
+                description: "An honest look at the Himalayan honey tasting and walking tour in Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d526cd8fc639028bf02cdfd2a70277d34ff4672748411c6e58d3781424b4ee51.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Himalayan honey, including the famously potent 'mad honey' from certain regions, is a genuine local specialty, and this low-cost tour pairs tasting with a walk — a cheap, easy way to try something distinctly Nepali.", tourCard: { slug: "kathmandu-himalayan-honey-tasting-and-walking-tour", title: "Kathmandu: Himalayan Honey Tasting and Walking Tour", description: "A Himalayan honey tasting experience paired with a walking tour.", price: "From $11", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d526cd8fc639028bf02cdfd2a70277d34ff4672748411c6e58d3781424b4ee51.jpg" } },
+                    { title: "Practical Tips", content: "At this low price, it's an easy, low-commitment add-on alongside other sightseeing rather than a dedicated activity." }
+                ],
+                faqs: [
+                    { q: "Is the Himalayan honey tasting worth it in Kathmandu?", a: "Yes, it's a cheap, easy way to try a genuine Nepali specialty — good as an add-on to other sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Himalayan honey tasting worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a cheap way to try a genuine Nepali specialty." } }
+                ] },
+            };
+
+        case "is-yomari-making-class-worth-it-kathmandu":
+            return {
+                title: "Is the Yomari Making Class Worth It in Kathmandu?",
+                description: "An honest look at the Yomari making class with tasting in Thamel, a traditional Newari rice-flour dumpling.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/95d6302649fac74642be52a502a4b72425d2f568cbb5fae561a8611661ddda83.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yomari is a traditional Newari rice-flour dumpling, genuinely distinct from the already-covered momo masterclass, and this short class gives a hands-on introduction to a specific Newari food tradition tied to the Yomari Punhi festival.", tourCard: { slug: "thamel-1-hour-yomari-making-class-with-tasting", title: "Thamel: 1 Hour Yomari Making Class with Tasting", description: "A hands-on Yomari making class with tasting in Thamel.", price: "From $25", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/95d6302649fac74642be52a502a4b72425d2f568cbb5fae561a8611661ddda83.jpg" } },
+                    { title: "Practical Tips", content: "At just 1 hour, this is an easy add-on rather than a dedicated activity, and genuinely distinct from the momo masterclass if you want to try both." }
+                ],
+                faqs: [
+                    { q: "Is the Yomari making class worth it in Kathmandu?", a: "Yes, it's a genuinely distinct Newari food tradition from the already-popular momo masterclass, worth trying if you have time for both." },
+                    { q: "What is Yomari?", a: "A traditional Newari rice-flour dumpling, tied to the Yomari Punhi festival." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is Yomari?", "acceptedAnswer": { "@type": "Answer", "text": "A traditional Newari rice-flour dumpling." } }
+                ] },
+            };
+
+        case "is-home-brewing-experience-worth-it-kathmandu":
+            return {
+                title: "Is the Nepali Home Brewing & Local Tasting Experience Worth It in Kathmandu?",
+                description: "An honest look at the Nepali home brewing and local tasting experience in Thamel.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b56cb5c6aedc43eac732607c5c657a09ea3ee2e0d38c3598f2abe3f5c8bfacb.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Local home-brewed alcohol (like raksi) is a genuine part of Nepali culture rarely covered by standard sightseeing, and this experience gives real insight into traditional brewing methods alongside a tasting.", tourCard: { slug: "thamel-nepali-home-brewing-local-tasting", title: "Thamel: Nepali Home Brewing & Local Tasting Experience", description: "A Nepali home brewing demonstration with local tasting.", price: "From $46", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b56cb5c6aedc43eac732607c5c657a09ea3ee2e0d38c3598f2abe3f5c8bfacb.jpg" } },
+                    { title: "Practical Tips", content: "A good evening activity, especially paired with the momo masterclass or a food walking tour for a fuller culinary day." }
+                ],
+                faqs: [
+                    { q: "Is the Nepali home brewing experience worth it?", a: "Yes, for genuine insight into traditional local brewing methods rarely covered by standard sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the home brewing experience worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine insight into traditional Nepali brewing methods." } }
+                ] },
+            };
+
+        case "is-jamacho-hike-worth-it-kathmandu":
+            return {
+                title: "Is the Jamacho Hike, Tree Planting and Picnic Tour Worth It from Kathmandu?",
+                description: "An honest look at the Jamacho hike with tree planting and picnic from Kathmandu, a genuine eco-focused activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e7a8eef0d7dee872ed967dd685ff2eb75797b6b07e7b11e30503cf061c7ac177.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a genuine hike with actual tree planting gives this a real environmental angle beyond standard sightseeing, plus a picnic to round out a full day in the hills outside Kathmandu.", tourCard: { slug: "kathmandu-jamacho-hike-tree-planting-and-picnic", title: "Kathmandu: Jamacho Hike, Tree Planting, and Picnic Tour", description: "A hike with tree planting and a picnic from Kathmandu.", price: "From $45", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e7a8eef0d7dee872ed967dd685ff2eb75797b6b07e7b11e30503cf061c7ac177.jpeg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes and sun protection — this is a genuine full-day outdoor activity, not a casual walk." }
+                ],
+                faqs: [
+                    { q: "Is the Jamacho hike worth it from Kathmandu?", a: "Yes, for a genuine environmental angle beyond standard sightseeing — you actually plant trees as part of the day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jamacho hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for its genuine environmental tree-planting component." } }
+                ] },
+            };
+
         default:
             return null;
     }
