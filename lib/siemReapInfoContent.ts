@@ -1805,6 +1805,75 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-coffee-experience-worth-it-siem-reap":
+            return {
+                title: "Is the Cambodian Coffee Experience Worth It in Siem Reap?",
+                description: "An honest look at the Cambodian coffee experience in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cambodian-coffee-experience/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cambodia's coffee growing regions get far less attention than neighboring Vietnam's, and this experience gives genuine insight into local coffee culture and preparation rather than just a cafe stop.", tourCard: { slug: "cambodian-coffee-experience", title: "Cambodian coffee experience", description: "A guided Cambodian coffee experience in Siem Reap.", price: "From $33", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/cambodian-coffee-experience/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good relaxed morning activity to pair with a later-starting temple day, since it doesn't require an early departure." }
+                ],
+                faqs: [
+                    { q: "Is the Cambodian coffee experience worth it in Siem Reap?", a: "Yes for genuine insight into local coffee culture, a lesser-known side of Cambodia compared to neighboring Vietnam's coffee scene." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Cambodian coffee experience worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine insight into Cambodia's lesser-known coffee culture." } }
+                ] },
+            };
+
+        case "is-pottery-class-worth-it-siem-reap":
+            return {
+                title: "Are Pottery Classes Worth It in Siem Reap?",
+                description: "An honest look at the pottery classes in Siem Reap, a hands-on craft activity distinct from the temple circuit.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pottery-classes-in-siem-reap-with-pickup-and-drop-off/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A hands-on pottery class gives a genuine creative break from temple sightseeing, and you leave with something you actually made rather than just a souvenir bought in a shop.", tourCard: { slug: "pottery-classes-in-siem-reap-with-pickup-and-drop", title: "Pottery Classes in Siem Reap with Pickup and Drop-off", description: "A hands-on pottery class in Siem Reap with pickup and drop-off.", price: "From $37", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/pottery-classes-in-siem-reap-with-pickup-and-drop-off/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good rainy-day or midday-heat alternative to outdoor temple sightseeing." }
+                ],
+                faqs: [
+                    { q: "Are pottery classes worth it in Siem Reap?", a: "Yes for a genuine creative break from temple sightseeing, with a handmade piece to take home rather than a shop-bought souvenir." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Are pottery classes worth it in Siem Reap?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a hands-on creative break with a real handmade souvenir." } }
+                ] },
+            };
+
+        case "is-kbal-spean-worth-it-siem-reap":
+            return {
+                title: "Is the Banteay Srei and Kbal Spean Day Trip Worth It from Siem Reap?",
+                description: "An honest look at the combined Banteay Srei and Kbal Spean day trip, pairing intricate carving with a riverbed hike.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/banteay-srei-and-kbal-spean-day-trip/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kbal Spean, the 'River of a Thousand Lingas', involves a genuine jungle hike to see ancient carvings cut directly into the riverbed itself — a more active, outdoor-focused stop than Banteay Srei's intricate but static temple carving, and the two pair naturally in one day.", tourCard: { slug: "banteay-srei-and-kbal-spean-day-trip", title: "Banteay Srei and Kbal Spean Day Trip", description: "A day trip combining Banteay Srei temple and the Kbal Spean riverbed carvings.", price: "From $36", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/banteay-srei-and-kbal-spean-day-trip/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The Kbal Spean hike involves real walking on uneven jungle terrain — wear proper shoes rather than sandals." }
+                ],
+                faqs: [
+                    { q: "Is Kbal Spean worth visiting from Siem Reap?", a: "Yes, it's a genuinely different, more active stop than Banteay Srei's static temple carving, involving a jungle hike to riverbed carvings." },
+                    { q: "Is Kbal Spean a difficult hike?", a: "It involves real walking on uneven jungle terrain, so proper footwear matters, but it's manageable for most fitness levels." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Kbal Spean worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a genuinely different, more active stop involving a jungle hike to riverbed carvings." } }
+                ] },
+            };
+
+        case "is-bodia-tonic-massage-worth-it-siem-reap":
+            return {
+                title: "Is Bodia Tonic Traditional Massage Worth It in Siem Reap?",
+                description: "An honest look at Bodia Tonic's traditional massages in Siem Reap, a relaxation option after a day of temple sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bodia-tonic-traditional-massages/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "After a full day of walking Angkor's temples in the heat, a proper traditional massage is a genuinely welcome, practical way to recover — a relaxation option rather than a sightseeing activity.", tourCard: { slug: "bodia-tonic-traditional-massages", title: "Bodia Tonic - Traditional Massages", description: "A traditional massage session at Bodia Tonic in Siem Reap.", price: "From $46", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/bodia-tonic-traditional-massages/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book this for the evening after a temple-heavy day, when recovery actually matters most." }
+                ],
+                faqs: [
+                    { q: "Is a traditional massage worth it in Siem Reap?", a: "Yes, especially after a full day walking Angkor's temples — a genuinely practical way to recover rather than just a spa indulgence." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is a traditional massage worth it in Siem Reap?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially after a full day of temple walking." } }
+                ] },
+            };
+
         default:
             return null;
     }

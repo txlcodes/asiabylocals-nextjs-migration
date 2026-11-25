@@ -1467,6 +1467,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'is-chong-kneas-sunset-cruise-worth-it-siem-reap', 'is-war-museum-tour-worth-it-siem-reap',
     'is-crocodile-farm-tour-worth-it-siem-reap', 'is-pub-crawl-worth-it-siem-reap',
     'is-rice-liqueur-cocktail-class-worth-it-siem-reap', 'is-killing-cave-bat-cave-tour-worth-it-siem-reap',
+    'is-coffee-experience-worth-it-siem-reap', 'is-pottery-class-worth-it-siem-reap',
+    'is-kbal-spean-worth-it-siem-reap', 'is-bodia-tonic-massage-worth-it-siem-reap',
 ];
 
 export const KRABI_INFO_SLUGS = [

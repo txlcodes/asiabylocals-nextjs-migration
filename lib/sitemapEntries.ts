@@ -1420,6 +1420,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-chong-kneas-sunset-cruise-worth-it-siem-reap', 'is-war-museum-tour-worth-it-siem-reap',
     'is-crocodile-farm-tour-worth-it-siem-reap', 'is-pub-crawl-worth-it-siem-reap',
     'is-rice-liqueur-cocktail-class-worth-it-siem-reap', 'is-killing-cave-bat-cave-tour-worth-it-siem-reap',
+    'is-coffee-experience-worth-it-siem-reap', 'is-pottery-class-worth-it-siem-reap',
+    'is-kbal-spean-worth-it-siem-reap', 'is-bodia-tonic-massage-worth-it-siem-reap',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/siem-reap/${slug}`,
     lastModified: new Date(),
