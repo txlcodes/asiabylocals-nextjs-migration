@@ -45765,8 +45765,6 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "I biglietti d'ingresso ai templi, il pranzo e i biscotti per i cervi non sono inclusi"
   ],
-  "duration": "8 ore",
-  "meetingPoint": "Kyoto (i dettagli vengono confermati con l'operatore al momento della prenotazione)"
  },
  "kyoto-morning-tour": {
   "title": "Mattina presto a Kyoto",
@@ -45787,8 +45785,29 @@ export const IT_TOURS: Record<string, TourT> = {
   "notIncluded": [
    "I biglietti d'ingresso ai templi e gli acquisti di cibo o bevande lungo il percorso non sono inclusi"
   ],
-  "duration": "4 ore",
-  "meetingPoint": "Kyoto (i dettagli vengono confermati con l'operatore al momento della prenotazione)"
+ },
+ "sapporo-ramen-yokocho-ramen-alley-food-tour": {
+  "title": "Tour gastronomico del Ramen Yokocho (Vicolo del Ramen) di Sapporo",
+  "metaTitle": "Ramen Yokocho, Sapporo",
+  "metaDescription": "Segui una guida locale attraverso il famoso vicolo Ramen Yokocho nel quartiere di Susukino a Sapporo, con soste in due ramen-ya affollati e crediti di degustazione inclusi, scoprendo la storia dietro gli stili di ramen tipici dell'Hokkaido.",
+  "shortDescription": "Segui una guida locale attraverso il famoso vicolo Ramen Yokocho nel quartiere di Susukino a Sapporo, con soste in due ramen-ya affollati e crediti di degustazione inclusi, scoprendo la storia dietro gli stili di ramen tipici dell'Hokkaido.",
+  "fullDescription": "Questo tour gastronomico di 2 ore attraversa il leggendario Ramen Yokocho di Sapporo, lo stretto vicolo nel quartiere di Susukino pieno di piccoli ramen-ya, ciascuno con solo pochi posti al bancone. Una guida locale di lingua inglese ti accompagna lungo il vicolo, raccontando la storia e gli stili regionali del ramen dell'Hokkaido, prima di fermarsi in due ramen-ya diversi dove sono inclusi crediti di degustazione.\n\nIl prezzo comprende la guida locale di lingua inglese, i crediti di degustazione in due ramen-ya e la passeggiata guidata nel quartiere di Susukino. Non comprende il ritiro e il rientro in hotel, cibo o bevande oltre ai crediti di degustazione inclusi, e le spese personali.\n\nIl punto d'incontro è nel quartiere di Susukino a Sapporo.",
+  "highlights": [
+   "Cammina lungo il leggendario Ramen Yokocho di Sapporo con una guida locale esperta",
+   "Crediti di degustazione inclusi in due diversi ramen-ya nel quartiere di Susukino",
+   "Scopri la storia e gli stili regionali del ramen dell'Hokkaido",
+   "Formato in piccolo gruppo per un ritmo rilassato e personale"
+  ],
+  "included": [
+   "Guida locale di lingua inglese",
+   "Crediti di degustazione in due ramen-ya",
+   "Passeggiata guidata nel quartiere di Susukino"
+  ],
+  "notIncluded": [
+   "Ritiro e rientro in hotel",
+   "Cibo o bevande oltre ai crediti di degustazione inclusi",
+   "Spese personali"
+  ]
  },
  "kintetsu-nara-station-guided-tour": {
   "title": "Nara in tre siti UNESCO: Kofuku-ji, Todai-ji e Kasuga Taisha",
