@@ -972,6 +972,91 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-crystal-bead-workshop-worth-it-beijing":
+      return {
+        title: "Is the Beijing Crystal Bead Bracelet Workshop Worth It?",
+        description: "An honest look at the crystal bead bracelet-making workshop in Beijing, a quick hands-on craft activity.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e64f2294ebdfeeeac910adc2d3cffebf08e545769e83b801b6656b0ad71a8b92.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a short, low-cost craft activity rather than sightseeing — a quick way to make a handmade souvenir between the city's bigger landmark visits, at a price so low it barely dents a day's budget.",
+            tourCard: { slug: "beijing-crystal-bead-bracelet-workshop", title: "Beijing: Crystal Bead Bracelet Workshop", description: "A hands-on crystal bead bracelet-making workshop in Beijing.", price: "From $3", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e64f2294ebdfeeeac910adc2d3cffebf08e545769e83b801b6656b0ad71a8b92.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Given the very low price and short format, this slots in easily alongside a day of sightseeing rather than needing its own dedicated slot.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Beijing crystal bead workshop worth it?", a: "Yes as a cheap, quick craft activity and handmade souvenir — easy to fit alongside bigger sightseeing plans." },
+        ],
+      };
+
+    case "is-namoc-art-museum-worth-it-beijing":
+      return {
+        title: "Is the National Art Museum of China (NAMOC) Worth It in Beijing?",
+        description: "An honest look at the National Art Museum of China, a genuine alternative to Beijing's history-focused sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e243ee95ff66eb693782e94b4d860becdbb4afe4eb6c16337e73beb5d0a138ef.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "NAMOC is China's national art museum, covering traditional and modern Chinese art under one roof — a good pick for travelers who want a break from the Forbidden City and temple circuit, distinct from the more experimental 798 Art District.",
+            tourCard: { slug: "beijing-art-museum-of-china-namoc-entry-with", title: "Beijing: Art Museum of China (NAMOC) Entry with Audio Guide", description: "Entry to the National Art Museum of China with an audio guide.", price: "From $9", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e243ee95ff66eb693782e94b4d860becdbb4afe4eb6c16337e73beb5d0a138ef.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "NAMOC leans more toward traditional and established Chinese art, while 798 Art District is the better pick for contemporary and experimental work — consider both if you have time for a fuller art-focused day.",
+          },
+        ],
+        faqs: [
+          { q: "Is NAMOC worth visiting in Beijing?", a: "Yes for a break from the history-focused sightseeing circuit, especially if traditional and modern Chinese art interests you." },
+          { q: "Should I visit NAMOC or the 798 Art District?", a: "NAMOC leans traditional and established; 798 Art District is better for contemporary and experimental work — visit both if you have time." },
+        ],
+      };
+
+    case "is-liangma-river-cruise-worth-it-beijing":
+      return {
+        title: "Is the Liangma River Cruise Worth It in Beijing?",
+        description: "An honest look at the Liangma River day or night cruise, a relaxed water-based way to see a different side of Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d6432a0383189f729e380fc3cc93c1286e3f7988ca697a2f574895c9de57f66.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Beijing isn't a city most visitors associate with river cruises, making this a genuinely different, relaxed way to see the city's modern riverside developments — a nice change of pace from walking through imperial palaces and temples.",
+            tourCard: { slug: "beijing-liangma-river-cruise-day-or-night-cruise", title: "Beijing: Liangma River Cruise (Day or Night Cruise)", description: "A day or night cruise along Beijing's Liangma River.", price: "From $16", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d6432a0383189f729e380fc3cc93c1286e3f7988ca697a2f574895c9de57f66.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The night cruise shows off the riverside's modern lighting and developments, while the day version is better for simply seeing the surrounding area clearly — pick based on which atmosphere you want.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Liangma River cruise worth it in Beijing?", a: "Yes for a relaxed, genuinely different way to see the city, away from the usual palace-and-temple circuit." },
+        ],
+      };
+
+    case "is-mao-memorial-hall-worth-it-beijing":
+      return {
+        title: "Is the Chairman Mao Memorial Hall Worth It in Beijing?",
+        description: "An honest look at visiting the Chairman Mao Memorial Hall on Tiananmen Square, a significant modern Chinese history site.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b8b672ab88cc9de98bef0529379d83a3696694da025cc40a368147652169be8.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing Mao Zedong's preserved body is a genuinely significant piece of modern Chinese political history, distinct from the Forbidden City and Temple of Heaven's dynastic-era focus — worth it for travelers specifically interested in 20th-century Chinese history.",
+            tourCard: { slug: "beijing-chairman-mao-memorial-hall-official", title: "Beijing: Chairman Mao Memorial Hall Official Reservation", description: "An official reservation to visit the Chairman Mao Memorial Hall.", price: "From $21", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b8b672ab88cc9de98bef0529379d83a3696694da025cc40a368147652169be8.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a solemn site with strict rules — no photography, no bags, and respectful dress and behavior are enforced, unlike the more relaxed sightseeing pace elsewhere in Tiananmen Square.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chairman Mao Memorial Hall worth visiting?", a: "Yes for travelers interested in modern Chinese political history, though it's a solemn site with strict rules on photography and behavior, unlike typical sightseeing stops." },
+        ],
+      };
+
     default:
       return null;
   }
