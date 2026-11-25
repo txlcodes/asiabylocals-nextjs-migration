@@ -123393,6 +123393,516 @@ export const IT_TOURS: Record<string, TourT> = {
    "trasporto"
   ]
  },
+ "1-hour-atv-adventure-through-beautiful-nature-in-krabi": {
+  "title": "Avventura in ATV di un'ora nella splendida natura di Krabi",
+  "metaTitle": "Avventura in ATV di un'ora nella splendida natura di Krabi",
+  "metaDescription": "Tour di 1,5 ore a Krabi, con giro in ATV e ritiro e riaccompagno in hotel. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 1,5 ore a Krabi, con giro in ATV e ritiro e riaccompagno in hotel. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un'ora sui sentieri dietro Krabi, la versione breve per chi vuole il giro senza rinunciare a mezza giornata.\n\nIl percorso attraversa piantagioni di gomma e palma da olio su piste di argilla rossa, con affioramenti calcarei che si alzano dai campi su entrambi i lati. È una Krabi diversa dalla costa che riempie gli opuscoli: terreno agricolo attivo, a pochi chilometri dall'entroterra, dove il terreno è ondulato invece che piatto.\n\nLe condizioni dei sentieri seguono la stagione. Da novembre ad aprile l'argilla è compatta e veloce. Da maggio in poi la pioggia la rende davvero fangosa, il che per molti è la versione migliore anche se nessuno resta pulito.\n\nNon è richiesta alcuna patente e non si presume nessuna esperienza precedente. C'è un briefing e un breve giro di pratica prima che la guida parta, e il ritmo è fissato dal più lento invece che dal più veloce. Un'ora basta per sentirsi a proprio agio sulla macchina e sentire comunque di aver guidato qualcosa.\n\nIndossa vestiti e scarpe chiuse che non ti dispiace rovinare. Le lenti a contatto e la polvere non si mescolano bene, quindi gli occhiali sono la scelta migliore se li hai entrambi.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il giro in ATV, ritiro e riaccompagno in hotel, una guida professionale di lingua inglese, frutta di stagione, acqua potabile, attrezzatura di sicurezza e assicurazione di viaggio.\n\nNovanta minuti inclusi i trasferimenti, preavviso minimo di un giorno.",
+  "highlights": [
+   "Un'ora sui sentieri dietro Krabi tra piantagioni di gomma e palma da olio",
+   "Nessuna patente o esperienza richiesta, ritmo adattato al gruppo",
+   "Percorso diverso ogni stagione: argilla compatta da novembre ad aprile, più fangosa da maggio"
+  ],
+  "included": [
+   "Giro in ATV",
+   "Ritiro e riaccompagno in hotel",
+   "Guida professionale di lingua inglese",
+   "Frutta di stagione",
+   "Acqua potabile",
+   "Attrezzatura di sicurezza",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": []
+ },
+ "10-line-zipline-adventure-with-80m-double-and-high-zip-in-krabi": {
+  "title": "Avventura zipline a 10 linee con doppia linea da 80 m e linea alta a Krabi",
+  "metaTitle": "Avventura zipline a 10 linee con doppia linea da 80 m a Krabi",
+  "metaDescription": "Tour di 0,5 ore a Krabi, con percorso zipline a 10 tratti e briefing di sicurezza. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 0,5 ore a Krabi, con percorso zipline a 10 tratti e briefing di sicurezza. Gestito da un operatore locale verificato.",
+  "fullDescription": "Dieci linee tra le chiome degli alberi in mezz'ora, inclusa una linea doppia da 80 metri su cui puoi scorrere insieme a qualcun altro.\n\nTrenta minuti sono pochi e il percorso è costruito apposta: dieci linee una dopo l'altra con poco camminamento tra le piattaforme, così il tempo si passa in aria invece che in coda a terra. La doppia da 80 metri è la linea lunga, due cavi affiancati che permettono a due persone di partire insieme dalla piattaforma, trasformando la linea più grande del percorso in qualcosa condiviso invece che vissuto da soli e raccontato dopo.\n\nLa linea alta è l'altra linea nominata ed è esattamente quello che sembra.\n\nLe piattaforme sono costruite nella foresta sul pendio dietro la costa. La chioma è dove avviene la maggior parte del movimento e dei rumori in una foresta tropicale, quindi il percorso ti porta all'altezza che vale davvero la pena vivere, con il calcare e la costa visibili tra gli spazi.\n\nNiente qui richiede forza o esperienza. L'imbracatura ti sostiene, le guide agganciano e sganciano a ogni piattaforma, e il briefing di sicurezza è incluso. Le scarpe chiuse contano più di quanto sembri, perché il terreno tra le piattaforme è terreno forestale irregolare.\n\nTrenta minuti fanno di questo il genere di cosa che prenoti attorno a un'altra attività invece che un'attività per l'intera giornata. Si inserisce comodamente prima o dopo una gita in barca al mattino.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il percorso zipline a dieci tratti, il briefing di sicurezza, frutta e acqua, e l'assicurazione. I trasferimenti non sono elencati, quindi confermi come arrivare quando prenoti.\n\nPreavviso minimo di un giorno.",
+  "highlights": [
+   "Dieci linee zipline in mezz'ora tra la foresta sopra la costa di Krabi",
+   "Linea doppia da 80 metri da percorrere insieme a un'altra persona",
+   "Nessuna esperienza richiesta, imbracatura e guide a ogni piattaforma"
+  ],
+  "included": [
+   "Percorso zipline a 10 tratti",
+   "Briefing di sicurezza",
+   "Frutta e acqua",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Servizi di ritiro e riaccompagno"
+  ]
+ },
+ "4-island-awesomeness-adventure-in-krabi": {
+  "title": "L'avventura delle 4 isole a Krabi",
+  "metaTitle": "L'avventura delle 4 isole a Krabi",
+  "metaDescription": "Mezza giornata a Krabi, con tuk tuk e il sud della Thailandia e la costa delle Andamane. Gestito da un operatore locale verificato.",
+  "shortDescription": "Mezza giornata a Krabi, con tuk tuk e il sud della Thailandia e la costa delle Andamane. Gestito da un operatore locale verificato.",
+  "fullDescription": "Il circuito delle quattro isole gestito come una gita da ostello, il che cambia la compagnia più della rotta.\n\nLe isole sono le stesse che visita ogni barca di Krabi: Poda, Chicken Island con la sua formazione rocciosa, Tup e Mor collegate dal banco di sabbia di Thale Waek con la bassa marea. La differenza è che questa gita parte da Nomads Krabi e Base Ao Nang Beach e si riempie con i loro ospiti, quindi il gruppo è più giovane, solitario e socievole invece che famiglie con il frigo portatile.\n\nThale Waek, il Mare Separato, è la parte che vale la pena cronometrare. Il banco di sabbia emerge quando la marea scende e collega tre isole in una striscia percorribile a piedi, poi scompare quando l'acqua torna. Se puoi percorrerlo a piedi dipende interamente da quando sei lì.\n\nLo snorkeling si fa su corallo poco profondo appena fuori da Chicken Island, vicino alla spiaggia a tal punto che non serve essere un nuotatore esperto per vederlo.\n\nIl prezzo è genuinamente tutto incluso in un modo raro su questa costa: le tasse del parco nazionale sono incluse invece di essere raccolte al molo, e pranzo, acqua per tutto il giorno e una birra sono coperti. La maggior parte delle gite alle isole di Krabi indica un prezzo e poi ti chiede altri 300-400 baht alla biglietteria, quindi conviene confrontare il totale invece del prezzo dichiarato.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende pranzo, tasse del parco nazionale, acqua per tutto il giorno, una birra, assicurazione, e ritiro e riaccompagno a Nomads Krabi o Base Ao Nang Beach.\n\nSei ore, preavviso minimo di un giorno.",
+  "highlights": [
+   "Le classiche 4 isole di Krabi: Poda, Chicken Island, Tup e Mor",
+   "Il banco di sabbia di Thale Waek, percorribile a piedi solo con la bassa marea",
+   "Prezzo tutto incluso: tasse del parco nazionale, pranzo e una birra già nel prezzo"
+  ],
+  "included": [
+   "Pranzo",
+   "Tasse del parco nazionale",
+   "Acqua per tutto il giorno",
+   "1 birra",
+   "Assicurazione",
+   "Ritiro e riaccompagno a Nomads Krabi o Base Ao Nang Beach"
+  ],
+  "notIncluded": [
+   "Bevande extra disponibili a pagamento"
+  ]
+ },
+ "4-islands-caves-sandbars-and-chicken-island-views": {
+  "title": "4 isole, grotte, banchi di sabbia e vista su Chicken Island",
+  "metaTitle": "4 isole, grotte, banchi di sabbia e vista su Chicken Island",
+  "metaDescription": "Giornata intera a Krabi, visitando Phra Nang Cave Beach, Chicken Rock e Ko Thap (Ko Tup). Gestito da un operatore locale verificato.",
+  "shortDescription": "Giornata intera a Krabi, visitando Phra Nang Cave Beach, Chicken Rock e Ko Thap (Ko Tup). Gestito da un operatore locale verificato.",
+  "fullDescription": "Otto ore attraverso le quattro isole con una guida che parla sia inglese che thailandese, e un approccio adatto ai principianti in acqua.\n\nLa durata è ciò che distingue questo tour dal circuito standard. La maggior parte delle gite alle isole di Krabi dura cinque o sei ore e tiene tutti in movimento; a otto ore, le soste durano abbastanza da nuotare per bene, asciugarsi e sedersi.\n\nPhra Nang Cave Beach si trova sotto una scogliera calcarea a sbalzo sulla penisola di Railay, con il santuario a un'estremità dove i pescatori lasciano offerte di legno intagliate a uno spirito che credono li protegga in mare. È ancora in uso, non conservato per i visitatori, cosa che vale la pena sapere prima di fotografarlo.\n\nChicken Rock è la formazione sulla punta di Ko Gai, che da un'angolazione in arrivo sembra una testa di gallina e da ogni altra angolazione una comune guglia calcarea. Ko Thap e il tombolo di Ao Nang sono il banco di sabbia: una striscia che emerge con la bassa marea per collegare le isole in un tratto percorribile a piedi e scompare quando l'acqua torna. Se lo percorri a piedi lo decide la tabella delle maree, non l'operatore.\n\nLo snorkeling qui è pensato per i principianti. La barriera corallina di Krabi è poco profonda e vicina alla riva, quindi diverse soste sono abbastanza basse da potersi stare in piedi, e la guida lavora con chi non ha mai usato una maschera.\n\nUna guida che parla thailandese oltre all'inglese conta più di quanto sembri: l'equipaggio della barca è locale, e chi può parlare sia con loro che con te è chi può cambiare i piani quando lo fa il mare.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende pranzo, acqua potabile, frutta di stagione, ritiro e riaccompagno in hotel, una guida locale di lingua inglese e thailandese, e assistenza per lo snorkeling ai principianti.\n\nOtto ore. Le tasse del parco nazionale si pagano al molo salvo diversa conferma. Preavviso minimo di un giorno.",
+  "highlights": [
+   "Otto ore alle quattro isole, più lunghe del circuito standard per nuotare davvero",
+   "Phra Nang Cave Beach con il santuario dei pescatori ancora in uso",
+   "Guida bilingue inglese e thailandese, snorkeling adatto ai principianti"
+  ],
+  "included": [
+   "Pranzo",
+   "Acqua potabile",
+   "Frutta di stagione",
+   "Ritiro e riaccompagno in hotel",
+   "Guida locale di lingua inglese e thailandese",
+   "Briefing di snorkeling per principianti",
+   "Maschera da snorkeling",
+   "Giubbotto di salvataggio",
+   "Assicurazione base contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Mance",
+   "Medicinali contro il mal di mare"
+  ]
+ },
+ "4-islands-longtail-boat-tour-with-lunch": {
+  "title": "Tour in barca longtail alle 4 isole con pranzo",
+  "metaTitle": "Tour in barca longtail alle 4 isole con pranzo",
+  "metaDescription": "Mezza giornata a Krabi, con ritiro in hotel e tragitto di 25 minuti in barca longtail fino a Poda Island. Gestito da un operatore locale verificato.",
+  "shortDescription": "Mezza giornata a Krabi, con ritiro in hotel e tragitto di 25 minuti in barca longtail fino a Poda Island. Gestito da un operatore locale verificato.",
+  "fullDescription": "La classica giornata alle quattro isole di Krabi su una longtail, con una finestra di ritiro al mattino che dice qualcosa di utile sul tour.\n\nIl ritiro avviene tra le 8:30 e le 9:00 da Krabi Town, Klong Muang, Ao Nam Mao o Ao Nang, il che significa che raggiungi le isole a metà mattina insieme a buona parte della flotta. Questo è lo scambio della versione mattutina: più barche a ogni sosta, ma luce migliore sull'acqua e un intero pomeriggio libero dopo.\n\nIl percorso copre Poda, Chicken Island, Tup e Mor. Thale Waek, il Mare Separato, è il banco di sabbia che collega Tup e Mor con la bassa marea e scompare quando l'acqua torna, quindi se lo percorri a piedi dipende dalla marea del giorno e non dall'operatore. Chicken Island prende il nome dalla roccia sulla sua punta, che sembra una testa di gallina solo da un'angolazione in arrivo.\n\nLa longtail è la barca più lenta e qui è una scelta deliberata. Il suo pescaggio basso raggiunge acque dove i motoscafi devono ancorarsi lontano, e il ritmo fa della costa tra una sosta e l'altra parte del viaggio invece di qualcosa che attraversi rapidamente.\n\nIl pranzo è incluso e si mangia su una delle isole.\n\nIl ritiro da Klong Muang e Ao Nam Mao conta se alloggi fuori da Ao Nang: molte gite alle isole di Krabi raccolgono solo dagli hotel di Ao Nang e lasciano tutti gli altri ad arrangiarsi per raggiungere il molo.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Le tasse del parco nazionale si pagano al molo salvo diversa conferma, quindi porta contanti.\n\nSei ore, preavviso minimo di un giorno.",
+  "highlights": [
+   "Ritiro mattutino da Krabi Town, Klong Muang, Ao Nam Mao o Ao Nang",
+   "Le classiche 4 isole su una barca longtail tradizionale",
+   "Pranzo incluso su una delle isole"
+  ],
+  "included": [
+   "Ritiro in hotel a Krabi Town, Klong Muang, Ao Nam Mao e Ao Nang",
+   "Tragitto di 25 minuti in barca longtail fino a Poda Island",
+   "Sosta a Poda Island per nuotare e rilassarsi sulla spiaggia",
+   "Sosta a Chicken Island per nuotare e fare snorkeling",
+   "Visita al banco di sabbia del Mare Separato",
+   "Alle 13:30 circa, visita a Railay Bay per ammirare Phra Nang Cave e pranzo",
+   "Alle 14:30 circa, ritorno al molo"
+  ],
+  "notIncluded": []
+ },
+ "4-islands-snorkeling-tour-by-speedboat-with-lunch": {
+  "title": "Tour di snorkeling alle 4 isole in motoscafo con pranzo",
+  "metaTitle": "Tour di snorkeling alle 4 isole in motoscafo con pranzo",
+  "metaDescription": "Mezza giornata a Krabi, con ritiro e riaccompagno in hotel e guida professionale. Gestito da un operatore locale verificato.",
+  "shortDescription": "Mezza giornata a Krabi, con ritiro e riaccompagno in hotel e guida professionale. Gestito da un operatore locale verificato.",
+  "fullDescription": "Le quattro isole in motoscafo, che ti compra tempo a ogni sosta invece che tempo sull'acqua.\n\nUna longtail impiega quasi tutta la giornata per fare lo stesso circuito. Un motoscafo copre la distanza tra le isole in una frazione di quel tempo, e le ore guadagnate si trasformano in tempo sulle spiagge invece che in viaggio verso di esse. Sei ore su un motoscafo coprono quello che una longtail impiega otto o nove ore a fare.\n\nIl percorso è Poda, Chicken Island, Tup e Mor. Thale Waek, il Mare Separato, è il banco di sabbia che emerge quando la marea scende e collega le isole in una striscia percorribile a piedi, poi scompare quando l'acqua torna. Se lo percorri a piedi dipende dalla marea di quel giorno, non dall'operatore.\n\nLo snorkeling si fa su corallo poco profondo vicino alle spiagge. La barriera corallina di Krabi è clemente: non serve nuotare al largo o andare in profondità per vederla, e diverse soste sono abbastanza basse da potersi stare in piedi.\n\nUn pranzo a buffet e incluso, insieme a frutta di stagione durante il giorno.\n\nUna nota onesta sui motoscafi: sono veloci e sbattono. Su acqua calma non è niente; con qualsiasi moto ondoso il viaggio è duro per la schiena e per chiunque sia soggetto al mal di mare. Se è un problema, una longtail o un catamarano sullo stesso percorso sono la giornata più dolce.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel, una guida professionale, pranzo a buffet, attrezzatura da snorkeling e frutta di stagione.\n\nSei ore. Le tasse del parco nazionale si pagano al molo salvo diversa conferma. Preavviso minimo di un giorno.",
+  "highlights": [
+   "Le 4 isole in motoscafo in sole sei ore invece di otto o nove",
+   "Snorkeling su corallo poco profondo adatto a tutti i livelli",
+   "Pranzo a buffet e frutta di stagione incluse"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Guida professionale",
+   "Pranzo a buffet",
+   "Attrezzatura da snorkeling",
+   "Frutta di stagione",
+   "Acqua potabile",
+   "Assicurazione di viaggio",
+   "Giubbotti di salvataggio"
+  ],
+  "notIncluded": [
+   "Tasse di ingresso al parco nazionale"
+  ]
+ },
+ "4-islands-sunset-longtail-boat-tour-with-bbq-dinner": {
+  "title": "Tour in barca longtail al tramonto alle 4 isole con cena barbecue",
+  "metaTitle": "Tour in barca longtail al tramonto alle 4 isole con cena barbecue",
+  "metaDescription": "Mezza giornata a Krabi, con ritiro e riaccompagno in hotel (a seconda dell'opzione scelta) e cena. Gestito da un operatore locale verificato.",
+  "shortDescription": "Mezza giornata a Krabi, con ritiro e riaccompagno in hotel (a seconda dell'opzione scelta) e cena. Gestito da un operatore locale verificato.",
+  "fullDescription": "Le quattro isole nella seconda metà della giornata, con un barbecue a chiudere mentre la luce svanisce.\n\nLe barche del mattino partono tutte da Ao Nang nella stessa ora e raggiungono ogni spiaggia insieme. Partire a mezzogiorno significa arrivare alle ultime soste mentre la flotta torna verso casa, quindi le ultime due isole di questo tour sono più tranquille di quanto fossero quattro ore prima.\n\nIl percorso è Poda, Chicken Island, Tup e Mor. Thale Waek, il Mare Separato, è il banco di sabbia che collega Tup e Mor quando la marea scende e scompare quando torna, quindi un tour del pomeriggio con marea calante cammina su sabbia che le barche del mattino hanno attraversato in acqua.\n\nLo snorkeling si fa su corallo poco profondo vicino alle spiagge, abbastanza clemente da non richiedere di essere un nuotatore esperto.\n\nIl tramonto si guarda dall'acqua con i picchi calcarei di Ao Nang di fronte. Il calcare trattiene il colore molto dopo che il sole è tramontato, quindi la luce dura più di quanto l'orologio suggerisca.\n\nLa cena è un barbecue invece di un pasto in scatola.\n\nUna cosa da verificare al momento della prenotazione: il ritiro in hotel dipende dall'opzione scelta. Conferma che sia incluso nella tua, o calcola come raggiungere il molo, perché i moli di Ao Nang e Krabi Town sono a venti minuti l'uno dall'altro.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende cena, frutta, acqua potabile, attrezzatura da snorkeling e giubbotti di salvataggio, con ritiro e riaccompagno in hotel a seconda dell'opzione scelta.\n\nSei ore. Le tasse del parco nazionale si pagano al molo salvo diversa conferma. Preavviso minimo di un giorno.",
+  "highlights": [
+   "Le 4 isole nel pomeriggio, con le ultime soste più tranquille rispetto al mattino",
+   "Tramonto dall'acqua sui picchi calcarei di Ao Nang",
+   "Cena barbecue invece del solito pasto in scatola"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (a seconda dell'opzione scelta)",
+   "Cena",
+   "Frutta",
+   "Acqua potabile",
+   "Attrezzatura da snorkeling",
+   "Giubbotti di salvataggio",
+   "Guida autorizzata",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Tassa di ingresso al parco nazionale (200 THB per adulto, 100 THB per bambino dai 3 ai 10 anni)",
+   "Bevande alcoliche",
+   "Pranzo"
+  ]
+ },
+ "5-islands-swimming-and-snorkeling-adventure-in-krabi": {
+  "title": "Avventura di nuoto e snorkeling alle 5 isole di Krabi",
+  "metaTitle": "Avventura di nuoto e snorkeling alle 5 isole di Krabi",
+  "metaDescription": "Giornata intera a Krabi, con ritiro e riaccompagno in hotel ad Ao Nang e trasporto in barca longtail. Gestito da un operatore locale verificato.",
+  "shortDescription": "Giornata intera a Krabi, con ritiro e riaccompagno in hotel ad Ao Nang e trasporto in barca longtail. Gestito da un operatore locale verificato.",
+  "fullDescription": "Cinque isole in sette ore su una longtail, con l'equilibrio spostato verso stare in acqua invece che guardarla.\n\nIl tour standard di Krabi è quattro isole e molto spostamento tra una e l'altra. Aggiungere una quinta isola e allungare a sette ore cambia l'equilibrio: le soste diventano abbastanza lunghe per nuotare davvero, e lo snorkeling è trattato come il punto centrale invece che una casella da spuntare in quindici minuti.\n\nLa barriera corallina di Krabi e poco profonda e vicina alle isole, cosa insolitamente clemente. Non serve essere un nuotatore forte né andare oltre la propria profondità per vedere corallo e pesci di barriera; in diversi punti ci si può stare in piedi. Quali soste valga la pena usare in giornata dipende dalla marea e da quanto il vento ha mosso l'acqua, quindi è la guida a scegliere invece di seguire una lista fissa.\n\nLa longtail è la barca lenta e qui è quella giusta. Il suo pescaggio basso raggiunge acque da cui i motoscafi devono ancorarsi ben lontani, quindi vieni lasciato più vicino alla barriera di quanto potrebbe fare una barca più veloce.\n\nSette ore sotto il sole aperto su una barca aperta è ciò per cui pianificare. C'è una tettoia ma i lati sono aperti, e il riflesso dell'acqua brucia chi pensava di essere all'ombra. Una maglia con cui puoi nuotare batte una crema solare che devi continuare a rimettere.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel ad Ao Nang, la longtail, una guida locale professionale, attrezzatura da snorkeling e un giubbotto di salvataggio.\n\nLe tasse del parco nazionale si pagano al molo salvo diversa conferma, quindi porta contanti. Preavviso minimo di un giorno.",
+  "highlights": [
+   "Cinque isole in sette ore, più lunghe del circuito standard per nuotare davvero",
+   "Barriera corallina poco profonda adatta anche a chi non e un nuotatore esperto",
+   "Barca longtail con pescaggio basso, più vicina alla barriera rispetto a un motoscafo"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel ad Ao Nang",
+   "Trasporto in barca longtail",
+   "Guida locale professionale",
+   "Attrezzatura da snorkeling",
+   "Giubbotto di salvataggio",
+   "Acqua potabile",
+   "Pranzo a buffet",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Tassa di ingresso al parco nazionale",
+   "Spese personali",
+   "Assicurazione di viaggio personale",
+   "Ritiro in hotel fuori dalla zona specificata"
+  ]
+ },
+ "7-island-sunset-and-plankton-tour-with-lunch-in-krabi": {
+  "title": "Tour al tramonto e plancton alle 7 isole con pranzo a Krabi",
+  "metaTitle": "Tour al tramonto e plancton alle 7 isole con pranzo a Krabi",
+  "metaDescription": "Giornata intera a Krabi, con pranzo e acqua potabile. Gestito da un operatore locale verificato.",
+  "shortDescription": "Giornata intera a Krabi, con pranzo e acqua potabile. Gestito da un operatore locale verificato.",
+  "fullDescription": "Otto ore sul percorso delle sette isole da metà giornata fino a dopo il buio, così vivi entrambe le metà.\n\nLa versione più lunga parte presto abbastanza da includere il pranzo e finisce tardi abbastanza da chiudere con il plancton, il che significa che vedi le isole affollate e poi le vedi vuote. Quel contrasto è l'argomento a favore del tour di otto ore rispetto alle versioni serali più brevi: le stesse spiagge si comportano in modo completamente diverso una volta che la flotta giornaliera se ne va.\n\nLe soste per lo snorkeling si scelgono il giorno stesso. La barriera corallina di Krabi è poco profonda e vicina alle isole, e quale sosta valga la pena usare dipende dalla marea e da quanto il vento ha mosso l'acqua, quindi una lista fissa sarebbe pura finzione. Sceglie la guida.\n\nIl tramonto si guarda dalla barca. Il calcare trattiene bene il colore dopo che il sole è tramontato, motivo per cui qui la luce dura più di quanto l'orologio suggerisca.\n\nIl bagno nel plancton chiude il tour. I dinoflagellati si illuminano quando disturbati, quindi la luce appare attorno alle mani e ai piedi mentre ti muovi. Dipende davvero dalla notte: cieli scuri vicino alla luna nuova danno lo spettacolo migliore, la luna piena lo appiattisce, e l'acqua agitata lo disperde. Trattalo come il probabile momento forte invece che una garanzia.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende pranzo, acqua potabile, frutta, trasferimento in hotel, guida turistica, assicurazione, maschera da snorkeling e giubbotto di salvataggio.\n\nOtto ore, porta un asciugamano e vestiti asciutti per il viaggio di ritorno. Preavviso minimo di un giorno.",
+  "highlights": [
+   "Otto ore sulle 7 isole, dal giorno fino a dopo il tramonto",
+   "Tramonto dalla barca con il calcare che trattiene il colore a lungo",
+   "Bagno serale nel plancton bioluminescente, variabile secondo la fase lunare"
+  ],
+  "included": [
+   "Pranzo",
+   "Acqua potabile",
+   "Frutta",
+   "Trasferimento in hotel",
+   "Guida turistica",
+   "Assicurazione",
+   "Maschera da snorkeling",
+   "Giubbotto di salvataggio"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale 200 THB a persona (pagabile durante il tour)"
+  ]
+ },
+ "7-islands-sunset-and-plankton-swim-with-bbq-dinner-in-krabi": {
+  "title": "Tramonto e bagno nel plancton alle 7 isole con cena barbecue a Krabi",
+  "metaTitle": "Tramonto e bagno nel plancton alle 7 isole con cena barbecue a Krabi",
+  "metaDescription": "Giornata intera a Krabi, con trasferimento di andata e ritorno da Krabi Town o Ao Nang e cena barbecue, acqua potabile, frutta. Gestito da un operatore locale verificato.",
+  "shortDescription": "Giornata intera a Krabi, con trasferimento di andata e ritorno da Krabi Town o Ao Nang e cena barbecue, acqua potabile, frutta. Gestito da un operatore locale verificato.",
+  "fullDescription": "Il percorso delle sette isole gestito come un tour serale, con la cena cucinata in barca e un bagno nel plancton a chiudere.\n\nLe isole al largo di Ao Nang sono affollate dalla metà della mattina al pomeriggio e poi si svuotano quasi completamente. Partire nel pomeriggio significa arrivare alle ultime soste dopo che la flotta giornaliera è tornata verso casa, quindi le spiagge che vedi nelle ultime due ore non sono le stesse spiagge viste dalle barche del mattino.\n\nLo snorkeling avviene mentre c'è luce, su una barriera poco profonda scelta dalla guida in base all'acqua del giorno. Il tramonto si guarda dalla barca tra le isole, e la cena barbecue viene servita dopo il buio.\n\nIl bagno nel plancton è l'ultima sosta. La luce arriva dai dinoflagellati che si illuminano quando l'acqua attorno a loro si muove, quindi appare come scintille attorno alle mani e ai piedi invece che un bagliore sulla superficie. Non è garantito ogni notte. Un cielo scuro vicino alla luna nuova dà lo spettacolo più intenso, una luna piena lo cancella quasi del tutto, e l'acqua agitata lo disperde. Chiedi della fase lunare prima di fissare una data se questa è la parte che ti interessa di più.\n\nSette ore dal ritiro al riaccompagno, aspettati quindi una serata piena.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende trasferimento di andata e ritorno da Krabi Town o Ao Nang, cena barbecue con acqua potabile e frutta, giubbotto di salvataggio, maschera da snorkeling, guida turistica, kit di primo soccorso e assicurazione contro gli infortuni.\n\nPorta un asciugamano, vestiti asciutti e qualcosa di caldo per il viaggio di ritorno. Preavviso minimo di un giorno.",
+  "highlights": [
+   "Le 7 isole nel pomeriggio e sera, con le spiagge vuote dopo che la flotta giornaliera se ne va",
+   "Cena barbecue servita in barca dopo il tramonto",
+   "Bagno serale nel plancton bioluminescente, variabile secondo la luna"
+  ],
+  "included": [
+   "Trasferimento di andata e ritorno da Krabi Town o Ao Nang",
+   "Cena barbecue, acqua potabile, frutta",
+   "Giubbotto di salvataggio, maschera da snorkeling",
+   "Guida turistica",
+   "Kit di primo soccorso",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale (200 THB per adulto e 100 THB per bambino)"
+  ]
+ },
+ "7-islands-sunset-tour-with-dinner-and-snorkeling-in-krabi": {
+  "title": "Tour al tramonto alle 7 isole con cena e snorkeling a Krabi",
+  "metaTitle": "Tour al tramonto alle 7 isole con cena e snorkeling a Krabi",
+  "metaDescription": "Giornata intera a Krabi, inclusi ritiro e riaccompagno in hotel (zone selezionate). Gestito da un operatore locale verificato.",
+  "shortDescription": "Giornata intera a Krabi, inclusi ritiro e riaccompagno in hotel (zone selezionate). Gestito da un operatore locale verificato.",
+  "fullDescription": "Il circuito delle isole di Krabi all'incontrario, così sei in acqua nella parte della giornata che tutti gli altri si perdono.\n\nLa maggior parte delle barche parte da Ao Nang al mattino, raggiunge le stesse spiagge nello stesso momento di altre venti barche, ed è di ritorno nel primo pomeriggio. Questa parte più tardi e attraversa le isole mentre la folla si assottiglia. Quando raggiungi le ultime soste, la flotta giornaliera se n'e andata e la luce è cambiata, il che è l'intero motivo per prenotare la versione del pomeriggio.\n\nIl percorso copre sette isole al largo della costa di Krabi con snorkeling dove l'acqua è limpida e la barriera è abbastanza poco profonda da valerne la pena. Il tramonto si guarda dalla barca, e segue la cena. Se le condizioni sono giuste, il tour finisce con plancton bioluminescente, che si illumina attorno alle mani e ai piedi quando l'acqua viene disturbata. Quella parte dipende dalla luna: notti scure vicino alla luna nuova danno lo spettacolo più intenso e una luna piena lo cancella del tutto, quindi trattalo come un bonus invece che il motivo per cui hai prenotato.\n\nUn motoscafo copre sette soste in sette ore comodamente. È un pomeriggio e una serata lunghi invece che rilassati.\n\nIl prezzo comprende ritiro e riaccompagno in hotel nelle zone selezionate, trasferimento di andata e ritorno in motoscafo, una guida professionale di lingua inglese, giubbotto di salvataggio, attrezzatura da snorkeling, acqua potabile e frutta di stagione. Il tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva.\n\nSette ore, preavviso minimo di un giorno. Porta un asciugamano e vestiti asciutti.",
+  "highlights": [
+   "Il circuito delle isole di Krabi al contrario, con le ultime soste tranquille dopo la flotta giornaliera",
+   "Cena al tramonto sulla spiaggia di Poda Island",
+   "Possibile bagno finale nel plancton bioluminescente, secondo la fase lunare"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (zone selezionate)",
+   "Trasferimento di andata e ritorno in motoscafo",
+   "Guida professionale di lingua inglese",
+   "Giubbotto di salvataggio",
+   "Attrezzatura da snorkeling",
+   "Acqua potabile",
+   "Frutta di stagione fresca",
+   "Cena al tramonto sulla spiaggia di Poda Island",
+   "Assicurazione contro gli infortuni",
+   "Visita a Railay Bay e Phra Nang Cave Beach",
+   "Visita a Chicken Island, Tup Island e Poda Island"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale"
+  ]
+ },
+ "7-islands-sunset-tour-with-premium-longtail-boat-in-krabi": {
+  "title": "Tour al tramonto alle 7 isole con longtail premium a Krabi",
+  "metaTitle": "Tour al tramonto alle 7 isole con longtail premium a Krabi",
+  "metaDescription": "Giornata intera a Krabi, con guida di lingua inglese/thailandese e barca. Gestito da un operatore locale verificato.",
+  "shortDescription": "Giornata intera a Krabi, con guida di lingua inglese/thailandese e barca. Gestito da un operatore locale verificato.",
+  "fullDescription": "Sette isole in un pomeriggio e una serata su una longtail allestita per la lunghezza della giornata.\n\nOtto ore su una longtail standard sono tante su una panca dura. La versione premium è lo stesso tipo di barca ma con sedili, ombra e spazio risolti, il che su questo tour è gran parte di quello che paghi.\n\nLa partenza nel pomeriggio inverte la solita giornata a Krabi. Le barche del mattino raggiungono tutte le stesse spiagge nella stessa ora; partire più tardi significa arrivare alle ultime soste mentre la flotta torna verso casa, quindi le ultime isole di questo tour sono più tranquille delle stesse isole a mezzogiorno.\n\nLo snorkeling avviene mentre c'è luce, su una barriera poco profonda scelta dalla guida secondo la marea e la limpidezza dell'acqua. Il tramonto si guarda dall'acqua, e il calcare di Krabi trattiene il colore a lungo dopo che il sole è tramontato.\n\nLa guida lavora in inglese e thailandese. Conta più di quanto sembri su una barca: l'equipaggio è locale, e chi può parlare sia con loro che con te è chi può cambiare il piano quando lo fa il mare.\n\nVerifica una cosa al momento della prenotazione: i trasferimenti in hotel sono indicati come dipendenti dall'opzione selezionata. Conferma che la tua li includa, o calcola come raggiungere il molo.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende la guida di lingua inglese e thailandese, la barca, maschera da snorkeling e giubbotto di salvataggio, con trasferimenti di andata e ritorno in hotel se la tua opzione li include.\n\nOtto ore. Le tasse del parco nazionale si pagano al molo salvo diversa conferma. Preavviso minimo di un giorno.",
+  "highlights": [
+   "Longtail premium con sedili e ombra, pensata per una giornata intera",
+   "Guida bilingue inglese e thailandese",
+   "Tramonto dall'acqua con il calcare di Krabi"
+  ],
+  "included": [
+   "Guida di lingua inglese/thailandese",
+   "Barca",
+   "Trasferimenti di andata e ritorno in hotel (se l'opzione e selezionata)",
+   "Maschera da snorkeling",
+   "Giubbotto di salvataggio",
+   "Acqua potabile",
+   "Frutta di stagione",
+   "Cena a buffet, menu normale e vegetariano",
+   "Tassa del parco nazionale (se l'opzione e selezionata)"
+  ],
+  "notIncluded": [
+   "Altre spese",
+   "Mance"
+  ]
+ },
+ "alcazar-theatre-pattaya-second-road-evening-tour": {
+  "title": "Pattaya: biglietto per lo spettacolo serale del cabaret Alcazar",
+  "metaTitle": "Pattaya: biglietto per il cabaret Alcazar in serata",
+  "metaDescription": "Posto riservato al leggendario cabaret Alcazar di Pattaya: 75 minuti di costumi scintillanti, scenografie sontuose ed esibizioni di livello mondiale di artisti transgender.",
+  "shortDescription": "Posto riservato al leggendario cabaret Alcazar di Pattaya: 75 minuti di costumi scintillanti, scenografie sontuose e numeri di classe mondiale interpretati da artisti transgender.",
+  "fullDescription": "Da più di quattro decenni, il cabaret Alcazar e una delle serate che definiscono Pattaya: uno spettacolo teatrale su vasta scala che gli ha fatto guadagnare la reputazione di una delle migliori produzioni di cabaret in Asia. Allestito in un teatro costruito apposta sulla Second Road di Pattaya, lo spettacolo riempie 75 minuti con un turbinio di numeri musicali eseguiti da un vasto cast di talentuosi artisti transgender, sostenuti da scenografie sontuose, luci spettacolari e costumi che rasentano l'architettura.\n\nLa produzione salta da una cultura e un'epoca all'altra di atto in atto: la danza thailandese classica cede il posto al K-pop, a numeri di Bollywood, all'opera cinese, a sketch comici pungenti e a grandi finali in stile Las Vegas, così l'energia non si ferma mai per molto. L'allestimento e davvero di alto livello, con scenografie idrauliche, effetti a cascata e pirotecnica in vari numeri, e la coreografia e curata con una precisione professionale che sorprende chi visita per la prima volta aspettandosi un semplice spettacolo turistico.\n\nQuesto biglietto riserva il tuo posto per una delle rappresentazioni serali, che si susseguono più volte a notte. È adatto a tutte le età e funziona perfettamente come punto fermo di una serata a Pattaya: arrivi per lo spettacolo, e quando cala il sipario i ristoranti e la vita notturna della città sono proprio alla porta.",
+  "highlights": [
+   "Una delle produzioni di cabaret più note dell'Asia, in scena da oltre 40 anni",
+   "Vasto cast di artisti transgender di livello mondiale",
+   "Scenografie idrauliche, effetti a cascata e pirotecnica",
+   "75 minuti adatti a tutte le età, più volte a notte"
+  ],
+  "included": [
+   "Biglietto d'ingresso allo spettacolo del cabaret Alcazar",
+   "Posto riservato per l'orario scelto"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel",
+   "Cibo e bevande",
+   "Foto con gli artisti dopo lo spettacolo (a pagamento, facoltativo)",
+   "Mance"
+  ]
+ },
+ "ao-nang-beach-guided-tour": {
+  "title": "Island hopping in longtail da Ao Nang con sosta a Hong Island",
+  "metaTitle": "Island hopping in longtail da Ao Nang con sosta a Hong Island",
+  "metaDescription": "Naviga su una longtail tradizionale da Ao Nang per fare snorkeling a Daeng Island, rilassarti sulle spiagge di Hong Island, navigare nella laguna e salire a un punto panoramico.",
+  "shortDescription": "Naviga su una longtail tradizionale da Ao Nang per fare snorkeling a Daeng Island, rilassarti sulle spiagge di Hong Island, navigare nella laguna e salire a un punto panoramico.",
+  "fullDescription": "C'è un piacere particolare nel fare island hopping in longtail invece che in motoscafo. Lo scafo in legno sta basso, il motore borbotta invece di rombare, e le torri calcaree scorrono abbastanza lentamente da poterle davvero guardare. Questo percorso di metà giornata da Ao Nang copre il meglio dell'arcipelago di Hong senza fretta.\n\nLa prima sosta è Daeng Island, dove la barriera corallina si avvicina alla superficie e lo snorkeling è costantemente buono: teste di corallo duro, pesci sergente, pappagalli e, se la visibilità collabora, piccoli squali di barriera nelle acque più profonde. Da lì la barca prosegue verso Hong Island, la cui spiaggia è una delle più bianche della provincia e la cui laguna interna si raggiunge attraverso una fenditura nella roccia che si apre solo mentre ti avvicini.\n\nUna breve salita porta al punto panoramico di Hong, dove tutto l'arcipelago si apre sotto di te e la classica fotografia di Krabi si fa da sola. Attrezzatura da snorkeling, guida e rinfreschi fanno tutti parte del tour, e il ritmo resta decisamente sul lato rilassato.",
+  "highlights": [
+   "Island hopping tradizionale in longtail, più lento e panoramico di un motoscafo",
+   "Snorkeling a Daeng Island con corallo duro e possibili piccoli squali di barriera",
+   "Laguna interna di Hong Island, raggiungibile solo attraverso una fenditura nella roccia"
+  ],
+  "included": [
+   "Barca longtail con capitano",
+   "Guida di lingua inglese",
+   "Maschera da snorkeling e giubbotto di salvataggio",
+   "Frutta fresca e acqua potabile",
+   "Ritiro in hotel nell'area di Ao Nang",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa di ingresso al parco nazionale",
+   "Pranzo",
+   "Asciugamano",
+   "Bevande alcoliche",
+   "Mance per guida ed equipaggio"
+  ]
+ },
+ "ao-nang-cooking-food-tour": {
+  "title": "Corso di cucina thailandese pratico in una cucina all'aperto ad Ao Nang",
+  "metaTitle": "Corso di cucina thailandese in una cucina all'aperto ad Ao Nang",
+  "metaDescription": "Cucina quattro piatti thailandesi classici da zero con uno chef locale in una cucina all'aperto, iniziando al mercato e finendo con il pasto che hai preparato.",
+  "shortDescription": "Cucina quattro piatti thailandesi classici da zero con uno chef locale in una cucina all'aperto, iniziando al mercato e finendo con il pasto che hai preparato.",
+  "fullDescription": "La cucina thailandese ha senso una volta che qualcuno te ne mostra la logica: l'equilibrio tra piccante, acido, salato e dolce, e perché l'ordine in cui aggiungi gli ingredienti nel wok cambia tutto. È questo che il corso insegna davvero, usando quattro piatti come veicolo.\n\nInizia in un mercato locale dove lo chef ti guida tra gli ingredienti che confondono la maggior parte dei visitatori: galanga contro zenzero, i quattro tipi di basilico, zucchero di palma, pasta di gamberetti, e i peperoncini da trattare con rispetto. Poi si torna in una cucina all'aperto dove ognuno ha la propria postazione, wok e fornello. Pesti la tua pasta di curry in un mortaio di granito, lavoro più faticoso ma con un sapore molto migliore di qualsiasi cosa esca da un vasetto, poi cucini un curry, un soffritto, una zuppa e un dolce.\n\nLa parte migliore è che mangi quello che prepari, sedendoti insieme alla fine con tutto quello che hai cucinato steso sul tavolo. Te ne vai con un libretto di ricette e, più utilmente, con la tecnica nelle mani.",
+  "highlights": [
+   "Visita guidata al mercato per imparare gli ingredienti chiave della cucina thailandese",
+   "Pasta di curry pestata a mano in un mortaio di granito",
+   "Quattro piatti cucinati e mangiati insieme a fine corso",
+   "Libretto di ricette da portare a casa"
+  ],
+  "included": [
+   "Visita guidata al mercato",
+   "Tutti gli ingredienti e l'attrezzatura di cucina",
+   "Chef istruttore di lingua inglese",
+   "Grembiule e postazione di cucina personale",
+   "Libretto di ricette da portare a casa",
+   "Acqua, tè e bibite",
+   "Ritiro in hotel nell'area di Ao Nang"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Acquisti extra al mercato",
+   "Mance",
+   "Ritiro in hotel fuori da Ao Nang"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-guided-tour": {
+  "title": "Santuario degli elefanti di Ao Nang: nutri e cucina per le mandrie salvate",
+  "metaTitle": "Santuario degli elefanti di Ao Nang: nutri le mandrie salvate",
+  "metaDescription": "Prepara il cibo, nutri a mano e passa del tempo senza fretta con elefanti salvati in un santuario etico ad Ao Nang, dove non ci sono mai cavalcate né spettacoli in programma.",
+  "shortDescription": "Prepara il cibo, nutri a mano e passa del tempo senza fretta con elefanti salvati in un santuario etico ad Ao Nang, dove non ci sono mai cavalcate né spettacoli in programma.",
+  "fullDescription": "Ogni elefante qui arriva da qualcosa di più duro: campi di disboscamento, aziende di trekking, accattonaggio di strada nelle città turistiche. Il santuario li compra o li accoglie e li lascia vivere come fanno gli elefanti, il che significa niente cavalcate, niente catene durante il giorno e nessun trucco da circo. La tua visita finanzia la bolletta del cibo, che è considerevole.\n\nLa sessione si apre nella cucina all'aperto dove aiuti a preparare gli integratori della mandria, schiacciando banane, riso e tamarindo in palline grandi come un pugno sotto la guida dei custodi. Sembra semplice; è anche il momento in cui la visita smette di essere un'osservazione e diventa partecipazione. Poi camminate fino alla piattaforma di alimentazione per darglieli, insieme a canna da zucchero e ananas, mentre un custode presenta ogni animale per nome e racconta da dove viene.\n\nIl resto del tempo si passa semplicemente stando vicino a loro mentre pascolano. Le guide spiegano la gerarchia della mandria e quanto costa davvero una cura etica. Breve, onesto e genuinamente toccante.",
+  "highlights": [
+   "Nessuna cavalcata, nessuna catena durante il giorno, nessun trucco da circo",
+   "Prepari tu stesso il cibo per gli elefanti sotto la guida dei custodi",
+   "Ogni elefante presentato per nome con la sua storia di provenienza"
+  ],
+  "included": [
+   "Ingresso al santuario e tassa di conservazione",
+   "Guida custode di lingua inglese",
+   "Cibo e ingredienti per cucinare per gli elefanti",
+   "Acqua potabile",
+   "Trasferimento in hotel dal centro di Ao Nang",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Pasti per gli ospiti",
+   "Foto professionali",
+   "Donazioni al santuario",
+   "Mance"
+  ]
+ },
+ "ao-nang-elephant-sanctuary-tour": {
+  "title": "Tour al santuario degli elefanti di Ao Nang",
+  "metaTitle": "Tour al santuario degli elefanti di Ao Nang",
+  "metaDescription": "Tour di 1,5 ore a Krabi, con guida turistica e snack, frutta di stagione e succo. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 1,5 ore a Krabi, con guida turistica e snack, frutta di stagione e succo. Gestito da un operatore locale verificato.",
+  "fullDescription": "Novanta minuti a nutrire elefanti in un santuario raggiunto in barca dal molo di Ao Nam Mao.\n\nIl trasferimento è parte di ciò che rende speciale l'esperienza. Il santuario si trova lontano dalla strada principale di Ao Nang, e la traversata da Ao Nam Mao è ciò che lo mantiene nella quiete invece che accanto alla strada turistica.\n\nPrepari tu il cibo e lo dai di persona. Il mangime degli elefanti qui è banane, canna da zucchero e palline di riso e tamarindo fatte a mano, e un elefante asiatico adulto consuma circa 150 chilogrammi di materia vegetale al giorno, il che riordina il senso di cosa significhi averne cura. Il resto del tempo si passa vicino agli animali mentre fanno le normali cose da elefante.\n\nNiente cavalcate, nessuna catena durante il programma, nessuna esibizione. Gli elefanti qui provengono da lavori di disboscamento e trekking, e i custodi che se ne occupano ogni giorno conducono la sessione.\n\nNovanta minuti sono una durata comoda per questo. Resti asciutto, non serve un cambio di vestiti, e funziona con i bambini che perderebbero interesse in un programma di metà giornata.\n\nSnack, frutta di stagione, succo, caffè, tè e acqua potabile sono serviti, e il cibo per gli elefanti è fornito, quindi non c'è nulla da acquistare sul posto.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende una guida turistica, tutti i rinfreschi, il cibo per nutrire gli elefanti e il trasferimento di andata e ritorno al molo di Ao Nam Mao.\n\nPreavviso minimo di un giorno.",
+  "highlights": [
+   "Novanta minuti con gli elefanti, raggiunti in barca da Ao Nam Mao",
+   "Prepari e distribuisci tu stesso il cibo per gli elefanti",
+   "Nessuna cavalcata, nessuna catena, nessuna esibizione"
+  ],
+  "included": [
+   "Guida turistica",
+   "Snack, frutta di stagione e succo",
+   "Acqua potabile, caffè e tè",
+   "Cibo per nutrire gli elefanti",
+   "Trasferimento di andata e ritorno al molo di Ao Nam Mao",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Pranzo o cena",
+   "Asciugamano"
+  ]
+ },
+ "ao-nang-evening-tour": {
+  "title": "Cabaret Blue Dragon di Ao Nang: biglietto d'ingresso per lo spettacolo serale",
+  "metaTitle": "Cabaret Blue Dragon di Ao Nang: biglietto per lo spettacolo",
+  "metaDescription": "Posto riservato per il cabaret originale di Krabi al Blue Dragon di Ao Nang, un'ora di paillettes, spettacolo in lip-sync e performance a piena potenza.",
+  "shortDescription": "Posto riservato per il cabaret originale di Krabi al Blue Dragon di Ao Nang, un'ora di paillettes, spettacolo in lip-sync e performance a piena potenza.",
+  "fullDescription": "Il Blue Dragon è stato il primo teatro di cabaret ad aprire a Krabi e fissa ancora lo standard. Il formato è il cabaret thailandese nella sua forma classica: un cast di artisti transgender, elaborati cambi di costume e una serie di numeri che passano da Bollywood al K-pop alle power ballad, tutto eseguito con una sicurezza che conquista la sala.\n\nIl valore della produzione è la sorpresa. I costumi sono ricamati a mano e genuinamente stravaganti, l'impianto luci è usato a dovere, e la coreografia è precisa invece che casuale. I numeri si susseguono rapidamente, così l'ora passa prima che te ne accorga, e il cast interagisce con il pubblico durante tutto lo spettacolo, quindi le prime file devono aspettarsi di essere coinvolte.\n\nIl tuo biglietto comprende un posto riservato nel teatro climatizzato. Gli artisti escono nel foyer dopo lo spettacolo per le fotografie, una tradizione serale di Krabi e un bel modo di chiudere la serata prima di tornare sulla via principale di Ao Nang per cena o un drink.",
+  "highlights": [
+   "Il primo teatro di cabaret di Krabi, ancora oggi un punto di riferimento",
+   "Costumi ricamati a mano e coreografia curata nei minimi dettagli",
+   "Un'ora di spettacolo con numeri da Bollywood, K-pop e power ballad",
+   "Foto con gli artisti nel foyer dopo lo spettacolo"
+  ],
+  "included": [
+   "Biglietto d'ingresso con posto riservato",
+   "Posto a sedere in teatro climatizzato",
+   "Circa un'ora di spettacolo dal vivo",
+   "Accesso alla sessione fotografica dopo lo spettacolo"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel",
+   "Cibo e bevande",
+   "Mance per gli artisti",
+   "Stampe fotografiche professionali"
+  ]
+ },
+ "ao-nang-sunset-sunset-tour": {
+  "title": "Crociera al tramonto alle 4 isole su catamarano a motore",
+  "metaTitle": "Crociera al tramonto alle 4 isole su catamarano a motore",
+  "metaDescription": "Naviga tra le 4 isole di Krabi su un catamarano a motore a due ponti, nuota in acque turchesi e guarda il tramonto sul calcare con snack e bevande thailandesi.",
+  "shortDescription": "Naviga tra le 4 isole di Krabi su un catamarano a motore a due ponti, nuota in acque turchesi e guarda il tramonto sul calcare con snack e bevande thailandesi.",
+  "fullDescription": "Un catamarano invece di una longtail, il che cambia come sono le quattro isole più di quanto ci si aspetterebbe.\n\nIl catamarano a motore ha due ponti, vera ombra e posti a sedere all'aperto, e non sbatte nel moto ondoso come fa un motoscafo né bagna tutti come fa una longtail quando il mare si alza. Per una crociera serale questo conta: sei a bordo per quattro ore, la maggior parte seduto, e la barca è ciò su cui passi davvero il tempo.\n\nIl percorso si snoda attorno a Poda, Chicken Island e l'area del banco di sabbia di Thale Waek, con una sosta per nuotare nell'acqua turchese poco profonda tra di esse. L'attrezzatura da snorkeling e a bordo per chi la desidera, anche se a quest'ora il punto è più il bagno che la barriera.\n\nIl tramonto sulla costa di Krabi è il motivo per cui il tour finisce tardi. I picchi calcarei trattengono il colore a lungo dopo che il sole è tramontato, passando dall'arancione a un rosso-grigio intenso, e dall'acqua hai l'intera cresta invece che una fetta vista tra gli alberi. Snack e bevande thailandesi vengono serviti mentre la luce svanisce.\n\nQuesta è la versione da prenotare se vuoi le isole senza un'intera giornata a entrare e uscire dalle barche, o se qualcuno nel gruppo non si sente sicuro su un'imbarcazione piccola.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende la crociera sul catamarano con equipaggio, un ospite di lingua inglese, snack thailandesi, bibite e acqua, attrezzatura da snorkeling, giubbotti di salvataggio e assicurazione.\n\nQuattro ore da Ao Nang, preavviso minimo di un giorno.",
+  "highlights": [
+   "Catamarano a due ponti, più stabile di un motoscafo o una longtail",
+   "Sosta per nuotare in acque turchesi tra Poda e Chicken Island",
+   "Tramonto sul calcare di Ao Nang con snack e bevande thailandesi"
+  ],
+  "included": [
+   "Crociera sul catamarano a motore con equipaggio",
+   "Ospite di lingua inglese",
+   "Snack thailandesi",
+   "Bibite e acqua",
+   "Attrezzatura da snorkeling",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel fuori dalla zona indicata",
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Tasse del parco nazionale dove applicabili",
+   "Mance"
+  ]
+ },
+ "ao-nang-sunset-tour": {
+  "title": "Crociera al tramonto in piccolo gruppo con cena e bagno nel plancton",
+  "metaTitle": "Crociera al tramonto in piccolo gruppo con cena e bagno nel plancton",
+  "metaDescription": "Una giornata più lenta sul mare di Krabi: snorkeling, kayak e paddleboard da una barca spaziosa, cena al tramonto, poi bagno tra il plancton luminoso dopo il buio.",
+  "shortDescription": "Una giornata più lenta sul mare di Krabi: snorkeling, kayak e paddleboard da una barca spaziosa, cena al tramonto, poi bagno tra il plancton luminoso dopo il buio.",
+  "fullDescription": "Una crociera di otto ore limitata a trenta ospiti, numero che decide davvero come si vive il tour.\n\nLa maggior parte delle barche al tramonto di Krabi sono o una longtail con otto persone o un'imbarcazione giornaliera con cento. Un limite di trenta ospiti sta nel mezzo: abbastanza spazio sul ponte per trovare ombra o sole a piacere, e poche persone a sufficienza perché kayak e paddleboard siano disponibili quando li vuoi invece che dopo una fila.\n\nIl pomeriggio copre snorkeling, kayak e paddleboard tra le isole al largo di Ao Nang. I kayak sono il modo migliore per avvicinarsi al calcare: puoi pagaiare nelle basi scavate dei picchi, dove la roccia è stata erosa dal livello dell'acqua, un punto che una barca non può raggiungere.\n\nLa cena viene servita in coperta mentre il sole tramonta. Il calcare trattiene il colore a lungo dopo che il sole se n'è andato, quindi qui la buona luce dura molto più di quanto l'orologio suggerisca.\n\nIl bagno notturno chiude il tour. Il plancton bioluminescente si illumina quando l'acqua attorno si muove, quindi la luce appare attorno alle mani e ai piedi. Varia davvero da notte a notte: i cieli più scuri vicino alla luna nuova sono i migliori, una luna piena lo cancella, e l'acqua agitata lo disperde. Chiedi della fase lunare quando scegli una data.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende i trasferimenti in hotel, la crociera con equipaggio e guida, attrezzatura da snorkeling, uso di kayak e paddleboard, cena a bordo, bibite, acqua e frutta, e giubbotti di salvataggio.\n\nOtto ore, preavviso minimo di un giorno. Porta un asciugamano e vestiti asciutti.",
+  "highlights": [
+   "Gruppo limitato a 30 ospiti, più spazio e meno attesa per kayak e paddleboard",
+   "Kayak fino alle basi scavate dei picchi calcarei, irraggiungibili in barca",
+   "Cena al tramonto a bordo seguita da un bagno nel plancton bioluminescente"
+  ],
+  "included": [
+   "Trasferimenti in hotel",
+   "Crociera con equipaggio e guida",
+   "Attrezzatura da snorkeling",
+   "Uso di kayak e paddleboard",
+   "Cena a bordo",
+   "Bibite, acqua e frutta",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tasse del parco nazionale",
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Mance",
+   "Ritiro in hotel fuori dalla zona indicata"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
