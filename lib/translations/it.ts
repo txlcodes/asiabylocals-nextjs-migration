@@ -137237,6 +137237,290 @@ export const IT_TOURS: Record<string, TourT> = {
    "Cibo e bevande"
   ]
  },
+ "dubai-frame-tickets-with-old-town-creek-and-blue-mosque-tour": {
+  "title": "Biglietti per il Dubai Frame con tour della città vecchia, del Creek e della Moschea Blu",
+  "metaTitle": "Biglietti per il Dubai Frame con tour della città vecchia, del Creek e della Moschea Blu",
+  "metaDescription": "Una giornata che mette le due Dubai una di fronte all'altra, il che è il solo modo in cui entrambe hanno senso.",
+  "shortDescription": "Una giornata che mette le due Dubai una di fronte all'altra, il che è il solo modo in cui entrambe hanno senso.",
+  "fullDescription": "Una giornata che mette le due Dubai una di fronte all'altra, il che è il solo modo in cui entrambe hanno senso.\n\nIl Dubai Frame è la versione letterale di questa idea: un rettangolo dorato di 150 metri posizionato in modo che la città vecchia stia in metà della vista e lo skyline nuovo nell'altra metà, con un pavimento di vetro sul piano superiore che le persone affrontano più lentamente di quanto si aspettino. Il biglietto è incluso.\n\nDa lì la giornata va verso il passato: la Moschea di Jumeirah (quella blu, una delle poche moschee di Dubai che accoglie i visitatori non musulmani con una spiegazione guidata invece di limitarsi a permettere l'ingresso), poi i vicoli di Bastakiya, i souk dell'oro e delle spezie, e una barca sul Creek.\n\nLe soste fotografiche lungo il percorso comprendono il Museum of the Future, la cui facciata in calligrafia araba è una struttura a sé, oltre a Palm Jumeirah e al Burj Al Arab.\n\nAttenzione: un tour guidato all'interno del Frame non è incluso: sali con il tuo biglietto e la guida ti aspetta sotto. Tutto il resto dell'itinerario è guidato.",
+  "highlights": [
+   "Biglietto d'ingresso al Dubai Frame incluso, pavimento di vetro ed entrambi gli skyline",
+   "Moschea Blu di Jumeirah con una spiegazione guidata all'interno",
+   "Souk dell'oro e delle spezie oltre ai vicoli storici di Bastakiya",
+   "Soste fotografiche al Museum of the Future, Palm Jumeirah e Burj Al Arab",
+   "Ritiro in hotel e veicolo con aria condizionata"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasporto in veicolo con aria condizionata",
+   "Guida",
+   "Tour guidato della Moschea Blu",
+   "Sosta fotografica al Burj Al Arab",
+   "Sosta fotografica al Museum of the Future e accesso al piano terra",
+   "Visita al souk dell'oro e delle spezie",
+   "Visita al ristorante tradizionale di Al Khayma",
+   "Tè e caffè arabo",
+   "Giro in abra (taxi d'acqua)",
+   "Acqua minerale illimitata",
+   "Biglietto d'ingresso al Dubai Frame (se opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Tour guidato all'interno del Frame",
+   "Mance (facoltative)"
+  ]
+ },
+ "dubai-full-day-desert-safari-with-buffet-dinner-and-quad-biking": {
+  "title": "Safari nel deserto di Dubai per un'intera giornata con cena a buffet e quad",
+  "metaTitle": "Safari nel deserto di Dubai per un'intera giornata con cena a buffet e quad",
+  "metaDescription": "Sette ore invece delle solite quattro, e il tempo extra va dove serve davvero: raggiungi le dune prima del convoglio serale e sei ancora al campo quando il cielo diventa davvero buio.",
+  "shortDescription": "Sette ore invece delle solite quattro, e il tempo extra va dove serve davvero: raggiungi le dune prima del convoglio serale e sei ancora al campo quando il cielo diventa davvero buio.",
+  "fullDescription": "Sette ore invece delle solite quattro, e il tempo extra va dove serve davvero: raggiungi le dune prima del convoglio serale e sei ancora al campo quando il cielo diventa davvero buio.\n\nIl tragitto si fa con un 4x4 con le gomme sgonfiate per la sabbia. Prima viene il dune bashing sulle dune rosse, poi una sosta fotografica su una cresta, sandboarding e un breve giro in cammello. Il quad è disponibile come opzione aggiuntiva ed è il motivo per cui molte persone scelgono la versione più lunga: le piste sono più tranquille nelle ore iniziali.\n\nAl campo il buffet è un vero banchetto e non una singola linea barbecue: grigliate, mezze arabi, insalate, pane da una postazione dal vivo e dessert, consumati su cuscini attorno a tavoli bassi. Gli spettacoli si susseguono per tutta la serata.\n\nDa sapere prima di prenotare: è un tour condiviso, quindi il veicolo raccoglie diversi gruppi e la finestra di ritiro è ampia, mettilo in conto invece di programmare qualcosa di stretto in anticipo. L'alcol non è incluso e non è disponibile al campo. E se vuoi le dune senza gli scossoni, dillo e il conducente andrà piano: nessuno è obbligato a fare il percorso più aggressivo.",
+  "highlights": [
+   "Sette ore, per raggiungere le dune prima della folla serale",
+   "Dune bashing sulle dune rosse, sandboarding e un breve giro in cammello",
+   "Quad opzionale sulle piste più tranquille delle ore iniziali",
+   "Buffet completo con postazioni dal vivo per pane e grigliate, non una sola linea",
+   "4x4 con aria condizionata con ritiro e riaccompagno in hotel"
+  ],
+  "included": [
+   "Ritiro e riaccompagno nel luogo scelto",
+   "Trasporto con jeep 4x4 con aria condizionata",
+   "Dune bashing sulle dune rosse",
+   "Sandboarding",
+   "Breve giro in cammello",
+   "Quad (se opzione selezionata)",
+   "Sosta fotografica",
+   "Dessert",
+   "Acqua",
+   "Bibite",
+   "Caffè o tè",
+   "Cena a buffet con barbecue"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Spese personali",
+   "Mance (facoltative)"
+  ]
+ },
+ "dubai-global-village-entry-ticket-with-hotel-transfers": {
+  "title": "Biglietto d'ingresso al Global Village di Dubai con transfer in hotel",
+  "metaTitle": "Biglietto d'ingresso al Global Village di Dubai con transfer in hotel",
+  "metaDescription": "Una novantina di paesi in padiglioni su un unico sito, ognuno con il proprio cibo, artigianato e tessuti, con giostre, spettacoli acrobatici e un programma sul palco che dura tutta la serata.",
+  "shortDescription": "Una novantina di paesi in padiglioni su un unico sito, ognuno con il proprio cibo, artigianato e tessuti, con giostre, spettacoli acrobatici e un programma sul palco che dura tutta la serata.",
+  "fullDescription": "Una novantina di paesi in padiglioni su un unico sito, ognuno con il proprio cibo, artigianato e tessuti, con giostre, spettacoli acrobatici e un programma sul palco che dura tutta la serata.\n\nÈ in parte un'esposizione culturale, in parte un mercato notturno, in parte un luna park, ed è il posto dove i residenti di Dubai vanno davvero in una serata di fine settimana, il che lo rende un pubblico molto diverso da quello dei centri commerciali e dei beach club.\n\nIl cibo è il motivo per arrivare affamati. Ogni padiglione cucina il proprio, e la varietà, dal pane afghano alle grigliate filippine ai dolci turchi, non si trova altrove in città a questi prezzi.\n\nIl transfer in hotel è incluso, ed è utile averlo: il Global Village si trova sulla Sheikh Mohammed Bin Zayed Road, il parcheggio è caotico nei weekend e i taxi all'orario di chiusura sono una lotta.\n\nAttenzione: è stagionale e chiude per l'estate. La stagione va circa da ottobre ad aprile e il sito chiude del tutto nei mesi più caldi. Le date cambiano ogni anno. Se il tuo viaggio è tra maggio e settembre, non è disponibile: comunicaci le tue date e confermeremo prima del pagamento.\n\nVai in una serata infrasettimanale se puoi. I weekend sono estremamente affollati.",
+  "highlights": [
+   "Circa 90 padiglioni di paesi diversi, ognuno con il proprio cibo e artigianato",
+   "Giostre, spettacoli acrobatici e un programma sul palco ogni serata",
+   "Dove i residenti di Dubai vanno davvero in una serata di fine settimana",
+   "Transfer in hotel incluso: parcheggio e taxi sono altrimenti una lotta",
+   "Attenzione: STAGIONALE, circa da ottobre ad aprile, chiuso in estate"
+  ],
+  "included": [
+   "Biglietto d'ingresso al Global Village (condiviso con te il giorno dell'attività)",
+   "Ritiro in hotel (se opzione selezionata)",
+   "Riaccompagno in hotel (se opzione selezionata)",
+   "Tour in yacht nel pomeriggio (se opzione selezionata)",
+   "Transfer di sola andata o andata e ritorno (secondo l'opzione selezionata)",
+   "Abito arabo tradizionale (se opzione selezionata)",
+   "Tour a piedi (se opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Guida",
+   "Cibo e bevande"
+  ]
+ },
+ "dubai-guided-jet-ski-ride-with-onboard-sound-system": {
+  "title": "Giro guidato in jet ski a Dubai con impianto audio a bordo",
+  "metaTitle": "Giro guidato in jet ski a Dubai con impianto audio a bordo",
+  "metaDescription": "Il tuo jet ski personale, una guida che ti accompagna a fianco e un impianto audio sul mezzo: un piccolo dettaglio che cambia parecchio l'ora che passi in acqua.",
+  "shortDescription": "Il tuo jet ski personale, una guida che ti accompagna a fianco e un impianto audio sul mezzo: un piccolo dettaglio che cambia parecchio l'ora che passi in acqua.",
+  "fullDescription": "Il tuo jet ski personale, una guida che ti accompagna a fianco e un impianto audio sul mezzo: un piccolo dettaglio che cambia parecchio l'ora che passi in acqua.\n\nIl percorso segue la costa di Dubai passando davanti ai punti di riferimento, con la guida che stabilisce la linea e il ritmo in modo che nessuno si perda o finisca in zone non consentite.\n\nNon servono patente né esperienza. C'è prima un briefing a terra e la guida adatta la velocità al partecipante più lento piuttosto che al più rapido.\n\nL'impianto audio è ciò che distingue questo tour da ogni altro giro in jet ski su questa costa. È montato sul mezzo stesso invece di essere un altoparlante portato da qualcuno, e significa che il giro ha una colonna sonora invece del solo rumore del motore.\n\nTi bagnerai, quindi porta qualcosa che non ti dispiace rovinare e un cambio se hai programmi dopo.\n\nNota pratica: le attività con jet ski qui partono da punti fissi in marina e in genere non è previsto il ritiro in hotel. Arrivarci in taxi è semplice, e presentarsi con un quarto d'ora di anticipo rende il briefing senza fretta.",
+  "highlights": [
+   "Jet ski personale con una guida che ti accompagna a fianco",
+   "Impianto audio montato sul mezzo, non un altoparlante portato da qualcuno",
+   "Non servono patente né esperienza; briefing a terra prima di partire",
+   "La guida adatta il ritmo al partecipante più lento, non al più rapido",
+   "Ti bagnerai: porta un cambio di vestiti"
+  ],
+  "included": [
+   "Giubbotto di salvataggio",
+   "Jet ski",
+   "Guida",
+   "Foto gratuite dal cellulare",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
+ "dubai-helicopter-flight-and-desert-safari-combined-day": {
+  "title": "Giornata combinata a Dubai con volo in elicottero e safari nel deserto",
+  "metaTitle": "Giornata combinata a Dubai con volo in elicottero e safari nel deserto",
+  "metaDescription": "Le due cose che le persone vogliono di più da Dubai, in un solo giorno, con i trasferimenti già organizzati tra l'una e l'altra.",
+  "shortDescription": "Le due cose che le persone vogliono di più da Dubai, in un solo giorno, con i trasferimenti già organizzati tra l'una e l'altra.",
+  "fullDescription": "Le due cose che le persone vogliono di più da Dubai, in un solo giorno, con i trasferimenti già organizzati tra l'una e l'altra.\n\nL'elicottero viene prima: dodici minuti sopra il Burj Al Arab, Palm Jumeirah e il Burj Khalifa, l'unico modo per vedere la Palm nella forma per cui è stata disegnata e non come un semplice sistema di strade.\n\nPoi il deserto. Un 4x4 ti viene a prendere, le gomme si sgonfiano alla linea delle dune e c'è il dune bashing sulle dune rosse, sandboarding, quad e un giro in cammello che puoi ripetere. Rinfreschi al campo.\n\nSei ore in totale, una giornata piena ma non estenuante.\n\nQuesto costa più delle due metà acquistate separatamente, e quello che paghi è il fatto che qualcun altro risolve la logistica: il terminal degli elicotteri e il deserto si trovano agli estremi opposti della città, e fare entrambe le cose nello stesso giorno in modo indipendente significa due lunghi trasferimenti e molta attesa.\n\nAttenzione: i voli in elicottero dipendono dal meteo. Se il volo viene annullato, la metà nel deserto si svolge comunque e l'operatore gestisce la differenza: utile saperlo prima di prenotarlo come esperienza unica.",
+  "highlights": [
+   "Dodici minuti sopra il Burj Al Arab, la Palm e il Burj Khalifa",
+   "Dune bashing sulle dune rosse, sandboarding, quad e giri in cammello",
+   "Entrambe le metà in un giorno con i trasferimenti già organizzati",
+   "Sei ore porta a porta con ritiro in hotel",
+   "Attenzione: il volo dipende dal meteo, la metà nel deserto si svolge comunque"
+  ],
+  "included": [
+   "Trasporto in veicolo 4x4 con aria condizionata",
+   "Biglietto per volo in elicottero di 12 minuti",
+   "Esperienza di dune bashing",
+   "Giro in cammello (ripetibile su richiesta)",
+   "Sandboarding",
+   "Esperienza con falco",
+   "Acqua minerale fredda e bibite",
+   "Guida autorizzata per il safari",
+   "Rinfreschi in una tenda con aria condizionata (tè o caffè arabo con datteri)",
+   "Quad (se opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Mance (non obbligatorie)",
+   "Riaccompagno in hotel"
+  ]
+ },
+ "dubai-helicopter-tour-over-the-palm-and-burj-al-arab": {
+  "title": "Tour in elicottero sopra Palm Jumeirah e il Burj Al Arab a Dubai",
+  "metaTitle": "Tour in elicottero sopra Palm Jumeirah e il Burj Al Arab a Dubai",
+  "metaDescription": "Non c'è altro modo per vedere la Palm. Da terra è un sistema di strade; da un osservatorio è una forma in lontananza. Da un elicottero a poche centinaia di metri è la cosa per cui è stata disegnata.",
+  "shortDescription": "Non c'è altro modo per vedere la Palm. Da terra è un sistema di strade; da un osservatorio è una forma in lontananza. Da un elicottero a poche centinaia di metri è la cosa per cui è stata disegnata, e i dodici minuti...",
+  "fullDescription": "Non c'è altro modo per vedere la Palm. Da terra è un sistema di strade; da un osservatorio è una forma in lontananza. Da un elicottero a poche centinaia di metri è la cosa per cui è stata disegnata, e i dodici minuti necessari per volarla sono il motivo per cui le persone prenotano questo tour.\n\nIl percorso passa sopra Dubai Marina e Bluewaters, lungo le fronde della Palm e attorno ad Atlantis, davanti al Burj Al Arab sulla sua isola, e torna lungo la costa con il Burj Khalifa che domina l'intera città dietro di te. Il commento dal vivo arriva nelle cuffie durante tutto il volo, così sai cosa stai guardando mentre lo hai ancora sotto di te.\n\nSono disponibili volate di diversa durata e le più lunghe si estendono verso l'interno, in direzione di Downtown e delle World Islands, invece di ripetere semplicemente lo stesso percorso.\n\nDue note pratiche. Le regole di peso e bilanciamento richiedono che il peso dei passeggeri sia rilevato al check-in e i posti vengono assegnati dall'equipaggio: i posti vicino al finestrino non sono garantiti e non possono essere prenotati in anticipo. Inoltre i voli dipendono dal meteo: la foschia estiva e, occasionalmente, il vento possono ritardare o spostare un orario. I rinfreschi sono offerti al terminal prima dell'imbarco.",
+  "highlights": [
+   "Palm Jumeirah nella forma per cui è stata disegnata, non un sistema di strade",
+   "Burj Al Arab, Atlantis, Dubai Marina e il Burj Khalifa dall'alto",
+   "Commento dal vivo nelle cuffie durante il volo",
+   "Diverse durate di volo disponibili, le più lunghe raggiungono Downtown",
+   "Attenzione: i posti sono assegnati dall'equipaggio, i posti vicino al finestrino non sono prenotabili"
+  ],
+  "included": [
+   "Tour in elicottero della durata scelta",
+   "Commento dal vivo",
+   "Rinfreschi"
+  ],
+  "notIncluded": [
+   "Cibo"
+  ]
+ },
+ "dubai-jet-ski-tour-to-the-palm-jbr-and-burj-al-arab": {
+  "title": "Tour in jet ski a Dubai verso la Palm, JBR e il Burj Al Arab",
+  "metaTitle": "Tour in jet ski a Dubai verso la Palm, JBR e il Burj Al Arab",
+  "metaDescription": "Trenta minuti sul tuo mezzo personale con una guida che ti accompagna a fianco, partendo dalla Marina e seguendo la costa oltre JBR, Ain Dubai a Bluewaters, la Palm e il Burj Al Arab.",
+  "shortDescription": "Trenta minuti sul tuo mezzo personale con una guida che ti accompagna a fianco, partendo dalla Marina e seguendo la costa oltre JBR, Ain Dubai a Bluewaters, la Palm e il Burj Al Arab.",
+  "fullDescription": "Trenta minuti sul tuo mezzo personale con una guida che ti accompagna a fianco, partendo dalla Marina e seguendo la costa oltre JBR, Ain Dubai a Bluewaters, la Palm e il Burj Al Arab.\n\nGuidi tu stesso. Non serve la patente e non si presume alcuna esperienza: c'è un briefing a terra, l'accelerazione è semplice e la guida stabilisce il ritmo e la linea in modo che nessuno si perda o finisca in zone in cui non dovrebbe essere. Se non sei mai stato su un jet ski, dillo e il ritmo si abbassa.\n\nLa guida scatta anche foto dall'acqua con il tuo telefono e te le invia subito dopo, un servizio incluso e il modo in cui la maggior parte delle persone ottiene lo scatto di sé con il Burj Al Arab sullo sfondo.\n\nGiubbotto di salvataggio, jet ski, guida e acqua potabile sono tutti inclusi.\n\nDa sapere: ti bagnerai, quindi indossa qualcosa che non ti dispiace inzuppare e porta un cambio se hai programmi dopo. Sono disponibili durate più lunghe se trenta minuti ti sembrano pochi: bastano per i punti di riferimento, ma spesso le persone vorrebbero aver prenotato un'ora.",
+  "highlights": [
+   "Jet ski personale con una guida che ti accompagna a fianco, senza patente",
+   "Oltre JBR, Ain Dubai, la Palm e il Burj Al Arab",
+   "Foto scattate dall'acqua con il tuo telefono, incluse",
+   "Briefing a terra prima di partire: benvenuti anche i principianti",
+   "Durate più lunghe disponibili; trenta minuti passano in fretta"
+  ],
+  "included": [
+   "Giubbotto di salvataggio",
+   "Jet ski",
+   "Guida",
+   "Foto gratuite dal cellulare",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Asciugamani",
+   "Servizi doccia (non consentiti in marina per mantenerla pulita ed esclusiva)",
+   "Spogliatoi (non consentiti in marina per mantenerla pulita ed esclusiva)"
+  ]
+ },
+ "dubai-marina-luxury-yacht-cruise-with-onboard-barbecue": {
+  "title": "Crociera di lusso in yacht a Dubai Marina con barbecue a bordo",
+  "metaTitle": "Crociera di lusso in yacht a Dubai Marina con barbecue a bordo",
+  "metaDescription": "Lo skyline di Dubai è stato pensato per essere guardato dall'acqua, e un'ora su uno yacht fa più per lui di qualsiasi osservatorio.",
+  "shortDescription": "Lo skyline di Dubai è stato pensato per essere guardato dall'acqua, e un'ora su uno yacht fa più per lui di qualsiasi osservatorio. Parti da Dubai Marina, corri oltre la Palm e torni lungo la costa con Atlantis, il Burj...",
+  "fullDescription": "Lo skyline di Dubai è stato pensato per essere guardato dall'acqua, e un'ora su uno yacht fa più per lui di qualsiasi osservatorio. Parti da Dubai Marina, corri oltre la Palm e torni lungo la costa con Atlantis, il Burj Al Arab e le torri della Marina che si accumulano dietro di te.\n\nLa barca è uno yacht da charter privato gestito come crociera condivisa, quindi c'è spazio sul ponte invece di file di sedili, bibite e acqua per tutta la durata e un equipaggio che scatta le foto che altrimenti chiederesti a un estraneo.\n\nAttenzione: leggi bene l'opzione che scegli, perché il cibo non è incluso in tutte. Il barbecue dal vivo è previsto solo nelle opzioni Burj di due e tre ore: la crociera di un'ora e il percorso di due ore per Atlantis e la Palm non lo includono. Non c'è nemmeno una sosta per il bagno su questo itinerario.\n\nL'alcol è disponibile al bar di bordo e viene pagato separatamente. Il ritiro in hotel non è incluso: raggiungi tu stesso l'attracco in marina, il che è semplice in taxi o metro. Le partenze al tramonto sono le prime a esaurirsi, quindi prenotale con più anticipo.",
+  "highlights": [
+   "Partenza da Dubai Marina con la Palm, Atlantis e il Burj Al Arab dall'acqua",
+   "Spazio aperto sul ponte invece di posti a sedere fissi",
+   "Bibite, acqua e succhi per tutta la durata; bar a bordo",
+   "Barbecue dal vivo nelle opzioni Burj di 2 e 3 ore",
+   "Capitano, equipaggio e un host a bordo, tutti professionisti"
+  ],
+  "included": [
+   "Crociera di lusso in yacht",
+   "Colazione o barbecue (SOLO nelle opzioni tour Burj di 2 e 3 ore)",
+   "Host e guida turistica esperti",
+   "Bibite, acqua e succhi",
+   "Bar a bordo (a supplemento)",
+   "Musica di fondo rilassante",
+   "Personale di servizio",
+   "Capitano ed equipaggio professionisti",
+   "Giubbotti di salvataggio (adulti 7 junior)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche (acquistabili al bar)",
+   "Ritiro e riaccompagno in hotel",
+   "Soste per il bagno",
+   "Cibo del barbecue (non disponibile nei tour di 2 ore Atlantis Palm e di 1 ora)"
+  ]
+ },
+ "dubai-marina-mega-yacht-dinner-cruise-with-international-buffet": {
+  "title": "Crociera serale su mega yacht a Dubai Marina con buffet internazionale",
+  "metaTitle": "Crociera serale su mega yacht a Dubai Marina con buffet internazionale",
+  "metaDescription": "Una crociera serale su un vero mega yacht invece di un dhow riadattato, il che cambia davvero cosa si prova quella sera.",
+  "shortDescription": "Una crociera serale su un vero mega yacht invece di un dhow riadattato, il che cambia davvero cosa si prova quella sera: c'è un salone principale con tavoli veri, un ponte panoramico sopra di esso e abbastanza spazio perché...",
+  "fullDescription": "Una crociera serale su un vero mega yacht invece di un dhow riadattato, il che cambia davvero cosa si prova quella sera: c'è un salone principale con tavoli veri, un ponte panoramico sopra di esso e abbastanza spazio perché la barca non sembri mai una sala per eventi galleggiante.\n\nIl percorso parte da Dubai Marina e segue la costa oltre Bluewaters, Ain Dubai, Palm Jumeirah e Atlantis, con le torri della Marina illuminate dietro di te al ritorno. Due ore, la durata giusta per questo tratto di costa.\n\nLa cena è un buffet internazionale servito nel salone con postazioni dal vivo, incluso in ogni biglietto, oltre a bibite, succhi e acqua. C'è un DJ e animazione dal vivo per tutta la serata.\n\nAttenzione: controlla bene quale biglietto scegli. L'opzione standard ti dà accesso al ponte panoramico superiore ma non include un tavolo o un posto riservato: se vuoi sederti per mangiare, scegli l'opzione con posto a sedere. Il ritiro in hotel non è incluso e non c'è Wi-Fi a bordo; il parcheggio in marina è a pagamento.\n\nLe partenze al tramonto si esauriscono prima, quindi prenotale con più anticipo.",
+  "highlights": [
+   "Un vero mega yacht: salone principale, ponte panoramico superiore, spazio per muoversi",
+   "Due ore oltre Ain Dubai, Palm Jumeirah, Atlantis e la Marina",
+   "Buffet internazionale con postazioni dal vivo, incluso in ogni biglietto",
+   "Bibite, succhi e acqua; DJ e animazione dal vivo",
+   "Attenzione: i biglietti standard danno solo accesso al ponte, scegli l'opzione con posto a sedere se vuoi un tavolo"
+  ],
+  "included": [
+   "Capitano ed equipaggio professionisti",
+   "Attrezzatura di sicurezza",
+   "Animazione dal vivo, DJ interno",
+   "Accesso al ponte panoramico superiore (opzione standard, senza tavolo o posto a sedere)",
+   "Piatti del buffet internazionale nel salone principale o alla postazione dal vivo (per tutti)",
+   "Bibite, succhi, acqua",
+   "Barman e personale del buffet",
+   "Accesso a un tavolo riservato nello sky-deck separato (opzione VIP)",
+   "Canapé serviti direttamente al tavolo (opzione VIP)",
+   "Buffet self-service nel salone principale (opzione VIP)",
+   "Lounge check-in prioritario (opzione VIP)",
+   "Bibite di benvenuto (opzione VIP)"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Wi-Fi",
+   "Parcheggio a pagamento"
+  ]
+ },
+ "dubai-marina-sightseeing-yacht-hour-with-live-commentary": {
+  "title": "Ora panoramica in yacht a Dubai Marina con commento dal vivo",
+  "metaTitle": "Ora panoramica in yacht a Dubai Marina con commento dal vivo",
+  "metaDescription": "Un'ora da Dubai Marina con una guida che ti racconta cosa stai vedendo, la differenza tra un giro in barca e capire davvero la costa.",
+  "shortDescription": "Un'ora da Dubai Marina con una guida che ti racconta cosa stai vedendo, la differenza tra un giro in barca e capire davvero la costa.",
+  "fullDescription": "Un'ora da Dubai Marina con una guida che ti racconta cosa stai vedendo, la differenza tra un giro in barca e capire davvero la costa.\n\nIl percorso comprende Ain Dubai a Bluewaters, il lungomare di JBR, le torri della Marina e la costa oltre. Commento dal vivo in inglese per tutta la durata.\n\nC'è un ponte inferiore con aria condizionata oltre allo spazio aperto sopra, quindi l'ora funziona bene sia in estate che in inverno, cosa che non si può dire dei motoscafi scoperti.\n\nAcqua in bottiglia fredda e bibite tropicali sono incluse.\n\nQuesto è il punto di ingresso al mercato delle barche di Dubai e ha un prezzo adeguato. Quello che non ha è una sosta per il bagno o un pasto: quelli sono previsti nelle crociere più lunghe. Quello che ha è l'intero skyline in sessanta minuti al prezzo di circa due caffè in hotel.\n\nPrendi l'ultima partenza prima del tramonto se puoi. Dubai guarda a ovest verso il Golfo, quindi il sole tramonta sull'acqua aperta con le torri che si illuminano dietro di te, e quell'ora è la migliore su questa costa.",
+  "highlights": [
+   "Un'ora con commento dal vivo in inglese: non un semplice giro in barca",
+   "Ain Dubai, Bluewaters, JBR e le torri della Marina",
+   "Ponte inferiore con aria condizionata oltre allo spazio aperto sopra",
+   "Acqua fredda e bibite tropicali incluse",
+   "Il modo più economico per salire in barca qui: prenota la partenza prima del tramonto"
+  ],
+  "included": [
+   "Tour di 60 minuti a Dubai Marina",
+   "Commento dal vivo da una guida di lingua inglese",
+   "Acqua in bottiglia fredda e bibite tropicali in omaggio",
+   "Accesso a un ponte inferiore con aria condizionata",
+   "Accesso a un ponte superiore all'aperto",
+   "Servizi igienici a bordo",
+   "Occasioni per foto"
+  ],
+  "notIncluded": []
+ },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
   "title": "Da citta Ho Chi Minh: canali di Ben Tre a privato, artigianato e cibo con frutta",
   "metaTitle": "Da citta Ho Chi Minh: canali di Ben Tre a privato, artigianato e",
