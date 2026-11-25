@@ -136062,7 +136062,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Vivi Dubai su una Lamborghini",
   "metaDescription": "Esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.",
   "shortDescription": "Esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.",
-  "fullDescription": "Un'esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.\n\nGestito da un operatore locale verificato. Puoi cancellare gratuitamente.\n\nDue viaggiatori pagano 2185 $ insieme invece di 2185 $ a testa, perche il prezzo e per gruppo e non a persona.",
+  "fullDescription": "Un'esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.\n\nGestito da un operatore locale verificato. Puoi cancellare gratuitamente.\n\nDue viaggiatori pagano 2185 $ insieme invece di 2185 $ a testa, perché il prezzo è per gruppo e non a persona.",
   "highlights": [
    "Noleggio Lamborghini con deposito gratuito"
   ],
@@ -136072,13 +136072,13 @@ export const IT_TOURS: Record<string, TourT> = {
  "abu-dhabi-heritage-village-guided-walking-tour": {
   "title": "Abu Dhabi: tour guidato a piedi al Villaggio del Patrimonio",
   "metaTitle": "Abu Dhabi: tour guidato a piedi al Villaggio del Patrimonio",
-  "metaDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua.",
-  "shortDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua.",
-  "fullDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua.\n\nIl villaggio e il contrappeso a tutto il resto della citta. Abu Dhabi e vetro e marmo; qui invece trovi ripari in foglie di palma barasti, un canale di irrigazione falaj, un accampamento e una moschea, disposti come sarebbe stato un insediamento costiero prima del petrolio.\n\nGli artigiani lavorano davvero, non recitano una parte. Il fabbro produce oggetti reali, la ruota del vasaio gira, la tessitura avviene su un telaio e non dietro una vetrina.\n\nLa guida fa la differenza qui. Senza, sembra una ricostruzione gradevole; con una guida diventa una spiegazione di come viveva davvero la gente su questa costa: da dove arrivava l'acqua, come funzionava la pesca delle perle, e perche gli edifici hanno quella forma.\n\nL'ingresso al villaggio e gratuito, quindi quello che paghi e la guida.\n\nVai nel tardo pomeriggio: la luce sullo skyline oltre l'acqua e migliore in quel momento, e gli artigiani stanno ancora lavorando.",
+  "metaDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista più nitida sullo skyline di Abu Dhabi oltre l'acqua.",
+  "shortDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista più nitida sullo skyline di Abu Dhabi oltre l'acqua.",
+  "fullDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista più nitida sullo skyline di Abu Dhabi oltre l'acqua.\n\nIl villaggio e il contrappeso a tutto il resto della città. Abu Dhabi e vetro e marmo; qui invece trovi ripari in foglie di palma barasti, un canale di irrigazione falaj, un accampamento e una moschea, disposti come sarebbe stato un insediamento costiero prima del petrolio.\n\nGli artigiani lavorano davvero, non recitano una parte. Il fabbro produce oggetti reali, la ruota del vasaio gira, la tessitura avviene su un telaio e non dietro una vetrina.\n\nLa guida fa la differenza qui. Senza, sembra una ricostruzione gradevole; con una guida diventa una spiegazione di come viveva davvero la gente su questa costa: da dove arrivava l'acqua, come funzionava la pesca delle perle, e perché gli edifici hanno quella forma.\n\nL'ingresso al villaggio e gratuito, quindi quello che paghi e la guida.\n\nVai nel tardo pomeriggio: la luce sullo skyline oltre l'acqua e migliore in quel momento, e gli artigiani stanno ancora lavorando.",
   "highlights": [
    "Un insediamento costiero ricostruito prima dell'epoca del petrolio, sul frangiflutti",
    "Fabbri, vasai e tessitrici al lavoro davvero, non in vetrina",
-   "La vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua",
+   "La vista più nitida sullo skyline di Abu Dhabi oltre l'acqua",
    "Una guida che spiega come funzionavano il falaj, la pesca delle perle e gli edifici",
    "Il momento migliore e il tardo pomeriggio, per la luce e per gli artigiani al lavoro"
   ],
@@ -136086,7 +136086,7 @@ export const IT_TOURS: Record<string, TourT> = {
    "Ingresso al Villaggio del Patrimonio e al museo in loco",
    "Dimostrazioni dal vivo di mestieri tradizionali",
    "Approfondimenti sulla vita beduina e sulla storia emiratina",
-   "Occasioni per foto con vista panoramica sulla citta"
+   "Occasioni per foto con vista panoramica sulla città"
   ],
   "notIncluded": [
    "Trasporto",
@@ -136097,9 +136097,9 @@ export const IT_TOURS: Record<string, TourT> = {
  "abu-dhabi-emirati-dining-experience": {
   "title": "Abu Dhabi: esperienza di cena emiratina",
   "metaTitle": "Abu Dhabi: esperienza di cena emiratina",
-  "metaDescription": "La cucina emiratina e la piu difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade.",
-  "shortDescription": "La cucina emiratina e la piu difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade.",
-  "fullDescription": "La cucina emiratina e la piu difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade: questo rende un vero pasto emiratino una delle cose davvero rare che un visitatore possa fare qui.\n\nQuesto e proprio quel pasto, servito nel modo tradizionale: piatti condivisi su un tavolo basso, mangiati insieme.\n\nAspettati machboos, il riso speziato con carne o pesce che e il piatto nazionale, harees, thareed, e datteri con gahwa, il caffe al cardamomo versato da una dallah in piccole tazze, che ha un galateo tutto suo che qualcuno ti spieghera.\n\nLa spiegazione e meta dell'esperienza. Il cibo qui porta con se la storia di un'economia basata sulla pesca delle perle e sulla vita beduina, e i piatti hanno piu senso una volta che sai con cosa e perche si cucinava.\n\nE adatto a chi ha passato una settimana a mangiare cibo da hotel internazionale e vuole un pasto che appartenga davvero al paese in cui si trova.\n\nComunicaci ogni esigenza alimentare al momento della prenotazione: e un menu tradizionale fisso e non una cucina a la carte, e le sostituzioni vanno organizzate in anticipo.",
+  "metaDescription": "La cucina emiratina e la più difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade.",
+  "shortDescription": "La cucina emiratina e la più difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade.",
+  "fullDescription": "La cucina emiratina e la più difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade: questo rende un vero pasto emiratino una delle cose davvero rare che un visitatore possa fare qui.\n\nQuesto e proprio quel pasto, servito nel modo tradizionale: piatti condivisi su un tavolo basso, mangiati insieme.\n\nAspettati machboos, il riso speziato con carne o pesce che e il piatto nazionale, harees, thareed, e datteri con gahwa, il caffe al cardamomo versato da una dallah in piccole tazze, che ha un galateo tutto suo che qualcuno ti spieghera.\n\nLa spiegazione e meta dell'esperienza. Il cibo qui porta con se la storia di un'economia basata sulla pesca delle perle e sulla vita beduina, e i piatti hanno più senso una volta che sai con cosa e perché si cucinava.\n\nE adatto a chi ha passato una settimana a mangiare cibo da hotel internazionale e vuole un pasto che appartenga davvero al paese in cui si trova.\n\nComunicaci ogni esigenza alimentare al momento della prenotazione: e un menu tradizionale fisso e non una cucina a la carte, e le sostituzioni vanno organizzate in anticipo.",
   "highlights": [
    "La cucina davvero difficile da trovare negli Emirati",
    "Machboos, harees e thareed serviti nel modo tradizionale condiviso",
@@ -136120,9 +136120,9 @@ export const IT_TOURS: Record<string, TourT> = {
  "al-marmoom-oasis-desert-afternoon-high-tea": {
   "title": "Oasi di Al Marmoom: high tea pomeridiano nel deserto",
   "metaTitle": "Oasi di Al Marmoom: high tea pomeridiano nel deserto",
-  "metaDescription": "Tè pomeridiano in una riserva protetta, un'idea piu curiosa e piu bella di quanto sembri.",
-  "shortDescription": "Tè pomeridiano in una riserva protetta, un'idea piu curiosa e piu bella di quanto sembri.",
-  "fullDescription": "Tè pomeridiano in una riserva protetta, un'idea piu curiosa e piu bella di quanto sembri.\n\nAl Marmoom e un deserto protetto e non un campo di dune commerciale, ed e l'estremo tranquillo del mercato del deserto di Dubai: niente dune bashing, niente motori, niente accampamento pieno di autobus. Un tavolo viene allestito all'oasi e il tè viene servito mentre la luce cala.\n\nQuesta e tutta la proposta. E adatta a chi vuole il deserto senza l'adrenalina: chiunque non possa guidare sulle dune per motivi medici, chi viaggia con parenti anziani, e chi ha gia fatto il safari classico e preferisce sedersi nel deserto invece di essere trasportato attraverso di esso.\n\nL'oasi ha fauna avicola e, all'ora giusta, gazzelle e orici nella riserva.\n\nNote pratiche. Tra giugno e settembre il turno del pomeriggio e davvero caldo anche da seduti; i mesi invernali sono quelli giusti per questa esperienza. Ed e breve, un pomeriggio e non una serata, quindi si abbina bene a qualcosa d'altro nella stessa giornata invece di occuparla da sola.\n\nIl ritiro in hotel e disponibile come opzione.",
+  "metaDescription": "Tè pomeridiano in una riserva protetta, un'idea più curiosa e più bella di quanto sembri.",
+  "shortDescription": "Tè pomeridiano in una riserva protetta, un'idea più curiosa e più bella di quanto sembri.",
+  "fullDescription": "Tè pomeridiano in una riserva protetta, un'idea più curiosa e più bella di quanto sembri.\n\nAl Marmoom è un deserto protetto e non un campo di dune commerciale, ed è l'estremo tranquillo del mercato del deserto di Dubai: niente dune bashing, niente motori, niente accampamento pieno di autobus. Un tavolo viene allestito all'oasi e il tè viene servito mentre la luce cala.\n\nQuesta e tutta la proposta. E adatta a chi vuole il deserto senza l'adrenalina: chiunque non possa guidare sulle dune per motivi medici, chi viaggia con parenti anziani, e chi ha già fatto il safari classico e preferisce sedersi nel deserto invece di essere trasportato attraverso di esso.\n\nL'oasi ha fauna avicola e, all'ora giusta, gazzelle e orici nella riserva.\n\nNote pratiche. Tra giugno e settembre il turno del pomeriggio e davvero caldo anche da seduti; i mesi invernali sono quelli giusti per questa esperienza. Ed è breve, un pomeriggio e non una serata, quindi si abbina bene a qualcosa d'altro nella stessa giornata invece di occuparla da sola.\n\nIl ritiro in hotel è disponibile come opzione.",
   "highlights": [
    "Tè pomeridiano a un'oasi dentro una riserva desertica protetta",
    "Niente dune bashing e niente motori: l'estremo tranquillo del mercato del deserto",
@@ -136152,9 +136152,9 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: safari nel deserto con barbecue e spettacoli tanoura",
   "metaDescription": "La serata completa nel deserto di Abu Dhabi: guida sulle dune, tramonto, un accampamento con cena e gli spettacoli che la accompagnano.",
   "shortDescription": "La serata completa nel deserto di Abu Dhabi: guida sulle dune, tramonto, un accampamento con cena e gli spettacoli che la accompagnano.",
-  "fullDescription": "La serata completa nel deserto di Abu Dhabi: guida sulle dune, tramonto, un accampamento con cena e gli spettacoli che la accompagnano.\n\nLe dune di Abu Dhabi sono piu alte e molto piu vuote di quelle fuori Dubai. Un safari serale a Dubai in alta stagione puo far passare diverse centinaia di veicoli su un unico campo di dune; l'equivalente ad Abu Dhabi e una frazione di questo, ed e la ragione principale per fare il safari da questo lato.\n\nIl pomeriggio: ritiro con 4x4, pressione delle gomme abbassata alla linea delle dune, guida sulle dune, sandboarding, un giro in cammello e il tramonto sulla sabbia.\n\nLa serata: una cena barbecue all'accampamento, spettacoli di danza del ventre e tanoura, shisha, e un cielo abbastanza scuro da vedere qualcosa.\n\nAttenzione: la guida sulle dune e volutamente movimentata. Chi e incinta, ha problemi alla schiena o al collo, o soffre di mal di movimento dovrebbe dirlo alla prenotazione: il guidatore terra un'andatura piu dolce e nessuno e obbligato a fare la versione impegnativa.\n\nE tra novembre e febbraio il deserto diventa davvero freddo una volta tramontato il sole. Gli accampamenti sono aperti ai lati. Una giacca fa la differenza tra godersi le ultime due ore e sopportarle.",
+  "fullDescription": "La serata completa nel deserto di Abu Dhabi: guida sulle dune, tramonto, un accampamento con cena e gli spettacoli che la accompagnano.\n\nLe dune di Abu Dhabi sono più alte e molto più vuote di quelle fuori Dubai. Un safari serale a Dubai in alta stagione puo far passare diverse centinaia di veicoli su un unico campo di dune; l'equivalente ad Abu Dhabi è una frazione di questo, ed è la ragione principale per fare il safari da questo lato.\n\nIl pomeriggio: ritiro con 4x4, pressione delle gomme abbassata alla linea delle dune, guida sulle dune, sandboarding, un giro in cammello e il tramonto sulla sabbia.\n\nLa serata: una cena barbecue all'accampamento, spettacoli di danza del ventre e tanoura, shisha, e un cielo abbastanza scuro da vedere qualcosa.\n\nAttenzione: la guida sulle dune e volutamente movimentata. Chi è incinta, ha problemi alla schiena o al collo, o soffre di mal di movimento dovrebbe dirlo alla prenotazione: il guidatore terra un'andatura più dolce e nessuno e obbligato a fare la versione impegnativa.\n\nE tra novembre e febbraio il deserto diventa davvero freddo una volta tramontato il sole. Gli accampamenti sono aperti ai lati. Una giacca fa la differenza tra godersi le ultime due ore e sopportarle.",
   "highlights": [
-   "Dune piu alte e piu vuote del lato di Dubai del deserto",
+   "Dune più alte e più vuote del lato di Dubai del deserto",
    "Guida sulle dune, sandboarding, giro in cammello e tramonto sulla sabbia",
    "Cena barbecue con danza del ventre e spettacoli tanoura all'accampamento",
    "Un cielo abbastanza scuro da vedere davvero qualcosa",
@@ -136178,15 +136178,15 @@ export const IT_TOURS: Record<string, TourT> = {
    "Bevande alcoliche",
    "Quad",
    "Foto souvenir",
-   "La danza del ventre non e disponibile durante il Ramadan"
+   "La danza del ventre non è disponibile durante il Ramadan"
   ]
  },
  "dubai-helicopter-flight-with-old-town-walking-tour-and-abra": {
   "title": "Dubai: volo in elicottero con tour a piedi nella città vecchia e giro in abra",
   "metaTitle": "Dubai: volo in elicottero con tour a piedi nella città vecchia e giro in abra",
-  "metaDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la citta nuova dall'alto, quella vecchia a piedi.",
-  "shortDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la citta nuova dall'alto, quella vecchia a piedi.",
-  "fullDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la citta nuova dall'alto, quella vecchia a piedi.\n\nPrima l'elicottero. Dodici minuti sopra il Burj Al Arab, la Palm Jumeirah e il Burj Khalifa: e il solo modo per vedere la Palm con la forma per cui e stata disegnata, e non come una semplice rete di strade.\n\nPoi l'opposto. Le vie con torri a vento di Al Fahidi, costruite dai mercanti di perle in corallo e gesso, percorse a piedi con una guida. L'abra attraverso il Dubai Creek, la barca di legno dei pendolari che copre questa rotta da decenni. I souk dell'oro e delle spezie sulla riva opposta.\n\nIl contrasto e tutto l'argomento. Da centocinquanta metri Dubai e un diagramma; da una via di Al Fahidi e una citta che esisteva molto prima di tutto questo.\n\nNote pratiche. L'elicottero dipende dal meteo e la foschia estiva sposta gli orari; se il volo viene annullato, la parte a piedi si svolge comunque. E la parte a piedi dura circa tre ore, quindi scegli scarpe adatte e non solo da fotografia.",
+  "metaDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la città nuova dall'alto, quella vecchia a piedi.",
+  "shortDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la città nuova dall'alto, quella vecchia a piedi.",
+  "fullDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la città nuova dall'alto, quella vecchia a piedi.\n\nPrima l'elicottero. Dodici minuti sopra il Burj Al Arab, la Palm Jumeirah e il Burj Khalifa: e il solo modo per vedere la Palm con la forma per cui e stata disegnata, e non come una semplice rete di strade.\n\nPoi l'opposto. Le vie con torri a vento di Al Fahidi, costruite dai mercanti di perle in corallo e gesso, percorse a piedi con una guida. L'abra attraverso il Dubai Creek, la barca di legno dei pendolari che copre questa rotta da decenni. I souk dell'oro e delle spezie sulla riva opposta.\n\nIl contrasto e tutto l'argomento. Da centocinquanta metri Dubai e un diagramma; da una via di Al Fahidi e una città che esisteva molto prima di tutto questo.\n\nNote pratiche. L'elicottero dipende dal meteo e la foschia estiva sposta gli orari; se il volo viene annullato, la parte a piedi si svolge comunque. E la parte a piedi dura circa tre ore, quindi scegli scarpe adatte e non solo da fotografia.",
   "highlights": [
    "Dodici minuti sopra il Burj Al Arab, la Palm e il Burj Khalifa",
    "Le vie con torri a vento di Al Fahidi percorse a piedi con una guida",
@@ -136218,7 +136218,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: pesca in alto mare di quattro ore, traina e lancio",
   "metaDescription": "Quattro ore nel Golfo con entrambi i metodi a bordo: la traina con le lenze dietro la barca in movimento, e il lancio quando il capitano trova una struttura su cui vale la pena lavorare.",
   "shortDescription": "Quattro ore nel Golfo con entrambi i metodi a bordo: la traina con le lenze dietro la barca in movimento, e il lancio quando il capitano trova una struttura su cui vale la pena lavorare.",
-  "fullDescription": "Quattro ore nel Golfo con entrambi i metodi a bordo: la traina con le lenze dietro la barca in movimento, e il lancio quando il capitano trova una struttura su cui vale la pena lavorare.\n\nQuesta combinazione conta. La traina copre l'acqua e trova i pelagici veloci: sgombro reale, pesce regina, barracuda. Il lancio e la pesca sul fondo su reef e relitti porta a galla hamour e cernia. Un'uscita che fa solo una cosa pesca solo meta mare.\n\nCanne, attrezzatura ed esche sono fornite e l'equipaggio gestisce le parti tecniche, quindi non serve esperienza. I principianti qui catturano pesci regolarmente.\n\nQuattro ore e la durata giusta: abbastanza lunga da spostarsi tra punti diversi se il primo e scarso, abbastanza corta da non trasformare una mattinata lenta in una giornata persa.\n\nDue note oneste. Nessuno puo promettere pesce, e qualsiasi operatore che lo fa sta vendendo qualcosa d'altro. E il turno del mattino presto e davvero piu produttivo di quello del pomeriggio: prenota quello, se puoi.\n\nPorta qualcosa contro il mal di mare se ne sei soggetto. Una barca che resta ferma su un punto si muove diversamente da una in navigazione, ed e in quel momento che la gente lo scopre.",
+  "fullDescription": "Quattro ore nel Golfo con entrambi i metodi a bordo: la traina con le lenze dietro la barca in movimento, e il lancio quando il capitano trova una struttura su cui vale la pena lavorare.\n\nQuesta combinazione conta. La traina copre l'acqua e trova i pelagici veloci: sgombro reale, pesce regina, barracuda. Il lancio e la pesca sul fondo su reef e relitti porta a galla hamour e cernia. Un'uscita che fa solo una cosa pesca solo meta mare.\n\nCanne, attrezzatura ed esche sono fornite e l'equipaggio gestisce le parti tecniche, quindi non serve esperienza. I principianti qui catturano pesci regolarmente.\n\nQuattro ore e la durata giusta: abbastanza lunga da spostarsi tra punti diversi se il primo e scarso, abbastanza corta da non trasformare una mattinata lenta in una giornata persa.\n\nDue note oneste. Nessuno puo promettere pesce, e qualsiasi operatore che lo fa sta vendendo qualcosa d'altro. E il turno del mattino presto e davvero più produttivo di quello del pomeriggio: prenota quello, se puoi.\n\nPorta qualcosa contro il mal di mare se ne sei soggetto. Una barca che resta ferma su un punto si muove diversamente da una in navigazione, ed e in quel momento che la gente lo scopre.",
   "highlights": [
    "Sia traina che lancio: la maggior parte delle uscite fa solo uno dei due",
    "Sgombro reale, pesce regina e barracuda alla traina; hamour e cernia sulle strutture",
@@ -136239,15 +136239,15 @@ export const IT_TOURS: Record<string, TourT> = {
  "al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet": {
   "title": "Gita di un giorno a Al Ain da Dubai: oasi, mercato dei cammelli e Jebel Hafeet",
   "metaTitle": "Gita di un giorno a Al Ain da Dubai: oasi, mercato dei cammelli e Jebel Hafeet",
-  "metaDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica citta emiratina che non e mai stata ricostruita.",
-  "shortDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica citta emiratina che non e mai stata ricostruita.",
-  "fullDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica citta emiratina che non e mai stata ricostruita: questo la rende la gita di un giorno piu interessante da Dubai, e quella che quasi nessuno fa.\n\nL'oasi e patrimonio UNESCO ed e ancora funzionante. Circa centocinquantamila palme da dattero sono irrigate dal falaj, il sistema di canali sotterranei attivo qui da tremila anni, e camminerai tra i sentieri ombreggiati mentre l'acqua scorre sotto i tuoi piedi.\n\nIl mercato dei cammelli e l'altro motivo per venire. E un vero mercato di bestiame dove gli animali vengono scambiati da chi li alleva, rumoroso, affollato e per niente organizzato per i visitatori.\n\nPoi il Museo di Al Ain e il forte dove nacque lo sceicco Zayed, e la salita a Jebel Hafeet: undici chilometri di tornanti fino a 1.200 metri, considerata regolarmente una delle migliori strade di guida del mondo, con tutto il deserto davanti ai tuoi occhi in cima.\n\nLa strada verso Jebel Hafeet al tramonto e la parte che la gente ricorda di piu. Chiedi l'orario giusto per vederla.",
+  "metaDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica città emiratina che non e mai stata ricostruita.",
+  "shortDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica città emiratina che non e mai stata ricostruita.",
+  "fullDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica città emiratina che non e mai stata ricostruita: questo la rende la gita di un giorno più interessante da Dubai, e quella che quasi nessuno fa.\n\nL'oasi e patrimonio UNESCO ed e ancora funzionante. Circa centocinquantamila palme da dattero sono irrigate dal falaj, il sistema di canali sotterranei attivo qui da tremila anni, e camminerai tra i sentieri ombreggiati mentre l'acqua scorre sotto i tuoi piedi.\n\nIl mercato dei cammelli e l'altro motivo per venire. E un vero mercato di bestiame dove gli animali vengono scambiati da chi li alleva, rumoroso, affollato e per niente organizzato per i visitatori.\n\nPoi il Museo di Al Ain e il forte dove nacque lo sceicco Zayed, e la salita a Jebel Hafeet: undici chilometri di tornanti fino a 1.200 metri, considerata regolarmente una delle migliori strade di guida del mondo, con tutto il deserto davanti ai tuoi occhi in cima.\n\nLa strada verso Jebel Hafeet al tramonto e la parte che la gente ricorda di più. Chiedi l'orario giusto per vederla.",
   "highlights": [
    "Un'oasi UNESCO ancora irrigata da canali falaj di tremila anni",
    "Un mercato dei cammelli funzionante dove gli animali vengono davvero scambiati",
    "Il Museo di Al Ain e il forte dove nacque lo sceicco Zayed",
    "Jebel Hafeet: undici chilometri di tornanti fino a 1.200 metri",
-   "La citta emiratina mai ricostruita, che quasi nessun visitatore raggiunge"
+   "La città emiratina mai ricostruita, che quasi nessun visitatore raggiunge"
   ],
   "included": [
    "Guida turistica professionale autorizzata",
@@ -136270,7 +136270,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Viaggio culturale di quattro giorni negli Emirati: Dubai, Abu Dhabi e Al Ain",
   "metaDescription": "Quattro giorni che toccano le tre città che insieme spiegano gli Emirati: quella che visitano tutti, quella che custodisce le istituzioni, e quella che quasi nessuno raggiunge.",
   "shortDescription": "Quattro giorni che toccano le tre città che insieme spiegano gli Emirati: quella che visitano tutti, quella che custodisce le istituzioni, e quella che quasi nessuno raggiunge.",
-  "fullDescription": "Quattro giorni che toccano le tre città che insieme spiegano gli Emirati: quella che visitano tutti, quella che custodisce le istituzioni, e quella che quasi nessuno raggiunge.\n\nDubai ti da le torri e la vecchia citta sul creek sotto di esse. Abu Dhabi ti da la Grande Moschea Sheikh Zayed, Qasr Al Watan e il Louvre. E Al Ain, a novanta minuti dall'entroterra al confine con l'Oman, ti da quello che c'era prima di entrambe: un'oasi patrimonio UNESCO irrigata da canali falaj attivi da tremila anni, un mercato dei cammelli che e un mercato funzionante e non una vetrina, e il forte dove nacque lo sceicco Zayed.\n\nAl Ain e il motivo per scegliere questo viaggio invece di organizzare gite separate. E il cuore culturale del paese ed e davvero difficile da raggiungere senza un veicolo e qualcuno che conosca i luoghi.\n\nQuattro giorni con trasporto, una guida e gli ingressi organizzati per tutto il percorso.\n\nAttenzione: due date da controllare prima di prenotare: la Grande Moschea non ammette visitatori il venerdi mattina e il Louvre Abu Dhabi chiude il lunedi. Comunicaci la data di partenza e costruiremo il programma intorno a entrambe, senza perdere nessun sito.",
+  "fullDescription": "Quattro giorni che toccano le tre città che insieme spiegano gli Emirati: quella che visitano tutti, quella che custodisce le istituzioni, e quella che quasi nessuno raggiunge.\n\nDubai ti da le torri e la vecchia città sul creek sotto di esse. Abu Dhabi ti da la Grande Moschea Sheikh Zayed, Qasr Al Watan e il Louvre. E Al Ain, a novanta minuti dall'entroterra al confine con l'Oman, ti da quello che c'era prima di entrambe: un'oasi patrimonio UNESCO irrigata da canali falaj attivi da tremila anni, un mercato dei cammelli che e un mercato funzionante e non una vetrina, e il forte dove nacque lo sceicco Zayed.\n\nAl Ain e il motivo per scegliere questo viaggio invece di organizzare gite separate. E il cuore culturale del paese ed e davvero difficile da raggiungere senza un veicolo e qualcuno che conosca i luoghi.\n\nQuattro giorni con trasporto, una guida e gli ingressi organizzati per tutto il percorso.\n\nAttenzione: due date da controllare prima di prenotare: la Grande Moschea non ammette visitatori il venerdi mattina e il Louvre Abu Dhabi chiude il lunedi. Comunicaci la data di partenza e costruiremo il programma intorno a entrambe, senza perdere nessun sito.",
   "highlights": [
    "Dubai, Abu Dhabi e Al Ain in quattro giorni con trasporto e guida",
    "L'oasi UNESCO di Al Ain, irrigata da canali falaj da tremila anni",
@@ -136303,14 +136303,14 @@ export const IT_TOURS: Record<string, TourT> = {
  "dubai-dhow-cruise-dinner-with-sea-lounge-seating": {
   "title": "Dubai: crociera su dhow con cena e posti nella sea lounge",
   "metaTitle": "Dubai: crociera su dhow con cena e posti nella sea lounge",
-  "metaDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata piu economica a sedere sull'acqua di Dubai.",
-  "shortDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata piu economica a sedere sull'acqua di Dubai.",
-  "fullDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata piu economica a sedere sull'acqua di Dubai.\n\nIl dhow e il punto centrale. Sono le barche che hanno lavorato su questa costa per generazioni, e mangiare su una di esse con le torri sullo sfondo e un contrasto migliore di un altro catamarano con pareti di vetro.\n\nLa cena e un buffet internazionale, con un ponte lounge e posti all'aperto sopra.\n\nSii chiaro su cosa offre questa fascia di prezzo. E il punto di ingresso al mercato delle crociere-cena di Dubai e offre esattamente quello che implica: una serata completa, un buon buffet e una bella vista, su una barca condivisa con altri gruppi. I menu con piatti serviti e i noleggi privati costano diverse volte di piu e sono un'esperienza diversa. Nessuno dei due e migliore, sono prodotti diversi a prezzi diversi.\n\nDue note pratiche. Non c'e ritiro in hotel sulla maggior parte delle fasce: controlla l'opzione che scegli. E i posti nella sea lounge o sul ponte superiore sono di solito un extra a scelta e non la base, quindi se stare all'aperto conta per te, selezionalo alla prenotazione invece di sperarci.",
+  "metaDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata più economica a sedere sull'acqua di Dubai.",
+  "shortDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata più economica a sedere sull'acqua di Dubai.",
+  "fullDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata più economica a sedere sull'acqua di Dubai.\n\nIl dhow e il punto centrale. Sono le barche che hanno lavorato su questa costa per generazioni, e mangiare su una di esse con le torri sullo sfondo e un contrasto migliore di un altro catamarano con pareti di vetro.\n\nLa cena e un buffet internazionale, con un ponte lounge e posti all'aperto sopra.\n\nSii chiaro su cosa offre questa fascia di prezzo. E il punto di ingresso al mercato delle crociere-cena di Dubai e offre esattamente quello che implica: una serata completa, un buon buffet e una bella vista, su una barca condivisa con altri gruppi. I menu con piatti serviti e i noleggi privati costano diverse volte di più e sono un'esperienza diversa. Nessuno dei due e migliore, sono prodotti diversi a prezzi diversi.\n\nDue note pratiche. Non c'e ritiro in hotel sulla maggior parte delle fasce: controlla l'opzione che scegli. E i posti nella sea lounge o sul ponte superiore sono di solito un extra a scelta e non la base, quindi se stare all'aperto conta per te, selezionalo alla prenotazione invece di sperarci.",
   "highlights": [
    "Un tradizionale dhow di legno invece di un catamarano di vetro",
    "Cena buffet internazionale con lo skyline illuminato intorno a te",
    "Ponte lounge e posti all'aperto sopra",
-   "La serata piu economica a sedere sull'acqua di Dubai",
+   "La serata più economica a sedere sull'acqua di Dubai",
    "attenzione: i posti sul ponte superiore sono di solito un extra, scegli alla prenotazione"
   ],
   "included": [
@@ -136337,7 +136337,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: biglietto d'ingresso al Museum of Illusions",
   "metaDescription": "Circa ottanta installazioni costruite su trucchi ottici e percettivi: stanze inclinate, un tunnel a vortice che convince che il pavimento si muova quando non e vero, una sala infinita, ologrammi e un muro di enigmi alla fine.",
   "shortDescription": "Circa ottanta installazioni costruite su trucchi ottici e percettivi: stanze inclinate, un tunnel a vortice che convince che il pavimento si muova quando non e vero, una sala infinita, ologrammi e un muro di enigmi alla fine.",
-  "fullDescription": "Circa ottanta installazioni costruite su trucchi ottici e percettivi: stanze inclinate, un tunnel a vortice che convince che il pavimento si muova quando non e vero, una sala infinita, ologrammi e un muro di enigmi alla fine.\n\nE un museo da vivere con le mani, non solo da guardare. Quasi tutto e pensato per essere vissuto dentro, scalato o fotografato da un punto preciso sul pavimento, e lo staff scattera la foto dall'angolazione giusta se glielo chiedi.\n\nPrevedi da un'ora a novanta minuti. Funziona per tutte le eta in un modo che poche attrazioni di Dubai riescono a fare: le installazioni percettive colpiscono allo stesso modo adulti e bambini, e la sala degli enigmi alla fine tiene impegnati anche gli adolescenti che hanno smesso di meravigliarsi di tutto il resto.\n\nTotalmente al chiuso e con aria condizionata, ad Al Seef vicino al creek, il che lo rende un buon abbinamento con una mattina nella vecchia Dubai: prima i souk e l'abra, poi questo quando il caldo e al suo massimo.\n\nUna nota: il tunnel a vortice influisce davvero sull'equilibrio e c'e un corrimano per un motivo. Se soffri di vertigini o problemi all'orecchio interno, c'e un percorso alternativo invece che passare attraverso: chiedi all'ingresso.",
+  "fullDescription": "Circa ottanta installazioni costruite su trucchi ottici e percettivi: stanze inclinate, un tunnel a vortice che convince che il pavimento si muova quando non e vero, una sala infinita, ologrammi e un muro di enigmi alla fine.\n\nE un museo da vivere con le mani, non solo da guardare. Quasi tutto è pensato per essere vissuto dentro, scalato o fotografato da un punto preciso sul pavimento, e lo staff scattera la foto dall'angolazione giusta se glielo chiedi.\n\nPrevedi da un'ora a novanta minuti. Funziona per tutte le eta in un modo che poche attrazioni di Dubai riescono a fare: le installazioni percettive colpiscono allo stesso modo adulti e bambini, e la sala degli enigmi alla fine tiene impegnati anche gli adolescenti che hanno smesso di meravigliarsi di tutto il resto.\n\nTotalmente al chiuso e con aria condizionata, ad Al Seef vicino al creek, il che lo rende un buon abbinamento con una mattina nella vecchia Dubai: prima i souk e l'abra, poi questo quando il caldo e al suo massimo.\n\nUna nota: il tunnel a vortice influisce davvero sull'equilibrio e c'e un corrimano per un motivo. Se soffri di vertigini o problemi all'orecchio interno, c'e un percorso alternativo invece che passare attraverso: chiedi all'ingresso.",
   "highlights": [
    "Circa ottanta installazioni ottiche e percettive da vivere con le mani",
    "Una stanza inclinata, un tunnel a vortice, una sala infinita e un muro di enigmi",
@@ -136355,13 +136355,13 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: safari nel deserto con giro in cammello e estensione opzionale a Hatta",
   "metaDescription": "Un classico safari serale sulle dune rosse con un'opzione inusuale: un'estensione a Hatta, che porta la giornata dove quasi nessun safari arriva.",
   "shortDescription": "Un classico safari serale sulle dune rosse con un'opzione inusuale: un'estensione a Hatta, che porta la giornata dove quasi nessun safari arriva.",
-  "fullDescription": "Un classico safari serale sulle dune rosse con un'opzione inusuale: un'estensione a Hatta, che porta la giornata dove quasi nessun safari arriva.\n\nIl safari in se e quello classico e valido: ritiro con 4x4, pressione delle gomme abbassata alla linea delle dune, mezz'ora di guida sulle dune, sandboarding, un giro in cammello e il tramonto sulla sabbia rossa, poi un accampamento con cena barbecue e spettacoli.\n\nHatta e la differenza. E un'enclave di Dubai tra le montagne Hajar, a circa novanta minuti dall'entroterra, con un bacino turchese dove si puo fare kayak, un villaggio storico restaurato e strade di montagna che non assomigliano al resto dell'emirato. La maggior parte dei visitatori non sa nemmeno che esista.\n\nSe scegli l'estensione, questa diventa una giornata intera invece di un pomeriggio, ed e il modo migliore per vedere che gli Emirati hanno una geografia che va oltre sabbia e torri.\n\nAttenzione: decidi l'opzione Hatta alla prenotazione. Cambia il veicolo, gli orari e il ritiro, e non si puo aggiungere il giorno stesso.\n\nLa guida sulle dune e volutamente movimentata: segnala gravidanza o problemi alla schiena o al collo alla prenotazione e il guidatore terra un'andatura piu dolce.",
+  "fullDescription": "Un classico safari serale sulle dune rosse con un'opzione inusuale: un'estensione a Hatta, che porta la giornata dove quasi nessun safari arriva.\n\nIl safari in se e quello classico e valido: ritiro con 4x4, pressione delle gomme abbassata alla linea delle dune, mezz'ora di guida sulle dune, sandboarding, un giro in cammello e il tramonto sulla sabbia rossa, poi un accampamento con cena barbecue e spettacoli.\n\nHatta e la differenza. E un'enclave di Dubai tra le montagne Hajar, a circa novanta minuti dall'entroterra, con un bacino turchese dove si puo fare kayak, un villaggio storico restaurato e strade di montagna che non assomigliano al resto dell'emirato. La maggior parte dei visitatori non sa nemmeno che esista.\n\nSe scegli l'estensione, questa diventa una giornata intera invece di un pomeriggio, ed e il modo migliore per vedere che gli Emirati hanno una geografia che va oltre sabbia e torri.\n\nAttenzione: decidi l'opzione Hatta alla prenotazione. Cambia il veicolo, gli orari e il ritiro, e non si puo aggiungere il giorno stesso.\n\nLa guida sulle dune e volutamente movimentata: segnala gravidanza o problemi alla schiena o al collo alla prenotazione e il guidatore terra un'andatura più dolce.",
   "highlights": [
    "Safari sulle dune rosse con guida, sandboarding, giro in cammello e cena in accampamento",
    "Estensione opzionale a Hatta tra le montagne Hajar: bacino turchese e villaggio storico",
    "Hatta e l'Emirato con la geografia, e quasi nessun visitatore la vede",
    "attenzione: l'estensione va scelta alla prenotazione, cambia veicolo e orari",
-   "Guida piu dolce su richiesta, comunicalo alla prenotazione"
+   "Guida più dolce su richiesta, comunicalo alla prenotazione"
   ],
   "included": [
    "Ritiro e riaccompagno in hotel",
@@ -136383,7 +136383,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai: tour dei monumenti con il Museum of the Future e il Dubai Frame",
   "metaDescription": "Tre edifici che insieme raccontano tutto il discorso di Dubai su se stessa: il passato, il presente e cio che intende fare, in un unico percorso guidato.",
   "shortDescription": "Tre edifici che insieme raccontano tutto il discorso di Dubai su se stessa: il passato, il presente e cio che intende fare, in un unico percorso guidato.",
-  "fullDescription": "Tre edifici che insieme raccontano tutto il discorso di Dubai su se stessa: il passato, il presente e cio che intende fare, in un unico percorso guidato.\n\nIl Dubai Frame e un rettangolo dorato di 150 metri posizionato in modo che la vecchia Dubai occupi una meta della vista e lo skyline l'altra, con un pavimento di vetro sul ponte superiore.\n\nIl Museum of the Future e il toro sulla Sheikh Zayed Road la cui intera facciata e calligrafia araba: versi dello sceicco Mohammed, tagliati nell'acciaio cosi l'edificio non ha finestre convenzionali. Vale la sosta anche solo dall'esterno, che e quello che fa la maggior parte dei tour.\n\nIl Burj Al Arab e la sosta fotografica, dalla spiaggia di Umm Suqeim dove tutta la vela e visibile sulla sua isola.\n\nUna guida ti accompagna e c'e il ritiro in hotel.\n\nAttenzione: controlla cosa e incluso e cosa e solo una sosta fotografica. Nella maggior parte delle versioni di questo percorso il Frame include l'ingresso, mentre il Museum of the Future e solo esterno: i suoi biglietti sono a orario, si esauriscono con giorni di anticipo e si prenotano separatamente. Dicci se vuoi entrare e lo organizzeremo bene, invece di lasciarti fuori.",
+  "fullDescription": "Tre edifici che insieme raccontano tutto il discorso di Dubai su se stessa: il passato, il presente e cio che intende fare, in un unico percorso guidato.\n\nIl Dubai Frame è un rettangolo dorato di 150 metri posizionato in modo che la vecchia Dubai occupi una meta della vista e lo skyline l'altra, con un pavimento di vetro sul ponte superiore.\n\nIl Museum of the Future e il toro sulla Sheikh Zayed Road la cui intera facciata e calligrafia araba: versi dello sceicco Mohammed, tagliati nell'acciaio così l'edificio non ha finestre convenzionali. Vale la sosta anche solo dall'esterno, che e quello che fa la maggior parte dei tour.\n\nIl Burj Al Arab e la sosta fotografica, dalla spiaggia di Umm Suqeim dove tutta la vela e visibile sulla sua isola.\n\nUna guida ti accompagna e c'e il ritiro in hotel.\n\nAttenzione: controlla cosa è incluso e cosa e solo una sosta fotografica. Nella maggior parte delle versioni di questo percorso il Frame include l'ingresso, mentre il Museum of the Future e solo esterno: i suoi biglietti sono a orario, si esauriscono con giorni di anticipo e si prenotano separatamente. Dicci se vuoi entrare e lo organizzeremo bene, invece di lasciarti fuori.",
   "highlights": [
    "Il Dubai Frame con il pavimento di vetro e entrambi gli skyline in un'unica vista",
    "La facciata calligrafica del Museum of the Future, un edificio senza finestre",
@@ -136406,14 +136406,14 @@ export const IT_TOURS: Record<string, TourT> = {
  "dubai-abra-boat-tour-past-atlantis-and-ain-dubai": {
   "title": "Dubai: tour in barca abra davanti ad Atlantis e Ain Dubai",
   "metaTitle": "Dubai: tour in barca abra davanti ad Atlantis e Ain Dubai",
-  "metaDescription": "Un'abra e la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.",
-  "shortDescription": "Un'abra e la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.",
-  "fullDescription": "Un'abra e la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.\n\nIl contrasto e tutta l'idea. Queste barche furono costruite per un creek di lavoro in una citta di pescatori di perle, e qui una di esse sfila davanti a un resort a forma di palazzo e alla piu grande ruota panoramica del mondo. E il modo piu economico per vedere questo tratto d'acqua e, curiosamente, uno dei piu memorabili.\n\nFianchi aperti, bassa sull'acqua, e lenta abbastanza da guardare davvero invece che fotografare di passaggio.\n\nNon aspettarti uno yacht. Non c'e bar, nessun'ombra oltre a una tenda, e non si nuota: e un giro in barca, al prezzo di un giro in barca.\n\nMigliore nell'ultima ora di luce o dopo il tramonto, quando Ain Dubai e la facciata di Atlantis sono illuminate e anche le luci dell'abra sono accese. Nel pieno di una giornata estiva e caldo ed esposto, e lo stesso giro e molto meno piacevole.\n\nI giubbotti di salvataggio sono forniti e non e richiesta nessuna esperienza.",
+  "metaDescription": "Un'abra è la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.",
+  "shortDescription": "Un'abra è la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.",
+  "fullDescription": "Un'abra è la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.\n\nIl contrasto e tutta l'idea. Queste barche furono costruite per un creek di lavoro in una città di pescatori di perle, e qui una di esse sfila davanti a un resort a forma di palazzo e alla più grande ruota panoramica del mondo. E il modo più economico per vedere questo tratto d'acqua e, curiosamente, uno dei più memorabili.\n\nFianchi aperti, bassa sull'acqua, e lenta abbastanza da guardare davvero invece che fotografare di passaggio.\n\nNon aspettarti uno yacht. Non c'e bar, nessun'ombra oltre a una tenda, e non si nuota: e un giro in barca, al prezzo di un giro in barca.\n\nMigliore nell'ultima ora di luce o dopo il tramonto, quando Ain Dubai e la facciata di Atlantis sono illuminate e anche le luci dell'abra sono accese. Nel pieno di una giornata estiva e caldo ed esposto, e lo stesso giro e molto meno piacevole.\n\nI giubbotti di salvataggio sono forniti e non e richiesta nessuna esperienza.",
   "highlights": [
    "Un'abra tradizionale di legno sulla costa moderna: e qui tutto il contrasto",
    "Davanti alla Palm, Atlantis, Bluewaters e Ain Dubai",
    "Fianchi aperti e bassa sull'acqua, abbastanza lenta per guardare davvero",
-   "Il modo piu economico per vedere questo tratto d'acqua",
+   "Il modo più economico per vedere questo tratto d'acqua",
    "Migliore dopo il tramonto, quando Ain Dubai e Atlantis sono illuminate"
   ],
   "included": [
@@ -136434,13 +136434,13 @@ export const IT_TOURS: Record<string, TourT> = {
  "palm-jumeirah-beach-day-pass-with-skyline-views": {
   "title": "Palm Jumeirah: pass giornaliero in spiaggia con vista sullo skyline",
   "metaTitle": "Palm Jumeirah: pass giornaliero in spiaggia con vista sullo skyline",
-  "metaDescription": "Un pass giornaliero per un resort sulla Palm, il modo piu semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.",
-  "shortDescription": "Un pass giornaliero per un resort sulla Palm, il modo piu semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.",
-  "fullDescription": "Un pass giornaliero per un resort sulla Palm, il modo piu semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.\n\nLa curva interna della Palm guarda verso la terraferma, quindi la vista dalla sabbia e quella della Marina e delle torri di JBR oltre l'acqua, e non il mare aperto. E la vista migliore tra le due e il motivo per cui questi resort si trovano proprio li.\n\nUn pass ti da accesso alla spiaggia, alla piscina e ai lettini. Cibo e bevande di solito si pagano separatamente o si scalano da una spesa minima: controlla cosa prevede l'opzione che prenoti.\n\nE la scelta giusta per una giornata di riposo tra il deserto e la citta, o per chi e a Dubai nei mesi piu freschi e non vuole un quinto giorno di attrazioni.\n\nNote pratiche. Le spiagge pubbliche lungo Jumeirah sono gratuite e perfettamente valide; quello che compra un pass da resort e un lettino, un asciugamano, una piscina e un bar, non una sabbia migliore. Tra giugno e settembre la spiaggia e inutilizzabile nel pieno della giornata, e la piscina diventa il vero prodotto.\n\nNon c'e ritiro in hotel: un taxi fino alla Palm e semplice.",
+  "metaDescription": "Un pass giornaliero per un resort sulla Palm, il modo più semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.",
+  "shortDescription": "Un pass giornaliero per un resort sulla Palm, il modo più semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.",
+  "fullDescription": "Un pass giornaliero per un resort sulla Palm, il modo più semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.\n\nLa curva interna della Palm guarda verso la terraferma, quindi la vista dalla sabbia e quella della Marina e delle torri di JBR oltre l'acqua, e non il mare aperto. E la vista migliore tra le due e il motivo per cui questi resort si trovano proprio li.\n\nUn pass ti da accesso alla spiaggia, alla piscina e ai lettini. Cibo e bevande di solito si pagano separatamente o si scalano da una spesa minima: controlla cosa prevede l'opzione che prenoti.\n\nE la scelta giusta per una giornata di riposo tra il deserto e la città, o per chi e a Dubai nei mesi più freschi e non vuole un quinto giorno di attrazioni.\n\nNote pratiche. Le spiagge pubbliche lungo Jumeirah sono gratuite e perfettamente valide; quello che compra un pass da resort e un lettino, un asciugamano, una piscina e un bar, non una sabbia migliore. Tra giugno e settembre la spiaggia e inutilizzabile nel pieno della giornata, e la piscina diventa il vero prodotto.\n\nNon c'e ritiro in hotel: un taxi fino alla Palm e semplice.",
   "highlights": [
    "Spiaggia, piscina e lettini in un resort sulla Palm Jumeirah",
    "Lo skyline della Marina e di JBR oltre l'acqua, non il mare aperto",
-   "La giornata di riposo tra il deserto e la citta",
+   "La giornata di riposo tra il deserto e la città",
    "Cibo e bevande di solito separati o scalati da una spesa minima: controlla l'opzione",
    "attenzione: in estate la piscina e il vero prodotto, la spiaggia e inutilizzabile a mezzogiorno"
   ],
@@ -136457,16 +136457,16 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Gita di un giorno ad Abu Dhabi da Dubai con la Grande Moschea e un parco a tema",
   "metaDescription": "Dieci ore, da hotel a hotel, che abbinano la Grande Moschea Sheikh Zayed a un'attrazione a tua scelta tra Ferrari World, Warner Bros. World o il Louvre Abu Dhabi, selezionata al momento della prenotazione, con l'ingresso incluso.",
   "shortDescription": "Dieci ore, da hotel a hotel, che abbinano la Grande Moschea Sheikh Zayed a un'attrazione a tua scelta tra Ferrari World, Warner Bros. World o il Louvre Abu Dhabi, selezionata al momento della prenotazione, con l'ingresso incluso.",
-  "fullDescription": "Dieci ore, da hotel a hotel, che abbinano la Grande Moschea Sheikh Zayed a un'attrazione a tua scelta tra Ferrari World, Warner Bros. World o il Louvre Abu Dhabi, selezionata al momento della prenotazione, con l'ingresso incluso.\n\nLa moschea viene prima: una guida ti accompagna e un'abaya viene fornita all'ingresso per chi ne ha bisogno. Poi, in base a cosa hai scelto in fase di prenotazione, passi il resto della giornata a Ferrari World, dentro Warner Bros. World, oppure al Louvre Abu Dhabi, con l'ingresso gia incluso nel prezzo.\n\nLa scelta va fatta alla prenotazione, cosi un gruppo misto puo coprire entrambe le meta della giornata senza discutere all'ultimo momento su dove andare.\n\nIl ritiro e a Dubai e il percorso e porta a porta: dieci ore in tutto.\n\nAttenzione: il Louvre e chiuso il lunedi e la moschea e chiusa la mattina del venerdi, quindi la data scelta conta per decidere l'attrazione.",
+  "fullDescription": "Dieci ore, da hotel a hotel, che abbinano la Grande Moschea Sheikh Zayed a un'attrazione a tua scelta tra Ferrari World, Warner Bros. World o il Louvre Abu Dhabi, selezionata al momento della prenotazione, con l'ingresso incluso.\n\nLa moschea viene prima: una guida ti accompagna e un'abaya viene fornita all'ingresso per chi ne ha bisogno. Poi, in base a cosa hai scelto in fase di prenotazione, passi il resto della giornata a Ferrari World, dentro Warner Bros. World, oppure al Louvre Abu Dhabi, con l'ingresso già incluso nel prezzo.\n\nLa scelta va fatta alla prenotazione, così un gruppo misto puo coprire entrambe le meta della giornata senza discutere all'ultimo momento su dove andare.\n\nIl ritiro e a Dubai e il percorso e porta a porta: dieci ore in tutto.\n\nAttenzione: il Louvre è chiuso il lunedì e la moschea è chiusa la mattina del venerdi, quindi la data scelta conta per decidere l'attrazione.",
   "highlights": [
    "Grande Moschea Sheikh Zayed con guida e abaya fornita",
    "Una tra Ferrari World, Warner Bros. World o il Louvre, ingresso incluso",
-   "Scelta alla prenotazione, cosi un gruppo misto ottiene entrambe le meta",
+   "Scelta alla prenotazione, così un gruppo misto ottiene entrambe le meta",
    "Ritiro in hotel a Dubai; dieci ore porta a porta",
-   "attenzione: il Louvre e chiuso il lunedi, la moschea la mattina del venerdi"
+   "attenzione: il Louvre è chiuso il lunedi, la moschea la mattina del venerdi"
   ],
   "included": [
-   "Ritiro e riaccompagno dagli hotel entro i confini della citta di Dubai",
+   "Ritiro e riaccompagno dagli hotel entro i confini della città di Dubai",
    "Ingresso a Ferrari World Abu Dhabi, Warner Bros. o Louvre Abu Dhabi (secondo l'opzione scelta)",
    "Guida turistica autorizzata in lingua inglese",
    "Visita alla iconica Grande Moschea Sheikh Zayed"
@@ -136481,11 +136481,11 @@ export const IT_TOURS: Record<string, TourT> = {
  "abu-dhabi-desert-safari-with-camel-farm-and-bedouin-camp-dinner": {
   "title": "Abu Dhabi: safari nel deserto con fattoria di cammelli e cena nel campo beduino",
   "metaTitle": "Abu Dhabi: safari nel deserto con fattoria di cammelli e cena nel campo beduino",
-  "metaDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono piu alte e piu vuote, i campi piu lontani dalla citta, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.",
-  "shortDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono piu alte e piu vuote, i campi piu lontani dalla citta, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.",
-  "fullDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono piu alte e piu vuote, i campi piu lontani dalla citta, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.\n\nIl programma: ritiro in hotel, guida sulle dune a bordo di un 4x4 con aria condizionata, sandboarding, un breve giro in cammello e il tramonto visto dalle dune.\n\nSegue il campo beduino, con cena barbecue, fuoco e spettacoli tanoura, oltre a bevande di benvenuto, pittura con l'henne e shisha.\n\nUn autista inglese autorizzato guida per tutto il tragitto, e l'acqua minerale fredda e disponibile in auto durante il trasferimento.",
+  "metaDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono più alte e più vuote, i campi più lontani dalla città, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.",
+  "shortDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono più alte e più vuote, i campi più lontani dalla città, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.",
+  "fullDescription": "Il deserto di Abu Dhabi e un paesaggio diverso da quello di Dubai, e il safari lo rispecchia. Le dune qui sono più alte e più vuote, i campi più lontani dalla città, e condividerai la sabbia con molti meno veicoli rispetto al lato di Dubai.\n\nIl programma: ritiro in hotel, guida sulle dune a bordo di un 4x4 con aria condizionata, sandboarding, un breve giro in cammello e il tramonto visto dalle dune.\n\nSegue il campo beduino, con cena barbecue, fuoco e spettacoli tanoura, oltre a bevande di benvenuto, pittura con l'henne e shisha.\n\nUn autista inglese autorizzato guida per tutto il tragitto, e l'acqua minerale fredda è disponibile in auto durante il trasferimento.",
   "highlights": [
-   "Dune piu alte e piu vuote del lato di Dubai del deserto",
+   "Dune più alte e più vuote del lato di Dubai del deserto",
    "Visita a una fattoria di cammelli vera, non una sosta fotografica di passaggio",
    "Guida sulle dune, sandboarding e tramonto dalle dune",
    "Campo beduino con cena barbecue, fuoco e spettacoli tanoura",
@@ -136512,7 +136512,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: safari con guida sulle dune e visita a una fattoria di cammelli",
   "metaDescription": "Quattro ore nel deserto fuori Abu Dhabi, disponibili come turno al mattino o alla sera, una scelta su cui vale la pena pensare invece di lasciarla al caso.",
   "shortDescription": "Quattro ore nel deserto fuori Abu Dhabi, disponibili come turno al mattino o alla sera, una scelta su cui vale la pena pensare invece di lasciarla al caso.",
-  "fullDescription": "Quattro ore nel deserto fuori Abu Dhabi, disponibili come turno al mattino o alla sera, una scelta su cui vale la pena pensare invece di lasciarla al caso.\n\nLa guida sulle dune avviene a bordo di un Land Cruiser 4WD con le gomme sgonfiate per la sabbia, seguita da sandboarding e una sosta a una fattoria di cammelli vera, non una tappa fotografica di passaggio.\n\nAcqua e bibite sono illimitate in auto, e per il turno serale si aggiungono cena barbecue, danza del ventre, te arabo, caffe e datteri, danza tanoura e un falco per le foto.\n\nL'abito tradizionale arabo e disponibile per chi vuole foto in costume.\n\nL'alcol non e incluso ma si puo acquistare, e il giro in quad e disponibile con un pagamento extra.",
+  "fullDescription": "Quattro ore nel deserto fuori Abu Dhabi, disponibili come turno al mattino o alla sera, una scelta su cui vale la pena pensare invece di lasciarla al caso.\n\nLa guida sulle dune avviene a bordo di un Land Cruiser 4WD con le gomme sgonfiate per la sabbia, seguita da sandboarding e una sosta a una fattoria di cammelli vera, non una tappa fotografica di passaggio.\n\nAcqua e bibite sono illimitate in auto, e per il turno serale si aggiungono cena barbecue, danza del ventre, te arabo, caffe e datteri, danza tanoura e un falco per le foto.\n\nL'abito tradizionale arabo è disponibile per chi vuole foto in costume.\n\nL'alcol non è incluso ma si puo acquistare, e il giro in quad è disponibile con un pagamento extra.",
   "highlights": [
    "Turno al mattino o alla sera: esperienze davvero diverse, a tua scelta",
    "Guida sulle dune con Land Cruiser 4WD e gomme sgonfiate",
@@ -136544,13 +136544,13 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: giro in catamarano elettrico al Louvre",
   "metaDescription": "Un piccolo catamarano elettrico che guidi tu stesso, sull'acqua proprio sotto la cupola del Louvre Abu Dhabi, e siccome il motore e elettrico tutto avviene quasi in silenzio.",
   "shortDescription": "Un piccolo catamarano elettrico che guidi tu stesso, sull'acqua proprio sotto la cupola del Louvre Abu Dhabi, e siccome il motore e elettrico tutto avviene quasi in silenzio.",
-  "fullDescription": "Un piccolo catamarano elettrico che guidi tu stesso, sull'acqua proprio sotto la cupola del Louvre Abu Dhabi, e siccome il motore e elettrico tutto avviene quasi in silenzio.\n\nUna breve introduzione basta: non serve alcuna patente nautica. A bordo trovi parasole e una tettoia ventilata.\n\nSi accompagna bene a una visita al museo, meglio fatta prima del giro in barca.\n\nAttenzione: il museo e chiuso il lunedi, e si applicano limiti di eta e di peso per imbarcazione.",
+  "fullDescription": "Un piccolo catamarano elettrico che guidi tu stesso, sull'acqua proprio sotto la cupola del Louvre Abu Dhabi, e siccome il motore e elettrico tutto avviene quasi in silenzio.\n\nUna breve introduzione basta: non serve alcuna patente nautica. A bordo trovi parasole e una tettoia ventilata.\n\nSi accompagna bene a una visita al museo, meglio fatta prima del giro in barca.\n\nAttenzione: il museo è chiuso il lunedi, e si applicano limiti di eta e di peso per imbarcazione.",
   "highlights": [
    "Lo guidi tu stesso: una breve introduzione basta, nessuna patente richiesta",
    "Elettrico e quasi silenzioso, proprio sotto la cupola del Louvre",
    "Parasole e tettoia ventilata a bordo",
    "Si abbina bene a una visita al museo, meglio fatta prima",
-   "attenzione: il museo e chiuso il lunedi, si applicano limiti di eta e peso"
+   "attenzione: il museo è chiuso il lunedi, si applicano limiti di eta e peso"
   ],
   "included": [
    "Noleggio del catamarano elettrico",
@@ -136570,7 +136570,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: tour di un giorno intero da Dubai con la Grande Moschea e la Corniche",
   "metaDescription": "Abu Dhabi e a circa novanta minuti lungo la costa da Dubai, e una giornata basta davvero per vedere quello per cui la gente arriva, a patto che qualcun altro guidi e la moschea sia pianificata al momento giusto.",
   "shortDescription": "Abu Dhabi e a circa novanta minuti lungo la costa da Dubai, e una giornata basta davvero per vedere quello per cui la gente arriva, a patto che qualcun altro guidi e la moschea sia pianificata al momento giusto.",
-  "fullDescription": "Abu Dhabi e a circa novanta minuti lungo la costa da Dubai, e una giornata basta davvero per vedere quello per cui la gente arriva, a patto che qualcun altro guidi e la moschea sia pianificata al momento giusto.\n\nLa Grande Moschea Sheikh Zayed viene prima, con una guida e un'abaya fornita all'ingresso. Segue un giro lungo la Corniche con soste all'Emirates Palace e alle Etihad Towers, e una sosta fotografica al Louvre Abu Dhabi sotto la cupola.\n\nIl ritiro e a Dubai, in veicolo con aria condizionata, con acqua illimitata a bordo. Il tragitto e di circa novanta minuti in ciascuna direzione, cosi la giornata resta senza fretta.\n\nCon l'opzione Premium si aggiungono l'accesso alla terrazza panoramica delle Etihad Towers e l'ingresso al Palazzo Presidenziale Qasr Al Watan.",
+  "fullDescription": "Abu Dhabi e a circa novanta minuti lungo la costa da Dubai, e una giornata basta davvero per vedere quello per cui la gente arriva, a patto che qualcun altro guidi e la moschea sia pianificata al momento giusto.\n\nLa Grande Moschea Sheikh Zayed viene prima, con una guida e un'abaya fornita all'ingresso. Segue un giro lungo la Corniche con soste all'Emirates Palace e alle Etihad Towers, e una sosta fotografica al Louvre Abu Dhabi sotto la cupola.\n\nIl ritiro e a Dubai, in veicolo con aria condizionata, con acqua illimitata a bordo. Il tragitto e di circa novanta minuti in ciascuna direzione, così la giornata resta senza fretta.\n\nCon l'opzione Premium si aggiungono l'accesso alla terrazza panoramica delle Etihad Towers e l'ingresso al Palazzo Presidenziale Qasr Al Watan.",
   "highlights": [
    "Grande Moschea Sheikh Zayed con guida, abaya fornita all'ingresso",
    "Giro sulla Corniche con soste all'Emirates Palace e alle Etihad Towers",
@@ -136599,7 +136599,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: tour privato con transfer alla Grande Moschea e Qasr Al Watan",
   "metaDescription": "I due edifici che insieme spiegano l'Abu Dhabi moderna, visitati in privato invece che su un pullman, con un autista e un veicolo solo per voi.",
   "shortDescription": "I due edifici che insieme spiegano l'Abu Dhabi moderna, visitati in privato invece che su un pullman, con un autista e un veicolo solo per voi.",
-  "fullDescription": "I due edifici che insieme spiegano l'Abu Dhabi moderna, visitati in privato invece che su un pullman, con un autista e un veicolo solo per voi.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il biglietto d'ingresso e gia incluso e non e un extra.\n\nAcqua in bottiglia e un autista professionista accompagnano tutto il percorso.\n\nAttenzione: confermiamo che entrambi i siti siano aperti nella tua data prima che tu paghi.",
+  "fullDescription": "I due edifici che insieme spiegano l'Abu Dhabi moderna, visitati in privato invece che su un pullman, con un autista e un veicolo solo per voi.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il biglietto d'ingresso e già incluso e non e un extra.\n\nAcqua in bottiglia e un autista professionista accompagnano tutto il percorso.\n\nAttenzione: confermiamo che entrambi i siti siano aperti nella tua data prima che tu paghi.",
   "highlights": [
    "Veicolo e autista privati, non un gruppo su pullman",
    "Grande Moschea Sheikh Zayed con l'abaya fornita all'ingresso",
@@ -136623,7 +136623,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: tour alla Grande Moschea, Qasr Al Watan e Etihad Towers",
   "metaDescription": "Tre edifici che insieme spiegano come Abu Dhabi vede se stessa, in sei ore con guida e auto con aria condizionata, partendo da un hotel di Abu Dhabi invece che da Dubai.",
   "shortDescription": "Tre edifici che insieme spiegano come Abu Dhabi vede se stessa, in sei ore con guida e auto con aria condizionata, partendo da un hotel di Abu Dhabi invece che da Dubai.",
-  "fullDescription": "Tre edifici che insieme spiegano come Abu Dhabi vede se stessa, in sei ore con guida e auto con aria condizionata, partendo da un hotel di Abu Dhabi invece che da Dubai.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il palazzo presidenziale ancora in funzione, visitato dall'interno e non solo dall'esterno. Poi la terrazza panoramica delle Etihad Towers, a 300 metri d'altezza.\n\nCompletano il giro una sosta fotografica al Louvre Abu Dhabi e la Corniche.\n\nSei ore in tutto, con guida autorizzata, veicolo con aria condizionata e ritiro ad Abu Dhabi, piu acqua minerale fredda a bordo.",
+  "fullDescription": "Tre edifici che insieme spiegano come Abu Dhabi vede se stessa, in sei ore con guida e auto con aria condizionata, partendo da un hotel di Abu Dhabi invece che da Dubai.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il palazzo presidenziale ancora in funzione, visitato dall'interno e non solo dall'esterno. Poi la terrazza panoramica delle Etihad Towers, a 300 metri d'altezza.\n\nCompletano il giro una sosta fotografica al Louvre Abu Dhabi e la Corniche.\n\nSei ore in tutto, con guida autorizzata, veicolo con aria condizionata e ritiro ad Abu Dhabi, più acqua minerale fredda a bordo.",
   "highlights": [
    "Grande Moschea Sheikh Zayed, con abaya fornita all'ingresso",
    "Qasr Al Watan, il palazzo presidenziale in funzione, visitato dall'interno",
@@ -136651,7 +136651,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: tour guidato in kayak intorno al Louvre",
   "metaDescription": "Un'ora sull'acqua intorno al Louvre Abu Dhabi, la prospettiva per cui l'edificio e stato progettato e quella che quasi nessuno vede.",
   "shortDescription": "Un'ora sull'acqua intorno al Louvre Abu Dhabi, la prospettiva per cui l'edificio e stato progettato e quella che quasi nessuno vede.",
-  "fullDescription": "Un'ora sull'acqua intorno al Louvre Abu Dhabi, la prospettiva per cui l'edificio e stato progettato e quella che quasi nessuno vede.\n\nIl percorso passa vicino alle installazioni all'aperto, alla stessa altezza dell'occhio, abbastanza vicino da vedere il reticolo della cupola.\n\nL'acqua e piatta e riparata, e non serve esperienza precedente: guida, giubbotto di salvataggio, sacche impermeabili e briefing di sicurezza sono tutti inclusi.\n\nAttenzione: il museo e chiuso il lunedi, meglio scegliere un turno presto o tardo in estate per il caldo.",
+  "fullDescription": "Un'ora sull'acqua intorno al Louvre Abu Dhabi, la prospettiva per cui l'edificio e stato progettato e quella che quasi nessuno vede.\n\nIl percorso passa vicino alle installazioni all'aperto, alla stessa altezza dell'occhio, abbastanza vicino da vedere il reticolo della cupola.\n\nL'acqua e piatta e riparata, e non serve esperienza precedente: guida, giubbotto di salvataggio, sacche impermeabili e briefing di sicurezza sono tutti inclusi.\n\nAttenzione: il museo è chiuso il lunedi, meglio scegliere un turno presto o tardo in estate per il caldo.",
   "highlights": [
    "Un'ora intorno alla cupola del Louvre vista dall'acqua",
    "Passa accanto alle installazioni all'aperto, abbastanza vicino da vedere il reticolo",
@@ -136676,9 +136676,9 @@ export const IT_TOURS: Record<string, TourT> = {
  "abu-dhabi-half-day-city-tour-with-grand-mosque-and-heritage-village": {
   "title": "Abu Dhabi: tour cittadino di mezza giornata con la Grande Moschea e il Villaggio del Patrimonio",
   "metaTitle": "Abu Dhabi: tour cittadino di mezza giornata con la Grande Moschea e il Villaggio del Patrimonio",
-  "metaDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna gia in citta o arriva con solo una mattinata a disposizione.",
-  "shortDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna gia in citta o arriva con solo una mattinata a disposizione.",
-  "fullDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna gia in citta o arriva con solo una mattinata a disposizione.\n\nLa Grande Moschea Sheikh Zayed viene prima, con ingresso e abaya inclusi. Segue il Villaggio del Patrimonio, con un souq funzionante e lo skyline della Corniche visibile oltre l'acqua.\n\nIl mercato dei datteri e una sosta locale vera, non una tappa organizzata. Completano il giro un passaggio lungo la Corniche con l'Emirates Palace e Saadiyat Island.\n\nCinque ore in tutto, con ritiro e riaccompagno in hotel ad Abu Dhabi.",
+  "metaDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna già in città o arriva con solo una mattinata a disposizione.",
+  "shortDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna già in città o arriva con solo una mattinata a disposizione.",
+  "fullDescription": "Cinque ore bastano per l'essenziale di Abu Dhabi se qualcun altro guida, ed e la versione compatta per chi soggiorna già in città o arriva con solo una mattinata a disposizione.\n\nLa Grande Moschea Sheikh Zayed viene prima, con ingresso e abaya inclusi. Segue il Villaggio del Patrimonio, con un souq funzionante e lo skyline della Corniche visibile oltre l'acqua.\n\nIl mercato dei datteri e una sosta locale vera, non una tappa organizzata. Completano il giro un passaggio lungo la Corniche con l'Emirates Palace e Saadiyat Island.\n\nCinque ore in tutto, con ritiro e riaccompagno in hotel ad Abu Dhabi.",
   "highlights": [
    "Grande Moschea Sheikh Zayed con ingresso e abaya incluse",
    "Villaggio del Patrimonio con un souq funzionante e la Corniche sullo sfondo",
@@ -136708,7 +136708,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: tour di mezza giornata con ritiro da aeroporto o porto crociere",
   "metaDescription": "Pensato per due situazioni in cui un tour cittadino normale non funziona: un lungo scalo all'aeroporto di Abu Dhabi, e una nave da crociera che attracca per il giorno al porto di Zayed. Il ritiro avviene da entrambi, con gli orari organizzati intorno al tuo volo o arrivo.",
   "shortDescription": "Pensato per due situazioni in cui un tour cittadino normale non funziona: un lungo scalo all'aeroporto di Abu Dhabi, e una nave da crociera che attracca per il giorno al porto di Zayed. Il ritiro avviene da entrambi, con gli orari organizzati intorno al tuo volo o arrivo.",
-  "fullDescription": "Pensato per due situazioni in cui un tour cittadino normale non funziona: un lungo scalo all'aeroporto di Abu Dhabi, e una nave da crociera che attracca per il giorno al porto di Zayed. Il ritiro avviene da entrambi, con gli orari organizzati intorno al tuo volo o arrivo.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il palazzo presidenziale ancora in funzione, visto dall'interno. Poi la terrazza panoramica delle Etihad Towers, a 300 metri d'altezza.\n\nUna sosta fotografica al Louvre Abu Dhabi completa il giro.\n\nAttenzione: confermiamo che la moschea e il palazzo siano aperti nella tua data prima che tu paghi. Il ritiro da Dubai non e incluso in questa versione.",
+  "fullDescription": "Pensato per due situazioni in cui un tour cittadino normale non funziona: un lungo scalo all'aeroporto di Abu Dhabi, e una nave da crociera che attracca per il giorno al porto di Zayed. Il ritiro avviene da entrambi, con gli orari organizzati intorno al tuo volo o arrivo.\n\nLa Grande Moschea Sheikh Zayed viene prima, con l'abaya fornita all'ingresso. Segue Qasr Al Watan, il palazzo presidenziale ancora in funzione, visto dall'interno. Poi la terrazza panoramica delle Etihad Towers, a 300 metri d'altezza.\n\nUna sosta fotografica al Louvre Abu Dhabi completa il giro.\n\nAttenzione: confermiamo che la moschea e il palazzo siano aperti nella tua data prima che tu paghi. Il ritiro da Dubai non è incluso in questa versione.",
   "highlights": [
    "Ritiro dall'aeroporto di Abu Dhabi o dal terminal crociere, calibrato sui tuoi orari",
    "Grande Moschea Sheikh Zayed con l'abaya fornita all'ingresso",
@@ -136735,9 +136735,9 @@ export const IT_TOURS: Record<string, TourT> = {
  "abu-dhabi-private-helicopter-tour-over-the-corniche": {
   "title": "Abu Dhabi: tour privato in elicottero sopra la Corniche",
   "metaTitle": "Abu Dhabi: tour privato in elicottero sopra la Corniche",
-  "metaDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della citta e abbastanza breve perche nessuno si stanchi.",
-  "shortDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della citta e abbastanza breve perche nessuno si stanchi.",
-  "fullDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della citta e abbastanza breve perche nessuno si stanchi.\n\nL'aereo e tuo e basta: diciassette minuti privati, con la Corniche, l'Emirates Palace, il Marina Mall e la Grande Moschea visti dall'alto.\n\nUn commento dal vivo arriva attraverso le cuffie, e ogni passeggero ha un posto vicino al finestrino, cosa che su un volo condiviso non e garantita.\n\nAttenzione: il volo dipende dal meteo, meglio lasciare un giorno libero prima e dopo.",
+  "metaDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della città e abbastanza breve perché nessuno si stanchi.",
+  "shortDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della città e abbastanza breve perché nessuno si stanchi.",
+  "fullDescription": "Un volo privato di diciassette minuti sopra Abu Dhabi, abbastanza lungo da vedere la forma intera della città e abbastanza breve perché nessuno si stanchi.\n\nL'aereo e tuo e basta: diciassette minuti privati, con la Corniche, l'Emirates Palace, il Marina Mall e la Grande Moschea visti dall'alto.\n\nUn commento dal vivo arriva attraverso le cuffie, e ogni passeggero ha un posto vicino al finestrino, cosa che su un volo condiviso non e garantita.\n\nAttenzione: il volo dipende dal meteo, meglio lasciare un giorno libero prima e dopo.",
   "highlights": [
    "Diciassette minuti, privato: l'aereo e tutto tuo",
    "Corniche, Emirates Palace, Marina Mall e Grande Moschea dall'alto",
@@ -136759,9 +136759,9 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Abu Dhabi: tour guidato in kayak al Reem Central Park",
   "metaDescription": "Due ore a pagaiare lungo i canali del Reem Central Park, nel centro di Abu Dhabi e tuttavia quasi del tutto silenzioso una volta che sei in acqua.",
   "shortDescription": "Due ore a pagaiare lungo i canali del Reem Central Park, nel centro di Abu Dhabi e tuttavia quasi del tutto silenzioso una volta che sei in acqua.",
-  "fullDescription": "Due ore a pagaiare lungo i canali del Reem Central Park, nel centro di Abu Dhabi e tuttavia quasi del tutto silenzioso una volta che sei in acqua.\n\nI canali si snodano tra rive piantumate con lo skyline sopra di te, su acqua piatta e riparata nel cuore della citta.\n\nNon serve esperienza: i kayak sono stabili e il ritmo e guidato. Kayak, giubbotto di salvataggio, sacche impermeabili e frutta fresca sono inclusi.\n\nAttenzione: porta una borraccia riutilizzabile, c'e una stazione di ricarica e non acqua in bottiglia.",
+  "fullDescription": "Due ore a pagaiare lungo i canali del Reem Central Park, nel centro di Abu Dhabi e tuttavia quasi del tutto silenzioso una volta che sei in acqua.\n\nI canali si snodano tra rive piantumate con lo skyline sopra di te, su acqua piatta e riparata nel cuore della città.\n\nNon serve esperienza: i kayak sono stabili e il ritmo e guidato. Kayak, giubbotto di salvataggio, sacche impermeabili e frutta fresca sono inclusi.\n\nAttenzione: porta una borraccia riutilizzabile, c'e una stazione di ricarica e non acqua in bottiglia.",
   "highlights": [
-   "Due ore su acqua piatta e riparata nel centro della citta",
+   "Due ore su acqua piatta e riparata nel centro della città",
    "Canali tortuosi tra rive piantumate, con lo skyline sopra",
    "Non serve esperienza, kayak stabili e ritmo guidato",
    "Kayak, giubbotto di salvataggio, sacche impermeabili e frutta fresca inclusi",
@@ -136788,7 +136788,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Al Marmoom: safari del patrimonio nel deserto con G-Class vintage e cena all'oasi",
   "metaDescription": "Il safari nel deserto per chi non vuole un safari nel deserto.",
   "shortDescription": "Il safari nel deserto per chi non vuole un safari nel deserto.",
-  "fullDescription": "Il safari nel deserto per chi non vuole un safari nel deserto.\n\nAl Marmoom e una riserva protetta e non un campo di dune commerciale: niente guida sulle dune. Al suo posto, un giro su una G-Class vintage e una carovana di cammelli invece di un recinto.\n\nSegue un'accoglienza in un villaggio beduino con un falco sul guanto, e la cena si svolge all'oasi di Al Marmoom sotto le luci.\n\nE il safari per chi non puo o preferisce non fare la guida sulle dune.",
+  "fullDescription": "Il safari nel deserto per chi non vuole un safari nel deserto.\n\nAl Marmoom è una riserva protetta e non un campo di dune commerciale: niente guida sulle dune. Al suo posto, un giro su una G-Class vintage e una carovana di cammelli invece di un recinto.\n\nSegue un'accoglienza in un villaggio beduino con un falco sul guanto, e la cena si svolge all'oasi di Al Marmoom sotto le luci.\n\nE il safari per chi non puo o preferisce non fare la guida sulle dune.",
   "highlights": [
    "Riserva protetta, non un campo di dune commerciale, niente guida sulle dune",
    "Giro su una G-Class vintage e carovana di cammelli invece di un recinto",
@@ -136842,13 +136842,13 @@ export const IT_TOURS: Record<string, TourT> = {
  "atlantis-aquaventure-waterpark-day-pass-dubai": {
   "title": "Dubai: biglietto giornaliero per il parco acquatico Atlantis Aquaventure",
   "metaTitle": "Dubai: biglietto giornaliero per il parco acquatico Atlantis Aquaventure",
-  "metaDescription": "Il piu grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.",
-  "shortDescription": "Il piu grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.",
-  "fullDescription": "Il piu grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.\n\nTra gli scivoli ci sono uno scivolo sulla laguna degli squali, cadute quasi verticali e un simulatore di surf.\n\nL'accesso alla spiaggia privata e incluso, e di solito e la parte piu tranquilla. Lo stesso biglietto da accesso anche al Lost Chambers Aquarium.\n\nAttenzione: asciugamani e armadietti costano extra, meglio portare il proprio asciugamano.",
+  "metaDescription": "Il più grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.",
+  "shortDescription": "Il più grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.",
+  "fullDescription": "Il più grande parco acquatico del Medio Oriente, sulla Palm, con oltre cento scivoli e una spiaggia privata annessa, e una giornata intera serve davvero per usarlo tutto.\n\nTra gli scivoli ci sono uno scivolo sulla laguna degli squali, cadute quasi verticali e un simulatore di surf.\n\nL'accesso alla spiaggia privata è incluso, e di solito e la parte più tranquilla. Lo stesso biglietto da accesso anche al Lost Chambers Aquarium.\n\nAttenzione: asciugamani e armadietti costano extra, meglio portare il proprio asciugamano.",
   "highlights": [
-   "Oltre cento scivoli, il piu grande parco acquatico del Medio Oriente",
+   "Oltre cento scivoli, il più grande parco acquatico del Medio Oriente",
    "Scivolo sulla laguna degli squali, cadute quasi verticali e un simulatore di surf",
-   "Accesso alla spiaggia privata incluso, di solito la parte piu tranquilla",
+   "Accesso alla spiaggia privata incluso, di solito la parte più tranquilla",
    "Lost Chambers Aquarium con lo stesso biglietto",
    "attenzione: asciugamani e armadietti costano extra, porta il tuo asciugamano"
   ],
@@ -136868,10 +136868,10 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Atlantis Lost World Aquarium, biglietto giornaliero a Dubai",
   "metaDescription": "L'acquario dentro Atlantis The Palm, costruito attorno alla Ambassador Lagoon: una vasca enorme che ospita decine di migliaia di animali marini, visibile attraverso finestre larghe diversi metri.",
   "shortDescription": "L'acquario dentro Atlantis The Palm, costruito attorno alla Ambassador Lagoon: una vasca enorme che ospita decine di migliaia di animali marini, visibile attraverso finestre larghe diversi metri.",
-  "fullDescription": "L'acquario dentro Atlantis The Palm e costruito attorno alla Ambassador Lagoon, una vasca unica cosi grande da avere finestre larghe diversi metri, dove nuotano decine di migliaia di animali marini.\n\nL'ambientazione e pensata come una citta perduta: le vasche sono incastonate in rovine e passaggi, non allineate in corridoi anonimi. Durante la giornata si susseguono spettacoli dal vivo con sirene vere.\n\nCome opzioni aggiuntive puoi scegliere un tour dietro le quinte di 45 minuti all'ospedale per pesci, alla sala di preparazione del cibo e al vivaio degli squali, oppure un tridente souvenir interattivo.\n\nAttenzione: questo biglietto vale solo per l'acquario. Il parco acquatico accanto richiede un biglietto separato.",
+  "fullDescription": "L'acquario dentro Atlantis The Palm è costruito attorno alla Ambassador Lagoon, una vasca unica così grande da avere finestre larghe diversi metri, dove nuotano decine di migliaia di animali marini.\n\nL'ambientazione è pensata come una città perduta: le vasche sono incastonate in rovine e passaggi, non allineate in corridoi anonimi. Durante la giornata si susseguono spettacoli dal vivo con sirene vere.\n\nCome opzioni aggiuntive puoi scegliere un tour dietro le quinte di 45 minuti all'ospedale per pesci, alla sala di preparazione del cibo e al vivaio degli squali, oppure un tridente souvenir interattivo.\n\nAttenzione: questo biglietto vale solo per l'acquario. Il parco acquatico accanto richiede un biglietto separato.",
   "highlights": [
    "La Ambassador Lagoon, una vasca unica con finestre larghe diversi metri",
-   "Ambientazione da citta perduta, con vasche incastonate in rovine e passaggi",
+   "Ambientazione da città perduta, con vasche incastonate in rovine e passaggi",
    "Spettacoli dal vivo con sirene durante il giorno",
    "Tour dietro le quinte e tridente souvenir come opzioni aggiuntive",
    "attenzione: solo acquario, il parco acquatico accanto ha un biglietto separato"
@@ -136893,7 +136893,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "AYA Universe Dubai, biglietto di ingresso",
   "metaDescription": "Dodici zone immersive a WAFI City costruite attorno a luce, suono e proiezioni: un ambiente digitale da attraversare a piedi, non un museo, e una delle poche cose a Dubai pensate per essere guardate invece che percorse su un veicolo.",
   "shortDescription": "Dodici zone immersive a WAFI City costruite attorno a luce, suono e proiezioni: un ambiente digitale da attraversare a piedi, non un museo, e una delle poche cose a Dubai pensate per essere guardate invece che percorse su un veicolo.",
-  "fullDescription": "AYA Universe raccoglie dodici zone interattive dentro WAFI City, ognuna costruita attorno a luce, suono e proiezioni: dall'aurora boreale a una superficie lunare, e un ambiente digitale da attraversare a piedi, non un museo con bacheche.\n\nLe stanze reagiscono al tocco e al movimento, e tutto si trova al chiuso con l'aria condizionata. Funziona bene sia per adulti che per bambini, cosa rara tra le attrazioni di Dubai.\n\nIl parcheggio e incluso nel biglietto, e House of Hype Discover Pass e disponibile come aggiunta opzionale al momento della prenotazione.",
+  "fullDescription": "AYA Universe raccoglie dodici zone interattive dentro WAFI City, ognuna costruita attorno a luce, suono e proiezioni: dall'aurora boreale a una superficie lunare, e un ambiente digitale da attraversare a piedi, non un museo con bacheche.\n\nLe stanze reagiscono al tocco e al movimento, e tutto si trova al chiuso con l'aria condizionata. Funziona bene sia per adulti che per bambini, cosa rara tra le attrazioni di Dubai.\n\nIl parcheggio è incluso nel biglietto, e House of Hype Discover Pass è disponibile come aggiunta opzionale al momento della prenotazione.",
   "highlights": [
    "Dodici zone interattive di luce e suono, dall'aurora boreale alla superficie lunare",
    "Stanze che reagiscono al tocco e al movimento",
@@ -136915,13 +136915,13 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Burj Khalifa livelli 124 e 125 e Dubai Aquarium, biglietto combinato",
   "metaDescription": "Le due attrazioni che quasi tutti visitano a Dubai, comprate insieme: entrambe si trovano dentro il Dubai Mall, quindi la coppia costa una sola uscita invece di due.",
   "shortDescription": "Le due attrazioni che quasi tutti visitano a Dubai, comprate insieme: entrambe si trovano dentro il Dubai Mall, quindi la coppia costa una sola uscita invece di due.",
-  "fullDescription": "Il Burj Khalifa e il Dubai Aquarium sono le due attrazioni che quasi tutti i visitatori fanno a Dubai, e questo biglietto le compra insieme: entrambe si trovano dentro il Dubai Mall, quindi la coppia costa una sola uscita invece di due.\n\nSali ai livelli 124 e 125 della torre, a circa 450 metri di altezza, con una fascia orario fissa scelta al momento della prenotazione. Poi passi al tunnel da dieci milioni di litri del Dubai Aquarium, allo Underwater Zoo e all'Osservatorio Subacqueo.\n\nAttenzione: il livello 148, un piano piu alto e separato, non e incluso in questo biglietto.",
+  "fullDescription": "Il Burj Khalifa e il Dubai Aquarium sono le due attrazioni che quasi tutti i visitatori fanno a Dubai, e questo biglietto le compra insieme: entrambe si trovano dentro il Dubai Mall, quindi la coppia costa una sola uscita invece di due.\n\nSali ai livelli 124 e 125 della torre, a circa 450 metri di altezza, con una fascia orario fissa scelta al momento della prenotazione. Poi passi al tunnel da dieci milioni di litri del Dubai Aquarium, allo Underwater Zoo e all'Osservatorio Subacqueo.\n\nAttenzione: il livello 148, un piano più alto e separato, non è incluso in questo biglietto.",
   "highlights": [
    "Burj Khalifa livelli 124 e 125, a circa 450 metri di altezza",
    "Il tunnel da dieci milioni di litri del Dubai Aquarium, lo Underwater Zoo e i pinguini",
    "Entrambe dentro il Dubai Mall, quindi una sola uscita invece di due",
    "Fascia orario fissa per la torre, scelta alla prenotazione",
-   "attenzione: il livello 148 e un piano separato piu alto e non e incluso"
+   "attenzione: il livello 148 e un piano separato più alto e non è incluso"
   ],
   "included": [
    "Biglietto di ingresso al Burj Khalifa (nella fascia orario scelta alla prenotazione)",
@@ -136936,11 +136936,11 @@ export const IT_TOURS: Record<string, TourT> = {
  "dibba-fujairah-snorkelling-day-trip-from-dubai": {
   "title": "Gita giornaliera di snorkeling a Dibba Fujairah da Dubai",
   "metaTitle": "Gita giornaliera di snorkeling a Dibba Fujairah da Dubai",
-  "metaDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: piu fresco, piu limpido, con barriere coralline vicine alla riva che rendono lo snorkeling in barca davvero gratificante.",
-  "shortDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: piu fresco, piu limpido, con barriere coralline vicine alla riva che rendono lo snorkeling in barca davvero gratificante.",
-  "fullDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: piu fresco, piu limpido, con barriere coralline cosi vicine alla riva che lo snorkeling fatto dalla barca mostra davvero qualcosa. Dibba, sulla costa di Fujairah, e il punto da cui partono le barche.\n\nLe barriere basse ospitano pesci pagliaccio, pesci pappagallo, razze e tartarughe, con le montagne che scendono dritte fino alla riva alle tue spalle. Attrezzatura, giubbotti salvagente, snack e bevande sono inclusi nel prezzo.\n\nAttenzione: il trasporto tra Dubai e Fujairah comporta un sovrapprezzo di 160 AED, da pagare all'arrivo, che copre sia l'andata che il ritorno.",
+  "metaDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: più fresco, più limpido, con barriere coralline vicine alla riva che rendono lo snorkeling in barca davvero gratificante.",
+  "shortDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: più fresco, più limpido, con barriere coralline vicine alla riva che rendono lo snorkeling in barca davvero gratificante.",
+  "fullDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: più fresco, più limpido, con barriere coralline così vicine alla riva che lo snorkeling fatto dalla barca mostra davvero qualcosa. Dibba, sulla costa di Fujairah, e il punto da cui partono le barche.\n\nLe barriere basse ospitano pesci pagliaccio, pesci pappagallo, razze e tartarughe, con le montagne che scendono dritte fino alla riva alle tue spalle. Attrezzatura, giubbotti salvagente, snack e bevande sono inclusi nel prezzo.\n\nAttenzione: il trasporto tra Dubai e Fujairah comporta un sovrapprezzo di 160 AED, da pagare all'arrivo, che copre sia l'andata che il ritorno.",
   "highlights": [
-   "Il Golfo dell'Oman, piu limpido e fresco della costa di Dubai",
+   "Il Golfo dell'Oman, più limpido e fresco della costa di Dubai",
    "Barriere coralline basse con pesci pagliaccio, pesci pappagallo, razze e tartarughe",
    "Montagne che scendono dritte fino alla riva alle tue spalle",
    "Attrezzatura, giubbotti, snack e bevande inclusi",
@@ -136951,7 +136951,7 @@ export const IT_TOURS: Record<string, TourT> = {
    "Giubbotto salvagente",
    "Acqua e bibite",
    "Snack",
-   "Trasporto: il trasporto tra Dubai e Fujairah e incluso con un sovrapprezzo di 160 AED extra, da pagare all'arrivo. Copre sia il viaggio di andata che quello di ritorno."
+   "Trasporto: il trasporto tra Dubai e Fujairah è incluso con un sovrapprezzo di 160 AED extra, da pagare all'arrivo. Copre sia il viaggio di andata che quello di ritorno."
   ],
   "notIncluded": [
    "Cibo"
@@ -136962,7 +136962,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Discover Scuba Diving a Dubai: la tua prima immersione",
   "metaDescription": "La sessione per chi non ha mai respirato sottacqua. Nessuna certificazione, nessun corso, nessuna esperienza precedente: un istruttore ti guida nella teoria a terra, ti prepara l'attrezzatura, e poi entra in acqua con te.",
   "shortDescription": "La sessione per chi non ha mai respirato sottacqua. Nessuna certificazione, nessun corso, nessuna esperienza precedente: un istruttore ti guida nella teoria a terra, ti prepara l'attrezzatura, e poi entra in acqua con te.",
-  "fullDescription": "Questa e la sessione pensata per chi non ha mai respirato sottacqua. Non serve certificazione, non serve un corso, non serve esperienza precedente: un istruttore ti guida nella teoria a terra, ti prepara l'attrezzatura, e poi entra in acqua insieme a te.\n\nL'intera sessione dura circa tre ore, e la maggior parte del tempo e dedicata a preparazione e teoria prima di entrare in acqua. L'istruttore resta con te per tutta la durata, attrezzatura e istruzione sono incluse.\n\nE il modo onesto per scoprire se vuoi imparare a immergerti sul serio.\n\nAttenzione: non prenotare questa attivita nelle 24 ore precedenti a un volo, e controlla prima le domande sul questionario medico.",
+  "fullDescription": "Questa è la sessione pensata per chi non ha mai respirato sottacqua. Non serve certificazione, non serve un corso, non serve esperienza precedente: un istruttore ti guida nella teoria a terra, ti prepara l'attrezzatura, e poi entra in acqua insieme a te.\n\nL'intera sessione dura circa tre ore, e la maggior parte del tempo è dedicata a preparazione e teoria prima di entrare in acqua. L'istruttore resta con te per tutta la durata, attrezzatura e istruzione sono incluse.\n\nE il modo onesto per scoprire se vuoi imparare a immergerti sul serio.\n\nAttenzione: non prenotare questa attivita nelle 24 ore precedenti a un volo, e controlla prima le domande sul questionario medico.",
   "highlights": [
    "Nessuna certificazione o esperienza richiesta: un istruttore resta con te per tutta la sessione",
    "Circa tre ore, la maggior parte dedicata a preparazione e teoria",
@@ -136981,13 +136981,13 @@ export const IT_TOURS: Record<string, TourT> = {
  "dubai-aquarium-and-underwater-zoo-ticket": {
   "title": "Dubai Aquarium e Underwater Zoo, biglietto di ingresso",
   "metaTitle": "Dubai Aquarium e Underwater Zoo, biglietto di ingresso",
-  "metaDescription": "La vasca da dieci milioni di litri davanti alla quale sei gia passato se sei stato al Dubai Mall: questo biglietto ti porta dentro invece di guardare dal pannello di vetro dei negozi.",
-  "shortDescription": "La vasca da dieci milioni di litri davanti alla quale sei gia passato se sei stato al Dubai Mall: questo biglietto ti porta dentro invece di guardare dal pannello di vetro dei negozi.",
-  "fullDescription": "La vasca da dieci milioni di litri davanti alla quale sei gia passato se sei stato al Dubai Mall diventa, con questo biglietto, qualcosa da attraversare invece che guardare dal pannello di vetro dei negozi.\n\nUn tunnel ti porta sotto razze e squali tigre della sabbia, e lo Underwater Zoo prosegue per habitat, con la Penguin Cove e il vivaio degli animali. L'intera visita dura circa un'ora, comodamente al chiuso.\n\nAttenzione: esistono diversi livelli di biglietto. Confermiamo quello giusto per te prima del pagamento.",
+  "metaDescription": "La vasca da dieci milioni di litri davanti alla quale sei già passato se sei stato al Dubai Mall: questo biglietto ti porta dentro invece di guardare dal pannello di vetro dei negozi.",
+  "shortDescription": "La vasca da dieci milioni di litri davanti alla quale sei già passato se sei stato al Dubai Mall: questo biglietto ti porta dentro invece di guardare dal pannello di vetro dei negozi.",
+  "fullDescription": "La vasca da dieci milioni di litri davanti alla quale sei già passato se sei stato al Dubai Mall diventa, con questo biglietto, qualcosa da attraversare invece che guardare dal pannello di vetro dei negozi.\n\nUn tunnel ti porta sotto razze e squali tigre della sabbia, e lo Underwater Zoo prosegue per habitat, con la Penguin Cove e il vivaio degli animali. L'intera visita dura circa un'ora, comodamente al chiuso.\n\nAttenzione: esistono diversi livelli di biglietto. Confermiamo quello giusto per te prima del pagamento.",
   "highlights": [
    "Dentro la vasca da dieci milioni di litri, non solo guardando dal mall",
    "Tunnel con razze e squali tigre della sabbia sopra la testa",
-   "Underwater Zoo per habitat, piu Penguin Cove e il vivaio degli animali",
+   "Underwater Zoo per habitat, più Penguin Cove e il vivaio degli animali",
    "Circa un'ora, comodamente al chiuso",
    "attenzione: esistono diversi livelli di biglietto, confermiamo quello giusto prima del pagamento"
   ],
@@ -137005,12 +137005,12 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai, crociera privata su yacht Azimut 42 per piccoli gruppi",
   "metaDescription": "Un Azimut da 42 piedi, noleggiato privatamente: la dimensione giusta per un piccolo gruppo, abbastanza grande da avere un salone, un ponte e ombra, abbastanza piccola da non essere venduta a venti estranei.",
   "shortDescription": "Un Azimut da 42 piedi, noleggiato privatamente: la dimensione giusta per un piccolo gruppo, abbastanza grande da avere un salone, un ponte e ombra, abbastanza piccola da non essere venduta a venti estranei.",
-  "fullDescription": "Un Azimut da 42 piedi, noleggiato privatamente, e la dimensione che funziona davvero per un piccolo gruppo: abbastanza grande da avere un salone, una cabina, un bagno e ombra, abbastanza piccola da non essere venduta a venti estranei.\n\nNavighi davanti a The Palm, Atlantis e il Burj Al Arab al tuo ritmo. Puoi portare cibo e bevande tue, come permettono la maggior parte dei noleggi, e spesso costa meno a persona rispetto a una crociera condivisa premium con sei o piu passeggeri.\n\nLe fasce al tramonto si esauriscono per prime.",
+  "fullDescription": "Un Azimut da 42 piedi, noleggiato privatamente, e la dimensione che funziona davvero per un piccolo gruppo: abbastanza grande da avere un salone, una cabina, un bagno e ombra, abbastanza piccola da non essere venduta a venti estranei.\n\nNavighi davanti a The Palm, Atlantis e il Burj Al Arab al tuo ritmo. Puoi portare cibo e bevande tue, come permettono la maggior parte dei noleggi, e spesso costa meno a persona rispetto a una crociera condivisa premium con sei o più passeggeri.\n\nLe fasce al tramonto si esauriscono per prime.",
   "highlights": [
    "Un Azimut da 42 piedi noleggiato privatamente, con salone, cabina, bagno e ombra",
    "The Palm, Atlantis e il Burj Al Arab al tuo ritmo",
    "Puoi portare cibo e bevande tue, come permettono la maggior parte dei noleggi",
-   "Spesso costa meno a testa di una crociera condivisa premium con sei o piu persone",
+   "Spesso costa meno a testa di una crociera condivisa premium con sei o più persone",
    "Le fasce al tramonto si esauriscono per prime"
   ],
   "included": [
@@ -137059,8 +137059,8 @@ export const IT_TOURS: Record<string, TourT> = {
   ]
  },
  "dubai-convertible-mustang-city-tour-with-a-guide": {
-  "title": "Dubai, tour della citta in Mustang decappottabile con guida",
-  "metaTitle": "Dubai, tour della citta in Mustang decappottabile con guida",
+  "title": "Dubai, tour della città in Mustang decappottabile con guida",
+  "metaTitle": "Dubai, tour della città in Mustang decappottabile con guida",
   "metaDescription": "I monumenti di Dubai sono stati costruiti per essere visti sfilando lento davanti a loro, e c'e una differenza tra vederli dal finestrino di un pullman e vederli da un'auto scoperta.",
   "shortDescription": "I monumenti di Dubai sono stati costruiti per essere visti sfilando lento davanti a loro, e c'e una differenza tra vederli dal finestrino di un pullman e vederli da un'auto scoperta.",
   "fullDescription": "I monumenti di Dubai sono stati pensati per essere visti sfilando lentamente davanti a loro, e c'e una vera differenza tra vederli dal finestrino di un pullman e vederli da un'auto scoperta.\n\nSali su una Mustang o Camaro decappottabile con il tetto abbassato, accompagnato da una guida. Il percorso copre Sheikh Zayed Road, Downtown, la costa di Jumeirah, The Palm e Bluewaters, con soste fotografiche incluse e la guida che scatta le foto per te.\n\nIl momento migliore sono le ultime due ore di luce del giorno, ed e ancora meglio in inverno.\n\nAttenzione: le auto hanno due porte, quindi non e l'opzione giusta per una famiglia numerosa.",
@@ -137084,9 +137084,9 @@ export const IT_TOURS: Record<string, TourT> = {
  "dubai-desert-park-horseback-riding-hour": {
   "title": "Dubai, un'ora a cavallo nel parco desertico",
   "metaTitle": "Dubai, un'ora a cavallo nel parco desertico",
-  "metaDescription": "Un'ora a cavallo attraverso un parco desertico fuori citta, una proposta piu tranquilla di qualsiasi altra attivita nella lista di Dubai.",
-  "shortDescription": "Un'ora a cavallo attraverso un parco desertico fuori citta, una proposta piu tranquilla di qualsiasi altra attivita nella lista di Dubai.",
-  "fullDescription": "Un'ora a cavallo attraverso un parco desertico fuori citta, un'esperienza molto piu tranquilla di qualsiasi altra attivita nella lista di Dubai: niente dune, ma vero terreno di parco.\n\nRicevi un briefing di sicurezza e un casco prima di partire, e i principianti assoluti sono la normalita qui. Dopo il giro c'e una sessione in cui ti occupi della cura del cavallo.\n\nIl momento migliore e all'alba, ed e un'attivita invernale disponibile tra giugno e settembre.\n\nAttenzione: indossa pantaloni lunghi e scarpe chiuse, cavalcare in pantaloncini e un errore.",
+  "metaDescription": "Un'ora a cavallo attraverso un parco desertico fuori città, una proposta più tranquilla di qualsiasi altra attivita nella lista di Dubai.",
+  "shortDescription": "Un'ora a cavallo attraverso un parco desertico fuori città, una proposta più tranquilla di qualsiasi altra attivita nella lista di Dubai.",
+  "fullDescription": "Un'ora a cavallo attraverso un parco desertico fuori città, un'esperienza molto più tranquilla di qualsiasi altra attivita nella lista di Dubai: niente dune, ma vero terreno di parco.\n\nRicevi un briefing di sicurezza e un casco prima di partire, e i principianti assoluti sono la normalita qui. Dopo il giro c'e una sessione in cui ti occupi della cura del cavallo.\n\nIl momento migliore e all'alba, ed e un'attivita invernale disponibile tra giugno e settembre.\n\nAttenzione: indossa pantaloni lunghi e scarpe chiuse, cavalcare in pantaloncini e un errore.",
   "highlights": [
    "Un'ora a cavallo attraverso un parco desertico, non tra le dune",
    "Briefing di sicurezza e casco incluso; i principianti assoluti sono la normalita qui",
@@ -137120,7 +137120,7 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "included": [
    "Crociera di due ore su yacht di lusso nella Dubai Marina, passando davanti ai monumenti principali",
-   "Cena a piu portate con menu curato da uno chef stellato Michelin",
+   "Cena a più portate con menu curato da uno chef stellato Michelin",
    "Cantante dal vivo e intrattenimento a bordo",
    "Bibite illimitate",
    "Acqua in bottiglia, caffe e te",
@@ -137141,12 +137141,12 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai Dinner in the Sky: cena di tre portate a cinquanta metri",
   "metaDescription": "Un tavolo per ventidue persone, imbullonato a una piattaforma, alzato a cinquanta metri da una grua e lasciato li mentre mangi. Gli chef e l'equipaggio salgono con te al centro, ed e questo il dettaglio che fa funzionare il tutto.",
   "shortDescription": "Un tavolo per ventidue persone, imbullonato a una piattaforma, alzato a cinquanta metri da una grua e lasciato li mentre mangi. Gli chef e l'equipaggio salgono con te al centro, ed e questo il dettaglio che fa funzionare il tutto.",
-  "fullDescription": "Un tavolo per ventidue persone, imbullonato a una piattaforma, viene alzato a cinquanta metri da una grua e lasciato li mentre mangi. Gli chef e l'equipaggio salgono con te al centro della piattaforma, ed e proprio questo dettaglio a far funzionare l'esperienza: il cibo viene cucinato e servito mentre sei in aria, non preparato a terra.\n\nPuoi scegliere tra diversi menu, incluso uno vegetariano, al momento della prenotazione. La piattaforma ruota lentamente, cosi tutti ottengono la vista su Downtown e sul Burj Khalifa. L'intera esperienza dura poco piu di un'ora in aria.\n\nAttenzione: sei assicurato con un'imbracatura e non puoi lasciare il tavolo, e il meteo puo far cambiare la tua fascia orario.",
+  "fullDescription": "Un tavolo per ventidue persone, imbullonato a una piattaforma, viene alzato a cinquanta metri da una grua e lasciato li mentre mangi. Gli chef e l'equipaggio salgono con te al centro della piattaforma, ed e proprio questo dettaglio a far funzionare l'esperienza: il cibo viene cucinato e servito mentre sei in aria, non preparato a terra.\n\nPuoi scegliere tra diversi menu, incluso uno vegetariano, al momento della prenotazione. La piattaforma ruota lentamente, così tutti ottengono la vista su Downtown e sul Burj Khalifa. L'intera esperienza dura poco più di un'ora in aria.\n\nAttenzione: sei assicurato con un'imbracatura e non puoi lasciare il tavolo, e il meteo puo far cambiare la tua fascia orario.",
   "highlights": [
    "Una cena di tre portate a cinquanta metri, cucinata e servita sulla piattaforma",
    "Scelta di menu incluso uno vegetariano, selezionata alla prenotazione",
-   "Rotazione lenta cosi tutti vedono Downtown e il Burj Khalifa",
-   "Poco piu di un'ora in aria",
+   "Rotazione lenta così tutti vedono Downtown e il Burj Khalifa",
+   "Poco più di un'ora in aria",
    "attenzione: sei assicurato con un'imbracatura senza poter lasciare il tavolo, e il meteo puo cambiare la tua fascia orario"
   ],
   "included": [
@@ -137222,7 +137222,7 @@ export const IT_TOURS: Record<string, TourT> = {
   "metaTitle": "Dubai Fountain, giro in abra sul lago al Burj Khalifa",
   "metaDescription": "Trenta minuti sul Burj Lake a bordo di un'abra tradizionale in legno, ai piedi del Burj Khalifa, mentre la fontana e in funzione.",
   "shortDescription": "Trenta minuti sul Burj Lake a bordo di un'abra tradizionale in legno, ai piedi del Burj Khalifa, mentre la fontana e in funzione.",
-  "fullDescription": "Trenta minuti sul Burj Lake a bordo di un'abra tradizionale in legno, ai piedi del Burj Khalifa, mentre la fontana e in funzione.\n\nTi trovi dentro l'arco della Dubai Fountain invece che dietro la ringhiera, direttamente sotto il Burj Khalifa con il mall illuminato lungo la riva. L'abra e la stessa imbarcazione tradizionale usata sul Dubai Creek.\n\nI trenta minuti bastano a catturare uno spettacolo completo e di solito parte di un altro.\n\nAttenzione: le fasce serali si esauriscono nei fine settimana, aspettati qualche schizzo d'acqua.",
+  "fullDescription": "Trenta minuti sul Burj Lake a bordo di un'abra tradizionale in legno, ai piedi del Burj Khalifa, mentre la fontana e in funzione.\n\nTi trovi dentro l'arco della Dubai Fountain invece che dietro la ringhiera, direttamente sotto il Burj Khalifa con il mall illuminato lungo la riva. L'abra è la stessa imbarcazione tradizionale usata sul Dubai Creek.\n\nI trenta minuti bastano a catturare uno spettacolo completo e di solito parte di un altro.\n\nAttenzione: le fasce serali si esauriscono nei fine settimana, aspettati qualche schizzo d'acqua.",
   "highlights": [
    "Dentro l'arco della Dubai Fountain invece che dietro la ringhiera",
    "Direttamente sotto il Burj Khalifa con il mall illuminato lungo la riva",
@@ -137520,6 +137520,969 @@ export const IT_TOURS: Record<string, TourT> = {
    "Occasioni per foto"
   ],
   "notIncluded": []
+ },
+ "dubai-marina-yacht-tour-with-breakfast-or-barbecue": {
+  "title": "Tour in yacht a Dubai Marina con colazione o barbecue",
+  "metaTitle": "Tour in yacht a Dubai Marina con colazione o barbecue",
+  "metaDescription": "Un'ora in yacht da Dubai Marina, il modo piu economico per vedere questo tratto di costa dall'acqua e abbastanza tempo per percorrerlo per intero.",
+  "shortDescription": "Un'ora in yacht da Dubai Marina, il modo piu economico per vedere questo tratto di costa dall'acqua e abbastanza tempo per percorrerlo per intero.",
+  "fullDescription": "Un'ora in yacht da Dubai Marina, il modo piu economico per vedere questo tratto di costa dall'acqua e abbastanza tempo per percorrerlo per intero.\n\nIl prezzo comprende la crociera in yacht, una guida turistica virtuale, il capitano, i giubbotti di salvataggio, il salone climatizzato con wifi gratuito e, con l'opzione da 2 o 3 ore, il barbecue a bordo. La colazione leggera e inclusa solo se scegli l'opzione relativa. Non comprende ritiro e riaccompagno in hotel, nuoto, esigenze alimentari particolari, bevande alcoliche dal bar e, nella versione da un'ora, il cibo.\n\nL'appuntamento e ad Al Hubob St, a Dubai Marina.",
+  "highlights": [],
+  "included": [
+   "Crociera in yacht",
+   "Guida turistica virtuale",
+   "Capitano",
+   "Giubbotto di salvataggio",
+   "Colazione leggera (se opzione selezionata)",
+   "Salone completamente climatizzato con accesso wifi gratuito",
+   "Cibo da barbecue (se selezionata opzione 2 ore/3 ore)"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Nuoto",
+   "Esigenze alimentari particolari",
+   "Bevande alcoliche dal bar",
+   "Cibo (nell'opzione da 1 ora)"
+  ]
+ },
+ "dubai-miracle-garden-entry-ticket-with-hotel-transfer": {
+  "title": "Dubai Miracle Garden: biglietto d'ingresso con transfer in hotel",
+  "metaTitle": "Dubai Miracle Garden: biglietto d'ingresso con transfer in hotel",
+  "metaDescription": "Circa cinquanta milioni di fiori disposti in archi, cuori, un Airbus A380 a grandezza naturale coperto interamente di fiori e un villaggio dei Puffi, in pieno deserto, che e proprio il senso della cosa.",
+  "shortDescription": "Circa cinquanta milioni di fiori disposti in archi, cuori, un Airbus A380 a grandezza naturale coperto interamente di fiori e un villaggio dei Puffi, in pieno deserto, che e proprio il senso della cosa.",
+  "fullDescription": "Circa cinquanta milioni di fiori disposti in archi, cuori, un Airbus A380 a grandezza naturale coperto interamente di fiori e un villaggio dei Puffi, in pieno deserto, che e proprio il senso della cosa.\n\nIl prezzo comprende il ritiro in hotel (transfer condiviso o privato), il biglietto d'ingresso al Miracle Garden (da esibire il giorno della visita), il riaccompagno in hotel e, se selezioni l'opzione, anche il biglietto per il Global Village. Non comprende mance e altre spese personali. L'operatore confermera l'orario e il punto esatto di ritiro dopo la conferma della prenotazione.\n\nIl giardino chiude per l'estate, piu o meno da giugno a ottobre, e le date cambiano ogni anno: vale la pena controllare prima di prenotare. Le ore migliori sono le prime o le ultime due della giornata.",
+  "highlights": [],
+  "included": [
+   "Ritiro in hotel (transfer condiviso o privato)",
+   "Biglietto d'ingresso al Miracle Garden (da esibire il giorno dell'attivita)",
+   "Biglietto d'ingresso al Global Village (se opzione selezionata)",
+   "Riaccompagno in hotel (transfer condiviso o privato)"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Altre spese personali"
+  ]
+ },
+ "dubai-modern-landmarks-afternoon-tour-with-palm-monorail": {
+  "title": "Dubai: tour pomeridiano dei monumenti moderni con la monorotaia della Palm",
+  "metaTitle": "Dubai: tour pomeridiano dei monumenti moderni con la monorotaia della Palm",
+  "metaDescription": "Quattro ore e mezza nella Dubai piu nuova, la meta che la maggior parte dei tour attraversa di corsa e che qui viene fatta con calma.",
+  "shortDescription": "Quattro ore e mezza nella Dubai piu nuova, la meta che la maggior parte dei tour attraversa di corsa e che qui viene fatta con calma.",
+  "fullDescription": "Quattro ore e mezza nella Dubai piu nuova, la meta che la maggior parte dei tour attraversa di corsa e che qui viene fatta con calma.\n\nIl prezzo comprende ritiro e riaccompagno dagli hotel entro i confini della citta di Dubai, i biglietti per la monorotaia della Palm e una guida inglese autorizzata. Non comprende cibo e bevande, spese personali, mance e l'esperienza At The Top al Burj Khalifa. Per chi si ferma al Dubai Mall o fa l'esperienza At The Top Khalifa, il riaccompagno in hotel non e incluso.\n\nIl percorso copre Souq Madinat, la Palm, Atlantis, la Marina, Bluewaters e il Museum of the Future, con una sosta foto al Burj Khalifa, nella fascia del pomeriggio in cui il vetro e la Marina rendono meglio. L'operatore confermera l'orario e il punto esatto di ritiro dopo la conferma della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno dagli hotel entro i confini della citta di Dubai",
+   "Biglietti per la monorotaia della Palm",
+   "Guida inglese autorizzata"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali",
+   "Mance",
+   "Esperienza At The Top Burj Khalifa",
+   "Riaccompagno in hotel per chi sceglie il tempo libero al Dubai Mall o l'esperienza At The Top Khalifa"
+  ]
+ },
+ "dubai-new-years-eve-megayacht-cruise-with-dinner-and-fireworks": {
+  "title": "Dubai: crociera di Capodanno su megayacht con cena e fuochi d'artificio",
+  "metaTitle": "Dubai: crociera di Capodanno su megayacht con cena e fuochi d'artificio",
+  "metaDescription": "La notte di Capodanno a Dubai e la piu affollata dell'anno, e i fuochi d'artificio, sul Burj Khalifa, su Atlantis, lungo la Palm, partono da piu punti insieme. Da terra ne vedi uno. Dall'acqua li vedi tutti.",
+  "shortDescription": "La notte di Capodanno a Dubai e la piu affollata dell'anno, e i fuochi d'artificio, sul Burj Khalifa, su Atlantis, lungo la Palm, partono da piu punti insieme. Da terra ne vedi uno. Dall'acqua li vedi tutti.",
+  "fullDescription": "La notte di Capodanno a Dubai e la piu affollata dell'anno, e i fuochi d'artificio, sul Burj Khalifa, su Atlantis, lungo la Palm, partono da piu punti insieme. Da terra ne vedi uno. Dall'acqua li vedi tutti.\n\nIl prezzo comprende, per chi ha il biglietto VIP, il check-in in lounge con imbarco prioritario, buffet illimitato con catering da hotel a cinque stelle, bibite, bevande alcoliche premium e prosecco, stazioni di cucina dal vivo, spettacoli con artisti dal vivo e DJ set con ballo. Non comprende ritiro e riaccompagno in hotel, mance, cassette di sicurezza, servizio guardaroba e wifi.\n\nSolo il 31 dicembre: cinque ore su un megayacht con un vero salone e un ponte superiore. Attenzione: questa esperienza si esaurisce entro novembre, quindi va prenotata con largo anticipo.",
+  "highlights": [],
+  "included": [
+   "Check-in VIP Lounge e imbarco prioritario per i possessori del biglietto VIP",
+   "Buffet illimitato con catering da hotel a 5 stelle",
+   "Bibite, bevande alcoliche premium e prosecco",
+   "Stazioni di cucina dal vivo",
+   "Spettacoli con artisti dal vivo",
+   "DJ dal vivo e ballo"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Mance",
+   "Cassette di sicurezza",
+   "Servizio guardaroba",
+   "Wi-Fi"
+  ]
+ },
+ "dubai-night-kayaking-with-illuminated-kayaks-and-skyline-views": {
+  "title": "Dubai: kayak notturno con kayak illuminati e vista sullo skyline",
+  "metaTitle": "Dubai: kayak notturno con kayak illuminati e vista sullo skyline",
+  "metaDescription": "Andare in kayak dopo il tramonto, su acqua illuminata, con lo skyline di Dubai sopra di te, e in estate e l'unico momento sensato per stare su una pagaia.",
+  "shortDescription": "Andare in kayak dopo il tramonto, su acqua illuminata, con lo skyline di Dubai sopra di te, e in estate e l'unico momento sensato per stare su una pagaia.",
+  "fullDescription": "Andare in kayak dopo il tramonto, su acqua illuminata, con lo skyline di Dubai sopra di te, e in estate e l'unico momento sensato per stare su una pagaia.\n\nIl prezzo comprende giubbotti di salvataggio, caschi e l'uso del kayak. I kayak sono trasparenti e illuminati da sotto, quindi si vedono i pesci sotto lo scafo, su acqua piatta e riparata, con guida per tutto il percorso: non serve esperienza. Porta un cambio e una custodia impermeabile per il telefono.",
+  "highlights": [],
+  "included": [
+   "Giubbotti di salvataggio",
+   "Caschi",
+   "Uso del kayak"
+  ],
+  "notIncluded": []
+ },
+ "dubai-one-hour-jet-ski-tour-to-atlantis-and-the-palm": {
+  "title": "Dubai: tour di un'ora in jet ski verso Atlantis e la Palm",
+  "metaTitle": "Dubai: tour di un'ora in jet ski verso Atlantis e la Palm",
+  "metaDescription": "Un'ora sul tuo mezzo, il doppio dei soliti trenta minuti, la differenza tra vedere i monumenti e guidarli davvero.",
+  "shortDescription": "Un'ora sul tuo mezzo, il doppio dei soliti trenta minuti, la differenza tra vedere i monumenti e guidarli davvero.",
+  "fullDescription": "Un'ora sul tuo mezzo, il doppio dei soliti trenta minuti, la differenza tra vedere i monumenti e guidarli davvero.\n\nIl prezzo comprende il giro in jet ski, l'istruttore, acqua potabile, foto e video scattati dall'istruttore, l'uso dell'armadietto, lo spogliatoio con doccia aperta, wifi con stazione di ricarica e uno sconto del 20% su cibo e bevande al Lumiere Cafe della marina. Non comprende ritiro e riaccompagno in hotel.\n\nIl percorso va da vicino al Burj Al Arab, lungo la Palm, fino ad Atlantis. Non serve patente o esperienza: prima si fa un briefing a terra.",
+  "highlights": [],
+  "included": [
+   "Giro in jet ski",
+   "Istruttore",
+   "Acqua potabile",
+   "Foto e video scattati dall'istruttore",
+   "Uso armadietto",
+   "Spogliatoio con doccia aperta",
+   "Wifi e stazione di ricarica",
+   "Sconto del 20% su cibo e bevande al Lumiere Cafe della marina"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel"
+  ]
+ },
+ "dubai-overnight-desert-safari-with-private-tent-and-stargazing": {
+  "title": "Dubai: safari notturno nel deserto con tenda privata e osservazione delle stelle",
+  "metaTitle": "Dubai: safari notturno nel deserto con tenda privata e osservazione delle stelle",
+  "metaDescription": "Tutti lasciano il deserto alle dieci. Questa e la gita in cui non lo fai, e le due ore dopo che i pullman se ne vanno sono quello per cui stai davvero pagando: il campo si svuota, i generatori si spengono, e il cielo sopra le dune di Al Lahbab...",
+  "shortDescription": "Tutti lasciano il deserto alle dieci. Questa e la gita in cui non lo fai, e le due ore dopo che i pullman se ne vanno sono quello per cui stai davvero pagando.",
+  "fullDescription": "Tutti lasciano il deserto alle dieci. Questa e la gita in cui non lo fai, e le due ore dopo che i pullman se ne vanno sono quello per cui stai davvero pagando: il campo si svuota, i generatori si spengono, e il cielo sopra le dune di Al Lahbab resta a te.\n\nIl prezzo comprende ritiro e riaccompagno in hotel con 4x4 climatizzato, una guida da safari, un'esperienza di dune bashing (30-45 minuti), sandboard, un breve giro in cammello (ripetibile), gahwa (caffe) di benvenuto al campo, gaymat (dolci) al campo, pittura all'henne (solo per donne), narghile e spettacoli di falconeria, cavalli arabi e danza yola tradizionale. Non comprende bevande alcoliche e le attivita opzionali con quad o buggy.\n\nResti a dormire in una tenda privata climatizzata con un vero letto, non un materasso sulla sabbia, con l'alba sulle dune e la colazione prima del rientro: diciassette ore porta a porta con ritiro in hotel in 4x4.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel con 4x4 climatizzato",
+   "Guida da safari",
+   "Esperienza di dune bashing (30-45 minuti)",
+   "Sandboard",
+   "Breve giro in cammello (ripetibile)",
+   "Gahwa (caffe) di benvenuto al campo",
+   "Gaymat (dolci) al campo",
+   "Pittura all'henne (solo per donne)",
+   "Narghile",
+   "Spettacolo di cavalli arabi",
+   "Danza yola tradizionale",
+   "Spettacolo di falconeria"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Attivita con quad/dune buggy (opzionale)"
+  ]
+ },
+ "dubai-parasailing-off-the-burj-al-arab-solo-or-tandem": {
+  "title": "Dubai: parasailing davanti al Burj Al Arab, solo o in tandem",
+  "metaTitle": "Dubai: parasailing davanti al Burj Al Arab, solo o in tandem",
+  "metaDescription": "In alto su un paracadute ascensionale sopra il Golfo con il Burj Al Arab di fianco, un'angolazione su quell'edificio che nessuno ha da terra.",
+  "shortDescription": "In alto su un paracadute ascensionale sopra il Golfo con il Burj Al Arab di fianco, un'angolazione su quell'edificio che nessuno ha da terra.",
+  "fullDescription": "In alto su un paracadute ascensionale sopra il Golfo con il Burj Al Arab di fianco, un'angolazione su quell'edificio che nessuno ha da terra.\n\nIl prezzo comprende il volo in parasailing, l'equipaggio, acqua potabile, l'uso dell'armadietto, lo spogliatoio con doccia aperta, wifi con stazione di ricarica e uno sconto del 20% su cibo e bevande al Lumiere Cafe della marina. Non comprende il pacchetto foto, acquistabile al check-in.\n\nVieni issato e riportato giu dal gommone: nessuna corsa di partenza, nessun atterraggio in acqua. Si fa solo o in tandem, senza bisogno di esperienza. Attenzione: dipende dal meteo, e gli occhiali da sole vanno assicurati con un laccetto.",
+  "highlights": [],
+  "included": [
+   "Volo in parasailing",
+   "Equipaggio",
+   "Acqua potabile",
+   "Uso armadietto",
+   "Spogliatoio con doccia aperta",
+   "Wifi e stazione di ricarica",
+   "Sconto del 20% su cibo e bevande al Lumiere Cafe della marina"
+  ],
+  "notIncluded": [
+   "Pacchetto foto (opzionale al check-in)"
+  ]
+ },
+ "dubai-parasailing-over-the-marina-with-palm-and-jbr-views": {
+  "title": "Dubai: parasailing sulla Marina con vista sulla Palm e su JBR",
+  "metaTitle": "Dubai: parasailing sulla Marina con vista sulla Palm e su JBR",
+  "metaDescription": "Dieci-dodici minuti in aria sopra il Golfo Arabico, trainato da una barca al largo di JBR, con lo skyline della Marina da un lato e la Palm dall'altro.",
+  "shortDescription": "Dieci-dodici minuti in aria sopra il Golfo Arabico, trainato da una barca al largo di JBR, con lo skyline della Marina da un lato e la Palm dall'altro.",
+  "fullDescription": "Dieci-dodici minuti in aria sopra il Golfo Arabico, trainato da una barca al largo di JBR, con lo skyline della Marina da un lato e la Palm dall'altro.\n\nIl prezzo comprende istruzioni e attrezzatura di sicurezza, asciugamani, acqua potabile, musica a bordo e un volo in parasailing di 10-12 minuti durante un'uscita di 45-60 minuti. Non comprende il pacchetto foto, il ritiro e riaccompagno in hotel (a costo aggiuntivo) e l'armadietto.\n\nVieni issato e riportato giu dal ponte della barca: nessuna corsa di partenza, nessun atterraggio in acqua. Solo o in tandem, con il tandem scelta facile per chi e alle prime armi. Attenzione: dipende dal meteo.",
+  "highlights": [],
+  "included": [
+   "Istruzioni e attrezzatura di sicurezza",
+   "Asciugamani",
+   "Acqua potabile",
+   "Musica a bordo",
+   "Volo in parasailing di 10-12 minuti durante un'uscita di 45-60 minuti"
+  ],
+  "notIncluded": [
+   "Pacchetto foto (opzionale al check-in)",
+   "Ritiro e riaccompagno in hotel (costo aggiuntivo)",
+   "Armadietto"
+  ]
+ },
+ "dubai-premium-desert-safari-al-khayma-camp-with-three-buffets": {
+  "title": "Dubai: safari premium nel deserto al campo Al Khayma con tre buffet",
+  "metaTitle": "Dubai: safari premium nel deserto al campo Al Khayma con tre buffet",
+  "metaDescription": "Al Khayma e il piu grande dei campi nel deserto e questo e il biglietto premium per accedervi: in pratica tre buffet separati invece di un'unica fila, un'area con posti a sedere lontana dalla folla principale e tempo per usare il campo con calma.",
+  "shortDescription": "Al Khayma e il piu grande dei campi nel deserto e questo e il biglietto premium per accedervi: tre buffet separati invece di un'unica fila, posti a sedere lontani dalla folla principale.",
+  "fullDescription": "Al Khayma e il piu grande dei campi nel deserto e questo e il biglietto premium per accedervi: in pratica tre buffet separati invece di un'unica fila, un'area con posti a sedere lontana dalla folla principale e tempo per usare il campo con calma.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, un veicolo 4x4 climatizzato, una guida da safari autorizzata, dune bashing (30-45 minuti), sandboard, un breve giro in cammello (ripetibile), il nutrimento dei cammelli, un'esperienza con i falchi, gaymat (dolci), gahwa (caffe) e datteri, tatuaggio all'henne, narghile e acqua e bibite illimitate. Nessuna esclusione.\n\nTre buffet distinti, emiratino, marocchino e arabo, con stazioni dal vivo.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Veicolo 4x4 climatizzato",
+   "Guida da safari autorizzata",
+   "Dune bashing (30-45 minuti)",
+   "Sandboard",
+   "Breve giro in cammello (ripetibile)",
+   "Nutrimento dei cammelli",
+   "Esperienza con i falchi",
+   "Gaymat (dolci), gahwa (caffe) e datteri",
+   "Tatuaggio all'henne",
+   "Narghile",
+   "Acqua e bibite illimitate"
+  ],
+  "notIncluded": []
+ },
+ "dubai-private-cruise-with-a-swim-stop-and-sunbathing": {
+  "title": "Dubai: crociera privata con sosta per nuotare e prendere il sole",
+  "metaTitle": "Dubai: crociera privata con sosta per nuotare e prendere il sole",
+  "metaDescription": "Una barca privata pensata per fermarsi, non solo per passare: il panorama c'e, ma il punto e il bagno.",
+  "shortDescription": "Una barca privata pensata per fermarsi, non solo per passare: il panorama c'e, ma il punto e il bagno.",
+  "fullDescription": "Una barca privata pensata per fermarsi, non solo per passare: il panorama c'e, ma il punto e il bagno.\n\nIl prezzo comprende la crociera in barca, succo, acqua, giubbotti di salvataggio e impianto stereo. Non comprende ritiro e riaccompagno in hotel e asciugamani.\n\nSi passa dalla Marina, dalla Palm e dal Burj Al Arab, con spazio sul ponte per prendere il sole o restare all'ombra. La mattarda e il momento giusto per nuotare, poco prima del tramonto per le foto: scegli con cura. Attenzione: porta costume e asciugamani, non c'e ritiro in hotel.",
+  "highlights": [],
+  "included": [
+   "Crociera in barca",
+   "Succo",
+   "Acqua",
+   "Giubbotti di salvataggio",
+   "Impianto stereo"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Asciugamani"
+  ]
+ },
+ "dubai-private-deep-sea-fishing-trip-with-your-catch-grilled": {
+  "title": "Dubai: uscita privata di pesca d'altura con il pescato grigliato",
+  "metaTitle": "Dubai: uscita privata di pesca d'altura con il pescato grigliato",
+  "metaDescription": "Una barca privata al largo nel Golfo, davanti alla costa di Dubai, con canne, equipaggio e l'intera imbarcazione per il tuo gruppo.",
+  "shortDescription": "Una barca privata al largo nel Golfo, davanti alla costa di Dubai, con canne, equipaggio e l'intera imbarcazione per il tuo gruppo.",
+  "fullDescription": "Una barca privata al largo nel Golfo, davanti alla costa di Dubai, con canne, equipaggio e l'intera imbarcazione per il tuo gruppo.\n\nIl prezzo comprende la grigliata del pescato, l'assistenza di pescatori professionisti, la licenza di pesca, l'attrezzatura da pesca e acqua con ghiaccio. Non comprende ritiro e riaccompagno in hotel.\n\nA seconda della stagione si pescano sgombro reale, pesce regina, barracuda e hamour: il pescato viene pulito e grigliato a bordo e mangiato entro l'ora. I principianti sono i benvenuti: l'equipaggio esca, lancia e recupera per te. Attenzione: le mattine sono la fascia piu produttiva, ma la pesca non e mai garantita.",
+  "highlights": [],
+  "included": [
+   "Grigliata del pescato",
+   "Assistenza di pescatori professionisti",
+   "Licenza di pesca",
+   "Attrezzatura da pesca",
+   "Acqua e ghiaccio"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel"
+  ]
+ },
+ "dubai-private-highlights-tour-with-street-food-and-a-premium-car": {
+  "title": "Dubai: tour privato dei punti salienti con street food e auto premium",
+  "metaTitle": "Dubai: tour privato dei punti salienti con street food e auto premium",
+  "metaDescription": "I monumenti di Dubai sono sparsi su settanta chilometri di costa, e la differenza tra una buona giornata e una frustrante sta quasi tutta nel veicolo e in chi guida.",
+  "shortDescription": "I monumenti di Dubai sono sparsi su settanta chilometri di costa, e la differenza tra una buona giornata e una frustrante sta quasi tutta nel veicolo e in chi guida.",
+  "fullDescription": "I monumenti di Dubai sono sparsi su settanta chilometri di costa, e la differenza tra una buona giornata e una frustrante sta quasi tutta nel veicolo e in chi guida.\n\nIl prezzo comprende il tour privato guidato di Dubai, un veicolo business class climatizzato, una guida professionale, ritiro e riaccompagno in hotel, l'ingresso al Dubai Frame (se opzione selezionata), l'ingresso alla Moschea Blu, la foto al Museum of the Future con accesso al piano terra, la visita a Souk Madinat, la foto a Bluewaters Island, la visita alla Palm Jumeirah, la foto al Burj Khalifa (se opzione selezionata) e la visita al quartiere storico di Al Fahidi. Non comprende il tour guidato dentro il Frame e le mance (opzionali).\n\nIl percorso si adatta a quello che vuoi vedere davvero, con street food lungo la strada invece di una sosta fissa in ristorante.",
+  "highlights": [],
+  "included": [
+   "Tour privato guidato di Dubai",
+   "Veicolo business class climatizzato",
+   "Guida professionale",
+   "Ritiro e riaccompagno in hotel",
+   "Ingresso al Dubai Frame (se opzione selezionata)",
+   "Ingresso alla Moschea Blu",
+   "Foto al Museum of the Future con accesso al piano terra",
+   "Visita a Souk Madinat",
+   "Foto a Bluewaters Island",
+   "Visita alla Palm Jumeirah",
+   "Foto al Burj Khalifa (se opzione selezionata)",
+   "Visita al quartiere storico di Al Fahidi"
+  ],
+  "notIncluded": [
+   "Tour guidato dentro il Frame",
+   "Mance (opzionali)"
+  ]
+ },
+ "dubai-private-yacht-cruise-with-optional-gourmet-catering": {
+  "title": "Dubai: crociera privata in yacht con catering gourmet opzionale",
+  "metaTitle": "Dubai: crociera privata in yacht con catering gourmet opzionale",
+  "metaDescription": "Un noleggio privato lungo la costa di Dubai con il catering come scelta, non come assunzione automatica, un modo onesto di vendere una barca.",
+  "shortDescription": "Un noleggio privato lungo la costa di Dubai con il catering come scelta, non come assunzione automatica, un modo onesto di vendere una barca.",
+  "fullDescription": "Un noleggio privato lungo la costa di Dubai con il catering come scelta, non come assunzione automatica, un modo onesto di vendere una barca.\n\nIl prezzo comprende la crociera privata in yacht, le viste sul Burj Al Arab, la Palm Jumeirah, l'Atlantis Hotel, Ain Dubai e Dubai Marina, una griglia elettrica per cucinare a bordo, l'assistenza di capitano ed equipaggio, barca climatizzata, wifi con porte USB, docce e servizi, asciugamani, acqua, bibite e ghiaccio illimitati, impianto musicale JBL Partybox, stoviglie usa e getta e frigorifero, microonde e borsa termica. Non comprende il trasporto fino al punto d'incontro e ritiro e riaccompagno in hotel.\n\nCinque ore con vista su Marina, Ain Dubai, la Palm, Atlantis e il Burj Al Arab. Se salti l'opzione gourmet, puoi portare cibo e bevande tue. Attenzione: decidi il catering al momento della prenotazione, la cambusa lavora su ordini preparati in anticipo.",
+  "highlights": [],
+  "included": [
+   "Crociera privata in yacht",
+   "Viste su Burj Al Arab, Palm Jumeirah, Atlantis Hotel, Ain Dubai, Dubai Marina",
+   "Griglia elettrica per cucinare a bordo",
+   "Assistenza capitano ed equipaggio",
+   "Barca climatizzata",
+   "Wifi e porte di ricarica USB",
+   "Docce e servizi",
+   "Asciugamani",
+   "Acqua, bibite e ghiaccio illimitati",
+   "Impianto musicale JBL Partybox",
+   "Bicchieri, piatti e posate usa e getta",
+   "Frigorifero, microonde, borsa termica"
+  ],
+  "notIncluded": [
+   "Trasporto fino al punto d'incontro",
+   "Ritiro e riaccompagno in hotel"
+  ]
+ },
+ "dubai-private-yacht-hire-for-up-to-twelve-guests": {
+  "title": "Dubai: noleggio yacht privato per fino a dodici ospiti",
+  "metaTitle": "Dubai: noleggio yacht privato per fino a dodici ospiti",
+  "metaDescription": "Uno yacht privato per fino a dodici persone, la dimensione alla quale noleggiare smette di essere un lusso e diventa l'opzione piu economica.",
+  "shortDescription": "Uno yacht privato per fino a dodici persone, la dimensione alla quale noleggiare smette di essere un lusso e diventa l'opzione piu economica.",
+  "fullDescription": "Uno yacht privato per fino a dodici persone, la dimensione alla quale noleggiare smette di essere un lusso e diventa l'opzione piu economica.\n\nIl prezzo comprende il noleggio dello yacht di lusso, le viste sui monumenti simbolo di Dubai, privacy e relax lontano dalla citta, diversi percorsi di navigazione, l'accoglienza all'arrivo, wifi gratuito, bibite gratuite, asciugamani freschi gratuiti, aiuti per il nuoto, giubbotti di salvataggio, impianto musicale e griglia per barbecue (con costo di servizio dell'equipaggio). Non comprende cibo e bevande premium (puoi portarle tue), il trasporto da e per lo yacht, parcheggio e quota del club, energy drink e mixer, ne jet ski e jet car (da prenotare separatamente, minimo due ore e solo di giorno, con due ore di anticipo).\n\nA piena capacita costa in genere meno a persona di una cena in crociera condivisa. Attenzione: il nuoto non e permesso da un'ora prima del tramonto, e non sono ammesse scarpe o infradito a bordo.",
+  "highlights": [],
+  "included": [
+   "Noleggio yacht di lusso",
+   "Viste sui monumenti simbolo di Dubai",
+   "Privacy e relax lontano dalla citta",
+   "Diversi percorsi di navigazione",
+   "Accoglienza all'arrivo",
+   "Wifi gratuito",
+   "Bibite gratuite",
+   "Asciugamani freschi gratuiti",
+   "Aiuti per il nuoto",
+   "Giubbotti di salvataggio",
+   "Impianto musicale",
+   "Griglia per barbecue (costo di servizio dell'equipaggio)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande premium (puoi portare le tue)",
+   "Trasporto da e per lo yacht",
+   "Parcheggio e quota del club",
+   "Energy drink e mixer",
+   "Jet ski e jet car (minimo 2 ore, solo di giorno, prenotazione con 2 ore di anticipo)"
+  ]
+ },
+ "dubai-quad-bike-or-dune-buggy-session-with-optional-transfer": {
+  "title": "Dubai: sessione in quad o dune buggy con transfer opzionale",
+  "metaTitle": "Dubai: sessione in quad o dune buggy con transfer opzionale",
+  "metaDescription": "La versione essenziale: un istruttore autorizzato, un briefing di sicurezza, un casco e un quad o un dune buggy sulle dune fuori Dubai. Nessun campo, nessuna cena, nessuno spettacolo salvo che non li aggiungi.",
+  "shortDescription": "La versione essenziale: un istruttore autorizzato, un briefing di sicurezza, un casco e un quad o un dune buggy sulle dune fuori Dubai. Nessun campo, nessuna cena, nessuno spettacolo.",
+  "fullDescription": "La versione essenziale: un istruttore autorizzato, un briefing di sicurezza, un casco e un quad o un dune buggy sulle dune fuori Dubai. Nessun campo, nessuna cena, nessuno spettacolo salvo che non li aggiungi.\n\nIl prezzo comprende l'esperienza in quad o dune buggy (secondo l'opzione scelta), un istruttore autorizzato, il briefing di sicurezza, l'attrezzatura di sicurezza (casco), sandboard (se opzione selezionata), acqua in bottiglia e il trasporto dal punto d'incontro (se opzione selezionata) o le attivita al campo nel deserto con cena barbecue (se opzione selezionata). Non comprende l'assicurazione.\n\nIl modo piu economico per guidare davvero sulle dune. Attenzione: e polveroso e fisico, servono scarpe chiuse.",
+  "highlights": [],
+  "included": [
+   "Esperienza in quad o dune buggy (secondo opzione selezionata)",
+   "Istruttore autorizzato",
+   "Briefing di sicurezza",
+   "Attrezzatura di sicurezza (casco)",
+   "Sandboard (se opzione selezionata)",
+   "Acqua in bottiglia",
+   "Trasporto dal punto d'incontro (se opzione selezionata)",
+   "Attivita al campo nel deserto e cena barbecue (se opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Assicurazione"
+  ]
+ },
+ "dubai-red-dune-evening-safari-with-camel-ride-and-bbq-camp": {
+  "title": "Dubai: safari serale sulle dune rosse con giro in cammello e cena al campo",
+  "metaTitle": "Dubai: safari serale sulle dune rosse con giro in cammello e cena al campo",
+  "metaDescription": "Il safari serale e quello che quasi tutti fanno al primo viaggio a Dubai, e se lo merita. Un 4x4 ti viene a prendere in hotel nel pomeriggio, sgonfia le gomme al limite delle dune rosse di Al Lahbab, e passa mezz'ora...",
+  "shortDescription": "Il safari serale e quello che quasi tutti fanno al primo viaggio a Dubai, e se lo merita.",
+  "fullDescription": "Il safari serale e quello che quasi tutti fanno al primo viaggio a Dubai, e se lo merita. Un 4x4 ti viene a prendere in hotel nel pomeriggio, sgonfia le gomme al limite delle dune rosse di Al Lahbab, e passa mezz'ora in dune bashing prima della sosta al tramonto e del campo serale.\n\nIl prezzo comprende ritiro e riaccompagno dal tuo hotel o da un punto scelto, trasporto condiviso in 4x4 climatizzato, un autista autorizzato di lingua inglese, acqua e bibite illimitate, dune bashing per 30-45 minuti, sandboard, un breve giro in cammello (ripetibile), te o caffe con datteri e bibite illimitate e, con il tour da sette ore, il nutrimento dei cammelli, la visita al campo nel deserto Al Khayma e gahwa (caffe) e gaymat (dolci) di benvenuto. Il giro in quad e opzionale. Non comprende bevande alcoliche, spese personali e mance (opzionali).\n\nCena barbecue con spettacoli di tanoura e danza del ventre al campo. L'operatore confermera l'orario e il punto esatto di ritiro dopo la conferma della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno dal tuo hotel o da un punto scelto",
+   "Trasporto condiviso in 4x4 climatizzato",
+   "Autista autorizzato di lingua inglese",
+   "Acqua e bibite illimitate",
+   "Dune bashing per 30-45 minuti",
+   "Giro in quad (se opzione selezionata)",
+   "Sandboard",
+   "Breve giro in cammello (ripetibile)",
+   "Te/caffe con datteri e bibite illimitate",
+   "Nutrimento dei cammelli (se tour da 7 ore)",
+   "Visita al campo nel deserto Al Khayma (se tour da 7 ore)",
+   "Gahwa (caffe) e gaymat (dolci) di benvenuto al campo (se tour da 7 ore)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Spese personali",
+   "Mance (opzionali)"
+  ]
+ },
+ "dubai-red-dunes-on-a-quad-or-side-by-side-atv": {
+  "title": "Dubai: dune rosse in quad o ATV side-by-side",
+  "metaTitle": "Dubai: dune rosse in quad o ATV side-by-side",
+  "metaDescription": "Guida libera sulle dune rosse con una vera scelta di mezzo, e i due sono davvero esperienze diverse.",
+  "shortDescription": "Guida libera sulle dune rosse con una vera scelta di mezzo, e i due sono davvero esperienze diverse.",
+  "fullDescription": "Guida libera sulle dune rosse con una vera scelta di mezzo, e i due sono davvero esperienze diverse.\n\nIl prezzo comprende ritiro in hotel in 4x4 con guida esperta da safari, un'ora di guida libera in quad o ATV side-by-side, un percorso guidato sulle dune rosse, briefing di sicurezza con casco e protezioni, un breve giro in cammello (circa 2-3 minuti), sandboard, acqua in bottiglia e, nei tour pomeridiani, vista del tramonto. Non comprende mance, pasti e la copertura danni per il quad/ATV o un'assicurazione di viaggio personale.\n\nL'ATV side-by-side ha cinture, roll bar e posto per un passeggero; l'istruttore guida con un briefing di sicurezza preliminare. Nessun campo o spettacolo: e la versione dedicata alla guida.",
+  "highlights": [],
+  "included": [
+   "Ritiro in hotel in 4x4 con guida esperta da safari",
+   "Un'ora di guida libera in quad o ATV side-by-side",
+   "Percorso guidato sulle dune rosse",
+   "Briefing di sicurezza, casco e protezioni",
+   "Breve giro in cammello (circa 2-3 minuti)",
+   "Sandboard",
+   "Acqua in bottiglia",
+   "Vista del tramonto (solo tour pomeridiani)"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Pasti",
+   "Copertura danni quad/ATV o assicurazione di viaggio personale"
+  ]
+ },
+ "dubai-red-dunes-self-drive-quad-or-buggy-with-camel-ride": {
+  "title": "Dubai: dune rosse in guida libera su quad o buggy con giro in cammello",
+  "metaTitle": "Dubai: dune rosse in guida libera su quad o buggy con giro in cammello",
+  "metaDescription": "Guida libera sulle dune rosse su un quad o un dune buggy, a tua scelta nella fase di opzione, con un istruttore in testa e i classici extra del deserto intorno.",
+  "shortDescription": "Guida libera sulle dune rosse su un quad o un dune buggy, a tua scelta nella fase di opzione, con un istruttore in testa e i classici extra del deserto intorno.",
+  "fullDescription": "Guida libera sulle dune rosse su un quad o un dune buggy, a tua scelta nella fase di opzione, con un istruttore in testa e i classici extra del deserto intorno.\n\nIl prezzo comprende il safari nel deserto in \"quad o dune buggy a guida libera\", un istruttore esperto, sandboard, un breve giro in cammello (ripetibile), una sosta foto, foto con i falchi, rinfresco (bibite, te o caffe arabo con datteri), addestramento e briefing di sicurezza e casco. Non comprende ritiro e riaccompagno in hotel e il dune bashing con veicolo 4WD.\n\nLa versione breve, senza cena al campo e senza spettacoli serali. Attenzione: e polveroso e fisico, servono scarpe e vestiti che si possono rovinare.",
+  "highlights": [],
+  "included": [
+   "Safari nel deserto \"quad o dune buggy a guida libera\"",
+   "Istruttore esperto",
+   "Sandboard",
+   "Breve giro in cammello (ripetibile)",
+   "Sosta foto",
+   "Foto con i falchi",
+   "Rinfresco (bibite, te o caffe arabo con datteri)",
+   "Addestramento e briefing di sicurezza",
+   "Casco"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Dune bashing con veicolo 4WD"
+  ]
+ },
+ "dubai-self-drive-polaris-buggy-desert-adventure": {
+  "title": "Dubai: avventura nel deserto in buggy Polaris a guida libera",
+  "metaTitle": "Dubai: avventura nel deserto in buggy Polaris a guida libera",
+  "metaDescription": "Trenta minuti o un'ora al volante di un buggy Polaris sulle dune, con un istruttore in testa e un giro in cammello dopo.",
+  "shortDescription": "Trenta minuti o un'ora al volante di un buggy Polaris sulle dune, con un istruttore in testa e un giro in cammello dopo.",
+  "fullDescription": "Trenta minuti o un'ora al volante di un buggy Polaris sulle dune, con un istruttore in testa e un giro in cammello dopo.\n\nIl prezzo comprende ritiro e riaccompagno in hotel (se opzione selezionata), un istruttore, un giro in buggy Polaris da un'ora o da trenta minuti, casco, un giro in cammello (ripetibile), foto con i falchi, dune bashing (secondo l'opzione scelta), acqua potabile illimitata e, secondo l'opzione, una bevanda di benvenuto al caffe arabo, cena barbecue, spettacoli di danza tanoura, fuoco e danza del ventre, tatuaggio all'henne e narghile condiviso. Non comprende bevande alcoliche (acquistabili) e foto ricordo (acquistabili).\n\nUn'ora vale la spesa in piu: trenta minuti passano in fretta una volta superata la tensione iniziale. Attenzione: la cena al campo e un extra a scelta, non parte del prezzo base.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel (se opzione selezionata)",
+   "Istruttore",
+   "Giro in buggy Polaris da 1 ora o 30 minuti",
+   "Casco",
+   "Giro in cammello (ripetibile)",
+   "Foto con i falchi",
+   "Dune bashing (secondo opzione scelta)",
+   "Acqua potabile illimitata",
+   "Bevanda di benvenuto al caffe arabo (secondo opzione scelta)",
+   "Cena barbecue (secondo opzione scelta)",
+   "Spettacoli di danza tanoura, fuoco e danza del ventre (secondo opzione scelta)",
+   "Tatuaggio all'henne e narghile condiviso (secondo opzione scelta)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche (acquistabili)",
+   "Foto ricordo (acquistabili)"
+  ]
+ },
+ "dubai-speedboat-tour-marina-palm-atlantis-and-burj-al-arab": {
+  "title": "Dubai: tour in motoscafo tra Marina, Palm, Atlantis e Burj Al Arab",
+  "metaTitle": "Dubai: tour in motoscafo tra Marina, Palm, Atlantis e Burj Al Arab",
+  "metaDescription": "Piu rapido e molto piu economico di uno yacht, e per il solo panorama probabilmente migliore: un motoscafo sta basso sull'acqua, si muove in fretta tra i monumenti e si ferma dove ci sono le foto.",
+  "shortDescription": "Piu rapido e molto piu economico di uno yacht, e per il solo panorama probabilmente migliore.",
+  "fullDescription": "Piu rapido e molto piu economico di uno yacht, e per il solo panorama probabilmente migliore: un motoscafo sta basso sull'acqua, si muove in fretta tra i monumenti e si ferma dove ci sono le foto.\n\nIl prezzo comprende la crociera panoramica in motoscafo, una guida, acqua in bottiglia e giubbotti di salvataggio professionali. Non comprende ritiro e riaccompagno in hotel.\n\nIl percorso va dalla Marina ad Ain Dubai, alla mezzaluna della Palm, ad Atlantis e al Burj Al Arab, con soste foto abbastanza lunghe per tutti, non un solo passaggio, e una guida che racconta cosa stai vedendo. Attenzione: ti bagnerai, porta una custodia impermeabile per il telefono.",
+  "highlights": [],
+  "included": [
+   "Crociera panoramica in motoscafo",
+   "Guida",
+   "Acqua in bottiglia",
+   "Giubbotti di salvataggio professionali"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel"
+  ]
+ },
+ "dubai-sunseeker-superyacht-omakase-dinner-cruise": {
+  "title": "Dubai: crociera con cena omakase su superyacht Sunseeker",
+  "metaTitle": "Dubai: crociera con cena omakase su superyacht Sunseeker",
+  "metaDescription": "Tre ore su un Sunseeker con menu omakase di sushi, bollicine a volonta e un DJ dal vivo, una proposta specifica piu che generica.",
+  "shortDescription": "Tre ore su un Sunseeker con menu omakase di sushi, bollicine a volonta e un DJ dal vivo, una proposta specifica piu che generica.",
+  "fullDescription": "Tre ore su un Sunseeker con menu omakase di sushi, bollicine a volonta e un DJ dal vivo, una proposta specifica piu che generica.\n\nIl prezzo comprende il menu omakase di sushi, cucina giapponese, bollicine a volonta, stuzzichini gourmet, bevande e cocktail premium di alta gamma, vista sullo skyline e sui monumenti simbolo di Dubai, musica dal vivo, tre ore di tour, un menu fisso per la cena, il bagno in piscina (solo tour diurno), asciugamani e ciabattine e, per le sole serate sushi dal vivo, una night party. Non comprende ritiro e riaccompagno in hotel, spese personali e gli extra.\n\nSushi preparato a bordo, non portato freddo. Marina, Ain Dubai, la Palm e il Burj Al Arab illuminati, con pochi ospiti a bordo: e la fascia piu riservata del mercato.",
+  "highlights": [],
+  "included": [
+   "Menu omakase di sushi",
+   "Cucina giapponese",
+   "Bollicine a volonta",
+   "Stuzzichini gourmet",
+   "Bevande e cocktail premium di alta gamma",
+   "Vista sullo skyline e sui monumenti simbolo di Dubai",
+   "Musica dal vivo",
+   "Tour di 3 ore",
+   "Menu fisso per la cena",
+   "Bagno in piscina (solo tour diurno)",
+   "Asciugamani e ciabattine",
+   "Night party (solo serate sushi dal vivo)"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Spese personali",
+   "Extra"
+  ]
+ },
+ "dubai-sunset-yacht-cruise-with-snacks-and-drinks": {
+  "title": "Dubai: crociera al tramonto in yacht con snack e bibite",
+  "metaTitle": "Dubai: crociera al tramonto in yacht con snack e bibite",
+  "metaDescription": "L'ora del tramonto, in yacht, per circa il prezzo di un buon pranzo, e su questa costa il tramonto e tutto l'argomento.",
+  "shortDescription": "L'ora del tramonto, in yacht, per circa il prezzo di un buon pranzo, e su questa costa il tramonto e tutto l'argomento.",
+  "fullDescription": "L'ora del tramonto, in yacht, per circa il prezzo di un buon pranzo, e su questa costa il tramonto e tutto l'argomento.\n\nIl prezzo comprende capitano ed equipaggio professionali, occasioni per fotografare, bibite, acqua fredda illimitata, attrezzatura di sicurezza come i giubbotti di salvataggio, ponte inferiore climatizzato, ponte superiore all'aperto e, secondo l'opzione, un pasto leggero vegetariano/non vegetariano (opzione pomeriggio: 3:00 PM e 7:30 PM), un pasto barbecue (opzione tramonto: 5:00 PM) o una cena barbecue (opzione cena: 8:00 PM), oltre ai servizi igienici. Non comprende ritiro e riaccompagno in hotel, bevande alcoliche (acquistabili a bordo) e cibo e bevande proprie (solo con l'opzione privata).\n\nAttenzione: l'orario del tramonto cambia durante l'anno, controlla il tuo orario.",
+  "highlights": [],
+  "included": [
+   "Capitano ed equipaggio professionali",
+   "Occasioni per fotografare",
+   "Bibite",
+   "Acqua fredda illimitata",
+   "Attrezzatura di sicurezza (giubbotti di salvataggio)",
+   "Ponte inferiore climatizzato",
+   "Ponte superiore all'aperto",
+   "Pasto leggero veg/non veg (opzione pomeriggio: 3:00 PM e 7:30 PM)",
+   "Pasto barbecue veg/non veg (opzione tramonto: 5:00 PM)",
+   "Cena barbecue veg/non veg (opzione cena: 8:00 PM)",
+   "Servizi igienici"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Bevande alcoliche (acquistabili a bordo)",
+   "Cibo e bevande proprie (solo con opzione privata)"
+  ]
+ },
+ "dubai-superyacht-cruise-with-live-dj-swim-stop-and-open-bar": {
+  "title": "Dubai: crociera su superyacht con DJ dal vivo, sosta per nuotare e open bar",
+  "metaTitle": "Dubai: crociera su superyacht con DJ dal vivo, sosta per nuotare e open bar",
+  "metaDescription": "Tre ore su un superyacht da Dubai Harbour, e a differenza della maggior parte delle crociere su questa costa, qui ci si ferma davvero e si scende in acqua.",
+  "shortDescription": "Tre ore su un superyacht da Dubai Harbour, e a differenza della maggior parte delle crociere su questa costa, qui ci si ferma davvero e si scende in acqua.",
+  "fullDescription": "Tre ore su un superyacht da Dubai Harbour, e a differenza della maggior parte delle crociere su questa costa, qui ci si ferma davvero e si scende in acqua.\n\nIl prezzo comprende una guida, il capitano, la crociera in yacht, DJ dal vivo, tempo per nuotare, una console Mario Kart, giubbotto di salvataggio, bevande (acqua, bibite, succo, birra, vino) e, secondo l'opzione, pranzo o cena e, con l'opzione VIP, sushi dal vivo. Non comprende i transfer in hotel, le fotografie e i cocktail.\n\nSi passa da Dubai Harbour davanti alla Palm, Atlantis e il Burj Al Arab, con una vera sosta per nuotare, scaletta calata, non solo un passaggio lento. Attenzione: i pasti dipendono dall'opzione scelta, il ritiro in hotel non e incluso.",
+  "highlights": [],
+  "included": [
+   "Guida",
+   "Capitano",
+   "Crociera in yacht",
+   "DJ dal vivo",
+   "Tempo per nuotare",
+   "Console Mario Kart",
+   "Giubbotto di salvataggio",
+   "Bevande (acqua, bibite, succo, birra, vino)",
+   "Pranzo/cena (secondo opzione selezionata)",
+   "Sushi dal vivo (se opzione VIP selezionata)"
+  ],
+  "notIncluded": [
+   "Transfer in hotel",
+   "Fotografie",
+   "Cocktail"
+  ]
+ },
+ "dubai-vip-desert-safari-with-private-seating-and-live-shows": {
+  "title": "Dubai: safari VIP nel deserto con posti privati e spettacoli dal vivo",
+  "metaTitle": "Dubai: safari VIP nel deserto con posti privati e spettacoli dal vivo",
+  "metaDescription": "La serata nel deserto che la maggior parte delle persone prenota mette diverse centinaia di visitatori in un solo campo intorno a un'unica fila per il buffet. Questa e la versione che non lo fa.",
+  "shortDescription": "La serata nel deserto che la maggior parte delle persone prenota mette diverse centinaia di visitatori in un solo campo intorno a un'unica fila per il buffet. Questa e la versione che non lo fa.",
+  "fullDescription": "La serata nel deserto che la maggior parte delle persone prenota mette diverse centinaia di visitatori in un solo campo intorno a un'unica fila per il buffet. Questa e la versione che non lo fa.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, una guida certificata, acqua illimitata durante i trasferimenti, un'avventura di dune bashing di 45 minuti, sandboard, pittura all'henne, te/caffe, luqaimat (dolce tradizionale) e bibite illimitate, il nutrimento e il giro sul cucciolo di cammello al Noble Camp, un'esperienza con i falchi e fotografia, una cena buffet internazionale con barbecue (opzioni vegetariane disponibili), uno spettacolo di fuoco dal vivo e gli spettacoli di danza saidi tradizionale, Arabian Noble Night parte 1 e 2 e danza dabka tradizionale. Non comprende quad e dune buggy, disponibili sul posto a un costo aggiuntivo.\n\nPosti privati lontani dal pavimento del campo principale, con servizio al tavolo invece della fila al buffet e gli stessi spettacoli di tanoura, fuoco e danza del ventre, ma con un punto di vista migliore.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Guida certificata",
+   "Acqua illimitata durante i trasferimenti",
+   "Avventura di dune bashing di 45 minuti",
+   "Sandboard",
+   "Pittura all'henne",
+   "Te/caffe, luqaimat (dolce tradizionale) e bibite illimitate",
+   "Nutrimento e giro sul cucciolo di cammello al Noble Camp",
+   "Esperienza con i falchi e fotografia",
+   "Cena buffet internazionale con barbecue (opzioni vegetariane disponibili)",
+   "Spettacolo di fuoco dal vivo",
+   "Spettacoli di danza saidi tradizionale, Arabian Noble Night parte 1 e 2, danza dabka tradizionale"
+  ],
+  "notIncluded": [
+   "Quad e dune buggy (disponibili sul posto a costo aggiuntivo)"
+  ]
+ },
+ "ferrari-world-abu-dhabi-entry-ticket": {
+  "title": "Ferrari World Abu Dhabi: biglietto d'ingresso",
+  "metaTitle": "Ferrari World Abu Dhabi: biglietto d'ingresso",
+  "metaDescription": "Il primo parco a tema a marchio Ferrari al mondo, sotto un tetto rosso grande abbastanza da essere un punto di riferimento dalla strada, e, importante per chi visita tra giugno e settembre, interamente al chiuso e climatizzato.",
+  "shortDescription": "Il primo parco a tema a marchio Ferrari al mondo, sotto un tetto rosso grande abbastanza da essere un punto di riferimento dalla strada, e interamente al chiuso e climatizzato.",
+  "fullDescription": "Il primo parco a tema a marchio Ferrari al mondo, sotto un tetto rosso grande abbastanza da essere un punto di riferimento dalla strada, e, importante per chi visita tra giugno e settembre, interamente al chiuso e climatizzato.\n\nIl prezzo comprende solo il biglietto d'ingresso generale a Ferrari World Abu Dhabi. Non comprende il Quick Pass (acquistabile separatamente), le corse di kart e simulazione Scuderia Challenge F1, cibo e bevande e i trasferimenti al parco.\n\nLa Formula Rossa raggiunge circa 240 km/h, le montagne russe piu veloci del mondo, e Flying Aces ha la discesa non invertita piu ripida che esista. L'ingresso giornaliero generale comprende ogni giostra e attrazione, con parcheggio gratuito e una navetta per gli altri parchi di Yas Island.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso generale a Ferrari World Abu Dhabi"
+  ],
+  "notIncluded": [
+   "Quick Pass (acquistabile separatamente)",
+   "Corse di kart e simulazione Scuderia Challenge F1",
+   "Cibo e bevande",
+   "Trasferimenti al parco"
+  ]
+ },
+ "fort-lisaili-desert-safari-with-camp-dinner-and-shows": {
+  "title": "Fort Lisaili: safari nel deserto con cena al campo e spettacoli",
+  "metaTitle": "Fort Lisaili: safari nel deserto con cena al campo e spettacoli",
+  "metaDescription": "Un safari sulle dune rosse a Lisaili con l'intera serata al campo, e una scelta su come attraversare la sabbia: come passeggero, su un quad o in un dune buggy.",
+  "shortDescription": "Un safari sulle dune rosse a Lisaili con l'intera serata al campo, e una scelta su come attraversare la sabbia: come passeggero, su un quad o in un dune buggy.",
+  "fullDescription": "Un safari sulle dune rosse a Lisaili con l'intera serata al campo, e una scelta su come attraversare la sabbia: come passeggero, su un quad o in un dune buggy.\n\nIl prezzo comprende i trasferimenti (in base alle opzioni selezionate), un giro in cammello, tiro con l'arco, pittura all'henne sulle mani, cena buffet barbecue, un campo in stile forte nel deserto, due bibite piu acqua illimitata, uno spettacolo di fuoco dal vivo e, secondo l'opzione, un giro in dune buggy e quad e il safari nel deserto stesso. Gli spettacoli di danza del ventre non vengono eseguiti durante il Ramadan.\n\nLe dune rosse di Lisaili, piu lontane e meno affollate dei campi vicini alla citta. Sei ore in totale. Attenzione: cena, spettacoli e trasferimenti dipendono dal livello scelto, che confermiamo prima.",
+  "highlights": [],
+  "included": [
+   "Trasferimenti (in base alle opzioni selezionate)",
+   "Giro in cammello",
+   "Tiro con l'arco",
+   "Pittura all'henne sulle mani",
+   "Cena buffet barbecue",
+   "Campo in stile forte nel deserto",
+   "2 bibite piu acqua illimitata",
+   "Spettacolo di fuoco dal vivo",
+   "Giro in dune buggy e quad (in base all'opzione)",
+   "Safari nel deserto (in base all'opzione)"
+  ],
+  "notIncluded": [
+   "Gli spettacoli di danza del ventre non vengono eseguiti durante il Ramadan"
+  ]
+ },
+ "fossil-rock-dune-buggy-expedition-from-dubai": {
+  "title": "Fossil Rock: spedizione in dune buggy da Dubai",
+  "metaTitle": "Fossil Rock: spedizione in dune buggy da Dubai",
+  "metaDescription": "Fossil Rock e un jebel oltre Al Madam, a un'ora o cosi da Dubai, e la sabbia intorno ha un colore e una consistenza diversi dalle dune rosse dei safari classici.",
+  "shortDescription": "Fossil Rock e un jebel oltre Al Madam, a un'ora o cosi da Dubai, e la sabbia intorno ha un colore e una consistenza diversi dalle dune rosse dei safari classici.",
+  "fullDescription": "Fossil Rock e un jebel oltre Al Madam, a un'ora o cosi da Dubai, e la sabbia intorno ha un colore e una consistenza diversi dalle dune rosse dei safari classici.\n\nIl prezzo comprende ritiro e riaccompagno in hotel (opzionale), un'esperienza di un'ora in dune buggy a guida libera, una sosta foto a Fossil Rock e Camel Rock, spogliatoio e doccia, rinfreschi e snack, attrezzatura di sicurezza, sandboard e un giro in cammello. Nessuna esclusione.\n\nFossil Rock e un jebel calcareo pieno di fossili marini di un mare antico, con dune piu dure e piu ripide dei tratti turistici vicino alla citta. Guidi tu il buggy, con una guida in testa e un briefing prima. Nessun campo, nessuno spettacolo: una guida e un paesaggio. Attenzione: e polveroso e fisico, servono scarpe chiuse e non c'e ombra sul percorso.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel (opzionale)",
+   "Esperienza di 1 ora in dune buggy a guida libera",
+   "Sosta foto a Fossil Rock e Camel Rock",
+   "Spogliatoio e doccia",
+   "Rinfreschi e snack",
+   "Attrezzatura di sicurezza",
+   "Sandboard",
+   "Giro in cammello"
+  ],
+  "notIncluded": []
+ },
+ "fujairah-east-coast-day-tour-from-dubai-with-khor-fakkan": {
+  "title": "Fujairah: tour di un giorno sulla costa orientale da Dubai con Khor Fakkan",
+  "metaTitle": "Fujairah: tour di un giorno sulla costa orientale da Dubai con Khor Fakkan",
+  "metaDescription": "Attraverso il paese fino all'altra costa, la gita di un giorno che sorprende piu di ogni altra.",
+  "shortDescription": "Attraverso il paese fino all'altra costa, la gita di un giorno che sorprende piu di ogni altra.",
+  "fullDescription": "Attraverso il paese fino all'altra costa, la gita di un giorno che sorprende piu di ogni altra.\n\nIl prezzo comprende ritiro e riaccompagno in hotel a Dubai, trasporto in veicolo climatizzato, una sosta foto nel deserto di Al-Madam, una sosta foto alla spiaggia di Khor Fakkan, l'ingresso al Museo di Fujairah, l'ingresso al Forte di Fujairah, il Villaggio del Patrimonio di Fujairah, la visita alla Grande Moschea Sheikh Zayed di Fujairah, la visita alla Moschea di Al Bidya, la Corniche di Fujairah, il Monumento alla Resistenza e Umbrella Beach. Non comprende il pranzo e le mance.\n\nSi attraversano le montagne Hajar fino al Golfo dell'Oman, con i reperti dell'Eta del Bronzo del museo di Fujairah e la spiaggia di Khor Fakkan curva sotto le colline. Otto ore con ritiro in hotel: porta il costume per la sosta in spiaggia.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Dubai",
+   "Trasporto in veicolo climatizzato",
+   "Sosta foto nel deserto di Al-Madam",
+   "Sosta foto alla spiaggia di Khor Fakkan",
+   "Ingresso al Museo di Fujairah",
+   "Ingresso al Forte di Fujairah",
+   "Villaggio del Patrimonio di Fujairah",
+   "Visita alla Grande Moschea Sheikh Zayed di Fujairah",
+   "Visita alla Moschea di Al Bidya",
+   "Corniche di Fujairah",
+   "Monumento alla Resistenza",
+   "Umbrella Beach"
+  ],
+  "notIncluded": [
+   "Pranzo",
+   "Mance"
+  ]
+ },
+ "house-of-hype-dubai-mall-entry-ticket": {
+  "title": "House of Hype al Dubai Mall: biglietto d'ingresso",
+  "metaTitle": "House of Hype al Dubai Mall: biglietto d'ingresso",
+  "metaDescription": "Venticinque stanze interattive dentro il Dubai Mall: porte nascoste, artisti dal vivo, scenografie costruite per le foto e una sequenza di sorprese che funziona meglio quanto meno sai in anticipo.",
+  "shortDescription": "Venticinque stanze interattive dentro il Dubai Mall: porte nascoste, artisti dal vivo, scenografie costruite per le foto e una sequenza di sorprese che funziona meglio quanto meno sai in anticipo.",
+  "fullDescription": "Venticinque stanze interattive dentro il Dubai Mall: porte nascoste, artisti dal vivo, scenografie costruite per le foto e una sequenza di sorprese che funziona meglio quanto meno sai in anticipo.\n\nIl prezzo comprende solo il biglietto d'ingresso. Non comprende cibo e trasferimenti.\n\nCostruito per essere fotografato: il telefono gestisce la luce bassa meglio di una fotocamera. Dentro il Dubai Mall, completamente climatizzato. Da un'ora e mezza a due ore, ma le persone spesso restano piu a lungo: funziona molto meglio in compagnia che da solo.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso"
+  ],
+  "notIncluded": [
+   "Cibo",
+   "Trasferimenti"
+  ]
+ },
+ "la-perle-by-dragone-show-tickets-dubai": {
+  "title": "La Perle by Dragone: biglietti per lo spettacolo a Dubai",
+  "metaTitle": "La Perle by Dragone: biglietti per lo spettacolo a Dubai",
+  "metaDescription": "Franco Dragone ha costruito gli spettacoli che hanno fatto il nome del Cirque du Soleil e poi ha passato una carriera a far fare cose all'acqua sul palco. La Perle e la sua produzione residente a Dubai, in un teatro acquatico costruito apposta ad Al Habtoor City.",
+  "shortDescription": "Franco Dragone ha costruito gli spettacoli che hanno fatto il nome del Cirque du Soleil e poi ha passato una carriera a far fare cose all'acqua sul palco. La Perle e la sua produzione residente a Dubai.",
+  "fullDescription": "Franco Dragone ha costruito gli spettacoli che hanno fatto il nome del Cirque du Soleil e poi ha passato una carriera a far fare cose all'acqua sul palco. La Perle e la sua produzione residente a Dubai, in un teatro acquatico costruito apposta ad Al Habtoor City.\n\nIl prezzo comprende il biglietto per La Perle e, secondo l'opzione, l'accesso alla lounge e bevande e snack. Non comprende merchandising e il parcheggio con valet.\n\nUn palco che si inonda con 2,7 milioni di litri d'acqua e si svuota in pochi secondi, con acrobazie aeree, tuffi dall'alto, moto e sessantacinque artisti. Niente dialoghi, quindi funziona in ogni lingua e a ogni eta. Attenzione: le prime file sono una vera zona bagnata, arriva mezz'ora prima.",
+  "highlights": [],
+  "included": [
+   "Biglietto per La Perle",
+   "Accesso alla lounge (se opzione selezionata)",
+   "Bevande e snack (se opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Merchandising",
+   "Parcheggio con valet"
+  ]
+ },
+ "louvre-abu-dhabi-and-grand-mosque-day-trip-from-dubai": {
+  "title": "Louvre Abu Dhabi e Grande Moschea: gita di un giorno da Dubai",
+  "metaTitle": "Louvre Abu Dhabi e Grande Moschea: gita di un giorno da Dubai",
+  "metaDescription": "L'accostamento che rende la strada da Dubai utile: l'edificio piu fotografato del paese e il suo museo piu serio, con due ore intere in ciascuno invece delle soste di venti minuti di un tour cittadino generico.",
+  "shortDescription": "L'accostamento che rende la strada da Dubai utile: l'edificio piu fotografato del paese e il suo museo piu serio, con due ore intere in ciascuno.",
+  "fullDescription": "L'accostamento che rende la strada da Dubai utile: l'edificio piu fotografato del paese e il suo museo piu serio, con due ore intere in ciascuno invece delle soste di venti minuti di un tour cittadino generico.\n\nIl prezzo comprende ritiro e riaccompagno in hotel a Dubai, trasporto in veicolo climatizzato, una guida, l'ingresso al Museo del Louvre di Abu Dhabi (visita di 2 ore), l'ingresso alla Moschea Sheikh Zayed (visita di 2 ore), una sosta foto alla Corniche di Abu Dhabi, acqua minerale fresca e, se opzione selezionata, il biglietto d'ingresso al Museo Zayed. Non comprende vestiti per la coperta aggiuntiva, il tour guidato del Louvre e le mance.\n\nL'abaya viene fornita per la moschea. Ritiro in hotel a Dubai in un veicolo climatizzato, con acqua fredda per tutta la giornata.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Dubai",
+   "Trasporto in veicolo climatizzato",
+   "Guida",
+   "Ingresso al Museo del Louvre di Abu Dhabi (visita di 2 ore)",
+   "Ingresso alla Moschea Sheikh Zayed (visita di 2 ore)",
+   "Sosta foto alla Corniche di Abu Dhabi",
+   "Acqua minerale fresca",
+   "Biglietto d'ingresso al Museo Zayed (se opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Vestiti per la coperta aggiuntiva",
+   "Tour guidato del Louvre",
+   "Mance"
+  ]
+ },
+ "louvre-abu-dhabi-express-guided-tour": {
+  "title": "Louvre Abu Dhabi: tour guidato express",
+  "metaTitle": "Louvre Abu Dhabi: tour guidato express",
+  "metaDescription": "Quarantacinque minuti con un educatore museale, percorrendo i punti salienti di una collezione organizzata in un modo che quasi nessun altro museo usa, e quell'organizzazione e esattamente il motivo per cui serve una guida.",
+  "shortDescription": "Quarantacinque minuti con un educatore museale, percorrendo i punti salienti di una collezione organizzata in un modo che quasi nessun altro museo usa.",
+  "fullDescription": "Quarantacinque minuti con un educatore museale, percorrendo i punti salienti di una collezione organizzata in un modo che quasi nessun altro museo usa, e quell'organizzazione e esattamente il motivo per cui serve una guida.\n\nIl prezzo comprende una visita di 45 minuti ai punti salienti della collezione del museo e le cuffie per sentire bene la guida. Il biglietto d'ingresso al Louvre Abu Dhabi non e incluso e va prenotato insieme a questo tour; il biglietto d'ingresso (adulti 18+) va acquistato separatamente.\n\nL'allestimento cronologico e interculturale, spiegato invece che indovinato. Attenzione: il museo e chiuso il lunedi, e la luce della cupola e migliore nel mezzo della giornata.",
+  "highlights": [],
+  "included": [
+   "Visita di 45 minuti ai punti salienti della collezione del museo",
+   "Cuffie per sentire bene la guida"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Louvre Abu Dhabi (da prenotare insieme a questo tour)",
+   "Biglietto d'ingresso (adulti 18+), da acquistare separatamente"
+  ]
+ },
+ "louvre-abu-dhabi-general-admission-ticket": {
+  "title": "Louvre Abu Dhabi: biglietto d'ingresso generale",
+  "metaTitle": "Louvre Abu Dhabi: biglietto d'ingresso generale",
+  "metaDescription": "La cupola di Jean Nouvel e il motivo per cui la maggior parte delle persone viene, e se lo merita. Quasi ottomila stelle metalliche in otto strati, che fluttuano sopra le gallerie su supporti quasi invisibili, facendo cadere un disegno di luce in continuo movimento.",
+  "shortDescription": "La cupola di Jean Nouvel e il motivo per cui la maggior parte delle persone viene, e se lo merita. Quasi ottomila stelle metalliche in otto strati fluttuano sopra le gallerie.",
+  "fullDescription": "La cupola di Jean Nouvel e il motivo per cui la maggior parte delle persone viene, e se lo merita. Quasi ottomila stelle metalliche in otto strati, che fluttuano sopra le gallerie su supporti quasi invisibili, facendo cadere un disegno di luce in continuo movimento.\n\nIl prezzo comprende il biglietto d'ingresso al Louvre Abu Dhabi, l'accesso alle gallerie del museo, alle esposizioni temporanee e alle piazze sotto la cupola, e l'app per smartphone. Non comprende cibo e bevande, il tour guidato e i laboratori, kayak e catamarano elettrico e l'esperienza VR.\n\nLe gallerie sono organizzate cronologicamente attraverso le civilta, non per paese: collezione permanente, esposizioni temporanee, piazze, caffe e boutique. Attenzione: il museo e chiuso il lunedi, l'errore piu comune qui.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Louvre Abu Dhabi",
+   "Accesso alle gallerie del museo, alle esposizioni temporanee e alle piazze sotto la cupola",
+   "App per smartphone"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Tour guidato e laboratorio",
+   "Kayak e catamarano elettrico",
+   "Esperienza VR"
+  ]
+ },
+ "musandam-dibba-dhow-cruise-day-trip-from-dubai": {
+  "title": "Musandam Dibba: gita di un giorno in dhow da Dubai",
+  "metaTitle": "Musandam Dibba: gita di un giorno in dhow da Dubai",
+  "metaDescription": "Oltre il confine in Oman per una giornata, su un dhow tradizionale, attraverso una costa che non somiglia affatto agli Emirati.",
+  "shortDescription": "Oltre il confine in Oman per una giornata, su un dhow tradizionale, attraverso una costa che non somiglia affatto agli Emirati.",
+  "fullDescription": "Oltre il confine in Oman per una giornata, su un dhow tradizionale, attraverso una costa che non somiglia affatto agli Emirati.\n\nIl prezzo comprende accoglienza e assistenza al ritiro negli Emirati, un dhow condiviso per la crociera, un addetto alle relazioni con gli ospiti a bordo, un pranzo a buffet con pane arabo, hummus, insalata di verdure, noodles, riso biryani, riso bianco, pollo fritto, pollo al curry, pesce fritto, curry di verdure, dal curry e sottaceti, bibite, acqua minerale, frutta fresca, snack confezionati vari, giubbotti di salvataggio, musica strumentale registrata a bordo (gli ospiti possono riprodurre musica da USB/CD propri) e kit per lo snorkeling. Nessuna esclusione.\n\nSi entra nel Musandam dell'Oman, dove le montagne scendono a picco in insenature simili a fiordi. I delfini sono frequenti, non promessi. Ritiro da Dubai, Sharjah o Ras Al Khaimah. Attenzione: si attraversa un confine, porta il passaporto originale, verifichiamo prima le regole del visto.",
+  "highlights": [],
+  "included": [
+   "Accoglienza e assistenza al ritiro negli Emirati",
+   "Dhow condiviso per la crociera",
+   "Addetto alle relazioni con gli ospiti a bordo",
+   "Pranzo a buffet (pane arabo, hummus, insalata di verdure, noodles, riso biryani, riso bianco, pollo fritto, pollo al curry, pesce fritto, curry di verdure, dal curry, sottaceti)",
+   "Bibite",
+   "Acqua minerale",
+   "Frutta fresca",
+   "Snack confezionati vari",
+   "Giubbotti di salvataggio",
+   "Musica strumentale registrata a bordo",
+   "Kit per lo snorkeling"
+  ],
+  "notIncluded": []
+ },
+ "natural-history-museum-abu-dhabi-entry-ticket": {
+  "title": "Natural History Museum Abu Dhabi: biglietto d'ingresso",
+  "metaTitle": "Natural History Museum Abu Dhabi: biglietto d'ingresso",
+  "metaDescription": "Il museo di storia naturale di Saadiyat Island, che racconta la storia della Terra stessa piuttosto che quella degli Emirati: tempo profondo, geologia, evoluzione e la scienza che si fa oggi.",
+  "shortDescription": "Il museo di storia naturale di Saadiyat Island, che racconta la storia della Terra stessa piuttosto che quella degli Emirati.",
+  "fullDescription": "Il museo di storia naturale di Saadiyat Island, che racconta la storia della Terra stessa piuttosto che quella degli Emirati: tempo profondo, geologia, evoluzione e la scienza che si fa oggi.\n\nIl prezzo comprende l'accesso a collezioni unica nel suo genere, esperienze immersive, aree interattive per bambini ed esposizioni di ricerca scientifica. Non comprende il tour guidato.\n\nMateriale meteoritico piu antico del pianeta ed esemplari fossili, con esposizioni di ricerca dal vivo accanto alle vetrine. Nel distretto culturale di Saadiyat, accanto al Louvre e allo Zayed National Museum.",
+  "highlights": [],
+  "included": [
+   "Accesso a collezioni unica nel suo genere",
+   "Esperienze immersive",
+   "Aree interattive per bambini",
+   "Esposizioni di ricerca scientifica"
+  ],
+  "notIncluded": [
+   "Tour guidato"
+  ]
+ },
+ "old-dubai-walking-tour-with-souks-street-food-and-abra-ride": {
+  "title": "Vecchia Dubai: tour a piedi tra i souk, lo street food e un giro in abra",
+  "metaTitle": "Vecchia Dubai: tour a piedi tra i souk, lo street food e un giro in abra",
+  "metaDescription": "Questa e la meta di Dubai che esisteva prima delle torri, ed e piccola abbastanza da percorrere a piedi. Al Fahidi e un reticolo di case a torre del vento in corallo e gesso, costruite dai mercanti di perle, e resta fresca al livello della strada in un modo che la nuova...",
+  "shortDescription": "Questa e la meta di Dubai che esisteva prima delle torri, ed e piccola abbastanza da percorrere a piedi.",
+  "fullDescription": "Questa e la meta di Dubai che esisteva prima delle torri, ed e piccola abbastanza da percorrere a piedi. Al Fahidi e un reticolo di case a torre del vento in corallo e gesso, costruite dai mercanti di perle, e resta fresca al livello della strada in un modo che la nuova Dubai non riesce a imitare.\n\nIl prezzo comprende una guida locale esperta, ritiro e riaccompagno in hotel (se opzione selezionata), l'ingresso a siti storici e museali, l'ingresso alla Al Khayma Heritage House, la visita al souk dei tessuti, un giro tradizionale in abra sul Dubai Creek, la visita al souk dell'oro con tempo per lo shopping, la visita al souk delle spezie con tempo per lo shopping, caffe o te arabo, datteri emiratini premium e un assaggio di cioccolato al latte di cammello, oltre ad acqua in bottiglia gratuita. Non comprende le mance (opzionali).\n\nSi passa dai vicoli a torre del vento di Al Fahidi con una guida locale, con street food lungo il percorso.",
+  "highlights": [],
+  "included": [
+   "Guida locale esperta",
+   "Ritiro e riaccompagno in hotel (se opzione selezionata)",
+   "Ingresso a siti storici e museali",
+   "Ingresso alla Al Khayma Heritage House",
+   "Visita al souk dei tessuti",
+   "Giro tradizionale in abra sul Dubai Creek",
+   "Visita al souk dell'oro con tempo per lo shopping",
+   "Visita al souk delle spezie con tempo per lo shopping",
+   "Caffe o te arabo",
+   "Datteri emiratini premium",
+   "Assaggio di cioccolato al latte di cammello",
+   "Acqua in bottiglia gratuita"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)"
+  ]
+ },
+ "private-beach-dinner-on-the-palm-jumeirah": {
+  "title": "Cena privata in spiaggia sulla Palm Jumeirah",
+  "metaTitle": "Cena privata in spiaggia sulla Palm Jumeirah",
+  "metaDescription": "Un tavolo apparecchiato sulla sabbia in un resort sulla spiaggia della Palm Jumeirah, con lo skyline di Dubai dall'altra parte dell'acqua e il pasto servito dove sei seduto.",
+  "shortDescription": "Un tavolo apparecchiato sulla sabbia in un resort sulla spiaggia della Palm Jumeirah, con lo skyline di Dubai dall'altra parte dell'acqua.",
+  "fullDescription": "Un tavolo apparecchiato sulla sabbia in un resort sulla spiaggia della Palm Jumeirah, con lo skyline di Dubai dall'altra parte dell'acqua e il pasto servito dove sei seduto.\n\nIl prezzo comprende le bollicine all'arrivo, un menu fisso di cinque portate, posti privati sulla spiaggia e una vista privilegiata sullo skyline di Dubai. Non comprende bevande o cibo extra.\n\nLo skyline di Marina e JBR si illumina dall'altra parte dell'acqua, con le portate servite in spiaggia durante la serata. La prenotazione viene cronometrata sul tramonto reale della tua data. Attenzione: il prezzo e pensato come un'occasione piu che come una cena, ed e questo il patto.",
+  "highlights": [],
+  "included": [
+   "Bollicine all'arrivo",
+   "Menu fisso di 5 portate (dettagli nella descrizione completa)",
+   "Posti privati sulla spiaggia",
+   "Vista privilegiata sullo skyline di Dubai"
+  ],
+  "notIncluded": [
+   "Bevande o cibo extra"
+  ]
+ },
+ "private-yacht-charter-around-the-palm-jumeirah": {
+  "title": "Noleggio yacht privato intorno alla Palm Jumeirah",
+  "metaTitle": "Noleggio yacht privato intorno alla Palm Jumeirah",
+  "metaDescription": "L'intera barca, per il tuo gruppo, intorno alla Palm, il che cambia completamente la giornata rispetto a una crociera condivisa.",
+  "shortDescription": "L'intera barca, per il tuo gruppo, intorno alla Palm, il che cambia completamente la giornata rispetto a una crociera condivisa.",
+  "fullDescription": "L'intera barca, per il tuo gruppo, intorno alla Palm, il che cambia completamente la giornata rispetto a una crociera condivisa.\n\nIl prezzo comprende il giro in barca, acqua e bibite, un contenitore con ghiaccio, wifi, impianto stereo e il bagno a bordo. Non comprende ritiro e riaccompagno in hotel e mance.\n\nNessun estraneo, nessun orario fisso, con la mezzaluna della Palm, Atlantis e il Burj Al Arab dall'acqua, e una sosta per nuotare quando vuoi, cosa che le crociere condivise raramente permettono. Spazio sul ponte, ombra e una cabina a bordo.",
+  "highlights": [],
+  "included": [
+   "Giro in barca",
+   "Acqua e bibite",
+   "Contenitore con ghiaccio",
+   "Wifi",
+   "Impianto stereo",
+   "Bagno a bordo"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Mance"
+  ]
+ },
+ "seaworld-abu-dhabi-general-admission-ticket": {
+  "title": "SeaWorld Abu Dhabi: biglietto d'ingresso generale",
+  "metaTitle": "SeaWorld Abu Dhabi: biglietto d'ingresso generale",
+  "metaDescription": "Il piu grande parco marino al chiuso del mondo, su Yas Island, costruito intorno a otto regni e un unico, enorme acquario multilivello al centro.",
+  "shortDescription": "Il piu grande parco marino al chiuso del mondo, su Yas Island, costruito intorno a otto regni e un unico, enorme acquario multilivello al centro.",
+  "fullDescription": "Il piu grande parco marino al chiuso del mondo, su Yas Island, costruito intorno a otto regni e un unico, enorme acquario multilivello al centro.\n\nIl prezzo comprende l'accesso illimitato per tutta la giornata alle giostre, alle attrazioni, alle presentazioni con gli animali e ai regni immersivi di SeaWorld Abu Dhabi, oltre a parcheggio gratuito e servizio navetta gratuito dentro Yas Island. Le esperienze aggiuntive non comprendono l'ingresso a SeaWorld Abu Dhabi: serve un biglietto d'ingresso generale valido per entrare nel parco e usufruirne. Non comprende gli upgrade Quick Pass/Fast Track, acquistabili separatamente ai parchi, e cibo e bevande.\n\nOtto regni intorno a un acquario centrale multilivello, giostre, presentazioni con gli animali e un centro di ricerca e salvataggio. Completamente al chiuso: la scelta giusta in estate su Yas Island.",
+  "highlights": [],
+  "included": [
+   "Accesso illimitato per tutta la giornata a giostre, attrazioni, presentazioni con gli animali e regni immersivi di SeaWorld Abu Dhabi",
+   "Parcheggio gratuito e servizio navetta gratuito dentro Yas Island"
+  ],
+  "notIncluded": [
+   "Upgrade Quick Pass/Fast Track (acquistabili separatamente ai parchi)",
+   "Cibo e bevande"
+  ]
+ },
+ "teamlab-phenomena-abu-dhabi-entry-ticket": {
+  "title": "teamLab Phenomena Abu Dhabi: biglietto d'ingresso",
+  "metaTitle": "teamLab Phenomena Abu Dhabi: biglietto d'ingresso",
+  "metaDescription": "teamLab e il collettivo di Tokyo che crea arte da attraversare piuttosto che guardare, e Phenomena e il loro museo di Abu Dhabi su Saadiyat Island, uno spazio costruito apposta nel distretto culturale accanto al Louvre.",
+  "shortDescription": "teamLab e il collettivo di Tokyo che crea arte da attraversare piuttosto che guardare, e Phenomena e il loro museo di Abu Dhabi su Saadiyat Island.",
+  "fullDescription": "teamLab e il collettivo di Tokyo che crea arte da attraversare piuttosto che guardare, e Phenomena e il loro museo di Abu Dhabi su Saadiyat Island, uno spazio costruito apposta nel distretto culturale accanto al Louvre.\n\nIl prezzo comprende il biglietto d'ingresso, l'uso gratuito di un armadietto e il parcheggio gratuito. Non comprende il trasporto da e per l'attrazione.\n\nInstallazioni che rispondono all'aria, all'acqua, alla temperatura e a te: niente in loop, nessuna visita e identica alla precedente. Attenzione: ci sono stanze a piedi nudi, pavimenti bagnati e scuri e superfici a specchio, vestiti di conseguenza.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso",
+   "Armadietto gratuito",
+   "Parcheggio gratuito"
+  ],
+  "notIncluded": [
+   "Trasporto da e per l'attrazione"
+  ]
+ },
+ "the-green-planet-dubai-indoor-rainforest-ticket": {
+  "title": "The Green Planet Dubai: biglietto per la foresta pluviale al chiuso",
+  "metaTitle": "The Green Planet Dubai: biglietto per la foresta pluviale al chiuso",
+  "metaDescription": "Un biosfera di vetro sigillata a City Walk che ospita una vera foresta pluviale tropicale: oltre tremila piante e animali intorno al piu grande albero artificiale che sostiene la vita al chiuso nel mondo.",
+  "shortDescription": "Un biosfera di vetro sigillata a City Walk che ospita una vera foresta pluviale tropicale: oltre tremila piante e animali intorno al piu grande albero artificiale che sostiene la vita al chiuso nel mondo.",
+  "fullDescription": "Un biosfera di vetro sigillata a City Walk che ospita una vera foresta pluviale tropicale: oltre tremila piante e animali intorno al piu grande albero artificiale che sostiene la vita al chiuso nel mondo.\n\nIl prezzo comprende solo il biglietto d'ingresso al Green Planet. Non comprende pasti e bevande.\n\nQuattro livelli percorsi dall'alto verso il basso, dalla volta al pavimento inondato della foresta, con bradipi, uccelli e pipistrelli in libero volo, rettili e caimani. Attenzione: l'umidita della foresta pluviale appanna gli obiettivi delle fotocamere, lasciali ambientare.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso al Green Planet"
+  ],
+  "notIncluded": [
+   "Pasti e bevande"
+  ]
+ },
+ "warner-bros-world-abu-dhabi-entry-ticket": {
+  "title": "Warner Bros. World Abu Dhabi: biglietto d'ingresso",
+  "metaTitle": "Warner Bros. World Abu Dhabi: biglietto d'ingresso",
+  "metaDescription": "Sei mondi tematici sotto un solo tetto, Gotham City, Metropolis, Cartoon Junction, Bedrock, Dynamite Gulch e Warner Bros. Plaza, con ventinove giostre e attrazioni in tutto.",
+  "shortDescription": "Sei mondi tematici sotto un solo tetto, con ventinove giostre e attrazioni in tutto.",
+  "fullDescription": "Sei mondi tematici sotto un solo tetto, Gotham City, Metropolis, Cartoon Junction, Bedrock, Dynamite Gulch e Warner Bros. Plaza, con ventinove giostre e attrazioni in tutto.\n\nIl prezzo comprende il biglietto d'ingresso generale, tutte le giostre e tutte le attrazioni. Non comprende il Quick Pass (acquistabile separatamente) e cibo e bevande.\n\nCompletamente al chiuso e climatizzato, incluse tutte le file. Giostre su Batman e la Justice League insieme a quelle piu tranquille dei Looney Tunes. Ingresso giornaliero generale a tutto: la scelta giusta in estate su Yas Island, quella che fanno davvero i residenti.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso generale",
+   "Tutte le giostre",
+   "Tutte le attrazioni"
+  ],
+  "notIncluded": [
+   "Quick Pass (acquistabile separatamente)",
+   "Cibo e bevande"
+  ]
+ },
+ "yas-island-multi-park-pass-abu-dhabi-two-three-or-four-parks": {
+  "title": "Yas Island: pass multi-parco ad Abu Dhabi, due, tre o quattro parchi",
+  "metaTitle": "Yas Island: pass multi-parco ad Abu Dhabi, due, tre o quattro parchi",
+  "metaDescription": "Yas Island ha quattro grandi parchi a distanza di passeggiata l'uno dall'altro, e acquistarli separatamente costa molto piu che un pass combinato. Questo e quel pass, nella versione a due, tre o quattro parchi.",
+  "shortDescription": "Yas Island ha quattro grandi parchi a distanza di passeggiata l'uno dall'altro, e acquistarli separatamente costa molto piu che un pass combinato.",
+  "fullDescription": "Yas Island ha quattro grandi parchi a distanza di passeggiata l'uno dall'altro, e acquistarli separatamente costa molto piu che un pass combinato. Questo e quel pass, nella versione a due, tre o quattro parchi.\n\nIl prezzo comprende il pass a 2, 3 o 4 parchi, con la liberta di scegliere i parchi man mano, la possibilita di visitare in qualsiasi combinazione Ferrari World Abu Dhabi, SeaWorld Abu Dhabi, Yas Waterworld e Warner Bros. World Abu Dhabi, la validita per 6 giorni dalla prima visita a un parco, il servizio navetta gratuito tra i parchi a tema di Yas Island, gli hotel e il Yas Mall, parcheggio gratuito a tutti i parchi a tema e un servizio navetta gratuito da Abu Dhabi e Dubai. Non comprende gli upgrade Quick Pass/Fast Track, acquistabili separatamente ai parchi, cibo e bevande, esperienze premium e extra opzionali, ne souvenir e spese personali.\n\nDue, tre o quattro parchi scelti man mano invece che alla prenotazione, validi su piu giorni, cosi non devi stipare due parchi in un solo giorno.",
+  "highlights": [],
+  "included": [
+   "Pass a 2, 3 o 4 parchi con liberta di scegliere i parchi man mano",
+   "Possibilita di visitare in qualsiasi combinazione Ferrari World Abu Dhabi, SeaWorld Abu Dhabi, Yas Waterworld e Warner Bros. World Abu Dhabi",
+   "Validita per 6 giorni dalla prima visita a un parco",
+   "Servizio navetta gratuito tra i parchi a tema di Yas Island, gli hotel e il Yas Mall",
+   "Parcheggio gratuito a tutti i parchi a tema",
+   "Servizio navetta gratuito da Abu Dhabi e Dubai"
+  ],
+  "notIncluded": [
+   "Upgrade Quick Pass/Fast Track (acquistabili separatamente ai parchi)",
+   "Cibo e bevande",
+   "Esperienze premium e extra opzionali",
+   "Souvenir e spese personali"
+  ]
+ },
+ "yas-waterworld-abu-dhabi-entry-ticket": {
+  "title": "Yas Waterworld Abu Dhabi: biglietto d'ingresso",
+  "metaTitle": "Yas Waterworld Abu Dhabi: biglietto d'ingresso",
+  "metaDescription": "A tema emiratino, all'aperto, e detentore del Guinness World Record per il maggior numero di scivoli d'acqua in un solo parco: oltre settanta giostre e attrazioni su Yas Island.",
+  "shortDescription": "A tema emiratino, all'aperto, e detentore del Guinness World Record per il maggior numero di scivoli d'acqua in un solo parco: oltre settanta giostre e attrazioni su Yas Island.",
+  "fullDescription": "A tema emiratino, all'aperto, e detentore del Guinness World Record per il maggior numero di scivoli d'acqua in un solo parco: oltre settanta giostre e attrazioni su Yas Island.\n\nIl prezzo comprende il biglietto d'ingresso generale (se opzione selezionata), l'accesso a tutte le giostre e attrazioni e il servizio navetta dentro Yas Island. Non comprende il Quick Pass (se opzione selezionata), cibo e bevande e il trasporto da e per il parco acquatico.\n\nOltre settanta scivoli, il record Guinness per il maggior numero in un solo parco, a tema di un villaggio emiratino di pescatori di perle, fatto sul serio e non solo come decorazione. Ingresso giornaliero generale piu la navetta di Yas Island. Attenzione: completamente all'aperto, arriva all'apertura tra giugno e settembre. Costa meno dentro un pass multi-parco di Yas Island.",
+  "highlights": [],
+  "included": [
+   "Biglietto d'ingresso generale (se opzione selezionata)",
+   "Accesso a tutte le giostre e attrazioni",
+   "Servizio navetta dentro Yas Island"
+  ],
+  "notIncluded": [
+   "Quick Pass (se opzione selezionata)",
+   "Cibo e bevande",
+   "Trasporto da e per il parco acquatico"
+  ]
+ },
+ "zayed-national-museum-abu-dhabi-entry-ticket": {
+  "title": "Zayed National Museum Abu Dhabi: biglietto d'ingresso",
+  "metaTitle": "Zayed National Museum Abu Dhabi: biglietto d'ingresso",
+  "metaDescription": "Il museo nazionale degli Emirati, su Saadiyat Island, che racconta la storia del paese dalle origini archeologiche fino alla federazione e al presente.",
+  "shortDescription": "Il museo nazionale degli Emirati, su Saadiyat Island, che racconta la storia del paese dalle origini archeologiche fino alla federazione e al presente.",
+  "fullDescription": "Il museo nazionale degli Emirati, su Saadiyat Island, che racconta la storia del paese dalle origini archeologiche fino alla federazione e al presente.\n\nIl prezzo comprende l'accesso allo Zayed National Museum, esposizioni sulla storia e la cultura degli Emirati, il giardino Al Masar e percorsi accessibili, ascensori e aree con sedute in tutto il museo. Non comprende il tour guidato.\n\nIn un edificio di Norman Foster a forma di ali di falco, con i ritrovamenti neolitici fino alla fondazione dell'unione, e l'economia della pesca delle perle che ha costruito queste citta costiere, spiegata per bene. A distanza di passeggiata dal Louvre: insieme fanno una giornata completa a Saadiyat.",
+  "highlights": [],
+  "included": [
+   "Accesso allo Zayed National Museum",
+   "Esposizioni sulla storia e la cultura degli Emirati",
+   "Giardino Al Masar",
+   "Percorsi accessibili, ascensori e aree con sedute in tutto il museo"
+  ],
+  "notIncluded": [
+   "Tour guidato"
+  ]
  },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
   "title": "Da citta Ho Chi Minh: canali di Ben Tre a privato, artigianato e cibo con frutta",
