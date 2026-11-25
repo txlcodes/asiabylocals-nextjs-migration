@@ -1106,6 +1106,74 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-riverside-walking-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Riverside Walking Tour with Local Ferry Ride Worth It in Phnom Penh?",
+                description: "An honest look at the riverside walking tour with snacks, drinks, and a local ferry ride in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/riverside-walking-tour-with-snack-drinks-and-local-ferry-ride/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a riverside walk with an actual local ferry ride gives a genuine slice of everyday Phnom Penh river life, distinct from the tourist-oriented sunset cruises that dominate the city's river activities.", tourCard: { slug: "riverside-walking-tour-with-snack-drinks-and-local", title: "Riverside Walking Tour with Snack, Drinks and Local Ferry Ride", description: "A riverside walking tour with snacks, drinks, and a local ferry ride.", price: "From $10", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/riverside-walking-tour-with-snack-drinks-and-local-ferry-ride/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "At a low price with a genuine local ferry ride included, this is a good budget-friendly alternative to the pricier tourist sunset cruises." }
+                ],
+                faqs: [
+                    { q: "Is the riverside walking tour worth it in Phnom Penh?", a: "Yes, the local ferry ride gives a genuine slice of everyday river life, distinct from the more touristy sunset cruises." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the riverside walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the local ferry ride gives genuine insight into everyday river life." } }
+                ] },
+            };
+
+        case "is-night-tuk-tuk-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Night Tuk-Tuk City Highlights Tour Worth It in Phnom Penh?",
+                description: "An honest look at the 10 Iconic City Highlights by Night tuk-tuk tour in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/10-iconic-city-highlights-by-night-tuk-tuk-tour-in-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing the Royal Palace and riverside landmarks lit up after dark gives a genuinely different atmosphere from the daytime versions of the same city tour, especially useful if you're avoiding Phnom Penh's daytime heat.", tourCard: { slug: "10-iconic-city-highlights-by-night-tuk-tuk-tour", title: "10 Iconic City Highlights by Night Tuk-Tuk Tour in Phnom Penh", description: "A night tuk-tuk tour covering 10 of the city's iconic highlights.", price: "From $38", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/10-iconic-city-highlights-by-night-tuk-tuk-tour-in-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good choice specifically if you want to avoid the daytime heat, or if your schedule only leaves evenings free for sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the night tuk-tuk tour worth it in Phnom Penh?", a: "Yes, for a genuinely different lit-up atmosphere than the daytime version, and a good way to avoid the daytime heat." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the night tuk-tuk tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a different lit-up atmosphere and to avoid daytime heat." } }
+                ] },
+            };
+
+        case "is-essential-oil-workshop-worth-it-phnom-penh":
+            return {
+                title: "Is the Essential Oil Making Workshop Worth It near Phnom Penh?",
+                description: "An honest look at the essential oil making workshop with a village herbalist near Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/make-essential-oil-with-a-village-herbalist-near-phnom-penh-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Learning directly from a village herbalist gives genuine insight into traditional plant knowledge that a standard city tour never touches — a quiet, rural change of pace from the city's history-heavy sightseeing.", tourCard: { slug: "make-essential-oil-with-a-village-herbalist-near-p", title: "Make Essential Oil with a Village Herbalist near Phnom Penh", description: "An essential oil making workshop with a village herbalist near Phnom Penh.", price: "From $39", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/make-essential-oil-with-a-village-herbalist-near-phnom-penh-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good pick if you want a quiet, rural half-day to balance against the city's heavier genocide-history sites." }
+                ],
+                faqs: [
+                    { q: "Is the essential oil workshop worth it near Phnom Penh?", a: "Yes, for genuine traditional plant knowledge from a village herbalist, a quiet rural change of pace from city sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the essential oil workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine traditional plant knowledge in a quiet rural setting." } }
+                ] },
+            };
+
+        case "is-national-museum-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the National Museum Tour Worth It in Phnom Penh?",
+                description: "An honest look at the highlights tour including the National Museum in Phnom Penh, distinct from the Royal Palace visit.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/highlights-tour-including-national-museum-in-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The National Museum holds Cambodia's largest collection of Khmer art and sculpture, a genuinely different focus from the Royal Palace's architecture and ceremonial halls — worth pairing together rather than picking just one.", tourCard: { slug: "highlights-tour-including-national-museum-in-phnom", title: "Highlights Tour Including National Museum in Phnom Penh", description: "A city highlights tour including the National Museum.", price: "From $33", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/highlights-tour-including-national-museum-in-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pair this with the Royal Palace visit rather than choosing one or the other — they cover genuinely different ground, art collection versus royal architecture." }
+                ],
+                faqs: [
+                    { q: "Is the National Museum tour worth it in Phnom Penh?", a: "Yes, it holds Cambodia's largest Khmer art and sculpture collection, genuinely different from the Royal Palace's architecture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the National Museum tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it holds Cambodia's largest Khmer art and sculpture collection." } }
+                ] },
+            };
+
         default:
             return null;
     }
