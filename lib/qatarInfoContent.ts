@@ -1753,6 +1753,91 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-olioli-childrens-museum-worth-it-doha":
+      return {
+        title: "Is the OliOli Children's Museum Worth It in Doha?",
+        description: "An honest look at the OliOli Children's Museum, a hands-on interactive museum for families in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25d9cf6e2431b95d6c48042323f0a427178c34ecac1071c6a5ec845092294485.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "OliOli is a genuinely hands-on, play-based museum built for kids rather than a scaled-down version of an adult museum — a good indoor alternative to desert safaris or museum-circuit sightseeing when traveling with young children.",
+            tourCard: { slug: "doha-olioli-children-museum-admission-tickets", title: "Doha: OliOli Children Museum Admission Tickets", description: "Admission tickets to the OliOli Children's Museum in Doha.", price: "From $17", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/25d9cf6e2431b95d6c48042323f0a427178c34ecac1071c6a5ec845092294485.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good indoor option on Doha's hottest days, when outdoor desert activities are less appealing for young kids.",
+          },
+        ],
+        faqs: [
+          { q: "Is OliOli Children's Museum worth it in Doha?", a: "Yes for families with young kids — it's genuinely hands-on and play-based, a good indoor alternative on hot days." },
+        ],
+      };
+
+    case "is-souq-waqif-walking-tour-worth-it-doha":
+      return {
+        title: "Is the Souq Waqif Walking Tour Worth It in Doha?",
+        description: "An honest look at the dedicated guided walking tour of Souq Waqif, Doha's restored traditional market.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8d75754e9ac2d6a1c6d446f0d2087cc1b4661b72a80564582d7e95f3334756cb.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dedicated guide adds real context to Souq Waqif's spice stalls, textiles, and falconry shops that you'd miss wandering on your own, explaining the market's history and layout rather than just the general city tours that pass through briefly.",
+            tourCard: { slug: "walking-tour-discover-souq-waqif", title: "Walking Tour: Discover Souq Waqif", description: "A dedicated guided walking tour of Souq Waqif market.", price: "From $33", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8d75754e9ac2d6a1c6d446f0d2087cc1b4661b72a80564582d7e95f3334756cb.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Evening visits are generally more atmospheric, once the heat breaks and the restaurant terraces fill up around the souq's lanes.",
+          },
+        ],
+        faqs: [
+          { q: "Is a dedicated Souq Waqif walking tour worth it?", a: "Yes if you want real context on the market's history and layout, beyond what a general city tour's brief stop covers." },
+        ],
+      };
+
+    case "is-golden-hour-photography-tour-worth-it-doha":
+      return {
+        title: "Is the Doha Golden Hour & City Lights Photography Tour Worth It?",
+        description: "An honest look at the private golden hour and city lights photography tour in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b7be895ccc42518bc475082367003f480c3742c091b993e7ae33b1284044c1d2.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is built specifically around getting good photos — timed for golden hour and the city lights coming on after dark — rather than being a general sightseeing tour that happens to pass scenic spots, worth it for travelers who genuinely want strong photos of West Bay's skyline.",
+            tourCard: { slug: "doha-private-golden-hour-city-lights-photography", title: "Doha: Private Golden Hour & City Lights Photography Tour", description: "A private photography tour timed for golden hour and city lights.", price: "From $33", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b7be895ccc42518bc475082367003f480c3742c091b993e7ae33b1284044c1d2.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your own camera if you have one beyond a phone — the guide can suggest spots and timing, but won't necessarily shoot for you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Doha golden hour photography tour worth it?", a: "Yes if good photos of the West Bay skyline are a real priority — it's specifically timed and planned around that, unlike a general sightseeing tour." },
+        ],
+      };
+
+    case "is-layover-tour-worth-it-doha":
+      return {
+        title: "Is a Doha Layover Tour Worth It?",
+        description: "An honest look at the 4-hour Doha layover tour covering Souq Waqif and top sights, built for transit passengers.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27521727efc60a1bb3ac7dea1a706441b0ca3ae2eefbd96d3589284132372442.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Qatar Airways' hub status means many travelers have a long Doha layover without realizing they can leave the airport, and this tour is specifically built around that window — Souq Waqif and top sights, timed to get you back for your connecting flight with margin to spare.",
+            tourCard: { slug: "doha-4-hour-layover-tour-of-souq-waqif-top", title: "Doha: 4-Hour Layover Tour of Souq Waqif & Top Sights", description: "A layover-specific tour covering Souq Waqif and top Doha sights.", price: "From $21", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27521727efc60a1bb3ac7dea1a706441b0ca3ae2eefbd96d3589284132372442.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check your visa-on-arrival eligibility and confirm your layover window with the operator before booking — leaving the airport requires enough buffer time to clear immigration both ways." ,
+          },
+        ],
+        faqs: [
+          { q: "Can I leave Doha airport during a layover?", a: "Yes, many nationalities qualify for a visa on arrival, and this tour is specifically built around a layover window — just confirm your specific timing and eligibility first." },
+          { q: "Is a Doha layover tour worth it?", a: "Yes if you have a long enough layover window — it turns dead airport time into a real taste of the city, timed to get you back for your connection." },
+        ],
+      };
+
     default:
       return null;
   }
