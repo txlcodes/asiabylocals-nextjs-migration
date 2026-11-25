@@ -124315,6 +124315,395 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali"
   ]
  },
+ "bangkok-street-food-tuk-tuk-night-tour": {
+  "title": "Bangkok di notte: tour in tuk-tuk tra cibo di strada con oltre 10 assaggi",
+  "metaTitle": "Bangkok di notte: cibo di strada e tuk-tuk",
+  "metaDescription": "Il lato più vivace di Bangkok dopo il tramonto: un giro in tuk-tuk nella Città Vecchia con una guida gastronomica locale, oltre 10 soste di cibo di strada autentico, il mercato dei fiori aperto tutta la notte e un drink in terrazza con vista su Wat Arun.",
+  "shortDescription": "Il lato più vivace di Bangkok dopo il tramonto: un giro in tuk-tuk nella Città Vecchia con una guida gastronomica locale, oltre 10 soste di cibo di strada autentico, il mercato dei fiori aperto tutta la notte e un drink in terrazza con vista su Wat Arun.",
+  "fullDescription": "Un giro in tuk-tuk attraverso la Città Vecchia di Bangkok con una guida gastronomica locale, fatto apposta per la notte.\n\nIl percorso si ferma in oltre 10 locali di cibo di strada autentico che si animano solo dopo il tramonto, con una sosta al celebre mercato dei fiori Pak Khlong Talat aperto tutta la notte, e un drink in terrazza con vista su Wat Arun.\n\nIl prezzo comprende oltre 10 assaggi di cibo di strada in locali autentici, gli spostamenti in tuk-tuk per tutta la durata del tour, una guida gastronomica locale con licenza completa, una birra thailandese fresca o una bibita analcolica, la visita al mercato dei fiori Pak Khlong Talat, la sosta al bar in terrazza con vista su Wat Arun, il rientro in tuk-tuk fino al tuo hotel nel centro di Bangkok, la mancia (per la guida e il conducente) e il ritiro in hotel (se selezionato tra le opzioni). Cibo o bevande oltre agli assaggi inclusi, gli acquisti personali, il trasporto fino al punto d'incontro (MRT Sam Yan) e l'assicurazione di viaggio non sono compresi.",
+  "highlights": [
+   "Oltre 10 assaggi di cibo di strada autentico nella Città Vecchia",
+   "Giro in tuk-tuk e sosta al mercato dei fiori aperto tutta la notte",
+   "Drink in terrazza con vista su Wat Arun"
+  ],
+  "included": [
+   "Oltre 10 assaggi di cibo di strada in locali autentici",
+   "Spostamenti in tuk-tuk per tutta la durata del tour",
+   "Guida gastronomica locale con licenza completa",
+   "Una birra thailandese fresca o una bibita analcolica",
+   "Visita al mercato dei fiori Pak Khlong Talat, aperto tutta la notte",
+   "Sosta al bar in terrazza con vista su Wat Arun",
+   "Rientro in tuk-tuk fino al tuo hotel nel centro di Bangkok",
+   "Mancia (per la guida e il conducente)",
+   "Ritiro in hotel (se selezionato tra le opzioni)"
+  ],
+  "notIncluded": [
+   "Cibo o bevande oltre agli assaggi inclusi",
+   "Acquisti personali",
+   "Trasporto fino al punto d'incontro (MRT Sam Yan)",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "bangkok-temples-canals-local-life-bike-tour": {
+  "title": "Bangkok: tour in bicicletta tra templi, canali e vita locale",
+  "metaTitle": "Bangkok: templi, canali e vita locale in bicicletta",
+  "metaDescription": "Un tour guidato di 3 ore in bicicletta attraverso le vere stradine di Bangkok, nel quartiere di Thonburi, la sponda occidentale più tranquilla del Chao Phraya, tra sentieri lungo i canali, cortili dei templi e quartieri locali rimasti invariati da decenni. Massimo 8 partecipanti per gruppo.",
+  "shortDescription": "Un tour guidato di 3 ore in bicicletta attraverso le vere stradine di Bangkok, nel quartiere di Thonburi, la sponda occidentale più tranquilla del Chao Phraya, tra sentieri lungo i canali, cortili dei templi e quartieri locali rimasti invariati da decenni. Massimo 8 partecipanti per gruppo.",
+  "fullDescription": "Un tour guidato di 3 ore in bicicletta attraverso le vere stradine di Bangkok, nel quartiere di Thonburi, la sponda occidentale più tranquilla del Chao Phraya.\n\nIl percorso pedala lungo sentieri costeggiati dai canali, attraversa i cortili dei templi e i quartieri locali rimasti invariati da decenni. Il gruppo è limitato a un massimo di 8 partecipanti.\n\nIl prezzo comprende una bicicletta da città di qualità con casco (misurato all'arrivo), acqua in bottiglia per tutta la durata del tour, un poncho antipioggia se necessario, una guida locale di lingua inglese, e seggiolini per bambini e telai più piccoli disponibili su richiesta (comunicare le altezze in anticipo). Il ritiro e riaccompagno in hotel (da raggiungere autonomamente fino alla stazione BTS Pho Nimit), cibo e bevande alle soste al mercato, gli acquisti personali e le mance per la guida (facoltative ma apprezzate) non sono compresi.",
+  "highlights": [
+   "Tour guidato di 3 ore in bicicletta nel quartiere di Thonburi",
+   "Sentieri lungo i canali, cortili dei templi e quartieri locali autentici",
+   "Gruppo limitato a un massimo di 8 partecipanti"
+  ],
+  "included": [
+   "Bicicletta da città di qualità con casco (misurato all'arrivo)",
+   "Acqua in bottiglia per tutta la durata del tour",
+   "Poncho antipioggia (se necessario)",
+   "Guida locale di lingua inglese",
+   "Seggiolini per bambini e telai più piccoli disponibili su richiesta (comunicare le altezze in anticipo)"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel (da raggiungere autonomamente fino alla stazione BTS Pho Nimit)",
+   "Cibo e bevande alle soste al mercato",
+   "Acquisti personali",
+   "Mance per la guida (facoltative ma apprezzate)"
+  ]
+ },
+ "bangkok-tuk-tuk-chinatown-street-food-temple-night-tour": {
+  "title": "Bangkok di notte in tuk-tuk: cibo di strada e templi a Chinatown",
+  "metaTitle": "Bangkok: tuk-tuk notturno a Chinatown",
+  "metaDescription": "Un giro in tuk-tuk nella vivace Chinatown di Bangkok, con assaggi di cibo di strada consigliato dalla guida Michelin, la visita a un tempio nascosto con il più grande Buddha d'oro massiccio al mondo, e un passaggio al mercato dei fiori dopo il tramonto. Una serata indimenticabile a Bangkok.",
+  "shortDescription": "Un giro in tuk-tuk nella vivace Chinatown di Bangkok, con assaggi di cibo di strada consigliato dalla guida Michelin, la visita a un tempio nascosto con il più grande Buddha d'oro massiccio al mondo, e un passaggio al mercato dei fiori dopo il tramonto. Una serata indimenticabile a Bangkok.",
+  "fullDescription": "Un giro in tuk-tuk nella vivace Chinatown di Bangkok, pensato per la notte.\n\nIl percorso comprende assaggi di cibo di strada consigliato dalla guida Michelin, la visita a un tempio nascosto che custodisce il più grande Buddha d'oro massiccio al mondo, e un passaggio al mercato dei fiori dopo il tramonto.\n\nIl prezzo comprende tutti gli spostamenti in tuk-tuk per la durata del tour, una guida gastronomica locale di lingua inglese, 5-6 assaggi di cibo di strada, l'ingresso al tempio Wat Traimit e acqua in bottiglia. Il ritiro e riaccompagno in hotel (punto d'incontro prefissato), cibo o bevande oltre agli assaggi inclusi, le spese personali e le mance per la guida (facoltative) non sono compresi.",
+  "highlights": [
+   "Giro notturno in tuk-tuk nella vivace Chinatown di Bangkok",
+   "5-6 assaggi di cibo di strada consigliato dalla guida Michelin",
+   "Tempio Wat Traimit con il più grande Buddha d'oro massiccio al mondo"
+  ],
+  "included": [
+   "Tutti gli spostamenti in tuk-tuk per la durata del tour",
+   "Guida gastronomica locale di lingua inglese",
+   "5-6 assaggi di cibo di strada",
+   "Ingresso al tempio Wat Traimit",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel (punto d'incontro prefissato)",
+   "Cibo o bevande oltre agli assaggi inclusi",
+   "Spese personali",
+   "Mance per la guida (facoltative)"
+  ]
+ },
+ "chiang-mai-countryside-mini-tour": {
+  "title": "Chiang Mai: volo in paramotore in tandem con istruttori autorizzati",
+  "metaTitle": "Chiang Mai: paramotore in tandem con istruttori autorizzati",
+  "metaDescription": "Un volo in paramotore in tandem sopra le risaie e le colline di Chiang Mai, con un istruttore autorizzato che si occupa di tutto il volo: non è richiesta alcuna esperienza.",
+  "shortDescription": "Un volo in paramotore in tandem sopra le risaie e le colline di Chiang Mai, con un istruttore autorizzato che si occupa di tutto il volo: non è richiesta alcuna esperienza.",
+  "fullDescription": "Un volo in paramotore in tandem sopra le risaie e le colline di Chiang Mai.\n\nUn istruttore autorizzato si occupa di tutto il volo, quindi non è richiesta alcuna esperienza precedente.\n\nIl prezzo comprende un istruttore/pilota autorizzato per il volo in tandem, tutta l'attrezzatura di volo (imbracatura, casco e paramotore), e un briefing di sicurezza prima del volo. Le foto del volo sono spesso incluse, ma conviene confermare esattamente cosa è compreso al momento della prenotazione. Il ritiro in hotel e il trasporto fino al punto di decollo (salvo diversa indicazione al momento della prenotazione), le mance per l'istruttore, le spese personali e eventuali pacchetti foto/video aggiuntivi a pagamento non sono compresi.",
+  "highlights": [
+   "Volo in paramotore in tandem con istruttore autorizzato",
+   "Vista sulle risaie e le colline di Chiang Mai",
+   "Non è richiesta alcuna esperienza di volo"
+  ],
+  "included": [
+   "Istruttore/pilota autorizzato per il volo in tandem",
+   "Tutta l'attrezzatura di volo (imbracatura, casco e paramotore)",
+   "Briefing di sicurezza prima del volo",
+   "Foto del volo (spesso incluse: conviene confermare al momento della prenotazione)"
+  ],
+  "notIncluded": [
+   "Ritiro in hotel e trasporto fino al punto di decollo (salvo diversa indicazione alla prenotazione)",
+   "Mance per l'istruttore",
+   "Spese personali",
+   "Pacchetti foto/video aggiuntivi, se a pagamento separato"
+  ]
+ },
+ "chiang-mai-thai-cooking-class-ethical-elephant-sanctuary": {
+  "title": "Chiang Mai: corso di cucina thailandese e santuario etico degli elefanti",
+  "metaTitle": "Chiang Mai: cucina thailandese e santuario degli elefanti",
+  "metaDescription": "Dalla fattoria alla foresta: prepara 5 piatti thailandesi autentici in una fattoria biologica, poi incontra elefanti salvati in un santuario etico vicino al Doi Inthanon. Trasferimenti di andata e ritorno da Chiang Mai inclusi.",
+  "shortDescription": "Dalla fattoria alla foresta: prepara 5 piatti thailandesi autentici in una fattoria biologica, poi incontra elefanti salvati in un santuario etico vicino al Doi Inthanon. Trasferimenti di andata e ritorno da Chiang Mai inclusi.",
+  "fullDescription": "Una giornata che va dalla fattoria alla foresta: si inizia preparando 5 piatti thailandesi autentici in una fattoria biologica.\n\nNel pomeriggio si prosegue verso un santuario etico vicino al Doi Inthanon, dove si incontrano elefanti salvati, con tutte le attività del santuario incluse. I trasferimenti di andata e ritorno da Chiang Mai sono inclusi.\n\nIl prezzo comprende i trasferimenti di andata e ritorno in hotel (città di Chiang Mai), la visita al mercato locale, il corso completo di cucina thailandese con postazioni individuali, il pranzo (preparato da te) e la cena al santuario, l'ingresso al santuario degli elefanti con tutte le attività, l'abito tradizionale thailandese per la visita al santuario, guide locali di lingua inglese, acqua, snack e tè alle erbe, l'assicurazione e un servizio fotografico incluso. Le mance e le spese personali non sono comprese.",
+  "highlights": [
+   "Corso di cucina thailandese con 5 piatti autentici in una fattoria biologica",
+   "Visita a un santuario etico degli elefanti vicino al Doi Inthanon",
+   "Trasferimenti di andata e ritorno da Chiang Mai inclusi"
+  ],
+  "included": [
+   "Trasferimenti di andata e ritorno in hotel (città di Chiang Mai)",
+   "Visita al mercato locale",
+   "Corso completo di cucina thailandese con postazioni individuali",
+   "Pranzo (preparato da te) e cena al santuario",
+   "Ingresso al santuario degli elefanti e tutte le attività",
+   "Abito tradizionale thailandese per la visita al santuario",
+   "Guide locali di lingua inglese",
+   "Acqua, snack e tè alle erbe",
+   "Assicurazione",
+   "Servizio fotografico incluso"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "chiangmai-boxing-stadium-entry-ticket": {
+  "title": "Chiang Mai: biglietto per lo stadio di Muay Thai",
+  "metaTitle": "Chiang Mai: biglietto Muay Thai",
+  "metaDescription": "Vivi il boato della folla in una serata di incontri di Muay Thai dal vivo a Chiang Mai: scegli il tuo posto, dalla tribuna standard al settore VIP con tutto incluso.",
+  "shortDescription": "Vivi il boato della folla in una serata di incontri di Muay Thai dal vivo a Chiang Mai: scegli il tuo posto, dalla tribuna standard al settore VIP con tutto incluso.",
+  "fullDescription": "Una serata di incontri di Muay Thai dal vivo in uno stadio di Chiang Mai, con il boato della folla a ogni colpo.\n\nSi può scegliere tra diversi settori: dalla tribuna standard al Ringside, fino al VIP con tutto incluso.\n\nIl prezzo comprende il biglietto d'ingresso per il settore scelto (tribuna standard, Ringside o VIP). Il settore VIP include bevande e snack illimitati per tutta la serata; il settore Ringside include un buono per una bevanda in omaggio. Il trasporto da e per lo stadio, il cibo (a meno che non sia scelto il settore VIP) e le mance per il personale non sono compresi.",
+  "highlights": [
+   "Serata di incontri di Muay Thai dal vivo a Chiang Mai",
+   "Scelta tra tribuna standard, Ringside e settore VIP",
+   "VIP con bevande e snack illimitati per tutta la serata"
+  ],
+  "included": [
+   "Biglietto d'ingresso per il settore scelto (tribuna standard, Ringside o VIP)",
+   "VIP: bevande e snack illimitati per tutta la serata",
+   "Ringside: un buono per una bevanda in omaggio"
+  ],
+  "notIncluded": [
+   "Trasporto da e per lo stadio",
+   "Cibo (a meno che non sia scelto il settore VIP)",
+   "Mance per il personale"
+  ]
+ },
+ "chicken-island-boat-tour": {
+  "title": "Quattro isole Andamane in barca longtail con pranzo thailandese",
+  "metaTitle": "Krabi: quattro isole Andamane in barca longtail",
+  "metaDescription": "Un giro su una tradizionale barca longtail in legno verso quattro isole calcaree, con snorkeling tra pesci colorati della barriera, una camminata su un banco di sabbia emerso con la marea, e un pranzo thailandese caldo servito sulla spiaggia.",
+  "shortDescription": "Un giro su una tradizionale barca longtail in legno verso quattro isole calcaree, con snorkeling tra pesci colorati della barriera, una camminata su un banco di sabbia emerso con la marea, e un pranzo thailandese caldo servito sulla spiaggia.",
+  "fullDescription": "Un giro su una tradizionale barca longtail in legno verso quattro isole calcaree del Mare delle Andamane.\n\nTra una tappa e l'altra si fa snorkeling tra pesci colorati della barriera, si cammina su un banco di sabbia che emerge con la marea, e si pranza con un pasto thailandese caldo servito direttamente sulla spiaggia.\n\nIl prezzo comprende il trasferimento di andata e ritorno in hotel entro le zone di Ao Nang e Krabi Town, la barca longtail con skipper locale esperto, una guida di lingua inglese, il pranzo thailandese, maschera da snorkeling e giubbotto di salvataggio, acqua potabile e frutta di stagione, la tassa d'ingresso al parco nazionale e l'assicurazione. Le bevande alcoliche, gli asciugamani, il noleggio di una fotocamera subacquea, le mance e le spese personali non sono compresi.",
+  "highlights": [
+   "Giro in barca longtail verso quattro isole calcaree del Mare delle Andamane",
+   "Snorkeling tra pesci colorati della barriera corallina",
+   "Pranzo thailandese caldo servito sulla spiaggia"
+  ],
+  "included": [
+   "Trasferimento di andata e ritorno in hotel (zone di Ao Nang e Krabi Town)",
+   "Barca longtail con skipper locale esperto",
+   "Guida di lingua inglese",
+   "Pranzo thailandese",
+   "Maschera da snorkeling e giubbotto di salvataggio",
+   "Acqua potabile e frutta di stagione",
+   "Tassa d'ingresso al parco nazionale",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Noleggio fotocamera subacquea",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "chicken-island-premium-boat-tour": {
+  "title": "Crociera premium in catamarano alle quattro isole con kayak trasparenti",
+  "metaTitle": "Krabi: crociera premium in catamarano con kayak trasparenti",
+  "metaDescription": "Una crociera verso le quattro isole su un catamarano a motore stabile, con snorkeling sulla barriera corallina, kayak trasparenti, reti a trampolino per rilassarsi e un pasto servito a bordo.",
+  "shortDescription": "Una crociera verso le quattro isole su un catamarano a motore stabile, con snorkeling sulla barriera corallina, kayak trasparenti, reti a trampolino per rilassarsi e un pasto servito a bordo.",
+  "fullDescription": "Una crociera verso le quattro isole del Mare delle Andamane su un catamarano a motore stabile.\n\nA bordo si fa snorkeling sulla barriera corallina, si usano kayak trasparenti, ci si rilassa sulle reti a trampolino, e si consuma un pasto servito direttamente sul catamarano.\n\nIl prezzo comprende il trasferimento in hotel entro le zone di Ao Nang e Krabi Town, la crociera in catamarano con equipaggio, una guida di lingua inglese, un pasto fisso e bibite, l'attrezzatura da snorkeling e i giubbotti di salvataggio, una sessione con i kayak trasparenti, la tassa d'ingresso al parco nazionale e l'assicurazione. Le bevande alcoliche, gli asciugamani, il servizio fotografico, le mance e le spese personali non sono compresi.",
+  "highlights": [
+   "Crociera in catamarano a motore verso le quattro isole del Mare delle Andamane",
+   "Kayak trasparenti e reti a trampolino a bordo",
+   "Snorkeling sulla barriera corallina e pasto servito sul catamarano"
+  ],
+  "included": [
+   "Trasferimento in hotel (zone di Ao Nang e Krabi Town)",
+   "Crociera in catamarano con equipaggio",
+   "Guida di lingua inglese",
+   "Pasto fisso e bibite",
+   "Attrezzatura da snorkeling e giubbotti di salvataggio",
+   "Sessione con kayak trasparenti",
+   "Tassa d'ingresso al parco nazionale",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Servizio fotografico",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "chicken-island-sunset-sunset-tour": {
+  "title": "Tramonto in catamarano tra le isole Phi Phi e le quattro isole",
+  "metaTitle": "Krabi: tramonto in catamarano tra Phi Phi e le quattro isole",
+  "metaDescription": "Le isole Phi Phi e le quattro isole di Krabi in un'unica uscita su un catamarano veloce, con il tramonto dietro i pinnacoli calcarei visto dal ponte scoperto.",
+  "shortDescription": "Le isole Phi Phi e le quattro isole di Krabi in un'unica uscita su un catamarano veloce, con il tramonto dietro i pinnacoli calcarei visto dal ponte scoperto.",
+  "fullDescription": "Le isole Phi Phi e le quattro isole di Krabi in un'unica uscita su un catamarano veloce premium con equipaggio.\n\nLa giornata si conclude con il sole che tramonta dietro i pinnacoli calcarei, ammirato dal ponte scoperto del catamarano.\n\nIl prezzo comprende il ritiro e riaccompagno in hotel nelle zone di Ao Nang e Krabi Town, il catamarano veloce premium con equipaggio, una guida di lingua inglese, il pranzo a buffet thailandese e spuntini leggeri, l'attrezzatura da snorkeling e i giubbotti di salvataggio, bibite, acqua e frutta, le tasse del parco nazionale e l'assicurazione. Le bevande alcoliche, gli asciugamani, il noleggio di una fotocamera, le mance e le spese personali non sono compresi.",
+  "highlights": [
+   "Isole Phi Phi e quattro isole di Krabi in un'unica uscita in catamarano",
+   "Tramonto dietro i pinnacoli calcarei visto dal ponte scoperto",
+   "Pranzo a buffet thailandese e snorkeling inclusi"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (zone di Ao Nang e Krabi Town)",
+   "Catamarano veloce premium con equipaggio",
+   "Guida di lingua inglese",
+   "Pranzo a buffet thailandese e spuntini leggeri",
+   "Attrezzatura da snorkeling e giubbotti di salvataggio",
+   "Bibite, acqua e frutta",
+   "Tasse del parco nazionale",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Noleggio fotocamera",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "chicken-island-sunset-tour": {
+  "title": "Tramonto alle sette isole con barbecue e plancton bioluminescente",
+  "metaTitle": "Ao Nang: sette isole al tramonto con barbecue e plancton",
+  "metaDescription": "Un pomeriggio di snorkeling tra sette isole, un barbecue grigliato sulla sabbia al crepuscolo e un bagno notturno tra il plancton bioluminescente luminoso al largo di Ao Nang.",
+  "shortDescription": "Un pomeriggio di snorkeling tra sette isole, un barbecue grigliato sulla sabbia al crepuscolo e un bagno notturno tra il plancton bioluminescente luminoso al largo di Ao Nang.",
+  "fullDescription": "Un pomeriggio di snorkeling tra sette isole al largo di Ao Nang, con una barca longtail e un equipaggio locale.\n\nAl crepuscolo si tiene un barbecue grigliato direttamente sulla sabbia, seguito da un bagno notturno tra il plancton bioluminescente che brilla nell'acqua.\n\nIl prezzo comprende il ritiro e riaccompagno in hotel ad Ao Nang, la barca longtail con equipaggio locale, una guida di lingua inglese, la cena barbecue in spiaggia e bibite, l'attrezzatura da snorkeling, il giubbotto di salvataggio e una torcia frontale, la tassa d'ingresso al parco nazionale e l'assicurazione. Le bevande alcoliche, gli asciugamani, il noleggio di una fotocamera subacquea, le mance e le spese personali non sono compresi.",
+  "highlights": [
+   "Snorkeling pomeridiano tra sette isole al largo di Ao Nang",
+   "Barbecue grigliato sulla sabbia al crepuscolo",
+   "Bagno notturno tra il plancton bioluminescente"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel ad Ao Nang",
+   "Barca longtail con equipaggio locale",
+   "Guida di lingua inglese",
+   "Cena barbecue in spiaggia e bibite",
+   "Attrezzatura da snorkeling, giubbotto di salvataggio e torcia frontale",
+   "Tassa d'ingresso al parco nazionale",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Noleggio fotocamera subacquea",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "combo-waterfall-and-7-island-sunset-tour-in-krabi": {
+  "title": "Tour combo cascata e tramonto alle 7 isole a Krabi",
+  "metaTitle": "Krabi: cascata e tramonto alle 7 isole",
+  "metaDescription": "Tour di un giorno intero a Krabi, con un punto panoramico. Gestito da un operatore locale verificato, con prenotazione diretta invece che tramite un rivenditore.",
+  "shortDescription": "Tour di un giorno intero a Krabi, con un punto panoramico. Gestito da un operatore locale verificato, con prenotazione diretta invece che tramite un rivenditore.",
+  "fullDescription": "Un tour di un giorno intero a Krabi che comprende un punto panoramico, oltre alla visita di sette isole al tramonto.\n\nIl tour è gestito da un operatore locale verificato, con prenotazione diretta invece che tramite un rivenditore.\n\nIl prezzo comprende il ritiro e riaccompagno in hotel a Krabi, una guida di lingua inglese, il giro in barca verso Railay, il banco di sabbia e le isole Poda, Tup e Mor, maschera e attrezzatura da snorkeling, il pranzo thailandese, frutta fresca e bevande, e l'assicurazione di viaggio. La tassa d'ingresso al parco nazionale (400 baht per adulto / 200 baht per bambino, da pagare sul posto), le spese personali e le mance non sono comprese.",
+  "highlights": [
+   "Tour di un giorno intero a Krabi con punto panoramico e cascata",
+   "Giro in barca verso Railay e le isole Poda, Tup e Mor",
+   "Tramonto alle 7 isole"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Krabi",
+   "Guida di lingua inglese",
+   "Giro in barca verso Railay, il banco di sabbia e le isole Poda, Tup e Mor",
+   "Maschera e attrezzatura da snorkeling",
+   "Pranzo thailandese",
+   "Frutta fresca e bevande",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale (400 baht per adulto / 200 baht per bambino, da pagare sul posto)",
+   "Spese personali",
+   "Mance"
+  ]
+ },
+ "crystal-lake-mini-tour": {
+  "title": "Kayak al lago di cristallo tra le acque smeraldo di Klong Root",
+  "metaTitle": "Krabi: kayak al lago di cristallo di Klong Root",
+  "metaDescription": "Una pagaiata su un tranquillo corso d'acqua alimentato da sorgenti, costeggiato da giungla, liane e ninfee, con acqua smeraldina trasparente, martin pescatore residenti e una sosta per un bagno in acqua dolce.",
+  "shortDescription": "Una pagaiata su un tranquillo corso d'acqua alimentato da sorgenti, costeggiato da giungla, liane e ninfee, con acqua smeraldina trasparente, martin pescatore residenti e una sosta per un bagno in acqua dolce.",
+  "fullDescription": "Una pagaiata in kayak su un tranquillo corso d'acqua alimentato da sorgenti a Klong Root, costeggiato da giungla, liane e ninfee.\n\nL'acqua è smeraldina e trasparente, popolata da martin pescatore residenti, con una sosta per un bagno in acqua dolce lungo il percorso.\n\nIl prezzo comprende il kayak e la pagaia, il giubbotto di salvataggio e una sacca stagna, una guida locale di lingua inglese, la tassa d'ingresso, acqua potabile, le foto scattate dalla guida e l'assicurazione. I trasferimenti in hotel (se non aggiunti al momento della prenotazione), i pasti, gli asciugamani, le mance e le spese personali non sono compresi.",
+  "highlights": [
+   "Kayak su un corso d'acqua alimentato da sorgenti a Klong Root",
+   "Acqua smeraldina trasparente e martin pescatore residenti",
+   "Sosta per un bagno in acqua dolce"
+  ],
+  "included": [
+   "Kayak e pagaia",
+   "Giubbotto di salvataggio e sacca stagna",
+   "Guida locale di lingua inglese",
+   "Tassa d'ingresso",
+   "Acqua potabile",
+   "Foto scattate dalla guida",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel (se non aggiunti alla prenotazione)",
+   "Pasti",
+   "Asciugamani",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "dam-restaurant-pattaya-beachfront-mini-tour": {
+  "title": "Cena e spettacolo di fuoco in riva al mare a Pattaya",
+  "metaTitle": "Pattaya: cena in spiaggia con spettacolo di fuoco",
+  "metaDescription": "Una serata di cena e fuoco sulla sabbia: posti riservati su sedute di bambù proprio sulla spiaggia di Pattaya, un menu di piatti thailandesi, e uno spettacolare spettacolo di fuoco mentre le onde si susseguono.",
+  "shortDescription": "Una serata di cena e fuoco sulla sabbia: posti riservati su sedute di bambù proprio sulla spiaggia di Pattaya, un menu di piatti thailandesi, e uno spettacolare spettacolo di fuoco mentre le onde si susseguono.",
+  "fullDescription": "Una serata di cena e fuoco sulla sabbia di Pattaya.\n\nI posti riservati su sedute di bambù si trovano direttamente sulla spiaggia, con un menu di piatti thailandesi e uno spettacolare spettacolo di fuoco mentre le onde si susseguono sullo sfondo.\n\nIl prezzo comprende i posti riservati su sedute di bambù in riva al mare, la cena (opzione di menu selezionata), lo spettacolo di fuoco e il servizio. I trasferimenti in hotel (il locale si trova in posizione centrale), le bevande aggiuntive oltre al menu selezionato e le mance non sono compresi.",
+  "highlights": [
+   "Cena in riva al mare su sedute di bambù a Pattaya",
+   "Spettacolare spettacolo di fuoco sulla sabbia",
+   "Menu di piatti thailandesi incluso"
+  ],
+  "included": [
+   "Posti riservati su sedute di bambù in riva al mare",
+   "Cena (opzione di menu selezionata)",
+   "Spettacolo di fuoco",
+   "Servizio"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel (il locale è in posizione centrale)",
+   "Bevande aggiuntive oltre al menu selezionato",
+   "Mance"
+  ]
+ },
+ "damnoen-saduak-market-and-maeklong-railway-market": {
+  "title": "Bangkok: mercato di Damnoen Saduak e mercato ferroviario di Maeklong",
+  "metaTitle": "Bangkok: Damnoen Saduak e mercato ferroviario di Maeklong",
+  "metaDescription": "Visita al mercato ferroviario di Maeklong e al mercato galleggiante di Damnoen Saduak, con tour privato o di gruppo da Bangkok. Un'occasione per interagire con i venditori locali del mercato.",
+  "shortDescription": "Visita al mercato ferroviario di Maeklong e al mercato galleggiante di Damnoen Saduak, con tour privato o di gruppo da Bangkok. Un'occasione per interagire con i venditori locali del mercato.",
+  "fullDescription": "Una visita al mercato ferroviario di Maeklong e al mercato galleggiante di Damnoen Saduak da Bangkok, con tour privato o di gruppo a scelta.\n\nLungo il percorso c'è modo di interagire con i venditori locali del mercato, sempre cordiali.\n\nIl prezzo comprende una guida di lingua inglese e il tour così come descritto. Le mance e le spese personali non sono comprese.",
+  "highlights": [
+   "Mercato ferroviario di Maeklong e mercato galleggiante di Damnoen Saduak",
+   "Tour privato o di gruppo a scelta da Bangkok",
+   "Interazione con i venditori locali del mercato"
+  ],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour così come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "doi-inthanon-national-park-full-day-tour": {
+  "title": "Parco nazionale del Doi Inthanon: eco-tour di un giorno intero da Chiang Mai",
+  "metaTitle": "Doi Inthanon: eco-tour di un giorno da Chiang Mai",
+  "metaDescription": "Eco-tour di un giorno intero verso il Doi Inthanon, la vetta più alta della Thailandia, con cascate, pagode e una sosta in un villaggio di tribù montane.",
+  "shortDescription": "Eco-tour di un giorno intero verso il Doi Inthanon, la vetta più alta della Thailandia, con cascate, pagode e una sosta in un villaggio di tribù montane.",
+  "fullDescription": "Un eco-tour di un giorno intero verso il Doi Inthanon, la vetta più alta della Thailandia, da Chiang Mai.\n\nIl percorso comprende cascate, pagode e una sosta in un villaggio di tribù montane.\n\nIl prezzo comprende il ritiro e riaccompagno in hotel, il trasporto, una guida di lingua inglese, i biglietti d'ingresso al parco nazionale e il pranzo. Le spese personali, le mance e l'assicurazione di viaggio non sono comprese.",
+  "highlights": [
+   "Eco-tour di un giorno intero al Doi Inthanon, la vetta più alta della Thailandia",
+   "Cascate e pagode lungo il percorso",
+   "Sosta in un villaggio di tribù montane"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasporto",
+   "Guida di lingua inglese",
+   "Biglietti d'ingresso al parco nazionale",
+   "Pranzo"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Mance",
+   "Assicurazione di viaggio"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
