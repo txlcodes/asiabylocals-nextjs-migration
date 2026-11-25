@@ -1042,6 +1042,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-legend-of-love-show-worth-it-samarkand":
+            return {
+                title: "Is the Marokand Hall Legend of Love Dance Show Worth It in Samarkand?",
+                seoTitle: "Marokand Hall Legend of Love Samarkand 2026 | Honest Review",
+                description: "An honest look at the Legend of Love Uzbek dance and cultural show at Marokand Hall in Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/39f679e2beac7501074a332ba1439c457a84d0cfd77e585eada59e18c4e9b450.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a traditional Uzbek dance and cultural performance, a good easy evening activity after a day of monument walking tours — a performance rather than a hands-on workshop or history lesson.", tourCard: { slug: "marokand-hall-the-legend-of-love-uzbek-dance", title: "Marokand Hall: The Legend of Love - Uzbek Dance & Cultural Show", description: "A traditional Uzbek dance and cultural show at Marokand Hall.", price: "From $20", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/39f679e2beac7501074a332ba1439c457a84d0cfd77e585eada59e18c4e9b450.jpg" } },
+                    { title: "Practical Tips", content: "At just 1 hour and a low price, this is an easy evening add-on after a day of sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Legend of Love show worth it in Samarkand?", a: "Yes as an easy, affordable evening activity — a traditional dance performance rather than a hands-on experience." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Legend of Love show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an easy, affordable evening performance after sightseeing." } }
+                ] },
+            };
+
+        case "is-astronomical-heritage-tour-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Astronomical Heritage Tour Worth It?",
+                seoTitle: "Samarkand Astronomical Heritage Tour 2026 | Honest Review",
+                description: "An honest look at the 5-hour astronomical heritage and history tour in Samarkand, centered on Ulugbek's observatory legacy.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2bc0ec6a888634dc1afead389c1f8364e59262b5340e88fcf2173ec5c4b89ed4.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Samarkand was a genuine center of astronomical science under Timurid ruler Ulugbek, and this tour specifically explores that scientific heritage — a different angle from the Registan's architectural grandeur.", tourCard: { slug: "samarkand-the-astronomical-heritage-history-5", title: "Samarkand: The Astronomical Heritage & History: 5-hour Tour", description: "A tour exploring Samarkand's astronomical heritage and history.", price: "From $52", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2bc0ec6a888634dc1afead389c1f8364e59262b5340e88fcf2173ec5c4b89ed4.jpeg" } },
+                    { title: "Practical Tips", content: "A good pick specifically for travelers interested in the history of science, beyond the standard architecture-focused monument tours." }
+                ],
+                faqs: [
+                    { q: "Is the astronomical heritage tour worth it in Samarkand?", a: "Yes, for genuine insight into the city's scientific history under Ulugbek, a different angle from the Registan's architectural focus." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the astronomical heritage tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine insight into Samarkand's scientific history under Ulugbek." } }
+                ] },
+            };
+
+        case "is-horseback-riding-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Horseback Riding Tour Worth It?",
+                seoTitle: "Samarkand Horseback Riding 2026 | Honest Review",
+                description: "An honest look at the Samarkand horseback riding tour with pickup and drop-off.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e83761aec7cfc91ec8bf0c26882bd28fc9ef256e6b4b304a421abcc1d943bfa.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuine outdoor activity rather than monument sightseeing, giving a different pace and perspective on the Samarkand countryside than a walking tour of the city's historic core.", tourCard: { slug: "samarkand-horseback-riding-tour-with-pickup-and", title: "Samarkand: Horseback Riding Tour with Pickup and Drop-off", description: "A horseback riding tour around Samarkand with pickup and drop-off.", price: "From $104", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e83761aec7cfc91ec8bf0c26882bd28fc9ef256e6b4b304a421abcc1d943bfa.jpg" } },
+                    { title: "Practical Tips", content: "No prior riding experience is typically needed, but confirm with the operator if you're a complete beginner." }
+                ],
+                faqs: [
+                    { q: "Is horseback riding worth it in Samarkand?", a: "Yes for a genuinely different outdoor activity and countryside perspective, distinct from the city's monument walking tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is horseback riding worth it in Samarkand?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different outdoor countryside activity." } }
+                ] },
+            };
+
+        case "is-handmade-paper-making-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Handmade Paper-Making Experience Worth It?",
+                seoTitle: "Samarkand Paper-Making Experience 2026 | Honest Review",
+                description: "An honest look at the mulberry-bark-to-handmade-paper-making experience in Samarkand, reviving a historically significant local craft.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0898483b936a6c518fcc7557e427f62c7dbf4aff2ded07e8f5547c9c2e0a1161.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Samarkand paper, made from mulberry bark, was historically significant along the Silk Road, and this hands-on experience revives a craft that nearly disappeared — a genuinely unique activity you won't find duplicated by other workshops in the city.", tourCard: { slug: "samarkand-mulberry-bark-to-handmade-paper-making", title: "Samarkand: Mulberry Bark to Handmade Paper-Making Experience", description: "A hands-on traditional Samarkand paper-making experience from mulberry bark.", price: "From $111", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0898483b936a6c518fcc7557e427f62c7dbf4aff2ded07e8f5547c9c2e0a1161.jpg" } },
+                    { title: "Practical Tips", content: "You take home the paper you make — a genuinely unique, historically rooted souvenir unlike anything found in a typical souvenir shop." }
+                ],
+                faqs: [
+                    { q: "Is the handmade paper-making experience worth it in Samarkand?", a: "Yes, it's a genuinely unique, historically significant Silk Road craft, and you keep the paper you make." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the paper-making experience worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a historically significant Silk Road craft you can take home a piece of." } }
+                ] },
+            };
+
         default:
             return null;
     }
