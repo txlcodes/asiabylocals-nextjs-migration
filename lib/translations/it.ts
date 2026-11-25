@@ -125568,6 +125568,214 @@ export const IT_TOURS: Record<string, TourT> = {
    "Ritiro e riaccompagno dalla spiaggia di Railay (solo dal molo di Ao Nam Mao)"
   ]
  },
+ "krabi-four-islands-separated-sea-longtail-trip": {
+  "title": "Gita in barca a coda lunga al Mare Separato e alle Quattro Isole",
+  "metaTitle": "Krabi: Mare Separato e 4 isole in longtail",
+  "metaDescription": "La classica giornata di Krabi in longtail: il banco di sabbia del Mare Separato, quattro spiagge insulari, un santuario in grotta sotto le scogliere, soste per lo",
+  "shortDescription": "La classica giornata di Krabi in longtail: il banco di sabbia del Mare Separato, quattro spiagge insulari, un santuario in grotta sotto le scogliere, soste per lo snorkeling e pranzo sulla sabbia.",
+  "fullDescription": "La giornata classica di Krabi, fatta in longtail piuttosto che in motoscafo, e calcolata su un banco di sabbia che esiste solo per parte della giornata.\n\nThale Waek, il Mare Separato, è una striscia di sabbia che emerge con la bassa marea e collega le isole di Tup, Mor e Chicken in un unico lembo percorribile a piedi. Con l'alta marea semplicemente scompare. Per questo l'escursione è programmata in base alla tavola delle maree e non a un orario di partenza fisso, ed è per questo che qui è possibile anche una foto di persone in piedi in mezzo al mare.\n\nChicken Island deve il nome alla formazione rocciosa sulla sua punta, che dall'angolazione giusta sembra una testa di gallina e da quella sbagliata non sembra nulla in particolare. Lo snorkeling si fa su corallo poco profondo appena al largo della spiaggia. Phra Nang ha il santuario in grotta, dove i pescatori lasciano offerte intagliate a uno spirito che si crede li protegga in mare, ed è una delle spiagge migliori della Thailandia anche a prescindere da questo. Tup e Poda sono soste per nuotare e stare sdraiati.\n\nIl longtail conta. È più lento di un motoscafo, è più rumoroso e ti porta in acque poco profonde da cui i motoscafi devono tenersi al largo con l'ancora. Andare con un capitano locale significa anche che il percorso si adatta al mare invece di seguire un orario fisso.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, il longtail con un capitano locale, una guida anglofona, il pranzo, l'attrezzatura per lo snorkeling, l'acqua potabile, la frutta, i giubbotti di salvataggio e l'assicurazione. Le tasse del parco nazionale si pagano al molo, quindi porta contanti. Il tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva.\n\nSette ore, ritiro ad Ao Nang o in città a Krabi, partenza dal molo di Nopparat Thara. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Longtail con capitano locale",
+   "Guida anglofona",
+   "Pranzo",
+   "Attrezzatura per lo snorkeling",
+   "Acqua potabile e frutta",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Asciugamani",
+   "Bevande alcoliche",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "krabi-islands-2-snorkeling-stops-and-phra-nang-cave-by-local-operator": {
+  "title": "Isole di Krabi: 2 soste per lo snorkeling e la grotta di Phra Nang con operatore locale",
+  "metaTitle": "Krabi: 2 soste snorkeling e grotta di Phra Nang",
+  "metaDescription": "Tour di mezza giornata a Krabi, con tappa ad Ao Nang. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con tappa ad Ao Nang. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un giro di sei ore tra le isole con due vere soste per lo snorkeling e la spiaggia della grotta di Phra Nang, su un longtail tradizionale con equipaggio locale.\n\nDue soste per lo snorkeling invece di una è la differenza qui. La maggior parte delle gite alle isole di Krabi inserisce lo snorkeling attorno al tempo in spiaggia; questa lo tratta come metà giornata. La barriera corallina di Krabi è poco profonda e vicina alle isole, quindi non devi essere un nuotatore esperto né andare oltre la tua profondità, e in diversi punti puoi stare in piedi.\n\nLa spiaggia della grotta di Phra Nang si trova sulla penisola di Railay, che non ha alcun accesso stradale, quindi è raggiungibile solo in barca. La spiaggia si trova sotto una scogliera calcarea a sbalzo, e a un'estremità si trova il santuario dove i pescatori lasciano offerte intagliate in legno a uno spirito che credono li protegga in mare. È ancora in uso e non conservato solo per i visitatori.\n\nL'equipaggio è composto da barcaioli locali esperti e non dal personale a rotazione di un'agenzia. Su questa costa questo si vede da dove ancorano e quale sosta scelgono quando il vento cambia.\n\nIl ritiro comprende Ao Nang e Klong Muang, cosa utile da sapere se alloggi fuori dalla zona principale: molte gite in barca a Krabi raccolgono solo da Ao Nang.\n\nSei ore è una durata comoda. Abbastanza lunga per nuotare bene in entrambe le soste di snorkeling e nelle spiagge, abbastanza breve da lasciarti libera la serata.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel da Ao Nang e Klong Muang, il longtail tradizionale, un equipaggio locale esperto e una guida locale.\n\nLe tasse del parco nazionale si pagano al molo salvo diversa conferma. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel da Ao Nang e Klong Muang",
+   "Longtail tradizionale",
+   "Equipaggio locale esperto",
+   "Guida locale",
+   "Pranzo a buffet",
+   "Acqua potabile",
+   "Attrezzatura per lo snorkeling",
+   "Giubbotto di salvataggio",
+   "Assicurazione di viaggio",
+   "Visita a 5 isole",
+   "Due soste per lo snorkeling",
+   "Possibilità di nuotare"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Asciugamani",
+   "Spese personali",
+   "Qualsiasi servizio o spesa non specificamente indicata come incluso"
+  ]
+ },
+ "krabi-islands-day-trip-with-snorkeling-and-lunch": {
+  "title": "Gita di un giorno alle isole di Krabi con snorkeling e pranzo",
+  "metaTitle": "Krabi: isole del nord con snorkeling e pranzo",
+  "metaDescription": "Tour di mezza giornata a Krabi, con tappa a Sandbank Beach, Koh Hong Bay e Ko Lao Lading. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con tappa a Sandbank Beach, Koh Hong Bay e Ko Lao Lading. Gestito da un operatore locale verificato.",
+  "fullDescription": "Le isole settentrionali della baia di Phang Nga invece del circuito delle quattro isole al largo di Ao Nang, con un pranzo halal servito a bordo.\n\nKoh Hong è il punto centrale di questo itinerario. La sua attrazione è la laguna: una piscina quasi chiusa di acqua verde poco profonda circondata da pareti calcaree, raggiungibile attraverso un'apertura che si apre alle barche solo con certe maree. Laem Had, il banco di sabbia sulla punta settentrionale dell'isola, si allunga nell'acqua e cambia forma con la marea, motivo per cui due foto non sono mai uguali.\n\nKo Lao Lading è quella che la gente ricorda. È una piccola isola con un'unica scogliera a sbalzo che si protende sopra una curva di sabbia, e dopo l'isola di James Bond è la formazione rocciosa più fotografata della baia. Ko Phakbia è essenzialmente un banco di sabbia con una frangia di alberi, notevole per il colore dell'acqua attorno più che per qualcosa a terra.\n\nLe soste per lo snorkeling si scelgono il giorno stesso. Questo tratto di baia è protetto dalle isole, quindi tende a restare navigabile quando il mare aperto verso Phi Phi è agitato.\n\nIl pasto halal viene fornito come standard e non su richiesta, cosa utile da sapere se è una considerazione per il tuo gruppo.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il trasferimento di andata e ritorno in hotel, le tasse del parco nazionale, l'attrezzatura per lo snorkeling, il pasto halal, frutta e bevande, e una guida locale. L'inclusione delle tasse del parco nazionale è inusuale su questa costa, quindi questo prezzo è più vicino a un tutto incluso rispetto alla maggior parte.\n\nSei ore, preavviso minimo di un giorno.",
+  "included": [
+   "Trasferimento di andata e ritorno in hotel",
+   "Tasse del parco nazionale",
+   "Attrezzatura per lo snorkeling",
+   "Pasto halal",
+   "Frutta e bevande",
+   "Guida locale"
+  ],
+  "notIncluded": [
+   "Acquisti personali"
+  ]
+ },
+ "krabi-local-food-and-night-market-experience-by-local-operator": {
+  "title": "Krabi: cibo locale e mercato notturno con operatore locale",
+  "metaTitle": "Krabi: mercato notturno e assaggi locali",
+  "metaDescription": "Tour di 1 ora a Krabi, con ritiro e riaccompagno in hotel e autista anglofono. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 1 ora a Krabi, con ritiro e riaccompagno in hotel e autista anglofono. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un'ora al mercato notturno di Krabi con qualcuno che sa spiegarti cosa stai guardando.\n\nIl mercato notturno della città di Krabi si estende lungo il lungofiume, ed è un mercato locale con dei turisti dentro, non un mercato turistico. Le bancarelle sono allestite per chi compra la cena tornando a casa, motivo per cui i prezzi sono ordinari e il cibo gira abbastanza in fretta da restare fresco.\n\nUn'ora è poco e questa è la premessa onesta: è un assaggio del mercato, non un tour gastronomico completo. Quello che ti compra l'ora è qualcuno che ordina per te. Il cibo del sud della Thailandia è la cucina regionale più piccante del paese e molte delle migliori bancarelle non hanno insegne né menu in inglese. Sapere quale pentola contiene il gaeng tai pla, un curry fermentato a base di interiora di pesce che spazza via il palato di chi non è preparato, e quale è quello delicato al cocco, fa la differenza tra una grande serata e una serata rovinata.\n\nI biglietti d'ingresso e gli assaggi sono compresi, quindi non paghi bancarella per bancarella.\n\nSe vuoi una serata intera dedicata al cibo, questo non è il tour giusto; cerca invece un tour gastronomico di tre ore. Se sei comunque in città a Krabi e vuoi un'ora che renda il mercato navigabile, fa il suo lavoro.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel, un autista anglofono, l'assaggio di cibo, i biglietti d'ingresso, l'acqua potabile e l'assicurazione contro gli infortuni.\n\nUn'ora al mercato più i trasferimenti. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Autista anglofono",
+   "Assaggio di cibo locale",
+   "Biglietti d'ingresso",
+   "Acqua potabile",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Cibo e bevande aggiuntivi",
+   "Mance",
+   "Elementi non indicati nell'itinerario"
+  ]
+ },
+ "krabi-private-longtail-charter-hong-island": {
+  "title": "Noleggio privato di longtail di lusso alle migliori isole di Krabi",
+  "metaTitle": "Krabi: longtail privato a Hong Island e dintorni",
+  "metaDescription": "Noleggia un longtail privato di lusso con sedute imbottite e scegli il tuo percorso tra Hong Island, Chicken Island o l'arcipelago di Phi Phi.",
+  "shortDescription": "Noleggia un longtail privato di lusso con sedute imbottite e scegli il tuo percorso tra Hong Island, Chicken Island o l'arcipelago di Phi Phi.",
+  "fullDescription": "Tutta la barca solo per voi, e un percorso che scegliete invece di seguirne uno già fissato.\n\nSu un longtail condiviso vai dove va l'orario, parti quando l'ultima persona è tornata a bordo e hai venti minuti su una spiaggia dove saresti voluto restare un'ora. Un noleggio privato elimina tutto questo. Scegli Hong, Chicken Island o Phi Phi, e cambia idea in acqua se il mare o la folla lo suggeriscono, perché il capitano lavora per il tuo gruppo e non per un elenco di passeggeri.\n\nI vantaggi pratici sono più grandi di quanto sembrino. Puoi arrivare a una tappa prima o dopo la flotta invece che insieme a essa. Puoi lasciare una spiaggia affollata subito invece di aspettare l'ora prevista. Con bambini piccoli, puoi tornare a casa presto senza doverlo negoziare con venti estranei.\n\nLa barca è equipaggiata oltre lo standard di un longtail da lavoro: sedute imbottite, una tenda parasole e una scaletta per nuotare, che è il dettaglio più importante perché risalire su un longtail normale dal fianco è davvero scomodo.\n\nUn picnic viene allestito a bordo, e un capitano locale lavora insieme a una guida anglofona, così chi legge il mare e chi lo spiega sono due persone diverse, ognuna brava nel proprio compito.\n\nA questo prezzo ha senso per quattro persone o più che condividono il costo, o per chiunque abbia già fatto la barca condivisa e abbia deciso che il problema era l'orario.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno privato in hotel, l'uso esclusivo della barca, il capitano e la guida, e il pasto picnic.\n\nOtto ore. Le tasse del parco nazionale si pagano al molo salvo diversa conferma. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno privato in hotel",
+   "Uso esclusivo del longtail di lusso",
+   "Capitano locale e guida anglofona",
+   "Pasto picnic e bibite",
+   "Attrezzatura per lo snorkeling e giubbotti di salvataggio",
+   "Asciugamani freschi e acqua potabile",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Alcolici",
+   "Mance",
+   "Servizio fotografico professionale",
+   "Spese personali"
+  ]
+ },
+ "krabi-province-city-tour-with-1-hour-beach-horse-ride-by-local-operator": {
+  "title": "Provincia di Krabi: tour della città con 1 ora di passeggiata a cavallo in spiaggia con operatore locale",
+  "metaTitle": "Krabi: tour della città e cavallo in spiaggia",
+  "metaDescription": "Tour di mezza giornata a Krabi, con ritiro e riaccompagno in hotel e 1 ora di passeggiata a cavallo. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con ritiro e riaccompagno in hotel e 1 ora di passeggiata a cavallo. Gestito da un operatore locale verificato.",
+  "fullDescription": "La città di Krabi e una passeggiata a cavallo in spiaggia in mezza giornata, per chi alloggia ad Ao Nang e non ha ancora visto la provincia al di là di essa.\n\nLa maggior parte dei visitatori considera Krabi solo un punto di partenza per le barche e non entra mai in città, che si trova a 20 chilometri nell'entroterra lungo il fiume. È una capitale di provincia che lavora davvero e non un resort: una passeggiata lungo il fiume, un mercato del mattino e il Wat Kaew Korawaram che si staglia bianco in cima a una lunga scalinata. La scala è piccola e il ritmo è ordinario, e questo contrasto con Ao Nang è il motivo per andarci.\n\nLa passeggiata a cavallo dura un'ora sulla sabbia, organizzata in modo che i cavalli lavorino nella parte più fresca della giornata. Non si presuppone alcuna esperienza di equitazione e gli accompagnatori restano con te per tutto il tempo; il ritmo è al passo, con la possibilità di andare più veloce se te la senti. Cavalcare su una spiaggia con i faraglioni al largo è il tipo di cosa che in foto rende molto più di quanto sembri a parole.\n\nAnda Krabi Seatour gestisce questo tour e prenotiamo direttamente con loro, quindi il tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel, l'ora di passeggiata a cavallo, il tour della città e una guida locale. Le mance non sono comprese, quindi mettile a budget separatamente.\n\nTre ore e mezza in totale, preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "1 ora di passeggiata a cavallo",
+   "Tour della città",
+   "Guida locale"
+  ],
+  "notIncluded": [
+   "Mance"
+  ]
+ },
+ "krabi-pub-crawl-the-best-nightlife-tour-in-ao-nang-by-local-operator": {
+  "title": "Krabi: giro dei pub, il miglior tour della vita notturna ad Ao Nang, con operatore locale",
+  "metaTitle": "Krabi: giro dei pub ad Ao Nang",
+  "metaDescription": "Tour di mezza giornata a Krabi, con tappa in un bar locale. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con tappa in un bar locale. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un giro guidato tra i bar di Ao Nang della durata di cinque ore, che risolve il problema di arrivare da solo in un posto senza sapere dove sia niente.\n\nLa vita notturna di Ao Nang si estende lungo la strada della spiaggia e sale per le soi laterali, e la differenza tra i vari bar non è evidente da fuori. Un giro dei pub risolve questo come nessuna mappa potrebbe: entri con un gruppo che già parla tra sé, e la guida sa quali posti valgono la sosta in quella serata della settimana.\n\nIl braccialetto è la parte che continua a funzionare dopo che il gruppo si è sciolto. Dà diritto a sconti nei locali del percorso, così il resto del tuo soggiorno ad Ao Nang costa meno di quanto sarebbe costato altrimenti.\n\nIl gilet identifica il gruppo, il che suona sciocco ed è proprio il motivo per cui gli estranei ti parlano. Per chi viaggia da solo, questo è tutto il prodotto.\n\nCose pratiche da sapere. Ao Nang è compatta e tutto il percorso si fa a piedi, quindi non serve alcun trasporto. Le misure dei drink nei bar thailandesi sono generose e non dosate, e i bucket sono drink condivisi pensati per un gruppo e non per una singola persona, quindi gestisciti sulla durata di cinque ore e non sulla prima ora. Tieni telefono e contanti in una tasca anteriore; la strada della spiaggia si affolla fino a tarda notte.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il gilet del giro dei pub, un bucket, giri di shot lungo il percorso e il braccialetto sconti.\n\nCinque ore, con partenza dal KOKO Hostel. Porta un documento d'identità. Preavviso minimo di un giorno.",
+  "included": [
+   "Gilet del giro dei pub",
+   "Un bucket",
+   "Giri di shot (molti)",
+   "Braccialetto (per gli sconti)",
+   "Ricordi (o forse non tutti)"
+  ],
+  "notIncluded": [
+   "Porta contanti per le bevande (scontate) nei bar e nei locali"
+  ]
+ },
+ "lakeside-atv-trails-pattaya-countryside-mini-tour": {
+  "title": "Pattaya: giro in ATV fuoristrada con guida e scelta del percorso",
+  "metaTitle": "Pattaya: ATV fuoristrada con guida",
+  "metaDescription": "Prendi i comandi del tuo ATV su sentieri guidati nella campagna di Pattaya, scegliendo un percorso di 30 minuti, 1 ora o 2 ore in base alla tua sicurezza",
+  "shortDescription": "Prendi i comandi del tuo ATV su sentieri guidati nella campagna di Pattaya, scegliendo un percorso di 30 minuti, 1 ora o 2 ore in base alla tua sicurezza al volante.",
+  "fullDescription": "A breve distanza dal lungomare di Pattaya, il paesaggio cambia in fretta: laghi, boscaglia, piste sterrate e campagna aperta, perfetti per un ATV. Questo giro guidato ti metterà ai comandi del tuo quad, con la scelta tra tre durate di percorso: un assaggio di 30 minuti per chi è alle prime armi, un anello di 1 ora che entra davvero nei sentieri, oppure un giro completo di 2 ore per chi vuole guadagnarsi la polvere. I percorsi sono adattati al tuo livello di sicurezza, così i principianti ricevono un terreno gestibile mentre i piloti più sicuri vengono portati su un terreno più accidentato e tecnico.\n\nPrima di partire, il team passa in rassegna i comandi e la guida di base su terreno pianeggiante, quindi non serve nessuna esperienza precedente: la maggior parte dei principianti si sente a proprio agio in pochi minuti. Caschi e attrezzatura di sicurezza sono forniti, e una guida conduce ogni giro, mantenendo un ritmo che tutto il gruppo può sostenere e fermandosi nei punti panoramici per foto e per riprendere fiato.\n\nAspettati polvere nella stagione secca e fango dopo la pioggia: in entrambi i casi finirai con gli stivali sporchi e un sorriso in faccia. È una facile dose di adrenalina di mezza giornata che si accompagna bene a un pigro pomeriggio in spiaggia da fare dopo.",
+  "included": [
+   "Noleggio ATV per la durata scelta",
+   "Casco e attrezzatura di sicurezza",
+   "Briefing e pratica di guida",
+   "Guida per tutto il percorso",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Trasferimento in hotel (da organizzare autonomamente fino alla base ATV)",
+   "Pasti",
+   "Assicurazione personale contro gli infortuni",
+   "Mance"
+  ]
+ },
+ "learn-muay-thai-bangkok-private-training-certified-fighter": {
+  "title": "Impara il Muay Thai a Bangkok: allenamento privato con un combattente certificato",
+  "metaTitle": "Bangkok: lezione privata di Muay Thai",
+  "metaDescription": "Allenati come un combattente thailandese con una sessione privata 1 contro 1 di Muay Thai alla FITFAC Academy, la palestra più apprezzata di Bangkok con 11",
+  "shortDescription": "Allenati come un combattente thailandese con una sessione privata 1 contro 1 di Muay Thai alla FITFAC Academy, la palestra più apprezzata di Bangkok con 11 sedi con aria condizionata. Nessuna esperienza richiesta. Comprende pantaloncini da Muay Thai fatti a mano in omaggio, guantoni e ritiro in hotel opzionale.",
+  "fullDescription": "Vivi l'arte marziale nazionale della Thailandia con una sessione privata di 60 minuti di allenamento di Muay Thai alla FITFAC Academy, una delle palestre più rispettate e adatte ai principianti di Bangkok, con una valutazione di 4,9 stelle e oltre 380 recensioni.\n\nChe tu sia un principiante assoluto curioso del Muay Thai o un combattente esperto che vuole affinare le proprie abilità, questa sessione è adattata interamente al tuo livello. Il tuo Kru certificato (istruttore di Muay Thai) ti guiderà attraverso tecniche autentiche, dalla posizione di base e il gioco di gambe a pugni, calci, colpi di gomito e di ginocchio potenti, che definiscono l'Arte degli Otto Arti.\n\nA differenza delle lezioni di gruppo, questa sessione privata 1 contro 1 significa che l'attenzione completa del tuo istruttore è su di te. Correggerà la tua forma in tempo reale, adatterà l'intensità al tuo livello di forma fisica e si assicurerà che tu esca sentendoti realizzato, sia che tu sia venuto per l'allenamento, per la cultura o per entrambi.\n\nFITFAC ha 11 palestre con aria condizionata in tutta Bangkok, tutte facilmente accessibili tramite BTS o MRT. Le sedi vanno da punti sul fiume vicino al Chao Phraya a nodi centrali come Ekamai, Ploenchit e Sukhumvit. Dopo la prenotazione, basta indicare il nome del tuo hotel e ti verrà consigliata la sede più comoda.\n\nCome tocco speciale, ogni partecipante riceve un paio di pantaloncini da Muay Thai fatti a mano, un souvenir bello e funzionale che userai davvero. Insieme al servizio di ritiro in hotel opzionale, FITFAC rende l'intera esperienza semplice dall'inizio alla fine.\n\nQuesta è più di una semplice lezione di fitness: è una vera immersione culturale nell'arte di combattimento più iconica della Thailandia, guidata da istruttori che vivono e respirano il Muay Thai.",
+  "included": [
+   "Sessione privata 1 contro 1 di 60 minuti di Muay Thai con istruttore certificato",
+   "Pantaloncini da Muay Thai fatti a mano in omaggio (da portare a casa)",
+   "Guantoni e fasce per le mani",
+   "Accesso a spogliatoio e armadietti",
+   "Struttura di allenamento con aria condizionata",
+   "Acqua in bottiglia",
+   "Ritiro e riaccompagno in hotel (se selezionata l'opzione)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande (disponibili in acquisto)",
+   "Spese personali",
+   "Mance per l'istruttore (opzionali ma apprezzate)",
+   "Trasporto da e verso la palestra (se non selezionata l'opzione con ritiro)"
+  ]
+ },
+ "living-green-elephant-sanctuary-chonburi-full-day-tour": {
+  "title": "Giornata al santuario etico degli elefanti da Pattaya",
+  "metaTitle": "Pattaya: santuario etico degli elefanti, gita di un giorno",
+  "metaDescription": "Passa una giornata con elefanti salvati in un santuario etico a Chonburi: nutrili, camminaci a fianco nella giungla, unisciti a un bagno di fango e condividi un",
+  "shortDescription": "Passa una giornata con elefanti salvati in un santuario etico a Chonburi: nutrili, camminaci a fianco nella giungla, unisciti a un bagno di fango e condividi un pasto thailandese fatto in casa.",
+  "fullDescription": "A circa 45 minuti da Pattaya, nella verde campagna di Chonburi, questo santuario offre qualcosa di sempre più raro: tempo vicino e rispettoso con gli elefanti, senza cavalcate né spettacoli. Gli animali qui vivono in un ambiente naturale, e la visita è strutturata attorno alla loro routine e non a un orario di spettacolo: li nutri, cammini con loro e, se sei disposto a sporcarti di fango, ti unisci al loro bagno.\n\nLa giornata inizia con una presentazione del branco e una sessione di alimentazione, durante la quale porgerai banane e canna da zucchero direttamente alle proboscidi che si avvicinano, un'esperienza al tempo stesso emozionante e sorprendentemente delicata. Da lì, camminerai insieme agli elefanti nella giungla circostante, osservando come si procurano il cibo e interagiscono, mentre il team del santuario racconta la storia e le abitudini di ciascun animale. Il momento più atteso per la maggior parte dei visitatori arriva alla buca di fango e alla pozza d'acqua, dove puoi strofinare e schizzare insieme al branco durante il loro bagno.\n\nÈ incluso un pasto thailandese casalingo, e i trasferimenti dall'hotel a Pattaya rendono la logistica senza pensieri. È una giornata adatta a famiglie, coppie e viaggiatori singoli, a chiunque voglia tempo autentico con gli elefanti in un contesto costruito attorno al loro benessere.",
+  "included": [
+   "Ritiro e riaccompagno in hotel a Pattaya",
+   "Ingresso al santuario e programma guidato",
+   "Cesto per nutrire gli elefanti",
+   "Pasto thailandese fatto in casa",
+   "Acqua potabile",
+   "Guida anglofona del santuario"
+  ],
+  "notIncluded": [
+   "Asciugamano e cambio d'abiti",
+   "Mance per il personale",
+   "Spese personali e souvenir"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
