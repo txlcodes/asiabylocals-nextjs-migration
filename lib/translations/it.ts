@@ -124704,6 +124704,496 @@ export const IT_TOURS: Record<string, TourT> = {
    "Assicurazione di viaggio"
   ]
  },
+ "doi-inthanon-national-park-guided-tour": {
+  "title": "Chiang Mai: le terrazze di riso di Pa Bong Piang e il Doi Inthanon",
+  "metaTitle": "Terrazze di Pa Bong Piang e Doi Inthanon da Chiang Mai",
+  "metaDescription": "Tour di 9,5 ore da Chiang Mai: trekking alle terrazze di riso di Pa Bong Piang e salita al Doi Inthanon, con guida di lingua inglese e pranzo.",
+  "shortDescription": "Vai oltre le vedute da cartolina fino alle terrazze di riso di Pa Bong Piang, poi sali al Doi Inthanon per le pagode reali, la foresta di nebbia e una cascata imponente, tutto in una sola giornata da Chiang Mai.",
+  "fullDescription": "Una giornata intera da Chiang Mai che unisce due paesaggi molto diversi: le terrazze di riso scolpite sulle colline di Pa Bong Piang e la vetta più alta della Thailandia, il Doi Inthanon.\n\nIl percorso comincia tra le terrazze, dove il riso cresce a gradoni lungo il pendio in un disegno che cambia aspetto con la stagione. Si continua poi verso il Doi Inthanon, con sosta alle due pagode reali gemelle che si affacciano sulla valle, una passeggiata sul sentiero sopraelevato di Ang Ka nella foresta di nebbia e una visita al villaggio Karen di Mae Klang Luang. La giornata si chiude alla potente cascata di Wachirathan.\n\nIl prezzo comprende la guida di lingua inglese, il trasporto di andata e ritorno da Chiang Mai, il pranzo, tutti i biglietti d'ingresso al parco e la passeggiata sul sentiero di Ang Ka. Mance, spese personali, bevande e snack oltre al pranzo non sono compresi, e se le autorità del parco applicano separatamente un biglietto per stranieri al Doi Inthanon, questo non è incluso nel prezzo.\n\nIl ritiro è in hotel nel centro di Chiang Mai; il punto esatto viene confermato dopo la prenotazione.",
+  "highlights": [
+   "Le iconiche terrazze di riso di Pa Bong Piang viste da vicino",
+   "Le due pagode reali gemelle in cima al Doi Inthanon",
+   "Il sentiero sopraelevato di Ang Ka nella foresta di nebbia",
+   "Il villaggio Karen tradizionale di Mae Klang Luang",
+   "La potente cascata di Wachirathan"
+  ],
+  "included": [
+   "Guida di lingua inglese",
+   "Trasporto di andata e ritorno da Chiang Mai",
+   "Pranzo",
+   "Tutti i biglietti d'ingresso al parco",
+   "Passeggiata sul sentiero naturalistico di Ang Ka"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali",
+   "Bevande e snack oltre al pranzo",
+   "Biglietto d'ingresso per stranieri al Parco Nazionale del Doi Inthanon, se applicato separatamente dalle autorità del parco il giorno stesso"
+  ]
+ },
+ "elephant-bathing-session-at-krabi-elephant-shelter": {
+  "title": "Sessione di bagno con gli elefanti al rifugio degli elefanti di Krabi",
+  "metaTitle": "Bagno con gli elefanti a Krabi",
+  "metaDescription": "Tour di 1,5 ore a Krabi: ritiro in hotel e sessione di alimentazione e bagno con gli elefanti. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 1,5 ore a Krabi, con ritiro in hotel e sessione di alimentazione e bagno con gli elefanti. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un santuario che ospita elefanti salvati da campi di trekking turistico e dal lavoro nel disboscamento. Niente cavalcate e niente spettacoli: il programma prevede solo alimentazione e bagno, condotto dai guardiani che si occupano degli animali ogni giorno.\n\nDopo il ritiro in hotel, prepari il cibo e nutri gli elefanti, poi li accompagni al bagno nel fiume. La guida di lingua inglese spiega come riconoscere le condizioni di un elefante sano, così da poter valutare meglio qualsiasi altro campo si visiti in futuro. Va detto onestamente che alcuni santuari oggi evitano del tutto il bagno con i visitatori: qui resta parte del programma.\n\nIl prezzo comprende il ritiro in hotel, le attività di alimentazione e bagno con l'attrezzatura necessaria, la guida di lingua inglese, caffè, tè, acqua potabile e frutta di stagione, più foto scattate dal team e condivise tramite un link privato dopo l'esperienza. Pasto, asciugamano e un cambio di vestiti non sono compresi.",
+  "highlights": [
+   "Elefanti salvati da campi di cavalcate e lavoro nel disboscamento",
+   "Alimentazione e bagno, senza cavalcate né spettacoli",
+   "Condotto dai guardiani che si occupano degli elefanti ogni giorno",
+   "Imparerai a valutare le condizioni di qualsiasi campo visiterai in futuro",
+   "Nota onesta: alcuni santuari oggi evitano del tutto il bagno con i visitatori"
+  ],
+  "included": [
+   "Ritiro in hotel",
+   "Attività di alimentazione e bagno, con attrezzatura",
+   "Guida di lingua inglese",
+   "Caffè, tè, acqua potabile e frutta di stagione",
+   "Foto scattate dal team e condivise tramite link privato dopo l'esperienza"
+  ],
+  "notIncluded": [
+   "Pasto",
+   "Asciugamano",
+   "Cambio di vestiti"
+  ]
+ },
+ "elephant-beach-experience-patong-phuket": {
+  "title": "Esperienza sulla spiaggia con gli elefanti a Patong, Phuket",
+  "metaTitle": "Foto, cavalcata e bagno con gli elefanti a Patong",
+  "metaDescription": "Esperienza di 30 minuti sulla spiaggia di Patong con elefanti: foto, cavalcata e bagno in mare, con trasferimenti gratuiti.",
+  "shortDescription": "Un'esperienza indimenticabile a Patong Beach con elefanti docili: 30 minuti tra foto, cavalcata, bagno in mare e alimentazione con banane. Fotografia professionale e opzione drone disponibili. Trasferimenti gratuiti da Patong Beach.",
+  "fullDescription": "Trenta minuti sulla spiaggia di Patong in compagnia degli elefanti, pensati per lasciare un ricordo concreto: foto, una cavalcata lungo la spiaggia, un bagno in mare insieme all'animale e l'alimentazione con banane fresche e carote.\n\nUn fotografo professionista è presente sul posto (usa il tuo telefono o la tua fotocamera) per seguire tutta l'esperienza; sono disponibili anche opzioni a pagamento per fotografia professionale con reflex e per riprese con drone. I bambini tra 1 e 4 anni partecipano gratis.\n\nIl prezzo comprende l'esperienza sulla spiaggia di 30 minuti, il fotografo sul posto, la cavalcata lungo Patong Beach, il bagno in mare con l'elefante, l'alimentazione (frutta fornita), l'assicurazione contro gli infortuni e i trasferimenti gratuiti dagli hotel della zona di Patong Beach. Frutta o banane aggiuntive oltre alla porzione standard, la fotografia professionale con reflex, le riprese con drone, i trasferimenti da hotel fuori dall'area di Patong Beach, pasti, bevande, spese personali e mance non sono compresi.",
+  "highlights": [
+   "Esperienza intima sulla spiaggia con gli elefanti: foto, cavalcata e bagno",
+   "Cavalcata lungo Patong Beach e nel mare",
+   "Alimentazione diretta con banane e carote fresche",
+   "Fotografi professionisti sul posto per i tuoi ricordi",
+   "Gruppi piccoli per un'interazione personale e sicura"
+  ],
+  "included": [
+   "Esperienza sulla spiaggia con gli elefanti di 30 minuti",
+   "Fotografo professionista sul posto (usa il tuo telefono o fotocamera)",
+   "Cavalcata sugli elefanti lungo Patong Beach",
+   "Bagno in mare con l'elefante",
+   "Alimentazione degli elefanti (frutta fornita)",
+   "Assicurazione contro gli infortuni",
+   "Trasferimenti gratuiti dagli hotel dell'area di Patong Beach",
+   "Bambini 1-4 anni gratis"
+  ],
+  "notIncluded": [
+   "Frutta/banane aggiuntive oltre alla porzione standard (100 THB a cesto, se desiderato)",
+   "Fotografia professionale con reflex (500 THB extra)",
+   "Riprese e montaggio con drone (1.000 THB extra)",
+   "Trasferimenti da hotel fuori dall'area di Patong Beach (disponibili a tariffa taxi ridotta)",
+   "Pasti o bevande",
+   "Spese personali",
+   "Mance"
+  ]
+ },
+ "elephant-feeding-program-with-food-preparation-in-krabi": {
+  "title": "Programma di alimentazione degli elefanti con preparazione del cibo a Krabi",
+  "metaTitle": "Alimentazione elefanti con preparazione del cibo a Krabi",
+  "metaDescription": "Tour di 30 minuti a Krabi: ritiro in hotel e preparazione del cibo per gli elefanti. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 30 minuti a Krabi, con ritiro in hotel (Ao Nang, Klong Muang e Nopparat Thara) e preparazione del cibo per gli elefanti. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un programma breve, pensato per restare a terra asciutta senza bisogno di cambiarsi: prepari il cibo a mano, arrotolandolo, e poi lo dai da mangiare al branco. Niente cavalcate, niente catene, niente spettacoli.\n\nLa durata contenuta lo rende adatto anche ai bambini piccoli e facile da inserire prima o dopo una gita in barca nella stessa giornata. Il ritiro è disponibile dalle zone di Ao Nang, Klong Muang e Nopparat Thara.\n\nIl prezzo comprende il ritiro in hotel, gli ingredienti e i materiali per preparare il cibo, caffè, tè, acqua potabile e frutta di stagione, e l'assicurazione contro gli infortuni. Per le finalità assicurative, viene chiesto di fotografare il passaporto e conservarlo sul telefono: non serve il documento fisico né una copia stampata, ma l'immagine potrebbe essere richiesta in caso di emergenza. Pasti e fotografo non sono compresi.",
+  "highlights": [
+   "Arrotoli il cibo a mano e lo dai da mangiare al branco",
+   "Niente cavalcate, niente catene, niente spettacoli",
+   "Resti a terra asciutta, senza bisogno di cambiarti",
+   "Durata breve, adatta ai bambini piccoli e facile da abbinare a una gita in barca",
+   "Ritiro in hotel da Ao Nang, Klong Muang e Nopparat Thara"
+  ],
+  "included": [
+   "Ritiro in hotel (zone di Ao Nang, Klong Muang e Nopparat Thara)",
+   "Ingredienti e materiali",
+   "Caffè, tè, acqua potabile e frutta di stagione",
+   "Assicurazione contro gli infortuni",
+   "Per finalità assicurative, si richiede una foto del passaporto conservata sul telefono: non è necessario il documento fisico o una copia stampata, ma l'immagine potrebbe essere richiesta in caso di emergenza"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Fotografo"
+  ]
+ },
+ "elephant-feeding-program-with-traditional-thai-dress-in-krabi": {
+  "title": "Programma di alimentazione degli elefanti in abito tradizionale thailandese a Krabi",
+  "metaTitle": "Alimentazione elefanti in abito tradizionale thailandese a Krabi",
+  "metaDescription": "Tour di 30 minuti a Krabi: ritiro in hotel, costume tradizionale thailandese e alimentazione degli elefanti. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 30 minuti a Krabi, con ritiro in hotel (Ao Nang, Klong Muang e Nopparat Thara) e cibo per gli elefanti. Gestito da un operatore locale verificato.",
+  "fullDescription": "Lo stesso programma di alimentazione a terra asciutta, con l'aggiunta del costume tradizionale thailandese per le fotografie. Dai da mangiare al branco a mano, con banane e canna da zucchero, senza cavalcate, catene o spettacoli.\n\nIl terreno asciutto permette di restare puliti insieme al costume. Trucco e acconciatura non sono inclusi: porta i tuoi prodotti, in particolare per evitare allergie cutanee, ma sei libero di curare l'acconciatura come preferisci.\n\nIl prezzo comprende il ritiro in hotel dalle zone di Ao Nang, Klong Muang e Nopparat Thara, il cibo per gli elefanti, il costume tradizionale thailandese (trucco e acconciatura a cura tua), caffè, tè e acqua potabile, e l'assicurazione contro gli infortuni. Per finalità assicurative viene chiesto di fotografare il passaporto e conservarlo sul telefono: non serve il documento fisico né una copia stampata, ma l'immagine potrebbe essere richiesta in caso di emergenza. Pasti e fotografo non sono compresi.",
+  "highlights": [
+   "Costume tradizionale thailandese fornito per le fotografie",
+   "Alimentazione del branco a mano con banane e canna da zucchero",
+   "Niente cavalcate, niente catene, niente spettacoli",
+   "Terreno asciutto, così tu e il costume restate puliti",
+   "Porta il tuo trucco: la cura del trucco non è inclusa"
+  ],
+  "included": [
+   "Ritiro in hotel (zone di Ao Nang, Klong Muang e Nopparat Thara)",
+   "Cibo per gli elefanti",
+   "Costume tradizionale thailandese (trucco e acconciatura a cura del viaggiatore)",
+   "Caffè, tè e acqua potabile",
+   "Assicurazione contro gli infortuni",
+   "Per finalità assicurative si richiede una foto del passaporto conservata sul telefono: non è necessario il documento fisico o una copia stampata, ma l'immagine potrebbe essere richiesta in caso di emergenza"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Fotografo",
+   "Per evitare allergie cutanee, porta il tuo trucco: questo servizio non è offerto. Sei libero anche di curare la tua acconciatura"
+  ]
+ },
+ "elephant-jungle-sanctuary-pattaya-countryside-half-day-tour": {
+  "title": "Incontro etico con gli elefanti: visita di mezza giornata al santuario nella giungla con pasto",
+  "metaTitle": "Santuario etico degli elefanti vicino a Pattaya, mezza giornata",
+  "metaDescription": "Mezza giornata in un santuario etico degli elefanti nell'entroterra di Pattaya: alimentazione, bagno di fango e pasto thailandese incluso.",
+  "shortDescription": "Passa mezza giornata con elefanti salvati in un santuario etico nella giungla fuori Pattaya: nutrili, camminaci a fianco e partecipa al loro bagno di fango, con un pasto thailandese incluso.",
+  "fullDescription": "Un santuario nella giungla dell'entroterra di Pattaya che ospita elefanti salvati, senza cavalcate. Nutri gli animali a mano, cammini al loro fianco e partecipi al loro bagno di fango e al lavaggio nel fiume.\n\nI guardiani raccontano la storia di salvataggio di ogni elefante durante la visita. Il programma include un pasto thailandese al santuario e una camicia tradizionale da indossare durante l'alimentazione.\n\nIl trasferimento di andata e ritorno dagli hotel di Pattaya dura circa 40 minuti per tratta. Il prezzo comprende il ritiro e il riaccompagno in hotel nella città di Pattaya, l'ingresso al santuario e tutte le attività con gli elefanti, il pasto thailandese al campo, la camicia tradizionale per l'alimentazione, banane e canna da zucchero per nutrirli, la guida di lingua inglese e l'acqua potabile. Asciugamani (porta il tuo per dopo il bagno di fango), i pacchetti fotografici professionali opzionali sul posto e le mance per guide e mahout non sono compresi.",
+  "highlights": [
+   "Nutri e camminaci a fianco degli elefanti salvati, senza cavalcate",
+   "Partecipa al bagno di fango e al lavaggio nel fiume con gli elefanti",
+   "Ascolta la storia di salvataggio di ogni elefante dai guardiani",
+   "Pasto thailandese al santuario incluso",
+   "Trasferimenti di andata e ritorno da Pattaya, solo 40 minuti per tratta"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel nella città di Pattaya",
+   "Ingresso al santuario e tutte le attività con gli elefanti",
+   "Pasto thailandese al campo",
+   "Camicia tradizionale da indossare durante l'alimentazione",
+   "Banane e canna da zucchero per l'alimentazione",
+   "Guida di lingua inglese",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Asciugamani (porta il tuo per dopo il bagno di fango)",
+   "Pacchetti fotografici professionali (opzionali, sul posto)",
+   "Mance per guide e mahout"
+  ]
+ },
+ "ethical-elephant-sanctuary-experience-in-krabi": {
+  "title": "Esperienza etica al santuario degli elefanti a Krabi",
+  "metaTitle": "Santuario etico degli elefanti a Krabi",
+  "metaDescription": "Mezza giornata a Krabi: impara sugli elefanti asiatici e prepara il loro cibo. Gestito da un operatore locale verificato.",
+  "shortDescription": "Mezza giornata a Krabi, con lezione sugli elefanti asiatici e preparazione del cibo per il tuo elefante. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un programma senza cavalcate, catene o spettacoli: impari a conoscere gli elefanti asiatici, prepari il cibo, nutri il tuo elefante ed esegui un controllo di base sulla sua salute, così da poter riconoscere le condizioni di un elefante sano in futuro.\n\nGli animali sono salvati e in pensione, non una popolazione selvatica. Dopo l'alimentazione ti occupi della pelle del tuo elefante e lo osservi fare il bagno in una piscina di roccia rinfrescante, poi si cammina insieme nella giungla. Indossa vestiti che non ti dispiace rovinare.\n\nIl prezzo comprende la lezione sugli elefanti asiatici, la preparazione del cibo, un controllo completo della salute dell'elefante, l'alimentazione, la cura della pelle dell'elefante, il bagno nella piscina di roccia, la camminata nella giungla, un pranzo thailandese tradizionale, il trasferimento con aria condizionata, la guida di lingua inglese e l'uso di ottime docce e spogliatoi per riporre i tuoi effetti personali. Il punto e l'ora dell'incontro vengono inviati via email non appena la prenotazione è confermata.",
+  "highlights": [
+   "Niente cavalcate, niente catene durante il programma, niente spettacoli",
+   "Prepara il cibo, nutri l'elefante ed esegui un controllo di salute di base",
+   "Imparerai a riconoscere le condizioni di un elefante sano in qualsiasi campo",
+   "Animali salvati e in pensione, non una popolazione selvatica",
+   "Indossa vestiti che non ti dispiace rovinare"
+  ],
+  "included": [
+   "Lezione sugli elefanti asiatici",
+   "Preparazione del cibo per il tuo elefante",
+   "Controllo completo della salute del tuo elefante",
+   "Alimentazione del tuo elefante",
+   "Cura della pelle del tuo elefante",
+   "Bagno dell'elefante in una piscina di roccia rinfrescante",
+   "Camminata nella giungla",
+   "Pranzo thailandese tradizionale e gustoso",
+   "Trasferimento con aria condizionata",
+   "Guida di lingua inglese",
+   "Ottime docce e spogliatoi disponibili per riporre i tuoi effetti personali"
+  ],
+  "notIncluded": []
+ },
+ "floating-market-and-train-market-experience": {
+  "title": "Bangkok: esperienza al mercato flottante e al mercato del treno",
+  "metaTitle": "Mercato flottante e mercato del treno da Bangkok",
+  "metaDescription": "Tour di 8,5 ore da Bangkok: treno attraverso un mercato, canali in barca e Thailandia rurale, con guida di lingua inglese e audioguida in 28 lingue.",
+  "shortDescription": "Un momento turistico ma unico. Prendi un treno che attraversa un mercato, naviga i canali e scopri la Thailandia rurale dove tradizione e turismo si incontrano, con guida di lingua inglese e audioguida in 28 lingue.",
+  "fullDescription": "Una giornata che unisce due dei momenti più fotografati della Thailandia: il treno che passa a pochi centimetri dalle bancarelle del mercato sui binari, e la crociera sui canali tra la vegetazione rurale.\n\nIl percorso porta al mercato del treno, dove si vede il convoglio passare e poi ripassare mentre i venditori ritirano in fretta la merce dai binari, e al mercato flottante, con le barche cariche di frutta e cibo di strada tra i canali. La guida di lingua inglese accompagna l'intero percorso, con un'audioguida disponibile in 28 lingue per chi preferisce ascoltare nella propria.\n\nIl prezzo comprende la guida di lingua inglese e il tour come descritto. Mance e spese personali non sono comprese. Il ritiro è a Bangkok, con il punto esatto comunicato dopo la prenotazione.",
+  "highlights": [
+   "Viaggio panoramico in treno in campagna fino al mercato del treno, visto passare due volte"
+  ],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "floracreek-gardens-hang-dong-chiang-mai-mini-tour": {
+  "title": "Chiang Mai: pranzo nel giardino sul torrente",
+  "metaTitle": "Pranzo nel giardino sul torrente a Chiang Mai",
+  "metaDescription": "Due ore in un giardino sul torrente fuori Chiang Mai, con pranzo thailandese del nord servito con i piedi nell'acqua.",
+  "shortDescription": "Pranza con i piedi immersi in un fresco torrente di montagna in un rigoglioso giardino appena fuori Chiang Mai, con un pranzo thailandese fresco in un'atmosfera davvero tranquilla.",
+  "fullDescription": "Un giardino nel distretto di Hang Dong, lontano dal centro città, dove si pranza letteralmente con i piedi nell'acqua di un torrente di montagna. Il menù del pranzo è un set di piatti thailandesi del nord, scelto a rotazione tra proposte fresche.\n\nIl formato è rilassato e senza fretta, pensato per due ore senza orari fissi da rispettare. È un angolo davvero particolare per un pasto vicino a Chiang Mai, lontano dai percorsi più battuti.\n\nIl prezzo comprende il pranzo (menù fisso di piatti thailandesi del nord), l'uso dell'area pranzo sul torrente e dei giardini, e l'acqua potabile. Il trasferimento in hotel è a tuo carico (la struttura si trova nel distretto di Hang Dong), così come bevande aggiuntive oltre all'acqua e le mance.",
+  "highlights": [
+   "Pranza con i piedi in un fresco torrente di montagna",
+   "Ambientazione rigogliosa in giardino, lontana dal centro città",
+   "Menù di pranzo thailandese del nord fresco e a rotazione",
+   "Formato rilassato e senza fretta di due ore",
+   "Un angolo di pranzo davvero unico vicino a Chiang Mai"
+  ],
+  "included": [
+   "Pranzo (menù fisso di piatti thailandesi del nord)",
+   "Uso dell'area pranzo sul torrente e dei giardini",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Trasferimento in hotel (a proprio carico; la struttura si trova nel distretto di Hang Dong)",
+   "Bevande aggiuntive oltre all'acqua",
+   "Mance"
+  ]
+ },
+ "from-ko-lanta-mangrove-eco-excursion-by-longtail-boat-krabi": {
+  "title": "Da Ko Lanta: escursione ecologica nella mangrovia con barca a coda lunga (Krabi)",
+  "metaTitle": "Escursione nella mangrovia da Ko Lanta, Krabi",
+  "metaDescription": "Mezza giornata a Krabi: visita a Tung Yee Peng con barca a coda lunga. Gestito da un operatore locale verificato.",
+  "shortDescription": "Mezza giornata a Krabi, con visita a Tung Yee Peng. Gestito da un operatore locale verificato.",
+  "fullDescription": "Una barca a coda lunga entra nei canali della mangrovia dove i motoscafi non possono arrivare, raggiungendo Tung Yee Peng, un villaggio di pescatori gestito dalla comunità locale.\n\nNel vivaio di mangrovie si osservano pesci saltatori di fango, granchi e martin pescatore. L'acqua riparata rende l'escursione praticabile anche quando le uscite verso le isole vengono annullate per il mare mosso. Il pranzo nel villaggio, la guida e i trasferimenti sono inclusi.\n\nIl prezzo comprende il trasferimento di andata e ritorno in hotel, il pranzo con acqua potabile e frutta, il giubbotto di salvataggio, una guida locale di lingua inglese e l'assicurazione di base contro gli infortuni. Il punto d'incontro è nel distretto di Ko Lanta.",
+  "highlights": [
+   "Barca a coda lunga in canali che i motoscafi non raggiungono",
+   "Tung Yee Peng, un villaggio di pescatori gestito dalla comunità",
+   "Vivaio di mangrovie: pesci saltatori di fango, granchi, martin pescatore",
+   "Acqua riparata, quindi funziona anche quando le uscite alle isole vengono annullate",
+   "Pranzo in villaggio, guida e trasferimenti inclusi"
+  ],
+  "included": [
+   "Trasferimento di andata e ritorno in hotel",
+   "Pranzo, acqua potabile e frutta",
+   "Giubbotto di salvataggio",
+   "Guida locale di lingua inglese",
+   "Assicurazione di base contro gli infortuni"
+  ],
+  "notIncluded": []
+ },
+ "golden-horizon-of-krabi-islands-sunset-tour-by-local-operator": {
+  "title": "Tramonto dorato sulle isole di Krabi, tour con operatore locale",
+  "metaTitle": "Tour al tramonto sulle isole di Krabi",
+  "metaDescription": "Mezza giornata a Krabi: visita a Koh Poda e Chicken Island. Gestito da un operatore locale verificato.",
+  "shortDescription": "Mezza giornata a Krabi, con visita a Koh Poda e visita a Chicken Island (Koh Gai). Gestito da un operatore locale verificato.",
+  "fullDescription": "Un itinerario pomeridiano pensato per trovare ogni tappa già più tranquilla, quando le barche della giornata iniziano a svuotarsi. Si passa per Koh Poda e Chicken Island (Koh Gai), per poi raggiungere il banco di sabbia di Thale Waek, percorribile solo con la bassa marea.\n\nIl tramonto si vive sulla spiaggia di Phra Nang Cave a Railay, davanti al santuario dei pescatori ancora oggi attivamente utilizzato. La guida è locale e tradizionale, legata alla comunità, non una società di barche generica.\n\nIl prezzo comprende la visita a Koh Poda, la visita a Chicken Island (Koh Gai), la visita a Thale Waek (Mare Separato), il tramonto a Phra Nang Cave, una guida locale tradizionale/comunitaria e l'assicurazione di viaggio. Le spese personali non sono comprese, e la tassa del parco nazionale (200 THB a persona) non è inclusa.",
+  "highlights": [
+   "Percorso pomeridiano, con ogni tappa già più tranquilla",
+   "Banco di sabbia di Thale Waek, percorribile solo con la bassa marea",
+   "Tramonto sulla spiaggia di Phra Nang Cave a Railay",
+   "Il santuario dei pescatori, ancora oggi attivamente utilizzato",
+   "Guida locale legata alla comunità, non una società di barche generica"
+  ],
+  "included": [
+   "Visita a Koh Poda",
+   "Visita a Chicken Island (Koh Gai)",
+   "Visita a Thale Waek (Mare Separato)",
+   "Tramonto a Phra Nang Cave",
+   "Guida locale (tradizionale/comunitaria)",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "La tassa del parco nazionale non è compresa (200 THB a persona)"
+  ]
+ },
+ "hanuman-world-phuket-adventure-tour": {
+  "title": "Hanuman World Phuket: slittino e avventura zipline",
+  "metaTitle": "Slittino e zipline a Hanuman World, Phuket",
+  "metaDescription": "A Hanuman World Phuket: unica pista di slittino dell'isola nella giungla, più zipline, ponti sospesi e pranzo a buffet.",
+  "shortDescription": "Vivi l'unico percorso di slittino di Phuket a Hanuman World, una pista di 650 metri in discesa nella giungla. Abbinalo al pacchetto Zipline World+ per una giornata di zipline, ponti sospesi, ottovolante nella giungla, una passeggiata tra le chiome e un pranzo a buffet.",
+  "fullDescription": "Il primo e unico percorso di slittino di Phuket, una pista di 650 metri che scende nella giungla con due giri inclusi. Abbinato al pacchetto Zipline World+, il parco offre anche zipline ad alta velocità tra alberi centenari, ponti sospesi e punti di calata in corda ad altezze elevate sulla giungla.\n\nIl percorso include anche l'ottovolante nella giungla di 800 metri, un'attrazione su rotaia che attraversa le chiome degli alberi, e la Sky Walk, una passeggiata serena tra le chiome con vista panoramica sulla foresta. La giornata si chiude con un pranzo a buffet nella zona Wanon, dentro la giungla.\n\nIl prezzo comprende due giri di slittino sulla pista di 650 metri nella giungla, il pacchetto completo Zipline World+ (zipline, ponti sospesi, calata in corda, ottovolante nella giungla, Sky Walk), imbracatura e casco professionali, il pranzo a buffet nella zona Wanon, il ritiro e il riaccompagno in hotel dalle zone elencate di Phuket, l'assicurazione vita/infortuni e guide di sicurezza professionali durante tutto il percorso. Spese personali e souvenir, foto e video (acquistabili al parco) e il sovrapprezzo di trasporto per hotel fuori dalle zone standard di ritiro (500 THB per la prima persona + 200 THB per ogni persona aggiuntiva) non sono compresi.\n\nIl ritiro in hotel è incluso dalla maggior parte delle zone di Phuket: Kata, Karon, Patong, Laguna, Bangtao, Surin, Kamala, Nakalay, Panwa, Naiharn, Rawai, Chalong, città di Phuket e Laem Hin. Per indirizzi fuori da queste zone (ma sempre a Phuket) si applica un sovrapprezzo di trasporto: 500 THB per la prima persona più 200 THB per ogni persona aggiuntiva. È possibile anche arrivare in autonomia a Hanuman World, nel distretto di Kathu.",
+  "highlights": [
+   "L'unica pista di slittino di Phuket, 650 metri nella giungla con 2 giri inclusi",
+   "Zipline ad alta velocità tra alberi centenari, nella chioma della foresta pluviale",
+   "L'ottovolante nella giungla di 800 metri, un'attrazione su rotaia tra le chiome",
+   "Ponti sospesi e punti di calata in corda ad altezze elevate sulla giungla",
+   "La tranquilla Sky Walk tra le chiome con vista panoramica sulla foresta",
+   "Pranzo a buffet nella zona Wanon, nella giungla, dopo l'avventura"
+  ],
+  "included": [
+   "2 giri di slittino sulla pista di 650 metri nella giungla",
+   "Pacchetto completo Zipline World+ (zipline, ponti sospesi, calata in corda, ottovolante nella giungla, Sky Walk)",
+   "Imbracatura e casco professionali",
+   "Pranzo a buffet nella zona Wanon",
+   "Ritiro e riaccompagno in hotel (dalle zone elencate di Phuket)",
+   "Assicurazione vita/infortuni",
+   "Guide di sicurezza professionali durante tutto il percorso"
+  ],
+  "notIncluded": [
+   "Spese personali e souvenir",
+   "Foto e video (acquistabili al parco)",
+   "Sovrapprezzo di trasporto per hotel fuori dalle zone standard di ritiro (500 THB per la prima persona + 200 THB per ogni persona aggiuntiva)"
+  ]
+ },
+ "hong-island-boat-tour": {
+  "title": "Isole Hong in motoscafo: snorkeling, laguna e pranzo in spiaggia",
+  "metaTitle": "Isole Hong in motoscafo da Krabi",
+  "metaDescription": "Giornata intera in motoscafo tra le isole Hong: snorkeling sulla barriera, laguna smeraldo e pranzo thailandese in spiaggia.",
+  "shortDescription": "Una giornata intera in motoscafo nell'arcipelago di Hong: snorkeling sulla barriera, la laguna interna color smeraldo, isolotti di sabbia bianca e pranzo servito in spiaggia.",
+  "fullDescription": "Un'intera giornata in motoscafo tra le isole Hong, pensata per massimizzare il tempo in spiaggia grazie a trasferimenti rapidi. Si fa snorkeling sulla barriera nell'acqua cristallina della baia di Hong e si entra nella laguna interna nascosta, color smeraldo.\n\nIl giro include soste sui banchi di sabbia di Pakbia e Lading, due isolotti bianchi dove fermarsi a nuotare. Il pranzo thailandese viene servito direttamente sulla spiaggia.\n\nIl prezzo comprende i trasferimenti in motoscafo e il servizio in barca del parco nazionale, la guida e l'equipaggio di lingua inglese, il pranzo thailandese in spiaggia, maschera da snorkeling e giubbotto di salvataggio, acqua potabile, bibite e frutta, il ritiro in hotel nella zona di Ao Nang e l'assicurazione. La tassa d'ingresso al parco nazionale, gli asciugamani, le bevande alcoliche, il noleggio di una fotocamera subacquea e le mance non sono compresi.",
+  "highlights": [
+   "Snorkeling sulla barriera nell'acqua cristallina della baia di Hong",
+   "Ingresso nella laguna interna nascosta color smeraldo dell'isola Hong",
+   "Sosta sui banchi di sabbia di Pakbia e Lading",
+   "Pranzo thailandese servito in spiaggia",
+   "Trasferimenti rapidi in motoscafo per massimizzare il tempo in spiaggia"
+  ],
+  "included": [
+   "Trasferimenti in motoscafo e servizio in barca del parco nazionale",
+   "Guida ed equipaggio di lingua inglese",
+   "Pranzo thailandese in spiaggia",
+   "Maschera da snorkeling e giubbotto di salvataggio",
+   "Acqua potabile, bibite e frutta",
+   "Ritiro in hotel nella zona di Ao Nang",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Asciugamani",
+   "Bevande alcoliche",
+   "Noleggio di fotocamera subacquea",
+   "Mance"
+  ]
+ },
+ "hong-island-full-day-tour": {
+  "title": "Laguna smeraldo delle isole Hong e punto panoramico a 360 gradi, giornata intera",
+  "metaTitle": "Isole Hong: laguna e punto panoramico, giornata intera",
+  "metaDescription": "Giornata intera a Krabi: la laguna smeraldo nascosta dell'isola Hong, il punto panoramico a 360 gradi e spiagge tranquille.",
+  "shortDescription": "Entra nella laguna smeraldo nascosta dell'isola Hong, sali al punto panoramico a 360 gradi sulla scogliera e nuota su spiagge tranquille, con molto meno tempo in barca rispetto a Phi Phi.",
+  "fullDescription": "La laguna di Hong si raggiunge attraverso un passaggio tra le rocce che si apre solo con la marea giusta, rivelando un'acqua smeraldo chiusa tra pareti calcaree. Una salita impegnativa porta poi al punto panoramico a 360 gradi sull'isola.\n\nIl giro include anche la scogliera a sbalzo di Koh Lao Lading, molto più tranquilla di Koh Tapu, e l'acqua riparata regge bene anche quando le traversate in mare aperto sono agitate. Gli spostamenti tra le isole avvengono in motoscafo, così la giornata non si consuma viaggiando.\n\nIl prezzo comprende il ritiro e il riaccompagno in hotel, i trasferimenti in motoscafo tra le isole, la guida di lingua inglese, il pranzo, acqua potabile e bibite, attrezzatura da snorkeling, giubbotti di salvataggio e assicurazione. La tassa d'ingresso al parco nazionale, gli asciugamani, l'alcol, le mance e le spese personali non sono compresi. Il ritiro è disponibile ad Ao Nang, Nopparat Thara o nella città di Krabi.",
+  "highlights": [
+   "Laguna di Hong, raggiungibile solo attraverso un passaggio tra le rocce legato alla marea",
+   "Salita impegnativa fino al punto panoramico a 360 gradi sull'isola",
+   "La scogliera a sbalzo di Koh Lao Lading, molto più tranquilla di Koh Tapu",
+   "Acqua riparata, che regge anche quando le traversate in mare aperto sono agitate",
+   "Motoscafo tra le isole, così la giornata non si consuma viaggiando"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasferimenti in motoscafo tra le isole",
+   "Guida di lingua inglese",
+   "Pranzo",
+   "Acqua potabile e bibite",
+   "Attrezzatura da snorkeling",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Asciugamani",
+   "Alcol",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "hong-island-sunset-tour": {
+  "title": "Isola Hong e Ko Pak Bia con cena barbecue al tramonto",
+  "metaTitle": "Isola Hong e Ko Pak Bia al tramonto, con barbecue",
+  "metaDescription": "Snorkeling tra Hong e Ko Pak Bia, poi cena barbecue al tramonto e nuotata notturna tra il plancton luminescente.",
+  "shortDescription": "Nuota e fai snorkeling tra l'isola Hong e i banchi di sabbia di Ko Pak Bia, poi resta per una cena barbecue al tramonto e una nuotata notturna tra il plancton luminescente.",
+  "fullDescription": "La laguna dell'isola Hong dopo che le barche della giornata se ne sono andate, con snorkeling nelle baie riparate dell'isola. Si continua verso il banco di sabbia di Ko Pak Bia, che ogni marea ridisegna leggermente.\n\nAl tramonto viene servita una cena barbecue cucinata sul posto mentre il sole scende. Nelle notti più scure, vicino alla luna nuova, è possibile anche una nuotata tra il plancton luminescente.\n\nIl prezzo comprende il ritiro e il riaccompagno in hotel, l'uscita in barca con equipaggio e guida, l'attrezzatura da snorkeling, la cena barbecue, acqua potabile, bibite e frutta, giubbotti di salvataggio e assicurazione. La tassa d'ingresso al parco nazionale, le bevande alcoliche, gli asciugamani, le mance e le spese personali non sono compresi. Il ritiro è disponibile ad Ao Nang, nella città di Krabi e a Nopparat Thara.",
+  "highlights": [
+   "La laguna dell'isola Hong dopo che le barche della giornata se ne sono andate",
+   "Snorkeling nelle baie riparate dell'isola",
+   "Il banco di sabbia di Ko Pak Bia, ridisegnato da ogni marea",
+   "Cena barbecue cucinata al tramonto",
+   "Nuotata tra il plancton luminescente, ideale nelle notti vicino alla luna nuova"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Uscita in barca con equipaggio e guida",
+   "Attrezzatura da snorkeling",
+   "Cena barbecue",
+   "Acqua potabile, bibite e frutta",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "hot-spring-waterfall-guided-tour": {
+  "title": "Piscina smeraldo, cascata di sorgente termale e giro in ATV nella giungla",
+  "metaTitle": "Piscina smeraldo e sorgente termale a Krabi, con ATV",
+  "metaDescription": "Giornata intera a Krabi: nuotata nella Piscina Smeraldo, cascata di sorgente termale e giro in ATV nella foresta pluviale.",
+  "shortDescription": "Lascia la spiaggia per l'entroterra di Krabi: una nuotata nella famosa Piscina Smeraldo, cascate minerali calde alla sorgente termale e un giro in ATV su piste nella foresta pluviale.",
+  "fullDescription": "Un giorno nell'entroterra di Krabi, lontano dalla costa: la Piscina Smeraldo alimentata da sorgenti naturali, fresca anche ad aprile, seguita dalle cascate calde della sorgente termale che scorrono in vasche di roccia calcarea levigata.\n\nIl giro continua con un tratto in ATV su piste di piantagione, senza bisogno di patente, un'attività che funziona anche con il tempo che blocca le barche verso le isole. Le cascate sono più spettacolari nella stagione delle piogge.\n\nIl prezzo comprende il ritiro e il riaccompagno in hotel, il trasporto con aria condizionata, la guida di lingua inglese, il giro in ATV con istruzioni e casco, il pranzo thailandese, acqua potabile e assicurazione. I biglietti d'ingresso alla Piscina Smeraldo e alla sorgente termale, gli asciugamani, l'upgrade dell'ATV per un percorso più lungo, le mance e le spese personali non sono compresi. Il ritiro è disponibile ad Ao Nang, nella città di Krabi o a Klong Muang.",
+  "highlights": [
+   "La Piscina Smeraldo alimentata da sorgenti naturali, fresca anche ad aprile",
+   "Cascata di sorgente termale in vasche di roccia calcarea levigata",
+   "Giro in ATV su piste di piantagione, senza bisogno di patente",
+   "Funziona anche con il tempo che blocca le uscite in barca verso le isole",
+   "Le cascate sono più spettacolari nella stagione delle piogge"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasporto con aria condizionata",
+   "Guida di lingua inglese",
+   "Giro in ATV con istruzioni e casco",
+   "Pranzo thailandese",
+   "Acqua potabile",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso alla Piscina Smeraldo e alla sorgente termale",
+   "Asciugamani",
+   "Upgrade dell'ATV per un percorso più lungo",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "huay-to-waterfall-and-tiger-cave-french-german-guide-in-krabi": {
+  "title": "Cascata di Huay To e Tiger Cave, guida in francese/tedesco a Krabi",
+  "metaTitle": "Huay To e Tiger Cave con guida francese/tedesca a Krabi",
+  "metaDescription": "Giornata intera a Krabi: punto panoramico del Tempio della Grotta della Tigre. Gestito da un operatore locale verificato.",
+  "shortDescription": "Giornata intera a Krabi, con punto panoramico. Gestito da un operatore locale verificato.",
+  "fullDescription": "Una guida che lavora in francese o in tedesco, non in inglese, conduce la salita ai 1.260 gradini della torre calcarea del Tempio della Grotta della Tigre, oltre alla visita alla cascata di Huay To nella foresta del Khao Phanom Bencha.\n\nLa guida nella lingua richiesta comporta un sovrapprezzo rispetto alla versione in inglese. Al tempio è richiesto un abbigliamento adeguato, con spalle e ginocchia coperte.\n\nIl prezzo comprende il ritiro e il riaccompagno in hotel a Krabi, la guida di lingua francese o tedesca, il pranzo thailandese, frutta fresca e bevande, e l'assicurazione di viaggio. La tassa d'ingresso al parco nazionale (300 THB adulti / 150 THB bambini, pagata sul posto), le spese personali e le mance non sono comprese.",
+  "highlights": [
+   "Guida che lavora in francese o in tedesco, non in inglese",
+   "1.260 gradini fino alla torre calcarea del Tempio della Grotta della Tigre",
+   "Cascata di Huay To nella foresta del Khao Phanom Bencha",
+   "La guida in lingua comporta un sovrapprezzo rispetto alla versione inglese",
+   "Abbigliamento richiesto al tempio: spalle e ginocchia coperte"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Krabi",
+   "Guida di lingua francese o tedesca",
+   "Pranzo thailandese",
+   "Frutta fresca e bevande",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale (300 THB adulti / 150 THB bambini, pagata sul posto)",
+   "Spese personali",
+   "Mance"
+  ]
+ },
+ "james-bond-island-evening-tour": {
+  "title": "Isola di James Bond e plancton bioluminescente serale, tour privato in barca a coda lunga",
+  "metaTitle": "Isola di James Bond serale e plancton bioluminescente",
+  "metaDescription": "Tour privato serale in barca a coda lunga nella baia di Phang Nga: isola di James Bond, villaggio di Koh Panyee e plancton bioluminescente.",
+  "shortDescription": "Vivi la baia di Phang Nga come non mai in questo tour privato serale in barca a coda lunga. Visita l'isola di James Bond senza la folla diurna, rema tra le grotte marine di Koh Talu, esplora il villaggio flottante di Koh Panyee e chiudi la serata facendo kayak tra il plancton bioluminescente di Koh Hong.",
+  "fullDescription": "Un tour privato serale pensato per vivere la baia di Phang Nga fuori dagli orari più affollati. La giornata inizia con la vista panoramica dal punto panoramico di Samet Nangshe, poi raggiunge l'isola di James Bond in orario serale, senza la folla del giorno e con una luce dorata sulla scogliera calcarea.\n\nSi continua in canoa privata attraverso l'arco naturale della grotta marina di Koh Talu, e con la visita al villaggio flottante di Koh Panyee, costruito interamente su palafitte sul mare. La serata si chiude a Koh Hong, facendo kayak tra il plancton bioluminescente che illumina l'acqua al buio.\n\nL'intera esperienza avviene in barca a coda lunga privata, esclusiva per il tuo gruppo. Il prezzo comprende il ritiro e il riaccompagno in hotel (tutti gli hotel di Phuket), un veicolo privato con aria condizionata e una guida di lingua inglese, la barca a coda lunga privata per tutto il tour, i biglietti d'ingresso e le tasse del parco nazionale, 2 sessioni in canoa (Koh Talu e il plancton bioluminescente di Koh Hong), un pasto al sacco, acqua fredda e bibite durante tutto il percorso, e l'assicurazione contro gli infortuni. Spese personali e souvenir, cibo o bevande aggiuntive oltre a quanto fornito, e le mance (opzionali ma apprezzate) non sono compresi. Il ritiro in hotel è disponibile da tutti gli hotel di Phuket; l'ora esatta viene confermata il giorno prima del tour.",
+  "highlights": [
+   "Visita l'isola di James Bond in orario serale, senza la folla diurna e con luce dorata",
+   "Fai kayak tra il plancton bioluminescente a Koh Hong dopo il buio",
+   "Vista panoramica sulla baia di Phang Nga dal punto panoramico di Samet Nangshe",
+   "Rema attraverso l'arco naturale della grotta marina di Koh Talu in canoa privata",
+   "Esplora il villaggio flottante di Koh Panyee, costruito interamente su palafitte sul mare",
+   "Viaggia in barca a coda lunga privata, esclusiva per il tuo gruppo"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (tutti gli hotel di Phuket)",
+   "Veicolo privato con aria condizionata e guida di lingua inglese",
+   "Barca a coda lunga privata per tutto il tour",
+   "Biglietti d'ingresso e tasse del parco nazionale",
+   "2 sessioni in canoa (Koh Talu + plancton bioluminescente di Koh Hong)",
+   "Pasto al sacco",
+   "Acqua fredda e bibite durante tutto il percorso",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Spese personali e souvenir",
+   "Cibo o bevande aggiuntive oltre a quanto fornito",
+   "Mance (opzionali ma apprezzate)"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
