@@ -1090,6 +1090,91 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-science-technology-museum-worth-it-beijing":
+      return {
+        title: "Is the China Science and Technology Museum Worth It in Beijing?",
+        description: "An honest look at the China Science and Technology Museum, a genuine family-friendly alternative to Beijing's history-heavy sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3a7c96c5d2fcff8ba7a1d6553cf481155bdc6e0829a459526758814868d92e29.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a hands-on, interactive museum built for engagement rather than passive viewing — a good fit for families with kids who've had enough of the Forbidden City's halls and want something more active to do indoors.",
+            tourCard: { slug: "china-science-and-technology-museum-reservation", title: "China Science and Technology Museum Reservation / Audio Tour", description: "Reserved entry to the China Science and Technology Museum with an audio tour.", price: "From $16", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3a7c96c5d2fcff8ba7a1d6553cf481155bdc6e0829a459526758814868d92e29.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good indoor option on a bad-weather or high-pollution day, when outdoor sightseeing is less appealing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the China Science and Technology Museum worth it in Beijing?", a: "Yes for families with kids, as a genuinely hands-on, interactive alternative to the city's history-focused sightseeing." },
+        ],
+      };
+
+    case "is-national-museum-of-china-worth-it-beijing":
+      return {
+        title: "Is the National Museum of China Worth It in Beijing?",
+        description: "An honest look at the National Museum of China, distinct from the already-covered National Art Museum of China (NAMOC).",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53b03ab45725235db94bcb58180acacb808de9dca6ce05602e3ec20e9757c812.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a history and archaeology museum covering China's full historical sweep, genuinely different from NAMOC's fine-art focus — worth it specifically for travelers wanting broader historical context alongside the imperial sites rather than an art collection.",
+            tourCard: { slug: "national-museum-of-china-reservationwith-2-hour", title: "National Museum of China Reservation/With 2-Hour Audio Guide", description: "Reserved entry to the National Museum of China with a 2-hour audio guide.", price: "From $26", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53b03ab45725235db94bcb58180acacb808de9dca6ce05602e3ec20e9757c812.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Don't confuse this with NAMOC (the National Art Museum of China) — this one is history and archaeology, right on Tiananmen Square, a convenient add-on if you're already there.",
+          },
+        ],
+        faqs: [
+          { q: "Is the National Museum of China worth visiting?", a: "Yes for broader historical and archaeological context, distinct from NAMOC's fine-art focus — and it's conveniently right on Tiananmen Square." },
+          { q: "What's the difference between the National Museum of China and NAMOC?", a: "The National Museum of China covers history and archaeology; NAMOC (National Art Museum of China) is focused on fine art." },
+        ],
+      };
+
+    case "is-prince-gongs-mansion-worth-it-beijing":
+      return {
+        title: "Is Prince Gong's Mansion Worth It in Beijing?",
+        description: "An honest look at Prince Gong's Mansion, the best-preserved Qing dynasty princely residence in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e663e313e763be099de7afb3fecff4cb16015c8d11530c91d9e79da18434715a.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is the best-preserved Qing dynasty princely mansion open to the public, giving a genuine sense of aristocratic rather than imperial life — a different scale and focus from the Forbidden City's palace architecture.",
+            tourCard: { slug: "beijing-prince-gongs-mansion-ticket-or-on-site", title: "Beijing: Prince Gong's Mansion Ticket or On-Site Guide", description: "Entry to Prince Gong's Mansion, with an optional on-site guide.", price: "From $25", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e663e313e763be099de7afb3fecff4cb16015c8d11530c91d9e79da18434715a.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It sits near the Houhai lake area and hutongs, making it an easy pairing with a hutong walk rather than a standalone destination.",
+          },
+        ],
+        faqs: [
+          { q: "Is Prince Gong's Mansion worth visiting?", a: "Yes for a genuine sense of Qing dynasty aristocratic (rather than imperial) life, and it pairs easily with a nearby hutong walk." },
+        ],
+      };
+
+    case "is-gubei-water-town-worth-it-beijing":
+      return {
+        title: "Is the Gubei Water Town Day Trip Worth It from Beijing?",
+        description: "An honest look at the Gubei Water Town day trip with a show, an ancient canal town near the Great Wall's Simatai section.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fd72d2996c280eb0df7f1b9de2c881ba94b586f0bfe3b17aca582e8b1aac34a0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gubei Water Town is a reconstructed ancient canal town sitting right beside the Simatai Great Wall section, making it a genuinely different, more leisurely pace than a straight Great Wall hike — good for pairing the Wall with a relaxed evening of canals, lanterns, and a show.",
+            tourCard: { slug: "from-beijing-gubei-water-town-day-trip-with-show", title: "From Beijing: Gubei Water Town Day Trip with Show", description: "A day trip to Gubei Water Town including a show.", price: "From $29", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fd72d2996c280eb0df7f1b9de2c881ba94b586f0bfe3b17aca582e8b1aac34a0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Consider pairing this with Simatai Great Wall rather than booking them as two separate trips, since they sit right next to each other.",
+          },
+        ],
+        faqs: [
+          { q: "Is Gubei Water Town worth it from Beijing?", a: "Yes, especially paired with the nearby Simatai Great Wall section for a relaxed, scenic contrast to the hike." },
+        ],
+      };
+
     default:
       return null;
   }

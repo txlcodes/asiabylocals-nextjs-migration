@@ -992,6 +992,8 @@ export const BEIJING_INFO_SLUGS = [
   'is-calligraphy-masterclass-worth-it-beijing', 'is-lama-temple-tour-worth-it-beijing',
   'is-crystal-bead-workshop-worth-it-beijing', 'is-namoc-art-museum-worth-it-beijing',
   'is-liangma-river-cruise-worth-it-beijing', 'is-mao-memorial-hall-worth-it-beijing',
+  'is-science-technology-museum-worth-it-beijing', 'is-national-museum-of-china-worth-it-beijing',
+  'is-prince-gongs-mansion-worth-it-beijing', 'is-gubei-water-town-worth-it-beijing',
 ];
 
 export const SHANGHAI_INFO_SLUGS = [
