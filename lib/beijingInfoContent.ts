@@ -1175,6 +1175,91 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-planetarium-worth-it-beijing":
+      return {
+        title: "Is the Beijing Planetarium Worth It?",
+        description: "An honest look at the Beijing Planetarium, a science-focused alternative to the city's history-heavy sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/280beed0004d4d4874c0cc8f2933ee0c7ff213567e5eb1ade5cca21bc49367bc.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is one of Asia's larger planetariums, with dome shows and astronomy exhibits — a genuinely different, hands-on-adjacent activity from Beijing's imperial sites, good for families or anyone wanting a break from walking palace halls.",
+            tourCard: { slug: "beijing-planetarium-ticket", title: "Beijing Planetarium Ticket", description: "Entry to the Beijing Planetarium.", price: "From $11", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/280beed0004d4d4874c0cc8f2933ee0c7ff213567e5eb1ade5cca21bc49367bc.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check show times before visiting, since the dome shows run on a schedule rather than continuously.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Beijing Planetarium worth it?", a: "Yes for a genuinely different science-focused activity, good for families or a break from imperial-site sightseeing." },
+        ],
+      };
+
+    case "is-hutong-nightlife-tour-worth-it-beijing":
+      return {
+        title: "Is the Beijing Hutong Nightlife & Local Drinking Tour Worth It?",
+        description: "An honest look at the Beijing hutong nightlife and local drinking tour, distinct from the daytime hutong walking tours.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/387c4d05e8c68761e0ed78e19bb1d2001500ea4121ec67126b1cb0f6d2c5c1ef.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Where the standard hutong walking tour covers the old lanes during the day, this one focuses on local bars and drinking spots after dark — a genuinely different evening activity, better for travelers wanting nightlife over daytime sightseeing.",
+            tourCard: { slug: "beijing-hutong-nightlife-local-drinking-tour", title: "Beijing Hutong Nightlife & Local Drinking Tour", description: "A guided evening nightlife and drinking tour through Beijing's hutongs.", price: "From $30", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/387c4d05e8c68761e0ed78e19bb1d2001500ea4121ec67126b1cb0f6d2c5c1ef.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across the stops — the format is several bars rather than one long sit-down evening.",
+          },
+        ],
+        faqs: [
+          { q: "Is the hutong nightlife tour worth it in Beijing?", a: "Yes if you want an evening-focused alternative to the standard daytime hutong walking tour." },
+        ],
+      };
+
+    case "is-tie-dye-workshop-worth-it-beijing":
+      return {
+        title: "Is the Traditional Chinese Tie-Dye Workshop Worth It in Beijing?",
+        description: "An honest look at the traditional Chinese tie-dye workshop in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/898c2be4c607cd270f207e525468607cc90925c3e6c2017f15aed52f3db52bdf.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Traditional Chinese tie-dye (zharan) is a genuine textile craft tradition, and this workshop gives a hands-on introduction with a piece to take home — a short, relaxed creative break from sightseeing.",
+            tourCard: { slug: "traditional-chinese-tie-dye-workshop-in-beijing", title: "Traditional Chinese Tie-Dye Workshop in Beijing", description: "A hands-on traditional Chinese tie-dye workshop.", price: "From $31", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/898c2be4c607cd270f207e525468607cc90925c3e6c2017f15aed52f3db52bdf.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 1.5 hours, this is an easy half-day add-on rather than a dedicated activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tie-dye workshop worth it in Beijing?", a: "Yes, for a genuine textile craft tradition and a handmade souvenir, in a short, relaxed format." },
+        ],
+      };
+
+    case "is-fragrant-hills-worth-it-beijing":
+      return {
+        title: "Is Fragrant Hills Worth It in Beijing?",
+        description: "An honest look at Fragrant Hills (Xiangshan), Beijing's famous autumn foliage park.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/56675159d81999dd0d541834d2682660ca4d82322c2599399c46af8cf8e7ef78.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fragrant Hills is Beijing's best-known spot for autumn foliage, with maple trees turning red across the park's slopes in October-November — a genuinely scenic, nature-focused stop distinct from the city's temples and palaces.",
+            tourCard: { slug: "beijing-autumn-fragrant-hills-ticket-car-or", title: "Beijing Autumn: Fragrant Hills Ticket, Car or Private Tour", description: "A visit to Fragrant Hills, timed for autumn foliage.", price: "From $18", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/56675159d81999dd0d541834d2682660ca4d82322c2599399c46af8cf8e7ef78.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit specifically in October-November for peak foliage color — outside that window it's a pleasant park but lacks the main draw.",
+          },
+        ],
+        faqs: [
+          { q: "Is Fragrant Hills worth visiting in Beijing?", a: "Yes, especially in October-November for peak autumn foliage — a genuinely scenic nature stop distinct from the city's temples and palaces." },
+          { q: "When is the best time to visit Fragrant Hills?", a: "October to November, when the maple trees turn red across the park's slopes." },
+        ],
+      };
+
     default:
       return null;
   }
