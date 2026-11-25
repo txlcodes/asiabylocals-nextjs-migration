@@ -1058,6 +1058,91 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ocean-aquarium-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Ocean Aquarium Worth It?",
+        description: "An honest look at the Shanghai Ocean Aquarium, a family-friendly alternative to the city's garden and skyline sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ad36663a72c99aba02c88974bc3df3ee78765fe230f757c54d9bcc5d1f50c1a0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely large aquarium right by the Bund and Pudong, making it an easy pairing with a skyline day — a good family option distinct from Yu Garden or the river cruises.",
+            tourCard: { slug: "shanghai-shanghai-ocean-aquarium-tickets", title: "Shanghai: Shanghai Ocean Aquarium Tickets", description: "Entry tickets to the Shanghai Ocean Aquarium.", price: "From $50", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ad36663a72c99aba02c88974bc3df3ee78765fe230f757c54d9bcc5d1f50c1a0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Its Pudong location makes it an easy pairing with a Bund or Huangpu riverside day, since they're close together.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shanghai Ocean Aquarium worth it?", a: "Yes for families, and its Pudong location makes it an easy pairing with a Bund or river-cruise day." },
+        ],
+      };
+
+    case "is-world-financial-center-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai World Financial Center Observation Deck Worth It?",
+        description: "An honest look at the Shanghai World Financial Center's 100th-floor observation deck, a third Pudong tower option beyond Shanghai Tower and Jin Mao.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8b0576bc196d580339991ed449e14a28be9a3154d5d108fe6df8270f1321fd4a.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Known for its distinctive bottle-opener-shaped top, the World Financial Center's observation deck sits between Jin Mao Tower and Shanghai Tower in both height and price, including a notable glass floor section at the 100th floor.",
+            tourCard: { slug: "shanghai-world-financial-center-100-floor", title: "Shanghai World Financial Center 100 Floor Observation Deck", description: "Entry to the Shanghai World Financial Center's 100th-floor observation deck.", price: "From $37", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8b0576bc196d580339991ed449e14a28be9a3154d5d108fe6df8270f1321fd4a.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you only go up one Pudong tower, compare this against Jin Mao and Shanghai Tower on price and whichever specific feature (glass floor, outdoor skywalk, sheer height) matters most to you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the World Financial Center observation deck worth it?", a: "Yes, it sits in the middle of Pudong's three towers on both height and price, with a notable glass floor section." },
+          { q: "How does it compare to Shanghai Tower and Jin Mao?", a: "It's between them in height and price — compare based on which specific feature matters most to you." },
+        ],
+      };
+
+    case "is-nanxiang-ancient-town-worth-it-shanghai":
+      return {
+        title: "Is the Nanxiang Ancient Town Tour with Xiaolongbao Class Worth It?",
+        description: "An honest look at the Nanxiang Ancient Town tour with a xiaolongbao soup dumpling-making class, distinct from Zhujiajiao and Zhouzhuang.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d10ae0e9d91b7addf8904f623cf5f43971392ed2cc0228b28f91a9bdf0cce20.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nanxiang is the historic birthplace of xiaolongbao (soup dumplings), and this tour pairs the ancient canal town with an actual dumpling-making class — a more food-focused combination than the already-covered Zhujiajiao or Zhouzhuang water towns.",
+            tourCard: { slug: "shanghai-nanxiang-ancient-town-tour-with", title: "Shanghai: Nanxiang Ancient Town Tour with Xiaolongbao Class", description: "A tour of Nanxiang Ancient Town with a soup dumpling-making class.", price: "From $38", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d10ae0e9d91b7addf8904f623cf5f43971392ed2cc0228b28f91a9bdf0cce20.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry — you eat what you make, and the town itself has plenty of food stalls specifically selling xiaolongbao if you want more.",
+          },
+        ],
+        faqs: [
+          { q: "Is Nanxiang Ancient Town worth visiting?", a: "Yes, especially for the xiaolongbao-making class — it's the historic birthplace of the dish, a more food-focused stop than Zhujiajiao or Zhouzhuang." },
+        ],
+      };
+
+    case "is-sheshan-hill-worth-it-shanghai":
+      return {
+        title: "Is Sheshan Hill Worth It from Shanghai?",
+        description: "An honest look at the Sheshan Hill private tour, home to a notable Catholic basilica outside the city.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7200e723fd57b02f644e29298ac9c1e777c3dd49bf8052e8d37bdf7d57aa30a6.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sheshan Hill is one of Shanghai's few actual hills, topped by a notable Catholic basilica and an observatory — a genuinely different landscape and focus from the flat, dense city center.",
+            tourCard: { slug: "shanghai-sheshan-hill-private-tour-with-hotel", title: "Shanghai: Sheshan Hill Private Tour with Hotel Pickup", description: "A private tour of Sheshan Hill with hotel pickup.", price: "From $65", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7200e723fd57b02f644e29298ac9c1e777c3dd49bf8052e8d37bdf7d57aa30a6.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good half-day escape from the dense city center if you want some elevation and greenery, rather than more flat urban sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is Sheshan Hill worth visiting from Shanghai?", a: "Yes for a genuinely different landscape — one of the city's few hills, topped by a notable Catholic basilica." },
+        ],
+      };
+
     default:
       return null;
   }
