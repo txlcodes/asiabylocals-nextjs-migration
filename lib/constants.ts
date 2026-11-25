@@ -1201,6 +1201,8 @@ export const TASHKENT_INFO_SLUGS = [
   'best-chimgan-mountain-tour-tashkent',
   'is-metro-tour-worth-it-tashkent', 'is-plov-samsa-cooking-class-worth-it-tashkent',
   'is-solar-furnace-tour-worth-it-tashkent', 'is-fergana-valley-tour-worth-it-tashkent',
+  'is-old-city-walking-tour-worth-it-tashkent', 'is-tv-tower-worth-it-tashkent',
+  'is-culinary-tour-worth-it-tashkent',
 ];
 
 export const BUKHARA_INFO_SLUGS = [

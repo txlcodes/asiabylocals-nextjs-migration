@@ -706,6 +706,51 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-old-city-walking-tour-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Old City Walking Tour with Local Artisans Worth It?",
+                seoTitle: "Tashkent Old City Walking Tour 2026 | Honest Review",
+                description: "An honest look at the Old City walking tour with local artisans in Tashkent, broader than the metro-focused tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/95a9cf8c1d08048dde80d16ba8aff25c4dab7541d242dd6f027dfa34c59749c5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Where the metro tour focuses on the ornate Soviet-era stations, this one covers Tashkent's older, pre-Soviet urban fabric and working artisans — a genuinely different side of the city, better for travelers wanting craft and street-level local life rather than architecture alone.", tourCard: { slug: "tashkent-old-city-walking-tour-with-local-artisans", title: "Tashkent: Old City Walking Tour with Local Artisans", description: "A walking tour of Tashkent's Old City with visits to local artisans.", price: "From $44", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/95a9cf8c1d08048dde80d16ba8aff25c4dab7541d242dd6f027dfa34c59749c5.jpg" } },
+                    { title: "Practical Tips", content: "Pair this with the metro tour rather than choosing one or the other — they cover genuinely different sides of Tashkent (Soviet architecture vs. older urban life and craft)." },
+                ],
+                faqs: [
+                    { q: "Is the Tashkent Old City walking tour worth it?", a: "Yes, it covers the city's older urban fabric and working artisans, a genuinely different focus from the Soviet-era metro tour." },
+                ],
+            };
+
+        case "is-tv-tower-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent TV Tower Worth It?",
+                seoTitle: "Tashkent TV Tower 2026 | Honest Review",
+                description: "An honest look at the Tashkent TV Tower tour, the tallest structure in Central Asia.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dd52e2fc20ec3277e32211fd382ef13e54082cdf63b4b88f4435cdc3d41b32fd.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "At over 375 meters, the Tashkent TV Tower is the tallest structure in Central Asia, and the observation deck gives a genuine panoramic view of the city that street-level walking tours can't match — a good short stop to orient yourself early in a Tashkent visit.", tourCard: { slug: "tashkenttv-tower-tourthe-tallest-structure-in", title: "Tashkent: TV Tower Tour, the Tallest Structure in Central Asia", description: "A visit to the Tashkent TV Tower's observation deck.", price: "From $39", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dd52e2fc20ec3277e32211fd382ef13e54082cdf63b4b88f4435cdc3d41b32fd.jpg" } },
+                    { title: "Practical Tips", content: "At just 1.5 hours, this is an easy early addition to a Tashkent itinerary — good for orienting yourself before exploring the city at street level." },
+                ],
+                faqs: [
+                    { q: "Is the Tashkent TV Tower worth visiting?", a: "Yes, it's the tallest structure in Central Asia and gives a genuine panoramic view to help orient yourself in the city." },
+                ],
+            };
+
+        case "is-culinary-tour-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Culinary Tour with Food Tastings Worth It?",
+                seoTitle: "Tashkent Culinary Tour 2026 | Honest Review",
+                description: "An honest look at the Tashkent culinary tour with food tastings and a souvenir, distinct from the standard plov/samsa cooking class.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff947145983cb6c5aec7b528873017c67eb4a76e603ed8a31b1040e4df254e2c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Where the cooking class has you making a dish yourself, this is a tasting-led tour across multiple spots — better if you want to sample a wider range of Uzbek food in one outing rather than focus on preparing one dish.", tourCard: { slug: "tashkent-culinary-tour-with-food-tastings-and", title: "Tashkent: Culinary Tour with Food Tastings and Souvenir", description: "A guided food-tasting tour across Tashkent with a souvenir included.", price: "From $64", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff947145983cb6c5aec7b528873017c67eb4a76e603ed8a31b1040e4df254e2c.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry and pace yourself — the format is multiple tastings across stops rather than one large sit-down meal." },
+                ],
+                faqs: [
+                    { q: "Is the Tashkent culinary tour worth it?", a: "Yes, especially if you want to sample a wider range of Uzbek dishes in one outing rather than focus on cooking just one, as the plov/samsa class does." },
+                ],
+            };
+
         default:
             return null;
     }
