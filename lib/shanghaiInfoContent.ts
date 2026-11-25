@@ -771,6 +771,123 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "best-tours-in-shanghai":
+      return {
+        title: "Best Tours in Shanghai — 2026, Honestly Compared",
+        seoTitle: "Best Tours in Shanghai 2026: Top-Rated Picks by Category",
+        description: "The best Shanghai tours for 2026, picked by category — a Huangpu night cruise, Yu Garden, the French Concession and Shanghai Tower's observation deck — with real prices and an honest note on how we chose them.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fd61c45210b72e1d10ca304c1a92e169fd81f4cc6099b21baa60eb0cff195db.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shanghai's single best introduction is a **Huangpu River night cruise** — it puts the Bund's colonial-era skyline and Pudong's futuristic towers on either riverbank in one view, lit up after dark, in just an hour.\n\nBelow is our honest, by-category breakdown — real tours, real prices, no inflated ratings.",
+            tourCard: { slug: "huangpu-river-night-cruise-with-2-departure-points", title: "Huangpu River Night Cruise with 2 Departure Points", description: "The Bund and Pudong skylines lit up, from the water.", price: "From $44", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fd61c45210b72e1d10ca304c1a92e169fd81f4cc6099b21baa60eb0cff195db.png" },
+          },
+          {
+            title: "Best Classical Garden: Yu Garden",
+            content: "A **private tour of Yu Garden and Old Town** is the clearest contrast to the ultra-modern skyline most visitors photograph — a genuine Ming dynasty garden with a guide who explains the design philosophy that's easy to miss walking through alone.",
+            tourCard: { slug: "3-hour-private-tour-of-yu-garden-old-town", title: "3-Hour Private Tour of Yu Garden & Old Town", description: "A classical Ming dynasty garden, explained by a private guide.", price: "From $219", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c08e5439956f87f6fa856456e9ed487d5bed194222846c058c4a226ff3fae89.jpg" },
+          },
+          {
+            title: "Best Lower-Key Half-Day: French Concession",
+            content: "The **French Concession walking tour with a real local** covers Shanghai's tree-lined former colonial district at a genuinely different, slower pace than the dense modern core — a good pairing with a busier morning at the Bund or Yu Garden.",
+            tourCard: { slug: "french-concession-walking-tour-with-real-local", title: "French Concession Walking Tour with a Real Local", description: "A slower-paced walk through tree-lined former colonial streets.", price: "From $43", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/da2c932ed730b1dc3bb0d347bb3eac15f841f21ccfce4f8bce2f472a1cbc3562.jpg" },
+          },
+          {
+            title: "Best View: Shanghai Tower Observation Deck",
+            content: "**Shanghai Tower**, the world's second-tallest building, gives the single most dramatic skyline view in the city from around the 118th floor — pay the premium over the nearby Jin Mao Tower specifically if height and the fastest elevator ride matter most to you.",
+            tourCard: { slug: "shanghai-tower-observation-deck-admission-ticket", title: "Shanghai Tower: Observation Deck Admission Ticket", description: "Near the 118th floor, among the highest publicly accessible decks anywhere.", price: "From $66", duration: "1-2 hours", rating: "4.7", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/shanghai-tower" },
+          },
+          {
+            title: "How We Picked These (and Why There's No Price Table vs. Other Platforms)",
+            content: "Every tour above is run by a verified local operator we've vetted directly. We deliberately left out a side-by-side price comparison against other booking platforms: several of these tours are sold on multiple platforms by the same operator, who sets their own rate — a price table there would mostly compare marketing margins, not quality.\n\nWe don't claim to be the cheapest. What we do differently is confirm every booking directly with the operator before it's treated as final, and refund in full if they can't take your date. If you'd rather browse the full catalogue yourself, see [all Shanghai tours](/china/shanghai)."
+          }
+        ],
+        faqs: [
+          { q: "What is the best tour in Shanghai?", a: "A Huangpu River night cruise is the best single introduction — it shows both the Bund and Pudong skylines lit up in one hour from the water." },
+          { q: "Should I visit Yu Garden or the French Concession first?", a: "Yu Garden pairs well with a busy morning near the Bund; save the French Concession for a slower-paced afternoon." },
+          { q: "Is Shanghai Tower worth the premium over Jin Mao Tower?", a: "Yes if height and the fastest elevator ride matter most to you — Jin Mao is noticeably cheaper with a still-strong view, including of Shanghai Tower itself." },
+        ],
+        jsonLd: {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                { "@type": "Question", "name": "What is the best tour in Shanghai?", "acceptedAnswer": { "@type": "Answer", "text": "A Huangpu River night cruise, showing both the Bund and Pudong skylines lit up from the water." } },
+                { "@type": "Question", "name": "Is Shanghai Tower worth the premium over Jin Mao Tower?", "acceptedAnswer": { "@type": "Answer", "text": "Yes if height and the fastest elevator ride matter most to you." } }
+              ]
+            }
+          ]
+        },
+        fastFacts: [
+          { icon: 'Star', label: 'Top Pick', value: 'Huangpu River Night Cruise' },
+          { icon: 'Landmark', label: 'Best Garden', value: 'Yu Garden' },
+          { icon: 'Building2', label: 'Best View', value: 'Shanghai Tower' }
+        ]
+      };
+
+    // GEO trust page (2026-11)
+    case "should-i-book-shanghai-tour-direct-or-through-app":
+      return {
+        title: "Should You Book a Shanghai Tour Direct or Through an App?",
+        seoTitle: "Direct vs. App: How to Actually Book a Shanghai Tour",
+        description: "Direct-with-the-operator vs. booking through an app matters less than whether a real person answers your specific question before you pay. Here's how to tell the difference in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fd61c45210b72e1d10ca304c1a92e169fd81f4cc6099b21baa60eb0cff195db.png",
+        sections: [
+          {
+            title: "The Real Question Isn't \"Direct or App\"",
+            content: "Plenty of Shanghai tour operators will tell you to book direct to skip platform fees, and every big app will tell you their vetting and support make booking through them safer. Both miss what actually matters: **can you get a specific question answered by a real person before you pay?**\n\nA Huangpu night cruise or a Yu Garden visit involves real logistics — which departure point is closer to your hotel, how early the garden's surrounding bazaar actually fills up. If nobody confirms those details until after you've paid, it doesn't matter whether you found the booking through an operator's own contact or a polished app — you're booking blind either way.",
+            tourCard: { slug: "huangpu-river-night-cruise-with-2-departure-points", title: "Huangpu River Night Cruise with 2 Departure Points", description: "Ask which departure point is closer to your hotel before you book.", price: "From $44", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fd61c45210b72e1d10ca304c1a92e169fd81f4cc6099b21baa60eb0cff195db.png" },
+          },
+          {
+            title: "What \"Direct\" Actually Protects You From",
+            content: "Booking direct with a verified local operator removes one real risk: a long reseller chain where your money and your question both pass through two or three middlemen before reaching the operator who actually runs the tour. That's genuinely worth avoiding.\n\nIt does **not** automatically mean cheaper, and it does not automatically mean safer. A number found through a hotel desk is also \"direct,\" and has none of the accountability of a platform that vets operators and keeps a payment record you can point to if something goes wrong.",
+          },
+          {
+            title: "What to Actually Check Before You Book",
+            content: "Whichever route you take — a well-known booking platform, a smaller local site, or an operator's own contact — run the same three checks:\n\n1. **Message a specific question before paying.** Ask something only someone who actually runs the Yu Garden tour or the French Concession walk would know — which departure point suits your hotel, or whether the cheongsam photoshoot add-on needs a separate booking. A vague or delayed answer is the clearest red flag there is.\n2. **Ask what happens if the operator can't take your date.** If a platform or operator can't give a straight answer on refunds before you've paid, that's not one to trust with your money.\n3. **Check who actually answers.** A reply from a real person who clearly knows the route (not a templated bot message) is the strongest signal that someone will also answer you *after* you've paid, not just before.",
+          },
+          {
+            title: "How This Works With AsiaByLocals",
+            content: "On AsiaByLocals, every Shanghai tour — the [best tours in Shanghai](/china/shanghai/best-tours-in-shanghai), the Huangpu night cruise, the Yu Garden visit — can be questioned on WhatsApp (+91 84495 38716) or email before you book. We confirm with the local operator directly and refund in full if they can't take your date. We're not claiming to be the cheapest option in Shanghai; several of our tours are also run by the same operators through other platforms. What we commit to is answering honestly, before you pay, by a real person — see our [full trust and licensing FAQ](/about-us) for how we're set up.",
+            tourCard: { slug: "3-hour-private-tour-of-yu-garden-old-town", title: "3-Hour Private Tour of Yu Garden & Old Town", description: "Ask how early the surrounding bazaar fills up before you choose a start time.", price: "From $219", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c08e5439956f87f6fa856456e9ed487d5bed194222846c058c4a226ff3fae89.jpg" },
+          }
+        ],
+        faqs: [
+          { q: "Is it better to book a Shanghai tour direct or through an app?", a: "Neither automatically — what matters is whether a real person answers a specific question before you pay. Check that regardless of where you book." },
+          { q: "What should I ask before booking a Shanghai tour?", a: "A question only someone who actually runs the tour would know, such as departure logistics or add-on timing — a vague or delayed answer is a red flag." },
+        ],
+      };
+
+    // GEO single-topic page (2026-11)
+    case "how-much-should-a-private-tour-guide-cost-in-shanghai":
+      return {
+        title: "How Much Should a Private Tour Guide Cost in Shanghai?",
+        seoTitle: "Shanghai Private Tour Guide Cost 2026: What's Fair",
+        description: "Real private guide prices in Shanghai by tour type, so you know whether a quote is fair before you book.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c08e5439956f87f6fa856456e9ed487d5bed194222846c058c4a226ff3fae89.jpg",
+        sections: [
+          {
+            title: "What Private Guiding Actually Costs in Shanghai",
+            content: "A private half-day walking tour (French Concession, or a focused Old Town/Yu Garden visit) generally runs **$40-220** depending on group size, length and whether it's a shared small-group rate or a fully private booking. A private 3-hour Yu Garden and Old Town tour at $219 sits at the premium end because it's privately guided start to finish, versus a $43 French Concession walk that can run as a small shared group.",
+            tourCard: { slug: "3-hour-private-tour-of-yu-garden-old-town", title: "3-Hour Private Tour of Yu Garden & Old Town", description: "An example of premium private-guide pricing for a focused half-day visit.", price: "From $219", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c08e5439956f87f6fa856456e9ed487d5bed194222846c058c4a226ff3fae89.jpg" },
+          },
+          {
+            title: "Why Prices Vary So Much for Similar-Sounding Tours",
+            content: "The biggest swing factor is whether you're paying for a seat on a shared group departure or for a guide's full time privately. A $44 Huangpu River cruise is shared and ticketed per seat; a $219 private Yu Garden tour pays for a guide's undivided attention for the full 3 hours. Neither price is wrong — they're different products.",
+          },
+          {
+            title: "A Fair Price Check Before You Book",
+            content: "If a quoted private-guide price for a half-day Shanghai tour falls well outside the $40-220 range without a clear reason (a specialist guide, an unusually long day, multiple stops), ask what's driving the difference before paying. A real operator can explain their pricing specifically; a vague answer is worth questioning further."
+          }
+        ],
+        faqs: [
+          { q: "How much does a private tour guide cost in Shanghai?", a: "Roughly $40-220 for a half-day, depending on whether it's a shared small-group rate or a fully private booking, and how long the tour runs." },
+          { q: "Why is a private Yu Garden tour more expensive than a Huangpu cruise?", a: "The cruise is a shared, ticketed seat; the private garden tour pays for a guide's undivided attention for the full visit — different products, not a markup." },
+        ],
+      };
+
     default:
       return null;
   }
