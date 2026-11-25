@@ -126066,6 +126066,752 @@ export const IT_TOURS: Record<string, TourT> = {
    "Mance"
   ]
  },
+ "pattaya-dive-sites-full-day-tour": {
+  "title": "Pattaya: gita di un giorno in barca alle scogliere di Pattaya e Samae Sarn",
+  "metaTitle": "Pattaya: immersioni di un giorno a Pattaya e Samae Sarn",
+  "metaDescription": "Una giornata intera in mare per immergersi sulle scogliere di Pattaya o Samae Sarn, con due o tre immersioni guidate, pasticcini e bevande a bordo.",
+  "shortDescription": "Una giornata intera in mare per immergersi sulle scogliere di Pattaya o Samae Sarn, con due o tre immersioni guidate, pasticcini e bevande a bordo.",
+  "fullDescription": "Le acque al largo di Pattaya e della vicina Samae Sarn nascondono un mondo sottomarino sorprendentemente vivo di teste coralline, pesci tropicali e qualche relitto occasionale, e questa gita in barca è pensata per mostrare il meglio ai sommozzatori certificati in un solo giorno. In base alle condizioni e all'opzione scelta, la barca si dirige verso i siti dell'isola al largo di Pattaya oppure a sud, verso le acque più tranquille e trasparenti intorno a Samae Sarn, dove la visibilità è spesso migliore e le scogliere vedono molti meno visitatori.\n\nLa giornata comprende due o tre immersioni, ciascuna guidata da un dive guide certificato che conosce bene questi siti e sa indicare la fauna marina che altrimenti ti sfuggirebbe. Tra un'immersione e l'altra, la barca diventa una base galleggiante: pasticcini e caffè al mattino, bibite e acqua per restare idratati durante le pause in superficie.\n\nIl trasferimento di andata e ritorno dal tuo hotel a Pattaya è incluso, così la logistica resta semplice dalla porta al molo e ritorno. È adatto a sommozzatori certificati di ogni livello che vogliono una giornata rilassata e ben organizzata sotto la superficie, invece di un'uscita affrettata con una sola bombola, e il formato con barca piccola mantiene i gruppi contenuti.",
+  "included": [
+   "Ritiro e riaccompagno in hotel a Pattaya",
+   "Gita in barca con 2 o 3 immersioni ricreative",
+   "Guida di immersione certificata",
+   "Bombole e pesi",
+   "Colazione con pasticcini, caffè e bibite a bordo"
+  ],
+  "notIncluded": [
+   "Noleggio completo dell'attrezzatura da immersione (disponibile a pagamento)",
+   "Pranzo",
+   "Mance per l'equipaggio e la guida",
+   "Assicurazione per le immersioni"
+  ]
+ },
+ "pattaya-marina-night-market-sunset-tour": {
+  "title": "Tris al tramonto di Pattaya: collina del Big Buddha, punto panoramico sulla baia e mercato notturno della marina",
+  "metaTitle": "Pattaya al tramonto: Big Buddha, punto panoramico e mercato notturno",
+  "metaDescription": "Guarda Pattaya trasformarsi al calar della luce: il Big Buddha dorato di Wat Phra Yai, il punto panoramico sulla baia al tramonto, e le bancarelle di street food del mercato notturno della marina.",
+  "shortDescription": "Guarda Pattaya trasformarsi al calar della luce: il Big Buddha dorato di Wat Phra Yai, il punto panoramico sulla baia al tramonto, e le bancarelle di street food del mercato notturno della marina, con arrivo a Walking Street.",
+  "fullDescription": "Pattaya cambia completamente carattere quando la luce svanisce, e questo tour serale compatto è calibrato per cogliere la transizione. Comincia nel tardo pomeriggio a Wat Phra Yai, sulla collina di Pratamnak, dove si trova il Big Buddha dorato della città, alto 18 metri: un tempio in attività con ampie scalinate fiancheggiate da serpenti naga, dove la tua guida spiega il ruolo del luogo nella vita locale mentre il sole basso tinge d'ambra la statua.\n\nDal tempio è un breve salto al punto panoramico di Khao Phra Tamnak, posizionato perfettamente per il tramonto: sotto si apre l'intera mezzaluna della baia di Pattaya, e con il calare del buio le luci della città si accendono quartiere dopo quartiere. È la miglior sosta fotografica di Pattaya, e il tour è calcolato per trovarsi lì esattamente al momento giusto.\n\nL'atto finale è dedicato all'appetito. Il mercato notturno della marina di Pattaya si anima dopo il tramonto con file di bancarelle di street food, pesce grigliato, riso glutinoso al mango e piatti di noodles, e venditori di souvenir da sfogliare tra un assaggio e l'altro. Il tour si conclude ufficialmente ai margini di Walking Street, lasciandoti nella posizione ideale per immergerti nella famosa vita notturna di Pattaya oppure per tornare in hotel, sazio e satisfatto.",
+  "included": [
+   "Ritiro in hotel a Pattaya città",
+   "Guida di lingua inglese",
+   "Trasporto tra tutte le soste",
+   "Visita al tempio del Big Buddha",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Street food e bevande al mercato notturno",
+   "Souvenir e acquisti personali",
+   "Trasferimento di ritorno da Walking Street al tuo hotel",
+   "Mance"
+  ]
+ },
+ "pha-chor-nature-trail-mae-wang-national-park-guided-tour": {
+  "title": "Sentiero naturalistico di Pha Chor e Grand Canyon Water Park di Chiang Mai",
+  "metaTitle": "Pha Chor e Grand Canyon Water Park da Chiang Mai",
+  "metaDescription": "Fai trekking tra i canyon di arenaria scolpiti dal vento di Pha Chor nel parco nazionale di Mae Wang, poi rinfrescati con tuffi dalla roccia e kayak nelle acque turchesi del Grand Canyon Water Park.",
+  "shortDescription": "Fai trekking tra i canyon di arenaria scolpiti dal vento di Pha Chor nel parco nazionale di Mae Wang, poi rinfrescati con tuffi dalla roccia e kayak nelle acque turchesi del Grand Canyon Water Park.",
+  "fullDescription": "Appena a sud di Chiang Mai, il parco nazionale di Mae Wang nasconde uno dei paesaggi più strani della Thailandia settentrionale: Pha Chor, un labirinto di pilastri e gole di arenaria scolpiti nei secoli dalla pioggia e dal vento in forme che ricordano più il sud-ovest americano che la Thailandia tropicale. Passerelle e sentieri in legno si intrecciano tra le pareti erose e le rocce a nido d'ape, lasciandoti il tempo di girare il canyon con calma, scattare foto dai punti panoramici e scoprire un lato della regione che la maggior parte dei visitatori non vede mai.\n\nDa lì, il tour si dirige verso un canyon di tipo molto diverso. Il Grand Canyon Water Park di Chiang Mai era un'ex cava di pietra riempita d'acqua piovana nel corso degli anni, lasciando pareti rocciose a strapiombo intorno a una piscina di acqua turchese sorprendentemente trasparente. Quella che era una cavità industriale è oggi un rilassante punto per nuotare, con piattaforme galleggianti, kayak e punti per tuffarsi dalla roccia per chi vuole un po' di adrenalina insieme al bagno pomeridiano.\n\nLe due soste creano un bel contrasto: natura e geologia tranquilla al mattino, tuffi e bibite ghiacciate in mano nel pomeriggio. Il trasporto tra le varie fermate è garantito da un furgone con aria condizionata, e avrai tempo libero reale al parco acquatico per nuotare, rilassarti sulle rocce o semplicemente guardare chi si tuffa da un angolo ombreggiato. È una giornata facile e completa per chi vuole uscire dalla città.",
+  "included": [
+   "Guida di lingua inglese",
+   "Trasporto di andata e ritorno in furgone con aria condizionata",
+   "Biglietto d'ingresso al Chiang Mai Grand Canyon Water Park",
+   "Biglietto d'ingresso a Pha Chor, parco nazionale di Mae Wang"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel (solo punti di incontro fissi)",
+   "Pranzo e cibo",
+   "Mance",
+   "Spese personali",
+   "Noleggio di kayak o altra attrezzatura acquatica dove a pagamento separato"
+  ]
+ },
+ "phi-phi-and-4-islands-sunset-tour-plus-bioluminescent-plankton-krabi": {
+  "title": "Tour al tramonto di Phi Phi e delle 4 isole con plancton bioluminescente (Krabi)",
+  "metaTitle": "Phi Phi e 4 isole al tramonto con plancton bioluminescente",
+  "metaDescription": "Tour di un giorno intero a Krabi, con motoscafo, Maya Bay e la laguna di Pileh. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di un giorno intero a Krabi, con motoscafo, Maya Bay e la laguna di Pileh. Gestito da un operatore locale verificato.",
+  "fullDescription": "Phi Phi nel pomeriggio, le quattro isole di Krabi al tramonto, e plancton dopo il buio, tutto su un solo motoscafo.\n\nL'orario pomeridiano è il punto centrale. La maggior parte delle gite a Phi Phi parte da Krabi all'alba per battere la folla, il che funziona ma significa vedere le isole nella fascia orientaria più affollata della giornata. Questa va nella direzione opposta: arrivi a Maya Bay e alla laguna di Pileh mentre la flotta del mattino sta già tornando a casa.\n\nMaya Bay è rimasta chiusa interamente dal 2018 al 2022 per permettere alla barriera coralline di recuperare, e ha riaperto con regole severe: le barche si ancorano sul retro di Phi Phi Leh e i visitatori entrano a piedi attraversando l'isola, nuotare dentro la baia è limitato e i numeri giornalieri sono contingentati. La laguna di Pileh è un canale di acqua verde profonda racchiuso da scogliere su ogni lato. La Viking Cave, con le sue pitture rupestri, si osserva dalla barca invece di essere visitata.\n\nIl tragitto di ritorno comprende le quattro isole di Krabi con il tramonto visto dal mare, poi una cena a buffet barbecue, poi il bagno nel plancton. Il bagliore viene dai dinoflagellati che si illuminano quando l'acqua si muove, così compare intorno a mani e piedi. Le notti scure vicino alla luna nuova lo mostrano al meglio; la luna piena lo cancella del tutto.\n\nOtto ore su un motoscafo che percorre così tanta acqua sono una lunga giornata, e i motoscafi sballottano con qualsiasi moto ondoso.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel, assicurazione, un lunch box, snack, cena a buffet barbecue, frutta fresca, acqua in bottiglia e giubbotti di salvataggio.\n\nLe tasse del parco nazionale si pagano al molo salvo diversa conferma, quindi porta contanti. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Assicurazione",
+   "Lunch box",
+   "Snack",
+   "Cena a buffet barbecue",
+   "Frutta fresca",
+   "Acqua in bottiglia",
+   "Giubbotto di salvataggio",
+   "Attrezzatura per lo snorkeling"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale (adulti: 400 THB, bambini: 200 THB)",
+   "Spese personali",
+   "Sacche impermeabili",
+   "Pinne"
+  ]
+ },
+ "phi-phi-islands-private-yacht-cruise-maya-bay": {
+  "title": "Crociera privata di mezza giornata in yacht da Phuket alle isole Phi Phi e Maya Bay",
+  "metaTitle": "Crociera privata in yacht da Phuket a Phi Phi e Maya Bay",
+  "metaDescription": "Vivi la bellezza del mare delle Andamane con una crociera privata di mezza giornata in yacht di lusso da Phuket alle famose isole Phi Phi. Visita Maya Bay, Loh Sama Bay, Bamboo Island e Monkey Beach facendo snorkeling in acque cristalline.",
+  "shortDescription": "Vivi la bellezza del mare delle Andamane con una crociera privata di mezza giornata in yacht di lusso da Phuket alle famose isole Phi Phi. Visita Maya Bay, Loh Sama Bay, Bamboo Island e Monkey Beach facendo snorkeling in acque cristalline, rilassandoti su spiagge di sabbia bianca e gustando bevande e snack a bordo di uno yacht di 52 piedi.",
+  "fullDescription": "Vivi la bellezza del mare delle Andamane della Thailandia con una crociera privata di lusso di mezza giornata in yacht da Phuket alle celebri isole Phi Phi. Questo charter esclusivo ti porta in destinazioni tropicali spettacolari tra cui Maya Bay, Loh Sama Bay, Bamboo Island, la Viking Cave e Monkey Beach. Navighi a bordo di uno spazioso yacht di 52 piedi progettato per comfort, relax e avventura.\n\nDurante il viaggio avrai l'occasione di nuotare in acque turchesi cristalline, fare snorkeling tra scogliere coralline colorate e rilassarti su spiagge di sabbia bianca incontaminata circondate da scogliere calcaree spettacolari. Gli ospiti possono godersi i ponti solarium spaziosi dello yacht, le aree lounge all'ombra e le cabine con aria condizionata, ammirando panorami straordinari sulle isole tropicali di Phuket.",
+  "included": [
+   "Charter privato in yacht",
+   "Capitano professionista ed equipaggio completo",
+   "Attrezzatura per lo snorkeling",
+   "Tavola da paddle",
+   "Canoa",
+   "Jacuzzi galleggiante",
+   "Birre",
+   "Acqua potabile",
+   "Snack e frutta fresca",
+   "Giubbotti di salvataggio e attrezzatura di sicurezza"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale (400 THB a persona)",
+   "Noleggio canoa (500 THB)",
+   "Jet ski o scooter subacqueo (opzionale)",
+   "Spese personali"
+  ]
+ },
+ "phi-phi-islands-speedboat-tour-maya-bay-snorkeling": {
+  "title": "Tour premium in catamarano alle isole Phi Phi da Phuket (Maya Bay e snorkeling)",
+  "metaTitle": "Phi Phi Islands da Phuket: Maya Bay e snorkeling in catamarano",
+  "metaDescription": "Scopri le splendide isole Phi Phi in un tour premium in motoscafo da Phuket. Visita Maya Bay, nuota nelle acque turchesi della laguna di Pileh, fai snorkeling vicino a Phi Phi Don e rilassati sulla sabbia bianca di Bamboo Island.",
+  "shortDescription": "Scopri le splendide isole Phi Phi in un tour premium in motoscafo da Phuket. Visita Maya Bay, nuota nelle acque turchesi della laguna di Pileh, fai snorkeling vicino a Phi Phi Don e rilassati sulla sabbia bianca di Bamboo Island, con pranzo e trasferimenti in hotel incluisi.",
+  "fullDescription": "Scopri la bellezza straordinaria delle isole Phi Phi con un tour premium in motoscafo da Phuket. Questa esperienza di island hopping di un giorno intero ti porta in alcuni dei luoghi più famosi della Thailandia, tra cui Maya Bay, la laguna di Pileh, la Viking Cave, Monkey Beach e Bamboo Island.\n\nAttraversa le acque cristalline del mare delle Andamane a bordo di un motoscafo ed esplora scogliere calcaree spettacolari, lagune turchesi e spiagge di sabbia bianca. Fai snorkeling tra scogliere coralline colorate vicino all'isola di Phi Phi Don e goditi un pranzo rilassante con una vista sul mare spettacolare.\n\nQuesto tour alle isole Phi Phi da Phuket include i trasferimenti in hotel, l'attrezzatura per lo snorkeling, le tasse del parco nazionale e una guida professionista, il che lo rende uno dei modi migliori per vivere in un solo giorno le isole tropicali più iconiche della Thailandia.\n\nPerfetto per chi cerca avventura, natura e panorami indimenticabili, questo tour combina island hopping, snorkeling, incontri con la fauna selvatica e relax in spiaggia nel cuore del mare delle Andamane.",
+  "included": [
+   "Guida di lingua inglese",
+   "Ritiro e riaccompagno in hotel da Phuket",
+   "Trasferimento in motoscafo",
+   "Tasse d'ingresso al parco nazionale",
+   "Attrezzatura per lo snorkeling (maschera e boccaglio)",
+   "Giubbotti di salvataggio",
+   "Pranzo sull'isola di Phi Phi Don",
+   "Frutta fresca e bibite a bordo",
+   "Assicurazione infortuni"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Bevande alcoliche",
+   "Mance per guida ed equipaggio",
+   "Costi extra di trasferimento per zone remote"
+  ]
+ },
+ "phi-phi-khai-islands-speedboat-tour-with-lunch": {
+  "title": "Tour in motoscafo alle isole Phi Phi e Khai da Phuket con pranzo",
+  "metaTitle": "Phi Phi e isole Khai in motoscafo da Phuket con pranzo",
+  "metaDescription": "Scopri la splendida bellezza delle isole Phi Phi con un tour di un giorno intero in motoscafo da Phuket. Visita la famosa Maya Bay, nuota nelle acque turchesi della laguna di Pileh, vedi la Viking Cave e Monkey Beach, fai snorkeling all'isola di Khai e pranza sull'isola di Phi Phi Don.",
+  "shortDescription": "Scopri la splendida bellezza delle isole Phi Phi con un tour di un giorno intero in motoscafo da Phuket. Visita la famosa Maya Bay, nuota nelle acque turchesi della laguna di Pileh, vedi la Viking Cave e Monkey Beach, fai snorkeling all'isola di Khai e pranza sull'isola di Phi Phi Don.",
+  "fullDescription": "Scopri la bellezza sorprendente delle isole Phi Phi con un tour di un giorno intero in motoscafo da Phuket. Questa avventura di island hopping ti porta attraverso alcuni dei paesaggi più spettacolari della Thailandia, incluse lagune cristalline, scogliere calcaree e spiagge di sabbia bianca nel mare delle Andamane.\n\nIl viaggio inizia con il ritiro in hotel a Phuket e il trasferimento al molo di partenza. Dopo un breve briefing e un rinfresco, salirai a bordo di un motoscafo diretto verso le celebri isole Phi Phi. Durante la traversata panoramica, goditi vedute incantevoli delle acque turchesi e delle formazioni calcaree spettacolari che rendono questa regione una delle destinazioni più iconiche della Thailandia.",
+  "included": [
+   "Guida professionista di lingua inglese",
+   "Ritiro e riaccompagno in hotel da Phuket",
+   "Trasporto in motoscafo",
+   "Pranzo sull'isola di Phi Phi Don",
+   "Tasse d'ingresso al parco nazionale",
+   "Attrezzatura per lo snorkeling (maschera e boccaglio)",
+   "Giubbotti di salvataggio",
+   "Frutta fresca e bibite a bordo"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Bevande alcoliche",
+   "Attività acquatiche opzionali all'isola di Khai",
+   "Mance per guida ed equipaggio",
+   "Costi extra di trasferimento per zone di hotel remote (se applicabile)"
+  ]
+ },
+ "phi-phi-small-group-tour-and-early-maya-bay-with-lunch": {
+  "title": "Tour in piccolo gruppo a Phi Phi con accesso anticipato a Maya Bay e pranzo",
+  "metaTitle": "Phi Phi in piccolo gruppo con Maya Bay anticipata e pranzo",
+  "metaDescription": "Tour a Krabi, con punto d'incontro al mattino e riaccompagno per tutti gli hotel, e guida turistica. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour a Krabi, con punto d'incontro al mattino e riaccompagno per tutti gli hotel, e guida turistica. Gestito da un operatore locale verificato.",
+  "fullDescription": "Phi Phi in un piccolo gruppo con uno slot anticipato a Maya Bay e la tassa del parco nazionale già inclusa nel prezzo.\n\nMaya Bay è rimasta chiusa completamente dal 2018 al 2022 per permettere alla barriera coralline di recuperare. Ha riaperto con regole severe che la maggior parte delle offerte non spiega: le barche si ancorano sul retro di Phi Phi Leh e i visitatori entrano a piedi attraversando l'isola, nuotare dentro la baia è limitato e i numeri giornalieri sono contingentati. Uno slot anticipato significa entrare a piedi prima che si formi la coda invece che dopo, il che su un sito contingentato fa tutta la differenza.\n\nIl formato in piccolo gruppo conta particolarmente su questo percorso. Le grandi barche per Phi Phi portano quaranta persone o più, e il collo di bottiglia non è la navigazione ma gli spostamenti: fare la coda per sbarcare, fare la coda per risalire, fare snorkeling in mezzo alla folla. Un gruppo più piccolo libera ogni sosta più in fretta e passa il tempo risparmiato in acqua.\n\nLa tassa del parco nazionale di 400 THB è inclusa invece di essere raccolta al molo. La maggior parte dei preventivi per Phi Phi da Krabi sembra più economica e poi te la toglie prima che tu salga a bordo, quindi confronta il totale invece del numero in evidenza.\n\nÈ incluso un pranzo a buffet thailandese, e il punto d'incontro e il riaccompagno coprono tutti gli hotel di Ao Nang.\n\nSette ore e mezza con partenza anticipata. Le gite a Phi Phi sono traversate in mare aperto e un motoscafo sballotta con qualsiasi moto ondoso; chi è soggetto al mal di mare dovrebbe prendere qualcosa prima di salire a bordo, non dopo.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva.\n\nPreavviso minimo di un giorno.",
+  "included": [
+   "Punto d'incontro al mattino e riaccompagno per tutti gli hotel ad Ao Nang",
+   "Guida turistica",
+   "Tassa d'ingresso al parco nazionale (400 THB a persona)",
+   "Pranzo a buffet thailandese in spiaggia (segnala eventuali restrizioni alimentari)",
+   "Frutta fresca, bibite e acqua minerale",
+   "Caffè",
+   "Attrezzatura per lo snorkeling",
+   "Guida per il riconoscimento dei pesci",
+   "Giubbotto di salvataggio",
+   "Guida illustrata a bordo",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Asciugamano",
+   "Crema solare"
+  ]
+ },
+ "phra-nang-cave-beach-afternoon-tour": {
+  "title": "Gita in barca pomeridiana alle quattro isole con pranzo a buffet",
+  "metaTitle": "Quattro isole al pomeriggio con pranzo a buffet",
+  "metaDescription": "Parti dopo che la flotta del mattino è tornata a casa e vedi le quattro isole di Krabi nel loro momento più tranquillo, con snorkeling, pranzo a buffet e la luce più morbida del pomeriggio.",
+  "shortDescription": "Parti dopo che la flotta del mattino è tornata a casa e vedi le quattro isole di Krabi nel loro momento più tranquillo, con snorkeling, pranzo a buffet e la luce più morbida del pomeriggio.",
+  "fullDescription": "Il circuito delle quattro isole su un longtail, con partenza dopo pranzo così arrivi mentre tutti gli altri se ne vanno.\n\nLe barche del mattino partono tutte da Ao Nang nella stessa ora e raggiungono le stesse spiagge insieme. La partenza pomeridiana inverte la situazione. Quando arrivi alle soste successive la flotta ancorata se ne è già andata, e Poda e Phra Nang sono nel loro momento più tranquillo della giornata.\n\nIl banco di sabbia di Thale Waek è calibrato per giocare a tuo favore. Il Mare Separato è una striscia di sabbia che collega le isole di Tup, Mor e Chicken ed emerge quando la marea scende per poi scomparire quando risale, quindi una gita pomeridiana con marea calante cammina su sabbia che al passaggio delle barche del mattino era ancora sott'acqua.\n\nChicken Island ha lo snorkeling: corallo poco profondo proprio al largo della spiaggia, vicino abbastanza da non richiedere di essere un nuotatore esperto per vederlo. Phra Nang Cave Beach si trova sotto una scogliera a sbalzo sulla penisola di Railay, con il santuario a un'estremità, dove i pescatori lasciano offerte votive di legno intagliato a uno spirito che credono li protegga in mare. Il santuario è ancora in uso, quindi è bene essere discreti con le fotografie.\n\nIl longtail è più lento e rumoroso di un motoscafo e raggiunge acque poco profonde dalle quali un motoscafo deve ancorarsi lontano, il che su questo percorso è il compromesso giusto.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende trasferimenti di andata e ritorno in hotel, il longtail con guida, pranzo a buffet, maschera e pinne per lo snorkeling, acqua potabile e bibite, frutta fresca, giubbotti di salvataggio e assicurazione.\n\nSei ore. Le tasse del parco nazionale si pagano al molo salvo diversa conferma, quindi porta contanti. Preavviso minimo di un giorno.",
+  "included": [
+   "Trasferimenti di andata e ritorno in hotel",
+   "Longtail con guida",
+   "Pranzo a buffet",
+   "Maschera e pinne per lo snorkeling",
+   "Acqua potabile e bibite",
+   "Frutta fresca",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Asciugamani",
+   "Bevande alcoliche",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "phra-nang-cave-beach-boat-tour": {
+  "title": "Quattro isole in barca: soste per lo snorkeling e tempo in spiaggia",
+  "metaTitle": "Quattro isole di Krabi in barca con snorkeling e spiaggia",
+  "metaDescription": "Veleggia verso Poda, Tup, Chicken e Phra Nang in una gita condivisa in barca a Krabi, con soste per lo snorkeling, pranzo sull'isola e tanto tempo in spiaggia senza fretta.",
+  "shortDescription": "Veleggia verso Poda, Tup, Chicken e Phra Nang in una gita condivisa in barca a Krabi, con soste per lo snorkeling, pranzo sull'isola e tanto tempo in spiaggia senza fretta.",
+  "fullDescription": "Otto ore intere attraverso le quattro isole, la versione senza fretta di un percorso che la maggior parte delle barche affretta.\n\nLa gita standard alle isole di Krabi dura cinque o sei ore e mantiene tutti in movimento. A otto ore, le soste diventano abbastanza lunghe per nuotare davvero, asciugarsi e sedersi. Se il motivo per cui sei venuto a Krabi è l'acqua e non una lista di cose da spuntare, le due ore in più fanno la differenza.\n\nLo snorkeling si fa sui bassi fondali al largo di Chicken Island, dove il corallo si trova vicino abbastanza alla spiaggia che anche nuotatori poco esperti possono vederlo senza allontanarsi troppo. Il banco di sabbia di marea tra Tup e Mor emerge quando l'acqua scende e collega le due isole in una striscia percorribile, poi scompare di nuovo, quindi l'orario segue la tabella delle maree.\n\nPhra Nang è la sosta che la gente ricorda. La spiaggia si trova sotto una scogliera calcarea a sbalzo sulla penisola di Railay, con il santuario nella grotta a un'estremità, dove i pescatori lasciano offerte votive di legno intagliato a uno spirito che credono li protegga in mare. Il santuario è ancora in uso attivo e non una semplice esposizione, cosa da sapere prima di puntare una fotocamera.\n\nIl pranzo è servito in spiaggia invece che sulla barca.\n\nI trasferimenti sono con aria condizionata, cosa che sembra un dettaglio minore finché non hai fatto la strada costiera di Krabi su un songthaew aperto ad aprile.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende trasferimenti in hotel con aria condizionata, la barca con guida di lingua inglese, maschera e pinne per lo snorkeling, pranzo, acqua potabile, frutta fresca e giubbotti di salvataggio.\n\nLe tasse del parco nazionale si pagano al molo salvo diversa conferma. Preavviso minimo di un giorno.",
+  "included": [
+   "Trasferimenti in hotel con aria condizionata",
+   "Gita in barca con guida di lingua inglese",
+   "Maschera e pinne per lo snorkeling",
+   "Pranzo e acqua potabile",
+   "Frutta fresca",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa d'ingresso al parco nazionale",
+   "Asciugamani",
+   "Bevande alcoliche",
+   "Mance",
+   "Upgrade spa"
+  ]
+ },
+ "phuket-jet-ski-tour-island-hopping-patong-beach": {
+  "title": "Tour in jet ski a Phuket: island hopping e noleggio a Patong Beach",
+  "metaTitle": "Jet ski a Phuket: island hopping e noleggio a Patong Beach",
+  "metaDescription": "Vivi l'emozione di un'avventura in jet ski lungo la splendida costa di Phuket. Scegli tra un tour guidato di 3 ore con isole lungo il percorso e Promthep Cape, oppure noleggia un jet ski per un'avventura in autonomia a Patong Beach.",
+  "shortDescription": "Vivi l'emozione di un'avventura in jet ski lungo la splendida costa di Phuket. Scegli tra un tour guidato di 3 ore con isole lungo il percorso e Promthep Cape, oppure noleggia un jet ski per un'avventura in autonomia a Patong Beach.",
+  "fullDescription": "Preparati per un'indimenticabile avventura in jet ski lungo la costa spettacolare di Phuket. Che tu cerchi un'esperienza guidata di island hopping o una corsa veloce in autonomia, l'operatore locale ha quello che ti serve.\n\nTour di island hopping (3 ore)\nIl nostro tour guidato di punta ti porta in un viaggio epico di 3 ore lungo le spiagge più belle della costa ovest di Phuket. Partendo da Patong Beach, la tua guida esperta ti conduce attraverso le acque cristalline delle Andamane, oltre Paradise Beach, la nascosta Freedom Beach, le ampie Karon e Kata beach, intorno al drammatico promontorio di Laem Krating, fino all'iconico Promthep Cape, la punta più a sud di Phuket, famosa per le sue vedute spettacolari.\n\nA Promthep Cape ti fermi per una nuotata rinfrescante nelle acque turchesi. Acqua potabile gratuita viene fornita durante tutto il tragitto, e la guida resta con te per tutto il viaggio garantendo la sicurezza e segnalando i punti migliori.\n\nNoleggio jet ski (in autonomia)\nPreferisci andare al tuo ritmo? Noleggia un potente Yamaha WaveRunner direttamente a Patong Beach e goditi la libertà del mare aperto. Nessuna guida necessaria: solo tu, il jet ski e il bellissimo mare delle Andamane. Disponibile per chi guida da solo o in coppia, con sessioni da 30 e 60 minuti, tutti i giorni dalle 9:00 AM alle 6:00 PM.\n\nTutti i jet ski sono Yamaha WaveRunner ben mantenuti, e i giubbotti di salvataggio sono forniti per ogni partecipante. Nessuna esperienza precedente necessaria: il nostro team ti darà un breve briefing sulla sicurezza prima di scendere in acqua.",
+  "included": [
+   "Giubbotto di salvataggio",
+   "Briefing sulla sicurezza",
+   "Jet ski (Yamaha WaveRunner). L'opzione island hopping include anche: guida professionista, acqua potabile, sosta per nuotare a Promthep Cape"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Crema solare",
+   "Asciugamano",
+   "Assicurazione personale"
+  ]
+ },
+ "phuket-old-town-full-day-tour": {
+  "title": "Tour di un giorno intero a Phuket con Big Buddha, Wat Chalong e Old Town",
+  "metaTitle": "Phuket: tour di un giorno con Big Buddha, Wat Chalong e Old Town",
+  "metaDescription": "Esplora i luoghi principali di Phuket in un tour guidato di un giorno intero con ritiro in hotel. Visita il Big Buddha, Wat Chalong, il punto panoramico di Karon e la colorata Old Town sino-portoghese con una guida locale di lingua inglese.",
+  "shortDescription": "Esplora i luoghi principali di Phuket in un tour guidato di un giorno intero con ritiro in hotel. Visita il Big Buddha, Wat Chalong, il punto panoramico di Karon e la colorata Old Town sino-portoghese con una guida locale di lingua inglese.",
+  "fullDescription": "Scopri il cuore culturale di Phuket in questo completo tour di un giorno intero con comodo ritiro e riaccompagno in hotel.\n\nLa tua giornata inizia con un tragitto panoramico oltre le famose spiagge di Patong, Karon e Kata. Sosta al punto panoramico di Karon per foto panoramiche su tre splendide baie che si estendono lungo la costa delle Andamane.\n\nSi continua verso la maestosa statua del Big Buddha, in cima al monte Nakerd, uno dei simboli più iconici di Phuket. Alto 45 metri, il Buddha in marmo bianco offre vedute panoramiche a 360 gradi sull'isola. Si visita poi Wat Chalong, il tempio buddista più importante e venerato di Phuket, nella baia di Chalong.\n\nDopo aver esplorato i templi, sosta in una fabbrica locale di anacardi per assaggiare e acquistare i famosi prodotti a base di anacardi di Phuket. Si prosegue poi tra le pittoresche vie della Old Town di Phuket, dove le colorate case-negozio sino-portoghesi fiancheggiano le strade, perfette per foto, un caffè locale e per immergersi nel patrimonio architettonico unico dell'isola.\n\nLa tua guida racconta storie sulla storia dell'estrazione mineraria di Phuket, sulla cultura degli immigrati cinesi e sulle tradizioni che hanno modellato questa vivace isola durante tutto il tour.",
+  "included": [
+   "Ritiro e riaccompagno in hotel a Phuket",
+   "Guida di lingua inglese",
+   "Biglietti d'ingresso",
+   "Furgone confortevole con aria condizionata"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Spese personali",
+   "Mance (opzionali)"
+  ]
+ },
+ "phuket-private-yacht-catamaran-charter-island-hopping": {
+  "title": "Charter privato in yacht e catamarano a Phuket: island hopping, 7 barche disponibili",
+  "metaTitle": "Phuket: charter privato in yacht e catamarano, 7 barche",
+  "metaDescription": "Scegli tra 7 yacht e catamarani privati per la migliore esperienza di island hopping a Phuket. Da intime crociere di coppia a charter di lusso in catamarano da 70 piedi per fino a 20 ospiti.",
+  "shortDescription": "Scegli tra 7 yacht e catamarani privati per la migliore esperienza di island hopping a Phuket. Da intime crociere di coppia a charter di lusso in catamarano da 70 piedi per fino a 20 ospiti.",
+  "fullDescription": "Vivi il meglio di Phuket dall'acqua con la nostra esclusiva flotta di 7 yacht e catamarani privati. Che tu sia una coppia in cerca di una fuga romantica o un gruppo che festeggia un'occasione speciale, abbiamo l'imbarcazione perfetta per te.\n\nOgni charter comprende un equipaggio professionale, pranzo thailandese preparato a bordo, rinfreschi, attrezzatura per lo snorkeling, kayak e tavole da paddle. Esplora destinazioni spettacolari come la baia di Phang Nga, l'isola di James Bond, le isole Khai e spiagge nascoste accessibili solo in barca.\n\nLa nostra flotta va dall'intimo yacht Chilli, perfetto per le coppie e fino a 8 ospiti, al magnifico catamarano di lusso Gani da 70 piedi, con jacuzzi, scivolo d'acqua e spazio per 20 ospiti. Ogni barca è completamente equipaggiata con giochi d'acqua e attività.\n\nTutti i charter comprendono il trasferimento di andata e ritorno dal tuo hotel alla marina. Scegli semplicemente lo yacht preferito, la data, e lascia il resto a noi.",
+  "included": [
+   "Yacht o catamarano privato con capitano ed equipaggio completo",
+   "Trasferimento di andata e ritorno in hotel (varia in base alla barca)",
+   "Pranzo thailandese",
+   "Bibite e acqua",
+   "Attrezzatura per lo snorkeling",
+   "Asciugamani",
+   "Assicurazione",
+   "Drink di benvenuto e frutta fresca",
+   "Servizi aggiuntivi variano in base alla barca (vedi ogni opzione)"
+  ],
+  "notIncluded": [
+   "Tasse d'ingresso al parco nazionale (400-600 THB a persona)",
+   "Mance per l'equipaggio",
+   "Sovrattassa carburante potrebbe applicarsi per alcune destinazioni (Phi Phi/Racha/Krabi)",
+   "Alcolici e cocktail",
+   "SNUBA diving (disponibile su richiesta per alcune barche)"
+  ]
+ },
+ "phuket-scuba-diving-beginners-full-day-racha-yai-island": {
+  "title": "Immersioni subacquee per principianti a Phuket: gita di un giorno intero all'isola di Racha Yai",
+  "metaTitle": "Phuket: immersioni per principianti a Racha Yai, un giorno intero",
+  "metaDescription": "Scopri l'emozione delle immersioni subacquee a Phuket con questa esperienza di un giorno intero per principianti all'isola di Racha Yai. Perfetta per chi si immerge per la prima volta, include due immersioni guidate in acque aperte, istruttori professionisti e attrezzatura completa.",
+  "shortDescription": "Scopri l'emozione delle immersioni subacquee a Phuket con questa esperienza di un giorno intero per principianti all'isola di Racha Yai. Perfetta per chi si immerge per la prima volta, include due immersioni guidate in acque aperte, istruttori professionisti, attrezzatura completa, trasferimenti in barca, pasti e ritiro in hotel.",
+  "fullDescription": "Vivi una delle migliori gite di immersione per principianti a Phuket con questa avventura di un giorno intero all'isola di Racha Yai. Questa esperienza è pensata per chi si immerge per la prima volta e per i viaggiatori che vogliono esplorare il mondo sottomarino della Thailandia senza bisogno di un brevetto da sommozzatore.\n\nLa tua giornata inizia con un comodo ritiro in hotel dalle principali zone di Phuket, tra cui Kamala, Patong, Karon, Kata, Rawai e Chalong. Dopo l'arrivo al molo di Chalong, sali a bordo di una barca da immersione diretta verso le bellissime acque che circondano l'isola di Racha Yai, nel mare delle Andamane.\n\nDurante il viaggio, istruttori di immersione professionisti ti forniranno un briefing sulla sicurezza e una formazione di base sulle immersioni subacquee. Praticherai le abilità essenziali sulla barca e in superficie prima di scendere in acqua per la tua prima immersione in acque aperte.",
+  "included": [
+   "Attrezzatura completa da immersione (muta, giubbotto equilibratore, maschera, erogatore, pinne)",
+   "Istruttore certificato professionista",
+   "Due immersioni in acque aperte (45-50 minuti ciascuna)",
+   "Gita in barca ai siti di immersione dell'isola di Racha Yai",
+   "Colazione a bordo",
+   "Pranzo a bordo",
+   "Snack e rinfreschi",
+   "Acqua potabile, tè e caffè",
+   "Ritiro e riaccompagno in hotel da Kamala, Patong, Karon, Kata, Rawai e Chalong",
+   "Assicurazione per le immersioni"
+  ],
+  "notIncluded": [
+   "Foto ricordo (1000-1500 THB)",
+   "Bevande alcoliche",
+   "Ritiro in hotel fuori dalle zone di Kamala, Patong, Karon, Kata, Rawai e Chalong",
+   "Spese personali"
+  ]
+ },
+ "poda-island-sunrise-tour": {
+  "title": "Motoscafo all'alba verso Phi Phi con colazione all'isola di Poda",
+  "metaTitle": "Phi Phi all'alba con colazione all'isola di Poda",
+  "metaDescription": "Parti prima dell'alba, fai colazione su una spiaggia vuota all'isola di Poda, poi raggiungi Maya Bay e la laguna di Pileh ore prima della folla principale di Phi Phi.",
+  "shortDescription": "Parti prima dell'alba, fai colazione su una spiaggia vuota all'isola di Poda, poi raggiungi Maya Bay e la laguna di Pileh ore prima della folla principale di Phi Phi.",
+  "fullDescription": "Una partenza prima dell'alba che ti regala le due cose che a ogni gita giornaliera a Phi Phi mancano: una Maya Bay vuota e una spiaggia vuota su cui fare colazione.\n\nIl motoscafo parte prima della prima luce e raggiunge l'isola di Poda mentre la flotta turistica si sta ancora caricando ad Ao Nang. La colazione è un picnic sulla sabbia con l'isola praticamente tutta per voi, l'opposto di come appare Poda alle undici del mattino quando una dozzina di barche sono ancorate al largo.\n\nMaya Bay viene dopo, e il tempismo è tutto. La baia è stata chiusa completamente dal 2018 al 2022 per permettere alla barriera coralline di recuperare e ha riaperto con regole severe: le barche si ancorano sul retro di Phi Phi Leh e i visitatori entrano a piedi attraversando l'isola, nuotare dentro la baia è limitato e i numeri giornalieri sono contingentati. Arrivare primi significa entrare a piedi prima che si formi la coda invece che dopo.\n\nSegue la laguna di Pileh, un canale di acqua verde profonda racchiuso da scogliere su tutti i lati, e le soste per lo snorkeling intorno a Phi Phi vengono scelte in base alle condizioni. Il pranzo è sulla barca o in spiaggia, secondo la giornata.\n\nUndici ore incluso il ritiro anticipato rendono questa una giornata lunga, e la partenza anticipata non è negoziabile, poiché essere davanti alla flotta è l'intero valore della gita.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno anticipati in hotel, il motoscafo con equipaggio, una guida di lingua inglese, colazione a picnic in spiaggia, pranzo, attrezzatura per lo snorkeling, acqua potabile, frutta e giubbotti di salvataggio.\n\nLe tasse del parco nazionale si pagano al molo salvo diversa conferma, quindi porta contanti. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno anticipati in hotel",
+   "Motoscafo con equipaggio",
+   "Guida di lingua inglese",
+   "Colazione a picnic in spiaggia",
+   "Pranzo",
+   "Attrezzatura per lo snorkeling",
+   "Acqua potabile e frutta",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tasse d'ingresso al parco nazionale",
+   "Asciugamani",
+   "Bevande alcoliche",
+   "Mance",
+   "Noleggio fotocamera subacquea"
+  ]
+ },
+ "pon-elephant-sanctuary-half-day-tour": {
+  "title": "Chiang Mai: tour di mezza giornata al programma di alimentazione del santuario degli elefanti",
+  "metaTitle": "Chiang Mai: santuario degli elefanti, mezza giornata",
+  "metaDescription": "Incontra elefanti salvati in un parco di riabilitazione a sud di Chiang Mai: nutrili, lavali e imparare da questi giganti gentili, senza alcuna attività di equitazione.",
+  "shortDescription": "Incontra elefanti salvati in un parco di riabilitazione a sud di Chiang Mai: nutrili, lavali e imparare da questi giganti gentili, senza alcuna attività di equitazione.",
+  "fullDescription": "Nascosto tra le colline a sud di Chiang Mai, il santuario degli elefanti Pon offre una rara occasione di passare del tempo vero con elefanti salvati e riabilitati, in un ambiente costruito intorno al loro benessere, non all'intrattenimento. Questo programma di mezza giornata è pensato per essere davvero concreto: prepari e dai da mangiare a mano cesti di banane e canna da zucchero, cammini al fianco del branco nella proprietà, e conosci la personalità e la storia di ogni elefante dai custodi che li conoscono meglio di chiunque.\n\nUn momento saliente della visita è unirsi agli elefanti nella loro pozza di fango e nell'area dei bagni, dove aiuti a spruzzarli e a strofinarli in una piscina poco profonda mentre loro si godono chiaramente l'attenzione. Le guide condividono informazioni sulla biologia degli elefanti, sul comportamento sociale e sulla realtà della popolazione di elefanti in cattività della Thailandia, aggiungendo uno strato educativo al divertimento.\n\nNon è mai prevista alcuna equitazione. Il santuario Pon opera secondo principi etici senza equitazione, concentrando l'attenzione sull'osservazione, la cura e l'interazione rispettosa. I gruppi sono tenuti piccoli, quindi c'è ampio spazio per fare domande e stare vicino senza sentirsi di fretta.\n\nChe tu arrivi al punto d'incontro da solo, che ti unisca a una guida in città a Chiang Mai, o che venga ritirato dal tuo hotel, l'esperienza al santuario resta la stessa: tranquilla, personale, e centrata sul benessere degli elefanti piuttosto che su uno spettacolo.",
+  "included": [
+   "Guida di lingua inglese",
+   "Alimentazione degli elefanti (banane e canna da zucchero)",
+   "Biglietto d'ingresso al santuario",
+   "Acqua potabile",
+   "Uso degli abiti del santuario per le attività di balneazione"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali",
+   "Equitazione degli elefanti (non offerta, è un santuario etico senza equitazione)",
+   "Bevande alcoliche",
+   "Ritiro in hotel (incluso solo nell'opzione con trasferimento in hotel)"
+  ]
+ },
+ "premium-4-island-day-trip-by-longtail-boat-with-lunch-in-krabi": {
+  "title": "Gita premium di un giorno alle 4 isole in longtail con pranzo a Krabi",
+  "metaTitle": "Krabi: 4 isole premium in longtail con pranzo",
+  "metaDescription": "Tour di mezza giornata a Krabi, con ritiro e riaccompagno in hotel e guida professionale. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con ritiro e riaccompagno in hotel e guida professionale. Gestito da un operatore locale verificato.",
+  "fullDescription": "Le quattro isole su un longtail, al ritmo che permette a ogni sosta di essere una sosta e non solo una fotografia.\n\nIl longtail è la barca giusta per questo percorso e non un compromesso. Il suo pescaggio ridotto e l'elica a lungo albero entrano in acque dalle quali i motoscafi devono ancorarsi ben lontano, quindi vieni lasciato più vicino alla spiaggia e più vicino alla barriera coralline. Alla sua velocità, la costa tra le isole fa parte della giornata invece di essere qualcosa che si attraversa a trenta nodi.\n\nIl circuito comprende Poda, Chicken Island, Tup e Mor. Thale Waek, il Mare Separato, è il banco di sabbia che emerge quando la marea scende e unisce le isole in una striscia percorribile a piedi. È la fotografia con cui tutti tornano a casa, e se c'è o no dipende dalla marea del giorno, quindi l'orario segue la tabella delle maree.\n\nChicken Island ha lo snorkeling: corallo poco profondo proprio al largo della sabbia, vicino abbastanza da non richiedere di essere un nuotatore sicuro di sé.\n\nIl pranzo thailandese viene servito durante la gita, con frutta di stagione e acqua potabile per tutta la giornata.\n\nSei ore con ritiro e riaccompagno in hotel a entrambe le estremità sono la giornata standard alle isole di Krabi fatta bene: abbastanza lunga per nuotare a ogni sosta, abbastanza corta per lasciare libera la serata.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel, una guida professionale, la gita in longtail, pranzo thailandese, frutta di stagione e acqua potabile.\n\nLe tasse del parco nazionale si pagano al molo salvo diversa conferma, quindi porta contanti. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Guida professionale",
+   "Gita in longtail",
+   "Frutta di stagione",
+   "Acqua potabile",
+   "Pranzo thailandese",
+   "Attrezzatura per lo snorkeling"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale (200 baht thailandesi a persona)"
+  ]
+ },
+ "private-surf-lesson-kata-beach-phuket": {
+  "title": "Lezione privata di surf a Kata Beach, Phuket",
+  "metaTitle": "Phuket: lezione privata di surf a Kata Beach",
+  "metaDescription": "Imparare a fare surf a Phuket con una lezione privata a Kata Beach, uno dei punti più famosi della Thailandia per i principianti. Coaching professionale, tecniche praticate in spiaggia e onde vere con la guida di un istruttore certificato.",
+  "shortDescription": "Imparare a fare surf a Phuket con una lezione privata a Kata Beach, uno dei punti più famosi della Thailandia per i principianti. Coaching professionale, tecniche praticate in spiaggia e onde vere con la guida di un istruttore certificato. Tavola, rash guard, foto e video inclusi.",
+  "fullDescription": "Vivi l'emozione del surf a Phuket con una lezione privata a Kata Beach, una delle destinazioni di surf più famose della Thailandia. Nota per le onde dolci e la spiaggia sabbiosa, Kata Beach è il posto perfetto per i principianti che vogliono imparare a fare surf in un ambiente sicuro e divertente.\n\nLa tua esperienza di surf inizia con un breve briefing in spiaggia, dove l'istruttore spiegherà le basi del surf, inclusa la posizione corretta sulla tavola, come remare correttamente e come alzarsi in sicurezza quando si prende un'onda. L'istruttore ti aiuterà anche a scegliere la tavola della dimensione giusta in base al tuo livello di esperienza, altezza e peso.\n\nDopo aver imparato le basi in spiaggia, entrerai in acqua con il tuo istruttore per un coaching pratico. L'istruttore ti guiderà verso le onde migliori, ti darà consigli per l'equilibrio sulla tavola e ti aiuterà a prendere le tue prime onde. Molti principianti riescono a stare in piedi sulla tavola già durante la loro prima lezione di surf.",
+  "included": [
+   "Istruttore di surf professionista",
+   "Lezione privata di surf a Kata Beach",
+   "Tavola da surf",
+   "Rash guard",
+   "Foto della sessione di surf",
+   "Video della lezione di surf"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasporto a Kata Beach",
+   "Cibo e bevande",
+   "Spese personali"
+  ]
+ },
+ "railay-bay-and-4-islands-tour-with-buffet-lunch": {
+  "title": "Tour della baia di Railay e delle 4 isole con pranzo a buffet",
+  "metaTitle": "Railay Bay e 4 isole con pranzo a buffet",
+  "metaDescription": "Tour a Krabi, con ritiro ad Ao Nam Mao e ritiro ad Ao Nang. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour a Krabi, con ritiro ad Ao Nam Mao e ritiro ad Ao Nang. Gestito da un operatore locale verificato.",
+  "fullDescription": "Il percorso delle quattro isole più Railay, in cinque ore e mezza invece di una giornata intera.\n\nRailay è l'aggiunta che rende questa gita diversa dal circuito standard. La penisola non ha alcun accesso stradale, tagliata fuori da promontori calcarei, quindi ogni visitatore arriva in barca. Phra Nang Cave Beach, alla sua estremità meridionale, è il motivo per andarci: un tratto di sabbia sotto una scogliera a sbalzo con il santuario nella grotta a un'estremità, dove i pescatori lasciano offerte votive di legno intagliato a uno spirito che credono li protegga in mare. Le offerte sono inconfondibili e il santuario è ancora usato attivamente, quindi vale la pena essere discreti con le fotografie.\n\nLe soste alle isole comprendono Poda, Tup e l'area del banco di sabbia di Thale Waek. Thale Waek, il Mare Separato, è una striscia di sabbia che collega le isole con la bassa marea e scompare del tutto con l'alta marea, motivo per cui l'orario di partenza segue la tabella delle maree invece di un orario fisso.\n\nIl pranzo è un mini buffet thailandese servito a Poda.\n\nCon cinque ore e mezza, questa gita si colloca tra le brevi uscite al tramonto e i circuiti di un giorno intero. È adatta a chi vuole vedere i luoghi principali senza passare tutta la giornata in barca, e alle famiglie per cui otto ore sarebbero troppe.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il ritiro ad Ao Nang o Ao Nam Mao, la gita in barca, Phra Nang Cave Beach a Railay, l'isola di Poda con il pranzo a buffet, e le altre soste alle isole.\n\nLe tasse del parco nazionale si pagano al molo salvo diversa conferma, quindi porta contanti. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro ad Ao Nam Mao",
+   "Ritiro ad Ao Nang",
+   "Gita in barca",
+   "Visita a Phra Nang Cave Beach a Railay",
+   "Visita all'isola di Poda con un mini buffet thailandese",
+   "Visita all'isola di Tub e all'isola di Mor",
+   "Visita a Chicken Island e snorkeling"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale per l'isola"
+  ]
+ },
+ "railay-beach-sunset-and-bioluminescent-plankton-swim": {
+  "title": "Tramonto a Railay Beach e bagno nel plancton bioluminescente",
+  "metaTitle": "Railay Beach: tramonto e bagno nel plancton bioluminescente",
+  "metaDescription": "Tour di mezza giornata a Krabi, con guida turistica e snack box. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con guida turistica e snack box. Gestito da un operatore locale verificato.",
+  "fullDescription": "Una serata che si divide in due parti nette: il tramonto sui promontori calcarei di Railay, poi un bagno in un'acqua che si illumina intorno a te.\n\nLa barca parte da Ao Nang nel tardo pomeriggio e attraversa verso la penisola di Railay, che non ha alcun accesso stradale. I karst che rendono Railay uno dei più grandi muri d'arrampicata del mondo diventano arancioni e poi rosso scuro mentre il sole scende dietro Phra Nang, e la spiaggia si svuota mentre i visitatori giornalieri tornano indietro. Hai la spiaggia nel suo momento più tranquillo.\n\nDopo il buio, la barca si sposta in acque calme e la guida fa entrare tutti. Il bagliore viene dai dinoflagellati, plancton unicellulari che emettono luce quando l'acqua intorno a loro viene disturbata, così ogni calcio e movimento della mano lascia una scia di scintille blu-verdi. È un fenomeno reale e non una garanzia ogni notte: lo spettacolo è più intenso nelle notti scure vicino alla luna nuova, e più debole quando la luna è piena o il mare è agitato. Chiedi informazioni sulla fase lunare quando scegli una data.\n\nUn operatore locale verificato gestisce questa gita e prenotiamo direttamente con lui, quindi il tuo posto viene bloccato con l'operatore prima che la prenotazione sia considerata definitiva. Il prezzo comprende la guida, uno snack box, un tappetino da spiaggia, acqua potabile, un piatto di frutta, un giubbotto di salvataggio, assicurazione infortuni e trasferimenti nella zona di Ao Nang.\n\nPorta un asciugamano e qualcosa di asciutto per cambiarti. Quattro ore, partenza da Ao Nang, preavviso minimo di un giorno.",
+  "included": [
+   "Guida turistica",
+   "Snack box",
+   "Tappetino da spiaggia",
+   "Acqua potabile",
+   "Piatto di frutta",
+   "Giubbotto di salvataggio",
+   "Assicurazione infortuni fino a 1 milione di THB",
+   "Servizio di trasferimento (zona Ao Nang)"
+  ],
+  "notIncluded": []
+ },
+ "sanctuary-of-truth-naklua-pattaya-spiritual-tour": {
+  "title": "Pattaya: biglietto d'ingresso al Sanctuary of Truth, il tempio di legno",
+  "metaTitle": "Pattaya: biglietto d'ingresso al Sanctuary of Truth",
+  "metaDescription": "Entra nello straordinario tempio interamente in legno di Pattaya, sul mare: un biglietto d'ingresso al Sanctuary of Truth e ai suoi infiniti dettagli scolpiti a mano.",
+  "shortDescription": "Entra nello straordinario tempio interamente in legno di Pattaya, sul mare: un biglietto d'ingresso al Sanctuary of Truth e ai suoi infiniti dettagli scolpiti a mano.",
+  "fullDescription": "Alto più di 100 metri sulla riva della baia di Naklua, il Sanctuary of Truth non è come nessun altro edificio in Thailandia: un tempio monumentale costruito interamente in legno, senza un solo chiodo di metallo, e coperto dentro e fuori da figure scolpite a mano tratte dalle tradizioni thailandese, khmer, cinese e indiana. La costruzione è iniziata nel 1981 e continua ancora oggi, quindi in qualsiasi visita è probabile vedere maestri scultori al lavoro, che scolpiscono nuove sculture nello stesso modo dei loro predecessori decenni fa.\n\nQuesto biglietto d'ingresso include l'accesso al santuario e ai suoi terreni sul mare. All'interno, ogni superficie racconta una storia: divinità, esseri celesti e scene mitologiche salgono lungo pilastri e soffitti in strati vertiginosi di dettaglio, tutti pensati per esprimere una visione filosofica del rapporto dell'umanità con l'universo. L'ambientazione aggiunge all'effetto: il tempio si trova proprio sul bordo dell'acqua, e le vedute delle sue guglie scolpite contro il mare sono tra le più fotografate di Pattaya.\n\nLa maggior parte dei visitatori passa qui circa 90 minuti o due ore, unendosi a una delle visite guidate regolari incluse nel biglietto e poi esplorando i terreni al proprio ritmo. Gli elmetti protettivi sono forniti dove necessario, poiché parti della struttura restano un cantiere di scultura attivo.",
+  "included": [
+   "Biglietto d'ingresso al Sanctuary of Truth",
+   "Accesso all'interno del tempio e ai terreni sul mare",
+   "Visita guidata programmata e briefing sulla sicurezza",
+   "Elmetto protettivo dove richiesto"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il santuario",
+   "Attività opzionali sui terreni (giri in elefante, giri in barca, spettacoli)",
+   "Cibo e bevande",
+   "Mance"
+  ]
+ },
+ "seasoning-thai-cooking-class-phuket-cherngtalay": {
+  "title": "Corso di cucina thailandese Seasoning a Phuket: tomyum, pad thai e curry verde",
+  "metaTitle": "Phuket: corso di cucina thailandese Seasoning",
+  "metaDescription": "Imparare a cucinare 4 piatti thailandesi autentici con lo chef Ern, formatosi in hotel a 5 stelle con oltre 6 anni di esperienza a Phuket. Drink di benvenuto, tutti gli ingredienti e la ricetta da portare a casa inclusi.",
+  "shortDescription": "Imparare a cucinare 4 piatti thailandesi autentici con lo chef Ern, formatosi in hotel a 5 stelle con oltre 6 anni di esperienza a Phuket. Drink di benvenuto, tutti gli ingredienti e la ricetta da portare a casa inclusi.",
+  "fullDescription": "Vivi la cucina thailandese autentica con lo chef Ern al corso di cucina thailandese Seasoning.\n\nLo chef Ern porta oltre 5 anni di esperienza professionale in cucina negli hotel di lusso di Phuket, insieme alla passione di condividere le ricche tradizioni culinarie della Thailandia con viaggiatori da tutto il mondo.\n\nDurante questo corso pratico di 2,5 ore:\n- Imparerai a preparare la zuppa tomyum con gamberi (variante con pollo disponibile)\n- Preparerai i noodles pad thai con gamberi (opzione vegetariana disponibile)\n- Creerai un autentico curry verde con pollo\n- Preparerai il tradizionale riso glutinoso al mango\n\nTutti gli ingredienti sono dall'orto alla tavola e pre-preparati, così ti puoi concentrare sulle tecniche di cottura. Riceverai un drink di benvenuto, attrezzatura da cucina professionale e un libretto di ricette per ricreare i piatti a casa.\n\nIl corso accoglie piccoli gruppi in un ambiente privato e tranquillo in giardino a Cherngtalay. Perfetto per viaggiatori singoli, coppie o piccoli gruppi che desiderano un'esperienza culturale intima.\n\nEsigenze alimentari: opzioni vegetariane, allergie ai crostacei e sostituzioni personalizzate disponibili; basta segnalarlo al momento della prenotazione.",
+  "included": [
+   "Drink di benvenuto",
+   "Attrezzatura da cucina professionale",
+   "Tutti gli ingredienti",
+   "Lezione di cucina con lo chef Ern",
+   "Libretto di ricette da portare a casa"
+  ],
+  "notIncluded": [
+   "Spese personali"
+  ]
+ },
+ "shooting-range-experience-in-ao-nang-krabi-thailand-by-local-operator": {
+  "title": "Esperienza al poligono di tiro ad Ao Nang, Krabi",
+  "metaTitle": "Ao Nang, Krabi: esperienza al poligono di tiro",
+  "metaDescription": "Tour di 0,5 ore a Krabi, con armi e munizioni; gli oggetti inclusi nell'esperienza di tiro dipendono dal pacchetto. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di 0,5 ore a Krabi, con armi e munizioni; gli oggetti inclusi nell'esperienza di tiro dipendono dal pacchetto. Gestito da un operatore locale verificato.",
+  "fullDescription": "Mezz'ora su un poligono sotto supervisione ad Ao Nang, con istruzioni in inglese per tutta la durata.\n\nLa Thailandia concede licenze ai poligoni commerciali con rigore, e l'effetto pratico è che tutto è gestito da un istruttore al tuo fianco: il caricamento, la posizione, la presa e la linea di tiro stessa. Nulla viene gestito senza supervisione in nessun momento, e non è richiesta alcuna esperienza precedente.\n\nCosa spari dipende dal pacchetto che prenoti, quindi controlla quali armi e quanti colpi sono inclusi nell'opzione che scegli prima di pagare. Il poligono pubblica pacchetti diversi e non sono intercambiabili.\n\nTrenta minuti è la durata giusta. Il tempo al poligono è concentrato piuttosto che lungo, e una prima sessione serve più a imparare a mantenere una posizione e a centrare il bersaglio piuttosto che a consumare quante più munizioni possibile.\n\nGli istruttori forniscono il briefing e le correzioni durante la sessione in inglese di base, cosa che qui conta: vuoi capire l'istruzione sulla sicurezza esattamente, non approssimativamente.\n\nProtezioni per orecchie e occhi sono standard sulla linea di tiro. Indossa scarpe chiuse e una camicia con collo alto, perché i bossoli espulsi sono caldi quando cadono.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende le armi e le munizioni per il pacchetto scelto e le istruzioni in inglese di base.\n\nPreavviso minimo di un giorno, e porta un documento d'identità con foto.",
+  "included": [
+   "Armi e munizioni",
+   "Gli oggetti inclusi nell'esperienza di tiro dipendono dal pacchetto effettivamente prenotato",
+   "Gli istruttori forniscono indicazioni di base in inglese"
+  ],
+  "notIncluded": [
+   "Mance per l'istruttore e altre spese personali"
+  ]
+ },
+ "similan-islands-day-trip-by-speedboat": {
+  "title": "Gita di un giorno alle isole Similan in motoscafo",
+  "metaTitle": "Isole Similan: gita di un giorno in motoscafo",
+  "metaDescription": "Tour di un giorno intero a Krabi, con ritiro e riaccompagno nel centro di Krabi, a Klong Muang e colazione. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di un giorno intero a Krabi, con ritiro e riaccompagno nel centro di Krabi, a Klong Muang e colazione. Gestito da un operatore locale verificato.",
+  "fullDescription": "Una giornata intera verso le Similan, che sono un mare diverso da qualsiasi cosa più vicina a Krabi.\n\nLe Similan sono nove isole di granito nelle Andamane, e il granito è il punto centrale. Tutto il resto su cui fai snorkeling in questa costa è calcare; qui la roccia si erode in enormi massi arrotondati sopra e sotto il livello dell'acqua, quindi il paesaggio sottomarino è fatto di campi di massi e passaggi tra le rocce invece che di piattaforme coralline. La visibilità è di regola la migliore della Thailandia, motivo per cui i sommozzatori pianificano le gite proprio intorno a queste isole.\n\nPoiché le isole si trovano molto al largo e dentro un parco nazionale, l'acqua è libera dagli scarichi fluviali e la vita dei pesci è notevolmente più densa che sulle scogliere costiere.\n\nL'unica cosa da pianificare in anticipo: le Similan chiudono ogni anno, approssimativamente da metà ottobre o novembre fino ad aprile o maggio, secondo le regole del parco nazionale che permettono alla barriera di recuperare durante il monsone. Le date esatte sono fissate dall'autorità del parco e cambiano ogni anno, quindi confermale prima di organizzare una gita intorno a questo periodo.\n\nColazione e pranzo a buffet internazionale sono inclusi, e il ritiro in hotel copre il centro di Krabi, Klong Muang Beach e Ao Nang Beach se selezioni quell'opzione.\n\nNove ore con un lungo trasferimento a ciascuna estremità rendono questa la giornata più lunga della lista di Krabi. È un motoscafo in mare aperto, quindi chiunque senta il mare dovrebbe prendere qualcosa prima di salire a bordo, non dopo.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva.\n\nLe tasse del parco nazionale si pagano separatamente salvo diversa conferma. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno nel centro di Krabi, a Klong Muang Beach e Ao Nang Beach (se selezionata l'opzione)",
+   "Colazione",
+   "Pranzo a buffet internazionale",
+   "Snack",
+   "Bibite",
+   "Frutta di stagione",
+   "Guida turistica",
+   "Pillole per il mal di mare (su richiesta)",
+   "Maschera e boccaglio",
+   "Assicurazione infortuni"
+  ],
+  "notIncluded": [
+   "Tasse del parco nazionale",
+   "Asciugamano",
+   "Mance"
+  ]
+ },
+ "similan-islands-snorkeling-trip-by-speedboat-2": {
+  "title": "Gita di snorkeling alle isole Similan in motoscafo",
+  "metaTitle": "Isole Similan: snorkeling in motoscafo",
+  "metaDescription": "Tour di un giorno intero a Krabi, con Fantastic Similan Travel, motoscafo. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di un giorno intero a Krabi, con motoscafo e snorkeling. Gestito da un operatore locale verificato.",
+  "fullDescription": "Una giornata di dodici ore verso le isole Similan, che si trovano abbastanza al largo perché l'acqua sia una proposta diversa da qualsiasi cosa più vicina a Krabi.\n\nLe Similan sono una catena di nove isole di granito nel mare delle Andamane, e la distinzione conta: quasi tutto il resto su cui fai snorkeling in questa regione è calcare. Il granito si erode in enormi massi arrotondati, sopra e sotto il livello dell'acqua, quindi il paesaggio sottomarino è fatto di campi di massi e passaggi tra le rocce invece che di piattaforme coralline. La visibilità è di regola la migliore della Thailandia, motivo per cui i sommozzatori viaggiano apposta per questo.\n\nLa gita visita l'isola di Miang, conosciuta come Isola Quattro, e Ko Bangu all'estremità settentrionale della catena. Lo snorkeling si fa sulla barriera poco profonda tra i massi, e la vita dei pesci è notevolmente più densa che sulle scogliere costiere perché le isole sono protette e più lontane dagli scarichi fluviali.\n\nLa cosa importante da pianificare in anticipo: le isole Similan chiudono completamente ogni anno, approssimativamente da metà ottobre a metà novembre fino ad aprile o maggio, secondo le regole dei parchi nazionali thailandesi che permettono alla barriera di recuperare e tengono conto del mare monsonico. Le date cambiano ogni anno e sono fissate dall'autorità del parco, quindi confermale prima di organizzare una gita intorno a questo periodo.\n\nDodici ore con un lungo trasferimento a ciascuna estremità rendono questa la giornata più lunga della lista di Krabi. I viaggiatori sensibili al movimento dovrebbero prendere qualcosa prima di salire a bordo, non dopo.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel, la gita in barca, guida, colazione, pranzo a buffet, frutta fresca e bibite, e attrezzatura per lo snorkeling.\n\nLe tasse del parco nazionale si pagano separatamente salvo diversa conferma. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Gita in barca",
+   "Guida",
+   "Colazione",
+   "Pranzo a buffet",
+   "Frutta fresca e bibite",
+   "Attrezzatura per lo snorkeling"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale (400 THB per adulto e 200 THB per bambino)"
+  ]
+ },
+ "small-group-boat-tour-to-james-bond-and-hong-islands": {
+  "title": "Tour in barca in piccolo gruppo a James Bond Island e Hong Island",
+  "metaTitle": "James Bond e Hong Island in piccolo gruppo",
+  "metaDescription": "Tour di un giorno intero a Krabi, con riaccompagno in hotel per tutti gli hotel ad Ao Nang e 2 ingressi al parco nazionale. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di un giorno intero a Krabi, con riaccompagno in hotel per tutti gli hotel ad Ao Nang e 2 ingressi al parco nazionale. Gestito da un operatore locale verificato.",
+  "fullDescription": "Entrambe le metà della baia di Phang Nga in un piccolo gruppo, con le tasse del parco nazionale già incluse nel prezzo.\n\nKoh Tapu, l'ago di roccia calcarea che tutti chiamano James Bond Island, è apparso in L'uomo dalla pistola d'oro nel 1974 ed è da allora la roccia più fotografata della baia. Sbarcare alla sua base è ora limitato perché la roccia si sta erodendo, quindi la si osserva dalla spiaggia adiacente. Koh Hong si trova sul lato di Krabi e custodisce la laguna: acqua verde poco profonda racchiusa da pareti calcaree, raggiungibile attraverso un'apertura che si apre solo con certe maree.\n\nIl formato in piccolo gruppo è il motivo per scegliere questa gita invece di un posto più economico su una barca grande. Le gite grandi a Phang Nga portano 40 persone o più, il che significa fare la coda a ogni sosta e fare snorkeling in mezzo alla folla; un piccolo gruppo si muove più in fretta tra i siti e passa il tempo risparmiato in acqua.\n\nI due ingressi al parco nazionale, 700 THB a persona in totale, sono incluisi invece di essere raccolti al molo. Vale la pena fare i calcoli: la maggior parte dei preventivi su questo percorso sembra più economica e poi ti toglie 700 THB prima di salire a bordo, quindi confronta la cifra totale.\n\nViene fornita una guida per il riconoscimento dei pesci, una piccola cosa che trasforma lo snorkeling da guardare i pesci a sapere cosa si sta guardando.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il riaccompagno in hotel per gli hotel ad Ao Nang, entrambi gli ingressi al parco nazionale, assicurazione, attrezzatura per lo snorkeling e la guida per il riconoscimento dei pesci.\n\nOtto ore. Se alloggi fuori da Ao Nang, confermalo al momento della prenotazione. Preavviso minimo di un giorno.",
+  "included": [
+   "Riaccompagno in hotel per tutti gli hotel ad Ao Nang (altre zone, contattaci)",
+   "2 ingressi al parco nazionale (700 THB a persona)",
+   "Assicurazione",
+   "Attrezzatura per lo snorkeling",
+   "Guida per il riconoscimento dei pesci",
+   "Guida illustrata a bordo con informazioni utili",
+   "Guida locale certificata",
+   "Pranzo a buffet thailandese in spiaggia (segnala eventuali restrizioni alimentari)",
+   "Frutta fresca, bibite e acqua minerale",
+   "Caffè"
+  ],
+  "notIncluded": [
+   "Asciugamano",
+   "Protezione solare"
+  ]
+ },
+ "soi-cowboy-nana-soi-11-rooftops-clubs-go-gos": {
+  "title": "Bangkok: Soi Cowboy, Nana, Soi 11, rooftop, club e go-go bar",
+  "metaTitle": "Bangkok: Soi Cowboy, Nana e Soi 11 con ingresso saltafila",
+  "metaDescription": "Ingresso esclusivo con accesso prioritario e gratuito a 6 dei locali, rooftop e luoghi più iconici di Soi Cowboy, Soi 11 e Nana Plaza a Bangkok. Include un shot gratuito. Posti limitati.",
+  "shortDescription": "Ingresso esclusivo con accesso prioritario e gratuito a 6 dei locali, rooftop e luoghi più iconici di Soi Cowboy, Soi 11 e Nana Plaza a Bangkok. Include un shot gratuito. Posti limitati.",
+  "fullDescription": "Ingresso esclusivo con accesso prioritario e gratuito a 6 dei locali, rooftop e luoghi più iconici di Soi Cowboy, Soi 11 e Nana Plaza a Bangkok. Include un shot gratuito. Posti limitati.",
+  "included": [
+   "Guida di lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "thai-cooking-class-in-sukhumvit-market-tour-mango": {
+  "title": "Il miglior corso di cucina thailandese a Sukhumvit con visita al mercato - Mango",
+  "metaTitle": "Sukhumvit: corso di cucina thailandese con visita al mercato",
+  "metaDescription": "Partecipa a uno dei corsi di cucina thailandese più apprezzati di Sukhumvit, con un vero mercato locale a soli 2 minuti di distanza.",
+  "shortDescription": "Partecipa a uno dei corsi di cucina thailandese più apprezzati di Sukhumvit, con un vero mercato locale a soli 2 minuti di distanza.",
+  "fullDescription": "Partecipa a uno dei corsi di cucina thailandese più apprezzati di Sukhumvit, con un vero mercato locale a soli 2 minuti di distanza.",
+  "included": [
+   "Guida di lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "tiffanys-show-theatre-north-pattaya-entry-ticket": {
+  "title": "Pattaya: biglietto per lo spettacolo Tiffany's Show con cena e upgrade posto VIP",
+  "metaTitle": "Pattaya: Tiffany's Show, cena e upgrade VIP",
+  "metaDescription": "Una serata completa a Pattaya: cena seguita da un biglietto per il famoso cabaret Tiffany, con la possibilità di passare a posti VIP per la miglior vista della sala.",
+  "shortDescription": "Una serata completa a Pattaya: cena seguita da un biglietto per il famoso cabaret Tiffany, con la possibilità di passare a posti VIP per la miglior vista della sala.",
+  "fullDescription": "Tiffany's è lo spettacolo che ha messo il cabaret di Pattaya sulla mappa mondiale: attivo dal 1974, è il più antico cabaret transgender del Sud-est asiatico e resta ancora oggi il punto di riferimento, con un teatro costruito apposta, una qualità di produzione da Las Vegas e un cast i cui soli costumi valgono il biglietto. Questo pacchetto unisce l'intera serata in un'unica prenotazione: prima una vera cena seduta, poi il tuo posto riservato in teatro per lo spettacolo della serata.\n\nLo spettacolo in sé scorre attraverso una sequenza veloce di numeri di grande ensemble: temi internazionali, segmenti di danza classica thailandese, cambi di costume scintillanti e le precise performance teatrali di lip-sync per cui il locale è famoso. Tutto è allestito con impianti di illuminazione completi, scenografie mobili e un cast di decine di artisti, il che distingue Tiffany's dai bar cabaret più piccoli della città.\n\nI livelli dei posti contano qui: i posti standard offrono una vista perfettamente buona, ma l'upgrade VIP ti mette nelle sezioni centrali anteriori dove il dettaglio dei costumi e della coreografia si apprezza davvero, e vale la pena considerarlo per una prima visita. Con la cena gestita in anticipo e l'orario del teatro coordinato, l'intera serata scorre senza intoppi dal tavolo al sipario finale, senza nulla da organizzare.",
+  "included": [
+   "Biglietto d'ingresso allo spettacolo cabaret Tiffany",
+   "Cena prima dello spettacolo",
+   "Posto riservato (standard o VIP come prenotato)"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel",
+   "Bevande oltre a quelle incluse con la cena",
+   "Foto con gli artisti dopo lo spettacolo (a pagamento sul posto)",
+   "Mance"
+  ]
+ },
+ "tiger-cave-temple-spiritual-tour": {
+  "title": "Giornata alla piscina smeraldo, alle terme e al Tiger Cave Temple",
+  "metaTitle": "Krabi: piscina smeraldo, terme e Tiger Cave Temple",
+  "metaDescription": "Nuota in una piscina smeraldo alimentata dalla giungla, rilassati in sorgenti termali tiepide e sali al santuario in cima alla roccia del Tiger Cave Temple in una giornata intera nell'entroterra, lontano dalla costa.",
+  "shortDescription": "Nuota in una piscina smeraldo alimentata dalla giungla, rilassati in sorgenti termali tiepide e sali al santuario in cima alla roccia del Tiger Cave Temple in una giornata intera nell'entroterra, lontano dalla costa.",
+  "fullDescription": "L'entroterra di Krabi è un mondo diverso dalle sue spiagge: densa foresta pluviale di bassa quota, acqua calda che sorge tra il calcare, e un tempio appollaiato su una guglia di roccia sopra le cime degli alberi. Questa giornata intera nell'entroterra copre tutti e tre, con un veicolo con aria condizionata e una guida che conosce i sentieri e l'etichetta al santuario.\n\nLa piscina smeraldo si trova dentro una riserva naturale protetta, alimentata da una sorgente termale che dà all'acqua la sua sorprendente tonalità verde. Una breve passerella nella foresta conduce lì, e un ulteriore sentiero continua fino alla Laguna Blu, un bacino più profondo e ancora più intensamente colorato. Dopo, ci si immerge nella cascata termale naturale, dove l'acqua minerale ha scavato nella roccia vasche lisce.\n\nLa giornata si conclude al Tiger Cave Temple, sede di una comunità di meditazione attiva. Chi ha gambe forti può affrontare la famosa scalinata fino alla cima; tutti gli altri esplorano i terreni ombreggiati del monastero e le grotte alla base.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Veicolo con aria condizionata",
+   "Guida locale di lingua inglese",
+   "Pranzo thailandese",
+   "Biglietti d'ingresso alla riserva naturale e alle terme",
+   "Acqua potabile",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Offerte al tempio",
+   "Asciugamani",
+   "Noleggio armadietto",
+   "Bevande alcoliche",
+   "Mance"
+  ]
+ },
+ "tingly-thai-cooking-school-half-day-cooking-class": {
+  "title": "Bangkok: corso di cucina di mezza giornata alla Tingly Thai Cooking School",
+  "metaTitle": "Bangkok: Tingly Thai Cooking School, mezza giornata",
+  "metaDescription": "Scopri come preparare la cucina tradizionale thailandese in questa scuola di cucina. Prepara un pasto di 4 portate, imparare come conservare correttamente il cibo thailandese, e visita il mercato con il corso di cucina del mattino.",
+  "shortDescription": "Scopri come preparare la cucina tradizionale thailandese in questa scuola di cucina. Prepara un pasto di 4 portate, imparare come conservare correttamente il cibo thailandese, e visita il mercato con il corso di cucina del mattino.",
+  "fullDescription": "Scopri come preparare la cucina tradizionale thailandese in questa scuola di cucina. Prepara un pasto di 4 portate, imparare come conservare correttamente il cibo thailandese, e visita il mercato con il corso di cucina del mattino.",
+  "included": [
+   "Guida di lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "traditional-khan-toke-restaurant-chiang-mai-experience": {
+  "title": "Chiang Mai: cena tradizionale Khan Toke e spettacolo di danza Lanna",
+  "metaTitle": "Chiang Mai: cena Khan Toke e spettacolo Lanna",
+  "metaDescription": "Una cena in stile Khan Toke del nord della Thailandia, accompagnata da uno spettacolo culturale dal vivo di danza, musica e costumi tradizionali Lanna.",
+  "shortDescription": "Una cena in stile Khan Toke del nord della Thailandia, accompagnata da uno spettacolo culturale dal vivo di danza, musica e costumi tradizionali Lanna.",
+  "fullDescription": "Siediti per una cena in stile Khan Toke a Chiang Mai, un pasto tradizionale del nord della Thailandia servito su bassi vassoi a piedistallo e condiviso alla maniera familiare. Mentre mangi, sul palco si svolge uno spettacolo culturale dal vivo: danzatori Lanna in costume tradizionale eseguono danze folkloristiche accompagnate da musica dal vivo, offrendo uno sguardo sul patrimonio della regione in un'atmosfera rilassata e accogliente.",
+  "included": [
+   "Cena Khan Toke",
+   "Spettacolo culturale dal vivo"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel (salvo diversa indicazione al momento della prenotazione)",
+   "Bevande",
+   "Mance"
+  ]
+ },
+ "wat-chedi-luang-walking-tour": {
+  "title": "Chiang Mai: tour guidato a piedi di 3 ore nella città vecchia e nei templi",
+  "metaTitle": "Chiang Mai: tour a piedi nella città vecchia e nei templi",
+  "metaDescription": "Cammina attraverso le mura della città vecchia di Chiang Mai fino a tre dei suoi templi più ricchi di storia, con una guida locale esperta a condurre il percorso.",
+  "shortDescription": "Cammina attraverso le mura della città vecchia di Chiang Mai fino a tre dei suoi templi più ricchi di storia, con una guida locale esperta a condurre il percorso.",
+  "fullDescription": "Varca il fossato e i bastioni in mattoni della città vecchia di Chiang Mai e lascia che una guida locale ti conduca attraverso secoli di storia Lanna in poche ore senza fretta. Il percorso inizia a Wat Chedi Luang, sede di un imponente e logorato chedi che un tempo custodiva il venerato Buddha di Smeraldo e che ancora domina il profilo del quartiere vecchio. La tua guida racconta il terremoto che fece crollare la sua guglia, il ruolo del tempio nelle cerimonie reali e i dettagli silenziosi facili da perdere se si gira da soli.\n\nDa lì, una breve passeggiata conduce a Wat Phan Tao, un sereno tempio in legno di teak costruito da un'ex sala di palazzo reale. Le sue pareti scure in legno e le decorazioni in stencil dorato offrono un contrasto sorprendente con la grandiosità in pietra vicina, e spesso è una delle soste più fotografate e meno affollate della città.\n\nLa passeggiata continua verso Wat Phra Singh, il tempio più venerato di Chiang Mai e una vetrina dell'architettura Lanna classica, dai suoi ampi tetti a più livelli ai murales all'interno del Wihan Lai Kham che raccontano la vita quotidiana Lanna. Durante tutto il percorso, la tua guida collega i templi alla fondazione della città, alle sue tradizioni buddiste e alle usanze ancora praticate oggi in questi luoghi, trasformando tre soste fotografiche in un'unica storia collegata del passato di Chiang Mai.",
+  "included": [
+   "Guida locale di lingua inglese",
+   "Visite guidate a Wat Chedi Luang, Wat Phan Tao e Wat Phra Singh"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel (è un tour a piedi; incontro direttamente sul posto)",
+   "Offerte d'ingresso ai templi, se richieste",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "wat-rong-khun-white-temple-spiritual-tour": {
+  "title": "Chiang Mai: tempio bianco, blu e rosso di Chiang Rai e tribù Karen",
+  "metaTitle": "Chiang Rai: tempio bianco, blu e rosso e villaggio Karen",
+  "metaDescription": "Gita di un giorno intero da Chiang Mai ai templi bianco, blu e rosso di Chiang Rai, con soste alle terme di Mae Kachan e a un villaggio della tribù Karen a collo lungo.",
+  "shortDescription": "Gita di un giorno intero da Chiang Mai ai templi bianco, blu e rosso di Chiang Rai, con soste alle terme di Mae Kachan e a un villaggio della tribù Karen a collo lungo.",
+  "fullDescription": "I tre templi iconici di Chiang Rai sono abbastanza vicini da poter essere visitati in un'unica, indimenticabile giornata, e questa gita li unisce con un paio di soste che la maggior parte dei visitatori non pianifica mai da sola. Si parte presto da Chiang Mai e si procede verso nord attraverso le colline, interrompendo il viaggio alle terme di Mae Kachan, dove l'acqua ricca di minerali ribolle dal terreno e puoi bagnarti i piedi, guardare i locali bollire le uova nel calore naturale e sgranchirti le gambe prima di continuare. Una breve guida più tardi porta a un villaggio della tribù collinare Karen a collo lungo, dove incontri membri della comunità, vedi da vicino la tessitura tradizionale e gli anelli di ottone al collo, e scopri un po' di uno stile di vita molto diverso dalle città che la maggior parte dei viaggiatori attraversa.\n\nDa lì, la giornata si rivolge verso i templi di Chiang Rai, ognuno uno spettacolo completamente diverso. Wat Rong Khun, il Tempio Bianco, è una struttura accecante e quasi surreale di intonaco bianco e vetro a specchio, costruita da un artista locale come offerta al buddismo. Wat Rong Suea Ten, il Tempio Blu, risplende con pareti di un intenso indaco e dettagli dorati che sembrano farti entrare in un mondo completamente diverso. Infine, l'imponente Grande Buddha bianco e il suggestivo Tempio Rosso di Huay Pla Kang completano la gita con vedute panoramiche sulla città dalla collina.\n\nCon una guida esperta che ti accompagna a ogni sosta e un comodo pullman che gestisce i lunghi tratti tra una tappa e l'altra, questo è il modo più semplice per vedere tutto ciò per cui Chiang Rai è famosa senza noleggiare un'auto o organizzare da solo l'itinerario.",
+  "included": [
+   "Guida professionale di lingua inglese",
+   "Trasporto di andata e ritorno in pullman con aria condizionata da Chiang Mai",
+   "Ingresso e visita guidata a Wat Rong Khun (Tempio Bianco)",
+   "Ingresso e visita guidata a Wat Rong Suea Ten (Tempio Blu)",
+   "Ingresso e visita guidata a Huay Pla Kang Temple, Grande Buddha e area del Tempio Rosso",
+   "Visita alle terme di Mae Kachan",
+   "Visita al villaggio della tribù collinare Karen a collo lungo",
+   "Riaccompagno agli hotel nel centro di Chiang Mai"
+  ],
+  "notIncluded": [
+   "Ritiro in hotel (il punto di ritiro dipende dall'opzione selezionata)",
+   "Pasti e bevande",
+   "Mance per guida e conducente",
+   "Spese personali e souvenir",
+   "Offerte ai templi (facoltative, contanti apprezzati)",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "white-lotus-thai-cooking-class-with-market-tour": {
+  "title": "Bangkok: corso di cucina thailandese White Lotus con visita al mercato",
+  "metaTitle": "Bangkok: corso di cucina White Lotus con visita al mercato",
+  "metaDescription": "Scopri i segreti della cucina thailandese con un corso pratico a Bangkok. Esplora un mercato locale, imparare a preparare il latte di cocco fresco e cucina 4 piatti thailandesi autentici.",
+  "shortDescription": "Scopri i segreti della cucina thailandese con un corso pratico a Bangkok. Esplora un mercato locale, imparare a preparare il latte di cocco fresco e cucina 4 piatti thailandesi autentici.",
+  "fullDescription": "Scopri i segreti della cucina thailandese con un corso pratico a Bangkok. Esplora un mercato locale, imparare a preparare il latte di cocco fresco e cucina 4 piatti thailandesi autentici.",
+  "included": [
+   "Guida di lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "zipline-and-adventure-courses-family-option-available-in-krabi": {
+  "title": "Zipline e percorsi avventura a Krabi (opzione famiglia disponibile)",
+  "metaTitle": "Krabi: zipline e percorsi avventura, opzione famiglia",
+  "metaDescription": "Tour a Krabi, con zipline e stazioni di gioco (dipende dalle opzioni selezionate). Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour a Krabi, con zipline e stazioni di gioco (dipende dalle opzioni selezionate). Gestito da un operatore locale verificato.",
+  "fullDescription": "Un'ora e mezza tra le chiome degli alberi dietro Ao Nang, su un percorso che può essere alzato o abbassato di intensità in base a chi c'è nel tuo gruppo.\n\nLe piattaforme sono costruite tra gli alberi sul pendio sopra la città, il che ti porta all'altezza dove la foresta davvero accade: la maggior parte del movimento e del rumore nella foresta tropicale avviene tra le chiome piuttosto che a terra. Le linee corrono tra le piattaforme con il calcare e la costa visibili tra gli spazi.\n\nCosa fai dipende dall'opzione che prenoti. Il percorso familiare più breve mantiene le altezze moderate e aggiunge stazioni di gioco tra le linee, così i bambini più piccoli hanno un percorso che possono completare invece di una versione ridotta di quella per adulti. Le opzioni più lunghe aggiungono più linee, più altezza e sezioni con ostacoli tra le piattaforme.\n\nLe guide percorrono il tragitto insieme a te invece di mandarti giù da solo, agganciando e sganciando a ogni piattaforma. Non è necessaria alcuna esperienza e nulla richiede forza nella parte superiore del corpo; è l'imbracatura che fa il lavoro. La cosa principale da sapere è che si tratta di un pendio di foresta pluviale, quindi il terreno è irregolare e le scarpe contano più di quanto sembri.\n\nUn operatore locale verificato gestisce questa attività e prenotiamo direttamente con lui, quindi il tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il percorso zipline, le stazioni di gioco in base all'opzione selezionata, tutta l'attrezzatura di sicurezza e guide esperte. L'operatore invia via email il punto e l'orario d'incontro una volta confermata la prenotazione.\n\nNovanta minuti, preavviso minimo di un giorno.",
+  "included": [
+   "Zipline",
+   "Stazioni di gioco (dipende dalle opzioni selezionate)",
+   "Attrezzatura di sicurezza",
+   "Guide esperte"
+  ],
+  "notIncluded": []
+ },
+ "zipline-atv-and-top-rope-climbing-experience-in-krabi": {
+  "title": "Zipline, ATV ed esperienza di arrampicata top rope a Krabi",
+  "metaTitle": "Krabi: zipline, ATV e arrampicata top rope",
+  "metaDescription": "Tour a Krabi, con trasferimento di andata e ritorno da Ao Nang, Ao Nammao o Krabi Town e sessione di formazione. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour a Krabi, con trasferimento di andata e ritorno da Ao Nang, Ao Nammao o Krabi Town e sessione di formazione. Gestito da un operatore locale verificato.",
+  "fullDescription": "Tre attività in due ore sul pendio dietro Ao Nang: linee zipline, un percorso ATV e un'arrampicata con corda dall'alto su vero calcare.\n\nL'arrampicata è la parte per cui vale la pena venire. Il calcare di Krabi è ciò che ha reso Railay una delle grandi destinazioni di arrampicata sportiva del mondo, e la roccia qui è la stessa: piena di tacche, con appigli e con una presa che il granito non ha. La corda dall'alto significa che la fune scende da un ancoraggio sopra di te, quindi non sei mai più lontano di un istante dall'essere assicurato. Nulla richiede forza nella parte superiore del corpo; l'arrampicata è una questione di gambe, e gli istruttori passano la sessione a far smettere la gente di tirare con le braccia.\n\nLo zipline corre tra piattaforme costruite tra gli alberi, all'altezza in cui la foresta tropicale davvero accade. La sezione ATV è su un percorso di piantagione e argilla, compatta da novembre ad aprile e decisamente fangosa dopo l'inizio delle piogge.\n\nÈ incluso un allenamento, e non è una formalità. Tutte e tre le attività si svolgono con le guide che agganciano e controllano, e nessuna presuppone esperienza precedente.\n\nDue ore è il programma breve. Esiste una versione di un giorno intero che include un lunch box thailandese; se vuoi che l'arrampicata sia più di un semplice assaggio, è quella da chiedere, perché due ore divise in tre attività significano circa venticinque minuti sulla roccia.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il trasferimento di andata e ritorno da Ao Nang, Ao Nammao o Krabi Town, la sessione di formazione, frutta, bibite in bottiglia e attrezzatura di sicurezza. Il lunch box thailandese si applica solo al programma di un giorno intero.\n\nIndossa scarpe chiuse. Due ore, preavviso minimo di un giorno.",
+  "included": [
+   "Trasferimento di andata e ritorno da Ao Nang, Ao Nammao o Krabi Town",
+   "Sessione di formazione",
+   "Lunch box thailandese (solo per il programma di un giorno intero)",
+   "Frutta, bibite in bottiglia",
+   "Assicurazione fornita dall'operatore",
+   "Kit di primo soccorso",
+   "Attrezzatura di sicurezza"
+  ],
+  "notIncluded": [
+   "Costo extra di trasferimento di 500 THB per auto per Klong Muang e Tubkaek"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
