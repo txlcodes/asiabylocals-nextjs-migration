@@ -1428,6 +1428,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'is-oudong-royal-capital-tour-worth-it-phnom-penh', 'is-upcycling-workshop-worth-it-phnom-penh',
     'is-riverside-walking-tour-worth-it-phnom-penh', 'is-night-tuk-tuk-tour-worth-it-phnom-penh',
     'is-essential-oil-workshop-worth-it-phnom-penh', 'is-national-museum-tour-worth-it-phnom-penh',
+    'is-bikes-and-bites-tour-worth-it-phnom-penh', 'is-night-foodie-tour-worth-it-phnom-penh',
+    'is-after-dark-street-grills-tour-worth-it-phnom-penh', 'is-city-bike-sunset-cruise-tour-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [

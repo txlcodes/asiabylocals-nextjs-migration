@@ -1174,6 +1174,74 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bikes-and-bites-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Bikes and Bites Cycling Tour Worth It in Phnom Penh?",
+                description: "An honest look at the Bikes and Bites cycling tour, combining active cycling with food stops.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bikes-and-bites-cycling-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing cycling with food stops gives this a genuinely active angle that a standard tuk-tuk food tour doesn't have, letting you cover more ground between stops while working up an appetite along the way.", tourCard: { slug: "bikes-and-bites-cycling-tour", title: "Bikes and Bites Cycling Tour", description: "A cycling tour through Phnom Penh combined with food stops.", price: "From $45", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bikes-and-bites-cycling-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come with reasonable fitness for city cycling, and a genuine appetite — the pacing assumes you'll eat at each stop." }
+                ],
+                faqs: [
+                    { q: "Is the Bikes and Bites tour worth it in Phnom Penh?", a: "Yes for a more active alternative to tuk-tuk food tours, covering more ground on a bike between food stops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bikes and Bites tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more active, cycling-based alternative to tuk-tuk food tours." } }
+                ] },
+            };
+
+        case "is-night-foodie-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Phnom Penh Night Foodie Tour Worth It?",
+                description: "An honest look at the Phnom Penh night foodie tour by tuk-tuk with drinks.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-night-foodie-tuk-tuk-tour-drinks/hq_tour_img_1/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Phnom Penh's street food scene genuinely comes alive after dark, and this tour's tuk-tuk format with drinks included makes for a relaxed, social evening rather than a rushed daytime tasting circuit.", tourCard: { slug: "phnom-penh-night-foodie-tour-by-tuk-tuk-with", title: "Phnom Penh: Night Foodie Tour by Tuk Tuk with Drinks", description: "A night food tour by tuk-tuk with drinks included.", price: "From $51", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-night-foodie-tuk-tuk-tour-drinks/hq_tour_img_1/1600.webp" } },
+                    { title: "Practical Tips", content: "Come hungry and pace yourself — the format is multiple tastings across stops, not one sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is the night foodie tour worth it in Phnom Penh?", a: "Yes, the city's street food scene genuinely comes alive after dark, and the tuk-tuk format with drinks makes for a relaxed evening." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the night foodie tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the city's street food scene genuinely comes alive after dark." } }
+                ] },
+            };
+
+        case "is-after-dark-street-grills-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Phnom Penh After-Dark Street Grills and Night Market Tour Worth It?",
+                description: "An honest look at the after-dark street grills and night market tour in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-food-tour-round24/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This leans specifically into street grills and a night market format, a more market-focused evening than a standard tuk-tuk food tour's moving circuit between restaurants.", tourCard: { slug: "phnom-penh-after-dark-street-grills-and-night", title: "Phnom Penh After-Dark Street Grills and Night Market Tour", description: "An evening street-grills and night-market food tour.", price: "From $59", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-food-tour-round24/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Good for travelers who want to browse a market atmosphere alongside eating, rather than a purely restaurant-hopping format." }
+                ],
+                faqs: [
+                    { q: "Is the after-dark street grills tour worth it?", a: "Yes, it leans into a market-browsing atmosphere alongside the food, distinct from a restaurant-hopping tuk-tuk food tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the street grills and night market tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for its market-browsing atmosphere alongside the food." } }
+                ] },
+            };
+
+        case "is-city-bike-sunset-cruise-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Guided City Bike Tour with Sunset River Cruise Worth It in Phnom Penh?",
+                description: "An honest look at the guided city bike tour paired with a sunset river cruise.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/guided-city-bike-tour-with-sunset-river-cruise/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining an active cycling portion with a relaxed sunset cruise gives a nicely paced day — active first, then a calm finish on the water, rather than choosing one or the other separately.", tourCard: { slug: "guided-city-bike-tour-with-sunset-river-cruise", title: "Guided City Bike Tour with Sunset River Cruise", description: "A guided city bike tour paired with a sunset river cruise.", price: "From $59", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-city-bike-tour-with-sunset-river-cruise/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good single booking if you want both an active cycling portion and a relaxed river sunset without arranging two separate activities." }
+                ],
+                faqs: [
+                    { q: "Is the city bike and sunset cruise tour worth it?", a: "Yes, it nicely paces an active cycling portion against a relaxed river sunset finish, in one booking rather than two." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the city bike and sunset cruise tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it combines an active cycling portion with a relaxed sunset river finish." } }
+                ] },
+            };
+
         default:
             return null;
     }
