@@ -136863,6 +136863,380 @@ export const IT_TOURS: Record<string, TourT> = {
    "Pasti"
   ]
  },
+ "atlantis-lost-world-aquarium-day-pass-dubai": {
+  "title": "Atlantis Lost World Aquarium, biglietto giornaliero a Dubai",
+  "metaTitle": "Atlantis Lost World Aquarium, biglietto giornaliero a Dubai",
+  "metaDescription": "L'acquario dentro Atlantis The Palm, costruito attorno alla Ambassador Lagoon: una vasca enorme che ospita decine di migliaia di animali marini, visibile attraverso finestre larghe diversi metri.",
+  "shortDescription": "L'acquario dentro Atlantis The Palm, costruito attorno alla Ambassador Lagoon: una vasca enorme che ospita decine di migliaia di animali marini, visibile attraverso finestre larghe diversi metri.",
+  "fullDescription": "L'acquario dentro Atlantis The Palm e costruito attorno alla Ambassador Lagoon, una vasca unica cosi grande da avere finestre larghe diversi metri, dove nuotano decine di migliaia di animali marini.\n\nL'ambientazione e pensata come una citta perduta: le vasche sono incastonate in rovine e passaggi, non allineate in corridoi anonimi. Durante la giornata si susseguono spettacoli dal vivo con sirene vere.\n\nCome opzioni aggiuntive puoi scegliere un tour dietro le quinte di 45 minuti all'ospedale per pesci, alla sala di preparazione del cibo e al vivaio degli squali, oppure un tridente souvenir interattivo.\n\nAttenzione: questo biglietto vale solo per l'acquario. Il parco acquatico accanto richiede un biglietto separato.",
+  "highlights": [
+   "La Ambassador Lagoon, una vasca unica con finestre larghe diversi metri",
+   "Ambientazione da citta perduta, con vasche incastonate in rovine e passaggi",
+   "Spettacoli dal vivo con sirene durante il giorno",
+   "Tour dietro le quinte e tridente souvenir come opzioni aggiuntive",
+   "attenzione: solo acquario, il parco acquatico accanto ha un biglietto separato"
+  ],
+  "included": [
+   "Biglietto di ingresso generale al Lost World Aquarium",
+   "Accesso alla Ambassador Lagoon",
+   "Tridente souvenir interattivo (se opzione selezionata)",
+   "Tour guidato esclusivo di 45 minuti all'ospedale per pesci, alla sala di preparazione del cibo e al vivaio degli squali (se opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Tour guidato",
+   "Esperienze opzionali di snorkeling e immersione",
+   "Souvenir e articoli in vendita"
+  ]
+ },
+ "aya-universe-dubai-entry-ticket": {
+  "title": "AYA Universe Dubai, biglietto di ingresso",
+  "metaTitle": "AYA Universe Dubai, biglietto di ingresso",
+  "metaDescription": "Dodici zone immersive a WAFI City costruite attorno a luce, suono e proiezioni: un ambiente digitale da attraversare a piedi, non un museo, e una delle poche cose a Dubai pensate per essere guardate invece che percorse su un veicolo.",
+  "shortDescription": "Dodici zone immersive a WAFI City costruite attorno a luce, suono e proiezioni: un ambiente digitale da attraversare a piedi, non un museo, e una delle poche cose a Dubai pensate per essere guardate invece che percorse su un veicolo.",
+  "fullDescription": "AYA Universe raccoglie dodici zone interattive dentro WAFI City, ognuna costruita attorno a luce, suono e proiezioni: dall'aurora boreale a una superficie lunare, e un ambiente digitale da attraversare a piedi, non un museo con bacheche.\n\nLe stanze reagiscono al tocco e al movimento, e tutto si trova al chiuso con l'aria condizionata. Funziona bene sia per adulti che per bambini, cosa rara tra le attrazioni di Dubai.\n\nIl parcheggio e incluso nel biglietto, e House of Hype Discover Pass e disponibile come aggiunta opzionale al momento della prenotazione.",
+  "highlights": [
+   "Dodici zone interattive di luce e suono, dall'aurora boreale alla superficie lunare",
+   "Stanze che reagiscono al tocco e al movimento",
+   "Completamente al chiuso e con aria condizionata",
+   "Funziona bene per adulti e bambini insieme, cosa rara qui",
+   "Parcheggio incluso; House of Hype e un'aggiunta opzionale alla prenotazione"
+  ],
+  "included": [
+   "Biglietto di ingresso ad AYA Universe",
+   "House of Hype Discover Pass (se opzione selezionata)",
+   "Parcheggio"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "burj-khalifa-124-125-and-dubai-aquarium-combo-ticket": {
+  "title": "Burj Khalifa livelli 124 e 125 e Dubai Aquarium, biglietto combinato",
+  "metaTitle": "Burj Khalifa livelli 124 e 125 e Dubai Aquarium, biglietto combinato",
+  "metaDescription": "Le due attrazioni che quasi tutti visitano a Dubai, comprate insieme: entrambe si trovano dentro il Dubai Mall, quindi la coppia costa una sola uscita invece di due.",
+  "shortDescription": "Le due attrazioni che quasi tutti visitano a Dubai, comprate insieme: entrambe si trovano dentro il Dubai Mall, quindi la coppia costa una sola uscita invece di due.",
+  "fullDescription": "Il Burj Khalifa e il Dubai Aquarium sono le due attrazioni che quasi tutti i visitatori fanno a Dubai, e questo biglietto le compra insieme: entrambe si trovano dentro il Dubai Mall, quindi la coppia costa una sola uscita invece di due.\n\nSali ai livelli 124 e 125 della torre, a circa 450 metri di altezza, con una fascia orario fissa scelta al momento della prenotazione. Poi passi al tunnel da dieci milioni di litri del Dubai Aquarium, allo Underwater Zoo e all'Osservatorio Subacqueo.\n\nAttenzione: il livello 148, un piano piu alto e separato, non e incluso in questo biglietto.",
+  "highlights": [
+   "Burj Khalifa livelli 124 e 125, a circa 450 metri di altezza",
+   "Il tunnel da dieci milioni di litri del Dubai Aquarium, lo Underwater Zoo e i pinguini",
+   "Entrambe dentro il Dubai Mall, quindi una sola uscita invece di due",
+   "Fascia orario fissa per la torre, scelta alla prenotazione",
+   "attenzione: il livello 148 e un piano separato piu alto e non e incluso"
+  ],
+  "included": [
+   "Biglietto di ingresso al Burj Khalifa (nella fascia orario scelta alla prenotazione)",
+   "Ingresso al tunnel del Dubai Aquarium e allo Underwater Zoo",
+   "Osservatorio Subacqueo",
+   "Ingresso ai livelli 124 e 125"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
+ "dibba-fujairah-snorkelling-day-trip-from-dubai": {
+  "title": "Gita giornaliera di snorkeling a Dibba Fujairah da Dubai",
+  "metaTitle": "Gita giornaliera di snorkeling a Dibba Fujairah da Dubai",
+  "metaDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: piu fresco, piu limpido, con barriere coralline vicine alla riva che rendono lo snorkeling in barca davvero gratificante.",
+  "shortDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: piu fresco, piu limpido, con barriere coralline vicine alla riva che rendono lo snorkeling in barca davvero gratificante.",
+  "fullDescription": "Il Golfo dell'Oman e un mare diverso da quello su cui si trova Dubai: piu fresco, piu limpido, con barriere coralline cosi vicine alla riva che lo snorkeling fatto dalla barca mostra davvero qualcosa. Dibba, sulla costa di Fujairah, e il punto da cui partono le barche.\n\nLe barriere basse ospitano pesci pagliaccio, pesci pappagallo, razze e tartarughe, con le montagne che scendono dritte fino alla riva alle tue spalle. Attrezzatura, giubbotti salvagente, snack e bevande sono inclusi nel prezzo.\n\nAttenzione: il trasporto tra Dubai e Fujairah comporta un sovrapprezzo di 160 AED, da pagare all'arrivo, che copre sia l'andata che il ritorno.",
+  "highlights": [
+   "Il Golfo dell'Oman, piu limpido e fresco della costa di Dubai",
+   "Barriere coralline basse con pesci pagliaccio, pesci pappagallo, razze e tartarughe",
+   "Montagne che scendono dritte fino alla riva alle tue spalle",
+   "Attrezzatura, giubbotti, snack e bevande inclusi",
+   "attenzione: il trasporto Dubai-Fujairah comporta un sovrapprezzo di 160 AED pagato all'arrivo"
+  ],
+  "included": [
+   "Attrezzatura da snorkeling",
+   "Giubbotto salvagente",
+   "Acqua e bibite",
+   "Snack",
+   "Trasporto: il trasporto tra Dubai e Fujairah e incluso con un sovrapprezzo di 160 AED extra, da pagare all'arrivo. Copre sia il viaggio di andata che quello di ritorno."
+  ],
+  "notIncluded": [
+   "Cibo"
+  ]
+ },
+ "discover-scuba-diving-in-dubai-first-dive": {
+  "title": "Discover Scuba Diving a Dubai: la tua prima immersione",
+  "metaTitle": "Discover Scuba Diving a Dubai: la tua prima immersione",
+  "metaDescription": "La sessione per chi non ha mai respirato sottacqua. Nessuna certificazione, nessun corso, nessuna esperienza precedente: un istruttore ti guida nella teoria a terra, ti prepara l'attrezzatura, e poi entra in acqua con te.",
+  "shortDescription": "La sessione per chi non ha mai respirato sottacqua. Nessuna certificazione, nessun corso, nessuna esperienza precedente: un istruttore ti guida nella teoria a terra, ti prepara l'attrezzatura, e poi entra in acqua con te.",
+  "fullDescription": "Questa e la sessione pensata per chi non ha mai respirato sottacqua. Non serve certificazione, non serve un corso, non serve esperienza precedente: un istruttore ti guida nella teoria a terra, ti prepara l'attrezzatura, e poi entra in acqua insieme a te.\n\nL'intera sessione dura circa tre ore, e la maggior parte del tempo e dedicata a preparazione e teoria prima di entrare in acqua. L'istruttore resta con te per tutta la durata, attrezzatura e istruzione sono incluse.\n\nE il modo onesto per scoprire se vuoi imparare a immergerti sul serio.\n\nAttenzione: non prenotare questa attivita nelle 24 ore precedenti a un volo, e controlla prima le domande sul questionario medico.",
+  "highlights": [
+   "Nessuna certificazione o esperienza richiesta: un istruttore resta con te per tutta la sessione",
+   "Circa tre ore, la maggior parte dedicata a preparazione e teoria",
+   "Attrezzatura e istruzione incluse",
+   "Il modo onesto per scoprire se vuoi imparare a immergerti sul serio",
+   "attenzione: non prenotare nelle 24 ore precedenti a un volo, controlla prima le domande sul questionario medico"
+  ],
+  "included": [
+   "Attrezzatura da immersione",
+   "Istruzione"
+  ],
+  "notIncluded": [
+   "Trasporto"
+  ]
+ },
+ "dubai-aquarium-and-underwater-zoo-ticket": {
+  "title": "Dubai Aquarium e Underwater Zoo, biglietto di ingresso",
+  "metaTitle": "Dubai Aquarium e Underwater Zoo, biglietto di ingresso",
+  "metaDescription": "La vasca da dieci milioni di litri davanti alla quale sei gia passato se sei stato al Dubai Mall: questo biglietto ti porta dentro invece di guardare dal pannello di vetro dei negozi.",
+  "shortDescription": "La vasca da dieci milioni di litri davanti alla quale sei gia passato se sei stato al Dubai Mall: questo biglietto ti porta dentro invece di guardare dal pannello di vetro dei negozi.",
+  "fullDescription": "La vasca da dieci milioni di litri davanti alla quale sei gia passato se sei stato al Dubai Mall diventa, con questo biglietto, qualcosa da attraversare invece che guardare dal pannello di vetro dei negozi.\n\nUn tunnel ti porta sotto razze e squali tigre della sabbia, e lo Underwater Zoo prosegue per habitat, con la Penguin Cove e il vivaio degli animali. L'intera visita dura circa un'ora, comodamente al chiuso.\n\nAttenzione: esistono diversi livelli di biglietto. Confermiamo quello giusto per te prima del pagamento.",
+  "highlights": [
+   "Dentro la vasca da dieci milioni di litri, non solo guardando dal mall",
+   "Tunnel con razze e squali tigre della sabbia sopra la testa",
+   "Underwater Zoo per habitat, piu Penguin Cove e il vivaio degli animali",
+   "Circa un'ora, comodamente al chiuso",
+   "attenzione: esistono diversi livelli di biglietto, confermiamo quello giusto prima del pagamento"
+  ],
+  "included": [
+   "Tutte le opzioni: biglietto di ingresso ad Aquarium e Underwater Zoo con Penguin Cove e vivaio",
+   "Controlla ogni opzione per ulteriori inclusioni"
+  ],
+  "notIncluded": [
+   "Cibo e bevande",
+   "Foto"
+  ]
+ },
+ "dubai-azimut-42-private-yacht-cruise-for-small-groups": {
+  "title": "Dubai, crociera privata su yacht Azimut 42 per piccoli gruppi",
+  "metaTitle": "Dubai, crociera privata su yacht Azimut 42 per piccoli gruppi",
+  "metaDescription": "Un Azimut da 42 piedi, noleggiato privatamente: la dimensione giusta per un piccolo gruppo, abbastanza grande da avere un salone, un ponte e ombra, abbastanza piccola da non essere venduta a venti estranei.",
+  "shortDescription": "Un Azimut da 42 piedi, noleggiato privatamente: la dimensione giusta per un piccolo gruppo, abbastanza grande da avere un salone, un ponte e ombra, abbastanza piccola da non essere venduta a venti estranei.",
+  "fullDescription": "Un Azimut da 42 piedi, noleggiato privatamente, e la dimensione che funziona davvero per un piccolo gruppo: abbastanza grande da avere un salone, una cabina, un bagno e ombra, abbastanza piccola da non essere venduta a venti estranei.\n\nNavighi davanti a The Palm, Atlantis e il Burj Al Arab al tuo ritmo. Puoi portare cibo e bevande tue, come permettono la maggior parte dei noleggi, e spesso costa meno a persona rispetto a una crociera condivisa premium con sei o piu passeggeri.\n\nLe fasce al tramonto si esauriscono per prime.",
+  "highlights": [
+   "Un Azimut da 42 piedi noleggiato privatamente, con salone, cabina, bagno e ombra",
+   "The Palm, Atlantis e il Burj Al Arab al tuo ritmo",
+   "Puoi portare cibo e bevande tue, come permettono la maggior parte dei noleggi",
+   "Spesso costa meno a testa di una crociera condivisa premium con sei o piu persone",
+   "Le fasce al tramonto si esauriscono per prime"
+  ],
+  "included": [
+   "Capitano ed equipaggio professionisti e autorizzati",
+   "Acqua minerale",
+   "Posate usa e getta",
+   "Cubetti di ghiaccio e ghiacciaia",
+   "Impianto audio di qualita",
+   "Area prendisole sul ponte di prua",
+   "Attrezzatura di sicurezza",
+   "Nuoto su richiesta",
+   "Carburante"
+  ],
+  "notIncluded": [
+   "Cibo"
+  ]
+ },
+ "dubai-can-am-1000cc-buggy-desert-adventure": {
+  "title": "Dubai, avventura nel deserto con buggy Can-Am 1000cc",
+  "metaTitle": "Dubai, avventura nel deserto con buggy Can-Am 1000cc",
+  "metaDescription": "Un Can-Am da 1000cc, guidato da te, tra le dune rosse: uno sport diverso dall'essere passeggero sul 4x4 di qualcun altro.",
+  "shortDescription": "Un Can-Am da 1000cc, guidato da te, tra le dune rosse: uno sport diverso dall'essere passeggero sul 4x4 di qualcun altro.",
+  "fullDescription": "Un Can-Am da 1000cc, guidato da te, tra le dune rosse: uno sport diverso dall'essere passeggero sul 4x4 di qualcun altro.\n\nPrima di partire ricevi un gabbia di sicurezza, un kit completo di sicurezza e un briefing. C'e abbastanza potenza per scalare le facce delle dune con il tuo stesso acceleratore.\n\nCena al campo e spettacoli sono disponibili come livello superiore: danza del ventre, spettacolo tanoura, shisha, giro in cammello, tatuaggio all'henné e caffe arabo con bibite, in base all'opzione scelta.\n\nAttenzione: e un'attivita fisicamente impegnativa e polverosa, non una gita rilassata al tramonto.",
+  "highlights": [
+   "Un Can-Am da 1000cc che guidi tu, non un sedile da passeggero",
+   "Gabbia di sicurezza, kit completo e briefing prima di partire",
+   "Abbastanza potenza per scalare le dune con il tuo acceleratore",
+   "Cena al campo e spettacoli disponibili come livello superiore",
+   "attenzione: davvero fisico e polveroso, non una gita rilassata al tramonto"
+  ],
+  "included": [
+   "Ritiro e riaccompagno nel centro di Dubai",
+   "Giro in buggy Can-Am 1000cc",
+   "Cena barbecue (se opzione campo selezionata)",
+   "Spettacolo di danza del ventre (se opzione campo selezionata)",
+   "Spettacolo tanoura (se opzione campo selezionata)",
+   "Shisha (se opzione campo selezionata)",
+   "Giro in cammello (se opzione campo selezionata)",
+   "Tatuaggio all'henne (se opzione campo selezionata)",
+   "Caffe arabo e bibite (se opzione campo selezionata)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche (acquistabili)",
+   "Foto souvenir (acquistabili)",
+   "Mance (opzionali)"
+  ]
+ },
+ "dubai-convertible-mustang-city-tour-with-a-guide": {
+  "title": "Dubai, tour della citta in Mustang decappottabile con guida",
+  "metaTitle": "Dubai, tour della citta in Mustang decappottabile con guida",
+  "metaDescription": "I monumenti di Dubai sono stati costruiti per essere visti sfilando lento davanti a loro, e c'e una differenza tra vederli dal finestrino di un pullman e vederli da un'auto scoperta.",
+  "shortDescription": "I monumenti di Dubai sono stati costruiti per essere visti sfilando lento davanti a loro, e c'e una differenza tra vederli dal finestrino di un pullman e vederli da un'auto scoperta.",
+  "fullDescription": "I monumenti di Dubai sono stati pensati per essere visti sfilando lentamente davanti a loro, e c'e una vera differenza tra vederli dal finestrino di un pullman e vederli da un'auto scoperta.\n\nSali su una Mustang o Camaro decappottabile con il tetto abbassato, accompagnato da una guida. Il percorso copre Sheikh Zayed Road, Downtown, la costa di Jumeirah, The Palm e Bluewaters, con soste fotografiche incluse e la guida che scatta le foto per te.\n\nIl momento migliore sono le ultime due ore di luce del giorno, ed e ancora meglio in inverno.\n\nAttenzione: le auto hanno due porte, quindi non e l'opzione giusta per una famiglia numerosa.",
+  "highlights": [
+   "Una Mustang o Camaro decappottabile con il tetto abbassato e una guida con te",
+   "Sheikh Zayed Road, Downtown, la costa di Jumeirah, The Palm e Bluewaters",
+   "Soste fotografiche incluse, con la guida che scatta le foto",
+   "Il momento migliore sono le ultime due ore di luce, meglio ancora in inverno",
+   "attenzione: auto a due porte, non l'opzione giusta per una famiglia numerosa"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (zona principale di Dubai)",
+   "Mustang o Camaro decappottabile",
+   "Guida turistica certificata e autista",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-desert-park-horseback-riding-hour": {
+  "title": "Dubai, un'ora a cavallo nel parco desertico",
+  "metaTitle": "Dubai, un'ora a cavallo nel parco desertico",
+  "metaDescription": "Un'ora a cavallo attraverso un parco desertico fuori citta, una proposta piu tranquilla di qualsiasi altra attivita nella lista di Dubai.",
+  "shortDescription": "Un'ora a cavallo attraverso un parco desertico fuori citta, una proposta piu tranquilla di qualsiasi altra attivita nella lista di Dubai.",
+  "fullDescription": "Un'ora a cavallo attraverso un parco desertico fuori citta, un'esperienza molto piu tranquilla di qualsiasi altra attivita nella lista di Dubai: niente dune, ma vero terreno di parco.\n\nRicevi un briefing di sicurezza e un casco prima di partire, e i principianti assoluti sono la normalita qui. Dopo il giro c'e una sessione in cui ti occupi della cura del cavallo.\n\nIl momento migliore e all'alba, ed e un'attivita invernale disponibile tra giugno e settembre.\n\nAttenzione: indossa pantaloni lunghi e scarpe chiuse, cavalcare in pantaloncini e un errore.",
+  "highlights": [
+   "Un'ora a cavallo attraverso un parco desertico, non tra le dune",
+   "Briefing di sicurezza e casco incluso; i principianti assoluti sono la normalita qui",
+   "Una sessione dopo il giro dedicata alla cura del cavallo",
+   "Il momento migliore e all'alba, attivita invernale tra giugno e settembre",
+   "attenzione: pantaloni lunghi e scarpe chiuse, cavalcare in pantaloncini e un errore"
+  ],
+  "included": [
+   "1 ora di giro a cavallo",
+   "Briefing di sicurezza",
+   "Cura del cavallo dopo il giro",
+   "Casco"
+  ],
+  "notIncluded": [
+   "Mance (opzionali)",
+   "Trasferimenti"
+  ]
+ },
+ "dubai-dinner-cruise-with-a-chef-designed-menu-and-live-music": {
+  "title": "Dubai, crociera con cena firmata dallo chef e musica dal vivo",
+  "metaTitle": "Dubai, crociera con cena firmata dallo chef e musica dal vivo",
+  "metaDescription": "Una crociera con cena dove il cibo e la vera ragione del viaggio e non un ripensamento, cosa che non e la norma su questa costa.",
+  "shortDescription": "Una crociera con cena dove il cibo e la vera ragione del viaggio e non un ripensamento, cosa che non e la norma su questa costa.",
+  "fullDescription": "Su questa crociera il cibo e la vera ragione del viaggio, non un ripensamento, cosa che non e la norma su questa costa.\n\nUn menu fisso firmato dallo chef viene impiattato direttamente al tavolo, non servito in coda da un buffet. La musica dal vivo accompagna tutta la serata, mentre lo skyline della Marina e di The Palm si accende attorno a te. La crociera dura due ore, con le portate scandite dal ritmo della navigazione.\n\nAttenzione: conferma le esigenze alimentari al momento della prenotazione, un menu fisso non si improvvisa.",
+  "highlights": [
+   "Un menu fisso firmato dallo chef impiattato al tavolo, non un buffet",
+   "Musica dal vivo per tutta la serata",
+   "Lo skyline della Marina e di The Palm che si accende attorno a te",
+   "Due ore, con le portate scandite dal ritmo della navigazione",
+   "attenzione: conferma le esigenze alimentari alla prenotazione, un menu fisso non si improvvisa"
+  ],
+  "included": [
+   "Crociera di due ore su yacht di lusso nella Dubai Marina, passando davanti ai monumenti principali",
+   "Cena a piu portate con menu curato da uno chef stellato Michelin",
+   "Cantante dal vivo e intrattenimento a bordo",
+   "Bibite illimitate",
+   "Acqua in bottiglia, caffe e te",
+   "Bar completo a bordo (bevande alcoliche a pagamento a bordo)",
+   "Wi-Fi gratuito a bordo",
+   "Servizi igienici",
+   "Tariffe di ingresso incluse"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel (trasferimento disponibile a costo aggiuntivo)",
+   "Bevande alcoliche (acquistabili al bar di bordo)",
+   "Decorazioni per eventi speciali o allestimenti personalizzati (disponibili su richiesta a costo aggiuntivo)",
+   "Spese personali e qualsiasi servizio non espressamente indicato come incluso"
+  ]
+ },
+ "dubai-dinner-in-the-sky-three-course-meal-at-fifty-metres": {
+  "title": "Dubai Dinner in the Sky: cena di tre portate a cinquanta metri",
+  "metaTitle": "Dubai Dinner in the Sky: cena di tre portate a cinquanta metri",
+  "metaDescription": "Un tavolo per ventidue persone, imbullonato a una piattaforma, alzato a cinquanta metri da una grua e lasciato li mentre mangi. Gli chef e l'equipaggio salgono con te al centro, ed e questo il dettaglio che fa funzionare il tutto.",
+  "shortDescription": "Un tavolo per ventidue persone, imbullonato a una piattaforma, alzato a cinquanta metri da una grua e lasciato li mentre mangi. Gli chef e l'equipaggio salgono con te al centro, ed e questo il dettaglio che fa funzionare il tutto.",
+  "fullDescription": "Un tavolo per ventidue persone, imbullonato a una piattaforma, viene alzato a cinquanta metri da una grua e lasciato li mentre mangi. Gli chef e l'equipaggio salgono con te al centro della piattaforma, ed e proprio questo dettaglio a far funzionare l'esperienza: il cibo viene cucinato e servito mentre sei in aria, non preparato a terra.\n\nPuoi scegliere tra diversi menu, incluso uno vegetariano, al momento della prenotazione. La piattaforma ruota lentamente, cosi tutti ottengono la vista su Downtown e sul Burj Khalifa. L'intera esperienza dura poco piu di un'ora in aria.\n\nAttenzione: sei assicurato con un'imbracatura e non puoi lasciare il tavolo, e il meteo puo far cambiare la tua fascia orario.",
+  "highlights": [
+   "Una cena di tre portate a cinquanta metri, cucinata e servita sulla piattaforma",
+   "Scelta di menu incluso uno vegetariano, selezionata alla prenotazione",
+   "Rotazione lenta cosi tutti vedono Downtown e il Burj Khalifa",
+   "Poco piu di un'ora in aria",
+   "attenzione: sei assicurato con un'imbracatura senza poter lasciare il tavolo, e il meteo puo cambiare la tua fascia orario"
+  ],
+  "included": [
+   "Menu di 3 portate",
+   "Opzione 1: Angus Beef Short Rib, antipasto di burrata italiana, portata principale di Angus Beef Short Rib con riso dai tratti mediorientali, e sfera di cioccolato con gelato come dessert",
+   "Opzione 3: Tortellini vegetariani o Penne vegane, scelta tra tortellini con salsa bianca (vegetariano) o penne con salsa rossa (vegano)",
+   "Succo di frutta fresco e bibite",
+   "Caffe e te"
+  ],
+  "notIncluded": [
+   ""
+  ]
+ },
+ "dubai-dune-buggy-desert-experience-with-camp-dinner-and-shows": {
+  "title": "Dubai, esperienza buggy nel deserto con cena al campo e spettacoli",
+  "metaTitle": "Dubai, esperienza buggy nel deserto con cena al campo e spettacoli",
+  "metaDescription": "La maggior parte dei safari nel deserto ti mette dietro, sul sedile posteriore del 4x4 di qualcun altro. Questo invece ti metteri al volante di un buggy, ed e tutta la differenza: guidi le dune da solo invece di farti guidare attraverso di esse.",
+  "shortDescription": "La maggior parte dei safari nel deserto ti mette dietro, sul sedile posteriore del 4x4 di qualcun altro. Questo invece ti mette al volante di un buggy, ed e tutta la differenza: guidi le dune da solo invece di farti guidare attraverso di esse.",
+  "fullDescription": "La maggior parte dei safari nel deserto ti mette sul sedile posteriore del 4x4 di qualcun altro. Questo invece ti mette al volante di un buggy, ed e tutta la differenza: guidi le dune rosse da solo, su una macchina con gabbia di sicurezza costruita apposta per questo, invece di farti guidare attraverso di esse.\n\nRicevi un briefing completo e il kit di sicurezza prima di partire. Il campo nel deserto offre buffet barbecue, danza del ventre e spettacolo tanoura, con sand surfing, shisha, henné e giro in cammello in base al livello scelto.\n\nAttenzione: le inclusioni variano per livello, confermiamo esattamente cosa copre il tuo prima del pagamento.",
+  "highlights": [
+   "Guidi il buggy da solo: una macchina con gabbia di sicurezza costruita per le dune rosse",
+   "Briefing completo e kit di sicurezza prima di partire",
+   "Campo nel deserto con buffet barbecue, danza del ventre e spettacolo tanoura",
+   "Sand surfing, shisha, henne e giro in cammello in base al livello",
+   "attenzione: le inclusioni variano per livello, confermiamo tutto prima del pagamento"
+  ],
+  "included": [
+   "Ritiro e riaccompagno nel centro di Dubai",
+   "Giro in dune buggy",
+   "Cena barbecue (in base all'opzione selezionata)",
+   "Spettacolo di danza del ventre (in base all'opzione selezionata)",
+   "Spettacolo tanoura (in base all'opzione selezionata)",
+   "Shisha (in base all'opzione selezionata)",
+   "Giro in cammello (in base all'opzione selezionata)",
+   "Tatuaggio all'henne (in base all'opzione selezionata)",
+   "Caffe arabo e bibite (in base all'opzione selezionata)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche (acquistabili)",
+   "Foto souvenir (acquistabili)",
+   "Mance (opzionali)"
+  ]
+ },
+ "dubai-flyboard-session-with-instructor-off-the-burj-al-arab": {
+  "title": "Dubai, sessione di flyboard con istruttore davanti al Burj Al Arab",
+  "metaTitle": "Dubai, sessione di flyboard con istruttore davanti al Burj Al Arab",
+  "metaDescription": "Un flyboard e una tavola legata ai piedi, alimentata da un getto d'acqua, che ti alza dal mare e ti tiene li. Trenta minuti con un istruttore, davanti alla costa di Umm Suqeim con il Burj Al Arab dietro di te.",
+  "shortDescription": "Un flyboard e una tavola legata ai piedi, alimentata da un getto d'acqua, che ti alza dal mare e ti tiene li. Trenta minuti con un istruttore, davanti alla costa di Umm Suqeim con il Burj Al Arab dietro di te.",
+  "fullDescription": "Un flyboard e una tavola legata ai piedi, alimentata da un getto d'acqua, che ti alza dal mare e ti tiene sospeso li. Questa sessione dura trenta minuti con un istruttore, davanti alla costa di Umm Suqeim con il Burj Al Arab dietro di te.\n\nL'istruttore controlla l'acceleratore dalla barca, quindi la maggior parte delle persone sta in equilibrio stabile a meta sessione e si lancia in picchiata entro la fine. Non serve esperienza o un nuoto forte, il giubbotto salvagente resta per tutta la durata.\n\nFoto e video vengono scattati dall'istruttore e sono inclusi. Trovi anche armadietti e uno spogliatoio con doccia aperta.",
+  "highlights": [
+   "Trenta minuti con un istruttore che controlla l'acceleratore dalla barca",
+   "La maggior parte delle persone sta in equilibrio stabile a meta sessione e si lancia entro la fine",
+   "Non serve esperienza o un nuoto forte: giubbotto salvagente per tutta la durata",
+   "Foto e video scattati dall'istruttore, inclusi",
+   "Armadietti e spogliatoio con doccia aperta"
+  ],
+  "included": [
+   "Giro in flyboard",
+   "Giubbotto salvagente",
+   "Casco morbido (opzionale)",
+   "Foto e video scattati dall'istruttore",
+   "Armadietti",
+   "Spogliatoio con doccia aperta",
+   "Wi-Fi e stazione di ricarica",
+   "20% di sconto su cibo e bevande al Lumiere Cafe nella marina"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel"
+  ]
+ },
+ "dubai-fountain-abra-lake-ride-at-the-burj-khalifa": {
+  "title": "Dubai Fountain, giro in abra sul lago al Burj Khalifa",
+  "metaTitle": "Dubai Fountain, giro in abra sul lago al Burj Khalifa",
+  "metaDescription": "Trenta minuti sul Burj Lake a bordo di un'abra tradizionale in legno, ai piedi del Burj Khalifa, mentre la fontana e in funzione.",
+  "shortDescription": "Trenta minuti sul Burj Lake a bordo di un'abra tradizionale in legno, ai piedi del Burj Khalifa, mentre la fontana e in funzione.",
+  "fullDescription": "Trenta minuti sul Burj Lake a bordo di un'abra tradizionale in legno, ai piedi del Burj Khalifa, mentre la fontana e in funzione.\n\nTi trovi dentro l'arco della Dubai Fountain invece che dietro la ringhiera, direttamente sotto il Burj Khalifa con il mall illuminato lungo la riva. L'abra e la stessa imbarcazione tradizionale usata sul Dubai Creek.\n\nI trenta minuti bastano a catturare uno spettacolo completo e di solito parte di un altro.\n\nAttenzione: le fasce serali si esauriscono nei fine settimana, aspettati qualche schizzo d'acqua.",
+  "highlights": [
+   "Dentro l'arco della Dubai Fountain invece che dietro la ringhiera",
+   "Direttamente sotto il Burj Khalifa con il mall illuminato lungo la riva",
+   "Un'abra tradizionale in legno, la stessa imbarcazione usata sul Dubai Creek",
+   "Trenta minuti, abbastanza per uno spettacolo completo e parte di un altro",
+   "attenzione: le fasce serali si esauriscono nei weekend, aspettati qualche schizzo"
+  ],
+  "included": [
+   "Giro di 30 minuti in barca tradizionale"
+  ],
+  "notIncluded": [
+   "Cibo e bevande"
+  ]
+ },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
   "title": "Da citta Ho Chi Minh: canali di Ben Tre a privato, artigianato e cibo con frutta",
   "metaTitle": "Da citta Ho Chi Minh: canali di Ben Tre a privato, artigianato e",
