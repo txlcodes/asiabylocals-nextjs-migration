@@ -107894,6 +107894,251 @@ export const IT_TOURS: Record<string, TourT> = {
    "Le mance per driver e tracker"
   ]
  },
+ "yala-to-ella-private-transfer-with-an-etili-village-visit-and-home": {
+  "title": "Trasferimento privato da Yala a Ella con visita al villaggio di Etili e cucina casalinga",
+  "metaTitle": "Trasferimento privato da Yala a Ella con visita al villaggio di Etili e cucina casalinga",
+  "metaDescription": "La salita dalla pianura di Yala a Ella con una sosta al villaggio di Etili, dove cucini con una famiglia locale e mangi con loro, invece di guidare dritto fino in cima.",
+  "shortDescription": "La salita dalla pianura di Yala a Ella con una sosta al villaggio di Etili, dove cucini con una famiglia locale e mangi con loro, invece di guidare dritto fino in cima.",
+  "fullDescription": "Nota importante prima di prenotare: il Department of Wildlife Conservation ha chiuso i Blocchi 1 e 2 del Parco Nazionale di Yala dal 14 settembre al 15 ottobre 2026 per la siccità, quindi i safari in quei blocchi non possono svolgersi in quelle date. I Blocchi da 3 a 6 restano aperti e Udawalawe e Wilpattu non sono interessati: per i viaggi in quel periodo ti contatteremo per spostare il safari in uno di quei parchi o a una data dopo il 15 ottobre. Udawalawe è il parco più forte per gli elefanti; Wilpattu ha gli avvistamenti di leopardi più tranquilli.\n\nLa maggior parte delle persone lascia la zona di Yala la mattina dopo un giro all'alba e si dirige verso le colline, e la salita lungo l'altopiano dura tre ore senza molto da vedere se la fai dritta.\n\nEtili è un villaggio agricolo sulla strada, nella campagna tra la pianura e l'altopiano, e fermarsi lì trasforma il trasferimento nella metà più memorabile della giornata.\n\nQuello che succede è semplice: incontri una famiglia, cucini con loro e mangi quello che avete preparato. Il riso con curry è sei o sette piatti separati cucinati singolarmente e mangiati insieme, e partecipare significa grattugiare il cocco su un hiramanaya, macinare la pasta di spezie su una pietra e cucinare in pentole di terracotta su un fuoco di legna che si comporta in modo completamente diverso da un fornello a gas.\n\nIntorno c'è il villaggio stesso: risaie, piccole proprietà agricole, il bacino che le irriga, e la vita normale di un posto che non è in nessun itinerario.\n\nPoi la salita, che è il momento in cui la giornata cambia carattere: dal caldo secco della pianura alle piantagioni di tè a mille metri in poco più di un'ora, e circa quindici gradi più freddo quando arrivi a Ella.\n\nCirca cinque ore in totale, con arrivo nel pomeriggio e la tua prima mattina a Ella libera.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in lingua inglese",
+   "ritiro in hotel nella zona di Yala",
+   "la visita al villaggio",
+   "la sessione di cucina e il pranzo",
+   "arrivo al tuo hotel a Ella",
+   "bagagli trasportati per tutto il percorso"
+  ],
+  "notIncluded": [
+   "Bevande oltre a quelle servite con il pranzo",
+   "mance",
+   "spese personali"
+  ]
+ },
+ "kalametiya-bird-sanctuary-boat-safari-from-ella-with-coastal-transfers": {
+  "title": "Safari in barca al santuario degli uccelli di Kalametiya da Ella con trasferimenti costieri",
+  "metaTitle": "Safari in barca al santuario degli uccelli di Kalametiya da Ella con trasferimenti costieri",
+  "metaDescription": "Un safari in barca tra le lagune e le mangrovie di Kalametiya, un santuario costiero per uccelli con oltre 150 specie, con trasferimenti di andata e ritorno da Ella.",
+  "shortDescription": "Un safari in barca tra le lagune e le mangrovie di Kalametiya, un santuario costiero per uccelli con oltre 150 specie, con trasferimenti di andata e ritorno da Ella.",
+  "fullDescription": "Kalametiya è un sistema di laguna costiera e mangrovie sulla costa sud, a circa tre ore da Ella, ed è uno dei migliori siti per il birdwatching dello Sri Lanka che quasi nessun visitatore raggiunge. Yala è a un'ora verso est e attira tutta l'attenzione.\n\nIl santuario comprende lagune salmastre, mangrovie, macchia e un tratto di costa, e questa combinazione è il motivo per cui il numero di specie è così alto: oltre 150 registrate, incluso un grande afflusso migratorio tra circa novembre e marzo. Trampolieri sui banchi di fango, aironi e garzette nelle acque basse, cicogne dipinte, martin pescatori lungo i canali e rapaci sopra la testa. Le specie endemiche compaiono nella macchia dietro.\n\nLa barca è un piccolo motoscafo, che è il mezzo giusto: entra silenziosamente nei canali di mangrovie dove una jeep non potrebbe mai arrivare, e gli uccelli sono molto meno disturbati da una barca lenta che da un veicolo.\n\nCoccodrilli, varani e, nelle mangrovie, occasionali lontre.\n\nIl primo mattino è la finestra più produttiva, motivo per cui la giornata inizia prima dell'alba. Una guida con un cannocchiale fa una grande differenza qui: molto di quello che vale la pena vedere è sul lato opposto di una laguna.\n\nTranquillo, poco alla moda e, per chi ama davvero gli uccelli, meglio di un safari.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con driver-guida in lingua inglese",
+   "ritiro e riaccompagno in hotel a Ella",
+   "il safari in barca con un barcaiolo locale",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso al santuario",
+   "i pasti",
+   "le mance",
+   "i binocoli"
+  ]
+ },
+ "ella-to-kandy-transfer-via-a-vedda-village-waterfalls-and-a-home-lunch": {
+  "title": "Trasferimento da Ella a Kandy via un villaggio Vedda, cascate e un pranzo casalingo",
+  "metaTitle": "Trasferimento da Ella a Kandy via un villaggio Vedda, cascate e un pranzo casalingo",
+  "metaDescription": "Una lunga giornata per spostarsi da Ella a Kandy lungo la strada orientale, con una visita alla comunità Vedda a Dambana, due cascate e un pranzo cucinato in casa lungo il percorso.",
+  "shortDescription": "Una lunga giornata per spostarsi da Ella a Kandy lungo la strada orientale, con una visita alla comunità Vedda a Dambana, due cascate e un pranzo cucinato in casa lungo il percorso.",
+  "fullDescription": "Da Ella a Kandy si va di solito per la strada di montagna attraverso Nuwara Eliya. Questo percorso va nella direzione opposta: giù per l'altopiano di Uva, verso est attraverso la pianura fino a Mahiyanganaya, e poi a nord e ovest verso Kandy, ed è più lungo, più tranquillo e molto più interessante.\n\nDambana è il motivo. I Vedda sono il popolo indigeno dello Sri Lanka, presenti sull'isola molto prima dell'arrivo dei Singalesi che le cronache datano al quinto secolo avanti Cristo, e alcune comunità restano in questa zona. Una visita significa incontrare membri della comunità, vedere le tecniche di caccia e raccolta che insegnano ancora e ascoltare il loro racconto di una storia che quasi sempre viene narrata su di loro invece che da loro.\n\nSii chiaro su cosa sia: un mezzo di sussistenza, e in parte una rappresentazione. La comunità controlla la presentazione e il denaro resta sul posto, ed è questa la ragione onesta per andarci. Chiunque te la venda come un incontro con persone non toccate dal mondo moderno non sta dicendo la verità.\n\nIl pranzo cucinato in casa è con una famiglia locale invece che in un ristorante, e le cascate sul percorso sono quelle che la strada principale non vede del tutto.\n\nQuattordici ore, quindi prenotala come la giornata stessa invece che come un trasferimento con qualche extra.\n\nKandy fu l'ultima capitale dei re Singalesi, resistendo ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e il suo possesso un tempo legittimava la regalità. La camera della reliquia si apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera a luglio o agosto porta il reliquiario in processione su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in lingua inglese",
+   "ritiro in hotel a Ella",
+   "tutte le soste sul percorso",
+   "un pranzo cucinato in casa",
+   "arrivo al tuo hotel a Kandy",
+   "bagagli trasportati per tutto il percorso"
+  ],
+  "notIncluded": [
+   "La quota per la comunità del villaggio Vedda",
+   "le offerte nei templi",
+   "bevande oltre al pranzo",
+   "mance"
+  ]
+ },
+ "two-parks-in-a-day-private-yala-and-udawalawe-double-safari-from-ella": {
+  "title": "Due parchi in un giorno: doppio safari privato a Yala e Udawalawe da Ella",
+  "metaTitle": "Due parchi in un giorno: doppio safari privato a Yala e Udawalawe da Ella",
+  "metaDescription": "Entrambi i parchi del sud in un'unica lunga giornata privata: Yala all'alba per i leopardi e Udawalawe nel pomeriggio per gli elefanti, che insieme coprono quasi tutto quello che lo Sri Lanka ha da offrire.",
+  "shortDescription": "Entrambi i parchi del sud in un'unica lunga giornata privata: Yala all'alba per i leopardi e Udawalawe nel pomeriggio per gli elefanti, che insieme coprono quasi tutto quello che lo Sri Lanka ha da offrire.",
+  "fullDescription": "Nota importante prima di prenotare: il Department of Wildlife Conservation ha chiuso i Blocchi 1 e 2 del Parco Nazionale di Yala dal 14 settembre al 15 ottobre 2026 per la siccità, quindi i safari in quei blocchi non possono svolgersi in quelle date. I Blocchi da 3 a 6 restano aperti e Udawalawe e Wilpattu non sono interessati: per i viaggi in quel periodo ti contatteremo per spostare il safari in uno di quei parchi o a una data dopo il 15 ottobre. Udawalawe è il parco più forte per gli elefanti; Wilpattu ha gli avvistamenti di leopardi più tranquilli.\n\nYala e Udawalawe distano novanta minuti e non sono la stessa esperienza. Farli entrambi in un giorno è ambizioso, e ha senso per un motivo specifico: quello in cui ognuno è bravo è quello in cui l'altro non lo è.\n\nIl Blocco 1 di Yala ha la densità di leopardi più alta mai registrata al mondo. Ha anche, in una mattina intensa durante la stagione, circa trecento jeep, e gli animali si trovano nella boscaglia spinosa dove sono difficili da vedere. È la lotteria del leopardo, giocata con le probabilità migliori del mondo.\n\nUdawalawe è l'opposto. Prateria aperta attorno a un bacino, circa seicento elefanti residenti senza nessun posto dove nascondersi, e avvistamenti quasi certi invece che fortunati. Quasi nessuno vede un leopardo qui.\n\nQuindi: Yala all'alba, quando gli animali si muovono, per la possibilità. Udawalawe nel pomeriggio, quando gli elefanti vanno all'acqua, per la certezza. Tra i due vedi anche orsi labiati, bufali, coccodrilli e ben oltre duecento specie di uccelli.\n\nTredici ore e due permessi per i parchi, il che rende questa la giornata più costosa di questa pagina. È adatta a chi considera la fauna selvatica il motivo per cui è venuto in Sri Lanka, e a nessun altro.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con driver-guida in lingua inglese",
+   "ritiro e riaccompagno in hotel a Ella",
+   "entrambe le jeep da safari con driver e tracker",
+   "entrambi i giri di osservazione",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "Entrambi i permessi dei parchi nazionali, pagati in contanti ai cancelli",
+   "i pasti",
+   "le mance per i driver e i tracker"
+  ]
+ },
+ "udawalawe-safari-day-tour-from-ella-bandarawela-or-haputale": {
+  "title": "Safari di un giorno a Udawalawe da Ella, Bandarawela o Haputale con il Transit Home",
+  "metaTitle": "Safari di un giorno a Udawalawe da Ella, Bandarawela o Haputale con il Transit Home",
+  "metaDescription": "Un'escursione di andata e ritorno in giornata dalla zona di Ella a Udawalawe con un giro all'alba e l'alimentazione all'Elephant Transit Home, di ritorno sulle colline nel tardo pomeriggio.",
+  "shortDescription": "Un'escursione di andata e ritorno in giornata dalla zona di Ella a Udawalawe con un giro all'alba e l'alimentazione all'Elephant Transit Home, di ritorno sulle colline nel tardo pomeriggio.",
+  "fullDescription": "Udawalawe è a due ore a sud di Ella ed è il parco da scegliere se vuoi vedere gli elefanti invece di puntare tutto sulla scommessa di un leopardo.\n\nFu creato nel 1972 per proteggere il bacino di un nuovo invaso, e i terreni agricoli spostati dall'acqua divennero prateria aperta. Questo è l'intero motivo per cui funziona: non c'è nessun posto dove un elefante possa nascondersi, i circa seicento animali residenti sono di solito visibili entro venti minuti dall'ingresso, e gli avvistamenti sono quasi certi invece che fortunati. Yala, un'ora più avanti, ha i leopardi e trecento jeep al seguito.\n\nInsieme agli elefanti: bufali d'acqua, cervi pomellati, sciacalli dorati, coccodrilli palustri lungo il bordo dell'invaso, e un birdwatching davvero buono: aquile serpentarie dal ciuffo, aquile variabili, cicogne dipinte e una pesante migrazione invernale.\n\nL'Elephant Transit Home al confine del parco è un centro di riabilitazione invece che un orfanotrofio, e la differenza conta. I cuccioli orfani sono cresciuti con il minimo contatto umano e rilasciati nella natura in gruppi; diverse centinaia sono già tornati liberi. L'alimentazione si osserva da una piattaforma a distanza, senza cavalcate, senza bagni e senza contatto.\n\nDi ritorno sulle colline nel tardo pomeriggio.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con driver-guida in lingua inglese",
+   "ritiro e riaccompagno in hotel",
+   "la jeep da safari con driver e tracker",
+   "il giro di osservazione",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "Il permesso del parco nazionale e l'ingresso al Transit Home, pagati in contanti ai cancelli",
+   "i pasti",
+   "le mance"
+  ]
+ },
+ "ella-to-nuwara-eliya-guided-transfer-with-hakgala-gardens-and-seetha": {
+  "title": "Trasferimento guidato da Ella a Nuwara Eliya con i giardini di Hakgala e Seetha Amman",
+  "metaTitle": "Trasferimento guidato da Ella a Nuwara Eliya con i giardini di Hakgala e Seetha Amman",
+  "metaDescription": "La breve salita da Ella a Nuwara Eliya trasformata in una mezza giornata, con il tempio di Seetha Amman legato al Ramayana, i giardini botanici di Hakgala e il lago Gregory sul percorso.",
+  "shortDescription": "La breve salita da Ella a Nuwara Eliya trasformata in una mezza giornata, con il tempio di Seetha Amman legato al Ramayana, i giardini botanici di Hakgala e il lago Gregory sul percorso.",
+  "fullDescription": "Da Ella a Nuwara Eliya ci sono solo circa due ore di guida, il che la rende la tappa più facile della regione montuosa e quella che vale di più arricchire con soste.\n\nLa strada sale di novecento metri, e il carattere cambia con essa: Ella a mille metri è calda, un po' disordinata e piena di camminatori, e Nuwara Eliya a 1.900 è fredda, formale e costruita dagli inglesi, con un ippodromo, un campo da golf e un ufficio postale in stile falso Tudor.\n\nIl tempio di Seetha Amman a Seetha Eliya è la prima vera sosta. Segna la valle dove si dice che Sita sia stata tenuta prigioniera da Ravana, e ci sono delle cavità nella roccia dall'altra parte del torrente indicate come le impronte di Hanuman. È dipinto in colori vivaci nello stile dell'India del sud e frequentato da pellegrini indiani più che da turisti stranieri, il che gli dà un'atmosfera molto diversa dai siti buddhisti.\n\nHakgala, poco distante, è il secondo dei grandi giardini botanici dello Sri Lanka dopo Peradeniya. Fu disposto nel 1861 per coltivare la china per il chinino e in seguito il tè, e a 1.700 metri cresce quello che la pianura non può: rose, felci arboree, cipressi e una grande collezione di orchidee. Le gazze blu qui si avvicinano ai visitatori.\n\nIl lago Gregory e il centro città chiudono la giornata.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in lingua inglese",
+   "ritiro in hotel",
+   "tutte le soste sul percorso",
+   "arrivo al tuo hotel a Nuwara Eliya",
+   "bagagli trasportati per tutto il percorso"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso ai giardini di Hakgala",
+   "le offerte nei templi",
+   "pasti e bevande",
+   "mance"
+  ]
+ },
+ "udawalawe-cycling-tour-from-ella-with-ravana-falls-and-the-escarpment": {
+  "title": "Giro in bicicletta verso Udawalawe da Ella con le cascate di Ravana e la discesa dall'altopiano",
+  "metaTitle": "Giro in bicicletta verso Udawalawe da Ella con le cascate di Ravana e la discesa dall'altopiano",
+  "metaDescription": "Una lunga discesa in bicicletta dall'altopiano di Ella verso Udawalawe, attraverso villaggi e campagna di risaie, con le cascate di Ravana all'inizio e un veicolo di supporto per tutto il percorso.",
+  "shortDescription": "Una lunga discesa in bicicletta dall'altopiano di Ella verso Udawalawe, attraverso villaggi e campagna di risaie, con le cascate di Ravana all'inizio e un veicolo di supporto per tutto il percorso.",
+  "fullDescription": "La strada da Ella verso Udawalawe scende di circa novecento metri in una trentina di chilometri, e in bicicletta è una delle discese più memorabili dello Sri Lanka. È anche un percorso che quasi nessuno pedala, perché la maggior parte delle persone è in auto diretta verso un safari.\n\nLe cascate di Ravana aprono la giornata, un'ampia cascata vicino alla strada appena sotto Ella, dal nome del re demone del Ramayana che si dice avesse nascosto Sita nelle grotte sopra di essa.\n\nPoi l'altopiano. La strada scende a tornanti attraverso foresta e macchia, e la temperatura sale di circa quindici gradi mentre perdi quota: parti con una giacca e finisci in maglietta. Sotto l'altopiano la campagna si appiana in terreni di risaie e piccole proprietà agricole, e la pedalata passa da una discesa a un dolce rotolare tra villaggi dove niente è organizzato per i visitatori.\n\nUn veicolo di supporto segue per tutto il percorso, cosa che conta su un tragitto con questa pendenza: chiunque voglia smettere di pedalare può farlo in qualsiasi momento.\n\nCirca trentacinque chilometri in circa quattro ore di pedalata. Dato che finisce vicino a Udawalawe, si abbina naturalmente a un safari lo stesso pomeriggio o la mattina successiva.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
+  "highlights": [],
+  "included": [
+   "Ritiro in hotel a Ella",
+   "bicicletta e casco",
+   "una guida ciclistica in lingua inglese",
+   "un veicolo di supporto",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti",
+   "il safari a Udawalawe se aggiunto separatamente",
+   "mance"
+  ]
+ },
+ "pekoe-trail-stage-15-guided-hike-makulella-to-ella-through-the-tea": {
+  "title": "Pekoe Trail Tappa 15: escursione guidata da Makulella a Ella tra le piantagioni di tè",
+  "metaTitle": "Pekoe Trail Tappa 15: escursione guidata da Makulella a Ella tra le piantagioni di tè",
+  "metaDescription": "La penultima tappa del Pekoe Trail, percorsa da Makulella verso Ella su sentieri delle piantagioni in piena attività, tra i campi di tè: circa tre ore, per lo più facili.",
+  "shortDescription": "La penultima tappa del Pekoe Trail, percorsa da Makulella verso Ella su sentieri delle piantagioni in piena attività, tra i campi di tè: circa tre ore, per lo più facili.",
+  "fullDescription": "Il Pekoe Trail si estende per 300 chilometri attraverso la regione del tè dello Sri Lanka su sentieri già esistenti: strade di piantagione, percorsi di raccolta e i sentieri che collegavano le piantagioni prima che ci fossero strade tra loro. Ha aperto nel 2023 ed è ancora tranquillo quasi ovunque lungo il suo percorso.\n\nLa Tappa 15 si avvicina a Ella da ovest, partendo da Makulella e seguendo le curve del terreno attraverso piantagioni in piena attività prima di scendere verso la città. Dato che segue le curve invece di salire, lo sforzo resta moderato mentre le viste continuano ad aprirsi, che è esattamente il piacere di camminare nella regione del tè e il motivo per cui il percorso è stato disegnato così.\n\nQuello che attraversi è un paesaggio al lavoro. Raccoglitrici sui pendii al mattino, line rooms dove le famiglie delle piantagioni vivono da generazioni, piccole fabbriche e i sentieri che le collegano. Una guida vale la pena meno per l'orientamento che per quello che tutto questo significa: chi vive nelle line rooms, come funziona la quota di raccolta, perché il tè di questi pendii particolari ha quel sapore.\n\nCirca tre ore e otto chilometri, con arrivo a Ella stessa invece che a una testa di strada, il che la rende una mattinata facile da inserire in un soggiorno invece che una giornata separata.",
+  "highlights": [],
+  "included": [
+   "Ritiro in hotel a Ella e trasporto fino alla partenza del sentiero a Makulella",
+   "una guida escursionistica in lingua inglese",
+   "la camminata guidata",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti",
+   "le mance",
+   "l'attrezzatura escursionistica personale"
+  ]
+ },
+ "hindu-and-buddhist-temples-around-ella-a-guided-half-day-tour": {
+  "title": "Templi induisti e buddhisti attorno a Ella: un tour guidato di mezza giornata",
+  "metaTitle": "Templi induisti e buddhisti attorno a Ella: un tour guidato di mezza giornata",
+  "metaDescription": "Un circuito guidato tra i templi attorno a Ella: monasteri buddhisti nella foresta e i siti induisti del Ramayana della regione montuosa, con il contesto che li fa capire davvero.",
+  "shortDescription": "Un circuito guidato tra i templi attorno a Ella: monasteri buddhisti nella foresta e i siti induisti del Ramayana della regione montuosa, con il contesto che li fa capire davvero.",
+  "fullDescription": "La regione montuosa attorno a Ella ospita due tradizioni religiose fianco a fianco, e capire perché è più interessante che fotografare entrambe.\n\nI siti buddhisti sono singalesi e antichi. Il Mahameunawa Asapuwa sopra Ella è un monastero nella foresta invece di un tempio decorato: tranquillo, senza ornamenti, e davvero frequentato, il che dopo una settimana di sale votive dipinte colpisce in modo molto diverso. Il tempio rupestre di Dhowa vicino a Bandarawela ha un Buddha in piedi alto sedici metri scolpito in una parete di roccia, incompiuto, e dei murales in una piccola grotta dietro di esso.\n\nI siti induisti sono qui a causa del Ramayana e delle piantagioni. Il tempio di Seetha Amman a Seetha Eliya segna la valle dove si dice che Sita sia stata tenuta prigioniera da Ravana, e ci sono delle cavità nella roccia dall'altra parte del torrente indicate come le impronte di Hanuman. È frequentato da pellegrini indiani più che da turisti. Gli altri templi induisti nei distretti del tè furono costruiti dai e per i lavoratori tamil delle piantagioni portati dal sud dell'India a partire dagli anni 1830, e la loro presenza è la traccia visibile di quella storia.\n\nUna guida è ciò che trasforma un insieme di edifici in questa storia. Spalle e ginocchia coperte, scarpe tolte, e aspettati di essere gli unici visitatori in diverse tappe.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con driver-guida in lingua inglese",
+   "ritiro e riaccompagno in hotel a Ella",
+   "tutti gli spostamenti tra i siti",
+   "la guida"
+  ],
+  "notIncluded": [
+   "Le offerte nei templi",
+   "i biglietti d'ingresso dove previsti",
+   "pasti e bevande",
+   "mance"
+  ]
+ },
+ "uva-village-life-by-jeep-from-ella-with-a-cooking-class-and-home-lunch": {
+  "title": "Vita rurale a Uva in jeep da Ella con corso di cucina e pranzo casalingo",
+  "metaTitle": "Vita rurale a Uva in jeep da Ella con corso di cucina e pranzo casalingo",
+  "metaDescription": "Una giornata nella campagna agricola sotto Ella: una jeep e un carro trainato da buoi attraverso i villaggi, le risaie e l'irrigazione spiegate da chi le lavora, e un riso con curry che aiuti a cucinare e poi mangi.",
+  "shortDescription": "Una giornata nella campagna agricola sotto Ella: una jeep e un carro trainato da buoi attraverso i villaggi, le risaie e l'irrigazione spiegate da chi le lavora, e un riso con curry che aiuti a cucinare e poi mangi.",
+  "fullDescription": "Ella è una città da camminate circondata da un distretto agricolo, e quasi nessuno di chi viene per le camminate vede quel distretto. Questa giornata ci entra dentro.\n\nI villaggi sotto l'altopiano sono terra di risaie e piccole proprietà agricole, lavorata da famiglie invece che da grandi piantagioni. Ci si va in jeep e poi su un carro trainato da buoi, che è come la gente qui spostava davvero le merci fino a poco tempo fa, ed è lento, scomodo e rivelatore.\n\nL'irrigazione è la parte che vale la pena osservare con attenzione. Il sistema di bacini e canali che irriga questa terra è la stessa tecnologia che lo Sri Lanka usa da duemila anni: un bacino, una rete di canali e un ordine deciso a livello di villaggio su quale campo riceve acqua e quando. Farselo spiegare da qualcuno che ci lavora davvero è diverso da leggerne.\n\nLa cucina è il centro della giornata. Il riso con curry è sei o sette piatti separati cucinati singolarmente e mangiati insieme, e tu partecipi: grattugi il cocco su un hiramanaya, macini la pasta di spezie su una pietra, cucini in pentole di terracotta su un fuoco di legna. Poi ti siedi e mangi con la famiglia che ti ha aiutato a prepararlo.\n\nI viaggiatori valutano costantemente giornate come questa più dei grandi siti turistici, e hanno ragione.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
+  "highlights": [],
+  "included": [
+   "Trasporto in jeep con guida in lingua inglese",
+   "ritiro e riaccompagno in hotel a Ella",
+   "la camminata nel villaggio",
+   "il giro sul carro trainato da buoi",
+   "il corso di cucina e un pranzo cucinato in casa"
+  ],
+  "notIncluded": [
+   "Bevande oltre a quelle servite con il pranzo",
+   "mance",
+   "spese personali"
+  ]
+ },
+ "liptons-seat-cycling-descent-with-the-dambatenne-tea-factory": {
+  "title": "Discesa in bicicletta da Lipton's Seat con la fabbrica di tè di Dambatenne",
+  "metaTitle": "Discesa in bicicletta da Lipton's Seat con la fabbrica di tè di Dambatenne",
+  "metaDescription": "Portato in auto su a Lipton's Seat per l'alba, poi in bicicletta in discesa sulla strada della piantagione attraverso Dambatenne, con una sosta alla fabbrica costruita da Thomas Lipton nel 1890.",
+  "shortDescription": "Portato in auto su a Lipton's Seat per l'alba, poi in bicicletta in discesa sulla strada della piantagione attraverso Dambatenne, con una sosta alla fabbrica costruita da Thomas Lipton nel 1890.",
+  "fullDescription": "La strada da Dambatenne su a Lipton's Seat sale per circa sette chilometri attraverso la piantagione su continui tornanti. Pedalare in salita sarebbe una seria mattinata di lavoro. Pedalare in discesa, dopo essere stato portato in auto per l'alba, è una delle ore migliori in bicicletta che si possano passare in Sri Lanka.\n\nLipton's Seat si trova a circa 1.970 metri. Thomas Lipton acquistò le sue prime piantagioni cingalesi nel 1890 e, come racconta la storia, salì a cavallo fino a questo sperone roccioso per guardare quello che aveva comprato; ora c'è una sua statua lì. In una mattina limpida la vista arriva fino a cinque province verso la pianura meridionale, e verso le nove o le dieci la valle si riempie di nuvole e non si vede più nulla, motivo per cui questo viaggio parte prima dell'alba.\n\nLa discesa attraversa la piantagione con il tè su entrambi i lati e le raccoglitrici che iniziano il lavoro mentre passi. È abbastanza in pendenza da richiedere i freni e abbastanza dolce da non richiedere di pedalare.\n\nDambatenne, in fondo, è la fabbrica costruita da Lipton e uno degli impianti più antichi ancora in funzione nel paese. Il tour segue la foglia dalla vasca di appassimento attraverso la rullatura, l'ossidazione e la cottura fino al tavolo di selezione, e finisce con una tazza di tè.\n\nDi ritorno a Ella nel primo pomeriggio.\n\nIl tè Ceylon cresce tra circa 600 e 2.000 metri negli altopiani centrali, piantato dagli inglesi a partire dagli anni 1860 dopo che una malattia del caffè distrusse il raccolto precedente, e le piantagioni funzionano ancora in gran parte come allora: le raccoglitrici, soprattutto donne tamil, prendono a mano le due foglie e il germoglio, e la fabbrica fa appassire, rullare, fermentare e cuocere la foglia lo stesso giorno. I tour della fabbrica durano circa 45 minuti e finiscono con una degustazione delle qualità; le fabbriche migliori sono impianti in funzione invece che sale espositive. Lipton's Seat sopra Haputale è il punto panoramico dove Thomas Lipton osservava le sue piantagioni, meglio prima che arrivino le nuvole verso le 10:00. Nuwara Eliya, a 1.868 metri, è la città più fredda dell'isola e serve una giacca di notte.",
+  "highlights": [],
+  "included": [
+   "Ritiro in hotel a Ella",
+   "trasporto su a Lipton's Seat",
+   "bicicletta e casco",
+   "una guida in lingua inglese",
+   "un veicolo di supporto",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "L'ingresso alla fabbrica di tè",
+   "i pasti",
+   "gli acquisti di tè",
+   "mance"
+  ]
+ },
+ "haputale-to-ella-guided-cycling-tour-through-the-uva-tea-estates": {
+  "title": "Tour guidato in bicicletta da Haputale a Ella attraverso le piantagioni di tè di Uva",
+  "metaTitle": "Tour guidato in bicicletta da Haputale a Ella attraverso le piantagioni di tè di Uva",
+  "metaDescription": "Un giro guidato da Haputale a Ella attraverso le piantagioni di tè di Uva: circa 30 km, soprattutto in discesa, su tranquille strade di piantagione con villaggi e punti panoramici lungo il percorso.",
+  "shortDescription": "Un giro guidato da Haputale a Ella attraverso le piantagioni di tè di Uva: circa 30 km, soprattutto in discesa, su tranquille strade di piantagione con villaggi e punti panoramici lungo il percorso.",
+  "fullDescription": "Haputale si trova a circa 1.430 metri su una cresta con la pianura che scende verso sud, e Ella è quattrocento metri più in basso e trenta chilometri a est. Pedalare tra i due è quasi tutto in discesa, motivo per cui funziona come giornata anche per chi non è ciclista.\n\nIl percorso segue strade di piantagione invece della strada principale. Sono le strade costruite per trasportare il tè, non portano quasi traffico e seguono le curve dei pendii invece di salirci sopra, il che significa che le viste continuano ad aprirsi mentre lo sforzo resta basso.\n\nQuello che attraversi è un paesaggio al lavoro invece che semplicemente panoramico. Raccoglitrici sui pendii al mattino, line rooms dove le famiglie delle piantagioni vivono da generazioni, piccole fabbriche, templi e negozi di villaggio dove il giro si ferma per un tè.\n\nHaputale stessa vale la salita in auto. È la meno visitata delle città di montagna, la sua posizione sulla cresta le dà una vista che Nuwara Eliya non ha, e Lipton's Seat è sopra di essa.\n\nCirca trenta chilometri in circa quattro ore di pedalata, con soste. Biciclette e caschi sono forniti, e il veicolo segue per chiunque voglia smettere di pedalare.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
+  "highlights": [],
+  "included": [
+   "Ritiro in hotel a Ella e trasporto fino a Haputale",
+   "bicicletta e casco",
+   "una guida ciclistica in lingua inglese",
+   "un veicolo di supporto",
+   "acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti",
+   "mance",
+   "spese personali"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Esperienza di flyboard a Pattaya",
   "metaTitle": "Esperienza di flyboard a Pattaya",
