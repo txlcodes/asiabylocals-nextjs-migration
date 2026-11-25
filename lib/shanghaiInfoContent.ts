@@ -888,6 +888,91 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-jin-mao-skywalk-worth-it-shanghai":
+      return {
+        title: "Is the Jin Mao Tower Skywalk Worth It in Shanghai?",
+        description: "An honest look at the Jin Mao Tower Skywalk, an optional 340-meter outdoor walk, distinct from Shanghai Tower's enclosed observation deck.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/13648a8c0fe8b284258510bf1a7342272ef418289662cb986ae145530b86bad3.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Unlike Shanghai Tower's enclosed observation deck, the Jin Mao Tower offers an optional outdoor skywalk at 340 meters — a genuinely more thrilling, exposed experience for travelers who find enclosed glass decks too tame.",
+            tourCard: { slug: "shanghai-jin-mao-tower-skywalk-optional-340m", title: "Shanghai: Jin Mao Tower Skywalk (Optional 340m Outdoor Walk)", description: "An optional outdoor skywalk at 340 meters up Jin Mao Tower.", price: "From $28", duration: "45 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/13648a8c0fe8b284258510bf1a7342272ef418289662cb986ae145530b86bad3.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The outdoor walk is optional and weather-dependent — check conditions before booking if the skywalk itself (not just the indoor deck) is your main reason for visiting.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jin Mao Tower Skywalk worth it?", a: "Yes if you want a more exposed, thrilling height experience than Shanghai Tower's enclosed deck — just check weather conditions for the outdoor portion." },
+        ],
+      };
+
+    case "is-van-gogh-starry-night-worth-it-shanghai":
+      return {
+        title: "Is the Van Gogh Starry Night Art Museum Worth It in Shanghai?",
+        description: "An honest look at the Van Gogh Starry Night immersive art museum in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2bc5a49166386f4e3825a3292fc1113f105c8c9ec6536694b2ce64726aca7a5.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This immersive exhibit projects Van Gogh's work at large scale around you rather than displaying static paintings — a genuinely different, more atmospheric way to experience the art than a traditional gallery, and a good rainy-day or extreme-heat alternative to outdoor sightseeing.",
+            tourCard: { slug: "shanghai-tickets-for-the-van-gogh-starry-night", title: "Shanghai: Tickets for the Van Gogh Starry Night Art Museum", description: "Entry to the immersive Van Gogh Starry Night art exhibit.", price: "From $15", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2bc5a49166386f4e3825a3292fc1113f105c8c9ec6536694b2ce64726aca7a5.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good indoor alternative on a day when Shanghai's weather makes outdoor sightseeing less appealing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Van Gogh Starry Night exhibit worth it in Shanghai?", a: "Yes for a genuinely different, immersive way to experience the art, and a solid indoor option on a bad-weather day." },
+        ],
+      };
+
+    case "is-hanfu-photoshoot-worth-it-shanghai":
+      return {
+        title: "Is the Hanfu Dress-Up Photoshoot Worth It in Shanghai?",
+        description: "An honest look at the Hanfu dress-up photoshoot experience in Shanghai, distinct from the city's 1920s-era cheongsam photoshoots.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/772ed832f6768416f445b327eaf8b705abe35dbb55f26a806721b3804510a106.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hanfu is traditional Han Chinese clothing dating back over two thousand years, a completely different historical era from the 1920s-30s cheongsam most associated with Shanghai's own heyday — worth it for travelers specifically interested in ancient rather than early-modern Chinese dress.",
+            tourCard: { slug: "shanghai-hanfu-dress-up-photoshoot-experience", title: "Shanghai: Hanfu Dress-up Photoshoot Experience", description: "A guided photoshoot wearing traditional ancient Hanfu clothing.", price: "From $31", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/772ed832f6768416f445b327eaf8b705abe35dbb55f26a806721b3804510a106.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you specifically want Shanghai's own 1920s-30s aesthetic, the cheongsam photoshoot is the better fit — Hanfu represents a much older, different era of Chinese dress.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hanfu photoshoot worth it in Shanghai?", a: "Yes for travelers interested in ancient Chinese dress specifically — it represents a completely different era from Shanghai's own 1920s cheongsam style." },
+          { q: "What's the difference between Hanfu and cheongsam?", a: "Hanfu is traditional Han Chinese clothing dating back millennia; cheongsam is specifically associated with Shanghai's 1920s-30s heyday." },
+        ],
+      };
+
+    case "is-dragon-beard-candy-worth-it-shanghai":
+      return {
+        title: "Is the Dragon Beard Candy Making Class Worth It in Shanghai?",
+        description: "An honest look at the Dragon Beard Candy making class with a chef in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/033743d596b3c43eeb0db182d16702d352c92f45bcb4b0717771ab91fafbe4c3.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dragon Beard Candy is a traditional Chinese confection hand-pulled into thousands of fine threads, a genuinely skilled technique that's fun and surprising to try yourself rather than just buying the finished candy from a street stall.",
+            tourCard: { slug: "shanghai-dragon-beard-candy-making-with-a-chef", title: "Shanghai: Dragon Beard Candy Making with a Chef", description: "A hands-on Dragon Beard Candy making class with a chef.", price: "From $50", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/033743d596b3c43eeb0db182d16702d352c92f45bcb4b0717771ab91fafbe4c3.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A fun, lighter-weight alternative to a full cooking class if you want a short, sweet hands-on activity rather than a full meal lesson.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dragon Beard Candy making class worth it?", a: "Yes, it's a genuinely skilled, fun technique to try yourself, a lighter-weight alternative to a full cooking class." },
+        ],
+      };
+
     default:
       return null;
   }
