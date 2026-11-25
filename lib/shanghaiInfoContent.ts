@@ -1143,6 +1143,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-incense-workshop-worth-it-shanghai":
+      return {
+        title: "Is the Traditional Chinese Incense Workshop Worth It in Shanghai?",
+        description: "An honest look at the traditional Chinese incense-making workshop in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b6eaf32990dfc599147a39a4fe3bbe3acaead721751b35a7c24ef1cc911eb13.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Incense-making is a genuine traditional Chinese craft with centuries of history, and this short workshop gives a hands-on introduction rather than just buying finished incense in a shop.",
+            tourCard: { slug: "shanghai-traditional-chinese-incense-workshop", title: "Shanghai: Traditional Chinese Incense Workshop", description: "A hands-on traditional Chinese incense-making workshop.", price: "From $41", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b6eaf32990dfc599147a39a4fe3bbe3acaead721751b35a7c24ef1cc911eb13.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 30 minutes, this is an easy add-on to pair with another activity rather than a standalone outing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the incense workshop worth it in Shanghai?", a: "Yes for a quick, hands-on introduction to a genuine traditional craft — easy to pair with another activity given its short length." },
+        ],
+      };
+
+    case "is-embroidery-class-worth-it-shanghai":
+      return {
+        title: "Is the Chinese Embroidery Beginner Class Worth It in Shanghai?",
+        description: "An honest look at the Chinese embroidery beginner class in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/87e303058f65598fb23cdc2f4bde60ebd66ff1814fd96c2f77c466a03dfa5651.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chinese embroidery is a genuine textile tradition distinct from the city's silk and lacquer crafts, and this beginner-friendly class gives real hands-on instruction with a piece to take home.",
+            tourCard: { slug: "shanghai-chinese-embroidery-beginner-class", title: "Shanghai: Chinese Embroidery Beginner Class", description: "A beginner-friendly Chinese embroidery class.", price: "From $72", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/87e303058f65598fb23cdc2f4bde60ebd66ff1814fd96c2f77c466a03dfa5651.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior needlework experience is needed — this is specifically a beginner-level class.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chinese embroidery class worth it in Shanghai?", a: "Yes, it's a genuine beginner-friendly introduction to a distinct textile tradition, with a handmade piece to take home." },
+        ],
+      };
+
+    case "is-tea-mentor-experience-worth-it-shanghai":
+      return {
+        title: "Is Tea with a BBC-Featured Chinese Tea Mentor Worth It in Shanghai?",
+        description: "An honest look at the small-group tea session with a BBC-featured Chinese tea mentor, distinct from the standard tea ceremony.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e44c28c6ccac94bdfb04886693f33c723bfeca79f4dc9829b818e8529e50b2d.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Led by a tea expert with real media recognition, this small-group session goes deeper into Chinese tea culture than a standard tourist-oriented tea ceremony, better suited to travelers genuinely interested in tea rather than a quick cultural photo-op.",
+            tourCard: { slug: "tea-with-a-bbc-featured-chinese-tea-mentor-small", title: "Tea with a BBC-Featured Chinese Tea Mentor (Small Group)", description: "A small-group tea session led by a BBC-featured tea mentor.", price: "From $76", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e44c28c6ccac94bdfb04886693f33c723bfeca79f4dc9829b818e8529e50b2d.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Small-group format means limited spots — book ahead rather than expecting to walk in.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tea mentor experience worth it in Shanghai?", a: "Yes for travelers genuinely interested in tea culture — it goes deeper than a standard tourist tea ceremony, led by a recognized expert." },
+        ],
+      };
+
+    case "is-songcheng-park-worth-it-shanghai":
+      return {
+        title: "Is Songcheng Park Worth It in Shanghai?",
+        description: "An honest look at Songcheng Park, a themed park with shows near Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27cd52e337c5a86e3b0a0a3235c498b7db94a9cc9477f769318d27def04e228d.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a themed cultural park built around elaborate stage shows, a genuinely different format from the city's temples and gardens — a full-day entertainment-focused outing rather than historical sightseeing.",
+            tourCard: { slug: "songcheng-park-entry-ticket-with-shows", title: "Songcheng Park Entry Ticket with Shows", description: "Entry to Songcheng Park including shows.", price: "From $65", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/27cd52e337c5a86e3b0a0a3235c498b7db94a9cc9477f769318d27def04e228d.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Plan to spend a full day here given the ticket format — check the show schedule in advance so you don't miss the main performances.",
+          },
+        ],
+        faqs: [
+          { q: "Is Songcheng Park worth it near Shanghai?", a: "Yes for a full-day, entertainment-focused outing with elaborate shows, a genuinely different format from the city's temples and gardens." },
+        ],
+      };
+
     default:
       return null;
   }
