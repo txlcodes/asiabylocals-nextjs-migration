@@ -1244,6 +1244,8 @@ export const TASHKENT_INFO_SLUGS = [
   'is-solar-furnace-tour-worth-it-tashkent', 'is-fergana-valley-tour-worth-it-tashkent',
   'is-old-city-walking-tour-worth-it-tashkent', 'is-tv-tower-worth-it-tashkent',
   'is-culinary-tour-worth-it-tashkent',
+  'is-pottery-masterclass-worth-it-tashkent', 'is-embroidery-masterclass-worth-it-tashkent',
+  'is-islamic-civilization-center-worth-it-tashkent', 'is-lashkerak-forest-hike-worth-it-tashkent',
 ];
 
 export const BUKHARA_INFO_SLUGS = [

@@ -970,6 +970,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-pottery-masterclass-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Uzbek Pottery Masterclass Worth It?",
+                seoTitle: "Tashkent Pottery Masterclass 2026 | Honest Review",
+                description: "An honest look at the Uzbek pottery masterclass with museum entry in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ad4a3e1d6b3a5b249db9e9e0c91076da41b7a9c25063a9b17b871dd96b73646b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing hands-on pottery-making with a museum visit gives genuine context on Uzbek ceramic tradition before you try it yourself, rather than just following rote instructions.", tourCard: { slug: "tashkent-uzbek-pottery-masterclass-with-museum", title: "Tashkent: Uzbek Pottery Masterclass with Museum Entry", description: "An Uzbek pottery masterclass with museum entry in Tashkent.", price: "From $75", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ad4a3e1d6b3a5b249db9e9e0c91076da41b7a9c25063a9b17b871dd96b73646b.jpg" } },
+                    { title: "Practical Tips", content: "No prior pottery experience is needed — this is a hands-on introduction, not a technical masterclass despite the name." }
+                ],
+                faqs: [
+                    { q: "Is the Tashkent pottery masterclass worth it?", a: "Yes, the museum entry gives genuine context on Uzbek ceramic tradition before you try making your own piece." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the pottery masterclass worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the museum entry adds genuine context before the hands-on portion." } }
+                ] },
+            };
+
+        case "is-embroidery-masterclass-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Uzbek Embroidery Masterclass Worth It?",
+                seoTitle: "Tashkent Embroidery Masterclass 2026 | Honest Review",
+                description: "An honest look at the Uzbek embroidery craft masterclass with tea and a keepsake in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/05ca53822c81820ae97e60c888e6def4ad44347ea780d9460125e94161e5622b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Suzani embroidery is a genuine Uzbek textile tradition, and this class gives a hands-on introduction with tea and a keepsake piece to take home, rather than just admiring finished embroidery in a shop.", tourCard: { slug: "tashkent-uzbek-embroidery-craft-masterclass-tea", title: "Tashkent: Uzbek Embroidery Craft Masterclass, Tea & Keepsake", description: "An Uzbek embroidery craft masterclass with tea and a keepsake.", price: "From $75", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/05ca53822c81820ae97e60c888e6def4ad44347ea780d9460125e94161e5622b.jpg" } },
+                    { title: "Practical Tips", content: "You keep the piece you make, so this doubles as a genuinely handmade souvenir rather than just an activity." }
+                ],
+                faqs: [
+                    { q: "Is the Tashkent embroidery masterclass worth it?", a: "Yes, for a hands-on introduction to genuine Suzani embroidery tradition, and you keep a handmade keepsake." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the embroidery masterclass worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine Suzani embroidery tradition and a handmade keepsake." } }
+                ] },
+            };
+
+        case "is-islamic-civilization-center-worth-it-tashkent":
+            return {
+                title: "Is the Islamic Civilization Center Worth It in Tashkent?",
+                seoTitle: "Tashkent Islamic Civilization Center 2026 | Honest Review",
+                description: "An honest look at the Islamic Civilization Center tour including tickets and traditional food.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84dbff815a5682f105ecf3f5e6b852ca3317be2d87148d839242b26d3817f42e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This museum covers Islamic scientific and cultural history across Central Asia, a genuinely different focus from the city's Soviet-era metro and old-town sightseeing, and pairing it with traditional food rounds out the visit.", tourCard: { slug: "islamic-civilization-center-incl-tickets", title: "Islamic Civilization Center incl. Tickets & Traditional Food", description: "A visit to the Islamic Civilization Center including tickets and traditional food.", price: "From $104", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84dbff815a5682f105ecf3f5e6b852ca3317be2d87148d839242b26d3817f42e.jpg" } },
+                    { title: "Practical Tips", content: "A good pick for travelers specifically interested in the region's Islamic scientific and cultural contributions, beyond the standard architecture-focused sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Islamic Civilization Center worth visiting in Tashkent?", a: "Yes, for a genuinely different focus on Islamic scientific and cultural history across Central Asia, beyond the city's architecture-focused sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Islamic Civilization Center worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different focus on Islamic scientific and cultural history." } }
+                ] },
+            };
+
+        case "is-lashkerak-forest-hike-worth-it-tashkent":
+            return {
+                title: "Is the Lashkerak Forest Guided Hike Worth It from Tashkent?",
+                seoTitle: "Lashkerak Forest Hike Tashkent 2026 | Honest Review",
+                description: "An honest look at the Lashkerak Forest guided hike with picnic from Tashkent, distinct from the city's Amirsoy/Chimgan mountain day trips.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b5a4c2157db38f2b20d32e5a2d4dccc75d9975c9051a5c81a82684968e6372bb.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuine forest hike rather than the resort-and-chairlift format of the Amirsoy/Chimgan mountain day trips, better suited to travelers wanting real walking distance and a picnic over a sightseeing-paced mountain visit.", tourCard: { slug: "from-tashkent-lashkerak-forest-guided-hike-with", title: "From Tashkent: Lashkerak Forest Guided Hike with Picnic", description: "A guided forest hike with picnic from Tashkent.", price: "From $91", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b5a4c2157db38f2b20d32e5a2d4dccc75d9975c9051a5c81a82684968e6372bb.jpeg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes — this is a genuine walking hike, not the chairlift-assisted format of the more popular Amirsoy mountain trips." }
+                ],
+                faqs: [
+                    { q: "Is the Lashkerak Forest hike worth it from Tashkent?", a: "Yes if you want genuine hiking distance and a picnic, distinct from the resort-paced Amirsoy/Chimgan mountain day trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Lashkerak Forest hike worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine hiking distance distinct from the resort-paced mountain day trips." } }
+                ] },
+            };
+
         default:
             return null;
     }
