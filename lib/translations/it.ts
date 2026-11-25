@@ -45764,7 +45764,7 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "I biglietti d'ingresso ai templi, il pranzo e i biscotti per i cervi non sono inclusi"
-  ],
+  ]
  },
  "kyoto-morning-tour": {
   "title": "Mattina presto a Kyoto",
@@ -45784,7 +45784,7 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "I biglietti d'ingresso ai templi e gli acquisti di cibo o bevande lungo il percorso non sono inclusi"
-  ],
+  ]
  },
  "sapporo-ramen-yokocho-ramen-alley-food-tour": {
   "title": "Tour gastronomico del Ramen Yokocho (Vicolo del Ramen) di Sapporo",
@@ -136055,6 +136055,401 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "spese personali"
+  ]
+ },
+ "experience-dubai-in-a-lamborghini": {
+  "title": "Vivi Dubai su una Lamborghini",
+  "metaTitle": "Vivi Dubai su una Lamborghini",
+  "metaDescription": "Esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.",
+  "shortDescription": "Esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.",
+  "fullDescription": "Un'esperienza di una giornata intera a Dubai. Noleggio Lamborghini, deposito gratuito.\n\nSe ne occupa GMZ RENTAL CAR. Puoi cancellare gratuitamente.\n\nDue viaggiatori pagano 2185 $ insieme invece di 2185 $ a testa, perche il prezzo e per gruppo e non a persona.",
+  "highlights": [
+   "Noleggio Lamborghini con deposito gratuito"
+  ],
+  "included": [],
+  "notIncluded": []
+ },
+ "abu-dhabi-heritage-village-guided-walking-tour": {
+  "title": "Abu Dhabi: tour guidato a piedi al Villaggio del Patrimonio",
+  "metaTitle": "Abu Dhabi: tour guidato a piedi al Villaggio del Patrimonio",
+  "metaDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua.",
+  "shortDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua.",
+  "fullDescription": "Un insediamento ricostruito su un'oasi sul frangiflutti, con un souq funzionante, fabbri, vasai e tessitrici, e la vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua.\n\nIl villaggio e il contrappeso a tutto il resto della citta. Abu Dhabi e vetro e marmo; qui invece trovi ripari in foglie di palma barasti, un canale di irrigazione falaj, un accampamento e una moschea, disposti come sarebbe stato un insediamento costiero prima del petrolio.\n\nGli artigiani lavorano davvero, non recitano una parte. Il fabbro produce oggetti reali, la ruota del vasaio gira, la tessitura avviene su un telaio e non dietro una vetrina.\n\nLa guida fa la differenza qui. Senza, sembra una ricostruzione gradevole; con una guida diventa una spiegazione di come viveva davvero la gente su questa costa: da dove arrivava l'acqua, come funzionava la pesca delle perle, e perche gli edifici hanno quella forma.\n\nL'ingresso al villaggio e gratuito, quindi quello che paghi e la guida.\n\nVai nel tardo pomeriggio: la luce sullo skyline oltre l'acqua e migliore in quel momento, e gli artigiani stanno ancora lavorando.",
+  "highlights": [
+   "Un insediamento costiero ricostruito prima dell'epoca del petrolio, sul frangiflutti",
+   "Fabbri, vasai e tessitrici al lavoro davvero, non in vetrina",
+   "La vista piu nitida sullo skyline di Abu Dhabi oltre l'acqua",
+   "Una guida che spiega come funzionavano il falaj, la pesca delle perle e gli edifici",
+   "Il momento migliore e il tardo pomeriggio, per la luce e per gli artigiani al lavoro"
+  ],
+  "included": [
+   "Ingresso al Villaggio del Patrimonio e al museo in loco",
+   "Dimostrazioni dal vivo di mestieri tradizionali",
+   "Approfondimenti sulla vita beduina e sulla storia emiratina",
+   "Occasioni per foto con vista panoramica sulla citta"
+  ],
+  "notIncluded": [
+   "Trasporto",
+   "Pasti",
+   "Altre spese personali"
+  ]
+ },
+ "abu-dhabi-emirati-dining-experience": {
+  "title": "Abu Dhabi: esperienza di cena emiratina",
+  "metaTitle": "Abu Dhabi: esperienza di cena emiratina",
+  "metaDescription": "La cucina emiratina e la piu difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade.",
+  "shortDescription": "La cucina emiratina e la piu difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade.",
+  "fullDescription": "La cucina emiratina e la piu difficile da trovare negli Emirati. I ristoranti sono libanesi, indiani, iraniani, filippini e di ogni altro tipo, e quello che gli emiratini mangiano davvero a casa e quasi assente dalle strade: questo rende un vero pasto emiratino una delle cose davvero rare che un visitatore possa fare qui.\n\nQuesto e proprio quel pasto, servito nel modo tradizionale: piatti condivisi su un tavolo basso, mangiati insieme.\n\nAspettati machboos, il riso speziato con carne o pesce che e il piatto nazionale, harees, thareed, e datteri con gahwa, il caffe al cardamomo versato da una dallah in piccole tazze, che ha un galateo tutto suo che qualcuno ti spieghera.\n\nLa spiegazione e meta dell'esperienza. Il cibo qui porta con se la storia di un'economia basata sulla pesca delle perle e sulla vita beduina, e i piatti hanno piu senso una volta che sai con cosa e perche si cucinava.\n\nE adatto a chi ha passato una settimana a mangiare cibo da hotel internazionale e vuole un pasto che appartenga davvero al paese in cui si trova.\n\nComunicaci ogni esigenza alimentare al momento della prenotazione: e un menu tradizionale fisso e non una cucina a la carte, e le sostituzioni vanno organizzate in anticipo.",
+  "highlights": [
+   "La cucina davvero difficile da trovare negli Emirati",
+   "Machboos, harees e thareed serviti nel modo tradizionale condiviso",
+   "Datteri e gahwa con il galateo spiegato",
+   "La storia di un'economia basata sulla pesca delle perle e sulla vita beduina, raccontata attraverso il cibo",
+   "attenzione: e un menu tradizionale fisso, comunica le esigenze alimentari alla prenotazione"
+  ],
+  "included": [
+   "Drink di benvenuto",
+   "Pasto tradizionale emiratino (disponibili opzioni vegetariane)",
+   "Occasioni per foto"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Mance (non obbligatorie)"
+  ]
+ },
+ "al-marmoom-oasis-desert-afternoon-high-tea": {
+  "title": "Oasi di Al Marmoom: high tea pomeridiano nel deserto",
+  "metaTitle": "Oasi di Al Marmoom: high tea pomeridiano nel deserto",
+  "metaDescription": "Tè pomeridiano in una riserva protetta, un'idea piu curiosa e piu bella di quanto sembri.",
+  "shortDescription": "Tè pomeridiano in una riserva protetta, un'idea piu curiosa e piu bella di quanto sembri.",
+  "fullDescription": "Tè pomeridiano in una riserva protetta, un'idea piu curiosa e piu bella di quanto sembri.\n\nAl Marmoom e un deserto protetto e non un campo di dune commerciale, ed e l'estremo tranquillo del mercato del deserto di Dubai: niente dune bashing, niente motori, niente accampamento pieno di autobus. Un tavolo viene allestito all'oasi e il tè viene servito mentre la luce cala.\n\nQuesta e tutta la proposta. E adatta a chi vuole il deserto senza l'adrenalina: chiunque non possa guidare sulle dune per motivi medici, chi viaggia con parenti anziani, e chi ha gia fatto il safari classico e preferisce sedersi nel deserto invece di essere trasportato attraverso di esso.\n\nL'oasi ha fauna avicola e, all'ora giusta, gazzelle e orici nella riserva.\n\nNote pratiche. Tra giugno e settembre il turno del pomeriggio e davvero caldo anche da seduti; i mesi invernali sono quelli giusti per questa esperienza. Ed e breve, un pomeriggio e non una serata, quindi si abbina bene a qualcosa d'altro nella stessa giornata invece di occuparla da sola.\n\nIl ritiro in hotel e disponibile come opzione.",
+  "highlights": [
+   "Tè pomeridiano a un'oasi dentro una riserva desertica protetta",
+   "Niente dune bashing e niente motori: l'estremo tranquillo del mercato del deserto",
+   "Fauna avicola, e gazzelle e orici nella riserva all'ora giusta",
+   "L'opzione deserto per chi non puo guidare sulle dune",
+   "Un pomeriggio invernale invece che estivo"
+  ],
+  "included": [
+   "High tea pomeridiano all'Oasi di Al Marmoom",
+   "Set di tè tradizionale emiratino o internazionale (disponibili opzioni vegetariane)",
+   "Posti a sedere in stile beduino con vista sul deserto",
+   "Occasioni per foto al tramonto",
+   "Incontro con un falco",
+   "Breve giro in cammello",
+   "Pittura con l'henné",
+   "Occasione per foto con cavalli arabi",
+   "Osservazione delle stelle con telescopi (se resti fino a sera)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Spese non menzionate",
+   "Mance (non obbligatorie, ma apprezzate)"
+  ]
+ },
+ "abu-dhabi-desert-safari-with-bbq-and-tanoura-shows": {
+  "title": "Abu Dhabi: safari nel deserto con barbecue e spettacoli tanoura",
+  "metaTitle": "Abu Dhabi: safari nel deserto con barbecue e spettacoli tanoura",
+  "metaDescription": "La serata completa nel deserto di Abu Dhabi: guida sulle dune, tramonto, un accampamento con cena e gli spettacoli che la accompagnano.",
+  "shortDescription": "La serata completa nel deserto di Abu Dhabi: guida sulle dune, tramonto, un accampamento con cena e gli spettacoli che la accompagnano.",
+  "fullDescription": "La serata completa nel deserto di Abu Dhabi: guida sulle dune, tramonto, un accampamento con cena e gli spettacoli che la accompagnano.\n\nLe dune di Abu Dhabi sono piu alte e molto piu vuote di quelle fuori Dubai. Un safari serale a Dubai in alta stagione puo far passare diverse centinaia di veicoli su un unico campo di dune; l'equivalente ad Abu Dhabi e una frazione di questo, ed e la ragione principale per fare il safari da questo lato.\n\nIl pomeriggio: ritiro con 4x4, pressione delle gomme abbassata alla linea delle dune, guida sulle dune, sandboarding, un giro in cammello e il tramonto sulla sabbia.\n\nLa serata: una cena barbecue all'accampamento, spettacoli di danza del ventre e tanoura, shisha, e un cielo abbastanza scuro da vedere qualcosa.\n\nAttenzione: la guida sulle dune e volutamente movimentata. Chi e incinta, ha problemi alla schiena o al collo, o soffre di mal di movimento dovrebbe dirlo alla prenotazione: il guidatore terra un'andatura piu dolce e nessuno e obbligato a fare la versione impegnativa.\n\nE tra novembre e febbraio il deserto diventa davvero freddo una volta tramontato il sole. Gli accampamenti sono aperti ai lati. Una giacca fa la differenza tra godersi le ultime due ore e sopportarle.",
+  "highlights": [
+   "Dune piu alte e piu vuote del lato di Dubai del deserto",
+   "Guida sulle dune, sandboarding, giro in cammello e tramonto sulla sabbia",
+   "Cena barbecue con danza del ventre e spettacoli tanoura all'accampamento",
+   "Un cielo abbastanza scuro da vedere davvero qualcosa",
+   "attenzione: porta una giacca tra novembre e febbraio, gli accampamenti sono aperti ai lati"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Accampamento nel deserto a posti condivisi",
+   "Dune bashing e guida nel deserto",
+   "Passaggio presso una fattoria di cammelli",
+   "Occasioni per foto nel deserto e sulle dune",
+   "Breve giro in cammello",
+   "Sandboarding",
+   "Abito tradizionale",
+   "Cena buffet barbecue",
+   "Esperienza shisha",
+   "Pittura con l'henné",
+   "Foto con un falco (secondo disponibilita)"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Quad",
+   "Foto souvenir",
+   "La danza del ventre non e disponibile durante il Ramadan"
+  ]
+ },
+ "dubai-helicopter-flight-with-old-town-walking-tour-and-abra": {
+  "title": "Dubai: volo in elicottero con tour a piedi nella città vecchia e giro in abra",
+  "metaTitle": "Dubai: volo in elicottero con tour a piedi nella città vecchia e giro in abra",
+  "metaDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la citta nuova dall'alto, quella vecchia a piedi.",
+  "shortDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la citta nuova dall'alto, quella vecchia a piedi.",
+  "fullDescription": "Le due Dubai in un solo giorno, viste dalle due angolazioni che gli si adattano: la citta nuova dall'alto, quella vecchia a piedi.\n\nPrima l'elicottero. Dodici minuti sopra il Burj Al Arab, la Palm Jumeirah e il Burj Khalifa: e il solo modo per vedere la Palm con la forma per cui e stata disegnata, e non come una semplice rete di strade.\n\nPoi l'opposto. Le vie con torri a vento di Al Fahidi, costruite dai mercanti di perle in corallo e gesso, percorse a piedi con una guida. L'abra attraverso il Dubai Creek, la barca di legno dei pendolari che copre questa rotta da decenni. I souk dell'oro e delle spezie sulla riva opposta.\n\nIl contrasto e tutto l'argomento. Da centocinquanta metri Dubai e un diagramma; da una via di Al Fahidi e una citta che esisteva molto prima di tutto questo.\n\nNote pratiche. L'elicottero dipende dal meteo e la foschia estiva sposta gli orari; se il volo viene annullato, la parte a piedi si svolge comunque. E la parte a piedi dura circa tre ore, quindi scegli scarpe adatte e non solo da fotografia.",
+  "highlights": [
+   "Dodici minuti sopra il Burj Al Arab, la Palm e il Burj Khalifa",
+   "Le vie con torri a vento di Al Fahidi percorse a piedi con una guida",
+   "La tradizionale abra attraverso il Dubai Creek",
+   "Souk dell'oro e delle spezie sulla riva opposta",
+   "attenzione: il volo dipende dal meteo, la parte a piedi si svolge comunque"
+  ],
+  "included": [
+   "Ritiro in hotel",
+   "Guida turistica autorizzata",
+   "Biglietto per 12 minuti di volo in elicottero",
+   "Al Fahidi",
+   "Ingresso alla Al Khayma Heritage House",
+   "Visita al Souk dell'oro",
+   "Visita al Souk delle spezie",
+   "Giro in barca abra",
+   "Tè o caffè arabo",
+   "Datteri",
+   "Cibo di strada locale",
+   "Acqua minerale"
+  ],
+  "notIncluded": [
+   "Pranzo (a proprie spese)",
+   "Mance (non obbligatorie)"
+  ]
+ },
+ "dubai-four-hour-deep-sea-fishing-trolling-and-casting": {
+  "title": "Dubai: pesca in alto mare di quattro ore, traina e lancio",
+  "metaTitle": "Dubai: pesca in alto mare di quattro ore, traina e lancio",
+  "metaDescription": "Quattro ore nel Golfo con entrambi i metodi a bordo: la traina con le lenze dietro la barca in movimento, e il lancio quando il capitano trova una struttura su cui vale la pena lavorare.",
+  "shortDescription": "Quattro ore nel Golfo con entrambi i metodi a bordo: la traina con le lenze dietro la barca in movimento, e il lancio quando il capitano trova una struttura su cui vale la pena lavorare.",
+  "fullDescription": "Quattro ore nel Golfo con entrambi i metodi a bordo: la traina con le lenze dietro la barca in movimento, e il lancio quando il capitano trova una struttura su cui vale la pena lavorare.\n\nQuesta combinazione conta. La traina copre l'acqua e trova i pelagici veloci: sgombro reale, pesce regina, barracuda. Il lancio e la pesca sul fondo su reef e relitti porta a galla hamour e cernia. Un'uscita che fa solo una cosa pesca solo meta mare.\n\nCanne, attrezzatura ed esche sono fornite e l'equipaggio gestisce le parti tecniche, quindi non serve esperienza. I principianti qui catturano pesci regolarmente.\n\nQuattro ore e la durata giusta: abbastanza lunga da spostarsi tra punti diversi se il primo e scarso, abbastanza corta da non trasformare una mattinata lenta in una giornata persa.\n\nDue note oneste. Nessuno puo promettere pesce, e qualsiasi operatore che lo fa sta vendendo qualcosa d'altro. E il turno del mattino presto e davvero piu produttivo di quello del pomeriggio: prenota quello, se puoi.\n\nPorta qualcosa contro il mal di mare se ne sei soggetto. Una barca che resta ferma su un punto si muove diversamente da una in navigazione, ed e in quel momento che la gente lo scopre.",
+  "highlights": [
+   "Sia traina che lancio: la maggior parte delle uscite fa solo uno dei due",
+   "Sgombro reale, pesce regina e barracuda alla traina; hamour e cernia sulle strutture",
+   "Canne, attrezzatura, esche e un equipaggio che gestisce le parti tecniche",
+   "Quattro ore: abbastanza per cambiare punto, non abbastanza per perdere la giornata",
+   "attenzione: prenota il turno del mattino presto e porta qualcosa contro il mal di mare"
+  ],
+  "included": [
+   "Cercapesci",
+   "Tutta l'attrezzatura da pesca e le esche",
+   "Capitano ed equipaggio",
+   "Acqua e bibite",
+   "Ghiacciaia e ghiaccio",
+   "Impianto audio Bluetooth"
+  ],
+  "notIncluded": []
+ },
+ "al-ain-day-trip-from-dubai-oasis-camel-market-and-jebel-hafeet": {
+  "title": "Gita di un giorno a Al Ain da Dubai: oasi, mercato dei cammelli e Jebel Hafeet",
+  "metaTitle": "Gita di un giorno a Al Ain da Dubai: oasi, mercato dei cammelli e Jebel Hafeet",
+  "metaDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica citta emiratina che non e mai stata ricostruita.",
+  "shortDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica citta emiratina che non e mai stata ricostruita.",
+  "fullDescription": "Al Ain si trova a novanta minuti dall'entroterra di Dubai, al confine con l'Oman, ed e l'unica citta emiratina che non e mai stata ricostruita: questo la rende la gita di un giorno piu interessante da Dubai, e quella che quasi nessuno fa.\n\nL'oasi e patrimonio UNESCO ed e ancora funzionante. Circa centocinquantamila palme da dattero sono irrigate dal falaj, il sistema di canali sotterranei attivo qui da tremila anni, e camminerai tra i sentieri ombreggiati mentre l'acqua scorre sotto i tuoi piedi.\n\nIl mercato dei cammelli e l'altro motivo per venire. E un vero mercato di bestiame dove gli animali vengono scambiati da chi li alleva, rumoroso, affollato e per niente organizzato per i visitatori.\n\nPoi il Museo di Al Ain e il forte dove nacque lo sceicco Zayed, e la salita a Jebel Hafeet: undici chilometri di tornanti fino a 1.200 metri, considerata regolarmente una delle migliori strade di guida del mondo, con tutto il deserto davanti ai tuoi occhi in cima.\n\nLa strada verso Jebel Hafeet al tramonto e la parte che la gente ricorda di piu. Chiedi l'orario giusto per vederla.",
+  "highlights": [
+   "Un'oasi UNESCO ancora irrigata da canali falaj di tremila anni",
+   "Un mercato dei cammelli funzionante dove gli animali vengono davvero scambiati",
+   "Il Museo di Al Ain e il forte dove nacque lo sceicco Zayed",
+   "Jebel Hafeet: undici chilometri di tornanti fino a 1.200 metri",
+   "La citta emiratina mai ricostruita, che quasi nessun visitatore raggiunge"
+  ],
+  "included": [
+   "Guida turistica professionale autorizzata",
+   "Veicolo pulito e con aria condizionata",
+   "Ritiro e riaccompagno in hotel",
+   "Visita all'oasi di Al Ain",
+   "Visita al Museo del Palazzo di Al Ain",
+   "Visita al mercato dei cammelli",
+   "Visita a Jebel Hafeet",
+   "Visita al forte di Al Jahili",
+   "Acqua illimitata"
+  ],
+  "notIncluded": [
+   "Altre spese",
+   "Mance"
+  ]
+ },
+ "four-day-uae-cultural-journey-dubai-abu-dhabi-and-al-ain": {
+  "title": "Viaggio culturale di quattro giorni negli Emirati: Dubai, Abu Dhabi e Al Ain",
+  "metaTitle": "Viaggio culturale di quattro giorni negli Emirati: Dubai, Abu Dhabi e Al Ain",
+  "metaDescription": "Quattro giorni che toccano le tre città che insieme spiegano gli Emirati: quella che visitano tutti, quella che custodisce le istituzioni, e quella che quasi nessuno raggiunge.",
+  "shortDescription": "Quattro giorni che toccano le tre città che insieme spiegano gli Emirati: quella che visitano tutti, quella che custodisce le istituzioni, e quella che quasi nessuno raggiunge.",
+  "fullDescription": "Quattro giorni che toccano le tre città che insieme spiegano gli Emirati: quella che visitano tutti, quella che custodisce le istituzioni, e quella che quasi nessuno raggiunge.\n\nDubai ti da le torri e la vecchia citta sul creek sotto di esse. Abu Dhabi ti da la Grande Moschea Sheikh Zayed, Qasr Al Watan e il Louvre. E Al Ain, a novanta minuti dall'entroterra al confine con l'Oman, ti da quello che c'era prima di entrambe: un'oasi patrimonio UNESCO irrigata da canali falaj attivi da tremila anni, un mercato dei cammelli che e un mercato funzionante e non una vetrina, e il forte dove nacque lo sceicco Zayed.\n\nAl Ain e il motivo per scegliere questo viaggio invece di organizzare gite separate. E il cuore culturale del paese ed e davvero difficile da raggiungere senza un veicolo e qualcuno che conosca i luoghi.\n\nQuattro giorni con trasporto, una guida e gli ingressi organizzati per tutto il percorso.\n\nAttenzione: due date da controllare prima di prenotare: la Grande Moschea non ammette visitatori il venerdi mattina e il Louvre Abu Dhabi chiude il lunedi. Comunicaci la data di partenza e costruiremo il programma intorno a entrambe, senza perdere nessun sito.",
+  "highlights": [
+   "Dubai, Abu Dhabi e Al Ain in quattro giorni con trasporto e guida",
+   "L'oasi UNESCO di Al Ain, irrigata da canali falaj da tremila anni",
+   "Il mercato dei cammelli: un mercato funzionante, non una vetrina",
+   "Grande Moschea, Qasr Al Watan e il Louvre ad Abu Dhabi",
+   "attenzione: costruiamo il programma intorno alle chiusure del venerdi e del lunedi"
+  ],
+  "included": [
+   "3 notti di alloggio (1 notte in hotel 4 stelle, 1 notte in hotel 5 stelle, 1 notte in campo tradizionale nel deserto)",
+   "5 pasti: 3 colazioni, 1 pranzo, 1 cena con bibite incluse",
+   "Guida culturale ufficiale emiratina di lingua inglese per tutto il viaggio",
+   "Trasporto in minibus da 20 posti con acqua illimitata",
+   "Esperienze speciali: giro in cammello, spettacolo di falconeria, pittura con henné, osservazione delle stelle",
+   "Esperienza di safari nel deserto e tutti gli ingressi menzionati nel programma",
+   "Trasferimento di ritiro e riaccompagno dal tuo hotel a Dubai",
+   "Set di benvenuto e assistenza sul posto 24/7",
+   "Opzioni di pasto vegetariano disponibili (su richiesta)"
+  ],
+  "notIncluded": [
+   "Voli internazionali",
+   "Spese per il visto",
+   "Assicurazione medica e di viaggio (obbligatoria)",
+   "Spese personali",
+   "Bevande alcoliche",
+   "Pasti non menzionati nel programma",
+   "Mance per guide e autisti",
+   "Attivita opzionali non elencate nel programma"
+  ]
+ },
+ "dubai-dhow-cruise-dinner-with-sea-lounge-seating": {
+  "title": "Dubai: crociera su dhow con cena e posti nella sea lounge",
+  "metaTitle": "Dubai: crociera su dhow con cena e posti nella sea lounge",
+  "metaDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata piu economica a sedere sull'acqua di Dubai.",
+  "shortDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata piu economica a sedere sull'acqua di Dubai.",
+  "fullDescription": "Un tradizionale dhow di legno, allestito per la cena, che naviga sull'acqua con lo skyline illuminato intorno: a questo prezzo e la serata piu economica a sedere sull'acqua di Dubai.\n\nIl dhow e il punto centrale. Sono le barche che hanno lavorato su questa costa per generazioni, e mangiare su una di esse con le torri sullo sfondo e un contrasto migliore di un altro catamarano con pareti di vetro.\n\nLa cena e un buffet internazionale, con un ponte lounge e posti all'aperto sopra.\n\nSii chiaro su cosa offre questa fascia di prezzo. E il punto di ingresso al mercato delle crociere-cena di Dubai e offre esattamente quello che implica: una serata completa, un buon buffet e una bella vista, su una barca condivisa con altri gruppi. I menu con piatti serviti e i noleggi privati costano diverse volte di piu e sono un'esperienza diversa. Nessuno dei due e migliore, sono prodotti diversi a prezzi diversi.\n\nDue note pratiche. Non c'e ritiro in hotel sulla maggior parte delle fasce: controlla l'opzione che scegli. E i posti nella sea lounge o sul ponte superiore sono di solito un extra a scelta e non la base, quindi se stare all'aperto conta per te, selezionalo alla prenotazione invece di sperarci.",
+  "highlights": [
+   "Un tradizionale dhow di legno invece di un catamarano di vetro",
+   "Cena buffet internazionale con lo skyline illuminato intorno a te",
+   "Ponte lounge e posti all'aperto sopra",
+   "La serata piu economica a sedere sull'acqua di Dubai",
+   "attenzione: i posti sul ponte superiore sono di solito un extra, scegli alla prenotazione"
+  ],
+  "included": [
+   "Succo di benvenuto",
+   "Qahwa araba e datteri",
+   "Acqua in bottiglia",
+   "Bibite",
+   "Cena buffet continentale 4 stelle",
+   "Musica a bordo",
+   "Spettacoli dal vivo",
+   "Percorso della crociera: partenza dal porto di Dubai (Marina)",
+   "Passaggio all'interno della marina",
+   "Marina yacht club",
+   "PIER 7"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Mance",
+   "Trasporto dall'hotel"
+  ]
+ },
+ "museum-of-illusions-dubai-entry-ticket": {
+  "title": "Dubai: biglietto d'ingresso al Museum of Illusions",
+  "metaTitle": "Dubai: biglietto d'ingresso al Museum of Illusions",
+  "metaDescription": "Circa ottanta installazioni costruite su trucchi ottici e percettivi: stanze inclinate, un tunnel a vortice che convince che il pavimento si muova quando non e vero, una sala infinita, ologrammi e un muro di enigmi alla fine.",
+  "shortDescription": "Circa ottanta installazioni costruite su trucchi ottici e percettivi: stanze inclinate, un tunnel a vortice che convince che il pavimento si muova quando non e vero, una sala infinita, ologrammi e un muro di enigmi alla fine.",
+  "fullDescription": "Circa ottanta installazioni costruite su trucchi ottici e percettivi: stanze inclinate, un tunnel a vortice che convince che il pavimento si muova quando non e vero, una sala infinita, ologrammi e un muro di enigmi alla fine.\n\nE un museo da vivere con le mani, non solo da guardare. Quasi tutto e pensato per essere vissuto dentro, scalato o fotografato da un punto preciso sul pavimento, e lo staff scattera la foto dall'angolazione giusta se glielo chiedi.\n\nPrevedi da un'ora a novanta minuti. Funziona per tutte le eta in un modo che poche attrazioni di Dubai riescono a fare: le installazioni percettive colpiscono allo stesso modo adulti e bambini, e la sala degli enigmi alla fine tiene impegnati anche gli adolescenti che hanno smesso di meravigliarsi di tutto il resto.\n\nTotalmente al chiuso e con aria condizionata, ad Al Seef vicino al creek, il che lo rende un buon abbinamento con una mattina nella vecchia Dubai: prima i souk e l'abra, poi questo quando il caldo e al suo massimo.\n\nUna nota: il tunnel a vortice influisce davvero sull'equilibrio e c'e un corrimano per un motivo. Se soffri di vertigini o problemi all'orecchio interno, c'e un percorso alternativo invece che passare attraverso: chiedi all'ingresso.",
+  "highlights": [
+   "Circa ottanta installazioni ottiche e percettive da vivere con le mani",
+   "Una stanza inclinata, un tunnel a vortice, una sala infinita e un muro di enigmi",
+   "Funziona allo stesso modo per adulti, bambini e adolescenti",
+   "Al chiuso e con aria condizionata, ad Al Seef vicino al creek",
+   "attenzione: il tunnel a vortice influisce davvero sull'equilibrio, chiedi il percorso alternativo"
+  ],
+  "included": [
+   "Biglietto d'ingresso al museo"
+  ],
+  "notIncluded": []
+ },
+ "dubai-desert-safari-with-camel-ride-and-optional-hatta-extension": {
+  "title": "Dubai: safari nel deserto con giro in cammello e estensione opzionale a Hatta",
+  "metaTitle": "Dubai: safari nel deserto con giro in cammello e estensione opzionale a Hatta",
+  "metaDescription": "Un classico safari serale sulle dune rosse con un'opzione inusuale: un'estensione a Hatta, che porta la giornata dove quasi nessun safari arriva.",
+  "shortDescription": "Un classico safari serale sulle dune rosse con un'opzione inusuale: un'estensione a Hatta, che porta la giornata dove quasi nessun safari arriva.",
+  "fullDescription": "Un classico safari serale sulle dune rosse con un'opzione inusuale: un'estensione a Hatta, che porta la giornata dove quasi nessun safari arriva.\n\nIl safari in se e quello classico e valido: ritiro con 4x4, pressione delle gomme abbassata alla linea delle dune, mezz'ora di guida sulle dune, sandboarding, un giro in cammello e il tramonto sulla sabbia rossa, poi un accampamento con cena barbecue e spettacoli.\n\nHatta e la differenza. E un'enclave di Dubai tra le montagne Hajar, a circa novanta minuti dall'entroterra, con un bacino turchese dove si puo fare kayak, un villaggio storico restaurato e strade di montagna che non assomigliano al resto dell'emirato. La maggior parte dei visitatori non sa nemmeno che esista.\n\nSe scegli l'estensione, questa diventa una giornata intera invece di un pomeriggio, ed e il modo migliore per vedere che gli Emirati hanno una geografia che va oltre sabbia e torri.\n\nAttenzione: decidi l'opzione Hatta alla prenotazione. Cambia il veicolo, gli orari e il ritiro, e non si puo aggiungere il giorno stesso.\n\nLa guida sulle dune e volutamente movimentata: segnala gravidanza o problemi alla schiena o al collo alla prenotazione e il guidatore terra un'andatura piu dolce.",
+  "highlights": [
+   "Safari sulle dune rosse con guida, sandboarding, giro in cammello e cena in accampamento",
+   "Estensione opzionale a Hatta tra le montagne Hajar: bacino turchese e villaggio storico",
+   "Hatta e l'Emirato con la geografia, e quasi nessun visitatore la vede",
+   "attenzione: l'estensione va scelta alla prenotazione, cambia veicolo e orari",
+   "Guida piu dolce su richiesta, comunicalo alla prenotazione"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasporto con aria condizionata",
+   "Guidatore del safari",
+   "Guida turistica",
+   "Attivita del safari nel deserto (secondo l'opzione scelta)",
+   "Cena barbecue con opzioni vegetariane (secondo l'opzione scelta)",
+   "Spettacoli dal vivo (secondo l'opzione scelta)",
+   "Percorso panoramico verso le montagne di Hatta con soste fotografiche (secondo l'opzione scelta)",
+   "Arrivo alla diga di Hatta per il kayak (secondo l'opzione scelta)"
+  ],
+  "notIncluded": [
+   "Spese personali"
+  ]
+ },
+ "dubai-landmarks-tour-with-the-museum-of-the-future-and-dubai-frame": {
+  "title": "Dubai: tour dei monumenti con il Museum of the Future e il Dubai Frame",
+  "metaTitle": "Dubai: tour dei monumenti con il Museum of the Future e il Dubai Frame",
+  "metaDescription": "Tre edifici che insieme raccontano tutto il discorso di Dubai su se stessa: il passato, il presente e cio che intende fare, in un unico percorso guidato.",
+  "shortDescription": "Tre edifici che insieme raccontano tutto il discorso di Dubai su se stessa: il passato, il presente e cio che intende fare, in un unico percorso guidato.",
+  "fullDescription": "Tre edifici che insieme raccontano tutto il discorso di Dubai su se stessa: il passato, il presente e cio che intende fare, in un unico percorso guidato.\n\nIl Dubai Frame e un rettangolo dorato di 150 metri posizionato in modo che la vecchia Dubai occupi una meta della vista e lo skyline l'altra, con un pavimento di vetro sul ponte superiore.\n\nIl Museum of the Future e il toro sulla Sheikh Zayed Road la cui intera facciata e calligrafia araba: versi dello sceicco Mohammed, tagliati nell'acciaio cosi l'edificio non ha finestre convenzionali. Vale la sosta anche solo dall'esterno, che e quello che fa la maggior parte dei tour.\n\nIl Burj Al Arab e la sosta fotografica, dalla spiaggia di Umm Suqeim dove tutta la vela e visibile sulla sua isola.\n\nUna guida ti accompagna e c'e il ritiro in hotel.\n\nAttenzione: controlla cosa e incluso e cosa e solo una sosta fotografica. Nella maggior parte delle versioni di questo percorso il Frame include l'ingresso, mentre il Museum of the Future e solo esterno: i suoi biglietti sono a orario, si esauriscono con giorni di anticipo e si prenotano separatamente. Dicci se vuoi entrare e lo organizzeremo bene, invece di lasciarti fuori.",
+  "highlights": [
+   "Il Dubai Frame con il pavimento di vetro e entrambi gli skyline in un'unica vista",
+   "La facciata calligrafica del Museum of the Future, un edificio senza finestre",
+   "Sosta fotografica al Burj Al Arab dalla spiaggia di Umm Suqeim",
+   "Guida e ritiro in hotel inclusi",
+   "attenzione: il Museum of the Future e di solito solo esterno, chiedi se vuoi entrare"
+  ],
+  "included": [
+   "Ritiro in hotel",
+   "Guida turistica locale professionale",
+   "Tour in veicolo privato con aria condizionata",
+   "Bottiglia d'acqua sigillata",
+   "Sessione fotografica",
+   "Riaccompagno al Dubai Mall"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso"
+  ]
+ },
+ "dubai-abra-boat-tour-past-atlantis-and-ain-dubai": {
+  "title": "Dubai: tour in barca abra davanti ad Atlantis e Ain Dubai",
+  "metaTitle": "Dubai: tour in barca abra davanti ad Atlantis e Ain Dubai",
+  "metaDescription": "Un'abra e la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.",
+  "shortDescription": "Un'abra e la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.",
+  "fullDescription": "Un'abra e la barca di legno che attraversa il Dubai Creek da decenni, e qui viene messa sulla costa moderna: davanti alla Palm, Atlantis, Bluewaters e Ain Dubai.\n\nIl contrasto e tutta l'idea. Queste barche furono costruite per un creek di lavoro in una citta di pescatori di perle, e qui una di esse sfila davanti a un resort a forma di palazzo e alla piu grande ruota panoramica del mondo. E il modo piu economico per vedere questo tratto d'acqua e, curiosamente, uno dei piu memorabili.\n\nFianchi aperti, bassa sull'acqua, e lenta abbastanza da guardare davvero invece che fotografare di passaggio.\n\nNon aspettarti uno yacht. Non c'e bar, nessun'ombra oltre a una tenda, e non si nuota: e un giro in barca, al prezzo di un giro in barca.\n\nMigliore nell'ultima ora di luce o dopo il tramonto, quando Ain Dubai e la facciata di Atlantis sono illuminate e anche le luci dell'abra sono accese. Nel pieno di una giornata estiva e caldo ed esposto, e lo stesso giro e molto meno piacevole.\n\nI giubbotti di salvataggio sono forniti e non e richiesta nessuna esperienza.",
+  "highlights": [
+   "Un'abra tradizionale di legno sulla costa moderna: e qui tutto il contrasto",
+   "Davanti alla Palm, Atlantis, Bluewaters e Ain Dubai",
+   "Fianchi aperti e bassa sull'acqua, abbastanza lenta per guardare davvero",
+   "Il modo piu economico per vedere questo tratto d'acqua",
+   "Migliore dopo il tramonto, quando Ain Dubai e Atlantis sono illuminate"
+  ],
+  "included": [
+   "Crociera panoramica di 120 minuti",
+   "Capitano ed equipaggio esperti per assistenza",
+   "Giro panoramico e fotografico",
+   "Equipaggiamento di sicurezza a bordo",
+   "Impianto audio Bluetooth",
+   "Servizi igienici e doccia",
+   "Acqua in bottiglia e ghiaccio in omaggio",
+   "E consentito portare cibo e bevande propri"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Cibo e bevande"
+  ]
+ },
+ "palm-jumeirah-beach-day-pass-with-skyline-views": {
+  "title": "Palm Jumeirah: pass giornaliero in spiaggia con vista sullo skyline",
+  "metaTitle": "Palm Jumeirah: pass giornaliero in spiaggia con vista sullo skyline",
+  "metaDescription": "Un pass giornaliero per un resort sulla Palm, il modo piu semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.",
+  "shortDescription": "Un pass giornaliero per un resort sulla Palm, il modo piu semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.",
+  "fullDescription": "Un pass giornaliero per un resort sulla Palm, il modo piu semplice per passare una giornata a Dubai su una buona spiaggia senza prenotare una camera d'hotel.\n\nLa curva interna della Palm guarda verso la terraferma, quindi la vista dalla sabbia e quella della Marina e delle torri di JBR oltre l'acqua, e non il mare aperto. E la vista migliore tra le due e il motivo per cui questi resort si trovano proprio li.\n\nUn pass ti da accesso alla spiaggia, alla piscina e ai lettini. Cibo e bevande di solito si pagano separatamente o si scalano da una spesa minima: controlla cosa prevede l'opzione che prenoti.\n\nE la scelta giusta per una giornata di riposo tra il deserto e la citta, o per chi e a Dubai nei mesi piu freschi e non vuole un quinto giorno di attrazioni.\n\nNote pratiche. Le spiagge pubbliche lungo Jumeirah sono gratuite e perfettamente valide; quello che compra un pass da resort e un lettino, un asciugamano, una piscina e un bar, non una sabbia migliore. Tra giugno e settembre la spiaggia e inutilizzabile nel pieno della giornata, e la piscina diventa il vero prodotto.\n\nNon c'e ritiro in hotel: un taxi fino alla Palm e semplice.",
+  "highlights": [
+   "Spiaggia, piscina e lettini in un resort sulla Palm Jumeirah",
+   "Lo skyline della Marina e di JBR oltre l'acqua, non il mare aperto",
+   "La giornata di riposo tra il deserto e la citta",
+   "Cibo e bevande di solito separati o scalati da una spesa minima: controlla l'opzione",
+   "attenzione: in estate la piscina e il vero prodotto, la spiaggia e inutilizzabile a mezzogiorno"
+  ],
+  "included": [
+   "Accesso a piscina e spiaggia sulla Palm",
+   "Sconto del 20% su cibo e bevande"
+  ],
+  "notIncluded": [
+   "Trasporto"
   ]
  },
  "from-hcm-private-ben-tre-canals-crafts-and-fruit-lunch-ho-chi-minh-city": {
