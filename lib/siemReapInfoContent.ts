@@ -1737,6 +1737,74 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-crocodile-farm-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Siem Reap Crocodile Farm Tour Worth It?",
+                description: "An honest look at the Siem Reap crocodile farm tour with pickup and drop-off.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-crocodile-farm-tour-with-pickup-and-drop-off-siem-reap/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A working crocodile farm is a genuinely different stop from the temple circuit and floating villages that dominate most Siem Reap itineraries — a short, novelty wildlife activity rather than a major sightseeing destination.", tourCard: { slug: "siem-reap-crocodile-farm-tour-with-pickup-and-drop", title: "Siem Reap Crocodile Farm Tour with Pickup and Drop-Off", description: "A visit to a working crocodile farm near Siem Reap.", price: "From $12", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-crocodile-farm-tour-with-pickup-and-drop-off-siem-reap/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "At just 1 hour and a low price, this slots in easily as a quick add-on rather than needing a dedicated half-day." }
+                ],
+                faqs: [
+                    { q: "Is the Siem Reap crocodile farm worth it?", a: "Yes as a quick, low-cost novelty stop, though it's a minor activity rather than a major sightseeing destination." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the crocodile farm tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes as a quick, low-cost novelty stop." } }
+                ] },
+            };
+
+        case "is-pub-crawl-worth-it-siem-reap":
+            return {
+                title: "Is the Mad Monkey Siem Reap Pub Crawl Worth It?",
+                description: "An honest look at the Mad Monkey Siem Reap pub crawl, a guided evening nightlife tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mad-monkey-siem-reap-pub-crawl/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This takes the guesswork out of finding Siem Reap's nightlife scene for yourself, guiding you between bars with a built-in social group — a good fit for solo travelers specifically wanting to meet people on a night out.", tourCard: { slug: "mad-monkey-siem-reap-pub-crawl", title: "Mad Monkey Siem Reap Pub Crawl", description: "A guided bar-hopping pub crawl around Siem Reap.", price: "From $16", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mad-monkey-siem-reap-pub-crawl/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good option specifically if you're traveling solo and want an easy way to meet other travelers, rather than for those who already have a group." }
+                ],
+                faqs: [
+                    { q: "Is the Mad Monkey pub crawl worth it in Siem Reap?", a: "Yes especially for solo travelers wanting an easy way to meet people — less necessary if you already have a group to go out with." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the pub crawl worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes especially for solo travelers wanting to meet people." } }
+                ] },
+            };
+
+        case "is-rice-liqueur-cocktail-class-worth-it-siem-reap":
+            return {
+                title: "Is the Cambodian Rice Liqueur Cocktail Class Worth It in Siem Reap?",
+                description: "An honest look at the Cambodian rice liqueur cocktail class in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cambodian-rice-liqueur-cocktail-class/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cambodian rice liqueur is a genuinely distinct local spirit most visitors never encounter, and this class teaches you to mix cocktails with it rather than just sampling it at a bar — a fun, different evening activity from the usual dinner-and-show circuit.", tourCard: { slug: "cambodian-rice-liqueur-cocktail-class", title: "Cambodian Rice Liqueur Cocktail Class", description: "A hands-on cocktail-making class using Cambodian rice liqueur.", price: "From $25", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/cambodian-rice-liqueur-cocktail-class/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good evening pairing after a day of temple sightseeing, rather than a full standalone activity." }
+                ],
+                faqs: [
+                    { q: "Is the rice liqueur cocktail class worth it in Siem Reap?", a: "Yes for a fun, different evening activity introducing a genuinely local Cambodian spirit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the rice liqueur cocktail class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it introduces a genuinely local Cambodian spirit in a fun format." } }
+                ] },
+            };
+
+        case "is-killing-cave-bat-cave-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Bamboo Train, Killing Cave and Bat Cave Tour Worth It from Siem Reap?",
+                description: "An honest look at the afternoon tour combining the bamboo train, Killing Cave and Bat Cave near Battambang, distinct from the already-covered War Museum.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/afternoon-tour-bamboo-train-killing-cave-and-bat-cave/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Killing Cave near Battambang is a genuinely sobering Khmer Rouge-era site, a different, more remote piece of Cambodia's difficult history than the War Museum back in Siem Reap, paired here with the quirky bamboo train ride and the nightly bat exodus at Phnom Sampeau.", tourCard: { slug: "afternoon-tour-bamboo-train-killing-cave-and-bat-c", title: "Afternoon Tour: Bamboo Train, Killing Cave and Bat Cave", description: "An afternoon tour combining the bamboo train, Killing Cave, and Bat Cave.", price: "From $33", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/afternoon-tour-bamboo-train-killing-cave-and-bat-cave/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Time this for late afternoon specifically so the Bat Cave stop coincides with the nightly bat exodus — arriving earlier in the day misses the main spectacle." }
+                ],
+                faqs: [
+                    { q: "Is the Killing Cave and Bat Cave tour worth it from Siem Reap?", a: "Yes, it adds genuine historical depth and a quirky natural spectacle beyond the usual temple circuit — just time it for late afternoon to catch the bat exodus." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Killing Cave and Bat Cave tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, time it for late afternoon to catch the nightly bat exodus." } }
+                ] },
+            };
+
         default:
             return null;
     }
