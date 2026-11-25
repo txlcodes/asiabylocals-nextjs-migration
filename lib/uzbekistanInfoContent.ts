@@ -616,6 +616,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-chor-bakr-countryside-tour-worth-it-bukhara":
+            return {
+                title: "Is the Private Countryside Tour to Chor Bakr Worth It from Bukhara?",
+                seoTitle: "Chor Bakr Necropolis Bukhara 2026 | Honest Review",
+                description: "An honest look at the private countryside tour to Chor Bakr necropolis and nearby palaces from Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/71a5e9cd6c0cfae3acbc831cb7d639c7942088f522ab266a39b094ef340f3f22.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Chor Bakr is a vast necropolis complex outside the city, a quieter, more spread-out historical site than the dense monument cluster of Bukhara's old town — worth it for travelers who want a change of pace and scale from the walking tours.", tourCard: { slug: "bukhara-private-countryside-tour-to-chor-bakr", title: "Bukhara: Private Countryside Tour to Chor Bakr & Palaces", description: "A private countryside tour to Chor Bakr necropolis and nearby palaces.", price: "From $111", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/71a5e9cd6c0cfae3acbc831cb7d639c7942088f522ab266a39b094ef340f3f22.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely different pace from the old town's dense walking tours — a good choice specifically if you want open space and fewer crowds rather than more monuments packed close together." }
+                ],
+                faqs: [
+                    { q: "Is the Chor Bakr countryside tour worth it from Bukhara?", a: "Yes for a quieter, more spread-out historical experience, a change of pace from the dense old-town walking tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chor Bakr countryside tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter, more spread-out change of pace from Bukhara's old town." } }
+                ] },
+            };
+
+        case "is-hammam-bath-worth-it-bukhara":
+            return {
+                title: "Is the Bukharian Hammam Bath with Massage Worth It?",
+                seoTitle: "Bukhara Hammam Bath 2026 | Honest Review",
+                description: "An honest look at the Bukharian bath in an ancient hammam with massage.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f19d297b8dd8feffb165c5fa7cef4c0457b52f9f4b0eb4d3a11b40175962c4b8.png",
+                sections: [
+                    { title: "The Short Answer", content: "Bathing in a genuinely centuries-old hammam building, rather than a modern spa, gives this a real sense of history alongside the relaxation — a good way to unwind after a day of walking tours through the old town.", tourCard: { slug: "bukharian-bath-in-ancient-hammam-with-massage", title: "Bukharian Bath in Ancient Hammam with Massage", description: "A traditional bath and massage in an ancient Bukhara hammam.", price: "From $116", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f19d297b8dd8feffb165c5fa7cef4c0457b52f9f4b0eb4d3a11b40175962c4b8.png" } },
+                    { title: "Practical Tips", content: "Book this for the end of a walking-heavy day — it works well as a recovery activity rather than something to rush before more sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Bukhara hammam bath worth it?", a: "Yes, bathing in a genuinely centuries-old building adds real historical character to the relaxation, a good way to recover after a day of walking tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bukhara hammam bath worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely centuries-old building, adding history to the relaxation." } }
+                ] },
+            };
+
+        case "is-wood-carving-masterclass-worth-it-bukhara":
+            return {
+                title: "Is the Bukhara Wood Carving Masterclass Worth It?",
+                seoTitle: "Bukhara Wood Carving Masterclass 2026 | Honest Review",
+                description: "An honest look at the wood carving masterclass with a generational master craftsman in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/44609d4127e17ee2b5c3044e15f9bfca66c78b93e9048fc1f85181c21751515a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Learning directly from a generational master craftsman gives genuine insight into a traditional Uzbek craft passed down through family lines, distinct from the gold embroidery and other textile-focused workshops the city also offers.", tourCard: { slug: "bukhara-wood-carving-masterclass-with", title: "Bukhara: Wood Carving Masterclass with Generational Master", description: "A hands-on wood carving masterclass with a generational master craftsman.", price: "From $117", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/44609d4127e17ee2b5c3044e15f9bfca66c78b93e9048fc1f85181c21751515a.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuine craft lesson from a family-trained master, not a quick souvenir-making stop — expect real instruction and technique." }
+                ],
+                faqs: [
+                    { q: "Is the Bukhara wood carving masterclass worth it?", a: "Yes, for genuine insight into a traditional craft taught directly by a generational master, distinct from the city's textile-focused workshops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bukhara wood carving masterclass worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's taught directly by a generational master craftsman." } }
+                ] },
+            };
+
+        case "is-gijduvan-pottery-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Gijduvan Pottery Workshop Worth It from Bukhara?",
+                seoTitle: "Gijduvan Pottery Workshop 2026 | Honest Review",
+                description: "An honest look at the transfer and workshop visit to Gijduvan, a village famous for its distinctive pottery tradition near Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cc3ffecf6a563084c04569b4f505668a515e0f2beb229f68eaab07c37594eda.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Gijduvan is specifically known for its distinctive green-and-brown glazed pottery tradition, passed down through generations of a single family workshop — a genuine craft destination rather than a generic souvenir stop, worth the short trip out of Bukhara.", tourCard: { slug: "bukhara-transfer-to-gijduvan-pottery-workshop", title: "Bukhara: Transfer to Gijduvan Pottery Workshop", description: "A transfer to the Gijduvan pottery workshop near Bukhara.", price: "From $111", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cc3ffecf6a563084c04569b4f505668a515e0f2beb229f68eaab07c37594eda.jpg" } },
+                    { title: "Practical Tips", content: "Gijduvan pottery is distinctive enough to be a genuine souvenir worth the trip — look for the characteristic green-and-brown glaze when choosing a piece." }
+                ],
+                faqs: [
+                    { q: "Is the Gijduvan pottery workshop worth it from Bukhara?", a: "Yes, Gijduvan has a genuinely distinctive, generations-old pottery tradition, worth the short trip for a real craft destination rather than a generic souvenir stop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Gijduvan pottery workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely distinctive, generations-old pottery tradition." } }
+                ] },
+            };
+
         case "is-solar-furnace-tour-worth-it-tashkent":
             return {
                 title: "Is the 1 MW Solar Furnace Tour Worth It from Tashkent?",

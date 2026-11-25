@@ -399,6 +399,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-bukhara', 'best-old-town-walking-tour-bukhara',
     'is-plov-workshop-worth-it-bukhara', 'is-folklore-fashion-show-worth-it-bukhara',
     'is-puppet-making-workshop-worth-it-bukhara', 'is-gold-embroidery-workshop-worth-it-bukhara',
+    'is-chor-bakr-countryside-tour-worth-it-bukhara', 'is-hammam-bath-worth-it-bukhara',
+    'is-wood-carving-masterclass-worth-it-bukhara', 'is-gijduvan-pottery-workshop-worth-it-bukhara',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/bukhara/${slug}`,
     lastModified: new Date(),
