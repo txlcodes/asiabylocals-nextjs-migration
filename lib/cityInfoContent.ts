@@ -21,6 +21,7 @@ import { getNaraInfoContent } from './naraInfoContent';
 import { getNagoyaInfoContent } from './nagoyaInfoContent';
 import { getHakoneInfoContent } from './hakoneInfoContent';
 import { getColomboInfoContent } from './colomboInfoContent';
+import { getKashmirInfoContent } from './kashmirInfoContent';
 import { getKandyInfoContent } from './kandyInfoContent';
 import { getDubaiInfoContent } from './dubaiInfoContent';
 import { getAbuDhabiInfoContent } from './abuDhabiInfoContent';
@@ -229,6 +230,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const colomboPage = getColomboInfoContent(slug);
     if (colomboPage) return colomboPage;
+
+    const kashmirPage = getKashmirInfoContent(slug);
+    if (kashmirPage) return kashmirPage;
 
     const thailandPage = getThailandInfoContent(slug);
     if (thailandPage) return thailandPage;
