@@ -123903,6 +123903,418 @@ export const IT_TOURS: Record<string, TourT> = {
    "Ritiro in hotel fuori dalla zona indicata"
   ]
  },
+ "ao-nang-through-bike-tour": {
+  "title": "Giro in quad attraverso le colline verdi di Khlong Son a Krabi",
+  "metaTitle": "Giro in quad attraverso le colline verdi di Krabi",
+  "metaDescription": "Un'ora al volante del tuo quad tra i sentieri forestali e le colline di Khlong Son, con viste sulle montagne di Krabi e ritiro in hotel incluso.",
+  "shortDescription": "Un'ora al volante del tuo quad tra i sentieri forestali e le colline di Khlong Son, con viste sulle montagne di Krabi e ritiro in hotel incluso.",
+  "fullDescription": "Un'ora intera al volante del tuo quad sui sentieri forestali e collinari di Khlong Son, con viste ampie sulle montagne di Krabi lungo il percorso.\n\nPrima di partire c'è una sessione di istruzioni e riscaldamento, così chi non ha mai guidato un quad arriva al percorso vero con un minimo di pratica alle spalle. Una guida accompagna il gruppo per tutta la durata del giro.\n\nCasco e attrezzatura protettiva sono forniti, insieme ad acqua in bottiglia. Il ritiro in hotel è disponibile da Ao Nang e Klong Moung.\n\nIl prezzo comprende un'ora di guida in quad con carburante, casco e attrezzatura protettiva, la sessione di istruzioni, la guida che accompagna il gruppo, acqua in bottiglia, il ritiro in hotel da Ao Nang e Klong Moung, e l'assicurazione. Pasti, spuntini, il pacchetto fotografico, le mance e le spese personali non sono compresi.",
+  "highlights": [
+   "Un'ora di guida in quad tra i sentieri forestali e collinari di Khlong Son",
+   "Viste sulle montagne di Krabi lungo il percorso",
+   "Sessione di istruzioni e riscaldamento prima della partenza"
+  ],
+  "included": [
+   "Un'ora di guida in quad con carburante",
+   "Casco e attrezzatura protettiva",
+   "Istruzioni e sessione di riscaldamento",
+   "Guida che accompagna il gruppo",
+   "Acqua in bottiglia",
+   "Ritiro in hotel da Ao Nang e Klong Moung",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Pasti e spuntini",
+   "Pacchetto fotografico",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "ao-nang-venues-guided-tour": {
+  "title": "Bar crawl ad Ao Nang: cinque locali, shot gratuiti e finale in discoteca",
+  "metaTitle": "Bar crawl ad Ao Nang con cinque locali e finale in discoteca",
+  "metaDescription": "I migliori bar di Ao Nang con un host locale, shot di benvenuto a ogni tappa, giochi da bere, maglietta del bar crawl e ingresso senza fila alla discoteca finale.",
+  "shortDescription": "I migliori bar di Ao Nang con un host locale, shot di benvenuto a ogni tappa, giochi da bere, maglietta del bar crawl e ingresso senza fila alla discoteca finale.",
+  "fullDescription": "Un giro tra i migliori bar di Ao Nang in compagnia di un host locale, con uno shot di benvenuto a ogni tappa lungo il percorso.\n\nCinque locali in totale, con giochi da bere e attivita di gruppo a scandire la serata, prima della tappa finale in discoteca con ingresso senza fila.\n\nIl prezzo comprende l'host locale per tutta la serata, uno shot di benvenuto a ogni locale, la maglietta del bar crawl, l'ingresso alla discoteca finale, i giochi da bere e le attivita di gruppo, e la prima bevanda di benvenuto. Bevande e cibo aggiuntivi, il trasporto da e per il punto di incontro, il taxi di ritorno a tarda notte e le mance non sono compresi.",
+  "highlights": [
+   "Cinque bar ad Ao Nang con uno shot di benvenuto a ogni tappa",
+   "Host locale e giochi da bere per tutta la serata",
+   "Finale in discoteca con ingresso senza fila"
+  ],
+  "included": [
+   "Host locale per la serata",
+   "Shot di benvenuto a ogni locale",
+   "Maglietta del bar crawl",
+   "Ingresso alla discoteca finale",
+   "Giochi da bere e attivita di gruppo",
+   "Prima bevanda di benvenuto"
+  ],
+  "notIncluded": [
+   "Bevande e cibo aggiuntivi",
+   "Trasporto da e per il punto di incontro",
+   "Taxi di ritorno a tarda notte",
+   "Mance"
+  ]
+ },
+ "ao-thalane-bay-half-day-tour": {
+  "title": "Kayak tra le mangrovie di Ao Thalane: mezza giornata di fuga",
+  "metaTitle": "Kayak tra le mangrovie di Ao Thalane, mezza giornata",
+  "metaDescription": "In kayak tra i canali di marea delle mangrovie di Ao Thalane, tra lagune nascoste e grotte marine, con fauna selvatica sotto pareti calcaree che si alzano a picco.",
+  "shortDescription": "In kayak tra i canali di marea delle mangrovie di Ao Thalane, tra lagune nascoste e grotte marine, con fauna selvatica sotto pareti calcaree che si alzano a picco.",
+  "fullDescription": "Un kayak attraverso i canali di marea delle mangrovie di Ao Thalane, con ingressi in lagune nascoste e grotte marine lungo il percorso.\n\nPareti calcaree si alzano a picco sopra l'acqua e la fauna selvatica si osserva lungo tutto il tragitto. Una guida di lingua inglese accompagna il gruppo in kayak biposto, con giubbotto di salvataggio e sacca stagna per gli oggetti di valore.\n\nIl prezzo comprende il ritiro e riaccompagno in hotel con veicolo climatizzato, la guida di lingua inglese, il kayak biposto con pagaia e giubbotto di salvataggio, la sacca stagna, acqua potabile e frutta di stagione, e l'assicurazione. Pranzo e bevande extra, le mance, le spese personali e asciugamano e cambio non sono compresi.",
+  "highlights": [
+   "Kayak tra i canali di marea delle mangrovie di Ao Thalane",
+   "Lagune nascoste e grotte marine lungo il percorso",
+   "Fauna selvatica sotto pareti calcaree a picco"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel climatizzato",
+   "Guida di lingua inglese",
+   "Kayak biposto con pagaia e giubbotto di salvataggio",
+   "Sacca stagna per gli oggetti di valore",
+   "Acqua potabile e frutta di stagione",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Pranzo e bevande extra",
+   "Mance",
+   "Spese personali",
+   "Asciugamano e cambio di vestiti"
+  ]
+ },
+ "ao-thalane-guided-tour": {
+  "title": "Kayak ad Ao Thalane: canyon calcarei e insenature delle scimmie",
+  "metaTitle": "Kayak ad Ao Thalane tra canyon calcarei",
+  "metaDescription": "Due ore di kayak tranquillo tra i canyon calcarei e i canali di mangrovie di Ao Thalane, con macachi selvatici sulle rive e trasferimenti in hotel incluso andata e ritorno.",
+  "shortDescription": "Due ore di kayak tranquillo tra i canyon calcarei e i canali di mangrovie di Ao Thalane, con macachi selvatici sulle rive e trasferimenti in hotel incluso andata e ritorno.",
+  "fullDescription": "Due ore di kayak tranquillo tra i canyon calcarei e i canali di mangrovie di Ao Thalane.\n\nMacachi selvatici si vedono spesso sulle rive lungo il percorso. Una guida locale accompagna il gruppo in kayak a due posti, con pagaia, giubbotto di salvataggio e sacca stagna.\n\nIl prezzo comprende il trasferimento in hotel andata e ritorno, la guida locale di kayak, il kayak a due posti con pagaia e giubbotto di salvataggio, acqua potabile, la sacca stagna e l'assicurazione contro gli infortuni. Pasti, bevande alcoliche, mance per guida e autista e oggetti personali non sono compresi.",
+  "highlights": [
+   "Due ore di kayak tra i canyon calcarei di Ao Thalane",
+   "Macachi selvatici visibili sulle rive",
+   "Trasferimento in hotel incluso andata e ritorno"
+  ],
+  "included": [
+   "Trasferimento in hotel andata e ritorno",
+   "Guida locale di kayak",
+   "Kayak a due posti con pagaia e giubbotto di salvataggio",
+   "Acqua potabile",
+   "Sacca stagna",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Pasti",
+   "Bevande alcoliche",
+   "Mance per guida e autista",
+   "Oggetti personali"
+  ]
+ },
+ "atv-ride-and-natural-swimming-experience-in-krabi": {
+  "title": "Giro in ATV ed esperienza di nuoto naturale a Krabi",
+  "metaTitle": "Giro in ATV e nuoto naturale a Krabi",
+  "metaDescription": "Tour a Krabi con ritiro e riaccompagno in hotel e giro in ATV. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour a Krabi con ritiro e riaccompagno in hotel e giro in ATV. Gestito da un operatore locale verificato.",
+  "fullDescription": "Un giro in ATV a Krabi abbinato a una sosta per nuotare in una piscina naturale.\n\nIl ritiro e il riaccompagno in hotel sono compresi, insieme al giro in ATV, frutta fresca, acqua potabile e una guida professionale che accompagna il gruppo per tutta la durata.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il ritiro e riaccompagno in hotel, il giro in ATV, frutta fresca, acqua potabile, la guida professionale e l'assicurazione contro gli infortuni.",
+  "highlights": [
+   "Giro in ATV a Krabi con sosta per nuotare in una piscina naturale",
+   "Ritiro e riaccompagno in hotel compresi",
+   "Guida professionale per tutta la durata"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Giro in ATV",
+   "Frutta fresca",
+   "Acqua potabile",
+   "Guida professionale",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": []
+ },
+ "ayutthaya-ancient-temples-day-trip-bangkok-thai-lunch": {
+  "title": "Gita di un giorno ai templi antichi di Ayutthaya da Bangkok con pranzo thailandese",
+  "metaTitle": "Ayutthaya: templi antichi da Bangkok con pranzo",
+  "metaDescription": "Un giorno intero con guida all'antica capitale reale della Thailandia, Ayutthaya, con visita a quattro templi patrimonio UNESCO, pranzo a buffet thailandese e rientro a Bangkok.",
+  "shortDescription": "Un giorno intero con guida all'antica capitale reale della Thailandia, Ayutthaya, con visita a quattro templi patrimonio UNESCO, pranzo a buffet thailandese e rientro a Bangkok.",
+  "fullDescription": "Settecento anni indietro nel tempo su una gita di un giorno intero ad Ayutthaya, l'antica capitale reale della Thailandia.\n\nQuattro templi patrimonio UNESCO sono in programma, con un pranzo a buffet thailandese in un ristorante locale incluso nelle opzioni standard. Il ritiro in hotel è compreso nelle opzioni selezionate e il rientro a Bangkok avviene con riaccompagno al centro commerciale MBK.\n\nIl prezzo comprende la guida locale di lingua inglese, i biglietti d'ingresso ai quattro templi (nelle opzioni standard), il pranzo a buffet thailandese autentico in un ristorante locale (nelle opzioni standard), il trasporto climatizzato, il ritiro in hotel (nelle opzioni selezionate) e il riaccompagno al centro commerciale MBK a Bangkok. Le spese personali e lo shopping, le mance per guida e autista (apprezzate), e i biglietti d'ingresso e il pranzo nell'opzione solo guida in inglese non sono compresi.",
+  "highlights": [
+   "Quattro templi patrimonio UNESCO ad Ayutthaya, l'antica capitale reale",
+   "Pranzo a buffet thailandese incluso nelle opzioni standard",
+   "Giornata intera con guida locale di lingua inglese"
+  ],
+  "included": [
+   "Guida locale di lingua inglese",
+   "Biglietti d'ingresso ai quattro templi (opzioni standard)",
+   "Pranzo a buffet thailandese autentico (opzioni standard)",
+   "Trasporto climatizzato",
+   "Ritiro in hotel (opzioni selezionate)",
+   "Riaccompagno al centro commerciale MBK, Bangkok"
+  ],
+  "notIncluded": [
+   "Spese personali e shopping",
+   "Mance per guida e autista (apprezzate)",
+   "Biglietti d'ingresso e pranzo nell'opzione solo guida in inglese"
+  ]
+ },
+ "backstreets-food-tour-with-15-tastings": {
+  "title": "Bangkok: tour gastronomico nei vicoli con oltre 15 assaggi",
+  "metaTitle": "Bangkok: tour gastronomico nei vicoli, 15+ assaggi",
+  "metaDescription": "Un'immersione nella scena gastronomica notturna di Bangkok con oltre 15 assaggi tra mercati, bancarelle di strada e angoli nascosti dove i locali cucinano ricette tramandate da generazioni.",
+  "shortDescription": "Un'immersione nella scena gastronomica notturna di Bangkok con oltre 15 assaggi tra mercati, bancarelle di strada e angoli nascosti dove i locali cucinano ricette tramandate da generazioni.",
+  "fullDescription": "Un'immersione nella scena gastronomica notturna di Bangkok con oltre 15 assaggi lungo il percorso.\n\nIl giro attraversa mercati, bancarelle di strada e angoli nascosti dove i locali cucinano ricette tramandate da generazioni, con una guida di lingua inglese che accompagna il gruppo per l'intero tour.\n\nIl prezzo comprende la guida di lingua inglese e il tour così come descritto. Le mance e le spese personali non sono comprese.",
+  "highlights": [
+   "Oltre 15 assaggi tra mercati e bancarelle di strada a Bangkok",
+   "Ricette tramandate da generazioni in angoli nascosti",
+   "Guida di lingua inglese per l'intero tour"
+  ],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour così come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "bangkok-authentic-tasting-thai-chinatown-walking-food-tour": {
+  "title": "Bangkok: tour gastronomico a piedi con oltre 10 assaggi autentici a Chinatown",
+  "metaTitle": "Bangkok Chinatown: tour gastronomico a piedi, 10+ assaggi",
+  "metaDescription": "Un'avventura culinaria a piedi tra le strade vivaci di Bangkok, con oltre 10 assaggi autentici lungo il percorso.",
+  "shortDescription": "Un'avventura culinaria a piedi tra le strade vivaci di Bangkok, con oltre 10 assaggi autentici lungo il percorso.",
+  "fullDescription": "Un'avventura culinaria a piedi tra le strade vivaci di Bangkok, con oltre 10 assaggi autentici lungo il percorso.\n\nUna guida di lingua inglese accompagna il gruppo per l'intero tour, attraverso i quartieri dove si concentrano le bancarelle più tipiche.\n\nIl prezzo comprende la guida di lingua inglese e il tour così come descritto. Le mance e le spese personali non sono comprese.",
+  "highlights": [
+   "Oltre 10 assaggi autentici a piedi tra le strade di Bangkok",
+   "Guida di lingua inglese per l'intero tour"
+  ],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour così come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "bangkok-chao-phraya-dinner-cruise-luxury-river": {
+  "title": "Bangkok, crociera cena sul Chao Phraya: esperienza di lusso a 5 stelle",
+  "metaTitle": "Bangkok: crociera cena di lusso sul fiume Chao Phraya",
+  "metaDescription": "Una crociera di lusso a 5 stelle sul fiume Chao Phraya, con i monumenti più iconici di Bangkok illuminati di notte, buffet internazionale, intrattenimento dal vivo ed esibizioni tradizionali thailandesi.",
+  "shortDescription": "Una crociera di lusso a 5 stelle sul fiume Chao Phraya, con i monumenti più iconici di Bangkok illuminati di notte, buffet internazionale, intrattenimento dal vivo ed esibizioni tradizionali thailandesi.",
+  "fullDescription": "Due ore di crociera di lusso a 5 stelle sul fiume Chao Phraya, con i monumenti più iconici di Bangkok illuminati di notte.\n\nIl Grand Palace, Wat Arun e gli altri punti di riferimento lungo il fiume scorrono davanti agli occhi mentre a bordo si serve una cena a buffet internazionale e thailandese con frutti di mare freschi. Musica dal vivo ed esibizioni culturali tradizionali thailandesi accompagnano la serata, con una bevanda di benvenuto all'arrivo e la scelta tra posti a sedere climatizzati all'interno o il ponte all'aperto.\n\nIl prezzo comprende la crociera cena di lusso di due ore sul fiume Chao Phraya, la cena a buffet internazionale e thailandese con frutti di mare freschi, musica dal vivo ed esibizioni culturali tradizionali thailandesi, la bevanda di benvenuto all'arrivo e i posti a sedere climatizzati all'interno o il ponte all'aperto. Il ritiro e riaccompagno in hotel (disponibile come supplemento), le bevande alcoliche (acquistabili a bordo), le mance per l'equipaggio e le spese personali non sono compresi.",
+  "highlights": [
+   "Crociera cena di lusso a 5 stelle sul fiume Chao Phraya",
+   "Vista sul Grand Palace e Wat Arun illuminati di notte",
+   "Buffet internazionale e thailandese con musica dal vivo"
+  ],
+  "included": [
+   "Crociera cena di lusso di due ore sul Chao Phraya",
+   "Buffet internazionale e thailandese con frutti di mare freschi",
+   "Musica dal vivo ed esibizioni culturali tradizionali thailandesi",
+   "Bevanda di benvenuto all'arrivo",
+   "Posti a sedere climatizzati o ponte all'aperto"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel (supplemento)",
+   "Bevande alcoliche (acquistabili a bordo)",
+   "Mance per l'equipaggio",
+   "Spese personali"
+  ]
+ },
+ "bangkok-chinatown-food-tour-15-tastings-michelin-stops": {
+  "title": "Bangkok Chinatown: tour gastronomico con oltre 15 assaggi in tappe Michelin",
+  "metaTitle": "Bangkok Chinatown: tour gastronomico, tappe Michelin",
+  "metaDescription": "Le strade più saporite di Bangkok su un tour gastronomico intimo limitato a sole 8 persone, con 8-9 tappe tra cui due locali di strada segnalati dalla Michelin a Chinatown.",
+  "shortDescription": "Le strade più saporite di Bangkok su un tour gastronomico intimo limitato a sole 8 persone, con 8-9 tappe tra cui due locali di strada segnalati dalla Michelin a Chinatown.",
+  "fullDescription": "Un tour gastronomico intimo, limitato a sole 8 persone, tra le strade più saporite di Bangkok.\n\nIl percorso conta 8-9 tappe, tra cui 2-3 locali di strada segnalati dalla Michelin a Chinatown, con due membri dello staff locale esperto, una guida con licenza e un assistente, che accompagnano il gruppo per tutto il tour.\n\nIl prezzo comprende oltre 15 assaggi gastronomici, 8-9 tappe tra cui 2-3 locali segnalati dalla Michelin, la guida con licenza e l'assistente dedicato, e acqua in bottiglia per tutta la durata. Le bevande alcoliche non sono comprese. Il tour non e adatto a vegani, vegetariani o ospiti con allergie alimentari.",
+  "highlights": [
+   "8-9 tappe gastronomiche a Chinatown tra cui locali segnalati dalla Michelin",
+   "Gruppo limitato a sole 8 persone",
+   "Guida con licenza e assistente dedicato"
+  ],
+  "included": [
+   "Oltre 15 assaggi gastronomici",
+   "8-9 tappe tra cui 2-3 locali segnalati dalla Michelin",
+   "Guida con licenza e assistente dedicato",
+   "Acqua in bottiglia per tutta la durata"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Non adatto a vegani, vegetariani o ospiti con allergie alimentari"
+  ]
+ },
+ "bangkok-death-railway-bridge-river-kwai-hellfire-pass": {
+  "title": "Da Bangkok: ferrovia della morte, ponte sul fiume Kwai e Hellfire Pass, gita di un giorno",
+  "metaTitle": "Da Bangkok: ferrovia della morte e ponte sul fiume Kwai",
+  "metaDescription": "Una gita intensa di un giorno intero da Bangkok a Kanchanaburi: viaggio sulla storica ferrovia della morte, passeggiata attraverso il memoriale di Hellfire Pass, attraversamento del ponte sul fiume Kwai e omaggio al cimitero di guerra alleato.",
+  "shortDescription": "Una gita intensa di un giorno intero da Bangkok a Kanchanaburi: viaggio sulla storica ferrovia della morte, passeggiata attraverso il memoriale di Hellfire Pass, attraversamento del ponte sul fiume Kwai e omaggio al cimitero di guerra alleato.",
+  "fullDescription": "Una gita intensa di un giorno intero da Bangkok a Kanchanaburi, lungo i luoghi della storica ferrovia della morte.\n\nIl percorso comprende il viaggio in treno sulla ferrovia della morte, la passeggiata attraverso il memoriale del museo di Hellfire Pass, l'attraversamento del ponte sul fiume Kwai e la visita al cimitero di guerra alleato in segno di omaggio. Pranzo thailandese in un ristorante sul fiume e trasporto in hotel sono compresi.\n\nIl prezzo comprende il trasporto climatizzato con ritiro e riaccompagno in hotel, la guida di lingua inglese, il viaggio sulla ferrovia della morte, l'ingresso al museo memoriale di Hellfire Pass, la visita al cimitero di guerra alleato, il ponte sul fiume Kwai, il pranzo thailandese in un ristorante sul fiume, tutti i biglietti d'ingresso e acqua in bottiglia. Le bevande oltre all'acqua, le spese personali e i souvenir, e le mance per guida e autista (facoltative) non sono comprese.",
+  "highlights": [
+   "Viaggio sulla storica ferrovia della morte e attraversamento del ponte sul fiume Kwai",
+   "Memoriale di Hellfire Pass e cimitero di guerra alleato",
+   "Pranzo thailandese in un ristorante sul fiume incluso"
+  ],
+  "included": [
+   "Trasporto climatizzato con ritiro e riaccompagno in hotel",
+   "Guida di lingua inglese",
+   "Viaggio sulla ferrovia della morte",
+   "Ingresso al museo memoriale di Hellfire Pass",
+   "Visita al cimitero di guerra alleato",
+   "Ponte sul fiume Kwai",
+   "Pranzo thailandese in un ristorante sul fiume",
+   "Tutti i biglietti d'ingresso",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Bevande oltre all'acqua",
+   "Spese personali e souvenir",
+   "Mance per guida e autista (facoltative)"
+  ]
+ },
+ "bangkok-ethical-elephant-sanctuary-day-trip": {
+  "title": "Gita di un giorno da Bangkok: santuario etico degli elefanti a Chonburi",
+  "metaTitle": "Bangkok: santuario etico degli elefanti a Chonburi",
+  "metaDescription": "Una giornata in un santuario etico degli elefanti a 90 minuti da Bangkok, per nutrire, lavare e camminare insieme a elefanti salvati in un ambiente di giungla naturale, senza cavalcate, catene o spettacoli.",
+  "shortDescription": "Una giornata in un santuario etico degli elefanti a 90 minuti da Bangkok, per nutrire, lavare e camminare insieme a elefanti salvati in un ambiente di giungla naturale, senza cavalcate, catene o spettacoli.",
+  "fullDescription": "Una giornata intera in un santuario etico degli elefanti a 90 minuti da Bangkok.\n\nSi nutre, si lava e si camminare insieme a elefanti salvati in un ambiente di giungla naturale, senza cavalcate, senza catene e senza spettacoli. Abiti tradizionali da mahout sono forniti per le attivita, insieme a pranzo thailandese e acqua potabile.\n\nIl prezzo comprende il ritiro e riaccompagno in hotel andata e ritorno (centro di Bangkok), tutte le attivita del santuario (nutrire, lavare, camminare con gli elefanti), gli abiti tradizionali da mahout, il pranzo thailandese e l'acqua potabile, la guida di lingua inglese e i custodi degli elefanti, e l'assicurazione contro gli infortuni. Le spese personali e i souvenir, le mance per guida e custodi (facoltative), e spuntini o bevande oltre a quanto fornito non sono compresi.",
+  "highlights": [
+   "Nutrire, lavare e camminare con elefanti salvati senza cavalcate ne catene",
+   "Santuario etico a 90 minuti da Bangkok",
+   "Abiti tradizionali da mahout forniti"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel andata e ritorno (centro Bangkok)",
+   "Tutte le attivita del santuario",
+   "Abiti tradizionali da mahout",
+   "Pranzo thailandese e acqua potabile",
+   "Guida di lingua inglese e custodi degli elefanti",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Spese personali e souvenir",
+   "Mance per guida e custodi (facoltative)",
+   "Spuntini o bevande oltre a quanto fornito"
+  ]
+ },
+ "bangkok-floating-market-railway-market-day-trip-boat-ride": {
+  "title": "Mercato galleggiante e mercato ferroviario da Bangkok: gita di un giorno con giro in barca",
+  "metaTitle": "Bangkok: mercato galleggiante e ferroviario, gita di un giorno",
+  "metaDescription": "Due dei mercati più iconici della Thailandia in una gita di un giorno da Bangkok: il mercato ferroviario di Maeklong e il mercato galleggiante di Damnoen Saduak, con giro in barca a remi tra i canali.",
+  "shortDescription": "Due dei mercati più iconici della Thailandia in una gita di un giorno da Bangkok: il mercato ferroviario di Maeklong e il mercato galleggiante di Damnoen Saduak, con giro in barca a remi tra i canali.",
+  "fullDescription": "Una gita di un giorno fuori da Bangkok per scoprire due dei mercati più iconici della Thailandia.\n\nAl mercato ferroviario di Maeklong i venditori ripiegano le bancarelle ogni volta che passa un treno. Al mercato galleggiante di Damnoen Saduak i locali vendono cibo fresco da tradizionali barche di legno, e un giro in barca a remi porta attraverso i canali. Un'audioguida in più lingue, tramite codice QR, è disponibile con auricolari forniti.\n\nIl prezzo comprende il trasporto andata e ritorno da Bangkok in veicolo climatizzato, una guida locale professionale di lingua inglese, il giro in barca a remi tradizionale al mercato galleggiante di Damnoen Saduak, l'audioguida disponibile in più lingue tramite codice QR, gli auricolari e il ritiro e riaccompagno in hotel (se l'opzione è selezionata). Cibo e bevande ai mercati (si consiglia di portare contanti in baht thailandesi), lo shopping personale e i souvenir, e le mance per guida e autista (facoltative ma apprezzate) e l'assicurazione di viaggio non sono compresi.",
+  "highlights": [
+   "Mercato ferroviario di Maeklong e mercato galleggiante di Damnoen Saduak in un giorno",
+   "Giro in barca a remi tradizionale tra i canali",
+   "Audioguida in più lingue tramite codice QR"
+  ],
+  "included": [
+   "Trasporto andata e ritorno da Bangkok climatizzato",
+   "Guida locale professionale di lingua inglese",
+   "Giro in barca a remi al mercato galleggiante",
+   "Audioguida multilingue tramite codice QR",
+   "Auricolari",
+   "Ritiro e riaccompagno in hotel (se selezionato)"
+  ],
+  "notIncluded": [
+   "Cibo e bevande ai mercati (contanti in baht consigliati)",
+   "Shopping personale e souvenir",
+   "Mance per guida e autista (facoltative)",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "bangkok-grand-palace-wat-pho-wat-arun-guided-tour": {
+  "title": "Bangkok: tour guidato al Grand Palace, Wat Pho e Wat Arun",
+  "metaTitle": "Bangkok: Grand Palace, Wat Pho e Wat Arun con guida",
+  "metaDescription": "I primi 3 templi di Bangkok in una mattina: Grand Palace, Wat Pho e Wat Arun, con una guida locale che conosce davvero le storie dietro questi luoghi. Gruppo ridotto, massimo 10 persone.",
+  "shortDescription": "I primi 3 templi di Bangkok in una mattina: Grand Palace, Wat Pho e Wat Arun, con una guida locale che conosce davvero le storie dietro questi luoghi. Gruppo ridotto, massimo 10 persone.",
+  "fullDescription": "I primi tre templi di Bangkok in un'unica mattina: Grand Palace, Wat Pho e Wat Arun.\n\nUna guida locale di lingua inglese che conosce davvero le storie dietro questi luoghi accompagna il gruppo, limitato a un massimo di 10 persone, e un tragitto in barca tradizionale attraversa il fiume Chao Phraya tra le tappe.\n\nIl prezzo comprende la guida locale di lingua inglese, l'accesso guidato al Grand Palace, Wat Pho e Wat Arun, il tragitto in barca tradizionale sul fiume Chao Phraya e acqua in bottiglia. I biglietti d'ingresso (circa 1.000 baht a persona, pagati alle biglietterie ufficiali il giorno stesso: Grand Palace 500, Wat Pho 300, Wat Arun 200), cibo e bevande, le spese personali e i souvenir, il trasporto da e per il punto di incontro, e le mance per la guida (facoltative ma apprezzate) non sono compresi.",
+  "highlights": [
+   "Grand Palace, Wat Pho e Wat Arun in un'unica mattina",
+   "Gruppo ridotto, massimo 10 persone",
+   "Tragitto in barca tradizionale sul fiume Chao Phraya"
+  ],
+  "included": [
+   "Guida locale di lingua inglese",
+   "Accesso guidato al Grand Palace, Wat Pho e Wat Arun",
+   "Tragitto in barca tradizionale sul Chao Phraya",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Biglietti d'ingresso (circa 1.000 baht a persona: Grand Palace 500, Wat Pho 300, Wat Arun 200)",
+   "Cibo e bevande",
+   "Spese personali e souvenir",
+   "Trasporto da e per il punto di incontro",
+   "Mance per la guida (facoltative)"
+  ]
+ },
+ "bangkok-longtail-boat-canal-cruise-hidden-temples": {
+  "title": "Bangkok: crociera in barca longtail tra i canali e i templi nascosti",
+  "metaTitle": "Bangkok: crociera longtail tra canali e templi nascosti",
+  "metaDescription": "La rete di canali nascosta di Bangkok a bordo di una barca longtail, tra case di legno su palafitte, un Buddha dorato imponente e lo spettacolo di marionette tradizionali alla Casa dell'Artista.",
+  "shortDescription": "La rete di canali nascosta di Bangkok a bordo di una barca longtail, tra case di legno su palafitte, un Buddha dorato imponente e lo spettacolo di marionette tradizionali alla Casa dell'Artista.",
+  "fullDescription": "Due ore a bordo di una barca longtail per esplorare la rete di canali nascosta di Bangkok.\n\nIl percorso passa davanti a case di legno su palafitte e a un Buddha dorato imponente, con una sosta alla Casa dell'Artista per lo spettacolo di marionette tradizionali. Una guida locale di lingua inglese accompagna il gruppo e tutti gli ingressi ai templi sono compresi.\n\nIl prezzo comprende la crociera in barca longtail di due ore tra i canali, la guida locale di lingua inglese, tutti i biglietti d'ingresso ai templi, acqua in bottiglia e lo spettacolo di marionette tradizionali alla Casa dell'Artista. Il ritiro e riaccompagno in hotel, cibo e bevande (spuntini disponibili alla Casa dell'Artista), le spese personali e i souvenir, e le mance (facoltative) non sono compresi.",
+  "highlights": [
+   "Crociera longtail di due ore tra i canali nascosti di Bangkok",
+   "Case di legno su palafitte e Buddha dorato imponente",
+   "Spettacolo di marionette tradizionali alla Casa dell'Artista"
+  ],
+  "included": [
+   "Crociera in barca longtail di due ore",
+   "Guida locale di lingua inglese",
+   "Tutti i biglietti d'ingresso ai templi",
+   "Acqua in bottiglia",
+   "Spettacolo di marionette alla Casa dell'Artista"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Cibo e bevande (spuntini disponibili alla Casa dell'Artista)",
+   "Spese personali e souvenir",
+   "Mance (facoltative)"
+  ]
+ },
+ "bangkok-maeklong-railway-damnoen-saduak-dragon-temple-tour": {
+  "title": "Bangkok: mercato ferroviario di Maeklong, Damnoen Saduak e tempio del Dragone",
+  "metaTitle": "Bangkok: Maeklong, Damnoen Saduak e tempio del Dragone",
+  "metaDescription": "Il famoso viaggio in treno attraverso il mercato ferroviario di Maeklong, una crociera tra i canali del mercato galleggiante di Damnoen Saduak in barca longtail, e la visita all'incredibile tempio del Dragone con la sua torre rosa gigante.",
+  "shortDescription": "Il famoso viaggio in treno attraverso il mercato ferroviario di Maeklong, una crociera tra i canali del mercato galleggiante di Damnoen Saduak in barca longtail, e la visita all'incredibile tempio del Dragone con la sua torre rosa gigante.",
+  "fullDescription": "Il famoso viaggio in treno attraverso il mercato ferroviario di Maeklong apre questa gita di un giorno intero da Bangkok.\n\nSegue una crociera tra i canali del mercato galleggiante di Damnoen Saduak a bordo di una barca longtail, e la visita all'incredibile tempio del Dragone con la sua torre rosa gigante. Ritiro in hotel entro 8 km da Khaosan Road, furgone climatizzato e guida di lingua inglese sono compresi.\n\nIl prezzo comprende il ritiro e riaccompagno in hotel (entro 8 km da Khaosan Road), il trasporto in furgone climatizzato, la guida turistica di lingua inglese, il giro in barca longtail a Damnoen Saduak, tutti i biglietti d'ingresso e acqua in bottiglia. Cibo e bevande (spuntini disponibili in entrambi i mercati), gli acquisti personali e i souvenir, le mance per la guida (facoltative) e l'assicurazione di viaggio non sono compresi.",
+  "highlights": [
+   "Viaggio in treno attraverso il mercato ferroviario di Maeklong",
+   "Barca longtail al mercato galleggiante di Damnoen Saduak",
+   "Tempio del Dragone con la sua torre rosa gigante"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (entro 8 km da Khaosan Road)",
+   "Trasporto in furgone climatizzato",
+   "Guida turistica di lingua inglese",
+   "Giro in barca longtail a Damnoen Saduak",
+   "Tutti i biglietti d'ingresso",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Cibo e bevande (spuntini disponibili ai mercati)",
+   "Acquisti personali e souvenir",
+   "Mance per la guida (facoltative)",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "bangkok-night-river-experience-with-dinner-cultural-show": {
+  "title": "Bangkok: esperienza notturna sul fiume con cena e spettacolo culturale",
+  "metaTitle": "Bangkok: crociera notturna con cena e spettacolo culturale",
+  "metaDescription": "Un'esperienza notturna sul fiume di Bangkok a bordo della crociera cena Sawasdee Chao Phraya da ICONSIAM, con buffet, musica dal vivo ed esibizioni culturali thailandesi.",
+  "shortDescription": "Un'esperienza notturna sul fiume di Bangkok a bordo della crociera cena Sawasdee Chao Phraya da ICONSIAM, con buffet, musica dal vivo ed esibizioni culturali thailandesi.",
+  "fullDescription": "Un'esperienza notturna sul fiume di Bangkok a bordo della crociera cena Sawasdee Chao Phraya, in partenza da ICONSIAM.\n\nBuffet, musica dal vivo ed esibizioni culturali thailandesi accompagnano la serata, con viste sulla città illuminata dopo il tramonto. Una guida di lingua inglese accompagna il gruppo per tutta la durata.\n\nIl prezzo comprende la guida di lingua inglese e il tour così come descritto. Le mance e le spese personali non sono comprese.",
+  "highlights": [
+   "Crociera cena Sawasdee Chao Phraya da ICONSIAM",
+   "Buffet, musica dal vivo ed esibizioni culturali thailandesi",
+   "Viste sulla città di Bangkok illuminata dopo il tramonto"
+  ],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour così come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
