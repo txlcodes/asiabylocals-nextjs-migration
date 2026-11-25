@@ -2797,6 +2797,74 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-skyscreamer-swing-worth-it-pokhara":
+            return {
+                title: "Is the 50-Meter SkyScreamer Swing Worth It in Pokhara?",
+                description: "An honest look at the 50-meter SkyScreamer swing in Pokhara, distinct from the already-covered bungee jump.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/37a4990dd286daa777c494613526e94798c0eb8cf2019147af64d35154a48584.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a giant swing rather than a free-fall bungee jump, giving a different kind of thrill — a sustained swinging arc rather than a straight drop, over the same dramatic valley scenery that makes Pokhara's adventure sports scene notable.", tourCard: { slug: "nepal-elevate-your-thrills-on-a-50-meter", title: "Nepal: Elevate Your Thrills on a 50-Meter SkyScreamer Swing", description: "A giant 50-meter swing experience in Pokhara.", price: "From $23", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/37a4990dd286daa777c494613526e94798c0eb8cf2019147af64d35154a48584.jpeg" } },
+                    { title: "Practical Tips", content: "If you want a sustained swinging sensation rather than a straight free-fall, this is the better pick over the bungee jump." }
+                ],
+                faqs: [
+                    { q: "Is the SkyScreamer swing worth it in Pokhara?", a: "Yes if you want a sustained swinging thrill rather than a straight free-fall bungee drop — both are real, distinct experiences." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the SkyScreamer swing worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a sustained swinging thrill distinct from a bungee free-fall." } }
+                ] },
+            };
+
+        case "is-kahun-danda-hike-worth-it-pokhara":
+            return {
+                title: "Is the Kahun Danda Day Hike Worth It from Pokhara?",
+                description: "An honest look at the Kahun Danda day hike with guide and transfer, a quieter viewpoint alternative to the busier Sarangkot.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f5bdec8214b7116b9c3636ed98a54fe303b139d141c047991130eb7e79597fc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kahun Danda offers similar Himalayan and lake views to the much more popular Sarangkot viewpoint, but with far fewer tourists — a good pick for travelers who've heard how crowded Sarangkot sunrise can get and want an alternative.", tourCard: { slug: "from-pokhara-kahun-danda-day-hike-with-guide", title: "From Pokhara: Kahun Danda Day Hike with Guide & Transfer", description: "A guided day hike to Kahun Danda with transfer.", price: "From $52", duration: "5.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f5bdec8214b7116b9c3636ed98a54fe303b139d141c047991130eb7e79597fc.jpg" } },
+                    { title: "Practical Tips", content: "This is specifically a good alternative if Sarangkot's sunrise crowds are a concern — similar views with far fewer people." }
+                ],
+                faqs: [
+                    { q: "Is Kahun Danda worth hiking from Pokhara?", a: "Yes, especially as a quieter alternative to the much busier Sarangkot viewpoint, with similar Himalayan and lake views." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Kahun Danda worth hiking?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a quieter alternative to the busier Sarangkot viewpoint." } }
+                ] },
+            };
+
+        case "is-momo-dal-bhat-class-worth-it-pokhara":
+            return {
+                title: "Is the Momos or Dal Bhat Cooking Class Worth It in Pokhara?",
+                description: "An honest look at the Momos or Dal Bhat cooking class in a Nepali home in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f9a513defefc9e4363d96c20f917763fdf48c689992c45f3651b98b384faac26.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Cooking in an actual Nepali home, rather than a dedicated cooking-class venue, gives this a genuinely more personal, authentic feel, and the choice between momos or dal bhat covers two of Nepal's most essential dishes.", tourCard: { slug: "pokhara-momos-or-dal-bhat-cooking-class-in-a", title: "Pokhara: Momos or Dal Bhat Cooking Class in a Nepali Home", description: "A cooking class making momos or dal bhat in a Nepali home.", price: "From $53", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f9a513defefc9e4363d96c20f917763fdf48c689992c45f3651b98b384faac26.jpg" } },
+                    { title: "Practical Tips", content: "Pick dal bhat if you want the more everyday, staple Nepali meal, or momos for the more famous snack-style dish." }
+                ],
+                faqs: [
+                    { q: "Is the Pokhara cooking class worth it?", a: "Yes, cooking in an actual Nepali home gives it a genuinely more personal feel than a dedicated cooking-class venue." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Pokhara home cooking class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely more personal, home-based experience." } }
+                ] },
+            };
+
+        case "is-night-walking-tour-worth-it-pokhara":
+            return {
+                title: "Is the Guided Night/Evening Walking Tour Worth It in Pokhara?",
+                description: "An honest look at the guided night and evening walking tour with a local guide in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/61e4d2922f36e59941a2ecdabfb9465b833308865bf2d92bf96773d86bf4309d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pokhara's lakeside area has a genuinely different atmosphere after dark, and a guided evening walk gives context on the local nightlife and culture that a daytime sightseeing tour wouldn't cover.", tourCard: { slug: "pokhara-guided-nightevening-walking-tour-with", title: "Pokhara: Guided Night/Evening Walking Tour with Local Guide", description: "A guided evening walking tour with a local guide in Pokhara.", price: "From $53", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/61e4d2922f36e59941a2ecdabfb9465b833308865bf2d92bf96773d86bf4309d.jpg" } },
+                    { title: "Practical Tips", content: "A good pick to pair with an active day of hiking or adventure sports, as a low-key way to close out the evening." }
+                ],
+                faqs: [
+                    { q: "Is the night walking tour worth it in Pokhara?", a: "Yes, for a genuinely different lakeside atmosphere after dark that daytime sightseeing wouldn't cover." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the night walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different evening lakeside atmosphere." } }
+                ] },
+            };
+
         default:
             return null;
     }

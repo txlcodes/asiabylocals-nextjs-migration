@@ -851,6 +851,8 @@ export const POKHARA_INFO_SLUGS = [
   'is-seti-river-rafting-worth-it-pokhara',
   'is-thakali-dinner-worth-it-pokhara', 'is-phewa-lake-yoga-worth-it-pokhara',
   'is-royal-enfield-adventure-worth-it-pokhara', 'is-pokhara-bungee-worth-it-pokhara',
+  'is-skyscreamer-swing-worth-it-pokhara', 'is-kahun-danda-hike-worth-it-pokhara',
+  'is-momo-dal-bhat-class-worth-it-pokhara', 'is-night-walking-tour-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.
