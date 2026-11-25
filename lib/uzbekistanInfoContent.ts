@@ -562,6 +562,81 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "best-desert-fortresses-tour-khiva":
+            return {
+                title: "Which Is the Best Desert Fortresses Tour from Khiva?",
+                seoTitle: "Best Khiva Desert Fortresses Tour 2026 | Honest Comparison",
+                description: "Compare real day trips to the ancient Khorezm desert fortresses (Ayaz-Kala, Toprak-Kala, Kizil-Kala) from Khiva — from a $85 private transfer to a fuller guided day.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d371ef9283199c847c9f87ff8df3ac6a9598f258a75fc4992aa84a9084dd5820.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Khorezm desert around Khiva holds dozens of ancient fortress ruins, and nearly every real tour covers the same core three — Ayaz-Kala, Toprak-Kala and Kizil-Kala — in the Kyzylkum desert. The differences are whether it's a bare transfer with photo stops or a fuller guided day with context at each site.", tourCard: { slug: "ayazkala-toprakkala-kizilkala-fortress-tour-from", title: "Ayazkala, Toprakkala & Kizilkala Fortress Tour From Khiva", description: "A guided day trip to the three main Khorezm desert fortresses.", price: "From $117", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d371ef9283199c847c9f87ff8df3ac6a9598f258a75fc4992aa84a9084dd5820.jpeg" } },
+                    { title: "Cheapest: Private Transfer with Photo Stops", content: "At $85, this is a bare-bones version — transport to the fortresses with photo stops, without a deep guided explanation at each site.", tourCard: { slug: "private-transfer-photostops-ayazkala-toprakkala", title: "Private Transfer & Photo-Stops: Ayaz-Kala & Toprak-Kala", description: "A budget private transfer with photo stops at the fortresses.", price: "From $85", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a8973f570c75df913bbb42f28b2d0be1e7b070cf920c332bc0693b018197d067.jpg" } },
+                    { title: "Best Guided Option: Full Daytrip to Ancient Fortresses", content: "This covers more ground with proper guiding throughout, a better fit if you want the history explained rather than just transport and a view.", tourCard: { slug: "daytrip-from-khiva-to-ancient-fortresses", title: "Daytrip From Khiva To Ancient Fortresses", description: "A fully guided day trip to the ancient desert fortresses.", price: "From $111", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/70b7fd9c42d7dc28da335ab3fa23adbde1faed1f8485607d52f7236d160543ac.jpg" } },
+                    { title: "Practical Tips", content: "These fortresses sit in open desert with essentially no shade — bring water, sun protection, and comfortable walking shoes regardless of which version you book." }
+                ],
+                faqs: [
+                    { q: "What is the best desert fortresses tour from Khiva?", a: "A guided day trip covering Ayaz-Kala, Toprak-Kala and Kizil-Kala suits most visitors; the bare transfer version is cheaper but skips the historical context." },
+                    { q: "How many desert fortresses can I see from Khiva in one day?", a: "The three main ones — Ayaz-Kala, Toprak-Kala and Kizil-Kala — are the standard core; some longer tours add more for travelers with extra time." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "What is the best desert fortresses tour from Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "A guided day trip covering the three main fortresses suits most visitors." } }
+                ] },
+            };
+
+        case "is-ceramic-tile-workshop-worth-it-khiva":
+            return {
+                title: "Is the Khiva Hand-Painted Ceramic Tile Workshop Worth It?",
+                seoTitle: "Khiva Ceramic Tile Workshop 2026 | Honest Review",
+                description: "An honest look at the hand-painted ceramic tile workshop with a local master in Khiva, home to Uzbekistan's distinctive blue-tiled architecture.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18f0febb00b344b5eb57e5f94779cab81d4cad02fdc8075f21851897d84a4fe2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khiva's old town is covered in distinctive blue-and-white ceramic tilework, and this workshop with a local master lets you paint your own tile rather than just admiring the buildings from outside — a hands-on way to engage with the city's signature craft.", tourCard: { slug: "khiva-hand-painted-ceramic-tile-workshop-with-a", title: "Khiva: Hand-Painted Ceramic Tile Workshop with a Local Master", description: "A hands-on ceramic tile painting workshop with a local master.", price: "From $104", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18f0febb00b344b5eb57e5f94779cab81d4cad02fdc8075f21851897d84a4fe2.jpg" } },
+                    { title: "Practical Tips", content: "This pairs well right after walking through Itchan Kala's old town, while the tilework you've just seen is still fresh in mind." }
+                ],
+                faqs: [
+                    { q: "Is the Khiva ceramic tile workshop worth it?", a: "Yes, it's a hands-on way to engage with the city's signature blue-and-white tilework craft, best paired with a walk through Itchan Kala." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Khiva ceramic tile workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a hands-on way to engage with Khiva's signature blue-and-white tilework." } }
+                ] },
+            };
+
+        case "is-wood-carving-masterclass-worth-it-khiva":
+            return {
+                title: "Is the Khiva Wood Carving Masterclass Worth It?",
+                seoTitle: "Khiva Wood Carving Masterclass 2026 | Honest Review",
+                description: "An honest look at the wood carving masterclass with a generational master in Khiva.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/533eb3f08dee026a1e860ef798dda3ea2cdcd2f81bcf05d222cb9470aef12de7.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Khiva's old town is full of intricately carved wooden doors and columns, and this short masterclass with a generational master gives a genuine hands-on sense of the technique behind what you'll have just been looking at around Itchan Kala.", tourCard: { slug: "khiva-wood-carving-masterclass-with-generational", title: "Khiva: Wood Carving Masterclass with Generational Master", description: "A hands-on wood carving masterclass with a generational master craftsman.", price: "From $32", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/533eb3f08dee026a1e860ef798dda3ea2cdcd2f81bcf05d222cb9470aef12de7.jpeg" } },
+                    { title: "Practical Tips", content: "At just 1 hour and a low price, this is an easy add-on alongside the Itchan Kala walking tour rather than a separate day's activity." }
+                ],
+                faqs: [
+                    { q: "Is the Khiva wood carving masterclass worth it?", a: "Yes, it's a quick, affordable way to understand the carving technique behind the intricately carved doors and columns around Itchan Kala." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Khiva wood carving masterclass worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a quick, affordable way to understand the carving behind Itchan Kala's doors and columns." } }
+                ] },
+            };
+
+        case "is-savitsky-museum-tour-worth-it-khiva":
+            return {
+                title: "Is the Savitsky Museum Day Trip Worth It from Khiva?",
+                seoTitle: "Savitsky Museum Nukus Day Trip 2026 | Honest Review",
+                description: "An honest look at the Khiva to Nukus day trip covering the Savitsky Museum's renowned Soviet avant-garde art collection.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be3bf4e605e2b8604161891e6e00937223762966d594d05ab73cab6f059059ad.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Savitsky Museum in Nukus holds a genuinely world-class collection of banned Soviet avant-garde art, smuggled and preserved far from Moscow's censors — a completely different kind of day from Khiva's Silk Road architecture, worth it specifically for art-interested travelers.", tourCard: { slug: "khiva-to-nukus-savitsky-museum-soviet-aircraft", title: "Khiva to Nukus: Savitsky Museum & Soviet Aircraft Day Trip", description: "A day trip to Nukus covering the Savitsky Museum and a Soviet aircraft graveyard.", price: "From $190", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be3bf4e605e2b8604161891e6e00937223762966d594d05ab73cab6f059059ad.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuine full-day commitment given the drive to Nukus — worth it specifically if Soviet-era art history is a real interest, less so if you're only mildly curious." }
+                ],
+                faqs: [
+                    { q: "Is the Savitsky Museum day trip worth it from Khiva?", a: "Yes for art-interested travelers — it holds a genuinely world-class collection of banned Soviet avant-garde art, a completely different day from Khiva's Silk Road architecture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Savitsky Museum day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes for art-interested travelers, given its world-class Soviet avant-garde art collection." } }
+                ] },
+            };
+
         case "is-bread-baking-worth-it-samarkand":
             return {
                 title: "Is the Samarkand Bread Baking Experience Worth It?",

@@ -411,6 +411,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const khivaInfoPages = [
     'best-tours-in-khiva', 'best-itchan-kala-walking-tour-khiva',
     'is-cooking-class-worth-it-khiva',
+    'best-desert-fortresses-tour-khiva', 'is-ceramic-tile-workshop-worth-it-khiva',
+    'is-wood-carving-masterclass-worth-it-khiva', 'is-savitsky-museum-tour-worth-it-khiva',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/khiva/${slug}`,
     lastModified: new Date(),
