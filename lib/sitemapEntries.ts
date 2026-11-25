@@ -373,6 +373,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-plov-cooking-class-samarkand',
     'is-bread-baking-worth-it-samarkand', 'is-jewish-legacy-tour-worth-it-samarkand',
     'is-seven-lakes-tour-worth-it-samarkand', 'is-winemaking-tour-worth-it-samarkand',
+    'is-registan-night-tour-worth-it-samarkand', 'is-shakhrisabz-day-trip-worth-it-samarkand',
+    'is-imam-al-bukhari-complex-worth-it-samarkand', 'is-bike-tour-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),

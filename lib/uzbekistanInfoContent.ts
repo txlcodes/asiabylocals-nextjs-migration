@@ -751,6 +751,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-registan-night-tour-worth-it-samarkand":
+            return {
+                title: "Is the Registan Square Night Tour with Ice Cream Worth It in Samarkand?",
+                seoTitle: "Samarkand Registan Night Tour 2026 | Honest Review",
+                description: "An honest look at the Registan Square night tour with ice cream, a short evening experience distinct from the standard daytime walking tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/613ec6f1b03a2c339d0613d5f7a526ebc99881e43676296907a88a6ad4918e50.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Registan's three madrasas lit up after dark give a genuinely different atmosphere from the daytime crowds covered by the standard walking tours, and pairing it with ice cream keeps this specifically a short, relaxed evening add-on rather than a full history lesson.", tourCard: { slug: "samarkand-registan-square-night-tour-with-ice", title: "Samarkand: Registan Square Night Tour with Ice Cream", description: "A short evening visit to the lit-up Registan with ice cream.", price: "From $20", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/613ec6f1b03a2c339d0613d5f7a526ebc99881e43676296907a88a6ad4918e50.jpg" } },
+                    { title: "Practical Tips", content: "Pair this with a daytime walking tour rather than treating it as a replacement — the night lighting is a nice add-on to seeing the Registan properly during the day, not a substitute for it." }
+                ],
+                faqs: [
+                    { q: "Is the Registan night tour worth it in Samarkand?", a: "Yes as a relaxed evening add-on with a genuinely different atmosphere than the daytime crowds, but pair it with a full daytime walking tour rather than relying on it alone." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Registan night tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes as a short evening add-on, best paired with a full daytime walking tour." } }
+                ] },
+            };
+
+        case "is-shakhrisabz-day-trip-worth-it-samarkand":
+            return {
+                title: "Is the Shakhrisabz Day Trip Worth It from Samarkand?",
+                seoTitle: "Shakhrisabz Day Trip from Samarkand 2026 | Honest Review",
+                description: "An honest look at the Shakhrisabz day trip from Samarkand, the UNESCO-listed birthplace of Timur (Tamerlane).",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9c3c488fdcb0cd41c3cc74b001d01887bb59f3bea3dbce35065b4db00204fba0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shakhrisabz was Timur's birthplace and once held his planned mausoleum, giving it a genuine historical significance that complements Samarkand's monuments rather than duplicating them — a worthwhile day trip for travelers who want the fuller Timurid-era story.", tourCard: { slug: "from-samarkand-shakhrisabz-day-trip-with-a-guide", title: "From Samarkand: Shakhrisabz Day Trip with a Guide", description: "A guided day trip to Shakhrisabz, Timur's birthplace.", price: "From $52", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9c3c488fdcb0cd41c3cc74b001d01887bb59f3bea3dbce35065b4db00204fba0.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuine full-day trip given the drive each way — plan it as a dedicated day rather than squeezing it in alongside Samarkand's own sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Shakhrisabz day trip worth it from Samarkand?", a: "Yes for travelers wanting the fuller Timurid-era story — it was Timur's birthplace, complementing rather than duplicating Samarkand's own monuments." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Shakhrisabz day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it was Timur's birthplace and complements Samarkand's own Timurid monuments." } }
+                ] },
+            };
+
+        case "is-imam-al-bukhari-complex-worth-it-samarkand":
+            return {
+                title: "Is the Imam Al-Bukhari Complex Worth It from Samarkand?",
+                seoTitle: "Imam Al-Bukhari Complex Samarkand 2026 | Honest Review",
+                description: "An honest look at the Imam Al-Bukhari Complex tour from Samarkand, a significant Islamic pilgrimage site distinct from the city's Timurid-era monuments.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6c231f773fcd04e03c7e34730718ce2cec8293f6e3660172bd0c777c4cd8e37.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Imam al-Bukhari was a major Islamic scholar whose hadith collection is still widely studied today, and this complex near Samarkand is a genuine pilgrimage site for many visitors — a different kind of significance from the Registan's architectural grandeur.", tourCard: { slug: "from-samarkand-imam-al-bukhari-complex-with-guide", title: "From Samarkand: Imam Al-Bukhari Complex with Guide", description: "A guided visit to the Imam Al-Bukhari Complex near Samarkand.", price: "From $40", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6c231f773fcd04e03c7e34730718ce2cec8293f6e3660172bd0c777c4cd8e37.jpg" } },
+                    { title: "Practical Tips", content: "A knowledgeable guide adds real value here, since the complex's religious significance isn't always obvious without context for visitors unfamiliar with Islamic scholarly history." }
+                ],
+                faqs: [
+                    { q: "Is the Imam Al-Bukhari Complex worth visiting?", a: "Yes, especially for visitors interested in Islamic scholarly history — it's a genuine pilgrimage site, distinct from Samarkand's Timurid-era architectural monuments." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Imam Al-Bukhari Complex worth visiting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuine Islamic pilgrimage site distinct from Samarkand's Timurid monuments." } }
+                ] },
+            };
+
+        case "is-bike-tour-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Bike Tour Worth It?",
+                seoTitle: "Samarkand Bike Tour 2026 | Honest Review",
+                description: "An honest look at the Samarkand bike tour covering top highlights and hidden neighbourhoods, an alternative to the standard walking tours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e40efb39d5545f4be924b89f16df9b035f23e7b28fe07b18a07df9d18102aa92.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering Samarkand by bike lets you reach hidden neighbourhoods beyond the main monument circuit that a walking tour wouldn't have time for, at a faster pace than walking but slower and more exploratory than a car tour.", tourCard: { slug: "samarkand-bike-tour-top-highlights-hidden", title: "Samarkand Bike Tour: Top Highlights & Hidden Neighbourhoods", description: "A bike tour covering Samarkand's highlights and lesser-known neighbourhoods.", price: "From $51", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e40efb39d5545f4be924b89f16df9b035f23e7b28fe07b18a07df9d18102aa92.jpg" } },
+                    { title: "Practical Tips", content: "This suits travelers comfortable cycling in city traffic — if you'd rather be guided on foot at a slower pace, one of the standard walking tours is the better fit." }
+                ],
+                faqs: [
+                    { q: "Is the Samarkand bike tour worth it?", a: "Yes if you want to reach hidden neighbourhoods beyond the main monument circuit at a faster pace than walking." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Samarkand bike tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it reaches hidden neighbourhoods a standard walking tour wouldn't have time for." } }
+                ] },
+            };
+
         default:
             return null;
     }
