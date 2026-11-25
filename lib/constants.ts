@@ -996,6 +996,8 @@ export const BEIJING_INFO_SLUGS = [
   'is-prince-gongs-mansion-worth-it-beijing', 'is-gubei-water-town-worth-it-beijing',
   'is-planetarium-worth-it-beijing', 'is-hutong-nightlife-tour-worth-it-beijing',
   'is-tie-dye-workshop-worth-it-beijing', 'is-fragrant-hills-worth-it-beijing',
+  'is-ancient-observatory-worth-it-beijing', 'is-performing-arts-center-worth-it-beijing',
+  'is-eastern-qing-tombs-worth-it-beijing', 'is-candied-hawthorn-workshop-worth-it-beijing',
 ];
 
 export const SHANGHAI_INFO_SLUGS = [

@@ -1260,6 +1260,90 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ancient-observatory-worth-it-beijing":
+      return {
+        title: "Is the Beijing Ancient Observatory Worth It?",
+        description: "An honest look at the Beijing Ancient Observatory, a Ming-dynasty astronomical site distinct from the city's palace and temple sightseeing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3fa5116ef4a7374a3e2809bf41310aaec32b3b08e01a9517a14c4b7187d60e94.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is one of the world's oldest surviving observatories, with original bronze astronomical instruments on its rooftop — a genuinely niche but rewarding stop for travelers interested in the history of science rather than more palace architecture.",
+            tourCard: { slug: "beijing-ancient-observatory-ticket-with-audio-pdf", title: "Beijing Ancient Observatory Ticket with Audio & PDF Guide", description: "Entry to the Beijing Ancient Observatory with an audio and PDF guide.", price: "From $17", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3fa5116ef4a7374a3e2809bf41310aaec32b3b08e01a9517a14c4b7187d60e94.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a smaller, quicker visit than most Beijing landmarks — good for pairing with something else nearby rather than planning a half-day around it alone.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Beijing Ancient Observatory worth it?", a: "Yes for travelers interested in the history of science — it has original bronze instruments and is one of the world's oldest surviving observatories." },
+        ],
+      };
+
+    case "is-performing-arts-center-worth-it-beijing":
+      return {
+        title: "Is the National Centre for the Performing Arts Worth It in Beijing?",
+        description: "An honest look at Beijing's National Centre for the Performing Arts, known for its distinctive titanium-glass dome.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c958e5aaf7b9409fa4f3a9bae8b6660c8a8d8a648f355982bd86580987818945.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Known locally as 'The Giant Egg' for its distinctive titanium-glass dome, this modern performing arts venue is a genuinely striking contemporary architectural contrast to the city's imperial-era sites nearby.",
+            tourCard: { slug: "beijing-national-centre-for-the-performing-arts", title: "Beijing: National Centre for the Performing Arts Ticket", description: "Entry ticket to Beijing's National Centre for the Performing Arts.", price: "From $28", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c958e5aaf7b9409fa4f3a9bae8b6660c8a8d8a648f355982bd86580987818945.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check whether your ticket includes a performance or is a building/exhibition visit only — the two are different products with different value.",
+          },
+        ],
+        faqs: [
+          { q: "Is the National Centre for the Performing Arts worth visiting in Beijing?", a: "Yes for a striking modern architectural contrast to the city's imperial sites — confirm whether your ticket includes an actual performance." },
+        ],
+      };
+
+    case "is-eastern-qing-tombs-worth-it-beijing":
+      return {
+        title: "Are the Eastern Qing Tombs Worth It from Beijing?",
+        description: "An honest look at the Eastern Qing Tombs private tour, a UNESCO-listed imperial burial complex distinct from the Forbidden City.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec7473436fa28f2aa1e4898c5f0d62631b6f208e5bba4a2f7cf9851a702f7e1a.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Eastern Qing Tombs hold the actual burial sites of Qing dynasty emperors and empresses, a genuinely different, more solemn historical experience than the Forbidden City's palace halls where they lived and ruled.",
+            tourCard: { slug: "beijing-eastern-qing-tombs-private-tour-with", title: "Beijing: Eastern Qing Tombs Private Tour with Hotel Pickup", description: "A private tour of the Eastern Qing Tombs with hotel pickup.", price: "From $39", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec7473436fa28f2aa1e4898c5f0d62631b6f208e5bba4a2f7cf9851a702f7e1a.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine full-day commitment given the distance outside Beijing — plan it as a dedicated day rather than squeezing it in alongside city sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Are the Eastern Qing Tombs worth visiting from Beijing?", a: "Yes for travelers wanting the fuller Qing dynasty story — the actual burial sites, a different experience from the Forbidden City's palace halls." },
+        ],
+      };
+
+    case "is-candied-hawthorn-workshop-worth-it-beijing":
+      return {
+        title: "Is the Traditional Candied Hawthorn Making Workshop Worth It in Beijing?",
+        description: "An honest look at the candied hawthorn (tanghulu) making workshop in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/393c6447b880d6cf88c54a5b950697c8228528c98217728dd37205a952841969.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Candied hawthorn skewers (tanghulu) are a classic Beijing street snack, and this workshop lets you make your own rather than just buying one from a vendor — a fun, low-key craft activity distinct from the city's more formal textile and painting workshops.",
+            tourCard: { slug: "beijing-traditional-candied-hawthorn-making", title: "Beijing: Traditional Candied Hawthorn Making Workshop", description: "A hands-on candied hawthorn (tanghulu) making workshop.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/393c6447b880d6cf88c54a5b950697c8228528c98217728dd37205a952841969.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A fun, food-focused activity to pair with kids or anyone wanting a sweet, hands-on break from sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the candied hawthorn workshop worth it in Beijing?", a: "Yes, it's a fun, low-key way to make Beijing's classic tanghulu street snack yourself rather than just buying one." },
+        ],
+      };
+
     default:
       return null;
   }

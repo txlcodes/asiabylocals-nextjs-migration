@@ -172,6 +172,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-prince-gongs-mansion-worth-it-beijing', 'is-gubei-water-town-worth-it-beijing',
     'is-planetarium-worth-it-beijing', 'is-hutong-nightlife-tour-worth-it-beijing',
     'is-tie-dye-workshop-worth-it-beijing', 'is-fragrant-hills-worth-it-beijing',
+    'is-ancient-observatory-worth-it-beijing', 'is-performing-arts-center-worth-it-beijing',
+    'is-eastern-qing-tombs-worth-it-beijing', 'is-candied-hawthorn-workshop-worth-it-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),
