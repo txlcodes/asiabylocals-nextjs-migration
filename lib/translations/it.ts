@@ -125776,6 +125776,296 @@ export const IT_TOURS: Record<string, TourT> = {
    "Spese personali e souvenir"
   ]
  },
+ "local-market-chiang-mai-food-tour": {
+  "title": "Chiang Mai: corso di cucina, mercato e giardino di erbe thailandesi",
+  "metaTitle": "Chiang Mai: corso di cucina e mercato",
+  "metaDescription": "Fai la spesa in un mercato locale, cucina cinque piatti thailandesi classici con un cuoco formato in casa e concludi con riso glutinoso dolce e mango in un rigoglioso giardino da cucina.",
+  "shortDescription": "Fai la spesa in un mercato locale, cucina cinque piatti thailandesi classici con un cuoco formato in casa e concludi con riso glutinoso dolce e mango in un rigoglioso giardino da cucina.",
+  "fullDescription": "La cucina di Chiang Mai si capisce meglio da dietro un wok che seduti a un tavolo di ristorante, e questo corso pratico nasce da questa idea. La mattina (o il pomeriggio) inizia con una passeggiata in un mercato locale animato, dove l'istruttore indica le erbe fresche, le paste di curry e i prodotti che danno al cibo thailandese il suo equilibrio caratteristico di aspro, dolce, salato e piccante. Te ne andrai con una vera sensazione di come vengono scelti gli ingredienti prima ancora di prendere in mano un coltello.\n\nDa lì si passa a una scuola di cucina in stile casalingo dentro un vero giardino da cucina funzionante, dove citronella, lime kaffir e basilico thailandese crescono a pochi passi dal fornello. Scegli cinque piatti da cucinare da un menu variabile di favoriti di Chiang Mai, lavorando in piccoli gruppi affiancato da un cuoco locale cordiale che spiega ogni ricetta in passaggi semplici e ripetibili. Non è richiesta nessuna esperienza di cucina precedente.\n\nMentre ogni piatto esce dal fuoco, ti siedi e lo mangi, così il pasto si svolge piatto dopo piatto invece che tutto insieme alla fine. Il corso si conclude con una lezione sul riso glutinoso dolce con mango, il dessert più famoso della Thailandia, che preparerai e gusterai tu stesso. Ognuno porta a casa un libretto di ricette, così i piatti non devono restare un ricordo da un'unica volta. Il trasporto di andata e ritorno dall'hotel è incluso, rendendo facile inserire l'intera esperienza in una giornata a Chiang Mai.",
+  "included": [
+   "Ritiro e riaccompagno in hotel (entro la zona prevista)",
+   "Cuoco/istruttore in lingua inglese",
+   "Tour del mercato locale",
+   "Tutti gli ingredienti",
+   "Libretto di ricette da portare a casa",
+   "Visita al giardino delle erbe"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali",
+   "Bevande alcoliche"
+  ]
+ },
+ "local-market-chiang-mai-guided-tour": {
+  "title": "Chiang Mai: trekking nella giungla di 2 giorni con fattoria di elefanti e discesa in zattera",
+  "metaTitle": "Chiang Mai: trekking di 2 giorni con elefanti",
+  "metaDescription": "Fai trekking su sentieri nella giungla, naviga il fiume Mae Wang su una zattera e passa la notte in un villaggio della tribù Karen prima di un incontro etico con gli elefanti in questa avventura di 2 giorni a Chiang Mai.",
+  "shortDescription": "Fai trekking su sentieri nella giungla, naviga il fiume Mae Wang su una zattera e passa la notte in un villaggio della tribù Karen prima di un incontro etico con gli elefanti in questa avventura di 2 giorni a Chiang Mai.",
+  "fullDescription": "Lascia le strade di Chiang Mai per due giorni immerso nella campagna del nord della Thailandia, dove sentieri nella giungla, fiumi impetuosi e l'ospitalità delle tribù di montagna sono i protagonisti. L'avventura comincia con una visita a un mercato locale per un assaggio della vita thailandese di tutti i giorni, prima di salire su una zattera di bambu per una discesa tranquilla del fiume Mae Wang, con la foresta che si chiude su entrambe le sponde. Da lì, il sentiero sale tra risaie e foresta mista fino a una cascata nascosta, dove un pranzo al sacco in stile casalingo e un bagno rinfrescante sono la ricompensa perfetta per la fatica.\n\nIl vero cuore di questo viaggio è il pernottamento. Dopo un'altra camminata tra bambu e foresta sempreverde, arriverai a un villaggio della tribù Karen nascosto tra le colline, dove le famiglie locali condividono le loro usanze, cucinano una cena casalinga e si riuniscono con te attorno a un falo sotto un cielo pieno di stelle. È una rara occasione per staccare e vedere da vicino la vita rurale thailandese, ben lontano dai percorsi turistici abituali.\n\nIl secondo giorno inizia con la colazione nel villaggio prima che un'ultima camminata porti a un santuario etico per elefanti, dove vivono elefanti salvati, liberi da cavalcate o spettacoli. Qui puoi dare da mangiare, fare il bagno e semplicemente passare del tempo senza fretta con questi giganti gentili in un ambiente costruito attorno al loro benessere invece che all'intrattenimento. Il viaggio si conclude con un tragitto tranquillo di ritorno a Chiang Mai nel tardo pomeriggio, lasciandoti con due giorni di vera immersione nella giungla, calorosa ospitalità delle tribù di montagna e un legame significativo con gli elefanti fatto nel modo giusto.",
+  "included": [
+   "Ritiro e riaccompagno in hotel (entro la zona di ritiro) oppure punto d'incontro a Baan Meesuk",
+   "Guida in lingua inglese per tutta la durata",
+   "Pranzo del Giorno 1 (picnic alla cascata)",
+   "Cena del Giorno 1 (villaggio della tribù Karen)",
+   "Colazione del Giorno 2 (villaggio della tribù Karen)",
+   "Pernottamento nel villaggio della tribù Karen",
+   "Discesa in zattera di bambu sul fiume Mae Wang",
+   "Visita al santuario etico per elefanti",
+   "Tutte le tariffe di parco, villaggio e conservazione"
+  ],
+  "notIncluded": [
+   "Mance per la guida e gli ospiti del villaggio",
+   "Spese personali",
+   "Assicurazione di viaggio",
+   "Bevande alcoliche"
+  ]
+ },
+ "mae-kampong-village-group-tour": {
+  "title": "Chiang Mai: trekking dei gibboni e tour in piccolo gruppo al villaggio di Mae Kampong",
+  "metaTitle": "Chiang Mai: gibboni e villaggio di Mae Kampong",
+  "metaDescription": "Una gita giornaliera in piccolo gruppo tra le montagne a est di Chiang Mai: trekking nella foresta in cerca di gibboni selvatici, poi esplorazione del villaggio secolare di Mae Kampong.",
+  "shortDescription": "Una gita giornaliera in piccolo gruppo tra le montagne a est di Chiang Mai: trekking nella foresta in cerca di gibboni selvatici, poi esplorazione del villaggio secolare di Mae Kampong.",
+  "fullDescription": "In alto tra le montagne a est di Chiang Mai, il villaggio di Mae Kampong si trova avvolto nella nebbia e nella foresta, con le sue case in legno collegate da sentieri stretti sopra un ruscello. Questo tour in piccolo gruppo usa il villaggio come base per un vero trekking nella foresta: prima di raggiungere il villaggio stesso, la guida conduce una breve camminata in cerca di gibboni reintrodotti in queste foreste tramite un progetto locale di riabilitazione.\n\nQuesti sono animali ormai davvero selvatici, liberi di muoversi, quindi un avvistamento non è mai garantito, ma la camminata attraverso la giungla incontaminata merita comunque, e una parte della tua quota del tour va direttamente ai custodi che continuano a sostenere la sicurezza e l'approvvigionamento alimentare dei gibboni. Dopo, camminerai attraverso il villaggio di Mae Kampong, una comunità che ha mantenuto intatto gran parte del suo stile di vita tradizionale: te Miang prodotto in casa, cascate nascoste sul pendio della collina e abitanti che vivono qui da generazioni. Il pranzo è un pasto casalingo del nord della Thailandia, e la dimensione ridotta del gruppo mantiene la giornata personale invece di sembrare un tour in pullman.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Guida in lingua inglese",
+   "Trekking nella foresta dei gibboni",
+   "Tour a piedi del villaggio di Mae Kampong",
+   "Pranzo",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Spese personali e souvenir",
+   "Mance per guida e conducente",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "mae-taeng-district-chiang-mai-countryside-adventure-tour": {
+  "title": "Chiang Mai: avventura in ATV di 3 ore nella giungla",
+  "metaTitle": "Chiang Mai: avventura in ATV di 3 ore",
+  "metaDescription": "Guida il tuo ATV per circa 40 km di strade e sentieri nella giungla attraverso la campagna di Chiang Mai, con istruzioni complete e nessuna esperienza richiesta.",
+  "shortDescription": "Guida il tuo ATV per circa 40 km di strade e sentieri nella giungla attraverso la campagna di Chiang Mai, con istruzioni complete e nessuna esperienza richiesta.",
+  "fullDescription": "Questo è un vero giro fuoristrada in ATV, non un lento percorso attorno a un parcheggio: il tragitto di 3 ore copre circa 40 chilometri, combinando strade rurali asfaltate con vero sentiero fuoristrada tra giungla e terreni agricoli, portandoti ben oltre le zone che la maggior parte dei turisti di passaggio vede mai. Ogni partecipante ha il proprio ATV (nessuna condivisione), e l'operatore organizza un breve corso di addestramento all'inizio così i principianti si sentono sicuri prima di affrontare i terreni più difficili.\n\nIl percorso si snoda tra le risaie, i sentieri nella giungla e i piccoli villaggi locali del distretto di Mae Taeng, con soste lungo il percorso per riunirsi, fare foto e lasciare che la guida indichi qualcosa di interessante da vedere. Sono alcune ore genuinamente fisiche e cariche di adrenalina: aspettati di sporcarti di polvere o fango secondo la stagione, e funziona bene sia per i principianti assoluti sia per chi ha già guidato e vuole un sentiero più lungo e serio del tipico breve giro turistico.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Noleggio ATV singolo per tutto il percorso",
+   "Casco e attrezzatura di sicurezza",
+   "Addestramento/briefing ATV",
+   "Guida per tutto il giro",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Pasti (salvo diversa indicazione alla prenotazione)",
+   "Attrezzatura personale di guida oltre a quella fornita",
+   "Mance",
+   "Assicurazione di viaggio/infortuni"
+  ]
+ },
+ "mae-wang-elephant-eco-park-adventure-tour": {
+  "title": "Chiang Mai: parco eco per elefanti, ATV, discesa in zattera di bambu e avventura zipline",
+  "metaTitle": "Chiang Mai: parco elefanti, ATV e zipline",
+  "metaDescription": "Ingresso gratuito al parco degli elefanti e alimentazione, giro in ATV nella giungla di Mae Wang, discesa in zattera di bambu e sosta al villaggio Karen, con zipline opzionale.",
+  "shortDescription": "Ingresso gratuito al parco degli elefanti e alimentazione, giro in ATV nella giungla di Mae Wang, discesa in zattera di bambu e sosta al villaggio Karen, con zipline opzionale.",
+  "fullDescription": "Passa la giornata nella valle di Mae Wang combinando l'ingresso gratuito a un parco eco per elefanti con un giro in ATV nella giungla. Dai da mangiare agli elefanti e impara sulla loro cura da una guida locale, poi affronta un tratto di discesa in zattera di bambu lungo il fiume prima di fermarti in un vicino villaggio della tribù Karen. Concludi la giornata con una sosta a una cascata nascosta, con una zipline opzionale per chi desidera una scarica extra di adrenalina. I trasferimenti di andata e ritorno dall'hotel sono inclusi.",
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "ingresso al parco degli elefanti",
+   "giro in ATV",
+   "discesa in zattera di bambu",
+   "guida"
+  ],
+  "notIncluded": [
+   "Zipline opzionale (costo extra)",
+   "spese personali",
+   "mance"
+  ]
+ },
+ "mahanakhon-skywalk-entry-ticket-with-options": {
+  "title": "Bangkok: biglietto d'ingresso al Mahanakhon SkyWalk con opzioni",
+  "metaTitle": "Bangkok: Mahanakhon SkyWalk",
+  "metaDescription": "Ottieni i biglietti d'ingresso al Mahanakhon Skywalk di Bangkok, la piattaforma panoramica più alta della Thailandia a 314 metri. Goditi un osservatorio all'aperto, una passerella di vetro e, come opzione, il rooftop bar o il SkyRide.",
+  "shortDescription": "Ottieni i biglietti d'ingresso al Mahanakhon Skywalk di Bangkok, la piattaforma panoramica più alta della Thailandia a 314 metri. Goditi un osservatorio all'aperto, una passerella di vetro e, come opzione, il rooftop bar o il SkyRide.",
+  "fullDescription": "Ottieni i biglietti d'ingresso al Mahanakhon Skywalk di Bangkok, la piattaforma panoramica più alta della Thailandia a 314 metri. Goditi un osservatorio all'aperto, una passerella di vetro e, come opzione, il rooftop bar o il SkyRide.",
+  "included": [
+   "Guida in lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "mangrove-forest-longtail-boat-tour-with-lunch-in-krabi": {
+  "title": "Tour in barca longtail nella foresta di mangrovie con pranzo a Krabi",
+  "metaTitle": "Krabi: foresta di mangrovie in barca longtail",
+  "metaDescription": "Tour a Krabi, che comprende andata e ritorno dall'hotel e un tour in barca longtail nella foresta di mangrovie. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour a Krabi, che comprende andata e ritorno dall'hotel e un tour in barca longtail nella foresta di mangrovie. Gestito da un operatore locale verificato.",
+  "fullDescription": "Tre ore e mezza nei canali di mangrovie, con un finale a base di pesce in un ristorante costruito sopra l'acqua.\n\nLa fascia di mangrovie di Krabi corre lungo il fiume e fuori attraverso l'estuario, e la barca longtail è il mezzo giusto per questo ambiente. Il suo pescaggio basso e la lunga elica ad asta le permettono di avanzare in canali larghi appena più della scafo, dove la volta della foresta si chiude sopra e il motore viene rallentato quasi fino a fermarsi.\n\nQuello che stai guardando è un vivaio. Le radici aggrovigliate trattengono i sedimenti e proteggono pesci, granchi e gamberi giovani finché non sono grandi abbastanza per spostarsi verso la barriera corallina, ed è per questo che la pesca attorno a Krabi dipende dalla foresta più che dall'acqua aperta. I pesci saltatori di fango si trovano sul fango con la bassa marea, i martin pescatori lavorano i margini dei canali e i varani sono comuni. La bassa marea espone gli apparati radicali ed è la metà più interessante del ciclo delle maree per essere lì.\n\nIl pranzo e riso fritto con frutta e bevande al ristorante Mangrove Seafood, che si trova su palafitte ai margini dell'acqua.\n\nQuesto viaggio è protetto dal mare aperto, quindi si svolge durante la stagione verde da maggio a ottobre, quando vento e mare agitato cancellano le gite alle isole. Se la tua giornata alle isole viene annullata, questa è la sostituzione che funziona comunque.\n\nIl prezzo comprende il trasferimento andata e ritorno dall'hotel, il tour in barca longtail, riso fritto con frutta e bevande, il pranzo al ristorante, una guida locale e l'assicurazione. Il tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva.\n\nTre ore e mezza, preavviso minimo di un giorno.",
+  "included": [
+   "Andata e ritorno dall'hotel",
+   "Tour in barca longtail nella foresta di mangrovie",
+   "Riso fritto, frutta e bevande",
+   "Pranzo al ristorante Mangrove Seafood",
+   "Guida locale",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tariffe d'ingresso (40 baht) adulti"
+  ]
+ },
+ "maya-bay-adventure-boat-tour": {
+  "title": "Avventura in speedboat all'alba verso Phi Phi e le quattro isole",
+  "metaTitle": "Phi Phi e quattro isole all'alba",
+  "metaDescription": "Parti da Ao Nang all'alba per raggiungere Maya Bay prima della folla, fai snorkeling nella laguna di Pileh e sulle barriere di Phi Phi, poi concludi con i classici delle quattro isole di Krabi.",
+  "shortDescription": "Parti da Ao Nang all'alba per raggiungere Maya Bay prima della folla, fai snorkeling nella laguna di Pileh e sulle barriere di Phi Phi, poi concludi con i classici delle quattro isole di Krabi.",
+  "fullDescription": "Phi Phi e le quattro isole di Krabi in un'unica giornata in speedboat, organizzata in modo che Maya Bay arrivi prima della flotta.\n\nMaya Bay è il motivo della partenza presto. La baia ha chiuso completamente nel 2018 dopo anni di danni e ha riaperto nel 2022 con condizioni rigide: le barche si ancorano sul retro di Phi Phi Leh e i visitatori entrano a piedi attraverso l'isola, nuotare dentro la baia è limitato e il numero di visitatori giornalieri è limitato. Arrivare primi significa entrare a piedi invece che fare la fila, e vedere la baia più vicina a come appare nel film per cui è famosa.\n\nSegue la laguna di Pileh, un canale profondo di acqua verde circondato da scogliere su ogni lato, poi due diversi sistemi di barriera corallina per lo snorkeling, più di quanto riescano a offrire la maggior parte delle gite a Phi Phi. Il pranzo è un buffet thailandese a Phi Phi Don, l'isola abitata.\n\nIl tratto di ritorno comprende le quattro isole di Krabi, così la giornata copre sia la famosa tappa al largo sia il circuito locale. È molto terreno da coprire in nove ore e la speedboat è l'unico modo per farlo, con il compromesso che le speedboat sballottano in caso di mare agitato.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il ritiro e riaccompagno in hotel ad Ao Nang e Krabi Town, la speedboat con equipaggio certificato, una guida in lingua inglese, il pranzo buffet thailandese, maschera da snorkeling, pinne e giubbotti di salvataggio.\n\nLe tariffe del parco nazionale vengono riscosse al molo salvo diversa conferma, quindi porta contanti. Nove ore, preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel ad Ao Nang e Krabi Town",
+   "Speedboat con equipaggio certificato",
+   "Guida in lingua inglese",
+   "Pranzo buffet thailandese",
+   "Maschera da snorkeling, pinne e giubbotto di salvataggio",
+   "Bevande analcoliche, acqua e frutta",
+   "Tariffe del parco nazionale",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Noleggio fotocamera subacquea",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "maya-bay-islands-full-day-tour": {
+  "title": "Phi Phi Islands: escursione in barca per tutto il giorno con pranzo buffet",
+  "metaTitle": "Phi Phi Islands: giornata intera in barca",
+  "metaDescription": "Passa una giornata intera tra le isole Phi Phi in speedboat o catamarano, con snorkeling sulla barriera, bagno nella laguna di Pileh e pranzo buffet a terra a Phi Phi Don.",
+  "shortDescription": "Passa una giornata intera tra le isole Phi Phi in speedboat o catamarano, con snorkeling sulla barriera, bagno nella laguna di Pileh e pranzo buffet a terra a Phi Phi Don.",
+  "fullDescription": "Una giornata intera attorno al gruppo di Phi Phi, con la scelta della barca lasciata a te.\n\nLa scelta tra speedboat e catamarano è quella che conviene fare prima di prenotare. Una speedboat arriva rapidamente e ti da più tempo a ogni sosta. Un catamarano e più lento e molto più stabile, con un ponte su cui sedersi comodamente, ed è la scelta migliore se qualcuno nel gruppo soffre il mare. Entrambi percorrono lo stesso tragitto.\n\nLa laguna di Pileh è la sosta per cui le persone prenotano. È un canale profondo di acqua verde circondato da scogliere su ogni lato, così immobile che la superficie riflette le pareti che lo circondano, e nuotarci dentro è la cosa più simile che la Thailandia offra a nuotare dentro una montagna.\n\nMaya Bay si trova su Phi Phi Leh. Ha riaperto nel 2022 dopo quattro anni di chiusura per permettere alla barriera di recuperare, e funziona secondo le regole attuali: le barche si ancorano sul retro dell'isola e i visitatori entrano a piedi attraverso di essa, un arrivo migliore di quanto non fosse mai l'approdo diretto sulla spiaggia.\n\nLo snorkeling su questo percorso e del tipo in cui i pesci vengono da te. Le barriere attorno a Phi Phi sono abituate alle persone, così i branchi restano al loro posto invece di disperdersi, e vedi di più in venti minuti che in un'ora altrove in zone più selvagge.\n\nPranzo buffet e tempo libero a Phi Phi Don, l'isola abitata, riempiono la parte centrale della giornata.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il ritiro e riaccompagno in hotel ad Ao Nang e Krabi Town, il trasferimento in barca con equipaggio certificato, una guida in lingua inglese e il pranzo buffet.\n\nOtto ore. Le tariffe del parco nazionale vengono riscosse al molo salvo diversa conferma, quindi porta contanti. Preavviso minimo di un giorno.",
+  "included": [
+   "Ritiro e riaccompagno in hotel ad Ao Nang e Krabi Town",
+   "Trasferimento in barca con equipaggio certificato",
+   "Guida in lingua inglese",
+   "Pranzo buffet",
+   "Maschera da snorkeling, pinne e giubbotto di salvataggio",
+   "Acqua potabile, bevande analcoliche e frutta",
+   "Tariffe del parco nazionale",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Noleggio fotocamera e attrezzatura",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "monkey-island-chonburi-boat-tour": {
+  "title": "Pattaya: crociera in catamarano alle 3 isole con pranzo buffet thailandese",
+  "metaTitle": "Pattaya: catamarano alle 3 isole",
+  "metaDescription": "Salpa da Pattaya a bordo di un ampio catamarano di 73 piedi verso tre isole al largo, con soste per lo snorkeling, stand-up paddle, pranzo buffet thailandese e visita a Monkey Island.",
+  "shortDescription": "Salpa da Pattaya a bordo di un ampio catamarano di 73 piedi verso tre isole al largo, con soste per lo snorkeling, stand-up paddle, pranzo buffet thailandese e visita a Monkey Island.",
+  "fullDescription": "La maggior parte delle gite alle isole da Pattaya ti ammassa su una speedboat per una corsa rapida verso la spiaggia più vicina. Questa prende un approccio diverso: un catamarano a vela di 73 piedi che si spinge più al largo, verso isole che le folle delle gite giornaliere raramente raggiungono. Koh Phai e Koh Rin si trovano ben oltre Coral Island, e le loro acque sono notevolmente più limpide, con barriere coralline vive che rendono le soste di snorkeling davvero valide invece di un semplice tuffo simbolico.\n\nLa giornata e costruita attorno all'acqua. A Koh Phai ti ancorerai per una lunga sosta che combina nuoto, snorkeling sulla barriera, stand-up paddle e un pranzo buffet thailandese servito a bordo. Da lì il catamarano salpa verso Koh Rin per un altro giro di snorkeling e paddle in alcune delle acque più pulite della zona di Pattaya, prima di una tappa finale a Monkey Island, dove un branco residente di macachi scorrazza lungo la riva, una divertente sosta fotografica, da godere meglio da una distanza rispettosa.\n\nCon i trasferimenti dall'hotel inclusi dalla città di Pattaya e un equipaggio che si occupa di tutto, dall'attrezzatura al servizio del pranzo, è una giornata intera in mare facile e piacevole, che sembra più vicina a un noleggio privato che a un tour di massa alle isole.",
+  "included": [
+   "Ritiro e riaccompagno in hotel nella città di Pattaya",
+   "Crociera in catamarano alle tre isole",
+   "Pranzo buffet thailandese a bordo",
+   "Attrezzatura da snorkeling e tavole stand-up paddle",
+   "Bevande analcoliche e acqua potabile",
+   "Equipaggio e guida in lingua inglese"
+  ],
+  "notIncluded": [
+   "Bevande alcoliche",
+   "Asciugamani",
+   "Mance per l'equipaggio",
+   "Spese personali"
+  ]
+ },
+ "muay-thai-boxing-tickets-at-rajadamnern-stadium": {
+  "title": "Bangkok: biglietti per il Muay Thai allo stadio Rajadamnern",
+  "metaTitle": "Bangkok: Muay Thai al Rajadamnern",
+  "metaDescription": "Il primo stadio di Muay Thai al mondo presenta la prima esperienza immersiva di Muay Thai di sempre.",
+  "shortDescription": "Il primo stadio di Muay Thai al mondo presenta la prima esperienza immersiva di Muay Thai di sempre.",
+  "fullDescription": "Il primo stadio di Muay Thai al mondo presenta la prima esperienza immersiva di Muay Thai di sempre.",
+  "included": [
+   "Guida in lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "muay-thai-training-class-phuket-beginners": {
+  "title": "Lezione di allenamento Muay Thai a Phuket per principianti",
+  "metaTitle": "Phuket: Muay Thai per principianti",
+  "metaDescription": "Prova un autentico allenamento di Muay Thai a Phuket alla palestra Oleydong Boxing & Muay Thai Gym. Questa lezione per principianti permette ai viaggiatori di vivere lo sport nazionale thailandese, imparando tecniche reali, migliorando la forma fisica e allenandosi insieme a combattenti locali in un ambiente accogliente.",
+  "shortDescription": "Prova un autentico allenamento di Muay Thai a Phuket alla palestra Oleydong Boxing & Muay Thai Gym. Questa lezione per principianti permette ai viaggiatori di vivere lo sport nazionale thailandese, imparando tecniche reali, migliorando la forma fisica e allenandosi insieme a combattenti locali in un ambiente accogliente.",
+  "fullDescription": "Vivi un autentico allenamento di Muay Thai a Phuket alla palestra Oleydong Boxing & Muay Thai Gym, un campo di allenamento accogliente dove principianti e appassionati di fitness possono imparare l'arte marziale più famosa della Thailandia. Questa sessione di allenamento e pensata per i viaggiatori che vogliono vivere il vero Muay Thai durante la visita a Phuket.\n\nDurante la sessione, allenatori professionisti ti guideranno attraverso riscaldamento, tecniche base di Muay Thai, combinazioni di colpi e esercizi di fitness. Imparerai a tirare pugni, calci, gomitate e ginocchiate migliorando al contempo forza, equilibrio e resistenza.\n\nL'allenamento e adatto ai principianti, quindi non è richiesta nessuna esperienza precedente. Sia che tu provi il Muay Thai per la prima volta sia che tu voglia un'autentica esperienza in una palestra thailandese, questa lezione è un modo divertente ed energico di restare attivo mentre esplori Phuket.\n\nAllenati in un vero ambiente di Muay Thai, incontra altri viaggiatori e combattenti e scopri perché il Muay Thai e conosciuto come l'\"Arte delle Otto Membra\".",
+  "included": [
+   "Palestra",
+   "Allenatore"
+  ],
+  "notIncluded": [
+   "Pasti"
+  ]
+ },
+ "night-bazaar-area-chiang-mai-mini-tour": {
+  "title": "Chiang Mai: massaggio e spa Lanna in stile grotta",
+  "metaTitle": "Chiang Mai: massaggio Lanna stile grotta",
+  "metaDescription": "Un ritiro di massaggio thailandese Lanna e spa in stile grotta vicino al Night Bazaar, che unisce il lavoro corporeo tradizionale del nord della Thailandia con aromaterapia e trattamenti alle erbe.",
+  "shortDescription": "Un ritiro di massaggio thailandese Lanna e spa in stile grotta vicino al Night Bazaar, che unisce il lavoro corporeo tradizionale del nord della Thailandia con aromaterapia e trattamenti alle erbe.",
+  "fullDescription": "Nascosta a pochi passi dal Night Bazaar di Chiang Mai, questa spa e costruita attorno a un interno in stile grotta con pareti di pietra e bassi soffitti ad arco, pensato per sembrare un ritiro nascosto piuttosto che la tipica sala spa di un hotel. Il trattamento di punta è un tradizionale massaggio thailandese Lanna, uno stile di lavoro corporeo del nord della Thailandia radicato in tecniche secolari, diverso dal più familiare massaggio in stile Bangkok per il suo ritmo più lento e l'attenzione allo stretching e al lavoro sui punti di pressione lungo le linee energetiche del corpo.\n\nI terapisti aggiungono oli da aromaterapia e impacchi alle erbe durante la sessione, e l'ambiente simile a una grotta mantiene lo spazio fresco e silenzioso anche durante il caldo della giornata. È una buona scelta per i viaggiatori che vogliono un vero relax dopo una giornata tra templi o trekking, senza le folle di una grande spa d'hotel. Le sessioni sono private e il ritmo è rilassato per tutta la durata.",
+  "included": [
+   "Trattamento completo di massaggio/spa come prenotato",
+   "Oli da aromaterapia e impacco alle erbe (dove applicabile)",
+   "Uso delle strutture della spa (doccia, zona spogliatoio)",
+   "Te alle erbe di benvenuto"
+  ],
+  "notIncluded": [
+   "Trasferimento in hotel (da organizzare autonomamente; la spa e raggiungibile a piedi dal centro di Chiang Mai)",
+   "Mance",
+   "Trattamenti aggiuntivi non selezionati alla prenotazione"
+  ]
+ },
+ "nong-nooch-tropical-garden-pattaya-cultural-tour": {
+  "title": "Pattaya: biglietto d'ingresso al giardino Nong Nooch con spettacoli culturali",
+  "metaTitle": "Pattaya: giardino Nong Nooch e spettacoli",
+  "metaDescription": "Salta la biglietteria del giardino tropicale Nong Nooch e passa la giornata tra giardini tematici, la Dinosaur Valley e spettacoli culturali thailandesi giornalieri.",
+  "shortDescription": "Salta la biglietteria del giardino tropicale Nong Nooch e passa la giornata tra giardini tematici, la Dinosaur Valley e spettacoli culturali thailandesi giornalieri.",
+  "fullDescription": "Il giardino tropicale Nong Nooch è uno dei parchi botanici più grandi e curati del sud-est asiatico, su centinaia di acri appena a sud di Pattaya. Questo biglietto d'ingresso ti porta direttamente attraverso il cancello in tutta l'area del parco, dove giardini tematici meticolosamente scolpiti si susseguono rapidamente: parterre in stile francese, una collezione di cactus e succulente, un vivaio di orchidee ed esposizioni di topiaria modellate in animali e forme geometriche.\n\nUno degli angoli più fotografati del parco è la Dinosaur Valley, un ampio sentiero fiancheggiato da centinaia di modelli di dinosauri a grandezza naturale tra il verde, un successo garantito con i bambini e una tappa fotografica genuinamente divertente anche per tutti gli altri. Passerelle sopraelevate corrono sopra diverse zone del giardino, offrendo una vista dall'alto del paesaggio che semplicemente non si può avere dal livello del suolo.\n\nIl biglietto comprende anche gli spettacoli culturali thailandesi giornalieri nell'anfiteatro del parco, con danze tradizionali, percussioni e spettacoli in scena più volte al giorno. La maggior parte dei visitatori passa qui dalle tre alle quattro ore a un ritmo comodo, anche se puoi facilmente restare più a lungo. Bancarelle di cibo e ristoranti all'interno del parco rendono facile trasformare la visita in un'uscita completa.",
+  "included": [
+   "Ingresso al giardino tropicale Nong Nooch per visitatori stranieri",
+   "Accesso a tutte le zone tematiche del giardino e alla Dinosaur Valley",
+   "Ingresso agli spettacoli culturali thailandesi programmati"
+  ],
+  "notIncluded": [
+   "Trasporto da e per il giardino",
+   "Cibo e bevande all'interno del parco",
+   "Attività opzionali nel parco (giri in tram, alimentazione animali, ecc.)"
+  ]
+ },
+ "pattaya-city-private-tour": {
+  "title": "Tour panoramico privato di Pattaya dalla città o dal porto di Laem Chabang",
+  "metaTitle": "Pattaya: tour privato dalla città o dal porto",
+  "metaDescription": "Un'auto o minibus privato con conducente per una mezza giornata flessibile di visite a Pattaya: costruisci il tuo percorso, imposta il tuo ritmo, con ritiro dalla città o dal porto delle crociere di Laem Chabang.",
+  "shortDescription": "Un'auto o minibus privato con conducente per una mezza giornata flessibile di visite a Pattaya: costruisci il tuo percorso, imposta il tuo ritmo, con ritiro dalla città o dal porto delle crociere di Laem Chabang.",
+  "fullDescription": "I tour di gruppo seguono l'orario del gruppo; questo segue il tuo. Con un'auto o un minibus privato e un conducente dedicato per circa quattro ore, decidi tu dove va la giornata: il Big Buddha sulla collina di Pratumnak, il Santuario della Verità, soste panoramiche sulla baia di Pattaya, mercati locali, o semplicemente un giro efficiente di tutto quello che hai in lista. È Pattaya senza i compromessi di un itinerario fisso.\n\nIl formato è particolarmente utile per i passeggeri delle crociere: il ritiro è disponibile direttamente dal porto di Laem Chabang oltre che dagli hotel della città di Pattaya, e la riconsegna può essere a entrambi gli estremi, rendendolo una soluzione pulita per le giornate di scalo dove i tempi contano. Famiglie con bambini, viaggiatori con mobilità limitata e chiunque odi semplicemente essere spinto in gruppo apprezzeranno avere il veicolo solo per sé e la libertà di fermarsi dove c'è qualcosa di interessante e saltare il resto.\n\nIl tuo conducente conosce i modelli di traffico della città e gli orari di apertura delle attrazioni, e può suggerire un percorso sensato se preferisci descrivere cosa ti piace invece di nominare soste specifiche. Le tariffe d'ingresso lungo il percorso si pagano direttamente, mantenendo semplice il prezzo di base.",
+  "included": [
+   "Auto o minibus privato con aria condizionata",
+   "Conducente dedicato per circa 4 ore",
+   "Ritiro e riaccompagno a Pattaya città o al porto di Laem Chabang",
+   "Carburante e tariffe di parcheggio",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Tariffe d'ingresso alle attrazioni",
+   "Pasti e bevande",
+   "Guida turistica autorizzata (formato conducente-guida)",
+   "Mance"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
