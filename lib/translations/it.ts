@@ -125194,6 +125194,380 @@ export const IT_TOURS: Record<string, TourT> = {
    "Mance (opzionali ma apprezzate)"
   ]
  },
+ "james-bond-island-guided-tour": {
+  "title": "Isola di James Bond e baia di Phang Nga con longtail tradizionale",
+  "metaTitle": "Isola di James Bond e baia di Phang Nga con longtail",
+  "metaDescription": "Attraversa la baia di Phang Nga su una barca longtail fino alla formazione calcarea resa famosa dal cinema, pagaia tra le grotte marine e fai sosta in un villaggio costruito sull'acqua.",
+  "shortDescription": "Attraversa la baia di Phang Nga su una barca longtail fino alla formazione calcarea resa famosa dal cinema, pagaia tra le grotte marine e fai sosta in un villaggio costruito sull'acqua.",
+  "fullDescription": "La baia di Phang Nga è piena di faraglioni calcarei, ma uno in particolare è diventato famoso grazie a un film di James Bond, e questa è la gita che te lo porta davanti.\n\nLa barca longtail ti conduce tra le isole, con una sosta per attraversare in kayak alcune grotte marine che si aprono nella roccia solo con la bassa marea. Dopo le grotte si arriva al villaggio di pescatori costruito su palafitte sull'acqua, dove puoi camminare sulle passerelle di legno tra le case prima del pranzo tailandese.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, la barca longtail con capitano locale, una guida di lingua inglese, il kayak con pagaiatore, il pranzo tailandese, acqua e frutta, giubbotti di salvataggio e assicurazione. Non comprende la tassa del parco nazionale, gli asciugamani, le bevande alcoliche, le mance e i souvenir.",
+  "highlights": [
+   "Barca longtail fino al faraglione reso famoso dal cinema",
+   "Kayak tra le grotte marine della baia di Phang Nga",
+   "Sosta al villaggio di pescatori costruito sull'acqua"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Barca longtail con capitano locale",
+   "Guida di lingua inglese",
+   "Kayak con pagaiatore",
+   "Pranzo tailandese",
+   "Acqua potabile e frutta",
+   "Giubbotti di salvataggio",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale",
+   "Asciugamani",
+   "Bevande alcoliche",
+   "Mance",
+   "Souvenir"
+  ]
+ },
+ "james-bond-island-private-tour": {
+  "title": "Tour privato della baia di Phang Nga da Phuket con l'isola di James Bond, Koh Panyi e Samet Nangshe",
+  "metaTitle": "Phang Nga privato da Phuket: James Bond, Koh Panyi, Samet Nangshe",
+  "metaDescription": "Esplora i punti forti della baia di Phang Nga in un tour completamente privato da Phuket. Visita l'isola di James Bond in barca longtail privata, pranza nel villaggio galleggiante di Koh Panyi, scopri un tempio-grotta con un Buddha sdraiato e goditi il tramonto dal belvedere di Samet Nangshe.",
+  "shortDescription": "Esplora i punti forti della baia di Phang Nga in un tour completamente privato da Phuket. Visita l'isola di James Bond in barca longtail privata, pranza nel villaggio galleggiante di Koh Panyi, scopri un tempio-grotta con un Buddha sdraiato e goditi il tramonto dal belvedere di Samet Nangshe.",
+  "fullDescription": "Un tour privato invece che in gruppo, con un'auto e una barca longtail tutte per te per visitare i punti più noti della baia di Phang Nga.\n\nL'auto privata con conducente ti porta al molo per 4 ore di barca longtail privata fino all'isola di James Bond, poi al villaggio galleggiante di Koh Panyi per il pranzo a buffet, con una sosta al tempio-grotta con il Buddha sdraiato lungo il percorso. La giornata si chiude al belvedere di Samet Nangshe, uno dei punti panoramici più fotografati della baia, proprio all'ora del tramonto.\n\nIl prezzo comprende l'auto privata con conducente e ritiro e riaccompagno in hotel, le 4 ore di barca longtail privata, il pranzo a buffet a Koh Panyi, i biglietti d'ingresso al belvedere e al tempio, e l'acqua in auto. Non comprende la tassa del parco nazionale per l'isola di James Bond (300 baht per adulto, 150 baht per bambino di 3-14 anni), il servizio opzionale di kayak durante il tour in barca (300 baht a persona) e le spese personali e mance.",
+  "highlights": [
+   "Tour completamente privato, auto e barca longtail solo per te",
+   "Isola di James Bond e villaggio galleggiante di Koh Panyi",
+   "Tramonto dal belvedere di Samet Nangshe"
+  ],
+  "included": [
+   "Auto privata con conducente e ritiro in hotel",
+   "4 ore di barca longtail privata",
+   "Pranzo a buffet a Koh Panyi",
+   "Biglietti d'ingresso al belvedere e al tempio",
+   "Acqua in auto"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale per l'isola di James Bond (300 baht/adulto, 150 baht/bambino 3-14 anni)",
+   "Servizio opzionale di kayak (300 baht a persona)",
+   "Spese personali e mance"
+  ]
+ },
+ "james-bond-island-speedboat-tour-phuket": {
+  "title": "Tour in motoscafo all'isola di James Bond da Phuket con canoa e pranzo",
+  "metaTitle": "Isola di James Bond da Phuket in motoscafo, canoa e pranzo",
+  "metaDescription": "Esplora la famosa isola di James Bond nella baia di Phang Nga in un tour di una giornata intera in motoscafo da Phuket. Fai canoa tra le grotte calcaree, visita il villaggio dei Sea Gypsy, nuota a Koh Naka Yai e pranza con vista sulle isole più spettacolari della Thailandia.",
+  "shortDescription": "Esplora la famosa isola di James Bond nella baia di Phang Nga in un tour di una giornata intera in motoscafo da Phuket. Fai canoa tra le grotte calcaree, visita il villaggio dei Sea Gypsy, nuota a Koh Naka Yai e pranza con vista sulle isole più spettacolari della Thailandia.",
+  "fullDescription": "Il motoscafo copre più distanza del longtail, quindi questa versione riesce a infilare una giornata intera di tappe: la stessa isola di James Bond resa famosa dal cinema, la canoa tra le grotte calcaree, il villaggio dei Sea Gypsy sull'acqua e una sosta per nuotare a Koh Naka Yai.\n\nLa giornata comincia con una colazione leggera al molo, poi il motoscafo porta il gruppo tra le isole con il pranzo servito a bordo con vista sulla baia.\n\nIl prezzo comprende la guida professionale, il ritiro e il riaccompagno in hotel da Phuket, il trasporto in motoscafo, la colazione leggera al molo, il pranzo durante il tour, le tasse d'ingresso al parco nazionale, l'esperienza in canoa, i giubbotti di salvataggio, frutta fresca e bevande a bordo e l'assicurazione contro gli infortuni. Non comprende le spese personali, le bevande alcoliche, le mance per guida ed equipaggio e le attività o acquisti opzionali sulle isole.",
+  "highlights": [
+   "Isola di James Bond e grotte calcaree in canoa",
+   "Visita al villaggio dei Sea Gypsy sull'acqua",
+   "Sosta per nuotare a Koh Naka Yai"
+  ],
+  "included": [
+   "Guida professionale",
+   "Ritiro e riaccompagno in hotel da Phuket",
+   "Trasporto in motoscafo",
+   "Colazione leggera al molo",
+   "Pranzo durante il tour",
+   "Tasse d'ingresso al parco nazionale",
+   "Esperienza in canoa",
+   "Giubbotti di salvataggio",
+   "Frutta fresca e bevande a bordo",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Bevande alcoliche",
+   "Mance per guida ed equipaggio",
+   "Attività o acquisti opzionali sulle isole"
+  ]
+ },
+ "jomtien-beach-premium-tour": {
+  "title": "Safari in moto d'acqua sulle cinque isole da Pattaya: giro premium guidato",
+  "metaTitle": "Pattaya: safari premium in moto d'acqua sulle cinque isole",
+  "metaDescription": "Guida la tua moto d'acqua in un safari guidato in mare aperto da Jomtien Beach, passando tra cinque isole e punti panoramici costieri intorno alla baia di Pattaya, in formato di 2 o 4 ore.",
+  "shortDescription": "Guida la tua moto d'acqua in un safari guidato in mare aperto da Jomtien Beach, passando tra cinque isole e punti panoramici costieri intorno alla baia di Pattaya, in formato di 2 o 4 ore.",
+  "fullDescription": "Qui non sei un passeggero: guidi tu stesso la moto d'acqua, con una guida che apre il percorso in mare aperto da Jomtien Beach fino a cinque isole e punti panoramici della costa.\n\nPuoi scegliere tra il formato di 2 ore e quello più lungo di 4 ore, a seconda di quanto tempo vuoi passare in acqua. Non è richiesta esperienza precedente: c'è un briefing di sicurezza prima della partenza e il ritmo segue il gruppo.\n\nIl prezzo comprende ritiro e riaccompagno in hotel a Pattaya, la moto d'acqua per tutto il percorso scelto, una guida professionale, il briefing di sicurezza con giubbotto di salvataggio e il carburante, oltre all'acqua potabile. Non comprende pasti e snack, il noleggio opzionale di una fotocamera impermeabile sul posto, il deposito per danni o la franchigia assicurativa (da confermare al momento della prenotazione) e le mance.",
+  "highlights": [
+   "Guidi tu stesso la moto d'acqua, non sei un passeggero",
+   "Cinque isole e punti panoramici intorno alla baia di Pattaya",
+   "Formato di 2 o 4 ore a scelta"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Pattaya",
+   "Moto d'acqua per tutto il percorso",
+   "Guida professionale",
+   "Briefing di sicurezza e giubbotto di salvataggio",
+   "Carburante",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Pasti e snack",
+   "Noleggio fotocamera impermeabile (opzionale, sul posto)",
+   "Deposito danni o franchigia assicurativa (da confermare alla prenotazione)",
+   "Mance"
+  ]
+ },
+ "jungle-flight-canopy-course-chiang-mai-adventure-tour": {
+  "title": "Chiang Mai: avventura sulle chiome con zipline e roller coaster della giungla",
+  "metaTitle": "Chiang Mai: zipline roller coaster sulle chiome della giungla",
+  "metaDescription": "Percorri uno dei circuiti di zipline più lunghi e alti al mondo tra le chiome della foresta pluviale di Chiang Mai, con un vero tratto a roller coaster su zipline.",
+  "shortDescription": "Percorri uno dei circuiti di zipline più lunghi e alti al mondo tra le chiome della foresta pluviale di Chiang Mai, con un vero tratto a roller coaster su zipline.",
+  "fullDescription": "Il circuito attraversa la foresta pluviale sopra Chiang Mai con una serie di zipline tra le chiome degli alberi, culminando in un tratto a roller coaster dove il cavo scende e risale come un'attrazione da parco, non solo una semplice discesa in linea.\n\nTutta l'attrezzatura di sicurezza (imbragatura, casco, doppio cavo) è fornita e controllata prima della partenza, e il team di guide accompagna il gruppo per tutto il percorso.\n\nIl prezzo comprende ritiro e riaccompagno in hotel o dalla Città Vecchia, l'accesso completo al circuito di zipline e chiome, l'attrezzatura di sicurezza, il team di guide per tutto il percorso e l'acqua in bottiglia. Non comprende i pasti (salvo diversa indicazione alla prenotazione), le foto o i video del tuo giro (eventualmente disponibili a pagamento) e le mance per le guide.",
+  "highlights": [
+   "Uno dei circuiti di zipline più lunghi e alti al mondo",
+   "Vero tratto a roller coaster su zipline",
+   "Attrezzatura di sicurezza completa e guide per tutto il percorso"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel o dalla Città Vecchia",
+   "Accesso completo al circuito di zipline e chiome",
+   "Attrezzatura di sicurezza (imbragatura, casco, doppio cavo)",
+   "Team di guide per tutto il percorso",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Pasti (salvo diversa indicazione alla prenotazione)",
+   "Foto/video del giro (eventualmente a pagamento)",
+   "Mance per le guide"
+  ]
+ },
+ "khao-sok-cheow-lan-lake-day-trip-in-krabi": {
+  "title": "Gita di un giorno al lago Cheow Lan di Khao Sok da Krabi",
+  "metaTitle": "Khao Sok e lago Cheow Lan: gita di un giorno da Krabi",
+  "metaDescription": "Tour di una giornata intera a Krabi, con la diga di Rajjaprabha, il parco nazionale di Khao Sok e il lago Cheow Lan. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di una giornata intera a Krabi, con la diga di Rajjaprabha, il parco nazionale di Khao Sok e il lago Cheow Lan. Gestito da un operatore locale verificato.",
+  "fullDescription": "Una giornata intera dedicata al lago Cheow Lan, l'acqua turchese racchiusa tra le pareti calcaree del parco nazionale di Khao Sok, creata dalla diga di Rajjaprabha.\n\nIl van con aria condizionata porta il gruppo dalla zona di Krabi fino al lago, dove una barca attraversa l'acqua tra i faraglioni calcarei che si innalzano a picco. Il pranzo è servito in un ristorante lungo il percorso.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il ritiro in hotel da Krabi Town, Ao Nang, Klong Muang e Tub Kaek, il trasporto in van con aria condizionata, acqua, caffè e frutta, il pranzo al ristorante, giubbotto di salvataggio, mantella impermeabile e sacca stagna, la guida e la tassa del parco nazionale.",
+  "highlights": [
+   "Lago Cheow Lan tra le pareti calcaree del parco nazionale di Khao Sok",
+   "Diga di Rajjaprabha",
+   "Giornata intera con pranzo incluso"
+  ],
+  "included": [
+   "Ritiro in hotel da Krabi Town, Ao Nang, Klong Muang e Tub Kaek",
+   "Trasporto in van con aria condizionata",
+   "Acqua, caffè e frutta",
+   "Pranzo al ristorante",
+   "Giubbotto di salvataggio, mantella impermeabile e sacca stagna",
+   "Guida",
+   "Tassa del parco nazionale"
+  ],
+  "notIncluded": []
+ },
+ "khao-yai-national-park-small-group-day-trip": {
+  "title": "Da Bangkok: gita di un giorno in piccolo gruppo al parco nazionale di Khao Yai",
+  "metaTitle": "Khao Yai: gita in piccolo gruppo da Bangkok",
+  "metaDescription": "Prenditi una pausa dalla Bangkok frenetica e passa la giornata nella natura, esplorando il parco nazionale di Khao Yai con trasferimenti opzionali in hotel. Cammina lungo i sentieri naturalistici e ammira cascate spettacolari.",
+  "shortDescription": "Prenditi una pausa dalla Bangkok frenetica e passa la giornata nella natura, esplorando il parco nazionale di Khao Yai con trasferimenti opzionali in hotel. Cammina lungo i sentieri naturalistici e ammira cascate spettacolari.",
+  "fullDescription": "Khao Yai è il parco nazionale più vicino a Bangkok con foresta pluviale vera, e questa gita in piccolo gruppo lo usa per uscire dalla città per un giorno intero.\n\nLa giornata segue i sentieri naturalistici del parco fino a diverse cascate, con una guida di lingua inglese che illustra la fauna e la flora lungo il percorso.\n\nIl prezzo comprende la guida di lingua inglese e il tour come descritto. Non comprende le mance e le spese personali.",
+  "highlights": [
+   "Parco nazionale di Khao Yai, il più vicino a Bangkok",
+   "Sentieri naturalistici e cascate",
+   "Piccolo gruppo con guida di lingua inglese"
+  ],
+  "included": [
+   "Guida di lingua inglese",
+   "Tour come descritto"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "kingkong-smile-zipline-doi-saket-adventure-tour": {
+  "title": "Avventura zipline Kingkong Smile con pranzo e trasferimenti, Chiang Mai",
+  "metaTitle": "Chiang Mai: zipline Kingkong Smile con pranzo e trasferimenti",
+  "metaDescription": "Percorri uno dei circuiti di zipline più lunghi e alti dell'Asia vicino a Chiang Mai, con un pranzo a buffet tailandese e trasferimenti di andata e ritorno in hotel.",
+  "shortDescription": "Percorri uno dei circuiti di zipline più lunghi e alti dell'Asia vicino a Chiang Mai, con un pranzo a buffet tailandese e trasferimenti di andata e ritorno in hotel.",
+  "fullDescription": "Il circuito Kingkong Smile, nel distretto di Doi Saket vicino a Chiang Mai, è tra i più lunghi e alti dell'Asia, con linee che attraversano la vallata tra le colline.\n\nDopo il giro sulle zipline il gruppo si ferma per un pranzo a buffet tailandese prima del rientro in hotel.\n\nIl prezzo comprende ritiro e riaccompagno in hotel, l'accesso al circuito di zipline, l'attrezzatura di sicurezza e il pranzo a buffet tailandese. Non comprende le spese personali, le mance e l'assicurazione di viaggio.",
+  "highlights": [
+   "Uno dei circuiti di zipline più lunghi e alti dell'Asia",
+   "Pranzo a buffet tailandese incluso",
+   "Trasferimenti di andata e ritorno in hotel"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Accesso al circuito di zipline",
+   "Attrezzatura di sicurezza",
+   "Pranzo a buffet tailandese"
+  ],
+  "notIncluded": [
+   "Spese personali",
+   "Mance",
+   "Assicurazione di viaggio"
+  ]
+ },
+ "ko-lanta-emerald-cave-and-4-islands-tour-by-longtail-boat-krabi": {
+  "title": "Ko Lanta: grotta Smeraldo e tour di 4 isole in barca longtail (Krabi)",
+  "metaTitle": "Ko Lanta: grotta Smeraldo e 4 isole in longtail",
+  "metaDescription": "Tour di una giornata intera a Krabi, con il molo della città vecchia di Ko Lanta, altri trasporti via acqua e Ko Chueak. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di una giornata intera a Krabi, con il molo della città vecchia di Ko Lanta, altri trasporti via acqua e Ko Chueak. Gestito da un operatore locale verificato.",
+  "fullDescription": "La grotta Smeraldo si raggiunge solo nuotando attraverso un breve tratto buio, ed è esattamente la parte che la gente ricorda di questo tour di 4 isole da Ko Lanta.\n\nDopo la grotta la barca longtail continua tra le isole intorno a Ko Chueak, con soste per fare snorkeling e nuotare in acque turchesi.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel, la gita in barca, la guida, il pranzo, acqua potabile, frutta, giubbotto di salvataggio, maschere per lo snorkeling e un kit di primo soccorso a bordo.",
+  "highlights": [
+   "Grotta Smeraldo raggiungibile solo a nuoto",
+   "Tour di 4 isole intorno a Ko Chueak",
+   "Soste per snorkeling in acque turchesi"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Gita in barca",
+   "Guida",
+   "Pranzo",
+   "Acqua potabile",
+   "Frutta",
+   "Giubbotto di salvataggio",
+   "Maschere per lo snorkeling",
+   "Kit di primo soccorso a bordo"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale (200 baht per adulto e 100 baht per bambino)"
+  ]
+ },
+ "ko-lanta-old-town-and-mangrove-forest-sightseeing-tour-krabi": {
+  "title": "Ko Lanta: città vecchia e foresta di mangrovie (Krabi)",
+  "metaTitle": "Ko Lanta: città vecchia e foresta di mangrovie",
+  "metaDescription": "Tour di mezza giornata a Krabi, con Tung Yee Peng e la città vecchia di Lanta. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con Tung Yee Peng e la città vecchia di Lanta. Gestito da un operatore locale verificato.",
+  "fullDescription": "Mezza giornata tra le mangrovie di Tung Yee Peng, un villaggio di pescatori su Ko Lanta che gestisce il proprio turismo comunitario, e la città vecchia di Lanta con le sue case di legno lungo il molo.\n\nÈ la gita giusta per una giornata di pioggia o vento: i canali tra le mangrovie sono acque riparate, quindi il tour funziona anche con condizioni che chiudono le uscite in mare aperto durante la stagione verde da maggio a ottobre.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il trasferimento di andata e ritorno in hotel, il pranzo con acqua potabile e frutta, il giubbotto di salvataggio, una guida locale di lingua inglese e un'assicurazione base contro gli infortuni.",
+  "highlights": [
+   "Mangrovie di Tung Yee Peng a gestione comunitaria",
+   "Città vecchia di Lanta sul molo di legno",
+   "Adatto anche nella stagione verde da maggio a ottobre"
+  ],
+  "included": [
+   "Trasferimento di andata e ritorno in hotel",
+   "Pranzo, acqua potabile e frutta",
+   "Giubbotto di salvataggio",
+   "Guida locale di lingua inglese",
+   "Assicurazione base contro gli infortuni"
+  ],
+  "notIncluded": []
+ },
+ "koh-larn-coral-island-full-day-tour": {
+  "title": "Gita di un giorno a Coral Island in motoscafo con pranzo da Pattaya",
+  "metaTitle": "Koh Larn: gita in motoscafo con pranzo da Pattaya",
+  "metaDescription": "Una fuga facile e conveniente a Koh Larn: trasferimenti in motoscafo, tempo libero sulla spiaggia di Tawaen, sport acquatici opzionali e pranzo incluso, con ritiro in hotel da Pattaya.",
+  "shortDescription": "Una fuga facile e conveniente a Koh Larn: trasferimenti in motoscafo, tempo libero sulla spiaggia di Tawaen, sport acquatici opzionali e pranzo incluso, con ritiro in hotel da Pattaya.",
+  "fullDescription": "Koh Larn è l'isola più vicina a Pattaya, e questa gita di una giornata intera copre il trasferimento in motoscafo, qualche ora libera sulla spiaggia di Tawaen e il pranzo, lasciando spazio per sport acquatici opzionali se vuoi aggiungerli sul posto.\n\nIl prezzo comprende ritiro e riaccompagno in hotel a Pattaya, il trasferimento di andata e ritorno in motoscafo a Koh Larn, il tempo libero sulla spiaggia di Tawaen, il pranzo (menù tailandese sull'isola o buffet indiano a Pattaya, secondo l'opzione scelta) e una guida di lingua inglese. Non comprende gli sport acquatici (parasailing, moto d'acqua, banana boat, pagabili sul posto), il noleggio di sedia e ombrellone da spiaggia, le mance e le spese personali.",
+  "highlights": [
+   "Isola più vicina a Pattaya",
+   "Tempo libero sulla spiaggia di Tawaen",
+   "Pranzo incluso, sport acquatici opzionali sul posto"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Pattaya",
+   "Trasferimento di andata e ritorno in motoscafo a Koh Larn",
+   "Tempo libero sulla spiaggia di Tawaen",
+   "Pranzo (secondo l'opzione scelta)",
+   "Guida di lingua inglese"
+  ],
+  "notIncluded": [
+   "Sport acquatici (parasailing, moto d'acqua, banana boat, pagabili sul posto)",
+   "Noleggio sedia e ombrellone da spiaggia",
+   "Mance",
+   "Spese personali"
+  ]
+ },
+ "koh-larn-island-off-pattaya-mini-tour": {
+  "title": "Volo in parapendio biposto a Koh Larn sulle baie turchesi",
+  "metaTitle": "Koh Larn: parapendio biposto sulle baie turchesi",
+  "metaDescription": "Parti dalle colline di Koh Larn su un parapendio biposto con istruttore certificato, sorvolando acque turchesi, spiagge di sabbia bianca e creste verdi dell'isola.",
+  "shortDescription": "Parti dalle colline di Koh Larn su un parapendio biposto con istruttore certificato, sorvolando acque turchesi, spiagge di sabbia bianca e creste verdi dell'isola.",
+  "fullDescription": "Il volo parte dalle colline sopra Koh Larn, con un istruttore certificato che pilota il parapendio biposto mentre tu guardi l'isola dall'alto: acqua turchese, spiagge bianche e le creste verdi che scendono verso il mare.\n\nIl prezzo comprende il volo in parapendio biposto con istruttore certificato, il briefing di sicurezza e tutta l'attrezzatura di volo, casco e imbragatura, e l'assistenza al decollo e all'atterraggio. Non comprende il trasporto a Koh Larn (traghetto o motoscafo dal molo di Bali Hai, da organizzare autonomamente), il pacchetto foto/video in volo (disponibile a pagamento), pasti e bevande e le mance.",
+  "highlights": [
+   "Volo biposto con istruttore certificato",
+   "Vista aerea sulle baie turchesi di Koh Larn",
+   "Decollo e atterraggio dalle colline dell'isola"
+  ],
+  "included": [
+   "Volo in parapendio biposto con istruttore certificato",
+   "Briefing di sicurezza e attrezzatura di volo",
+   "Casco e imbragatura",
+   "Assistenza al decollo e all'atterraggio"
+  ],
+  "notIncluded": [
+   "Trasporto a Koh Larn (traghetto o motoscafo, da organizzare autonomamente)",
+   "Pacchetto foto/video in volo (a pagamento)",
+   "Pasti e bevande",
+   "Mance"
+  ]
+ },
+ "krabi-4-islands-snorkeling-and-clownfish-by-local-operator": {
+  "title": "Krabi: snorkeling sulle 4 isole e pesci pagliaccio con operatore locale",
+  "metaTitle": "Krabi: 4 isole, snorkeling e pesci pagliaccio",
+  "metaDescription": "Tour di mezza giornata a Krabi, con ritiro e riaccompagno in hotel (zone selezionate) e gita in barca alle 4 isole. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di mezza giornata a Krabi, con ritiro e riaccompagno in hotel (zone selezionate) e gita in barca alle 4 isole. Gestito da un operatore locale verificato.",
+  "fullDescription": "Mezza giornata in barca tra le 4 isole al largo di Krabi, con soste per fare snorkeling dove i pesci pagliaccio vivono tra gli anemoni in acque basse e trasparenti.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende ritiro e riaccompagno in hotel (zone selezionate), la gita in barca alle 4 isole, l'attrezzatura per lo snorkeling, il giubbotto di salvataggio, una guida locale professionale, il pranzo, acqua potabile e frutta di stagione e un'assicurazione base contro gli infortuni. Non comprende gli asciugamani, le spese personali e la tassa del parco nazionale.",
+  "highlights": [
+   "Snorkeling sulle 4 isole al largo di Krabi",
+   "Pesci pagliaccio tra gli anemoni in acque basse",
+   "Pranzo e attrezzatura per lo snorkeling incluse"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel (zone selezionate)",
+   "Gita in barca alle 4 isole",
+   "Attrezzatura per lo snorkeling",
+   "Giubbotto di salvataggio",
+   "Guida locale professionale",
+   "Pranzo",
+   "Acqua potabile e frutta di stagione",
+   "Assicurazione base contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Asciugamani",
+   "Spese personali",
+   "Tassa del parco nazionale"
+  ]
+ },
+ "krabi-elephant-shelter-entry-ticket": {
+  "title": "Lava e gioca con gli elefanti salvati vicino alla città di Krabi",
+  "metaTitle": "Krabi: rifugio etico per elefanti, bagno e gioco in acqua",
+  "metaDescription": "Passa una sessione pratica lavando, spruzzando e nuotando con gli elefanti salvati in un rifugio etico senza cavalcate, guidato dai loro stessi custodi abituali.",
+  "shortDescription": "Passa una sessione pratica lavando, spruzzando e nuotando con gli elefanti salvati in un rifugio etico senza cavalcate, guidato dai loro stessi custodi abituali.",
+  "fullDescription": "Il rifugio non offre cavalcate: la sessione consiste nel lavare gli elefanti salvati insieme ai loro custodi abituali, spruzzarli d'acqua e nuotare al loro fianco nella piscina del rifugio.\n\nI custodi conoscono ogni elefante per nome e carattere, e guidano il gruppo attraverso tutta la sessione spiegando la storia di ciascun animale.\n\nIl prezzo comprende l'ingresso al Krabi Elephant Shelter, la sessione di bagno guidata con i custodi, abiti del rifugio e armadietto, le docce e un asciugamano, acqua potabile e frutta di stagione, le foto scattate durante la sessione e l'assicurazione. Non comprende i trasferimenti in hotel salvo prenotazione separata, i pasti, le mance per i custodi e le spese personali.",
+  "highlights": [
+   "Rifugio etico senza cavalcate",
+   "Bagno e gioco in acqua con i custodi abituali degli elefanti",
+   "Foto incluse durante la sessione"
+  ],
+  "included": [
+   "Ingresso al Krabi Elephant Shelter",
+   "Sessione di bagno guidata con i custodi",
+   "Abiti del rifugio e armadietto",
+   "Docce e asciugamano",
+   "Acqua potabile e frutta di stagione",
+   "Foto scattate durante la sessione",
+   "Assicurazione"
+  ],
+  "notIncluded": [
+   "Trasferimenti in hotel salvo prenotazione separata",
+   "Pasti",
+   "Mance per i custodi",
+   "Spese personali"
+  ]
+ },
+ "krabi-exclusive-phi-phi-island-discovery-by-premium-speed-by-local-operator": {
+  "title": "Krabi: scoperta esclusiva di Phi Phi in motoscafo premium con operatore locale",
+  "metaTitle": "Krabi: Phi Phi esclusiva in motoscafo premium",
+  "metaDescription": "Tour di una giornata intera a Krabi, con trasferimento in hotel e motoscafo premium. Gestito da un operatore locale verificato.",
+  "shortDescription": "Tour di una giornata intera a Krabi, con trasferimento in hotel e motoscafo premium. Gestito da un operatore locale verificato.",
+  "fullDescription": "Una giornata intera all'arcipelago di Phi Phi su un motoscafo premium, con meno passeggeri a bordo rispetto alle gite di gruppo standard, così c'è più spazio e tempo in ogni tappa.\n\nIl tuo posto viene bloccato con l'operatore prima che la prenotazione sia definitiva. Il prezzo comprende il trasferimento in hotel, il motoscafo premium, il pranzo a buffet, l'attrezzatura per lo snorkeling, l'acqua potabile, la frutta di stagione, una guida turistica professionale, il giubbotto di salvataggio e l'assicurazione di viaggio. Non comprende la tassa del parco nazionale e il ritiro e riaccompagno dalla spiaggia di Railay, disponibile solo dal molo di Ao Nam Mao.",
+  "highlights": [
+   "Motoscafo premium con meno passeggeri a bordo",
+   "Giornata intera all'arcipelago di Phi Phi",
+   "Pranzo a buffet e attrezzatura per lo snorkeling incluse"
+  ],
+  "included": [
+   "Trasferimento in hotel",
+   "Motoscafo premium",
+   "Pranzo a buffet",
+   "Attrezzatura per lo snorkeling",
+   "Acqua potabile",
+   "Frutta di stagione",
+   "Guida turistica professionale",
+   "Giubbotto di salvataggio",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "Tassa del parco nazionale",
+   "Ritiro e riaccompagno dalla spiaggia di Railay (solo dal molo di Ao Nam Mao)"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
