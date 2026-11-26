@@ -213,6 +213,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-nanxiang-ancient-town-worth-it-shanghai', 'is-sheshan-hill-worth-it-shanghai',
     'is-incense-workshop-worth-it-shanghai', 'is-embroidery-class-worth-it-shanghai',
     'is-tea-mentor-experience-worth-it-shanghai', 'is-songcheng-park-worth-it-shanghai',
+    'is-fly-over-shanghai-worth-it-shanghai', 'is-oriental-pearl-tower-worth-it-shanghai',
+    'is-peking-opera-mask-painting-worth-it-shanghai', 'is-bamboo-weaving-workshop-worth-it-shanghai',
   ].map(slug => ({
     url: `${BASE_URL}/china/shanghai/${slug}`,
     lastModified: new Date(),

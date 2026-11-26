@@ -1227,6 +1227,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-fly-over-shanghai-worth-it-shanghai":
+      return {
+        title: "Is Fly Over Shanghai Worth It?",
+        description: "An honest look at Fly Over Shanghai, a 4D flying-theater ride simulating a flight across Shanghai's landmarks.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d57190bfef26c1f8652af08597abf0b42e5e636cc0105766a64442f6950efc7.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fly Over Shanghai is a short flying-theater ride using motion seats and wind effects to simulate soaring over the city's landmarks — a quick, family-friendly novelty rather than a substantial sightseeing activity on its own.",
+            tourCard: { slug: "shanghai-fly-over-shanghai-entry-ticket", title: "Shanghai: Fly Over Shanghai Entry Ticket", description: "Entry ticket to the Fly Over Shanghai flying-theater experience.", price: "From $20", duration: "35 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d57190bfef26c1f8652af08597abf0b42e5e636cc0105766a64442f6950efc7.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair it with another nearby attraction since the ride itself is short — it works best as an add-on, not a standalone outing.",
+          },
+        ],
+        faqs: [
+          { q: "Is Fly Over Shanghai worth it?", a: "Yes, as a short, fun novelty best paired with another nearby activity rather than booked as a standalone outing." },
+        ],
+      };
+
+    case "is-oriental-pearl-tower-worth-it-shanghai":
+      return {
+        title: "Is the Oriental Pearl Tower Worth It in Shanghai?",
+        description: "An honest look at the Oriental Pearl Tower, Shanghai's iconic pink-and-silver TV tower on the Pudong skyline.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3bafcb355479461ee7db9549e8a0037b5cb58fe0f5167f3a9d45f79c2865f0e1.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Oriental Pearl Tower is one of Shanghai's most recognizable landmarks and its observation decks give genuinely good views back across the Huangpu River to the Bund, a different vantage point from the newer, taller towers like Shanghai Tower and the World Financial Center.",
+            tourCard: { slug: "oriental-pearl-tower-entry-ticket-with-dining", title: "Oriental Pearl Tower Entry Ticket with Dining Option", description: "Entry ticket to the Oriental Pearl Tower, with an optional dining upgrade.", price: "From $77", duration: "Flexible", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3bafcb355479461ee7db9549e8a0037b5cb58fe0f5167f3a9d45f79c2865f0e1.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go at dusk if you can — the tower itself lights up at night and the view back toward the Bund is best in the transition from daylight to neon.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Oriental Pearl Tower worth it in Shanghai?", a: "Yes, for an iconic landmark with genuinely good views back toward the Bund, especially at dusk." },
+        ],
+      };
+
+    case "is-peking-opera-mask-painting-worth-it-shanghai":
+      return {
+        title: "Is the Peking Opera Mask Painting Experience Worth It in Shanghai?",
+        description: "An honest look at the Peking Opera mask painting workshop in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d6952d1d8d50dae53d438daba8c7ec20bd67f099e5b64ec634f4bfcd2d14742.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Peking Opera masks use a genuine symbolic color-coding system to represent character traits, and painting your own under guidance teaches that tradition hands-on rather than just watching a performance — a distinctly different craft activity from the city's textile and calligraphy workshops.",
+            tourCard: { slug: "peking-opera-mask-painting-experience-in-shanghai", title: "Peking Opera Mask Painting Experience in Shanghai", description: "A hands-on Peking Opera mask painting workshop.", price: "From $78", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d6952d1d8d50dae53d438daba8c7ec20bd67f099e5b64ec634f4bfcd2d14742.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the instructor about the color symbolism as you paint — it's the part that makes this more than just an art class.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Peking Opera mask painting experience worth it in Shanghai?", a: "Yes, for a genuine hands-on introduction to the opera's symbolic color tradition, distinct from the city's other craft workshops." },
+        ],
+      };
+
+    case "is-bamboo-weaving-workshop-worth-it-shanghai":
+      return {
+        title: "Is the M50 Bamboo Weaving Workshop Worth It in Shanghai?",
+        description: "An honest look at the M50 bamboo weaving workshop with a local artisan in Shanghai's art district.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5202dac23553d5f00c96bc0db562130e9d8bf41022cfc40487f1aecdac9eeaeb.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Held in Shanghai's M50 creative art district, this workshop teaches a genuine traditional bamboo weaving craft under a local artisan, combining a visit to the city's contemporary art scene with a hands-on heritage skill rather than just browsing galleries.",
+            tourCard: { slug: "shanghai-m50-bamboo-weaving-workshop-with-local", title: "Shanghai M50: Bamboo Weaving Workshop with Local Artisan", description: "A hands-on bamboo weaving workshop with a local artisan at M50.", price: "From $62", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5202dac23553d5f00c96bc0db562130e9d8bf41022cfc40487f1aecdac9eeaeb.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Combine it with browsing M50's galleries and studios while you're already in the district.",
+          },
+        ],
+        faqs: [
+          { q: "Is the M50 bamboo weaving workshop worth it in Shanghai?", a: "Yes, it combines a genuine traditional craft with a visit to Shanghai's contemporary art district." },
+        ],
+      };
+
     default:
       return null;
   }
