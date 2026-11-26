@@ -131060,6 +131060,174 @@ export const IT_TOURS: Record<string, TourT> = {
    "Costo extra di trasferimento di 500 THB per auto per Klong Muang e Tubkaek"
   ]
  },
+ "bangkok-pattaya-truth-sanctuary-guided-tour-coral": {
+  "title": "Bangkok: tour guidato al Santuario della Verità di Pattaya e Coral Island",
+  "metaTitle": "Tour guidato a Pattaya: Santuario della Verità e Coral Island",
+  "metaDescription": "Giornata intera da Bangkok al Santuario della Verità di Pattaya, scolpito a mano, e a Coral Island per nuotare prima del ritorno in serata.",
+  "shortDescription": "Una giornata intera lontano da Bangkok, tra il Santuario della Verità scolpito a mano a Pattaya e un pomeriggio di relax a Coral Island prima del ritorno.",
+  "fullDescription": "Trascorri una giornata intera fuori città con questo viaggio in pullman verso sud, fino a Pattaya, costruito attorno a due tappe molto diverse. La prima è il Santuario della Verità, un edificio interamente in legno sulla costa, in costruzione da decenni e ancora oggi oggetto di intagli. Ogni pannello e ogni colonna sono in teak tagliato a mano, lavorato in scene della tradizione buddista e induista invece che inchiodato o imbullonato, e la guida ti spiega cosa rappresenta ogni sezione e perché l'intaglio continua ancora oggi. Prevedi un paio d'ore qui, incluso il tempo per camminare nei giardini lungo l'acqua.\n\nDa lì il gruppo si sposta a Coral Island per il resto della giornata, con una breve traversata in barca dalla costa di Pattaya. È una sosta balneare semplice dopo la visita della mattinata: tempo per nuotare, rilassarti sulla sabbia o restare semplicemente seduto vicino all'acqua prima che il pullman riparta per Bangkok in serata. Il ritiro e il rientro avvengono direttamente al tuo hotel a Bangkok, quindi non c'è nulla da organizzare a parte presentarti puntuale.",
+  "highlights": [
+   "Visita guidata al Santuario della Verità, l'edificio in teak intagliato a mano sulla costa di Pattaya",
+   "Pomeriggio di relax e nuoto a Coral Island dopo la visita della mattinata",
+   "Ritiro e rientro diretti dal tuo hotel a Bangkok, senza nulla da organizzare"
+  ],
+  "included": [
+   "Trasferimento di andata e ritorno in pullman da Bangkok",
+   "Guida turistica di lingua inglese",
+   "Biglietto della barca per Coral Island",
+   "Assicurazione di viaggio"
+  ],
+  "notIncluded": [
+   "Biglietto d'ingresso al Santuario della Verità",
+   "Pasti e bevande",
+   "Qualsiasi attività non elencata tra gli articoli inclusi"
+  ]
+ },
+ "chiang-mai-street-food-tasting-tour-with-local": {
+  "title": "Tour di degustazione street food a Chiang Mai con guida locale",
+  "metaTitle": "Tour street food a Chiang Mai con guida locale",
+  "metaDescription": "Passeggiata gastronomica di metà giornata a Chiang Mai: oltre 15 piatti del Nord della Thailandia con una guida locale esperta di cibo.",
+  "shortDescription": "Una passeggiata gastronomica guidata a metà giornata tra un mercato di Chiang Mai e alcuni locali tipici, con più di 15 piatti del Nord della Thailandia assaggiati insieme a una guida locale specializzata in cibo.",
+  "fullDescription": "Trascorri una sessione di metà giornata alla scoperta della cucina del Nord della Thailandia con una guida locale autorizzata, cresciuta nella regione. Il tour inizia in un mercato locale molto frequentato, dove assaggi una serie di snack del Nord della Thailandia e scopri da dove arrivano. Da lì vieni portato in un piccolo locale molto amato per una ciotola di khao soi, il piatto simbolo della regione a base di noodle al curry di cocco, prima di fermarti in una baracca di barbecue nascosta per un pollo grigliato alla brace in stile thailandese servito con insalata di papaya. Il tour si conclude in una pasticceria che prepara dolci tradizionali da decenni. Gli spostamenti tra le tappe avvengono con un songthaew privato locale, e l'intera esperienza è costruita attorno alla degustazione, non alla visita turistica, con più di 15 piatti e bevande assaggiati lungo il percorso.",
+  "highlights": [
+   "Più di 15 piatti e bevande del Nord della Thailandia assaggiati in un mercato locale e in alcuni locali tipici",
+   "Ciotola di khao soi in un locale amato dai residenti, il piatto simbolo della regione",
+   "Spostamenti tra le tappe in songthaew privato con una guida gastronomica locale autorizzata"
+  ],
+  "included": [
+   "Guida gastronomica locale autorizzata",
+   "Oltre 15 degustazioni durante il tour",
+   "Acqua in bottiglia",
+   "Trasporto privato in songthaew tra le tappe"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Mance",
+   "Bevande alcoliche"
+  ]
+ },
+ "khao-lak-waterfall-hike-cycling-lake-swim-tour": {
+  "title": "Tour a Khao Lak tra cascata, bicicletta e bagno nel lago",
+  "metaTitle": "Khao Lak: cascata, bicicletta e bagno nel lago",
+  "metaDescription": "Mezza giornata a Khao Lak tra escursione nella giungla, 25 km in bici in campagna e bagno in un lago di miniera, con pranzo in riva al mare.",
+  "shortDescription": "Una mezza giornata tra escursione nella giungla, pedalata in campagna e bagno in un lago di una vecchia miniera di stagno inondata vicino a Khao Lak, con pranzo in riva al mare e sosta a un tempio.",
+  "fullDescription": "Questa gita di mezza giornata unisce una breve escursione nella foresta pluviale a una facile pedalata di 25 km in campagna, nella provincia di Phang Nga. Inizia all'interno del parco nazionale di Khao Lampi-Hat Thai Muang, con una camminata lungo un sentiero nella giungla fino all'alta cascata di Ton Phrai, con la possibilità di rinfrescarti nella sua piscina naturale. Il tratto in bicicletta che segue attraversa piantagioni di gomma e palma da olio e un tempio nella foresta noto per il suo design insolito e colorato, prima di raggiungere la vecchia città mineraria di Thai Muang per un pranzo in riva al mare. Una sosta a un santuario buddista cinese e un bagno in uno dei vecchi laghi di miniera di stagno inondati della zona completano la giornata.",
+  "highlights": [
+   "Escursione nella giungla fino alla cascata di Ton Phrai, con bagno nella piscina naturale",
+   "25 km in bicicletta tra piantagioni e un tempio dal design insolito e colorato",
+   "Pranzo in riva al mare a Thai Muang e bagno in un lago di una vecchia miniera di stagno"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Biglietto d'ingresso al parco nazionale",
+   "Mountain bike e casco",
+   "Guida locale di lingua inglese",
+   "Snack e bevande",
+   "Pranzo in riva al mare",
+   "Veicolo di supporto con aria condizionata",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Assicurazione di viaggio personale",
+   "Spese di natura personale"
+  ]
+ },
+ "koh-yao-noi-full-day-cycling-beach-escape": {
+  "title": "Giornata intera in bicicletta e al mare a Koh Yao Noi",
+  "metaTitle": "Koh Yao Noi: giornata in bicicletta e al mare",
+  "metaDescription": "Giornata intera a Koh Yao Noi tra risaie, piantagioni di gomma, un villaggio di pescatori su palafitte, pranzo in spiaggia e barca da Phuket.",
+  "shortDescription": "Una giornata intera in barca e in bicicletta sulla tranquilla isola di Koh Yao Noi, tra risaie, piantagioni di gomma, un villaggio di pescatori su palafitte e un pranzo in spiaggia.",
+  "fullDescription": "Lascia Phuket per questa fuga di una giornata intera a Koh Yao Noi, un'isola tranquilla che si raggiunge con una panoramica traversata in barca longtail dal molo di Bang Rong. Una volta sbarcato, la pedalata della mattina percorre circa 14 km attraverso la campagna dell'isola: una cittadina di mercato, foreste di mangrovie, piantagioni di gomma, risaie a cielo aperto e un villaggio di pescatori costruito su palafitte. Una pausa a metà giornata porta a un pranzo thailandese in un ristorante sulla spiaggia, con tempo per rilassarti o fare un bagno prima che la pedalata del pomeriggio continui per circa 10 km lungo la costa orientale più tranquilla dell'isola, passando per una piantagione di palma da olio con vista sulla baia di Phang Nga e, nelle giornate limpide, sull'orizzonte delle isole Phi Phi.",
+  "highlights": [
+   "Traversata in barca longtail da Phuket all'isola tranquilla di Koh Yao Noi",
+   "14 km in bicicletta tra risaie, mangrovie e un villaggio di pescatori su palafitte",
+   "Pranzo thailandese sulla spiaggia e altri 10 km lungo la costa orientale con vista sulla baia di Phang Nga"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Trasferimenti in barca",
+   "Mountain bike e casco",
+   "Guida locale di lingua inglese",
+   "Pranzo sulla spiaggia",
+   "Snack e bevande",
+   "Biglietto del parco nazionale",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Assicurazione di viaggio personale",
+   "Spese di natura personale"
+  ]
+ },
+ "krabi-old-town-evening-street-food-tasting-walk": {
+  "title": "Passeggiata serale di degustazione street food nella città vecchia di Krabi",
+  "metaTitle": "Passeggiata street food serale nella città vecchia di Krabi",
+  "metaDescription": "Passeggiata serale a Krabi Town con una guida gastronomica locale, tra bancarelle storiche e mercato notturno, lontano dal lungomare di Ao Nang.",
+  "shortDescription": "Una passeggiata serale guidata nella città vecchia di Krabi, tra bancarelle di street food, mercato notturno e specialità del Sud della Thailandia, lontano dal lungomare turistico di Ao Nang.",
+  "fullDescription": "Attraversa la città vecchia di Krabi dopo il tramonto in un percorso guidato di degustazione street food condotto da un host gastronomico locale, lontano dai menu da hamburger delle città balneari della vicina Ao Nang. In circa una dozzina di tappe assaggi specialità del Sud della Thailandia da venditori attivi da generazioni, locali a gestione familiare e il mercato notturno serale: curry gialli alla curcuma con roti sfogliato, noodle di riso khanom jeen, pesce fresco, frittelle di ostriche in foglia di banano croccanti, cozze fritte e palline di tapioca nel latte di cocco freddo. Lungo il percorso la tua guida ti mostra gli insoliti arredi urbani a tema preistorico della città di Krabi e racconta perché i locali si ritrovano ancora qui invece che nella zona turistica. La passeggiata è pianeggiante e rilassata, costruita attorno al cibo più che alla distanza, e si conclude con un dolce tradizionale mentre il sole tramonta sullo sfondo calcareo della città.",
+  "highlights": [
+   "Una dozzina di tappe di degustazione street food nella città vecchia di Krabi",
+   "Curry del Sud della Thailandia, noodle khanom jeen e frittelle di ostriche in foglia di banano",
+   "Guida gastronomica locale e arredi urbani a tema preistorico lungo il percorso"
+  ],
+  "included": [
+   "Oltre 15 degustazioni di cibo e bevande",
+   "Acqua in bottiglia",
+   "Guida gastronomica locale di lingua inglese"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Mance"
+  ]
+ },
+ "pattaya-naklua-fishing-village-evening-food-walk": {
+  "title": "Passeggiata gastronomica serale nel villaggio di pescatori di Naklua",
+  "metaTitle": "Passeggiata gastronomica serale a Naklua, Pattaya",
+  "metaDescription": "Passeggiata gastronomica serale a Naklua, villaggio di pescatori secolare vicino a Pattaya, con circa 15 degustazioni tra mercato e vicoli storici.",
+  "shortDescription": "Una passeggiata gastronomica serale guidata a Naklua, un villaggio di pescatori secolare vicino a Pattaya, con circa 15 degustazioni tra il mercato storico e i vicoli della vecchia Pattaya.",
+  "fullDescription": "Lascia la zona dei locali notturni di Pattaya per Naklua, una comunità di pescatori secolare dove i locali vanno davvero a mangiare. Questa passeggiata guidata serale comprende circa 15 degustazioni tra un mercato secolare e i vicoli stretti della vecchia Pattaya. Inizia tra le bancarelle del mercato osservando il pescato del giorno mentre assaggi noodle arrotolati in un brodo scuro e speziato, poi gira tra le vetrine in legno per assaggiare panini al vapore ripieni di maiale, spiedini di polpetta di pesce alla brace e ravioli saltati in padella da una bancarella gestita dalla stessa famiglia da generazioni. Prova crêpes croccanti alla crema di cocco, ostriche fritte dorate e stinco di maiale brasato a lungo in una salsa di cannella e anice stellato, concludendo in un angolo di pesce nascosto gestito da ex pescatori per calamari in salsa di nero di seppia e una pentola di uova che bolle.",
+  "highlights": [
+   "Circa 15 degustazioni tra il mercato secolare e i vicoli della vecchia Pattaya",
+   "Noodle arrotolati, spiedini di polpetta di pesce alla brace e panini al vapore da una bancarella di famiglia",
+   "Stinco di maiale brasato e calamari in salsa di nero di seppia in un angolo gestito da ex pescatori"
+  ],
+  "included": [
+   "Oltre 15 degustazioni di cibo e bevande",
+   "Acqua in bottiglia",
+   "Guida gastronomica locale di lingua inglese"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Mance"
+  ]
+ },
+ "phuket-countryside-half-day-cycling-adventure": {
+  "title": "Avventura in bicicletta di mezza giornata nella campagna di Phuket",
+  "metaTitle": "Bicicletta di mezza giornata nella campagna di Phuket",
+  "metaDescription": "Mezza giornata in mountain bike nella campagna del nord di Phuket: 21 km tra foreste, piantagioni e un villaggio remoto, con pranzo al mare.",
+  "shortDescription": "Una pedalata rilassata di mezza giornata in mountain bike attraverso i terreni agricoli, le foreste e la costa di pescatori remota del nord di Phuket, con un pranzo finale in riva al mare.",
+  "fullDescription": "Lascia le spiagge per l'entroterra più tranquillo di Phuket in questo percorso in bicicletta di mezza giornata di 21 km, nel cuore agricolo dell'isola. I ciclisti attraversano una riserva forestale tropicale protetta con sentieri ombreggiati nella giungla, superano un piccolo torrente e pedalano oltre piantagioni di gomma e un remoto avamposto militare prima di raggiungere i campi di ananas e gli allevamenti di gamberi della costa nord-orientale dell'isola. Una sosta in un piccolo villaggio senza strade asfaltate offre un assaggio di cocco fresco direttamente dalla fonte. Il percorso termina su un molo panoramico sul Mare delle Andamane, dove un pranzo in riva al mare conclude la giornata. Un furgone di supporto segue il percorso per la maggior parte del tragitto, così i ciclisti di diversi livelli possono procedere con il proprio ritmo.",
+  "highlights": [
+   "21 km in mountain bike attraverso una riserva forestale protetta e piantagioni di gomma",
+   "Sosta in un villaggio remoto per un assaggio di cocco fresco appena raccolto",
+   "Pranzo finale in riva al mare su un molo panoramico sul Mare delle Andamane"
+  ],
+  "included": [
+   "Ritiro e riaccompagno in hotel",
+   "Mountain bike e casco",
+   "Guida locale di lingua inglese",
+   "Snack e acqua in bottiglia",
+   "Degustazione di cocco fresco",
+   "Pranzo in riva al mare",
+   "Assicurazione contro gli infortuni"
+  ],
+  "notIncluded": [
+   "Mance",
+   "Assicurazione di viaggio personale",
+   "Spese di natura personale"
+  ]
+ },
  "dubai-desert-safari-with-quad-bike-bbq-and-shows": {
   "title": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
   "metaTitle": "Dubai: safari nel deserto con quad, barbecue e spettacoli",
