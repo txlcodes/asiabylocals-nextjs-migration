@@ -1114,6 +1114,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-audio-theater-walking-tour-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Audio Theater Walking Tour Worth It?",
+                seoTitle: "Tashkent Audio Theater Walking Tour 2026 | Honest Review",
+                description: "An honest look at Tashkent's audio theater walking tour with archival sounds.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f612fc97138395ac611686caf3b380b3966f816ecf26723d29c939654cb620d4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour pairs a self-guided walk with archival audio recordings layered over the city's streets, a genuinely different format from a live-guide walking tour, suited to travelers who prefer an immersive, self-paced experience.", tourCard: { slug: "tashkent-audio-theater-walking-tour-with-archival", title: "Tashkent: Audio Theater Walking Tour with Archival Sounds", description: "A self-guided audio theater walking tour layered with archival sounds.", price: "From $20", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f612fc97138395ac611686caf3b380b3966f816ecf26723d29c939654cb620d4.jpg" } },
+                    { title: "Practical Tips", content: "Bring headphones and keep your phone charged — the experience depends on the audio layer running smoothly as you walk." }
+                ],
+                faqs: [
+                    { q: "Is the audio theater walking tour worth it in Tashkent?", a: "Yes, for travelers who prefer a self-paced, immersive format over a live-guide walking tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the audio theater walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a self-paced, immersive alternative to a live-guide walking tour." } }
+                ] },
+            };
+
+        case "is-city-night-tour-with-dinner-photography-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent City Night Tour with Dinner and Photography Worth It?",
+                seoTitle: "Tashkent Night Tour with Photography 2026 | Honest Review",
+                description: "An honest look at Tashkent's city night tour bundling dinner and free professional photography.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccd1f382762e2ceaf407333d5108c9146df29b7b0e4a5dcfe4b9feb951645192.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling a guided night tour with dinner and a complimentary professional photo session is a genuinely good value combination for travelers who want both an evening meal out and quality photos without separately booking a photographer.", tourCard: { slug: "tashkent-city-night-tour-with-dinner-free-pro", title: "Tashkent city Night Tour with Dinner & Free Pro Photography", description: "A guided night tour of Tashkent with dinner and complimentary professional photography.", price: "From $102", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccd1f382762e2ceaf407333d5108c9146df29b7b0e4a5dcfe4b9feb951645192.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the photo-delivery process with your operator in advance — ask how and when you'll actually receive the edited images." }
+                ],
+                faqs: [
+                    { q: "Is the Tashkent night tour with dinner and photography worth it?", a: "Yes, it's a good-value bundle for travelers wanting an evening meal plus quality photos without booking a separate photographer." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tashkent night tour with dinner and photography worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it bundles a good dinner and professional photos into one booking." } }
+                ] },
+            };
+
+        case "is-bread-baking-class-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Uzbek Bread-Baking Class Worth It?",
+                seoTitle: "Tashkent Bread-Baking Class 2026 | Honest Review",
+                description: "An honest look at the Uzbek bread-baking class paired with a Chorsu Bazaar tour in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2a803d29f3c5e6e24a918f2ccde7b16911f3161880a807afe829a7646578957.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Uzbek non (flatbread) is baked in a traditional tandir oven, a distinct skill from the plov and samsa cooking classes already covered, and pairing the lesson with a Chorsu Bazaar visit gives practical context for where the bread fits into daily Uzbek life.", tourCard: { slug: "tashkent-uzbek-bread-baking-class-chorsu-bazaar", title: "Tashkent: Uzbek Bread-Baking Class & Chorsu Bazaar Tour", description: "A hands-on Uzbek bread-baking class paired with a Chorsu Bazaar tour.", price: "From $111", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2a803d29f3c5e6e24a918f2ccde7b16911f3161880a807afe829a7646578957.jpeg" } },
+                    { title: "Practical Tips", content: "Go hungry — you'll be sampling bread fresh from the tandir oven as part of the class." }
+                ],
+                faqs: [
+                    { q: "Is the Tashkent bread-baking class worth it?", a: "Yes, it's a genuinely distinct culinary skill from the city's plov and samsa cooking classes, and pairing it with Chorsu Bazaar adds useful context." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tashkent bread-baking class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a distinct culinary skill from the plov and samsa classes, paired usefully with a bazaar tour." } }
+                ] },
+            };
+
+        case "is-andijan-market-food-tour-worth-it-tashkent":
+            return {
+                title: "Is the Andijan Market Visit and Lagman Food Tour Worth It from Tashkent?",
+                seoTitle: "Andijan Market Food Tour from Tashkent 2026 | Honest Review",
+                description: "An honest look at the Andijan market visit and food tour with hand-pulled lagman, a day trip into the Fergana Valley region.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9045127673cf5aeb32b797956f1ba1ed255c626079773b99268186b089453066.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Andijan's local market and hand-pulled lagman noodles give a genuine taste of Fergana Valley daily life, distinct from Tashkent's capital-city sightseeing and worth it specifically for travelers curious about the wider region beyond the capital.", tourCard: { slug: "andijan-market-visit-and-food-tour-with-hand", title: "Andijan: Market Visit and Food Tour with Hand-Pulled Lagman", description: "A market visit and food tour in Andijan featuring hand-pulled lagman noodles.", price: "From $33", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9045127673cf5aeb32b797956f1ba1ed255c626079773b99268186b089453066.jpg" } },
+                    { title: "Practical Tips", content: "Confirm travel time from Tashkent with your operator — Andijan is in the Fergana Valley, a genuine regional trip rather than a quick city add-on." }
+                ],
+                faqs: [
+                    { q: "Is the Andijan market and food tour worth it?", a: "Yes, for travelers wanting a genuine taste of Fergana Valley life beyond Tashkent's capital-city sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Andijan market and food tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine regional taste of Fergana Valley life beyond the capital." } }
+                ] },
+            };
+
         default:
             return null;
     }

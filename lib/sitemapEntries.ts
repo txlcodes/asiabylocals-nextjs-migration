@@ -444,6 +444,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-culinary-tour-worth-it-tashkent',
     'is-pottery-masterclass-worth-it-tashkent', 'is-embroidery-masterclass-worth-it-tashkent',
     'is-islamic-civilization-center-worth-it-tashkent', 'is-lashkerak-forest-hike-worth-it-tashkent',
+    'is-audio-theater-walking-tour-worth-it-tashkent', 'is-city-night-tour-with-dinner-photography-worth-it-tashkent',
+    'is-bread-baking-class-worth-it-tashkent', 'is-andijan-market-food-tour-worth-it-tashkent',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/tashkent/${slug}`,
     lastModified: new Date(),
