@@ -1345,6 +1345,124 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-gandhi-smriti-raj-ghat-tour-worth-it-delhi":
+      return {
+        title: "Is the Gandhi Smriti, Museum & Raj Ghat Tour Worth It in Delhi?",
+        description: "An honest look at the Gandhi Smriti, Museum and Raj Ghat private tour, sites tied to Mahatma Gandhi's life and assassination.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-gandhi-smriti-museum-raj-ghat-private-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gandhi Smriti is the house where Mahatma Gandhi spent his final days and was assassinated, and Raj Ghat is his memorial cremation site — a genuinely moving, historically significant stop distinct from Delhi's Mughal-era monuments.",
+            tourCard: { slug: "delhi-gandhi-smriti-museum-raj-ghat-private-tour", title: "Delhi: Gandhi Smriti, Museum & Raj Ghat Private Tour", description: "A private tour of Gandhi Smriti, its museum, and Raj Ghat.", price: "From $13", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-gandhi-smriti-museum-raj-ghat-private-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a solemn, reflective site rather than a casual sightseeing stop — allow time to actually take it in rather than rushing through.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Gandhi Smriti and Raj Ghat tour worth it in Delhi?", a: "Yes, for genuine historical significance tied to Mahatma Gandhi's life and death, a solemn and different experience from the city's Mughal monuments." },
+        ],
+      };
+
+    case "is-jantar-mantar-tour-worth-it-delhi":
+      return {
+        title: "Is Jantar Mantar Worth Visiting in Delhi?",
+        description: "An honest look at Delhi's Jantar Mantar, an 18th-century astronomical observatory.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-jantar-mantar-ancient-astronomical/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jantar Mantar is a genuinely functional 18th-century astronomical observatory, with large stone instruments originally built to track celestial positions — a distinctly scientific, visually striking stop unlike anything else in central Delhi.",
+            tourCard: { slug: "delhi-jantar-mantar-ancient-astronomical", title: "Delhi: Jantar Mantar - Ancient Astronomical Observatory", description: "A visit to Jantar Mantar, Delhi's 18th-century astronomical observatory.", price: "From $16", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-jantar-mantar-ancient-astronomical/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide adds real value here, since the instruments' astronomical function isn't obvious without explanation.",
+          },
+        ],
+        faqs: [
+          { q: "Is Jantar Mantar worth visiting in Delhi?", a: "Yes, it's a genuinely functional 18th-century observatory with large, visually striking instruments — a good guide makes the science behind them click." },
+        ],
+      };
+
+    case "is-sanjay-colony-slum-tour-worth-it-delhi":
+      return {
+        title: "Is the Ethical Sanjay Colony Slum Tour Worth It in Delhi?",
+        description: "An honest, balanced look at the ethical Sanjay Colony slum tour with a local guide in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-ethical-sanjay-colony-slum-tour-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour is explicitly framed as ethical and led by a local guide from the community, aiming to show resourcefulness and daily life rather than treat poverty as a spectacle — whether it's right for you depends on whether you're comfortable with the format and confident the specific operator genuinely benefits the community it visits.",
+            tourCard: { slug: "new-delhi-ethical-sanjay-colony-slum-tour-with", title: "New Delhi - Ethical Sanjay Colony Slum Tour with Local guide", description: "An ethically-framed walking tour of Sanjay Colony with a local guide.", price: "From $20", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-ethical-sanjay-colony-slum-tour-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator directly how proceeds support the community and whether residents have consented to the tours — a genuinely ethical operator should answer this clearly and specifically, not vaguely.",
+          },
+        ],
+        faqs: [
+          { q: "Is a slum tour in Delhi ethical?", a: "It depends entirely on the specific operator — ask directly how the community benefits and whether residents have consented, and expect a clear, specific answer." },
+          { q: "Is the Sanjay Colony tour worth it?", a: "It can be, for travelers genuinely interested in community resourcefulness rather than treating poverty as a spectacle — confirm the operator's community-benefit model before booking." },
+        ],
+      };
+
+    case "is-hauz-khas-deer-park-tour-worth-it-delhi":
+      return {
+        title: "Is the Deer Park and Hauz Khas Village Walking Tour Worth It in Delhi?",
+        description: "An honest look at the Deer Park and Hauz Khas Village walking tour, pairing a 14th-century ruin complex with Delhi's trendy boutique district.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-deer-park-and-hauz-khas-village-walking-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hauz Khas pairs a genuine 14th-century madrasa and tomb complex overlooking a reservoir with an adjacent village now full of boutiques, cafes, and art galleries — an unusual, worthwhile combination of medieval ruins and contemporary Delhi lifestyle in one walk.",
+            tourCard: { slug: "delhi-deer-park-and-hauz-khas-village-walking-tour", title: "Delhi: Deer Park and Hauz Khas Village Walking Tour", description: "A walking tour of Deer Park and Hauz Khas Village.", price: "From $18", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-deer-park-and-hauz-khas-village-walking-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Budget time to linger in the village's cafes afterward — it's a good spot to relax rather than rushing to the next stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hauz Khas and Deer Park tour worth it in Delhi?", a: "Yes, for an unusual combination of genuine 14th-century ruins and Delhi's trendy contemporary boutique scene in one walk." },
+        ],
+      };
+
+    case "best-shopping-tour-delhi":
+      return {
+        title: "Which Is the Best Guided Shopping Tour in Delhi?",
+        seoTitle: "Best Delhi Shopping Tour 2026 | Honest Comparison",
+        description: "Compare real guided shopping tours in Delhi — from a $11 gems and handicraft tour to a full-day custom shopping experience with a female guide.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-guided-shopping-tour-for-gems-jewellery/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Delhi's guided shopping tours generally differ by focus (gems and handicrafts versus general shopping) and format (half-day versus full-day, with or without a female guide) rather than destination — most visit a similar mix of markets and craft outlets.",
+            tourCard: { slug: "delhi-guided-shopping-tour-for-gems-jewellery", title: "Delhi: Guided Shopping Tour For Gems, Jewellery & Handicraft", description: "A guided shopping tour focused on gems, jewellery, and handicrafts.", price: "From $11", duration: "5.2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/feffb0560d1a3941a275e8d7dd3dc991674b524e52052eaee07323adcd78822b.jpg" },
+          },
+          {
+            title: "Cheapest, Gem & Handicraft Focused",
+            content: "At $11, this is the lowest-priced option and focuses specifically on gems, jewellery, and handicrafts rather than general shopping.",
+            tourCard: { slug: "delhi-guided-shopping-tour-for-gems-jewellery", title: "Delhi: Guided Shopping Tour For Gems, Jewellery & Handicraft", description: "The budget-friendly, craft-focused shopping tour.", price: "From $11", duration: "5.2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/feffb0560d1a3941a275e8d7dd3dc991674b524e52052eaee07323adcd78822b.jpg" },
+          },
+          {
+            title: "Best All-Rounder with an Expert Guide",
+            content: "This covers a broader range of shopping destinations with an expert guide over a longer day, better if you don't want to limit yourself to gems and handicrafts alone.",
+            tourCard: { slug: "delhi-guided-shopping-tour-experience-with-expert", title: "Delhi: Guided Shopping Tour Experience with Expert", description: "A broader, full-day shopping tour with an expert guide.", price: "From $12", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-guided-shopping-tour-experience-with-expert/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Be aware that some shopping tours route through outlets that pay guide commissions — ask your operator directly whether they do this, and feel free to decline specific stops that don't interest you."
+          }
+        ],
+        faqs: [
+          { q: "What is the best shopping tour in Delhi?", a: "A gems-and-handicraft-focused tour suits most budgets; go for the full-day expert-guided version if you want a broader range of shopping stops." },
+          { q: "Do Delhi shopping tours take commissions from stores?", a: "Some do — ask your operator directly, and feel free to skip specific stops that don't interest you." }
+        ],
+      };
+
     default:
       return null;
   }

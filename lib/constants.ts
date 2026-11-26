@@ -162,6 +162,9 @@ export const DELHI_INFO_SLUGS = [
   'is-humayuns-tomb-tour-worth-it-delhi', 'is-chandni-chowk-food-tour-worth-it-delhi',
   'is-cooking-class-worth-it-delhi', 'is-lodhi-art-district-walk-worth-it-delhi',
   'is-jim-corbett-tour-worth-it-delhi', 'is-kuno-national-park-tour-worth-it-delhi',
+  'is-gandhi-smriti-raj-ghat-tour-worth-it-delhi', 'is-jantar-mantar-tour-worth-it-delhi',
+  'is-sanjay-colony-slum-tour-worth-it-delhi', 'is-hauz-khas-deer-park-tour-worth-it-delhi',
+  'best-shopping-tour-delhi',
 ];
 
 export const JAIPUR_INFO_SLUGS = [
