@@ -763,6 +763,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-miniature-painting-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Miniature Painting Workshop Worth It in Bukhara?",
+                seoTitle: "Bukhara Miniature Painting Workshop 2026 | Honest Review",
+                description: "An honest look at Bukhara's miniature painting workshop and cultural immersion.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f87d4636d7d60f93443b949f99d972ee9cee1c180dd40f7c3f8528cb6707362.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Miniature painting is a genuine Central Asian art tradition using fine detail and natural pigments, and this workshop teaches it hands-on, a distinctly different craft from Bukhara's suzani embroidery and wood-carving workshops.", tourCard: { slug: "bukhara-miniature-painting-workshop-and-cultural", title: "Bukhara: Miniature Painting Workshop and Cultural Immersion", description: "A hands-on miniature painting workshop and cultural immersion in Bukhara.", price: "From $117", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f87d4636d7d60f93443b949f99d972ee9cee1c180dd40f7c3f8528cb6707362.jpg" } },
+                    { title: "Practical Tips", content: "Expect a slow, detail-focused pace — miniature painting rewards patience over speed." }
+                ],
+                faqs: [
+                    { q: "Is the miniature painting workshop worth it in Bukhara?", a: "Yes, for a genuine, distinctly different craft tradition from the city's embroidery and wood-carving workshops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the miniature painting workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine, detail-focused craft tradition distinct from the city's other workshops." } }
+                ] },
+            };
+
+        case "is-carpet-making-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Immersive Old City Walk and Carpet Making Workshop Worth It in Bukhara?",
+                seoTitle: "Bukhara Carpet Making Workshop 2026 | Honest Review",
+                description: "An honest look at the immersive old city walk and carpet making workshop in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a82b581405875d4f7255e8e15734a3704e5c5eb6f6c4b5881eccdd4634dc2e1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bukhara has a genuine carpet-weaving heritage, and pairing a hands-on weaving workshop with an old city walk gives practical craft context alongside the sightseeing, rather than just browsing finished carpets in a shop.", tourCard: { slug: "bukhara-immersive-old-city-walk-carpet-making", title: "Bukhara: Immersive Old City Walk & Carpet Making Workshop", description: "An old city walking tour paired with a hands-on carpet making workshop.", price: "From $104", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a82b581405875d4f7255e8e15734a3704e5c5eb6f6c4b5881eccdd4634dc2e1.jpg" } },
+                    { title: "Practical Tips", content: "Ask about the loom technique used — Bukhara's carpet tradition has distinctive regional patterns worth understanding before you shop for one." }
+                ],
+                faqs: [
+                    { q: "Is the carpet making workshop worth it in Bukhara?", a: "Yes, it gives genuine hands-on context for the city's carpet-weaving heritage alongside the old city walk." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the carpet making workshop worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine hands-on context for Bukhara's carpet-weaving heritage." } }
+                ] },
+            };
+
+        case "is-desert-safari-emirs-palace-worth-it-bukhara":
+            return {
+                title: "Is the Desert Safari, Camel Ride and Emir's Summer Palace Tour Worth It from Bukhara?",
+                seoTitle: "Bukhara Desert Safari Camel Ride 2026 | Honest Review",
+                description: "An honest look at the desert safari, camel ride, and Emir's Summer Palace tour from Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b211584c54b8771c1db80a5145cae2f5116c97aa606fbf9f3f3751d620250180.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a desert camel ride with a visit to the Emir's ornate summer palace gives a genuinely varied day — nature and adventure paired with a specific piece of royal history — distinct from Bukhara's old-town-focused walking tours.", tourCard: { slug: "bukhara-desert-safari-camel-ride-and-emirs-summer", title: "Bukhara: Desert Safari, Camel Ride And Emir's Summer Palace", description: "A desert safari and camel ride combined with a visit to the Emir's Summer Palace.", price: "From $182", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b211584c54b8771c1db80a5145cae2f5116c97aa606fbf9f3f3751d620250180.jpeg" } },
+                    { title: "Practical Tips", content: "Dress for sun and dust on the desert portion — bring sunglasses and a hat for the camel ride." }
+                ],
+                faqs: [
+                    { q: "Is the desert safari and Emir's palace tour worth it from Bukhara?", a: "Yes, for a genuinely varied day combining desert adventure with royal history, distinct from the city's old-town walking tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the desert safari and Emir's palace tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a varied day combining desert adventure with royal history." } }
+                ] },
+            };
+
+        case "is-bread-making-class-worth-it-bukhara":
+            return {
+                title: "Is the Traditional Uzbek Bread-Making Class Worth It in Bukhara?",
+                seoTitle: "Bukhara Bread-Making Class 2026 | Honest Review",
+                description: "An honest look at the traditional Uzbek bread-making class with tea in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a69bd91842b4271dac74bbcdd5e9c31e360e92754fe4c9f322f888da39580d32.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Uzbek non (flatbread) baked in a tandir oven is a genuinely distinct culinary skill from the city's plov cooking workshop, and this short, affordable class with tea is an easy, low-commitment way to pick it up.", tourCard: { slug: "bukhara-traditional-uzbek-bread-making-class-with", title: "Bukhara: Traditional Uzbek Bread-Making Class with Tea", description: "A hands-on traditional Uzbek bread-making class with tea.", price: "From $39", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a69bd91842b4271dac74bbcdd5e9c31e360e92754fe4c9f322f888da39580d32.jpg" } },
+                    { title: "Practical Tips", content: "A good short, low-commitment activity to slot between old-town sightseeing stops." }
+                ],
+                faqs: [
+                    { q: "Is the bread-making class worth it in Bukhara?", a: "Yes, it's a distinct culinary skill from the city's plov workshop and an easy, affordable add-on between sightseeing stops." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the bread-making class worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a distinct, affordable culinary skill easy to slot between sightseeing stops." } }
+                ] },
+            };
+
         case "is-solar-furnace-tour-worth-it-tashkent":
             return {
                 title: "Is the 1 MW Solar Furnace Tour Worth It from Tashkent?",

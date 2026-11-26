@@ -1282,6 +1282,8 @@ export const BUKHARA_INFO_SLUGS = [
   'is-puppet-making-workshop-worth-it-bukhara', 'is-gold-embroidery-workshop-worth-it-bukhara',
   'is-chor-bakr-countryside-tour-worth-it-bukhara', 'is-hammam-bath-worth-it-bukhara',
   'is-wood-carving-masterclass-worth-it-bukhara', 'is-gijduvan-pottery-workshop-worth-it-bukhara',
+  'is-miniature-painting-workshop-worth-it-bukhara', 'is-carpet-making-workshop-worth-it-bukhara',
+  'is-desert-safari-emirs-palace-worth-it-bukhara', 'is-bread-making-class-worth-it-bukhara',
 ];
 
 export const KHIVA_INFO_SLUGS = [
