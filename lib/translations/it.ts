@@ -109880,6 +109880,380 @@ export const IT_TOURS: Record<string, TourT> = {
    "Gli acquisti nei laboratori"
   ]
  },
+ "sigiriya-pidurangala-and-a-jeep-safari-from-kandy-by-tuk-tuk": {
+  "title": "Sigiriya, Pidurangala e un Safari in Jeep da Kandy in Tuk-Tuk",
+  "metaTitle": "Sigiriya, Pidurangala e Safari in Jeep da Kandy",
+  "metaDescription": "Giornata privata in tuk-tuk da Kandy: giardino delle spezie, scelta tra Sigiriya o Pidurangala, grotte di Dambulla e safari in jeep per gli elefanti.",
+  "shortDescription": "Una giornata privata in tuk-tuk da Kandy con il territorio delle spezie di Matale, la scelta tra la salita a Sigiriya o Pidurangala, le grotte di Dambulla e un safari in jeep pomeridiano per gli elefanti.",
+  "fullDescription": "Due rocce distano un chilometro l'una dall'altra nella pianura a nord di Kandy e offrono cose opposte. Sigiriya e l'archeologia, con i giardini d'acqua, gli affreschi del muro degli specchi, le zampe di leone e le fondamenta di un palazzo del quinto secolo sulla cima, e costa circa 30-35 dollari l'ingresso. Pidurangala è il punto panoramico: una salita più economica e più rude che finisce in un'arrampicata tra i massi, e quello che si guarda dalla cima è Sigiriya stessa.\n\nQuale fare si decide con il driver il giorno stesso, e fare entrambe è possibile ma difficile con il caldo. I fotografi di solito scelgono Pidurangala; chi è interessato al sito in sé scegli Sigiriya.\n\nLa mattina corre a nord attraverso Matale, con un giardino delle spezie dove cannella, cardamomo e pepe crescono insieme, e le cinque grotte dipinte di Dambulla sono sulla via del ritorno.\n\nIl safari chiude la giornata: una guida in jeep nel pomeriggio a Minneriya o in un parco vicino, quando gli elefanti scendono verso il bacino. Farlo tutto in tuk-tuk invece che in furgone è il carattere della giornata: più lento, più caldo, e molto più vicino al paese che si trova in mezzo.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Tuk-tuk privato con driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "La jeep da safari",
+   "Tutto il tragitto",
+   "Il carburante"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya o Pidurangala e Dambulla",
+   "Il permesso del parco nazionale",
+   "I pasti e le bevande",
+   "Le mance"
+  ]
+ },
+ "sigiriya-dambulla-and-a-village-safari-day-trip-from-kandy-by-tuk-tuk": {
+  "title": "Sigiriya, Dambulla e un Safari nel Villaggio da Kandy in Tuk-Tuk",
+  "metaTitle": "Sigiriya, Dambulla e Safari nel Villaggio da Kandy",
+  "metaDescription": "Il triangolo culturale da Kandy con un safari nel villaggio: tempio induista, grotte di Dambulla, la salita a Sigiriya è un attraversamento in catamarano.",
+  "shortDescription": "Il triangolo culturale da Kandy con un safari nel villaggio aggiunto: il tempio induista e le grotte di Dambulla, la salita a Sigiriya, e un carro trainato da buoi con attraversamento in catamarano in un villaggio attivo.",
+  "fullDescription": "Il safari nel villaggio è la parte di questa giornata che non ci si aspetta di apprezzare e che di solito si ricorda meglio. Attraversa il territorio agricolo vicino alla roccia: un carro trainato da buoi lungo un sentiero, un attraversamento in catamarano su un bacino, una camminata tra le risaie e un pasto cucinato in una casa del villaggio.\n\nPrima di questo, la giornata segue il percorso standard verso nord: il tempio induista Sri Muthumariamman a Matale con il suo gopuram dipinto, e i templi rupestri di Dambulla, cinque grotte sotto una sporgenza di granito dipinte dal pavimento al soffitto con circa 150 immagini del Buddha.\n\nSigiriya è la salita: 1.200 gradini su una colonna di granito alta 200 metri fino a una cittadella reale del quinto secolo, oltre gli affreschi del muro degli specchi e le zampe di leone.\n\nFare tutto questo da Kandy in tuk-tuk crea una giornata lunga e molto meno isolata di un furgone. Si sente il caldo, si vedono i villaggi tra i siti invece di guardarli attraverso un vetro, e il driver è una guida piuttosto che un semplice conducente.\n\nIl tempismo conta più di ogni altra cosa in questa giornata. I 1.200 gradini di Sigiriya sono metallo e roccia all'aperto con quasi nessuna ombra, e a metà mattina sia il caldo che la fila sulle scalinate diventano seri: partire presto fa tutta la differenza tra una buona salita e un'impresa dura. A Dambulla spalle e ginocchia devono essere coperte e le scarpe si tolgono all'ingresso, e verso mezzogiorno il cortile in pietra diventa caldo al punto da far male, quindi porta dei calzini. Da Kandy a Sigiriya ci vogliono circa tre ore a tratta in tuk-tuk; questa è una giornata lunga per sua natura.",
+  "highlights": [],
+  "included": [
+   "Tuk-tuk o auto privata con driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "Il safari nel villaggio con carro trainato da buoi e attraversamento in barca",
+   "Tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "private-sigiriya-day-tour-from-kandy-with-an-elephant-safari-and-spice": {
+  "title": "Tour Privato di Sigiriya da Kandy con Safari degli Elefanti e Giardino delle Spezie",
+  "metaTitle": "Tour Privato Sigiriya da Kandy con Safari Elefanti",
+  "metaDescription": "Giornata privata del triangolo culturale da Kandy: tempio di Matale, giardino delle spezie, Sigiriya e grotte di Dambulla, con safari pomeridiano per elefanti.",
+  "shortDescription": "Una giornata privata del triangolo culturale da Kandy, con il tempio di Matale, un giardino delle spezie, la roccia di Sigiriya e le grotte di Dambulla, chiusa da un safari in jeep pomeridiano per gli elefanti.",
+  "fullDescription": "Questa e la versione privata della grande giornata a nord, e quello che compra è la possibilità di muoversi al proprio ritmo. Su un furgone condiviso la giornata segue un orario fisso; in privato, se la salita richiede più tempo, o si vuole un'ora al giardino delle spezie invece di venti minuti, e semplicemente quello che succede.\n\nIl percorso verso nord passa per Matale, con il tempio induista Sri Muthumariamman e il suo gopuram dipinto, e un giardino delle spezie dove cannella, cardamomo, pepe e noce moscata crescono tutti nello stesso appezzamento.\n\nSigiriya è il punto centrale: 1.200 gradini oltre gli affreschi del muro degli specchi fino a una cittadella reale del quinto secolo sulla cima di una colonna di granito, con i giardini d'acqua disposti simmetricamente sotto. Segue Dambulla, cinque grotte dipinte sotto una sporgenza rocciosa, fresche e buie, con circa 150 immagini del Buddha.\n\nIl safari chiude la giornata. Il tardo pomeriggio a Minneriya o in un parco vicino è quando le mandrie di elefanti scendono verso il bacino, e nella stagione secca quel raduno è il più grande del suo genere in Asia. Si torna a Kandy in serata.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "La jeep da safari",
+   "Tutto il tragitto tra i siti"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla e il permesso del parco nazionale",
+   "I pasti e le bevande",
+   "Le mance",
+   "Gli acquisti al giardino delle spezie"
+  ]
+ },
+ "minneriya-or-hurulu-eco-park-elephant-safari-from-dambulla": {
+  "title": "Safari degli Elefanti a Minneriya o Hurulu Eco Park da Dambulla con Trasferimenti",
+  "metaTitle": "Safari Elefanti a Minneriya o Hurulu da Dambulla",
+  "metaDescription": "Safari in jeep a Minneriya o Hurulu Eco Park per le grandi mandrie di elefanti selvatici, con trasferimenti da Dambulla, Sigiriya o Habarana.",
+  "shortDescription": "Un safari in jeep di mezza giornata a Minneriya o Hurulu Eco Park per le mandrie di elefanti selvatici più grandi dello Sri Lanka, con trasferimenti in hotel da Dambulla, Sigiriya o Habarana e riaccompagno disponibile altrove.",
+  "fullDescription": "Il bacino di Minneriya fu costruito nel terzo secolo dopo Cristo ed è il motivo di uno dei grandi spettacoli di fauna selvatica in Asia. Mentre la stagione secca avanza e l'acqua altrove scompare, il letto del bacino diventa un pascolo fresco, e gli elefanti convergono verso di esso da tutta la foresta circostante: alcune centinaia di animali in un unico luogo, che si nutrono, si bagnano e socializzano. Si chiama il Raduno, e niente altro in Asia concentra elefanti selvatici così.\n\nIl tempismo conta più di ogni altra cosa. Il Raduno cresce nei mesi secchi, grosso modo da giugno a settembre, e nella stagione delle piogge le mandrie si disperdono nella foresta e il bacino si allaga. Quale parco usa la jeep dipende da dove si trovano davvero gli animali quella settimana: Minneriya, Kaudulla e Hurulu Eco Park sono tutti a mezz'ora l'uno dall'altro e gli operatori si spostano tra di essi, motivo per cui la prenotazione ne nomina più di uno.\n\nIl pomeriggio è il momento giusto per il giro: gli elefanti scendono verso l'acqua a fine giornata, e la luce è migliore. Tre ore nel parco con un driver e un tracker che lo conoscono ogni giorno.\n\nUn riaccompagno a Kandy o altrove può di solito essere organizzato al posto del ritorno, il che rende questa un buon modo per interrompere una giornata di transfer.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Dambulla, Sigiriya o Habarana",
+   "Una jeep 4x4 con driver e tracker",
+   "Il giro di osservazione nel parco",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Il permesso d'ingresso al parco nazionale, pagato in contanti al cancello",
+   "I pasti",
+   "Le mance per driver e tracker",
+   "Le spese personali"
+  ]
+ },
+ "sorabora-lake-sunrise-and-waterfalls-day-trip-from-kandy-with-a-village": {
+  "title": "Alba sul Lago Sorabora e Cascate da Kandy con Visita al Villaggio",
+  "metaTitle": "Alba sul Lago Sorabora e Cascate da Kandy",
+  "metaDescription": "Una lunga giornata a est di Kandy per l'alba sul Lago Sorabora in barca tradizionale, una visita a un villaggio rurale e le cascate Kaluwa Wetuna e Ratna Ella.",
+  "shortDescription": "Una lunga giornata a est di Kandy per l'alba sul Lago Sorabora da una barca tradizionale, una visita a un villaggio rurale, e le cascate Kaluwa Wetuna e Ratna Ella, la seconda più alta dello Sri Lanka.",
+  "fullDescription": "Sorabora e un bacino vicino a Mahiyanganaya, a est di Kandy dall'altra parte delle colline, ed è antico: la chiusa fu tagliata da un unico blocco di roccia nel secondo secolo avanti Cristo, è il nome locale, il Mare di Bintenna, non e una grande esagerazione quando la nebbia si posa su di esso all'alba.\n\nArrivarci per l'alba significa partire da Kandy nel mezzo della notte, il che è il prezzo di tutto il viaggio. Quello che si ottiene è un'ora sull'acqua in una barca tradizionale mentre la luce sorge, con le colline dietro e quasi nessun altro in giro. Fotografa in modo straordinario e non fa parte di nessun itinerario standard.\n\nLa giornata si sposta poi verso un villaggio rurale nel territorio di Bintenna: agricoltura, cucina, e le faccende ordinarie di un luogo ben fuori dalla rotta turistica.\n\nLe cascate chiudono la giornata. Ratna Ella è alta 111 metri, la seconda più alta dello Sri Lanka, raggiunta con una camminata nella foresta, e Kaluwa Wetuna è più piccola con una vasca in cui vale la pena nuotare. Poi il lungo viaggio di ritorno, arrivando a Kandy in serata.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "La barca sul Lago Sorabora",
+   "La visita al villaggio",
+   "La guida alle cascate"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "I biglietti d'ingresso dove previsti",
+   "Le spese personali"
+  ]
+ },
+ "wakarewatta-nature-and-kandy-city-tuk-tuk-tour-with-a-sri-lankan-lunch": {
+  "title": "Natura di Wakarewatta e Tour della Città di Kandy in Tuk-Tuk con Pranzo Singalese",
+  "metaTitle": "Wakarewatta e Tour di Kandy in Tuk-Tuk con Pranzo",
+  "metaDescription": "Mezza giornata in tuk-tuk tra la foresta di Wakarewatta sopra Kandy e le attrazioni principali della città, con un pranzo tradizionale singalese nel mezzo.",
+  "shortDescription": "Mezza giornata in tuk-tuk che unisce la tranquilla foresta di Wakarewatta e i punti panoramici sopra Kandy con le attrazioni principali della città, e un pranzo tradizionale singalese nel mezzo.",
+  "fullDescription": "La maggior parte dei tour della città di Kandy resta sulla circonvallazione e tocca sempre le stesse quattro soste. Questo invece sale prima, verso Wakarewatta sulle colline sopra la città, dove la foresta e il tè arrivano fino alla strada e i punti panoramici guardano dritto sul lago e sui tetti del tempio.\n\nUn tuk-tuk è il veicolo giusto per questo: le strade in salita sono strette, in pendenza e piene di tornanti, ed essere aperti ai lati a quell'altezza e gran parte del piacere. Il driver e anche la guida, il che a Kandy tende a significare qualcuno di genuinamente locale che si ferma ovunque valga la pena fermarsi.\n\nIl pranzo è un vero rice and curry: sei o sette piatti serviti insieme piuttosto che uno solo, in un locale del posto piuttosto che un ristorante turistico.\n\nIl pomeriggio torna in città: il Tempio del Dente da fuori o da dentro, il lago, il mercato, e il Buddha di Bahirawakanda sulla collina se c'e tempo. E una mezza giornata che copre sia la Kandy tranquilla che quella affollata, che è più di quanto riescano a fare molti tour di una giornata intera.\n\nSe il Tempio del Dente e nella tua lista, il codice di abbigliamento è rigido: spalle e ginocchia coperte per tutti, e scarpe e cappelli si tolgono all'ingresso. La camera della reliquia apre solo durante le tre puja giornaliere, e la fila in quei momenti e lunga: il driver saprà quale di queste si inserisce meglio nella tua giornata. Il resto del percorso non ha restrizioni.",
+  "highlights": [],
+  "included": [
+   "Tuk-tuk privato con driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "Un pranzo singalese",
+   "Tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso incluso il Tempio del Dente",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "nuwara-eliya-full-day-tour-from-kandy-with-ramboda-falls-and-lunch": {
+  "title": "Tour di un'Intera Giornata a Nuwara Eliya da Kandy con Cascate Ramboda e Pranzo",
+  "metaTitle": "Tour di un Giorno a Nuwara Eliya da Kandy con Pranzo",
+  "metaDescription": "Giornata intera fino a Nuwara Eliya e ritorno da Kandy con pranzo incluso: cascate Ramboda, tempio Bhakta Hanuman, una piantagione di tè e la città coloniale.",
+  "shortDescription": "Una giornata intera fino a Nuwara Eliya e ritorno da Kandy con pranzo incluso: le cascate Ramboda, il tempio Bhakta Hanuman, una piantagione e fabbrica di tè, e la stazione collinare coloniale stessa.",
+  "fullDescription": "Nuwara Eliya è chiamata la Piccola Inghilterra, un soprannome che suona come marketing finché non ci si arriva e si trovano un ippodromo, un campo da golf, torrenti di trote, un ufficio postale in stile falso Tudor e siepi. Gli inglesi la costruirono come un luogo per fuggire dal caldo, a 1.900 metri, ed è ancora 15 gradi più fredda di qualsiasi punto sulla costa.\n\nLa salita occupa metà della giornata. La strada sale attraverso Gampola e Pussellawa, e le cascate Ramboda sono la prima sosta: un salto di 100 metri a pochi minuti a piedi dalla strada. Sopra di esse c'e il tempio Bhakta Hanuman, uno di una catena di siti del Ramayana nella regione collinare e frequentato soprattutto da pellegrini indiani piuttosto che turisti.\n\nSegue la visita a una piantagione e fabbrica di tè, che segue la foglia dal campo attraverso l'appassimento, la rullatura, l'ossidazione e la cottura fino al tavolo di selezione.\n\nA Nuwara Eliya stessa ci sono il Lago Gregory, il Victoria Park, gli edifici coloniali, e tempo per camminare. Il pranzo e incluso, il che in una giornata così lunga vale più di quanto sembri. Poi la discesa, arrivando a Kandy in serata.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "Il pranzo",
+   "Tutto il tragitto e le soste",
+   "Carburante e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso ai parchi, ai giardini o alla fabbrica",
+   "Le bevande",
+   "Le mance",
+   "Gli acquisti di tè"
+  ]
+ },
+ "kandy-to-nanu-oya-tea-country-transfer-with-ella-train-tickets-arranged": {
+  "title": "Transfer da Kandy a Nanu Oya nel Territorio del Tè con Biglietti del Treno per Ella Organizzati",
+  "metaTitle": "Transfer Kandy-Nanu Oya con Biglietti Treno Ella",
+  "metaDescription": "Transfer guidato da Kandy a Nanu Oya con cascate, una piantagione di tè e pranzo locale, con il biglietto per il treno panoramico per Ella organizzato.",
+  "shortDescription": "Un transfer guidato da Kandy attraverso il territorio del tè fino a Nanu Oya con cascate, una visita a una piantagione e un pranzo locale, concluso con il tuo biglietto organizzato per il treno panoramico fino a Ella.",
+  "fullDescription": "La parte scomoda del viaggio in treno verso Ella non è il viaggio in sé, e l'organizzazione: i posti riservati si esauriscono con un mese di anticipo, la stazione non si trova nella città che serve, e il bagaglio deve arrivare a Ella in qualche modo. Questo transfer gestisce tutte e tre le cose.\n\nLa salita da Kandy attraversa Gampola e Pussellawa, oltre le cascate Ramboda, ed entra nelle piantagioni di tè. Una visita alla piantagione comprende sia il campo che la fabbrica, che insieme spiegano a cosa serve tutta la regione collinare. Il pranzo è locale: rice and curry, in un posto dove mangia il tuo driver piuttosto che uno costruito per i pullman turistici.\n\nA Nanu Oya vieni accompagnato al treno con il biglietto già in mano, e il driver porta il tuo bagaglio fino a Ella su strada per incontrarti. Questo è il dettaglio che fa la differenza: percorri il miglior viaggio in treno del Sud Asia con solo una borsa da giorno piuttosto che una valigia, sporgendoti dalla porta insieme a tutti gli altri.\n\nIl treno da Nanu Oya a Ella impiega circa quattro ore e attraversa il ponte dei Nove Archi lungo il percorso.\n\nLe prenotazioni aprono esattamente trenta giorni prima della partenza e le carrozze riservate si esauriscono in poche ore nell'alta stagione, quindi questo funziona meglio se prenotato con un mese di anticipo. Se i posti riservati sono già finiti, la seconda e la terza classe non riservate sono sempre disponibili e sono il modo in cui viaggia la maggior parte degli sri lankesi su questa linea: starai in piedi per parte del tragitto, il che non è il disastro che sembra, ma vale la pena saperlo prima della giornata. Da Nanu Oya a Ella ci vogliono circa quattro ore.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Kandy",
+   "Tutte le soste",
+   "Un pranzo locale",
+   "I biglietti del treno organizzati",
+   "Il bagaglio portato a Ella su strada"
+  ],
+  "notIncluded": [
+   "Il costo del biglietto del treno stesso dove non indicato",
+   "I biglietti d'ingresso",
+   "Le bevande",
+   "Le mance"
+  ]
+ },
+ "kandy-to-nuwara-eliya-or-nanu-oya-transfer-with-the-ella-train": {
+  "title": "Transfer da Kandy a Nuwara Eliya o Nanu Oya con Collegamento al Treno per Ella",
+  "metaTitle": "Transfer Kandy-Nuwara Eliya con Treno per Ella",
+  "metaDescription": "Transfer guidato da Kandy nel territorio del tè con sbarco a Nuwara Eliya o a Nanu Oya, calcolato per il treno per Ella lo stesso pomeriggio.",
+  "shortDescription": "Un transfer guidato da Kandy nel territorio del tè, con sbarco a Nuwara Eliya o alla stazione di Nanu Oya, calcolato in modo da poter prendere il famoso treno per Ella lo stesso pomeriggio.",
+  "fullDescription": "Nanu Oya è la stazione per Nuwara Eliya e il punto dove la maggior parte delle persone sale sul treno per Ella, e arrivarci su strada con delle soste e meglio che restare seduti sulla lenta metà settentrionale della linea.\n\nLa salita esce da Kandy attraverso Gampola e Pussellawa, e verso metà strada la foresta lascia il posto al tè. Le cascate Ramboda sono la prima vera sosta, un salto di 100 metri a breve distanza a piedi dalla strada. Segue una fabbrica di tè in funzione, che segue la foglia attraverso l'appassimento, la rullatura, l'ossidazione e la cottura fino al tavolo di selezione: la spiegazione migliore del perché lo stesso arbusto produce sei prodotti diversi.\n\nNuwara Eliya a 1.900 metri è la stazione collinare che gli inglesi costruirono e non finirono mai del tutto di rendere inglese, con un ippodromo, un campo da golf e i giardini botanici di Hakgala pochi chilometri a sud, dove rose e felci arboree crescono insieme e le gazze blu si avvicinano ai visitatori.\n\nDove vieni lasciato è la tua scelta: al tuo hotel a Nuwara Eliya, oppure alla stazione di Nanu Oya in tempo per il treno pomeridiano per Ella.\n\nDue cose su cui vale la pena pianificare. Le fabbriche di tè chiudono nei giorni di poya, la festività mensile della luna piena, e molte restano inattive anche la domenica, quindi in quelle date la sosta in piantagione diventa il campo e la sala di selezione piuttosto che un macchinario in funzione. E Nuwara Eliya a 1.900 metri è davvero fredda una volta tramontato il sole, cosa che sorprende chi arriva lo stesso giorno dal livello del mare. Uno strato in più conta.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Kandy",
+   "Tutte le soste",
+   "Lo sbarco a Nuwara Eliya o alla stazione di Nanu Oya",
+   "Il bagaglio trasportato per tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti del treno",
+   "I biglietti d'ingresso ai giardini o alla fabbrica",
+   "I pasti e le bevande",
+   "Le mance"
+  ]
+ },
+ "nuwara-eliya-to-kandy-transfer-with-tea-plantations-and-ramboda-falls": {
+  "title": "Transfer da Nuwara Eliya a Kandy con Piantagioni di Tè e Cascate Ramboda",
+  "metaTitle": "Transfer Nuwara Eliya-Kandy con Piantagioni di Tè",
+  "metaDescription": "Transfer panoramico da Nuwara Eliya o Nanu Oya fino a Kandy, con sosta a una piantagione di tè in funzione, le cascate Ramboda e punti panoramici.",
+  "shortDescription": "Un transfer panoramico in un senso da Nuwara Eliya o dalla stazione di Nanu Oya fino a Kandy, con sosta a una piantagione di tè in funzione, le cascate Ramboda e i punti panoramici in montagna durante la discesa.",
+  "fullDescription": "Se sei appena scesa o sceso dal treno per Ella a Nanu Oya, questo è il modo di arrivare a Kandy senza sprecare il pomeriggio. Il ritiro può avvenire dalla stazione stessa, il che lo rende la continuazione naturale del viaggio in treno piuttosto che un'organizzazione separata.\n\nLa strada scende dai 1.900 metri attraverso le piantagioni, e la prima sosta e una piantagione di tè in funzione, non solo la fabbrica ma anche il campo, dove si possono osservare i raccoglitori prendere le due foglie e un germoglio da cui dipende tutto il resto. La visita alla fabbrica che segue dà senso a quello che si è appena visto: appassimento, rullatura, ossidazione, cottura, e un tavolo di selezione dove una foglia diventa sei prodotti.\n\nLe cascate Ramboda sono il punto a metà strada, un salto di 100 metri a pochi minuti a piedi dalla strada, con un tempio sopra di esse.\n\nIl resto della discesa è fatto di punti panoramici: la strada tagli il fianco della collina con la valle che si apre sotto, e ci sono due o tre posti in cui vale la pena fermarsi che un pullman oltrepasserebbe. Si arriva a Kandy nel pomeriggio.\n\nUna cosa su cui pianificare: le fabbriche di tè chiudono nei giorni di poya, la festività mensile della luna piena, e molte non fanno funzionare i macchinari nemmeno la domenica. In quelle date la visita in piantagione diventa una camminata nel campo e nella sala di selezione piuttosto che un vero tour della fabbrica, il che vale comunque la pena ma non è la stessa cosa. Comunicaci la tua data e ti diremo chiaramente cosa otterrai.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro a Nuwara Eliya o alla stazione di Nanu Oya",
+   "Tutte le soste",
+   "Riaccompagno al tuo hotel a Kandy",
+   "Il bagaglio trasportato per tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso dove previsti",
+   "I pasti e le bevande",
+   "Gli acquisti di tè",
+   "Le mance"
+  ]
+ },
+ "nuwara-eliya-to-sigiriya-guided-transfer-with-tea-estates-and-dambulla": {
+  "title": "Transfer Guidato da Nuwara Eliya a Sigiriya con Piantagioni di Tè e Dambulla",
+  "metaTitle": "Transfer Nuwara Eliya-Sigiriya con Tè e Dambulla",
+  "metaDescription": "La discesa dal tè al triangolo culturale con una fabbrica di tè, le cascate Ramboda, un giardino delle spezie a Matale e le grotte di Dambulla, fino a Sigiriya.",
+  "shortDescription": "La discesa dal territorio del tè al triangolo culturale con le soste incluse: una fabbrica di tè, le cascate Ramboda, un giardino delle spezie a Matale e i templi rupestri di Dambulla, terminando a Sigiriya.",
+  "fullDescription": "Questo è l'opposto della classica salita, e il paesaggio si svolge nell'ordine inverso: prima le piantagioni di tè, poi la discesa boscosa, poi Kandy nella sua valle, poi fuori verso la pianura della zona secca dove le rocce del triangolo culturale si alzano dalla boscaglia piatta.\n\nLa mattina inizia nelle piantagioni sopra Nuwara Eliya, con la visita a una fabbrica di tè in funzione che segue la foglia dalle vasche di appassimento attraverso la rullatura, l'ossidazione e la cottura fino al tavolo di selezione. Le cascate Ramboda seguono durante la discesa, un salto di 100 metri a breve distanza a piedi dalla strada.\n\nKandy è circa a metà strada, e la sosta qui e breve: il lago e l'esterno del Tempio del Dente, a meno che non si voglia pagare per entrare e aggiungere un'ora.\n\nSeguono i giardini delle spezie di Matale, dove cannella, cardamomo, pepe e noce moscata crescono nello stesso appezzamento, e poi Dambulla: cinque grotte scavate sotto una sporgenza di granito e dipinte dal pavimento al soffitto, con circa 150 immagini del Buddha. Da Dambulla sono quindici minuti fino a Sigiriya, dove vieni lasciato al tuo hotel con la salita alla roccia ancora davanti a te per il giorno dopo.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Nuwara Eliya",
+   "Tutte le soste",
+   "Riaccompagno al tuo hotel a Sigiriya o Dambulla",
+   "Il bagaglio trasportato per tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Dambulla e altrove",
+   "I pasti e le bevande",
+   "Gli acquisti di tè e spezie",
+   "Le mance"
+  ]
+ },
+ "sigiriya-to-nuwara-eliya-guided-transfer-via-kandy-and-the-tea-country": {
+  "title": "Transfer Guidato da Sigiriya a Nuwara Eliya via Kandy e il Territorio del Tè",
+  "metaTitle": "Transfer Sigiriya-Nuwara Eliya via Kandy",
+  "metaDescription": "Il lungo tragitto dal triangolo culturale al territorio del tè, con Dambulla, un giardino delle spezie a Matale, Kandy e le cascate Ramboda.",
+  "shortDescription": "Il lungo tragitto dal triangolo culturale al territorio del tè, con le grotte di Dambulla, un giardino delle spezie a Matale, una sosta a Kandy e le cascate Ramboda inserite nel percorso.",
+  "fullDescription": "Da Sigiriya a Nuwara Eliya si attraversa tutto il centro dell'isola: dalla pianura della zona secca, passando per Kandy nella sua valle, e salendo a 1.900 metri nelle colline del tè. Sono circa sei ore di viaggio, e farlo senza fermarsi sprecherebbe un paesaggio che cambia completamente tre volte lungo il tragitto.\n\nDambulla viene prima, quindici minuti da Sigiriya: cinque grotte sotto una sporgenza di granito, dipinte dal pavimento al soffitto. Poi Matale e i suoi giardini delle spezie, dove cannella e cardamomo crescono nello stesso appezzamento di pepe e noce moscata.\n\nKandy è circa a metà strada, e la sosta qui e breve per necessità: il lago, e il Tempio del Dente da fuori a meno che non si voglia pagare per entrare. Da Kandy la strada comincia a salire, e verso Ramboda la foresta lascia il posto al tè e resta così.\n\nLe cascate Ramboda sono l'ultima sosta importante, un salto di 100 metri a breve distanza a piedi dalla strada, prima dell'ultima salita verso Nuwara Eliya a 1.900 metri, una stazione collinare con un ippodromo, un campo da golf e notti fredde al punto da richiedere una giacca.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Sigiriya o Dambulla",
+   "Tutte le soste lungo il percorso",
+   "Riaccompagno al tuo hotel a Nuwara Eliya",
+   "Il bagaglio trasportato per tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Dambulla e ovunque altro si paghi l'ingresso",
+   "I pasti e le bevande",
+   "Le mance"
+  ]
+ },
+ "sigiriya-to-kandy-artisan-trail-transfer-with-a-family-lunch": {
+  "title": "Transfer da Sigiriya a Kandy sul Percorso degli Artigiani con Pranzo in Famiglia",
+  "metaTitle": "Transfer Sigiriya-Kandy con Artigiani e Pranzo",
+  "metaDescription": "Un transfer da Sigiriya a Kandy costruito attorno alle botteghe artigiane: le grotte di Dambulla, uno studio di batik e intaglio del legno, un pranzo in famiglia.",
+  "shortDescription": "Un transfer da Sigiriya a Kandy costruito attorno alle botteghe artigiane sulla strada: le grotte di Dambulla, uno studio di batik e intaglio del legno, e un pranzo cucinato da una famiglia locale lungo il percorso.",
+  "fullDescription": "La strada da Sigiriya a Kandy passa per Matale, che è un distretto artigiano da tanto tempo quanto Kandy è una capitale: gli intagliatori del legno, le botteghe di batik e gli ottonai fornivano la corte, e i loro discendenti lavorano ancora nelle stesse strade.\n\nQuesto transfer è costruito attorno a loro piuttosto che attorno ai monumenti. Le grotte di Dambulla vengono prima, perché sono sulla strada e vale la pena fermarsi, ma la sostanza del viaggio sono le botteghe: il batik, dove la cera viene disegnata a mano sul tessuto e il tessuto tinto attorno a essa, strato per strato, in un processo che richiede giorni per un singolo pezzo; e l'intaglio del legno, dove i motivi kandyani sono scavati nell'ebano e nel jak con strumenti manuali.\n\nIl pranzo e con una famiglia locale: rice and curry, sei o sette piatti, cucinati a casa e mangiati alla loro tavola. E la parte della giornata che le persone ricordano, ed è il motivo per cui questo transfer richiede quattro ore e mezza invece di due.\n\nSi arriva a Kandy nel primo pomeriggio con il resto della giornata libero.\n\nUna parola su cosa questo viaggio lascia deliberatamente fuori. La strada di Matale è costellata di giardini delle spezie che offrono un tour gratuito seguito da una lunga e insistente proposta di vendita di oli e balsami, e quasi ogni transfer standard si ferma in uno di questi. Questo no. Le botteghe che visiti sono locali artigianali in attività, e anche se entrambe hanno pezzi in vendita non c'e alcun obbligo né alcun copione.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Sigiriya o Dambulla",
+   "Le visite alle botteghe",
+   "Un pranzo in famiglia fatto in casa",
+   "Riaccompagno al tuo hotel a Kandy"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso a Dambulla",
+   "Le bevande oltre quelle servite con il pranzo",
+   "Gli acquisti artigianali",
+   "Le mance"
+  ]
+ },
+ "sigiriya-to-kandy-guided-transfer-with-dambulla-a-spice-garden": {
+  "title": "Transfer Guidato da Sigiriya a Kandy con Dambulla, un Giardino delle Spezie e Matale",
+  "metaTitle": "Transfer Guidato Sigiriya-Kandy con Dambulla e Matale",
+  "metaDescription": "Il tragitto da Sigiriya a Kandy con i templi rupestri di Dambulla, un giardino delle spezie a Matale, una bottega artigiana e il tempio induista.",
+  "shortDescription": "Il tragitto da Sigiriya a Kandy con le soste lungo la strada incluse: i templi rupestri di Dambulla, un giardino delle spezie a Matale, una bottega artigiana e il tempio induista, terminando al tuo hotel a Kandy.",
+  "fullDescription": "Da Sigiriya a Kandy ci sono solo 90 chilometri, e tutto quello che vale la pena fermarsi a vedere si trova direttamente sulla strada, il che rende farlo come un semplice transfer uno spreco di una mattinata.\n\nDambulla è a quindici minuti da Sigiriya ed e l'ovvia prima sosta: cinque grotte sotto una sporgenza di granito, dipinte senza interruzione per duemila anni, con circa 150 immagini del Buddha. Il sentiero d'accesso e in salita e le grotte sono fresche in cima.\n\nMatale, a metà strada per Kandy, è territorio delle spezie. I giardini qui coltivano cannella, cardamomo, pepe, noce moscata e vaniglia nello stesso appezzamento, e una camminata guidata in uno di essi rende evidenti le differenze in un modo che nessuna descrizione riesce a fare. Il tempio Sri Muthumariamman in città è un tempio induista con un gopuram coperto di figure dipinte, inusuale su un'isola dove i siti buddhisti attirano l'attenzione, e le botteghe di intaglio del legno e batik nelle vicinanze sono lì da generazioni.\n\nSi arriva a Kandy nel pomeriggio con le visite della giornata già fatte e la serata libera per la puja al Tempio del Dente.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Sigiriya, Dambulla o Habarana",
+   "Tutte le soste lungo il percorso",
+   "Riaccompagno al tuo hotel a Kandy",
+   "Il bagaglio trasportato per tutto il tragitto"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso a Dambulla",
+   "I pasti e le bevande",
+   "Gli acquisti di spezie o artigianato",
+   "Le mance"
+  ]
+ },
+ "ella-to-kandy-transfer-with-the-hill-country-train-ride-and-nuwara-eliya": {
+  "title": "Transfer da Ella a Kandy con il Viaggio in Treno sulle Colline e Nuwara Eliya",
+  "metaTitle": "Transfer Ella-Kandy con Treno sulle Colline",
+  "metaDescription": "Ella a Kandy con il treno in collina incluso: percorri il tratto panoramico in treno, poi continua su strada via Nuwara Eliya e le cascate Ramboda.",
+  "shortDescription": "Ella a Kandy con il famoso treno in collina inserito nel transfer: percorri il tratto panoramico in treno mentre il driver porta il bagaglio, poi continua su strada via Nuwara Eliya e le cascate Ramboda.",
+  "fullDescription": "La ferrovia da Ella a Nanu Oya è il miglior viaggio in treno del Sud Asia e l'errore più comune che si commette e trattarla come un trasporto. E lenta, e spesso piena, e va verso una stazione piuttosto che verso una città, ma per due o quattro ore corre lungo i profili del territorio del tè più alto dell'isola, attraversando il ponte dei Nove Archi all'uscita da Ella, con le porte aperte e la valle che si apre sotto.\n\nQuesto transfer risolve il problema pratico. Percorri il tratto panoramico senza bagagli mentre il driver li porta su strada e ti incontra a Nanu Oya. Da lì la giornata continua come un normale transfer guidato: il Lago Gregory è il centro coloniale di Nuwara Eliya, una fabbrica di tè, e le cascate Ramboda durante la discesa, prima di arrivare a Kandy in serata.\n\nE il meglio delle due cose: il viaggio senza la logistica, e le soste che un treno non può fare.\n\nDue note pratiche. I posti riservati aprono trenta giorni prima della partenza e le carrozze riservate si esauriscono davvero, quindi più presto si prenota, migliore sarà il posto; la seconda e la terza classe non riservate sono sempre disponibili ma significano stare in piedi. E Nuwara Eliya si trova a 1.900 metri: fa freddo nel tardo pomeriggio e più freddo la sera, cosa che sorprende quasi tutti quelli che arrivano dalla costa. Porta uno strato in più.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Ella",
+   "Il tratto su strada con tutte le sue soste",
+   "Riaccompagno al tuo hotel a Kandy",
+   "Il bagaglio trasportato su strada per tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti del treno, acquistati separatamente e soggetti a disponibilità",
+   "I pasti e le bevande",
+   "I biglietti d'ingresso",
+   "Le mance"
+  ]
+ },
+ "ella-to-kandy-guided-transfer-with-nuwara-eliya-ramboda-falls": {
+  "title": "Transfer Guidato da Ella a Kandy con Nuwara Eliya, Cascate Ramboda e Peradeniya",
+  "metaTitle": "Transfer Ella-Kandy con Nuwara Eliya e Peradeniya",
+  "metaDescription": "Il tragitto da Ella a Kandy come una giornata di visite: Nuwara Eliya e il Lago Gregory, le cascate Ramboda, una fabbrica di tè e i giardini botanici di Peradeniya.",
+  "shortDescription": "Il tragitto da Ella a Kandy trasformato in una giornata di visite: Nuwara Eliya e il Lago Gregory, le cascate Ramboda, una fabbrica di tè e i giardini botanici di Peradeniya, con riaccompagno al tuo hotel a Kandy.",
+  "fullDescription": "Scendere da Ella a Kandy è la stessa strada della salita, al contrario, ed è altrettanto bella in questa direzione, forse persino meglio, perché si scende attraverso il territorio del tè nella luce del mattino piuttosto che salire nelle nuvole del pomeriggio.\n\nIl percorso va prima a Nuwara Eliya, la stazione collinare a 1.900 metri che gli inglesi costruirono e non finirono mai del tutto di rendere inglese: un ippodromo, un campo da golf, torrenti di trote e un ufficio postale in stile falso Tudor. Il Lago Gregory e al centro di tutto e vale una camminata.\n\nLe cascate Ramboda arrivano durante la discesa, un salto di 100 metri a pochi minuti a piedi dalla strada, e sopra di esse le piantagioni di tè continuano senza interruzione. Una visita a una fabbrica in funzione segue la foglia attraverso l'appassimento, la rullatura, l'ossidazione e la cottura fino al tavolo di selezione.\n\nL'ultima sosta prima di Kandy sono i Giardini Botanici Reali di Peradeniya: 60 ettari dentro un'ansa del fiume Mahaweli, con il viale delle palme, la casa delle orchidee e il grande fico giavanese. Poi sono quindici minuti fino a Kandy e al tuo hotel.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Ella",
+   "Tutte le soste lungo il percorso",
+   "Riaccompagno al tuo hotel a Kandy",
+   "Carburante e parcheggio",
+   "Il bagaglio trasportato per tutto il tragitto"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso ai giardini botanici e a qualsiasi sito a pagamento",
+   "I pasti e le bevande",
+   "Gli acquisti di tè",
+   "Le mance"
+  ]
+ },
+ "sigiriya-and-dambulla-group-day-tour-from-kandy-with-an-elephant-safari": {
+  "title": "Tour di Gruppo di un Giorno a Sigiriya e Dambulla da Kandy con Safari degli Elefanti",
+  "metaTitle": "Tour di Gruppo Sigiriya e Dambulla da Kandy",
+  "metaDescription": "La versione in gruppo della giornata del triangolo culturale da Kandy: tempio di Matale, giardino delle spezie, grotte di Dambulla, Sigiriya e safari per elefanti.",
+  "shortDescription": "La versione in gruppo condiviso della giornata del triangolo culturale da Kandy: il tempio induista di Matale, un giardino delle spezie, una bottega di intaglio del legno, le grotte di Dambulla e Sigiriya, chiusa da un safari in jeep per gli elefanti.",
+  "fullDescription": "Questa e la versione di gruppo della grande giornata fuori da Kandy, e il prezzo lo riflette: si condivide un furgone con fino a una dozzina di altre persone, il che riduce il costo a una frazione dell'equivalente privato per lo stesso itinerario.\n\nLa mattina corre a nord attraverso Matale, con una sosta al tempio induista Sri Muthumariamman con il suo gopuram dipinto, un giardino delle spezie dove cannella e cardamomo crescono nello stesso appezzamento, e una bottega di intaglio del legno del tipo che Matale ha avuto per generazioni.\n\nSeguono le cinque grotte di Dambulla, dipinte dal pavimento al soffitto, con circa 150 immagini del Buddha, fresche dopo il viaggio. Poi Sigiriya, la cittadella del quinto secolo sulla roccia, con i giardini d'acqua, gli affreschi del muro degli specchi e la cima.\n\nIl safari chiude la giornata. Il tardo pomeriggio a Minneriya o in un parco vicino è quando gli elefanti scendono verso il bacino, e nella stagione secca il raduno lì è una delle concentrazioni più grandi di elefanti asiatici selvatici ovunque.\n\nUn tour di gruppo significa orari fissi e attese per il più lento ad arrampicarsi, che è il compromesso onesto per il prezzo. Se questo conta, le versioni private di questa stessa giornata sono anch'esse disponibili.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Furgone condiviso con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "La jeep da safari",
+   "Tutto il tragitto tra i siti"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla e il permesso del parco nazionale",
+   "I pasti e le bevande",
+   "Le mance",
+   "Gli acquisti alla bottega"
+  ]
+ },
+ "sigiriya-dambulla-and-anuradhapura-three-site-day-tour-from-kandy": {
+  "title": "Sigiriya, Dambulla e Anuradhapura: Tour di un Giorno su Tre Siti da Kandy",
+  "metaTitle": "Sigiriya, Dambulla e Anuradhapura da Kandy",
+  "metaDescription": "La giornata più ambiziosa del triangolo culturale da Kandy: Sigiriya all'alba, le grotte di Dambulla, e Anuradhapura, capitale dell'isola per oltre mille anni.",
+  "shortDescription": "La giornata più ambiziosa del triangolo culturale da Kandy: la roccia di Sigiriya all'alba, le grotte di Dambulla, e Anuradhapura, capitale dell'isola per oltre mille anni e ancora una città di pellegrinaggio attiva.",
+  "fullDescription": "Tre siti UNESCO in tredici ore è un'impresa seria e questo viaggio è onesto sull'essere una giornata lunga. Quello che la giustifica e che Anuradhapura e davvero diversa dagli altri due siti, e la maggior parte dei visitatori non ci arriva mai.\n\nSigiriya apre la giornata all'alba: la cittadella sulla roccia, i giardini d'acqua, gli affreschi. Segue Dambulla, cinque grotte dipinte sotto una sporgenza, fresche e buie dopo la salita.\n\nAnuradhapura è il motivo delle ore extra. Fu la capitale dal quarto secolo avanti Cristo per oltre mille anni, ed è distesa su quaranta chilometri quadrati di foresta e territorio dei bacini. Il dagoba Ruwanwelisaya è alto 103 metri ed è ancora imbiancato e in uso. Il Jetavanaramaya era, quando fu costruito, la terza struttura più alta della terra dopo due delle piramidi egizie. E il Sri Maha Bodhi crebbe da una talea dell'albero sotto cui sedeva il Buddha, portata qui nel terzo secolo avanti Cristo: l'albero piantato più antico al mondo con un documento scritto, custodito senza interruzione per oltre duemila anni.\n\nQuest'ultimo dettaglio è la differenza tra Anuradhapura e gli altri siti. Sigiriya è una rovina. Anuradhapura e un luogo dove le persone vengono ancora a pregare.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "La guida ai siti",
+   "Tutto il tragitto",
+   "Carburante e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya, Dambulla e Anuradhapura",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Esperienza di flyboard a Pattaya",
   "metaTitle": "Esperienza di flyboard a Pattaya",
