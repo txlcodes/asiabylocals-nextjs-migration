@@ -1834,6 +1834,74 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-soviet-underworld-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Soviet Underworld Walking Tour Worth It in Tbilisi?",
+                description: "An honest look at the Soviet Underworld walking tour in Tbilisi, exploring the city's Soviet-era underground spaces.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48384c46442cda589647b54470248fdae0d6757933348d5805d6742e1f73ee4b.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Tbilisi has genuine Soviet-era underground spaces, from bunkers to hidden passages, that most standard Old Town walking tours never cover, giving this a distinctly different historical angle than the city's churches and architecture tours.", tourCard: { slug: "tbilisi-soviet-underworld-walking-tour", title: "Tbilisi: Soviet Underworld Walking Tour", description: "A guided walking tour of Tbilisi's Soviet-era underground spaces.", price: "From $29", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/48384c46442cda589647b54470248fdae0d6757933348d5805d6742e1f73ee4b.jpeg" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes and dress in layers — underground spaces can be cooler than the streets above." }
+                ],
+                faqs: [
+                    { q: "Is the Soviet Underworld walking tour worth it in Tbilisi?", a: "Yes, for a genuinely distinct historical angle most standard Old Town tours don't cover." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Soviet Underworld tour worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a distinct Soviet-era historical angle not covered by standard Old Town tours." } }
+                ] },
+            };
+
+        case "is-khinkali-workshop-worth-it-tbilisi":
+            return {
+                title: "Is the Khinkali Making Workshop Worth It in Tbilisi?",
+                description: "An honest look at the Khinkali making workshop with tasting in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c6c058086a4dda792671c1b843e38242268bb0e8ac94017092fbfc8b699336bf.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khinkali, Georgia's signature soup dumplings, require a genuine hand-pleating technique to seal in the broth, and learning it hands-on is a distinctly different culinary skill from the city's khachapuri-focused food tours.", tourCard: { slug: "tbilisi-khinkali-making-workshop-with-tasting", title: "Tbilisi: Khinkali Making Workshop with Tasting", description: "A hands-on khinkali (Georgian dumpling) making workshop with tasting.", price: "From $39", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c6c058086a4dda792671c1b843e38242268bb0e8ac94017092fbfc8b699336bf.jpg" } },
+                    { title: "Practical Tips", content: "Learn the proper pleating technique for sealing in the broth — it's the genuine skill that separates a good khinkali from a leaky one." }
+                ],
+                faqs: [
+                    { q: "Is the khinkali making workshop worth it in Tbilisi?", a: "Yes, it's a distinctly different hands-on culinary skill from the city's khachapuri-focused food tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the khinkali making workshop worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a distinct hands-on culinary skill beyond the city's khachapuri-focused food tours." } }
+                ] },
+            };
+
+        case "is-stalin-printing-house-tour-worth-it-tbilisi":
+            return {
+                title: "Is J. Stalin's Underground Printing-House Museum Tour Worth It in Tbilisi?",
+                description: "An honest look at the museum tour of Joseph Stalin's secret underground printing house in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a473cc6df559875155db8a803928bc46a07ed720c860c6869d886a9354bb2f09.png",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuinely unusual historical site — the actual secret underground press young Stalin used to print revolutionary propaganda before rising to power, a niche but real piece of history distinct from the Gori Stalin Museum's broader biographical focus.", tourCard: { slug: "j-stalins-underground-printing-house-museum-tour", title: "J. Stalin's Underground Printing-House Museum Tour", description: "A museum tour of Stalin's secret underground printing house in Tbilisi.", price: "From $38", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a473cc6df559875155db8a803928bc46a07ed720c860c6869d886a9354bb2f09.png" } },
+                    { title: "Practical Tips", content: "A short, focused visit — pair it with another nearby Old Town activity to make a fuller afternoon." }
+                ],
+                faqs: [
+                    { q: "Is Stalin's underground printing house worth it in Tbilisi?", a: "Yes, for a genuinely unusual, specific piece of history distinct from the broader Gori Stalin Museum." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Stalin printing house tour worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely unusual, specific piece of history distinct from the broader Gori Stalin Museum." } }
+                ] },
+            };
+
+        case "is-park-of-achievements-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Park of Achievements of Nations Walking Tour Worth It in Tbilisi?",
+                description: "An honest look at the Park of Achievements of Nations walking tour in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/514222214c7125dde28d49ead1dfa8691b884446d078b29eb7efbcba11c70c97.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This lesser-known park offers a quieter, local-life walking route distinct from the city's main Old Town monument circuit, worth it specifically for travelers who want to see a side of Tbilisi beyond the usual tourist stops.", tourCard: { slug: "tbilisi-park-of-achievements-of-nations-walking", title: "Tbilisi: Park of Achievements of Nations Walking Tour", description: "A walking tour of the Park of Achievements of Nations in Tbilisi.", price: "From $28", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/514222214c7125dde28d49ead1dfa8691b884446d078b29eb7efbcba11c70c97.jpg" } },
+                    { title: "Practical Tips", content: "A good lower-key pick for a rest day, after a few days of the city's more monument-dense walking tours." }
+                ],
+                faqs: [
+                    { q: "Is the Park of Achievements of Nations tour worth it in Tbilisi?", a: "Yes, for a quieter, local-life side of Tbilisi distinct from the main Old Town monument circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Park of Achievements of Nations tour worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quieter, local side of the city distinct from the main monument circuit." } }
+                ] },
+            };
+
         default:
             return null;
     }
