@@ -111384,6 +111384,605 @@ export const IT_TOURS: Record<string, TourT> = {
    "L'assicurazione di viaggio"
   ]
  },
+ "mirissa-whale-dolphin-watching-boat-trip-breakfast": {
+  "title": "Avvistamento Balene e Delfini in Barca a Mirissa con Colazione",
+  "metaTitle": "Avvistamento Balene e Delfini a Mirissa con Colazione",
+  "metaDescription": "Un'uscita in barca all'alba da Mirissa in cerca di balenottere azzurre, delfini e tartarughe, con colazione e tè a bordo e ritiro gratuito entro circa 4 km.",
+  "shortDescription": "Un'uscita in barca di prima mattina dal porto di Mirissa in cerca di balenottere azzurre, delfini dai lunghi musi e tartarughe, con colazione e tè serviti a bordo e ritiro gratuito entro circa 4 km.",
+  "fullDescription": "La piattaforma continentale scende inusualmente vicino alla costa al largo di Mirissa, ed è per questo che le specie di acque profonde si avvicinano abbastanza da poter essere raggiunte in una mattinata. Le balenottere azzurre si nutrono in queste acque, insieme a capodogli, balenottere di Bryde e grandi gruppi di delfini dai lunghi musi, e le tartarughe emergono regolarmente durante il tragitto. È uno dei luoghi più affidabili al mondo per vedere il più grande animale che sia mai esistito.\n\nLe barche lasciano il porto alle prime luci, quando il mare è più calmo e i soffi sono più facili da individuare contro l'orizzonte. L'equipaggio lavora queste acque da anni e legge gli uccelli e la superficie quasi quanto il GPS. Gli avvistamenti non sono mai garantiti, perché si tratta di animali selvatici in mare aperto, ma l'equipaggio continuerà a cercare per tutta la durata dell'uscita invece di tornare indietro al primo orario possibile.\n\nSi resta in mare per circa due o quattro ore, in base a dove si trovano gli animali quella mattina. Colazione e tè sono serviti a bordo, cosa che conta più di quanto sembri quando si è partiti prima dell'alba. I giubbotti di salvataggio sono forniti e l'equipaggio tiene un briefing di sicurezza prima della partenza.\n\nEsiste un galateo che gli operatori responsabili seguono: avvicinarsi da dietro e di lato, mantenere i motori stabili e non tagliare la rotta di una balena. Se l'equipaggio si tiene a distanza da un avvistamento, è per questo.\n\nLa stagione conta. La costa meridionale è al suo meglio per l'avvistamento delle balene circa da novembre ad aprile, quando il mare è più calmo e gli avvistamenti più frequenti; durante il monsone sudoccidentale il mare è più agitato e le uscite vengono annullate più spesso. Se sei soggetto al mal di mare, prendi qualcosa la sera prima oltre che la mattina stessa: il moto ondoso al largo è reale, e un passeggero con la nausea non vede nulla.",
+  "highlights": [],
+  "included": [
+   "Uscita in barca di circa due o quattro ore",
+   "Equipaggio esperto e vedette",
+   "Colazione e tè a bordo",
+   "Giubbotti di salvataggio e briefing di sicurezza",
+   "Ritiro gratuito entro circa 4 km da Mirissa"
+  ],
+  "notIncluded": [
+   "I trasferimenti da fuori la zona di ritiro di Mirissa",
+   "Le bevande alcoliche",
+   "I farmaci contro il mal di mare",
+   "Gli asciugamani",
+   "Le mance",
+   "L'assicurazione di viaggio personale"
+  ]
+ },
+ "negombo-colombo-city-tour-tuk-tuk": {
+  "title": "Tour di Negombo e Colombo in Tuk Tuk",
+  "metaTitle": "Tour di Negombo e Colombo in Tuk Tuk",
+  "metaDescription": "Sei ore tra Negombo e Colombo sul sedile di un tuk tuk, tra la città di pescatori, i mercati e i templi della capitale e le strade dello shopping.",
+  "shortDescription": "Sei ore tra Negombo e Colombo sul sedile di un tuk tuk, tra la città di pescatori, i mercati e i templi della capitale e le strade dello shopping in mezzo.",
+  "fullDescription": "Questo è un tour in tuk tuk, e vale la pena dirlo chiaramente: tre ruote, lati aperti, niente porte e niente aria condizionata. È anche il motivo per farlo. Ti sposti a livello della strada, con i rumori e gli odori di due città molto diverse che ti passano davanti, e il driver può svoltare in vicoli che un'auto non tenterebbe mai.\n\nPrima viene Negombo. È una città di pescatori con una lunga storia cattolica, un'eredità del dominio portoghese che si vede ancora nelle chiese, nei nomi dei santi sulle barche e nelle cappelle agli incroci. La laguna e il vecchio canale olandese la attraversano, il mercato del pesce sulla spiaggia lavora intensamente al mattino, e c'è la possibilità di una breve uscita in barca sull'acqua se la vuoi.\n\nPoi ci si dirige a sud verso Colombo, una città che fu porto portoghese, poi olandese, poi britannico, e porta ancora i segni di tutti e tre. A Fort, le banche e i magazzini dell'epoca coloniale si affiancano alle nuove torri, e il Dutch Hospital, l'edificio più antico del quartiere, è stato trasformato in una corte di ristoranti e negozi. Pettah, lì accanto, è l'opposto in tutto: una griglia di strade coperte dove ognuna commercia in una sola cosa, e la moschea a strisce rosse e bianche Jami Ul-Alfar del 1908 si erge nel mezzo.\n\nC'è tempo anche per gli altri punti fermi: il Tempio Gangaramaya con il suo mix di stili singalese, thailandese, indiano e cinese, Independence Square, dove si commemora il passaggio di poteri del 1948, e Galle Face Green, la passeggiata coloniale dove i carretti di isso wade compaiono quando cala la luce.\n\nLo shopping è parte integrante della giornata, quindi se vuoi tè, spezie, batik o pietre preziose, dillo al driver e ti porterà nella strada giusta invece che alla fermata più vicina con la commissione più alta.",
+  "highlights": [],
+  "included": [
+   "Tuk tuk privato con driver in lingua inglese per sei ore",
+   "Ritiro e riaccompagno in hotel a Negombo",
+   "Carburante e parcheggio",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le offerte d'ingresso ai templi",
+   "La tariffa della barca sulla laguna di Negombo se scelta come opzione",
+   "Lo shopping",
+   "Le mance"
+  ]
+ },
+ "negombo-day-trip-colombo-dutch-fort-canals-seafood-lunch": {
+  "title": "Gita a Negombo da Colombo: Forte Olandese, Canali e Pranzo di Pesce",
+  "metaTitle": "Gita a Negombo da Colombo con Pranzo di Pesce",
+  "metaDescription": "Una gita guidata da Colombo a Negombo: il forte olandese del Seicento, il vecchio canale, le chiese barocche e il mercato del pesce, con pranzo di pesce sul mare.",
+  "shortDescription": "Una gita guidata da Colombo a Negombo, tra le rovine del forte olandese del Seicento, il vecchio canale, le chiese barocche e il mercato del pesce sulla spiaggia, con un pranzo di pesce sul mare.",
+  "fullDescription": "Negombo si trova a soli circa quaranta chilometri a nord di Colombo, e la maggior parte dei viaggiatori la vede per una notte prima o dopo un volo. Questa gita la tratta invece come una destinazione a sé, dedicandole una giornata intera.\n\nLa forma della città deriva dalla sua storia coloniale. I portoghesi arrivarono per primi e lasciarono una popolazione di pescatori profondamente cattolica, motivo per cui le chiese qui sono barocche, le barche portano nomi di santi e le cappelle lungo la strada superano i templi per numero. Gli olandesi presero il controllo negli anni 1640 per il commercio della cannella e costruirono il forte, di cui restano la porta e alcuni tratti di muro, insieme al sistema di canali che corre a nord da Colombo e che veniva usato per trasportare cannella e spezie verso il porto.\n\nSi cammina tra i resti del forte con una guida che spiega cosa si trovava dove, poi si segue il canale, ancora costeggiato da barche da pesca e attraversato da ponti bassi. Il corso d'acqua di epoca olandese è una parte viva della città, non un monumento conservato, e ne guadagna.\n\nIl mercato del pesce sulla spiaggia è l'altra metà della giornata. Il pescato arriva sulle barche a bilanciere, viene selezionato sulla sabbia, e gran parte viene steso a seccare al sole: l'odore arriva prima di te. È rumoroso, bagnato e del tutto autentico.\n\nIl pranzo è a base di pesce, consumato accanto all'Oceano Indiano: granchio, gamberi, seppia o il pescato del giorno, cucinati in modo semplice o in un curry singalese con cocco e pepe. Il viaggio in auto dura circa un'ora in ciascuna direzione, quindi la giornata arriva a circa dieci ore in totale, con buona parte del tempo trascorsa davvero a Negombo e non sulla strada.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e guida in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Camminate guidate al forte, al canale e al mercato del pesce",
+   "Carburante, pedaggi e parcheggio",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Il pranzo di pesce e le bevande",
+   "Le offerte d'ingresso alle chiese o ai siti",
+   "L'eventuale giro in barca sulla laguna",
+   "Le mance"
+  ]
+ },
+ "negombo-lagoon-boat-trip-monkey-island": {
+  "title": "Gita in Barca sulla Laguna di Negombo all'Isola delle Scimmie",
+  "metaTitle": "Gita in Barca alla Laguna di Negombo e Isola delle Scimmie",
+  "metaDescription": "Una breve uscita privata in barca sulla laguna di Negombo verso l'isola di mangrovie dove vivono i gruppi di macachi, tra barche da pesca e uccelli.",
+  "shortDescription": "Una breve uscita privata in barca sulla laguna di Negombo verso l'isola di mangrovie dove vivono i gruppi di macachi, tra barche da pesca e uccelli lungo il percorso.",
+  "fullDescription": "La laguna di Negombo è un'ampia distesa d'acqua salmastra e poco profonda dietro la città, orlata di mangrovie e lavorata da pescatori con metodi che non sono cambiati molto in generazioni. Questa è un'uscita in barca di due ore sulla laguna verso l'isola di mangrovie conosciuta localmente come Isola delle Scimmie, dove vivono gruppi di macachi sugli alberi lungo la riva.\n\nSi parte dal molo su una piccola barca, attraversando prima l'acqua aperta, oltre le barche a bilanciere e le reti fisse che i pescatori della laguna usano ancora. Martin pescatori, garzette e aironi lavorano nelle acque basse, e i cormorani si posano sui pali. Il barcaiolo sa dove si raccolgono gli uccelli e rallenta per loro.\n\nL'isola stessa è una densa foresta di mangrovie, e le scimmie scendono verso la riva quando una barca si avvicina. Osservarle dall'acqua è il punto: sono animali selvatici, veloci, e prenderanno qualsiasi cosa lasciata incustodita in una mano aperta o in una borsa non chiusa. Non vanno nutrite e telefoni e occhiali da sole vanno tenuti al sicuro.\n\nAl ritorno il percorso attraversa di solito alcuni dei canali di mangrovie più stretti, dove le radici si inarcano sull'acqua e il rumore della città sparisce completamente. È la parte più tranquilla dell'uscita e la migliore per le fotografie.\n\nDue ore bastano. Questa è un'uscita breve e rilassata, non un'escursione completa, e funziona bene come aggiunta al mattino o nel tardo pomeriggio di una giornata a Negombo, quando la luce è bassa e gli uccelli sono più attivi.",
+  "highlights": [],
+  "included": [
+   "Barca privata con barcaiolo locale per circa due ore",
+   "Giubbotti di salvataggio",
+   "Percorso nella laguna e nei canali di mangrovie fino all'isola"
+  ],
+  "notIncluded": [
+   "I trasferimenti in hotel da e per il molo",
+   "I pasti e le bevande",
+   "Le mance",
+   "L'assicurazione personale"
+  ]
+ },
+ "negombo-lagoon-mangrove-boat-excursion-dutch-canal-fish-market": {
+  "title": "Escursione in Barca sulla Laguna e le Mangrovie di Negombo con Canale Olandese e Mercato del Pesce",
+  "metaTitle": "Escursione sulla Laguna di Negombo con Canale e Mercato",
+  "metaDescription": "Un'escursione in barca sulla laguna e le mangrovie di Negombo, tra pescatori con le reti e il vecchio canale olandese, con sosta al mercato del pesce.",
+  "shortDescription": "Un'escursione in barca attraverso la laguna e le mangrovie di Negombo e il vecchio canale olandese, osservando i pescatori con le reti al lavoro, seguita da una breve sosta al mercato del pesce della città.",
+  "fullDescription": "La laguna di Negombo e il canale che vi confluisce sono il cuore produttivo della città. Gli olandesi scavarono il canale nel Seicento per trasportare la cannella verso sud, in direzione di Colombo; i pescatori erano qui ben prima e ci sono ancora, gettando le reti da barche di legno basse in acque raramente più profonde di un paio di metri.\n\nSi viene ritirati in hotel con un tuk tuk per il breve tragitto verso l'acqua, poi si passano circa due ore su una barca che si muove lentamente abbastanza da permettere di osservare davvero. Il percorso attraversa la laguna aperta e si infila nei canali di mangrovie, dove le radici crescono sopra l'acqua e i rami si chiudono in alto. Questo è un vivaio naturale: pesci giovani, granchi e gamberi si rifugiano tra le radici, ed è proprio per questo che la pesca qui ha resistito nel tempo.\n\nLa fauna aviaria è una costante. I martin pescatori restano fermi sui rami, garzette e aironi battono i margini, i cormorani asciugano le ali sui pali, e le aquile lavorano in alto. I varani scivolano via dalle sponde al passaggio della barca. Il barcaiolo spegne il motore dove vale la pena restare in silenzio.\n\nSi passa anche davanti al canale olandese stesso, ancora costeggiato da barche e usato ogni giorno piuttosto che conservato come monumento, con una breve sosta al mercato del pesce di Negombo, dove il pescato del mattino viene selezionato sulla sabbia e buona parte steso a seccare.\n\nÈ un'uscita tranquilla più che un'avventura: l'attrattiva sono la quiete, gli uccelli e vedere una laguna al lavoro dall'acqua. Il primo mattino e il tardo pomeriggio sono notevolmente migliori sia per la fauna che per la luce.",
+  "highlights": [],
+  "included": [
+   "Trasferimento in tuk tuk dal tuo hotel a Negombo fino al molo e ritorno",
+   "Escursione in barca di circa due ore con un barcaiolo locale",
+   "Giubbotti di salvataggio",
+   "Sosta al canale olandese e al mercato del pesce",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "L'assicurazione personale",
+   "Qualsiasi cosa non elencata come inclusa"
+  ]
+ },
+ "nuwara-eliya-kandy-sightseeing-transfer": {
+  "title": "Trasferimento Panoramico da Nuwara Eliya a Kandy",
+  "metaTitle": "Trasferimento Panoramico da Nuwara Eliya a Kandy",
+  "metaDescription": "Un trasferimento panoramico di sola andata da Nuwara Eliya a Kandy, con soste tra le colline per piantagioni di tè, cascate e punti panoramici.",
+  "shortDescription": "Un trasferimento panoramico di sola andata dalle colline di Nuwara Eliya a Kandy, con soste sulla strada per piantagioni di tè, cascate e punti panoramici invece di una guida diretta.",
+  "fullDescription": "Questo è un trasferimento e non un tour che ti riporta dove è partito, ed è proprio questa la sua utilità. Se ti stai spostando dalle colline verso Kandy comunque, questo trasforma una strada che altrimenti dormiresti nel punto forte della giornata.\n\nLa A5 tra Nuwara Eliya e Kandy è una delle strade migliori dello Sri Lanka. Parte da Nuwara Eliya a circa 1.900 metri, dove i britannici piantarono la loro stazione montana e dove il clima sostiene ancora le verdure da clima fresco e le rose che fanno sembrare la città quasi trapiantata, poi scende attraverso la fascia del tè in una lunga serie di tornanti.\n\nIl tè è il motivo per cui questa strada esiste. Dopo che un parassita del caffè distrusse le piantagioni precedenti negli anni 1870, gli altopiani furono ripiantati con il tè, e le piantagioni lungo questo percorso lavorano ancora gli stessi pendii. Una visita a una fabbrica lungo il tragitto spiega appassimento, rullatura, ossidazione e tostatura, e termina con una degustazione; è una delle poche soste in piantagione nel paese davvero istruttiva e non solo un negozio con vista.\n\nLe Cascate di Ramboda scendono in due salti accanto alla strada a metà della discesa e sono una sosta facile, così come l'area del Lago Gregory se c'è tempo prima di partire da Nuwara Eliya. Il tempio induista a Ramboda e alcuni punti panoramici sulle valli completano il resto.\n\nSi viene lasciati al proprio hotel a Kandy alla fine. Circa sei ore coprono il viaggio più le soste, e il driver può modificare quali farne. Porta strati caldi per la partenza: le mattine a Nuwara Eliya sono davvero fredde per gli standard dello Sri Lanka.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in lingua inglese",
+   "Ritiro in hotel a Nuwara Eliya e riaccompagno a Kandy",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso alla fabbrica di tè e ai siti",
+   "I pasti e le bevande",
+   "Le mance",
+   "L'alloggio",
+   "Le spese personali"
+  ]
+ },
+ "nuwara-eliya-tea-country-day-trip-colombo-high-tea": {
+  "title": "Gita tra le Piantagioni di Tè di Nuwara Eliya da Colombo con High Tea",
+  "metaTitle": "Nuwara Eliya e le Piantagioni di Tè da Colombo con High Tea",
+  "metaDescription": "Una lunga giornata da Colombo tra una piantagione di tè in funzione, una gita in barca sul Lago Gregory e l'high tea al Grand Hotel di Nuwara Eliya.",
+  "shortDescription": "Una lunga giornata da Colombo verso le colline per camminare in una piantagione di tè in funzione, una gita in barca sul Lago Gregory e l'high tea al Grand Hotel di Nuwara Eliya.",
+  "fullDescription": "Nuwara Eliya si trova a circa 1.900 metri, e la salita per arrivarci è gran parte di ciò che si paga. La strada lascia la pianura costiera, sale attraverso Kadugannawa o Hatton secondo il percorso scelto, e il paesaggio cambia man mano: le risaie lasciano il posto alla gomma, la gomma al tè, e l'aria si raffredda fino a rendere necessaria una giacca in un paese dove nessuno la porta mai. Le cascate compaiono accanto alla strada per gran parte dell'ultima ora.\n\nLa città fu costruita dai britannici come rifugio dalla stagione calda e ne conserva ancora l'aspetto: un ippodromo, un campo da golf, villette in stile Tudor finto e un ufficio postale che non sarebbe fuori luogo nelle campagne inglesi. La sosta al Grand Hotel per l'high tea si inserisce in quella storia: l'edificio era la residenza di un governatore prima di diventare un hotel.\n\nPrima di questo si visita una fabbrica di tè in funzione. Il tè arrivò a Ceylon dopo che un parassita del caffè distrusse le piantagioni precedenti negli anni 1870, e gli altopiani furono ripiantati quasi del tutto con il tè. All'interno si segue la foglia dalle vasche di appassimento attraverso rullatura, ossidazione, tostatura e selezione, e si assaggia il risultato finale.\n\nIl Lago Gregory occupa la valle sotto la città. Realizzato con una diga sotto il governatore Gregory negli anni 1870, è oggi dove Nuwara Eliya passa i fine settimana: barche sull'acqua, cavalli lungo la riva, bancarelle di cibo intorno. Si dispone di circa un'ora lì.\n\nQuesta è una giornata di quindici ore e non c'è modo di renderla più breve. Circa dieci di quelle ore sono passate in auto, divise tra la salita e la discesa verso la costa nel buio. Il paesaggio vale lo sforzo e il driver si ferma dove ha senso, ma vale la pena prenotare sapendo che si partirà nella notte e si tornerà tardi. Se è possibile fermarsi una notte tra le colline invece, quella è la gita migliore: questa è per chi non può.",
+  "highlights": [],
+  "included": [
+   "Auto con aria condizionata e driver-guida in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo o Negombo",
+   "Visita e degustazione alla fabbrica di tè",
+   "High tea al Grand Hotel",
+   "Rinfresco di benvenuto",
+   "Gita in barca sul Lago Gregory"
+  ],
+  "notIncluded": [
+   "Il pranzo e gli altri pasti",
+   "I biglietti d'ingresso non specificati sopra",
+   "L'equitazione e le altre attività facoltative al Lago Gregory",
+   "Lo shopping",
+   "Le mance"
+  ]
+ },
+ "private-car-transfer-kandy-ella-mirissa-colombo-beyond": {
+  "title": "Trasferimento Privato in Auto da Kandy a Ella, Mirissa, Colombo e Oltre",
+  "metaTitle": "Trasferimento Privato in Auto da Kandy a Ella, Mirissa e Oltre",
+  "metaDescription": "Un trasferimento privato porta a porta da Kandy verso la tua prossima destinazione: Ella, Mirissa, Yala, Arugam Bay, Trincomalee o Colombo, veicolo e driver inclusi.",
+  "shortDescription": "Un trasferimento privato e porta a porta in auto da Kandy verso la tua prossima destinazione, tra Ella, Nuwara Eliya, Yala, Mirissa, Arugam Bay, Trincomalee o Colombo, con veicolo e driver tutti per te.",
+  "fullDescription": "Lo Sri Lanka è un'isola piccola che richiede molto tempo per essere attraversata. Le strade che escono da Kandy salgono, si contorcono e condividono lo spazio con autobus, tuk tuk e occasionali mandrie di bestiame, e l'orario pubblico raramente coincide con quando si vuole davvero partire. Questa è la soluzione semplice: un'auto e un driver privati che ti ritirano dal tuo hotel a Kandy e ti portano direttamente alla base successiva, senza nessun altro a bordo.\n\nIl percorso lo scegli tu. Ella e Nuwara Eliya salgono più in alto nella fascia del tè. Mirissa, Arugam Bay e le spiagge del sud scendono verso la costa. Yala corre verso est fino ai parchi della zona secca, Trincomalee verso nord fino alla città portuale sulla costa orientale, e Colombo verso ovest fino alla capitale e all'aeroporto. I tempi di viaggio variano enormemente tra queste destinazioni: un salto tra le colline è di poche ore, mentre la corsa verso Arugam Bay o Trincomalee occupa quasi un'intera giornata, quindi conferma la destinazione al momento della prenotazione e l'operatore ti dirà cosa aspettarti.\n\nIl tuo driver sa dove sono le soste più sensate: una fabbrica di tè sulla strada di Ramboda, un punto panoramico sulla valle, una locanda per il pranzo, una bancarella sulla strada che vende curd e melassa. Chiedi e si fermeranno. Se preferisci andare dritto, dillo e lo faranno. Questa flessibilità è la vera differenza tra un trasferimento privato e un posto in autobus.\n\nIl veicolo ha l'aria condizionata e c'è spazio per i bagagli, cosa che conta se ti stai spostando tra hotel con valigie piene. Seggiolini per bambini e veicoli più grandi per gruppi numerosi possono di solito essere organizzati con preavviso.\n\nPoiché le destinazioni variano così tanto, considera questo un servizio di trasporto con un driver locale esperto al volante piuttosto che un tour panoramico fisso. Comunica all'operatore l'orario di ritiro, l'indirizzo di arrivo e le soste che vuoi, e costruiranno la giornata intorno a queste.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata per tutto il viaggio",
+   "Driver in lingua inglese",
+   "Carburante, pedaggi e parcheggio",
+   "Ritiro in hotel a Kandy e riaccompagno all'indirizzo scelto",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "I biglietti d'ingresso ai siti lungo il percorso",
+   "L'alloggio",
+   "La mancia per il driver",
+   "Qualsiasi cosa non elencata come inclusa"
+  ]
+ },
+ "private-sigiriya-rock-dambulla-cave-temple-day-trip-lunch": {
+  "title": "Gita Privata alla Rocca di Sigiriya e al Tempio delle Grotte di Dambulla con Pranzo",
+  "metaTitle": "Gita Privata a Sigiriya e Dambulla con Pranzo",
+  "metaDescription": "Una lunga gita privata a nord da Colombo per scalare la rupe di Sigiriya e visitare i templi delle grotte dipinte di Dambulla, con pranzo e trasferimenti incluso.",
+  "shortDescription": "Una lunga gita privata a nord da Colombo per scalare la cittadella rupestre del Quinto secolo di Sigiriya e visitare i templi delle grotte dipinte di Dambulla, con pranzo e trasferimenti di ritorno incluso.",
+  "fullDescription": "Sigiriya e Dambulla si trovano a circa quattro ore a nord di Colombo, nella zona secca, il che rende questa una giornata davvero lunga. Aspettati una partenza prima dell'alba e un ritorno tardivo, dalle dodici alle quattordici ore porta a porta secondo il traffico sulla strada di Kurunegala. I viaggiatori lo fanno e ne sono felici, ma vale la pena partire con questa consapevolezza invece di aspettarsi un'uscita rilassata.\n\nSigiriya è un inselberg di granito che si alza duecento metri da una foresta pianeggiante, e nel Quinto secolo il re Kassapa costruì sulla sua cima una cittadella reale. Quello che resta è notevole: giardini d'acqua e giardini di massi alla base, il muro degli specchi con secoli di graffiti dei visitatori, una galleria protetta di affreschi dipinti sulla roccia, e le zampe di leone che un tempo inquadravano un vero ingresso a forma di leone. La cima conserva le fondamenta del palazzo e una vista su tutta la pianura.\n\nLa scalata conta circa 1.200 scalini, in gran parte su scalinate metalliche fissate alla roccia. Richiede alla maggior parte delle persone circa un'ora in salita ed è esposta al sole, motivo principale per partire presto. Se la scalata non è realistica, la rocca di Pidurangala accanto offre la vista classica su Sigiriya stessa con meno sforzo.\n\nDambulla è il contrappeso: cinque grotte sotto uno sporgente di roccia che custodiscono più di 150 statue del Buddha e soffitti dipinti che seguono ogni contorno della pietra. Alcune parti risalgono al primo secolo a.C., con strati di nuove pitture durante il periodo Kandyano. È più fresco, ombreggiato e richiede solo una breve scalata fino alla terrazza.\n\nLa gita è privata, quindi il ritmo è il tuo, e il pranzo in un ristorante locale è incluso. Il tuo driver-guida gestisce la logistica; sulla via del ritorno la maggior parte dei viaggiatori dorme.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida in lingua inglese",
+   "Ritiro e riaccompagno in hotel",
+   "Pranzo in un ristorante locale",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali",
+   "Le tariffe per la guida del sito a Sigiriya se noleggiata"
+  ]
+ },
+ "private-sigiriya-rock-dambulla-caves-village-day-trip": {
+  "title": "Gita Privata alla Rocca di Sigiriya, le Grotte di Dambulla e un Villaggio",
+  "metaTitle": "Gita Privata a Sigiriya, Dambulla e un Villaggio",
+  "metaDescription": "Una gita privata tutto incluso a Sigiriya e ai templi delle grotte di Dambulla, con visita a un villaggio, pasti, biglietti d'ingresso e driver-guida.",
+  "shortDescription": "Una gita privata tutto incluso alla fortezza rupestre di Sigiriya e ai templi delle grotte di Dambulla, con una visita a un villaggio, i pasti, i biglietti d'ingresso e un driver-guida.",
+  "fullDescription": "Questa gita racchiude i due siti principali del triangolo culturale dello Sri Lanka in un'unica lunga giornata, gestita privatamente con veicolo proprio, driver-guida e biglietti d'ingresso inclusi, così niente va negoziato sulla strada.\n\nDambulla viene prima. Cinque grotte scavate nel fianco di una formazione rocciosa custodiscono più di 150 statue del Buddha insieme a soffitti dipinti che seguono la curva naturale della pietra, alcune superfici ridipinte e restaurate in una storia operativa di oltre duemila anni. È un tempio vivo, non una rovina, quindi le scarpe si tolgono all'ingresso e la salita dei gradini si fa a piedi nudi sulla roccia calda.\n\nSigiriya è il punto centrale. La cittadella del Quinto secolo del re Kassapa si trova su un tappo di granito di duecento metri sopra la pianura, raggiunta da scalinate che tagliano la parete rocciosa. A metà salita, una galleria protetta custodisce ancora gli affreschi delle cosiddette damigelle delle nuvole, e sopra le zampe di leone alla terrazza le ultime rampe portano alle fondamenta del palazzo in cima e ai giardini d'acqua disposti simmetricamente sotto.  La scalata conta circa milleduecento scalini, esposta e scoscesa in alcuni punti, con scalinate metalliche fissate alla roccia.\n\nL'elemento del villaggio spezza l'archeologia. È una camminata tra terreni coltivati intorno a Sigiriya, con tempo per snack locali e un'occhiata a come vengono lavorati i campi di riso e verdure, oltre a qualsiasi fauna che i margini delle risaie facciano emergere.\n\nOra la parte onesta. Il ritiro è dalla costa sudoccidentale a Balapitiya, e la guida verso nord dura circa cinque ore in ciascuna direzione, con una sosta per la colazione intorno a Kurunegala. Contando i due siti, il pranzo ad Habarana e il ritorno, questa diventa una giornata di dodici a quattordici ore, e gran parte viene passata in veicolo. Funziona se lo accetti; non funziona come giornata rilassata.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida",
+   "Carburante e parcheggio",
+   "I biglietti d'ingresso a Sigiriya e Dambulla",
+   "La colazione",
+   "Il pranzo",
+   "La visita al villaggio",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "L'alloggio in hotel",
+   "La cena",
+   "Le bevande alcoliche",
+   "Lo shopping personale",
+   "Le tariffe per le fotocamere dove previste",
+   "Le mance per il driver-guida",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "private-udawalawe-elephant-safari-day-trip-transit-home-visit": {
+  "title": "Safari Privato agli Elefanti di Udawalawe con Visita all'Elephant Transit Home",
+  "metaTitle": "Safari Privato agli Elefanti di Udawalawe con Transit Home",
+  "metaDescription": "Una gita privata a Udawalawe per un safari di quattro ore in 4x4 nel parco più affidabile per gli elefanti, con pranzo e alimentazione all'Elephant Transit Home.",
+  "shortDescription": "Una gita privata a Udawalawe per un safari di quattro ore in 4x4 nel parco più affidabile dello Sri Lanka per gli elefanti, seguita da pranzo e dalla sessione di alimentazione all'Elephant Transit Home.",
+  "fullDescription": "Se vuoi vedere elefanti selvatici in Sri Lanka e hai solo una giornata, Udawalawe è il parco da scegliere. Fu creato negli anni 1970 attorno a un bacino di irrigazione, e l'inondazione liberò gran parte della foresta trasformandola in prateria aperta. Gli avvistamenti sono inusualmente affidabili: diverse centinaia di elefanti vivono qui in modo permanente e il terreno non lascia loro dove nascondersi.\n\nIl safari dura circa quattro ore su un 4x4 aperto con un driver che conosce le piste. Insieme agli elefanti ci sono bufali d'acqua, cervi pomellati, sciacalli, coccodrilli nel bacino e una lista di uccelli davvero buona: aquile serpentarie, gruccioni, bucerotidi e aquile pescatrici sopra il bacino. I leopardi esistono qui ma sono un avvistamento raro; trattalo come un bonus.\n\nDopo il giro si fa una sosta per il pranzo in un ristorante locale, poi si visita l'Elephant Transit Home di Udawalawe. Si tratta di una struttura del Department of Wildlife Conservation che cresce cuccioli orfani con l'obiettivo specifico di rilasciarli di nuovo in natura, motivo per cui gli animali sono tenuti lontani dal contatto umano e osservati a distanza invece che maneggiati. Le sessioni di alimentazione si svolgono a orari fissi durante il giorno e i cuccioli arrivano in gruppo per essere nutriti con il biberon. È un centro di riabilitazione in funzione, non un posto dove si cavalcano o si lavano gli elefanti, e questo è proprio il punto.\n\nTutto si svolge in forma privata, quindi la giornata è tua. Questo conta soprattutto per gli orari: il driver può puntare all'apertura mattutina del cancello, quando l'attività degli elefanti è più alta, e organizzare il ritorno secondo il calendario delle alimentazioni.\n\nUdawalawe si trova a circa 165 chilometri a sudest di Colombo, circa tre ore in ciascuna direzione con un buon traffico. Con il safari, il pranzo e la sosta al transit home, aspettati una giornata piena di dodici ore o più con una partenza anticipata. Vale la pena farlo, ma non è un'uscita rilassata.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver",
+   "Ritiro e riaccompagno in hotel a Colombo, Negombo o Katunayake",
+   "Safari di quattro ore in 4x4 con tracker",
+   "Pranzo in un ristorante locale",
+   "Visita all'Elephant Transit Home",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al parco nazionale e all'Elephant Transit Home, se non confermati alla prenotazione",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "sigiriya-dambulla-minneriya-safari-day-trip-colombo": {
+  "title": "Gita a Sigiriya, Dambulla e Safari a Minneriya da Colombo",
+  "metaTitle": "Sigiriya, Dambulla e Safari a Minneriya da Colombo",
+  "metaDescription": "Un'unica lunga giornata da Colombo con le grotte dipinte di Dambulla, la rupe di Sigiriya e un safari in jeep pomeridiano nel Parco Nazionale di Minneriya.",
+  "shortDescription": "Un'unica lunga giornata da Colombo con i templi delle grotte dipinte di Dambulla, la fortezza rupestre di Sigiriya e un safari in jeep pomeridiano nel Parco Nazionale di Minneriya.",
+  "fullDescription": "Tre delle migliori cose nel centro dello Sri Lanka in un'unica giornata, partendo dalla costa occidentale: le grotte dipinte di Dambulla, la cittadella rupestre di Sigiriya e un safari agli elefanti a Minneriya mentre cala la luce. È un modo efficiente di vedere il triangolo culturale se il tuo tempo sull'isola è limitato, ed è una giornata di sedici ore, cosa che vale la pena sapere prima di prenotare.\n\nDambulla apre la giornata. Cinque grotte scavate in una formazione rocciosa custodiscono più di 150 statue del Buddha sotto soffitti dipinti che seguono la forma della pietra; il complesso è un tempio in funzione da più di duemila anni, quindi le scarpe si tolgono e l'ultimo tratto si sale a piedi nudi.\n\nSigiriya segue, venti minuti più avanti sulla strada. Il re Kassapa costruì la sua cittadella su un tappo di granito di duecento metri nel Quinto secolo, e la scalata di circa milleduecento scalini porta oltre gli affreschi superstiti nella loro galleria protetta, tra le zampe di leone e fino alla cima, dove le fondamenta del palazzo si trovano sopra giardini d'acqua simmetrici disposti sulla pianura sotto.\n\nDopo il pranzo la giornata cambia completamente carattere. Il bacino di Minneriya fu costruito nel terzo secolo e il suo letto erboso attira gli elefanti fuori dalla foresta circostante mentre l'acqua si ritira. Questo è The Gathering, una delle più grandi concentrazioni stagionali di elefanti asiatici selvatici al mondo, con il picco circa tra luglio e settembre. Si attraversa il parco su una jeep aperta con un driver che sa dove si sono nutrite le mandrie.\n\nIl viaggio è il costo onesto. Sono circa quattro o cinque ore in ciascuna direzione da Colombo, quindi il ritiro è prima dell'alba e si rientra tardi la sera, con buona parte della giornata passata in veicolo.",
+  "highlights": [],
+  "included": [
+   "Veicolo con aria condizionata e driver-guida da Colombo, Mount Lavinia o Negombo e ritorno",
+   "Jeep da safari per il giro a Minneriya",
+   "Guida a ogni sito",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla",
+   "Il biglietto d'ingresso al Parco Nazionale di Minneriya",
+   "I pasti e le bevande",
+   "Le tariffe per le fotocamere dove previste",
+   "Le mance",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "sigiriya-polonnaruwa-long-guided-day-trip-colombo": {
+  "title": "Sigiriya e Polonnaruwa: Lunga Gita Guidata da Colombo",
+  "metaTitle": "Sigiriya e Polonnaruwa: Gita Guidata da Colombo",
+  "metaDescription": "Un'unica giornata molto lunga da Colombo con due siti UNESCO, la rupe di Sigiriya e l'antica capitale reale di Polonnaruwa, con pranzo e trasferimenti in hotel.",
+  "shortDescription": "Un'unica giornata molto lunga da Colombo che copre due siti patrimonio UNESCO, la cittadella rupestre di Sigiriya e l'antica capitale reale di Polonnaruwa, con pranzo e trasferimenti in hotel.",
+  "fullDescription": "Sii chiaro su cosa sia questo prima di prenotare: una giornata di quindici ore, di cui circa sette in auto. Sigiriya e Polonnaruwa si trovano nella zona secca al centro dell'isola, a quattro o cinque ore dalla costa, e farle entrambe da Colombo in un'unica spinta è un'impresa seria. Funziona, e fa risparmiare una notte d'hotel, ma non è una giornata rilassata.\n\nIl ritiro è molto presto, di solito verso le tre del mattino, per raggiungere il triangolo culturale prima che il caldo si faccia sentire. Ci si ferma per la colazione lungo la strada. La scalata a Sigiriya è meglio farla presto: la roccia è esposta, le scalinate metalliche trattengono il calore, e verso metà mattina le code nei tratti più stretti rallentano tutto.\n\nSigiriya è una cittadella del Quinto secolo costruita su un tappo di granito di 200 metri, attribuita al re Kashyapa. I giardini d'acqua alla base sono tra i giardini paesaggistici più antichi sopravvissuti al mondo, il muro degli specchi porta ancora graffiti lasciati più di mille anni fa, e una tasca protetta a metà altezza custodisce gli affreschi delle damigelle delle nuvole. La cima è l'impronta del palazzo, con la pianura visibile in ogni direzione.\n\nPolonnaruwa segue nel pomeriggio. Capitale dell'isola nell'undicesimo e dodicesimo secolo dopo la caduta di Anuradhapura, è molto più compatta della sua predecessora: il palazzo reale, il quadrilatero di edifici religiosi, la casa delle immagini di Lankatilaka e, sopra tutto, Gal Vihara, quattro colossali figure del Buddha scolpite in un'unica parete di granito.\n\nIl pranzo è incluso in un ristorante locale, e il viaggio di ritorno dura circa quattro ore, quindi aspettati di raggiungere il tuo hotel tardi. Se hai flessibilità, lo stesso percorso diviso su due giorni con una notte a Sigiriya o Habarana è una gita migliore; questa versione esiste per chi non ha quella notte.",
+  "highlights": [],
+  "included": [
+   "Auto con aria condizionata, carburante e driver",
+   "Guida in lingua inglese",
+   "Pranzo singalese",
+   "Ritiro e riaccompagno in hotel a Colombo o Negombo",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Polonnaruwa",
+   "La colazione",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "sigiriya-rock-dambulla-cave-temples-day-trip-colombo-safari": {
+  "title": "Gita alla Rocca di Sigiriya e ai Templi delle Grotte di Dambulla da Colombo con Safari",
+  "metaTitle": "Sigiriya e Dambulla da Colombo con Safari",
+  "metaDescription": "Una gita in piccolo gruppo a nord da Colombo tra le grotte di Dambulla e la rupe di Sigiriya, con un safari in jeep pomeridiano nel parco nazionale vicino.",
+  "shortDescription": "Una gita in piccolo gruppo a nord da Colombo verso i templi delle grotte di Dambulla e la cittadella rupestre di Sigiriya, con un safari in jeep pomeridiano nel parco nazionale vicino.",
+  "fullDescription": "Sigiriya è un tappo di granito che si alza duecento metri da una macchia pianeggiante, e nel Quinto secolo il re Kasyapa costruì sulla cima la sua capitale. Quello che resta è notevole: giardini d'acqua e giardini di massi alla base, un muro degli specchi lungo il lato occidentale, gli affreschi delle dame di corte dipinti in una tasca protetta a metà salita, e le due enormi zampe di leone che un tempo inquadravano un ingresso attraversato per raggiungere la cima. La scalata conta circa 1.200 scalini su scalinate metalliche fissate alla roccia.\n\nLa giornata inizia con la guida verso nord da Colombo, circa quattro ore sull'autostrada e poi sulla strada di Dambulla. I ritiri avvengono da Colombo e dalla costa a Negombo, Mount Lavinia, Kalutara, Bentota, Hikkaduwa e Galle, quindi l'orario di partenza dipende da dove ti trovi.\n\nDambulla viene prima. Cinque grotte sotto una roccia sporgente custodiscono più di 150 statue del Buddha e soffitti dipinti che seguono i contorni della pietra, alcune risalenti a duemila anni fa e ridipinte nei regni successivi. La salita alle grotte è una serie di scalini aperti sulla parete rocciosa, circa quindici minuti, e la vista sulla pianura dalla terrazza vale lo sforzo da sola.\n\nDopo Sigiriya il pomeriggio si rivolge alla fauna selvatica, con un safari in jeep nel terreno del parco nazionale vicino. Questa è terra di elefanti: i bacini attirano grandi numeri nei mesi secchi, e The Gathering di Minneriya, quando le mandrie si riuniscono sul letto del bacino in ritiro, raggiunge il picco circa tra luglio e settembre. Fuori da quella finestra gli elefanti sono comunque visti regolarmente ma in gruppi più piccoli.\n\nQuesta è una lunga giornata in un veicolo condiviso, con qualcosa come otto ore di guida che racchiudono le visite. È adatta a chi vuole i due siti principali del triangolo culturale e un safari in un unico viaggio dalla costa invece di cambiare hotel.",
+  "highlights": [],
+  "included": [
+   "Veicolo con aria condizionata e driver-guida in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo o lungo la costa sudoccidentale",
+   "Visita guidata a Sigiriya",
+   "Jeep da safari per il giro pomeridiano",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla",
+   "I biglietti d'ingresso al parco nazionale",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le tariffe per le fotocamere",
+   "Le spese personali"
+  ]
+ },
+ "sigiriya-rock-dambulla-caves-small-group-day-tour": {
+  "title": "Gita in Piccolo Gruppo alla Rocca di Sigiriya e alle Grotte di Dambulla",
+  "metaTitle": "Gita in Piccolo Gruppo a Sigiriya e Dambulla",
+  "metaDescription": "Una gita di sedici ore in piccolo gruppo dalla costa di Kalutara verso la rupe di Sigiriya e le grotte di Dambulla, con sosta in una bottega artigianale.",
+  "shortDescription": "Una gita di sedici ore in piccolo gruppo dalla costa di Kalutara e Colombo verso la fortezza rupestre di Sigiriya e i templi delle grotte di Dambulla, con una sosta in una bottega artigianale lungo la strada.",
+  "fullDescription": "Questa è una lunga giornata e non ha senso nasconderlo: sedici ore porta a porta, di cui qualcosa come otto o nove sulla strada. Il triangolo culturale si trova ben a nord della costa, e una gita di un giorno da Kalutara significa partire nel buio e tornare nel buio. I viaggiatori lo fanno comunque, perché l'alternativa è impegnare due o tre notti nell'entroterra, e se la tua vacanza è basata sulla spiaggia quel compromesso può avere senso.\n\nSigiriya è il punto centrale. Un tappo di granito che si alza duecento metri da una foresta pianeggiante, trasformato nel quinto secolo dal re Kassapa in un complesso reale fortificato con giardini d'acqua alla base e un palazzo sulla cima. Gli affreschi nella galleria protetta a metà salita sono il frammento superstite di uno schema molto più ampio, e il muro degli specchi sotto di essi porta versi di graffiti lasciati dai visitatori più di mille anni fa. La scalata conta circa 1.200 scalini.\n\nDambulla arriva come un sollievo dopo: cinque grotte sotto un unico sporgente, con più di 150 immagini del Buddha, un Buddha sdraiato di quaranta metri scolpito direttamente nella roccia, e soffitti dipinti che seguono i contorni naturali della pietra. Il sito è in uso continuo fin dal primo secolo a.C.\n\nIl percorso include anche soste in botteghe artigianali tradizionali, tipicamente intaglio del legno, batik o lavori in ottone, dove vengono date dimostrazioni e i pezzi sono in vendita. L'acquisto è facoltativo.\n\nIl trasporto è un veicolo confortevole con aria condizionata e un driver-guida, e il gruppo resta piccolo. Porta con te qualcosa per rendere il viaggio sopportabile e pianifica una giornata tranquilla il giorno dopo.",
+  "highlights": [],
+  "included": [
+   "Veicolo con aria condizionata e driver-guida in lingua inglese",
+   "Ritiro e riaccompagno in hotel",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla",
+   "I pasti e le bevande",
+   "Le tariffe per la guida del sito",
+   "Gli acquisti di souvenir",
+   "Le mance"
+  ]
+ },
+ "sigiriya-sunrise-climb-dambulla-kandy-day-trip-colombo": {
+  "title": "Scalata all'Alba di Sigiriya, Dambulla e Kandy: Gita da Colombo",
+  "metaTitle": "Scalata all'Alba di Sigiriya, Dambulla e Kandy da Colombo",
+  "metaDescription": "Una gita di quattordici ore che scala Sigiriya alle prime luci, visita i templi delle grotte di Dambulla e termina al Tempio del Sacro Dente a Kandy.",
+  "shortDescription": "Una gita di quattordici ore che scala Sigiriya alle prime luci, visita i templi delle grotte di Dambulla e termina al Tempio del Sacro Dente a Kandy.",
+  "fullDescription": "Il motivo per fare Sigiriya all'alba è semplice. Verso le nove del mattino la roccia è calda, le scalinate sono in coda e la pianura sottostante si è annebbiata. Arriva all'apertura e salirai in aria fresca, con la nebbia ancora sui campi e la cima quasi tutta per te. È su questo che si basa questa gita, ed è per questo che il ritiro è nel mezzo della notte.\n\nLa guida da Colombo richiede circa tre ore, quindi si parte nel cuore della notte e si raggiunge Sigiriya prima dell'apertura del cancello. La scalata conta circa milleduecento scalini su un tappo di granito di duecento metri, oltre la galleria protetta dove sopravvivono affreschi del Quinto secolo sulla parete rocciosa, tra le zampe di leone e fino alla cima, dove le fondamenta del palazzo del re Kassapa guardano su giardini d'acqua simmetrici.\n\nLa colazione arriva dopo la scalata e non prima, poi Dambulla, venti minuti più avanti, dove cinque grotte in una formazione rocciosa custodiscono più di 150 statue del Buddha sotto soffitti dipinti. È un tempio in funzione, quindi le scarpe si tolgono e l'ultimo tratto si sale a piedi nudi.\n\nIl pomeriggio è Kandy, due ore e mezza più a sud attraverso le colline. Il Tempio del Sacro Dente custodisce la reliquia del dente del Buddha, un oggetto che storicamente legittimava chi governava l'isola, motivo per cui il tempio si trova dentro il vecchio complesso del palazzo reale accanto al lago. Programmare la visita in coincidenza con una delle puja quotidiane, quando i tamburini suonano e la camera interna si apre, vale lo sforzo.\n\nSii realistico sulla giornata. Con una partenza notturna, due siti, Kandy e il viaggio di ritorno, questa arriva a circa quattordici ore e sarai a corto di sonno per questo. Riposa in veicolo durante la salita e non pianificare nulla di impegnativo per la mattina seguente.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida",
+   "Ritiro e riaccompagno in hotel a Colombo o Negombo",
+   "Carburante e parcheggio",
+   "La colazione",
+   "Guida a ogni sito",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya, Dambulla e al Tempio del Sacro Dente",
+   "Il pranzo e la cena",
+   "Le bevande",
+   "Gli acquisti al centro visitatori",
+   "Le mance",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "sinharaja-rainforest-guided-trek-waterfalls-day-trip": {
+  "title": "Trekking Guidato nella Foresta Pluviale di Sinharaja e Cascate",
+  "metaTitle": "Trekking Guidato nella Foresta Pluviale di Sinharaja",
+  "metaDescription": "Un trekking guidato di tre ore nella foresta pluviale di Sinharaja, tutelata dall'UNESCO, con un naturalista e soste alle cascate della foresta.",
+  "shortDescription": "Un trekking guidato di tre ore attraverso Sinharaja, la foresta pluviale di pianura dello Sri Lanka tutelata dall'UNESCO, con un naturalista che conosce la riserva e soste alle cascate lungo il percorso.",
+  "fullDescription": "Sinharaja è l'ultimo blocco consistente di foresta pluviale primaria di pianura rimasto in Sri Lanka, protetto come sito patrimonio UNESCO e ancora abbastanza denso perché la chioma si chiuda sopra il sentiero pochi minuti dopo la partenza. Non è un posto da punto panoramico. Quello che ottieni è a distanza ravvicinata: lettiera di foglie, radici a contrafforte e il suono di un gruppo misto di uccelli che passa sopra la testa prima ancora di vederlo.\n\nIl ritiro è disponibile da Colombo e da una lunga lista di città costiere tra Mount Lavinia e Ambalangoda, e la guida verso l'interno richiede circa due ore dai punti di ritiro sulla costa, più a lungo se si parte dal centro di Colombo. La strada si restringe progressivamente e l'ultimo tratto verso l'ingresso della riserva è accidentato.\n\nIl trekking in sé dura circa tre ore con una guida forestale. Sinharaja custodisce una quota alta delle specie endemiche dello Sri Lanka, e le guide sono brave con quelle che premiano la pazienza: il malcoha dal viso rosso e la gazza blu dello Sri Lanka tra gli uccelli, i langur dal viso scuro sopra la testa, e una scorta infinita di rane, agamidi e farfalle endemiche all'altezza degli occhi. Il ritmo è lento e deliberato, e questo è il punto.\n\nI torrenti attraversano il sentiero in diversi punti e il percorso include cascate della foresta dove l'acqua è fredda e sufficientemente limpida da entrarci. La tua guida spiegherà anche perché la riserva esiste nella forma attuale: le licenze di disboscamento negli anni 1970 sfiorarono il disboscamento completo, e i villaggi della zona cuscinetto dipendono ora dall'integrità della foresta.\n\nLe sanguisughe sono un dato di fatto del luogo più che un avvertimento da addolcire. In caso di pioggia sono numerose, sono inoffensive, e calzini lunghi infilati nei pantaloni gestiscono la maggior parte di loro. Vieni preparato e la foresta è una delle cose migliori raggiungibili dalla costa.",
+  "highlights": [],
+  "included": [
+   "Veicolo con aria condizionata e driver",
+   "Ritiro e riaccompagno da Colombo o dalle città costiere elencate",
+   "Guida forestale per il trekking",
+   "Organizzazione dell'ingresso alla riserva",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande, salvo confermati dall'operatore",
+   "Le mance per la guida forestale",
+   "I calzini antisanguisuga, se noleggiati",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "south-coast-day-trip-turtle-hatchery-madu-river-galle-fort": {
+  "title": "Gita sulla Costa Meridionale: Vivaio di Tartarughe, Fiume Madu e Galle Fort",
+  "metaTitle": "Gita sulla Costa Meridionale: Vivaio, Madu e Galle Fort",
+  "metaDescription": "Una lunga gita costiera a sud da Colombo tra Bentota, un progetto per le tartarughe a Kosgoda, un safari in barca sul Madu Ganga e le mura di Galle Fort.",
+  "shortDescription": "Una lunga gita costiera a sud da Colombo o Negombo tra la spiaggia di Bentota, un progetto di conservazione delle tartarughe a Kosgoda, un safari in barca tra le mangrovie del Madu Ganga e le mura di Galle Fort.",
+  "fullDescription": "La strada a sud di Colombo corre quasi per tutto il tragitto a vista del mare, e questa gita la usa per collegare quattro cose molto diverse in un'unica giornata: una spiaggia, un progetto di conservazione delle tartarughe, un fiume di mangrovie e una città murata olandese. È molto terreno da coprire, e la versione onesta è che passerai una buona parte della giornata in auto.\n\nLa prima sosta è a Bentota, dove il Bentota Ganga incontra l'oceano dietro una lunga lingua di sabbia. È una breve sosta fotografica più che un pomeriggio in spiaggia, ed è anche il punto di partenza per gli sport acquatici se vuoi aggiungerli a tue spese.\n\nA Kosgoda si visita un progetto di conservazione delle tartarughe marine. Cinque delle sette specie di tartarughe marine del mondo nidificano sulla costa dello Sri Lanka, e i vivai qui acquistano le uova dai raccoglitori di spiaggia per tenerle fuori dal mercato, poi rilasciano i piccoli. Vale la pena sapere che il modello è discusso tra i conservazionisti; i progetti migliori rilasciano rapidamente e riducono al minimo la manipolazione, ed è giusto fare domande mentre ci si trova.\n\nIl safari sul fiume Madu è la parte tranquilla della giornata. L'estuario è una zona umida Ramsar disseminata di piccole isole, e la barca si infila in tunnel di mangrovie dove la chioma si chiude sopra la testa. Si passano piattaforme di terapia dei pesci, un'isola della cannella dove viene fatta una demo della pelatura, e un'isola con un tempio raggiungibile solo per acqua.\n\nGalle Fort chiude la giornata. Gli olandesi ricostruirono il forte portoghese nel Seicento e la sua griglia di strade, i bastioni e il faro del 1848 sono sopravvissuti quasi intatti allo tsunami del 2004. Si dispone di circa un'ora per camminarlo, abbastanza per le mura e le strade principali più che per i musei. Un pranzo in un ristorante locale è incluso lungo il percorso, e si torna a Negombo o Colombo in serata.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver",
+   "Ritiro e riaccompagno in hotel a Negombo o Colombo",
+   "Safari in barca sul Madu Ganga",
+   "Pranzo in un ristorante locale",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso e le offerte al vivaio di tartarughe e agli altri siti",
+   "Gli sport acquatici a Bentota",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "udawalawe-elephant-safari-transit-home-private-day-trip": {
+  "title": "Gita Privata al Safari agli Elefanti di Udawalawe e all'Elephant Transit Home",
+  "metaTitle": "Safari agli Elefanti di Udawalawe e Transit Home, Gita Privata",
+  "metaDescription": "Una gita privata intera da Colombo a Udawalawe, il parco più affidabile per gli elefanti selvatici, con visita all'Elephant Transit Home e i cuccioli orfani.",
+  "shortDescription": "Una gita privata intera da Colombo a Udawalawe, il parco più affidabile dello Sri Lanka per gli elefanti selvatici, con una visita all'Elephant Transit Home dove i cuccioli orfani vengono nutriti.",
+  "fullDescription": "Se vuoi vedere elefanti selvatici in Sri Lanka e hai solo una giornata, Udawalawe è la scelta sensata. Il parco fu creato negli anni 1970 attorno a un bacino costruito per lo schema del fiume Walawe, e il mix risultante di prateria aperta, cespugli e acqua ospita una popolazione residente di elefanti di diverse centinaia di capi. Il terreno è aperto, il che significa che li vedi davvero invece di sentirli muoversi nella foresta densa.\n\nSono circa due ore e mezza o tre da Colombo in auto, quindi questa è una giornata intera e non una mezza giornata, e una partenza anticipata è ciò che rende possibile il giro mattutino. La guida corre nell'entroterra attraverso la regione delle pietre preziose di Ratnapura e verso la zona secca.\n\nIl giro in sé dura circa tre ore su una jeep aperta. Le mandrie con i piccoli sono comuni lungo il margine del bacino e attorno agli argini, e i maschi più anziani si vedono spesso da soli. Udawalawe è buona anche per i rapaci: aquile serpentarie, aquile falco variabili e aquile pescatrici a testa grigia si riproducono tutte qui. Bufali d'acqua, cervi pomellati, sciacalli e coccodrilli completano la lista, e i leopardi esistono ma vengono visti raramente in questo parco.\n\nL'Elephant Transit Home si trova appena fuori dal confine del parco ed è una proposta diversa dalle più commerciali attrazioni con elefanti dell'isola. I cuccioli orfani vengono cresciuti qui con un contatto umano minimo e rilasciati in natura a gruppi, motivo per cui non ci sono cavalcate, bagni o contatti diretti. I visitatori osservano l'alimentazione con latte da una piattaforma a orari fissi.\n\nIl trasporto è privato e con aria condizionata per tutto il tragitto, e il tuo driver gestisce i permessi del parco e la jeep all'ingresso.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Jeep da safari aperta per il giro",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al parco nazionale e il permesso per la jeep",
+   "L'ingresso all'Elephant Transit Home",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "udawalawe-national-park-elephant-safari-day-trip-colombo": {
+  "title": "Safari agli Elefanti nel Parco Nazionale di Udawalawe: Gita da Colombo",
+  "metaTitle": "Safari agli Elefanti di Udawalawe, Gita da Colombo",
+  "metaDescription": "Una giornata intera da Colombo a Udawalawe, la riserva dove gli elefanti si vedono più facilmente, con un safari in jeep e sosta all'Elephant Transit Home.",
+  "shortDescription": "Una giornata intera da Colombo al Parco Nazionale di Udawalawe, la riserva dove gli elefanti dello Sri Lanka si vedono più facilmente, con un safari in jeep e una sosta all'Elephant Transit Home.",
+  "fullDescription": "Udawalawe si trova al margine della zona secca, circa quattro ore a sudest di Colombo, ed è il parco dove si va quando si vogliono vedere gli elefanti e non solo sperare di vederli. La riserva nacque attorno a un bacino costruito negli anni 1960, e la prateria e i cespugli che hanno sostituito i vecchi terreni agricoli si adattano bene agli elefanti. Diverse centinaia vivono qui tutto l'anno, quindi gli avvistamenti sono la norma e non l'eccezione.\n\nLa giornata inizia presto a causa del viaggio. Il tuo driver ti ritira dal tuo hotel a Colombo o lungo la costa a Wadduwa, Moratuwa o Panadura, e la strada corre a sud oltre la fascia delle noci di cocco prima di girare nell'entroterra attraverso la regione delle pietre preziose di Ratnapura. È un lungo tratto in auto, con un paio di soste per il tè lungo il percorso.\n\nAll'ingresso del parco si passa su una jeep da safari con un tracker per un giro di circa tre ore. Gli elefanti sono il punto forte, spesso in gruppi familiari lungo il bordo dell'acqua, ma lo stesso giro fa emergere bufali d'acqua, cervi pomellati, cervi sambar, coccodrilli nel bacino e una lunga lista di uccelli: aquile serpentarie, gruccioni, cicogne dipinte e, in stagione, trampolieri migratori. I leopardi esistono qui ma vengono visti raramente, e ogni avvistamento è fortuna più che aspettativa.\n\nC'è una pausa per il pranzo in un ristorante vicino alla riserva, a spese proprie così si può ordinare quello che si vuole, e poi una sosta all'Elephant Transit Home di Udawalawe. Si tratta di una struttura statale dove i cuccioli orfani vengono cresciuti per il rilascio in natura invece di essere tenuti per le cavalcate, e i visitatori osservano l'alimentazione da una piattaforma a un orario fisso.\n\nSi rientra a Colombo tardi in serata. È una giornata davvero lunga, con circa otto ore sulla strada in totale, e funziona meglio per chi preferisce fare il parco per bene in un'unica spinta piuttosto che dividere il viaggio con una notte.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo, Wadduwa, Moratuwa o Panadura",
+   "I biglietti d'ingresso al Parco Nazionale di Udawalawe",
+   "Jeep da safari con tracker per il giro",
+   "L'ingresso all'Elephant Transit Home",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "Il pranzo e gli altri pasti",
+   "Le bevande",
+   "Le mance per driver, guida e tracker della jeep",
+   "Le tariffe per le fotocamere dove previste",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "udawalawe-national-park-private-safari-day-trip-lunch": {
+  "title": "Safari Privato nel Parco Nazionale di Udawalawe con Pranzo",
+  "metaTitle": "Safari Privato a Udawalawe con Pranzo",
+  "metaDescription": "Un giro di tre ore e mezza a Udawalawe con l'alimentazione al biberon all'Elephant Transit Home, pranzo singalese e trasferimenti da Colombo o dalla costa sud.",
+  "shortDescription": "Un giro di tre ore e mezza a Udawalawe con l'alimentazione con il latte all'Elephant Transit Home e un pranzo singalese, gestito privatamente con trasferimenti da Colombo o dalla costa meridionale.",
+  "fullDescription": "Udawalawe è il parco degli elefanti. Yala riceve più attenzione per i suoi leopardi, ma per vedere davvero elefanti in numero e allo scoperto, Udawalawe è più affidabile, e i giri sono meno affollati. Il parco fu istituito nel 1972 attorno al bacino di Udawalawe, e il mix di prateria aperta, cespugli e acqua si adatta sia agli animali che a chi cerca di fotografarli.\n\nIl giro qui è più lungo dello standard, circa tre ore e mezza, e questo cambia l'esperienza. Dà al tuo driver spazio per lasciare il circuito principale e per aspettare su una sponda invece di proseguire dopo cinque minuti. Le mandrie con cuccioli sono una vista comune lungo il bacino, e i maschi solitari presidiano il loro territorio nella prateria.\n\nOltre agli elefanti il parco ospita bufali d'acqua, cervi pomellati, cervi sambar, sciacalli, coccodrilli di palude e una forte lista di rapaci. I birdwatcher dovrebbero osservare i margini del bacino per le aquile pescatrici a testa grigia e la prateria per le aquile serpentarie residenti. I leopardi sono presenti ma gli avvistamenti sono rari e sarebbe disonesto venderli come tali.\n\nL'Elephant Transit Home è adiacente al parco e accoglie cuccioli orfani, crescendoli per il rilascio finale. L'alimentazione avviene a orari fissi da una piattaforma di osservazione, senza contatto tra visitatori e animali. Quella moderazione è il punto del posto e il motivo principale per cui vale la pena visitarlo invece di una delle operazioni con cavalcate dell'isola.\n\nIl pranzo è incluso in un ristorante locale, di solito un piatto di riso e curry. Il ritiro è offerto da un'ampia gamma di città; da Colombo il viaggio di andata e ritorno è una lunga giornata di circa dodici ore.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver",
+   "Ritiro e riaccompagno in hotel",
+   "Jeep da safari aperta per il giro",
+   "Pranzo in un ristorante locale",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al parco nazionale e il permesso per la jeep",
+   "L'ingresso all'Elephant Transit Home",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "water-skiing-session-colombo-port-city-waterfront": {
+  "title": "Sessione di Sci d'Acqua sul Lungomare di Colombo Port City",
+  "metaTitle": "Sessione di Sci d'Acqua sul Lungomare di Colombo",
+  "metaDescription": "Una sessione di venti minuti di sci d'acqua trainato sulle acque riparate di fronte a Colombo Port City, con istruzioni per chi è alle prime armi.",
+  "shortDescription": "Una sessione di venti minuti di sci d'acqua trainato dietro una barca sulle acque riparate di fronte a Colombo Port City, con istruzioni per chi è alle prime armi.",
+  "fullDescription": "La bonifica di Colombo Port City ha creato un tratto di acque riparate proprio accanto al centro città, e gli operatori di sport acquatici lì lo usano per le attività trainate che richiedono condizioni calme. Lo sci d'acqua è una di queste, e questa è una singola breve sessione in acqua piuttosto che un corso di mezza giornata.\n\nPrima si riceve un briefing a terra: come sedersi in acqua con gli ski puntati verso l'alto, dove tenere la corda, e l'istruzione che conta più di tutte, cioè lasciare che sia la barca a tirarti su invece di provare a stare in piedi da soli. Il conducente della barca e un osservatore gestiscono la sessione, e la velocità è impostata su quello che riesci a gestire piuttosto che su un numero fisso.\n\nChi è alle prime armi deve aspettarsi che i primi due o tre tentativi finiscano con una faccia piena d'acqua salata. È normale, e la maggior parte delle persone è in piedi sugli ski entro il quarto o quinto strappo. Chi sa già sciare può saltare le istruzioni e usare semplicemente l'intero slot in acqua. In entrambi i casi si indossa sempre un giubbotto di salvataggio e la barca resta vicina.\n\nVenti minuti sono il tempo effettivo in acqua, non il totale. Conta circa un'ora alla base, aggiungendo il briefing, l'attesa della barca, l'equipaggiamento e l'asciugatura dopo. Gli slot sono brevi e consecutivi, quindi arrivare in ritardo di solito significa perdere la prenotazione.\n\nLe condizioni qui contano più di ogni altra cosa. L'acqua è più calma e limpida nei mesi più asciutti, circa da novembre ad aprile; durante il monsone sudoccidentale, circa da maggio a settembre, il mare si agita lungo questa costa e le sessioni vengono spesso spostate o annullate per motivi di sicurezza.\n\nÈ un buon brivido breve per un'ora libera a Colombo e non richiede esperienza, ma è un'attività singola più che una giornata intera, quindi abbinala a qualcos'altro sul lungomare.",
+  "highlights": [],
+  "included": [
+   "Sessione di sci d'acqua di venti minuti",
+   "La barca e il conducente",
+   "Un osservatore di sicurezza",
+   "Gli ski d'acqua e la corda di traino",
+   "Il giubbotto di salvataggio",
+   "Il briefing di sicurezza"
+  ],
+  "notIncluded": [
+   "Il ritiro e il riaccompagno in hotel",
+   "Le foto e i video",
+   "Gli asciugamani",
+   "I pasti",
+   "Le mance",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "wilpattu-jeep-safari-sunrise-or-sunset-game-drive": {
+  "title": "Safari in Jeep a Wilpattu con Giro all'Alba o al Tramonto",
+  "metaTitle": "Safari in Jeep a Wilpattu all'Alba o al Tramonto",
+  "metaDescription": "Quattro ore di safari in jeep aperta a Wilpattu, al mattino o al tramonto, con ritiro e riaccompagno organizzati da una lunga lista di punti tra cui Colombo.",
+  "shortDescription": "Quattro ore di safari in jeep aperta a Wilpattu, programmato per l'alba o il tramonto, con ritiro e riaccompagno organizzati da una lunga lista di punti tra cui Colombo.",
+  "fullDescription": "Wilpattu copre oltre mille chilometri quadrati di foresta della zona secca a nord di Puttalam, e il suo carattere deriva dai villu, laghi naturali poco profondi che trattengono l'acqua molto dopo che la foresta circostante si è seccata. Gli animali vi convergono, e un buon tracker pianifica il giro attorno a quelli attualmente più produttivi.\n\nQuesto giro è impostato su uno dei due margini della giornata. L'opzione dell'alba entra all'apertura dei cancelli, quando la luce è bassa, l'aria è ancora fresca e i leopardi hanno più probabilità di trovarsi sulle piste di sabbia. L'opzione del tramonto corre nelle ultime ore di luce, quando i villu si riempiono di cervi e bufali e il cielo sopra l'acqua è al suo meglio per le fotografie. In entrambi i casi si resta nel parco per circa quattro ore.\n\nL'animale di punta di Wilpattu è il leopardo, e la densità del parco è rispettabile, ma gli avvistamenti dipendono dalla fortuna. Ciò che si può ragionevolmente aspettarsi è territorio di orsi labiati nei mesi di fruttificazione, cervi pomellati, cervi sambar, cinghiali, bufali, coccodrilli di palude ai margini dei villu e una forte fauna aviaria.\n\nSi viaggia su un 4x4 aperto con un driver che fa anche da tracker e guida. Il veicolo è tuo e non una navetta condivisa, quindi il ritmo del giro è tuo entro i limiti delle regole del parco.\n\nLa cosa principale da considerare è da dove si parte. Wilpattu è lontana da Colombo, circa tre o quattro ore di guida in ciascuna direzione, quindi un ritiro da Colombo trasforma questa in una giornata molto lunga, dieci ore o più con buona parte sulla strada. Se alloggi ad Anuradhapura, Negombo o vicino all'ingresso di Hunuwilagama, lo stesso giro si inserisce comodamente in mezza giornata. Scegli l'opzione di ritiro che corrisponde a dove ti trovi davvero.",
+  "highlights": [],
+  "included": [
+   "Jeep da safari aperta privata con driver-tracker",
+   "Trasferimento da e verso il punto scelto",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al parco nazionale e le tariffe del tracker pagate al cancello",
+   "I pasti e i rinfreschi",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "wilpattu-national-park-leopard-safari-colombo-pickup": {
+  "title": "Safari ai Leopardi nel Parco Nazionale di Wilpattu con Ritiro da Colombo",
+  "metaTitle": "Safari ai Leopardi di Wilpattu con Ritiro da Colombo",
+  "metaDescription": "Un safari in jeep di quattro ore a Wilpattu, il parco più grande e tranquillo dello Sri Lanka, con ritiro da Colombo o da cinque punti più vicini al parco.",
+  "shortDescription": "Un safari in jeep di quattro ore a Wilpattu, il parco nazionale più grande e tranquillo dello Sri Lanka, con ritiro disponibile da Colombo o da cinque punti più vicini al parco.",
+  "fullDescription": "Wilpattu è il parco nazionale più grande dello Sri Lanka e, per la maggior parte dei visitatori, il meno conosciuto. Il suo nome significa terra dei laghi, e il parco è costruito attorno ai villu, bacini naturali di pioggia orlati di sabbia che attirano gli animali fuori dalla foresta secca per bere. Invece di guidare un circuito di prateria aperta, ci si muove tra specchi d'acqua e si attende.\n\nIl parco è conosciuto soprattutto per i suoi leopardi, e Wilpattu ospita una popolazione sana, ma nessuno onesto te ne prometterà uno. Gli avvistamenti degli orsi labiati raggiungono il picco in giugno e luglio, quando matura il frutto del palu. Oltre a questi due, aspettati cervi pomellati, cervi sambar, cinghiali, bufali, coccodrilli ai margini dei villu e una lunga lista di uccelli, dalle cicogne dipinte alle aquile serpentarie.\n\nSi viaggia su un 4x4 aperto con un driver-tracker che legge queste piste ogni giorno via radio e tramite le impronte fresche sulla sabbia. Circa quattro ore vengono passate dentro il parco. Scegli il giro mattutino, che parte alle prime luci quando il movimento degli animali è più alto, oppure il giro pomeridiano, che corre nelle ore d'oro fino alla chiusura.\n\nSii lucido sul viaggio se prenoti questo da Colombo. Wilpattu si trova a circa 180 chilometri a nord della città, e la strada passa per Puttalam piuttosto che su un'autostrada per tutto il percorso. Con una partenza prima dell'alba e un ritorno dopo il giro, questa diventa una lunga giornata di dieci o dodici ore, gran parte in veicolo. I viaggiatori già alloggiati ad Anuradhapura, Negombo o vicino all'ingresso del parco hanno una versione molto più semplice della stessa esperienza, e il ritiro da quei punti è disponibile.\n\nPorta un cappello, occhiali da sole e qualcosa per attutire gli scossoni: le piste interne sono sabbia e roccia accidentate. Abiti neutri aiutano, così come un obiettivo zoom. I giri si svolgono tutto l'anno, anche se il parco può chiudere brevemente durante le forti piogge monsoniche da ottobre a dicembre.",
+  "highlights": [],
+  "included": [
+   "Jeep da safari aperta 4x4 con driver-tracker",
+   "Trasferimento di andata e ritorno dal punto di ritiro scelto",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al parco nazionale e le tariffe del tracker, pagabili all'arrivo",
+   "I pasti",
+   "Le mance",
+   "Le spese personali",
+   "Le tariffe per le fotocamere dove previste"
+  ]
+ },
+ "wilpattu-national-park-private-jeep-safari-day-trip-lunch": {
+  "title": "Safari Privato in Jeep nel Parco Nazionale di Wilpattu con Pranzo",
+  "metaTitle": "Safari Privato in Jeep a Wilpattu con Pranzo",
+  "metaDescription": "Un safari privato in jeep per tutta la giornata a Wilpattu con biglietti d'ingresso al parco, pranzo e trasporto di andata e ritorno da Colombo incluso.",
+  "shortDescription": "Un safari privato in jeep per tutta la giornata nel Parco Nazionale di Wilpattu con i biglietti d'ingresso al parco, il pranzo e il trasporto di andata e ritorno da Colombo incluso.",
+  "fullDescription": "Wilpattu è il parco nazionale più grande dello Sri Lanka e il più tranquillo tra quelli con i leopardi. Dove Yala può mettere decine di jeep attorno a un singolo avvistamento, Wilpattu copre molto più terreno con molti meno veicoli, quindi un leopardo qui è di solito tutto tuo. Il compromesso è onesto: la boscaglia densa nasconde bene gli animali, e si può guidare per un'ora tra un avvistamento e l'altro.\n\nIl parco prende il nome e il carattere dai villu, bacini naturali di acqua piovana orlati di sabbia sparsi nella foresta. Gli animali vengono ai villu per bere, quindi il percorso del safari procede da uno all'altro. Gli orsi labiati sono una possibilità reale qui, in particolare in giugno e luglio quando il frutto del palu matura e ci si arrampicano per raggiungerlo. Leopardi, cervi pomellati, cervi sambar, bufali d'acqua, coccodrilli di palude, cinghiali e una lunga lista di uccelli residenti e migratori completano il resto.\n\nQuesta è una gita privata, quindi la jeep e il tracker sono tuoi. Questo conta più di quanto sembri. Significa che puoi fermarti a un villu e aspettare invece di essere spinto a proseguire, e significa che il driver può seguire i richiami d'allarme invece di un circuito fisso.\n\nSii lucido sulla giornata. Wilpattu si trova a circa 180 chilometri a nord di Colombo e la guida dura circa tre ore e mezza in ciascuna direzione, quindi il ritiro è prima dell'alba e tornerai tardi. Contando il viaggio, il giro nel parco e il pranzo, questa è una giornata di dodici a quattordici ore. Se preferisci non farla tutta in una volta, una notte vicino all'ingresso del parco la trasforma in una gita molto migliore.\n\nI biglietti d'ingresso e il pranzo sono già coperti, il che elimina la solita corsa alla cassa alla biglietteria del parco.\n\nI mesi più asciutti, circa da febbraio a ottobre, offrono la migliore osservazione della fauna, perché gli animali si concentrano attorno all'acqua. Il parco occasionalmente chiude alcune sezioni dopo piogge intense.",
+  "highlights": [],
+  "included": [
+   "Trasporto privato con aria condizionata da Colombo o Negombo e ritorno",
+   "Jeep da safari con driver e tracker dentro il parco",
+   "I biglietti d'ingresso e le tariffe di servizio del Parco Nazionale di Wilpattu",
+   "Il pranzo",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "L'alloggio in hotel",
+   "La colazione e la cena",
+   "Le bevande alcoliche",
+   "I binocoli e l'attrezzatura fotografica",
+   "Le spese personali",
+   "Le mance per driver e tracker",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "yala-national-park-leopard-safari-day-trip-colombo": {
+  "title": "Safari ai Leopardi nel Parco Nazionale di Yala: Gita da Colombo",
+  "metaTitle": "Safari ai Leopardi di Yala, Gita da Colombo",
+  "metaDescription": "Una giornata intera da Colombo a Yala, il parco con la più alta densità di leopardi dello Sri Lanka, con biglietti d'ingresso inclusi e un safari in jeep aperta.",
+  "shortDescription": "Una giornata intera da Colombo a Yala, il parco con la più alta densità di leopardi dello Sri Lanka, con biglietti d'ingresso inclusi e un safari in jeep aperta.",
+  "fullDescription": "Da sapere prima di prenotare: il Department of Wildlife Conservation ha chiuso i Blocchi 1 e 2 del Parco Nazionale di Yala dal 14 settembre al 15 ottobre 2026 per la siccità, quindi in quelle date i safari in quei blocchi non possono svolgersi. I Blocchi da 3 a 6 restano aperti e Udawalawe e Wilpattu non sono interessati: per i viaggi in quel periodo ti contatteremo per spostare il safari in uno di quei parchi o a una data dopo il 15 ottobre. Udawalawe è il parco più forte per gli elefanti; a Wilpattu gli avvistamenti di leopardi sono più tranquilli.\n\nYala si trova nell'angolo secco a sudest dell'isola, dove la boscaglia incontra gli affioramenti rocciosi e le lagune scendono fino al mare. È conosciuta soprattutto per i leopardi, e il Blocco Uno in particolare ha una delle più alte densità di leopardi registrate al mondo. La densità non equivale a una garanzia: i tracker battono il parco ogni giorno e leggono i segni freschi, ma un avvistamento resta una questione di fortuna e pazienza.\n\nLa guida da Colombo richiede circa tre ore sull'autostrada meridionale, quindi la giornata inizia presto. Il tuo driver ti ritira dal tuo hotel e la strada passa per Galle e lungo la costa prima di girare nell'entroterra verso Tissamaharama e i cancelli del parco.\n\nAll'ingresso si passa su una jeep da safari aperta con un driver e un tracker. Il giro dura circa tre ore attraverso le piste, i bacini e le pianure aperte del parco. Oltre ai leopardi, Yala ospita elefanti, orsi labiati, cervi pomellati, cervi sambar, cinghiali, coccodrilli di palude e sciacalli, e la fauna aviaria è tra le più forti del paese: cicogne dipinte, pavoni in gran numero, aquile marine e una lunga lista di trampolieri migratori tra novembre e marzo.\n\nI biglietti d'ingresso al parco sono inclusi in questo tour, il che elimina una delle parti più scomode della visita indipendente a Yala, insieme alla jeep e al suo tracker.\n\nQuesta è una giornata di dodici ore e circa sei di queste vengono passate in auto. Funziona se vuoi Yala senza cambiare hotel, anche se chi vuole la luce migliore e le piste più tranquille guadagnerà di più da una notte vicino a Tissamaharama.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "I biglietti d'ingresso al Parco Nazionale di Yala",
+   "Jeep da safari con driver e tracker",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance per driver e tracker",
+   "Le tariffe per le fotocamere dove previste",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "yala-national-park-private-jeep-safari-day-trip-colombo": {
+  "title": "Safari Privato in Jeep nel Parco Nazionale di Yala: Gita da Colombo",
+  "metaTitle": "Safari Privato in Jeep a Yala, Gita da Colombo",
+  "metaDescription": "Una gita privata tutto incluso a Yala, il parco con la più densa popolazione di leopardi al mondo, con un safari dedicato in 4x4 di circa tre ore e pranzo incluso.",
+  "shortDescription": "Una gita privata tutto incluso a Yala, il parco con la più densa popolazione di leopardi al mondo, con un safari dedicato in 4x4 di circa tre ore e pranzo incluso.",
+  "fullDescription": "Da sapere prima di prenotare: il Department of Wildlife Conservation ha chiuso i Blocchi 1 e 2 del Parco Nazionale di Yala dal 14 settembre al 15 ottobre 2026 per la siccità, quindi in quelle date i safari in quei blocchi non possono svolgersi. I Blocchi da 3 a 6 restano aperti e Udawalawe e Wilpattu non sono interessati: per i viaggi in quel periodo ti contatteremo per spostare il safari in uno di quei parchi o a una data dopo il 15 ottobre. Udawalawe è il parco più forte per gli elefanti; a Wilpattu gli avvistamenti di leopardi sono più tranquilli.\n\nYala si trova nel sudest secco dell'isola ed è il motivo per cui la maggior parte dei visitatori torna a casa parlando di leopardi. Il Blocco Uno, la sezione aperta ai veicoli da safari, ha la più alta densità registrata di leopardi ovunque, e poiché la boscaglia è bassa gli animali sono davvero visibili e non solo presenti. Orsi labiati, elefanti, cervi pomellati, coccodrilli e una lunga lista di uccelli completano il resto.\n\nLa gita è gestita privatamente, cosa che qui conta in due modi. Hai il tuo 4x4 e un driver-tracker invece di un sedile condiviso, quindi il veicolo può aspettare in un punto su segnalazione radio invece di proseguire secondo un orario, e puoi scegliere uno slot al mattino o al pomeriggio. Le mattine sono più fresche e la luce è migliore presto; i pomeriggi spesso producono più movimento quando il caldo diminuisce.\n\nIl safari in sé dura circa tre ore dentro il parco. Un buon tracker passa buona parte del tempo fermo e in ascolto: i richiami d'allarme dei cervi pomellati e dei langur sono quello che localizza davvero un leopardo. Gli avvistamenti non sono mai garantiti, e qualsiasi operatore che ne promette uno sta vendendo qualcosa. Il parco è anche un ecosistema in funzione con regole severe su restare nel veicolo e seguire le piste.\n\nIl trasferimento è il costo onesto di fare Yala in un giorno da Colombo. Il parco si trova dall'altra parte dell'isola nel sudest, e la guida è lunga in entrambe le direzioni anche usando l'autostrada meridionale per il tratto rapido. La partenza è prima dell'alba per un safari al mattino, e si torna tardi.\n\nIl pranzo, i biglietti del parco e la jeep sono tutti gestiti, quindi la giornata non richiede nulla da parte tua oltre alla sveglia anticipata. Se il tuo programma permette una notte a Tissamaharama invece, quella è la modalità più comoda per vedere il parco, ma questa resta un'opzione valida in un solo giorno.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver da Colombo o Waskaduwa",
+   "Jeep da safari 4x4 con driver-tracker nel Parco Nazionale di Yala",
+   "L'organizzazione dell'ingresso al parco",
+   "Il pranzo",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande aggiuntivi",
+   "Le mance per driver e tracker",
+   "Le tariffe per fotocamere o video dove previste",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Esperienza di flyboard a Pattaya",
   "metaTitle": "Esperienza di flyboard a Pattaya",
