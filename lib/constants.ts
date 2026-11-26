@@ -1445,6 +1445,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'is-essential-oil-workshop-worth-it-phnom-penh', 'is-national-museum-tour-worth-it-phnom-penh',
     'is-bikes-and-bites-tour-worth-it-phnom-penh', 'is-night-foodie-tour-worth-it-phnom-penh',
     'is-after-dark-street-grills-tour-worth-it-phnom-penh', 'is-city-bike-sunset-cruise-tour-worth-it-phnom-penh',
+    'is-royal-palace-wat-phnom-tour-worth-it-phnom-penh', 'is-sky-bar-tour-worth-it-phnom-penh',
+    'is-12-stop-landmarks-tuk-tuk-tour-worth-it-phnom-penh', 'is-taprohm-bati-chisor-temple-tour-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [

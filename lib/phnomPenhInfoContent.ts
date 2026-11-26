@@ -1242,6 +1242,62 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-royal-palace-wat-phnom-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Royal Palace, Wat Phnom and Central Market Tour Worth It in Phnom Penh?",
+                description: "An honest look at the combined Royal Palace, National Museum, Wat Phnom and Central Market tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/royal-palace-museum-wat-phnom-and-central-market-in-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling the Royal Palace, National Museum, Wat Phnom, and Central Market into one guided tour covers Phnom Penh's core non-genocide-history sights efficiently, which matters since most of the city's other big-ticket tours focus on the Killing Fields and S-21.", tourCard: { slug: "royal-palace-museum-wat-phnom-and-central-market-i", title: "Royal Palace, Museum, Wat Phnom and Central Market in Phnom Penh", description: "A guided tour of the Royal Palace, National Museum, Wat Phnom, and Central Market.", price: "From $39", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/royal-palace-museum-wat-phnom-and-central-market-in-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for the Royal Palace grounds — shoulders and knees covered — or you may be denied entry or asked to cover up at the gate." }
+                ],
+                faqs: [
+                    { q: "Is the Royal Palace and Wat Phnom tour worth it in Phnom Penh?", a: "Yes, it efficiently covers the city's main cultural sights in one guided tour, a useful counterbalance to the city's many genocide-history-focused tours." }
+                ],
+            };
+
+        case "is-sky-bar-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Sky Bar Tour with Live Music Worth It in Phnom Penh?",
+                description: "An honest look at Phnom Penh's sky bar tour with live music and drinks.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sky-bar-tour-with-live-music-and-drinks-in-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A guided sky bar crawl takes the guesswork out of finding Phnom Penh's rooftop bars with good river views and live music, which matters in a city where the best bars aren't always obvious from the street.", tourCard: { slug: "sky-bar-tour-with-live-music-and-drinks-in", title: "Sky Bar Tour with Live Music and Drinks in Phnom Penh", description: "A guided rooftop bar tour with live music and drinks.", price: "From $65", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sky-bar-tour-with-live-music-and-drinks-in-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Best booked for an evening with no early start the next day — this is a late-night, drinks-focused activity rather than a sightseeing tour." }
+                ],
+                faqs: [
+                    { q: "Is the sky bar tour worth it in Phnom Penh?", a: "Yes, for travelers wanting a guided night out with good rooftop views and live music, without having to find the right bars themselves." }
+                ],
+            };
+
+        case "is-12-stop-landmarks-tuk-tuk-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the 12-Stop Landmarks Tuk-Tuk Tour Worth It in Phnom Penh?",
+                description: "An honest look at the 12-stop landmarks and city highlights tuk-tuk tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/12-stop-landmarks-and-city-highlights-tuk-tuk-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Twelve stops in a single tuk-tuk tour covers a lot of ground quickly, making this a good option for travelers with limited time who want a broad overview rather than lingering at any one site.", tourCard: { slug: "12-stop-landmarks-and-city-highlights-tuk-tuk-tour", title: "12 Stop Landmarks and City Highlights Tuk-Tuk Tour", description: "A 12-stop tuk-tuk tour covering Phnom Penh's main landmarks.", price: "From $38", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/12-stop-landmarks-and-city-highlights-tuk-tuk-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Expect brief photo stops rather than in-depth visits at each of the 12 landmarks — pair it with a dedicated tour for any single site you want to explore properly." }
+                ],
+                faqs: [
+                    { q: "Is the 12-stop landmarks tuk-tuk tour worth it in Phnom Penh?", a: "Yes, for a broad, efficient overview of the city on a tight schedule, though expect brief stops rather than deep visits." }
+                ],
+            };
+
+        case "is-taprohm-bati-chisor-temple-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Taprohm Bati, Chisor Temple and Putkiri Pagoda Tour Worth It from Phnom Penh?",
+                description: "An honest look at the rural temple circuit tour to Taprohm Bati, Chisor Temple, and Putkiri Pagoda from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/taprohm-bati-chisor-temple-and-putkiri-pagoda-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This rural temple circuit takes you well outside the capital to pre-Angkorian and hilltop temple sites most Phnom Penh visitors never see, a genuinely different day than the city's Killing Fields and Royal Palace circuits.", tourCard: { slug: "taprohm-bati-chisor-temple-and-putkiri-pagoda-tour", title: "Taprohm Bati, Chisor Temple and Putkiri Pagoda Tour", description: "A rural temple circuit tour to Taprohm Bati, Chisor Temple, and Putkiri Pagoda.", price: "From $77", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/taprohm-bati-chisor-temple-and-putkiri-pagoda-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the exact itinerary and travel time with your operator before booking — this covers significant distance outside the city." }
+                ],
+                faqs: [
+                    { q: "Is the Taprohm Bati and Chisor Temple tour worth it from Phnom Penh?", a: "Yes, for travelers wanting a genuinely off-the-beaten-path rural temple day outside the capital's usual sightseeing circuit." }
+                ],
+            };
+
         default:
             return null;
     }
