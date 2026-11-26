@@ -1344,6 +1344,90 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-beihai-park-worth-it-beijing":
+      return {
+        title: "Is Beihai Park Worth It in Beijing?",
+        description: "An honest look at Beihai Park, an imperial garden with a white pagoda overlooking a central lake.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/81b8a2461eef9396c3323bca974921aa2932bbb5867358fae33657908a76dc98.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Beihai Park is one of China's oldest and best-preserved imperial gardens, centered on a lake with the striking white Tibetan-style pagoda on Jade Island — a calmer, more scenic alternative to the crowds at the Forbidden City next door.",
+            tourCard: { slug: "beijing-beihai-park-full-access-ticket-with-audio", title: "Beijing: Beihai Park Full Access Ticket with Audio Guide", description: "Full access ticket to Beihai Park with an audio guide.", price: "From $17", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/81b8a2461eef9396c3323bca974921aa2932bbb5867358fae33657908a76dc98.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair it with the Forbidden City since the two sites are within easy walking distance of each other.",
+          },
+        ],
+        faqs: [
+          { q: "Is Beihai Park worth it in Beijing?", a: "Yes, as a calmer, scenic imperial garden right next to the Forbidden City, worth pairing with it on the same day." },
+        ],
+      };
+
+    case "is-bell-drum-towers-worth-it-beijing":
+      return {
+        title: "Are the Bell and Drum Towers Worth Visiting in Beijing?",
+        description: "An honest look at Beijing's Bell and Drum Towers, used historically to mark time for the city.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8b0effbfb1db3e4e13f16216e74bb11756352541e387ce531f6374157993b74.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Bell and Drum Towers once marked the hours for the entire city and sit right at the edge of the hutong district, making them a genuinely good combination of history and good rooftop views over the old neighborhood.",
+            tourCard: { slug: "beijing-bell-and-drum-towers-ticket-english-audio", title: "Beijing: Bell and Drum Towers Ticket + English Audio Guide", description: "Entry ticket to the Bell and Drum Towers with an audio guide.", price: "From $20", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8b0effbfb1db3e4e13f16216e74bb11756352541e387ce531f6374157993b74.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Climb both towers if your ticket includes them — the views over the surrounding hutongs differ noticeably between the two.",
+          },
+        ],
+        faqs: [
+          { q: "Are the Bell and Drum Towers worth it in Beijing?", a: "Yes, for genuine history plus good rooftop views over the hutongs, and they pair easily with a hutong walk." },
+        ],
+      };
+
+    case "is-confucius-temple-worth-it-beijing":
+      return {
+        title: "Is the Confucius Temple and Guozijian Worth It in Beijing?",
+        description: "An honest look at Beijing's Confucius Temple and the adjacent Guozijian, the former imperial academy.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e0bdd810a1199a5b5c9c5e64eee84bab84eeaebea9bd09050e584e18eef11235.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "China's second-largest Confucius temple, paired with the former imperial academy next door, gives a genuinely quiet, scholarly counterpoint to Beijing's bigger imperial sites — and it sits right across the street from the Lama Temple, making the two easy to combine.",
+            tourCard: { slug: "beijing-confucius-temple-ticket-english-audio-pdf", title: "Beijing: Confucius Temple Ticket + English Audio & PDF Guide", description: "Entry ticket to the Confucius Temple and Guozijian with an audio guide.", price: "From $19", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e0bdd810a1199a5b5c9c5e64eee84bab84eeaebea9bd09050e584e18eef11235.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Combine it with the Lama Temple directly across the street to make the most of the trip out to this part of the city.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Confucius Temple worth it in Beijing?", a: "Yes, as a quiet, scholarly counterpoint to the city's bigger imperial sites, and it pairs easily with the Lama Temple across the street." },
+        ],
+      };
+
+    case "is-paper-cut-workshop-worth-it-beijing":
+      return {
+        title: "Is the Chinese Paper-Cut Window Flower Workshop Worth It in Beijing?",
+        description: "An honest look at Beijing's Chinese paper-cut (window flower) making workshop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb8327f59a1eddb3169522e2b505bec6f3df1ddf9eb5070e05cf73e6de41a8c6.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paper-cutting (jianzhi) is a genuine centuries-old Chinese folk art traditionally used to decorate windows for festivals, and this hands-on workshop produces a real souvenir you made yourself rather than a factory-made one from a gift shop.",
+            tourCard: { slug: "beijing-chinese-paper-cut-window-flower-workshop", title: "Beijing: Chinese Paper-Cut Window Flower Workshop", description: "A hands-on Chinese paper-cutting (window flower) workshop.", price: "From $22", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb8327f59a1eddb3169522e2b505bec6f3df1ddf9eb5070e05cf73e6de41a8c6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or rest-day activity that still produces a genuine handmade souvenir to take home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the paper-cut workshop worth it in Beijing?", a: "Yes, for a genuine centuries-old folk art craft and a handmade souvenir, especially as a change of pace from sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
