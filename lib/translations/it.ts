@@ -108832,44 +108832,43 @@ export const IT_TOURS: Record<string, TourT> = {
   ]
  },
  "liptons-seat-a-tea-factory-and-diyaluma-falls-day-tour-from-ella": {
-  "title": "Giornata tra Lipton's Seat, una fabbrica di tè e le cascate Diyaluma da Ella",
-  "metaTitle": "Giornata tra Lipton's Seat, una fabbrica di tè e le cascate Diyaluma da Ella",
-  "metaDescription": "Una giornata che unisce i due grandi punti panoramici di Uva: l'alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne che costruì nel 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
-  "shortDescription": "Una giornata che unisce i due grandi punti panoramici di Uva: l'alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne che costruì nel 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
-  "fullDescription": "Thomas Lipton acquistò le sue prime piantagioni di Ceylon nel 1890 e costruì la fabbrica Dambatenne, ancora attiva oggi. La storia racconta che salì a cavallo fino a uno sperone roccioso sopra di essa per osservare tutto ciò che possedeva, e quello sperone, Lipton's Seat, a circa 1.970 metri, in una mattina limpida guarda su cinque province.\n\nL'accento è sulla mattina. Entro le nove o le dieci la valle sottostante si riempie di nuvole e non c'è più nulla da vedere. È lo stesso problema di World's End e ha la stessa risposta, motivo per cui questo viaggio parte prima dell'alba.\n\nDambatenne stessa è uno degli impianti più antichi ancora attivi nello Sri Lanka, e il tour segue la foglia dalle vasche di appassimento, passando per rullatura, ossidazione e cottura, fino al tavolo di selezione.\n\nDiyaluma è il pomeriggio. Con 220 metri è la seconda cascata più alta del paese, che scende da un altopiano in un'unica lama d'acqua, ed è visibile per intero dalla strada. La salita alle piscine naturali a infinito in cima dura circa 45 minuti su terreno scosceso e scivoloso, ed è la parte che vale la pena fare se hai le gambe e le scarpe giuste.\n\nDi ritorno a Ella entro metà pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'entroterra collinare del sud, raggiunto dal treno da Kandy che molti considerano il viaggio in ferrovia più bello dell'Asia, e le sue attrazioni sono tutte entro pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola tra le piantagioni di tè, che un treno attraversa più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nel varco, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto e ogni guesthouse può trovarne uno.",
+  "title": "Lipton's Seat, una fabbrica del tè e le cascate Diyaluma: tour di un giorno da Ella",
+  "metaTitle": "Lipton's Seat, fabbrica del tè e cascate Diyaluma da Ella",
+  "metaDescription": "Alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne del 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
+  "shortDescription": "Una giornata che unisce i due grandi punti panoramici dell'Uva: l'alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne costruita nel 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
+  "fullDescription": "Thomas Lipton acquistò le sue prime piantagioni di Ceylon nel 1890 e costruì la fabbrica Dambatenne che funziona ancora oggi. Si racconta che salisse a cavallo su uno sperone di roccia sopra di essa per osservare tutto ciò che possedeva, e quello sperone, Lipton's Seat, a circa 1.970 metri, offre una vista su cinque province in una mattina limpida.\n\nL'enfasi è sulla mattina. Verso le nove o le dieci la valle sottostante si riempie di nuvole e non si vede più nulla. È lo stesso problema di World's End e ha la stessa soluzione, motivo per cui questo viaggio inizia prima dell'alba.\n\nDambatenne è una delle fabbriche più antiche ancora attive dello Sri Lanka, e il tour segue la foglia dalle vasche di appassimento attraverso rullatura, ossidazione e tostatura fino al tavolo di selezione.\n\nDiyaluma è il pomeriggio. Con i suoi 220 metri è la seconda cascata più alta del paese, che scende da una scarpata in un unico velo d'acqua, visibile per intero dalla strada. La salita alle piscine naturali a infinito in cima richiede circa 45 minuti su un terreno scosceso e instabile, ed è la parte che vale la pena fare se si hanno le gambe e le scarpe adatte.\n\nDi ritorno a Ella nel primo pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'altopiano collinare meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio ferroviario più bello dell'Asia, e le sue attrazioni si trovano tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di tè, attraversato dal treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada che scende verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovarne uno.",
   "highlights": [],
   "included": [
-   "Auto privata con aria condizionata e driver/guida in inglese",
-   "Ritiro e rientro in hotel",
-   "Tutti gli spostamenti e le soste",
-   "Carburante"
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel",
+   "Tutti i percorsi e le soste",
+   "Il carburante"
   ],
   "notIncluded": [
-   "L'ingresso alla fabbrica di tè",
-   "Pasti e bevande",
-   "Acquisti di tè",
-   "Le mance",
-   "Una guida locale alle cascate, se richiesta"
+   "L'ingresso alla fabbrica del tè",
+   "I pasti e le bevande",
+   "Gli acquisti di tè",
+   "Le mance"
   ]
  },
  "ella-to-arugam-bay-guided-transfer-with-waterfalls-temples": {
-  "title": "Trasferimento guidato da Ella ad Arugam Bay con cascate, templi e Buduruwagala",
-  "metaTitle": "Trasferimento guidato da Ella ad Arugam Bay con cascate, templi e Buduruwagala",
-  "metaDescription": "Lo spostamento dall'entroterra collinare alla città surfistica di Arugam Bay sulla costa orientale, con cascate, un giardino delle spezie e i Buddha scolpiti nella roccia a Buduruwagala sul percorso.",
-  "shortDescription": "Lo spostamento dall'entroterra collinare alla città surfistica di Arugam Bay sulla costa orientale, con cascate, un giardino delle spezie e i Buddha scolpiti nella roccia a Buduruwagala sul percorso.",
-  "fullDescription": "Arugam Bay è la città del surf dello Sri Lanka, sulla costa orientale, e segue il calendario opposto rispetto al resto del percorso classico: la sua stagione va circa da maggio a settembre, esattamente quando le coste occidentale e meridionale vengono agitate dal monsone sudoccidentale. Questa inversione è il motivo per cui un itinerario di luglio o agosto, che altrove sarebbe un compromesso, può qui essere un ottimo viaggio.\n\nArrivarci da Ella richiede circa quattro ore di guida giù dall'altopiano di Uva e attraverso le pianure secche, e la strada passa per diverse cose che vale la pena fermarsi a vedere.\n\nLe cascate Ravana arrivano prima, un'ampia cascata sotto Ella. Diyaluma, la seconda più alta dello Sri Lanka con 220 metri, segue.\n\nBuduruwagala è la sosta che giustifica il percorso. Sette figure scolpite in una parete di roccia nel nono o decimo secolo, con il Buddha in piedi centrale alto sedici metri, e tracce dello stucco e della pittura arancione originali ancora sulla pietra. È Mahayana piuttosto che Theravada, il che è inusuale qui, e si trova in una boscaglia secca con quasi nessuno nei dintorni.\n\nUn giardino delle spezie vicino a Wellawaya comprende cannella, pepe e le piante ayurvediche che crescono in ogni villaggio qui. Arrivi sulla costa nel pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'entroterra collinare del sud, raggiunto dal treno da Kandy che molti considerano il viaggio in ferrovia più bello dell'Asia, e le sue attrazioni sono tutte entro pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola tra le piantagioni di tè, che un treno attraversa più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nel varco, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto e ogni guesthouse può trovarne uno.",
+  "title": "Transfer guidato da Ella ad Arugam Bay con cascate, templi e Buduruwagala",
+  "metaTitle": "Transfer guidato da Ella ad Arugam Bay con cascate",
+  "metaDescription": "Il trasferimento da Ella alla città surfistica di Arugam Bay, con cascate, un giardino delle spezie e i Buddha di Buduruwagala.",
+  "shortDescription": "Il trasferimento dall'entroterra collinare alla città surfistica di Arugam Bay sulla costa orientale, con cascate, un giardino delle spezie e i Buddha scolpiti nella roccia di Buduruwagala lungo il percorso.",
+  "fullDescription": "Arugam Bay è la città del surf dello Sri Lanka, sulla costa orientale, e segue un calendario opposto rispetto al resto del paese: la sua stagione va circa da maggio a settembre, esattamente quando la costa occidentale e meridionale viene agitata dal monsone sudoccidentale. Questa inversione è il motivo per cui un itinerario di luglio o agosto, che altrove sarebbe un compromesso, può qui essere un viaggio molto riuscito.\n\nArrivarci da Ella richiede circa quattro ore di guida lungo la scarpata dell'Uva e attraverso le pianure secche, e la strada passa per diverse cose che vale la pena vedere.\n\nLe cascate Ravana sono la prima tappa, un'ampia cascata sotto Ella. Seguono le cascate Diyaluma, la seconda più alta dello Sri Lanka con i suoi 220 metri.\n\nBuduruwagala è la tappa che giustifica il percorso. Sette figure scolpite in una parete di roccia nel nono o decimo secolo, con il Buddha centrale in piedi alto sedici metri, con tracce dello stucco e della pittura arancione originali ancora sulla pietra. È mahayana piuttosto che theravada, cosa inusuale in questa regione, e si trova in una boscaglia secca quasi sempre deserta.\n\nUn giardino delle spezie vicino a Wellawaya copre la cannella, il pepe e le piante ayurvediche coltivate in ogni villaggio della zona. Si arriva sulla costa nel pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'altopiano collinare meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio ferroviario più bello dell'Asia, e le sue attrazioni si trovano tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di tè, attraversato dal treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada che scende verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovarne uno.",
   "highlights": [],
   "included": [
-   "Auto privata con aria condizionata e driver/guida in inglese",
+   "Auto privata con aria condizionata e driver-guida in inglese",
    "Ritiro in hotel",
-   "Tutte le soste sul percorso",
-   "Rientro al tuo hotel ad Arugam Bay",
+   "Tutte le soste lungo il percorso",
+   "Riaccompagno al tuo hotel ad Arugam Bay",
    "Trasporto dei bagagli per tutto il percorso"
   ],
   "notIncluded": [
    "Il biglietto d'ingresso a Buduruwagala",
-   "Pasti e bevande",
-   "Acquisti di spezie",
+   "I pasti e le bevande",
+   "Gli acquisti di spezie",
    "Le mance"
   ]
  },
@@ -109436,6 +109435,449 @@ export const IT_TOURS: Record<string, TourT> = {
    "Le mance",
    "L'attrezzatura escursionistica personale",
    "Le spese personali"
+  ]
+ },
+ "kandy-night-street-photography-walk-with-a-local-photographer": {
+  "title": "Passeggiata fotografica notturna nelle strade di Kandy con un fotografo locale",
+  "metaTitle": "Passeggiata fotografica notturna nelle strade di Kandy con un fotografo locale",
+  "metaDescription": "Due ore a fotografare Kandy dopo il tramonto con un fotografo locale: la facciata coloniale illuminata del Queen's Hotel, il lago, il mercato notturno e le strade attorno al Tempio del Dente Sacro.",
+  "shortDescription": "Due ore a fotografare Kandy dopo il tramonto con un fotografo locale: la facciata coloniale illuminata del Queen's Hotel, il lago, il mercato notturno e le strade attorno al Tempio del Dente Sacro.",
+  "fullDescription": "Kandy cambia dopo il tramonto. Il lago riflette il tempio illuminato e il Queen's Hotel, le strade attorno al mercato continuano a lavorare sotto le luci al neon, e il caldo finalmente scende abbastanza perché la gente esca e rimanga fuori. È una città molto migliore da fotografare di notte che di giorno, è molto più difficile.\n\nQuesta è una passeggiata di due ore con un fotografo che lavora qui. L'aspetto tecnico è il punto centrale: la fotografia di strada notturna significa gestire poca luce, temperatura colore mista e movimento tutto insieme, è la differenza tra uno scatto utilizzabile e uno sfocato di solito dipende da una decisione sulla velocita dell'otturatore presa in un secondo. Questo si insegna per strada, sulla tua stessa macchina fotografica, non spiegandolo in astratto.\n\nIl percorso copre la facciata coloniale del Queen's Hotel, l'edificio più fotografato di Kandy è quello che la maggior parte delle persone sbaglia; il lungolago, dove ci sono i riflessi; il mercato notturno, la sezione più difficile e più gratificante; e le strade attorno al Tempio del Dente Sacro.\n\nGruppi piccoli, perché la fotografia di strada con una folla non funziona: le persone notano sei macchine fotografiche e smettono di comportarsi normalmente.\n\nKandy fu l'ultima capitale dei re singalesi, resistendo a portoghesi e olandesi finché gli inglesi la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia una volta legittimava il regno. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando inizia il tamburo e la coda passa davanti allo scrigno. L'abbigliamento copre spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera a luglio o agosto fa sfilare lo scrigno su un elefante per la città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Un fotografo professionista come guida per la sessione di due ore",
+   "La passeggiata guidata"
+  ],
+  "notIncluded": [
+   "I trasferimenti in hotel",
+   "L'attrezzatura fotografica",
+   "I pasti e le bevande",
+   "Le mance",
+   "I biglietti d'ingresso ovunque siano richiesti"
+  ]
+ },
+ "peradeniya-botanic-gardens-photography-walk-with-a-professional": {
+  "title": "Passeggiata fotografica nei Giardini Botanici di Peradeniya con un fotografo professionista",
+  "metaTitle": "Passeggiata fotografica nei Giardini Botanici di Peradeniya con un fotografo professionista",
+  "metaDescription": "Una passeggiata fotografica guidata di tre ore nel Giardino Botanico Reale di Peradeniya con un fotografo attivo, tra il viale delle palme, la casa delle orchidee e il grande ficus giavanese.",
+  "shortDescription": "Una passeggiata fotografica guidata di tre ore nel Giardino Botanico Reale di Peradeniya con un fotografo attivo, tra il viale delle palme, la casa delle orchidee e il grande ficus giavanese.",
+  "fullDescription": "Il Giardino Botanico Reale di Peradeniya si estende su 60 ettari dentro un'ansa del fiume Mahaweli, disposto formalmente nel 1821 su un terreno che era stato un giardino reale fin dal quattordicesimo secolo. Fotografano bene e la maggior parte dei visitatori li fotografa male, perché la luce sotto una chioma chiusa è difficile e la scala degli alberi è quasi impossibile da trasmettere.\n\nQuesto è il motivo della passeggiata. Un fotografo attivo ti porta nelle parti del giardino che ripagano davvero una macchina fotografica: il viale delle palme da cavolo, piantato nel 1905 e che corre dritto come una freccia per un paio di centinaia di metri; la casa delle orchidee; i pini di Cook; e il ficus giavanese, un singolo albero la cui chioma copre circa 2.500 metri quadrati di prato e che nessuno fotografa bene per caso.\n\nL'insegnamento è pratico piuttosto che teorico: dove posizionarsi, cosa fa la luce sotto la chioma, come gestire il contrasto tra ombra e cielo, e come dare a un albero molto grande un senso di scala. Funziona tanto con un telefono quanto con una macchina fotografica, e il fotografo lavora con quello che hai.\n\nTre ore, gruppi piccoli, e alla fine porti a casa fotografie e non semplici scatti.\n\nKandy fu l'ultima capitale dei re singalesi, resistendo a portoghesi e olandesi finché gli inglesi la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia una volta legittimava il regno. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando inizia il tamburo e la coda passa davanti allo scrigno. L'abbigliamento copre spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera a luglio o agosto fa sfilare lo scrigno su un elefante per la città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Prelievo e riaccompagno in hotel a Kandy",
+   "Un fotografo professionista come guida",
+   "La sessione di tre ore nei giardini"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso ai giardini, pagato al cancello",
+   "L'attrezzatura fotografica",
+   "I pasti e le bevande",
+   "Le mance"
+  ]
+ },
+ "pekoe-trail-stage-1-guided-hike-from-kandy-hanthana-to-galaha": {
+  "title": "Pekoe Trail tappa 1, escursione guidata da Kandy: da Hanthana a Galaha",
+  "metaTitle": "Pekoe Trail tappa 1, escursione guidata da Kandy: da Hanthana a Galaha",
+  "metaDescription": "La tappa di apertura del Pekoe Trail, camminata dalla piantagione di te di Hanthana sopra Kandy attraverso la cresta fino a Galaha, con la città sotto da un lato e la regione collinare davanti dall'altro.",
+  "shortDescription": "La tappa di apertura del Pekoe Trail, camminata dalla piantagione di te di Hanthana sopra Kandy attraverso la cresta fino a Galaha, con la città sotto da un lato e la regione collinare davanti dall'altro.",
+  "fullDescription": "La tappa 1 del Pekoe Trail inizia sulla piantagione di Hanthana, sulla cresta subito sopra Kandy, il che la rende la tappa più accessibile di tutto il percorso di 300 chilometri ed è quella con la vista migliore sulla città.\n\nLa camminata sale attraverso la piantagione fino alla catena di Hanthana, sette cime in fila, con Kandy e il suo lago sotto a nord e la regione collinare che si apre verso sud. In una mattina limpida si vede la catena Knuckles dall'altra parte della valle e, a volte, fino ad Adam's Peak.\n\nDalla cresta il sentiero scende tra i pini e poi di nuovo nel tè, seguendo i sentieri di raccolta verso Galaha. Questo è camminare in un paesaggio al lavoro piuttosto che in una natura selvaggia: si passa davanti a case della piantagione, fabbriche di tè e raccoglitori con le loro borse, e la guida spiega cosa si sta guardando, trasformando una collina verde in un sistema con una storia.\n\nCirca 15 chilometri e una giornata intera. Il veicolo recupera al termine a Galaha, quindi non c'è un tratto di ritorno da camminare a piedi.\n\nCirca quindici chilometri e cinque o sei ore di camminata, su sentieri di piantagione piuttosto che un percorso tracciato. Scarpe adatte, non sandali. Dopo la pioggia il te ha le sanguisughe: sono inoffensive e ogni guida porta il sale, ma i calzini antisanguisuga vale la pena averli se li possiedi. Si parte presto: la vista dalla cresta è il motivo per fare questa tappa, e verso mezzogiorno di solito le nuvole la coprono.",
+  "highlights": [],
+  "included": [
+   "Trasporto da Kandy al punto di partenza e dal punto di arrivo",
+   "Una guida in lingua inglese",
+   "L'escursione guidata",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti",
+   "Le mance",
+   "L'attrezzatura escursionistica personale",
+   "Le spese personali"
+  ]
+ },
+ "pekoe-trail-stage-3-guided-hike-from-kandy-loolkandura-to-tawalantenne": {
+  "title": "Pekoe Trail tappa 3, escursione guidata da Kandy: da Loolkandura a Tawalantenne",
+  "metaTitle": "Pekoe Trail tappa 3, escursione guidata da Kandy: da Loolkandura a Tawalantenne",
+  "metaDescription": "Una giornata guidata sulla tappa 3 del Pekoe Trail, da Loolkandura, dove il te di Ceylon inizio nel 1867, a Tawalantenne, camminando sui sentieri delle piantagioni che seguirono.",
+  "shortDescription": "Una giornata guidata sulla tappa 3 del Pekoe Trail, da Loolkandura, dove il te di Ceylon inizio nel 1867, a Tawalantenne, camminando sui sentieri delle piantagioni che seguirono.",
+  "fullDescription": "Il Pekoe Trail è un percorso segnalato di 300 chilometri attraverso la regione del tè dello Sri Lanka, aperto nel 2023 e costruito quasi interamente su sentieri che esistevano già: le strade di piantagione, i sentieri di raccolta e i percorsi che collegavano le piantagioni prima che ci fossero strade tra loro.\n\nLa tappa 3 inizia a Loolkandura, dove è nata tutta l'industria. James Taylor piantò il primo te commerciale di Ceylon qui nel 1867 su 19 acri, dopo che la peronospora del caffe distrusse il raccolto precedente dell'isola. Le fondamenta del suo bungalow e il sito della fabbrica originale sono ancora nella piantagione, e il tè che cresce attorno discende da quelle piantagioni.\n\nDa li il sentiero corre verso Tawalantenne seguendo le curve di livello, che è il piacere di camminare nella regione del tè: i sentieri seguono il fianco della collina piuttosto che salirci sopra, quindi lo sforzo resta moderato mentre le vedute continuano ad aprirsi. Si passa attraverso piantagioni al lavoro con raccoglitori all'opera, davanti a case di piantagione dove famiglie vivono da generazioni, e lungo creste con la catena Knuckles dall'altra parte della valle.\n\nUna guida conta su questa tappa: la storia è invisibile senza una guida, e i sentieri di piantagione si dividono di continuo.\n\nKandy fu l'ultima capitale dei re singalesi, resistendo a portoghesi e olandesi finché gli inglesi la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia una volta legittimava il regno. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando inizia il tamburo e la coda passa davanti allo scrigno. L'abbigliamento copre spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera a luglio o agosto fa sfilare lo scrigno su un elefante per la città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Trasporto da Kandy al punto di partenza e ritorno dal punto di arrivo",
+   "Una guida in lingua inglese",
+   "L'escursione guidata",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti",
+   "Le mance",
+   "L'attrezzatura escursionistica personale",
+   "Le spese personali"
+  ]
+ },
+ "knuckles-range-full-day-guided-hike-from-kandy-with-a-farmhouse-lunch": {
+  "title": "Catena Knuckles, escursione guidata di un giorno intero da Kandy con pranzo in fattoria",
+  "metaTitle": "Catena Knuckles, escursione guidata di un giorno intero da Kandy con pranzo in fattoria",
+  "metaDescription": "Un giorno intero camminando nella foresta protetta delle Knuckles sopra Kandy, attraverso foresta nebulosa e prateria fino alla cascata di Perumal Ella, con un bagno e un pranzo singalese in una fattoria.",
+  "shortDescription": "Un giorno intero camminando nella foresta protetta delle Knuckles sopra Kandy, attraverso foresta nebulosa e prateria fino alla cascata di Perumal Ella, con un bagno e un pranzo singalese in una fattoria.",
+  "fullDescription": "La catena Knuckles prende il nome dal modo in cui le sue cime sembrano un pugno chiuso visto da Kandy, ed e uno dei pochi posti dello Sri Lanka dove si puo camminare per un giorno intero senza incontrare un gruppo turistico. E un'area protetta riconosciuta dall'UNESCO che ospita foresta montana nebulosa, prateria di patana e specie che non esistono altrove: la catena si trova al punto d'incontro tra la zona umida e quella secca, motivo per cui la vegetazione cambia così bruscamente mentre la si attraversa.\n\nLa camminata sale attraverso il te e la foresta secondaria fino alla foresta più antica sopra, dove gli alberi portano muschio ed epifite e la nuvola resta nella chioma per buona parte della mattina. Il birdwatching qui e ottimo e le specie endemiche sono davvero trovabili: il bulbul dalle orecchie gialle, l'occhialino dello Sri Lanka, il pigliamosche bluastro.\n\nPerumal Ella e il punto di svolta, una cascata con una piscina alla base fredda abbastanza da essere uno shock e bassa abbastanza per sedersi. La maggior parte dei gruppi si ferma qui per un'ora.\n\nIl pranzo e in una fattoria nella catena: riso e curry, cucinato li, mangiato li. Il percorso di ritorno segue una linea diversa attraverso i villaggi, quindi non si ripercorre la mattinata.\n\nKandy fu l'ultima capitale dei re singalesi, resistendo a portoghesi e olandesi finché gli inglesi la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia una volta legittimava il regno. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando inizia il tamburo e la coda passa davanti allo scrigno. L'abbigliamento copre spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera a luglio o agosto fa sfilare lo scrigno su un elefante per la città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Trasporto da Kandy",
+   "Una guida escursionistica in inglese",
+   "La camminata guidata",
+   "Un pranzo singalese in una fattoria",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso all'area protetta dove previsti",
+   "Le mance",
+   "L'attrezzatura personale",
+   "Le spese personali"
+  ]
+ },
+ "kandyan-village-tour-from-kandy-with-a-rice-and-curry-cooking-class": {
+  "title": "Tour del villaggio kandiano da Kandy con corso di cucina di riso e curry",
+  "metaTitle": "Tour del villaggio kandiano da Kandy con corso di cucina di riso e curry",
+  "metaDescription": "Il percorso del villaggio kandiano con un corso di cucina alla fine: pelatura della cannella e raccolta del toddy al mattino, poi grattugiare, macinare e cucinare un riso e curry completo su un fuoco a legna, e mangiarlo.",
+  "shortDescription": "Il percorso del villaggio kandiano con un corso di cucina alla fine: pelatura della cannella e raccolta del toddy al mattino, poi grattugiare, macinare e cucinare un riso e curry completo su un fuoco a legna, e mangiarlo.",
+  "fullDescription": "Questa è la mattinata di villaggio con la cucina resa centrale piuttosto che incidentale. Si vede la campagna al lavoro: cannella pelata a mano, un raccoglitore su una palma di cocco che estrae il toddy, campi di spezie dove pepe e cardamomo crescono insieme, e poi si cucina con quello che ne viene fuori.\n\nIl riso e curry è il piatto nazionale ed è mal chiamato in inglese: non è un curry con il riso ma sei o sette piatti separati mangiati insieme, ognuno cucinato a modo suo. Un dhal condito con foglie di curry e semi di senape. Un sambol di cocco pestato con peperoncino e lime. Un jackfruit o un fagiolino cotto nel latte di cocco. Un pesce fritto o un curry d'uovo. Tutto costruito su una base di spezie macinate fresche.\n\nSi lavora in prima persona: grattugiando il cocco su una tradizionale grattugia hiramanaya, macinando la pasta di spezie su una pietra, cucinando in pentole di argilla su un fuoco a legna, che non si comporta come un fornello a gas ed e meta della lezione. L'ospite corregge mentre si procede.\n\nPoi ci si siede e si mangia quello che si e cucinato, che dopo una mattinata a macinare e grattugiare ha un sapore decisamente migliore di quanto avrebbe avuto in un ristorante.\n\nKandy fu l'ultima capitale dei re singalesi, resistendo a portoghesi e olandesi finché gli inglesi la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia una volta legittimava il regno. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando inizia il tamburo e la coda passa davanti allo scrigno. L'abbigliamento copre spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera a luglio o agosto fa sfilare lo scrigno su un elefante per la città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Prelievo e riaccompagno in hotel a Kandy",
+   "Una guida in lingua inglese",
+   "Le visite al villaggio e ai campi",
+   "Il corso di cucina con tutti gli ingredienti",
+   "Il pasto che si cucina"
+  ],
+  "notIncluded": [
+   "Le bevande oltre quelle servite con il pasto",
+   "Le mance",
+   "Gli acquisti di spezie",
+   "Le spese personali"
+  ]
+ },
+ "kandy-hills-tuk-tuk-breakfast-and-brunch-food": {
+  "title": "Giro gastronomico in tuk-tuk sulle colline di Kandy: colazione e brunch",
+  "metaTitle": "Tuk-tuk gastronomico sulle colline di Kandy",
+  "metaDescription": "Un giro in tuk-tuk dal centro di Kandy per un percorso gastronomico del mattino con circa 15 assaggi, lontano dal giro di templi e lago.",
+  "shortDescription": "Un giro in tuk-tuk dal centro di Kandy verso le colline per un percorso gastronomico del mattino con circa 15 assaggi, lontano dal consueto giro di templi e lago.",
+  "fullDescription": "Esci dal centro di Kandy in tuk-tuk e sali verso le colline per un percorso gastronomico del mattino costruito attorno a circa 15 assaggi, lontano dal consueto giro di templi e lago. Si parte vicino alla vecchia Bake House con pan di riso al vapore, panini dolci alla marmellata e una tazza di tè di Ceylon forte e cremoso, poi si passa veloci davanti alla storica torre dell'orologio di Kandy, nel verde circostante. Sosta in una cooperativa gestita da donne per piatti tradizionali della colazione singalese come il porridge di riso alle erbe, la torta di miglio, il riso al latte di cocco e le frittelle di lenticchie croccanti con sambal al peperoncino e cocco, seguiti da frittelle di jackfruit, torte di farina di riso e un groviglio di kottu di spaghetti di riso con curry di pomodoro, il tutto accompagnato da una bevanda al wood-apple diversa da qualsiasi altra cosa dell'isola. Il percorso si snoda tra le colline del tè, con il lago visibile a tratti tra gli alberi, prima di concludersi in una capanna a gestione familiare famosa per i suoi roti al cocco.",
+  "highlights": [],
+  "included": [
+   "Più di 15 assaggi di cibo e bevande",
+   "Trasporto in tuk-tuk per tutto il percorso",
+   "Guida gastronomica locale in inglese"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Le mance"
+  ]
+ },
+ "colombo-street-food-tour-by-rail-and-foot": {
+  "title": "Tour gastronomico di Colombo in treno e a piedi",
+  "metaTitle": "Tour gastronomico di Colombo in treno e a piedi",
+  "metaDescription": "Un tour gastronomico del mattino da Kollupitiya a Pettah che unisce un pittoresco tragitto in treno lungo la costa a più di 15 assaggi di street food singalese.",
+  "shortDescription": "Un tour gastronomico del mattino da Kollupitiya a Pettah che unisce un pittoresco tragitto in treno lungo la costa a più di 15 assaggi di street food singalese.",
+  "fullDescription": "Questo tour di mezza giornata inizia tra le bancarelle di frutta del mercato di Kollupitiya, dove una guida locale presenta alcuni dei prodotti più insoliti dello Sri Lanka, prima di fermarsi in un caffè singalese per croccanti frittelle ulundu vadai e bonda di patate speziate, accompagnate da un tè di Ceylon dolce e cremoso. Da lì, il tour prende un breve tragitto in treno lungo la costa, proprio accanto all'Oceano Indiano, prima di arrivare vicino a Pettah. Di nuovo a piedi, si assaggiano string hopper con curry e dhal in una trattoria locale, poi si attraversano le strade affollate di Pettah, oltre i minareti a righe della Moschea Jami Ul-Alfar, per croccanti samosa di pollo e un bicchiere di faluda allo sciroppo di rosa. Un pickle di frutta piccante e agrodolce chiamato achcharu e un ultimo spuntino a base di curry servito su foglia di banana, con un ricco curry di granchio, completano i più di 15 assaggi in circa quattro ore.",
+  "highlights": [],
+  "included": [
+   "Guida gastronomica locale",
+   "Più di 15 assaggi",
+   "Biglietto del treno",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Ritiro e riaccompagno in hotel",
+   "Le mance"
+  ]
+ },
+ "adams-peak-overnight-guided-climb-from-kandy-with-sunrise-at-the-summit": {
+  "title": "Salita notturna guidata all'Adam's Peak da Kandy con alba in cima",
+  "metaTitle": "Salita notturna all'Adam's Peak da Kandy con alba in cima",
+  "metaDescription": "La classica ascesa notturna dell'Adam's Peak da Kandy: 5.500 gradini con una guida, alba in cima, ritorno entro metà mattina.",
+  "shortDescription": "La classica ascesa notturna dell'Adam's Peak da Kandy: partenza verso mezzanotte, 5.500 gradini a lume di lanterna con una guida, l'alba in cima, e di ritorno a Kandy entro metà mattina.",
+  "fullDescription": "L'Adam's Peak è un cono di 2.243 metri nel mezzo di un santuario selvaggio di 224 chilometri quadrati, sacro a quattro religioni allo stesso tempo. I buddisti ritengono che l'impronta in cima sia quella del Buddha, gli induisti quella di Shiva, i musulmani e i cristiani quella di Adamo, motivo per cui la stagione del pellegrinaggio porta decine di migliaia di persone sulla stessa scalinata.\n\nLa salita si fa di notte, e non per effetto scenico. Sono circa 5.500 gradini su sette chilometri, e farla di giorno nei tropici sarebbe durissimo; farla tra le 2 e le 5 del mattino è semplicemente dura. Il sentiero è illuminato e fiancheggiato da bancarelle di tè durante la stagione da dicembre a maggio, e in quel periodo è un'esperienza davvero collettiva: famiglie, monaci, pellegrini anziani che la fanno scalzi.\n\nSi raggiunge la cima prima dell'alba. Con il tempo sereno, il sorgere del sole proietta l'ombra della montagna, un triangolo perfetto, sulle nuvole verso ovest, il motivo per cui la maggior parte delle persone viene qui. Il tempio in cima suona la campana per ogni pellegrino che arriva.\n\nPoi si scende, il che richiede circa lo stesso tempo e fa più male, e il furgone ti riporta a Kandy durante la mattinata.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Trasporto di andata e ritorno dal tuo hotel a Kandy in furgone",
+   "Guida in inglese per la salita",
+   "L'ascesa e la discesa"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Abbigliamento caldo",
+   "Torce",
+   "Le offerte al tempio in cima",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "private-kelani-river-rafting-day-trip-from-kandy-five-major-rapids": {
+  "title": "Rafting privato sul fiume Kelani da Kandy: i cinque rapidi principali",
+  "metaTitle": "Rafting privato sul Kelani da Kandy: cinque rapidi",
+  "metaDescription": "Il tratto completo del Kelani, cinque rapidi principali e quattro minori, come gita privata da Kandy con la tua guida e il tuo raft.",
+  "shortDescription": "Il tratto completo del Kelani, cinque rapidi principali e quattro minori, come gita privata da Kandy, con la tua guida, il tuo raft e un programma che è tuo e non di un gruppo.",
+  "fullDescription": "Questo è il tratto completo dei rapidi, non quello abbreviato: cinque rapidi principali e quattro più piccoli, inclusi i salti con nome che le guide annunciano man mano che ci si avvicina. Fatto in forma privata, è una giornata diversa dalla versione di gruppo: il tuo raft, la tua guida, e nessuna attesa per un furgone di dieci persone che finisce di cambiarsi.\n\nQuello che la prenotazione privata compra davvero è tempo sull'acqua. Le gite di gruppo seguono un programma fissato dall'inizio del gruppo successivo; un raft privato può risalire e rifare un rapido, fermarsi più a lungo nei tratti calmi per nuotare, o prendersi tutto con calma. Se viaggi con bambini o con qualcuno che ha timore dell'acqua, questa flessibilità vale più di quanto sembri.\n\nIl Kelani a Kitulgala è classificato 2-3, acqua da principianti ma con una forza reale. Le guide sono qualificate e il briefing copre i comandi di pagaiata e la posizione di nuoto prima che chiunque parta. Tra i rapidi il fiume si allarga e la corrente si azzera.\n\nIl tragitto da Kandy è di due ore in ciascuna direzione passando per Ginigathena e la zona del tè, ed è una strada panoramica anche senza il fiume alla fine.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Trasferimenti privati di andata e ritorno dal tuo hotel a Kandy",
+   "Un raft privato con guida qualificata",
+   "Casco, giubbotto di salvataggio e pagaia",
+   "Briefing di sicurezza",
+   "Spogliatoi"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "Le foto del fiume",
+   "Le spese personali"
+  ]
+ },
+ "kelani-river-rafting-day-from-kandy-with-guides-and-transfers": {
+  "title": "Giornata di rafting sul fiume Kelani da Kandy con guide e trasferimenti",
+  "metaTitle": "Rafting sul Kelani da Kandy con guide e trasferimenti",
+  "metaDescription": "Una giornata a Kitulgala con discesa guidata dai tre rapidi principali del Kelani e quattro minori, con trasferimenti da Kandy.",
+  "shortDescription": "Una giornata intera a Kitulgala con una discesa guidata dai tre rapidi principali del Kelani e quattro minori, con trasferimenti di andata e ritorno da Kandy e tempo in acqua tra un set e l'altro.",
+  "fullDescription": "Kitulgala è la città del rafting dello Sri Lanka, due ore a sudovest di Kandy sul lato umido delle colline. Qui il Kelani scende attraverso un tratto di rapidi classificato 2-3, abbastanza forte da far entrare acqua nel raft, ma abbastanza leggero da non richiedere esperienza.\n\nQuesta versione percorre la più breve delle due linee standard: tre rapidi principali e quattro più piccoli, con un istruttore su ogni raft che chiama le bracciate. Il briefing prima della partenza copre i comandi di pagaiata e, più utilmente, cosa fare se si finisce in acqua, cosa ragionevolmente possibile su un raft affollato e non un problema.\n\nTra un set di rapidi e l'altro il fiume si appiattisce e si può scendere e galleggiare, il che in una giornata calda è la parte che la gente ricorda di più. La giornata include i trasferimenti di andata e ritorno da Kandy e il tempo alla base per cambiarsi dopo.\n\nIl fiume è più forte tra maggio e luglio e di nuovo in novembre e dicembre. In un periodo secco i rapidi si attenuano e la gita diventa più tranquilla piuttosto che più corta, utile da sapere quando si scelgono le date.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Trasferimenti di andata e ritorno dal tuo hotel a Kandy",
+   "La sessione di rafting con istruttori qualificati",
+   "Casco, giubbotto di salvataggio e pagaia",
+   "Briefing di sicurezza",
+   "Spogliatoi alla base"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "Le fotografie dell'operatore del fiume",
+   "Le spese personali"
+  ]
+ },
+ "kitulgala-white-water-rafting-from-kandy-with-hotel-transfers": {
+  "title": "Rafting sul fiume Kitulgala da Kandy con trasferimenti in hotel",
+  "metaTitle": "Rafting a Kitulgala da Kandy con transfer in hotel",
+  "metaDescription": "Versione breve della gita di rafting a Kitulgala: tragitto con aria condizionata da Kandy e rapidi del Kelani, ritorno nel pomeriggio.",
+  "shortDescription": "Una versione più breve, di mezza giornata, della gita di rafting a Kitulgala: un tragitto con aria condizionata da Kandy, l'intero tratto di rapidi del Kelani incluse Virgin's Breast e Killer Falls, e ritorno nel primo pomeriggio.",
+  "fullDescription": "Questa è la versione efficiente. Mentre le gite di una giornata intera allungano il tragitto con cascate e fabbriche di tè, questa va a Kitulgala, fa rafting sul fiume e torna indietro: circa cinque ore e mezza porta a porta, che lascia intatto il resto della giornata a Kandy.\n\nIl percorso copre cinque rapidi importanti e quattro più piccoli, classificati 2-3. Hanno dei nomi e le guide li usano: Virgin's Breast, Killer Falls, Butter Crunch. Nessuno richiede esperienza, e ogni raft ha una guida che chiama le bracciate e gestisce la linea nell'acqua. Tra i rapidi il fiume si appiattisce e si può scendere e nuotare, il che in una giornata calda è metà del motivo per cui la gente viene.\n\nIl trasporto è un veicolo con aria condizionata piuttosto che un tuk-tuk, il che conta nelle due ore di guida in ciascuna direzione e conta ancora di più se piove. Tutta l'attrezzatura di sicurezza viene fornita e il briefing avviene prima che chiunque si avvicini all'acqua.\n\nNon è richiesta esperienza né capacità di nuoto: ogni raft ha una guida, giubbotti di salvataggio e caschi si indossano per tutto il tempo, e il briefing di sicurezza avviene a terra prima che chiunque salga a bordo. Kitulgala è nella zona umida, quindi il fiume scorre tutto l'anno e la pioggia è probabile in qualsiasi mese; porta un cambio di vestiti e lascia telefoni e portafogli nel veicolo invece di fidarti di una sacca stagna. Comunicaci le età del tuo gruppo al momento della prenotazione, poiché ogni operatore fissa il proprio limite minimo.",
+  "highlights": [],
+  "included": [
+   "Trasferimenti con aria condizionata dal tuo hotel a Kandy e ritorno",
+   "La sessione di rafting con una guida fiume qualificata",
+   "Casco, giubbotto di salvataggio e pagaia",
+   "Briefing di sicurezza",
+   "Spogliatoi"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "Foto o video dell'operatore del fiume",
+   "Le spese personali"
+  ]
+ },
+ "kandy-wood-carving-and-hand-painting-workshop-with-a-local-artisan": {
+  "title": "Laboratorio di intaglio del legno e pittura a mano a Kandy con un artigiano locale",
+  "metaTitle": "Laboratorio di intaglio del legno a Kandy",
+  "metaDescription": "Un laboratorio di cinque ore con un intagliatore kandyano: guarda le tecniche tradizionali, poi intaglia e dipingi un pezzo tuo.",
+  "shortDescription": "Un laboratorio di cinque ore con un intagliatore kandyano: guarda le tecniche tradizionali, poi intaglia e dipingi a mano un pezzo tuo, con tutti i materiali e gli strumenti forniti.",
+  "fullDescription": "Kandy è una città di artigiani del legno da quando è una capitale. Il Tempio del Dente, l'antica sala delle udienze e le maschere dei tamburini provengono tutti dalla stessa tradizione artigianale, e ci sono ancora botteghe di famiglia in città e nei dintorni dove il lavoro si fa a mano piuttosto che a macchina.\n\nQuesta sessione inizia con una dimostrazione. L'artigiano illustra gli strumenti, gli scalpelli, il martello, il modo in cui un disegno viene trasferito sulla sagoma, e spiega cosa significano i motivi kandyani ricorrenti, perché il loto, la vite liya vela e i bordi geometrici sono un vocabolario e non una semplice decorazione.\n\nPoi crei qualcosa. Ti viene data una sagoma preparata, e con l'artigiano che lavora al tuo fianco, intagli un disegno e lo dipingi a mano. Nessuno si aspetta che un primo tentativo sia perfetto, e lo scopo non è produrre un oggetto da vendere: è passare qualche ora a fare con le mani ciò che hai fotografato per tutta la settimana, e scoprire quanto sia più lento e difficile di quanto sembri.\n\nIl pezzo che realizzi resta tuo. Tutti i materiali, gli strumenti e le pitture sono forniti, e il pezzo è abbastanza piccolo da portare a casa.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "L'intero laboratorio con un artigiano locale",
+   "Tutti gli strumenti, le sagome e le pitture",
+   "Il pezzo che realizzi"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "Pezzi aggiuntivi acquistati nel laboratorio",
+   "Le spese personali"
+  ]
+ },
+ "kandy-and-pinnawala-day-trip-from-bentota-with-the-temple-of-the-tooth": {
+  "title": "Gita di un giorno a Kandy e Pinnawala da Bentota con il Tempio del Dente",
+  "metaTitle": "Gita a Kandy e Pinnawala da Bentota",
+  "metaDescription": "Una lunga giornata dalla costa di Bentota alla capitale collinare: l'orfanotrofio di Pinnawala, il Tempio del Dente e Peradeniya.",
+  "shortDescription": "Una lunga giornata nell'entroterra dalla costa di Bentota verso la capitale collinare: l'orfanotrofio degli elefanti di Pinnawala, il Tempio del Dente a Kandy, e i Giardini Botanici Reali di Peradeniya.",
+  "fullDescription": "Bentota è una città balneare e Kandy si trova tre ore e mezza nell'entroterra, il che rende questa una lunga giornata, ma per chiunque abbia un viaggio nello Sri Lanka interamente costiero, è l'unico giorno che mostra l'altro paese.\n\nPinnawala è la prima tappa e merita una descrizione onesta. È un orfanotrofio di elefanti fondato nel 1975 per animali trovati abbandonati o feriti, ospita circa ottanta elefanti, ed è anche fortemente commercializzato, con sessioni di bagno programmate per i gruppi turistici e la possibilità di pagare per dare loro da mangiare col biberon. Gli animali sono reali e il lavoro di salvataggio è reale; la presentazione è pensata per i visitatori. Se questa combinazione ti lascia a disagio, dillo al momento della prenotazione e la tappa può essere sostituita.\n\nKandy è il punto centrale della giornata. Il Tempio del Dente custodisce una reliquia del Buddha ed è il motivo per cui Kandy è un sito patrimonio dell'UNESCO, e la città che lo circonda, con il lago scavato dall'ultimo re nel 1807, il mercato, le colline che si stringono da ogni lato, è uno Sri Lanka completamente diverso dalla costa da cui si è partiti.\n\nI Giardini Botanici Reali di Peradeniya, appena fuori Kandy, chiudono la giornata prima del lungo viaggio di ritorno.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Bentota o Kalutara",
+   "Tutti i percorsi, il carburante e il parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Pinnawala, al Tempio del Dente e ai giardini botanici",
+   "I pasti e le bevande",
+   "Le mance"
+  ]
+ },
+ "udawalawe-to-kandy-private-transfer-via-ella-the-nine-arch-bridge": {
+  "title": "Transfer privato da Udawalawe a Kandy via Ella, il Nine Arch Bridge e Nuwara Eliya",
+  "metaTitle": "Transfer privato da Udawalawe a Kandy via Ella",
+  "metaDescription": "La lunga salita da Udawalawe attraverso Ella fino a Kandy, con cascate Ravana, Little Adam's Peak e il ponte Nine Arch.",
+  "shortDescription": "La lunga salita da Udawalawe attraverso Ella e la zona del tè fino a Kandy, con soste alle cascate Ravana, Little Adam's Peak, il ponte Nine Arch e il tempio Seetha Amman lungo il percorso.",
+  "fullDescription": "Da Udawalawe a Kandy si attraversa l'isola dalla pianura meridionale alle colline centrali, e la strada passa per Ella, il che significa che le due o tre cose per cui tutti vengono a Ella si trovano direttamente sul percorso.\n\nLe cascate Ravana sono la prima tappa, un'ampia cascata di 25 metri proprio accanto alla strada a sud di Ella, dal nome del re demone del Ramayana che si dice avesse nascosto Sita nelle grotte sopra di esse. Segue Little Adam's Peak: una camminata di 45 minuti su un sentiero a gradini fino alla vista migliore della zona, verso il varco tra le colline in direzione della costa meridionale.\n\nIl Nine Arch bridge è a venti minuti a piedi scendendo tra il tè dalla strada di Ella. Fu costruito in pietra e mattoni senza acciaio durante la Prima Guerra Mondiale, quando l'acciaio destinato a esso fu requisito per lo sforzo bellico, e i treni lo attraversano circa ogni due ore.\n\nIl tempio Seetha Amman vicino a Nuwara Eliya è un altro sito del Ramayana, colorato e frequentato da pellegrini indiani. Da lì la strada sale fino a 1.900 metri e poi scende per la via lunga fino a Kandy, arrivando in serata.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel nella zona di Udawalawe",
+   "Tutte le soste lungo il percorso",
+   "Riaccompagno al tuo hotel a Kandy",
+   "Trasporto dei bagagli per tutto il percorso"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso dove applicabili",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "kandy-to-nuwara-eliya-or-ambewela-station-transfer-with-craft-workshop": {
+  "title": "Transfer da Kandy a Nuwara Eliya o alla stazione di Ambewela con soste artigianali",
+  "metaTitle": "Transfer da Kandy a Nuwara Eliya con soste artigianali",
+  "metaDescription": "Un transfer guidato da Kandy con un museo delle gemme, un laboratorio di intaglio e uno studio di batik, verso Nuwara Eliya.",
+  "shortDescription": "Un transfer guidato da Kandy verso la zona del tè con un museo delle gemme, un laboratorio di intaglio del legno e uno studio di batik lungo il percorso, con arrivo a Nuwara Eliya o alla stazione ferroviaria di Ambewela.",
+  "fullDescription": "Ambewela è la stazione sopra Nanu Oya sulla linea ferroviaria delle colline, ed è un punto di arrivo utile se si sale sul treno lì piuttosto che alla stazione più trafficata più in basso. Questo transfer ti porta a entrambe, o semplicemente al tuo hotel a Nuwara Eliya.\n\nLe soste durante la salita sono quelle artigianali, piuttosto che il solito insieme di cascate e fabbriche. Prima un museo delle gemme e un laboratorio di taglio: lo Sri Lanka estrae zaffiri da duemila anni, il commercio passa per Ratnapura e Kandy, e vedere una pietra tagliata e classificata spiega molto sul perché i negozi di ogni città turistica vendano lo stesso prodotto a prezzi molto diversi. Poi uno studio di intaglio del legno, dove i motivi kandyani vengono scolpiti nell'ebano e nel jak con strumenti manuali, e un laboratorio di batik dove la cera viene disegnata a mano sul tessuto e il tessuto tinto a strati nel corso di più giorni.\n\nLa strada poi sale attraverso Ramboda e nelle piantagioni, e l'ultima ora è tè su entrambi i lati.\n\nL'arrivo è al tuo hotel a Nuwara Eliya o alla stazione di Ambewela, come concordato al momento della prenotazione.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Kandy",
+   "Tutte le soste nei laboratori",
+   "Riaccompagno a Nuwara Eliya o alla stazione di Ambewela",
+   "Trasporto dei bagagli per tutto il percorso"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso dove applicabili",
+   "I biglietti del treno",
+   "I pasti e le bevande",
+   "Gli acquisti nei laboratori",
+   "Le mance"
+  ]
+ },
+ "sigiriya-to-nuwara-eliya-private-transfer-with-dambulla-and-a-spice": {
+  "title": "Transfer privato da Sigiriya a Nuwara Eliya con Dambulla e un giardino delle spezie",
+  "metaTitle": "Transfer da Sigiriya a Nuwara Eliya con Dambulla",
+  "metaDescription": "Un transfer privato da Sigiriya a Nuwara Eliya, con i templi di Dambulla, il giardino delle spezie di Matale e una sosta a Kandy.",
+  "shortDescription": "Un transfer privato da Sigiriya o Dambulla fino a Nuwara Eliya, con i templi rupestri di Dambulla, il giardino delle spezie di Matale e una sosta a Kandy lungo la via verso la zona del tè.",
+  "fullDescription": "Questa è la lunga salita, dalla pianura della zona secca a circa 100 metri fino a Nuwara Eliya a 1.900, attraversando l'intero centro dell'isola. Il paesaggio cambia tre volte, e vale la pena fermarsi a notarlo.\n\nDambulla è la prima tappa, quindici minuti da Sigiriya: cinque grotte sotto una sporgenza di granito dipinte ininterrottamente per duemila anni, con circa 150 immagini del Buddha. Il percorso di accesso è più ripido di quanto sembri.\n\nMatale è terra di spezie. I giardini coltivano insieme cannella, cardamomo, pepe, noce moscata e vaniglia, e una camminata guidata rende evidenti le differenze in un modo che la lettura non riesce a fare.\n\nKandy si trova circa a metà strada e la sosta è breve: il lago e l'esterno del Tempio del Dente, a meno che non si voglia aggiungere un'ora e il biglietto per entrare. Da Kandy la strada sale senza sosta, e verso Ramboda la foresta lascia il posto al tè.\n\nSi raggiunge Nuwara Eliya nel pomeriggio, a 1.900 metri, dove l'aria è fredda e la città conserva ancora l'ippodromo, il campo da golf e l'ufficio postale in stile falso Tudor lasciato dagli inglesi.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Sigiriya o Dambulla",
+   "Tutte le soste",
+   "Riaccompagno al tuo hotel a Nuwara Eliya",
+   "Trasporto dei bagagli per tutto il percorso"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Dambulla e altrove",
+   "I pasti e le bevande",
+   "Gli acquisti di spezie",
+   "Le mance"
+  ]
+ },
+ "sigiriya-to-kandy-transfer-with-a-kandy-city-tour-on-arrival": {
+  "title": "Transfer da Sigiriya a Kandy con tour della città di Kandy all'arrivo",
+  "metaTitle": "Transfer da Sigiriya a Kandy con tour all'arrivo",
+  "metaDescription": "Il tragitto da Sigiriya a Kandy con soste lungo la strada e un tour della città all'arrivo: Dambulla, spezie, Tempio del Dente.",
+  "shortDescription": "Il tragitto da Sigiriya a Kandy con le soste lungo la strada e un tour della città all'arrivo: le grotte di Dambulla, un giardino delle spezie, un laboratorio di intaglio del legno, poi il Tempio del Dente, il lago e i punti panoramici.",
+  "fullDescription": "La maggior parte dei transfer da Sigiriya a Kandy ti lasciano al tuo hotel nel primo pomeriggio e ti lasciano scoprire la città da solo. Questo invece mantiene la guida per il resto della giornata e trasforma l'arrivo in un tour.\n\nIl tratto stradale è quello standard e buono: i templi rupestri di Dambulla, quindici minuti da Sigiriya, cinque grotte sotto una sporgenza di granito dipinte per duemila anni; un giardino delle spezie a Matale che coltiva insieme cannella, cardamomo, pepe e noce moscata; e un laboratorio di intaglio del legno o erboristeria nel quartiere artigianale lungo la discesa.\n\nA Kandy la giornata continua invece di fermarsi. Il Buddha di Bahirawakanda sulla collina sopra la città offre la miglior vista gratuita della città. Il lago, scavato dall'ultimo re nel 1807, è una passeggiata in piano. Il Tempio del Dente è il motivo per cui Kandy è un sito patrimonio dell'umanità, e se i tempi lo permettono puoi esserci per la puja delle 18:30, quando si apre la camera della reliquia.\n\nSi conclude al tuo hotel avendo coperto sia il viaggio che la città in un solo giorno, il che su un itinerario stretto fa risparmiare un'intera giornata di viaggio.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Sigiriya, Dambulla o Habarana",
+   "Tutte le soste lungo la strada",
+   "Il tour della città di Kandy",
+   "Riaccompagno al tuo hotel a Kandy",
+   "Trasporto dei bagagli per tutto il percorso"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Dambulla e al Tempio del Dente",
+   "I pasti e le bevande",
+   "Le mance",
+   "Gli acquisti nei laboratori"
+  ]
+ },
+ "kandy-to-trincomalee-transfer-via-sigiriya-rock-and-the-dambulla-caves": {
+  "title": "Transfer da Kandy a Trincomalee via la roccia di Sigiriya e le grotte di Dambulla",
+  "metaTitle": "Transfer da Kandy a Trincomalee via Sigiriya",
+  "metaDescription": "Il tragitto da Kandy alla costa orientale con la roccia di Sigiriya e le grotte di Dambulla, poi Trincomalee.",
+  "shortDescription": "Il tragitto da Kandy alla costa orientale con entrambi i siti migliori del triangolo culturale incorporati: la roccia di Sigiriya e le grotte di Dambulla lungo il percorso, poi Trincomalee per l'arrivo al tuo hotel.",
+  "fullDescription": "Da Kandy a Trincomalee è un lungo viaggio con i due migliori siti del paese che si trovano quasi esattamente sul percorso, il che rende farlo come semplice transfer un vero spreco.\n\nSigiriya viene prima, e presto. La cittadella del quinto secolo sullo sperone di granito è 1.200 gradini in salita, oltre gli affreschi del muro degli specchi e le zampe di leone, con giardini d'acqua simmetrici disposti sotto che funzionano ancora dopo millecinquecento anni. Salirla al mattino fa la differenza tra un'ora buona e un'ora dura.\n\nDambulla è a quindici minuti: cinque grotte scavate sotto una sporgenza di granito e dipinte dal pavimento al soffitto per duemila anni, con circa 150 immagini del Buddha. Fresca e scura, il che a metà mattina è un piacere.\n\nDa Dambulla sono circa due ore e mezza verso nordest fino a Trincomalee, e il paesaggio si appiattisce e si inaridisce man mano che si avanza. Trincomalee ha uno dei porti naturali in acque profonde più belli del mondo, il tempio Koneswaram su una scogliera sopra di esso, e le spiagge di Uppuveli e Nilaveli, che si trovano sul lato secco dell'isola da maggio a settembre, esattamente quando la costa meridionale è inagibile per il bagno.\n\nSigiriya è una colonna di roccia alta 200 metri che si innalza dalla pianura della zona secca, sulla quale il re Kasyapa costruì il suo palazzo nel quinto secolo dopo aver usurpato il trono, ed è un sito UNESCO dal 1982. La salita conta circa 1.200 gradini su scalinate e passerelle di ferro, oltre il muro degli specchi con i suoi graffiti millenari e la galleria coperta di affreschi, fino alle zampe di leone che danno il nome alla roccia e alle fondamenta del palazzo in cima. Per la maggior parte delle persone richiede un'ora e mezza tra andata e ritorno ed è meglio iniziarla alle 7:00, prima del caldo e dei pullman; il biglietto per i visitatori stranieri è tra i più costosi del paese, e Pidurangala, la roccia vicina, offre la vista classica su Sigiriya per una frazione del prezzo.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel a Kandy",
+   "Entrambe le visite ai siti",
+   "Riaccompagno al tuo hotel a Trincomalee",
+   "Trasporto dei bagagli per tutto il percorso, carburante e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso a Sigiriya e Dambulla",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "heeloya-village-full-day-tour-from-kandy-with-organic-farming-and-lunch": {
+  "title": "Tour di un'intera giornata al villaggio di Heeloya da Kandy con agricoltura biologica e pranzo",
+  "metaTitle": "Tour di un giorno al villaggio di Heeloya da Kandy",
+  "metaDescription": "Una giornata intera a Heeloya, a est di Kandy: agricoltura biologica, coltivazione di spezie, irrigazione e pranzo in famiglia.",
+  "shortDescription": "Una giornata intera nel villaggio di Heeloya, a est di Kandy, più lunga delle versioni di mezza giornata: agricoltura biologica, coltivazione di spezie, il sistema di irrigazione e un pranzo fatto in casa con la famiglia.",
+  "fullDescription": "Heeloya è un villaggio agricolo sulle colline a est di Kandy, e questa è la versione lunga della visita: dieci ore invece di otto, con tempo per fermarsi tra un'attività e l'altra invece di passare subito alla successiva.\n\nLa mattina è dedicata alla terra. Si cammina tra le risaie con un ospite locale e viene spiegato il sistema di irrigazione: la vasca, i canali, l'ordine in cui i campi ricevono l'acqua. Lo Sri Lanka gestisce questo sistema da duemila anni, ed è un'opera di ingegneria più che un dettaglio pittoresco.\n\nLa coltivazione biologica è l'altra metà. Si tratta di piccoli appezzamenti, non di piantagioni, e le colture di spezie crescono pepe, cardamomo, curcuma e cannella insieme alle colture alimentari piuttosto che in filari in monocoltura, il che è sempre stato il modo in cui si fa qui e il motivo per cui il terreno resiste.\n\nIl pranzo si cucina in una casa del villaggio con il tuo aiuto: cocco grattugiato su una hiramanaya, pasta di spezie macinata sulla pietra, pentole di terracotta sul fuoco a legna, e si mangia con la famiglia che ti ha aiutato a prepararlo.\n\nLe ore extra rispetto alla versione di mezza giornata vanno nel pomeriggio: un carro trainato da buoi, una camminata, e tempo abbastanza perché la giornata smetta di sembrare un programma.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "Una guida in inglese",
+   "La camminata nel villaggio e le visite agricole",
+   "Il carro trainato da buoi",
+   "Un pranzo fatto in casa"
+  ],
+  "notIncluded": [
+   "Le bevande oltre quelle servite con il pranzo",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "one-hour-kandy-wood-carving-workshop-with-tuk-tuk-transfers": {
+  "title": "Laboratorio di intaglio del legno di un'ora a Kandy con trasferimenti in tuk-tuk",
+  "metaTitle": "Laboratorio di intaglio del legno di un'ora a Kandy",
+  "metaDescription": "Un'ora pratica con un intagliatore kandyano, con trasferimenti in tuk-tuk dal tuo hotel: la versione breve del laboratorio.",
+  "shortDescription": "Un'ora pratica e breve con un intagliatore kandyano, con trasferimenti in tuk-tuk dal tuo hotel: la versione compatta per chi vuole provare l'artigianato senza dedicarci mezza giornata.",
+  "fullDescription": "Questa è la versione breve del laboratorio di intaglio, ed esiste per un motivo specifico: un pomeriggio a Kandy è spesso già impegnato, e un'ora è sufficiente per creare davvero qualcosa.\n\nL'artigiano inizia con una dimostrazione: gli scalpelli, il martello, il modo in cui un disegno viene trasferito sulla sagoma, e cosa significano i motivi kandyani ricorrenti. Il loto, la vite liya vela e i bordi geometrici sono un vocabolario che attraversa tutto, dalle porte dei templi alle maschere di danza, e dieci minuti di spiegazione cambiano il modo in cui guardi il resto di Kandy.\n\nPoi intagli. Ti vengono dati una sagoma preparata e gli strumenti, e l'artigiano lavora al tuo fianco correggendo piuttosto che sostituendoti. Un'ora basta per un piccolo pezzo, che ti porti a casa.\n\nI trasferimenti in tuk-tuk dal tuo hotel sono inclusi, il che conta perché i laboratori si trovano nelle strade artigianali piuttosto che sul percorso turistico e non sono facili da trovare da solo.\n\nIl pezzo che realizzi è piccolo: un'ora di lavoro di scalpello su una sagoma preparata, non un pannello finito, e torna a casa con te. Da sapere in anticipo: la maggior parte dei laboratori di intaglio a Kandy ha una sala espositiva annessa, che ti verrà mostrata alla fine. Non c'è alcun obbligo di acquisto, e il costo del laboratorio resta indipendente da quello.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in tuk-tuk a Kandy",
+   "Il laboratorio di un'ora con un artigiano locale",
+   "Tutti gli strumenti e i materiali",
+   "Il pezzo che realizzi"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "Pezzi aggiuntivi acquistati nel laboratorio"
+  ]
+ },
+ "kandy-full-day-private-tour-temple-of-the-tooth-peradeniya": {
+  "title": "Tour privato di un'intera giornata a Kandy: Tempio del Dente, Peradeniya e spettacolo culturale",
+  "metaTitle": "Tour privato di un giorno a Kandy: Dente e Peradeniya",
+  "metaDescription": "La giornata completa di Kandy con guida privata: Tempio del Dente, Bahirawakanda, laboratori, Peradeniya e danza kandyana.",
+  "shortDescription": "La giornata completa di Kandy con una guida privata: il Tempio del Dente, il Buddha di Bahirawakanda, il lago, i laboratori artigianali, i giardini botanici di Peradeniya e uno spettacolo di danza kandyana la sera.",
+  "fullDescription": "Kandy resistette ai portoghesi e agli olandesi e cadde in mano britannica solo nel 1815, e porta ancora oggi i modi di una capitale piuttosto che di una città di provincia. Una giornata intera con una guida privata è ciò che serve per capire perché.\n\nIl Tempio del Dente è il centro di tutto. Custodisce una reliquia del Buddha, è il motivo per cui Kandy è un sito patrimonio dell'UNESCO, e la regalità dell'isola era storicamente legata al possesso della reliquia. Tre puja al giorno aprono la camera della reliquia a una fila in movimento, con i tamburini, e sincronizzare la visita con una di esse fa la differenza tra un tempio e un evento.\n\nIl resto della giornata si costruisce attorno a esso: il Buddha di Bahirawakanda sulla collina, 27 metri di cemento bianco con la vista migliore sulla città; il lago, scavato dall'ultimo re nel 1807; i laboratori di batik, gemme e intaglio del legno da cui la corte si approvvigionava un tempo; e i Giardini Botanici Reali di Peradeniya, 60 ettari in un'ansa del fiume Mahaweli.\n\nLa sera è uno spettacolo di danza kandyana: tamburi, danza mascherata e un finale di camminata sul fuoco. È uno spettacolo pensato per i visitatori ed è onesto su questo; i tamburi sono autentici e valgono il biglietto da soli.\n\nKandy fu l'ultima capitale dei re singalesi, che resistette ai portoghesi e agli olandesi finché gli inglesi non la presero nel 1815, e il Tempio della Sacra Reliquia del Dente sul lago è il motivo per cui conta: la reliquia, ritenuta un dente del Buddha, è l'oggetto più sacro dell'isola e la sua custodia legittimava un tempo la regalità. La camera della reliquia apre per la puja tre volte al giorno, verso le 5:30, le 9:30 e le 18:30, quando iniziano i tamburi e la fila avanza davanti al reliquiario. L'abbigliamento deve coprire spalle e ginocchia, le scarpe si tolgono all'ingresso, e l'Esala Perahera di luglio o agosto fa sfilare il reliquiario su un elefante per le strade della città per dieci notti.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Kandy",
+   "Tutti i trasferimenti tra i siti, carburante e parcheggio",
+   "Guida per tutta la giornata"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al Tempio del Dente, ai giardini botanici e allo spettacolo di danza",
+   "I pasti e le bevande",
+   "Le mance",
+   "Gli acquisti nei laboratori"
   ]
  },
  "flyboard-experience-in-pattaya": {
