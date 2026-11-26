@@ -2419,6 +2419,8 @@ export const SAPA_INFO_SLUGS = [
   'is-overnight-train-tour-worth-it-sapa',
   'is-alpine-coaster-worth-it-sapa', 'is-glass-bridge-tour-worth-it-sapa',
   'is-mountain-biking-worth-it-sapa', 'is-hmong-cooking-class-worth-it-sapa',
+  'is-cat-cat-village-tour-worth-it-sapa', 'is-beeswax-indigo-dyeing-workshop-worth-it-sapa',
+  'is-pho-cooking-class-worth-it-sapa', 'is-hmong-homestay-worth-it-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [

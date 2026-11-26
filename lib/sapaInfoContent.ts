@@ -979,6 +979,90 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-cat-cat-village-tour-worth-it-sapa":
+      return {
+        title: "Is the Cat Cat Village Cultural Discovery Tour Worth It in Sapa?",
+        description: "An honest look at the Cat Cat Village cultural discovery half-day tour in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cat-cat-village-cultural-discovery-half-day-tour-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cat Cat is a genuine Black Hmong village just outside Sapa town, with a scenic waterfall and genuinely easy walking paths, making it a good lower-effort option for travelers who want Hmong village culture without a full day of trekking.",
+            tourCard: { slug: "cat-cat-village-cultural-discovery-half-day-tour-in-sapa", title: "Cat Cat Village Cultural Discovery Half-Day Tour in Sapa", description: "A half-day cultural discovery tour of Cat Cat Village.", price: "From $41", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/cat-cat-village-cultural-discovery-half-day-tour-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick if you want genuine Hmong village culture without committing to a full-day trek through Muong Hoa Valley.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cat Cat Village tour worth it in Sapa?", a: "Yes, for genuine Hmong village culture and an easy waterfall walk, without the commitment of a full-day trek." },
+        ],
+      };
+
+    case "is-beeswax-indigo-dyeing-workshop-worth-it-sapa":
+      return {
+        title: "Is the Hmong Beeswax Painting and Indigo Dyeing Workshop Worth It in Sapa?",
+        description: "An honest look at the Hmong beeswax painting and indigo dyeing workshop in Sapa.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200847/asiabylocals/tours/hmong-beeswax-painting-and-indigo-dyeing-workshop-in-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Beeswax batik painting followed by indigo dyeing is a genuine traditional Hmong textile technique used to decorate their distinctive clothing, and learning both steps hands-on gives real insight into how those textiles are actually made.",
+            tourCard: { slug: "hmong-beeswax-painting-and-indigo-dyeing-workshop-in-sapa", title: "Hmong Beeswax Painting and Indigo Dyeing Workshop in Sapa", description: "A hands-on Hmong beeswax painting and indigo dyeing workshop.", price: "From $39", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200847/asiabylocals/tours/hmong-beeswax-painting-and-indigo-dyeing-workshop-in-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting dye on — indigo dyeing is a genuinely messy, hands-on process.",
+          },
+        ],
+        faqs: [
+          { q: "Is the beeswax painting and indigo dyeing workshop worth it in Sapa?", a: "Yes, for genuine insight into how traditional Hmong textiles are actually made, not just a finished product in a shop." },
+        ],
+      };
+
+    case "is-pho-cooking-class-worth-it-sapa":
+      return {
+        title: "Is the Pho Noodle Soup Cooking Class Worth It in Sapa?",
+        description: "An honest look at the pho noodle soup cooking class in Sapa.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201075/asiabylocals/tours/pho-noodle-soup-cooking-class-in-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pho is Vietnam's most iconic dish, and learning to build the broth and balance the herbs yourself is a distinctly different, more specific culinary skill than the broader Hmong family cooking class already offered in Sapa.",
+            tourCard: { slug: "pho-noodle-soup-cooking-class-in-sapa", title: "Pho Noodle Soup Cooking Class in Sapa", description: "A hands-on pho noodle soup cooking class.", price: "From $39", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201075/asiabylocals/tours/pho-noodle-soup-cooking-class-in-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pay close attention to the broth-building technique — it's the genuine skill that separates good pho from average pho.",
+          },
+        ],
+        faqs: [
+          { q: "Is the pho cooking class worth it in Sapa?", a: "Yes, for a distinctly specific culinary skill — building the broth properly — beyond the broader Hmong family cooking class." },
+        ],
+      };
+
+    case "is-hmong-homestay-worth-it-sapa":
+      return {
+        title: "Is the 2-Day Hmong Homestay and Local Culture Experience Worth It in Sapa?",
+        description: "An honest look at the 2-day Hmong homestay and local culture experience in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-hmong-homestay-and-local-culture-experience-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spending an actual night in a Hmong family's home gives a genuinely deeper cultural immersion than a day trek alone, including shared meals and daily life you wouldn't otherwise see — worth it specifically for travelers willing to trade comfort for authenticity.",
+            tourCard: { slug: "2-day-hmong-homestay-and-local-culture-experience-in-sapa", title: "2-Day Hmong Homestay and Local Culture Experience in Sapa", description: "A 2-day Hmong homestay experience with local culture immersion.", price: "From $47", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-hmong-homestay-and-local-culture-experience-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect basic accommodation — this trades comfort for genuine cultural immersion, so set expectations accordingly before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hmong homestay experience worth it in Sapa?", a: "Yes, for travelers willing to trade comfort for a genuinely deeper cultural immersion than a single day trek offers." },
+        ],
+      };
+
     default:
       return null;
   }
