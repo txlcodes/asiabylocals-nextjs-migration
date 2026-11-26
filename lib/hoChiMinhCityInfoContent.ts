@@ -1031,6 +1031,91 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-secret-bunker-war-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Secret Bunker and Vietnam War Walking Tour Worth It in Ho Chi Minh City?",
+        description: "An honest look at the secret bunker and Vietnam War walking tour in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/secret-bunker-and-vietnam-war-walking-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walking tour visits a genuine wartime bunker hidden within the city itself, a different format from the Cu Chi Tunnels' underground tunnel network — a more urban, walkable angle on the Vietnam War for travelers who don't want a half-day trip outside the city.",
+            tourCard: { slug: "secret-bunker-and-vietnam-war-walking-tour", title: "Secret Bunker and Vietnam War Walking Tour", description: "A walking tour of a secret wartime bunker in Ho Chi Minh City.", price: "From $33", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/secret-bunker-and-vietnam-war-walking-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick if you want genuine Vietnam War history without committing to the half-day trip out to the Cu Chi Tunnels.",
+          },
+        ],
+        faqs: [
+          { q: "Is the secret bunker and Vietnam War walking tour worth it?", a: "Yes, for genuine wartime history within the city itself, without the half-day commitment the Cu Chi Tunnels require." },
+        ],
+      };
+
+    case "is-conical-hat-painting-workshop-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Conical Hat Painting Workshop Worth It in Ho Chi Minh City?",
+        description: "An honest look at the conical hat (nón lá) painting workshop in Ho Chi Minh City.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200348/asiabylocals/tours/conical-hat-painting-workshop-in-ho-chi-minh-city/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The conical hat (nón lá) is one of Vietnam's most recognizable symbols, and painting your own under guidance turns a familiar souvenir into a genuinely personal, handmade one rather than a mass-produced market item.",
+            tourCard: { slug: "conical-hat-painting-workshop-in-ho-chi-minh-city", title: "Conical Hat Painting Workshop in Ho Chi Minh City", description: "A hands-on conical hat painting workshop.", price: "From $39", duration: "2.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200348/asiabylocals/tours/conical-hat-painting-workshop-in-ho-chi-minh-city/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home the hat you paint — a genuinely personal souvenir rather than a mass-produced market version.",
+          },
+        ],
+        faqs: [
+          { q: "Is the conical hat painting workshop worth it in Ho Chi Minh City?", a: "Yes, for a genuinely personal, handmade version of one of Vietnam's most recognizable souvenirs." },
+        ],
+      };
+
+    case "is-rug-tufting-workshop-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Rug Tufting Workshop Worth It in Saigon?",
+        description: "An honest look at the rug tufting workshop in Saigon (Ho Chi Minh City).",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/rug-tufting-workshop-in-saigon/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rug tufting using a tufting gun is a genuinely modern craft trend rather than a traditional Vietnamese one, giving this a different, more contemporary creative outlet than the city's lacquer and ceramic workshops — a good fit for travelers specifically looking for a design-forward activity.",
+            tourCard: { slug: "rug-tufting-workshop-in-saigon", title: "Rug Tufting Workshop in Saigon", description: "A hands-on rug tufting workshop in Saigon.", price: "From $36", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/rug-tufting-workshop-in-saigon/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home a genuinely usable small rug or mat, not just a decorative trinket — a more substantial souvenir than most craft workshops produce.",
+          },
+        ],
+        faqs: [
+          { q: "Is the rug tufting workshop worth it in Saigon?", a: "Yes, for a modern, design-forward creative activity distinct from the city's more traditional craft workshops." },
+        ],
+      };
+
+    case "is-slum-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Motorbike Slum Tour Worth It in Ho Chi Minh City?",
+        description: "An honest, even-handed look at the motorbike slum tour in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/motorbike-slum-tour-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour rides through lower-income neighborhoods most tourists never see, which can offer genuine insight into everyday local resourcefulness rather than the curated city-center version of Saigon — whether it's right for you depends on your comfort with the format and confidence that the specific operator and guide genuinely benefit the community they ride you through.",
+            tourCard: { slug: "motorbike-slum-tour-in-ho-chi-minh-city", title: "Motorbike Slum Tour in Ho Chi Minh City", description: "A motorbike tour through lower-income neighborhoods of Ho Chi Minh City.", price: "From $30", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/motorbike-slum-tour-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator directly how the tour benefits the community and whether local guides from the area itself lead the ride — a genuinely ethical operator should answer this clearly and specifically.",
+          },
+        ],
+        faqs: [
+          { q: "Is a slum tour in Ho Chi Minh City ethical?", a: "It depends entirely on the specific operator — ask directly how the community benefits and whether local guides lead the ride, and expect a clear, specific answer." },
+          { q: "Is the motorbike slum tour worth it?", a: "It can be, for travelers genuinely interested in everyday local life rather than treating the neighborhood as a spectacle — confirm the operator's community-benefit model first." },
+        ],
+      };
+
     default:
       return null;
   }
