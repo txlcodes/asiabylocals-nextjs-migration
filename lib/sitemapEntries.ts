@@ -2340,6 +2340,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-gate-of-heaven-tour-worth-it-nusa-penida', 'is-lembongan-ceningan-day-trip-worth-it-nusa-penida',
     'is-west-coast-tour-worth-it-nusa-penida',
     'is-lembongan-ceningan-tuk-tuk-tour-worth-it-nusa-penida', 'is-diving-tour-hotel-transfer-worth-it-nusa-penida',
+    'is-padel-class-worth-it-nusa-penida', 'is-turtle-conservation-cave-temple-tour-worth-it-nusa-penida',
+    'is-open-air-buggy-tour-worth-it-nusa-penida', 'is-mangrove-point-snorkeling-worth-it-nusa-penida',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
     lastModified: new Date(),

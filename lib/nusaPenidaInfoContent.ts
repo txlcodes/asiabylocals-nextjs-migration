@@ -1092,6 +1092,90 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-padel-class-worth-it-nusa-penida":
+      return {
+        title: "Is the Padel Club Beginner Class Worth It in Nusa Penida?",
+        description: "An honest look at the padel club beginner class with equipment in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/padel-club-beginner-class-with-equipment-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Padel is a genuinely fast-growing racquet sport, and a beginner class with equipment provided gives an easy, low-commitment way to try it, a distinctly different activity from the island's snorkeling and cliff-viewpoint circuit.",
+            tourCard: { slug: "padel-club-beginner-class-with-equipment-in-nusa-penida", title: "Padel Club Beginner Class with Equipment in Nusa Penida", description: "A beginner padel class with equipment provided.", price: "From $38", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/padel-club-beginner-class-with-equipment-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior racquet-sport experience is needed — the class is built for genuine beginners.",
+          },
+        ],
+        faqs: [
+          { q: "Is the padel beginner class worth it in Nusa Penida?", a: "Yes, for a fun, low-commitment introduction to a fast-growing sport, distinct from the island's snorkeling and viewpoint circuit." },
+        ],
+      };
+
+    case "is-turtle-conservation-cave-temple-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Turtle Conservation and Massive Cave Temple Tour Worth It in Nusa Penida?",
+        description: "An honest look at the turtle conservation and massive cave temple tour in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-turtle-conservation-massive-cave-temple/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a genuine sea turtle conservation visit with a striking cave temple gives two distinct experiences in one trip — wildlife conservation and a dramatic underground religious site — well off the island's main cliff-viewpoint circuit.",
+            tourCard: { slug: "nusa-penida-turtle-conservation-massive-cave-temple", title: "Nusa Penida: Turtle Conservation, Massive Cave Temple", description: "A tour combining a turtle conservation visit with a massive cave temple.", price: "From $75", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-turtle-conservation-massive-cave-temple/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator directly how the conservation program benefits the turtles before booking, to confirm it's a genuine conservation effort.",
+          },
+        ],
+        faqs: [
+          { q: "Is the turtle conservation and cave temple tour worth it in Nusa Penida?", a: "Yes, for two genuinely distinct experiences — wildlife conservation and a dramatic cave temple — well off the main cliff-viewpoint circuit." },
+        ],
+      };
+
+    case "is-open-air-buggy-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Private Open-Air Buggy Tour Worth It in Nusa Penida?",
+        description: "An honest look at the private 4-seater open-air buggy tour in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-4-seater-open-air-buggy-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Touring the island's rough, unpaved roads by open-air buggy is a genuinely more adventurous and breezier way to reach the viewpoints than a standard private car, worth it specifically for travelers who want some of the journey itself to be the fun part.",
+            tourCard: { slug: "private-4-seater-open-air-buggy-tour-in-nusa-penida", title: "Private 4-Seater Open-Air Buggy Tour in Nusa Penida", description: "A private open-air buggy tour of Nusa Penida.", price: "From $61", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-4-seater-open-air-buggy-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a genuinely bumpy ride on the island's rougher roads — this isn't the smooth, enclosed-car experience some travelers expect.",
+          },
+        ],
+        faqs: [
+          { q: "Is the open-air buggy tour worth it in Nusa Penida?", a: "Yes, for travelers who want the journey itself to be part of the adventure, with a breezier, more open feel than a standard car." },
+        ],
+      };
+
+    case "is-mangrove-point-snorkeling-worth-it-nusa-penida":
+      return {
+        title: "Is the Mangrove Point Snorkeling Tour Worth It in Nusa Penida?",
+        description: "An honest look at the Mangrove Point snorkeling tour in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mangrove Point gives a genuinely different underwater landscape from the island's famous manta ray and Crystal Bay sites, with calmer waters and root-system scenery, a good pick for less-experienced snorkelers wanting a gentler site.",
+            tourCard: { slug: "mangrove-point-snorkeling-tour-in-nusa-penida", title: "Mangrove Point Snorkeling Tour in Nusa Penida", description: "A snorkeling tour at Mangrove Point in Nusa Penida.", price: "From $140", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for less-experienced snorkelers, since the calmer waters here are gentler than the island's more famous manta ray sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is Mangrove Point snorkeling worth it in Nusa Penida?", a: "Yes, for calmer waters and a different underwater landscape, a gentler alternative to the famous manta ray sites." },
+        ],
+      };
+
     default:
       return null;
   }
