@@ -429,6 +429,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-imam-al-bukhari-complex-worth-it-samarkand', 'is-bike-tour-worth-it-samarkand',
     'is-legend-of-love-show-worth-it-samarkand', 'is-astronomical-heritage-tour-worth-it-samarkand',
     'is-horseback-riding-worth-it-samarkand', 'is-handmade-paper-making-worth-it-samarkand',
+    'is-shahi-zinda-guided-tour-worth-it-samarkand', 'is-moonlight-tour-worth-it-samarkand',
+    'is-tea-heritage-walk-worth-it-samarkand', 'is-street-food-walking-tour-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),

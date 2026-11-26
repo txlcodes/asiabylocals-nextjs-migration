@@ -1096,6 +1096,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-shahi-zinda-guided-tour-worth-it-samarkand":
+            return {
+                title: "Is the Shahi Zinda Complex Guided Tour Worth It in Samarkand?",
+                seoTitle: "Shahi Zinda Complex Samarkand 2026 | Honest Review",
+                description: "An honest look at the Shahi Zinda necropolis complex guided tour with a local expert in Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d4cc87cf25c295603a1f6872f0600a8278796283864681775673e5894d638f5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shahi Zinda is a genuinely striking avenue of tiled mausoleums built up over centuries, and a local expert guide adds real value here since the site's layered history across different dynasties isn't obvious from the tilework alone.", tourCard: { slug: "shahi-zinda-complex-guided-tour-with-a-local", title: "Shahi Zinda Complex Guided Tour with a Local Expert", description: "A guided tour of the Shahi Zinda necropolis complex with a local expert.", price: "From $15", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d4cc87cf25c295603a1f6872f0600a8278796283864681775673e5894d638f5.jpg" } },
+                    { title: "Practical Tips", content: "Go in the morning for softer light on the tilework and fewer crowds along the narrow mausoleum avenue." }
+                ],
+                faqs: [
+                    { q: "Is the Shahi Zinda tour worth it in Samarkand?", a: "Yes, a local guide adds real value to understanding the site's layered, centuries-spanning history across the tiled mausoleum avenue." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Shahi Zinda tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the site's layered, centuries-spanning history explained by a local guide." } }
+                ] },
+            };
+
+        case "is-moonlight-tour-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Moonlight Tour Worth It?",
+                seoTitle: "Samarkand Moonlight Tour 2026 | Honest Review",
+                description: "An honest look at the Samarkand Moonlight Tour, a timeless night experience across the city's illuminated monuments.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ea4ac95ba7d351950ad955cfb1b4d8cf1f6d2dc155d23df56638965f8b5cc8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Samarkand's major monuments light up dramatically at night, and this broader moonlight tour covers more ground across the city after dark than the dedicated Registan night tour alone, suited to travelers wanting a fuller after-dark city experience rather than one single site.", tourCard: { slug: "samarkand-moonlight-tour-a-timeless-night", title: "Samarkand Moonlight Tour: A Timeless Night Experience", description: "A guided night tour across Samarkand's illuminated monuments.", price: "From $20", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07ea4ac95ba7d351950ad955cfb1b4d8cf1f6d2dc155d23df56638965f8b5cc8.jpg" } },
+                    { title: "Practical Tips", content: "Bring a jacket — desert nights in Samarkand cool off quickly even after a hot day." }
+                ],
+                faqs: [
+                    { q: "Is the Samarkand Moonlight Tour worth it?", a: "Yes, for a fuller after-dark city experience covering more ground than a single-site night tour like Registan alone." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Samarkand Moonlight Tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a fuller after-dark city experience beyond a single illuminated site." } }
+                ] },
+            };
+
+        case "is-tea-heritage-walk-worth-it-samarkand":
+            return {
+                title: "Is the Silk Road Sips Tea and Heritage Walk Worth It in Samarkand?",
+                seoTitle: "Samarkand Tea Heritage Walk 2026 | Honest Review",
+                description: "An honest look at the Silk Road Sips tea and heritage walking tour in Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66125f791457f238dfe558a5ddf5446708a1704b76ca2b7e1d85cf155c9781dc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tea was a genuine Silk Road trade good, and this walk ties that history to actual tea tastings along the route, a slower and more flavor-focused pace than the city's standard monument-hopping walking tours.", tourCard: { slug: "silk-road-sips-a-samarkand-tea-heritage-walk", title: "Silk Road Sips: A Samarkand Tea & Heritage Walk", description: "A guided tea-tasting and heritage walking tour of Samarkand.", price: "From $28", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66125f791457f238dfe558a5ddf5446708a1704b76ca2b7e1d85cf155c9781dc.jpg" } },
+                    { title: "Practical Tips", content: "Come with an appetite for tea specifically — this walk is paced around tastings, not a fast-moving sightseeing circuit." }
+                ],
+                faqs: [
+                    { q: "Is the Silk Road Sips tea walk worth it in Samarkand?", a: "Yes, for a slower-paced, flavor-focused alternative to the city's standard monument-hopping walking tours." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the tea heritage walk worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a slower, flavor-focused alternative to standard monument-hopping walking tours." } }
+                ] },
+            };
+
+        case "is-street-food-walking-tour-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Walking Tour with Street Food Tastings Worth It?",
+                seoTitle: "Samarkand Street Food Walking Tour 2026 | Honest Review",
+                description: "An honest look at the Samarkand walking tour with local street food tastings.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2fc7d49c6db0f922dc506a79edd702fd2977b99724a4353d15d2a7185b9986fd.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Sampling street food along a guided walk gets you eating like a local rather than guessing at unfamiliar stalls on your own, a genuinely different focus from the city's hands-on plov and bread cooking classes.", tourCard: { slug: "samarkand-walking-tour-with-local-street-food", title: "Samarkand: Walking Tour with Local Street Food Tastings", description: "A guided walking tour of Samarkand with local street food tastings.", price: "From $51", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2fc7d49c6db0f922dc506a79edd702fd2977b99724a4353d15d2a7185b9986fd.jpg" } },
+                    { title: "Practical Tips", content: "Arrive with an empty stomach — the tastings add up across the route." }
+                ],
+                faqs: [
+                    { q: "Is the Samarkand street food walking tour worth it?", a: "Yes, for sampling local food confidently with a guide rather than guessing at unfamiliar stalls alone." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the street food walking tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for confidently sampling local food with a guide." } }
+                ] },
+            };
+
         case "is-handmade-paper-making-worth-it-samarkand":
             return {
                 title: "Is the Samarkand Handmade Paper-Making Experience Worth It?",
