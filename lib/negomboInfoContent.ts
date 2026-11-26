@@ -609,6 +609,90 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-fishing-village-fish-market-tour-worth-it-negombo":
+      return {
+        title: "Is the Fishing Village and Fish Market Tuk-Tuk Tour Worth It in Negombo?",
+        description: "An honest look at the fishing village, fish market, and lagoon tuk-tuk tour in Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1438353/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Negombo's working fish market and fishing village give a genuine, lively look at the town's actual livelihood, distinct from a generic city sightseeing tour, and the tuk-tuk format lets you weave through narrow lanes a car couldn't reach.",
+            tourCard: { slug: "negombo-fishing-village-fish-market-lagoon-tuk", title: "Negombo: Fishing Village, Fish Market & Lagoon Tuk-Tuk Tour", description: "A tuk-tuk tour of Negombo's fishing village, fish market, and lagoon.", price: "From $43", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1438353/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the morning when the fish market is genuinely active — it's quieter and less interesting later in the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the fishing village and fish market tour worth it in Negombo?", a: "Yes, for a genuine, lively look at the town's actual working life, best done in the morning when the market is active." },
+        ],
+      };
+
+    case "is-dutch-canal-sunset-boat-tour-worth-it-negombo":
+      return {
+        title: "Is the Negombo Lagoon and Dutch Canal Sunset Boat Tour Worth It?",
+        description: "An honest look at the Negombo Lagoon and Dutch Canal sunset boat tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1150788/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Dutch Canal is a genuine colonial-era waterway distinct from the natural lagoon, and pairing it with a sunset boat tour gives both a historical angle and good evening light, a different combination from the standard lagoon-and-mangrove wildlife tours.",
+            tourCard: { slug: "negombo-lagoon-dutch-canal-sunset-boat-tour", title: "Negombo Lagoon & Dutch Canal Sunset Boat Tour", description: "A sunset boat tour covering the Negombo Lagoon and Dutch Canal.", price: "From $128", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1150788/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the sunset time before booking so the timing lines up with the best evening light over the water.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dutch Canal sunset boat tour worth it in Negombo?", a: "Yes, for a genuine historical angle via the colonial-era canal, paired with good evening light, distinct from standard wildlife-focused lagoon tours." },
+        ],
+      };
+
+    case "is-sunset-kayaking-worth-it-negombo":
+      return {
+        title: "Is Sunset Kayaking Worth It in Negombo?",
+        description: "An honest look at sunset kayaking in Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-595006/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddling your own kayak at sunset gives a genuinely quieter, more active alternative to the motorized lagoon boat safaris, with good evening light and a slower pace that lets you actually take in the surroundings.",
+            tourCard: { slug: "sunset-kayaking-in-negombo", title: "Sunset Kayaking in Negombo", description: "A sunset kayaking experience in Negombo.", price: "From $62", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-595006/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A reasonable fitness level helps for the paddling, though the pace is generally relaxed rather than a workout.",
+          },
+        ],
+        faqs: [
+          { q: "Is sunset kayaking worth it in Negombo?", a: "Yes, for a quieter, more active alternative to motorized boat safaris, with good evening light." },
+        ],
+      };
+
+    case "is-local-friend-lagoon-tour-worth-it-negombo":
+      return {
+        title: "Is the Negombo Life, Lagoon and Hidden Gems Tour with a Local Friend Worth It?",
+        description: "An honest look at the Negombo life, lagoon, and hidden gems tour with a local friend.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1350903/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The 'local friend' framing of this tour suggests a more personal, conversational format than a standard scripted guide tour, aiming to show hidden spots and everyday life a typical city tour wouldn't cover — worth it specifically for travelers who want a genuine local perspective over a checklist of sights.",
+            tourCard: { slug: "negombo-life-lagoon-hidden-gems-tour-with-a-local", title: "Negombo Life, Lagoon & Hidden Gems Tour with a Local Friend", description: "A personal, local-guided tour of Negombo life, lagoon, and hidden gems.", price: "From $67", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1350903/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with questions about local life — the format is built around genuine conversation, not just sightseeing stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the local friend lagoon tour worth it in Negombo?", a: "Yes, specifically for travelers wanting a genuine, conversational local perspective rather than a scripted sightseeing checklist." },
+        ],
+      };
+
     default:
       return null;
   }

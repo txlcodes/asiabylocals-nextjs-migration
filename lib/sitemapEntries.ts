@@ -1838,6 +1838,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-catamaran-sailing-worth-it-negombo', 'is-ayurvedic-massage-worth-it-negombo',
     'is-jewelry-workshop-worth-it-negombo', 'is-bicycle-city-tour-worth-it-negombo',
     'is-snorkeling-worth-it-negombo', 'is-scooter-ride-worth-it-negombo',
+    'is-fishing-village-fish-market-tour-worth-it-negombo', 'is-dutch-canal-sunset-boat-tour-worth-it-negombo',
+    'is-sunset-kayaking-worth-it-negombo', 'is-local-friend-lagoon-tour-worth-it-negombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/negombo/${slug}`,
     lastModified: new Date(),
