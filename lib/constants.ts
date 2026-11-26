@@ -421,6 +421,8 @@ export const MUSCAT_INFO_SLUGS = [
   'is-barka-nakhal-rustaq-tour-worth-it-muscat',
   'is-omani-home-dinner-worth-it-muscat', 'is-coral-gardens-snorkeling-worth-it-muscat',
   'is-jabal-shams-sunrise-tour-worth-it-muscat', 'is-wadi-al-abyad-wakan-tour-worth-it-muscat',
+  'is-wakeboarding-worth-it-muscat', 'is-parasailing-worth-it-muscat',
+  'is-omani-food-tour-worth-it-muscat', 'is-secret-coves-villages-souqs-tour-worth-it-muscat',
 ];
 
 // Armenia launched 2026-11-19 with 547 live tours and zero authority pages.

@@ -577,6 +577,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-barka-nakhal-rustaq-tour-worth-it-muscat',
     'is-omani-home-dinner-worth-it-muscat', 'is-coral-gardens-snorkeling-worth-it-muscat',
     'is-jabal-shams-sunrise-tour-worth-it-muscat', 'is-wadi-al-abyad-wakan-tour-worth-it-muscat',
+    'is-wakeboarding-worth-it-muscat', 'is-parasailing-worth-it-muscat',
+    'is-omani-food-tour-worth-it-muscat', 'is-secret-coves-villages-souqs-tour-worth-it-muscat',
   ].map(slug => ({
     url: `${BASE_URL}/oman/muscat/${slug}`,
     lastModified: new Date(),

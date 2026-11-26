@@ -1278,6 +1278,74 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-wakeboarding-worth-it-muscat":
+            return {
+                title: "Is the Wakeboarding Session at Al Mouj Marina Worth It in Muscat?",
+                description: "An honest look at the wakeboarding session at Al Mouj Marina in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/858410a5c9b14efeab3a9ebec869cea782deb30ad471950d7ec3ab8d45822070.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Al Mouj Marina's calm, protected waters give a genuinely good beginner-friendly setting for wakeboarding, a different kind of adrenaline activity from Muscat's desert and wadi adventures.", tourCard: { slug: "muscat-wakeboarding-session-at-al-mouj-marina", title: "Muscat: Wakeboarding Session at Al Mouj Marina", description: "A wakeboarding session at Al Mouj Marina in Muscat.", price: "From $74", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/858410a5c9b14efeab3a9ebec869cea782deb30ad471950d7ec3ab8d45822070.jpeg" } },
+                    { title: "Practical Tips", content: "No prior experience is needed — the marina's calm waters make this genuinely approachable for first-timers." }
+                ],
+                faqs: [
+                    { q: "Is wakeboarding at Al Mouj Marina worth it in Muscat?", a: "Yes, for a genuinely beginner-friendly water-sports activity distinct from the city's desert and wadi adventures." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is wakeboarding at Al Mouj Marina worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a beginner-friendly water-sports activity in calm, protected waters." } }
+                ] },
+            };
+
+        case "is-parasailing-worth-it-muscat":
+            return {
+                title: "Is Parasailing at Al Mouj Marina Worth It in Muscat?",
+                description: "An honest look at parasailing at Al Mouj Marina in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/427f89a0d72a93941e87c1d132cea6828e10dc13afbb6e8225910170d358db7c.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Parasailing above Al Mouj Marina gives genuinely good aerial views of Muscat's coastline, a calmer, more scenic thrill than the city's wadi adventure sports, suited to travelers wanting height over speed.", tourCard: { slug: "muscat-parasailing-in-al-mouj-marina", title: "Muscat: Parasailing in Al Mouj Marina", description: "A parasailing session above Al Mouj Marina in Muscat.", price: "From $52", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/427f89a0d72a93941e87c1d132cea6828e10dc13afbb6e8225910170d358db7c.jpeg" } },
+                    { title: "Practical Tips", content: "Go earlier in the day for calmer winds and clearer coastal views." }
+                ],
+                faqs: [
+                    { q: "Is parasailing at Al Mouj Marina worth it in Muscat?", a: "Yes, for genuinely good aerial coastline views, a calmer thrill than the city's wadi adventure sports." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is parasailing worth it in Muscat?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely good aerial coastline views and a calmer thrill than the wadi adventures." } }
+                ] },
+            };
+
+        case "is-omani-food-tour-worth-it-muscat":
+            return {
+                title: "Is the Omani Food Tour with Shuwa and Halwa Worth It in Muscat?",
+                description: "An honest look at the Omani food tour featuring shuwa and halwa in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be2a450dff67965e9f1b1274edc658f78965653ae29c4d68a060a7fd531a037f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shuwa (slow-cooked marinated meat) and halwa (a dense, spiced sweet) are genuine Omani specialties you won't easily find outside a local kitchen, and a guided food tour samples both plus more, a distinct focus from a one-off home dinner visit.", tourCard: { slug: "muscat-omani-food-tour-with-shuwa-halwa", title: "Muscat: Omani Food Tour with Shuwa & Halwa", description: "A guided Omani food tour sampling shuwa, halwa, and more.", price: "From $97", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/be2a450dff67965e9f1b1274edc658f78965653ae29c4d68a060a7fd531a037f.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — the format covers several distinct Omani dishes across the tour, not a single sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is the Omani food tour with shuwa and halwa worth it in Muscat?", a: "Yes, for genuine Omani specialties hard to find outside a local kitchen, sampled across several stops rather than one meal." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Omani food tour worth it in Muscat?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine Omani specialties sampled across several stops." } }
+                ] },
+            };
+
+        case "is-secret-coves-villages-souqs-tour-worth-it-muscat":
+            return {
+                title: "Is the Secret Coves, Local Villages and Old Souqs Tour Worth It in Muscat?",
+                description: "An honest look at the secret coves, local villages, and old souqs tour in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f2d72d3591d61f24e1ac2821c84de0adf5caef9db65707b3a5830e348de63481.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour reaches hidden coves and local villages most standard Muscat city tours skip, pairing them with lesser-visited old souqs for a genuinely more off-the-beaten-path day than the standard Muttrah Souq and Grand Mosque circuit.", tourCard: { slug: "muscat-secret-coves-local-villages-old-souqs-tour", title: "Muscat: Secret Coves, Local Villages & Old Souqs Tour", description: "A tour of secret coves, local villages, and old souqs in Muscat.", price: "From $91", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f2d72d3591d61f24e1ac2821c84de0adf5caef9db65707b3a5830e348de63481.jpg" } },
+                    { title: "Practical Tips", content: "Best for travelers who've already covered the standard Muttrah Souq and Grand Mosque sights and want somewhere quieter." }
+                ],
+                faqs: [
+                    { q: "Is the secret coves and local villages tour worth it in Muscat?", a: "Yes, especially after covering the standard sights — it reaches genuinely quieter coves, villages, and souqs." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the secret coves and villages tour worth it in Muscat?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely quieter coves, villages, and souqs beyond the standard sightseeing circuit." } }
+                ] },
+            };
+
         case "is-nizwa-fort-ticket-worth-it-nizwa":
             return {
                 title: "Is the Nizwa Fort Entrance Ticket Worth It?",
