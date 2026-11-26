@@ -364,6 +364,8 @@ export const KATHMANDU_INFO_SLUGS = [
   'is-nepali-cinema-tour-worth-it-kathmandu', 'is-kite-flying-experience-worth-it-kathmandu',
   'is-himalayan-honey-tasting-worth-it-kathmandu', 'is-yomari-making-class-worth-it-kathmandu',
   'is-home-brewing-experience-worth-it-kathmandu', 'is-jamacho-hike-worth-it-kathmandu',
+  'is-cultural-dinner-show-worth-it-kathmandu', 'is-ason-bazaar-food-walk-worth-it-kathmandu',
+  'is-kirtipur-heritage-tour-worth-it-kathmandu', 'is-shaman-consultation-worth-it-kathmandu',
 ];
 
 // Georgia launched 2026-11-16 with 1,024 live tours and zero authority pages.

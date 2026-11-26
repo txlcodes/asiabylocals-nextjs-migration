@@ -2780,6 +2780,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-cultural-dinner-show-worth-it-kathmandu":
+            return {
+                title: "Is the Kathmandu Cultural Dinner Show with Traditional Dance Worth It?",
+                description: "An honest look at Kathmandu's cultural dinner show bundling a traditional meal with a live Nepali dance performance.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ff2f1b236b891c2fec0fe70cf8dda06c3ccba2c6c33858024ea9155afbd205b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling a traditional Nepali meal with a live dance performance in one evening booking is a genuinely good value way to experience local culture without separately arranging dinner and entertainment.", tourCard: { slug: "kathmandu-cultural-dinner-show-with-traditional", title: "Kathmandu: Cultural Dinner Show with Traditional Dance", description: "A cultural dinner show with a traditional Nepali meal and dance performance.", price: "From $24", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3ff2f1b236b891c2fec0fe70cf8dda06c3ccba2c6c33858024ea9155afbd205b.jpg" } },
+                    { title: "Practical Tips", content: "Book ahead for an evening with no early start the next day, since the dinner and show run a couple of hours." }
+                ],
+                faqs: [
+                    { q: "Is the Kathmandu cultural dinner show worth it?", a: "Yes, it bundles a good traditional meal and a live dance performance into one affordable evening booking." }
+                ],
+            };
+
+        case "is-ason-bazaar-food-walk-worth-it-kathmandu":
+            return {
+                title: "Is the Ason Bazaar Food Walk Worth It in Kathmandu?",
+                description: "An honest look at Kathmandu's Ason Bazaar food walk with fermentation insights.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a0afd926dddab4e0b7e386ad03509d3aafa6fe0b4aa4216e007c6f2cf70e4fa.png",
+                sections: [
+                    { title: "The Short Answer", content: "Ason Bazaar is a genuinely chaotic, working local market, and this walk's focus on fermentation specifically (a core technique in Nepali and Newari cuisine) gives real food-culture depth beyond a standard street food tasting tour.", tourCard: { slug: "kathmandu-ason-bazaar-food-walk-with-fermentation", title: "Kathmandu: Ason Bazaar Food Walk with Fermentation Insights", description: "A guided food walk through Ason Bazaar focused on fermentation techniques.", price: "From $26", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9a0afd926dddab4e0b7e386ad03509d3aafa6fe0b4aa4216e007c6f2cf70e4fa.png" } },
+                    { title: "Practical Tips", content: "Ason Bazaar is crowded and narrow — stick close to your guide and keep valuables secure as you would in any busy market." }
+                ],
+                faqs: [
+                    { q: "Is the Ason Bazaar food walk worth it in Kathmandu?", a: "Yes, its specific focus on fermentation techniques gives real food-culture depth beyond a standard street food tour." }
+                ],
+            };
+
+        case "is-kirtipur-heritage-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Kirtipur Cultural Heritage Tour Worth It from Kathmandu?",
+                description: "An honest look at the Kirtipur cultural heritage tour with city views, a hilltop Newari town outside central Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/10fb26ea05b8679632afe0b17acc40a857b240e796f255fe0e2a18bb3ff86fe7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kirtipur is a genuinely well-preserved hilltop Newari town with far fewer tourists than the Kathmandu Valley's main Durbar Squares, plus good panoramic views over the valley — a worthwhile alternative for travelers who've already seen the main heritage sites.", tourCard: { slug: "kirtipur-cultural-heritage-tour-with-city-view", title: "Kirtipur Cultural Heritage Tour with City View", description: "A cultural heritage tour of the hilltop Newari town of Kirtipur.", price: "From $40", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/10fb26ea05b8679632afe0b17acc40a857b240e796f255fe0e2a18bb3ff86fe7.jpg" } },
+                    { title: "Practical Tips", content: "Best for travelers who've already covered the main Durbar Squares and want a quieter, less touristed Newari town." }
+                ],
+                faqs: [
+                    { q: "Is the Kirtipur heritage tour worth it from Kathmandu?", a: "Yes, especially if you've already seen the main Durbar Squares — Kirtipur is well-preserved and far less crowded." }
+                ],
+            };
+
+        case "is-shaman-consultation-worth-it-kathmandu":
+            return {
+                title: "Is a Shaman Consultation Worth It in Kathmandu?",
+                description: "An honest look at the one-to-one shaman consultation with divination offered in Nepal.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4e639bf51b08dc5a0ad0dbe539e606460ac49502942b7084fb61d9945374c28.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shamanic practice has a genuine, living tradition in Nepal distinct from mainstream Hindu and Buddhist temple rituals, and a one-to-one consultation gives a personal, if inherently subjective, window into it — worth it specifically for travelers curious about the belief system itself rather than seeking a guaranteed outcome.", tourCard: { slug: "nepal-one-to-one-shaman-consultation-with", title: "Nepal: One-to-One Shaman Consultation with Divination", description: "A one-to-one shamanic consultation with divination in Nepal.", price: "From $52", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4e639bf51b08dc5a0ad0dbe539e606460ac49502942b7084fb61d9945374c28.jpg" } },
+                    { title: "Practical Tips", content: "Go in with genuine curiosity about the tradition rather than expecting a specific prediction or outcome." }
+                ],
+                faqs: [
+                    { q: "Is a shaman consultation worth it in Kathmandu?", a: "Yes, for travelers genuinely curious about Nepal's living shamanic tradition, distinct from mainstream temple rituals." }
+                ],
+            };
+
         case "is-jamacho-hike-worth-it-kathmandu":
             return {
                 title: "Is the Jamacho Hike, Tree Planting and Picnic Tour Worth It from Kathmandu?",
