@@ -1681,6 +1681,86 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-night-jeep-safari-worth-it-jaipur":
+      return {
+        title: "Is the Open Night Jeep Safari Worth It in Jaipur?",
+        description: "An honest look at Jaipur's open night jeep safari, a hilltop drive above the Pink City after dark.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-open-night-jeep-safari-with-pickup-and/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "An open jeep ride up into Jaipur's surrounding hills after dark offers a genuinely different view of the Pink City, lit up below, than any daytime monument tour — a short, budget-friendly add-on rather than a full day's activity.",
+            tourCard: { slug: "jaipur-open-night-jeep-safari-with-pickup-and", title: "Jaipur: Open Night Jeep Safari with Pickup And Drop Off", description: "An open jeep safari through Jaipur's hills at night.", price: "From $4", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-open-night-jeep-safari-with-pickup-and/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light jacket — open jeeps get cool in the hills after sunset, even in a warm climate." },
+        ],
+        faqs: [
+          { q: "Is the night jeep safari worth it in Jaipur?", a: "Yes, for a cheap, short, genuinely different nighttime view of the city from the surrounding hills." },
+        ],
+      };
+
+    case "is-night-heritage-walking-tour-worth-it-jaipur":
+      return {
+        title: "Is the Night Heritage Walking Tour Worth It in Jaipur?",
+        description: "An honest look at Jaipur's night heritage walking tour with food tasting through the old city after dark.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-night-heritage-walking-tour-with-food/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaipur's old city changes character after dark — quieter streets, lit-up facades, and food stalls that are easy to miss by day — making a guided night walk with food tasting a worthwhile complement to a daytime heritage tour, not a replacement for it.",
+            tourCard: { slug: "jaipur-night-heritage-walking-tour-with-food", title: "Jaipur: Night Heritage Walking Tour with Food Tasting", description: "A guided night walk through Jaipur's old city with food tasting.", price: "From $5", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-night-heritage-walking-tour-with-food/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — the food tasting stops are a core part of the route, not an afterthought." },
+        ],
+        faqs: [
+          { q: "Is the night heritage walking tour worth it in Jaipur?", a: "Yes, as a complement to a daytime tour — the old city looks and feels different after dark, and the food stops add real value." },
+        ],
+      };
+
+    case "is-birla-mandir-gaushala-tour-worth-it-jaipur":
+      return {
+        title: "Is the Birla Mandir and Gaushala Tour Worth It in Jaipur?",
+        description: "An honest look at Jaipur's Birla Mandir and Gaushala cultural immersion tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-birla-mandir-and-gaushala-2-hour-cultural-i/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Birla Mandir is a striking white-marble temple distinct from Jaipur's Mughal-era pink sandstone monuments, and pairing it with a Gaushala (cow shelter) visit gives a genuine look at local religious and cultural practice beyond the standard fort-and-palace circuit.",
+            tourCard: { slug: "jaipur-birla-mandir-and-gaushala-2-hour-cultural-i", title: "Jaipur: Birla Mandir and Gaushala. 2-Hour Cultural Immersion", description: "A cultural tour of Birla Mandir and a Gaushala in Jaipur.", price: "From $6", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-birla-mandir-and-gaushala-2-hour-cultural-i/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and be ready to remove shoes and leave electronics outside — standard temple etiquette applies at Birla Mandir." },
+        ],
+        faqs: [
+          { q: "Is the Birla Mandir tour worth it in Jaipur?", a: "Yes, as a short, inexpensive add-on offering a genuinely different architectural and cultural experience from the city's main fort-and-palace sights." },
+        ],
+      };
+
+    case "is-monkey-temple-sunset-tour-worth-it-jaipur":
+      return {
+        title: "Is the Monkey Temple Sunset Tour Worth It in Jaipur?",
+        description: "An honest look at Jaipur's private evening tour to the Monkey Temple (Galtaji) for sunset.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-evening-tour-with-monkey-temple/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Galtaji, known as the Monkey Temple, sits in a hilltop gorge with genuinely good sunset views over Jaipur, and seeing the resident monkeys and sacred water tanks at dusk is a different pace from the city's daytime monument-hopping.",
+            tourCard: { slug: "jaipur-private-evening-tour-with-monkey-temple", title: "Jaipur: Private Evening Tour with Monkey Temple Sunset", description: "A private evening tour to the Monkey Temple for sunset.", price: "From $7", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-evening-tour-with-monkey-temple/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep food and loose items put away — the resident monkeys are used to tourists and will grab anything accessible." },
+        ],
+        faqs: [
+          { q: "Is the Monkey Temple sunset tour worth it in Jaipur?", a: "Yes, for genuinely good sunset views over the city and a slower-paced evening alternative to daytime sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
