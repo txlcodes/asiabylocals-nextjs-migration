@@ -286,6 +286,8 @@ export const LANGKAWI_INFO_SLUGS = [
   'is-hidden-islands-cruise-worth-it-langkawi', 'is-gunung-raya-hike-worth-it-langkawi',
   'is-night-mangrove-safari-worth-it-langkawi', 'is-sunset-dinner-cruise-worth-it-langkawi',
   'is-organic-farm-cooking-class-worth-it-langkawi', 'is-birdwatching-tour-worth-it-langkawi',
+  'is-spy-game-curve-worth-it-langkawi', 'is-banana-boat-ride-worth-it-langkawi',
+  'is-kayaking-adventure-worth-it-langkawi', 'is-evening-city-fire-show-tour-worth-it-langkawi',
 ];
 
 export const MALACCA_INFO_SLUGS = [

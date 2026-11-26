@@ -4343,6 +4343,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-spy-game-curve-worth-it-langkawi":
+            return {
+                title: "Is the Spy Game Curve Mission Experience Worth It in Langkawi?",
+                description: "An honest look at the Spy Game Curve entry ticket and mission experience in Langkawi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1493779/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuinely fun, interactive spy-themed mission attraction, a good indoor-adjacent break from Langkawi's beach-and-boat-dominated itinerary, suited specifically to families and groups wanting a playful, puzzle-based activity.", tourCard: { slug: "spy-game-curve-entry-ticket-with-mission", title: "Spy Game Curve Entry Ticket with Mission", description: "Entry to the Spy Game Curve mission experience in Langkawi.", price: "From $28", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1493779/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good rainy-day or rest-day activity that still keeps the group engaged with puzzle-solving rather than just sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is Spy Game Curve worth it in Langkawi?", a: "Yes, especially for families and groups wanting a playful, puzzle-based break from the island's beach and boat activities." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Spy Game Curve worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a playful, puzzle-based break from the island's beach and boat activities." } }
+                ] },
+            };
+
+        case "is-banana-boat-ride-worth-it-langkawi":
+            return {
+                title: "Is the Banana Boat Ride at Cenang Beach Worth It in Langkawi?",
+                description: "An honest look at the banana boat ride at Cenang Beach in Langkawi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1150650/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A banana boat ride at Cenang Beach is a genuinely fun, group-friendly water activity, lower-key than jet skiing but still a real splash-and-laugh experience, suited to families and groups who want to go together rather than solo.", tourCard: { slug: "langkawi-banana-boat-ride-at-cenang-beach", title: "Langkawi: Banana Boat Ride at Cenang Beach", description: "A banana boat ride at Cenang Beach in Langkawi.", price: "From $78", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1150650/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go with a group — the banana boat format is built for multiple riders at once, unlike a solo jet ski." }
+                ],
+                faqs: [
+                    { q: "Is the banana boat ride worth it at Cenang Beach?", a: "Yes, for a fun, group-friendly water activity, a lower-key alternative to jet skiing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the banana boat ride worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a fun, group-friendly water activity." } }
+                ] },
+            };
+
+        case "is-kayaking-adventure-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Kayaking Adventure and Swimming Worth It?",
+                description: "An honest look at the kayaking adventure and swimming tour in Langkawi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/960c932e959d793ae3e55d99d707bb137b8529d8d7a5ab4484fedb9cce508c83.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Paddling your own kayak gives a genuinely more active, self-powered way to explore Langkawi's coastline than the island's motorized mangrove boat tours, with a swimming stop that adds a relaxed break to the paddling.", tourCard: { slug: "langkawi-kayaking-adventure-and-swimming", title: "Langkawi Kayaking Adventure and Swimming", description: "A kayaking adventure with a swimming stop in Langkawi.", price: "From $98", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/960c932e959d793ae3e55d99d707bb137b8529d8d7a5ab4484fedb9cce508c83.jpeg" } },
+                    { title: "Practical Tips", content: "A reasonable fitness level helps for the paddling portion, though the pace is generally relaxed rather than a race." }
+                ],
+                faqs: [
+                    { q: "Is the kayaking adventure worth it in Langkawi?", a: "Yes, for a more active, self-powered alternative to the island's motorized mangrove boat tours, with a relaxing swim stop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the kayaking adventure worth it in Langkawi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more active, self-powered alternative to motorized boat tours." } }
+                ] },
+            };
+
+        case "is-evening-city-fire-show-tour-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Evening City Highlights Tour with Fire Show Worth It?",
+                description: "An honest look at the Langkawi evening city highlights tour paired with a fire show.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9d36db0ed29fee15542915c518fcc79ef86effb76cb9ddc739f459b3e55e696f.png",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing an evening city sightseeing tour with a genuine fire show performance gives Langkawi's nightlife-light itinerary a theatrical finish, a good option for travelers who've covered the daytime beaches and boats and want an evening activity.", tourCard: { slug: "langkawi-evening-city-highlights-tour-with-fire", title: "Langkawi: Evening City Highlights Tour with Fire Show", description: "An evening city highlights tour with a fire show performance.", price: "From $109", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9d36db0ed29fee15542915c518fcc79ef86effb76cb9ddc739f459b3e55e696f.png" } },
+                    { title: "Practical Tips", content: "Book ahead for an evening with no early start the next day, since the show runs into the night." }
+                ],
+                faqs: [
+                    { q: "Is the evening city tour with fire show worth it in Langkawi?", a: "Yes, for a theatrical evening finish after a day of beaches and boats, in an island with relatively limited nightlife." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the evening city tour with fire show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a theatrical evening option on an island with limited nightlife." } }
+                ] },
+            };
+
         case "is-monsopiad-headhunter-village-worth-it-kota-kinabalu":
             return {
                 title: "Is the Monsopiad Headhunter Village Worth It in Kota Kinabalu?",
