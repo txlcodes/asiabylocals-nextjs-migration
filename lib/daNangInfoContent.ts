@@ -851,6 +851,90 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-woodblock-printing-workshop-worth-it-da-nang":
+      return {
+        title: "Is the Woodblock Printing Workshop and Craft Village Visit Worth It in Da Nang?",
+        description: "An honest look at the woodblock printing workshop and craft village visit in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/woodblock-printing-workshop-and-craft-village-visit-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Woodblock printing is a genuine traditional Vietnamese craft, and pairing a hands-on session with a visit to an actual craft village gives real context for where the technique is still practiced today, distinct from a generic souvenir-shop stop.",
+            tourCard: { slug: "woodblock-printing-workshop-and-craft-village-visit-in-da-nang", title: "Woodblock Printing Workshop and Craft Village Visit in Da Nang", description: "A hands-on woodblock printing workshop with a craft village visit.", price: "From $22", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/woodblock-printing-workshop-and-craft-village-visit-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home the print you make — a genuinely handmade souvenir rather than a factory-made one.",
+          },
+        ],
+        faqs: [
+          { q: "Is the woodblock printing workshop worth it in Da Nang?", a: "Yes, for a genuine traditional craft with real village context, distinct from a generic souvenir-shop stop." },
+        ],
+      };
+
+    case "is-mi-quang-noodle-show-worth-it-da-nang":
+      return {
+        title: "Is the Mi Quang Noodle Show and Cultural Experience Worth It in Da Nang?",
+        description: "An honest look at the Mi Quang noodle show and cultural experience in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mi-quang-noodle-show-and-cultural-experience-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mi Quang is a genuinely regional Quang Nam specialty noodle dish, and this show-style format combines watching the dish prepared with a cultural presentation, a more theatrical angle than a standard cooking class or street food stop.",
+            tourCard: { slug: "mi-quang-noodle-show-and-cultural-experience-in-da-nang", title: "Mi Quang Noodle Show and Cultural Experience in Da Nang", description: "A show-style presentation of Mi Quang noodles paired with cultural elements.", price: "From $25", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/mi-quang-noodle-show-and-cultural-experience-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, low-commitment add-on if you want a taste of regional cuisine without a full cooking class.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mi Quang noodle show worth it in Da Nang?", a: "Yes, for a genuine regional specialty presented in a more theatrical, cultural format than a standard street food stop." },
+        ],
+      };
+
+    case "is-do-paper-workshop-worth-it-da-nang":
+      return {
+        title: "Is the Dó Paper Making Workshop Worth It in Da Nang?",
+        description: "An honest look at the Dó paper and Dó paper notebook making workshop in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/workshop-on-making-d-paper-and-d-paper-notebooks-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dó paper, made from the bark of the dó tree, is a genuine centuries-old Vietnamese papermaking tradition historically used for royal documents and folk art, and making your own notebook from it gives real hands-on context for a craft that's otherwise easy to overlook.",
+            tourCard: { slug: "workshop-on-making-d-paper-and-d-paper-notebooks-in-da-nang", title: "Workshop on making Dó paper and Dó paper notebooks in Da Nang", description: "A hands-on Dó paper and notebook making workshop.", price: "From $31", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/workshop-on-making-d-paper-and-d-paper-notebooks-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home the notebook you make — a genuinely unique, historically rooted souvenir unlike a typical gift-shop item.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dó paper making workshop worth it in Da Nang?", a: "Yes, for a genuine centuries-old craft tradition and a historically rooted souvenir you make yourself." },
+        ],
+      };
+
+    case "is-nui-than-tai-hot-springs-worth-it-da-nang":
+      return {
+        title: "Is Nui Than Tai Hot Springs Park Worth It in Da Nang?",
+        description: "An honest look at Nui Than Tai Hot Springs Park near Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nui-than-tai-hot-springs-park-entry-ticket-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nui Than Tai offers genuine natural mineral hot spring pools plus a water park section, giving a relaxing, resort-like day distinct from Da Nang's beach-and-mountain sightseeing circuit, with options for both soaking and more active play.",
+            tourCard: { slug: "nui-than-tai-hot-springs-park-entry-ticket-in-da-nang", title: "Nui Than Tai Hot Springs Park Entry Ticket in Da Nang", description: "Entry ticket to Nui Than Tai Hot Springs Park.", price: "From $36", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/nui-than-tai-hot-springs-park-entry-ticket-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit and towel — this is a genuine soak-and-play day, not a quick sightseeing stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is Nui Than Tai Hot Springs Park worth it in Da Nang?", a: "Yes, for a relaxing, resort-like day combining natural mineral pools with a water park, distinct from the city's sightseeing circuit." },
+        ],
+      };
+
     default:
       return null;
   }
