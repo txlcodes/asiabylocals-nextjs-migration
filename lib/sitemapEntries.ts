@@ -1401,6 +1401,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-elephant-jungle-sanctuary-worth-it-chiang-mai', 'is-atv-rafting-waterfall-combo-worth-it-chiang-mai',
     'is-chiang-rai-day-trip-worth-it-chiang-mai', 'is-khantoke-dinner-worth-it-chiang-mai',
     'is-thai-cooking-class-worth-it-chiang-mai', 'is-monk-chat-worth-it-chiang-mai',
+    'is-muay-thai-match-worth-it-chiang-mai', 'is-sticky-waterfall-tour-worth-it-chiang-mai',
+    'is-sky-hawk-zipline-worth-it-chiang-mai', 'is-ladyboy-cabaret-worth-it-chiang-mai',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),

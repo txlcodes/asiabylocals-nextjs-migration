@@ -842,6 +842,62 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-muay-thai-match-worth-it-chiang-mai":
+            return {
+                title: "Is the Thapae Boxing Stadium Muay Thai Match Worth It in Chiang Mai?",
+                description: "An honest look at watching a live Muay Thai match at Thapae Boxing Stadium in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/thapae-boxing-stadium-muay-thai-match-ticket-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Watching a live Muay Thai match ringside gives a genuine atmosphere a training class can't replicate — real fighters, a real crowd, and real stakes — a distinct spectator experience from taking a beginner Muay Thai class yourself.", tourCard: { slug: "thapae-boxing-stadium-muay-thai-match-ticket-in-chiang-mai", title: "Thapae Boxing Stadium Muay Thai Match Ticket in Chiang Mai", description: "A ticket to watch a live Muay Thai match at Thapae Boxing Stadium.", price: "From $33", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/thapae-boxing-stadium-muay-thai-match-ticket-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Arrive early for a good seat near the ring — the atmosphere builds as the night's matches progress." }
+                ],
+                faqs: [
+                    { q: "Is the Thapae Boxing Stadium Muay Thai match worth it in Chiang Mai?", a: "Yes, for a genuine spectator atmosphere distinct from taking a training class yourself." }
+                ],
+            };
+
+        case "is-sticky-waterfall-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Sticky Waterfall Tour Worth It from Chiang Mai?",
+                description: "An honest look at the Sticky Waterfall (Bua Tong) tour by local truck with a market stop.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sticky-waterfall-by-local-truck-with-market-stop-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bua Tong, nicknamed the Sticky Waterfall, has a genuinely unusual mineral surface that lets you climb up the falls without slipping, a distinctly different water activity from the city's rivers and rafting, and the market stop adds a local-life element to the trip.", tourCard: { slug: "sticky-waterfall-by-local-truck-with-market-stop-in-chiang-mai", title: "Sticky Waterfall by Local Truck with Market Stop in Chiang Mai", description: "A tour to the Sticky Waterfall by local truck with a market stop.", price: "From $23", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sticky-waterfall-by-local-truck-with-market-stop-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring water shoes with grip and a change of clothes — you'll genuinely be climbing the wet rock surface barefoot or in water shoes." }
+                ],
+                faqs: [
+                    { q: "Is the Sticky Waterfall tour worth it from Chiang Mai?", a: "Yes, for a genuinely unusual climbable waterfall surface, a distinctly different water activity from the city's rafting trips." }
+                ],
+            };
+
+        case "is-sky-hawk-zipline-worth-it-chiang-mai":
+            return {
+                title: "Is the Sky Hawk Zipline Adventure Worth It in Chiang Mai?",
+                description: "An honest look at the Sky Hawk zipline adventure with optional ATV in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sky-hawk-zipline-adventure-with-optional-atv-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Ziplining through Chiang Mai's jungle canopy gives genuine rainforest views from a height you won't get on the ground, and pairing it with an optional ATV add-on gives a fuller adventure-sports day for travelers wanting more than just the zipline alone.", tourCard: { slug: "sky-hawk-zipline-adventure-with-optional-atv-in-chiang-mai", title: "Sky Hawk Zipline Adventure With Optional ATV in Chiang Mai", description: "A zipline adventure through the jungle canopy with an optional ATV add-on.", price: "From $62", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sky-hawk-zipline-adventure-with-optional-atv-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Add the ATV option if you want a fuller adventure-sports day rather than just the zipline portion alone." }
+                ],
+                faqs: [
+                    { q: "Is the Sky Hawk zipline worth it in Chiang Mai?", a: "Yes, for genuine jungle-canopy views, and the optional ATV add-on makes it a fuller adventure day." }
+                ],
+            };
+
+        case "is-ladyboy-cabaret-worth-it-chiang-mai":
+            return {
+                title: "Is the Ladyboy Cabaret Dinner Show Worth It in Chiang Mai?",
+                description: "An honest look at the Ladyboy Cabaret show with stories and dinner in Chiang Mai.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789706355/tours/chiang-mai/tours/chiang-mai_1789706355166_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This cabaret show bundles elaborate costumes, music, and personal stories into one evening with dinner, a genuinely different format from Chiang Mai's temple-focused daytime sightseeing and a lively alternative to a quiet dinner out.", tourCard: { slug: "chiang-mai-guided-tour", title: "Chiang Mai: Ladyboy Cabaret – Stories, Dinner and Sparkle", description: "A Ladyboy Cabaret dinner show with stories and performances.", price: "From $49", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789706355/tours/chiang-mai/tours/chiang-mai_1789706355166_0.jpg" } },
+                    { title: "Practical Tips", content: "Book ahead for a good table, since dinner and show seating is often limited to a set number of guests per night." }
+                ],
+                faqs: [
+                    { q: "Is the Ladyboy Cabaret dinner show worth it in Chiang Mai?", a: "Yes, as a genuinely lively evening alternative to the city's daytime temple sightseeing, bundling dinner and a show in one booking." }
+                ],
+            };
+
         default:
             return null;
     }
