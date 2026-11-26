@@ -1639,6 +1639,66 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-muay-thai-class-worth-it-bangkok":
+            return {
+                title: "Is the Muay Thai Boxing Introduction Class Worth It in Bangkok?",
+                seoTitle: "Bangkok Muay Thai Class 2026 | Honest Review",
+                description: "An honest look at the Muay Thai boxing introduction class for beginners in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/muay-thai-boxing-introduction-class-for-beginners-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A beginner-friendly Muay Thai class gives a genuine hands-on taste of Thailand's national sport's technique and conditioning, distinct from just watching a match or show, and requires no prior experience.", tourCard: { slug: "muay-thai-boxing-introduction-class-for-beginners-in-bangkok", title: "Muay Thai Boxing Introduction Class for Beginners in Bangkok", description: "A beginner-friendly Muay Thai boxing introduction class.", price: "From $27", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/muay-thai-boxing-introduction-class-for-beginners-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear light, breathable athletic clothing and expect to sweat — this is a genuine training session, not a photo-op." }
+                ],
+                faqs: [
+                    { q: "Is the Muay Thai class worth it in Bangkok?", a: "Yes, for a genuine, no-experience-needed introduction to the sport's technique, distinct from just watching a match." }
+                ],
+            };
+
+        case "is-canal-boat-tour-wat-paknam-worth-it-bangkok":
+            return {
+                title: "Is the Canal Long-Tail Boat Tour to Wat Paknam Worth It in Bangkok?",
+                seoTitle: "Wat Paknam Canal Boat Tour Bangkok 2026 | Honest Review",
+                description: "An honest look at the canal long-tail boat tour to Wat Paknam and local canal life in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/canal-long-tail-boat-tour-wat-paknam-and-local-life-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Wat Paknam's striking modern multi-tiered pagoda is a different architectural style from the Old City's temples, and reaching it by longtail boat through local canals gives a genuinely different route than the standard Wat Arun canal tour, with its own stretch of everyday canal-side life.", tourCard: { slug: "canal-long-tail-boat-tour-wat-paknam-and-local-life-in-bangkok", title: "Canal Long-Tail Boat Tour Wat Paknam and Local Life in Bangkok", description: "A longtail boat canal tour to Wat Paknam and local canal life.", price: "From $23", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/canal-long-tail-boat-tour-wat-paknam-and-local-life-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Look up for the pagoda's glass-mosaic ceiling at the top — it's the main visual payoff and easy to miss if you only focus on the exterior." }
+                ],
+                faqs: [
+                    { q: "Is the Wat Paknam canal boat tour worth it in Bangkok?", a: "Yes, for a different temple architecture and canal route than the standard Wat Arun tour." }
+                ],
+            };
+
+        case "is-heritage-walk-giant-swing-golden-mount-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Heritage Walk with the Giant Swing and Golden Mount Worth It?",
+                seoTitle: "Bangkok Giant Swing Golden Mount Walk 2026 | Honest Review",
+                description: "An honest look at the Bangkok heritage walk covering temples, the Giant Swing, and the Golden Mount.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-heritage-walk-temples-giant-swing-and-golden-mount-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Giant Swing, once used in a genuinely dangerous Brahmin ceremony, and the Golden Mount's hilltop viewpoint are two distinctive landmarks outside the Grand Palace circuit, and combining them in one guided walk covers ground most standard Old City tours skip.", tourCard: { slug: "bangkok-heritage-walk-temples-giant-swing-and-golden-mount-by-local-operator", title: "Bangkok Heritage Walk Temples, Giant Swing and Golden Mount by Local Operator", description: "A guided heritage walk covering temples, the Giant Swing, and the Golden Mount.", price: "From $39", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-heritage-walk-temples-giant-swing-and-golden-mount-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Climb the Golden Mount's stairs for the view — it's a genuine hilltop vantage point over the Old City, worth the short climb." }
+                ],
+                faqs: [
+                    { q: "Is the Giant Swing and Golden Mount heritage walk worth it in Bangkok?", a: "Yes, for distinctive landmarks most standard Old City tours skip, including a genuine hilltop city view." }
+                ],
+            };
+
+        case "is-red-sky-rooftop-bar-worth-it-bangkok":
+            return {
+                title: "Is Red Sky Rooftop Bar on the 56th Floor Worth It in Bangkok?",
+                seoTitle: "Red Sky Rooftop Bar Bangkok 2026 | Honest Review",
+                description: "An honest look at Red Sky Rooftop Bar on the 56th floor in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/red-sky-rooftop-and-bar-56th-floor-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A genuinely high-altitude rooftop bar at the 56th floor gives sweeping skyline views that most ground-level nightlife can't match, a calmer, view-focused alternative to the city's louder pub crawls and club-hopping tours.", tourCard: { slug: "red-sky-rooftop-and-bar-56th-floor-in-bangkok", title: "Red Sky Rooftop and Bar 56th Floor in Bangkok", description: "Access to the Red Sky rooftop bar on the 56th floor in Bangkok.", price: "From $43", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/red-sky-rooftop-and-bar-56th-floor-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go for sunset or just after dark, when the skyline view is at its most dramatic." }
+                ],
+                faqs: [
+                    { q: "Is Red Sky rooftop bar worth it in Bangkok?", a: "Yes, for sweeping skyline views and a calmer, view-focused alternative to the city's louder pub crawls." }
+                ],
+            };
+
         case "is-muay-thai-class-worth-it-phuket":
             return {
                 title: "Is the Muay Thai Training Class Worth It in Phuket?",

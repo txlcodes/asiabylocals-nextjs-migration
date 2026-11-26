@@ -1396,6 +1396,8 @@ export const BANGKOK_INFO_SLUGS = [
   'bangkok-ancient-city-erawan-museum-tour', 'is-ethical-elephant-sanctuary-worth-it-bangkok',
   'is-damnoen-saduak-floating-market-worth-it-bangkok', 'is-jim-thompson-house-worth-it-bangkok',
   'is-muay-thai-match-worth-it-bangkok', 'is-wat-arun-canal-tour-worth-it-bangkok',
+  'is-muay-thai-class-worth-it-bangkok', 'is-canal-boat-tour-wat-paknam-worth-it-bangkok',
+  'is-heritage-walk-giant-swing-golden-mount-worth-it-bangkok', 'is-red-sky-rooftop-bar-worth-it-bangkok',
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
