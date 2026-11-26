@@ -1266,6 +1266,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-henna-walking-tour-worth-it-george-town', 'is-balik-pulau-tour-worth-it-penang',
     'is-spice-garden-cooking-class-worth-it-penang', 'is-heritage-costume-rental-worth-it-penang',
     'is-teluk-bahang-fishing-village-tour-worth-it-penang', 'is-umi-umi-dining-show-worth-it-penang',
+    'is-glass-museum-worth-it-penang', 'is-batu-ferringhi-donut-ride-worth-it-penang',
+    'is-jet-ski-worth-it-penang', 'is-nanyang-kungfu-tea-experience-worth-it-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),

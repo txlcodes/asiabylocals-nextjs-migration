@@ -4207,6 +4207,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-glass-museum-worth-it-penang":
+            return {
+                title: "Is the Penang Glass Museum Worth It?",
+                description: "An honest look at the Penang Glass Museum ticket with glass art and DIY painting.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1479306/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuinely fun, air-conditioned indoor attraction built around colorful glass art displays and a hands-on DIY painting session, a good family-friendly break from Georgetown's street-art and heritage-walk heavy itinerary.", tourCard: { slug: "penang-glass-museum-ticket-with-glass-art-diy", title: "Penang Glass Museum Ticket with Glass Art & DIY Painting", description: "Entry ticket to the Penang Glass Museum with a DIY painting activity.", price: "From $23", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1479306/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good midday break during the hottest part of the day, since it's entirely indoors and air-conditioned." }
+                ],
+                faqs: [
+                    { q: "Is the Penang Glass Museum worth it?", a: "Yes, especially for families wanting a fun, air-conditioned break from Georgetown's street-art and heritage walks." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Penang Glass Museum worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a fun, air-conditioned family break from the city's street-art and heritage walks." } }
+                ] },
+            };
+
+        case "is-batu-ferringhi-donut-ride-worth-it-penang":
+            return {
+                title: "Is the Batu Ferringhi Donut Ride Worth It in Penang?",
+                description: "An honest look at the Batu Ferringhi donut boat ride with coconut water in Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1373116/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A quick, bouncy ride on an inflatable donut boat towed behind a speedboat gives a short, genuinely fun adrenaline hit at Batu Ferringhi beach, a lighter alternative to jet skiing for travelers who want a laugh rather than a serious thrill.", tourCard: { slug: "penang-batu-ferringhi-donut-ride-with-coconut", title: "Penang: Batu Ferringhi Donut Ride with Coconut Water", description: "A donut boat ride at Batu Ferringhi beach with coconut water.", price: "From $45", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1373116/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Secure loose items before you go — this is a bouncy, splashy ride, so expect to get genuinely wet." }
+                ],
+                faqs: [
+                    { q: "Is the Batu Ferringhi donut ride worth it in Penang?", a: "Yes, for a short, fun, lighter alternative to jet skiing at the beach." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the donut ride worth it at Batu Ferringhi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a short, fun, lighter alternative to jet skiing." } }
+                ] },
+            };
+
+        case "is-jet-ski-worth-it-penang":
+            return {
+                title: "Is the Batu Ferringhi Jet Ski Experience Worth It in Penang?",
+                description: "An honest look at the Batu Ferringhi beach jet ski experience in Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1373083/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A jet ski session at Batu Ferringhi gives a genuine speed-focused thrill distinct from the gentler, group-friendly donut ride, worth it specifically for travelers wanting to actually drive rather than just be towed along.", tourCard: { slug: "penang-batu-ferringhi-beach-jet-ski-experience", title: "Penang: Batu Ferringhi Beach Jet Ski Experience", description: "A jet ski session at Batu Ferringhi beach in Penang.", price: "From $88", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1373083/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm whether you'll be driving solo or riding with an instructor before booking, since the experience differs significantly." }
+                ],
+                faqs: [
+                    { q: "Is the jet ski experience worth it at Batu Ferringhi?", a: "Yes, specifically for travelers who want to drive rather than just be towed, for a more hands-on thrill." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the jet ski experience worth it in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a hands-on, speed-focused thrill distinct from the gentler donut ride." } }
+                ] },
+            };
+
+        case "is-nanyang-kungfu-tea-experience-worth-it-penang":
+            return {
+                title: "Is the Georgetown Nanyang KungFu Tea Experience Worth It in Penang?",
+                description: "An honest look at the Georgetown Nanyang KungFu Tea and hidden discovery experience in Penang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/836cc9af9c7c4e8ae0b68480f64966b49dcc5199fd7dc16c8fb4afc88d90747f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Kung fu tea (gongfu cha) is a genuine, ceremonial brewing tradition distinct from a casual cup of tea, and pairing a guided session with a hidden-spot discovery element in Georgetown gives real cultural depth beyond a standard heritage walk.", tourCard: { slug: "georgetown-experience-nanyang-kungfu-tea-hidden", title: "Georgetown Experience: Nanyang KungFu Tea & Hidden Discovery", description: "A guided kung fu tea ceremony experience with a hidden Georgetown discovery element.", price: "From $93", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/836cc9af9c7c4e8ae0b68480f64966b49dcc5199fd7dc16c8fb4afc88d90747f.jpeg" } },
+                    { title: "Practical Tips", content: "Go in with genuine curiosity about the brewing ritual itself — the ceremony's technique is the real value here, not just the tea." }
+                ],
+                faqs: [
+                    { q: "Is the Nanyang KungFu Tea experience worth it in Penang?", a: "Yes, for a genuine ceremonial tea tradition and real cultural depth beyond a standard heritage walk." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the KungFu Tea experience worth it in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine ceremonial brewing tradition and real cultural depth." } }
+                ] },
+            };
+
         case "is-night-mangrove-safari-worth-it-langkawi":
             return {
                 title: "Is the Night Mangrove Safari with BBQ Worth It in Langkawi?",
