@@ -880,6 +880,90 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-marble-mountains-tour-worth-it-hoi-an":
+      return {
+        title: "Is the Marble Mountains, Am Phu Cave and Lady Buddha Tour Worth It from Hoi An?",
+        description: "An honest look at the Marble Mountains, Am Phu Cave, and Lady Buddha tour, a cluster of marble hills and caves between Hoi An and Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/marble-mountains-am-phu-cave-and-lady-buddha/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Marble Mountains are a cluster of five marble and limestone hills dotted with Buddhist sanctuaries and caves, including the atmospheric Am Phu Cave depicting Buddhist concepts of heaven and hell — a genuinely unique landscape distinct from Hoi An's ancient-town architecture.",
+            tourCard: { slug: "marble-mountains-am-phu-cave-and-lady-buddha", title: "Marble Mountains, Am Phu Cave and Lady Buddha", description: "A guided tour of the Marble Mountains, Am Phu Cave, and Lady Buddha statue.", price: "From $25", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/marble-mountains-am-phu-cave-and-lady-buddha/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — there's genuine climbing involved to reach the cave sanctuaries and viewpoints.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Marble Mountains tour worth it from Hoi An?", a: "Yes, for a genuinely unique marble-hill-and-cave landscape distinct from Hoi An's ancient-town architecture." },
+        ],
+      };
+
+    case "is-terracotta-park-pottery-workshop-worth-it-hoi-an":
+      return {
+        title: "Is the Thanh Ha Terracotta Park Pottery Workshop Worth It in Hoi An?",
+        description: "An honest look at Thanh Ha Terracotta Park, with its pottery workshop near Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/thanh-ha-terracotta-park-with-pottery-workshop-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Thanh Ha has a genuine centuries-old pottery tradition, and the park combines viewing miniature terracotta models with a hands-on wheel-throwing workshop at an actual working pottery village, rather than just a souvenir stop.",
+            tourCard: { slug: "thanh-ha-terracotta-park-with-pottery-workshop-in-hoi-an", title: "Thanh Ha Terracotta Park with Pottery Workshop in Hoi An", description: "A visit to Thanh Ha Terracotta Park with a hands-on pottery workshop.", price: "From $27", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/thanh-ha-terracotta-park-with-pottery-workshop-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a little messy — the pottery wheel portion is genuinely hands-on.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Thanh Ha Terracotta Park pottery workshop worth it in Hoi An?", a: "Yes, for a genuine hands-on pottery experience at an actual working craft village, not just a souvenir stop." },
+        ],
+      };
+
+    case "is-coffee-making-class-worth-it-hoi-an":
+      return {
+        title: "Is the Vietnamese Coffee Making Class Worth It in Hoi An?",
+        description: "An honest look at the Vietnamese coffee culture and coffee making class in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/vietnamese-coffee-making-class-in-hoi-an-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Vietnamese coffee culture, from the drip phin filter to egg coffee and coconut coffee, is distinct enough from Western coffee traditions that a hands-on class genuinely teaches something new, rather than just being a cafe visit with a different label.",
+            tourCard: { slug: "vietnamese-coffee-making-class-in-hoi-an-by-local-operator", title: "Vietnamese Coffee Making Class in Hoi An by Local Operator", description: "A hands-on Vietnamese coffee making class in Hoi An.", price: "From $20", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/vietnamese-coffee-making-class-in-hoi-an-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, low-commitment activity to slot between ancient town sightseeing stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Vietnamese coffee making class worth it in Hoi An?", a: "Yes, Vietnamese coffee culture is genuinely distinct from Western traditions, and the class is a short, easy add-on." },
+        ],
+      };
+
+    case "is-memories-show-worth-it-hoi-an":
+      return {
+        title: "Is the Hoi An Memories Show Worth It?",
+        description: "An honest look at the Hoi An Memories Show, a large-scale cultural performance depicting the town's trading-port history.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-memories-show-qr-code-ticket-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a large-scale outdoor performance with hundreds of performers dramatizing Hoi An's history as a Silk Road trading port, a genuinely bigger-budget production than the town's smaller lantern-boat and walking-tour experiences.",
+            tourCard: { slug: "hoi-an-memories-show-qr-code-ticket-by-local-operator", title: "Hoi An Memories Show - QR Code Ticket by Local Operator", description: "Admission to the large-scale Hoi An Memories cultural show.", price: "From $34", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-memories-show-qr-code-ticket-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive early to get a good seat — this is a popular evening show with a large audience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hoi An Memories Show worth it?", a: "Yes, it's a genuinely bigger-budget production than the town's smaller evening experiences, worth it for the scale alone." },
+        ],
+      };
+
     default:
       return null;
   }

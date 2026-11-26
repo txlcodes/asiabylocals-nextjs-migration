@@ -2411,6 +2411,8 @@ export const HOI_AN_INFO_SLUGS = [
   'is-countryside-bicycle-tour-worth-it-hoi-an',
   'is-lantern-boat-ride-worth-it-hoi-an', 'is-lantern-making-workshop-worth-it-hoi-an',
   'is-hai-van-pass-motorbike-tour-worth-it-hoi-an',
+  'is-marble-mountains-tour-worth-it-hoi-an', 'is-terracotta-park-pottery-workshop-worth-it-hoi-an',
+  'is-coffee-making-class-worth-it-hoi-an', 'is-memories-show-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [
