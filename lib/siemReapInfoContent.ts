@@ -1874,6 +1874,62 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-mad-monkey-sunset-cycling-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Mad Monkey Sunset Countryside Cycling Tour Worth It in Siem Reap?",
+                description: "An honest look at the Mad Monkey sunset countryside cycling tour around Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mad-monkey-siem-reap-sunset-countryside-cycling-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cycling through rice paddies and rural villages outside the temple circuit gives a genuinely different side of Siem Reap, and timing the ride for sunset adds a worthwhile payoff without extending the tour into a full day.", tourCard: { slug: "mad-monkey-siem-reap-sunset-countryside-cycling-to", title: "Mad Monkey Siem Reap: Sunset Countryside Cycling Tour", description: "A guided countryside cycling tour timed for sunset.", price: "From $19", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mad-monkey-siem-reap-sunset-countryside-cycling-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A reasonable level of fitness helps, though the pace is generally easy and social rather than athletic." }
+                ],
+                faqs: [
+                    { q: "Is the Mad Monkey sunset cycling tour worth it in Siem Reap?", a: "Yes, for travelers wanting a genuinely rural, non-temple side of Siem Reap with a good sunset payoff." }
+                ],
+            };
+
+        case "is-feel-good-evening-walking-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Feel Good Evening Walking Tour Worth It in Siem Reap?",
+                description: "An honest look at Siem Reap's Feel Good Evening Walking Tour through the town after dark.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/feel-good-evening-walking-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A short, inexpensive evening walking tour is a low-commitment way to get oriented in Siem Reap town after arrival, pointing out markets, Pub Street, and local eateries without the pressure of a full-day commitment.", tourCard: { slug: "feel-good-evening-walking-tour", title: "Feel Good Evening Walking Tour", description: "A short guided evening walking tour of Siem Reap town.", price: "From $20", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/feel-good-evening-walking-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good first-night option to get oriented before tackling the temples the next day." }
+                ],
+                faqs: [
+                    { q: "Is the Feel Good Evening Walking Tour worth it in Siem Reap?", a: "Yes, as a short, low-cost way to get oriented in town, especially on arrival night." }
+                ],
+            };
+
+        case "is-angkor-national-museum-worth-it-siem-reap":
+            return {
+                title: "Is the Angkor National Museum Worth It in Siem Reap?",
+                description: "An honest look at the Angkor National Museum, a modern museum covering Khmer history and the Angkor temples.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/angkor-national-museum-admission-ticket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting before the temples gives genuinely useful historical context on the Khmer empire and Angkor's construction, making later temple visits more meaningful rather than just a stack of stones in the heat.", tourCard: { slug: "angkor-national-museum-admission-ticket", title: "Angkor National Museum Admission Ticket", description: "Admission to the Angkor National Museum in Siem Reap.", price: "From $20", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/angkor-national-museum-admission-ticket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Visit on your first day, before the temples, so the context is fresh when you actually see them." }
+                ],
+                faqs: [
+                    { q: "Is the Angkor National Museum worth it?", a: "Yes, especially visited before the temples — it adds genuine historical context that makes the ruins more meaningful." }
+                ],
+            };
+
+        case "is-phare-cambodian-circus-worth-it-siem-reap":
+            return {
+                title: "Is the Phare Cambodian Circus Worth It in Siem Reap?",
+                description: "An honest look at Phare, the Cambodian Circus, a contemporary circus and theater show in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phare-cambodian-circus-private-roundtrip-transfer/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Phare is a genuinely well-regarded contemporary circus troupe, trained through a Cambodian arts school, performing original acrobatic and theatrical shows rather than a tourist-trap cultural dance performance — a strong evening option distinct from the temple circuit.", tourCard: { slug: "phare-cambodian-circus-private-roundtrip-transfer", title: "Phare Cambodian Circus Private Roundtrip Transfer", description: "A performance by the Phare Cambodian Circus with private round-trip transfer.", price: "From $30", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phare-cambodian-circus-private-roundtrip-transfer/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book ahead — shows are popular and seating is limited, especially in high season." }
+                ],
+                faqs: [
+                    { q: "Is Phare, the Cambodian Circus, worth it in Siem Reap?", a: "Yes, it's a genuinely well-regarded contemporary circus, not a tourist-trap cultural show, and a strong evening option." }
+                ],
+            };
+
         default:
             return null;
     }
