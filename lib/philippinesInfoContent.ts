@@ -1656,6 +1656,91 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-fort-santiago-tour-worth-it-manila":
+      return {
+        title: "Is the Fort Santiago Guided Tour Worth It in Manila?",
+        description: "An honest look at the guided tour of Fort Santiago, the Spanish-era citadel in Manila's Intramuros district.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e987fec16e9f16ccef2dbce45dc8e5d92e82421b2fb39a59302ff674e674e23e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fort Santiago is a genuinely significant Spanish-era citadel where national hero José Rizal was imprisoned before his execution, and a guided visit adds real historical context you'd otherwise miss just walking the grounds.",
+            tourCard: { slug: "manila-fort-santiago-guided-tour", title: "Manila: Fort Santiago Guided Tour", description: "A guided tour of Fort Santiago in Manila's Intramuros district.", price: "From $33", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e987fec16e9f16ccef2dbce45dc8e5d92e82421b2fb39a59302ff674e674e23e.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair it with a wider Intramuros walking tour since the fort itself is a short visit at just an hour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Fort Santiago tour worth it in Manila?", a: "Yes, a guide adds genuine historical context tied to national hero José Rizal that's easy to miss walking the grounds alone." },
+        ],
+      };
+
+    case "is-dessert-museum-worth-it-manila":
+      return {
+        title: "Is the Dessert Museum Worth It in Manila?",
+        description: "An honest look at The Dessert Museum, an interactive, Instagram-oriented attraction in Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2dd147b619aa9fb2c4f6a0196b42fb6f133eb380fb55986a935db51a56c842b4.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely fun, air-conditioned indoor attraction built around colorful, photo-friendly dessert-themed rooms — a good pick specifically for families, kids, and anyone wanting a playful break from Manila's history-heavy sightseeing.",
+            tourCard: { slug: "manila-the-dessert-museum-entry-ticket", title: "Manila: The Dessert Museum Entry Ticket", description: "Entry ticket to The Dessert Museum in Manila.", price: "From $33", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2dd147b619aa9fb2c4f6a0196b42fb6f133eb380fb55986a935db51a56c842b4.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good midday break during the hottest part of the day, since it's entirely indoors and air-conditioned.",
+          },
+        ],
+        faqs: [
+          { q: "Is The Dessert Museum worth it in Manila?", a: "Yes, especially for families and kids wanting a fun, playful break from the city's history-heavy sightseeing." },
+        ],
+      };
+
+    case "is-manila-bay-night-cruise-worth-it-manila":
+      return {
+        title: "Is the Manila Bay Night Cruise, Foodie Tour and 3D Theater Worth It?",
+        description: "An honest look at the Manila Bay night cruise bundled with a foodie tour and 3D theater experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4045813f7a6bd37773badda72dbf40393784940848226f9e06c4cf4a019aec00.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling a sunset bay cruise, food tastings, and a 3D theater experience into one evening booking covers a genuinely varied mix of activities, good value for travelers who want to pack a lot into one night rather than booking each separately.",
+            tourCard: { slug: "manila-manila-bay-night-cruise-foodie-tour-3d", title: "Manila: Manila Bay Night Cruise, Foodie Tour & 3D Theater", description: "A combined Manila Bay night cruise, foodie tour, and 3D theater experience.", price: "From $61", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4045813f7a6bd37773badda72dbf40393784940848226f9e06c4cf4a019aec00.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the sunset time before booking so the cruise portion lines up with the best light over the bay.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Manila Bay night cruise and foodie tour worth it?", a: "Yes, it's a good-value bundle for travelers wanting a varied evening without booking each activity separately." },
+        ],
+      };
+
+    case "is-tondo-walking-tour-worth-it-manila":
+      return {
+        title: "Is the Tondo Walking Tour Worth It in Manila?",
+        description: "An honest, even-handed look at the Tondo walking tour, visiting one of Manila's oldest and most densely populated districts.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/39f515683a25dcbb317adc21b1d1ccc97372107037e3fe7bee7e7e15588259f4.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tondo is a genuine, historically significant working-class district, and this tour is framed around local life and untold stories rather than treating poverty as a spectacle — whether it's right for you depends on your comfort with the format and confidence that the specific operator and guide genuinely benefit the community they're walking you through.",
+            tourCard: { slug: "tondo-walking-tour-local-life-untold-stories", title: "Tondo Walking Tour: Local Life & Untold Stories", description: "A walking tour of Tondo focused on local life and community stories.", price: "From $65", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/39f515683a25dcbb317adc21b1d1ccc97372107037e3fe7bee7e7e15588259f4.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator directly how the tour benefits the community and whether local guides from Tondo itself lead the walk — a genuinely ethical operator should answer this clearly and specifically.",
+          },
+        ],
+        faqs: [
+          { q: "Is a community walking tour in Tondo ethical?", a: "It depends on the specific operator — ask directly how the community benefits and whether local guides lead the walk, and expect a clear, specific answer." },
+          { q: "Is the Tondo walking tour worth it in Manila?", a: "It can be, for travelers genuinely interested in local life and history rather than treating the district as a spectacle — confirm the operator's community-benefit model first." },
+        ],
+      };
+
     case "is-las-casas-filipinas-worth-it-cebu":
       return {
         title: "Is Las Casas Filipinas Heritage Village Worth It near Cebu?",

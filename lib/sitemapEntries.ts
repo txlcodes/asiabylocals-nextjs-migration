@@ -1116,6 +1116,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-manila-ocean-park-worth-it-manila', 'is-bataan-wwii-memorial-tour-worth-it-manila',
     'is-pampanga-ube-farm-tour-worth-it-manila', 'is-zambales-island-hopping-worth-it-manila',
     'best-tours-in-manila',
+    'is-fort-santiago-tour-worth-it-manila', 'is-dessert-museum-worth-it-manila',
+    'is-manila-bay-night-cruise-worth-it-manila', 'is-tondo-walking-tour-worth-it-manila',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/manila/${slug}`,
     lastModified: new Date(),
