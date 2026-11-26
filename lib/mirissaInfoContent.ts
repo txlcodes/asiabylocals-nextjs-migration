@@ -492,6 +492,90 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-cinnamon-garden-tour-worth-it-mirissa":
+      return {
+        title: "Is the Cinnamon Garden Tour with Peeling Class Worth It in Mirissa?",
+        description: "An honest look at the cinnamon garden tour with a hands-on peeling class in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1240829/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka is genuinely one of the world's top cinnamon producers, and learning to peel the bark by hand gives real insight into a globally significant local industry, a distinctly different activity from the beach and boat tours that dominate Mirissa.",
+            tourCard: { slug: "mirissa-cinnamon-garden-tour-with-peeling-class", title: "Mirissa: Cinnamon Garden Tour with Peeling Class", description: "A cinnamon garden tour with a hands-on bark-peeling class.", price: "From $42", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1240829/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about how Ceylon cinnamon differs from the cassia cinnamon most people are used to — it's a genuinely distinct, milder variety.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cinnamon garden tour worth it in Mirissa?", a: "Yes, for genuine insight into a globally significant local industry, distinct from the town's beach and boat tours." },
+        ],
+      };
+
+    case "is-crazy-ufo-water-sport-worth-it-mirissa":
+      return {
+        title: "Is the Crazy UFO High-Speed Water Sport Worth It in Mirissa?",
+        description: "An honest look at the Crazy UFO high-speed water sport ride in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-916136/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Crazy UFO is a genuinely fast, bouncy inflatable towed ride, giving a group-friendly adrenaline hit distinct from solo jet skiing or paddle boarding — a short, fun activity best enjoyed with others rather than alone.",
+            tourCard: { slug: "mirissa-crazy-ufo-high-speed-water-sport", title: "Mirissa: Crazy UFO High-speed Water Sport", description: "A high-speed inflatable UFO water sport ride in Mirissa.", price: "From $29", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-916136/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go with a group — this ride is genuinely more fun shared with others than done solo.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Crazy UFO ride worth it in Mirissa?", a: "Yes, for a fast, group-friendly adrenaline hit, best enjoyed with others rather than solo." },
+        ],
+      };
+
+    case "is-jet-skiing-worth-it-mirissa":
+      return {
+        title: "Is Jet Skiing Worth It in Mirissa?",
+        description: "An honest look at jet skiing in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-917125/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jet skiing gives a genuine solo-driven speed thrill distinct from the group-oriented inflatable rides like the Crazy UFO, worth it specifically for travelers who want to actually drive rather than just be towed along.",
+            tourCard: { slug: "jet-skiing-in-mirissa", title: "Jet Skiing in Mirissa", description: "A jet skiing session in Mirissa.", price: "From $93", duration: "15 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-917125/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm whether you'll be driving solo or riding with an instructor before booking, since the experience differs significantly.",
+          },
+        ],
+        faqs: [
+          { q: "Is jet skiing worth it in Mirissa?", a: "Yes, specifically for travelers who want to drive rather than be towed, for a more hands-on, solo thrill." },
+        ],
+      };
+
+    case "is-paddle-boarding-worth-it-mirissa":
+      return {
+        title: "Is the Paddle Boarding Experience Worth It in Mirissa?",
+        description: "An honest look at the paddle boarding experience in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddle boarding gives a genuinely calm, low-impact way to be on the water, a good lower-adrenaline alternative to jet skiing or the Crazy UFO for travelers who want a relaxed, balance-focused activity instead of a speed thrill.",
+            tourCard: { slug: "mirissa-paddle-boarding-experience", title: "Mirissa: Paddle Boarding Experience", description: "A paddle boarding experience in Mirissa.", price: "From $28", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior experience is needed — calm mornings generally give the easiest conditions for first-timers.",
+          },
+        ],
+        faqs: [
+          { q: "Is paddle boarding worth it in Mirissa?", a: "Yes, for a calm, low-impact water activity, a good alternative to the town's speed-focused water sports." },
+        ],
+      };
+
     default:
       return null;
   }
