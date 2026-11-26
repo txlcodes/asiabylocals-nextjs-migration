@@ -2445,6 +2445,90 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lovina-dolphin-watching-worth-it-ubud":
+      return {
+        title: "Is the Lovina Dolphin Watching and Snorkeling Tour Worth It from Ubud?",
+        description: "An honest look at the Lovina dolphin watching and snorkeling day tour from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lovina-dolphin-watching-and-snorkeling-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lovina on Bali's north coast has a genuine wild dolphin population, and an early-morning boat trip there plus snorkeling afterward gives a full day's worth of wildlife and water activity, distinct from Ubud's temple-and-rice-terrace itinerary — worth it specifically if you have a full day to spare and genuinely want to see dolphins in the wild.",
+            tourCard: { slug: "lovina-dolphin-watching-and-snorkeling-tour", title: "Lovina Dolphin Watching and Snorkeling Tour", description: "A day tour to Lovina for dolphin watching and snorkeling.", price: "From $22", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/lovina-dolphin-watching-and-snorkeling-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Set expectations realistically — dolphin sightings are common but not guaranteed, since these are wild animals, not a performance show.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lovina dolphin watching tour worth it from Ubud?", a: "Yes, if you have a full day to spare and genuinely want to see wild dolphins — sightings are common but never guaranteed." },
+        ],
+      };
+
+    case "is-melukat-purification-ceremony-worth-it-ubud":
+      return {
+        title: "Is the Traditional Balinese Melukat Purification Ceremony Worth It in Ubud?",
+        description: "An honest look at the traditional Balinese Melukat purification ceremony in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/traditional-balinese-melukat-purification-ceremony-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Melukat is a genuine personal purification ritual using holy spring water, distinct from the larger, more tourist-visited Tirta Empul site — this version focuses on a smaller, more intimate ceremony guided by a priest, worth it specifically for travelers wanting a more personal spiritual experience rather than a photo-stop temple visit.",
+            tourCard: { slug: "traditional-balinese-melukat-purification-ceremony-in-ubud", title: "Traditional Balinese Melukat Purification Ceremony in Ubud", description: "A traditional Balinese Melukat purification ceremony guided by a priest.", price: "From $35", duration: "40 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/traditional-balinese-melukat-purification-ceremony-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes since the ritual involves holy water, and approach it with genuine respect rather than treating it purely as a photo opportunity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Melukat purification ceremony worth it in Ubud?", a: "Yes, for a more personal, intimate spiritual ritual than the larger, more touristed Tirta Empul site." },
+        ],
+      };
+
+    case "is-river-tubing-adventure-worth-it-ubud":
+      return {
+        title: "Is the White Water River Tubing Adventure Worth It in Ubud?",
+        description: "An honest look at the white water river tubing adventure with a guide in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/white-water-river-tubing-adventure-with-guide-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "River tubing down rapids on an inflatable tube is a more relaxed, lower-commitment alternative to full white-water rafting, giving a genuine adrenaline hit without needing a full-size raft crew or extensive paddling skill.",
+            tourCard: { slug: "white-water-river-tubing-adventure-with-guide-in-ubud", title: "White Water River Tubing Adventure with Guide in Ubud", description: "A guided white water river tubing adventure in Ubud.", price: "From $38", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/white-water-river-tubing-adventure-with-guide-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You'll get genuinely soaked — bring a change of clothes and secure any valuables in a dry bag beforehand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the river tubing adventure worth it in Ubud?", a: "Yes, as a more relaxed, lower-commitment alternative to full white-water rafting, with a genuine adrenaline hit." },
+        ],
+      };
+
+    case "is-still-life-painting-workshop-worth-it-ubud":
+      return {
+        title: "Is the Still Life Painting Workshop at BK Creative Hub Worth It in Ubud?",
+        description: "An honest look at the still life painting workshop at BK Creative Hub in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ubud has a genuine arts-village heritage, and a guided still life painting session gives a hands-on creative outlet distinct from the city's silver-jewelry and batik craft workshops — a good fit for travelers who specifically want to paint rather than make a wearable souvenir.",
+            tourCard: { slug: "still-life-painting-workshop-at-bk-creative-hub-in-ubud", title: "Still Life Painting Workshop at BK Creative Hub in Ubud", description: "A guided still life painting workshop at BK Creative Hub.", price: "From $37", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior painting experience is needed — the guided format is built for beginners wanting a relaxed creative session.",
+          },
+        ],
+        faqs: [
+          { q: "Is the still life painting workshop worth it in Ubud?", a: "Yes, for a relaxed, beginner-friendly creative outlet distinct from the city's jewelry and batik craft workshops." },
+        ],
+      };
+
     default:
       return null;
   }
