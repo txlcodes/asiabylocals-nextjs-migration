@@ -2921,6 +2921,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-cultural-evening-dance-thali-worth-it-pokhara":
+            return {
+                title: "Is the Nepali Cultural Evening with Dance and Thali Dinner Worth It in Pokhara?",
+                description: "An honest look at Pokhara's Nepali cultural evening bundling a traditional dance performance with a thali dinner.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b43fe93eb8acdb41182dca5f5f7817c17e41634cdd39d2e794ba178b251da0e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling a traditional dance performance with a full thali dinner in one evening booking is a different, broader format than Pokhara's more specific Thakali dinner — a good value pick if you want culture and a full meal in one sitting.", tourCard: { slug: "pokhara-nepali-cultural-evening-with-dance-thali", title: "Pokhara: Nepali Cultural Evening with Dance & Thali Dinner", description: "A Nepali cultural evening with a traditional dance performance and thali dinner.", price: "From $45", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b43fe93eb8acdb41182dca5f5f7817c17e41634cdd39d2e794ba178b251da0e.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — a thali is a full multi-dish meal, not a snack portion, so skip a big lunch beforehand." }
+                ],
+                faqs: [
+                    { q: "Is the Nepali cultural evening worth it in Pokhara?", a: "Yes, it's a good-value evening bundling a traditional dance show with a full thali dinner in one booking." }
+                ],
+            };
+
+        case "is-harpan-danda-hike-worth-it-pokhara":
+            return {
+                title: "Is the Harpan Danda 360° View Day Hike Worth It from Pokhara?",
+                description: "An honest look at the Harpan Danda day hike with 360-degree Himalayan views from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8f6d38438bf3b1b74376c10c3b6eede65e5c0c5c352859c50b9a0d6f047dbc3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Harpan Danda gives a genuinely panoramic 360-degree view of the surrounding Annapurna range and valley, a quieter alternative to the more crowded Sarangkot viewpoint for travelers willing to put in more hiking effort.", tourCard: { slug: "pokhara-harpan-danda-360-view-day-hike-with-guide", title: "Pokhara: Harpan Danda 360° View Day Hike with Guide", description: "A guided day hike to Harpan Danda for 360-degree Himalayan views.", price: "From $50", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8f6d38438bf3b1b74376c10c3b6eede65e5c0c5c352859c50b9a0d6f047dbc3.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes and start early — this is a genuine multi-hour hike, not a quick viewpoint walk like Sarangkot." }
+                ],
+                faqs: [
+                    { q: "Is the Harpan Danda hike worth it from Pokhara?", a: "Yes, for genuinely panoramic 360-degree views and a quieter alternative to the crowded Sarangkot viewpoint." }
+                ],
+            };
+
+        case "is-hidden-villages-cycling-tour-worth-it-pokhara":
+            return {
+                title: "Is the Hidden Villages and Harpan Hill Cycling Tour Worth It in Pokhara?",
+                description: "An honest look at the private hidden villages and Harpan Hill cycling tour from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/266044ada743129b6400b5f5fd7c2dde82016bde6d1951f11ed77154da6f6ad6.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Cycling through rural villages outside the lakeside tourist strip gives a genuinely different, more active way to see rural Pokhara than hiking or a bus tour, reaching areas most day-trippers never visit.", tourCard: { slug: "pokhara-private-hidden-villages-harpan-hill", title: "Pokhara: Private Hidden Villages & Harpan Hill Cycling Tour", description: "A private cycling tour through hidden villages and Harpan Hill.", price: "From $53", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/266044ada743129b6400b5f5fd7c2dde82016bde6d1951f11ed77154da6f6ad6.jpg" } },
+                    { title: "Practical Tips", content: "A moderate fitness level helps given the hilly terrain, but the pace is generally social rather than a race." }
+                ],
+                faqs: [
+                    { q: "Is the hidden villages cycling tour worth it in Pokhara?", a: "Yes, for a genuinely active way to reach rural areas outside the lakeside strip that most day-trippers never see." }
+                ],
+            };
+
+        case "is-rupakot-twin-lakes-hike-worth-it-pokhara":
+            return {
+                title: "Is the Rupakot Day Hike with Twin Lakes Worth It from Pokhara?",
+                description: "An honest look at the Rupakot day hike with twin lakes and Himalayan views from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7b5dd1bac74e100c199eab11a658bc5a6f720f277cb6dc353c676f54617175db.png",
+                sections: [
+                    { title: "The Short Answer", content: "Rupakot combines two genuine lake views (Begnas and Rupa) with Himalayan panoramas from an elevated viewpoint, a worthwhile day-hike alternative for travelers who've already done Sarangkot and want fewer crowds.", tourCard: { slug: "from-pokhara-rupakot-day-hike-with-twin-lakes", title: "From Pokhara: Rupakot Day Hike with Twin Lakes & Himalayas", description: "A day hike to Rupakot taking in twin lakes and Himalayan views.", price: "From $53", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7b5dd1bac74e100c199eab11a658bc5a6f720f277cb6dc353c676f54617175db.png" } },
+                    { title: "Practical Tips", content: "Best for travelers who've already covered Sarangkot and want a quieter viewpoint with a genuine twin-lake payoff." }
+                ],
+                faqs: [
+                    { q: "Is the Rupakot twin lakes hike worth it from Pokhara?", a: "Yes, especially if you've already done Sarangkot and want fewer crowds plus a genuine twin-lake view." }
+                ],
+            };
+
         default:
             return null;
     }

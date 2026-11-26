@@ -860,6 +860,8 @@ export const POKHARA_INFO_SLUGS = [
   'is-royal-enfield-adventure-worth-it-pokhara', 'is-pokhara-bungee-worth-it-pokhara',
   'is-skyscreamer-swing-worth-it-pokhara', 'is-kahun-danda-hike-worth-it-pokhara',
   'is-momo-dal-bhat-class-worth-it-pokhara', 'is-night-walking-tour-worth-it-pokhara',
+  'is-cultural-evening-dance-thali-worth-it-pokhara', 'is-harpan-danda-hike-worth-it-pokhara',
+  'is-hidden-villages-cycling-tour-worth-it-pokhara', 'is-rupakot-twin-lakes-hike-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.
