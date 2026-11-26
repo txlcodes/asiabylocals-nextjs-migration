@@ -110981,6 +110981,409 @@ export const IT_TOURS: Record<string, TourT> = {
    "Le spese personali"
   ]
  },
+ "colombo-temples-markets-guided-four-hour-city-tour": {
+  "title": "Colombo: Templi e Mercati, Tour Guidato di Quattro Ore",
+  "metaTitle": "Colombo: Templi e Mercati in Quattro Ore",
+  "metaDescription": "Quattro ore guidate tra gli strati più antichi di Colombo: il cortile del Dutch Hospital a Fort, il tempio di Seema Malaka e le vie di Pettah.",
+  "shortDescription": "Quattro ore guidate tra gli strati più antichi di Colombo: il cortile del Dutch Hospital a Fort, il tempio sul lago di Seema Malaka e le vie di commercio di Pettah.",
+  "fullDescription": "Colombo ripaga chiunque sia disposto a guardare oltre le torri di uffici sul lungomare. Il porto ha cambiato mano tre volte in cinque secoli, dai portoghesi agli olandesi fino ai britannici, e i quartieri più antichi portano ancora quella stratificazione nei nomi delle strade, nei portici e nelle chiese. Questo tour di quattro ore in furgone si concentra su quella città più antica piuttosto che su quella nuova.\n\nIl Old Dutch Hospital a Fort è il punto di partenza naturale. È l'edificio più antico sopravvissuto nel quartiere, un basso blocco porticato costruito attorno a due cortili nel diciassettesimo secolo, e dopo decenni di abbandono oggi ospita ristoranti e negozi. Le proporzioni sono rimaste intatte, e stare nel cortile interno è il modo più rapido per capire come fosse davvero la Colombo olandese.\n\nSegue Seema Malaka, e qui il registro cambia completamente. Il tempio si trova sul lago Beira, su una serie di piattaforme collegate, progettate da Geoffrey Bawa alla fine degli anni 1970 dopo che la struttura originale era affondata. Appartiene al monastero di Gangaramaya ed è usato per le ordinazioni monastiche, ma per la maggior parte della giornata è semplicemente una quieta serie di piattaforme sull'acqua con file di figure del Buddha sedute.\n\nPettah è la metà rumorosa del tour. Il mercato non è un unico edificio ma una griglia di strade, e ogni strada vende più o meno un solo tipo di merce: ferramenta, tessuti, pesce secco, articoli elettrici, ghirlande per le festività. La tua guida ti conduce attraverso di esso e spiega cosa stai guardando, cosa che qui conta più che in qualsiasi altra sosta.\n\nL'ordine esatto delle soste dipende dal traffico e dal giorno della settimana, perché Pettah è chiusa e tranquilla la domenica e nei giorni di Poya di luna piena. La tua guida ti dirà al ritiro quale sarà il programma. Il tour si svolge in furgone con aria condizionata e ti riporta al tuo alloggio a Colombo.",
+  "highlights": [],
+  "included": [
+   "Furgone con aria condizionata e driver",
+   "Guida in lingua inglese",
+   "Ritiro e riaccompagno a Colombo",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso e le donazioni ai templi",
+   "Il cibo e le bevande",
+   "Le mance",
+   "Gli acquisti a Pettah"
+  ]
+ },
+ "colombo-tuk-tuk-private-half-day-tour-local-meal": {
+  "title": "Colombo in Tuk-Tuk: Tour Privato di Mezza Giornata con un Pasto Locale",
+  "metaTitle": "Colombo in Tuk-Tuk: Tour Privato con Pasto",
+  "metaDescription": "Quattro ore in un tuk-tuk privato con una guida locale, tra templi, mercati e il quartiere coloniale, con un pranzo o una cena singalese incluso.",
+  "shortDescription": "Quattro ore in un tuk-tuk privato con una guida locale, tra templi, mercati e il quartiere coloniale, con un pranzo o una cena singalese lungo il percorso.",
+  "fullDescription": "Il tuk-tuk è il veicolo giusto per Colombo. Passa nei vicoli di Pettah dove un furgone non può entrare, si ferma dove lo indichi, e in un tre ruote aperto senti il mercato del pesce, il frangipani e i gas di scarico, che sono gran parte del carattere della città. Questo tour privato di quattro ore copre i luoghi principali con un ritmo che lascia spazio per fermarsi.\n\nIl percorso segue la geografia della città piuttosto che una lista fissa. Vedi la Lotus Tower, il monastero di Gangaramaya con la sua architettura che mescola stili singalese, thailandese, indiano e cinese, il Viharamahadevi Park e Independence Square nel vecchio quartiere di Cinnamon Gardens, e il vecchio edificio del parlamento sul lungomare. Galle Face Green, la passeggiata coloniale, è programmata per il tardo pomeriggio, quando escono i venditori di aquiloni e i carretti di isso wade.\n\nLa seconda metà è la città commerciale più antica. Le strade del mercato di Pettah sono ognuna specializzata in un settore, e il mercato della verdura, la torre campanaria olandese di Kayman's Gate e la Moschea Jami Ul-Alfar a strisce del 1908 si trovano a pochi isolati di distanza. Segue Fort: la vecchia torre dell'orologio del faro, il museo marittimo in un edificio di epoca olandese e un commerciante di tè dove si può assaggiare il tè di Ceylon.\n\nIl pasto è la parte che rende il tour degno dell'ora in più. Secondo che tu scelga la fascia del pranzo o della cena, la tua guida ti porta in un locale del posto piuttosto che in un ristorante d'hotel, e mangi riso e curry, kottu roti o hopper con quello che la cucina fa meglio quel giorno. Dì in anticipo se sei vegetariano o se vuoi un livello di piccantezza più basso.\n\nEssendo privato, il tour è tuo da ridirigere. Il ritiro e il riaccompagno sono inclusi in qualsiasi distretto postale di Colombo, e se vuoi saltare una sosta e passare venti minuti in più al mercato, è una semplice richiesta, non un problema.",
+  "highlights": [],
+  "included": [
+   "Tuk-tuk privato con driver-guida per quattro ore",
+   "Guida in lingua inglese",
+   "Ritiro e riaccompagno in hotel o a un indirizzo in tutta Colombo",
+   "Un pranzo o una cena singalese",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso e le donazioni ai templi",
+   "Il cibo e le bevande aggiuntivi",
+   "Gli acquisti di tè",
+   "Le mance"
+  ]
+ },
+ "colombo-wreck-diving-trip-certified-dive-guides": {
+  "title": "Colombo: Immersione sui Relitti con Guide Certificate",
+  "metaTitle": "Colombo: Immersione sui Relitti",
+  "metaDescription": "Un'immersione guidata di due ore in barca sui relitti al largo di Colombo, condotta da un team locale per sub certificati e principianti supervisionati.",
+  "shortDescription": "Un'immersione guidata di due ore in barca sui relitti al largo di Colombo, condotta da un team locale di diving per sub certificati e principianti supervisionati.",
+  "fullDescription": "Molti arrivano in Sri Lanka con l'idea di immergersi nel sud o al largo di Trincomalee, e non scoprono mai che Colombo stessa si trova sopra uno dei tratti più interessanti di diving sui relitti dell'isola. Secoli di traffico navale verso il porto hanno lasciato un cimitero sparso sul fondale, a breve distanza in barca dalla città, e questo è ciò che questa gita va a vedere.\n\nL'immersione parte dal lungomare di Colombo. Dopo un briefing sul sito, il profilo di profondità, i segnali manuali e il programma della giornata, la barca ti porta verso un relitto scelto in base alle condizioni del giorno. Il team decide al mattino, non in anticipo, perché la visibilità e la corrente al largo di Colombo cambiano rapidamente e il sito più sicuro non è sempre lo stesso.\n\nI relitti qui si trovano in acque calde, con strutture colonizzate nel corso dei decenni, quindi trovi vita marina raccolta attorno ai bordi rigidi piuttosto che i giardini di corallo della costa orientale. Aspettati banchi di pesci di scogliera, pesci scorpione e murene incastrate nelle lamiere, e di tanto in tanto un visitatore più grande che passa. L'interesse sta nella struttura stessa e nel modo in cui il mare se ne è impossessato.\n\nL'attività è guidata per tutto il tempo da un professionista del diving. I sub certificati dovrebbero portare il loro brevetto; se non sei certificato, il team può condurre l'immersione come un'immersione introduttiva supervisionata entro limiti di bassa profondità, quindi comunica il tuo livello di esperienza all'operatore al momento della prenotazione, così il piano e l'attrezzatura giusti saranno pronti.\n\nLe immersioni al largo di Colombo sono stagionali. Il monsone sudoccidentale, da maggio a settembre circa, porta mareggiate e sedimenti su questa costa, e le migliori condizioni si trovano generalmente nei mesi più secchi, da novembre ad aprile circa.\n\nPrevedi circa due ore in totale per il tragitto in barca, l'immersione e il ritorno. Non volare entro diciotto ore dall'immersione.",
+  "highlights": [],
+  "included": [
+   "Trasferimento in barca al sito di immersione",
+   "Guida di diving certificata",
+   "Bombole, pesi, GAV ed erogatore",
+   "Maschera, pinne e muta",
+   "Briefing di sicurezza",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Il ritiro e il riaccompagno in hotel",
+   "Il noleggio della fotocamera subacquea",
+   "Le mance",
+   "L'assicurazione di viaggio o per le immersioni",
+   "I pasti",
+   "Le immersioni aggiuntive oltre quella prenotata"
+  ]
+ },
+ "dambulla-cave-temples-pidurangala-rock-day-trip-colombo": {
+  "title": "Templi Rupestri di Dambulla e Roccia di Pidurangala: Gita da Colombo",
+  "metaTitle": "Dambulla e Pidurangala: Gita da Colombo",
+  "metaDescription": "Una lunga giornata da Colombo ai templi rupestri dipinti di Dambulla e alla scalata di Pidurangala, la roccia che guarda dritto verso Sigiriya.",
+  "shortDescription": "Una lunga giornata da Colombo ai templi rupestri dipinti di Dambulla e alla scalata di Pidurangala, la roccia che guarda dritto verso Sigiriya.",
+  "fullDescription": "Questo tour abbina due siti a dieci minuti di distanza nella zona secca: i templi rupestri di Dambulla, che riguardano interni dipinti e una continuità di culto, e Pidurangala, che riguarda una scalata e un panorama. È una giornata di quattordici ore da Colombo con circa sei ore e mezza di guida, quindi considerala un impegno a tutti gli effetti.\n\nDambulla è il più grande e meglio conservato complesso di templi rupestri dello Sri Lanka, in uso continuo come monastero fin dal primo secolo a.C. Cinque grotte scavate nello sporto di una collina di granito custodiscono più di 150 figure del Buddha insieme a statue di re e divinità hindu. Sono le pitture a fare la differenza: ogni soffitto e ogni parete sono ricoperti, con murales che seguono la curva della roccia in ocre e rossi rinnovati nel corso dei secoli. La grotta più grande custodisce un Buddha sdraiato di 14 metri scavato nella roccia.\n\nPidurangala è il contrappunto. È la roccia immediatamente a nord di Sigiriya, ed era un monastero molto prima che Kashyapa costruisse la sua cittadella lì accanto. La scalata dura circa mezz'ora: prima gradini di pietra, poi un Buddha sdraiato in laterizio, e infine una vera arrampicata tra i massi nell'ultimo tratto, dove serve usare le mani. La ricompensa in cima è la vista di Sigiriya che emerge dalla foresta, una vista che non si ha da Sigiriya stessa.\n\nMolti scelgono Pidurangala perché è la più tranquilla e la più economica delle due rocce, senza code sulle scalinate. Se preferisci scalare Sigiriya, è un'altra gita con un altro biglietto, quindi chiarisci bene al momento della prenotazione.\n\nLa giornata comprende la colazione lungo il percorso, un'ora e mezza per il pranzo vicino a Sigiriya e il lungo viaggio di ritorno. Il tuo driver-guida gestisce il percorso e gli orari. Parti presto: sia le grotte che la roccia sono molto più piacevoli prima della metà della giornata, e il viaggio di ritorno è più facile con la luce del giorno.",
+  "highlights": [],
+  "included": [
+   "Auto con aria condizionata, driver e carburante",
+   "Driver-guida in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso per il tempio rupestre di Dambulla e per Pidurangala",
+   "La colazione e il pranzo",
+   "Le bevande",
+   "Le mance"
+  ]
+ },
+ "ella-day-trip-colombo-tea-factory-hill-train-nine-arch-bridge": {
+  "title": "Gita a Ella da Colombo: Fabbrica di Tè, Treno delle Colline e Ponte dei Nove Archi",
+  "metaTitle": "Ella da Colombo: Treno e Ponte dei Nove Archi",
+  "metaDescription": "Una giornata molto lunga dalla costa alle colline: una fabbrica di tè, un tratto sulla ferrovia di Ella, il Ponte dei Nove Archi e Little Adam's Peak.",
+  "shortDescription": "Una giornata molto lunga dalla costa fino alle colline: una fabbrica di tè in funzione, un breve tratto sulla ferrovia di Ella, il Ponte dei Nove Archi e la scalata di Little Adam's Peak.",
+  "fullDescription": "Ella si trova a circa 1.000 metri di altitudine negli altopiani di Uva, a quattro ore e mezza di guida tra le colline da Colombo, in ogni direzione. Questa gita racchiude i punti più interessanti della regione collinare in un'unica giornata di sedici ore. Funziona, ma la partenza è presto e il rientro tardi, e se hai la possibilità, due giorni con una notte a Ella sono una versione migliore dello stesso percorso.\n\nIl viaggio sale attraverso i distretti del tè, e la prima sosta è una fabbrica di tè in funzione a Halpewaththa. Il tè di Ceylon viene ancora lavorato come lo impostarono i britannici nel diciannovesimo secolo, dopo che una malattia aveva distrutto il raccolto precedente di caffè: locali di appassimento, arrotolatura, ossidazione, tostatura e selezione, tutto in un unico edificio. Vederlo in funzione, con l'odore della foglia che appassisce, spiega più sull'economia del paese di qualsiasi museo.\n\nIl tratto in treno è breve, ma è il motivo per cui molti vengono qui. La linea da Kandy a Badulla è una delle grandi ferrovie di montagna, tagliata tra i pendii di tè e la foresta nebbiosa, e anche venticinque minuti con le porte aperte bastano per godersi la vista. I treni qui sono abitualmente in ritardo, e l'operatore può modificare il tratto percorso in base all'orario del giorno.\n\nA Ella la camminata su Little Adam's Peak dura circa un'ora tra andata e ritorno, e la cresta sulla cima guarda dritta su Ella Gap. Il Ponte dei Nove Archi a Demodara, poco distante, è un viadotto in pietra costruito durante la Prima Guerra Mondiale senza acciaio, e la camminata lungo i binari per arrivarci passa tra tè e foresta.\n\nC'è una sosta al Ravana Pool Club per un drink con vista, e una degustazione di tè a Ella prima del viaggio di ritorno. Aspettati di tornare a casa in tarda serata. Il ritiro coinvolge le città costiere da Negombo fino a Galle, quindi confermare la tua posizione al momento della prenotazione: il tempo di guida varia molto tra una città e l'altra.",
+  "highlights": [],
+  "included": [
+   "Auto con aria condizionata, driver e carburante",
+   "Biglietto del treno per il tratto panoramico",
+   "Ritiro e riaccompagno in hotel dalle città indicate",
+   "Visita alla fabbrica di tè e degustazione di tè",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande, incluse quelle al Ravana Pool Club",
+   "I biglietti d'ingresso dove previsti",
+   "Le mance",
+   "Gli acquisti personali"
+  ]
+ },
+ "ella-haputale-private-day-trip-hill-country-train-ride-tea-fac": {
+  "title": "Gita Privata a Ella e Haputale con Treno tra le Colline e Fabbrica di Tè",
+  "metaTitle": "Ella e Haputale: Gita Privata con Treno",
+  "metaDescription": "Una giornata privata nella regione collinare, con la linea ferroviaria da Haputale a Ella, una fabbrica di tè, Little Adam's Peak e il Ponte dei Nove Archi.",
+  "shortDescription": "Una giornata privata e completa nella regione collinare dello Sri Lanka, che combina un tratto della linea ferroviaria da Haputale a Ella con una fabbrica di tè in funzione, Little Adam's Peak, il Ponte dei Nove Archi e le Cascate di Ravana.",
+  "fullDescription": "Ella si trova sul margine sud della regione collinare, e il punto di partenza onesto è la distanza. Sono diverse ore da Colombo in ogni direzione, e questa gita parte nelle prime ore della notte perché la giornata in cima valga la pena. Se preferisci non passare così tanto tempo in auto, lo stesso percorso è meglio farlo con un pernottamento; se hai solo una giornata libera, questo è il modo per farlo.\n\nIl punto centrale è il treno. La linea da Haputale a Ella è il tratto ferroviario più fotografato del paese: segue il profilo delle colline tra giardini di tè ed eucalipti, dentro e fuori da brevi tunnel, con le porte delle carrozze aperte. Il tuo driver porta il veicolo su strada e ti aspetta alla stazione successiva, così percorri il tratto migliore senza fare l'intero viaggio di otto ore.\n\nIl tè è l'altro motivo per salire fin qui. Una visita a una fabbrica in funzione copre l'appassimento, l'arrotolatura, l'ossidazione e la tostatura, e una camminata nella piantagione mostra dal vivo la regola delle due foglie e un germoglio, invece che su un cartello. I tè di alta quota dello Sri Lanka provengono esattamente da questa fascia di altitudine, e la differenza tra quello che viene selezionato qui e una bustina da supermercato è evidente non appena si assaggiano entrambi.\n\nIl resto della giornata si fa a piedi. Little Adam's Peak è una salita leggera di circa quaranta minuti con un'ampia vista su Ella Gap. Il Ponte dei Nove Archi, costruito in pietra e laterizio durante la Prima Guerra Mondiale quando l'acciaio non era disponibile, è a breve distanza a piedi dalla strada ed è meglio sincronizzarlo con il passaggio di un treno. Le Cascate di Ravana scendono accanto alla strada verso Wellawaya e non richiedono alcuna camminata.\n\nEssendo una gita privata, l'ordine può essere riorganizzato in base ai tuoi interessi e all'orario del treno, che effettivamente cambia. Aspettati una giornata molto lunga, una partenza presto ben prima dell'alba e un ritorno tardi a Colombo.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver per tutta la giornata",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Biglietto del treno tra le colline",
+   "Visita alla fabbrica di tè e alla piantagione",
+   "Soste a Little Adam's Peak, al Ponte dei Nove Archi e alle Cascate di Ravana",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande, salvo diversa conferma dell'operatore",
+   "Le mance",
+   "Gli acquisti di tè alla fabbrica",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "ella-waterfall-abseiling-adventure-hotel-pickup": {
+  "title": "Avventura di Calata in Corda Doppia sulle Cascate di Ella con Ritiro in Hotel",
+  "metaTitle": "Ella: Calata in Corda Doppia sulle Cascate",
+  "metaDescription": "Quattro ore di calata in corda doppia su due cascate tra le colline attorno a Ella, con istruttori, attrezzatura tecnica e ritiro dalle città vicine.",
+  "shortDescription": "Quattro ore di calata in corda doppia su due cascate tra le colline attorno a Ella, con istruttori, tutta l'attrezzatura tecnica e ritiro dalle vicine città della regione collinare.",
+  "fullDescription": "Ella si trova sulle colline di Uva, dove la scarpata scende verso le pianure meridionali, e i torrenti che scorrono da quel margine creano una serie di cascate a breve distanza in auto dalla città. Questa gita ne usa due per la calata in corda doppia, scendendo lungo la roccia bagnata con una corda, mentre gli istruttori gestiscono il sistema dall'alto.\n\nSi comincia a terra con la parte che conta davvero: la regolazione dell'imbrago, il casco, come funziona il discensore, come tenere la corda, e come far camminare i piedi lungo la lastra di roccia piuttosto che dondolarsi contro di essa. Ci si esercita su un tratto basso finché gli istruttori non sono soddisfatti, poi si passa al primo salto.\n\nCalarsi su una cascata è diverso dal calarsi su roccia asciutta. La pietra è scivolosa, l'acqua scorre sulle mani e lungo la schiena, e il rumore fa sì che per l'ultimo tratto le istruzioni arrivino con segnali manuali. È genuinamente emozionante ed è anche interamente controllato: sei su una linea fissa con un sistema di backup, e l'istruttore può fermarti in qualsiasi momento dall'alto.\n\nSi usano due cascate di altezza diversa, così che la prima funzioni come preparazione e la seconda offra la discesa più lunga. Tra le due c'è un breve trasferimento e una camminata di accesso, in parte su terreno bagnato e irregolare, tra piantagioni di tè e foresta.\n\nUna cosa da chiarire è la posizione. Ella si trova nella regione collinare a circa duecento chilometri da Colombo, cinque o sei ore su strada o un lungo viaggio sul treno da Kandy a Ella. Questa gita prevede il ritiro da Ella e dalle vicine città collinari, quindi va pianificata come parte del tuo tempo negli altopiani piuttosto che come gita di un giorno dalla capitale. Il volume d'acqua varia con le piogge, e dopo piogge intense l'operatore può cambiare cascata o rimandare.",
+  "highlights": [],
+  "included": [
+   "Istruttori certificati di calata in corda doppia",
+   "Imbrago, casco, corde, discensore e tutta l'attrezzatura tecnica",
+   "Briefing di sicurezza e sessione di pratica",
+   "Trasferimento di andata e ritorno dal punto di ritiro indicato",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le fotografie e i video",
+   "Gli asciugamani",
+   "L'abbigliamento e le calzature personali",
+   "Le mance",
+   "L'assicurazione di viaggio che copre le attività avventurose"
+  ]
+ },
+ "galle-fort-kosgoda-turtles-madu-river-shore-excursion-colombo": {
+  "title": "Galle Fort, le Tartarughe di Kosgoda e il Fiume Madu: Escursione dalla Costa da Colombo",
+  "metaTitle": "Galle Fort, Kosgoda e il Fiume Madu",
+  "metaDescription": "Una giornata di dodici ore in auto privata lungo la costa sudoccidentale, tra il vivaio di tartarughe di Kosgoda, un safari sul Madu Ganga e Galle Fort.",
+  "shortDescription": "Una giornata di dodici ore in auto privata lungo la costa sudoccidentale, tra il vivaio di tartarughe di Kosgoda, un safari in barca sul Madu Ganga e tempo libero dentro le mura di Galle Fort.",
+  "fullDescription": "Questa è l'escursione dalla costa standard per chiunque abbia una sola giornata in porto a Colombo, e funziona altrettanto bene partendo da un hotel in città. Un'auto privata ti aspetta al terminal e si dirige a sud, circa due ore fino alla prima sosta, quindi la giornata comincia presto e finisce tardi.\n\nKosgoda è la prima sosta. Il vivaio di tartarughe marine qui lavora con uova riacquistate dalla spiaggia e riseppellite in sabbia protetta, e la camminata tra le vasche dura circa tre quarti d'ora. Le tartarughe verdi e le tartarughe olivacee sono le residenti più comuni; gli animali più vecchi nelle vasche sono di solito quelli troppo feriti per essere rilasciati. È un'operazione piccola, e la versione onesta di ciò che fa è più interessante di quella da dépliant.\n\nUn breve tragitto ti porta al Madu Ganga a Balapitiya per un safari in barca di due ore. La laguna racchiude decine di isole, alcune abitate da una sola famiglia, altre da un tempio o da una piantagione di cannella, e la barca passa gran parte del tempo in canali di mangrovie così stretti da poter toccare entrambe le sponde. Varani, martin pescatori e macachi sono la compagnia abituale.\n\nGalle Fort occupa il pomeriggio. Fu fondata dai portoghesi, ricostruita dagli olandesi in corallo e granito nel diciassettesimo secolo, e i britannici lasciarono il faro e la torre dell'orologio; l'intero promontorio è un sito UNESCO ed è ancora un quartiere vissuto piuttosto che un museo. Un'ora basta per le mura, l'estremità del faro e una camminata lungo Pedlar Street, e se la si programma più tardi, il tramonto dal muro occidentale è il motivo per cui la gente si ferma a lungo.\n\nAspettati dodici ore in totale, di cui circa quattro ore e mezza in auto. La superstrada meridionale rende meno pesante il viaggio di ritorno, ma è una giornata lunga e non c'è modo di abbreviarla e arrivare comunque a Galle.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver",
+   "Ritiro e riaccompagno al porto crociere di Colombo o in hotel",
+   "Visita al vivaio di tartarughe marine",
+   "Safari in barca sul Madu Ganga",
+   "Tempo libero a Galle Fort",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "I biglietti d'ingresso non elencati sopra",
+   "Le mance",
+   "Gli acquisti a Galle Fort",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "galle-fort-madu-river-boat-safari-turtle-hatchery-day-tour-col": {
+  "title": "Galle Fort, Safari sul Madu River e Vivaio di Tartarughe: Gita da Colombo",
+  "metaTitle": "Galle Fort, Madu River e Vivaio Tartarughe",
+  "metaDescription": "Un percorso sulla costa sudoccidentale da Colombo tra Bentota, un vivaio di tartarughe a Kosgoda, un safari tra le mangrovie del Madu Ganga e Galle Fort.",
+  "shortDescription": "Un percorso lungo la costa sudoccidentale da Colombo, tra Bentota, un vivaio di tartarughe marine a Kosgoda, un safari in barca tra le mangrovie del Madu Ganga e le mura di Galle Fort.",
+  "fullDescription": "La strada costiera a sud di Colombo attraversa una serie di città che vivevano di cannella, fibra di cocco e pesca molto prima dell'arrivo del turismo, e questa giornata la segue fino a Galle. La superstrada ti porta fuori dalla città rapidamente, e la giornata si svolge in brevi tratti tra una sosta e l'altra piuttosto che in un unico lungo viaggio.\n\nBentota è la prima sosta, una foce di fiume dove il Bentota Ganga incontra il mare. Da lì il percorso continua verso Kosgoda, dove un vivaio di tartarughe marine raccoglie le uova dalla spiaggia, le incuba e rilascia i piccoli. Cinque delle sette specie di tartarughe marine del mondo nidificano su questo tratto di costa, e il personale del vivaio spiega le pressioni che devono affrontare: bracconaggio, reti e sviluppo costiero.\n\nIl safari in barca sul Madu Ganga è la sosta più lunga della giornata. Il fiume si apre in una laguna poco profonda punteggiata da piccole isole, e la barca percorre tunnel di mangrovie dove le radici si chiudono sopra la testa. Si passa davanti a isole di cannella dove la corteccia viene ancora pelata a mano, piccoli templi su isolotti propri, allevamenti di pesce e, con la luce giusta, varani e martin pescatori lungo le sponde. Circa novanta minuti o due ore sull'acqua.\n\nIl pranzo è sulla costa a Hikkaduwa, poi Galle. Il forte fu costruito dai portoghesi e ricostruito dagli olandesi nel diciassettesimo secolo, e le mura racchiudono ancora una città viva di case, chiese e una moschea di epoca olandese, e il faro sul muro a mare. È un sito UNESCO e si presta bene a essere visitato a piedi: le strade all'interno sono abbastanza piccole che un'ora a piedi ne copre la maggior parte.\n\nIl viaggio di ritorno a Colombo dura un paio d'ore. Nel complesso è una giornata intera, ma più leggera rispetto alle gite nell'entroterra, con la maggior parte del tempo passato fuori dal veicolo.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo, Wattala, Wadduwa, Kalutara o Negombo",
+   "Safari in barca sul Madu Ganga",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "La donazione o l'ingresso al vivaio di tartarughe",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "galle-fort-stilt-fishermen-bentota-river-safari-day-trip": {
+  "title": "Galle Fort, i Pescatori su Palafitta e il Safari sul Fiume Bentota",
+  "metaTitle": "Galle Fort e i Pescatori su Palafitta",
+  "metaDescription": "Una giornata sulla costa meridionale tra Galle Fort, i pescatori su palafitta, un progetto per le tartarughe, un tempio buddista e un safari a Bentota.",
+  "shortDescription": "Una giornata sulla costa meridionale tra Galle Fort, i pescatori su palafitta, un progetto di conservazione delle tartarughe, un tempio buddista e un safari in barca tra le mangrovie di Bentota.",
+  "fullDescription": "La costa sudoccidentale concentra molto in un breve tratto di strada, e questa giornata collega le parti che vale la pena fermarsi a vedere, piuttosto che attraversare di passaggio. Tutto si trova entro circa due ore da Colombo, quindi la giornata è costruita attorno alle soste.\n\nGalle Fort è il punto fermo della giornata. I portoghesi costruirono le prime fortificazioni nel 16° secolo e gli olandesi le ricostruirono nel 17°, lasciando una città murata di case basse con verande a colonne, una chiesa riformata olandese, una moschea costruita dove un tempo si trovava una cappella portoghese, e un faro sul bastione meridionale. È un sito patrimonio mondiale dell'UNESCO ed è ancora abitata, cosa che le impedisce di sembrare un museo. Camminare sulle mura è il modo migliore per capire la struttura della città.\n\nI pescatori su palafitta lavorano nelle acque basse vicino a Koggala, appollaiati su pali infissi nel fondale marino. La pratica iniziò dopo la Seconda Guerra Mondiale, quando spiagge sovraffollate spinsero i pescatori a occupare postazioni al largo, e oggi gran parte di ciò che si vede è allestito per i visitatori, ai quali viene chiesto un compenso per fotografare. Saperlo in anticipo è meglio che scoprirlo per sorpresa.\n\nIl progetto di conservazione delle tartarughe su questa costa raccoglie le uova dalle spiagge dove altrimenti verrebbero dissotterrate, le fa schiudere in sabbia protetta e rilascia i piccoli. Il personale spiega quali delle cinque specie nidificanti arrivano su questa costa e cosa succede loro.\n\nIl safari fluviale parte da Bentota verso le mangrovie e la laguna, circa un'ora e mezza in barca attraverso canali stretti dove le radici si arcuano sopra l'acqua. Varani, martin pescatori e, di tanto in tanto, un gruppo di scimmie lungo la sponda sono gli avvistamenti abituali, e ci sono soste su piccole isole, incluse una dove la cannella viene pelata e seccata a mano. La visita a un tempio buddista completa il percorso prima del viaggio di ritorno.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in lingua inglese",
+   "Ritiro e riaccompagno in hotel",
+   "Safari fluviale in barca a Bentota",
+   "Visita guidata a Galle Fort",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "La donazione al progetto per le tartarughe",
+   "L'ingresso al tempio e le offerte",
+   "Il compenso per fotografare i pescatori su palafitta",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "galle-fort-turtle-beach-bentota-mangrove-safari-private-day-tr": {
+  "title": "Galle Fort, la Spiaggia delle Tartarughe e il Safari tra le Mangrovie di Bentota",
+  "metaTitle": "Galle Fort, Tartarughe e Mangrovie",
+  "metaDescription": "Una gita privata lungo la costa sudoccidentale: un safari tra le mangrovie di Bentota, un progetto per le tartarughe, snorkeling a Hikkaduwa e Galle Fort.",
+  "shortDescription": "Una giornata privata lungo la costa sudoccidentale che combina un safari fluviale tra le mangrovie di Bentota, un progetto di conservazione delle tartarughe, lo snorkeling con le tartarughe a Hikkaduwa e una camminata dentro le mura olandesi di Galle Fort.",
+  "fullDescription": "Il tratto di costa tra Colombo e Galle è la parte più sviluppata del litorale dello Sri Lanka e anche la più facile da vedere bene in una sola giornata, perché la superstrada meridionale elimina la fatica della guida. Questa gita privata si fa strada attraverso quattro soste e ritorno, con un'auto e un driver a disposizione per tutto il tempo.\n\nBentota è la prima sosta, dove il fiume incontra il mare dietro una lingua di sabbia e l'estuario di mangrovie si apre verso l'interno. Il safari fluviale qui dura circa un'ora attraverso tunnel di mangrovie e passa davanti a piccole isole, una delle quali dedicata alla cannella, la merce che per prima attirò gli olandesi su questa costa.\n\nA Hikkaduwa la barriera corallina è così vicina alla spiaggia che le tartarughe verdi entrano nelle acque basse per nutrirsi, e si può fare snorkeling o semplicemente entrare in acqua e osservarle. È uno dei pochi posti dove vedere una tartaruga selvatica non richiede né barca né fortuna. Per favore non toccarle né salirci sopra; le guide che lo incoraggiano è meglio ignorarle.\n\nIl progetto di conservazione delle tartarughe di Kosgoda è il complemento di questa esperienza: vasche per i piccoli, adulti feriti che non possono essere rilasciati, e una spiegazione del perché cinque delle sette specie di tartarughe marine nidificano su questa costa. Chiedi quanto rapidamente vengono rilasciati i piccoli; i progetti seri li trattengono solo brevemente.\n\nGalle Fort chiude il cerchio. I portoghesi costruirono qui, gli olandesi ricostruirono negli anni 1660, e i britannici la gestirono dopo il 1796 senza alterare molto la pianta. Dentro le mura le strade portano ancora nomi olandesi, i bastioni si possono percorrere tutt'intorno, e il faro del 1848 ancora l'angolo verso il mare. Se il tempo lo permette, la spiaggia di Unawatuna è a breve distanza prima del viaggio di ritorno verso nord.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida",
+   "Ritiro e riaccompagno dagli hotel di Colombo o della costa meridionale",
+   "Safari fluviale in barca tra le mangrovie",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso e le donazioni al vivaio di tartarughe",
+   "Il noleggio dell'attrezzatura da snorkeling",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "gampaha-forest-atv-adventure-ride": {
+  "title": "Gampaha: Avventura in ATV nella Foresta",
+  "metaTitle": "Gampaha: Avventura in ATV",
+  "metaDescription": "Un giro guidato in ATV di novanta minuti attraverso cinquanta acri di foresta a Gampaha, una facile fuga di mezza giornata da Colombo.",
+  "shortDescription": "Un giro guidato in ATV di novanta minuti attraverso cinquanta acri di terreno boschivo a Gampaha, una facile fuga di mezza giornata da Colombo per chi preferisce il fango ai monumenti.",
+  "fullDescription": "Gampaha si trova nella zona umida appena nell'entroterra di Negombo, abbastanza vicina a Colombo per una gita di andata e ritorno in mattinata. Il terreno qui è costituito da piantagioni di cocco e foresta secondaria, attraversate da piste di laterite rossa, e dopo la pioggia quelle piste si trasformano esattamente nel tipo di superficie per cui un veicolo fuoristrada è costruito.\n\nIl parco si estende su circa cinquanta acri di terreno boschivo naturale, organizzato come un circuito di sentieri piuttosto che un semplice anello di pratica pianeggiante. Questo significa pendenze vere, guadi, tratti solcati e abbastanza curve strette da rendere il giro interessante, piuttosto che una corsa in linea retta. Il tempo di guida è di circa novanta minuti, briefing incluso.\n\nNon è necessaria esperienza precedente. I mezzi sono automatici, e la sessione si apre con un briefing di sicurezza e un breve giro di familiarizzazione in cui ci si abitua all'accelerazione, ai freni e alla posizione del corpo prima di entrare nel sentiero. Una guida conduce il gruppo e fissa il ritmo sul guidatore meno sicuro, quindi funziona sia per chi prova per la prima volta sia per chi ha già guidato prima.\n\nCi si sporca. Questo è il punto, e vale la pena indossare abiti che non ti dispiace rovinare, o almeno portare un cambio per il viaggio di ritorno. Le scarpe chiuse sono indispensabili e le maniche lunghe proteggono gli avambracci dai rami.\n\nQuesta è un'attività semplice e diretta piuttosto che un'escursione culturale, e si abbina bene a un pomeriggio in spiaggia a Negombo o a una giornata altrimenti passata nel traffico di Colombo. I giri si svolgono con quasi ogni condizione meteo; la pioggia intensa rende le piste migliori, non peggiori, anche se l'operatore sospende le sessioni in caso di fulmini.",
+  "highlights": [],
+  "included": [
+   "Il noleggio dell'ATV per la sessione",
+   "Briefing di sicurezza e istruzioni",
+   "Casco e attrezzatura di sicurezza",
+   "Guida sul sentiero"
+  ],
+  "notIncluded": [
+   "Il trasporto da e per il parco",
+   "I pasti e le bevande",
+   "L'assicurazione",
+   "Le fotografie e i video",
+   "Le mance"
+  ]
+ },
+ "hikkaduwa-reef-scuba-diving-session": {
+  "title": "Hikkaduwa: Sessione di Immersione sulla Barriera Corallina",
+  "metaTitle": "Hikkaduwa: Immersione sulla Barriera",
+  "metaDescription": "Una sessione guidata di immersione di tre ore sulle barriere coralline e sui relitti al largo di Hikkaduwa, per sub certificati e principianti assoluti.",
+  "shortDescription": "Una sessione guidata di immersione subacquea di tre ore sulle barriere coralline e sui relitti al largo di Hikkaduwa, adatta sia ai sub certificati sia ai principianti assoluti sotto la supervisione di un istruttore.",
+  "fullDescription": "Hikkaduwa fu la prima città balneare turistica dello Sri Lanka, e la sua barriera corallina è il motivo. Un santuario corallino poco profondo si trova direttamente al largo della spiaggia principale, e oltre di esso una serie di siti di immersione tra i dieci e i trenta metri di profondità dà alla zona una stagione che va da circa novembre ad aprile, quando il monsone sudoccidentale è assente e la visibilità è al suo massimo.\n\nLa barriera corallina ha subito gravi danni durante lo sbiancamento del 1998 e di nuovo con lo tsunami del 2004, ed è onesto dire che è una barriera in recupero piuttosto che intatta. Ciò che offre ancora è vita marina e struttura: banchi di lutianidi e pesci fucile, murene, pesci scorpione, pesci pappagallo che pascolano sul corallo duro, e tartarughe verdi che si nutrono delle alghe vicino alla riva.\n\nI relitti sono l'altra attrazione. Diverse imbarcazioni si trovano a breve distanza in barca, tra cui la Conch, una petroliera del diciannovesimo secolo in acque poco profonde, e la Earl of Shaftesbury, entrambe sufficientemente frantumate da potersi attraversare a nuoto e fortemente colonizzate dalla vita marina.\n\nLa sessione dura circa tre ore in totale. I sub certificati si immergono al proprio livello di qualificazione con una guida. Se non ti sei mai immerso, il tempo viene usato per un briefing teorico e di tecnica, pratica in acque poco profonde e poi un'immersione di scoperta supervisionata con un istruttore al tuo fianco per tutto il tempo. L'attrezzatura è fornita e l'istruttore mantiene una profondità prudente.\n\nHikkaduwa è a circa due ore a sud di Colombo sulla superstrada, e i trasferimenti non sono parte di questa prenotazione, quindi pianifica il viaggio separatamente oppure combinalo con una notte sulla costa.",
+  "highlights": [],
+  "included": [
+   "Il noleggio dell'attrezzatura da immersione, incluse bombola, pesi, GAV ed erogatore",
+   "Immersione guidata con un istruttore o divemaster qualificato",
+   "Briefing di sicurezza",
+   "Trasferimento in barca al sito di immersione dove previsto"
+  ],
+  "notIncluded": [
+   "Il trasporto da e per Hikkaduwa",
+   "I pasti e le bevande",
+   "Le fotografie o i video subacquei",
+   "L'assicurazione per le immersioni",
+   "Le tariffe per i corsi di certificazione",
+   "Le mance"
+  ]
+ },
+ "kandy-day-trip-colombo-train-home-cooked-lunch": {
+  "title": "Gita a Kandy da Colombo in Treno con un Pranzo Fatto in Casa",
+  "metaTitle": "Kandy in Treno da Colombo",
+  "metaDescription": "Viaggia in treno da Colombo a Kandy, visita il Tempio del Sacro Dente e templi più tranquilli, e mangia un pranzo singalese fatto in casa.",
+  "shortDescription": "Percorri in treno la linea di montagna da Colombo a Kandy, visita il Tempio del Sacro Dente e templi più tranquilli attorno alla città, e mangia un pranzo singalese fatto in casa con una famiglia del posto.",
+  "fullDescription": "La ferrovia da Colombo a Kandy fu costruita dai britannici negli anni 1860 per portare il tè e il caffè fino al porto, e resta ancora oggi uno dei modi migliori per spostarsi tra le due città. La linea sale gradualmente dalla pianura costiera, attraversa il passo di Kadugannawa con i suoi tunnel e i tagli nella roccia, e si apre su risaie terrazzate e foreste mentre si avvicina alle colline. Fare questo tratto in treno invece che su strada cambia il carattere della giornata.\n\nLa tua guida ti viene a prendere al tuo hotel a Colombo e ti porta alla stazione di Colombo Fort per la partenza del mattino. Il viaggio dura circa tre ore. I treni dello Sri Lanka sono funzionali piuttosto che di lusso, i finestrini si aprono, e venditori ambulanti attraversano le carrozze vendendo wade, tè e ceci tostati.\n\nA Kandy la sosta principale è il Tempio del Sacro Dente, il santuario che custodiva la reliquia di cui i re singalesi avevano bisogno per governare. Si trova vicino al lago artificiale costruito dall'ultimo re di Kandy nel 1807. La tua guida ti porta anche in templi più piccoli fuori dal circuito principale, il tipo di luoghi che restano tranquilli anche quando il tempio del dente è pieno, dove le pitture e gli intagli in legno sono kandyani e non restaurati per i visitatori.\n\nIl pranzo si mangia in una casa di famiglia piuttosto che in un ristorante: riso con una varietà di curry, sambol, papadam e qualunque verdura sia di stagione, cucinati e serviti dalla famiglia stessa. È lo sguardo più autentico sul cibo singalese quotidiano che potrai avere in una gita di un giorno, e di solito c'è tempo per chiedere come viene preparato ogni piatto.\n\nIl pomeriggio comprende una piantagione di tè sulle pendici fuori città, con una camminata tra i campi di raccolta e la fabbrica, prima del ritorno a Colombo su strada. Prevedi una giornata di dodici ore dal ritiro al rientro; il treno gestisce il tratto di andata, ma il viaggio di ritorno richiede comunque alcune ore.",
+  "highlights": [],
+  "included": [
+   "Guida in lingua inglese per tutta la giornata",
+   "Biglietto del treno da Colombo a Kandy",
+   "Ritiro in hotel a Colombo e trasferimento di ritorno in veicolo con aria condizionata",
+   "Pranzo singalese ospitato in famiglia",
+   "Visita a una piantagione e fabbrica di tè",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso ai templi",
+   "La colazione e la cena",
+   "Le bevande",
+   "Le mance",
+   "Le tariffe per le fotocamere",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "kandy-ella-transfer-hill-country-stops-nanu-oya-train": {
+  "title": "Trasferimento da Kandy a Ella con Soste tra le Colline e il Treno da Nanu Oya",
+  "metaTitle": "Kandy-Ella: Trasferimento con Treno",
+  "metaDescription": "Un viaggio di sola andata da Kandy a Ella: le Cascate di Ramboda, le piantagioni di tè e Nuwara Eliya su strada, poi il treno di montagna da Nanu Oya.",
+  "shortDescription": "Un viaggio di sola andata da Kandy a Ella che trasforma il trasferimento nella giornata stessa: le Cascate di Ramboda, le piantagioni di tè e Nuwara Eliya su strada, poi il treno di montagna da Nanu Oya con il biglietto già prenotato.",
+  "fullDescription": "Il treno da Kandy a Ella è il viaggio che tutti vogliono fare, ed è anche quello che più spesso si sbaglia. Il tragitto completo richiede buona parte di sette ore, i posti si esauriscono settimane prima, e il paesaggio migliore si trova nell'ultimo tratto. Questa gita risolve il problema dividendo la giornata in due: percorri in auto privata il tratto superiore e ti fermi dove vale la pena fermarsi, poi sali sul treno a Nanu Oya per la parte che davvero merita la sua fama.\n\nLa strada che esce da Kandy sale attraverso il passo di Ramboda, dove la cascata scende a gradini accanto alla strada e l'aria cambia sensibilmente man mano che si sale di quota. Il tè sostituisce la giungla. Passerai davanti a fabbriche di piantagioni dove la foglia viene ancora appassita, arrotolata e selezionata più o meno come quando i britannici piantarono le colline negli anni 1800, e c'è tempo per fermarsi e vedere come funziona il processo davanti a una tazza bevuta dove viene prodotta.\n\nNuwara Eliya ha ancora l'aspetto della stazione montana costruita dai piantatori: un ippodromo, un ufficio postale in mattoni rossi, siepi e un'umidità fresca che sorprende i visitatori dopo la costa. Da lì è un breve tratto fino alla stazione di Nanu Oya, dove ti aspetta il tuo biglietto del treno riservato.\n\nIl tratto in treno passa per Ohiya e Haputale fino a Ella, lungo cornici tagliate nei pendii, con i raccoglitori di tè che lavorano sulle pendici sottostanti. Le porte restano aperte, i venditori ambulanti passano con vadai e tè, e le carrozze sono di solito piene. È il viaggio in treno più fotografato dello Sri Lanka, e con buone ragioni.\n\nIl tuo driver porta i tuoi bagagli a Ella su strada e ti aspetta all'arrivo del treno, così viaggi senza peso. Aspettati una giornata intera di otto ore porta a porta: è una giornata di viaggio con un paesaggio eccellente, non un giorno di riposo. La gita termina a Ella, quindi prenota lì la notte successiva.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in lingua inglese da Kandy",
+   "Biglietto del treno riservato da Nanu Oya a Ella",
+   "Ritiro in hotel a Kandy",
+   "Trasferimento dei bagagli a Ella su strada",
+   "Carburante, pedaggi e parcheggio",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Il biglietto d'ingresso alla fabbrica di tè se previsto",
+   "I biglietti d'ingresso alle soste facoltative",
+   "Le mance",
+   "L'alloggio a Ella"
+  ]
+ },
+ "kandy-peradeniya-gardens-tea-factory-day-tour-colombo": {
+  "title": "Kandy, i Giardini di Peradeniya e una Fabbrica di Tè: Gita da Colombo",
+  "metaTitle": "Kandy, Peradeniya e Fabbrica di Tè",
+  "metaDescription": "Una giornata tra le colline da Colombo: il Tempio del Sacro Dente, un punto panoramico su Kandy, il Giardino Botanico di Peradeniya e una fabbrica di tè.",
+  "shortDescription": "Una giornata tra le colline da Colombo: il Tempio del Sacro Dente Relic, un punto panoramico su Kandy, il Giardino Botanico Reale di Peradeniya e una fabbrica di tè in funzione a Pilimathalawa.",
+  "fullDescription": "Kandy resistette come regno indipendente per tre secoli dopo che la costa era caduta nelle mani delle potenze europee, protetta dall'anello di colline che la circonda, e fu cedata ai britannici solo nel 1815. Quella storia è concentrata nel Tempio del Sacro Dente vicino al lago, dove è custodita la reliquia che un tempo conferiva il diritto di governare. Il tempio segue il ritmo delle puja quotidiane, e i tamburi alla porta del santuario meritano di essere il motivo per cui sincronizzare la visita, se possibile.\n\nIl viaggio da Colombo dura circa tre ore e mezza, salendo gradualmente attraverso Kegalle e Mawanella, dove la strada è costeggiata da bancarelle di frutta e anacardi. C'è una sosta per la colazione a Mawanella prima dell'ultima salita verso le colline.\n\nDopo il tempio, il tuo driver ti porta a un punto panoramico sopra la città. Kandy si legge meglio dall'alto che a livello della strada: si può vedere come il lago, costruito dall'ultimo re di Kandy nel 1807, si trovi nella conca di colline con il tempio sulla sua sponda settentrionale.\n\nIl Giardino Botanico Reale di Peradeniya occupa un'ansa del fiume Mahaweli, su terreno che apparteneva alla famiglia reale di Kandy molto prima che i britannici formalizzassero i giardini nel 1821. Sessanta ettari custodiscono una serra di orchidee, un viale di palme reali, un albero di cannonball e un ficus di Giava la cui chioma da sola copre gran parte di un prato. Un'ora basta per i sentieri principali; più a lungo se ami le piante.\n\nL'ultima sosta è una fabbrica di tè a Pilimathalawa, sulle pendici delle piantagioni a ovest di Kandy. Segui la foglia dai canali di appassimento attraverso l'arrotolatura, l'ossidazione, la tostatura e la selezione, e assaggi i risultati alla fine. Spiega molto sul perché il tè prodotto a quote diverse di quest'isola abbia un gusto così diverso. Prevedi undici ore dal ritiro al rientro, di cui circa cinque in auto.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo o Negombo",
+   "Visita e degustazione alla fabbrica di tè",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al Tempio del Sacro Dente e al Giardino Botanico Reale",
+   "La colazione, il pranzo e le bevande",
+   "Le mance",
+   "Le tariffe per le fotocamere",
+   "Le spese personali"
+  ]
+ },
+ "kandy-pinnawala-royal-botanic-gardens-day-trip-colombo": {
+  "title": "Kandy, Pinnawala e il Giardino Botanico Reale: Gita da Colombo",
+  "metaTitle": "Kandy, Pinnawala e Giardino Botanico",
+  "metaDescription": "Una lunga giornata da Colombo tra gli elefanti di Pinnawala, un giardino di spezie, il Tempio del Sacro Dente a Kandy e il Giardino Botanico di Peradeniya.",
+  "shortDescription": "Una lunga giornata da Colombo tra gli elefanti di Pinnawala, una camminata in un giardino di spezie, il Tempio del Sacro Dente a Kandy, il Giardino Botanico Reale di Peradeniya e una fabbrica di tè in funzione.",
+  "fullDescription": "Kandy fu l'ultimo regno indipendente dell'isola, resistendo tra le colline finché i britannici non la presero nel 1815, e il Tempio del Sacro Dente al suo centro è il motivo per cui conta ancora oggi. La reliquia custodita lì era storicamente ciò che legittimava un re singalese: chi deteneva il dente deteneva il diritto di governare. È un luogo di culto attivo, più affollato durante le puja quotidiane, quando i tamburini suonano alla porta del santuario.\n\nIl viaggio da Colombo sale verso l'interno attraverso Kegalle e Mawanella, e la strada stessa fa parte dell'esperienza. Si passa davanti a piantagioni di gomma, bancarelle che vendono anacardi e ananas, e i giardini di spezie per cui questo tratto è conosciuto. Il tour si ferma in uno di essi per una camminata tra cannella, cardamomo, pepe e vaniglia.\n\nPinnawala, vicino a Kegalle, è dove si svolge la sosta dedicata agli elefanti. Nacque negli anni 1970 come casa per cuccioli orfani ed è diventata uno dei luoghi più visitati di questo percorso, con una mandria condotta fino al fiume Maha Oya. È un ambiente gestito e in cattività piuttosto che selvatico, e vale la pena saperlo prima di andarci.\n\nDopo Kandy, il percorso include il Giardino Botanico Reale di Peradeniya, disposto su un'ansa del fiume Mahaweli, su terreno che una volta apparteneva alla famiglia reale di Kandy. La serra di orchidee, il gigantesco ficus di Giava e il viale di palme sono i punti forti, e un'ora passa in fretta. L'ultima sosta è una fabbrica di tè sulle pendici delle piantagioni, dove segui la foglia dal canale di appassimento al rullo all'essiccatore, e assaggi il risultato.\n\nIl viaggio avviene in un'auto privata con aria condizionata e un driver dedicato, quindi il ritmo è tuo, entro limiti ragionevoli. Sii realistico sulla durata: con il ritiro presto al mattino e il ritorno dopo il tramonto, è una giornata di tredici ore che copre circa 250 chilometri di strade di collina, e la guida è una parte reale dell'esperienza.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver in lingua inglese",
+   "Ritiro e riaccompagno in hotel a Colombo o Negombo",
+   "Visita a un giardino di spezie",
+   "Visita e degustazione alla fabbrica di tè",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso al Tempio del Sacro Dente, a Pinnawala e al Giardino Botanico Reale",
+   "I pasti e le bevande",
+   "Le mance",
+   "Le tariffe per le fotocamere",
+   "Le spese personali"
+  ]
+ },
+ "madu-river-mangroves-cinnamon-island-kosgoda-turtle-hatchery-d": {
+  "title": "Le Mangrovie del Fiume Madu, l'Isola della Cannella e il Vivaio di Kosgoda",
+  "metaTitle": "Mangrovie del Madu e Vivaio di Kosgoda",
+  "metaDescription": "Una giornata intera da Colombo con una crociera di due ore tra le mangrovie del Madu Ganga, un'isola della cannella e il vivaio di tartarughe di Kosgoda.",
+  "shortDescription": "Una giornata intera lungo la costa sudoccidentale da Colombo, che combina una crociera in barca di due ore tra le mangrovie del Madu Ganga, un'isola della cannella in attività e il progetto di conservazione delle tartarughe marine a Kosgoda.",
+  "fullDescription": "La giornata inizia presto, con un furgone che ti viene a prendere da Colombo o Kalutara per il tragitto a sud lungo la strada costiera verso Balapitiya. Prevedi circa due ore e mezza: è la vecchia strada che attraversa villaggi di pescatori e piantagioni di cocco, al ritmo dei villaggi che incontra.\n\nA Balapitiya il Madu Ganga si allarga in una laguna poco profonda disseminata di piccole isole, e la crociera in barca dura circa due ore. Il percorso lascia l'acqua aperta per entrare in canali stretti coperti dalle radici delle mangrovie, passa davanti a trappole per gamberi e piccole piantagioni di cannella, e fa sosta in uno dei templi sull'isola. Martin pescatori, varani e gruppi di macachi lungo le sponde sono avvistamenti abituali piuttosto che fortunati, e i barcaioli sanno dove rallentare.\n\nUna delle isole è dedicata alla cannella, cosa che vale la pena capire mentre ci si trova lì. Lo Sri Lanka produce la vera cannella di Ceylon, una corteccia più morbida e più stratificata della cassia venduta come cannella nella maggior parte del mondo, e la pelatura si fa ancora a mano con un'asta di ottone e un coltello curvo. Guardare un pelatore trasformare un ramo in un bastoncino spiega perché il prodotto vero costi quello che costa.\n\nL'ultima sosta è il Progetto di Conservazione delle Tartarughe Marine di Kosgoda, dove un'ora guidata copre le vasche del vivaio, la spiaggia di nidificazione e il laboratorio Turtle Guardian. Cinque specie arrivano su questo tratto di costa, e la spiegazione è onesta su ciò che un vivaio può e non può risolvere: il bracconaggio delle uova, l'inquinamento luminoso proveniente dalla strada costiera e l'impigliamento nelle reti fanno tutti parte della discussione.\n\nSii consapevole della durata. È una giornata di dieci ore, di cui circa cinque passate sulla strada, considerando entrambe le direzioni insieme. È adatta a chi vuole le mangrovie e il vivaio senza prenotare una notte sulla costa meridionale, ed è una giornata lunga per i bambini molto piccoli.",
+  "highlights": [],
+  "included": [
+   "Furgone con aria condizionata e driver",
+   "Ritiro e riaccompagno in hotel a Colombo o Kalutara",
+   "Crociera in barca sul Madu Ganga",
+   "Visita all'isola della cannella",
+   "Visita guidata al Progetto di Conservazione delle Tartarughe Marine di Kosgoda",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance",
+   "Gli acquisti di souvenir all'isola della cannella o al vivaio",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
  "flyboard-experience-in-pattaya": {
   "title": "Esperienza di flyboard a Pattaya",
   "metaTitle": "Esperienza di flyboard a Pattaya",
