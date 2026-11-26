@@ -1262,6 +1262,90 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-udawatta-kele-nature-walk-worth-it-kandy":
+      return {
+        title: "Is the Udawatta Kele Sanctuary Nature Walk Worth It in Kandy?",
+        description: "An honest look at the guided nature walk and birdwatching tour at Udawatta Kele Sanctuary in Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1463854/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Udawatta Kele is a genuine forest reserve right at the edge of the city, and a guided walk here gives real birdwatching and nature time without leaving Kandy, a welcome break from the temple-and-tuk-tuk sightseeing circuit.",
+            tourCard: { slug: "udawatta-kele-sanctuary-guided-nature-walk", title: "Udawatta Kele Sanctuary Guided Nature Walk & Birdwatching", description: "A guided nature walk and birdwatching tour in Udawatta Kele Sanctuary.", price: "From $23", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1463854/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars if you have them and go early morning, when birdwatching conditions are best.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Udawatta Kele nature walk worth it in Kandy?", a: "Yes, for a genuine forest and birdwatching experience right at the city's edge, a good break from temple sightseeing." },
+        ],
+      };
+
+    case "is-nelligala-temple-tour-worth-it-kandy":
+      return {
+        title: "Is the Nelligala International Buddhist Center Tour Worth It from Kandy?",
+        description: "An honest look at the Nelligala International Buddhist Center morning temple tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1459346/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nelligala is a striking modern temple complex perched on a hilltop with genuinely good panoramic views, distinct from the Temple of the Tooth's historic relic-centered draw — a good complement if you want a second, architecturally different temple visit.",
+            tourCard: { slug: "nelligala-international-buddhist-center-morning", title: "Nelligala International Buddhist Center Morning Temple Tour", description: "A morning tour of the Nelligala International Buddhist Center.", price: "From $17", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1459346/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the morning as the tour name suggests — the light and the panoramic views are best earlier in the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nelligala temple tour worth it from Kandy?", a: "Yes, for a striking modern hilltop temple with genuinely good views, a good complement to the historic Temple of the Tooth." },
+        ],
+      };
+
+    case "is-pinnawala-elephants-tour-worth-it-kandy":
+      return {
+        title: "Is the Pinnawala Elephants Watching Tour Worth It from Kandy?",
+        description: "An honest look at the private guided Pinnawala elephants watching tour from Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1305594/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pinnawala is home to one of the largest herds of captive elephants in the world, and watching them at the river bathing or at the orphanage gives a genuine wildlife encounter distinct from Kandy's temple-focused sightseeing — worth researching the specific operator's elephant welfare practices before booking.",
+            tourCard: { slug: "pinnawala-elephants-watching-private-guided-tour", title: "Pinnawala Elephants Watching Private Guided Tour from Kandy", description: "A private guided tour to watch elephants at Pinnawala.", price: "From $21", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1305594/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask your operator specifically about the facility's elephant welfare practices before booking, since standards vary across different elephant venues in Sri Lanka.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pinnawala elephants tour worth it from Kandy?", a: "Yes, for a genuine wildlife encounter distinct from Kandy's temple sightseeing — confirm the specific facility's welfare practices first." },
+        ],
+      };
+
+    case "is-village-walk-cooking-experience-worth-it-kandy":
+      return {
+        title: "Is the Village Walk and Cooking Experience with a Local Family Worth It in Kandy?",
+        description: "An honest look at Kandy's village walk and cooking experience with a local family.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Walking through a rural village before cooking with a local family gives genuine everyday-life context that a standalone cooking class doesn't — a more immersive, home-based format distinct from the city's other cooking class.",
+            tourCard: { slug: "kandy-village-walk-cooking-experience-with-local", title: "Kandy: Village Walk & Cooking Experience with Local Family", description: "A village walk paired with a cooking experience in a local family's home.", price: "From $26", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite and be ready to help with the cooking — this is a hands-on, home-based experience, not a restaurant demo.",
+          },
+        ],
+        faqs: [
+          { q: "Is the village walk and cooking experience worth it in Kandy?", a: "Yes, for a more immersive, home-based alternative to the city's standalone cooking class, with genuine everyday village life context." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1922,7 +1922,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-knuckles-7-falls-hike-worth-it-kandy', 'is-kelani-river-rafting-worth-it-kandy',
     'is-cooking-class-worth-it-kandy', 'is-nanuoya-scenic-train-worth-it-kandy',
     'best-tuk-tuk-city-tour-kandy', 'is-gem-museum-workshop-worth-it-kandy',
-    'is-night-temple-tour-worth-it-kandy', 'is-sacred-forest-hike-worth-it-kandy'].map(slug => ({
+    'is-night-temple-tour-worth-it-kandy', 'is-sacred-forest-hike-worth-it-kandy',
+    'is-udawatta-kele-nature-walk-worth-it-kandy', 'is-nelligala-temple-tour-worth-it-kandy',
+    'is-pinnawala-elephants-tour-worth-it-kandy', 'is-village-walk-cooking-experience-worth-it-kandy'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/kandy/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
