@@ -637,6 +637,78 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-aral-sea-ship-cemetery-tour-worth-it-khiva":
+            return {
+                title: "Is the Moynaq Aral Sea Ship Cemetery Tour Worth It from Khiva?",
+                seoTitle: "Moynaq Aral Sea Ship Cemetery Tour 2026 | Honest Review",
+                description: "An honest look at the Moynaq Aral Sea Ship Cemetery tour, a long day trip to see rusting ships stranded on the former seabed.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f461eb0b229433b4545b4fb48bbd1d653b97aa468634a0a99f00fc09b32e423d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Moynaq's stranded fishing fleet, rusting on what was once the floor of the Aral Sea, is one of the most striking and sobering sights in Central Asia — a genuinely unique environmental-history destination, though the 14-hour round trip is a serious time commitment.", tourCard: { slug: "moynaq-aral-sea-ship-cemetery-tour", title: "Moynaq: Aral Sea Ship Cemetery Tour", description: "A long day trip from Khiva to the Aral Sea ship cemetery at Moynaq.", price: "From $249", duration: "14 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f461eb0b229433b4545b4fb48bbd1d653b97aa468634a0a99f00fc09b32e423d.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuine full-day commitment at 14 hours round trip — only worth it if you specifically want to see the ship cemetery, not as a casual add-on." }
+                ],
+                faqs: [
+                    { q: "Is the Moynaq Aral Sea ship cemetery tour worth it from Khiva?", a: "Yes, for a genuinely unique and sobering environmental-history sight, but only if you're prepared for the full 14-hour round trip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Aral Sea ship cemetery tour worth it from Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a unique environmental-history sight, given the full-day time commitment." } }
+                ] },
+            };
+
+        case "is-miniature-painting-workshop-worth-it-khiva":
+            return {
+                title: "Is the Traditional Miniature Painting Workshop Worth It in Khiva?",
+                seoTitle: "Khiva Miniature Painting Workshop 2026 | Honest Review",
+                description: "An honest look at Khiva's traditional miniature painting workshop experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ba8c0f4326c77ba77a74746b205fdae8d759d528ff7d33161e7171c72c78abe1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Miniature painting is a genuine Central Asian art tradition using fine detail and natural pigments, and learning it hands-on in Khiva gives a slower, craft-focused counterpoint to a day of Itchan Kala sightseeing.", tourCard: { slug: "khiva-traditional-miniature-painting-workshop", title: "Khiva: Traditional Miniature Painting Workshop Experience", description: "A hands-on traditional miniature painting workshop in Khiva.", price: "From $117", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ba8c0f4326c77ba77a74746b205fdae8d759d528ff7d33161e7171c72c78abe1.jpg" } },
+                    { title: "Practical Tips", content: "Expect a slow, detail-focused pace — this rewards patience over speed, so don't rush straight from a packed morning of sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the miniature painting workshop worth it in Khiva?", a: "Yes, for a genuine, slower-paced craft tradition distinct from the city's architecture-focused sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the miniature painting workshop worth it in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine, slower-paced craft tradition distinct from sightseeing." } }
+                ] },
+            };
+
+        case "is-shivit-oshi-cooking-class-worth-it-khiva":
+            return {
+                title: "Is the Shivit Oshi Cooking Class Worth It in Khiva?",
+                seoTitle: "Khiva Shivit Oshi Cooking Class 2026 | Honest Review",
+                description: "An honest look at the Shivit Oshi cooking class with a local chef in Khiva, a Khorezm regional noodle dish colored with dill.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c33ced73da044aadccb5e582955bb4f22e8d123534a34f4f59c79a66b193bc73.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Shivit oshi is a genuinely regional Khorezm specialty, green-colored noodles flavored with dill, that you won't find as a dedicated class anywhere else in Uzbekistan — a more specific, dish-focused booking than the city's general cooking class with market visit.", tourCard: { slug: "khiva-shivit-oshi-cooking-class-with-local-chef", title: "Khiva: Shivit Oshi Cooking Class with Local Chef", description: "A hands-on Shivit Oshi cooking class with a local chef in Khiva.", price: "From $46", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c33ced73da044aadccb5e582955bb4f22e8d123534a34f4f59c79a66b193bc73.jpg" } },
+                    { title: "Practical Tips", content: "Book this specifically if you want to learn the regional dish itself — the city's other cooking class covers a broader menu plus a market visit." }
+                ],
+                faqs: [
+                    { q: "Is the Shivit Oshi cooking class worth it in Khiva?", a: "Yes, for a genuinely regional Khorezm dish you won't find taught as a dedicated class elsewhere in Uzbekistan." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Shivit Oshi cooking class worth it in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a regional dish unique to Khorezm, not taught elsewhere in Uzbekistan." } }
+                ] },
+            };
+
+        case "is-japanese-language-walking-tour-worth-it-khiva":
+            return {
+                title: "Is the Japanese-Language Walking Tour Worth It in Khiva?",
+                seoTitle: "Khiva Japanese Language Walking Tour 2026 | Honest Review",
+                description: "An honest look at Khiva's Japanese-language guided walking tour with a local guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09bf49b9d137d77237a82c81022b4ee275365225341096c52fc9d3bc41dfedf2.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "For Japanese-speaking travelers, a guide fluent in the language removes the real friction of following an English-only tour, making this genuinely worth seeking out specifically if English isn't your strongest second language.", tourCard: { slug: "khiva-japanese-language-walking-tour-with-local", title: "Khiva: Japanese-Language Walking Tour with Local Guide", description: "A guided walking tour of Khiva delivered in Japanese.", price: "From $65", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09bf49b9d137d77237a82c81022b4ee275365225341096c52fc9d3bc41dfedf2.jpeg" } },
+                    { title: "Practical Tips", content: "Book ahead, since Japanese-speaking guides are a limited niche compared to the city's many English-language tour options." }
+                ],
+                faqs: [
+                    { q: "Is the Japanese-language walking tour worth it in Khiva?", a: "Yes, specifically for Japanese-speaking travelers who want to avoid the friction of an English-only tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Japanese-language walking tour worth it in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, specifically for Japanese-speaking travelers wanting a tour in their own language." } }
+                ] },
+            };
+
         case "is-bread-baking-worth-it-samarkand":
             return {
                 title: "Is the Samarkand Bread Baking Experience Worth It?",
