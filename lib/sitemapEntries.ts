@@ -1140,6 +1140,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-las-casas-filipinas-worth-it-cebu', 'is-cebu-safari-park-worth-it-cebu',
     'is-padi-certification-worth-it-cebu', 'is-catch-cook-eat-worth-it-cebu',
     'best-tours-in-cebu',
+    'is-osmena-casino-peak-tour-worth-it-cebu', 'is-heritage-local-market-tour-worth-it-cebu',
+    'is-carbon-market-jeepney-tour-worth-it-cebu', 'is-pub-crawl-worth-it-cebu',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/cebu/${slug}`,
     lastModified: new Date(),

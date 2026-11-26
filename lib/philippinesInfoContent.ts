@@ -1740,6 +1740,90 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-osmena-casino-peak-tour-worth-it-cebu":
+      return {
+        title: "Is the Osmeña Peak, Casino Peak and Cambais Falls Scenic Tour Worth It in Cebu?",
+        description: "An honest look at the Osmeña Peak, Casino Peak, and Cambais Falls scenic tour in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/241abf464412f9aad620af259d262211cb69298b8b298539295c1c6481f0b32b.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Osmeña Peak is Cebu's highest point, with genuinely striking jagged rock formations and panoramic views, and combining it with Casino Peak and Cambais Falls in one tour covers Cebu's rugged highland scenery most beach-and-island itineraries skip entirely.",
+            tourCard: { slug: "cebu-osmena-peak-casino-peak-cambais-falls-scenic", title: "Cebu: Osmeña Peak, Casino Peak & Cambais Falls Scenic Tour", description: "A scenic tour of Osmeña Peak, Casino Peak, and Cambais Falls in Cebu.", price: "From $39", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/241abf464412f9aad620af259d262211cb69298b8b298539295c1c6481f0b32b.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper footwear for the peak hikes — this is genuine highland terrain, not a paved viewpoint.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Osmeña Peak and Casino Peak tour worth it in Cebu?", a: "Yes, for genuinely striking highland scenery most beach-and-island itineraries skip entirely." },
+        ],
+      };
+
+    case "is-heritage-local-market-tour-worth-it-cebu":
+      return {
+        title: "Is the Cebu Heritage Interpretation and Local Market Adventure Worth It?",
+        description: "An honest look at the Cebu heritage interpretation and local market adventure tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd2e26655d15e39128b1cde1f66a1ea8dcef6a2220f2085f008f252b5a44283e.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing historical interpretation of Cebu City's colonial-era landmarks with a genuine working local market visit gives context most sightseeing-only heritage tours skip, showing how the city's history connects to everyday life today.",
+            tourCard: { slug: "cebu-heritage-interpretation-local-market", title: "Cebu Heritage Interpretation & Local Market Adventure", description: "A guided tour combining heritage interpretation with a local market visit in Cebu.", price: "From $39", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd2e26655d15e39128b1cde1f66a1ea8dcef6a2220f2085f008f252b5a44283e.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring cash for the market stop — it's a genuine working market, not a curated tourist stall setup.",
+          },
+        ],
+        faqs: [
+          { q: "Is the heritage and local market tour worth it in Cebu?", a: "Yes, for connecting the city's colonial-era history to genuine everyday local market life, beyond a sightseeing-only tour." },
+        ],
+      };
+
+    case "is-carbon-market-jeepney-tour-worth-it-cebu":
+      return {
+        title: "Is the Carbon Market, Food and Jeepney Ride Tour Worth It in Cebu?",
+        description: "An honest look at the Carbon Market food tour with a jeepney ride and bar stop in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/57342259a49334936371bd8e746489157205b728187e6e2ead2aafceb3ba17ab.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Carbon Market is Cebu's oldest and largest public market, and riding there by jeepney, the Philippines' iconic (and genuinely chaotic) public transport, gives a far more authentic local experience than a taxi ride to a curated food stop.",
+            tourCard: { slug: "cebu-carbon-market-food-jeepney-ride-bar", title: "Cebu: Carbon Market Food + Jeepney ride + Bar", description: "A food tour of Carbon Market with a jeepney ride and bar stop.", price: "From $50", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/57342259a49334936371bd8e746489157205b728187e6e2ead2aafceb3ba17ab.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite — Carbon Market has a genuine range of street food, so pace yourself across the stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Carbon Market and jeepney ride tour worth it in Cebu?", a: "Yes, the jeepney ride itself is a genuinely authentic slice of Filipino life, not just a transport detail." },
+        ],
+      };
+
+    case "is-pub-crawl-worth-it-cebu":
+      return {
+        title: "Is the Cebu Sip and Stroll Pub Crawl Worth It?",
+        description: "An honest look at the Cebu Sip & Stroll nightlife pub crawl.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cc49d279ecbd9bdb2dd6c2ee808b0a3212a056f0d6c93abd9fc983f13a8e559.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guided pub crawl takes the guesswork out of finding Cebu's best bars and nightlife spots, with a local host moving the group between venues — genuinely useful for solo travelers and groups who don't want to spend an evening bar-hopping blind.",
+            tourCard: { slug: "pub-crawl-cebu-sip-stroll-a-nightlife-adventure", title: "Pub Crawl; Cebu Sip & Stroll: A Nightlife Adventure", description: "A guided pub crawl through Cebu's nightlife scene.", price: "From $54", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cc49d279ecbd9bdb2dd6c2ee808b0a3212a056f0d6c93abd9fc983f13a8e559.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick specifically for solo travelers and groups who want a safer, social way to see the city's nightlife rather than bar-hopping alone.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cebu pub crawl worth it?", a: "Yes, especially for solo travelers and groups wanting a safer, social way to see the city's nightlife without bar-hopping alone." },
+        ],
+      };
+
     case "best-tours-in-manila":
       return {
         title: "Best Tours in Manila — 2026, Honestly Compared",
