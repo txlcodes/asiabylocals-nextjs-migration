@@ -1764,6 +1764,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-chora-mosque-worth-it-istanbul":
+      return {
+        title: "Is the Chora Mosque Worth It in Istanbul?",
+        description: "An honest look at Istanbul's Chora Mosque, a Byzantine church-turned-mosque famous for its mosaics and frescoes.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a31107f15d9225da3a929e79ebcba77050d8236aef553ef33f9cbb9585206461.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chora Mosque, originally the Byzantine Church of the Holy Savior, holds some of the finest surviving Byzantine mosaics and frescoes in the world, arguably rivaling Hagia Sophia's artwork but with far fewer crowds — a genuinely worthwhile stop for anyone interested in Byzantine art specifically.",
+            tourCard: { slug: "istanbul-chora-mosque-entry-ticket", title: "Istanbul: Chora Mosque Entry Ticket", description: "Entry ticket to the Chora Mosque in Istanbul.", price: "From $34", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a31107f15d9225da3a929e79ebcba77050d8236aef553ef33f9cbb9585206461.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go specifically for the mosaics and frescoes — this is a smaller, art-focused visit rather than a grand architectural spectacle like Hagia Sophia.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chora Mosque worth it in Istanbul?", a: "Yes, for some of the finest surviving Byzantine mosaics in the world, with far fewer crowds than Hagia Sophia." },
+        ],
+      };
+
+    case "is-ebru-marbling-workshop-worth-it-istanbul":
+      return {
+        title: "Is the Turkish Marbling (Ebru) Workshop Worth It in Istanbul?",
+        description: "An honest look at the Turkish marbling (Ebru) workshop from Galata Tower in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a717ef92f45265604039f56ff3df731fd785311a1116956b30d7ffb8ca75876.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ebru, Turkish paper marbling made by dropping pigments onto water and transferring the floating pattern to paper, is a genuinely distinctive craft tradition, and the short, guided format makes it an easy, affordable creative break from sightseeing near Galata Tower.",
+            tourCard: { slug: "istanbul-turkish-marbling-ebru-workshop-from", title: "Istanbul: Turkish Marbling -Ebru- Workshop from Galata Tower", description: "A hands-on Turkish marbling (Ebru) workshop near Galata Tower.", price: "From $34", duration: "15 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8a717ef92f45265604039f56ff3df731fd785311a1116956b30d7ffb8ca75876.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 15 minutes, this is a quick, easy add-on to a Galata Tower visit rather than a standalone activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ebru marbling workshop worth it in Istanbul?", a: "Yes, as a quick, affordable introduction to a genuinely distinctive craft, best paired with a Galata Tower visit." },
+        ],
+      };
+
+    case "is-mosaic-lamp-workshop-worth-it-istanbul":
+      return {
+        title: "Is the Mosaic Lamp Workshop in a 400-Year-Old Ottoman Inn Worth It in Istanbul?",
+        description: "An honest look at Istanbul's mosaic lamp workshop held in a 400-year-old Ottoman inn.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dd1beac8f463af4cc2ae900d23ccf9b7565ba772c64dc3696f314ad85a50f7c0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Turkish mosaic lamps are a genuine craft tradition, and making your own in an actual 400-year-old Ottoman inn adds real historical atmosphere beyond a generic workshop space, producing a functional, personal souvenir rather than a decorative trinket.",
+            tourCard: { slug: "istanbul-mosaic-lamp-workshop-in-400-year-old", title: "Istanbul: Mosaic Lamp Workshop in 400 Year Old Ottoman Inn", description: "A hands-on mosaic lamp making workshop in a 400-year-old Ottoman inn.", price: "From $34", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dd1beac8f463af4cc2ae900d23ccf9b7565ba772c64dc3696f314ad85a50f7c0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home a genuinely functional lamp, not just a decorative piece — a more practical souvenir than most craft workshops produce.",
+          },
+        ],
+        faqs: [
+          { q: "Is the mosaic lamp workshop worth it in Istanbul?", a: "Yes, for a genuinely functional handmade souvenir and real historical atmosphere inside an actual Ottoman-era inn." },
+        ],
+      };
+
+    case "is-rainbow-fener-balat-walking-tour-worth-it-istanbul":
+      return {
+        title: "Is the Rainbow Fener and Balat Walking Tour Worth It in Istanbul?",
+        description: "An honest look at the Rainbow Fener and Balat walking tour with a local guide in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c39da1385a02ec602dc7e906b15ba54c2ea997eefae04806b7b2b4c1f707d921.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fener and Balat's steep, colorfully painted streets give a genuinely different, more residential and photogenic side of Istanbul than the Old City's monument-heavy Sultanahmet district, and a local guide adds real context on the neighborhoods' Greek, Jewish, and Armenian heritage.",
+            tourCard: { slug: "istanbul-rainbow-fener-balat-walking-tour-wlocal", title: "Istanbul: Rainbow Fener & Balat Walking Tour w/Local Guide", description: "A guided walking tour of the colorful Fener and Balat neighborhoods.", price: "From $24", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c39da1385a02ec602dc7e906b15ba54c2ea997eefae04806b7b2b4c1f707d921.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — the streets are steep and cobbled, genuinely different terrain from the flat Old City walking routes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Rainbow Fener and Balat walking tour worth it in Istanbul?", a: "Yes, for a genuinely different, more residential and photogenic side of the city, with real historical context on its diverse heritage." },
+        ],
+      };
+
     default:
       return null;
   }
