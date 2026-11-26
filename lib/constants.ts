@@ -2524,6 +2524,8 @@ export const CANGGU_INFO_SLUGS = [
   'is-jatiluwih-tanah-lot-tour-worth-it-canggu',
   'is-trunyan-penglipuran-tour-worth-it-canggu', 'is-mixology-class-worth-it-canggu',
   'is-sign-language-class-dinner-worth-it-canggu', 'is-perfume-making-worth-it-canggu',
+  'is-iphone-case-workshop-worth-it-canggu', 'is-buggy-river-tubing-coffee-tour-worth-it-canggu',
+  'is-charm-bar-workshop-worth-it-canggu', 'is-coastal-snorkeling-worth-it-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [

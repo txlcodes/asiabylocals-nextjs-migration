@@ -1313,6 +1313,90 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-iphone-case-workshop-worth-it-canggu":
+      return {
+        title: "Is the iPhone Case Workshop Worth It in Canggu?",
+        description: "An honest look at the iPhone case making workshop in Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/iphone-case-workshop-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Designing and making your own custom phone case is a genuinely practical souvenir rather than a purely decorative one, since you'll actually use it afterward — a distinct creative format from the area's painting and jewelry workshops.",
+            tourCard: { slug: "iphone-case-workshop-in-canggu", title: "IPhone Case Workshop in Canggu", description: "A hands-on custom iPhone case making workshop.", price: "From $53", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/iphone-case-workshop-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your actual phone model details if asked in advance, so the case you design fits properly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the iPhone case workshop worth it in Canggu?", a: "Yes, for a genuinely practical, usable souvenir rather than a purely decorative one." },
+        ],
+      };
+
+    case "is-buggy-river-tubing-coffee-tour-worth-it-canggu":
+      return {
+        title: "Is the Buggy Ride, River Tubing, and Coffee Plantation Visit Worth It in Canggu?",
+        description: "An honest look at the buggy ride, river tubing, and coffee plantation visit tour from Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/buggy-ride-river-tubing-and-coffee-plantation-visit-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a buggy ride, river tubing, and a coffee plantation visit gives a genuinely varied mix of adventure and agriculture in one booking, a good value way to cover several distinct activities rather than booking each separately.",
+            tourCard: { slug: "buggy-ride-river-tubing-and-coffee-plantation-visit-in-canggu", title: "Buggy Ride, River Tubing, and Coffee Plantation Visit in Canggu", description: "A combined buggy ride, river tubing, and coffee plantation tour.", price: "From $57", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/buggy-ride-river-tubing-and-coffee-plantation-visit-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes — the river tubing portion will genuinely get you wet.",
+          },
+        ],
+        faqs: [
+          { q: "Is the buggy, river tubing, and coffee plantation tour worth it?", a: "Yes, it's a good-value way to cover three distinct activities in one booking rather than arranging them separately." },
+        ],
+      };
+
+    case "is-charm-bar-workshop-worth-it-canggu":
+      return {
+        title: "Is the Charm Bar Jewelry Workshop Worth It in Canggu?",
+        description: "An honest look at the charm bar necklace or bracelet workshop with a drink in Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/charm-bar-workshop-necklace-or-bracelet-with-a-drink-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Picking and assembling your own charms into a necklace or bracelet is a quick, casual creative activity distinct from the area's silver and gold metalworking jewelry classes, more about personal design choice than a craft technique.",
+            tourCard: { slug: "charm-bar-workshop-necklace-or-bracelet-with-a-drink-in-canggu", title: "Charm Bar Workshop + Necklace or Bracelet with a Drink in Canggu", description: "A casual charm bar jewelry workshop with a drink included.", price: "From $26", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/charm-bar-workshop-necklace-or-bracelet-with-a-drink-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good quick, low-commitment activity to slot between beach time and dinner.",
+          },
+        ],
+        faqs: [
+          { q: "Is the charm bar workshop worth it in Canggu?", a: "Yes, for a quick, casual creative activity focused on personal design rather than a craft technique." },
+        ],
+      };
+
+    case "is-coastal-snorkeling-worth-it-canggu":
+      return {
+        title: "Is the Coastal Area Snorkeling Session Worth It in Canggu?",
+        description: "An honest look at the coastal area snorkeling session in Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/coastal-area-snorkeling-session-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Canggu is known more for surfing than snorkeling, so a dedicated coastal snorkeling session gives a genuinely different water activity for travelers wanting a calmer alternative to the area's wave-heavy beaches.",
+            tourCard: { slug: "coastal-area-snorkeling-session-in-canggu", title: "Coastal Area Snorkeling Session in Canggu", description: "A coastal snorkeling session near Canggu.", price: "From $28", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/coastal-area-snorkeling-session-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check conditions with your operator beforehand, since Canggu's coastline is more known for surf swells than calm snorkeling water.",
+          },
+        ],
+        faqs: [
+          { q: "Is coastal snorkeling worth it in Canggu?", a: "Yes, as a calmer alternative to the area's wave-heavy surf beaches, though conditions vary — check with your operator first." },
+        ],
+      };
+
     default:
       return null;
   }
