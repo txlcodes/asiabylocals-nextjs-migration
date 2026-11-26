@@ -1754,7 +1754,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-dhow-cruise-worth-it-dubai', 'is-atlantis-aquaventure-worth-it-dubai',
     'is-abu-dhabi-day-trip-worth-it-dubai',
     'is-hot-air-balloon-worth-it-dubai', 'is-museum-of-the-future-tour-worth-it-dubai',
-    'is-flying-dress-experience-worth-it-dubai', 'is-hatta-bab-al-shams-tour-worth-it-dubai'].map(slug => ({
+    'is-flying-dress-experience-worth-it-dubai', 'is-hatta-bab-al-shams-tour-worth-it-dubai',
+    'is-museum-of-illusions-worth-it-dubai', 'is-old-city-abra-ride-tour-worth-it-dubai',
+    'is-camel-farm-tour-worth-it-dubai', 'is-marina-yacht-breakfast-bbq-tour-worth-it-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

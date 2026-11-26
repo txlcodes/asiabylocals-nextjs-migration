@@ -1237,6 +1237,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-museum-of-illusions-worth-it-dubai":
+      return {
+        title: "Is the Museum of Illusions Worth It in Dubai?",
+        description: "An honest look at the Museum of Illusions in Dubai, an interactive optical-illusion attraction.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788894531/asiabylocals/tours/museum-of-illusions-dubai-entry-ticket/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely fun, air-conditioned indoor break from Dubai's heat and outdoor sightseeing, with interactive rooms built for photos — a good pick specifically for families and kids, less essential for travelers short on time who want only the city's headline sights.",
+            tourCard: { slug: "museum-of-illusions-dubai-entry-ticket", title: "Museum of Illusions Dubai Entry Ticket", description: "Entry ticket to the Museum of Illusions in Dubai.", price: "From $32", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788894531/asiabylocals/tours/museum-of-illusions-dubai-entry-ticket/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good midday break during the hottest part of the day, since it's entirely indoors and air-conditioned.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Museum of Illusions worth it in Dubai?", a: "Yes, especially for families and kids wanting a fun indoor break from the heat — less essential if you're tight on time for headline sights." },
+        ],
+      };
+
+    case "is-old-city-abra-ride-tour-worth-it-dubai":
+      return {
+        title: "Is the Dubai Old City Walking Tour with Abra Ride Worth It?",
+        description: "An honest look at the Dubai Old City walking tour paired with a traditional abra boat ride across the Creek.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-531518/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Walking through Old Dubai's souks and historic Al Fahidi district before crossing the Creek on a traditional wooden abra boat gives genuine contrast to the city's modern skyline, and the abra ride itself is one of the cheapest, most authentic experiences in Dubai.",
+            tourCard: { slug: "dubai-old-city-walking-tour-with-abra-ride", title: "Dubai: Old City Walking Tour with Abra Ride", description: "A walking tour of Old Dubai with a traditional abra boat ride.", price: "From $33", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-531518/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes for the souk walking portion, and bring cash for the markets if you want to shop for spices or textiles.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Old City walking tour with abra ride worth it in Dubai?", a: "Yes, it's a genuine, affordable contrast to Dubai's modern skyline, and the abra ride itself is one of the city's most authentic experiences." },
+        ],
+      };
+
+    case "is-camel-farm-tour-worth-it-dubai":
+      return {
+        title: "Is the Guided Camel Farm Tour and Milk Tasting Worth It in Dubai?",
+        description: "An honest look at the guided camel farm tour with camel milk tasting at Camelicious in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1258559/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting a working camel farm and tasting fresh camel milk gives genuine insight into a real local industry, distinct from the brief camel-ride photo-op most desert safaris offer — worth it specifically for travelers curious about how camel milk and dairy products are actually produced.",
+            tourCard: { slug: "dubai-guided-camel-farm-tourcamel-milk-tasting-cam", title: "Dubai: Guided Camel Farm Tour+Camel Milk Tasting-Camelicious", description: "A guided tour of a working camel farm with camel milk tasting.", price: "From $47", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1258559/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Try the flavored camel milk products if offered — they're genuinely different from the plain milk and a good way to see the dairy's range.",
+          },
+        ],
+        faqs: [
+          { q: "Is the camel farm tour worth it in Dubai?", a: "Yes, for genuine insight into a real working dairy industry, distinct from the brief camel-ride photo stop on most desert safaris." },
+        ],
+      };
+
+    case "is-marina-yacht-breakfast-bbq-tour-worth-it-dubai":
+      return {
+        title: "Is the Dubai Marina Yacht Tour with Breakfast or Barbecue Worth It?",
+        description: "An honest look at the Dubai Marina yacht tour with an onboard breakfast or barbecue option.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788878405/asiabylocals/tours/dubai-marina-yacht-tour-with-breakfast-or-barbecue/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling a meal into a Marina yacht cruise is a genuinely good value way to combine sightseeing with food in one booking, seeing the Marina skyline, JBR, and the Palm from the water while eating rather than arranging the two separately.",
+            tourCard: { slug: "dubai-marina-yacht-tour-with-breakfast-or-barbecue", title: "Dubai Marina Yacht Tour with Breakfast or Barbecue", description: "A Dubai Marina yacht tour with an onboard breakfast or barbecue.", price: "From $33", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788878405/asiabylocals/tours/dubai-marina-yacht-tour-with-breakfast-or-barbecue/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pick the breakfast option for a relaxed morning cruise, or the barbecue option for a longer, more social evening on the water.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Marina yacht tour with breakfast or barbecue worth it in Dubai?", a: "Yes, it's a good-value way to combine Marina sightseeing with a meal in one booking rather than arranging them separately." },
+        ],
+      };
+
     default:
       return null;
   }
