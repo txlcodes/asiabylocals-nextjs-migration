@@ -1639,6 +1639,78 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-muay-thai-class-worth-it-phuket":
+            return {
+                title: "Is the Muay Thai Training Class Worth It in Phuket?",
+                seoTitle: "Phuket Muay Thai Class 2026 | Honest Review",
+                description: "An honest look at the beginner Muay Thai training class in Phuket.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773158239/tours/phuket/tours/phuket_1773158238487_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Phuket has a genuine Muay Thai training culture, not just exhibition shows, and a beginner-friendly class gives a real taste of the sport's technique and conditioning rather than just watching a stadium fight from the stands.", tourCard: { slug: "muay-thai-training-class-phuket-beginners", title: "Muay Thai Training Class in Phuket for Beginners", description: "A beginner-friendly Muay Thai training class in Phuket.", price: "From $18", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773158239/tours/phuket/tours/phuket_1773158238487_0.jpg" } },
+                    { title: "Practical Tips", content: "Wear light, breathable athletic clothing and expect to sweat — this is a genuine training session, not a staged photo-op." }
+                ],
+                faqs: [
+                    { q: "Is the Muay Thai training class worth it in Phuket?", a: "Yes, for a genuine hands-on taste of the sport's technique and conditioning, distinct from just watching a stadium show." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Muay Thai class worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine hands-on introduction to the sport's technique and conditioning." } }
+                ] },
+            };
+
+        case "is-perfume-workshop-worth-it-phuket":
+            return {
+                title: "Is the Custom Perfume Workshop Worth It in Phuket?",
+                seoTitle: "Phuket Perfume Workshop 2026 | Honest Review",
+                description: "An honest look at the custom perfume making workshop in Phuket Old Town.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/custom-perfume-workshop-at-phuket-old-town/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Blending your own scent under guidance in Phuket Old Town gives a genuinely personal, hands-on souvenir distinct from the beach-and-boat activities that dominate most Phuket itineraries, and the Old Town setting adds atmosphere beyond a generic workshop space.", tourCard: { slug: "custom-perfume-workshop-at-phuket-old-town", title: "Custom Perfume Workshop at Phuket Old Town", description: "A hands-on custom perfume making workshop in Phuket Old Town.", price: "From $50", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/custom-perfume-workshop-at-phuket-old-town/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good rainy-day or rest-day activity that still produces a genuine, personal keepsake to take home." }
+                ],
+                faqs: [
+                    { q: "Is the perfume workshop worth it in Phuket?", a: "Yes, for a genuinely personal souvenir and a different pace from the island's beach-and-boat activities." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the perfume workshop worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely personal souvenir and a change of pace from beach activities." } }
+                ] },
+            };
+
+        case "is-sunset-horse-riding-worth-it-phuket":
+            return {
+                title: "Is the Bang Tao Beach Sunset Horse Riding Experience Worth It in Phuket?",
+                seoTitle: "Phuket Sunset Horse Riding 2026 | Honest Review",
+                description: "An honest look at the sunset horse riding experience at Bang Tao Beach in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bang-tao-beach-sunset-horse-riding-experience-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a horse along the sand at Bang Tao Beach as the sun sets is a genuinely scenic, slower-paced activity distinct from the island's speedboat and snorkeling day trips, and the short format makes it easy to fit into an evening without committing a full day.", tourCard: { slug: "bang-tao-beach-sunset-horse-riding-experience-in-phuket", title: "Bang Tao Beach Sunset Horse Riding Experience in Phuket", description: "A sunset horse riding experience along Bang Tao Beach.", price: "From $58", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/bang-tao-beach-sunset-horse-riding-experience-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book for a clear-sky evening if possible — the whole appeal is the sunset backdrop, so check the forecast before confirming." }
+                ],
+                faqs: [
+                    { q: "Is the sunset horse riding experience worth it in Phuket?", a: "Yes, for a genuinely scenic, low-commitment evening activity distinct from the island's boat-based day trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is sunset horse riding worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a scenic, low-commitment evening activity distinct from the island's boat trips." } }
+                ] },
+            };
+
+        case "is-hanuman-zipline-worth-it-phuket":
+            return {
+                title: "Is the Hanuman World Zip Line Adventure Worth It in Phuket?",
+                seoTitle: "Hanuman World Zipline Phuket 2026 | Honest Review",
+                description: "An honest look at the Hanuman World zip line adventure in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hanuman-world-zip-line-adventure-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Ziplining through Phuket's jungle canopy gives a short, adrenaline-focused break from beach and boat activities, with genuine rainforest views from a height you won't get from the ground.", tourCard: { slug: "hanuman-world-zip-line-adventure-in-phuket", title: "Hanuman World Zip Line Adventure in Phuket", description: "A zip line adventure through Phuket's jungle canopy.", price: "From $58", duration: "40 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/hanuman-world-zip-line-adventure-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "At under an hour, this is a quick add-on — pair it with another activity rather than booking it as your only plan for the day." }
+                ],
+                faqs: [
+                    { q: "Is the Hanuman World zip line worth it in Phuket?", a: "Yes, as a short adrenaline add-on with genuine jungle-canopy views, best paired with another activity that day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Hanuman World zip line worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a short adrenaline add-on with genuine jungle-canopy views." } }
+                ] },
+            };
+
         default:
             return null;
     }

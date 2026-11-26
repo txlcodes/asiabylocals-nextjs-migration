@@ -220,6 +220,8 @@ export const PHUKET_INFO_SLUGS = [
   'is-andamanda-water-park-worth-it-phuket',
   'is-simon-cabaret-show-worth-it-phuket', 'is-similan-islands-tour-worth-it-phuket',
   'is-blue-elephant-cooking-class-worth-it-phuket', 'is-khao-sok-bamboo-rafting-worth-it-phuket',
+  'is-muay-thai-class-worth-it-phuket', 'is-perfume-workshop-worth-it-phuket',
+  'is-sunset-horse-riding-worth-it-phuket', 'is-hanuman-zipline-worth-it-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
