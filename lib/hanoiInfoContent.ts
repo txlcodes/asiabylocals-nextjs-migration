@@ -1060,6 +1060,90 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tran-quoc-pagoda-tour-worth-it-hanoi":
+      return {
+        title: "Is the Tran Quoc Pagoda and Ba Dinh Walking Tour Worth It in Hanoi?",
+        description: "An honest look at the guided walking tour of Tran Quoc Pagoda and the Ba Dinh district in Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/guided-walking-tour-of-tran-quoc-pagoda-and-ba-dinh-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tran Quoc is Hanoi's oldest Buddhist pagoda, set scenically on West Lake, and pairing it with a walk through the Ba Dinh district (home to Ho Chi Minh's mausoleum and government buildings) gives a genuinely different, more spacious and green side of the city than the crowded Old Quarter.",
+            tourCard: { slug: "guided-walking-tour-of-tran-quoc-pagoda-and-ba-dinh-in-hanoi", title: "Guided Walking Tour of Tran Quoc Pagoda and Ba Dinh in Hanoi", description: "A guided walking tour of Tran Quoc Pagoda and the Ba Dinh district.", price: "From $25", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-walking-tour-of-tran-quoc-pagoda-and-ba-dinh-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the pagoda and the mausoleum area — shoulders and knees covered — as both enforce dress codes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tran Quoc Pagoda and Ba Dinh tour worth it in Hanoi?", a: "Yes, for a genuinely more spacious, green side of the city distinct from the crowded Old Quarter, plus the oldest pagoda in Hanoi." },
+        ],
+      };
+
+    case "is-perfume-making-workshop-worth-it-hanoi":
+      return {
+        title: "Is the Perfume Making Workshop Worth It in Hanoi?",
+        description: "An honest look at Hanoi's hands-on perfume making workshop.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/perfume-making-workshop-must-do-experience-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Blending your own scent from natural ingredients under guidance is a genuinely different, more personal souvenir than buying a bottle off a shelf, and the short format makes it an easy fit between other Old Quarter activities.",
+            tourCard: { slug: "perfume-making-workshop-must-do-experience-in-hanoi", title: "Perfume Making Workshop - Must-Do Experience in Hanoi", description: "A hands-on perfume making workshop in Hanoi.", price: "From $34", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/perfume-making-workshop-must-do-experience-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home the bottle you blend — a genuinely personal souvenir rather than a generic shop-bought one.",
+          },
+        ],
+        faqs: [
+          { q: "Is the perfume making workshop worth it in Hanoi?", a: "Yes, for a genuinely personal, hands-on souvenir you blend yourself rather than buy off a shelf." },
+        ],
+      };
+
+    case "is-embroidery-workshop-worth-it-hanoi":
+      return {
+        title: "Is the Heritage Embroidery Workshop in an Ancient House Worth It in Hanoi?",
+        description: "An honest look at Hanoi's heritage embroidery workshop held in an ancient Old Quarter house.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-s-heritage-embroidery-workshop-in-ancient-house-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Vietnamese embroidery is a genuine heritage craft, and learning it inside an actual ancient Old Quarter house adds real atmosphere beyond a generic classroom setting, giving historical context to the needlework itself.",
+            tourCard: { slug: "hanoi-s-heritage-embroidery-workshop-in-ancient-house-by-local-operator", title: "Hanoi's Heritage: Embroidery Workshop in Ancient House by Local Operator", description: "A hands-on embroidery workshop held inside an ancient Old Quarter house.", price: "From $39", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-s-heritage-embroidery-workshop-in-ancient-house-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about the house's own history while you work — many of these ancient Old Quarter houses have stories of their own worth hearing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the embroidery workshop worth it in Hanoi?", a: "Yes, the ancient-house setting adds real atmosphere and historical context beyond a generic craft class." },
+        ],
+      };
+
+    case "is-knife-making-workshop-worth-it-hanoi":
+      return {
+        title: "Is the Hands-On Knife Making Workshop with a Master Blacksmith Worth It in Hanoi?",
+        description: "An honest look at Hanoi's hands-on knife making workshop with a master blacksmith.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hands-on-knife-making-workshop-with-master-blacksmith-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Forging your own blade under a master blacksmith is a genuinely physical, hands-on craft experience distinct from the city's other gentler workshops like perfume or embroidery making — worth it specifically for travelers who want a more intense, hands-on activity.",
+            tourCard: { slug: "hands-on-knife-making-workshop-with-master-blacksmith-in-hanoi", title: "Hands-On Knife Making Workshop with Master Blacksmith in Hanoi", description: "A hands-on knife forging workshop with a master blacksmith.", price: "From $44", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hands-on-knife-making-workshop-with-master-blacksmith-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting dirty or singed near the forge — this is a genuinely physical workshop, not a delicate craft class.",
+          },
+        ],
+        faqs: [
+          { q: "Is the knife making workshop worth it in Hanoi?", a: "Yes, for a genuinely physical, hands-on forging experience distinct from the city's gentler craft workshops." },
+        ],
+      };
+
     default:
       return null;
   }

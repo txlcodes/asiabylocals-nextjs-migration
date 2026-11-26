@@ -2369,6 +2369,8 @@ export const HANOI_INFO_SLUGS = [
   'is-ba-vi-national-park-worth-it-hanoi', 'is-mai-chau-pu-luong-trek-worth-it-hanoi',
   'is-ha-giang-loop-worth-it-hanoi',
   'is-water-puppet-show-worth-it-hanoi', 'is-vespa-city-tour-worth-it-hanoi', 'is-cooking-class-worth-it-hanoi',
+  'is-tran-quoc-pagoda-tour-worth-it-hanoi', 'is-perfume-making-workshop-worth-it-hanoi',
+  'is-embroidery-workshop-worth-it-hanoi', 'is-knife-making-workshop-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [
