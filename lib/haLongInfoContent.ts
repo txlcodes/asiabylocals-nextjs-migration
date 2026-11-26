@@ -702,6 +702,90 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ngu-lam-peak-trek-worth-it-ha-long":
+      return {
+        title: "Is the Ngu Lam Peak Trek and Trung Trang Cave Worth It from Ha Long?",
+        description: "An honest look at the half-day trek to Ngu Lam Peak and Trung Trang Cave on Cat Ba Island, a land-based alternative to Ha Long's boat cruises.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/halfday-trek-to-ngu-lam-peak-and-trung-trang-cave-in-ha-long/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nearly every Ha Long activity is boat-based, so this hiking trip to a Cat Ba Island peak and cave gives a genuine land perspective on the limestone karst scenery — a good complement to a day or overnight cruise rather than a replacement for it.",
+            tourCard: { slug: "halfday-trek-to-ngu-lam-peak-and-trung-trang-cave-in-ha-long", title: "Halfday Trek to Ngu Lam peak and Trung Trang cave in Ha Long", description: "A half-day trek to Ngu Lam Peak and Trung Trang Cave on Cat Ba Island.", price: "From $30", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/halfday-trek-to-ngu-lam-peak-and-trung-trang-cave-in-ha-long/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair this with a Cat Ba or Lan Ha Bay cruise rather than treating it as a standalone Ha Long trip, since it's based on Cat Ba Island.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ngu Lam Peak trek worth it from Ha Long?", a: "Yes, for a genuine land-based perspective on the karst scenery, best paired with a boat cruise rather than as a standalone trip." },
+        ],
+      };
+
+    case "is-poseidon-night-cruise-worth-it-ha-long":
+      return {
+        title: "Is the Poseidon DJ and Night Cruise Worth It in Ha Long?",
+        description: "An honest look at the Poseidon DJ and night cruise experience, a nightlife-focused alternative to Ha Long's daytime sightseeing cruises.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/poseidon-dj-and-night-cruise-experience-in-ha-long/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely different product from the sightseeing-focused day and overnight cruises — a short, DJ-led party cruise for travelers wanting nightlife over scenery and quiet, rather than the standard cave-and-kayak itinerary.",
+            tourCard: { slug: "poseidon-dj-and-night-cruise-experience-in-ha-long", title: "Poseidon DJ and Night Cruise Experience in Ha Long", description: "A DJ-led night cruise experience in Ha Long Bay.", price: "From $36", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/poseidon-dj-and-night-cruise-experience-in-ha-long/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If scenery and quiet are your priority, a standard sightseeing cruise is the better fit — this one is specifically for a nightlife atmosphere.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Poseidon night cruise worth it in Ha Long?", a: "Yes if you want nightlife over scenery — it's a genuinely different, DJ-led party format from the standard sightseeing cruises." },
+        ],
+      };
+
+    case "is-monkey-island-tour-worth-it-ha-long":
+      return {
+        title: "Is the Lan Ha and Monkey Island Boat Trip Worth It from Ha Long?",
+        description: "An honest look at the Lan Ha and Monkey Island full-day boat trip, a wildlife-focused stop distinct from the standard Ha Long cruise itinerary.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lan-ha-and-monkey-island-full-day-boat-trip/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Monkey Island adds a genuine wildlife-watching stop to the standard Lan Ha Bay cruise format, giving the day a distinct highlight beyond caves and kayaking — a good pick if you specifically want an animal encounter alongside the scenery.",
+            tourCard: { slug: "lan-ha-and-monkey-island-full-day-boat-trip", title: "Lan Ha and Monkey Island Full Day Boat Trip", description: "A full-day boat trip to Lan Ha Bay and Monkey Island.", price: "From $41", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/lan-ha-and-monkey-island-full-day-boat-trip/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep a respectful distance from the monkeys and don't feed them directly — follow your guide's instructions around the wild (not tame) animals.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Monkey Island boat trip worth it?", a: "Yes for a genuine wildlife-watching highlight added to the standard Lan Ha Bay cruise format." },
+        ],
+      };
+
+    case "is-cat-ba-trekking-overnight-worth-it-ha-long":
+      return {
+        title: "Is the 2-Day Cat Ba Trekking and Lan Ha Bay Adventure Worth It from Hanoi?",
+        description: "An honest look at the 2-day, 1-night Cat Ba trekking and Lan Ha Bay adventure, combining hiking and an overnight cruise.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining genuine Cat Ba Island trekking with an overnight Lan Ha Bay cruise gives a fuller, more active 2-day experience than a standard overnight cruise alone, for travelers who want real hiking distance alongside the boat portion.",
+            tourCard: { slug: "from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure", title: "From Hanoi 2-Day 1-Night: Cat Ba Trekking and Lan Ha Bay Adventure", description: "A 2-day, 1-night trip combining Cat Ba Island trekking and a Lan Ha Bay cruise.", price: "From $192", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with reasonable fitness for the trekking portion — this is a more physically active 2 days than a standard overnight cruise.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cat Ba trekking and Lan Ha Bay combo worth it?", a: "Yes for travelers wanting genuine hiking distance alongside the boat portion, a more active alternative to a standard overnight cruise." },
+        ],
+      };
+
     default:
       return null;
   }

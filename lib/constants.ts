@@ -2318,6 +2318,8 @@ export const HA_LONG_INFO_SLUGS = [
   'is-bai-tu-long-bay-cruise-worth-it-ha-long', 'is-day-cruise-worth-it-ha-long',
   'is-cat-ba-island-tour-worth-it-ha-long', 'is-ninh-binh-ha-long-combo-worth-it',
   'is-yen-tu-mountain-tour-worth-it-ha-long',
+  'is-ngu-lam-peak-trek-worth-it-ha-long', 'is-poseidon-night-cruise-worth-it-ha-long',
+  'is-monkey-island-tour-worth-it-ha-long', 'is-cat-ba-trekking-overnight-worth-it-ha-long',
 ];
 
 export const HANOI_INFO_SLUGS = [
