@@ -108586,26 +108586,6 @@ export const IT_TOURS: Record<string, TourT> = {
    "attrezzatura personale"
   ]
  },
- "ella-wonders-day-tour-spice-garden-nine-arch-bridge-ravana-falls": {
-  "title": "Giornata delle meraviglie di Ella: giardino delle spezie, Nine Arch Bridge, cascate Ravana",
-  "metaTitle": "Giornata delle meraviglie di Ella: giardino delle spezie, Nine Arch Bridge, cascate Ravana",
-  "metaDescription": "Un giro economico di sei ore attorno a Ella con il monastero forestale di Mahameunawa, un giardino delle spezie, il Nine Arch Bridge, le cascate Ravana e la zipline Flying Ravana.",
-  "shortDescription": "Un giro economico di sei ore attorno a Ella con il monastero forestale di Mahameunawa, un giardino delle spezie, il Nine Arch Bridge, le cascate Ravana e la zipline Flying Ravana.",
-  "fullDescription": "Questa è la versione economica della giornata a Ella e copre la maggior parte delle attrazioni del villaggio senza la partenza prima dell'alba che richiedono le camminate.\n\nIl Mahameunawa Asapuwa è la sosta che nessuno si aspetta. È un monastero forestale invece che un tempio decorato, tranquillo, semplice e davvero utilizzato, e dopo una settimana di siti buddisti dipinti colpisce in modo molto diverso.\n\nIl giardino delle spezie di Ella copre cannella, pepe, cardamomo, curcuma e le piante ayurvediche che crescono in ogni giardino di villaggio di questa parte del paese. Lo Sri Lanka produce gran parte della vera cannella del mondo, e la differenza tra questa e la cassia venduta come cannella altrove è evidente non appena qualcuno te la mostra.\n\nIl Nine Arch Bridge è il momento centrale: 91 metri di pietra, 24 metri sopra una gola, costruito durante la Prima Guerra Mondiale senza acciaio perché l'acciaio fu requisito per l'Europa.\n\nLe cascate Ravana, un'ampia cascata accanto alla strada verso sud, e la zipline Flying Ravana sulla valle chiudono la giornata.\n\nCiò che non include sono Little Adam's Peak o Ella Rock. Se vuoi le camminate, prendi una giornata intera con partenza presto.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
-  "highlights": [],
-  "included": [
-   "Trasporto con driver-guida in lingua inglese",
-   "ritiro e riaccompagno in hotel",
-   "tutta la guida tra le soste"
-  ],
-  "notIncluded": [
-   "La tariffa della zipline",
-   "biglietti d'ingresso dove applicabili",
-   "pasti e bevande",
-   "acquisti di spezie",
-   "mance"
-  ]
- },
  "ella-adventure-day-by-tuk-tuk-both-peaks-the-loop-and-the-zipline": {
   "title": "Giornata di avventura a Ella in tuk-tuk: entrambe le cime, l'anello e la zipline",
   "metaTitle": "Giornata di avventura a Ella in tuk-tuk: entrambe le cime, l'anello e la zipline",
@@ -108831,45 +108811,24 @@ export const IT_TOURS: Record<string, TourT> = {
    "spese personali"
   ]
  },
- "liptons-seat-a-tea-factory-and-diyaluma-falls-day-tour-from-ella": {
-  "title": "Lipton's Seat, una fabbrica del tè e le cascate Diyaluma: tour di un giorno da Ella",
-  "metaTitle": "Lipton's Seat, fabbrica del tè e cascate Diyaluma da Ella",
-  "metaDescription": "Alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne del 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
-  "shortDescription": "Una giornata che unisce i due grandi punti panoramici dell'Uva: l'alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne costruita nel 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
-  "fullDescription": "Thomas Lipton acquistò le sue prime piantagioni di Ceylon nel 1890 e costruì la fabbrica Dambatenne che funziona ancora oggi. Si racconta che salisse a cavallo su uno sperone di roccia sopra di essa per osservare tutto ciò che possedeva, e quello sperone, Lipton's Seat, a circa 1.970 metri, offre una vista su cinque province in una mattina limpida.\n\nL'enfasi è sulla mattina. Verso le nove o le dieci la valle sottostante si riempie di nuvole e non si vede più nulla. È lo stesso problema di World's End e ha la stessa soluzione, motivo per cui questo viaggio inizia prima dell'alba.\n\nDambatenne è una delle fabbriche più antiche ancora attive dello Sri Lanka, e il tour segue la foglia dalle vasche di appassimento attraverso rullatura, ossidazione e tostatura fino al tavolo di selezione.\n\nDiyaluma è il pomeriggio. Con i suoi 220 metri è la seconda cascata più alta del paese, che scende da una scarpata in un unico velo d'acqua, visibile per intero dalla strada. La salita alle piscine naturali a infinito in cima richiede circa 45 minuti su un terreno scosceso e instabile, ed è la parte che vale la pena fare se si hanno le gambe e le scarpe adatte.\n\nDi ritorno a Ella nel primo pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'altopiano collinare meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio ferroviario più bello dell'Asia, e le sue attrazioni si trovano tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di tè, attraversato dal treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada che scende verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovarne uno.",
+ "ella-wonders-day-tour-spice-garden-nine-arch-bridge-ravana-falls": {
+  "title": "Giornata delle meraviglie di Ella: giardino delle spezie, Nine Arch Bridge, cascate Ravana",
+  "metaTitle": "Giornata delle meraviglie di Ella: giardino delle spezie, Nine Arch Bridge, cascate Ravana",
+  "metaDescription": "Un giro economico di sei ore attorno a Ella con il monastero forestale di Mahameunawa, un giardino delle spezie, il Nine Arch Bridge, le cascate Ravana e la zipline Flying Ravana.",
+  "shortDescription": "Un giro economico di sei ore attorno a Ella con il monastero forestale di Mahameunawa, un giardino delle spezie, il Nine Arch Bridge, le cascate Ravana e la zipline Flying Ravana.",
+  "fullDescription": "Questa è la versione economica della giornata a Ella e copre la maggior parte delle attrazioni del villaggio senza la partenza prima dell'alba che richiedono le camminate.\n\nIl Mahameunawa Asapuwa è la sosta che nessuno si aspetta. È un monastero forestale invece che un tempio decorato, tranquillo, semplice e davvero utilizzato, e dopo una settimana di siti buddisti dipinti colpisce in modo molto diverso.\n\nIl giardino delle spezie di Ella copre cannella, pepe, cardamomo, curcuma e le piante ayurvediche che crescono in ogni giardino di villaggio di questa parte del paese. Lo Sri Lanka produce gran parte della vera cannella del mondo, e la differenza tra questa e la cassia venduta come cannella altrove è evidente non appena qualcuno te la mostra.\n\nIl Nine Arch Bridge è il momento centrale: 91 metri di pietra, 24 metri sopra una gola, costruito durante la Prima Guerra Mondiale senza acciaio perché l'acciaio fu requisito per l'Europa.\n\nLe cascate Ravana, un'ampia cascata accanto alla strada verso sud, e la zipline Flying Ravana sulla valle chiudono la giornata.\n\nCiò che non include sono Little Adam's Peak o Ella Rock. Se vuoi le camminate, prendi una giornata intera con partenza presto.\n\nElla è un villaggio a 1.040 metri nella regione montuosa meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio in treno più bello dell'Asia, e le sue attrazioni sono tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di piantagioni di tè, attraversato da un treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra le piantagioni di tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate di Ravana sulla strada verso Wellawaya. Le mattine sono limpide e nei mesi piovosi i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovartene uno.",
   "highlights": [],
   "included": [
-   "Auto privata con aria condizionata e driver-guida in inglese",
-   "Ritiro e riaccompagno in hotel",
-   "Tutti i percorsi e le soste",
-   "Il carburante"
+   "Trasporto con driver-guida in lingua inglese",
+   "ritiro e riaccompagno in hotel",
+   "tutta la guida tra le soste"
   ],
   "notIncluded": [
-   "L'ingresso alla fabbrica del tè",
-   "I pasti e le bevande",
-   "Gli acquisti di tè",
-   "Le mance"
-  ]
- },
- "ella-to-arugam-bay-guided-transfer-with-waterfalls-temples": {
-  "title": "Transfer guidato da Ella ad Arugam Bay con cascate, templi e Buduruwagala",
-  "metaTitle": "Transfer guidato da Ella ad Arugam Bay con cascate",
-  "metaDescription": "Il trasferimento da Ella alla città surfistica di Arugam Bay, con cascate, un giardino delle spezie e i Buddha di Buduruwagala.",
-  "shortDescription": "Il trasferimento dall'entroterra collinare alla città surfistica di Arugam Bay sulla costa orientale, con cascate, un giardino delle spezie e i Buddha scolpiti nella roccia di Buduruwagala lungo il percorso.",
-  "fullDescription": "Arugam Bay è la città del surf dello Sri Lanka, sulla costa orientale, e segue un calendario opposto rispetto al resto del paese: la sua stagione va circa da maggio a settembre, esattamente quando la costa occidentale e meridionale viene agitata dal monsone sudoccidentale. Questa inversione è il motivo per cui un itinerario di luglio o agosto, che altrove sarebbe un compromesso, può qui essere un viaggio molto riuscito.\n\nArrivarci da Ella richiede circa quattro ore di guida lungo la scarpata dell'Uva e attraverso le pianure secche, e la strada passa per diverse cose che vale la pena vedere.\n\nLe cascate Ravana sono la prima tappa, un'ampia cascata sotto Ella. Seguono le cascate Diyaluma, la seconda più alta dello Sri Lanka con i suoi 220 metri.\n\nBuduruwagala è la tappa che giustifica il percorso. Sette figure scolpite in una parete di roccia nel nono o decimo secolo, con il Buddha centrale in piedi alto sedici metri, con tracce dello stucco e della pittura arancione originali ancora sulla pietra. È mahayana piuttosto che theravada, cosa inusuale in questa regione, e si trova in una boscaglia secca quasi sempre deserta.\n\nUn giardino delle spezie vicino a Wellawaya copre la cannella, il pepe e le piante ayurvediche coltivate in ogni villaggio della zona. Si arriva sulla costa nel pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'altopiano collinare meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio ferroviario più bello dell'Asia, e le sue attrazioni si trovano tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di tè, attraversato dal treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada che scende verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovarne uno.",
-  "highlights": [],
-  "included": [
-   "Auto privata con aria condizionata e driver-guida in inglese",
-   "Ritiro in hotel",
-   "Tutte le soste lungo il percorso",
-   "Riaccompagno al tuo hotel ad Arugam Bay",
-   "Trasporto dei bagagli per tutto il percorso"
-  ],
-  "notIncluded": [
-   "Il biglietto d'ingresso a Buduruwagala",
-   "I pasti e le bevande",
-   "Gli acquisti di spezie",
-   "Le mance"
+   "La tariffa della zipline",
+   "biglietti d'ingresso dove applicabili",
+   "pasti e bevande",
+   "acquisti di spezie",
+   "mance"
   ]
  },
  "ella-day-trip-from-nuwara-eliya-with-a-tea-factory-and-the-nine-arch": {
@@ -109589,6 +109548,47 @@ export const IT_TOURS: Record<string, TourT> = {
   ],
   "notIncluded": [
    "Ritiro e riaccompagno in hotel",
+   "Le mance"
+  ]
+ },
+ "liptons-seat-a-tea-factory-and-diyaluma-falls-day-tour-from-ella": {
+  "title": "Lipton's Seat, una fabbrica del tè e le cascate Diyaluma: tour di un giorno da Ella",
+  "metaTitle": "Lipton's Seat, fabbrica del tè e cascate Diyaluma da Ella",
+  "metaDescription": "Alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne del 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
+  "shortDescription": "Una giornata che unisce i due grandi punti panoramici dell'Uva: l'alba a Lipton's Seat sopra Haputale, la fabbrica Dambatenne costruita nel 1890, e le cascate Diyaluma di 220 metri nel pomeriggio.",
+  "fullDescription": "Thomas Lipton acquistò le sue prime piantagioni di Ceylon nel 1890 e costruì la fabbrica Dambatenne che funziona ancora oggi. Si racconta che salisse a cavallo su uno sperone di roccia sopra di essa per osservare tutto ciò che possedeva, e quello sperone, Lipton's Seat, a circa 1.970 metri, offre una vista su cinque province in una mattina limpida.\n\nL'enfasi è sulla mattina. Verso le nove o le dieci la valle sottostante si riempie di nuvole e non si vede più nulla. È lo stesso problema di World's End e ha la stessa soluzione, motivo per cui questo viaggio inizia prima dell'alba.\n\nDambatenne è una delle fabbriche più antiche ancora attive dello Sri Lanka, e il tour segue la foglia dalle vasche di appassimento attraverso rullatura, ossidazione e tostatura fino al tavolo di selezione.\n\nDiyaluma è il pomeriggio. Con i suoi 220 metri è la seconda cascata più alta del paese, che scende da una scarpata in un unico velo d'acqua, visibile per intero dalla strada. La salita alle piscine naturali a infinito in cima richiede circa 45 minuti su un terreno scosceso e instabile, ed è la parte che vale la pena fare se si hanno le gambe e le scarpe adatte.\n\nDi ritorno a Ella nel primo pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'altopiano collinare meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio ferroviario più bello dell'Asia, e le sue attrazioni si trovano tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di tè, attraversato dal treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada che scende verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovarne uno.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel",
+   "Tutti i percorsi e le soste",
+   "Il carburante"
+  ],
+  "notIncluded": [
+   "L'ingresso alla fabbrica del tè",
+   "I pasti e le bevande",
+   "Gli acquisti di tè",
+   "Le mance"
+  ]
+ },
+ "ella-to-arugam-bay-guided-transfer-with-waterfalls-temples": {
+  "title": "Transfer guidato da Ella ad Arugam Bay con cascate, templi e Buduruwagala",
+  "metaTitle": "Transfer guidato da Ella ad Arugam Bay con cascate",
+  "metaDescription": "Il trasferimento da Ella alla città surfistica di Arugam Bay, con cascate, un giardino delle spezie e i Buddha di Buduruwagala.",
+  "shortDescription": "Il trasferimento dall'entroterra collinare alla città surfistica di Arugam Bay sulla costa orientale, con cascate, un giardino delle spezie e i Buddha scolpiti nella roccia di Buduruwagala lungo il percorso.",
+  "fullDescription": "Arugam Bay è la città del surf dello Sri Lanka, sulla costa orientale, e segue un calendario opposto rispetto al resto del paese: la sua stagione va circa da maggio a settembre, esattamente quando la costa occidentale e meridionale viene agitata dal monsone sudoccidentale. Questa inversione è il motivo per cui un itinerario di luglio o agosto, che altrove sarebbe un compromesso, può qui essere un viaggio molto riuscito.\n\nArrivarci da Ella richiede circa quattro ore di guida lungo la scarpata dell'Uva e attraverso le pianure secche, e la strada passa per diverse cose che vale la pena vedere.\n\nLe cascate Ravana sono la prima tappa, un'ampia cascata sotto Ella. Seguono le cascate Diyaluma, la seconda più alta dello Sri Lanka con i suoi 220 metri.\n\nBuduruwagala è la tappa che giustifica il percorso. Sette figure scolpite in una parete di roccia nel nono o decimo secolo, con il Buddha centrale in piedi alto sedici metri, con tracce dello stucco e della pittura arancione originali ancora sulla pietra. È mahayana piuttosto che theravada, cosa inusuale in questa regione, e si trova in una boscaglia secca quasi sempre deserta.\n\nUn giardino delle spezie vicino a Wellawaya copre la cannella, il pepe e le piante ayurvediche coltivate in ogni villaggio della zona. Si arriva sulla costa nel pomeriggio.\n\nElla è un villaggio a 1.040 metri nell'altopiano collinare meridionale, raggiunto dal treno da Kandy che molti considerano il viaggio ferroviario più bello dell'Asia, e le sue attrazioni si trovano tutte a pochi chilometri: il Nine Arch Bridge, un viadotto in mattoni del 1921 in una gola di tè, attraversato dal treno più volte al giorno; Little Adam's Peak, una camminata di 40 minuti tra il tè fino a una cresta; Ella Rock, una salita più impegnativa di tre ore; e le cascate Ravana sulla strada che scende verso Wellawaya. Le mattine sono limpide e nei mesi delle piogge i pomeriggi portano nuvole nella valle, quindi le camminate si fanno presto. I tuk-tuk sono il mezzo di trasporto, e ogni guesthouse può trovarne uno.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata e driver-guida in inglese",
+   "Ritiro in hotel",
+   "Tutte le soste lungo il percorso",
+   "Riaccompagno al tuo hotel ad Arugam Bay",
+   "Trasporto dei bagagli per tutto il percorso"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso a Buduruwagala",
+   "I pasti e le bevande",
+   "Gli acquisti di spezie",
    "Le mance"
   ]
  },
@@ -110596,6 +110596,389 @@ export const IT_TOURS: Record<string, TourT> = {
    "I biglietti d'ingresso alle soste opzionali",
    "Le mance",
    "L'alloggio"
+  ]
+ },
+ "adams-peak-overnight-pilgrimage-climb-colombo": {
+  "title": "Pellegrinaggio Notturno all'Adam's Peak da Colombo",
+  "metaTitle": "Pellegrinaggio Notturno all'Adam's Peak",
+  "metaDescription": "Una scalata notturna del Sri Pada, la montagna sacra a buddhisti, hindu, musulmani e cristiani, per raggiungere la cima all'alba, con trasporto da Colombo.",
+  "shortDescription": "Una scalata notturna del Sri Pada, la montagna sacra a buddhisti, hindu, musulmani e cristiani, per raggiungere la cima all'alba, con trasporto da Colombo.",
+  "fullDescription": "Il Sri Pada, conosciuto in inglese come Adam's Peak, è una montagna di 2.243 metri negli altopiani centrali con una cavità nella roccia sulla cima a forma di impronta. I buddhisti la considerano del Buddha, gli hindu di Shiva, i musulmani e i cristiani di Adamo. Pochi luoghi sono venerati da quattro fedi insieme, e durante la stagione del pellegrinaggio il sentiero è affollato di famiglie dello Sri Lanka che salgono nella notte, il che è gran parte di ciò che rende la scalata quello che è.\n\nIl percorso da Nallathanniya conta circa 5.500 gradini, con una salita ripida nell'ultimo terzo. Pellegrini e visitatori partono nelle ore piccole per raggiungere la cima prima dell'alba. Le bancarelle di tè costeggiano il sentiero e restano aperte tutta la notte, e la fila di luci sul fianco della montagna è visibile dalla base molto prima di partire. La maggior parte delle persone impiega da tre a quattro ore per salire e un tempo simile per scendere, e la discesa è più dura per le ginocchia di quanto la salita lo sia per i polmoni.\n\nQuello per cui si sale è l'alba, e in particolare l'ombra: quando il sole spunta dietro la vetta proietta un'ombra triangolare perfetta sulle nuvole e sulle colline a ovest, che resta visibile per forse venti minuti prima di dissolversi. È uno dei veri spettacoli dell'isola, e dipende interamente dal tempo.\n\nIl trasporto da Colombo o Negombo è con auto privata con aria condizionata, con il viaggio verso Nallathanniya che richiede circa quattro ore passando per Avissawella e Hatton. Il tuo driver aspetta alla base mentre sali e ti riporta indietro dopo.\n\nSii sincero con te stesso su cosa comporta. Il viaggio totale dura circa ventidue ore, si sale nella notte senza dormire davvero, e la cima è freddo e spesso affollata. È impegnativo, e ne vale la pena per chi lo vuole per quello che è e non come un'altra attrazione da spuntare sulla lista.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in inglese",
+   "Ritiro e riaccompagno in hotel a Colombo o Negombo",
+   "Attesa del driver al punto di partenza",
+   "Acqua in bottiglia",
+   "Carburante, pedaggi e parcheggio"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande sulla montagna",
+   "La guida per la scalata, salvo diversa indicazione nella prenotazione",
+   "L'alloggio",
+   "Il noleggio di abiti caldi",
+   "Le mance",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "anuradhapura-colombo-private-day-trip-ancient-capital": {
+  "title": "Anuradhapura da Colombo: Gita Privata di un Giorno alla Capitale Antica",
+  "metaTitle": "Anuradhapura da Colombo: Gita alla Capitale Antica",
+  "metaDescription": "Una gita privata guidata di un giorno ad Anuradhapura, capitale dell'isola per oltre mille anni, tra l'albero di Bodhi sacro, le grandi stupa e le rovine monastiche.",
+  "shortDescription": "Una gita privata guidata di un giorno ad Anuradhapura, capitale dell'isola per oltre mille anni, tra l'albero di Bodhi sacro, le grandi stupa e le rovine monastiche.",
+  "fullDescription": "Anuradhapura fu la capitale dello Sri Lanka per oltre mille anni, a partire circa dal quarto secolo a.C., ed è la più grande e antica delle città antiche dell'isola. Le rovine si estendono su una vasta pianura di bacini e foresta, motivo per cui qui una guida e un'auto contano: senza di esse si vedono tre monumenti e si perde la forma del luogo.\n\nIl suo centro, per gli abitanti dello Sri Lanka, è il Jaya Sri Maha Bodhi. L'albero fu cresciuto da una talea dell'albero di Bodhi a Bodh Gaya, portato sull'isola nel terzo secolo a.C., ed è documentato come l'albero piantato dall'uomo più antico al mondo con una registrazione continua. I pellegrini arrivano vestiti di bianco, portano fiori di loto e li offrono sulle terrazze. La tua guida gli dedica un'ora intera, e quella è la misura giusta.\n\nLe stupa sono l'altro motivo per venire. Ruwanweli Maha Seya, restaurata e di un bianco brillante, fu innalzata dal re Dutugemunu nel secondo secolo a.C. Jetavanaramaya, in mattoni grezzi, fu per un periodo la terza struttura più alta del mondo. Abhayagiri ancorava un monastero di migliaia di monaci che accoglieva l'insegnamento Mahayana insieme al Theravada. Isurumuniya, le incisioni a pietra di luna e il Samadhi Buddha completano la giornata.\n\nIl viaggio in auto è il prezzo da pagare per fare questo in un giorno. Sono circa quattro ore in ciascuna direzione, con una sosta per la colazione a Kurunegala all'andata e il pranzo ad Anuradhapura, quindi si tratta di una giornata di circa quattordici ore porta a porta. È molto, ma i siti stessi sono distribuiti e per lo più pianeggianti, e ci si sposta tra essi in auto piuttosto che a piedi.\n\nEssendo privata, la giornata può essere orientata sui tuoi interessi: l'albero di Bodhi e i siti religiosi viventi, oppure l'archeologia e le rovine monastiche. Il ritiro copre Colombo, Negombo e Katunayake.",
+  "highlights": [],
+  "included": [
+   "Auto privata con aria condizionata, driver e carburante",
+   "Guida in inglese",
+   "Ritiro e riaccompagno in hotel a Colombo, Negombo o Katunayake",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso alla città sacra di Anuradhapura",
+   "La colazione e il pranzo",
+   "Le bevande",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "bentota-ayurvedic-massage-mangrove-boat-cruise-day-trip": {
+  "title": "Bentota: Massaggio Ayurvedico e Crociera in Barca tra le Mangrovie",
+  "metaTitle": "Bentota: Massaggio Ayurvedico e Mangrovie",
+  "metaDescription": "Una fuga di mezza giornata a sud verso Bentota per un massaggio ayurvedico tradizionale di due ore seguito da un'ora sul fiume tra le mangrovie.",
+  "shortDescription": "Una fuga di mezza giornata a sud verso Bentota per un massaggio ayurvedico tradizionale di due ore seguito da un'ora sul fiume tra le mangrovie.",
+  "fullDescription": "Bentota si trova a circa novanta minuti a sud di Colombo, dove il fiume Bentota Ganga incontra il mare dietro una lunga lingua di sabbia, ed è la costa delle terme dell'isola da quando qui aprirono i primi resort negli anni 1970. Questo viaggio accosta le due cose che la città fa meglio e ti riporta a casa lo stesso giorno.\n\nIl massaggio dura due ore intere, un tempo sufficiente perché il trattamento sia quello vero e non una versione abbreviata da hotel. L'ayurveda dello Sri Lanka lavora con oli erbali tiepidi applicati con lunghe passate lungo le linee energetiche del corpo, seguite nella maggior parte dei casi da un bagno di vapore o erbale. I praticanti qui sono di solito formati nel sistema piuttosto che in una tecnica generica da spa, e la pressione è più intensa di un massaggio occidentale rilassante. Uscirai oliato, quindi pianifica l'abbigliamento di conseguenza.\n\nSegue l'ora sul fiume. Il Bentota Ganga scorre nell'entroterra attraverso formazioni di mangrovie abbastanza dense perché la barca entri in canali stretti dove i rami si chiudono sopra la testa. I varani si scaldano al sole sulle rive, i martin pescatore lavorano le acque basse, le scimmie macaco si muovono tra le chiome, e in un buon giro vedrai un isolotto di mangrovie circondato da trappole per pesci. È un'ora tranquilla piuttosto che emozionante, il che è la nota giusta dopo due ore a faccia in giù su un tavolo da trattamento.\n\nIl trasporto è privato in entrambe le direzioni e il tragitto lungo la costa è comodo sull'autostrada. La giornata totale dura circa sei ore porta a porta, di cui tre di viaggio, quindi rientra facilmente in una mattinata o in un pomeriggio senza consumare un giorno intero del tuo viaggio.\n\nÈ adatta a chi si è spostato molto nel triangolo culturale o nell'altopiano del tè e vuole una giornata che non richieda una sveglia presto o una lunga camminata.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver",
+   "Ritiro e riaccompagno a Colombo o Panadura",
+   "Massaggio ayurvedico di due ore",
+   "Crociera in barca di un'ora tra le mangrovie",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "Le mance per il terapista e il barcaiolo",
+   "I trattamenti spa aggiuntivi",
+   "Le spese personali",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "bentota-full-day-trip-negombo-madu-river-safari-turtle-hatcher": {
+  "title": "Bentota da Negombo: Giornata Intera con Safari sul Fiume Madu e Vivaio di Tartarughe",
+  "metaTitle": "Bentota da Negombo: Fiume Madu e Tartarughe",
+  "metaDescription": "Una giornata intera da Negombo con un safari in barca sul fiume Madu, il vivaio di tartarughe di Kosgoda e la tenuta Lunuganga a Bentota.",
+  "shortDescription": "Una giornata intera lungo la costa sud-occidentale da Negombo, tra un safari in barca sul fiume Madu, il vivaio di tartarughe di Kosgoda e la tenuta Lunuganga a Bentota.",
+  "fullDescription": "La strada costiera a sud di Colombo lega insieme gran parte di ciò che si immagina pensando alla costa sud-occidentale dello Sri Lanka: villaggi di pescatori, piantagioni di cocco, foci di fiumi e la lunga linea dell'oceano Indiano sulla destra. Questo viaggio percorre tutto il tratto da Negombo a Bentota e ritorno, con tre soste che insieme coprono fauna selvatica, conservazione e uno dei giardini più belli dell'Asia meridionale.\n\nLa prima sosta è Kosgoda, dove i vivai raccolgono le uova dalla spiaggia e rilasciano le tartarughine quando emergono. Cinque specie nidificano lungo questa costa, tra cui la tartaruga verde e la tartaruga olivacea, e le vasche di solito ospitano anche adulti soccorsi. È una visita breve e diretta: si vedono le uova, i piccoli e il motivo per cui così tanti non sopravvivono da soli.\n\nPoi arriva il Madu Ganga. È una laguna salmastra poco profonda, punteggiata di isole e intessuta di tunnel di mangrovie, che si attraversa in piccola barca per circa due ore. I canali si restringono finché le radici si chiudono sopra la testa, i varani si scaldano al sole sulle rive, i martin pescatore lavorano le acque basse e il barcaiolo si ferma a un'isola di cannella dove la pelatura si fa ancora a mano.\n\nL'ultima sosta è Lunuganga, la tenuta di campagna che l'architetto Geoffrey Bawa ha rimodellato per cinque decenni. È l'affermazione più chiara di quello che è diventato noto come modernismo tropicale: terrazze, vedute inquadrate, paesaggio preso in prestito e una collina che Bawa fece tagliare perché il lago si leggesse bene dalla terrazza. Anche senza interesse per l'architettura, è un luogo bellissimo da attraversare a piedi.\n\nÈ una giornata di dieci ore con circa quattro ore e mezza di viaggio in auto. È ben scandita ma lunga, e si torna a Negombo in serata piuttosto che a metà pomeriggio.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver in inglese",
+   "Ritiro e riaccompagno in hotel a Negombo",
+   "Safari in barca sul Madu Ganga",
+   "Carburante, pedaggi e parcheggio",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande",
+   "I biglietti d'ingresso al vivaio di tartarughe e a Lunuganga",
+   "Le tariffe fotografiche dove previste",
+   "Le mance"
+  ]
+ },
+ "colombo-after-dark-guided-nightlife-tour-tuk-tuk": {
+  "title": "Colombo di Notte: Tour Guidato della Vita Notturna in Tuk-Tuk",
+  "metaTitle": "Colombo di Notte: Vita Notturna in Tuk-Tuk",
+  "metaDescription": "Una serata a Colombo con una guida e un tuk-tuk, dall'Old Dutch Hospital nel quartiere di Fort tra i bar e le soste gastronomiche notturne della città.",
+  "shortDescription": "Una serata a Colombo con una guida e un tuk-tuk, dall'Old Dutch Hospital nel quartiere di Fort tra i bar e le soste gastronomiche notturne della città.",
+  "fullDescription": "Colombo fa gran parte della sua vita sociale dopo il tramonto, in parte perché il calore del giorno scoraggia qualsiasi altra cosa. La vita notturna però è dispersa, distribuita tra Fort, Colombo 3 e Colombo 7, e muoversi da soli tra i locali significa negoziare tariffe nel buio con driver che non sanno dove si intende andare. Questo tour risolve il problema abbinandoti a una guida e a un tuk-tuk per la serata.\n\nIl punto d'incontro è l'Old Dutch Hospital a Fort, il posto giusto da cui partire. L'edificio è il più antico del quartiere, costruito attorno a cortili dagli olandesi nel diciassettesimo secolo, e il suo restauro lo ha trasformato in un cortile-ristorante e bar che si riempie presto. Ministry of Crab, il ristorante che ha reso famoso il granchio di laguna dello Sri Lanka nel mondo, si trova nello stesso complesso.\n\nDa lì ci si muove in tuk-tuk. La serata è organizzata liberamente piuttosto che fissata: la tua guida legge cosa desideri, e il percorso tra bar, terrazze e locali notturni cambia con il giorno della settimana, perché Colombo è molto più tranquilla all'inizio della settimana e più animata da giovedì in poi. Dì alla tua guida all'inizio se vuoi cocktail e terrazze, o birra e street food, e il percorso segue quella scelta.\n\nIl tuk-tuk è parte dell'esperienza e non solo un trasporto. Attraversare Fort di notte, passando per i cancelli del porto e la Lotus Tower illuminata, con l'aria di mare che entra dai lati aperti, è una città diversa da quella vista a mezzogiorno. Le distanze sono brevi e i tragitti tra i locali durano di solito dai cinque ai quindici minuti.\n\nUna nota pratica: l'alcol non viene servito nei giorni di Poya, la luna piena, in nessun punto dello Sri Lanka, e molti bar chiudono del tutto. Se la tua data cade in un giorno di Poya, la serata diventa invece un tour di cibo e luci cittadine. La tua guida lo confermerà al momento della prenotazione.",
+  "highlights": [],
+  "included": [
+   "Guida privata in inglese per la serata",
+   "Tuk-tuk privato con driver tra i locali",
+   "Riaccompagno nel centro di Colombo"
+  ],
+  "notIncluded": [
+   "Il cibo, le bevande e qualsiasi ingresso o costo di accesso ai locali",
+   "Le mance",
+   "Il ritiro in hotel fuori dal centro di Colombo"
+  ]
+ },
+ "colombo-anuradhapura-day-trip-mihintale-ancient-city-stops": {
+  "title": "Colombo-Anuradhapura: Gita di un Giorno con Mihintale e le Rovine della Città Antica",
+  "metaTitle": "Colombo-Anuradhapura con Mihintale",
+  "metaDescription": "Un viaggio guidato da Colombo ad Anuradhapura, prima capitale dello Sri Lanka, con soste alla collina sacra di Mihintale e alle stupa della città antica.",
+  "shortDescription": "Un viaggio guidato da Colombo ad Anuradhapura, prima capitale dello Sri Lanka, con soste alla collina sacra di Mihintale e alle stupa della città antica.",
+  "fullDescription": "Anuradhapura fu la capitale dello Sri Lanka per ben oltre mille anni, a partire circa dal quarto secolo a.C., e quello che resta non è un singolo monumento ma un campo grande come una città: stupa di mattoni grandi come piccole colline, fondamenta di monasteri, bacini per i bagni, pietre guardiane e i bacini idrici che alimentavano tutto questo. Si trova a circa 200 chilometri a nord di Colombo, motivo per cui la maggior parte delle persone la visita di corsa o la salta del tutto.\n\nQuesto viaggio l'affronta direttamente. Si parte da Colombo presto sull'autostrada e sulla via del nord, e il tuo driver-guida usa il tragitto per raccontare chi ha costruito cosa e perché: il passaggio dal sud-ovest umido alla zona secca è visibile dal finestrino mentre le risaie e le palme da cocco lasciano il posto alla boscaglia, ai bacini e all'occasionale cartello di avviso per elefanti selvatici.\n\nMihintale è dove inizia la storia. Fu su questa collina, nel terzo secolo a.C., che secondo la tradizione il monaco Mahinda incontrò il re Devanampiya Tissa e introdusse il buddhismo sull'isola. Una lunga scalinata di granito sale tra i resti monastici fino a una dagoba in cima con la pianura sotto. La salita è costante piuttosto che ripida, ma i gradini sono molti.\n\nAd Anuradhapura propriamente detta si vedono le grandi stupa, la Ruwanwelisaya nella sua massa bianca intonacata, la più antica massa di mattoni della Jetavanaramaya e l'Abhayagiri, insieme alle pietre di luna e alle pietre guardiane dei quartieri monastici. Il Sri Maha Bodhi, cresciuto da una talea dell'albero sotto cui il Buddha raggiunse l'illuminazione, è ancora un sito di pellegrinaggio attivo e uno degli alberi piantati documentati più antichi al mondo.\n\nSii realistico sulla giornata. L'andata e ritorno da Colombo è lunga, e passerai gran parte del tempo in viaggio. Vieni con una sveglia presto, scarpe comode e qualcosa per coprire spalle e ginocchia, perché ogni sito qui è un luogo religioso attivo.",
+  "highlights": [],
+  "included": [
+   "Veicolo privato con aria condizionata e driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Carburante, pedaggi e parcheggio",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Il biglietto d'ingresso alla città sacra di Anuradhapura e le tariffe dei singoli siti",
+   "I pasti e le bevande",
+   "I permessi per fotocamere o video dove previsti",
+   "Le mance"
+  ]
+ },
+ "colombo-city-highlights-tour-jaffna-style-banana-leaf-lunch": {
+  "title": "Colombo: Tour dei Punti Salienti con Pranzo su Foglia di Banano in Stile Jaffna",
+  "metaTitle": "Colombo: Tour e Pranzo in Stile Jaffna",
+  "metaDescription": "Mezza giornata tra i luoghi principali di Colombo in auto, con un pranzo di riso e curry in stile Jaffna su foglia di banano.",
+  "shortDescription": "Mezza giornata tra i principali luoghi di Colombo in auto, da Independence Square al Tempio Gangaramaya e Pettah, con un pranzo di riso e curry in stile Jaffna su foglia di banano.",
+  "fullDescription": "Colombo non concentra le sue attrazioni in un unico quartiere percorribile a piedi, motivo per cui questa mezza giornata si svolge in auto. Cinque ore bastano per legare insieme i monumenti, il tempio, il parco e il quartiere del mercato senza passare tutto il tempo nel traffico.\n\nIndependence Square è la prima sosta e la più direttamente politica. Il padiglione fu costruito per segnare il passaggio dal dominio britannico nel febbraio 1948, modellato sulla sala delle udienze degli ultimi re di Kandy, ed è circondato da leoni di pietra e dalla statua del primo primo ministro. Vicino, la Bandaranaike Memorial International Conference Hall è un pezzo di diplomazia anni 1970 in cemento, donato dalla Cina e ancora la principale sede statale della città.\n\nIl Viharamahadevi Park offre la parte verde del centro di Colombo, disegnato sotto gli inglesi come Victoria Park e poi rinominato da una regina delle cronache di Anuradhapura. La sosta più lunga è il Tempio Gangaramaya, dove circa cinquanta minuti non sono eccessivi: il complesso mescola architettura dello Sri Lanka, thailandese, indiana e cinese in un unico recinto e le sue sale museali sono piene di oggetti donati, da Buddha di giada a una Rolls-Royce d'epoca.\n\nPettah chiude il giro turistico. Il tour passa per le strade del mercato senza soste prolungate, il che è sufficiente per vedere come funziona il quartiere, con ogni via dedicata a un singolo commercio dietro i mattoni a fasce rosse e bianche della moschea Jami Ul-Alfar.\n\nIl pranzo è il motivo per cui molti prenotano questo tour. La cucina di Jaffna arriva dal nord tamil ed è distinta dalla cucina del sud: più indiana nell'uso delle spezie, più carica di curry di granchio e frutti di mare, e nota per il brodo di mare odiyal kool. Servito su foglia di banano e mangiato con la mano destra, è un pasto vero e proprio piuttosto che un assaggio, e vale la pena arrivare affamati.",
+  "highlights": [],
+  "included": [
+   "Veicolo con aria condizionata e driver",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Soste a Independence Square, alla Bandaranaike Memorial Hall, al Viharamahadevi Park e al Tempio Gangaramaya",
+   "Un passaggio in auto attraverso Pettah",
+   "Pranzo in stile Jaffna su foglia di banano",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "I pasti e le bevande aggiuntivi",
+   "Le offerte al tempio e le tariffe fotografiche dove previste",
+   "Le mance",
+   "Lo shopping",
+   "Le spese personali"
+  ]
+ },
+ "colombo-city-sightseeing-tuk-tuk-hotel-pickup": {
+  "title": "Colombo: Giro Turistico in Tuk-Tuk con Ritiro in Hotel",
+  "metaTitle": "Colombo: Giro Turistico in Tuk-Tuk",
+  "metaDescription": "Tre ore in tuk-tuk a Colombo con un driver-guida locale, tra Fort, Pettah, i templi e Galle Face Green, con ritiro in hotel o al terminal delle crociere.",
+  "shortDescription": "Tre ore in tuk-tuk a Colombo con un driver-guida locale, tra Fort, Pettah, i templi e Galle Face Green, con ritiro in hotel o al terminal delle crociere.",
+  "fullDescription": "Questo è un tour in tuk-tuk, ed è proprio questo il punto. Colombo è una città di brevi tratti, strade a senso unico e vicoli di mercato che un autobus non può attraversare, quindi se ne vede molto di più in tre ore sul sedile di un tre ruote che in un furgone. Il driver fa anche da guida, si ferma dove vuoi fermarti e ti porta nelle parti di Fort e Pettah dove il traffico è di persone piuttosto che di auto.\n\nIl percorso di solito parte da Fort, l'antico quartiere portuale fortificato fondato dai portoghesi, ricostruito dagli olandesi e riempito dagli inglesi di banche e magazzini. Il Vecchio Parlamento e le facciate colonnate circostanti sono i sopravvissuti più evidenti, ma l'edificio che vale la pena visitare è il Dutch Hospital, la struttura più antica di Fort, oggi un cortile in pietra di ristoranti e negozi con le travi originali ancora sopra la testa.\n\nDa Fort si passa a Pettah, il quartiere del mercato all'ingrosso, dove ogni strada vende essenzialmente un solo prodotto: ferramenta in una, tessuti nella successiva, pesce secco e spezie in un'altra. La moschea Jami Ul-Alfar a fasce rosse e bianche, completata nel 1908, segna il centro di tutto questo. Questa parte del viaggio è rumorosa, serrata e veloce, e il tuk-tuk è il veicolo giusto per affrontarla.\n\nIl tour poi si estende verso il sud più tranquillo della città. Il Tempio Gangaramaya è un tempio buddhista attivo i cui edifici prendono in prestito stili dello Sri Lanka, thailandesi, indiani e cinesi tutti insieme. Independence Square, costruita per segnare il passaggio del 1948 dal dominio britannico, è una sala colonnata su un prato dove Colombo viene a passeggiare la sera.\n\nSi conclude a Galle Face Green, il lungomare dell'epoca coloniale. Se sei sulla partenza del tardo pomeriggio, i carretti di isso wade, che vendono frittelle di gamberetti fritte, si allestiscono lungo il muro mentre la luce calando, ed è il miglior quarto d'ora del tour.",
+  "highlights": [],
+  "included": [
+   "Tuk-tuk privato con driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel o al terminal delle crociere",
+   "Carburante e parcheggio",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso ai templi e ai musei",
+   "Il cibo e le bevande",
+   "Lo shopping",
+   "Le mance per il driver",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "colombo-evening-street-food-tour-tastings-included": {
+  "title": "Colombo: Tour del Cibo di Strada Serale con Assaggi Inclusi",
+  "metaTitle": "Colombo: Tour del Cibo di Strada Serale",
+  "metaDescription": "Tre ore di Colombo dopo il tramonto, mangiando tra bancarelle di strada, short eats e dolci, con tutto il percorso incluso.",
+  "shortDescription": "Tre ore di Colombo dopo il tramonto, mangiando tra bancarelle di strada, short eats e dolci, con tutto il percorso incluso.",
+  "fullDescription": "Colombo mangia tardi. La folla degli uffici si disperde, il caldo scende, e i carretti e le cucine a buco nel muro che a metà pomeriggio erano semichiuse iniziano a fare il loro vero lavoro. Questo tour è costruito su questo passaggio, inizia in serata e dura circa tre ore con tutto il cibo incluso.\n\nLa cucina dell'isola è il frutto di tutti quelli che ci sono passati. Il riso e curry singalese sta accanto al dosai e al vadai tamil, agli short eats e al biryani musulmani, ai pickle malesi e al lamprais di origine olandese, e Colombo è dove tutto questo è disponibile a poche strade di distanza. La tua guida ordina in singalese e in tamil secondo necessità, e spiega cosa hai davanti piuttosto che lasciarti indovinare.\n\nAspettati il kottu roti preparato su una piastra con due lame, che senti prima di vederlo; gli hopper, le frittelle di farina di riso a forma di scodella che arrivano semplici o con un uovo rotto nel mezzo; l'isso wade, le frittelle di gamberetti vendute dai carretti lungo Galle Face Green al tramonto; e una serie di short eats, i rollini, le cotolette e le paste fritte che riempiono ogni vetrina della città. Dolci e una bevanda chiudono la serata.\n\nIl peperoncino dello Sri Lanka non è decorativo. La maggior parte di quello che ti verrà servito è davvero piccante, anche se la guida può indirizzarti verso versioni più delicate e ogni bancarella ha qualcosa che non brucerà. Dì qualcosa all'inizio piuttosto che soffrire educatamente.\n\nIl percorso si fa a piedi in brevi tratti con trasporto tra i vari gruppi di bancarelle, e funziona anche come tour notturno della città: i portici di Pettah dopo la chiusura delle saracinesche, il lungomare di Galle Face e le normali strade residenziali dove di solito si trova il miglior kottu.",
+  "highlights": [],
+  "included": [
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Tutti gli assaggi di cibo lungo il percorso",
+   "Un dolce",
+   "Una bevanda",
+   "Guida per tutto il percorso",
+   "Trasporto tra le soste gastronomiche"
+  ],
+  "notIncluded": [
+   "Il cibo e le bevande aggiuntivi ordinati fuori dal percorso previsto",
+   "L'alcol",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "colombo-foot-private-guided-walking-tour": {
+  "title": "Colombo a Piedi: Tour Privato Guidato a Piedi",
+  "metaTitle": "Colombo a Piedi: Tour Privato a Piedi",
+  "metaDescription": "Una camminata privata di tre ore con una guida di Colombo, da Independence Square attraverso Gangaramaya e Pettah fino al lungomare di Galle Face Green.",
+  "shortDescription": "Una camminata privata di tre ore con una guida di Colombo, da Independence Square attraverso Gangaramaya e Pettah fino al lungomare di Galle Face Green.",
+  "fullDescription": "Camminare è il modo onesto di vedere Colombo, e anche il meno comune. La maggior parte dei visitatori viene portata in auto tra i monumenti e non vede mai il tessuto connettivo: i portici dei negozi, i nomi delle strade olandesi, i chioschi del tè, il cricket giocato su qualsiasi superficie piana. Questo tour privato ti affianca una guida locale per tre ore, con brevi trasferimenti solo dove la distanza rende inutile camminare.\n\nSi parte da Independence Square, a Colombo 7. La sala commemorativa fu costruita per segnare la fine del dominio britannico nel 1948, e la sua forma riprende deliberatamente la sala delle udienze degli ultimi re di Kandy, una dichiarazione politica scolpita in pietra che vale la pena farsi spiegare. Da lì il percorso passa per il Viharamahadevi Park e il municipio a cupola prima di girare verso il lago Beira.\n\nIl Tempio Gangaramaya è la sosta principale: un monastero, una scuola e un museo di oggetti donati, che mescola elementi dello Sri Lanka, thailandesi, indiani e cinesi in un modo che nessuna singola tradizione approverebbe da sola. Vicino, il mercato flottante di Pettah costeggia il canale, e oltre esso comincia la città commerciale più antica.\n\nA Pettah la tua guida ti porta davanti alla moschea Jami Ul-Alfar, il simbolo a fasce rosse e bianche completato nel 1908 e ancora l'edificio più fotografato del quartiere, e attraverso le strade del mercato dove ogni via commercia in un solo prodotto. Segue Fort, con la vecchia torre dell'orologio del faro che una volta guidava le navi prima che gli edifici intorno crescessero troppo.\n\nLa camminata si conclude a Galle Face Green, il lungo lungomare dell'epoca coloniale allestito lungo il mare. Nel tardo pomeriggio compaiono i venditori di aquiloni e i carretti di isso wade, che vendono frittelle di gamberetti fritte a chi aspetta il tramonto. Essendo privato, il tour si adatta ai tuoi interessi, quindi dì alla tua guida all'inizio se vuoi più storia, più cibo o più tempo in un solo posto.",
+  "highlights": [],
+  "included": [
+   "Guida locale privata in inglese per tre ore",
+   "Brevi trasferimenti locali tra i quartieri dove necessario",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Il ritiro e il riaccompagno in hotel",
+   "I biglietti d'ingresso e le offerte ai templi",
+   "Il cibo e le bevande",
+   "Le mance"
+  ]
+ },
+ "colombo-highlights-guided-half-day-city-tour-car": {
+  "title": "Colombo: Tour Guidato dei Punti Salienti di Mezza Giornata in Auto",
+  "metaTitle": "Colombo: Tour di Mezza Giornata in Auto",
+  "metaDescription": "Tre ore in auto tra i principali luoghi della capitale dello Sri Lanka, da Independence Square e il Tempio Gangaramaya al vecchio faro e alle strade di Pettah.",
+  "shortDescription": "Tre ore in auto tra i principali luoghi della capitale dello Sri Lanka, da Independence Square e il Tempio Gangaramaya al vecchio faro e alle strade di Pettah.",
+  "fullDescription": "Colombo non si concede rapidamente. È estesa, i suoi monumenti si trovano a diversi chilometri l'uno dall'altro, e il traffico tra essi può consumare un intero pomeriggio. Questo giro di mezza giornata è pensato per chi ha una mattina o un pomeriggio liberi, e copre il terreno che una prima visita richiede senza pretendere che tu possa farlo a piedi.\n\nSi parte da Colombo 7, il quartiere tranquillo e alberato che gli inglesi disegnarono come Cinnamon Gardens. Qui si trova Independence Square, una sala di pietra sostenuta da colonne scolpite per segnare il passaggio del 1948 dal dominio britannico, e resta il luogo dove Colombo viene a passeggiare la sera. Il Viharamahadevi Park è lì vicino, con il vecchio municipio sul suo margine, e la sala commemorativa della conferenza Bandaranaike è a pochi minuti di auto.\n\nIl Tempio Gangaramaya ottiene la sosta più lunga della mattinata, e la merita. Il tempio è al tempo stesso un monastero attivo, una biblioteca e un museo leggermente caotico, e i suoi edifici prendono in prestito design dello Sri Lanka, thailandesi, indiani e cinesi senza stabilirsi su nessuno. Aspettati auto d'epoca, reliquie accumulate, una collezione di zanne d'elefante e una grande quantità di dorature.\n\nDa lì il percorso scende verso l'acqua e nella città più antica. Si passa per il tempio hindu Sri Kaileswaram e la Lotus Tower, poi si scende a Fort e Pettah, dove gli strati portuali portoghesi, olandesi e britannici sono ancora leggibili nella pianta delle strade. La moschea a fasce rosse e bianche Jami Ul-Alfar del 1908, la stazione ferroviaria di Colombo Fort e la vecchia torre dell'orologio del faro sono le ultime soste prima di tornare.\n\nLa tua guida guida e narra, il che significa che il ritmo è flessibile. Dillo in anticipo se preferisci scambiare una sosta fotografica con più tempo in un tempio o una camminata nelle vie del mercato, e nella maggior parte dei casi si può organizzare. Il tour termina al tuo hotel.",
+  "highlights": [],
+  "included": [
+   "Auto con aria condizionata, carburante e parcheggio",
+   "Driver-guida in inglese",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso ai templi e ai monumenti",
+   "Il cibo e le bevande",
+   "Le tariffe fotografiche nei siti religiosi",
+   "Le mance",
+   "Lo shopping personale"
+  ]
+ },
+ "colombo-jet-ski-ride-thermopylae-sierra-shipwreck": {
+  "title": "Colombo: Giro in Jet Ski al Relitto della Thermopylae Sierra",
+  "metaTitle": "Colombo: Jet Ski al Relitto Thermopylae Sierra",
+  "metaDescription": "Un giro guidato in jet ski lungo la costa di Colombo fino al relitto semisommerso della Thermopylae Sierra, con briefing e una guida a fianco.",
+  "shortDescription": "Un giro guidato in jet ski lungo la costa di Colombo fino al relitto semisommerso della Thermopylae Sierra, con briefing e una guida a fianco.",
+  "fullDescription": "La Thermopylae Sierra si incagliò al largo di Colombo e non si è più mossa. Parte dello scafo resta ancora fuori dall'acqua, il che la rende uno dei pochissimi relitti dello Sri Lanka a cui si può arrivare in superficie piuttosto che immergersi. Questo giro è una corsa guidata in jet ski fino al relitto e ritorno lungo la costa di Mount Lavinia.\n\nSi inizia a terra con un briefing: acceleratore e sterzo, il cavo salvavita al polso, come si comporta la moto quando si rilascia la potenza e le regole per restare in formazione dietro la guida. Non serve alcuna patente né esperienza precedente, ma occorre seguire la guida in testa, perché il percorso attraversa acque usate dai pescatori di Colombo.\n\nIl tragitto verso il relitto dura circa venticinque o trenta minuti a tratta, secondo il mare. Ci si avvicina abbastanza da vedere le lamiere, la ruggine e il moto dell'acqua nella struttura esposta, con il tempo di spegnere i motori e fare fotografie prima di tornare. Gli uccelli marini lo usano come posatoio, e nelle giornate limpide si vede quanto dello scafo resta sotto la superficie.\n\nDue ore coprono tutto: il briefing, la vestizione, l'andata, il tempo al relitto, il ritorno e l'asciugatura. Il tempo effettivo sulla moto è decisamente inferiore, ed è bene aspettarselo.\n\nLo stato del mare governa tutto qui. I mesi più secchi, da novembre ad aprile circa, danno l'acqua più calma e la maggior probabilità di svolgersi nei tempi previsti. Durante il monsone sudoccidentale, da maggio a settembre circa, il moto ondoso lungo questa costa costringe spesso a rinviare i giri, e un operatore responsabile cancella piuttosto che spingere una jet ski in mare cattivo.\n\nSi va con un giubbotto di salvataggio e la guida resta sempre in vista. Aspettati di bagnarti completamente.",
+  "highlights": [],
+  "included": [
+   "Noleggio della jet ski e carburante",
+   "Giro guidato con una guida in testa",
+   "Briefing di sicurezza",
+   "Giubbotto di salvataggio e cavo salvavita",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Il ritiro e il riaccompagno in hotel",
+   "Foto e video",
+   "Gli asciugamani",
+   "I pasti",
+   "Le mance",
+   "L'assicurazione di viaggio",
+   "L'eventuale franchigia per danni"
+  ]
+ },
+ "colombo-landmarks-tuk-tuk-private-tour-entry-tickets": {
+  "title": "Colombo: Tour Privato in Tuk-Tuk con Biglietti d'Ingresso Inclusi",
+  "metaTitle": "Colombo: Tour Privato in Tuk-Tuk",
+  "metaDescription": "Un tour privato di quattro ore in tuk-tuk tra oltre diciotto luoghi di Colombo con una guida locale, biglietti d'ingresso inclusi, ritiro in hotel o al porto.",
+  "shortDescription": "Un tour privato di quattro ore in tuk-tuk tra oltre diciotto luoghi di Colombo con una guida locale, biglietti d'ingresso inclusi, ritiro in hotel o al porto.",
+  "fullDescription": "Quattro ore e un tuk-tuk coprono una quantità sorprendente di Colombo, perché un tre ruote va dove le auto fanno coda e si ferma dove gli autobus non possono. Questo tour privato lega insieme più di diciotto luoghi tra Fort, Pettah, Slave Island e Cinnamon Gardens, con i biglietti d'ingresso già compresi.\n\nIl tour inizia nei pressi del lago Beira al Gangaramaya, un monastero che raccoglie di tutto: reliquie, auto d'epoca, doni dei pellegrini e architettura presa in prestito da tradizioni dello Sri Lanka, thailandesi, indiane e cinesi insieme. Da lì si passa per il Viharamahadevi Park, il municipio a cupola e Independence Square, dove la sala commemorativa del 1948 segna la fine del dominio britannico e riprende la sala delle udienze dei re di Kandy.\n\nSegue Galle Face Green, il lungo lungomare coloniale, e dietro di esso il vecchio edificio del parlamento. Poi il tour entra nella città operosa: il mercato flottante di Pettah sul canale, le strade coperte del mercato dove ogni via commercia in un solo prodotto, la torre campanaria dell'epoca olandese e la moschea a fasce Jami Ul-Alfar del 1908 che è diventata l'emblema del quartiere.\n\nFort è l'ultimo quartiere, con gli strati portoghese, olandese e britannico del porto in un solo chilometro quadrato: il vecchio faro e la torre dell'orologio, il museo marittimo in un edificio olandese, le case bancarie coloniali e il tempio hindu Sri Kailawasanatan. La Lotus Tower è la controparte moderna, e una sosta da un commerciante di tè permette di assaggiare il tè di Ceylon.\n\nEssendo il tour privato, il ritmo è il tuo. I passeggeri delle crociere sono gran parte di chi lo prenota, quindi l'operatore lavora secondo gli orari della nave e ti riporterà al terminal con margine; comunica al momento della prenotazione il tuo orario di rientro a bordo. Il ritiro in hotel ovunque a Colombo è incluso.",
+  "highlights": [],
+  "included": [
+   "Tuk-tuk privato con driver",
+   "Guida in inglese",
+   "Biglietti d'ingresso per i siti del percorso",
+   "Ritiro e riaccompagno in hotel o al terminal delle crociere",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Il cibo e le bevande",
+   "Gli acquisti di tè o souvenir",
+   "Le mance",
+   "Qualsiasi cosa fuori dal percorso standard"
+  ]
+ },
+ "colombo-port-city-guided-canoeing-session": {
+  "title": "Colombo Port City: Sessione Guidata di Canoa",
+  "metaTitle": "Colombo Port City: Sessione di Canoa",
+  "metaDescription": "Un'ora di canoa guidata nelle acque protette di Colombo Port City, con istruzione e attrezzatura forniti, adatta anche ai principianti assoluti.",
+  "shortDescription": "Un'ora di canoa guidata nelle acque protette di Colombo Port City, con istruzione e attrezzatura forniti, adatta anche ai principianti assoluti.",
+  "fullDescription": "Port City è la parte più nuova di Colombo, un tratto di terra riconquistato al mare lungo Galle Face nell'ultimo decennio, e le sue acque protette sono diventate il luogo più semplice della città per salire su una pagaia. Questa sessione offre un'ora in canoa con un istruttore a disposizione.\n\nUna canoa si pagaia con una sola pala, diversamente dalla doppia pala del kayak, il che significa che la tecnica è un po' diversa e richiede qualche minuto per abituarsi. L'istruttore spiega prima le basi a terra: come sedersi, come tenere la pala, la bracciata avanti e la bracciata ampia che fa girare, e cosa fare nel caso improbabile di finire in acqua. Dopo, l'ora è tua per pagaiare.\n\nL'acqua qui è protetta dal mare aperto, quindi le condizioni sono calme e prevedibili in un modo che la spiaggia al largo di Galle Face non è. Questo la rende un posto ragionevole per provare la canoa per la prima volta, e una scelta semplice per portarci bambini più grandi. I giubbotti di salvataggio si indossano sempre e il personale resta sull'acqua.\n\nL'ambientazione è particolare: si pagaia con lo skyline di Colombo da un lato e nuove costruzioni dall'altro, in una parte della città che non esisteva un decennio fa. Il tardo pomeriggio è il momento più piacevole, quando il caldo è sceso e la luce sulle torri merita una fotocamera.\n\nÈ un'attività breve e autonoma piuttosto che un tour della città, e si accompagna bene a una passeggiata lungo Galle Face Green dopo, per i carretti di cibo serali.",
+  "highlights": [],
+  "included": [
+   "Uso di una canoa e pagaia",
+   "Giubbotto di salvataggio",
+   "Briefing di sicurezza e istruzione",
+   "Supervisione in acqua per tutta la sessione"
+  ],
+  "notIncluded": [
+   "I trasferimenti in hotel",
+   "Il cibo e le bevande",
+   "Gli asciugamani",
+   "Le strutture per cambiarsi oltre quelle in loco",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "colombo-port-city-snorkelling-session-beginners": {
+  "title": "Colombo Port City: Sessione di Snorkeling per Principianti",
+  "metaTitle": "Colombo Port City: Snorkeling per Principianti",
+  "metaDescription": "Una sessione guidata di snorkeling di un'ora nelle acque protette del lungomare di Port City a Colombo, pensata per chi lo prova per la prima volta.",
+  "shortDescription": "Una sessione guidata di snorkeling di un'ora nelle acque protette del lungomare di Port City a Colombo, pensata per chi lo prova per la prima volta.",
+  "fullDescription": "Colombo non è una destinazione da barriera corallina, e questa sessione è onesta su cosa offre: una breve nuotata con snorkel supervisionata nelle acque protette del lungomare riconquistato di Port City, pensata per chi vuole provare una maschera e uno snorkel per la prima volta o riempire un'ora sulla costa senza lasciare la città.\n\nUna guida ti sistema la maschera, ti mostra come svuotarla e come respirare con lo snorkel senza inghiottire mezzo oceano Indiano, poi ti porta sulle acque basse in piccolo gruppo. A nessuno viene chiesto di immergersi in apnea o di nuotare per una distanza. Se non hai mai avuto il viso in acqua prima, questa è l'introduzione più dolce possibile, e la guida resta in acqua con te per tutto il tempo.\n\nCiò che vedi dipende interamente dalla giornata. L'acqua al largo di Colombo trasporta sedimenti dal porto e dai fiumi, quindi la visibilità oscilla tra buona e scarsa. In una mattinata limpida vedi piccoli pesci di scogliera e di detriti sulla struttura cresciuta sui frangiflutti. In una giornata torbida hai un nuoto e una lezione. Chi spera in giardini di corallo dovrebbe prenotare la costa orientale, e l'operatore lo dirà lo stesso.\n\nIl vantaggio di questa sessione è la comodità e la stagione. È a pochi minuti dagli hotel del centro di Colombo, ha fasce orarie fisse e brevi che si inseriscono bene in una giornata in città, e non richiede certificazioni, moduli medici o esperienza.\n\nLe condizioni migliori sono nei mesi più secchi, da novembre ad aprile circa. Durante il monsone sudoccidentale, da maggio a settembre circa, il moto ondoso lungo questa costa aumenta e le sessioni vengono spesso rinviate per motivi di sicurezza piuttosto che svolte in acque cattive.\n\nPorta un costume da bagno, aspettati di essere di nuovo a terra entro l'ora, e trattala come un assaggio piuttosto che come il momento centrale di un viaggio in Sri Lanka.",
+  "highlights": [],
+  "included": [
+   "Guida di snorkeling",
+   "Maschera, snorkel e pinne",
+   "Giubbotto galleggiante su richiesta",
+   "Briefing di sicurezza",
+   "Acqua potabile"
+  ],
+  "notIncluded": [
+   "Il ritiro e il riaccompagno in hotel",
+   "Gli asciugamani",
+   "Le fotografie",
+   "I pasti",
+   "Le mance",
+   "L'assicurazione di viaggio"
+  ]
+ },
+ "colombo-sightseeing-tour-tuk-tuk-hotel-pickup": {
+  "title": "Colombo: Tour Turistico in Tuk-Tuk con Ritiro in Hotel",
+  "metaTitle": "Colombo: Tour Turistico in Tuk-Tuk",
+  "metaDescription": "Tre ore a Colombo sul sedile di un tuk-tuk, tra la Moschea Rossa di Pettah, la stazione ferroviaria di Fort, il Tempio Gangaramaya e Independence Square.",
+  "shortDescription": "Tre ore a Colombo sul sedile di un tuk-tuk, tra la Moschea Rossa di Pettah, la stazione ferroviaria di Fort, il Tempio Gangaramaya e Independence Square, con ritiro in hotel incluso.",
+  "fullDescription": "Questo è un tour in tuk-tuk, e vale la pena dire chiaramente cosa significa. Ti siedi sul sedile posteriore di un tre ruote con i lati aperti, il tuo driver fa anche da guida, e attraversi il traffico di Colombo al suo stesso livello piuttosto che sopra di esso. Fa caldo, è rumoroso, ed entra in vicoli in cui un'auto semplicemente non può girare. Per le prime tre ore in città, è un buono scambio.\n\nIl percorso si apre a Pettah con la moschea Jami Ul-Alfar, costruita nel 1908 in mattoni a fasce rosse e bianche e conosciuta da tutti come la Moschea Rossa. Le strade circostanti sono il quartiere di mercato più antico della città, e ognuna si specializza: tessuti in una, ferramenta nella successiva, pesce secco e spezie più avanti. Segue la stazione ferroviaria di Fort, il capolinea costruito dai britannici che gestisce ancora le linee dell'altopiano, e poi il kovil Sri Kailawasanathan Swami Devasthanam, un tempio hindu attivo con il gopuram scolpito che dà a Fort la sua facciata più colorata.\n\nIl Tempio Gangaramaya ottiene la sosta più lunga, circa tre quarti d'ora. È un luogo davvero singolare: l'architettura prende da tradizioni dello Sri Lanka, thailandesi, indiane e cinesi tutte insieme in un solo complesso, e le sale del museo custodiscono decenni di donazioni, dall'avorio e dalla giada intagliati a un'auto d'epoca parcheggiata tra le statue.\n\nL'ultima parte copre la città civica moderna. La Lotus Tower e la Bandaranaike Memorial International Conference Hall sono soste fotografiche, e Independence Square è dove il tour di solito termina, al padiglione costruito per segnare il passaggio del 1948 dal dominio britannico e modellato su una sala delle udienze reale di Kandy.\n\nTre ore bastano per lasciarti orientato piuttosto che esausto, e funziona bene in un primo giorno quando vuoi un'idea della città prima di decidere dove tornare a piedi.",
+  "highlights": [],
+  "included": [
+   "Tuk-tuk con driver-guida per tre ore",
+   "Ritiro e riaccompagno in hotel a Colombo",
+   "Tutte le soste e i passaggi lungo il percorso"
+  ],
+  "notIncluded": [
+   "I biglietti d'ingresso e le tariffe fotografiche dove previste",
+   "Il cibo e le bevande",
+   "Gli acquisti di souvenir",
+   "Le mance",
+   "Le spese personali"
+  ]
+ },
+ "colombo-street-food-tuk-tuk-guided-tasting-tour": {
+  "title": "Colombo: Tour Gastronomico Guidato in Tuk-Tuk",
+  "metaTitle": "Colombo: Tour Gastronomico in Tuk-Tuk",
+  "metaDescription": "Tre ore mangiando per Colombo in tuk-tuk, dagli hopper e il kottu roti al granchio con pittu, con tutti gli assaggi inclusi.",
+  "shortDescription": "Tre ore mangiando per Colombo in tuk-tuk, dagli hopper e il kottu roti al granchio con pittu, con tutti gli assaggi inclusi.",
+  "fullDescription": "La cucina dello Sri Lanka non è cucina indiana, e Colombo è il posto più rapido per imparare la differenza. L'isola cucina con il cocco in quasi tutto, usa curry in polvere tostata piuttosto che grezza, si affida al pesce maldiviano, al pandan e alla foglia di curry, e tratta il riso come base per otto o nove piccoli piatti. Tre ore e un tuk-tuk ti fanno attraversare più di questo mondo di quanto farebbe una settimana di colazioni in hotel.\n\nIl tour si basa su assaggi piuttosto che su un unico pasto seduto, che è come mangia davvero la città. Gli hopper sono la prima cosa da provare: un impasto di farina di riso fermentata girato a formare una frittella a scodella, croccante sul bordo e morbida al centro, di solito con un uovo rotto dentro e un cucchiaio di lunu miris, il sambol crudo di cipolla e peperoncino. Il kottu roti è quello rumoroso, roti godamba tagliato su una piastra con verdure, uova o carne, e lo senti dalle lame di metallo molto prima di vederlo.\n\nIl granchio con pittu sorprende le persone. Il pittu è farina di riso e cocco cotti al vapore e pressati in un cilindro, l'accompagnamento tradizionale del granchio di laguna che ha reso famosi i frutti di mare dello Sri Lanka all'estero. Lungo il percorso ci sono gli short eats, gli spuntini venduti nelle vetrine di ogni sala da tè, e il watalappan, un budino di jaggery e cocco della comunità malese.\n\nGalle Face Green è una delle soste. Il lungomare risale al periodo coloniale, e verso sera i carretti compaiono lungo di esso vendendo isso wade, frittelle di lenticchie fritte coperte di gamberetti interi, mangiate in piedi con il mare davanti. È street food nel senso più letterale.\n\nLa tua guida spiega cos'è ogni piatto e da dove viene, cosa che conta in una cucina modellata dall'influenza singalese, tamil, musulmana, malese, portoghese e olandese. Tutto il cibo del percorso è incluso, e il ritiro e il riaccompagno sono inclusi ovunque a Colombo. Vieni affamato.",
+  "highlights": [],
+  "included": [
+   "Tutti gli assaggi di cibo lungo il percorso",
+   "Tuk-tuk privato con driver",
+   "Guida gastronomica in inglese",
+   "Ritiro e riaccompagno a Colombo",
+   "Acqua in bottiglia"
+  ],
+  "notIncluded": [
+   "Le bevande alcoliche",
+   "I piatti aggiuntivi ordinati fuori dagli assaggi previsti",
+   "Le mance",
+   "I souvenir"
+  ]
+ },
+ "colombo-street-food-walking-tour-local-guide": {
+  "title": "Colombo: Tour del Cibo di Strada a Piedi con una Guida Locale",
+  "metaTitle": "Colombo: Cibo di Strada a Piedi",
+  "metaDescription": "Tre ore a piedi nel centro di Colombo con una guida locale, mangiando short eats, kottu e spuntini di strada nelle vie di Fort e Pettah.",
+  "shortDescription": "Tre ore a piedi nel centro di Colombo con una guida locale, mangiando short eats, kottu e spuntini di strada nelle vie di Fort e Pettah.",
+  "fullDescription": "Questo tour si fa a piedi, che è il modo giusto di mangiare Colombo. Il tour parte dal quartiere di Fort e Pettah, la parte commerciale più antica della città, e copre circa tre ore tra bancarelle, sale da tè e strade del cibo con una guida che vive qui.\n\nLa geografia spiega il cibo. Fort era il quartiere amministrativo portoghese, poi olandese, poi britannico, e Pettah, appena fuori dalle sue mura, era dove commerciava tutto il resto. Pettah è ancora organizzata così: ogni strada vende più o meno una sola cosa, quindi c'è una strada per la ferramenta, una per i tessuti, una per il pesce secco e le spezie. Mangiare attraverso di essa significa camminare attraverso tutte queste.\n\nCosa mangi dipende dalla giornata e da cosa esce dalla padella, ma lo scheletro resta costante. Short eats, i rollini, le cotolette e le paste fritte che si trovano in ogni vetrina del paese. Il kottu roti tagliato su una piastra con due lame. Vadai e dosai dal versante tamil della cucina della città. Il tè versato da un'altezza tra due tazze di metallo. Da qualche parte lungo il percorso, una bancarella che prepara un solo piatto da quarant'anni.\n\nIl percorso passa anche per la storia fisica: il Dutch Hospital, l'edificio più antico di Fort e ora un cortile di ristoranti, e la moschea Jami Ul-Alfar del 1908 con i suoi mattoni a fasce rosse e bianche, l'edificio che tutti fotografano a Pettah senza sapere cosa sia.\n\nÈ un tour a piedi in una parte della città calda, affollata e operosa, ed è rumoroso. Questo è il punto. Affrontalo con scarpe comode e affamato, e chiedi alla guida il livello di piccantezza prima di impegnarti con qualcosa che ha un sambol rosso a fianco.",
+  "highlights": [],
+  "included": [
+   "Guida locale in inglese per tre ore",
+   "Assaggi di cibo lungo il percorso",
+   "Bevande alle soste per il tè"
+  ],
+  "notIncluded": [
+   "Il ritiro e il riaccompagno in hotel",
+   "Il cibo e le bevande aggiuntivi acquistati fuori dal percorso",
+   "L'alcol",
+   "Le mance",
+   "Le spese personali"
   ]
  },
  "flyboard-experience-in-pattaya": {
