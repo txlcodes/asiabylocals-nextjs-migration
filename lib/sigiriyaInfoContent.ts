@@ -1170,6 +1170,90 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-loris-exploration-worth-it-sigiriya":
+      return {
+        title: "Is the Loris Exploration with a Local Guide Worth It in Sigiriya?",
+        description: "An honest look at the nocturnal loris spotting tour with a local guide near Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1396698/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The slender loris is a genuinely rare, nocturnal primate that most visitors never see even on a standard safari, and a dedicated local guide with experience finding them in the dark gives a real shot at spotting one, distinct from the jeep-based wildlife safaris around Sigiriya.",
+            tourCard: { slug: "sigiriya-loris-exploration-with-local-guide", title: "Sigiriya Loris Exploration with local Guide", description: "A guided nocturnal search for the slender loris near Sigiriya.", price: "From $43", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1396698/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear dark, comfortable clothing and bring a torch if your guide doesn't provide one — sightings aren't guaranteed since lorises are genuinely elusive.",
+          },
+        ],
+        faqs: [
+          { q: "Is the loris exploration worth it in Sigiriya?", a: "Yes, for a real shot at spotting a genuinely rare nocturnal primate most visitors never see, though sightings aren't guaranteed." },
+        ],
+      };
+
+    case "is-coconut-shell-bamboo-workshop-worth-it-sigiriya":
+      return {
+        title: "Is the Coconut Shell and Bamboo Crafting Workshop Worth It in Sigiriya?",
+        description: "An honest look at the coconut shell and bamboo crafting workshop in Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1265412/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Turning coconut shells and bamboo into genuinely usable craft items is a short, hands-on way to see traditional rural resourcefulness in action, distinct from the batik and mask-painting workshops focused on decorative art.",
+            tourCard: { slug: "sigiriya-coconut-shell-bamboo-crafting-workshop", title: "Sigiriya: Coconut Shell & Bamboo Crafting Workshop", description: "A hands-on coconut shell and bamboo crafting workshop.", price: "From $60", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1265412/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "At just 30 minutes, this is a quick add-on — pair it with a village tour or another activity rather than booking it alone.",
+          },
+        ],
+        faqs: [
+          { q: "Is the coconut shell and bamboo crafting workshop worth it in Sigiriya?", a: "Yes, as a short, genuine look at rural resourcefulness, best paired with another activity given its brief length." },
+        ],
+      };
+
+    case "is-mask-painting-workshop-worth-it-sigiriya":
+      return {
+        title: "Is the Traditional Mask Painting Workshop Worth It in Sigiriya?",
+        description: "An honest look at the traditional mask painting workshop with artisans in Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1422056/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lankan masks carry genuine ritual and folklore symbolism tied to traditional dance and devil-dancing ceremonies, and painting one under an artisan's guidance gives real context for a craft that's otherwise just a souvenir shelf item.",
+            tourCard: { slug: "sigiriya-traditional-mask-painting-workshop-with", title: "Sigiriya: Traditional Mask Painting Workshop with Artisans", description: "A traditional mask painting workshop guided by local artisans.", price: "From $77", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1422056/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the artisan about the specific symbolism of your chosen mask design — the folklore behind it is the real value here.",
+          },
+        ],
+        faqs: [
+          { q: "Is the mask painting workshop worth it in Sigiriya?", a: "Yes, for genuine ritual and folklore context behind a craft that's otherwise just a souvenir shop item." },
+        ],
+      };
+
+    case "is-village-lake-swimming-worth-it-sigiriya":
+      return {
+        title: "Is the Village Lake Swimming Experience Worth It in Sigiriya?",
+        description: "An honest look at the village lake swimming experience near Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Swimming in a genuine village lake, often alongside local kids and buffaloes cooling off, is a low-key, affordable way to beat the heat after a hot morning of rock climbing or safari, distinct from the more structured boat and canoe experiences elsewhere in Sigiriya.",
+            tourCard: { slug: "sigiriya-village-lake-swimming-experience", title: "Sigiriya: Village Lake swimming experience", description: "A village lake swimming experience near Sigiriya.", price: "From $17", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes and reef-safe sunscreen — this is a genuine casual village swim, not a resort pool.",
+          },
+        ],
+        faqs: [
+          { q: "Is the village lake swimming experience worth it in Sigiriya?", a: "Yes, as a low-key, affordable way to cool off after a hot day of sightseeing, with a genuine local village atmosphere." },
+        ],
+      };
+
     default:
       return null;
   }
