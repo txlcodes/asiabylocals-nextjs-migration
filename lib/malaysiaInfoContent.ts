@@ -4071,6 +4071,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-pewter-workshop-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Pewter Workshop at Royal Selangor Worth It in Kuala Lumpur?",
+                description: "An honest look at the hands-on pewter workshop at the Royal Selangor Gallery in Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1251218/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Royal Selangor is a genuinely well-known Malaysian pewter brand with over a century of history, and a hands-on workshop at the gallery lets you shape your own piece rather than just buying a finished one in the gift shop.", tourCard: { slug: "kuala-lumpur-pewter-workshop-at-royal-selangor", title: "Kuala Lumpur: Pewter Workshop at Royal Selangor Gallery", description: "A hands-on pewter-making workshop at the Royal Selangor Gallery.", price: "From $36", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1251218/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "At just 30 minutes, this is a quick add-on — pair it with browsing the gallery's full showroom while you're there." }
+                ],
+                faqs: [
+                    { q: "Is the Royal Selangor pewter workshop worth it in Kuala Lumpur?", a: "Yes, for a quick, genuine hands-on craft experience with a well-known heritage Malaysian brand, and you keep what you make." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the pewter workshop worth it in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a quick, genuine hands-on craft experience with a well-known heritage brand." } }
+                ] },
+            };
+
+        case "is-multi-faith-heritage-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Multi-Faith Heritage Tour Worth It in Kuala Lumpur?",
+                description: "An honest look at Kuala Lumpur's multi-faith heritage tour, visiting places of worship from different religious traditions.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1377425/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "KL's genuinely multicultural population means mosques, temples, and churches sit close together in the city center, and a guided tour connecting several of them gives real insight into how Malaysia's different faiths coexist, distinct from a single-site religious visit.", tourCard: { slug: "kuala-lumpur-multi-faith-heritage-tour", title: "Kuala Lumpur: Multi-Faith Heritage Tour", description: "A guided heritage tour visiting places of worship from multiple faiths in Kuala Lumpur.", price: "From $32", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1377425/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for all the sites visited, since dress codes vary by place of worship on the same route." }
+                ],
+                faqs: [
+                    { q: "Is the multi-faith heritage tour worth it in Kuala Lumpur?", a: "Yes, for genuine insight into how the city's different religious communities coexist, distinct from visiting just one site." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the multi-faith heritage tour worth it in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine insight into how the city's diverse religious communities coexist." } }
+                ] },
+            };
+
+        case "is-durian-academy-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the DurianBB Academy Tour Worth It in Kuala Lumpur?",
+                description: "An honest look at the DurianBB Academy tour with tasting and games in Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1420782/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Durian is a genuinely polarizing fruit for first-timers, and a guided academy session teaches how to pick, open, and taste different varieties properly, which makes a real difference compared to blindly trying it from a street stall.", tourCard: { slug: "kuala-lumpur-durianbb-academy-tour-with-tasting", title: "Kuala Lumpur: DurianBB Academy Tour with Tasting & Games", description: "A guided durian tasting academy tour with games in Kuala Lumpur.", price: "From $47", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1420782/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go in with an open mind — durian's smell is intense, but the guided format genuinely helps first-timers appreciate the flavor properly." }
+                ],
+                faqs: [
+                    { q: "Is the DurianBB Academy tour worth it in Kuala Lumpur?", a: "Yes, especially for first-timers — the guided format makes a real difference compared to trying durian blindly at a street stall." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the durian academy tour worth it in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for first-timers wanting a proper guided introduction to the fruit." } }
+                ] },
+            };
+
+        case "is-kampung-baru-walking-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kampung Baru Walking Tour with Dinner Worth It in Kuala Lumpur?",
+                description: "An honest look at the Kampung Baru walking tour with dinner in Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1373135/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kampung Baru is a genuine traditional Malay village enclave sitting right against the city's modern skyscrapers, including views of the Petronas Towers, giving a striking contrast between old wooden houses and glass towers you won't find in the city's other heritage walks.", tourCard: { slug: "kuala-lumpur-kampung-baru-walking-tour-with-dinner", title: "Kuala Lumpur: Kampung Baru Walking Tour with Dinner", description: "A walking tour of the Kampung Baru traditional village enclave with dinner.", price: "From $76", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1373135/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Time it for dusk to catch the contrast between the traditional village and the lit-up modern skyline at its most striking." }
+                ],
+                faqs: [
+                    { q: "Is the Kampung Baru walking tour worth it in Kuala Lumpur?", a: "Yes, for a striking contrast between a genuine traditional Malay village and the modern skyline, not found on the city's other heritage walks." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kampung Baru walking tour worth it in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a striking contrast between a traditional village enclave and the modern skyline." } }
+                ] },
+            };
+
         case "is-spice-garden-cooking-class-worth-it-penang":
             return {
                 title: "Is the Tropical Spice Garden Cooking Class Worth It in Penang?",
