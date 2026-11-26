@@ -781,6 +781,74 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-mother-armenia-wwii-tour-worth-it-yerevan":
+            return {
+                title: "Is the Mother Armenia and WWII History Tour Worth It in Yerevan?",
+                description: "An honest look at the Mother Armenia statue and WWII history tour in Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e5084b5ee9cad13c63bf691203915dc94fa0dc69a4007e0f7179a6c9210dbe0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Mother Armenia statue, standing on a hilltop where a Stalin monument once stood, anchors a genuinely significant WWII and Soviet history site with good panoramic city views, distinct from the monastery-and-temple circuit that dominates most Yerevan day trips.", tourCard: { slug: "yerevan-mother-armenia-and-wwii-history-tour", title: "Yerevan: Mother Armenia and WWII History Tour", description: "A guided tour of the Mother Armenia statue and WWII history museum.", price: "From $45", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1e5084b5ee9cad13c63bf691203915dc94fa0dc69a4007e0f7179a6c9210dbe0.jpeg" } },
+                    { title: "Practical Tips", content: "Climb up to the statue's base for the best panoramic views over Yerevan." }
+                ],
+                faqs: [
+                    { q: "Is the Mother Armenia and WWII history tour worth it in Yerevan?", a: "Yes, for a genuinely significant Soviet and WWII history site, distinct from the city's monastery-and-temple day trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Mother Armenia tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a significant WWII and Soviet history site with good panoramic views." } }
+                ] },
+            };
+
+        case "is-kond-neighborhood-walking-tour-worth-it-yerevan":
+            return {
+                title: "Is the Kond Neighborhood Walking Tour Worth It in Yerevan?",
+                description: "An honest look at the Kond neighborhood walking tour with a local guide in Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ca918a6ecb70f343d2ec79309cc143049b838037e8bacd12b11e42f39b868395.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kond is Yerevan's oldest surviving neighborhood, a genuine maze of old stone houses that largely escaped Soviet-era redevelopment, giving a distinctly different architectural character from the city's planned central boulevards.", tourCard: { slug: "yerevan-kond-neighborhood-walking-tour-with-local", title: "Yerevan: Kond Neighborhood Walking Tour with Local Guide", description: "A walking tour of the historic Kond neighborhood with a local guide.", price: "From $39", duration: "Flexible", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ca918a6ecb70f343d2ec79309cc143049b838037e8bacd12b11e42f39b868395.jpg" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes — the neighborhood's narrow, uneven old streets are genuinely different terrain from the city's planned central boulevards." }
+                ],
+                faqs: [
+                    { q: "Is the Kond neighborhood walking tour worth it in Yerevan?", a: "Yes, for the city's oldest surviving neighborhood, with a distinctly different character from the central boulevards." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kond neighborhood tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the city's oldest surviving neighborhood and a distinctly different architectural character." } }
+                ] },
+            };
+
+        case "is-carpet-factory-weaving-workshop-worth-it-yerevan":
+            return {
+                title: "Is the Yerevan Carpet Factory Tour with Weaving Workshop Worth It?",
+                description: "An honest look at the Yerevan carpet factory tour with a hands-on weaving workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fc2a6e5cc8b1c2202defc691e69d2a443ccd2b3762506f8bd1505e7ecb98c783.png",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting an actual working carpet factory and trying the weaving technique hands-on gives genuinely practical context beyond the Carpet Museum's curated historical display, showing how the craft is still made today.", tourCard: { slug: "yerevan-carpet-factory-tour-with-weaving-workshop", title: "Yerevan Carpet Factory Tour with Weaving Workshop Experience", description: "A carpet factory tour with a hands-on weaving workshop in Yerevan.", price: "From $64", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fc2a6e5cc8b1c2202defc691e69d2a443ccd2b3762506f8bd1505e7ecb98c783.png" } },
+                    { title: "Practical Tips", content: "Pair it with the Carpet Museum if you want both the historical context and the hands-on, still-working-today version of the craft." }
+                ],
+                faqs: [
+                    { q: "Is the carpet factory tour worth it in Yerevan?", a: "Yes, for genuinely practical, hands-on context beyond the Carpet Museum's historical display." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the carpet factory tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for hands-on, practical context beyond the Carpet Museum's historical display." } }
+                ] },
+            };
+
+        case "is-letter-writing-ritual-worth-it-yerevan":
+            return {
+                title: "Is the Private Letter Writing Ritual Worth It in Yerevan?",
+                description: "An honest look at the private letter writing ritual experience in Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/134fa7db3809200f3f7bb787fbe56fa990cd46e90de9914522a8129cb9dfd112.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuinely quiet, reflective activity built around handwritten letter-writing, a distinct change of pace from Yerevan's sightseeing-heavy itinerary — worth it specifically for travelers wanting a slow, personal moment rather than another guided walk.", tourCard: { slug: "yerevan-a-private-letter-writing-ritual", title: "Yerevan: A Private Letter Writing Ritual", description: "A private, reflective letter writing ritual experience in Yerevan.", price: "From $85", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/134fa7db3809200f3f7bb787fbe56fa990cd46e90de9914522a8129cb9dfd112.jpeg" } },
+                    { title: "Practical Tips", content: "Go in with an open mind about slowing down — this is a reflective activity, not a sightseeing one." }
+                ],
+                faqs: [
+                    { q: "Is the letter writing ritual worth it in Yerevan?", a: "Yes, specifically for travelers wanting a slow, personal, reflective activity distinct from the city's sightseeing-heavy itinerary." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the letter writing ritual worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a slow, personal, reflective change of pace from sightseeing." } }
+                ] },
+            };
+
         default:
             return null;
     }

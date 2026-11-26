@@ -612,6 +612,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-erebuni-matenadaran-tour-worth-it-yerevan',
     'is-trchkan-waterfall-4x4-worth-it-yerevan', 'is-urbex-observatory-tour-worth-it-yerevan',
     'is-lavash-baking-class-worth-it-yerevan', 'is-taste-of-yerevan-tour-worth-it-yerevan',
+    'is-mother-armenia-wwii-tour-worth-it-yerevan', 'is-kond-neighborhood-walking-tour-worth-it-yerevan',
+    'is-carpet-factory-weaving-workshop-worth-it-yerevan', 'is-letter-writing-ritual-worth-it-yerevan',
   ], 'armenia', 'yerevan');
   const petraInfoPages = mapInfoSlugs([
     'best-petra-day-tour-from-amman', 'best-petra-wadi-rum-2-day-tour',

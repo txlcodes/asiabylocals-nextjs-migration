@@ -444,6 +444,8 @@ export const YEREVAN_INFO_SLUGS: string[] = [
   'is-erebuni-matenadaran-tour-worth-it-yerevan',
   'is-trchkan-waterfall-4x4-worth-it-yerevan', 'is-urbex-observatory-tour-worth-it-yerevan',
   'is-lavash-baking-class-worth-it-yerevan', 'is-taste-of-yerevan-tour-worth-it-yerevan',
+  'is-mother-armenia-wwii-tour-worth-it-yerevan', 'is-kond-neighborhood-walking-tour-worth-it-yerevan',
+  'is-carpet-factory-weaving-workshop-worth-it-yerevan', 'is-letter-writing-ritual-worth-it-yerevan',
 ];
 
 // Jordan launched 2026-11-19 with 507 live tours and zero authority pages.
