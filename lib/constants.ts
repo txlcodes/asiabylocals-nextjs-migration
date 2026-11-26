@@ -1774,6 +1774,8 @@ export const BENTOTA_INFO_SLUGS = [
   'is-ayurvedic-massage-worth-it-bentota', 'is-hikkaduwa-snorkeling-worth-it-bentota',
   'is-banana-boat-worth-it-bentota', 'is-fly-fish-worth-it-bentota',
   'is-lagoon-fishing-worth-it-bentota', 'is-speed-boat-ride-worth-it-bentota',
+  'is-river-kayaking-worth-it-bentota', 'is-polgampola-waterfall-tour-worth-it-bentota',
+  'is-private-village-tour-worth-it-bentota', 'is-beruwala-lighthouse-snorkeling-cruise-worth-it-bentota',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/mirissaInfoContent.ts.

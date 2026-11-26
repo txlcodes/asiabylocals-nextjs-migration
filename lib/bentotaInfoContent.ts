@@ -507,6 +507,90 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-river-kayaking-worth-it-bentota":
+      return {
+        title: "Is the Guided River Kayaking Tour Worth It in Bentota?",
+        description: "An honest look at the guided river kayaking tour with refreshments in Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1273139/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddling your own kayak gives a genuinely more active, self-powered way to explore Bentota's river than the motorized mangrove boat safaris that dominate most river tours here, with a quieter, slower pace that lets wildlife come closer.",
+            tourCard: { slug: "bentota-guided-river-kayaking-tour-with", title: "Bentota: Guided River Kayaking Tour with Refreshments", description: "A guided river kayaking tour with refreshments in Bentota.", price: "From $33", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1273139/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A reasonable fitness level helps for the paddling, though the pace is generally relaxed rather than strenuous.",
+          },
+        ],
+        faqs: [
+          { q: "Is the river kayaking tour worth it in Bentota?", a: "Yes, for a more active, self-powered alternative to the motorized mangrove boat safaris, with a quieter pace for spotting wildlife." },
+        ],
+      };
+
+    case "is-polgampola-waterfall-tour-worth-it-bentota":
+      return {
+        title: "Is the Polgampola Waterfall Tour by Tuk-Tuk Worth It from Bentota?",
+        description: "An honest look at the Polgampola waterfall tour by tuk-tuk from the Bentota area.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1173962/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Polgampola Waterfall is a genuinely less-visited inland escape from Bentota's river-and-beach circuit, and reaching it by tuk-tuk gives a more local, open-air approach than a standard air-conditioned van tour.",
+            tourCard: { slug: "polgampola-waterfall-tour-by-tuk-tuks-from", title: "Polgampola Waterfall Tour by Tuk Tuks From Bentota area", description: "A tuk-tuk tour to Polgampola Waterfall from the Bentota area.", price: "From $102", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1173962/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit — the waterfall is generally swimmable, and a cool dip is one of the trip's main draws.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Polgampola waterfall tour worth it from Bentota?", a: "Yes, for a genuinely less-visited inland escape from the river-and-beach circuit, with a swimmable waterfall as the payoff." },
+        ],
+      };
+
+    case "is-private-village-tour-worth-it-bentota":
+      return {
+        title: "Is the Private All-Inclusive Village Tour Worth It in Bentota?",
+        description: "An honest look at the private all-inclusive village tour in Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-819222/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives a genuine look at everyday rural Sri Lankan village life, distinct from Bentota's river-safari-and-beach tourist circuit, with the all-inclusive private format removing the hassle of arranging transport and stops separately.",
+            tourCard: { slug: "bentota-private-village-tour-all-inclusive", title: "Bentota Private Village Tour All-Inclusive", description: "A private, all-inclusive village tour in Bentota.", price: "From $77", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-819222/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for travelers who've already done the river safari and want genuine everyday village life instead.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private village tour worth it in Bentota?", a: "Yes, for a genuine look at everyday rural life, distinct from the river-safari-and-beach tourist circuit." },
+        ],
+      };
+
+    case "is-beruwala-lighthouse-snorkeling-cruise-worth-it-bentota":
+      return {
+        title: "Is the Snorkeling Boat Cruise to Beruwala Lighthouse Worth It from Bentota?",
+        description: "An honest look at the snorkeling boat cruise to Beruwala Lighthouse from Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1338416/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Beruwala Lighthouse gives a genuine landmark destination for the boat trip, pairing open-water snorkeling with a scenic stop, distinct from the river-based mangrove and wildlife boat safaris that dominate most Bentota water tours.",
+            tourCard: { slug: "bentota-snorkeling-boat-cruise-to-beruwala", title: "Bentota: Snorkeling Boat Cruise to Beruwala Lighthouse", description: "A snorkeling boat cruise to Beruwala Lighthouse from Bentota.", price: "From $192", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1338416/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check sea conditions before booking, since open-water snorkeling here depends more on weather than the calmer river-based tours.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Beruwala Lighthouse snorkeling cruise worth it from Bentota?", a: "Yes, for a genuine open-water landmark destination, distinct from the river-based mangrove and wildlife boat tours." },
+        ],
+      };
+
     default:
       return null;
   }

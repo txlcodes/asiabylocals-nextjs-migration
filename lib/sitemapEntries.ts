@@ -1891,6 +1891,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ayurvedic-massage-worth-it-bentota', 'is-hikkaduwa-snorkeling-worth-it-bentota',
     'is-banana-boat-worth-it-bentota', 'is-fly-fish-worth-it-bentota',
     'is-lagoon-fishing-worth-it-bentota', 'is-speed-boat-ride-worth-it-bentota',
+    'is-river-kayaking-worth-it-bentota', 'is-polgampola-waterfall-tour-worth-it-bentota',
+    'is-private-village-tour-worth-it-bentota', 'is-beruwala-lighthouse-snorkeling-cruise-worth-it-bentota',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/bentota/${slug}`,
     lastModified: new Date(),
