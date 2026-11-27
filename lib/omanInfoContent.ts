@@ -1448,6 +1448,62 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-5day-dhofar-highlights-worth-it-salalah":
+            return {
+                title: "Is the Private 5-Day Dhofar Highlights Tour Worth It in Salalah?",
+                description: "An honest look at the private 5-day Dhofar highlights tour with guide in Salalah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4662aa46e96078a237fb6d4eb93494e366885a1d4a0c3bbe075d8283e9da6ae.png",
+                sections: [
+                    { title: "The Short Answer", content: "Five days with a private guide gives genuine time to cover the Dhofar region's beaches, mountains, wadis and desert properly, rather than rushing through on separate single-day excursions, worth it for travelers wanting the complete region.", tourCard: { slug: "salalah-private-5-day-dhofar-highlights-tour-with", title: "Salalah: Private 5-Day Dhofar Highlights Tour with Guide", description: "A private 5-day tour covering Dhofar's highlights with a guide.", price: "From $1684", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4662aa46e96078a237fb6d4eb93494e366885a1d4a0c3bbe075d8283e9da6ae.png" } },
+                    { title: "Practical Tips", content: "Discuss priorities with your guide in advance, since 5 days leaves room to adjust the pace between beaches, mountains and desert." }
+                ],
+                faqs: [
+                    { q: "Is the 5-day Dhofar Highlights tour worth it?", a: "Yes, for travelers wanting genuine time to cover the full Dhofar region properly, rather than rushing through separate day trips." }
+                ],
+            };
+
+        case "is-quad-camel-horse-combo-worth-it-salalah":
+            return {
+                title: "Is the Salalah Quad, Camel and Horse Riding Combo Worth It?",
+                description: "An honest look at the Salalah quad, camel riding, and horse riding combo with hotel pickup.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0f8334f024b90f9f648d24733f29bad0ec2a79872e405d9b2b00cfb1d448f9.png",
+                sections: [
+                    { title: "The Short Answer", content: "Packing three distinct riding experiences, quad biking, camel riding, and horse riding, into one short outing gives genuine variety for travelers who want to sample all three rather than commit to just one.", tourCard: { slug: "salalah-quad-camel-riding-horse-riding-with-hotel", title: "Salalah: Quad, Camel Riding , Horse Riding With Hotel Pickup", description: "A combo of quad biking, camel riding, and horse riding with hotel pickup in Salalah.", price: "From $278", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0f8334f024b90f9f648d24733f29bad0ec2a79872e405d9b2b00cfb1d448f9.png" } },
+                    { title: "Practical Tips", content: "Wear closed shoes and clothes you don't mind getting dusty, since all three activities kick up plenty of sand." }
+                ],
+                faqs: [
+                    { q: "Is the quad, camel and horse riding combo worth it in Salalah?", a: "Yes, for travelers wanting genuine variety by sampling all three riding experiences in one short outing rather than committing to just one." }
+                ],
+            };
+
+        case "is-rub-al-khali-sunset-stargazing-worth-it-salalah":
+            return {
+                title: "Is the Rub' Al Khali Desert Sunset Tour Worth It in Salalah?",
+                description: "An honest look at the Golden Hour Magic Rub' Al Khali Desert sunset tour in Salalah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/83799868ebba1fa8.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Watching the sun set over the Rub' Al Khali, the Empty Quarter, one of the world's largest sand deserts, gives a genuinely dramatic golden-hour backdrop, worth it for travelers wanting the desert's most photogenic moment of the day.", tourCard: { slug: "golden-hour-magic-rub-al-khali-desert-sunset-tour", title: "Golden Hour Magic: Rub' Al Khali Desert Sunset Tour", description: "A sunset tour of the Rub' Al Khali Empty Quarter desert from Salalah.", price: "From $585", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/83799868ebba1fa8.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a jacket, since desert temperatures drop sharply once the sun goes down, even after a hot day." }
+                ],
+                faqs: [
+                    { q: "Is the Rub' Al Khali Desert sunset tour worth it in Salalah?", a: "Yes, for travelers wanting the Empty Quarter's most dramatic, photogenic moment of the day." }
+                ],
+            };
+
+        case "is-1001-nights-desert-safari-worth-it-salalah":
+            return {
+                title: "Is the Arabian Overnight 1001 Nights Desert Safari Worth It?",
+                description: "An honest look at the Arabian Overnight 1001 Nights desert safari in Salalah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d771606237e649aecd28d60168b2fa52bf1597299f75621fad7a6aa1db2186e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This themed overnight desert safari leans into an Arabian Nights atmosphere with camp setup and activities, giving a more immersive, storytelling-style desert night than a standard overnight camp.", tourCard: { slug: "arabian-overnight-1001-nights-desert-safari", title: "Arabian Overnight: 1001 Nights Desert Safari Salalah", description: "An Arabian Nights-themed overnight desert safari in Salalah.", price: "From $283", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6d771606237e649aecd28d60168b2fa52bf1597299f75621fad7a6aa1db2186e.jpeg" } },
+                    { title: "Practical Tips", content: "Pack warm layers for the overnight stay, since desert temperatures drop significantly after dark." }
+                ],
+                faqs: [
+                    { q: "Is the 1001 Nights desert safari worth it in Salalah?", a: "Yes, for travelers wanting a more immersive, themed overnight desert experience than a standard camp." }
+                ],
+            };
+
         case "is-dhow-zipline-combo-worth-it-khasab":
             return {
                 title: "Is the Musandam Half-Day Dhow Cruise & Zipline Combo Worth It?",
