@@ -1004,6 +1004,62 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-samaesan-wreck-diving-worth-it-pattaya":
+            return {
+                title: "Is the Pattaya and Samaesan Wreck Diving Trip Worth It?",
+                description: "An honest look at the Pattaya and Samaesan 2-day wreck diving trip for experienced divers.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-and-samaesan-2-day-wreck-diving-for-experience-divers-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Samaesan's sunken ships give genuinely serious wreck diving that goes beyond Pattaya's standard reef and island dive sites, worth it specifically for certified, experienced divers wanting real wreck penetration rather than an introductory dive.", tourCard: { slug: "pattaya-and-samaesan-2-day-wreck-diving-for-experience-divers-by-local-operator", title: "Pattaya and Samaesan: 2-Day Wreck Diving For Experience Divers", description: "A 2-day wreck diving trip to Samaesan for experienced divers from Pattaya.", price: "From $1089", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-and-samaesan-2-day-wreck-diving-for-experience-divers-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm your certification level and dive logbook meet the operator's requirements before booking, since wreck diving has stricter prerequisites than reef diving." }
+                ],
+                faqs: [
+                    { q: "Is the Samaesan wreck diving trip worth it from Pattaya?", a: "Yes, for certified, experienced divers wanting genuine wreck penetration beyond the standard reef and island dive sites." }
+                ],
+            };
+
+        case "is-whale-watching-upper-gulf-worth-it-pattaya":
+            return {
+                title: "Is the Upper Gulf of Thailand Whale Watching Tour Worth It from Pattaya?",
+                description: "An honest look at the Upper Gulf of Thailand whale watching day tour from Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/upper-gulf-of-thailand-whale-watching-day-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Upper Gulf of Thailand holds a genuine, lesser-known population of Bryde's whales, and seeing them in the wild gives a wildlife experience most Pattaya visitors never realize is possible, worth it for travelers interested in marine wildlife rather than another beach or island day.", tourCard: { slug: "upper-gulf-of-thailand-whale-watching-day-tour", title: "Upper Gulf of Thailand Whale Watching Day Tour", description: "A whale watching day tour in the Upper Gulf of Thailand from Pattaya.", price: "From $256", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/upper-gulf-of-thailand-whale-watching-day-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Sightings aren't guaranteed, since this is genuine wildlife spotting — ask the operator about recent sighting rates before booking." }
+                ],
+                faqs: [
+                    { q: "Is the whale watching tour worth it from Pattaya?", a: "Yes, for travelers interested in marine wildlife — the Upper Gulf holds a genuine, lesser-known Bryde's whale population." }
+                ],
+            };
+
+        case "is-enduro-tour-worth-it-pattaya":
+            return {
+                title: "Is the Full-Day Guided Enduro Tour Worth It in Pattaya?",
+                description: "An honest look at the full-day guided enduro tour with meal in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/full-day-guided-enduro-tour-with-meal-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a genuine enduro motorcycle through Pattaya's backcountry trails gives serious off-road riders a real technical challenge, distinct from the city's more casual ATV and buggy tours, worth it for travelers with real dirt-bike experience.", tourCard: { slug: "full-day-guided-enduro-tour-with-meal-in-pattaya", title: "Full-Day Guided Enduro Tour with Meal in Pattaya", description: "A full-day guided enduro motorcycle tour with a meal in Pattaya.", price: "From $233", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-guided-enduro-tour-with-meal-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm your riding skill level matches the trail difficulty — enduro trails are genuinely technical, not beginner ATV paths." }
+                ],
+                faqs: [
+                    { q: "Is the enduro tour worth it in Pattaya?", a: "Yes, for travelers with real dirt-bike experience wanting a genuine technical off-road challenge, distinct from casual ATV tours." }
+                ],
+            };
+
+        case "is-dragon-tower-buddha-temple-floating-market-worth-it-pattaya":
+            return {
+                title: "Is the Dragon Tower, Buddha Temple and Floating Market Tour Worth It?",
+                description: "An honest look at the Dragon Tower, Buddha Temple and floating market tour in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/dragon-tower-buddha-temple-and-floating-market-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining the striking Dragon Tower, an active Buddhist temple and a floating market in one day gives genuinely varied sightseeing beyond Pattaya's beach-and-nightlife reputation, worth it for travelers wanting culture and architecture packed into a single outing.", tourCard: { slug: "dragon-tower-buddha-temple-and-floating-market-tour", title: "Dragon Tower, Buddha Temple and Floating Market Tour", description: "A tour combining Dragon Tower, a Buddha temple and a floating market in Pattaya.", price: "From $192", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/dragon-tower-buddha-temple-and-floating-market-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for the temple visit, and bring cash for the floating market's food stalls and vendors." }
+                ],
+                faqs: [
+                    { q: "Is the Dragon Tower, Buddha Temple and floating market tour worth it in Pattaya?", a: "Yes, for travelers wanting genuinely varied culture and architecture packed into one outing, beyond the usual beach-and-nightlife circuit." }
+                ],
+            };
+
         default:
             return null;
     }
