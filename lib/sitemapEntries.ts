@@ -415,6 +415,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-education-city-tour-worth-it-doha', 'is-desert-falls-water-park-worth-it-doha',
     'is-olioli-childrens-museum-worth-it-doha', 'is-souq-waqif-walking-tour-worth-it-doha',
     'is-golden-hour-photography-tour-worth-it-doha', 'is-layover-tour-worth-it-doha',
+    'is-mushroom-rocks-serra-sculptures-tour-worth-it-doha', 'is-aspire-park-zone-tour-worth-it-doha',
+    'is-museum-of-illusions-worth-it-doha', 'is-sunrise-photography-walk-worth-it-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),

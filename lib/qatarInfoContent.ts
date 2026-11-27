@@ -1838,6 +1838,90 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mushroom-rocks-serra-sculptures-tour-worth-it-doha":
+      return {
+        title: "Is the Mushroom Rocks & Serra Sculptures Tour Worth It in Doha?",
+        description: "An honest look at the Mushroom Rocks and Richard Serra sculptures guided tour near Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5d66feb5a74356a866b941c3bd5df2542d900528f608354597bde874a6c688ed.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Mushroom Rocks are a genuinely unusual natural rock formation, and pairing them with Richard Serra's monumental steel sculptures installed nearby gives a striking contrast between natural and modern land art, worth it for travelers interested in Qatar's landscape and contemporary art scene beyond the usual museum visits.",
+            tourCard: { slug: "doha-mushroom-rocks-serra-sculptures-guided-tour", title: "Doha: Mushroom Rocks & Serra Sculptures Guided Tour", description: "A guided tour of the Mushroom Rocks and Richard Serra sculptures near Doha.", price: "From $52", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5d66feb5a74356a866b941c3bd5df2542d900528f608354597bde874a6c688ed.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection — both sites are outdoors with little shade, and the drive between them takes time out of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mushroom Rocks and Serra Sculptures tour worth it in Doha?", a: "Yes, for a striking contrast between natural rock formations and monumental land art, beyond the usual museum circuit." },
+        ],
+      };
+
+    case "is-aspire-park-zone-tour-worth-it-doha":
+      return {
+        title: "Is the Private Aspire Park & Aspire Zone Highlights Tour Worth It in Doha?",
+        description: "An honest look at the private Aspire Park and Aspire Zone highlights tour in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bad78c8d92f33fee831a0b4de77eb5ae9dc91c75eb728b480bfe4248528bdb73.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Aspire Park and the surrounding Aspire Zone sports complex, built for the 2006 Asian Games, give a genuinely different, green and recreational side of Doha, worth it for travelers who want a relaxed park walk and sports-city context rather than another souq or museum stop.",
+            tourCard: { slug: "doha-private-aspire-park-aspire-zone-highlights", title: "Doha: Private Aspire Park & Aspire Zone Highlights Tour", description: "A private tour covering Aspire Park and the Aspire Zone sports complex.", price: "From $64", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bad78c8d92f33fee831a0b4de77eb5ae9dc91c75eb728b480bfe4248528bdb73.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the cooler morning or evening hours — the park is large and mostly uncovered, so midday heat makes it less pleasant.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Aspire Park and Aspire Zone highlights tour worth it in Doha?", a: "Yes, for a relaxed, green side of the city with genuine sports-infrastructure history, distinct from the usual souq and museum sightseeing." },
+        ],
+      };
+
+    case "is-museum-of-illusions-worth-it-doha":
+      return {
+        title: "Is the Museum of Illusions Worth It in Doha?",
+        description: "An honest look at the family-friendly Museum of Illusions in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2619f3fe0ebf0c4ea4e5ef3638188b7bec5a8736666c439c9edaf798206cfe13.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "An indoor optical-illusion attraction aimed squarely at families and kids, worth it specifically as a fun, air-conditioned break from the heat and from the city's more historically-focused sightseeing, less essential if you're tight on time.",
+            tourCard: { slug: "doha-family-friendly-museum-of-illusions-visit", title: "Doha: Family-Friendly Museum of Illusions Visit with Entry", description: "An entry ticket to the family-friendly Museum of Illusions in Doha.", price: "From $112", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2619f3fe0ebf0c4ea4e5ef3638188b7bec5a8736666c439c9edaf798206cfe13.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good slot for a midday heat break between outdoor sightseeing, especially with younger kids in the group.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Museum of Illusions worth it in Doha?", a: "Yes, especially for families and kids wanting a fun indoor break from the heat — less essential if you're tight on time for headline sights." },
+        ],
+      };
+
+    case "is-sunrise-photography-walk-worth-it-doha":
+      return {
+        title: "Is the Sunrise Photography Walk Worth It in Doha?",
+        description: "An honest look at the sunrise photography walk in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Doha's skyline and waterfront photograph noticeably differently in the soft early light with none of the daytime crowds, worth it specifically for travelers serious about photography who want guidance on the best vantage points rather than guessing on their own.",
+            tourCard: { slug: "doha-sunrise-photography-walk-with-hotel-pickup", title: "Doha: Sunrise Photography Walk with Hotel Pickup", description: "A guided sunrise photography walk with hotel pickup included.", price: "From $116", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring whatever camera gear you plan to use — a guide can point you to the best spots, but the early start is worth it mainly if you're genuinely interested in photography.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sunrise photography walk worth it in Doha?", a: "Yes, specifically for travelers serious about photography — a guide gets you to the best vantage points in the softest light, before the daytime crowds." },
+        ],
+      };
+
     default:
       return null;
   }

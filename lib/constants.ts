@@ -1250,6 +1250,8 @@ export const DOHA_INFO_SLUGS = [
   'is-education-city-tour-worth-it-doha', 'is-desert-falls-water-park-worth-it-doha',
   'is-olioli-childrens-museum-worth-it-doha', 'is-souq-waqif-walking-tour-worth-it-doha',
   'is-golden-hour-photography-tour-worth-it-doha', 'is-layover-tour-worth-it-doha',
+  'is-mushroom-rocks-serra-sculptures-tour-worth-it-doha', 'is-aspire-park-zone-tour-worth-it-doha',
+  'is-museum-of-illusions-worth-it-doha', 'is-sunrise-photography-walk-worth-it-doha',
 ];
 
 export const BUSAN_INFO_SLUGS = [
