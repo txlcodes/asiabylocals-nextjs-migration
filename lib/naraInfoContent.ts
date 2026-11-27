@@ -1119,6 +1119,69 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-food-bar-hopping-tour-worth-it-nara":
+      return {
+        title: "Is the Food and Bar Hopping Tour Worth It in Nara?",
+        description: "An honest look at the choose-your-start-spot food and bar hopping tour in Nara.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/choose-your-start-spot-food-and-bar-hopping-tour-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hopping between small bars and food stops in Nara's old streets with a local who already knows which doors to walk through gets you into places a solo evening wouldn't find, worth it for travelers wanting a genuine local night out rather than another temple circuit.",
+            tourCard: { slug: "choose-your-start-spot-food-and-bar-hopping-tour-in-nara", title: "Choose Your Start Spot Food and Bar Hopping Tour in Nara", description: "A food and bar hopping tour through Nara's local spots, starting wherever suits you.", price: "From $279", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/choose-your-start-spot-food-and-bar-hopping-tour-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go on an empty stomach, since this is paced around tastings and drinks at each stop rather than one sit-down meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the food and bar hopping tour worth it in Nara?", a: "Yes, for a genuine local evening out that a solo visitor likely wouldn't piece together alone." },
+        ],
+      };
+
+    case "is-art-forest-hidden-temples-tour-worth-it-nara":
+      return {
+        title: "Is the Art Forest and Hidden-Gem Temples Day Tour Worth It in Nara?",
+        description: "An honest look at the Nara Art Forest, hidden-gem temples day tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nara-art-forest-hidden-gem-temples-day-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing an outdoor art forest with small temples well off the main deer park circuit gives you a genuinely different day than the standard Todai-ji route, worth it for travelers who've already covered the headline sights and want something quieter and less photographed.",
+            tourCard: { slug: "nara-art-forest-hidden-gem-temples-day-tour", title: "Nara Art Forest, Hidden-gem Temples Day Tour", description: "A day tour combining an outdoor art forest with Nara's lesser-known temples.", price: "From $260", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/nara-art-forest-hidden-gem-temples-day-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable walking shoes, since the forest and temple stops involve uneven ground and more distance than the central park loop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the art forest and hidden-gem temples day tour worth it in Nara?", a: "Yes, for travelers who've done the main deer park sights and want a quieter, less touristed day." },
+        ],
+      };
+
+    case "is-takayama-tea-whisk-craft-worth-it-nara":
+      return {
+        title: "Is the Takayama Tea Whisk Craft and Tea Culture Experience Worth It in Nara?",
+        description: "An honest look at the Nara Takayama tea whisk craft and tea culture experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nara-takayama-tea-whisk-craft-and-tea-culture-experience-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning the Takayama chasen (tea whisk) craft from a local maker gives a specific, hands-on look at a tea-ceremony tool most visitors have never thought about, worth it for travelers wanting a genuine craft experience beyond a standard tea ceremony.",
+            tourCard: { slug: "nara-takayama-tea-whisk-craft-and-tea-culture-experience-by-local-operator", title: "Nara Takayama Tea Whisk Craft and Tea Culture Experience by Local Operator", description: "A hands-on tea whisk craft and tea culture experience with a local operator in Nara.", price: "From $463", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/nara-takayama-tea-whisk-craft-and-tea-culture-experience-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead, since this runs with a specialist craftsperson rather than a general tour guide and slots are limited.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Takayama tea whisk craft experience worth it in Nara?", a: "Yes, for travelers wanting a genuine hands-on craft experience that goes beyond a standard tea ceremony." },
+        ],
+      };
+
     default:
       return null;
   }

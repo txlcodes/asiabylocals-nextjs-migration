@@ -1835,6 +1835,8 @@ export const NARA_INFO_SLUGS = [
   'is-tea-ceremony-worth-it-nara',
   'is-koriyama-goldfish-tour-worth-it-nara', 'is-hasedera-temple-tour-worth-it-nara',
   'is-rickshaw-tour-worth-it-nara',
+  'is-food-bar-hopping-tour-worth-it-nara', 'is-art-forest-hidden-temples-tour-worth-it-nara',
+  'is-takayama-tea-whisk-craft-worth-it-nara',
   'is-samurai-tour-worth-it-nara', 'is-omiwa-shrine-tour-worth-it-nara',
   'is-asuka-ancient-capital-tour-worth-it-nara', 'is-deer-lantern-night-walk-worth-it-nara',
   'is-deer-ceramic-figurine-workshop-worth-it-nara', 'is-furoshiki-experience-lunch-worth-it-nara',
