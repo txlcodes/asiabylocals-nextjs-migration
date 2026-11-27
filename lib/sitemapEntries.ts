@@ -137,6 +137,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-same-day-varanasi-flight-worth-it-delhi', 'is-rishikesh-yoga-ayurveda-worth-it-delhi',
     'is-kashmir-8day-shikara-gulmarg-worth-it-delhi', 'is-sultanpur-bird-sanctuary-2day-worth-it-delhi',
     'is-kasol-3day-tour-worth-it-delhi', 'is-overnight-bodhgaya-flight-worth-it-delhi',
+    'is-ajmer-pushkar-2day-worth-it-delhi', 'is-amritsar-2day-worth-it-delhi',
+    'is-mussoorie-3day-worth-it-delhi', 'is-khajuraho-orchha-gwalior-jhansi-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

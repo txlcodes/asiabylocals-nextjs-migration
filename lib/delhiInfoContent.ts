@@ -2051,6 +2051,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ajmer-pushkar-2day-worth-it-delhi":
+      return {
+        title: "Is the Ajmer and Pushkar 2-Day Tour Worth It from Delhi?",
+        description: "An honest look at the 2-day Ajmer and Pushkar tour with car and guide from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-ajmer-and-pushkar-2-day-tour-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ajmer's Sufi shrine and Pushkar's sacred lake and camel-trading heritage give genuine religious and cultural depth beyond Delhi's usual monuments, worth it for travelers wanting a focused 2-day dive into Rajasthan's spiritual side.",
+            tourCard: { slug: "from-delhi-ajmer-and-pushkar-2-day-tour-with", title: "From Delhi: Ajmer and Pushkar 2-Day Tour with Car and Guide", description: "A 2-day tour of Ajmer and Pushkar with a private car and guide from Delhi.", price: "From $417", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-ajmer-and-pushkar-2-day-tour-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the Ajmer Sharif shrine, since it remains a major active Sufi pilgrimage site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ajmer and Pushkar 2-day tour worth it from Delhi?", a: "Yes, for travelers wanting genuine religious and cultural depth into Rajasthan's spiritual side, beyond Delhi's usual monuments." },
+        ],
+      };
+
+    case "is-amritsar-2day-worth-it-delhi":
+      return {
+        title: "Is the Amritsar 2-Day Tour from Delhi Worth It?",
+        description: "An honest look at the 2-day Amritsar tour from Delhi for an immersive experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/amritsar-2-days-tour-from-delhi-for-immersive/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A 2-day trip to Amritsar gives genuine time to see the Golden Temple properly, including the moving evening ceremony, and witness the dramatic Wagah border ceremony, rather than rushing both into a single exhausting day.",
+            tourCard: { slug: "amritsar-2-days-tour-from-delhi-for-immersive", title: "Amritsar: 2 days tour from Delhi for immersive experience", description: "A 2-day immersive tour of Amritsar from Delhi.", price: "From $343", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/amritsar-2-days-tour-from-delhi-for-immersive/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit the Golden Temple in the evening if possible, since the illuminated temple and the Palki Sahib ceremony are genuinely special at that hour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Amritsar tour worth it from Delhi?", a: "Yes, for travelers wanting real time to properly experience the Golden Temple and the Wagah border ceremony, rather than rushing both in one day." },
+        ],
+      };
+
+    case "is-mussoorie-3day-worth-it-delhi":
+      return {
+        title: "Is the 3-Day Mussoorie Hills and Waterfalls Tour Worth It from Delhi?",
+        description: "An honest look at the 3-day Mussoorie hills and waterfalls tour from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-3-day-mussoorie-hills-and-waterfalls-to/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mussoorie's hill-station scenery and waterfalls give a genuine escape from Delhi's heat and city sightseeing, and 3 days allows real time to properly explore the mountain town rather than rushing through on a day trip.",
+            tourCard: { slug: "from-delhi-3-day-mussoorie-hills-and-waterfalls-to", title: "From Delhi: 3-Day Mussoorie Hills and Waterfalls Tour", description: "A 3-day tour of Mussoorie's hills and waterfalls from Delhi.", price: "From $334", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-3-day-mussoorie-hills-and-waterfalls-to/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack layers even in summer, since Mussoorie's hill-station elevation keeps it noticeably cooler than Delhi.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-day Mussoorie hills and waterfalls tour worth it from Delhi?", a: "Yes, for travelers wanting a genuine escape from Delhi's heat with real time to explore the mountain town, rather than a rushed day trip." },
+        ],
+      };
+
+    case "is-khajuraho-orchha-gwalior-jhansi-worth-it-delhi":
+      return {
+        title: "Is the 5-Day Trip to Khajuraho, Orchha, Gwalior & Jhansi Worth It?",
+        description: "An honest look at the 5-day trip covering Khajuraho, Orchha, Gwalior, and Jhansi from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/5-day-trip-to-khajuraho-orchha-gwalior-jhansi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Khajuraho's famous carved temples, Orchha's riverside cenotaphs, Gwalior's hilltop fort, and Jhansi's history combine into a genuinely rich 5-day circuit through central India that most Delhi-based itineraries skip entirely.",
+            tourCard: { slug: "5-day-trip-to-khajuraho-orchha-gwalior-jhansi", title: "5-Day Trip to Khajuraho, Orchha, Gwalior & Jhansi from Delhi", description: "A 5-day tour covering Khajuraho, Orchha, Gwalior, and Jhansi.", price: "From $265", duration: "5 days", image: "https://images.asiabylocals.com/asiabylocals/tours/5-day-trip-to-khajuraho-orchha-gwalior-jhansi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Allow genuine time at Khajuraho's temple complex, since the intricate carvings reward slow, close viewing rather than a quick walkthrough.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 5-day Khajuraho, Orchha, Gwalior and Jhansi trip worth it?", a: "Yes, for travelers wanting a genuinely rich central India circuit that most Delhi-based itineraries skip entirely." },
+        ],
+      };
+
     default:
       return null;
   }
