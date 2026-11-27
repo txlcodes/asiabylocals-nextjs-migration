@@ -881,6 +881,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-floating-mosque-al-balad-tour-worth-it-jeddah',
     'is-hajj-route-artisans-alley-tour-worth-it-jeddah', 'is-discovery-dive-underwater-photography-worth-it-jeddah',
     'is-durrat-al-arous-beach-day-worth-it-jeddah', 'is-king-abdullah-economic-city-day-trip-worth-it-jeddah',
+    'is-al-balad-wholesale-souq-tour-worth-it-jeddah', 'is-deep-sea-fishing-reef-swim-worth-it-jeddah',
+    'is-desert-safari-buggy-beach-horse-worth-it-jeddah', 'is-red-sea-boat-rental-worth-it-jeddah',
   ], 'saudi-arabia', 'jeddah');
   const alulaInfoPages = mapInfoSlugs([
     'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',

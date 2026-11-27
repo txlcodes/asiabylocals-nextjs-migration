@@ -1806,6 +1806,62 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-al-balad-wholesale-souq-tour-worth-it-jeddah":
+            return {
+                title: "Is the Al-Balad Wholesale Souq Shopping Tour Worth It in Jeddah?",
+                description: "An honest look at the Al-Balad wholesale souq shopping tour with a guide in Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e0895f2c53c63c1b0a76773c8c514f6476f8d323d8832a9fe5602defaf692875.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour focuses specifically on Al-Balad's wholesale souq trade, a genuinely different commercial angle than the standard heritage-architecture walking tours of the same district, worth it for travelers interested in how the old city actually trades today.", tourCard: { slug: "jeddah-al-balad-wholesale-souq-shopping-tour-with", title: "Jeddah Al-Balad: Wholesale Souq Shopping Tour with a Guide", description: "A guided wholesale souq shopping tour in Jeddah's Al-Balad district.", price: "From $446", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e0895f2c53c63c1b0a76773c8c514f6476f8d323d8832a9fe5602defaf692875.jpg" } },
+                    { title: "Practical Tips", content: "Bring cash and be ready to haggle — wholesale souq pricing works differently from fixed-price retail shops." },
+                ],
+                faqs: [
+                    { q: "Is the Al-Balad wholesale souq tour worth it in Jeddah?", a: "Yes, for travelers wanting a genuine commercial angle on Al-Balad, distinct from the standard heritage-architecture walking tours." },
+                ],
+            };
+
+        case "is-deep-sea-fishing-reef-swim-worth-it-jeddah":
+            return {
+                title: "Is the Private Deep-Sea Fishing and Reef Swim at Bayada Island Worth It?",
+                description: "An honest look at the private deep-sea fishing and reef swim at Bayada Island from Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f09eb8fe9b1f73fc517b91f15fd1b8091255ff27c58e33ed0d4b79ff5ce938d4.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining real deep-sea fishing with a reef swim stop at Bayada Island gives a more active, outcome-focused day than the standard Bayadah snorkeling boat trips, worth it for travelers who actually want to fish rather than just visit the island.", tourCard: { slug: "jeddah-private-deep-sea-fishing-reef-swim-at", title: "Jeddah: Private Deep-Sea Fishing, Reef Swim at Bayada Island", description: "A private deep-sea fishing trip with a reef swim stop at Bayada Island.", price: "From $1039", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f09eb8fe9b1f73fc517b91f15fd1b8091255ff27c58e33ed0d4b79ff5ce938d4.jpeg" } },
+                    { title: "Practical Tips", content: "Ask whether the catch is kept or released, and confirm fishing gear is provided before the trip." },
+                ],
+                faqs: [
+                    { q: "Is the deep-sea fishing and reef swim trip worth it in Jeddah?", a: "Yes, for travelers who actually want to fish, not just visit Bayada Island on a standard snorkeling boat trip." },
+                ],
+            };
+
+        case "is-desert-safari-buggy-beach-horse-worth-it-jeddah":
+            return {
+                title: "Is the Private Desert Safari, Buggy Ride and Beach Horse Ride Worth It?",
+                description: "An honest look at the private desert safari, buggy ride and beach horse ride in Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cb87fc33acd025626d790bdec2fefbc84e6e9b87c5be45bb9120b3989bbeeb12.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a desert buggy ride with a beach horse ride gives a genuinely varied mix of terrain and activity in one outing, distinct from Jeddah's standard quad-bike-only desert safaris, worth it for travelers wanting both dune and coastal adventure in a single day.", tourCard: { slug: "jeddah-private-desert-safari-buggy-ride-beach", title: "Jeddah: Private Desert Safari, Buggy Ride & Beach Horse Ride", description: "A private desert safari combining a buggy ride and a beach horse ride in Jeddah.", price: "From $1039", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cb87fc33acd025626d790bdec2fefbc84e6e9b87c5be45bb9120b3989bbeeb12.jpg" } },
+                    { title: "Practical Tips", content: "Confirm riding experience requirements for the beach horse ride segment, since skill levels needed can vary by operator." },
+                ],
+                faqs: [
+                    { q: "Is the desert safari, buggy ride and beach horse ride worth it in Jeddah?", a: "Yes, for travelers wanting both dune and coastal adventure in one outing, distinct from the standard quad-bike-only safari." },
+                ],
+            };
+
+        case "is-red-sea-boat-rental-worth-it-jeddah":
+            return {
+                title: "Is the Red Sea Boat Rental with Crew and Water Activities Worth It?",
+                description: "An honest look at the Red Sea boat rental with crew and water activities in Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/781ba7a18a3c90ba3d842c06c9a655514d686d8ef7b7ce3873ed4c2d892d39dc.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Renting a crewed boat gives genuine flexibility to set your own Red Sea itinerary and water activities, worth it for groups wanting a private, self-paced day rather than a fixed-route island tour.", tourCard: { slug: "jeddah-red-sea-boat-rental-with-crew-and-water", title: "Jeddah: Red Sea Boat Rental with Crew and Water Activities", description: "A crewed boat rental with water activities on the Red Sea from Jeddah.", price: "From $650", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/781ba7a18a3c90ba3d842c06c9a655514d686d8ef7b7ce3873ed4c2d892d39dc.jpeg" } },
+                    { title: "Practical Tips", content: "Discuss your preferred route and activities with the crew beforehand to make the most of the flexible format." },
+                ],
+                faqs: [
+                    { q: "Is the Red Sea boat rental worth it in Jeddah?", a: "Yes, for groups wanting a private, self-paced day on the water rather than a fixed-route island tour." },
+                ],
+            };
+
         default:
             return null;
     }
