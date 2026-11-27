@@ -2090,6 +2090,90 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-3day-layover-dhow-desert-worth-it-doha":
+      return {
+        title: "Is the Doha 3-Day Layover Tour with Dhow Cruise & Desert Safari Worth It?",
+        description: "An honest look at the 3-day Doha layover tour combining a dhow cruise and desert safari.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/29ce3106589b9dbf316d96789fbbdd37da3fea6b261d2d7fedc1a18b0ffe6de0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A longer layover of several days is enough time to genuinely cover Doha's city highlights, a dhow cruise, and a desert safari in one organized package, worth it for travelers with an extended stopover who don't want to plan each day separately.",
+            tourCard: { slug: "doha-3-day-layover-tour-with-dhow-cruise-desert", title: "Doha: 3-Day Layover Tour with Dhow Cruise & Desert Safari", description: "A 3-day layover tour combining a dhow cruise and desert safari in Doha.", price: "From $1945", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/29ce3106589b9dbf316d96789fbbdd37da3fea6b261d2d7fedc1a18b0ffe6de0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your visa and transit status allows multiple days outside the airport before booking, since rules vary by nationality.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-day Doha layover tour worth it?", a: "Yes, for travelers with an extended stopover wanting the city, a dhow cruise, and a desert safari handled in one organized package." },
+        ],
+      };
+
+    case "is-al-safliyah-island-yacht-cruise-worth-it-doha":
+      return {
+        title: "Is the Private Yacht Cruise to Al Safliyah Island Worth It?",
+        description: "An honest look at the private yacht cruise to Al Safliyah Island from Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ac08123577acf4c69e7546a003c80510fa20796504fb46b128142701cc90093d.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private yacht to Al Safliyah Island gives a secluded, uncrowded stretch of Gulf coastline rarely covered by the standard dhow cruise routes, worth it for travelers wanting privacy and a quieter island stop rather than a shared boat tour.",
+            tourCard: { slug: "qatar-private-yacht-cruise-to-al-safliyah-island", title: "Qatar Private Yacht Cruise to Al Safliyah Island with Pickup", description: "A private yacht cruise to the secluded Al Safliyah Island with pickup included.", price: "From $1052", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ac08123577acf4c69e7546a003c80510fa20796504fb46b128142701cc90093d.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection and water, since the island itself has minimal shade or facilities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Al Safliyah Island private yacht cruise worth it?", a: "Yes, for travelers wanting a secluded, uncrowded island stop and full privacy, rather than a shared dhow cruise route." },
+        ],
+      };
+
+    case "is-family-fishing-boat-trip-worth-it-doha":
+      return {
+        title: "Is the Family Fishing Boat Trip with Transfers Worth It in Doha?",
+        description: "An honest look at the family fishing boat trip with transfers in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4997b10fa568c46b550cff7119430644b90348fc178417bab17350c93bd92d3.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A fishing boat trip built around families, with hotel transfers included, gives a relaxed, low-effort activity suited to mixed-age groups, worth it for travelers wanting genuine Gulf fishing without arranging a private charter themselves.",
+            tourCard: { slug: "doha-family-fishing-boat-trip-with-transfers", title: "Doha: Family Fishing Boat Trip with Transfers", description: "A family-friendly fishing boat trip with hotel transfers in Doha.", price: "From $962", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4997b10fa568c46b550cff7119430644b90348fc178417bab17350c93bd92d3.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about shade and seating options on the boat if traveling with young children or older relatives.",
+          },
+        ],
+        faqs: [
+          { q: "Is the family fishing boat trip worth it in Doha?", a: "Yes, for families wanting a relaxed, low-effort fishing activity with transfers handled, without arranging a private charter themselves." },
+        ],
+      };
+
+    case "is-special-museums-full-day-tour-worth-it-doha":
+      return {
+        title: "Is the Special Museums Full-Day Tour Worth It in Doha?",
+        description: "An honest look at the Special Museums full-day tour in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9ebb414b97cad5cb515864a1a5960234baa4bbda65289a76fa31192f0041427.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dedicated full day across several of Doha's museums goes deeper than the quick MIA-and-souq stop most city tours fit in, worth it specifically for travelers with a genuine interest in the collections rather than a photo-stop visit.",
+            tourCard: { slug: "special-museums-full-day-tour", title: "Special Museums Full-Day Tour", description: "A full-day tour across several of Doha's museums.", price: "From $520", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9ebb414b97cad5cb515864a1a5960234baa4bbda65289a76fa31192f0041427.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check each museum's opening days in advance, since some of Doha's smaller museums close on specific weekdays.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Special Museums full-day tour worth it in Doha?", a: "Yes, specifically for travelers with a genuine interest in the collections, going deeper than a quick single-museum stop." },
+        ],
+      };
+
     default:
       return null;
   }
