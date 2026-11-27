@@ -3033,6 +3033,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-gurkha-mountain-butterfly-museum-worth-it-pokhara":
+            return {
+                title: "Is the Private Gurkha, Mountain & Butterfly Museum Tour Worth It?",
+                description: "An honest look at the private Gurkha Museum, Mountain Museum and Butterfly Museum tour in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a222cb572e823f31f0864da6f364b4852b67aebe64f1e5d762daaeae8a4341e4.png",
+                sections: [
+                    { title: "The Short Answer", content: "This bundles three distinct small museums — the Gurkha regiment's military history, the International Mountain Museum's climbing heritage, and a butterfly museum — into one indoor outing, worth it for a rainy day or a slower cultural morning away from the lake and foothill activities.", tourCard: { slug: "pokhara-private-gurkha-mountain-butterfly-museum", title: "Pokhara: Private Gurkha, Mountain & Butterfly Museum Tour", description: "A private tour covering the Gurkha Museum, Mountain Museum, and Butterfly Museum.", price: "From $67", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a222cb572e823f31f0864da6f364b4852b67aebe64f1e5d762daaeae8a4341e4.png" } },
+                    { title: "Practical Tips", content: "A good rainy-day option, since all three museums are indoors and unaffected by weather." }
+                ],
+                faqs: [
+                    { q: "Is the Gurkha, Mountain and Butterfly Museum tour worth it in Pokhara?", a: "Yes, especially on a rainy day — it covers three genuinely distinct small museums indoors in one outing." }
+                ],
+            };
+
+        case "is-tibetan-refugee-settlement-tour-worth-it-pokhara":
+            return {
+                title: "Is the Tibetan Refugee Settlement Afternoon Tour Worth It in Pokhara?",
+                description: "An honest look at the afternoon tour of a Tibetan refugee settlement in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ebc953b633080c9df46b4e0c102914c41e13386b70ccc959bca0720acfc1dc4b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour visits a genuine Tibetan refugee settlement, giving real context on the community's history and craft traditions like carpet weaving, worth it for travelers interested in a meaningful cultural visit — confirm the specific operator's approach to the community before booking.", tourCard: { slug: "pokhara-afternoon-tour-of-a-tibetan-refugee", title: "Pokhara: Afternoon Tour of a Tibetan Refugee Settlement", description: "An afternoon tour of a Tibetan refugee settlement near Pokhara.", price: "From $76", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ebc953b633080c9df46b4e0c102914c41e13386b70ccc959bca0720acfc1dc4b.jpg" } },
+                    { title: "Practical Tips", content: "Ask the operator how the visit benefits the settlement directly, and expect a clear, specific answer before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Tibetan refugee settlement tour worth it in Pokhara?", a: "Yes, for travelers genuinely interested in the community's history and craft traditions — confirm the operator's approach to the visit beforehand." }
+                ],
+            };
+
+        case "is-tibetan-singing-bowl-sound-healing-worth-it-pokhara":
+            return {
+                title: "Is the Sound Healing Session with Tibetan Singing Bowls Worth It?",
+                description: "An honest look at the sound healing session with Tibetan singing bowls in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75319fccd7a6a32f629ea2ccb8b215585babeff46471822dd311d623184d5838.png",
+                sections: [
+                    { title: "The Short Answer", content: "A calm, relaxation-focused session using Tibetan singing bowls, worth it as a gentle, low-effort activity to decompress after an active hiking or adventure day rather than a cultural deep-dive.", tourCard: { slug: "pokhara-sound-healing-session-with-tibetan", title: "Pokhara: Sound Healing Session with Tibetan Singing Bowls", description: "A relaxation-focused sound healing session with Tibetan singing bowls.", price: "From $78", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75319fccd7a6a32f629ea2ccb8b215585babeff46471822dd311d623184d5838.png" } },
+                    { title: "Practical Tips", content: "Book this after a physically demanding day of hiking or adventure sports, since it's designed as a recovery and relaxation activity." }
+                ],
+                faqs: [
+                    { q: "Is the Tibetan singing bowl sound healing session worth it in Pokhara?", a: "Yes, as a gentle, relaxing way to decompress after an active day, rather than a major cultural experience in itself." }
+                ],
+            };
+
+        case "is-hop-on-hop-off-city-tour-worth-it-pokhara":
+            return {
+                title: "Is the Full-Day Hop-On Hop-Off City Tour Worth It in Pokhara?",
+                description: "An honest look at the full-day hop-on hop-off city tour in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A flexible, self-paced bus pass letting you get on and off at stops around your own schedule, worth it for independent travelers who want structure without committing to a fixed guided-group itinerary.", tourCard: { slug: "pokhara-full-day-hop-on-hop-off-city-tour", title: "Pokhara: Full-Day Hop-On Hop-Off City Tour at Your Own Pace", description: "A full-day hop-on hop-off city bus tour at your own pace.", price: "From $36", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg" } },
+                    { title: "Practical Tips", content: "Plan your stops in advance using the route map, since buses run on a schedule rather than on demand." }
+                ],
+                faqs: [
+                    { q: "Is the hop-on hop-off city tour worth it in Pokhara?", a: "Yes, for independent travelers wanting flexible structure without committing to a fixed guided-group itinerary." }
+                ],
+            };
+
         default:
             return null;
     }
