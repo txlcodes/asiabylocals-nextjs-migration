@@ -1395,6 +1395,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-118-tower-worth-it-shanghai":
+      return {
+        title: "Is Shanghai's 118 Tower Observation Deck Worth It?",
+        description: "An honest look at the Shanghai 118 Tower observation deck with optional guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "118 Tower gives a genuinely different skyline angle than the more famous Jin Mao, Oriental Pearl, or World Financial Center viewpoints, worth it specifically for travelers who've already done one of the classic towers and want a less crowded alternative with a comparable view.",
+            tourCard: { slug: "shanghai-118-tower-with-optional-guide", title: "Shanghai: 118 Tower with Optional Guide", description: "An observation deck ticket for Shanghai's 118 Tower, with an optional guide.", price: "From $52", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Add the guide option if you want context on what you're actually looking at across the skyline — otherwise it's just a view.",
+          },
+        ],
+        faqs: [
+          { q: "Is 118 Tower worth it in Shanghai?", a: "Yes, especially as a less crowded alternative to Jin Mao or the Oriental Pearl Tower, with a comparable skyline view." },
+        ],
+      };
+
+    case "is-qin-dynasty-vr-experience-worth-it-shanghai":
+      return {
+        title: "Is the Qin Dynasty Culture VR Experience Worth It in Shanghai?",
+        description: "An honest look at the Qin Dynasty culture VR experience ticket in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This VR experience recreates Qin Dynasty China in immersive virtual reality, worth it specifically for travelers wanting a modern, high-tech angle on ancient Chinese history, especially a good rainy-day or midday-heat alternative to outdoor sightseeing.",
+            tourCard: { slug: "shanghai-qin-dynasty-culture-vr-experience-ticket", title: "Shanghai: Qin Dynasty Culture VR Experience Ticket", description: "A VR experience ticket recreating Qin Dynasty China in Shanghai.", price: "From $64", duration: "45 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any motion sensitivity to VR beforehand — most venues can adjust the experience or offer breaks if needed.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Qin Dynasty VR experience worth it in Shanghai?", a: "Yes, for a modern, high-tech angle on ancient Chinese history and a good indoor alternative on a hot or rainy day." },
+        ],
+      };
+
+    case "is-ai-tui-na-massage-worth-it-shanghai":
+      return {
+        title: "Is the AI Tui Na Massage with Therapist Worth It in Shanghai?",
+        description: "An honest look at the AI-assisted Tui Na massage experience with a therapist in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing AI-assisted diagnostics with a genuine human Tui Na therapist gives this a novel, tech-forward spin on traditional Chinese massage, worth it specifically for travelers curious about how traditional therapy is adapting with modern tools, not just a standard spa session.",
+            tourCard: { slug: "shanghai-ai-tui-na-massage-with-therapist", title: "Shanghai: AI Tui Na Massage with Therapist", description: "An AI-assisted Tui Na massage experience with a therapist in Shanghai.", price: "From $81", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any specific aches or tension points beforehand so the therapist can focus the session accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the AI Tui Na massage worth it in Shanghai?", a: "Yes, for a genuinely novel, tech-forward take on traditional Chinese massage, not just a standard spa session." },
+        ],
+      };
+
+    case "is-suzhou-river-north-bund-walk-worth-it-shanghai":
+      return {
+        title: "Is the Suzhou River & North Bund Walking Tour Worth It in Shanghai?",
+        description: "An honest look at the Suzhou River and North Bund walking tour in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Suzhou River and North Bund area is a genuinely quieter, less touristed stretch than the main Bund waterfront, worth it specifically for travelers who've already seen the classic Bund skyline view and want a calmer, more local riverside walk.",
+            tourCard: { slug: "shanghai-suzhou-river-north-bund-walking-tour", title: "Shanghai: Suzhou River & North Bund Walking Tour", description: "A walking tour of the Suzhou River and North Bund area in Shanghai.", price: "From $71", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the late afternoon for softer light along the river before the main Bund skyline lights up at night.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Suzhou River and North Bund walk worth it in Shanghai?", a: "Yes, especially for travelers who've already seen the main Bund and want a calmer, more local riverside alternative." },
+        ],
+      };
+
     default:
       return null;
   }
