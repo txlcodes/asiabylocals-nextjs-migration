@@ -810,6 +810,62 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-lankaran-astara-longevity-tour-worth-it-baku":
+            return {
+                title: "Is the Longevity Secrets of Azerbaijan Lankaran & Astara Tour Worth It?",
+                description: "An honest look at the Lankaran and Astara longevity tour from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c29e33bc5fd9ac76ea9d35bea64f39f9197da1e49b8b5f68b819bc705de006be.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Lankaran and Astara region is known for an unusually high number of centenarians, and this tour explores the local diet, lifestyle and culture behind that reputation, worth it for travelers with genuine curiosity about the region's longevity traditions rather than just sightseeing.", tourCard: { slug: "baku-longevity-guided-tour", title: "Longevity Secrets of Azerbaijan: Lankaran & Astara tour", description: "A tour exploring the longevity traditions of Lankaran and Astara from Baku.", price: "From $526", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c29e33bc5fd9ac76ea9d35bea64f39f9197da1e49b8b5f68b819bc705de006be.jpeg" } },
+                    { title: "Practical Tips", content: "This is a long day given the distance from Baku, so prepare for substantial travel time on both ends." },
+                ],
+                faqs: [
+                    { q: "Is the Lankaran and Astara longevity tour worth it from Baku?", a: "Yes, for travelers with genuine curiosity about the region's unusual longevity traditions and lifestyle, beyond standard sightseeing." },
+                ],
+            };
+
+        case "is-nakhchivan-private-tour-worth-it-baku":
+            return {
+                title: "Is the Private Nakhchivan Day and 2-Day Tour Worth It from Baku?",
+                description: "An honest look at the private Nakhchivan day and 2-day tour from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1232db8b5b6cf0603c3271c5526324b486c4008fce11f7ae262d17098b9670b2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Nakhchivan, Azerbaijan's exclave separated from the mainland, holds genuinely distinct mountain scenery and historical sites most visitors never see, worth it for travelers curious about this isolated and little-visited region.", tourCard: { slug: "baku-nakhchivan-private-tour", title: "Private Nakhchivan day and 2 day tour", description: "A private day or 2-day tour of the Nakhchivan exclave from Baku.", price: "From $585", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1232db8b5b6cf0603c3271c5526324b486c4008fce11f7ae262d17098b9670b2.jpg" } },
+                    { title: "Practical Tips", content: "Confirm whether the tour includes the flight to Nakhchivan, since the exclave isn't reachable from Baku by road through Azerbaijan proper." },
+                ],
+                faqs: [
+                    { q: "Is the private Nakhchivan tour worth it from Baku?", a: "Yes, for travelers curious about this isolated exclave's genuinely distinct mountain scenery and historical sites." },
+                ],
+            };
+
+        case "is-ganja-goygol-overnight-worth-it-baku":
+            return {
+                title: "Is the Ganja City & Goygol Lake Overnight Tour Worth It from Baku?",
+                description: "An honest look at the Ganja City and Goygol Lake overnight tour from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07b7598f07206c8fdb2213df9e7d6208cab24cdeaa559ddb7b1b5d3338a8d2b2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Ganja, Azerbaijan's second-largest city, and the forested Goygol Lake give a genuine break from Baku's coastal urban feel, and an overnight format allows real time at both rather than a rushed day trip.", tourCard: { slug: "baku-ganja-city-goygol-lake-with-overnight", title: "Baku: Ganja City, Goygol Lake with overnight", description: "An overnight tour of Ganja City and Goygol Lake from Baku.", price: "From $494", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07b7598f07206c8fdb2213df9e7d6208cab24cdeaa559ddb7b1b5d3338a8d2b2.jpg" } },
+                    { title: "Practical Tips", content: "Pack for forest hiking around Goygol Lake, since the terrain is genuinely different from Baku's coastal environment." },
+                ],
+                faqs: [
+                    { q: "Is the Ganja City and Goygol Lake overnight tour worth it from Baku?", a: "Yes, for travelers wanting a genuine break from Baku's coastal city feel, with real time at both the city and the lake." },
+                ],
+            };
+
+        case "is-alpaca-formula1-tour-worth-it-baku":
+            return {
+                title: "Is the Alpaca Tour and Back in Time for Formula 1 Experience Worth It?",
+                description: "An honest look at the Alpaca Tour combined with a Formula 1 history stop from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c049520d140140ad0efd56cd6603f7608152cbb886971c2135b499c67d83fb9a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a genuinely unusual alpaca farm visit with a Formula 1 history stop makes for a quirky, varied half-day that's unlike anything else on Baku's standard sightseeing circuit, worth it for travelers wanting something different and photogenic.", tourCard: { slug: "baku-formula-guided-tour", title: "From Baku: Alpaca Tour, Back in Time for Formula 1", description: "A tour combining an alpaca farm visit with a Formula 1 history stop from Baku.", price: "From $481", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c049520d140140ad0efd56cd6603f7608152cbb886971c2135b499c67d83fb9a.jpg" } },
+                    { title: "Practical Tips", content: "Bring a camera — the alpacas are the clear highlight for most visitors on this quirky combination tour." },
+                ],
+                faqs: [
+                    { q: "Is the Alpaca Tour and Formula 1 experience worth it from Baku?", a: "Yes, for travelers wanting something genuinely different and photogenic, unlike anything else on Baku's standard sightseeing circuit." },
+                ],
+            };
+
         default:
             return null;
     }

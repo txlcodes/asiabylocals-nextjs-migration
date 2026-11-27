@@ -831,6 +831,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-neon-art-museum-worth-it-baku', 'is-history-museum-worth-it-baku',
     'is-guba-hiking-homestay-worth-it-baku', 'is-shahdag-paragliding-quad-coaster-worth-it-baku',
     'is-ski-zipline-snowmobile-worth-it-baku', 'is-frozen-waterfall-hiking-worth-it-baku',
+    'is-lankaran-astara-longevity-tour-worth-it-baku', 'is-nakhchivan-private-tour-worth-it-baku',
+    'is-ganja-goygol-overnight-worth-it-baku', 'is-alpaca-formula1-tour-worth-it-baku',
   ], 'azerbaijan', 'baku');
   const singaporeInfoPages = mapInfoSlugs([
     'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',
