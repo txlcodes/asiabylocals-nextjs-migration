@@ -1970,6 +1970,65 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-georgian-national-museum-worth-it-tbilisi":
+            return {
+                title: "Is the Georgian National Museum Worth It in Tbilisi?",
+                description: "An honest look at the Georgian National Museum entry ticket in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Georgian National Museum covers the country's broad history from ancient archaeology to Soviet-era occupation, giving context the city's narrower Stalin-focused museums don't, worth it specifically for travelers wanting one comprehensive stop rather than several niche history sites.", tourCard: { slug: "georgian-national-museum-entry-ticket", title: "Georgian National Museum Entry Ticket", description: "An entry ticket to the Georgian National Museum in Tbilisi.", price: "From $49", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg" } },
+                    { title: "Practical Tips", content: "Budget a full morning or afternoon — the museum's collections span from ancient archaeology to the 20th century and reward unhurried visits." }
+                ],
+                faqs: [
+                    { q: "Is the Georgian National Museum worth it in Tbilisi?", a: "Yes, for travelers wanting one comprehensive stop covering the country's full history, rather than several narrower, niche history sites." }
+                ],
+            };
+
+        case "is-soviet-metro-railway-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Soviet Metro and Railway Guided Tour Worth It in Tbilisi?",
+                description: "An honest look at the history of Soviet metro and railway guided tour in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour focuses specifically on the city's Soviet-era metro and railway infrastructure, a narrower, more technical angle than the general Soviet Underworld or urbex tours, worth it specifically for travelers genuinely interested in transit history and engineering.",
+                    tourCard: { slug: "tbilisi-history-of-soviet-metro-railway-guided", title: "Tbilisi: History of Soviet Metro & Railway Guided Tour", description: "A guided tour covering the history of Tbilisi's Soviet-era metro and railway.", price: "From $44", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg" } },
+                    { title: "Practical Tips", content: "If you want broader Soviet-era history rather than transit specifics, the Soviet Underworld or urbex tours are the better fit instead." }
+                ],
+                faqs: [
+                    { q: "Is the Soviet metro and railway tour worth it in Tbilisi?", a: "Yes, specifically for travelers genuinely interested in transit history and engineering, a narrower angle than the city's broader Soviet-era tours." }
+                ],
+            };
+
+        case "is-old-town-brunch-worth-it-tbilisi":
+            return {
+                title: "Is the Old Town Brunch with a Local Guide Worth It in Tbilisi?",
+                description: "An honest look at the Old Town brunch experience with a local guide in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A relaxed morning brunch with a local guide gives genuine insight into Georgian breakfast culture at a slower pace than a walking food tour, worth it specifically for travelers wanting a calmer, conversational start to the day rather than a packed sightseeing morning.",
+                    tourCard: { slug: "tbilisi-old-town-brunch-with-a-local-guide", title: "Tbilisi: Old Town Brunch with a Local Guide", description: "A relaxed Old Town brunch experience with a local guide.", price: "From $46", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg" } },
+                    { title: "Practical Tips", content: "Come with questions for your guide — the conversational, relaxed format is built for genuine back-and-forth, not a scripted tour." }
+                ],
+                faqs: [
+                    { q: "Is the Old Town brunch with a local guide worth it in Tbilisi?", a: "Yes, for a calmer, conversational morning that gives genuine insight into Georgian breakfast culture, at a slower pace than a walking food tour." }
+                ],
+            };
+
+        case "is-pizza-khachapuri-burger-class-worth-it-tbilisi":
+            return {
+                title: "Is the Pizza, Khachapuri, or Burger Cooking Class Worth It in Tbilisi?",
+                description: "An honest look at the pizza, khachapuri, or burger cooking class in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Letting you choose between pizza, khachapuri, or burger gives this class more flexibility than a fixed-menu khinkali workshop, worth it specifically for mixed groups or families where not everyone wants the same traditional Georgian dish.",
+                    tourCard: { slug: "tbilisi-pizza-khachapuri-or-burger-cooking-class", title: "Tbilisi: Pizza, Khachapuri, or Burger Cooking Class", description: "A flexible cooking class with a choice between pizza, khachapuri, or burger.", price: "From $51", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg" } },
+                    { title: "Practical Tips", content: "Pick khachapuri specifically if you want the traditional Georgian dish — the pizza and burger options are more crowd-pleasing but less locally distinctive." }
+                ],
+                faqs: [
+                    { q: "Is the pizza, khachapuri, or burger cooking class worth it in Tbilisi?", a: "Yes, specifically for mixed groups or families wanting flexibility, rather than everyone being locked into one traditional Georgian dish." }
+                ],
+            };
+
         default:
             return null;
     }

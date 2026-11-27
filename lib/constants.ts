@@ -441,6 +441,8 @@ export const TBILISI_INFO_SLUGS = [
   'is-stalin-printing-house-tour-worth-it-tbilisi', 'is-park-of-achievements-tour-worth-it-tbilisi',
   'is-artisan-ice-cream-tasting-worth-it-tbilisi', 'is-cup-drawing-coffee-photo-tour-worth-it-tbilisi',
   'is-sololaki-vera-cemetery-tour-worth-it-tbilisi', 'is-city-quest-surprise-ending-worth-it-tbilisi',
+  'is-georgian-national-museum-worth-it-tbilisi', 'is-soviet-metro-railway-tour-worth-it-tbilisi',
+  'is-old-town-brunch-worth-it-tbilisi', 'is-pizza-khachapuri-burger-class-worth-it-tbilisi',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.
