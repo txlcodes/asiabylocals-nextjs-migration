@@ -1699,6 +1699,62 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-khao-yai-glamping-safari-worth-it-bangkok":
+            return {
+                title: "Is the Khao Yai Glamping Safari Tent Stay Worth It from Bangkok?",
+                description: "An honest look at the Khao Yai 3-day glamping safari tent stay from Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khao-yai-3-day-glamping-safari-tent-stay-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Khao Yai National Park gives real jungle and wild elephant scenery within easy reach of Bangkok, and a multi-day glamping tent stay turns it into a genuine nature escape rather than a rushed day trip, worth it for travelers wanting to actually experience the park rather than skim it.", tourCard: { slug: "khao-yai-3-day-glamping-safari-tent-stay-bangkok", title: "Khao Yai: 3-Day Glamping Safari Tent Stay (Bangkok)", description: "A 3-day glamping safari tent stay in Khao Yai National Park from Bangkok.", price: "From $1444", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/khao-yai-3-day-glamping-safari-tent-stay-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pack proper outdoor clothing and insect repellent, since the glamping tents put you genuinely close to the park's wildlife." }
+                ],
+                faqs: [
+                    { q: "Is the Khao Yai glamping safari worth it from Bangkok?", a: "Yes, for travelers wanting to genuinely experience the national park's wildlife rather than rush through on a single day trip." }
+                ],
+            };
+
+        case "is-photography-class-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Photography Class Worth It?",
+                description: "An honest look at the Bangkok photography class with the pros.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773829659/tours/bangkok/tours/bangkok_1773829659248_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Learning real photography technique from a working photographer while shooting Bangkok's streets and temples gives a genuinely useful skill alongside the sightseeing, worth it for travelers wanting to improve their photos, not just take them.", tourCard: { slug: "bangkok-photography-class-workshop", title: "Bangkok Photography Class with the Pros", description: "A photography class with a professional photographer in Bangkok.", price: "From $328", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773829659/tours/bangkok/tours/bangkok_1773829659248_0.jpg" } },
+                    { title: "Practical Tips", content: "Bring your own camera, even a smartphone, and ask the instructor to tailor the lesson to the gear you actually use." }
+                ],
+                faqs: [
+                    { q: "Is the Bangkok photography class worth it?", a: "Yes, for travelers wanting to genuinely improve their photography skills while shooting the city's streets and temples." }
+                ],
+            };
+
+        case "is-khlong-toei-scavenger-hunt-worth-it-bangkok":
+            return {
+                title: "Is the Khlong Toei Market Scavenger Hunt Worth It in Bangkok?",
+                description: "An honest look at the Khlong Toei Market scavenger hunt with tuk-tuk and river boat in Bangkok.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773742435/tours/bangkok/tours/bangkok_1773742434677_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Turning a visit to Khlong Toei, one of Bangkok's biggest working wholesale markets, into a scavenger hunt gives a genuinely fun, interactive way to explore a market most tourists never see, worth it for travelers wanting something playful and off the standard circuit.", tourCard: { slug: "bangkok-scavenger-hunt-tour", title: "Bangkok: Khlong Toei Market Scavenger Hunt with Tuk-Tuk & River Boat", description: "A scavenger hunt through Khlong Toei Market with tuk-tuk and river boat transport.", price: "From $308", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773742435/tours/bangkok/tours/bangkok_1773742434677_0.jpg" } },
+                    { title: "Practical Tips", content: "Go with an appetite for exploring — Khlong Toei is dense and chaotic by design, which is part of the fun." }
+                ],
+                faqs: [
+                    { q: "Is the Khlong Toei Market scavenger hunt worth it in Bangkok?", a: "Yes, for a genuinely fun, interactive way to explore a major working market most tourists never see." }
+                ],
+            };
+
+        case "is-nakhon-nayok-waterfalls-atv-worth-it-bangkok":
+            return {
+                title: "Is the Nakhon Nayok Waterfalls and ATV Adventure Worth It from Bangkok?",
+                description: "An honest look at the Nakhon Nayok waterfalls and ATV adventures with King Dam from Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nakhon-nayok-waterfalls-and-atv-adventures-king-dam-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Nakhon Nayok's waterfalls and ATV trails near King Dam give a genuinely active, outdoorsy day trip that's different from Bangkok's temple-and-market circuit, worth it for travelers wanting adventure activity closer to the city than Khao Yai.", tourCard: { slug: "nakhon-nayok-waterfalls-and-atv-adventures-king-dam-in-bangkok", title: "Nakhon Nayok Waterfalls and ATV Adventures + King Dam in Bangkok", description: "A day trip to Nakhon Nayok's waterfalls and ATV trails with a King Dam stop from Bangkok.", price: "From $338", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/nakhon-nayok-waterfalls-and-atv-adventures-king-dam-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting muddy, since the ATV trails and waterfall areas involve genuine off-road conditions." }
+                ],
+                faqs: [
+                    { q: "Is the Nakhon Nayok waterfalls and ATV adventure worth it from Bangkok?", a: "Yes, for travelers wanting a genuinely active outdoor day closer to the city than a full Khao Yai trip." }
+                ],
+            };
+
         case "is-muay-thai-class-worth-it-phuket":
             return {
                 title: "Is the Muay Thai Training Class Worth It in Phuket?",

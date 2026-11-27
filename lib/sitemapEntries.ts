@@ -1566,6 +1566,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-muay-thai-match-worth-it-bangkok', 'is-wat-arun-canal-tour-worth-it-bangkok',
     'is-muay-thai-class-worth-it-bangkok', 'is-canal-boat-tour-wat-paknam-worth-it-bangkok',
     'is-heritage-walk-giant-swing-golden-mount-worth-it-bangkok', 'is-red-sky-rooftop-bar-worth-it-bangkok',
+    'is-khao-yai-glamping-safari-worth-it-bangkok', 'is-photography-class-worth-it-bangkok',
+    'is-khlong-toei-scavenger-hunt-worth-it-bangkok', 'is-nakhon-nayok-waterfalls-atv-worth-it-bangkok',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),

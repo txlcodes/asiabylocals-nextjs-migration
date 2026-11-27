@@ -1584,6 +1584,8 @@ export const BANGKOK_INFO_SLUGS = [
   'is-muay-thai-match-worth-it-bangkok', 'is-wat-arun-canal-tour-worth-it-bangkok',
   'is-muay-thai-class-worth-it-bangkok', 'is-canal-boat-tour-wat-paknam-worth-it-bangkok',
   'is-heritage-walk-giant-swing-golden-mount-worth-it-bangkok', 'is-red-sky-rooftop-bar-worth-it-bangkok',
+  'is-khao-yai-glamping-safari-worth-it-bangkok', 'is-photography-class-worth-it-bangkok',
+  'is-khlong-toei-scavenger-hunt-worth-it-bangkok', 'is-nakhon-nayok-waterfalls-atv-worth-it-bangkok',
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
