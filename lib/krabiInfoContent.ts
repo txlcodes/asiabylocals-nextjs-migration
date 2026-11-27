@@ -888,6 +888,62 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-ao-nang-bar-crawl-worth-it-krabi":
+            return {
+                title: "Is the Ao Nang Bar Crawl Worth It in Krabi?",
+                description: "An honest look at the Ao Nang bar crawl covering five venues with free shots and a club finish.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Hitting five venues in one guided night with a club finish takes the planning out of a night out, worth it specifically for solo travelers or small groups wanting to meet people and hit Ao Nang's nightlife spots without researching them individually.", tourCard: { slug: "ao-nang-venues-guided-tour", title: "Ao Nang Bar Crawl: Five Venues, Free Shots and a Club Finish", description: "A guided bar crawl through five Ao Nang venues ending at a club.", price: "From $27", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pace your drinking across five venues and a club finish — it's a long night, and the free shots at each stop add up." }
+                ],
+                faqs: [
+                    { q: "Is the Ao Nang bar crawl worth it in Krabi?", a: "Yes, specifically for solo travelers or small groups wanting an easy, social night out without planning their own bar route." }
+                ],
+            };
+
+        case "is-deer-farm-experience-worth-it-krabi":
+            return {
+                title: "Is the Deer Farm Experience with Feeding, Dining and Sunset Worth It?",
+                description: "An honest look at the deer farm experience with feeding, dining, and sunset near Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Feeding deer at a dedicated farm followed by dinner and sunset views gives a genuinely different, calmer wildlife activity than Krabi's usual elephant sanctuaries and boat tours, worth it specifically for families or travelers wanting a relaxed, low-key evening.", tourCard: { slug: "deer-farm-experience-with-feeding-dining-and-sunset-trang-in-krabi", title: "Deer Farm Experience with Feeding, Dining and Sunset – Trang", description: "A deer farm feeding experience with dining and sunset views.", price: "From $50", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the exact pickup location and distance beforehand, since this experience is based out toward Trang, not directly in central Krabi." }
+                ],
+                faqs: [
+                    { q: "Is the deer farm experience worth it near Krabi?", a: "Yes, specifically for families or travelers wanting a calm, low-key wildlife evening, a genuine change of pace from elephant sanctuaries and boat tours." }
+                ],
+            };
+
+        case "is-stand-up-paddle-board-rental-worth-it-krabi":
+            return {
+                title: "Is Stand Up Paddle Board Rental at Ao Nang Beach Worth It?",
+                description: "An honest look at the stand up paddle board rental at Ao Nang Beach in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Renting your own paddle board gives genuine freedom to explore Ao Nang's waters at your own pace, worth it specifically for confident, independent travelers who'd rather set their own route than join a guided kayak or boat tour.", tourCard: { slug: "stand-up-paddle-board-rental-ao-nang-beach", title: "Stand Up Paddle Board Rental Ao Nang Beach", description: "A stand up paddle board rental at Ao Nang Beach.", price: "From $67", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check conditions before heading out on your own — Ao Nang's waters can get choppier in the afternoon, so mornings are generally calmer for paddling." }
+                ],
+                faqs: [
+                    { q: "Is the stand up paddle board rental worth it at Ao Nang Beach?", a: "Yes, specifically for confident, independent travelers wanting to explore the water at their own pace rather than joining a guided tour." }
+                ],
+            };
+
+        case "is-krabi-sunrise-market-river-heritage-tour-worth-it-krabi":
+            return {
+                title: "Is the Krabi Sunrise Market and River Heritage Tour Worth It?",
+                description: "An honest look at the Krabi sunrise market and river heritage tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting Krabi's morning market and riverside heritage sites gives a genuinely local, non-beach side of the town, worth it specifically for travelers wanting to see how residents actually shop and live rather than another island-hopping day.", tourCard: { slug: "krabi-sunrise-market-and-river-heritage-tour-by-local-operator", title: "Krabi Sunrise Market and River Heritage Tour", description: "A guided tour of Krabi's sunrise market and riverside heritage sites.", price: "From $74", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Set an early alarm — the market's genuine local atmosphere is at its best before the day heats up." }
+                ],
+                faqs: [
+                    { q: "Is the Krabi sunrise market and river heritage tour worth it?", a: "Yes, for travelers wanting a genuinely local, non-beach side of Krabi Town, distinct from another island-hopping day." }
+                ],
+            };
+
         default:
             return null;
     }
