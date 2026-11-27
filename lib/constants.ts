@@ -1464,6 +1464,8 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'is-thai-cooking-class-worth-it-chiang-mai', 'is-monk-chat-worth-it-chiang-mai',
   'is-muay-thai-match-worth-it-chiang-mai', 'is-sticky-waterfall-tour-worth-it-chiang-mai',
   'is-sky-hawk-zipline-worth-it-chiang-mai', 'is-ladyboy-cabaret-worth-it-chiang-mai',
+  'is-crystal-bead-bracelet-workshop-worth-it-chiang-mai', 'is-canal-tour-herb-garden-worth-it-chiang-mai',
+  'is-pha-chor-grand-canyon-worth-it-chiang-mai', 'is-michelin-gastronomic-tour-worth-it-chiang-mai',
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',

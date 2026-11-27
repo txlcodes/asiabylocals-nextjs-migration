@@ -898,6 +898,62 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-crystal-bead-bracelet-workshop-worth-it-chiang-mai":
+            return {
+                title: "Is the Crystal Bead DIY Bracelet Workshop Worth It in Chiang Mai?",
+                description: "An honest look at the crystal bead DIY bracelet workshop in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/crystal-bead-diy-bracelet-workshop-with-shuttle-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A relaxed, low-commitment craft workshop where you design and assemble your own crystal bead bracelet, worth it as a short, easy activity between temple visits rather than a major cultural experience.", tourCard: { slug: "crystal-bead-diy-bracelet-workshop-with-shuttle-in-chiang-mai", title: "Crystal Bead DIY Bracelet Workshop with Shuttle in Chiang Mai", description: "A hands-on crystal bead bracelet-making workshop with shuttle service.", price: "From $33", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/crystal-bead-diy-bracelet-workshop-with-shuttle-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the shuttle pickup location in advance, since it's included but timing can vary by hotel area." }
+                ],
+                faqs: [
+                    { q: "Is the crystal bead DIY bracelet workshop worth it in Chiang Mai?", a: "Yes, as a relaxed, easy craft activity to slot between temple visits, though it's a short session rather than a major cultural experience." }
+                ],
+            };
+
+        case "is-canal-tour-herb-garden-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Mai Canal Tour with Thai Herb Garden Worth It?",
+                description: "An honest look at the Chiang Mai canal tour with local life and a Thai herb garden stop.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chiang-mai-2-hr-canal-tour-local-life-and-thai-herb-garden-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour moves along Chiang Mai's canals to show everyday local life away from the temple circuit, pairing it with a stop at a Thai herb garden, worth it for travelers who want a slower, more local-feeling morning than the standard sightseeing route.", tourCard: { slug: "chiang-mai-2-hr-canal-tour-local-life-and-thai-herb-garden-by-local-operator", title: "Chiang Mai 2-Hr Canal Tour: Local Life and Thai Herb Garden", description: "A guided canal tour covering local life and a Thai herb garden.", price: "From $25", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chiang-mai-2-hr-canal-tour-local-life-and-thai-herb-garden-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask about the herbs used in the garden stop — many have traditional medicinal uses worth learning about beyond just seeing them." }
+                ],
+                faqs: [
+                    { q: "Is the Chiang Mai canal tour with Thai herb garden worth it?", a: "Yes, it's a slower, genuinely local-feeling morning, distinct from the city's standard temple-focused sightseeing route." }
+                ],
+            };
+
+        case "is-pha-chor-grand-canyon-worth-it-chiang-mai":
+            return {
+                title: "Is the Pha Chor Nature Trail & Chiang Mai Grand Canyon Water Park Worth It?",
+                description: "An honest look at the Pha Chor nature trail and Chiang Mai Grand Canyon water park tour.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1784887324/tours/pha-chor-nature-trail-chiang-mai-grand-canyon-water-park/img_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pha Chor's eroded sandstone canyon landscape is a genuinely striking, lesser-known natural feature, paired here with the Grand Canyon water park's cliff-jumping and swimming, worth it for travelers who want an active, scenic day away from the temple circuit.", tourCard: { slug: "pha-chor-nature-trail-mae-wang-national-park-guided-tour", title: "Pha Chor Nature Trail & Chiang Mai Grand Canyon Water Park", description: "A guided tour combining the Pha Chor nature trail and Grand Canyon water park.", price: "From $76", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1784887324/tours/pha-chor-nature-trail-chiang-mai-grand-canyon-water-park/img_0.jpg" } },
+                    { title: "Practical Tips", content: "Bring swimwear and a change of clothes for the water park portion, and check current water levels and safety rules before any cliff jumping." }
+                ],
+                faqs: [
+                    { q: "Is the Pha Chor nature trail and Grand Canyon water park tour worth it?", a: "Yes, for an active, scenic day combining a striking natural landscape with swimming, a genuine change of pace from Chiang Mai's temple circuit." }
+                ],
+            };
+
+        case "is-michelin-gastronomic-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Michelin Guide Gastronomic Tour Worth It in Chiang Mai?",
+                description: "An honest look at the Michelin Guide gastronomic tour in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/michelin-guide-gastronomic-tour-in-chiang-mai-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour is built around Michelin-recognized stalls and restaurants specifically, worth it for travelers who want a curated, vetted food itinerary rather than hunting down Bib Gourmand spots themselves, though expect the queues and name-recognition pricing that comes with Michelin-listed places.", tourCard: { slug: "michelin-guide-gastronomic-tour-in-chiang-mai-by-local-operator", title: "MICHELIN GUIDE GASTRONOMIC TOUR IN CHIANG MAI", description: "A guided food tour built around Michelin Guide-recognized spots.", price: "From $70", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/michelin-guide-gastronomic-tour-in-chiang-mai-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go hungry and pace yourself — Michelin-recognized street stalls often have the longest queues in the city, so arriving with a guide saves real waiting time." }
+                ],
+                faqs: [
+                    { q: "Is the Michelin Guide gastronomic tour worth it in Chiang Mai?", a: "Yes, for a curated, vetted food itinerary that saves the legwork of finding Bib Gourmand spots yourself." }
+                ],
+            };
+
         default:
             return null;
     }
