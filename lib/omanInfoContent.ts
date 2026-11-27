@@ -1482,6 +1482,62 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-qalhat-village-wadi-tour-worth-it-muscat":
+            return {
+                title: "Is the Qalhat Omani Village & Wadi Tour Worth It from Muscat?",
+                description: "An honest look at the Qalhat Omani village and wadi tour with rooftop terrace dining.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a896333c0b5188b6c00ba8e4b6c362aa9d2f608fc02f6a4e7a45fd64473dbe2c.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Qalhat is a genuinely lesser-known historic Omani village and wadi, and pairing the visit with rooftop terrace dining gives a relaxed, scenic end to the day, worth it for travelers who've already covered Muscat's main sights and want somewhere quieter.", tourCard: { slug: "qalhat-omani-village-wadi-tour-and-rooftop", title: "Qalhat: Omani Village & Wadi Tour and Rooftop Terrace Dining", description: "A tour of Qalhat's historic village and wadi with rooftop terrace dining.", price: "From $97", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a896333c0b5188b6c00ba8e4b6c362aa9d2f608fc02f6a4e7a45fd64473dbe2c.jpeg" } },
+                    { title: "Practical Tips", content: "Time the tour to end near sunset so the rooftop dining portion gets the best light over the village." }
+                ],
+                faqs: [
+                    { q: "Is the Qalhat Omani village and wadi tour worth it from Muscat?", a: "Yes, especially once you've covered Muscat's main sights and want a quieter, scenic alternative." }
+                ],
+            };
+
+        case "is-coastal-hike-mountain-beach-worth-it-muscat":
+            return {
+                title: "Is the Muscat Coastal Hike (Mountain & Beach Trail) Worth It?",
+                description: "An honest look at the Muscat coastal hike covering a mountain and beach trail at sunrise or sunset.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/17b7b3b145d97956cda3aa082fcfd9a4684d47d0689345bb589e36a2ddf7cdcd.png",
+                sections: [
+                    { title: "The Short Answer", content: "This hike combines mountain terrain with a coastal beach trail in one outing, worth it for travelers wanting genuine physical activity with dramatic views, timed either for sunrise or sunset light.", tourCard: { slug: "muscat-coastal-hike-mountain-beach-trail", title: "Muscat Coastal Hike: Mountain & Beach Trail Sunrise/Sunset", description: "A coastal hike combining mountain and beach trail terrain at sunrise or sunset.", price: "From $85", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/17b7b3b145d97956cda3aa082fcfd9a4684d47d0689345bb589e36a2ddf7cdcd.png" } },
+                    { title: "Practical Tips", content: "Choose the sunrise slot if you want cooler hiking temperatures — Muscat heats up fast once the sun is fully up." }
+                ],
+                faqs: [
+                    { q: "Is the Muscat coastal hike worth it?", a: "Yes, for genuine physical activity combining mountain and beach terrain with dramatic sunrise or sunset views." }
+                ],
+            };
+
+        case "is-wadi-huwqain-hike-swim-worth-it-muscat":
+            return {
+                title: "Is the Wadi Huwqain Hike and Swim Worth It from Muscat?",
+                description: "An honest look at the Wadi Huwqain hike and swim tour with a local guide from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/17f6671d7559ffd4bf668e61790a4075cfe7f7591e99ec2b84cc9394c842be75.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Wadi Huwqain is a less-visited wadi than Wadi Al Shab, and a local guide knows the safest swimming spots and the best route through it, worth it for travelers wanting a quieter wadi experience away from the more crowded, better-known canyons.", tourCard: { slug: "muscat-wadi-huwqain-hike-and-swim-with-local-guide", title: "Muscat: Wadi Huwqain Hike and Swim with Local Guide", description: "A guided hike and swim through Wadi Huwqain.", price: "From $98", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/17f6671d7559ffd4bf668e61790a4075cfe7f7591e99ec2b84cc9394c842be75.jpg" } },
+                    { title: "Practical Tips", content: "Bring swimwear under your hiking clothes and water shoes, since the terrain alternates between rocky trail and swimming pools." }
+                ],
+                faqs: [
+                    { q: "Is the Wadi Huwqain hike and swim worth it from Muscat?", a: "Yes, for a quieter wadi experience with a local guide, away from the more crowded Wadi Al Shab." }
+                ],
+            };
+
+        case "is-bandar-al-khayran-journey-worth-it-muscat":
+            return {
+                title: "Is the Bandar Al Khayran Journey Worth It from Muscat?",
+                description: "An honest look at the Bandar Al Khayran group tour with snorkeling from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bandar Al Khayran's sheltered inlets and clear water make for genuinely good snorkeling close to the city, worth it for travelers who want a marine day trip without the longer journey out to the Daymaniat Islands.", tourCard: { slug: "bandar-al-khayran-journey-group-tour-with", title: "Bandar Al Khayran Journey: Group Tour with Snorkeling", description: "A group boat tour with snorkeling at Bandar Al Khayran.", price: "From $78", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "Bring your own snorkel gear if you have it and prefer a better fit, though basic equipment is typically provided." }
+                ],
+                faqs: [
+                    { q: "Is the Bandar Al Khayran journey worth it from Muscat?", a: "Yes, for genuinely good snorkeling close to the city, without the longer trip out to the Daymaniat Islands." }
+                ],
+            };
+
         default:
             return null;
     }
