@@ -272,6 +272,8 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'is-night-heritage-food-walk-worth-it-kuala-lumpur', 'is-cooking-class-with-market-tour-worth-it-kuala-lumpur',
   'is-pewter-workshop-worth-it-kuala-lumpur', 'is-multi-faith-heritage-tour-worth-it-kuala-lumpur',
   'is-durian-academy-tour-worth-it-kuala-lumpur', 'is-kampung-baru-walking-tour-worth-it-kuala-lumpur',
+  'is-putrajaya-lake-cruise-tour-worth-it-kuala-lumpur', 'is-chinatown-central-market-tour-worth-it-kuala-lumpur',
+  'is-sultan-abdul-samad-building-tour-worth-it-kuala-lumpur', 'is-kuala-gandah-batu-caves-private-trip-worth-it-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [

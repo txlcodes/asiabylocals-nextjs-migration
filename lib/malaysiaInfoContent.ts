@@ -4207,6 +4207,75 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-putrajaya-lake-cruise-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Putrajaya Tour with Lake Cruise Worth It from Kuala Lumpur?",
+                description: "An honest look at the Putrajaya day tour with lake cruise from Kuala Lumpur.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Putrajaya, Malaysia's purpose-built administrative capital, is full of striking mosque and government architecture best appreciated from the water, making the lake cruise a genuinely different angle than Kuala Lumpur's own city tours.", tourCard: { slug: "from-kuala-lumpur-putrajaya-tour-with-lake-cruise", title: "From Kuala Lumpur: Putrajaya Tour with Lake Cruise", description: "A guided day tour of Putrajaya including a lake cruise.", price: "From $59", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Visit the Pink Mosque (Putra Mosque) with modest dress, since it's the tour's architectural highlight and has a dress code." }
+                ],
+                faqs: [
+                    { q: "Is the Putrajaya tour with lake cruise worth it?", a: "Yes, specifically for the lake cruise angle on Putrajaya's mosque and government architecture, which you don't get from a standard walking tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Putrajaya lake cruise tour worth it from Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different, water-based angle on Putrajaya's architecture." } }
+                ] },
+            };
+
+        case "is-chinatown-central-market-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Chinatown and Central Market Tour Worth It in Kuala Lumpur?",
+                description: "An honest look at the Kuala Lumpur Chinatown and Central Market guided tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Petaling Street's Chinatown and the colonial-era Central Market cover a different cultural layer of KL than the Malay-focused Kampung Baru walk, worth it specifically for travelers wanting a more complete picture of the city's multi-ethnic history.", tourCard: { slug: "kuala-lumpur-chinatown-central-market", title: "Kuala Lumpur: Chinatown & Central Market", description: "A guided tour of Kuala Lumpur's Chinatown and the historic Central Market.", price: "From $41", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Bargain at the Central Market's craft stalls, but expect fixed prices at the surrounding food stalls." }
+                ],
+                faqs: [
+                    { q: "Is the Chinatown and Central Market tour worth it in Kuala Lumpur?", a: "Yes, for travelers wanting to see the city's Chinese-Malaysian heritage alongside its Malay and colonial layers." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chinatown and Central Market tour worth it in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a more complete picture of the city's multi-ethnic history alongside its Malay heritage sites." } }
+                ] },
+            };
+
+        case "is-sultan-abdul-samad-building-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Sultan Abdul Samad Building Private Tour Worth It?",
+                description: "An honest look at the private tour of the Sultan Abdul Samad Building in Kuala Lumpur.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This Moorish-style colonial building facing Merdeka Square is one of KL's most photographed landmarks, and a private, guided visit adds historical depth that a quick photo stop on a bigger city tour usually skips.", tourCard: { slug: "kuala-lumpur-sultan-abdul-samad-building-private", title: "Kuala Lumpur: Sultan Abdul Samad Building Private Tour", description: "A private guided tour of the Sultan Abdul Samad Building and Merdeka Square.", price: "From $39", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Combine it with a Merdeka Square walk, since the building sits directly across from the square's other colonial landmarks." }
+                ],
+                faqs: [
+                    { q: "Is the Sultan Abdul Samad Building tour worth it?", a: "Yes, for travelers wanting real historical depth on this landmark rather than just a passing photo stop." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sultan Abdul Samad Building private tour worth it in Kuala Lumpur?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine historical depth on this landmark beyond a quick photo stop." } }
+                ] },
+            };
+
+        case "is-kuala-gandah-batu-caves-private-trip-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kuala Gandah and Batu Caves Private Trip Worth It?",
+                description: "An honest look at the combined Kuala Gandah elephant sanctuary and Batu Caves private trip from Kuala Lumpur.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the Kuala Gandah elephant sanctuary with Batu Caves in one private trip covers a wildlife angle that the city's many standalone Batu Caves tours don't include, worth it specifically for travelers wanting both in a single day without arranging separate transport.", tourCard: { slug: "kuala-lumpur-kuala-gandah-and-batu-caves-private", title: "Kuala Lumpur: Kuala Gandah and Batu Caves Private Trip", description: "A private day trip combining the Kuala Gandah elephant sanctuary and Batu Caves.", price: "From $81", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Ask the operator specifically about the sanctuary's animal welfare practices before booking, as with any elephant encounter in Southeast Asia." }
+                ],
+                faqs: [
+                    { q: "Is Kuala Gandah elephant sanctuary ethical to visit?", a: "Standards vary by operator — ask directly about hands-on contact and animal welfare practices before booking." },
+                    { q: "Is the Kuala Gandah and Batu Caves private trip worth it?", a: "Yes, for travelers wanting both the wildlife and cave temple experience in one day without separate transport." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kuala Gandah and Batu Caves private trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers wanting both a wildlife encounter and Batu Caves in one private day trip." } }
+                ] },
+            };
+
         case "is-spice-garden-cooking-class-worth-it-penang":
             return {
                 title: "Is the Tropical Spice Garden Cooking Class Worth It in Penang?",
