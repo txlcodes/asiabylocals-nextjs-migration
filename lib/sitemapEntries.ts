@@ -133,6 +133,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-street-art-walk-chai-worth-it-delhi', 'is-chai-master-class-worth-it-delhi',
     'is-narnaul-skydiving-worth-it-delhi', 'is-tungnath-chandrashila-trek-worth-it-delhi',
     'is-same-day-varanasi-flight-worth-it-delhi', 'is-rishikesh-yoga-ayurveda-worth-it-delhi',
+    'is-kashmir-8day-shikara-gulmarg-worth-it-delhi', 'is-sultanpur-bird-sanctuary-2day-worth-it-delhi',
+    'is-kasol-3day-tour-worth-it-delhi', 'is-overnight-bodhgaya-flight-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

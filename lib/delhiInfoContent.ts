@@ -1967,6 +1967,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kashmir-8day-shikara-gulmarg-worth-it-delhi":
+      return {
+        title: "Is the Delhi to Kashmir 8-Day Tour with Shikara & Gulmarg Worth It?",
+        description: "An honest look at the 8-day Delhi to Kashmir tour with shikara boat rides and Gulmarg.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-to-kashmir-8-day-tour-with-shikara-gulmarg/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Eight days covering Kashmir's Dal Lake shikara boat rides and Gulmarg's mountain scenery gives genuine depth to a region most Delhi-based itineraries skip entirely, worth it for travelers with enough time who want a complete Kashmir trip rather than a rushed add-on.",
+            tourCard: { slug: "delhi-to-kashmir-8-day-tour-with-shikara-gulmarg", title: "Delhi to Kashmir: 8-Day Tour with Shikara & Gulmarg", description: "An 8-day tour from Delhi to Kashmir covering shikara boat rides and Gulmarg.", price: "From $831", duration: "8 days", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-to-kashmir-8-day-tour-with-shikara-gulmarg/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the season before booking, since Gulmarg's appeal shifts dramatically between snow season and the warmer months.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 8-day Delhi to Kashmir tour worth it?", a: "Yes, for travelers with enough time who want a complete Kashmir trip, rather than rushing the region as a quick add-on." },
+        ],
+      };
+
+    case "is-sultanpur-bird-sanctuary-2day-worth-it-delhi":
+      return {
+        title: "Is the Sultanpur Bird Sanctuary 2-Day Tour Worth It from Delhi?",
+        description: "An honest look at the 2-day Sultanpur Bird Sanctuary tour from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sultanpur-bird-sanctuary-2-day-tour-from-delhi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sultanpur's wetlands draw genuine migratory bird diversity close enough to Delhi for a short, unhurried 2-day trip, worth it specifically for birdwatchers and nature photographers wanting real time rather than a rushed day visit.",
+            tourCard: { slug: "sultanpur-bird-sanctuary-2-day-tour-from-delhi", title: "Sultanpur Bird Sanctuary: 2-Day Tour from Delhi", description: "A 2-day birdwatching tour of Sultanpur Bird Sanctuary from Delhi.", price: "From $390", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sultanpur-bird-sanctuary-2-day-tour-from-delhi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit during the winter migratory season for the best bird diversity, since numbers drop sharply outside that window.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Sultanpur Bird Sanctuary tour worth it from Delhi?", a: "Yes, specifically for birdwatchers and nature photographers wanting real unhurried time rather than a rushed day visit." },
+        ],
+      };
+
+    case "is-kasol-3day-tour-worth-it-delhi":
+      return {
+        title: "Is the Delhi 3-Day Kasol Tour with Private Transfers Worth It?",
+        description: "An honest look at the 3-day Kasol tour with private transfers from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-3-day-kasol-tour-with-private-transfers/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kasol's Parvati Valley mountain scenery and laid-back backpacker atmosphere offer a genuinely different pace from Delhi's monuments, worth it for travelers wanting a few relaxed mountain days with transport handled rather than navigating local buses themselves.",
+            tourCard: { slug: "delhi-3-day-kasol-tour-with-private-transfers", title: "Delhi: 3-Day Kasol Tour with Private Transfers", description: "A 3-day tour to Kasol in the Parvati Valley with private transfers from Delhi.", price: "From $365", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-3-day-kasol-tour-with-private-transfers/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack layers even in warmer months, since Kasol's mountain elevation keeps temperatures noticeably cooler than Delhi.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-day Kasol tour worth it from Delhi?", a: "Yes, for travelers wanting a relaxed mountain pace with transport handled, rather than navigating local buses themselves." },
+        ],
+      };
+
+    case "is-overnight-bodhgaya-flight-worth-it-delhi":
+      return {
+        title: "Is the Overnight Bodhgaya Tour with Return Flight Worth It from Delhi?",
+        description: "An honest look at the overnight Bodhgaya tour with return flight from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-overnight-bodhgaya-tour-with-return-fli/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Flying to Bodhgaya, the site of Buddha's enlightenment, for an overnight trip makes one of Buddhism's most significant pilgrimage sites genuinely reachable from Delhi without a long overland journey, worth it for travelers with a specific interest in Buddhist heritage.",
+            tourCard: { slug: "from-delhi-overnight-bodhgaya-tour-with-return-fli", title: "From Delhi:- Overnight Bodhgaya Tour with Return Flight", description: "An overnight tour to Bodhgaya with return flight from Delhi.", price: "From $496", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-overnight-bodhgaya-tour-with-return-fli/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and respectfully at the Mahabodhi Temple complex, since it remains an active major pilgrimage site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the overnight Bodhgaya tour with return flight worth it from Delhi?", a: "Yes, for travelers with a specific interest in Buddhist heritage wanting to reach a major pilgrimage site without a long overland journey." },
+        ],
+      };
+
     default:
       return null;
   }
