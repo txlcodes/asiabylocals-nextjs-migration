@@ -1637,6 +1637,62 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-daxi-old-street-tea-factory-worth-it-taipei":
+      return {
+        title: "Is the Daxi Old Street and Tea Factory Day Tour Worth It?",
+        description: "An honest look at the Daxi Old Street and tea factory, Xiaowulai day tour from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce367a81727553868d431175b0e503f18507c6331f8cae6bb37338bc0292ef25.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Daxi's wood-carving old street and a working tea factory, paired with Xiaowulai's waterfall, give a genuinely varied day of craft, trade history and nature well outside Taipei's usual Jiufen/Shifen route, worth it for travelers wanting somewhere less crowded.", tourCard: { slug: "taipei-daxi-old-street-and-tea-factory-xiaowulai", title: "Taipei: Daxi Old Street and Tea Factory, Xiaowulai Day Tour", description: "A day tour covering Daxi Old Street, a working tea factory and Xiaowulai waterfall.", price: "From $933", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ce367a81727553868d431175b0e503f18507c6331f8cae6bb37338bc0292ef25.jpg" } },
+          { title: "Practical Tips", content: "Wear shoes with grip if the itinerary includes the Xiaowulai waterfall trail, since the rocks near the falls can be slick." },
+        ],
+        faqs: [
+          { q: "Is the Daxi Old Street and tea factory tour worth it from Taipei?", a: "Yes, for a genuinely varied day of craft and nature well outside the usual Jiufen/Shifen route." },
+        ],
+      };
+
+    case "is-taichung-lukang-gaomei-wetlands-worth-it-taipei":
+      return {
+        title: "Is the Taichung, Lukang and Gaomei Wetlands Private Tour Worth It?",
+        description: "An honest look at the Taichung, Lukang and Gaomei Wetlands private tour from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a38780f50e5f5d7cf0a778c5c839e68272c998b45dd053c9decd7a30aec1d0dd.png",
+        sections: [
+          { title: "The Short Answer", content: "Combining Lukang's historic old town, central Taiwan's Taichung, and Gaomei Wetlands' famous sunset coastline gives a genuinely different region of Taiwan than the north, worth it for travelers with a full day who want to see beyond the Taipei metro area.", tourCard: { slug: "taipei-taichung-lukang-gaomei-wetlands-private", title: "Taipei: Taichung, Lukang & Gaomei Wetlands Private Tour", description: "A private tour covering Taichung, Lukang's old town and Gaomei Wetlands.", price: "From $689", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a38780f50e5f5d7cf0a778c5c839e68272c998b45dd053c9decd7a30aec1d0dd.png" } },
+          { title: "Practical Tips", content: "Time the Gaomei Wetlands stop for sunset if possible, since that's when the wooden boardwalk and tidal flats are most photogenic." },
+        ],
+        faqs: [
+          { q: "Is the Taichung, Lukang and Gaomei Wetlands tour worth it from Taipei?", a: "Yes, for travelers with a full day who want to see central Taiwan beyond the Taipei metro area." },
+        ],
+      };
+
+    case "is-tamsui-shell-temple-northernmost-worth-it-taipei":
+      return {
+        title: "Is the Tamsui, Shell Temple and Northernmost Taiwan Tour Worth It?",
+        description: "An honest look at the Tamsui, Shell Temple and northernmost Taiwan tour from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/395965f00b4ea9600b17ee1880f4813d90c2ed2fef9680f92ec0d942df879217.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Going beyond Tamsui's riverside promenade to the unusual Shell Temple and Taiwan's actual northernmost point at Fuguei Cape gives a more complete coastal day than the standard Beitou/Tamsui combo, worth it for travelers who want the full northern coast rather than just the popular stretch.", tourCard: { slug: "from-taipei-tamsui-shell-temple-northernmost", title: "From Taipei: Tamsui, Shell Temple & Northernmost Taiwan Tour", description: "A tour covering Tamsui, the Shell Temple and Taiwan's northernmost point.", price: "From $469", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/395965f00b4ea9600b17ee1880f4813d90c2ed2fef9680f92ec0d942df879217.jpg" } },
+          { title: "Practical Tips", content: "Bring a windbreaker — the cape at Taiwan's northernmost point is notably exposed and windier than central Taipei." },
+        ],
+        faqs: [
+          { q: "Is the Tamsui, Shell Temple and northernmost Taiwan tour worth it?", a: "Yes, for a more complete northern coast day than the standard Beitou/Tamsui combo, including Taiwan's actual northernmost point." },
+        ],
+      };
+
+    case "is-coast-cycling-railbike-ginger-spa-worth-it-taipei":
+      return {
+        title: "Is the Coast Cycling, Railbike and Ginger Spa Day Trip Worth It?",
+        description: "An honest look at the coast cycling, railbike and ginger spa day trip from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8bfd7ae62129e89a771474e169ceb180b5b9fc2b2f71b54fed8f1da357642056.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "Pairing coastal cycling with a railbike ride and a ginger-infused hot spring soak gives a genuinely active, varied day that's distinct from Taipei's usual temple-and-market circuit, worth it for travelers wanting a mix of movement and relaxation outside the city.", tourCard: { slug: "day-trip-from-taipei-coast-cycling-railbike", title: "Day Trip from Taipei: Coast Cycling, Railbike & Ginger Spa", description: "A day trip combining coastal cycling, a railbike ride and a ginger hot spring soak.", price: "From $520", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8bfd7ae62129e89a771474e169ceb180b5b9fc2b2f71b54fed8f1da357642056.jpeg" } },
+          { title: "Practical Tips", content: "Bring a swimsuit and towel for the ginger spa stop, and comfortable shoes for the cycling and railbike segments." },
+        ],
+        faqs: [
+          { q: "Is the coast cycling, railbike and ginger spa day trip worth it from Taipei?", a: "Yes, for a genuinely active, varied day mixing movement and relaxation outside the usual temple-and-market circuit." },
+        ],
+      };
+
     default:
       return null;
   }
