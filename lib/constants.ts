@@ -2577,6 +2577,8 @@ export const ABU_DHABI_INFO_SLUGS = [
   'is-yas-island-speedboat-tour-worth-it-abu-dhabi',
   'is-warner-bros-world-worth-it-abu-dhabi', 'is-seaworld-worth-it-abu-dhabi',
   'is-dune-dinner-worth-it-abu-dhabi', 'is-padi-certification-worth-it-abu-dhabi',
+  'is-national-aquarium-worth-it-abu-dhabi', 'is-private-fishing-trip-worth-it-abu-dhabi',
+  'is-yas-waterworld-worth-it-abu-dhabi', 'is-private-yacht-formula1-luxury-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)

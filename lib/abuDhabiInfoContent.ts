@@ -867,6 +867,90 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-national-aquarium-worth-it-abu-dhabi":
+      return {
+        title: "Is the Abu Dhabi National Aquarium Worth It?",
+        description: "An honest look at the Abu Dhabi National Aquarium tickets with private GMC transfer.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1476974/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The National Aquarium gives a calmer, more education-focused marine life visit than SeaWorld's bigger theme-park format, worth it for travelers wanting a quieter aquarium experience or families with younger children who'd find Yas Island's parks overwhelming.",
+            tourCard: { slug: "abu-dhabi-national-aquarium-tickets-with-private-g", title: "Abu Dhabi: National Aquarium Tickets with Private GMC YUKON", description: "Entry tickets to the Abu Dhabi National Aquarium with a private GMC transfer.", price: "From $670", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1476974/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit on a weekday morning if possible, since the aquarium is noticeably quieter than Yas Island's main theme parks.",
+          },
+        ],
+        faqs: [
+          { q: "Is the National Aquarium worth it in Abu Dhabi?", a: "Yes, for a calmer, more education-focused marine life visit than SeaWorld, especially good for families with younger children." },
+        ],
+      };
+
+    case "is-private-fishing-trip-worth-it-abu-dhabi":
+      return {
+        title: "Is the Private Fishing Trip with Captain Worth It in Abu Dhabi?",
+        description: "An honest look at the private fishing trip with captain in Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1238124/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Going out with an experienced local captain who knows the Gulf waters gives a genuine chance at real catches rather than a tourist-boat gimmick, worth it for travelers who actually want to fish rather than just sit on a boat.",
+            tourCard: { slug: "abu-dhabi-private-fishing-trip-with-captain", title: "Abu Dhabi: Private Fishing Trip With Captain", description: "A private fishing trip with an experienced captain in Abu Dhabi.", price: "From $830", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1238124/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask whether the catch is yours to keep or cooked on board, since policies vary by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private fishing trip worth it in Abu Dhabi?", a: "Yes, for travelers who genuinely want to fish with an experienced local captain, not just ride along on a boat." },
+        ],
+      };
+
+    case "is-yas-waterworld-worth-it-abu-dhabi":
+      return {
+        title: "Is Yas Waterworld Worth It in Abu Dhabi?",
+        description: "An honest look at the Yas Waterworld entry ticket with SUV transfer in Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1433576/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yas Waterworld is the only outdoor park of Yas Island's major four, which makes it the clear pick in cooler months but a genuine shade-management exercise in summer, worth it specifically for travelers visiting November through March.",
+            tourCard: { slug: "abu-dhabi-yas-waterworld-entry-ticket-with-transfe", title: "Abu Dhabi: Yas Waterworld Entry Ticket with Transfer in SUV", description: "An entry ticket to Yas Waterworld with SUV transfer in Abu Dhabi.", price: "From $903", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1433576/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit in winter if your schedule allows — in summer, book shaded seating early in the morning before it's gone.",
+          },
+        ],
+        faqs: [
+          { q: "Is Yas Waterworld worth it in Abu Dhabi?", a: "Yes, especially November through March — it's the only outdoor park among Yas Island's major four, so timing matters." },
+        ],
+      };
+
+    case "is-private-yacht-formula1-luxury-worth-it-abu-dhabi":
+      return {
+        title: "Is the Private Yacht, Formula 1 and Luxury Experience Worth It in Abu Dhabi?",
+        description: "An honest look at the private yacht, Formula 1 and luxury experience package in Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-41407/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling a private yacht outing with Formula 1-related access and other luxury touches gives a genuinely premium, multi-element day for travelers wanting to combine Yas Marina Circuit's motorsport draw with time on the water, worth it specifically for special-occasion visitors with the budget for it.",
+            tourCard: { slug: "abu-dhabi-private-yacht-formula-1-luxury-experienc", title: "Abu Dhabi: Private Yacht, Formula 1 & Luxury Experience", description: "A premium package combining a private yacht outing with Formula 1-related luxury experiences in Abu Dhabi.", price: "From $4901", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-41407/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm exactly what's included before booking, since 'luxury experience' packages vary widely between operators.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private yacht and Formula 1 luxury experience worth it in Abu Dhabi?", a: "Yes, for special-occasion travelers with the budget who want to combine Yas Marina Circuit's draw with time on the water." },
+        ],
+      };
+
     default:
       return null;
   }

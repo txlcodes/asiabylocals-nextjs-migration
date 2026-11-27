@@ -2010,7 +2010,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ferrari-world-worth-it-abu-dhabi', 'is-louvre-abu-dhabi-kayak-tour-worth-it',
     'is-yas-island-speedboat-tour-worth-it-abu-dhabi',
     'is-warner-bros-world-worth-it-abu-dhabi', 'is-seaworld-worth-it-abu-dhabi',
-    'is-dune-dinner-worth-it-abu-dhabi', 'is-padi-certification-worth-it-abu-dhabi'].map(slug => ({
+    'is-dune-dinner-worth-it-abu-dhabi', 'is-padi-certification-worth-it-abu-dhabi',
+    'is-national-aquarium-worth-it-abu-dhabi', 'is-private-fishing-trip-worth-it-abu-dhabi',
+    'is-yas-waterworld-worth-it-abu-dhabi', 'is-private-yacht-formula1-luxury-worth-it-abu-dhabi'].map(slug => ({
     url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
