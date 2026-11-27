@@ -1060,6 +1060,62 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-tsa-flying-experience-worth-it-pattaya":
+            return {
+                title: "Is the TSA Thailand Flying Experience Worth It in Pattaya?",
+                description: "An honest look at the TSA Thailand Flying Experience in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/flying-experience-top-pick-by-tsa-thailand/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Getting genuine hands-on flight controls, even briefly with an instructor, gives a real taste of piloting rather than just sitting as a passenger, worth it for aviation enthusiasts wanting an active rather than passive aerial experience.", tourCard: { slug: "flying-experience-top-pick-by-tsa-thailand", title: "Flying Experience (Top Pick) by TSA Thailand", description: "A hands-on flying experience with an instructor in Pattaya.", price: "From $268", duration: "20 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/flying-experience-top-pick-by-tsa-thailand/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask how much hands-on control time is actually included, since 'flying experience' products vary in how active a role you get." }
+                ],
+                faqs: [
+                    { q: "Is the TSA Thailand Flying Experience worth it?", a: "Yes, for aviation enthusiasts wanting a genuine hands-on taste of piloting rather than just sitting as a passenger." }
+                ],
+            };
+
+        case "is-private-plane-tour-islands-city-worth-it-pattaya":
+            return {
+                title: "Is the Private Plane Tour over Islands and City Worth It in Pattaya?",
+                description: "An honest look at the private plane tour over Pattaya's islands and city.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-plane-tour-over-islands-and-city-tsa-th-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A sightseeing flight over Pattaya's coastline and islands gives a genuinely different aerial perspective on the city's layout, worth it for travelers wanting a scenic flight experience rather than active flight controls.", tourCard: { slug: "private-plane-tour-over-islands-and-city-tsa-th-in-pattaya", title: "Private Plane Tour over Islands and city TSA TH in Pattaya", description: "A private sightseeing plane tour over Pattaya's islands and city.", price: "From $253", duration: "25 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/private-plane-tour-over-islands-and-city-tsa-th-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book for clear weather days when possible, since the view depends entirely on visibility." }
+                ],
+                faqs: [
+                    { q: "Is the private plane tour over Pattaya's islands and city worth it?", a: "Yes, for travelers wanting a scenic aerial perspective on the city's layout, as a passenger rather than at the controls." }
+                ],
+            };
+
+        case "is-sina-floating-beach-club-worth-it-pattaya":
+            return {
+                title: "Is the Pattaya Sina Floating Beach Club Experience Worth It?",
+                description: "An honest look at the Sina Floating Beach Club experience in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-sina-floating-beach-club-experience/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A day at a floating beach club gives a genuinely different beach-day format than a standard shoreline spot, with the club setting adding a social, resort-style atmosphere on the water.", tourCard: { slug: "pattaya-sina-floating-beach-club-experience", title: "Pattaya Sina Floating Beach Club Experience", description: "A day experience at the Sina Floating Beach Club in Pattaya.", price: "From $210", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-sina-floating-beach-club-experience/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check what's included in the admission, since floating beach clubs vary in whether food and drinks are bundled or extra." }
+                ],
+                faqs: [
+                    { q: "Is the Sina Floating Beach Club experience worth it in Pattaya?", a: "Yes, for travelers wanting a genuinely different, social resort-style beach day on the water rather than a standard shoreline spot." }
+                ],
+            };
+
+        case "is-ramayana-water-park-aquaverse-worth-it-pattaya":
+            return {
+                title: "Is Ramayana Water Park / Columbia Pictures Aquaverse Worth It?",
+                description: "An honest look at Ramayana Water Park and Columbia Pictures Aquaverse in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ramayana-water-park-columbia-pictures-aquaverse-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Both water parks offer a genuine full day of slides and pools distinct from Pattaya's beach-and-nightlife circuit, worth it for families and travelers wanting a straightforward, air-conditioned-adjacent day of water-based fun.", tourCard: { slug: "ramayana-water-park-columbia-pictures-aquaverse-in-pattaya", title: "Ramayana Water Park/Columbia Pictures Aquaverse in Pattaya", description: "A full-day entry ticket to Ramayana Water Park or Columbia Pictures Aquaverse in Pattaya.", price: "From $303", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ramayana-water-park-columbia-pictures-aquaverse-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm which specific park the ticket covers before booking, since the two options have different ride lineups." }
+                ],
+                faqs: [
+                    { q: "Is Ramayana Water Park or Columbia Pictures Aquaverse worth it in Pattaya?", a: "Yes, for families and travelers wanting a genuine full day of water-based fun distinct from Pattaya's beach-and-nightlife scene." }
+                ],
+            };
+
         default:
             return null;
     }

@@ -1700,6 +1700,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-koh-larn-tandem-paragliding-worth-it-pattaya',
     'is-samaesan-wreck-diving-worth-it-pattaya', 'is-whale-watching-upper-gulf-worth-it-pattaya',
     'is-enduro-tour-worth-it-pattaya', 'is-dragon-tower-buddha-temple-floating-market-worth-it-pattaya',
+    'is-tsa-flying-experience-worth-it-pattaya', 'is-private-plane-tour-islands-city-worth-it-pattaya',
+    'is-sina-floating-beach-club-worth-it-pattaya', 'is-ramayana-water-park-aquaverse-worth-it-pattaya',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/pattaya/${slug}`,
     lastModified: new Date(),
