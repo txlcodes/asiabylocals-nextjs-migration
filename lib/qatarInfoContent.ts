@@ -2006,6 +2006,90 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-inland-sea-fishing-trip-worth-it-doha":
+      return {
+        title: "Is the Inland Sea Fishing Trip Worth It from Doha?",
+        description: "An honest look at the inland sea fishing trip with transfers from Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/639c2bcbd1a393d1903787d4e3e04d807d82ef8abafda84b7e2ce3c52514ba1d.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fishing in the Khor Al Adaid inland sea combines real angling with the area's striking dune-and-water scenery, worth it for travelers who want an active, outcome-based activity rather than just the standard inland sea sightseeing drive.",
+            tourCard: { slug: "from-doha-inland-sea-fishing-trip-with-transfers", title: "From Doha: Inland Sea Fishing Trip with Transfers", description: "A fishing trip to the Khor Al Adaid inland sea with transfers from Doha.", price: "From $1320", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/639c2bcbd1a393d1903787d4e3e04d807d82ef8abafda84b7e2ce3c52514ba1d.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection — there's little shade at the inland sea and the day involves real time in open desert and water.",
+          },
+        ],
+        faqs: [
+          { q: "Is the inland sea fishing trip worth it from Doha?", a: "Yes, for travelers wanting an active, outcome-based activity at Khor Al Adaid rather than just a sightseeing drive." },
+        ],
+      };
+
+    case "is-paratrike-sealine-worth-it-doha":
+      return {
+        title: "Is the Paratrike Flight Over Sealine Desert Worth It from Doha?",
+        description: "An honest look at the paratrike flight over Sealine Desert from Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0419c7fd6ecd4c38d0a0419dab12b7c86b5efe639ac32cb84c8e64a47dd8e318.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Flying over Sealine Desert in a paratrike gives a genuinely different aerial perspective on the dunes than any ground-based desert safari, worth it for travelers wanting a real adrenaline activity rather than another 4x4 dune-bashing trip.",
+            tourCard: { slug: "doha-paratrike-flight-over-sealine-desert-with", title: "Doha: Paratrike Flight over Sealine Desert with Pickup", description: "A paratrike flight over Sealine Desert with hotel pickup from Doha.", price: "From $546", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0419c7fd6ecd4c38d0a0419dab12b7c86b5efe639ac32cb84c8e64a47dd8e318.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the weight and health restrictions beforehand, since paratrike flights have stricter requirements than most desert activities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the paratrike flight over Sealine Desert worth it from Doha?", a: "Yes, for a genuinely different aerial perspective on the dunes and real adrenaline beyond a standard 4x4 safari." },
+        ],
+      };
+
+    case "is-skyline-soar-zipline-worth-it-doha":
+      return {
+        title: "Is the Skyline Soar Zipline Adventure Worth It in Qatar?",
+        description: "An honest look at the Skyline Soar guided zipline adventure over Qatar.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9443985518b007595a690a05a5dfab9582bee933e3d114cd91793caa616aad63.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Qatar's zipline circuit gives a genuinely active, adrenaline-focused activity that's different from the country's usual desert-and-dhow lineup, worth it for travelers wanting a physical activity break between museum and city stops.",
+            tourCard: { slug: "skyline-soar-guided-zipline-adventure-over-qatar", title: "Skyline Soar: Guided Zipline Adventure Over Qatar", description: "A guided zipline adventure over Qatar's landscape.", price: "From $650", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9443985518b007595a690a05a5dfab9582bee933e3d114cd91793caa616aad63.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed-toe shoes and clothes you can move in — ziplining involves a harness and some physical exertion between lines.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Skyline Soar zipline adventure worth it in Qatar?", a: "Yes, for travelers wanting a genuinely active adrenaline break from the usual desert-and-dhow itinerary." },
+        ],
+      };
+
+    case "is-guided-scuba-diving-worth-it-doha":
+      return {
+        title: "Is the Guided Scuba Diving Tour Worth It in Doha?",
+        description: "An honest look at the guided scuba diving tour with boat ride in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73f2821757ac2bc9217087a6efc00ff81507981530757b615b0ecf537d322a36.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guided dive off a boat in the Gulf gives a genuine underwater look at Qatar's waters that most visitors never see, worth it for certified or beginner divers wanting an activity beyond the standard desert-and-city circuit.",
+            tourCard: { slug: "doha-guided-scuba-diving-tour-with-boat-ride", title: "Doha: Guided Scuba Diving Tour with Boat Ride", description: "A guided scuba diving tour with boat ride in Doha.", price: "From $520", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73f2821757ac2bc9217087a6efc00ff81507981530757b615b0ecf537d322a36.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask whether the dive suits beginners or requires certification, since offerings vary between operators.",
+          },
+        ],
+        faqs: [
+          { q: "Is the guided scuba diving tour worth it in Doha?", a: "Yes, for divers wanting a genuine underwater look at Qatar's Gulf waters beyond the standard desert-and-city circuit." },
+        ],
+      };
+
     default:
       return null;
   }
