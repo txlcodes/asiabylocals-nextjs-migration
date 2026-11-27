@@ -1692,7 +1692,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-koriyama-goldfish-tour-worth-it-nara', 'is-hasedera-temple-tour-worth-it-nara',
     'is-rickshaw-tour-worth-it-nara',
     'is-samurai-tour-worth-it-nara', 'is-omiwa-shrine-tour-worth-it-nara',
-    'is-asuka-ancient-capital-tour-worth-it-nara', 'is-deer-lantern-night-walk-worth-it-nara'].map(slug => ({
+    'is-asuka-ancient-capital-tour-worth-it-nara', 'is-deer-lantern-night-walk-worth-it-nara',
+    'is-deer-ceramic-figurine-workshop-worth-it-nara', 'is-furoshiki-experience-lunch-worth-it-nara',
+    'is-hozanji-temple-cable-car-evening-tour-worth-it-nara', 'is-ebike-nara-highlights-tour-worth-it-nara'].map(slug => ({
     url: `${BASE_URL}/japan/nara/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

@@ -1035,6 +1035,90 @@ export function getNaraInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-deer-ceramic-figurine-workshop-worth-it-nara":
+      return {
+        title: "Is the Design Your Own Deer Ceramic Figurine Experience Worth It in Nara?",
+        description: "An honest look at the deer ceramic figurine design experience in Nara.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/design-your-own-deer-ceramic-figurine-with-shipping-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rather than just buying a deer souvenir, this lets you design and glaze your own ceramic deer figurine, with shipping arranged so you don't have to carry a fragile piece home — worth it as a relaxed, personal craft activity that ties directly into Nara's deer theme.",
+            tourCard: { slug: "design-your-own-deer-ceramic-figurine-with-shipping-in-nara", title: "Design Your Own Deer Ceramic Figurine with Shipping in Nara", description: "A hands-on ceramic deer figurine design experience with shipping included.", price: "From $67", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/design-your-own-deer-ceramic-figurine-with-shipping-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm shipping timelines and destination coverage before booking, since the glazed and fired piece won't be ready to take with you same-day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the deer ceramic figurine design experience worth it in Nara?", a: "Yes, it's a relaxed, personal craft activity tied directly to the city's deer theme, with shipping handled for you." },
+        ],
+      };
+
+    case "is-furoshiki-experience-lunch-worth-it-nara":
+      return {
+        title: "Is the Guided Tour with Furoshiki Experience and Lunch Worth It in Nara?",
+        description: "An honest look at the guided tour with a furoshiki wrapping experience and lunch in Nara.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/guided-tour-with-furoshiki-experience-and-lunch-in-nara/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Furoshiki, the traditional Japanese art of cloth wrapping, is a genuinely practical skill as well as a craft, and this tour combines learning it with a guided walk and lunch, worth it for travelers who want a fuller half-day package rather than a standalone short workshop.",
+            tourCard: { slug: "guided-tour-with-furoshiki-experience-and-lunch-in-nara", title: "Guided Tour with Furoshiki Experience and Lunch in Nara", description: "A guided tour combining a furoshiki cloth-wrapping experience with lunch.", price: "From $108", duration: "5.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-tour-with-furoshiki-experience-and-lunch-in-nara/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep your furoshiki cloth afterward — it's a genuinely useful, reusable alternative to gift wrap or a shopping bag back home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the guided tour with furoshiki experience and lunch worth it in Nara?", a: "Yes, it packages a genuinely useful traditional skill with a guided walk and meal for a fuller half-day experience." },
+        ],
+      };
+
+    case "is-hozanji-temple-cable-car-evening-tour-worth-it-nara":
+      return {
+        title: "Is the Hozanji Temple and Mount Ikoma Cable Car Evening Tour Worth It?",
+        description: "An honest look at the Hozanji Temple and Mount Ikoma cable car evening tour from Osaka.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788086163/asiabylocals/tours/nara-direct-halloween-special-nara-mountain-temple-night/img0.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hozanji Temple on Mount Ikoma is well off the standard Nara Park circuit, and reaching it by cable car at night adds a genuinely different, quieter mountain-temple atmosphere plus city-light views on the ride, worth it for travelers who've already done the main deer park sights and want something distinct.",
+            tourCard: { slug: "hozanji-temple-evening-tour", title: "Hozanji Temple and Mount Ikoma Cable Car Evening Tour", description: "An evening tour to Hozanji Temple via the Mount Ikoma cable car.", price: "From $52", duration: "3.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788086163/asiabylocals/tours/nara-direct-halloween-special-nara-mountain-temple-night/img0.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress warmer than you think you'll need — mountain evenings cool down noticeably compared to the city below.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hozanji Temple and Mount Ikoma cable car evening tour worth it?", a: "Yes, for a genuinely different, quieter mountain-temple experience with city-light views, once you've already covered the main deer park sights." },
+        ],
+      };
+
+    case "is-ebike-nara-highlights-tour-worth-it-nara":
+      return {
+        title: "Is the E-Bike Nara Highlights Tour Worth It?",
+        description: "An honest look at the e-bike Nara highlights tour covering Todaiji, knives, deer, and shrines.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/e-bike-nara-highlights-todaiji-knives-deer-shrine-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering Nara's spread-out sights by e-bike rather than on foot lets you fit in more ground, including stops beyond the core park that a walking tour typically skips, worth it specifically for travelers who want an efficient, active way to see more of the city in one outing.",
+            tourCard: { slug: "e-bike-nara-highlights-todaiji-knives-deer-shrine-by-local-operator", title: "E-Bike Nara Highlights - Todaiji, Knives, Deer, Shrine", description: "An e-bike tour covering Nara's highlights including Todaiji and local craft stops.", price: "From $70", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/e-bike-nara-highlights-todaiji-knives-deer-shrine-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the e-bike sizing and whether a license or ID is needed before the tour, since requirements can vary by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the e-bike Nara highlights tour worth it?", a: "Yes, for travelers who want an efficient, active way to cover more ground than a standard walking tour allows." },
+        ],
+      };
+
     default:
       return null;
   }
