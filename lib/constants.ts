@@ -2474,6 +2474,8 @@ export const DUBAI_INFO_SLUGS = [
   'is-camel-farm-tour-worth-it-dubai', 'is-marina-yacht-breakfast-bbq-tour-worth-it-dubai',
   'is-tanoura-dance-dinner-cruise-worth-it-dubai', 'is-queen-elizabeth-2-heritage-tour-worth-it-dubai',
   'is-chillout-ice-lounge-worth-it-dubai', 'is-al-marmoom-oasis-high-tea-worth-it-dubai',
+  'is-storm-coaster-worth-it-dubai', 'is-aya-universe-worth-it-dubai',
+  'is-jetski-burj-arab-worth-it-dubai', 'is-house-of-hype-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

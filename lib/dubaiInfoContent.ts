@@ -1405,6 +1405,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-storm-coaster-worth-it-dubai":
+      return {
+        title: "Is the Dubai Storm Coaster Worth It?",
+        description: "An honest look at The Storm Coaster ride ticket in Dubai.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This high-speed coaster ride gives a quick adrenaline hit that's genuinely different from Dubai's usual sightseeing pace, worth it specifically for thrill-seekers wanting a short, intense activity between calmer cultural or shopping stops.",
+            tourCard: { slug: "dubai-the-storm-coaster", title: "Dubai: The Storm Coaster", description: "A ride ticket for The Storm Coaster in Dubai.", price: "From $32", duration: "2 minutes", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Secure loose items like phones and sunglasses before the ride — it moves fast and loose belongings can be lost.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Storm Coaster worth it in Dubai?", a: "Yes, for thrill-seekers wanting a short, intense adrenaline hit between calmer sightseeing activities." },
+        ],
+      };
+
+    case "is-aya-universe-worth-it-dubai":
+      return {
+        title: "Is AYA Universe Worth It in Dubai?",
+        description: "An honest look at the AYA Universe entry ticket in Dubai.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "AYA Universe is an immersive, visually striking indoor attraction built for photos and a different kind of sensory experience than Dubai's outdoor landmarks, worth it specifically for travelers wanting a modern, Instagram-friendly break from the heat.",
+            tourCard: { slug: "aya-universe-dubai-entry-ticket", title: "AYA Universe Dubai Entry Ticket", description: "An entry ticket to AYA Universe in Dubai.", price: "From $48", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good midday break during the hottest part of the day, since it's entirely indoor and air-conditioned.",
+          },
+        ],
+        faqs: [
+          { q: "Is AYA Universe worth it in Dubai?", a: "Yes, for a modern, visually striking indoor break from the heat and Dubai's usual outdoor sightseeing." },
+        ],
+      };
+
+    case "is-jetski-burj-arab-worth-it-dubai":
+      return {
+        title: "Is the Jetski to Burj Al Arab and Atlantis Tour Worth It in Dubai?",
+        description: "An honest look at the jetski tour to Burj Al Arab and Atlantis in Dubai, with photos and videos included.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding a jetski past Burj Al Arab and Atlantis gives a genuinely different, active angle on Dubai's coastal landmarks than a standard boat cruise, worth it specifically for travelers wanting adrenaline alongside the skyline views, with photos and videos included to prove it.",
+            tourCard: { slug: "dubai-jetski-to-burj-arab-atlantis-with-photos-and", title: "Dubai: Jetski to Burj Arab-Atlantis with Photos and Videos", description: "A jetski tour past Burj Al Arab and Atlantis, with photos and videos included.", price: "From $39", duration: "30 minutes", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes, since you'll get wet, and confirm whether a driving license or brief training is required beforehand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the jetski to Burj Al Arab and Atlantis tour worth it in Dubai?", a: "Yes, for travelers wanting an active, adrenaline-filled way to see the coastal landmarks, with photos and videos included." },
+        ],
+      };
+
+    case "is-house-of-hype-worth-it-dubai":
+      return {
+        title: "Is the House of Hype Dubai Mall Entry Ticket Worth It?",
+        description: "An honest look at the House of Hype entry ticket at Dubai Mall.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "House of Hype is an interactive, streetwear-and-pop-culture-themed attraction inside Dubai Mall, worth it specifically for younger travelers and social-media-minded visitors wanting a trendy, photogenic indoor stop while already at the mall.",
+            tourCard: { slug: "house-of-hype-dubai-mall-entry-ticket", title: "House of Hype Dubai Mall Entry Ticket", description: "An entry ticket to House of Hype inside Dubai Mall.", price: "From $47", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair it with other Dubai Mall attractions on the same trip to make the most of being in the building already.",
+          },
+        ],
+        faqs: [
+          { q: "Is House of Hype worth it in Dubai?", a: "Yes, specifically for younger or social-media-minded travelers wanting a trendy, photogenic stop while already at Dubai Mall." },
+        ],
+      };
+
     default:
       return null;
   }
