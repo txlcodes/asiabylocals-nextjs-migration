@@ -1998,6 +1998,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-manaslu-expedition-worth-it-kathmandu":
+            return {
+                title: "Is the Manaslu Expedition Worth It from Kathmandu?",
+                description: "An honest look at the Manaslu Expedition 2025/2026 from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f35a1e68927e22e941dcd54a421c41fef53510670a49cafca0b04cfa10865ad.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Unlike the Manaslu Circuit trek that passes around the mountain, this is a genuine summit expedition to the top of the world's eighth-highest peak, worth it only for experienced high-altitude mountaineers prepared for a committed 38-day climb.", tourCard: { slug: "manaslu-expedition-20252026", title: "Manaslu Expedition 2025/2026", description: "A full Manaslu summit expedition over 38 days.", price: "From $7148", duration: "38 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f35a1e68927e22e941dcd54a421c41fef53510670a49cafca0b04cfa10865ad.jpg" } },
+                    { title: "Practical Tips", content: "Don't confuse this with the Manaslu Circuit trek — this is a technical summit climb requiring prior high-altitude mountaineering experience." }
+                ],
+                faqs: [
+                    { q: "Is the Manaslu Expedition worth it?", a: "Yes, for experienced mountaineers prepared for a genuine 38-day summit attempt — distinct from the circuit trek that only passes around the mountain." }
+                ],
+            };
+
+        case "is-rolwaling-valley-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Rolwaling Valley 12-Day Sacred Lakes Trek Worth It?",
+                description: "An honest look at the 12-day Rolwaling Valley sacred lakes trek to Cho Rolpa from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3d5235f5affebdf4c56e720d90dbc6db05e6793fc20b4e473301327aac2ae53.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Rolwaling Valley's sacred glacial lakes, including Cho Rolpa, sit on a genuinely remote, little-trekked route near the Tibet border, worth it for experienced trekkers wanting Himalayan scenery far from the crowded Everest and Annapurna trails.", tourCard: { slug: "rolwaling-valley-12-day-sacred-lakes-trek-to-cho", title: "Rolwaling Valley: 12-Day Sacred Lakes Trek to Cho Rolpa", description: "A 12-day trek through Rolwaling Valley to the sacred lakes of Cho Rolpa.", price: "From $4130", duration: "12 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3d5235f5affebdf4c56e720d90dbc6db05e6793fc20b4e473301327aac2ae53.jpg" } },
+                    { title: "Practical Tips", content: "This route is genuinely remote with limited infrastructure, so go with an experienced guide and realistic expectations about facilities." }
+                ],
+                faqs: [
+                    { q: "Is the Rolwaling Valley sacred lakes trek worth it?", a: "Yes, for experienced trekkers wanting genuinely remote Himalayan scenery, far from the crowds of Everest and Annapurna." }
+                ],
+            };
+
+        case "is-manang-mountain-bike-worth-it-kathmandu":
+            return {
+                title: "Is the 7-Day Manang Mountain Bike Adventure Worth It from Kathmandu?",
+                description: "An honest look at the 7-day Manang mountain bike adventure from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09817ee95449916ec482149950d577cabbfd4070aefa88c273efccd685fe3bf4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mountain biking through Manang's high-altitude trails covers ground that trekkers take days to walk, giving genuinely fast-paced access to Annapurna-region scenery for experienced riders.", tourCard: { slug: "kathmandu-7-day-manang-mountain-bike-adventure", title: "Kathmandu: 7-Day Manang Mountain Bike Adventure", description: "A 7-day mountain biking adventure through Manang.", price: "From $5980", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09817ee95449916ec482149950d577cabbfd4070aefa88c273efccd685fe3bf4.jpg" } },
+                    { title: "Practical Tips", content: "Prior mountain biking experience at altitude matters here — this isn't a casual cycling tour given the terrain and elevation." }
+                ],
+                faqs: [
+                    { q: "Is the 7-day Manang mountain bike adventure worth it?", a: "Yes, for experienced mountain bikers wanting fast-paced access to Annapurna-region scenery that trekkers take days to cover on foot." }
+                ],
+            };
+
+        case "is-get-married-nepal-worth-it-kathmandu":
+            return {
+                title: "Is the Get Married in Nepal Luxury Marriage Session Worth It?",
+                description: "An honest look at the luxury marriage session for getting married in Nepal, from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/efb743cd955ed7a70f56a19c7b8aa5cc2849dcb163c10cd7f496257da7f0c350.png",
+                sections: [
+                    { title: "The Short Answer", content: "A Himalayan backdrop gives a genuinely dramatic, unusual setting for a wedding ceremony, worth it for couples wanting their marriage session to feel unmistakably memorable rather than a standard hotel or garden venue.", tourCard: { slug: "kathmandu-get-married-in-nepal-luxury-marriage", title: "Kathmandu: Get Married in Nepal (Luxury Marriage Session)", description: "A luxury marriage session set against a Himalayan backdrop in Kathmandu.", price: "From $16900", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/efb743cd955ed7a70f56a19c7b8aa5cc2849dcb163c10cd7f496257da7f0c350.png" } },
+                    { title: "Practical Tips", content: "Confirm the legal validity of the ceremony in your home country in advance, since requirements for recognizing a Nepal wedding vary by nationality." }
+                ],
+                faqs: [
+                    { q: "Is the Get Married in Nepal luxury session worth it?", a: "Yes, for couples wanting an unmistakably memorable Himalayan setting rather than a standard hotel or garden wedding venue." }
+                ],
+            };
+
         case "is-rickshaw-tour-worth-it-kathmandu":
             return {
                 title: "Is the Kathmandu Rickshaw Tour Worth It?",
