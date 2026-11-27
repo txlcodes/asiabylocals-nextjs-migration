@@ -1545,6 +1545,62 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-sunrise-market-food-experience-worth-it-luang-prabang":
+            return {
+                title: "Is the Sunrise Market and Local Street Food Experience Worth It?",
+                description: "An honest look at the sunrise market and local street food experience in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Luang Prabang's morning market runs well before the city's famous night market crowds arrive, giving a genuinely different, more local atmosphere, worth it for travelers wanting to see how residents actually shop and eat rather than another evening tourist stroll.", tourCard: { slug: "luang-prabang-sunrise-market-local-street-food", title: "Luang Prabang: Sunrise Market & Local Street Food Experience", description: "A guided visit to Luang Prabang's sunrise market with local street food tastings.", price: "From $76", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg" } },
+                    { title: "Practical Tips", content: "Set an early alarm — the market's genuine local atmosphere is at its best before sunrise crowds of tourists arrive." },
+                ],
+                faqs: [
+                    { q: "Is the sunrise market experience worth it in Luang Prabang?", a: "Yes, for a genuinely local morning atmosphere distinct from the city's more tourist-heavy evening night market." },
+                ],
+            };
+
+        case "is-mountain-bike-tour-worth-it-luang-prabang":
+            return {
+                title: "Is the Guided Mountain Bike Tour with Lunch Worth It in Luang Prabang?",
+                description: "An honest look at the guided mountain bike tour with lunch from Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers genuine mountain-bike terrain rather than the flat, leisurely pace of the rice field cycling routes, worth it specifically for more experienced cyclists wanting a real physical challenge alongside the scenery.", tourCard: { slug: "from-luang-prabang-guided-mountain-bike-tour-with", title: "From Luang Prabang: Guided Mountain Bike Tour with Lunch", description: "A guided mountain bike tour with lunch from Luang Prabang.", price: "From $221", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg" } },
+                    { title: "Practical Tips", content: "Come with a reasonable fitness level — this is a genuine mountain-bike route, not the flat, easy rice field cycling tour." },
+                ],
+                faqs: [
+                    { q: "Is the mountain bike tour worth it in Luang Prabang?", a: "Yes, specifically for more experienced cyclists wanting real physical challenge, unlike the city's flatter rice field cycling routes." },
+                ],
+            };
+
+        case "is-hidden-temples-sacred-cave-hike-worth-it-luang-prabang":
+            return {
+                title: "Is the Hidden Temples and Sacred Cave Hiking Tour Worth It?",
+                description: "An honest look at the hidden temples and sacred cave hiking tour in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This hike reaches lesser-known temples and a sacred cave outside the main heritage circuit, worth it specifically for travelers who've already seen the city's famous temples and want a quieter, more active alternative involving real hiking.", tourCard: { slug: "luang-prabang-hidden-temples-sacred-cave-hiking", title: "Luang Prabang: Hidden Temples & Sacred Cave Hiking Tour", description: "A hiking tour to hidden temples and a sacred cave near Luang Prabang.", price: "From $116", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes and bring a flashlight if the cave portion requires low-light navigation." },
+                ],
+                faqs: [
+                    { q: "Is the hidden temples and sacred cave hiking tour worth it?", a: "Yes, specifically for travelers wanting a quieter, more active alternative to the city's main heritage temple circuit." },
+                ],
+            };
+
+        case "is-heritage-dinner-cruise-show-worth-it-luang-prabang":
+            return {
+                title: "Is the Heritage Tour, Dinner Cruise & Show Worth It in Luang Prabang?",
+                description: "An honest look at the heritage tour combined with a dinner cruise and show in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling a heritage walking tour with a Mekong dinner cruise and show covers both daytime history and an evening activity in one booking, worth it specifically for travelers wanting a full day planned without arranging separate activities.", tourCard: { slug: "luang-prabang-heritage-tour-dinner-cruise-show", title: "Luang Prabang: Heritage Tour, Dinner Cruise & Show", description: "A combined heritage tour, dinner cruise, and show in Luang Prabang.", price: "From $168", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg" } },
+                    { title: "Practical Tips", content: "A good pick if you want your whole day planned in one booking, from daytime heritage sightseeing through to an evening show." },
+                ],
+                faqs: [
+                    { q: "Is the heritage tour, dinner cruise, and show worth it in Luang Prabang?", a: "Yes, for travelers wanting a full day of daytime history and evening entertainment covered in one booking." },
+                ],
+            };
+
         default:
             return null;
     }

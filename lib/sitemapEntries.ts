@@ -814,6 +814,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-rice-farming-tour-worth-it-luang-prabang',
     'is-aroma-candle-heritage-home-worth-it-luang-prabang', 'is-buddhas-light-stage-show-worth-it-luang-prabang',
     'is-xiengman-baci-blessing-tour-worth-it-luang-prabang', 'is-hidden-village-walk-crafts-worth-it-luang-prabang',
+    'is-sunrise-market-food-experience-worth-it-luang-prabang', 'is-mountain-bike-tour-worth-it-luang-prabang',
+    'is-hidden-temples-sacred-cave-hike-worth-it-luang-prabang', 'is-heritage-dinner-cruise-show-worth-it-luang-prabang',
   ], 'laos', 'luang-prabang');
   const riyadhInfoPages = mapInfoSlugs([
     'best-edge-of-the-world-tour-riyadh', 'best-desert-safari-tour-riyadh',

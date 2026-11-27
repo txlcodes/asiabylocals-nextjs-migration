@@ -626,6 +626,8 @@ export const LUANG_PRABANG_INFO_SLUGS: string[] = [
   'is-rice-farming-tour-worth-it-luang-prabang',
   'is-aroma-candle-heritage-home-worth-it-luang-prabang', 'is-buddhas-light-stage-show-worth-it-luang-prabang',
   'is-xiengman-baci-blessing-tour-worth-it-luang-prabang', 'is-hidden-village-walk-crafts-worth-it-luang-prabang',
+  'is-sunrise-market-food-experience-worth-it-luang-prabang', 'is-mountain-bike-tour-worth-it-luang-prabang',
+  'is-hidden-temples-sacred-cave-hike-worth-it-luang-prabang', 'is-heritage-dinner-cruise-show-worth-it-luang-prabang',
 ];
 
 // Saudi Arabia launched 2026-11-19 with 289 live tours and zero authority pages.
