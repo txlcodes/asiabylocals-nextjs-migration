@@ -1397,6 +1397,8 @@ export const TASHKENT_INFO_SLUGS = [
   'is-bread-baking-class-worth-it-tashkent', 'is-andijan-market-food-tour-worth-it-tashkent',
   'is-human-house-walking-tour-worth-it-tashkent', 'is-soviet-metro-baker-dishes-tour-worth-it-tashkent',
   'is-parks-and-nature-walking-tour-worth-it-tashkent', 'is-food-bazaar-local-life-tour-worth-it-tashkent',
+  'is-khushtak-clay-figurine-painting-worth-it-tashkent', 'is-beldersay-mountain-hike-worth-it-tashkent',
+  'is-uzbekistan-6-city-tour-worth-it-tashkent', 'is-private-city-tour-photo-session-worth-it-tashkent',
 ];
 
 export const BUKHARA_INFO_SLUGS = [

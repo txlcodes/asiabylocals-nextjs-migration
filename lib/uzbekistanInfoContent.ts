@@ -1470,6 +1470,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-khushtak-clay-figurine-painting-worth-it-tashkent":
+            return {
+                title: "Is Painting a Traditional Khushtak Uzbek Clay Figurine Worth It?",
+                description: "An honest look at the traditional Khushtak Uzbek clay figurine painting workshop in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khushtak are traditional Uzbek clay whistle-figurines, and painting your own gives a genuine hands-on craft experience distinct from Tashkent's pottery-wheel workshops, worth it for travelers wanting a quick, beginner-friendly creative activity and a distinctive souvenir.", tourCard: { slug: "tashkent-paint-a-traditional-khushtak-uzbek-clay", title: "Tashkent: Paint a Traditional Khushtak Uzbek Clay Figurine", description: "A hands-on painting workshop for a traditional Khushtak Uzbek clay figurine.", price: "From $85", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg" } },
+                    { title: "Practical Tips", content: "No prior craft experience is needed — this is a short, beginner-friendly painting session on a pre-made clay figurine." }
+                ],
+                faqs: [
+                    { q: "Is the Khushtak clay figurine painting workshop worth it in Tashkent?", a: "Yes, for a quick, beginner-friendly craft activity and a distinctive, traditional Uzbek souvenir." }
+                ],
+            };
+
+        case "is-beldersay-mountain-hike-worth-it-tashkent":
+            return {
+                title: "Is the Beldersay Mountain Hike with Picnic Worth It from Tashkent?",
+                description: "An honest look at the Beldersay mountain hike with picnic from Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Beldersay is a quieter mountain alternative to the heavily-touristed Amirsoy and Chimgan circuit, worth it specifically for travelers wanting a genuine hiking day with a picnic rather than the region's more crowded resort-style mountain tours.", tourCard: { slug: "from-tashkent-beldersay-mountain-hike-with-picnic", title: "From Tashkent: Beldersay Mountain Hike with Picnic", description: "A guided mountain hike with a picnic at Beldersay, near Tashkent.", price: "From $98", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes and bring a light jacket, since mountain weather can shift quickly even in warmer months." }
+                ],
+                faqs: [
+                    { q: "Is the Beldersay mountain hike worth it from Tashkent?", a: "Yes, specifically for travelers wanting a genuine, quieter hiking day away from the more crowded Amirsoy and Chimgan resort circuit." }
+                ],
+            };
+
+        case "is-uzbekistan-6-city-tour-worth-it-tashkent":
+            return {
+                title: "Is the Uzbekistan 6-City Tour Guide with Transport Worth It?",
+                description: "An honest look at the Uzbekistan 6-city tour guide with transport, starting from Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering six cities with a dedicated guide and transport handled takes the logistics burden off travelers trying to see Uzbekistan's major Silk Road stops in one trip, worth it specifically for those without the time or inclination to plan each city-to-city leg themselves.", tourCard: { slug: "uzbekistan-6-city-tour-guide-with-transport", title: "Uzbekistan: 6-City Tour guide with Transport", description: "A multi-city Uzbekistan tour with a dedicated guide and transport.", price: "From $65", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg" } },
+                    { title: "Practical Tips", content: "Confirm exactly which six cities are included and the total trip length before booking, since itineraries can vary by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Uzbekistan 6-city tour worth it?", a: "Yes, specifically for travelers who want the city-to-city logistics handled rather than planning each leg of a multi-city Silk Road trip themselves." }
+                ],
+            };
+
+        case "is-private-city-tour-photo-session-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Private Guided City Tour with Photo Session Worth It?",
+                description: "An honest look at the private guided city tour by car with a photo session in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling a private car city tour with a dedicated photo session gives travelers professional-quality photos at Tashkent's landmarks without arranging a separate photoshoot, worth it specifically for those wanting both sightseeing and quality photos in one booking.", tourCard: { slug: "tashkent-private-guided-city-tour-by-car-with", title: "Tashkent: Private Guided City Tour by Car with Photo Session", description: "A private city tour by car with a dedicated photo session in Tashkent.", price: "From $94", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg" } },
+                    { title: "Practical Tips", content: "Mention which landmarks you most want photographed at, so your guide can prioritize the route around the best light and timing." }
+                ],
+                faqs: [
+                    { q: "Is the private city tour with photo session worth it in Tashkent?", a: "Yes, for travelers wanting both sightseeing and professional-quality photos handled in one booking rather than two." }
+                ],
+            };
+
         case "is-marokand-concert-hall-show-worth-it-samarkand":
             return {
                 title: "Is the Marokand Concert Hall Show Worth It in Samarkand?",
