@@ -468,6 +468,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-thulusdhoo-surf-trip-worth-it-male', 'is-villingili-walking-tour-worth-it-male',
     'is-underwater-restaurant-worth-it-male', 'is-submarine-tour-worth-it-male',
     'is-beach-bonfire-dinner-worth-it-male', 'is-hulhumale-kayak-tour-worth-it-male',
+    'is-cinematic-photoshoot-drone-video-worth-it-male', 'is-sunset-fishing-trip-worth-it-male',
+    'is-thulusdhoo-beach-club-day-pass-worth-it-male', 'is-private-stingray-snorkeling-worth-it-male',
   ].map(slug => ({
     url: `${BASE_URL}/maldives/male/${slug}`,
     lastModified: new Date(),

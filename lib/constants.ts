@@ -1378,6 +1378,8 @@ export const MALE_INFO_SLUGS = [
   'is-thulusdhoo-surf-trip-worth-it-male', 'is-villingili-walking-tour-worth-it-male',
   'is-underwater-restaurant-worth-it-male', 'is-submarine-tour-worth-it-male',
   'is-beach-bonfire-dinner-worth-it-male', 'is-hulhumale-kayak-tour-worth-it-male',
+  'is-cinematic-photoshoot-drone-video-worth-it-male', 'is-sunset-fishing-trip-worth-it-male',
+  'is-thulusdhoo-beach-club-day-pass-worth-it-male', 'is-private-stingray-snorkeling-worth-it-male',
 ];
 
 // Uzbekistan GEO pages (2026-11-12) — first info-content pages for this

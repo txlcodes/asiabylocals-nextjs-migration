@@ -1036,6 +1036,90 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-cinematic-photoshoot-drone-video-worth-it-male":
+      return {
+        title: "Is the Private Cinematic Photoshoot & Drone Video Worth It?",
+        description: "An honest look at the private cinematic photoshoot and drone video experience near Male.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A professional photographer with drone equipment captures both ground-level and aerial shots of the Maldives' turquoise water, worth it specifically for travelers wanting genuinely high-quality, shareable footage rather than phone photos alone.",
+            tourCard: { slug: "maldives-private-cinematic-photoshoot-drone-video", title: "Maldives: Private Cinematic Photoshoot & Drone Video", description: "A private cinematic photoshoot with drone video in the Maldives.", price: "From $514", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Discuss your preferred locations and shot list with the photographer beforehand to make the most of the session's limited time.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private cinematic photoshoot and drone video worth it in the Maldives?", a: "Yes, for travelers wanting genuinely high-quality aerial and ground-level footage, well beyond what a phone alone can capture." },
+        ],
+      };
+
+    case "is-sunset-fishing-trip-worth-it-male":
+      return {
+        title: "Is the Tranquil Sunset Fishing Trip near a Coral Reef Worth It?",
+        description: "An honest look at the tranquil sunset fishing trip near a coral reef in the Maldives.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This relaxed, shorter trip trades the competitive big-game pursuit of a full fishing charter for a calm sunset session near a coral reef, worth it specifically for travelers wanting a low-key evening activity rather than a serious fishing expedition.",
+            tourCard: { slug: "maldives-tranquil-sunset-fishing-trip-near-a", title: "Maldives: Tranquil Sunset Fishing Trip near a Coral Reef", description: "A relaxed sunset fishing trip near a coral reef in the Maldives.", price: "From $72", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with relaxed expectations — this is a calm, scenic evening activity, not a serious big-game fishing pursuit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sunset fishing trip worth it near Male?", a: "Yes, specifically for travelers wanting a calm, low-key evening activity rather than a serious big-game fishing charter." },
+        ],
+      };
+
+    case "is-thulusdhoo-beach-club-day-pass-worth-it-male":
+      return {
+        title: "Is the Thulusdhoo Beach Club Day Pass Worth It?",
+        description: "An honest look at the Thulusdhoo beach club day pass with pool, beach, and loungers.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This day pass gives access to pool, beach, and loungers at Thulusdhoo, a genuinely different island destination from the resort day passes closer to Male, worth it specifically for travelers wanting to combine a relaxed beach day with Thulusdhoo's known surf scene.",
+            tourCard: { slug: "thulusdhoo-beach-club-day-pass-with-pool-beach", title: "Thulusdhoo: Beach Club Day Pass with Pool, Beach & Loungers", description: "A beach club day pass at Thulusdhoo with pool, beach, and lounger access.", price: "From $225", duration: "14 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the ferry schedule to and from Thulusdhoo in advance, since this is a full-day commitment given the 14-hour window.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Thulusdhoo beach club day pass worth it?", a: "Yes, specifically for travelers wanting a relaxed beach day combined with Thulusdhoo's distinct surf-town atmosphere, different from the closer resort day passes." },
+        ],
+      };
+
+    case "is-private-stingray-snorkeling-worth-it-male":
+      return {
+        title: "Is the Private Stingray Snorkeling Tour Worth It near Male?",
+        description: "An honest look at the private stingray snorkeling tour near Male.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private stingray snorkeling session gives genuine flexibility over timing and pace compared to a shared group boat, worth it specifically for travelers wanting a more personal, less crowded encounter with stingrays in their natural habitat.",
+            tourCard: { slug: "private-stingray-snorkeling-tour", title: "Private Stingray Snorkeling Tour", description: "A private stingray snorkeling tour near Male.", price: "From $520", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/103344a11004ed258ff0c1e0234872848ce42d2255170c5e02cd3ce9b0d92fa9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator about the best timing for stingray sightings, since activity can vary by tide and time of day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private stingray snorkeling tour worth it near Male?", a: "Yes, for a more personal, less crowded stingray encounter than a shared group boat trip offers." },
+        ],
+      };
+
     default:
       return null;
   }
