@@ -2267,6 +2267,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-water-puppet-show-worth-it-hanoi', 'is-vespa-city-tour-worth-it-hanoi', 'is-cooking-class-worth-it-hanoi',
     'is-tran-quoc-pagoda-tour-worth-it-hanoi', 'is-perfume-making-workshop-worth-it-hanoi',
     'is-embroidery-workshop-worth-it-hanoi', 'is-knife-making-workshop-worth-it-hanoi',
+    'is-indoor-shooting-experience-worth-it-hanoi', 'is-floating-cakes-lotus-tea-worth-it-hanoi',
+    'is-incense-village-ao-dai-photoshoot-worth-it-hanoi', 'is-quintessence-of-tonkin-show-worth-it-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),

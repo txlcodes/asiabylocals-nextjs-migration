@@ -1144,6 +1144,90 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-indoor-shooting-experience-worth-it-hanoi":
+      return {
+        title: "Is the Safe Indoor Shooting Experience Worth It in Hanoi?",
+        description: "An honest look at the safe indoor shooting experience with a 1-on-1 coach in Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/safe-indoor-shooting-experience-with-1-on-1-coach-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A genuinely novel activity for most travelers, this supervised indoor shooting session with a dedicated coach gives a safe, structured introduction, worth it for travelers wanting a different kind of adrenaline activity distinct from the city's temples and food tours.",
+            tourCard: { slug: "safe-indoor-shooting-experience-with-1-on-1-coach-in-hanoi", title: "Safe Indoor Shooting Experience with 1-on-1 Coach in Hanoi", description: "A supervised indoor shooting experience with a dedicated one-on-one coach.", price: "From $27", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/safe-indoor-shooting-experience-with-1-on-1-coach-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior experience is needed — the one-on-one coaching is specifically designed for complete beginners.",
+          },
+        ],
+        faqs: [
+          { q: "Is the indoor shooting experience worth it in Hanoi?", a: "Yes, for a safe, structured introduction to a genuinely novel activity, distinct from the city's usual sightseeing." },
+        ],
+      };
+
+    case "is-floating-cakes-lotus-tea-worth-it-hanoi":
+      return {
+        title: "Is Making Floating Cakes and Tasting Lotus Tea Worth It in Hanoi?",
+        description: "An honest look at the floating cakes making and fresh lotus tea tasting experience in Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/make-floating-cakes-and-taste-fresh-lotus-tea-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Banh troi (floating cakes) and lotus tea are genuine traditional specialties less commonly offered as dedicated classes, worth it for travelers wanting a relaxed, specific craft-and-tasting activity distinct from the city's standard cooking classes.",
+            tourCard: { slug: "make-floating-cakes-and-taste-fresh-lotus-tea-in-hanoi", title: "Make Floating Cakes and Taste Fresh Lotus Tea in Hanoi", description: "A hands-on floating cakes making class paired with fresh lotus tea tasting.", price: "From $26", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/make-floating-cakes-and-taste-fresh-lotus-tea-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about the seasonal availability of fresh lotus — the tea's quality and flavor can vary depending on when you visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is making floating cakes and tasting lotus tea worth it in Hanoi?", a: "Yes, it's a relaxed, specific traditional activity distinct from the city's standard cooking classes." },
+        ],
+      };
+
+    case "is-incense-village-ao-dai-photoshoot-worth-it-hanoi":
+      return {
+        title: "Is the Incense Village Ao Dai Rental and Photoshoot Worth It in Hanoi?",
+        description: "An honest look at the incense village Ao Dai rental and photoshoot experience in Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-incense-village-ao-dai-rental-and-photoshoot-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wearing a traditional Ao Dai for photos against the colorful backdrop of an incense-making village gives a genuinely distinctive photo opportunity, worth it for travelers who want striking photos alongside a glimpse of a traditional craft village.",
+            tourCard: { slug: "hanoi-incense-village-ao-dai-rental-and-photoshoot-by-local-operator", title: "Hanoi Incense Village Ao Dai Rental and Photoshoot", description: "An Ao Dai rental and photoshoot experience in an incense-making village.", price: "From $26", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-incense-village-ao-dai-rental-and-photoshoot-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your own camera or phone if you want extra shots beyond what's included, and confirm what's covered in the package beforehand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the incense village Ao Dai rental and photoshoot worth it in Hanoi?", a: "Yes, for a genuinely distinctive photo opportunity combining traditional dress with a colorful craft-village backdrop." },
+        ],
+      };
+
+    case "is-quintessence-of-tonkin-show-worth-it-hanoi":
+      return {
+        title: "Is the Quintessence of Tonkin Show Worth It in Hanoi?",
+        description: "An honest look at the Quintessence of Tonkin cultural show in Hanoi.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201507/asiabylocals/tours/quintessence-of-tonkin-show-a-cultural-spectacle-in-hanoi/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This large-scale outdoor cultural performance stages scenes from northern Vietnamese village life and folklore, giving genuine production value and spectacle, worth it for travelers who want a bigger, more theatrical evening show than the standard water puppet performance.",
+            tourCard: { slug: "quintessence-of-tonkin-show-a-cultural-spectacle-in-hanoi", title: "Quintessence of Tonkin Show - A Cultural Spectacle", description: "A large-scale outdoor cultural performance depicting northern Vietnamese village life.", price: "From $56", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201507/asiabylocals/tours/quintessence-of-tonkin-show-a-cultural-spectacle-in-hanoi/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead and confirm the venue's distance from central Hanoi, since this show runs at a dedicated outdoor site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Quintessence of Tonkin show worth it in Hanoi?", a: "Yes, it's a genuinely bigger, more theatrical production than the standard water puppet show, worth it for a memorable evening." },
+        ],
+      };
+
     default:
       return null;
   }
