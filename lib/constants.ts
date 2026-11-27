@@ -250,6 +250,8 @@ export const PHUKET_INFO_SLUGS = [
   'is-southern-flavours-food-tour-worth-it-phuket', 'is-bangla-boxing-stadium-worth-it-phuket',
   'is-street-art-tile-painting-workshop-worth-it-phuket', 'is-private-surf-lesson-kata-worth-it-phuket',
   'is-patong-nightlife-crawl-worth-it-phuket', 'is-authentic-thai-cultural-experiences-worth-it-phuket',
+  'is-khao-sok-cheow-lan-lake-worth-it-phuket', 'is-white-water-rafting-zipline-elephant-worth-it-phuket',
+  'is-go-kart-atv-shooting-combo-worth-it-phuket', 'is-koh-chang-vip-mini-phi-phi-worth-it-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once

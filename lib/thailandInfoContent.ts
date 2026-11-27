@@ -1951,6 +1951,62 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-khao-sok-cheow-lan-lake-worth-it-phuket":
+            return {
+                title: "Is the Khao Sok and Cheow Lan Lake Tour Worth It from Phuket?",
+                description: "An honest look at the Khao Sok and Cheow Lan Lake tour with lunch from Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khao-sok-and-cheow-lan-lake-tour-with-lunch-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cheow Lan Lake's towering limestone cliffs rising straight out of the water give a genuinely different, dramatic landscape than Phuket's beaches and islands, worth it for travelers wanting real rainforest and lake scenery beyond the standard coastal day trips.", tourCard: { slug: "khao-sok-and-cheow-lan-lake-tour-with-lunch-in-phuket", title: "Khao Sok and Cheow Lan Lake Tour with Lunch in Phuket", description: "A tour of Khao Sok National Park and Cheow Lan Lake with lunch from Phuket.", price: "From $450", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/khao-sok-and-cheow-lan-lake-tour-with-lunch-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day from Phuket — consider an overnight raft house stay if your schedule allows it." }
+                ],
+                faqs: [
+                    { q: "Is the Khao Sok and Cheow Lan Lake tour worth it from Phuket?", a: "Yes, for travelers wanting dramatic rainforest and lake scenery that's genuinely different from Phuket's beaches and islands." }
+                ],
+            };
+
+        case "is-white-water-rafting-zipline-elephant-worth-it-phuket":
+            return {
+                title: "Is the White Water Rafting, Zipline and Elephant Feeding Combo Worth It?",
+                description: "An honest look at the white water rafting, zipline and elephant feeding combo day in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/white-water-rafting-zipline-and-elephant-feeding-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining rafting, ziplining and ethical elephant feeding into one day gives a genuinely action-packed outing for travelers wanting several distinct activities rather than choosing just one, worth it specifically for that variety.", tourCard: { slug: "white-water-rafting-zipline-and-elephant-feeding-in-phuket", title: "White Water Rafting, Zipline and Elephant Feeding in Phuket", description: "A combo day of white water rafting, zipline and elephant feeding in Phuket.", price: "From $280", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/white-water-rafting-zipline-and-elephant-feeding-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the elephant feeding is a no-riding, ethical interaction before booking, since standards vary between operators." }
+                ],
+                faqs: [
+                    { q: "Is the rafting, zipline and elephant feeding combo worth it in Phuket?", a: "Yes, for travelers wanting several distinct jungle activities packed into one genuinely action-packed day." }
+                ],
+            };
+
+        case "is-go-kart-atv-shooting-combo-worth-it-phuket":
+            return {
+                title: "Is the Go-Kart, ATV Jungle Ride and Shooting Range Combo Worth It?",
+                description: "An honest look at the go-kart, ATV jungle ride and shooting range combo in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/go-kart-atv-jungle-ride-and-shooting-range-combo-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Packing go-kart racing, an ATV jungle ride and a shooting range into one day gives a genuinely high-adrenaline, activity-dense outing distinct from Phuket's beach and island circuit, worth it for travelers wanting a pure adrenaline day.", tourCard: { slug: "go-kart-atv-jungle-ride-and-shooting-range-combo-in-phuket", title: "Go-Kart, ATV Jungle Ride and Shooting Range Combo in Phuket", description: "A combo day of go-karting, an ATV jungle ride and a shooting range in Phuket.", price: "From $280", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/go-kart-atv-jungle-ride-and-shooting-range-combo-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the minimum age and height requirements for each activity before booking as a family." }
+                ],
+                faqs: [
+                    { q: "Is the go-kart, ATV and shooting range combo worth it in Phuket?", a: "Yes, for travelers wanting a genuinely high-adrenaline, activity-dense day distinct from the usual beach and island circuit." }
+                ],
+            };
+
+        case "is-koh-chang-vip-mini-phi-phi-worth-it-phuket":
+            return {
+                title: "Is the Koh Chang VIP 2-Day Private Tour with Mini Phi Phi Worth It?",
+                description: "An honest look at the Koh Chang VIP 2-day private tour with Mini Phi Phi from Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/koh-chang-vip-2-day-private-tour-mini-phi-phi-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Koh Chang (Mini Phi Phi) offers Phi Phi-style limestone cliffs and clear water with a fraction of the crowds of the main Phi Phi islands, and a 2-day VIP format turns it into a proper island escape, worth it for travelers who want Phi Phi's scenery without its crowds.", tourCard: { slug: "koh-chang-vip-2-day-private-tour-mini-phi-phi-phuket", title: "Koh Chang VIP 2-Day Private Tour, Mini Phi Phi (Phuket)", description: "A VIP 2-day private tour to Koh Chang, known as Mini Phi Phi, from Phuket.", price: "From $1572", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/koh-chang-vip-2-day-private-tour-mini-phi-phi-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Don't confuse this Koh Chang with the larger, better-known Koh Chang near the Cambodian border — this is a smaller island near Phuket." }
+                ],
+                faqs: [
+                    { q: "Is the Koh Chang VIP 2-day Mini Phi Phi tour worth it from Phuket?", a: "Yes, for travelers wanting Phi Phi-style limestone scenery with a fraction of the crowds of the main islands." }
+                ],
+            };
+
         default:
             return null;
     }
