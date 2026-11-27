@@ -3033,6 +3033,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-nepali-pulao-cooking-class-worth-it-kathmandu":
+            return {
+                title: "Is the Nepali Pulao Cooking Class Worth It in Kathmandu?",
+                description: "An honest look at the Nepali Pulao cooking class in Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This class focuses specifically on Pulao, a spiced rice dish distinct from the city's more common Newari food and momo classes, worth it for travelers wanting to learn one specific, repeatable dish they can recreate at home.", tourCard: { slug: "nepali-pulao-cooking-class", title: "Nepali Pulao Cooking Class", description: "A hands-on Nepali Pulao cooking class in Kathmandu.", price: "From $33", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg" } },
+                    { title: "Practical Tips", content: "Pay attention to the specific spice ratios taught — that's the detail that's easiest to recreate at home afterward." }
+                ],
+                faqs: [
+                    { q: "Is the Nepali Pulao cooking class worth it in Kathmandu?", a: "Yes, for travelers wanting one specific, repeatable rice dish distinct from the city's more common Newari food and momo classes." }
+                ],
+            };
+
+        case "is-nepali-beer-testing-worth-it-kathmandu":
+            return {
+                title: "Is the 3+ Nepali Beer Testing with Optional Dinner Worth It?",
+                description: "An honest look at the 3-plus Nepali beer testing experience with optional dinner in Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tasting several Nepali beers side by side gives genuine comparison and context beyond the home-brewed tongba and local spirits covered elsewhere, worth it specifically for travelers curious about the country's modern brewing scene rather than just traditional drinks.", tourCard: { slug: "kathmandu-3-nepali-beer-testings-with-optional", title: "Kathmandu: 3+ Nepali Beer Testings with Optional Dinner", description: "A tasting session of 3 or more Nepali beers, with an optional dinner.", price: "From $53", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg" } },
+                    { title: "Practical Tips", content: "Add the optional dinner if you'd rather not taste multiple beers on an empty stomach." }
+                ],
+                faqs: [
+                    { q: "Is the Nepali beer testing worth it in Kathmandu?", a: "Yes, specifically for travelers curious about the country's modern brewing scene, a different angle from traditional tongba and home-brewed drinks." }
+                ],
+            };
+
+        case "is-unesco-hop-on-hop-off-worth-it-kathmandu":
+            return {
+                title: "Is the Kathmandu Hop-On Hop-Off UNESCO World Heritage Tour Worth It?",
+                description: "An honest look at the Kathmandu hop-on hop-off UNESCO World Heritage tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This hop-on hop-off pass gives genuine flexibility to linger at whichever UNESCO sites interest you most, worth it specifically for independent travelers who'd rather set their own pace than follow a fixed-schedule guided day tour.", tourCard: { slug: "kathmandu-hop-on-hop-off-unesco-world-heritage", title: "Kathmandu: Hop-On Hop-Off UNESCO World Heritage Tour", description: "A hop-on hop-off bus tour covering Kathmandu's UNESCO World Heritage sites.", price: "From $53", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg" } },
+                    { title: "Practical Tips", content: "Plan roughly how long you want at each site in advance, since the flexible format means it's easy to run out of daylight if you linger too long early on." }
+                ],
+                faqs: [
+                    { q: "Is the hop-on hop-off UNESCO tour worth it in Kathmandu?", a: "Yes, for independent travelers wanting genuine flexibility to set their own pace between heritage sites, rather than following a fixed guided schedule." }
+                ],
+            };
+
+        case "is-kathmandu-morning-walk-worth-it-kathmandu":
+            return {
+                title: "Is the Kathmandu Morning Walk Worth It?",
+                description: "An honest look at the Kathmandu morning walk.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing Kathmandu wake up — markets setting up, morning rituals, quiet streets before the daytime crowds — gives a genuinely different, calmer perspective on the city, worth it for travelers wanting an easy, low-effort way to see local life before the heat and traffic build up.", tourCard: { slug: "kathmandu-morning-walk", title: "Kathmandu: Morning Walk", description: "A guided morning walk through Kathmandu as the city wakes up.", price: "From $53", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg" } },
+                    { title: "Practical Tips", content: "Set an early alarm — the genuine local atmosphere of a morning walk is at its best before the city's daytime traffic and crowds build up." }
+                ],
+                faqs: [
+                    { q: "Is the Kathmandu morning walk worth it?", a: "Yes, for travelers wanting a calmer, more genuine look at local daily life before the city's daytime crowds and traffic build up." }
+                ],
+            };
+
         case "is-gurkha-mountain-butterfly-museum-worth-it-pokhara":
             return {
                 title: "Is the Private Gurkha, Mountain & Butterfly Museum Tour Worth It?",
