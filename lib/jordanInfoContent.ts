@@ -1586,6 +1586,74 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bedouin-etiquette-jeep-tour-worth-it-aqaba":
+            return {
+                title: "Is the 5-Hour Desert Jeep Tour & Bedouin Etiquette Class Worth It?",
+                description: "An honest look at the 5-hour desert jeep tour with a Bedouin etiquette class in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0a3df4700fdf2429ecefa79ee5191e6e40d0631b315a4357eefa698496a6b40.png",
+                sections: [
+                    { title: "The Short Answer", content: "Beyond the standard jeep tour scenery, this adds a genuine etiquette class covering Bedouin customs and hospitality norms, worth it for travelers who want real cultural understanding rather than just desert photos.", tourCard: { slug: "5-hour-desert-jeep-tour-bedouin-etiquette-class", title: "5-Hour Desert Jeep Tour & Bedouin Etiquette Class, Wadi Rum", description: "A desert jeep tour in Wadi Rum including a Bedouin etiquette class.", price: "From $194", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0a3df4700fdf2429ecefa79ee5191e6e40d0631b315a4357eefa698496a6b40.png" } },
+                    { title: "Practical Tips", content: "Come with genuine questions about Bedouin customs — the etiquette class is the part that sets this tour apart from a standard jeep ride." },
+                ],
+                faqs: [
+                    { q: "Is the 5-hour desert jeep tour with Bedouin etiquette class worth it?", a: "Yes, it gives real cultural understanding of Bedouin customs beyond just the scenery." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bedouin etiquette jeep tour worth it in Wadi Rum?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives real cultural understanding of Bedouin customs beyond the scenery." } },
+                ] },
+            };
+
+        case "is-camel-ride-dinner-party-worth-it-aqaba":
+            return {
+                title: "Is the Camel Ride, Traditional Dinner & Party Worth It in Wadi Rum?",
+                description: "An honest look at the camel ride, traditional dinner, and party experience in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1f3f506e8d9d51c4959756b7353c251c0af416e84f604652d2db87ee0212c510.png",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a camel ride with a traditional dinner and a livelier party atmosphere gives this a more festive evening format than a standard quiet desert dinner, worth it for travelers who want socializing and music alongside the desert experience.", tourCard: { slug: "camel-ride-traditional-dinner-party-i-4-hours-in", title: "Camel Ride, Traditional Dinner & Party I 4 Hours in Wadi Rum", description: "A camel ride, traditional dinner, and party experience in Wadi Rum.", price: "From $168", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1f3f506e8d9d51c4959756b7353c251c0af416e84f604652d2db87ee0212c510.png" } },
+                    { title: "Practical Tips", content: "Choose this over the quieter romantic dinner option specifically if you want a livelier, more social evening." },
+                ],
+                faqs: [
+                    { q: "Is the camel ride, traditional dinner, and party worth it in Wadi Rum?", a: "Yes, for travelers wanting a livelier, more social desert evening than a quiet dinner format." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the camel ride and dinner party worth it in Wadi Rum?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a livelier, more social desert evening." } },
+                ] },
+            };
+
+        case "is-romantic-sunset-dinner-couples-worth-it-aqaba":
+            return {
+                title: "Is the Private Romantic Sunset Dinner & Jeep for Couples Worth It?",
+                description: "An honest look at the private romantic sunset dinner and jeep tour for couples in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c914c6a61268535539f08c75b4d78366a6d9ab0766951bec8209f18c1912e23.png",
+                sections: [
+                    { title: "The Short Answer", content: "Designed specifically for couples, this pairs a private jeep tour with a sunset dinner away from the larger group camps, worth it for travelers wanting an intimate, quieter desert evening rather than a social, group-oriented one.", tourCard: { slug: "private-romantic-sunset-dinner-jeep-for-couples-i", title: "Private Romantic Sunset Dinner & Jeep for Couples I Wadi Rum", description: "A private sunset dinner and jeep tour designed for couples.", price: "From $259", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c914c6a61268535539f08c75b4d78366a6d9ab0766951bec8209f18c1912e23.png" } },
+                    { title: "Practical Tips", content: "Book this specifically if privacy and a quiet atmosphere matter more to you than the social, group-camp experience." },
+                ],
+                faqs: [
+                    { q: "Is the romantic sunset dinner and jeep tour for couples worth it?", a: "Yes, for travelers wanting an intimate, private desert evening rather than a social group camp experience." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the romantic sunset dinner for couples worth it in Wadi Rum?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for an intimate, private desert evening." } },
+                ] },
+            };
+
+        case "is-umm-ad-dami-camping-package-worth-it-aqaba":
+            return {
+                title: "Is the Umm Ad Dami Hike, Jeep Tour & Wild Camping Package Worth It?",
+                description: "An honest look at the Umm Ad Dami hike, jeep tour, Bedouin dinner, and wild camping package in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png",
+                sections: [
+                    { title: "The Short Answer", content: "Unlike the standalone summit-only Umm Ad Dami hike, this 2-day package bundles the climb with a jeep tour, Bedouin dinner, and wild camping under the stars, worth it for travelers who want the full multi-day desert experience rather than just the hike.", tourCard: { slug: "umm-ad-dami-hike-jeep-tour-bedouin-dinner-wild", title: "Umm Ad Dami Hike, Jeep Tour, Bedouin Dinner & Wild Camping", description: "A 2-day package combining the Umm Ad Dami summit hike with a jeep tour, Bedouin dinner, and wild camping.", price: "From $389", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png" } },
+                    { title: "Practical Tips", content: "Confirm fitness requirements with the operator — summiting Jordan's highest peak is genuine mountaineering, not a casual walk, even as part of this bundled package." },
+                ],
+                faqs: [
+                    { q: "Is the Umm Ad Dami hike and wild camping package worth it?", a: "Yes, for travelers wanting the full multi-day desert experience bundled with the summit hike, rather than just the climb alone." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Umm Ad Dami camping package worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the full multi-day desert experience bundled with the summit hike." } },
+                ] },
+            };
+
         default:
             return null;
     }
