@@ -1986,6 +1986,62 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-angkor-eye-ride-worth-it-siem-reap":
+            return {
+                title: "Is the Angkor Eye Standard Ride Worth It in Siem Reap?",
+                description: "An honest look at the Angkor Eye tethered balloon ride ticket in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tethered balloon lifts you a few hundred meters over the Angkor Wat area for a genuinely different aerial perspective on the temple complex and surrounding countryside, worth it specifically for travelers wanting a quick, low-effort view from above without arranging a drone or helicopter.", tourCard: { slug: "angkor-eye-standard-ride-ticket-with-pickup", title: "Angkor Eye Standard Ride Ticket with Pickup", description: "A tethered balloon ride ticket over the Angkor Wat area in Siem Reap.", price: "From $34", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the weather forecast before booking — the balloon can be grounded on windy days, so book earlier in your trip rather than your last day." }
+                ],
+                faqs: [
+                    { q: "Is the Angkor Eye balloon ride worth it in Siem Reap?", a: "Yes, for a quick, genuinely different aerial view over the Angkor Wat area without needing a drone or helicopter." }
+                ],
+            };
+
+        case "is-khmer-costume-experience-worth-it-siem-reap":
+            return {
+                title: "Is the Khmer Traditional Costume Experience at Angkor Wat Worth It?",
+                description: "An honest look at the Khmer traditional costume experience at Angkor Wat in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Wearing traditional Khmer dress for photos at Angkor Wat gives a genuinely different, more memorable set of travel photos than a standard outfit, worth it specifically for travelers who want standout images rather than typical temple snapshots.", tourCard: { slug: "khmer-traditional-costume-experience-at-angkor-wat", title: "Khmer Traditional Costume Experience at Angkor Wat", description: "A traditional Khmer costume photo experience at Angkor Wat.", price: "From $33", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book for early morning when the light is softer and the temple grounds are less crowded for photos." }
+                ],
+                faqs: [
+                    { q: "Is the Khmer costume experience worth it at Angkor Wat?", a: "Yes, for travelers wanting standout, memorable photos rather than typical temple snapshots in regular clothes." }
+                ],
+            };
+
+        case "is-west-baray-cycling-tour-worth-it-siem-reap":
+            return {
+                title: "Is the West Baray Embankment Cycling Tour Worth It in Siem Reap?",
+                description: "An honest look at the West Baray embankment cycling tour in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The West Baray is an enormous 11th-century reservoir still holding water today, and cycling its embankment gives a genuinely local, uncrowded alternative to the main temple circuit, worth it specifically for travelers wanting an active afternoon away from the tourist scripts.", tourCard: { slug: "siem-reap-west-baray-embankment-cycling-tour", title: "Siem Reap West Baray Embankment Cycling Tour", description: "A cycling tour along the embankment of the West Baray reservoir.", price: "From $33", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go in the late afternoon to catch local Cambodian families swimming and relaxing at the water's edge, and for better light." }
+                ],
+                faqs: [
+                    { q: "Is the West Baray cycling tour worth it in Siem Reap?", a: "Yes, for an active, genuinely local alternative to the main temple circuit, with almost no tourist crowds." }
+                ],
+            };
+
+        case "is-kampot-kep-countryside-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Kampot and Kep Countryside Tour Worth It from Siem Reap?",
+                description: "An honest look at the Kampot and Kep countryside tour, covering pepper farms and salt fields, from Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kampot and Kep sit far south of the temple circuit and cover a completely different side of Cambodia — pepper farms, salt fields, and a quieter coastal town — worth it specifically for travelers with extra days who want genuine variety beyond Angkor's temples.", tourCard: { slug: "kampot-and-kep-countryside-tour-pepper-farm-salt-f", title: "Kampot and Kep: Countryside Tour, Pepper Farm, Salt Fields", description: "A countryside tour of Kampot and Kep covering pepper farms and salt fields.", price: "From $34", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a long day trip given the distance from Siem Reap — confirm total travel time with the operator before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Kampot and Kep countryside tour worth it from Siem Reap?", a: "Yes, specifically for travelers with extra days wanting genuine variety beyond Angkor's temples — pepper farms, salt fields, and a quieter coastal town." }
+                ],
+            };
+
         default:
             return null;
     }
