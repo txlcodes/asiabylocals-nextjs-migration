@@ -1826,6 +1826,88 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mount-pinatubo-hike-worth-it-manila":
+      return {
+        title: "Is the Mount Pinatubo Day Hike Worth It from Manila?",
+        description: "An honest look at the Mount Pinatubo day hike only private tour from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52f69574b10346e2780670274c09276b4e981294b75bf0dbfd50a69a763d42f4.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hiking to Mount Pinatubo's striking turquoise crater lake, formed after the 1991 eruption, gives a genuinely dramatic landscape and real physical activity beyond Manila's heritage sites, worth it for travelers wanting a serious day hike with a payoff view.",
+            tourCard: { slug: "mtpinatubo-hike-day-hike-only-from-manila-private", title: "Mt.Pinatubo: Hike Day Hike only from MANILA PRIVATE TOUR", description: "A private day hike to Mount Pinatubo's crater lake from Manila.", price: "From $776", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/52f69574b10346e2780670274c09276b4e981294b75bf0dbfd50a69a763d42f4.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear real hiking shoes and sun protection — most of the trek crosses exposed volcanic ash terrain with little shade.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Pinatubo hike worth it from Manila?", a: "Yes, for travelers wanting a genuinely dramatic crater lake view and serious physical activity beyond Manila's heritage sites." },
+        ],
+      };
+
+    case "is-tarlac-wwii-tunnels-worth-it-manila":
+      return {
+        title: "Is the Tarlac WWII History and Tunnels Tour Worth It from Manila?",
+        description: "An honest look at the Tarlac WWII history, tunnels and cultural wonders tour from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/99e2551e4dc7a0a8a1fd219c296144234cab84f6e3e6d12d6469e8d3125b122e.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tarlac's WWII tunnels and historical sites give a genuinely different regional angle on the war than Bataan or Manila's own memorials, worth it for travelers with real interest in Philippine WWII history who've already covered the more commonly visited sites.",
+            tourCard: { slug: "from-manila-tarlac-wwii-history-tunnels-cultural", title: "From Manila: Tarlac WWII History, Tunnels & Cultural Wonders", description: "A tour covering Tarlac's WWII tunnels and cultural sites from Manila.", price: "From $524", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/99e2551e4dc7a0a8a1fd219c296144234cab84f6e3e6d12d6469e8d3125b122e.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a flashlight or ask your guide for one, since some of the tunnel sections have limited lighting.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tarlac WWII tunnels tour worth it from Manila?", a: "Yes, for travelers with real interest in Philippine WWII history wanting a different regional angle than Bataan or Manila's own sites." },
+        ],
+      };
+
+    case "is-nueva-ecija-countryside-worth-it-manila":
+      return {
+        title: "Is the Nueva Ecija Nature and Countryside Day Trip Worth It from Manila?",
+        description: "An honest look at the Nueva Ecija nature and countryside day trip from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe798e2a8d712b14c46f3909923e1c35863475f2668ed420c89d4a6ab1cc0588.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nueva Ecija's rice-growing countryside gives a genuine rural Philippines experience rarely covered by Manila's standard day-trip circuit, worth it for travelers wanting real agricultural scenery and a slower pace rather than another heritage or beach destination.",
+            tourCard: { slug: "from-manila-nueva-ecija-nature-countryside-day", title: "From Manila: Nueva Ecija Nature & Countryside Day Trip", description: "A nature and countryside day trip to Nueva Ecija from Manila.", price: "From $507", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fe798e2a8d712b14c46f3909923e1c35863475f2668ed420c89d4a6ab1cc0588.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask what's included at the specific countryside stops, since the itinerary can vary between operators." }
+        ],
+        faqs: [
+          { q: "Is the Nueva Ecija countryside day trip worth it from Manila?", a: "Yes, for travelers wanting a genuine rural Philippines experience rarely covered by the standard Manila day-trip circuit." }
+        ],
+      };
+
+    case "is-calatagan-island-hopping-lighthouse-worth-it-manila":
+      return {
+        title: "Is the Calatagan Island Hopping and Lighthouse Tour Worth It?",
+        description: "An honest look at the Calatagan island hopping, snorkeling and lighthouse tour from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f06feae3c81eefc81df337b5ee84dc54f621e92deb8e5f7d0cd2b582b674d3e0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Calatagan's island hopping, snorkeling and a historic lighthouse stop give a fuller day of beach and coastal sightseeing than a simple 'Little Boracay' beach visit alone, worth it for travelers wanting more structure and variety in their Batangas beach day.",
+            tourCard: { slug: "calatagan-island-hopping-snorkeling-and-a", title: "Calatagan: Island Hopping, Snorkeling, and a Lighthouse Tour", description: "An island hopping, snorkeling and lighthouse tour in Calatagan from Manila.", price: "From $474", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f06feae3c81eefc81df337b5ee84dc54f621e92deb8e5f7d0cd2b582b674d3e0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring reef-safe sunscreen and your own snorkel gear if you have a preferred fit." }
+        ],
+        faqs: [
+          { q: "Is the Calatagan island hopping and lighthouse tour worth it from Manila?", a: "Yes, for travelers wanting a fuller, more structured day of beach and coastal sightseeing than a simple beach visit alone." }
+        ],
+      };
+
     case "is-las-casas-filipinas-worth-it-cebu":
       return {
         title: "Is Las Casas Filipinas Heritage Village Worth It near Cebu?",

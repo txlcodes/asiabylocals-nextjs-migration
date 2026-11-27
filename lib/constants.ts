@@ -1512,6 +1512,8 @@ export const MANILA_INFO_SLUGS = [
   'is-manila-bay-night-cruise-worth-it-manila', 'is-tondo-walking-tour-worth-it-manila',
   'is-lakbay-museo-worth-it-manila', 'is-smokey-mountain-community-tour-worth-it-manila',
   'is-manila-wwii-history-walking-tour-worth-it', 'is-manila-oldest-cemetery-tour-worth-it',
+  'is-mount-pinatubo-hike-worth-it-manila', 'is-tarlac-wwii-tunnels-worth-it-manila',
+  'is-nueva-ecija-countryside-worth-it-manila', 'is-calatagan-island-hopping-lighthouse-worth-it-manila',
 ];
 
 // Boracay (Philippines) — 27 live tours, launched 2026-11-22.
