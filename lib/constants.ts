@@ -292,6 +292,8 @@ export const PENANG_INFO_SLUGS = [
   'is-teluk-bahang-fishing-village-tour-worth-it-penang', 'is-umi-umi-dining-show-worth-it-penang',
   'is-glass-museum-worth-it-penang', 'is-batu-ferringhi-donut-ride-worth-it-penang',
   'is-jet-ski-worth-it-penang', 'is-nanyang-kungfu-tea-experience-worth-it-penang',
+  'is-village-fun-congkak-petting-zoo-worth-it-penang', 'is-balik-pulau-batik-petting-zoo-worth-it-penang',
+  'is-floating-mosque-thai-burmese-temple-tour-worth-it-penang', 'is-chowrasta-asam-laksa-nyonya-kuih-tour-worth-it-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [

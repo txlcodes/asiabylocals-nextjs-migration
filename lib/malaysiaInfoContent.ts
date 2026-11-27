@@ -3931,6 +3931,74 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-village-fun-congkak-petting-zoo-worth-it-penang":
+            return {
+                title: "Is Penang Village Fun: Congkak Game, Local Treat & Petting Zoo Worth It?",
+                description: "An honest look at the Penang Village Fun experience with the Congkak game, local treats, and a petting zoo.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/258f0a41b01715547650ff4fea9fb293b939052436dd4a9b46b32c34df64ca99.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Congkak is a genuine traditional Malay board game, and learning it alongside a local treat and petting zoo stop makes this a good family-friendly village experience distinct from George Town's heritage-focused sightseeing.", tourCard: { slug: "penang-village-fun-congkak-game-local-treat", title: "Penang Village Fun: Congkak Game, Local Treat & Petting Zoo", description: "A village experience with a traditional Congkak game, local treat, and petting zoo.", price: "From $86", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/258f0a41b01715547650ff4fea9fb293b939052436dd4a9b46b32c34df64ca99.jpg" } },
+                    { title: "Practical Tips", content: "A good pick for families with younger kids who'd otherwise find a full heritage walking tour too long or dry." },
+                ],
+                faqs: [
+                    { q: "Is Penang Village Fun worth it?", a: "Yes, especially for families — it's a genuine traditional game plus a petting zoo, distinct from the city's heritage-focused sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Penang Village Fun worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, especially for families, combining a traditional game with a petting zoo." } },
+                ] },
+            };
+
+        case "is-balik-pulau-batik-petting-zoo-worth-it-penang":
+            return {
+                title: "Is Penang: Balik Pulau Batik Painting & Petting Zoo Visit Worth It?",
+                description: "An honest look at the Balik Pulau batik painting workshop and petting zoo visit in Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1083133/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This pairs a hands-on batik painting craft session with a petting zoo stop in the rural Balik Pulau area, worth it for travelers who want a genuine craft activity alongside a relaxed, family-friendly animal encounter in one trip.", tourCard: { slug: "penang-balik-pulau-batik-painting-petting-zoo", title: "Penang: Balik Pulau Batik Painting & Petting Zoo Visit", description: "A batik painting workshop paired with a petting zoo visit in Balik Pulau.", price: "From $113", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1083133/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting a bit of paint on during the batik session." },
+                ],
+                faqs: [
+                    { q: "Is the Balik Pulau batik painting and petting zoo visit worth it?", a: "Yes, it combines a genuine hands-on craft activity with a relaxed, family-friendly animal encounter in one trip." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Balik Pulau batik painting and petting zoo visit worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it combines a genuine craft activity with a family-friendly animal encounter." } },
+                ] },
+            };
+
+        case "is-floating-mosque-thai-burmese-temple-tour-worth-it-penang":
+            return {
+                title: "Is the Floating Mosque, Thai & Burmese Temple Guided Tour Worth It in Penang?",
+                description: "An honest look at the floating mosque, Thai temple, and Burmese temple guided tour in Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1496209/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers Penang's floating mosque along with its Thai and Burmese temples, a genuinely multicultural religious circuit distinct from George Town's Chinese clan jetties and heritage shophouses.", tourCard: { slug: "penang-guided-tour-floating-mosque-thai-burmese", title: "Penang Guided Tour: Floating Mosque, Thai & Burmese Temple", description: "A guided tour covering the floating mosque and Thai and Burmese temples.", price: "From $117", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1496209/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for the mosque and temple visits — shoulders and knees covered is the standard expectation at all three sites." },
+                ],
+                faqs: [
+                    { q: "Is the floating mosque, Thai and Burmese temple tour worth it in Penang?", a: "Yes, it covers a genuinely multicultural religious circuit distinct from the city's more commonly toured Chinese heritage sites." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the floating mosque, Thai and Burmese temple tour worth it in Penang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely multicultural religious circuit distinct from the city's Chinese heritage sites." } },
+                ] },
+            };
+
+        case "is-chowrasta-asam-laksa-nyonya-kuih-tour-worth-it-penang":
+            return {
+                title: "Is Penang: Chowrasta Stories, Asam Laksa and Nyonya Kuih Worth It?",
+                description: "An honest look at the Chowrasta Stories food walk covering asam laksa and Nyonya kuih in Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-389583/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Centered on the historic Chowrasta Market, this food walk goes deep on two specific Penang specialties, asam laksa and Nyonya kuih, with real storytelling behind each dish, worth it for food-focused travelers wanting depth over breadth.", tourCard: { slug: "penang-chowrasta-stories-asam-laksa-and-nyonya", title: "Penang: Chowrasta Stories, Asam Laksa and Nyonya Kuih", description: "A food walk around Chowrasta Market focused on asam laksa and Nyonya kuih.", price: "From $123", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-389583/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come hungry but not full — the depth here is in fewer dishes explained well, rather than a wide tasting spread." },
+                ],
+                faqs: [
+                    { q: "Is the Chowrasta Stories, Asam Laksa and Nyonya Kuih tour worth it?", a: "Yes, for food-focused travelers who want real depth and storytelling behind two specific Penang specialties rather than a broad tasting tour." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Chowrasta Stories tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for real depth and storytelling behind two specific Penang specialties." } },
+                ] },
+            };
+
         case "is-george-town-walking-tour-worth-it-penang":
             return {
                 title: "Is the George Town History Walking Tour Worth It?",
