@@ -2754,4 +2754,6 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'is-rug-tufting-workshop-worth-it-ho-chi-minh-city', 'is-slum-tour-worth-it-ho-chi-minh-city',
   'is-perfume-workshop-worth-it-ho-chi-minh-city', 'is-iconic-apartments-walking-tour-worth-it-ho-chi-minh-city',
   'is-scented-candle-making-workshop-worth-it-ho-chi-minh-city', 'is-icon-saigon-sunset-cruise-worth-it-ho-chi-minh-city',
+  'is-chinatown-temples-market-walking-tour-worth-it-ho-chi-minh-city', 'is-archery-hidden-cafe-experience-worth-it-ho-chi-minh-city',
+  'is-mosaic-art-workshop-worth-it-ho-chi-minh-city', 'is-thao-dien-walking-tour-worth-it-ho-chi-minh-city',
 ];

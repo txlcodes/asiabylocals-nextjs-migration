@@ -1200,6 +1200,90 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-chinatown-temples-market-walking-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Chinatown, Temples and Market Walking Tour Worth It in Ho Chi Minh City?",
+        description: "An honest look at the Chinatown, temples, and market walking tour in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cholon, the city's Chinatown district, is a genuinely different cultural layer from the French colonial core most visitors stick to, and this walking tour through its temples and markets covers ground most itineraries skip entirely, worth it for travelers wanting a fuller picture of Saigon's history.",
+            tourCard: { slug: "chinatown-temples-and-market-walking-tour-in-ho-chi-minh-city", title: "Chinatown, Temples and Market Walking Tour in Ho Chi Minh City", description: "A guided walking tour of Ho Chi Minh City's Chinatown district, temples, and markets.", price: "From $33", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the temple stops, since several require covered shoulders.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chinatown walking tour worth it in Ho Chi Minh City?", a: "Yes, for a fuller picture of the city's history beyond the French colonial core most visitors stick to." },
+        ],
+      };
+
+    case "is-archery-hidden-cafe-experience-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Archery and Hidden Café Experience Worth It in Ho Chi Minh City?",
+        description: "An honest look at the archery and hidden café experience in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing archery practice with a visit to a genuinely hidden, hard-to-find café gives this a different pace than the city's usual street food and history tours, worth it specifically for travelers wanting something active and a little off the typical sightseeing script.",
+            tourCard: { slug: "archery-and-hidden-caf-experience-in-ho-chi-minh-city", title: "Archery and Hidden Café Experience in Ho Chi Minh City", description: "An archery session paired with a visit to a hidden café in Ho Chi Minh City.", price: "From $35", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable clothes you can move in for the archery portion, since you'll be standing and drawing a bow repeatedly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the archery and hidden café experience worth it in Ho Chi Minh City?", a: "Yes, for travelers wanting something active and off the typical sightseeing script, rather than another food or history tour." },
+        ],
+      };
+
+    case "is-mosaic-art-workshop-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Mosaic Art Workshop in a Secret Spot Worth It in Ho Chi Minh City?",
+        description: "An honest look at the mosaic art workshop in a secret spot in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hosted at a genuinely hidden location rather than a tourist-facing storefront, this hands-on mosaic workshop gives a quiet, creative break from sightseeing and a real souvenir to take home, worth it for travelers wanting a calmer indoor activity between busier days.",
+            tourCard: { slug: "mosaic-art-workshop-in-a-secret-spot-in-ho-chi-minh-city", title: "Mosaic Art Workshop in a Secret Spot in Ho Chi Minh City", description: "A hands-on mosaic art workshop at a hidden location in Ho Chi Minh City.", price: "From $39", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day or midday-heat option, since it's entirely indoors and hands-on.",
+          },
+        ],
+        faqs: [
+          { q: "Is the mosaic art workshop worth it in Ho Chi Minh City?", a: "Yes, for a calm, creative break from sightseeing with a genuine souvenir to take home." },
+        ],
+      };
+
+    case "is-thao-dien-walking-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Luxury and Snapshots Walking Tour in Thao Dien Worth It?",
+        description: "An honest look at the luxury and snapshots walking tour in Thao Dien, Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Thao Dien is the city's upscale, leafy expat district, a genuinely different side of Saigon from the dense, historic downtown core, worth it specifically for travelers wanting photogenic cafes and boutique architecture rather than another temple or market stop.",
+            tourCard: { slug: "luxury-and-snapshots-walking-tour-in-thao-dien-in-ho-chi-minh-city", title: "Luxury and Snapshots Walking Tour in Thao Dien in Ho Chi Minh City", description: "A walking tour of Thao Dien's upscale cafes and boutique architecture.", price: "From $36", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your camera or phone fully charged — the tour is built specifically around photogenic stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Thao Dien walking tour worth it in Ho Chi Minh City?", a: "Yes, for travelers wanting a photogenic, upscale side of Saigon that's genuinely different from the historic downtown core." },
+        ],
+      };
+
     default:
       return null;
   }
