@@ -1470,6 +1470,74 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-marokand-concert-hall-show-worth-it-samarkand":
+            return {
+                title: "Is the Marokand Concert Hall Show Worth It in Samarkand?",
+                description: "An honest look at the Marokand Concert Hall show ticket in Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9661a47ec3f3511f3404905c126904687fc9fab6f960c060008a8d7cbb5d1bc.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A genuine evening performance venue giving a different kind of cultural experience than the city's daytime monument sightseeing, worth it as an easy, relaxed way to close out a day in Samarkand.", tourCard: { slug: "marokand-concert-hall-show-ticket", title: "Marokand Concert Hall Show Ticket", description: "A ticket to a performance at the Marokand Concert Hall in Samarkand.", price: "From $33", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9661a47ec3f3511f3404905c126904687fc9fab6f960c060008a8d7cbb5d1bc.jpeg" } },
+                    { title: "Practical Tips", content: "Book ahead for a good seat — confirm the night's specific program with the venue before buying." }
+                ],
+                faqs: [
+                    { q: "Is the Marokand Concert Hall show worth it in Samarkand?", a: "Yes, as an easy, relaxed evening activity distinct from the city's daytime monument sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Marokand Concert Hall show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed evening activity distinct from daytime sightseeing." } }
+                ] },
+            };
+
+        case "is-uzbek-folklore-show-worth-it-samarkand":
+            return {
+                title: "Is the Uzbek Folklore Show Worth It in Samarkand?",
+                description: "An honest look at the Uzbek folklore show in Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/19d78222425a7163217aef6125761a0cabcb172fcb3998431210afb749e29b00.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This show covers traditional Uzbek music and dance, giving genuine cultural context that complements the city's historic architecture, worth it for travelers wanting a living cultural performance alongside the monuments.", tourCard: { slug: "uzbek-folklore-show-in-samarkand", title: "Uzbek Folklore Show in Samarkand", description: "A traditional Uzbek music and dance folklore show in Samarkand.", price: "From $39", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/19d78222425a7163217aef6125761a0cabcb172fcb3998431210afb749e29b00.jpg" } },
+                    { title: "Practical Tips", content: "A good evening pairing after a day of monument sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the Uzbek folklore show worth it in Samarkand?", a: "Yes, it gives genuine living cultural context that complements the city's historic architecture." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Uzbek folklore show worth it in Samarkand?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine living cultural context alongside the city's monuments." } }
+                ] },
+            };
+
+        case "is-legendary-bread-acrobatic-class-worth-it-samarkand":
+            return {
+                title: "Is the Legendary Bread Making Class & Acrobatic Bread Worth It?",
+                description: "An honest look at the legendary bread making class and acrobatic bread experience in Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0333efe189c692853ad420c43410d74b1c2e0e6cd909e1e3c71b6f98c4693834.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This class adds a playful acrobatic bread-shaping element to the standard non-baking lesson, worth it for travelers who want a more entertaining, hands-on version of Samarkand's traditional bread-making craft.", tourCard: { slug: "samarkand-legendary-bread-making-class-acrobatic", title: "Samarkand: Legendary Bread Making Class & Acrobatic Bread", description: "A bread making class featuring an acrobatic bread-shaping element.", price: "From $37", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0333efe189c692853ad420c43410d74b1c2e0e6cd909e1e3c71b6f98c4693834.jpeg" } },
+                    { title: "Practical Tips", content: "Expect a livelier, more performance-driven class than a standard bread-baking lesson." }
+                ],
+                faqs: [
+                    { q: "Is the legendary bread making class and acrobatic bread experience worth it?", a: "Yes, for a more entertaining, hands-on version of the traditional bread-making craft." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the legendary bread making class worth it in Samarkand?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a livelier, more entertaining version of the traditional bread-making craft." } }
+                ] },
+            };
+
+        case "is-after-sunset-slow-evening-worth-it-samarkand":
+            return {
+                title: "Is Samarkand After Sunset: A Slow Evening Experience Worth It?",
+                description: "An honest look at the Samarkand After Sunset slow evening experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This slow-paced evening experience shows the city's monuments under evening lighting with a more relaxed, contemplative pace than daytime sightseeing, worth it for travelers who want to see Samarkand's architecture in a completely different mood.", tourCard: { slug: "samarkand-after-sunset-a-slow-evening-experience", title: "Samarkand After Sunset: A Slow Evening Experience", description: "A slow-paced evening experience exploring Samarkand's monuments under evening lighting.", price: "From $51", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a jacket — evenings cool down noticeably compared to Samarkand's daytime heat." }
+                ],
+                faqs: [
+                    { q: "Is Samarkand After Sunset worth it?", a: "Yes, it shows the city's monuments in a completely different, more relaxed evening mood than daytime sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Samarkand After Sunset worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed, contemplative evening view of the city's monuments." } }
+                ] },
+            };
+
         default:
             return null;
     }
