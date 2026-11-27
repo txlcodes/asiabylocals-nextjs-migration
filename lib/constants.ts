@@ -1566,6 +1566,8 @@ export const CEBU_INFO_SLUGS = [
   'is-mactan-sunset-speedboat-cruise-worth-it-cebu', 'is-jet-ski-rental-worth-it-cebu',
   'is-mount-naupa-hiking-worth-it-cebu', 'is-bantayan-fundive-scuba-worth-it-cebu',
   'is-cebu-cooking-class-worth-it', 'is-live-fire-shooting-worth-it-cebu',
+  'is-mactan-island-hopping-worth-it-cebu', 'is-kalanggaman-island-worth-it-cebu',
+  'is-scenic-flight-bohol-chocolate-hills-worth-it-cebu', 'is-whale-shark-monkey-sanctuary-turtle-worth-it-cebu',
 ];
 
 export const BANGKOK_INFO_SLUGS = [

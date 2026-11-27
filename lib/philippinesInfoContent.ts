@@ -2260,6 +2260,88 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mactan-island-hopping-worth-it-cebu":
+      return {
+        title: "Is the Mactan Private Island-Hopping Tour Worth It in Cebu?",
+        description: "An honest look at the Mactan private island-hopping tour with snorkeling in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2515e4404920c1b9b72ff68c6ed7f42c1d8877b69f8860b31a1f45ad87485a1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private boat and guide covering Mactan's nearby marine sanctuary islands gives genuine flexibility over a shared group tour, with snorkeling over protected reefs reachable without the longer drive south to Oslob, worth it for travelers wanting an easier, half-day island escape.",
+            tourCard: { slug: "cebu-mactan-private-island-hopping-tour-with", title: "Cebu: Mactan Private Island-Hopping Tour With Snorkeling", description: "A private island-hopping tour with snorkeling around Mactan, Cebu.", price: "From $949", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d2515e4404920c1b9b72ff68c6ed7f42c1d8877b69f8860b31a1f45ad87485a1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your own snorkel gear if you have it, though most operators include rental as part of the package.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mactan private island-hopping tour worth it in Cebu?", a: "Yes, for travelers wanting an easier, flexible half-day island escape without the longer drive south to Oslob." },
+        ],
+      };
+
+    case "is-kalanggaman-island-worth-it-cebu":
+      return {
+        title: "Is the Kalanggaman Island Day Trip Worth It from Cebu?",
+        description: "An honest look at the Kalanggaman Island day trip with transfers from Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662b1c3f644db89b02636c40c25310af90913159a94719b0fd77da6cbb1729e5.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kalanggaman's narrow sandbar and turquoise water are genuinely among the best beach scenery in the Visayas, and a day trip with transfers removes the logistics of reaching this remote island yourself, worth it for travelers chasing the Philippines' most photogenic sandbars.",
+            tourCard: { slug: "cebu-kalanggaman-island-day-trip-with-transfers", title: "Cebu: Kalanggaman Island Day Trip with Transfers", description: "A day trip to Kalanggaman Island with transfers from Cebu.", price: "From $432", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/662b1c3f644db89b02636c40c25310af90913159a94719b0fd77da6cbb1729e5.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day given the distance — confirm total travel time with the operator before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kalanggaman Island day trip worth it from Cebu?", a: "Yes, for travelers chasing the Philippines' most photogenic sandbars, with transfers handling the otherwise tricky logistics." }
+        ],
+      };
+
+    case "is-scenic-flight-bohol-chocolate-hills-worth-it-cebu":
+      return {
+        title: "Is the Private Scenic Flight over Bohol's Chocolate Hills Worth It?",
+        description: "An honest look at the private scenic flight over Bohol's Chocolate Hills from Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/600ef4624184385aa2edf974ea36d20c6da8e1366d707563f894717bef626274.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing the Chocolate Hills' thousand-plus limestone mounds from the air gives a genuinely different, more complete view of the formation than the ground-level viewpoint most Bohol day trips use, worth it for travelers wanting a memorable aerial perspective rather than the standard ferry-and-bus itinerary.",
+            tourCard: { slug: "cebu-private-scenic-flight-over-bohols-chocolate", title: "Cebu: Private Scenic Flight over Bohol's Chocolate Hills", description: "A private scenic flight over the Chocolate Hills in Bohol from Cebu.", price: "From $485", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/600ef4624184385aa2edf974ea36d20c6da8e1366d707563f894717bef626274.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book early morning flights for the calmest air and the clearest views over the hills below." }
+        ],
+        faqs: [
+          { q: "Is the scenic flight over Bohol's Chocolate Hills worth it from Cebu?", a: "Yes, for a genuinely different, more complete aerial view of the formation than the standard ground-level viewpoint." }
+        ],
+      };
+
+    case "is-whale-shark-monkey-sanctuary-turtle-worth-it-cebu":
+      return {
+        title: "Is the Whale Shark, Monkey Sanctuary and Turtle Snorkeling Tour Worth It?",
+        description: "An honest look at the Cebu whale shark, monkey sanctuary and turtle snorkeling combo tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8e13a72fc6b5598d6b57e16d731391b0751b850b4989b5110e7dd8127e32c8.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Adding a monkey sanctuary stop and turtle snorkeling to the standard Oslob whale shark experience gives a fuller day of wildlife encounters than the whale shark swim alone, worth it for travelers wanting to maximize animal encounters in one premium outing.",
+            tourCard: { slug: "cebu-whale-shark-monkey-sanctuary-turtle", title: "Cebu: Whale Shark, Monkey Sanctuary & Turtle Snorkeling Tour", description: "A combo tour covering whale sharks, a monkey sanctuary and turtle snorkeling in Cebu.", price: "From $2652", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8e13a72fc6b5598d6b57e16d731391b0751b850b4989b5110e7dd8127e32c8.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "As with any Oslob whale shark booking, research the operator's feeding practices if the ethics of the encounter matter to you." }
+        ],
+        faqs: [
+          { q: "Is the whale shark, monkey sanctuary and turtle tour worth it in Cebu?", a: "Yes, for travelers wanting to maximize wildlife encounters in one premium day, beyond the whale shark swim alone." }
+        ],
+      };
+
     default:
       return null;
   }
