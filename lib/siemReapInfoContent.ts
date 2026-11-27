@@ -1930,6 +1930,62 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-village-life-iron-buffalo-worth-it-siem-reap":
+            return {
+                title: "Is the Village Life and Iron Buffalo Ride Experience Worth It in Siem Reap?",
+                description: "An honest look at the village life and iron buffalo ride experience near Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/village-life-and-iron-buffalo-ride-experience/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "An iron buffalo is a traditional Cambodian farm vehicle, and riding one through village rice paddies gives a genuinely hands-on, low-key look at rural life, worth it for travelers who want countryside time that's distinct from the standard tuk-tuk drive-by.", tourCard: { slug: "village-life-and-iron-buffalo-ride-experience", title: "Village Life and Iron Buffalo Ride Experience", description: "A countryside experience riding a traditional iron buffalo through village rice paddies.", price: "From $26", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/village-life-and-iron-buffalo-ride-experience/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting dusty — this is a genuine working farm vehicle, not a polished tourist ride." }
+                ],
+                faqs: [
+                    { q: "Is the village life and iron buffalo ride experience worth it in Siem Reap?", a: "Yes, it's a genuinely hands-on, low-key look at rural Cambodian life distinct from a standard countryside drive-by." }
+                ],
+            };
+
+        case "is-authentic-folk-show-worth-it-siem-reap":
+            return {
+                title: "Is the Siem Reap Circus Ticket (Authentic Cambodian Folk Show) Worth It?",
+                description: "An honest look at the authentic Cambodian folk show circus ticket in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-circus-ticket-authentic-cambodian-folk-show/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Distinct from Phare's contemporary circus, this show leans into traditional Cambodian folk performance and acrobatics, worth it as an alternative evening option if Phare is sold out or you specifically want the more traditional folk format.", tourCard: { slug: "siem-reap-circus-ticket-authentic-cambodian-folk-s", title: "Siem Reap Circus Ticket: Authentic Cambodian Folk Show", description: "A ticket to an authentic Cambodian folk show and circus performance.", price: "From $33", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-circus-ticket-authentic-cambodian-folk-show/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If Phare's contemporary circus is sold out for your dates, this is a solid traditional-format alternative for the same evening slot." }
+                ],
+                faqs: [
+                    { q: "Is the authentic Cambodian folk show worth it in Siem Reap?", a: "Yes, especially as a traditional-format alternative if Phare's contemporary circus is sold out." }
+                ],
+            };
+
+        case "is-sunset-bar-cycle-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Sunset Bar Cycle Tour Worth It in Siem Reap?",
+                description: "An honest look at the sunset bar cycle tour with free beers and soft drinks in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sunset-bar-cycle-tour-free-beers-and-soft-drinks/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A multi-passenger pedal bar that cycles between a few stops with drinks included, worth it specifically as a fun, social evening activity for a group rather than a cultural or historical experience.", tourCard: { slug: "sunset-bar-cycle-tour-free-beers-and-soft-drinks", title: "Sunset Bar Cycle Tour - Free Beers and Soft Drinks", description: "A group pedal-bar cycle tour with free beers and soft drinks included.", price: "From $26", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sunset-bar-cycle-tour-free-beers-and-soft-drinks/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Best booked as a group activity for a lighter evening — pair it with a proper dinner afterward since the drinks are the focus, not food." }
+                ],
+                faqs: [
+                    { q: "Is the sunset bar cycle tour worth it in Siem Reap?", a: "Yes, as a fun, social group activity for a lighter evening, though it's about the drinks and atmosphere rather than culture or history." }
+                ],
+            };
+
+        case "is-khmer-food-progressive-dinner-worth-it-siem-reap":
+            return {
+                title: "Is the Khmer Food Tour and Progressive Dinner Worth It in Siem Reap?",
+                description: "An honest look at the Khmer food tour and progressive dinner in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Rather than one sit-down meal, this moves you between several local spots for a full progressive dinner, worth it for travelers who want to sample a wider range of Khmer dishes in one evening rather than committing to a single restaurant.", tourCard: { slug: "siem-reap-khmer-food-tour-and-progressive-dinne", title: "Siem Reap Khmer Food Tour and Progressive Dinner", description: "A progressive dinner tour moving between several local Khmer food spots.", price: "From $38", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-khmer-food-tour-and-progressive-dinne/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pace yourself across the stops — the format means you're eating in installments rather than one big sitting." }
+                ],
+                faqs: [
+                    { q: "Is the Khmer food tour and progressive dinner worth it in Siem Reap?", a: "Yes, it's a good way to sample a wider range of Khmer dishes in one evening than committing to a single restaurant." }
+                ],
+            };
+
         default:
             return null;
     }

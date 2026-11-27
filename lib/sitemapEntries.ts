@@ -1517,6 +1517,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kbal-spean-worth-it-siem-reap', 'is-bodia-tonic-massage-worth-it-siem-reap',
     'is-mad-monkey-sunset-cycling-tour-worth-it-siem-reap', 'is-feel-good-evening-walking-tour-worth-it-siem-reap',
     'is-angkor-national-museum-worth-it-siem-reap', 'is-phare-cambodian-circus-worth-it-siem-reap',
+    'is-village-life-iron-buffalo-worth-it-siem-reap', 'is-authentic-folk-show-worth-it-siem-reap',
+    'is-sunset-bar-cycle-tour-worth-it-siem-reap', 'is-khmer-food-progressive-dinner-worth-it-siem-reap',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/siem-reap/${slug}`,
     lastModified: new Date(),
