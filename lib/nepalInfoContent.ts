@@ -540,7 +540,7 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                     {
                         title: "Best for a Quick Flight: Himalayan Views & Hotel Transfers",
                         content: "A shorter flight window for travellers who want the experience without dedicating a half-day to it.",
-                        tourCard: { slug: "kathmandu-paragliding-himalayan-views-hotel", title: "Kathmandu: Paragliding, Himalayan Views & Hotel Transfers", description: "A shorter paragliding flight with hotel transfers.", price: "From $182", duration: "30 minutes", image: "" },
+                        tourCard: { slug: "kathmandu-paragliding-himalayan-views-hotel", title: "Kathmandu: Paragliding, Himalayan Views & Hotel Transfers", description: "A shorter paragliding flight with hotel transfers.", price: "From $182", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9728948e464ddcb37bbef4b3cda4fdb463c5dc8f87da6ea6020e2265b4e9389.jpg" },
                     },
                     {
                         title: "Best for a Fuller Day: Chandragiri to Chitlang Flight",
@@ -849,12 +849,12 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                     {
                         title: "The Short Answer",
                         content: "The Manaslu Circuit is a quieter, less-crowded alternative to Everest or Annapurna treks, circling the eighth-highest mountain in the world and requiring a restricted-area permit. Itineraries generally run 12-14 days with a licensed guide required by law.",
-                        tourCard: { slug: "manaslu-ciruit-trek-manaslu-trek-12-days-from", title: "Manaslu Ciruit Trek: Manaslu Trek 12 Days from Kathmandu", description: "The shortest standard Manaslu Circuit itinerary.", price: "From $1671", duration: "12 days", image: "" },
+                        tourCard: { slug: "manaslu-ciruit-trek-manaslu-trek-12-days-from", title: "Manaslu Ciruit Trek: Manaslu Trek 12 Days from Kathmandu", description: "The shortest standard Manaslu Circuit itinerary.", price: "From $1671", duration: "12 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07db044a3acd8662355b4ebca55c6b00a79e95c174a0537c8630417f227c15df.jpg" },
                     },
                     {
                         title: "Shortest Option: 12-Day Trek",
                         content: "At 12 days, this is the most compact version of the full circuit among the options here.",
-                        tourCard: { slug: "manaslu-ciruit-trek-manaslu-trek-12-days-from", title: "Manaslu Ciruit Trek: Manaslu Trek 12 Days from Kathmandu", description: "The shortest Manaslu Circuit trek option.", price: "From $1671", duration: "12 days", image: "" },
+                        tourCard: { slug: "manaslu-ciruit-trek-manaslu-trek-12-days-from", title: "Manaslu Ciruit Trek: Manaslu Trek 12 Days from Kathmandu", description: "The shortest Manaslu Circuit trek option.", price: "From $1671", duration: "12 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/07db044a3acd8662355b4ebca55c6b00a79e95c174a0537c8630417f227c15df.jpg" },
                     },
                     {
                         title: "Best Value Standard: 13-Day Licensed Guide Trek",
@@ -967,7 +967,7 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                     {
                         title: "Cheapest: Singing Bowl Sound Healing with Yoga",
                         content: "At $106, this pairs a shorter yoga session with Tibetan singing-bowl sound healing, the lowest-priced option here.",
-                        tourCard: { slug: "kathmandu-singing-bowl-sound-healing-session-with", title: "Kathmandu: Singing Bowl Sound Healing Session with Yoga", description: "A yoga session combined with singing bowl sound healing.", price: "From $106", duration: "1.5 hours", image: "" },
+                        tourCard: { slug: "kathmandu-singing-bowl-sound-healing-session-with", title: "Kathmandu: Singing Bowl Sound Healing Session with Yoga", description: "A yoga session combined with singing bowl sound healing.", price: "From $106", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c631d968b223472e8b807a7e7bcd2d4b1a2ea814f4778a80111adb8d219dcef.png" },
                     },
                     {
                         title: "Best Short Session: 1-Hour Yoga & Sound Healing",
