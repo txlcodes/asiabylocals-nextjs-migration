@@ -2238,6 +2238,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-mountain-biking-worth-it-sapa', 'is-hmong-cooking-class-worth-it-sapa',
     'is-cat-cat-village-tour-worth-it-sapa', 'is-beeswax-indigo-dyeing-workshop-worth-it-sapa',
     'is-pho-cooking-class-worth-it-sapa', 'is-hmong-homestay-worth-it-sapa',
+    'is-batik-wax-drawing-workshop-worth-it-sapa', 'is-red-dao-healing-journey-worth-it-sapa',
+    'is-sapa-scenic-ride-worth-it-sapa', 'is-wrap-and-roll-kids-cooking-workshop-worth-it-sapa',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),

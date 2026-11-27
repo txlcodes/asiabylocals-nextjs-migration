@@ -1063,6 +1063,90 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-batik-wax-drawing-workshop-worth-it-sapa":
+      return {
+        title: "Is the Traditional Batik Wax-Drawing Workshop Worth It in Sapa?",
+        description: "An honest look at the traditional batik wax-drawing workshop in Ta Van Village, Sapa.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200769/asiabylocals/tours/traditional-batik-wax-drawing-workshop-in-ta-van-village-in-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Batik wax-drawing is a genuine traditional craft technique distinct from the beeswax-and-indigo-dyeing workshop also offered here, worth it for travelers specifically interested in the drawing and pattern-making step of local textile traditions.",
+            tourCard: { slug: "traditional-batik-wax-drawing-workshop-in-ta-van-village-in-sapa", title: "Traditional Batik Wax-Drawing Workshop in Ta Van Village", description: "A hands-on traditional batik wax-drawing workshop in Ta Van Village.", price: "From $39", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200769/asiabylocals/tours/traditional-batik-wax-drawing-workshop-in-ta-van-village-in-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a bit of wax on, and ask about the symbolism behind common patterns as you draw.",
+          },
+        ],
+        faqs: [
+          { q: "Is the traditional batik wax-drawing workshop worth it in Sapa?", a: "Yes, for a genuine hands-on look at the pattern-drawing step of local textile traditions, distinct from the indigo-dyeing workshop." },
+        ],
+      };
+
+    case "is-red-dao-healing-journey-worth-it-sapa":
+      return {
+        title: "Is the Red Dao Healing Journey Worth It in Sapa?",
+        description: "An honest look at the Red Dao healing journey experience in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/discover-the-secrets-of-the-red-dao-a-healing-journey-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a broader, more immersive introduction to Red Dao traditional medicine and healing practices than the standalone herbal bath experience, worth it for travelers who want real context on the knowledge behind the practice, not just the bath itself.",
+            tourCard: { slug: "discover-the-secrets-of-the-red-dao-a-healing-journey-in-sapa", title: "Discover the Secrets of the Red Dao: A Healing Journey", description: "An immersive introduction to Red Dao traditional healing practices.", price: "From $42", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/discover-the-secrets-of-the-red-dao-a-healing-journey-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask questions about the herbs and practices as you go — the guides are typically happy to explain the reasoning behind traditional remedies.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Red Dao healing journey worth it in Sapa?", a: "Yes, it gives genuine context on traditional Red Dao medicine, going deeper than just the standalone herbal bath experience." },
+        ],
+      };
+
+    case "is-sapa-scenic-ride-worth-it-sapa":
+      return {
+        title: "Is the Sapa Scenic Ride Worth It?",
+        description: "An honest look at the Sapa scenic ride covering nature and local insights.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201013/asiabylocals/tours/sapa-scenic-ride-nature-s-beauty-and-local-insights-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guided scenic ride through Sapa's mountain and valley landscapes with a local guide's commentary, worth it for travelers who want the valley views without committing to a full trekking day on foot.",
+            tourCard: { slug: "sapa-scenic-ride-nature-s-beauty-and-local-insights-sapa", title: "Sapa Scenic Ride: Nature's Beauty and Local Insights", description: "A guided scenic ride through Sapa's landscapes with local insights.", price: "From $51", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201013/asiabylocals/tours/sapa-scenic-ride-nature-s-beauty-and-local-insights-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a jacket — temperatures drop noticeably at elevation even when the valley floor feels mild.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sapa scenic ride worth it?", a: "Yes, for travelers who want the valley and mountain views without committing to a full day of trekking on foot." },
+        ],
+      };
+
+    case "is-wrap-and-roll-kids-cooking-workshop-worth-it-sapa":
+      return {
+        title: "Is the Wrap and Roll Kids Cooking Workshop Worth It in Sapa?",
+        description: "An honest look at the Wrap and Roll kids cooking workshop in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Unlike Sapa's adult-focused cooking classes, this workshop is specifically designed for children, worth it for families traveling with kids who want a hands-on activity scaled to their age rather than a full adult cooking class.",
+            tourCard: { slug: "wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa", title: "Wrap and Roll Kids Cooking Workshop in Sa Pa", description: "A cooking workshop designed specifically for children.", price: "From $38", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the minimum age requirement before booking — most kids' cooking workshops set a lower age limit for safety around the cooking equipment.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Wrap and Roll kids cooking workshop worth it in Sapa?", a: "Yes, specifically for families traveling with children who want an activity scaled to their age rather than an adult cooking class." },
+        ],
+      };
+
     default:
       return null;
   }
