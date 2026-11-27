@@ -698,6 +698,62 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-canoe-experience-worth-it-baku":
+            return {
+                title: "Is the Guided Canoe Experience Worth It in Baku?",
+                description: "An honest look at the guided canoe experience with hotel pickup and drop-off in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png",
+                sections: [
+                    { title: "The Short Answer", content: "Paddling the Caspian coastline by canoe gives a genuinely active, water-level perspective on Baku's skyline that none of the city's walking tours offer, worth it specifically for travelers wanting an easy physical activity between heavier sightseeing days.", tourCard: { slug: "baku-guided-canoe-experience-with-hotel-pickup", title: "Baku: Guided Canoe Experience with Hotel Pickup and Drop-Off", description: "A guided canoe experience along Baku's coastline, with hotel pickup and drop-off included.", price: "From $37", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png" } },
+                    { title: "Practical Tips", content: "Wear quick-dry clothing and bring a change of clothes, since getting at least partially wet is likely." },
+                ],
+                faqs: [
+                    { q: "Is the guided canoe experience worth it in Baku?", a: "Yes, for a genuinely active, water-level view of the city's skyline that none of its walking tours offer." },
+                ],
+            };
+
+        case "is-punch-needle-mirror-workshop-worth-it-baku":
+            return {
+                title: "Is the Create Your Own Punch Needle Mirror Workshop Worth It in Baku?",
+                description: "An honest look at the create-your-own punch needle mirror workshop in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png",
+                sections: [
+                    { title: "The Short Answer", content: "Punch needle is a specific, visually distinctive textile craft that produces a finished, usable mirror frame, worth it for travelers wanting a tactile, modern craft activity and a practical souvenir rather than purely decorative artwork.", tourCard: { slug: "create-your-own-punch-needle-mirror-in-baku", title: "Create Your Own Punch Needle Mirror in Baku", description: "A hands-on punch needle mirror making workshop in Baku.", price: "From $46", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png" } },
+                    { title: "Practical Tips", content: "No prior craft experience is needed — punch needle technique is beginner-friendly and taught step by step." },
+                ],
+                faqs: [
+                    { q: "Is the punch needle mirror workshop worth it in Baku?", a: "Yes, for a tactile, modern craft activity producing a practical, usable souvenir rather than purely decorative artwork." },
+                ],
+            };
+
+        case "is-neon-art-museum-worth-it-baku":
+            return {
+                title: "Is the Neon Art Museum Worth It in Baku?",
+                description: "An honest look at the Neon Art Museum guided tour with optional masterclass in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png",
+                sections: [
+                    { title: "The Short Answer", content: "This museum focuses specifically on neon art, a visually striking and highly photographable medium distinct from the city's carpet and history museums, worth it for travelers wanting a modern, Instagram-friendly indoor stop and the option to try making their own piece.", tourCard: { slug: "baku-neon-art-museum-guided-tour-with-optional", title: "Baku: Neon Art Museum Guided Tour with Optional Masterclass", description: "A guided tour of the Neon Art Museum in Baku, with an optional masterclass.", price: "From $46", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png" } },
+                    { title: "Practical Tips", content: "Add the masterclass option if you want a hands-on souvenir piece rather than just viewing the exhibits." },
+                ],
+                faqs: [
+                    { q: "Is the Neon Art Museum worth it in Baku?", a: "Yes, for a modern, visually striking indoor stop distinct from the city's carpet and history museums, with an option to make your own piece." },
+                ],
+            };
+
+        case "is-history-museum-worth-it-baku":
+            return {
+                title: "Is the Azerbaijan History Museum Worth It in Baku?",
+                description: "An honest look at the Azerbaijan History Museum tour in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png",
+                sections: [
+                    { title: "The Short Answer", content: "This museum covers Azerbaijan's broad national history, giving context the city's narrower carpet museum doesn't, worth it specifically for travelers wanting a comprehensive historical overview before exploring the Old City's individual landmarks.", tourCard: { slug: "time-travel-in-baku-azerbaijan-history-museum-tour", title: "Time Travel in Baku: Azerbaijan History Museum Tour", description: "A guided tour of the Azerbaijan History Museum in Baku.", price: "From $38", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png" } },
+                    { title: "Practical Tips", content: "Visit this before exploring the Old City's landmarks — the historical context makes the sights afterward more meaningful." },
+                ],
+                faqs: [
+                    { q: "Is the Azerbaijan History Museum worth it in Baku?", a: "Yes, for a comprehensive national historical overview that gives useful context before exploring the Old City's individual landmarks." },
+                ],
+            };
+
         default:
             return null;
     }

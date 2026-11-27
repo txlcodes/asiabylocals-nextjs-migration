@@ -571,6 +571,8 @@ export const BAKU_INFO_SLUGS: string[] = [
   'is-massage-spa-worth-it-baku', 'is-pink-lake-beshbarmag-tour-worth-it-baku',
   'is-socialist-architecture-mosaic-tour-worth-it-baku', 'is-caspian-sea-rowing-worth-it-baku',
   'is-eastern-bazaar-tour-worth-it-baku', 'is-paint-baku-by-sea-worth-it-baku',
+  'is-canoe-experience-worth-it-baku', 'is-punch-needle-mirror-workshop-worth-it-baku',
+  'is-neon-art-museum-worth-it-baku', 'is-history-museum-worth-it-baku',
 ];
 
 // Singapore launched 2026-11-19 with 318 live tours and zero authority pages.
