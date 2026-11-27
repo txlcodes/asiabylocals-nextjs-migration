@@ -973,6 +973,62 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-enduro-tour-worth-it-yerevan":
+            return {
+                title: "Is the 7-Day Enduro Tour in Armenia Worth It from Yerevan?",
+                description: "An honest look at the 7-day enduro motorcycle tour in Armenia from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/961ab0b8514c772ba6643f0fb3973ed96b7530b5655d6b851b59cc2b84ba113d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a real enduro motorcycle across Armenia's mountain trails gives serious off-road riders a genuine technical challenge through terrain most standard tours never reach, worth it for travelers with real dirt-bike experience wanting a week-long adventure.", tourCard: { slug: "from-yerevan-7-day-enduro-tour-in-armenia", title: "From Yerevan: 7-day enduro tour in Armenia", description: "A 7-day enduro motorcycle tour across Armenia's mountain trails from Yerevan.", price: "From $2901", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/961ab0b8514c772ba6643f0fb3973ed96b7530b5655d6b851b59cc2b84ba113d.jpg" } },
+                    { title: "Practical Tips", content: "Confirm your riding skill level matches the trail difficulty, since enduro routes are genuinely technical, not beginner terrain." }
+                ],
+                faqs: [
+                    { q: "Is the enduro tour worth it in Armenia from Yerevan?", a: "Yes, for experienced off-road riders wanting a genuine week-long technical challenge through mountain terrain most tours never reach." }
+                ],
+            };
+
+        case "is-vayots-dzor-smbataberd-tsaghats-kar-worth-it-yerevan":
+            return {
+                title: "Is the Vayots Dzor Smbataberd Fortress and Tsaghats Kar Hike Worth It?",
+                description: "An honest look at the Vayots Dzor Smbataberd Fortress and Tsaghats Kar hike from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d085b1066813ad624354903a2ca8f13a69d70410c0dbcbae70b82d7d0233a353.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Hiking to the ruined Smbataberd Fortress and Tsaghats Kar monastery gives genuine access to remote Armenian history off the standard Garni/Khor Virap circuit, worth it for travelers wanting real hiking alongside lesser-visited ruins.", tourCard: { slug: "vayots-dzor-smbataberd-fortress-tsaghats-kar-hike", title: "Vayots Dzor: Smbataberd Fortress & Tsaghats Kar Hike", description: "A hike to Smbataberd Fortress and Tsaghats Kar monastery in Vayots Dzor.", price: "From $688", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d085b1066813ad624354903a2ca8f13a69d70410c0dbcbae70b82d7d0233a353.jpg" } },
+                    { title: "Practical Tips", content: "Wear real hiking shoes, since the trail to the hilltop fortress involves genuine elevation and uneven terrain." }
+                ],
+                faqs: [
+                    { q: "Is the Smbataberd Fortress and Tsaghats Kar hike worth it from Yerevan?", a: "Yes, for travelers wanting real hiking and remote, lesser-visited ruins beyond the standard Garni/Khor Virap circuit." }
+                ],
+            };
+
+        case "is-amberd-fortress-alphabet-alley-worth-it-yerevan":
+            return {
+                title: "Is the Amberd Fortress, Alphabet Alley and Lake Kari Tour Worth It?",
+                description: "An honest look at the Amberd Fortress, Armenian Alphabet Alley and Lake Kari tour from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1b4085e4a85f3d66ca8e6f49a773b4bc90e69b2765b14af84fefe0a6f7df5d2.png",
+                sections: [
+                    { title: "The Short Answer", content: "Combining the dramatic hilltop Amberd Fortress with the quirky Armenian Alphabet Alley monument and a stop at alpine Lake Kari gives a genuinely varied day of history, culture and mountain scenery, worth it for travelers wanting more than the standard Garni/Geghard circuit.", tourCard: { slug: "yerevan-amberd-fortress-armenian-alphabet-alley", title: "Yerevan: Amberd Fortress, Armenian Alphabet Alley, Lake Kari", description: "A tour combining Amberd Fortress, Armenian Alphabet Alley and Lake Kari from Yerevan.", price: "From $637", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1b4085e4a85f3d66ca8e6f49a773b4bc90e69b2765b14af84fefe0a6f7df5d2.png" } },
+                    { title: "Practical Tips", content: "Bring a jacket for Lake Kari — its alpine elevation runs noticeably cooler than Yerevan." }
+                ],
+                faqs: [
+                    { q: "Is the Amberd Fortress, Alphabet Alley and Lake Kari tour worth it from Yerevan?", a: "Yes, for travelers wanting a genuinely varied day of history, culture and mountain scenery beyond the standard Garni/Geghard circuit." }
+                ],
+            };
+
+        case "is-romantic-proposal-tour-worth-it-yerevan":
+            return {
+                title: "Is the 5-Day Romantic Tour with Marriage Proposal Worth It in Armenia?",
+                description: "An honest look at the 5-day Armenia romantic tour with marriage proposal.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58d91bfebe306fafe5f6d5d689f59dcecea9c05ba83970d3b2c3df0282971e06.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a 5-day Armenia highlights tour with a professionally arranged proposal setting gives couples a genuinely memorable, fully organized way to get engaged against the country's dramatic landscapes, worth it for travelers wanting the moment handled properly.", tourCard: { slug: "armenia-5-day-romantic-tour-with-marriage-proposal", title: "Armenia: 5-Day Romantic Tour with Marriage Proposal", description: "A 5-day romantic tour of Armenia including an arranged marriage proposal.", price: "From $5980", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58d91bfebe306fafe5f6d5d689f59dcecea9c05ba83970d3b2c3df0282971e06.jpg" } },
+                    { title: "Practical Tips", content: "Coordinate the exact proposal location and timing with the operator well in advance to make sure everything lines up." }
+                ],
+                faqs: [
+                    { q: "Is the 5-day romantic tour with marriage proposal worth it in Armenia?", a: "Yes, for couples wanting a fully organized, memorable proposal against Armenia's dramatic landscapes, handled properly from start to finish." }
+                ],
+            };
+
         default:
             return null;
     }
