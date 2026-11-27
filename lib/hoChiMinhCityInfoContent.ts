@@ -1116,6 +1116,90 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-perfume-workshop-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Perfume Workshop with Scent of Saigon Worth It in Ho Chi Minh City?",
+        description: "An honest look at the perfume workshop with Scent of Saigon in Ho Chi Minh City.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200362/asiabylocals/tours/perfume-workshop-with-scent-of-saigon/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This workshop teaches the basics of perfume blending using scents inspired by Saigon itself, letting you create and take home your own bottle — worth it as a relaxed, personal craft activity rather than another temple or market stop.",
+            tourCard: { slug: "perfume-workshop-with-scent-of-saigon", title: "Perfume Workshop with Scent of Saigon", description: "A hands-on perfume blending workshop inspired by Saigon.", price: "From $26", duration: "1.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200362/asiabylocals/tours/perfume-workshop-with-scent-of-saigon/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack your bottle carefully for the flight home — check whether it needs to go in checked luggage under liquid restrictions.",
+          },
+        ],
+        faqs: [
+          { q: "Is the perfume workshop with Scent of Saigon worth it in Ho Chi Minh City?", a: "Yes, as a relaxed hands-on craft activity with a genuinely personal souvenir to take home." },
+        ],
+      };
+
+    case "is-iconic-apartments-walking-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Iconic Apartments Walking Tour Worth It in Ho Chi Minh City?",
+        description: "An honest look at the Iconic Apartments walking tour in Ho Chi Minh City.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200385/asiabylocals/tours/iconic-apartments-walking-tour-in-ho-chi-minh-city/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Saigon's old apartment blocks, originally built for government staff decades ago, have been converted floor by floor into a maze of independent cafes, boutiques, and galleries — this walking tour explains the history behind the buildings rather than you wandering in without context, worth it for travelers who want more than just an Instagram photo stop.",
+            tourCard: { slug: "iconic-apartments-walking-tour-in-ho-chi-minh-city", title: "Iconic Apartments Walking Tour in Ho Chi Minh City", description: "A guided walking tour through Saigon's iconic converted apartment blocks.", price: "From $29", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200385/asiabylocals/tours/iconic-apartments-walking-tour-in-ho-chi-minh-city/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — these old buildings have narrow stairwells and no elevators between most floors.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Iconic Apartments walking tour worth it in Ho Chi Minh City?", a: "Yes, it gives real context on the buildings' history, going beyond just a quick photo stop." },
+        ],
+      };
+
+    case "is-scented-candle-making-workshop-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Scented Candle-Making Workshop Worth It in Ho Chi Minh City?",
+        description: "An honest look at the scented candle-making workshop in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/scented-candle-making-workshop-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A straightforward, relaxed hands-on candle-making class where you mix your own scent and pour your own candle to take home — worth it as a low-key, air-conditioned break from a day of outdoor sightseeing rather than a must-do cultural experience.",
+            tourCard: { slug: "scented-candle-making-workshop-in-ho-chi-minh-city", title: "Scented Candle-Making Workshop in Ho Chi Minh City", description: "A hands-on scented candle-making workshop.", price: "From $39", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/scented-candle-making-workshop-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Let your candle cool and set fully before packing it for travel, especially in warm weather.",
+          },
+        ],
+        faqs: [
+          { q: "Is the scented candle-making workshop worth it in Ho Chi Minh City?", a: "Yes, as a relaxed, air-conditioned craft break with a genuine souvenir, though it's not an essential cultural experience." },
+        ],
+      };
+
+    case "is-icon-saigon-sunset-cruise-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the ICON Saigon Luxury Sunset Cruise Worth It in Ho Chi Minh City?",
+        description: "An honest look at the ICON Saigon luxury sunset cruise in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A short sunset cruise on the Saigon River with the city's modern skyline as the backdrop, worth it specifically for the golden-hour skyline views rather than as a full dinner-cruise experience — it's brief, so treat it as a scenic add-on rather than an evening's main activity.",
+            tourCard: { slug: "icon-saigon-luxury-sunset-cruise", title: "ICON Saigon Luxury Sunset Cruise", description: "A sunset river cruise with Saigon's modern skyline views.", price: "From $34", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/icon-saigon-luxury-sunset-cruise/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the exact departure time against sunset that day so you don't miss the golden-hour window the cruise is built around.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ICON Saigon luxury sunset cruise worth it in Ho Chi Minh City?", a: "Yes, for the skyline views at golden hour, but treat it as a scenic add-on rather than a full evening activity given its short length." },
+        ],
+      };
+
     default:
       return null;
   }
