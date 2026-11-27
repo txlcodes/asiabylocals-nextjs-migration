@@ -1298,6 +1298,62 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-instagram-day-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Instagram Day Tour Worth It in Phnom Penh?",
+                description: "An honest look at the Instagram Day Tour in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/instagram-day-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This tour is built specifically around the city's most photogenic spots rather than its historical depth, worth it for travelers prioritizing good photos over a deep dive into Khmer history — pair it with the Killing Fields or Royal Palace circuit on a separate day if you want both.", tourCard: { slug: "instagram-day-tour", title: "Instagram Day Tour", description: "A guided tour of Phnom Penh's most photogenic spots.", price: "From $55", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/instagram-day-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Plan around the light — ask your guide to time the most photogenic stops for golden hour rather than midday." }
+                ],
+                faqs: [
+                    { q: "Is the Instagram Day Tour worth it in Phnom Penh?", a: "Yes, specifically for travelers prioritizing photogenic stops — pair it with a separate historical tour for the fuller picture of the city." }
+                ],
+            };
+
+        case "is-nightlife-city-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Nightlife City Tour Worth It in Phnom Penh?",
+                description: "An honest look at the nightlife city tour in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nightlife-city-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A guided evening out covering a few of the city's bars and nightlife spots, worth it for travelers who want a local's read on where to go rather than guessing their way through the riverfront on their own.", tourCard: { slug: "nightlife-city-tour", title: "Nightlife City Tour", description: "A guided evening tour of Phnom Penh's bars and nightlife spots.", price: "From $77", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nightlife-city-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pace your drinking across the stops — the point is sampling a few different venues and atmospheres, not one long session at the first bar." }
+                ],
+                faqs: [
+                    { q: "Is the nightlife city tour worth it in Phnom Penh?", a: "Yes, for a local's guided read on the city's bars, rather than guessing your way through the riverfront scene alone." }
+                ],
+            };
+
+        case "is-private-architecture-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Private Architecture Tour Worth It in Phnom Penh?",
+                description: "An honest look at the private architecture tour in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-architecture-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Phnom Penh has a genuinely distinctive New Khmer Architecture movement from the 1950s-60s, and this tour focuses specifically on that design history, worth it for travelers interested in architecture beyond the usual temple and palace sightseeing.", tourCard: { slug: "private-architecture-tour", title: "Private Architecture Tour in Phnom Penh", description: "A private tour focused on Phnom Penh's New Khmer Architecture movement.", price: "From $106", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-architecture-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask your guide about the New Khmer Architecture movement specifically — it's a genuinely distinctive mid-century design story most city tours skip entirely." }
+                ],
+                faqs: [
+                    { q: "Is the private architecture tour worth it in Phnom Penh?", a: "Yes, for travelers genuinely interested in design history — the city's New Khmer Architecture movement is a story most standard tours skip entirely." }
+                ],
+            };
+
+        case "is-olympic-stadium-islands-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Olympic Stadium and Islands Tour Worth It in Phnom Penh?",
+                description: "An honest look at the Olympic Stadium and islands tour in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Phnom Penh's National Olympic Stadium is a landmark piece of New Khmer Architecture, and this tour pairs it with a visit to the Mekong islands, worth it for travelers who want a full day combining the city's mid-century design heritage with its riverine surroundings.", tourCard: { slug: "olympic-stadium-and-islands-tour", title: "Olympic Stadium and Islands Tour in Phnom Penh", description: "A guided tour covering the National Olympic Stadium and the Mekong islands.", price: "From $156", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm which island the tour visits with your operator, since the itinerary can vary between the silk-weaving island and other Mekong islands." }
+                ],
+                faqs: [
+                    { q: "Is the Olympic Stadium and islands tour worth it in Phnom Penh?", a: "Yes, for a full day combining the city's distinctive mid-century stadium architecture with its Mekong island surroundings." }
+                ],
+            };
+
         default:
             return null;
     }

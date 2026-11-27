@@ -1497,6 +1497,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-after-dark-street-grills-tour-worth-it-phnom-penh', 'is-city-bike-sunset-cruise-tour-worth-it-phnom-penh',
     'is-royal-palace-wat-phnom-tour-worth-it-phnom-penh', 'is-sky-bar-tour-worth-it-phnom-penh',
     'is-12-stop-landmarks-tuk-tuk-tour-worth-it-phnom-penh', 'is-taprohm-bati-chisor-temple-tour-worth-it-phnom-penh',
+    'is-instagram-day-tour-worth-it-phnom-penh', 'is-nightlife-city-tour-worth-it-phnom-penh',
+    'is-private-architecture-tour-worth-it-phnom-penh', 'is-olympic-stadium-islands-tour-worth-it-phnom-penh',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/phnom-penh/${slug}`,
     lastModified: new Date(),
