@@ -1771,6 +1771,74 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-junkyard-theatre-worth-it-phuket":
+            return {
+                title: "Is the Junkyard Theatre Show Worth It in Phuket?",
+                description: "An honest look at the Junkyard Theatre show with welcome drink in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/junkyard-theatre-with-welcome-drink-show-only-ticket-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A genuinely creative performance built from recycled and found materials, this show gives a different kind of evening entertainment than the island's usual cabaret and dinner shows, worth it for travelers wanting something more artistic and unconventional.", tourCard: { slug: "junkyard-theatre-with-welcome-drink-show-only-ticket-in-phuket", title: "Junkyard Theatre With Welcome Drink-Show Only Ticket in Phuket", description: "A ticket to the Junkyard Theatre show with a welcome drink.", price: "From $58", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/junkyard-theatre-with-welcome-drink-show-only-ticket-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book ahead for a good seat — this is a smaller, more intimate venue than the island's big cabaret shows." }
+                ],
+                faqs: [
+                    { q: "Is the Junkyard Theatre show worth it in Phuket?", a: "Yes, for a genuinely creative, artistic evening show that's different from the island's usual cabaret and dinner shows." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Junkyard Theatre show worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely creative, artistic evening show." } }
+                ] },
+            };
+
+        case "is-froggys-fun-park-worth-it-phuket":
+            return {
+                title: "Is Froggy's Fun Park Worth It in Phuket?",
+                description: "An honest look at Froggy's Fun Park family day in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ultimate-family-fun-day-at-froggy-s-fun-park-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A family-focused activity park with a range of play attractions, worth it specifically for families traveling with kids who need a break from beach days and island-hopping boat trips.", tourCard: { slug: "ultimate-family-fun-day-at-froggy-s-fun-park-in-phuket", title: "Ultimate Family Fun Day at Froggy's Fun Park in Phuket", description: "A family fun day at Froggy's Fun Park.", price: "From $68", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ultimate-family-fun-day-at-froggy-s-fun-park-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good rainy-day backup option, since many of the park's attractions are under cover." }
+                ],
+                faqs: [
+                    { q: "Is Froggy's Fun Park worth it in Phuket?", a: "Yes, specifically for families with kids wanting a break from beach days and boat trips." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Froggy's Fun Park worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for families with kids wanting a break from beach and boat activities." } }
+                ] },
+            };
+
+        case "is-southern-flavours-food-tour-worth-it-phuket":
+            return {
+                title: "Is the Southern Flavours Food Tour with 15+ Tastings Worth It?",
+                description: "An honest look at the Southern Flavours food tour with 15+ tastings in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/southern-flavours-food-tour-with-15-tastings-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Covering 15 or more tastings across Phuket's distinctive Southern Thai and Peranakan-influenced cuisine, this tour gives genuine breadth, worth it for food-focused travelers who want to sample widely rather than commit to one sit-down meal.", tourCard: { slug: "southern-flavours-food-tour-with-15-tastings-in-phuket", title: "Southern Flavours Food Tour with 15+ Tastings in Phuket", description: "A food tour covering 15 or more Southern Thai tastings.", price: "From $83", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/southern-flavours-food-tour-with-15-tastings-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pace yourself across the tastings — 15+ stops adds up to a genuinely filling amount of food." }
+                ],
+                faqs: [
+                    { q: "Is the Southern Flavours food tour worth it in Phuket?", a: "Yes, it gives genuine breadth across the island's distinctive cuisine, for travelers who want to sample widely." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Southern Flavours food tour worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine breadth across the island's distinctive cuisine." } }
+                ] },
+            };
+
+        case "is-bangla-boxing-stadium-worth-it-phuket":
+            return {
+                title: "Is the Bangla Boxing Stadium Muay Thai Ticket Worth It in Phuket?",
+                description: "An honest look at the Bangla Boxing Stadium Muay Thai ticket in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Watching a live Muay Thai match at Bangla Boxing Stadium gives genuine atmosphere and crowd energy that a training class can't replicate, worth it as a complementary evening activity if you've already tried a hands-on beginner class.", tourCard: { slug: "bangla-boxing-stadium-muay-thai-ticket-in-phuket", title: "Bangla Boxing Stadium Muay Thai Ticket in Phuket", description: "A ticket to watch live Muay Thai at Bangla Boxing Stadium.", price: "From $62", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the exact fight card schedule with the venue, since match lineups and start times vary by night." }
+                ],
+                faqs: [
+                    { q: "Is the Bangla Boxing Stadium Muay Thai ticket worth it in Phuket?", a: "Yes, for genuine crowd atmosphere and energy that a training class alone can't replicate." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bangla Boxing Stadium ticket worth it in Phuket?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine crowd atmosphere a training class alone can't replicate." } }
+                ] },
+            };
+
         default:
             return null;
     }

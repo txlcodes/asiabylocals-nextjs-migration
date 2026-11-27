@@ -1293,6 +1293,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-blue-elephant-cooking-class-worth-it-phuket', 'is-khao-sok-bamboo-rafting-worth-it-phuket',
     'is-muay-thai-class-worth-it-phuket', 'is-perfume-workshop-worth-it-phuket',
     'is-sunset-horse-riding-worth-it-phuket', 'is-hanuman-zipline-worth-it-phuket',
+    'is-junkyard-theatre-worth-it-phuket', 'is-froggys-fun-park-worth-it-phuket',
+    'is-southern-flavours-food-tour-worth-it-phuket', 'is-bangla-boxing-stadium-worth-it-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),
