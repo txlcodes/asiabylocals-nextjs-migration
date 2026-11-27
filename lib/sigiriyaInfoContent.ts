@@ -1254,6 +1254,90 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-rock-fortress-massage-tour-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya Rock Fortress Tour with Massage Worth It?",
+        description: "An honest look at the Sigiriya Rock Fortress tour combined with a massage.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing the physically demanding Lion Rock climb with a proper massage afterward gives genuine recovery time most standalone rock tours skip entirely, worth it specifically for travelers wanting to actually relax after the climb rather than rushing straight to the next activity.",
+            tourCard: { slug: "sri-lanka-sigiriya-rock-fortress-tour-with-massage", title: "Sri Lanka: Sigiriya Rock Fortress Tour with Massage", description: "A Sigiriya Rock Fortress tour combined with a massage.", price: "From $43", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the massage for after the climb rather than before — your legs will genuinely thank you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya Rock Fortress tour with massage worth it?", a: "Yes, for travelers wanting genuine recovery time after the physically demanding climb, rather than rushing straight to the next activity." },
+        ],
+      };
+
+    case "is-sunrise-birdwatching-tour-worth-it-sigiriya":
+      return {
+        title: "Is the Sunrise Birdwatching Tour in Sigiriya Worth It?",
+        description: "An honest look at the sunrise birdwatching tour by village tuk-tuk and boat in Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Early morning gives the best chance of spotting the area's genuinely diverse birdlife around the village lakes and farmland, worth it specifically for travelers with a real interest in birds rather than a general wildlife safari focused on larger mammals.",
+            tourCard: { slug: "sigiriya-sunrise-birdwatching-tour-in-village-tuk", title: "Sigiriya: Sunrise Birdwatching Tour in village tuk & boat", description: "A sunrise birdwatching tour by village tuk-tuk and boat in Sigiriya.", price: "From $102", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars if you have them — the guide's own pair will likely be shared among the whole group.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sunrise birdwatching tour worth it in Sigiriya?", a: "Yes, specifically for travelers with a genuine interest in birds, rather than a general wildlife safari focused on larger mammals." },
+        ],
+      };
+
+    case "is-wood-crafting-village-tour-worth-it-sigiriya":
+      return {
+        title: "Is the Wood Crafting & Village Culture Tour Worth It in Sigiriya?",
+        description: "An honest look at the wood crafting and village culture tour with lunch in Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning genuine woodworking technique alongside a village culture visit gives a different craft angle than Sigiriya's more common batik, mask-painting, and coconut-shell workshops, worth it for travelers who haven't tried a wood-based craft yet.",
+            tourCard: { slug: "sigiriya-wood-crafting-village-culture-tour-with", title: "Sigiriya: Wood Crafting & Village Culture Tour with Lunch", description: "A wood crafting and village culture tour with lunch in Sigiriya.", price: "From $94", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite — the village lunch is a genuine home-cooked meal, not a quick snack.",
+          },
+        ],
+        faqs: [
+          { q: "Is the wood crafting and village culture tour worth it in Sigiriya?", a: "Yes, for a different craft angle than the island's more common batik and mask-painting workshops, especially if you haven't tried woodworking yet." },
+        ],
+      };
+
+    case "is-hidden-lakeside-lunch-worth-it-sigiriya":
+      return {
+        title: "Is the Hidden Lakeside Lunch Experience Worth It in Sigiriya?",
+        description: "An honest look at the hidden lakeside lunch experience in Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Eating a genuine home-cooked meal at a quiet, lesser-known lakeside spot gives a calmer, more intimate setting than the village tours with larger groups, worth it specifically for travelers wanting a peaceful midday break between sightseeing stops.",
+            tourCard: { slug: "hidden-lakeside-lunch-experience-sigiriya", title: "Hidden Lakeside Lunch Experience – Sigiriya", description: "A hidden lakeside lunch experience near Sigiriya.", price: "From $43", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1263712/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a camera — the lakeside setting is genuinely scenic and quieter than the busier village tour spots.",
+          },
+        ],
+        faqs: [
+          { q: "Is the hidden lakeside lunch experience worth it in Sigiriya?", a: "Yes, for a calmer, more intimate midday break than the busier village group tours, with a genuine home-cooked meal." },
+        ],
+      };
+
     default:
       return null;
   }

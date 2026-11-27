@@ -2115,6 +2115,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-batik-experience-worth-it-sigiriya', 'is-wewela-lake-boat-worth-it-sigiriya',
     'is-loris-exploration-worth-it-sigiriya', 'is-coconut-shell-bamboo-workshop-worth-it-sigiriya',
     'is-mask-painting-workshop-worth-it-sigiriya', 'is-village-lake-swimming-worth-it-sigiriya',
+    'is-rock-fortress-massage-tour-worth-it-sigiriya', 'is-sunrise-birdwatching-tour-worth-it-sigiriya',
+    'is-wood-crafting-village-tour-worth-it-sigiriya', 'is-hidden-lakeside-lunch-worth-it-sigiriya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/sigiriya/${slug}`,
     lastModified: new Date(),
