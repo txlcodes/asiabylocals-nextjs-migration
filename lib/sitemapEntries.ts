@@ -1334,6 +1334,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-manila-wwii-history-walking-tour-worth-it', 'is-manila-oldest-cemetery-tour-worth-it',
     'is-mount-pinatubo-hike-worth-it-manila', 'is-tarlac-wwii-tunnels-worth-it-manila',
     'is-nueva-ecija-countryside-worth-it-manila', 'is-calatagan-island-hopping-lighthouse-worth-it-manila',
+    'is-puning-hot-spring-worth-it-manila', 'is-subic-golf-worth-it-manila',
+    'is-pampanga-cessna-scenic-flight-worth-it-manila', 'is-inflatable-island-water-park-worth-it-manila',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/manila/${slug}`,
     lastModified: new Date(),

@@ -1908,6 +1908,86 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-puning-hot-spring-worth-it-manila":
+      return {
+        title: "Is the Puning Hot Spring Admission Ticket Worth It from Manila?",
+        description: "An honest look at the Puning Hot Spring admission ticket from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43b6965356dac5602a4fd635f2b4b9a1b443bfd6fa60f4738636d7555b0eb18f.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Puning's natural volcanic hot springs near Mount Pinatubo give a genuinely relaxing soak fed by real geothermal water, worth it for travelers wanting a wellness stop distinct from Manila's city sightseeing and heritage circuit.",
+            tourCard: { slug: "puning-hot-spring-hot-spring-admission-ticket", title: "Puning Hot Spring: Hot Spring Admission Ticket", description: "An admission ticket to the Puning volcanic hot springs.", price: "From $653", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/43b6965356dac5602a4fd635f2b4b9a1b443bfd6fa60f4738636d7555b0eb18f.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit and towel, and check whether the volcanic mud-bath add-on interests you, since it's often offered alongside the springs." }
+        ],
+        faqs: [
+          { q: "Is the Puning Hot Spring admission worth it from Manila?", a: "Yes, for travelers wanting a genuinely relaxing geothermal soak distinct from Manila's city sightseeing and heritage circuit." }
+        ],
+      };
+
+    case "is-subic-golf-worth-it-manila":
+      return {
+        title: "Is the Subic Day Golf Entry Worth It from Manila?",
+        description: "An honest look at the Subic day golf entry from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d26195f7ca14cfbbd54b8762d128f99f379266dc0acf753ad5e7fe8eccda6a8.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Subic's golf courses give genuine course access in a scenic former naval base setting, worth it for golfers wanting to play a round outside Manila rather than another sightseeing day.",
+            tourCard: { slug: "subic-day-golf-entry", title: "Subic: Day Golf Entry", description: "A day golf entry pass to courses in Subic from Manila.", price: "From $690", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d26195f7ca14cfbbd54b8762d128f99f379266dc0acf753ad5e7fe8eccda6a8.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm whether clubs and a caddy are included in the entry fee, since policies vary between Subic's different courses." }
+        ],
+        faqs: [
+          { q: "Is the Subic day golf entry worth it from Manila?", a: "Yes, for golfers wanting genuine course access in a scenic setting, rather than another sightseeing day in Manila." }
+        ],
+      };
+
+    case "is-pampanga-cessna-scenic-flight-worth-it-manila":
+      return {
+        title: "Is the Pampanga Cessna Scenic Flight Worth It from Manila?",
+        description: "An honest look at the Pampanga Cessna scenic flight from Manila or Subic.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5f69562cdb81d5cfee5597ae151c83d2359dfae0499d911ccaef4b3e6584ba6a.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A scenic flight over Pampanga in a small Cessna plane gives a genuinely exceptional aerial view of the region's landscape, including Mount Pinatubo, that no ground tour can match, worth it for travelers wanting a memorable splurge.",
+            tourCard: { slug: "from-manilasubic-pampanga-cessna-scenic-flight", title: "From Manila/Subic: Pampanga Cessna Scenic Flight Plane", description: "A scenic Cessna flight over Pampanga from Manila or Subic.", price: "From $636", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5f69562cdb81d5cfee5597ae151c83d2359dfae0499d911ccaef4b3e6584ba6a.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book morning flights when possible, since visibility and air conditions are typically better before afternoon heat builds." }
+        ],
+        faqs: [
+          { q: "Is the Pampanga Cessna scenic flight worth it from Manila?", a: "Yes, for travelers wanting a genuinely exceptional aerial view of the region, including Mount Pinatubo, that no ground tour can offer." }
+        ],
+      };
+
+    case "is-inflatable-island-water-park-worth-it-manila":
+      return {
+        title: "Is the Inflatable Island Water Park Worth It from Manila?",
+        description: "An honest look at the Inflatable Island water park with roundtrip transfers from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/08b69e0f5d95118ce5b4499833574dc6e228a80b7919f20fe14ab7664054bc44.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A massive floating inflatable obstacle course gives genuine active, family-friendly fun distinct from Manila's heritage and museum circuit, worth it for families and groups wanting a full day of water-based activity.",
+            tourCard: { slug: "inflatable-island-water-park-roundtrip-transfers", title: "Inflatable Island Water Park Roundtrip Transfers from Manila", description: "A day at the Inflatable Island water park with roundtrip transfers from Manila.", price: "From $647", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/08b69e0f5d95118ce5b4499833574dc6e228a80b7919f20fe14ab7664054bc44.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a secure dry bag for valuables, since the inflatable course involves genuine splashing and falls into the water." }
+        ],
+        faqs: [
+          { q: "Is the Inflatable Island water park worth it from Manila?", a: "Yes, for families and groups wanting genuine active, water-based fun distinct from Manila's heritage and museum circuit." }
+        ],
+      };
+
     case "is-las-casas-filipinas-worth-it-cebu":
       return {
         title: "Is Las Casas Filipinas Heritage Village Worth It near Cebu?",
