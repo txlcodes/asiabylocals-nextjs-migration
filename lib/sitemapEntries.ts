@@ -592,6 +592,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-birtvisi-rock-climbing-worth-it-tbilisi',
     'is-soviet-underworld-tour-worth-it-tbilisi', 'is-khinkali-workshop-worth-it-tbilisi',
     'is-stalin-printing-house-tour-worth-it-tbilisi', 'is-park-of-achievements-tour-worth-it-tbilisi',
+    'is-artisan-ice-cream-tasting-worth-it-tbilisi', 'is-cup-drawing-coffee-photo-tour-worth-it-tbilisi',
+    'is-sololaki-vera-cemetery-tour-worth-it-tbilisi', 'is-city-quest-surprise-ending-worth-it-tbilisi',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),

@@ -1902,6 +1902,74 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-artisan-ice-cream-tasting-worth-it-tbilisi":
+            return {
+                title: "Is the Artisan Ice Cream Tasting Worth It in Tbilisi?",
+                description: "An honest look at the artisan ice cream tasting experience in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/817175a40dfcd743b89706379b0360f508b5531d44f08432b83f1696e5d960be.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tasting focuses on small-batch, artisan ice cream makers rather than mass-produced brands, worth it as a short, easy sweet stop between the city's heavier wine and food tours.", tourCard: { slug: "tbilisi-artisan-ice-cream-tasting", title: "Tbilisi: Artisan Ice Cream Tasting", description: "A tasting tour of artisan, small-batch ice cream in Tbilisi.", price: "From $34", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/817175a40dfcd743b89706379b0360f508b5531d44f08432b83f1696e5d960be.jpg" } },
+                    { title: "Practical Tips", content: "A good midday break between heavier sightseeing or wine-tasting activities." }
+                ],
+                faqs: [
+                    { q: "Is the artisan ice cream tasting worth it in Tbilisi?", a: "Yes, as a short, easy sweet break, especially between the city's heavier wine and food experiences." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the artisan ice cream tasting worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a short, easy sweet break between heavier sightseeing." } }
+                ] },
+            };
+
+        case "is-cup-drawing-coffee-photo-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Cup Drawing & Coffee with Photo Tour Worth It in Tbilisi?",
+                description: "An honest look at the cup drawing and coffee experience with a photo tour in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6bc7984ccc47f49d20793d6b0fcacdaff930f861170a386124e840777dbf32f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This pairs a novel coffee-cup latte art drawing with a guided photo tour and skip-the-line access, worth it for travelers who want a personal keepsake photo plus a fun, visual coffee experience in one booking.", tourCard: { slug: "tbilisi-cup-drawing-coffee-w-your-photo-tour-skip", title: "Tbilisi: Cup Drawing & Coffee w/ Your Photo Tour + Skip-the-Line", description: "A cup drawing coffee experience combined with a guided photo tour and skip-the-line access.", price: "From $36", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6bc7984ccc47f49d20793d6b0fcacdaff930f861170a386124e840777dbf32f.jpeg" } },
+                    { title: "Practical Tips", content: "Dress how you want to look in your photos — this is as much a photography session as a coffee tasting." }
+                ],
+                faqs: [
+                    { q: "Is the cup drawing and coffee with photo tour worth it in Tbilisi?", a: "Yes, it's a fun, visual way to combine a coffee experience with a personal keepsake photo and skip-the-line access." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the cup drawing and coffee photo tour worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it combines a fun coffee experience with a personal keepsake photo and skip-the-line access." } }
+                ] },
+            };
+
+        case "is-sololaki-vera-cemetery-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Mystical Sololaki District and Vera Cemetery Tour Worth It?",
+                description: "An honest look at the mystical Sololaki district and Vera Cemetery tour in Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/56ea406900eaa3ed10a3d090669525facf05304a949270ac393865fc5774c57e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Sololaki's atmospheric old architecture paired with a guided walk through Vera Cemetery gives a genuinely different, more offbeat angle on Tbilisi's history, worth it for travelers who want more than the main Old Town monument circuit.", tourCard: { slug: "tbilisi-mystical-sololaki-district-and-vera", title: "Tbilisi: Mystical Sololaki District and Vera Cemetery Tour", description: "A guided tour of the Sololaki district and Vera Cemetery.", price: "From $26", duration: "Flexible", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/56ea406900eaa3ed10a3d090669525facf05304a949270ac393865fc5774c57e.jpeg" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes — Sololaki's streets are steep and the cemetery involves genuine uneven walking terrain." }
+                ],
+                faqs: [
+                    { q: "Is the Mystical Sololaki District and Vera Cemetery tour worth it in Tbilisi?", a: "Yes, it offers a genuinely offbeat angle on the city's history beyond the main Old Town circuit." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sololaki and Vera Cemetery tour worth it in Tbilisi?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely offbeat angle on the city's history beyond the main Old Town circuit." } }
+                ] },
+            };
+
+        case "is-city-quest-surprise-ending-worth-it-tbilisi":
+            return {
+                title: "Is the Tbilisi City Quest with Surprise Ending Worth It?",
+                description: "An honest look at the Tbilisi city quest experience with a surprise ending.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This gamified city quest has you solving clues and puzzles around Tbilisi to reach a surprise ending, worth it for travelers who want an interactive, puzzle-driven way to explore the city rather than a standard guided walk.", tourCard: { slug: "tbilisi-city-quest-with-surprise-ending", title: "Tbilisi: City Quest with Surprise Ending", description: "An interactive city quest with puzzles leading to a surprise ending.", price: "From $34", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c845f401ee227afacf0281da5a3c80f6ef77c43555d58b7d0c84360976d6b26.jpg" } },
+                    { title: "Practical Tips", content: "Good for groups or families who enjoy puzzle-solving together rather than a traditional guide-led walk." }
+                ],
+                faqs: [
+                    { q: "Is the Tbilisi city quest with surprise ending worth it?", a: "Yes, it's a genuinely interactive, puzzle-driven way to explore the city, a good change of pace from a standard guided walk." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Tbilisi city quest worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's an interactive, puzzle-driven alternative to a standard guided walk." } }
+                ] },
+            };
+
         default:
             return null;
     }
