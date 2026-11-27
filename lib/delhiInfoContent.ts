@@ -1547,6 +1547,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-haunted-monuments-walking-tour-worth-it-delhi":
+      return {
+        title: "Is the Haunted Monuments Walking Tour Worth It in Delhi?",
+        description: "An honest look at the haunted monuments walking tour in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-haunted-monuments-walking-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Delhi's layered history includes genuine local folklore around several of its lesser-known ruins, and a guide retelling these stories at night gives the city's monuments a distinctly different, more atmospheric angle than a standard daytime heritage walk.",
+            tourCard: { slug: "delhi-haunted-monuments-walking-tour", title: "Delhi: Haunted Monuments Walking Tour", description: "A guided walking tour of Delhi's haunted monuments and local folklore.", price: "From $29", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-haunted-monuments-walking-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book an evening slot specifically — the atmosphere and folklore framing depend on doing this after dark, not in daylight.",
+          },
+        ],
+        faqs: [
+          { q: "Is the haunted monuments walking tour worth it in Delhi?", a: "Yes, for a genuinely different, more atmospheric angle on the city's history, distinct from a standard daytime heritage walk." },
+        ],
+      };
+
+    case "is-mehrauli-ruins-tour-worth-it-delhi":
+      return {
+        title: "Is the Secret and Spooky Ruins of Mehrauli Archaeological Park Tour Worth It?",
+        description: "An honest look at the Mehrauli Archaeological Park ruins tour in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/secret-and-spooky-ruins-of-mehrauli/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mehrauli Archaeological Park holds a genuinely dense cluster of overgrown, lesser-visited ruins spanning centuries, giving a quieter, more exploratory feel than the city's major restored monuments — worth it specifically for travelers who enjoy wandering actual ruins rather than curated historical sites.",
+            tourCard: { slug: "secret-and-spooky-ruins-of-mehrauli", title: "Secret and Spooky Ruins of Mehrauli Archaeological Park", description: "A guided tour of the ruins at Mehrauli Archaeological Park.", price: "From $34", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/secret-and-spooky-ruins-of-mehrauli/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear sturdy shoes — the park's uneven, overgrown terrain is genuinely different from the paved pathways at Delhi's major restored monuments.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mehrauli ruins tour worth it in Delhi?", a: "Yes, for travelers who enjoy wandering genuine, lesser-visited ruins rather than curated historical sites." },
+        ],
+      };
+
+    case "is-connaught-place-heritage-walk-worth-it-delhi":
+      return {
+        title: "Is the Connaught Place Heritage Walk with Markets Worth It in Delhi?",
+        description: "An honest look at the Connaught Place heritage walk with markets in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-connaught-place-heritage-walk-with-markets/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Connaught Place's colonial-era circular colonnades are a genuinely distinct architectural style from Old Delhi's Mughal monuments, and pairing a heritage walk with the area's modern markets and shops shows how the district has evolved into a working commercial hub.",
+            tourCard: { slug: "delhi-connaught-place-heritage-walk-with-markets", title: "Delhi: Connaught Place Heritage Walk with Markets", description: "A heritage walking tour of Connaught Place with its markets.", price: "From $32", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-connaught-place-heritage-walk-with-markets/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for New Delhi sightseeing if you want colonial-era architecture without traveling out to Old Delhi's Mughal sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Connaught Place heritage walk worth it in Delhi?", a: "Yes, for a genuinely distinct colonial-era architectural style, paired with the area's working modern markets." },
+        ],
+      };
+
+    case "is-northern-ridge-tibetan-colony-walk-worth-it-delhi":
+      return {
+        title: "Is the Northern Ridge Walk with Tibetan Colony Tour Worth It in Delhi?",
+        description: "An honest look at the Northern Ridge walk paired with a Tibetan colony tour in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-northern-ridge-walk-with-tibetan-colony-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Northern Ridge is a genuinely forested, historically significant area tied to the 1857 uprising, and pairing it with a visit to Delhi's Tibetan colony gives a striking contrast between colonial-era history and a living immigrant community, well outside the city's usual sightseeing circuit.",
+            tourCard: { slug: "delhi-northern-ridge-walk-with-tibetan-colony-tour", title: "Delhi: Northern Ridge Walk with Tibetan Colony Tour", description: "A walking tour of the Northern Ridge paired with a visit to Delhi's Tibetan colony.", price: "From $37", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-northern-ridge-walk-with-tibetan-colony-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry for the Tibetan colony portion — the area has genuinely good momos and butter tea worth trying.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Northern Ridge and Tibetan colony tour worth it in Delhi?", a: "Yes, for a striking contrast between colonial-era history and a living immigrant community, well outside the usual sightseeing circuit." },
+        ],
+      };
+
     default:
       return null;
   }

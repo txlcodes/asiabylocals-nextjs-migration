@@ -169,6 +169,8 @@ export const DELHI_INFO_SLUGS = [
   'best-shopping-tour-delhi',
   'is-garden-of-five-senses-tour-worth-it-delhi', 'is-purana-qila-tour-worth-it-delhi',
   'is-khari-bawli-spice-market-tour-worth-it-delhi', 'is-gurudwara-bangla-sahib-tour-worth-it-delhi',
+  'is-haunted-monuments-walking-tour-worth-it-delhi', 'is-mehrauli-ruins-tour-worth-it-delhi',
+  'is-connaught-place-heritage-walk-worth-it-delhi', 'is-northern-ridge-tibetan-colony-walk-worth-it-delhi',
 ];
 
 export const JAIPUR_INFO_SLUGS = [
