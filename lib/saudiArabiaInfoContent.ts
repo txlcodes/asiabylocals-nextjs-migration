@@ -1696,6 +1696,74 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-hajj-route-artisans-alley-tour-worth-it-jeddah":
+            return {
+                title: "Is the Historic Hajj Route & Artisans' Alley Tour Worth It in Jeddah?",
+                description: "An honest look at the Historic Hajj Route and Artisans' Alley tour in Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cbd4c0d9f83d892fe332d6d60929e63b13c947fd27c28610044b7ded3911fef4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers the historic route pilgrims once walked through Jeddah on their way to Mecca, alongside a lane of traditional artisans still working today, worth it for travelers wanting real historical depth beyond a standard Al-Balad walk.", tourCard: { slug: "historic-hajj-route-artisans-alley-tour", title: "Historic Hajj Route & Artisans' Alley Tour", description: "A guided tour of Jeddah's historic Hajj route and artisans' alley.", price: "From $236", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cbd4c0d9f83d892fe332d6d60929e63b13c947fd27c28610044b7ded3911fef4.jpg" } },
+                    { title: "Practical Tips", content: "Ask your guide about the route's specific historical significance for pilgrims — that context is the main reason this tour stands apart from a general Al-Balad walk." },
+                ],
+                faqs: [
+                    { q: "Is the Historic Hajj Route and Artisans' Alley tour worth it in Jeddah?", a: "Yes, it gives real historical depth on the pilgrim route and traditional crafts, beyond a standard Al-Balad walking tour." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Hajj Route and Artisans' Alley tour worth it in Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for real historical depth on the pilgrim route and traditional crafts." } },
+                ] },
+            };
+
+        case "is-discovery-dive-underwater-photography-worth-it-jeddah":
+            return {
+                title: "Is the Discovery Dive with Underwater Photography Worth It in Jeddah?",
+                description: "An honest look at the discovery dive with underwater photography in Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f79b0a7b90825b16a6a85a76b848bddaafac3911cc7f0b9158568cf12534d7b2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Aimed at first-time or non-certified divers, this discovery dive comes with professional underwater photography included, worth it for travelers who want a real Red Sea diving taste along with photos to prove it, without needing certification.", tourCard: { slug: "jeddah-discovery-dive-with-underwater-photography", title: "Jeddah: Discovery Dive with Underwater Photography", description: "A beginner discovery dive in the Red Sea with underwater photography included.", price: "From $397", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f79b0a7b90825b16a6a85a76b848bddaafac3911cc7f0b9158568cf12534d7b2.jpg" } },
+                    { title: "Practical Tips", content: "No certification is required for a discovery dive, but confirm the depth and safety briefing details with the operator beforehand." },
+                ],
+                faqs: [
+                    { q: "Is the discovery dive with underwater photography worth it in Jeddah?", a: "Yes, for a genuine Red Sea diving taste with photos included, no certification required." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the discovery dive worth it in Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine Red Sea diving taste with photos, no certification needed." } },
+                ] },
+            };
+
+        case "is-durrat-al-arous-beach-day-worth-it-jeddah":
+            return {
+                title: "Is the Durrat Al-Arous Private Beach Day Worth It from Jeddah?",
+                description: "An honest look at the Durrat Al-Arous private beach day with swimming and a cruise from Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/848009257294a0e165d32d2b10e82e835ddb7cf8656f0b8bfa5ee92c3ff4e421.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Durrat Al-Arous is a developed lagoon resort area north of Jeddah with genuinely calm, clear water, and this private day combines beach time with a cruise, worth it for travelers wanting a resort-style beach escape distinct from Bayada Island's snorkeling focus.", tourCard: { slug: "jeddah-durrat-al-arous-private-beach-day-to-swim", title: "Jeddah: Durrat Al-Arous Private Beach Day to Swim & Cruise", description: "A private beach day at Durrat Al-Arous with swimming and a cruise.", price: "From $2860", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/848009257294a0e165d32d2b10e82e835ddb7cf8656f0b8bfa5ee92c3ff4e421.jpeg" } },
+                    { title: "Practical Tips", content: "Given the full-day format and private pricing, this suits groups splitting the cost rather than solo travelers." },
+                ],
+                faqs: [
+                    { q: "Is the Durrat Al-Arous private beach day worth it from Jeddah?", a: "Yes, for groups wanting a resort-style beach escape distinct from Bayada Island's snorkeling-focused trips." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Durrat Al-Arous worth it from Jeddah?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a resort-style beach escape distinct from Bayada Island's snorkeling trips." } },
+                ] },
+            };
+
+        case "is-king-abdullah-economic-city-day-trip-worth-it-jeddah":
+            return {
+                title: "Is the King Abdullah Economic City Day Trip Worth It from Jeddah?",
+                description: "An honest look at the King Abdullah Economic City day trip from Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6f024ecf78872a0165ccffbd120b0c8782c1857526a6f0b351afb487ad110d1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "King Abdullah Economic City is a genuinely distinct planned mega-development north of Jeddah, worth it for travelers interested in Saudi Arabia's Vision 2030 infrastructure push rather than traditional heritage or beach sightseeing.", tourCard: { slug: "from-jeddah-king-abdullah-economic-city-day-trip", title: "From Jeddah: King Abdullah Economic City Day Trip", description: "A day trip to the King Abdullah Economic City development from Jeddah.", price: "From $3250", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6f024ecf78872a0165ccffbd120b0c8782c1857526a6f0b351afb487ad110d1.jpg" } },
+                    { title: "Practical Tips", content: "This is a niche interest trip — confirm with your operator exactly what's included before booking at this price point." },
+                ],
+                faqs: [
+                    { q: "Is the King Abdullah Economic City day trip worth it from Jeddah?", a: "Yes, specifically for travelers interested in Saudi Arabia's modern development push, rather than heritage or beach sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the King Abdullah Economic City day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers interested in Saudi Arabia's modern development push." } },
+                ] },
+            };
+
         default:
             return null;
     }

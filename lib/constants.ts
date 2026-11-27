@@ -642,6 +642,8 @@ export const JEDDAH_INFO_SLUGS: string[] = [
   'is-jet-car-ride-worth-it-jeddah',
   'is-scuba-certification-course-worth-it-jeddah', 'is-local-woman-guided-tour-worth-it-jeddah',
   'is-floating-mosque-al-balad-tour-worth-it-jeddah',
+  'is-hajj-route-artisans-alley-tour-worth-it-jeddah', 'is-discovery-dive-underwater-photography-worth-it-jeddah',
+  'is-durrat-al-arous-beach-day-worth-it-jeddah', 'is-king-abdullah-economic-city-day-trip-worth-it-jeddah',
 ];
 export const ALULA_INFO_SLUGS: string[] = [
   'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
