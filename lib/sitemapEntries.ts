@@ -914,6 +914,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'jerusalem-food-guide', 'jerusalem-public-transport-guide',
     'jerusalem-old-city-quarters-guide', 'jerusalem-to-tel-aviv-guide',
     'jerusalem-to-bethlehem-checkpoint-guide', 'is-old-city-night-tour-worth-it-jerusalem',
+    'is-israel-museum-ein-kerem-tour-worth-it-jerusalem', 'is-shfela-judaean-lowlands-tour-worth-it-jerusalem',
+    'is-jerusalems-secrets-van-tour-worth-it-jerusalem', 'is-half-day-jerusalem-highlights-tel-aviv-worth-it',
   ], 'israel', 'jerusalem');
   const telAvivInfoPages = mapInfoSlugs([
     'best-jaffa-old-city-tour-tel-aviv', 'best-carmel-market-food-tour-tel-aviv',

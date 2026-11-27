@@ -728,6 +728,74 @@ export function getIsraelInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-israel-museum-ein-kerem-tour-worth-it-jerusalem":
+            return {
+                title: "Is the Israel Museum and Ein Kerem Jerusalem Tour Worth It?",
+                description: "An honest look at the Israel Museum and Ein Kerem tour in Jerusalem.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0fe2c08ab787c079ca2d8b021f69af32bacfb20f462bb1353cfd11bb0496885.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the Israel Museum, home to the Dead Sea Scrolls, with Ein Kerem's picturesque old village gives a genuine mix of world-class culture and a quieter, charming neighborhood, worth it for travelers who've already covered the Old City's main sacred sites.", tourCard: { slug: "the-israel-museum-and-ein-kerem-jerusalem-tour", title: "The Israel Museum and Ein Kerem Jerusalem Tour", description: "A tour combining the Israel Museum and the Ein Kerem neighborhood.", price: "From $228", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0fe2c08ab787c079ca2d8b021f69af32bacfb20f462bb1353cfd11bb0496885.jpeg" } },
+                    { title: "Practical Tips", content: "Allow real time at the Israel Museum for the Dead Sea Scrolls and the Shrine of the Book — it's genuinely worth more than a quick walkthrough." },
+                ],
+                faqs: [
+                    { q: "Is the Israel Museum and Ein Kerem tour worth it in Jerusalem?", a: "Yes, it mixes world-class culture with a quieter, charming neighborhood, a good follow-up once you've covered the Old City." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Israel Museum and Ein Kerem tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it mixes world-class culture with a quieter, charming neighborhood." } },
+                ] },
+            };
+
+        case "is-shfela-judaean-lowlands-tour-worth-it-jerusalem":
+            return {
+                title: "Is the Shfela Judaean Lowlands Tour Worth It from Jerusalem?",
+                description: "An honest look at the Shfela Judaean Lowlands tour covering Beit Guvrin and Herodeon.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e81cd1a773f4495571e26eccdb7cb9998e8bf52a72a310c99dd137f87a396d9d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Beit Guvrin's ancient underground cave complexes and Herod's palace-fortress at Herodeon are genuinely significant archaeological sites most Jerusalem itineraries skip entirely, worth it for travelers with a deeper interest in ancient history beyond the Old City.", tourCard: { slug: "the-shfela-judaean-lowlands-tour-beit-guvrin-and", title: "The Shfela Judaean Lowlands Tour: Beit Guvrin and Herodeon", description: "A tour of the Shfela region covering Beit Guvrin's caves and Herodeon.", price: "From $936", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e81cd1a773f4495571e26eccdb7cb9998e8bf52a72a310c99dd137f87a396d9d.jpeg" } },
+                    { title: "Practical Tips", content: "Wear sturdy shoes — Beit Guvrin's cave complexes involve genuine underground walking on uneven surfaces." },
+                ],
+                faqs: [
+                    { q: "Is the Shfela Judaean Lowlands tour worth it from Jerusalem?", a: "Yes, for travelers with a deeper interest in ancient history, covering significant sites most itineraries skip entirely." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Shfela Judaean Lowlands tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for ancient history most Jerusalem itineraries skip entirely." } },
+                ] },
+            };
+
+        case "is-jerusalems-secrets-van-tour-worth-it-jerusalem":
+            return {
+                title: "Is Jerusalem's Secrets Private Full-Day Guided Van Tour Worth It?",
+                description: "An honest look at the Jerusalem's Secrets private full-day guided van tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4b7c642d817b2a11d1f4dfbce369b2742440bfbbc86efb97ebe368e9447bda3c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This private van tour is framed around lesser-known corners of Jerusalem beyond the main Old City circuit, worth it for travelers who've already done the major sacred sites and want a deeper, more personalized day.", tourCard: { slug: "jerusalems-secrets-private-full-day-guided-van", title: "Jerusalem's Secrets: Private Full-Day Guided Van Tour", description: "A private full-day van tour covering lesser-known parts of Jerusalem.", price: "From $1057", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4b7c642d817b2a11d1f4dfbce369b2742440bfbbc86efb97ebe368e9447bda3c.jpg" } },
+                    { title: "Practical Tips", content: "Tell your guide in advance which neighborhoods or themes interest you most, since the private format allows real customization." },
+                ],
+                faqs: [
+                    { q: "Is Jerusalem's Secrets private van tour worth it?", a: "Yes, for travelers who've already covered the main sacred sites and want a deeper, more personalized day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Jerusalem's Secrets tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a deeper, more personalized day beyond the main sacred sites." } },
+                ] },
+            };
+
+        case "is-half-day-jerusalem-highlights-tel-aviv-worth-it":
+            return {
+                title: "Is the Half-Day Jerusalem Highlights Private Tour from Tel Aviv Worth It?",
+                description: "An honest look at the half-day Jerusalem highlights private tour from Tel Aviv.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c19dfdfe833962fa689eaeaced170e5420667d851a52679fccd42a3d68747e7a.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This condensed, private half-day tour lets Tel Aviv-based travelers see Jerusalem's main highlights without committing a full day, worth it specifically if your time is limited and you want the essentials rather than a comprehensive deep dive.", tourCard: { slug: "half-day-jerusalem-highlights-private-tour-from", title: "Half-Day Jerusalem Highlights Private Tour from Tel Aviv", description: "A condensed half-day private tour of Jerusalem's highlights from Tel Aviv.", price: "From $806", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c19dfdfe833962fa689eaeaced170e5420667d851a52679fccd42a3d68747e7a.jpeg" } },
+                    { title: "Practical Tips", content: "If you have more than a half-day to spare, a full-day tour will cover considerably more ground given the drive time involved." },
+                ],
+                faqs: [
+                    { q: "Is the half-day Jerusalem highlights tour from Tel Aviv worth it?", a: "Yes, specifically for travelers with limited time who want the essentials rather than a full comprehensive day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the half-day Jerusalem tour from Tel Aviv worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers with limited time wanting the essentials." } },
+                ] },
+            };
+
         default:
             return null;
     }
