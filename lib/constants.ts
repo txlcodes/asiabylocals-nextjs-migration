@@ -728,6 +728,8 @@ export const ALMATY_INFO_SLUGS: string[] = [
   'is-alpine-climbing-worth-it-almaty',
   'is-city-tour-professional-photoshoot-worth-it-almaty', 'is-city-highlights-chocolate-shop-worth-it-almaty',
   'is-city-tour-green-bazaar-worth-it-almaty', 'is-museum-of-arts-kok-tobe-tour-worth-it-almaty',
+  'is-city-of-nomads-kapchagay-tour-worth-it-almaty', 'is-kazakhstan-local-experiences-tour-worth-it-almaty',
+  'is-must-see-private-walking-tour-worth-it-almaty', 'is-alpine-eco-tour-old-city-shymbulak-worth-it-almaty',
 ];
 
 // Mongolia launched 2026-11-19 with 139 live tours and zero authority pages.

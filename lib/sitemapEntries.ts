@@ -902,6 +902,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-alpine-climbing-worth-it-almaty',
     'is-city-tour-professional-photoshoot-worth-it-almaty', 'is-city-highlights-chocolate-shop-worth-it-almaty',
     'is-city-tour-green-bazaar-worth-it-almaty', 'is-museum-of-arts-kok-tobe-tour-worth-it-almaty',
+    'is-city-of-nomads-kapchagay-tour-worth-it-almaty', 'is-kazakhstan-local-experiences-tour-worth-it-almaty',
+    'is-must-see-private-walking-tour-worth-it-almaty', 'is-alpine-eco-tour-old-city-shymbulak-worth-it-almaty',
   ], 'kazakhstan', 'almaty');
   const ulaanbaatarInfoPages = mapInfoSlugs([
     'best-terelj-national-park-day-tour-ulaanbaatar', 'best-city-tour-ulaanbaatar',

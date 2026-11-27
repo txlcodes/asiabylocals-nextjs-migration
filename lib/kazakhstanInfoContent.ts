@@ -669,6 +669,62 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-city-of-nomads-kapchagay-tour-worth-it-almaty":
+            return {
+                title: "Is the City of Nomads and Kapchagay Lake Escape Worth It from Almaty?",
+                description: "An honest look at the City of Nomads and Kapchagay Lake escape from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "City of Nomads gives genuine insight into traditional Kazakh nomadic culture, paired here with a relaxed afternoon at Kapchagay Lake, worth it specifically for travelers wanting cultural depth alongside a lake day rather than just mountains and canyons.", tourCard: { slug: "from-almaty-city-of-nomads-kapchagay-lake-escape", title: "From Almaty: City of Nomads & Kapchagay Lake Escape", description: "A day trip combining City of Nomads cultural site with Kapchagay Lake.", price: "From $181", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg" } },
+                    { title: "Practical Tips", content: "Bring swimwear if you want to get in the water at Kapchagay Lake during the warmer months." },
+                ],
+                faqs: [
+                    { q: "Is the City of Nomads and Kapchagay Lake tour worth it from Almaty?", a: "Yes, for travelers wanting genuine cultural insight into Kazakh nomadic history alongside a relaxed lake day." },
+                ],
+            };
+
+        case "is-kazakhstan-local-experiences-tour-worth-it-almaty":
+            return {
+                title: "Is the Kazakhstan Guided Tour with Local Experiences Worth It?",
+                description: "An honest look at the Kazakhstan guided tour with local experiences from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This full-day tour is built specifically around genuine local encounters rather than just checking off sights, worth it for travelers who prioritize meeting Kazakh people and understanding daily life over a packed sightseeing itinerary.", tourCard: { slug: "kazakhstan-guided-tour-with-local-experiences", title: "Kazakhstan: Guided Tour with Local Experiences", description: "A full-day guided tour built around local experiences in Kazakhstan.", price: "From $78", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg" } },
+                    { title: "Practical Tips", content: "Go in with genuine curiosity and questions for your local hosts — this tour's value comes from the human interactions, not a checklist of sights." },
+                ],
+                faqs: [
+                    { q: "Is the Kazakhstan tour with local experiences worth it?", a: "Yes, specifically for travelers who prioritize genuine local encounters over a packed sightseeing itinerary." },
+                ],
+            };
+
+        case "is-must-see-private-walking-tour-worth-it-almaty":
+            return {
+                title: "Is the Almaty Must-See Private Walking Tour Worth It?",
+                description: "An honest look at the Almaty must-see private walking tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This private walking tour is built around Almaty's essential landmarks at your own pace, worth it specifically for travelers who want a curated highlights route without the group-tour schedule of the city's other walking tours.", tourCard: { slug: "almaty-must-see-private-walking-tour", title: "Almaty: Must-See Private Walking tour", description: "A private walking tour of Almaty's essential landmarks.", price: "From $189", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg" } },
+                    { title: "Practical Tips", content: "Tell your guide upfront which sights matter most to you — the private format means the route can flex around your priorities." },
+                ],
+                faqs: [
+                    { q: "Is the Almaty must-see private walking tour worth it?", a: "Yes, for travelers wanting a curated, flexible-pace route through the city's essential landmarks without a group-tour schedule." },
+                ],
+            };
+
+        case "is-alpine-eco-tour-old-city-shymbulak-worth-it-almaty":
+            return {
+                title: "Is the Almaty Alpine Private Eco Tour from Old City to Shymbulak Worth It?",
+                description: "An honest look at the private alpine eco tour from Almaty's old city to Shymbulak.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tracing the route from Almaty's old city up to the Shymbulak mountain resort in one private trip shows the sharp contrast between the historic lowland city and the alpine terrain above it, worth it specifically for travelers wanting to see both sides of Almaty in a single, unhurried day.", tourCard: { slug: "almaty-alpine-private-eco-tour-from-old-city-to", title: "Almaty: Alpine Private Eco Tour from Old City to Shymbulak", description: "A private eco tour tracing Almaty's old city up to Shymbulak in the mountains.", price: "From $137", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg" } },
+                    { title: "Practical Tips", content: "Dress in layers — temperatures at Shymbulak's higher elevation can be noticeably cooler than down in the old city." },
+                ],
+                faqs: [
+                    { q: "Is the alpine eco tour from old city to Shymbulak worth it in Almaty?", a: "Yes, for travelers wanting to see both the historic lowland city and the alpine terrain above it in one unhurried private day." },
+                ],
+            };
+
         default:
             return null;
     }
