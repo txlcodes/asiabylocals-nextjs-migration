@@ -558,6 +558,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-home-brewing-experience-worth-it-kathmandu', 'is-jamacho-hike-worth-it-kathmandu',
     'is-cultural-dinner-show-worth-it-kathmandu', 'is-ason-bazaar-food-walk-worth-it-kathmandu',
     'is-kirtipur-heritage-tour-worth-it-kathmandu', 'is-shaman-consultation-worth-it-kathmandu',
+    'is-women-only-evening-walk-worth-it-kathmandu', 'is-tongba-newari-tasting-tour-worth-it-kathmandu',
+    'is-hidden-forest-sunrise-wildlife-worth-it-kathmandu', 'is-unesco-motorbike-tour-worth-it-kathmandu',
   ].map(slug => ({
     url: `${BASE_URL}/nepal/kathmandu/${slug}`,
     lastModified: new Date(),

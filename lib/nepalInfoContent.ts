@@ -2977,6 +2977,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-women-only-evening-walk-worth-it-kathmandu":
+            return {
+                title: "Is the Women-Only Evening Walk with Dinner Worth It in Kathmandu?",
+                description: "An honest look at the women-only evening walk with dinner and drinks in Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/101cc162a625f2930efe9856f07a7037703a5ad19af47088c9a48ecc6e7bbfc5.png",
+                sections: [
+                    { title: "The Short Answer", content: "A female-only evening walk with dinner and drinks included gives solo female travelers a genuinely more comfortable way to experience Kathmandu's streets after dark, worth it specifically for that reassurance factor rather than the walking route itself being unique.", tourCard: { slug: "kathmandu-women-only-evening-walk-with-dinner-and", title: "Kathmandu: Women-Only Evening Walk with Dinner and Drinks", description: "A women-only guided evening walk with dinner and drinks included.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/101cc162a625f2930efe9856f07a7037703a5ad19af47088c9a48ecc6e7bbfc5.png" } },
+                    { title: "Practical Tips", content: "A good pick specifically for solo female travelers wanting company and reassurance on an evening outing rather than a uniquely different sightseeing route." }
+                ],
+                faqs: [
+                    { q: "Is the women-only evening walk worth it in Kathmandu?", a: "Yes, specifically for solo female travelers wanting the comfort and reassurance of a female-only group after dark." }
+                ],
+            };
+
+        case "is-tongba-newari-tasting-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Evening Beer, Tongba & Newari Snacks Tasting Tour Worth It?",
+                description: "An honest look at the evening beer, Tongba, and Newari snacks tasting tour in Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7163272888ae150d770536177f41061334dbc8681f4f3fe702b70d9f07851647.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Tongba, a traditional fermented millet drink, is a genuinely distinctive local specialty most visitors never try, and pairing it with Newari snacks and local beer gives a focused evening tasting tour worth it for travelers wanting to go beyond the usual Thamel restaurant scene.", tourCard: { slug: "kathmandu-evening-beer-tongba-newari-snacks", title: "Kathmandu: Evening Beer, Tongba & Newari Snacks Tasting Tour", description: "An evening tasting tour covering local beer, Tongba, and Newari snacks.", price: "From $47", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7163272888ae150d770536177f41061334dbc8681f4f3fe702b70d9f07851647.jpeg" } },
+                    { title: "Practical Tips", content: "Pace your drinking across the tastings — Tongba is traditionally topped up with hot water, so it keeps going longer than you might expect." }
+                ],
+                faqs: [
+                    { q: "Is the beer, Tongba and Newari snacks tasting tour worth it in Kathmandu?", a: "Yes, for a genuinely distinctive local specialty tasting that goes beyond the usual Thamel restaurant scene." }
+                ],
+            };
+
+        case "is-hidden-forest-sunrise-wildlife-worth-it-kathmandu":
+            return {
+                title: "Is the Hidden Forest Awakening Sunrise & Wildlife Tour Worth It?",
+                description: "An honest look at the Hidden Forest Awakening Kathmandu Valley sunrise and wildlife tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/841554827e93e13a7d6628c227568d82995c0ecd4f2f080c1506d3de87b860df.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This early-morning forest tour gets you into the Kathmandu Valley's wildlife and sunrise scenery before the city wakes up, worth it for travelers wanting a quiet, nature-focused start to the day distinct from the valley's temple and heritage circuit.", tourCard: { slug: "hidden-forest-awakening-kathmandu-valley-sunrise", title: "Hidden Forest Awakening: Kathmandu Valley Sunrise & Wildlife", description: "An early-morning forest tour covering sunrise views and valley wildlife.", price: "From $33", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/841554827e93e13a7d6628c227568d82995c0ecd4f2f080c1506d3de87b860df.jpg" } },
+                    { title: "Practical Tips", content: "Dress in warm layers for the early start — mornings in the forest are noticeably cooler than the city later in the day." }
+                ],
+                faqs: [
+                    { q: "Is the Hidden Forest Awakening sunrise and wildlife tour worth it in Kathmandu?", a: "Yes, for a quiet, nature-focused morning that's a genuine change of pace from the valley's temple and heritage sightseeing." }
+                ],
+            };
+
+        case "is-unesco-motorbike-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Kathmandu 7 UNESCO Sites Guided Motorbike Tour Worth It?",
+                description: "An honest look at the Kathmandu 7 UNESCO Sites guided motorbike tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering the valley's UNESCO sites by motorbike rather than car or bus gives a more active, direct way to move between stops, worth it for travelers who want an engaging ride alongside the heritage sightseeing rather than sitting in a vehicle all day.", tourCard: { slug: "kathmandu-7-unesco-sites-guided-motorbike-tour", title: "Kathmandu 7 UNESCO Sites Guided Motorbike Tour", description: "A guided motorbike tour covering 7 of the valley's UNESCO World Heritage Sites.", price: "From $46", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fe3e4c09fd487463f45e9e0c56b9e7829c661711493ec73952031c289c79ec9.jpg" } },
+                    { title: "Practical Tips", content: "Confirm whether you're riding as a passenger or driving yourself, since licensing requirements differ." }
+                ],
+                faqs: [
+                    { q: "Is the 7 UNESCO Sites guided motorbike tour worth it in Kathmandu?", a: "Yes, for travelers who want a more active, engaging way to see the valley's heritage sites than sitting in a car or bus all day." }
+                ],
+            };
+
         default:
             return null;
     }
