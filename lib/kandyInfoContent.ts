@@ -1493,6 +1493,90 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-8day-floating-resort-luxury-tour-worth-it-kandy":
+      return {
+        title: "Is the 8-Day Luxury Sri Lanka Tour with Floating Resort Stay Worth It?",
+        description: "An honest look at the 8-day luxury Sri Lanka tour with a floating resort stay.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1327364/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A night at a floating resort is a genuinely unusual accommodation experience that few Sri Lanka itineraries include, making this 8-day luxury tour stand out from standard hotel-based packages at a similar price point.",
+            tourCard: { slug: "sri-lanka-8-day-luxury-tour-with-floating-resort", title: "Sri Lanka: 8-Day Luxury Tour with Floating Resort Stay", description: "An 8-day luxury Sri Lanka tour including a stay at a floating resort.", price: "From $6760", duration: "8 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1327364/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm exactly how many nights are spent at the floating resort versus standard hotels, since it's the standout feature of this particular package.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 8-day luxury tour with floating resort stay worth it?", a: "Yes, for travelers wanting a genuinely unusual accommodation experience that distinguishes this package from standard hotel-based luxury tours." },
+        ],
+      };
+
+    case "is-10day-peaks-beaks-tour-worth-it-kandy":
+      return {
+        title: "Is the Sri Lanka 10-Day Peaks & Beaks Tour Worth It?",
+        description: "An honest look at the 10-day Peaks & Beaks tour with entry and adventure fees included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-947552/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This 10-day tour combines hill-country peaks with birdwatching ('beaks') stops, a genuinely different framing than the standard cultural-triangle-and-beach itinerary, with entry and adventure fees already bundled in.",
+            tourCard: { slug: "sri-lanka10-day-peaks-beaks-tour-entry-adventures", title: "Sri Lanka:10-Day Peaks & Beaks Tour -Entry & Adventures Fees", description: "A 10-day tour combining hill-country peaks and birdwatching, with entry and adventure fees included.", price: "From $3443", duration: "10 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-947552/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars if birdwatching genuinely interests you, since the itinerary's birding stops reward travelers who come prepared.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 10-day Peaks & Beaks tour worth it?", a: "Yes, for travelers wanting a genuinely different mix of hill-country peaks and birdwatching, with fees already bundled into the price." },
+        ],
+      };
+
+    case "is-3day-mahiyanganaya-wildlife-yala-worth-it-kandy":
+      return {
+        title: "Is the 3-Day Mahiyanganaya Wildlife, Waterfalls & Culture Tour Worth It?",
+        description: "An honest look at the 3-day Mahiyanganaya wildlife, waterfalls, and culture tour with a Yala drop-off.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1186213/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mahiyanganaya's wildlife and waterfalls sit well off the standard Kandy-to-south-coast route, and ending with a Yala drop-off makes productive use of what would otherwise be a transfer day.",
+            tourCard: { slug: "3-day-mahiyanganaya-wildlife-waterfalls-culture", title: "3-Day Mahiyanganaya Wildlife, Waterfalls, Culture, Yala Drop", description: "A 3-day tour covering Mahiyanganaya's wildlife, waterfalls, and culture, ending with a Yala drop-off.", price: "From $1657", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1186213/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the exact Yala drop-off timing if you have a safari booked there afterward, so the connection lines up.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-day Mahiyanganaya wildlife and waterfalls tour worth it?", a: "Yes, for travelers wanting a genuinely off-route stop with wildlife and waterfalls, while making productive use of the transfer to Yala." },
+        ],
+      };
+
+    case "is-9day-ceylon-honeymoon-worth-it-kandy":
+      return {
+        title: "Is the Ceylon 9-Day Budget Hill Country & Tropical Beach Honeymoon Worth It?",
+        description: "An honest look at the 9-day budget Ceylon honeymoon covering hill country and tropical beaches.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1249752/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering both the cool hill country and warm tropical beaches in one 9-day honeymoon, at a genuinely budget-conscious price point, makes this a practical option for couples who want range without the luxury-tour price tag.",
+            tourCard: { slug: "ceylon-9-day-budget-hill-country-tropical-beach", title: "Ceylon: 9-Day Budget Hill Country & Tropical Beach Honeymoon", description: "A 9-day budget honeymoon covering Sri Lanka's hill country and tropical beaches.", price: "From $2419", duration: "9 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1249752/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check which hotels are included at the budget tier, since 'budget' honeymoon packages can vary significantly in comfort level between operators.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 9-day budget Ceylon honeymoon worth it?", a: "Yes, for couples wanting both hill country and tropical beaches covered at a genuinely budget-conscious price point." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -2121,6 +2121,8 @@ export const KANDY_INFO_SLUGS = [
   'is-village-hiking-waterfalls-worth-it-kandy', 'is-roti-cooking-class-worth-it-kandy',
   'is-night-wildlife-tea-plantation-worth-it-kandy', 'is-train-photography-experience-worth-it-kandy',
   'is-wilpattu-safari-worth-it-kandy',
+  'is-8day-floating-resort-luxury-tour-worth-it-kandy', 'is-10day-peaks-beaks-tour-worth-it-kandy',
+  'is-3day-mahiyanganaya-wildlife-yala-worth-it-kandy', 'is-9day-ceylon-honeymoon-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.
