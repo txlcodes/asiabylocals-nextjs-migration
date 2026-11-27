@@ -2175,6 +2175,91 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mount-naupa-hiking-worth-it-cebu":
+      return {
+        title: "Is the Mount Naupa Hiking Tour Worth It in Cebu?",
+        description: "An honest look at the guided Mount Naupa hike, known for its 360-degree mountain views.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mount Naupa delivers a genuine 360-degree panoramic payoff for a moderate climb, worth it specifically for travelers who want a hiking day without the longer, harder commitment of Osmeña Peak or Mount Manunggal.",
+            tourCard: { slug: "cebu-mount-naupa-hiking-360-degree-mountain-view", title: "Cebu: Mount Naupa Hiking 360 degree mountain View", description: "A guided hike up Mount Naupa with 360-degree mountain views.", price: "From $76", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper hiking shoes and start early to avoid climbing during the hottest part of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is Mount Naupa worth hiking in Cebu?", a: "Yes, it offers a genuine 360-degree payoff for a moderate climb, a good middle-ground option between an easy walk and Osmeña Peak's longer trek." },
+        ],
+      };
+
+    case "is-bantayan-fundive-scuba-worth-it-cebu":
+      return {
+        title: "Is the Bantayan Island Fundive Scuba Adventure Worth It?",
+        description: "An honest look at the fundive scuba adventure off Bantayan Island, Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This guided fundive gets certified divers into Bantayan's reefs without the time commitment of a full PADI course, worth it specifically for already-certified divers who just want a dive, not a certification.",
+            tourCard: { slug: "bantayan-island-fundive-scuba-adventure", title: "Bantayan Island: Fundive Scuba Adventure", description: "A guided fundive scuba adventure off Bantayan Island.", price: "From $76", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your dive certification card — this is a fundive for already-licensed divers, not a beginner course like the PADI certification option.",
+          },
+        ],
+        faqs: [
+          { q: "Do I need a dive certification for the Bantayan fundive?", a: "Yes, this is for already-certified divers; beginners should book a PADI certification course instead." },
+          { q: "Is the Bantayan fundive worth it?", a: "Yes, for certified divers wanting a quick, guided dive without a full course commitment." },
+        ],
+      };
+
+    case "is-cebu-cooking-class-worth-it":
+      return {
+        title: "Is the Cebu Traditional Cuisine Cooking Class Worth It?",
+        description: "An honest look at the hands-on Cebuano cuisine cooking class in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/caaf70b9296a17492b04cbc8940b132ac1ccad59935db20a2c0dceace36c1640.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This hands-on class teaches traditional Cebuano dishes rather than generic Filipino recipes, worth it specifically for travelers who want to take a real regional skill home rather than just eating during a food walk.",
+            tourCard: { slug: "cebu-traditional-cuisine-cooking-class", title: "Cebu Traditional Cuisine Cooking Class", description: "A hands-on cooking class teaching traditional Cebuano dishes.", price: "From $108", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/caaf70b9296a17492b04cbc8940b132ac1ccad59935db20a2c0dceace36c1640.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — most classes end with eating everything you cooked as your meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cebu cooking class worth it?", a: "Yes, especially if you want to learn specific Cebuano recipes to recreate at home, rather than just tasting dishes on a food walk." },
+        ],
+      };
+
+    case "is-live-fire-shooting-worth-it-cebu":
+      return {
+        title: "Is the Live-Fire Shooting Experience Worth It in Cebu?",
+        description: "An honest look at the authentic live-fire shooting range entry ticket in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A short, supervised session firing real live-ammunition firearms at a proper range, worth it specifically for travelers curious about shooting who can't easily try this legally back home.",
+            tourCard: { slug: "cebu-philippines-authentic-live-fire-shooting", title: "Cebu, Philippines: Authentic Live-Fire Shooting Entry Ticket", description: "An entry ticket to an authentic live-fire shooting range experience in Cebu.", price: "From $108", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a valid ID, and expect a mandatory safety briefing before you're handed any firearm.",
+          },
+        ],
+        faqs: [
+          { q: "Is the live-fire shooting experience worth it in Cebu?", a: "Yes, for travelers curious about shooting real firearms in a short, supervised, legal setting." },
+        ],
+      };
+
     default:
       return null;
   }

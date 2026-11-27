@@ -1468,6 +1468,8 @@ export const CEBU_INFO_SLUGS = [
   'is-carbon-market-jeepney-tour-worth-it-cebu', 'is-pub-crawl-worth-it-cebu',
   'is-mount-manunggal-hike-worth-it-cebu', 'is-cebu-food-walk-worth-it-cebu',
   'is-mactan-sunset-speedboat-cruise-worth-it-cebu', 'is-jet-ski-rental-worth-it-cebu',
+  'is-mount-naupa-hiking-worth-it-cebu', 'is-bantayan-fundive-scuba-worth-it-cebu',
+  'is-cebu-cooking-class-worth-it', 'is-live-fire-shooting-worth-it-cebu',
 ];
 
 export const BANGKOK_INFO_SLUGS = [
