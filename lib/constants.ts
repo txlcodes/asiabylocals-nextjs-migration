@@ -1213,6 +1213,8 @@ export const SEOUL_INFO_SLUGS = [
   'is-moonlight-rainbow-fountain-show-worth-it-seoul', 'is-gwangjang-market-food-crawl-worth-it-seoul',
   'is-nanta-show-worth-it-seoul', 'is-norigae-keyring-making-worth-it-seoul',
   'is-korean-knot-art-workshop-worth-it-seoul', 'is-insadong-name-seal-worth-it-seoul',
+  'is-korean-tea-tasting-worth-it-seoul', 'is-indigo-dyeing-workshop-worth-it-seoul',
+  'is-hongdae-mother-of-pearl-workshop-worth-it-seoul', 'is-kpop-dance-class-worth-it-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and

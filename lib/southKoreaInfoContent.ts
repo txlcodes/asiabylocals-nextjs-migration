@@ -2018,6 +2018,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-korean-tea-tasting-worth-it-seoul":
+      return {
+        title: "Is the Korean Fine Tea Tasting Experience Worth It in Seoul?",
+        description: "An honest look at the Korean fine tea tasting with three teas and traditional sweets in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9cca74fbc4a5f7e5bb3e863d677979253934bb6df9a3fdeee0f26569b65d914.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tasting three distinct Korean teas paired with traditional sweets gives genuine depth beyond the single cup most visitors default to, worth it specifically for travelers curious about Korean tea culture beyond coffee shops and convenience-store drinks.",
+            tourCard: { slug: "seoul-korean-fine-tea-tasting-3-tea-traditional", title: "Seoul: Korean Fine Tea Tasting (3 Tea & Traditional Sweets)", description: "A guided tasting of three Korean teas paired with traditional sweets.", price: "From $59", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9cca74fbc4a5f7e5bb3e863d677979253934bb6df9a3fdeee0f26569b65d914.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go on a lighter stomach beforehand, since the sweets pairing is meant to complement the tea's flavor, not serve as a full meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Korean tea tasting worth it in Seoul?", a: "Yes, for travelers curious about Korean tea culture beyond coffee shops, with real variety across three distinct teas." },
+        ],
+      };
+
+    case "is-indigo-dyeing-workshop-worth-it-seoul":
+      return {
+        title: "Is the Indigo Dyeing Workshop with a Local Expert Worth It in Seoul?",
+        description: "An honest look at the indigo dyeing workshop with a local expert in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a64645e4e2dd8c56ad20b2ca8582374790d50c7d6ee2f9ceb3326416f8382021.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Traditional Korean indigo dyeing is a genuine natural-dye craft most visitors never encounter, and this hands-on workshop with a local expert gives real technique behind the process, worth it for travelers wanting a tactile, one-of-a-kind souvenir rather than a passive demonstration.",
+            tourCard: { slug: "seoul-indigo-dyeing-workshop-with-local-expert", title: "Seoul: Indigo Dyeing Workshop with Local Expert", description: "A hands-on traditional indigo dyeing workshop with a local expert in Seoul.", price: "From $65", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a64645e4e2dd8c56ad20b2ca8582374790d50c7d6ee2f9ceb3326416f8382021.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a bit stained, since indigo dye can be stubborn on fabric even with care.",
+          },
+        ],
+        faqs: [
+          { q: "Is the indigo dyeing workshop worth it in Seoul?", a: "Yes, for a genuinely tactile, one-of-a-kind souvenir and real technique behind a traditional natural-dye craft." },
+        ],
+      };
+
+    case "is-hongdae-mother-of-pearl-workshop-worth-it-seoul":
+      return {
+        title: "Is the Hongdae Mother-of-Pearl Art Workshop Worth It in Seoul?",
+        description: "An honest look at the Hongdae mother-of-pearl art workshop in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a64645e4e2dd8c56ad20b2ca8582374790d50c7d6ee2f9ceb3326416f8382021.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This Seoul workshop teaches the same traditional Najeonchilgi mother-of-pearl craft found in Busan, worth it specifically for Seoul-based travelers who want a rare, hands-on introduction to the technique without a separate trip south.",
+            tourCard: { slug: "seoul-hongdae-mother-of-pearl-art-workshop", title: "Seoul: Hongdae Mother-of-Pearl Art Workshop", description: "A hands-on mother-of-pearl art workshop in Hongdae, Seoul.", price: "From $44", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a64645e4e2dd8c56ad20b2ca8582374790d50c7d6ee2f9ceb3326416f8382021.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack your finished piece carefully — mother-of-pearl inlay can be delicate on the trip home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hongdae mother-of-pearl workshop worth it in Seoul?", a: "Yes, for a rare hands-on introduction to this traditional craft without needing a separate trip to Busan." },
+        ],
+      };
+
+    case "is-kpop-dance-class-worth-it-seoul":
+      return {
+        title: "Is the K-Pop Dance Class near Lotte World Worth It in Seoul?",
+        description: "An honest look at the K-pop dance class near Lotte World/Tower in Seoul, with video included.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a67aa92baa6916c824ba2797bf7bc54bdad278eefd402d771131c5105162f120.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This beginner-friendly dance class teaches a real K-pop choreography routine with a video to take home, worth it specifically for fans who want an active, participatory experience rather than just watching performers or recording a track.",
+            tourCard: { slug: "seoul-k-pop-dance-class-near-lotte-worldtower", title: "Seoul: K-Pop Dance Class near Lotte World/Tower + Video Incl", description: "A beginner-friendly K-pop dance class near Lotte World, with video included.", price: "From $63", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a67aa92baa6916c824ba2797bf7bc54bdad278eefd402d771131c5105162f120.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable clothes and shoes you can move in — this is an active dance class, not a seated demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the K-pop dance class worth it in Seoul?", a: "Yes, for fans wanting an active, participatory experience with a real choreography routine and a video to take home." },
+        ],
+      };
+
     default:
       return null;
   }
