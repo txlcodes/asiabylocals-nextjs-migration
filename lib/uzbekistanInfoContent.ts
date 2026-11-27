@@ -1718,6 +1718,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-laghman-cooking-class-worth-it-bukhara":
+            return {
+                title: "Is the Silk Road Laghman Cooking Class Worth It in Bukhara?",
+                description: "An honest look at the Silk Road laghman cooking class with a local chef in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Laghman, a hand-pulled noodle dish with Silk Road roots, is a genuinely different cooking skill from the city's more common plov and bread classes, worth it for travelers wanting to learn a distinct noodle-making technique rather than another rice or dough class.", tourCard: { slug: "bukhara-silk-road-laghman-cooking-class-with", title: "Bukhara: Silk Road Laghman Cooking Class with Local Chef", description: "A hand-pulled noodle laghman cooking class with a local chef in Bukhara.", price: "From $72", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg" } },
+                    { title: "Practical Tips", content: "Hand-pulling noodles takes practice — don't be discouraged if your first attempts aren't perfectly even, it's part of learning the technique." },
+                ],
+                faqs: [
+                    { q: "Is the laghman cooking class worth it in Bukhara?", a: "Yes, for learning a genuinely distinct hand-pulled noodle technique, different from the city's more common plov and bread classes." },
+                ],
+            };
+
+        case "is-somsa-home-cooking-class-worth-it-bukhara":
+            return {
+                title: "Is the Uzbek Family Home Cooking Class for Somsa Worth It in Bukhara?",
+                description: "An honest look at the Uzbek family home cooking class for somsa in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Learning to make somsa in a real family home rather than a dedicated cooking-school kitchen gives a genuinely more personal, domestic setting, worth it specifically for travelers wanting authentic home-style cooking context rather than a studio-style class.", tourCard: { slug: "bukhara-uzbek-family-home-cooking-class-somsa", title: "Bukhara: Uzbek Family Home Cooking Class Somsa", description: "A somsa cooking class held in a real Uzbek family home in Bukhara.", price: "From $111", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg" } },
+                    { title: "Practical Tips", content: "Ask about the family's own recipe variations — home cooking classes often differ meaningfully from the standardized versions taught at cooking schools." },
+                ],
+                faqs: [
+                    { q: "Is the somsa home cooking class worth it in Bukhara?", a: "Yes, for a genuinely more personal, authentic setting than a studio-style cooking class, learning real family recipe variations." },
+                ],
+            };
+
+        case "is-great-silk-route-tour-worth-it-bukhara":
+            return {
+                title: "Is the Great Silk Route Small Group Tour Worth It in Bukhara?",
+                description: "An honest look at the Great Silk Route small group tour in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This small-group tour frames Bukhara's monuments specifically through its Silk Road trading history, worth it for travelers wanting that historical lens explained clearly rather than a generic highlights walk without a consistent narrative thread.", tourCard: { slug: "bukhara-great-silk-route-small-group-tour", title: "Bukhara: Great Silk Route small group tour", description: "A small-group tour of Bukhara framed around its Silk Road trading history.", price: "From $52", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg" } },
+                    { title: "Practical Tips", content: "The small-group format keeps the guide's storytelling audible and personal — ask questions as you go rather than saving them for the end." },
+                ],
+                faqs: [
+                    { q: "Is the Great Silk Route tour worth it in Bukhara?", a: "Yes, for travelers wanting the city's Silk Road trading history explained as a clear, consistent narrative rather than a generic highlights walk." },
+                ],
+            };
+
+        case "is-living-eastern-tale-tour-worth-it-bukhara":
+            return {
+                title: "Is Living Eastern Tale: A Journey Through Time Worth It in Bukhara?",
+                description: "An honest look at the Living Eastern Tale journey through time tour in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour leans into storytelling and atmosphere, framing Bukhara's sights as chapters in a larger narrative rather than a straightforward monument checklist, worth it for travelers who respond better to narrative-driven tours than fact-heavy ones.", tourCard: { slug: "bukhara-a-journey-through-the-ages", title: "Bukhara: A Journey Through the Ages", description: "A narrative-driven tour of Bukhara framed as a journey through time.", price: "From $169", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg" } },
+                    { title: "Practical Tips", content: "This suits travelers who want atmosphere and storytelling over a dense, fact-heavy itinerary — pick a standard walking tour instead if you want more hard history packed in." },
+                ],
+                faqs: [
+                    { q: "Is the Living Eastern Tale tour worth it in Bukhara?", a: "Yes, for travelers who respond better to narrative, atmosphere-driven storytelling than a fact-heavy monument checklist." },
+                ],
+            };
+
         case "is-manti-cooking-tea-ceremony-worth-it-khiva":
             return {
                 title: "Is the Manti Cooking Class with Tea Ceremony & Souvenirs Worth It?",
