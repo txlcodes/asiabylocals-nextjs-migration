@@ -962,6 +962,48 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-muay-thai-beginner-class-worth-it-pattaya":
+            return {
+                title: "Is the Muay Thai Boxing Introduction Class for Beginners Worth It?",
+                description: "An honest look at the Muay Thai boxing introduction class for beginners in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This hands-on class teaches genuine Muay Thai technique rather than just watching a match, worth it specifically for travelers wanting an active, participatory introduction to Thailand's national sport rather than a spectator ticket at a stadium.", tourCard: { slug: "muay-thai-boxing-introduction-class-for-beginners-in-pattaya", title: "Muay Thai Boxing Introduction Class for Beginners in Pattaya", description: "A hands-on Muay Thai boxing introduction class for beginners.", price: "From $25", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear workout clothes and bring a water bottle — this is genuine physical training, not a demonstration." }
+                ],
+                faqs: [
+                    { q: "Is the Muay Thai beginner class worth it in Pattaya?", a: "Yes, specifically for travelers wanting hands-on technique and an active introduction, rather than just watching a match at a stadium." }
+                ],
+            };
+
+        case "is-indoor-shooting-range-worth-it-pattaya":
+            return {
+                title: "Is the Indoor Shooting Range Experience Worth It in Pattaya?",
+                description: "An honest look at the indoor shooting range experience in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A supervised indoor shooting session gives a short, controlled adrenaline activity distinct from the city's beach and nightlife scene, worth it specifically for travelers curious about shooting real firearms who can't easily try this legally back home.", tourCard: { slug: "indoor-shooting-range-experience-in-pattaya", title: "Indoor Shooting Range Experience in Pattaya", description: "A supervised indoor shooting range experience in Pattaya.", price: "From $39", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a valid ID, and expect a mandatory safety briefing before you're handed any firearm." }
+                ],
+                faqs: [
+                    { q: "Is the indoor shooting range experience worth it in Pattaya?", a: "Yes, for travelers curious about shooting real firearms in a short, supervised, legal setting." }
+                ],
+            };
+
+        case "is-koh-larn-tandem-paragliding-worth-it-pattaya":
+            return {
+                title: "Is the Koh Larn Tandem Paragliding Flight Worth It?",
+                description: "An honest look at the Koh Larn tandem paragliding flight over turquoise bays.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A tandem paragliding flight over Koh Larn's turquoise bays gives a genuinely different aerial perspective on the island than any boat trip, worth it specifically for travelers wanting an adrenaline activity alongside their beach day.", tourCard: { slug: "koh-larn-island-off-pattaya-mini-tour", title: "Koh Larn Tandem Paragliding Flight over Turquoise Bays", description: "A tandem paragliding flight over Koh Larn's turquoise bays.", price: "From $109", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book earlier in the day when winds tend to be calmer and more consistent for flying." }
+                ],
+                faqs: [
+                    { q: "Is the Koh Larn tandem paragliding flight worth it?", a: "Yes, for travelers wanting a genuinely different aerial view of the island's turquoise bays alongside their beach day." }
+                ],
+            };
+
         default:
             return null;
     }
