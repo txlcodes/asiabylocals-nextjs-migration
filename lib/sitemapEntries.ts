@@ -1441,6 +1441,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-patong-nightlife-crawl-worth-it-phuket', 'is-authentic-thai-cultural-experiences-worth-it-phuket',
     'is-khao-sok-cheow-lan-lake-worth-it-phuket', 'is-white-water-rafting-zipline-elephant-worth-it-phuket',
     'is-go-kart-atv-shooting-combo-worth-it-phuket', 'is-koh-chang-vip-mini-phi-phi-worth-it-phuket',
+    'is-muay-thai-live-match-ticket-worth-it-phuket', 'is-giant-water-lily-pond-old-town-worth-it-phuket',
+    'is-padi-advanced-open-water-worth-it-phuket', 'is-6day-surfing-course-worth-it-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),

@@ -2007,6 +2007,62 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-muay-thai-live-match-ticket-worth-it-phuket":
+            return {
+                title: "Is the Patong Boxing Stadium Muay Thai Live Match Ticket Worth It?",
+                description: "An honest look at the live Muay Thai match ticket at Patong Boxing Stadium in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/patong-boxing-stadium-muay-thai-live-match-ticket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Watching genuine Muay Thai fighters compete live at a real boxing stadium is a different experience from taking a training class yourself, worth it for travelers who want to watch the sport rather than practice it.", tourCard: { slug: "patong-boxing-stadium-muay-thai-live-match-ticket", title: "Patong Boxing Stadium Muay Thai Live Match Ticket", description: "A ticket to a live Muay Thai match at Patong Boxing Stadium.", price: "From $203", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/patong-boxing-stadium-muay-thai-live-match-ticket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the fight card and schedule in advance, since match lineups and start times vary by night." }
+                ],
+                faqs: [
+                    { q: "Is the Patong Boxing Stadium Muay Thai ticket worth it?", a: "Yes, for travelers wanting to watch a genuine live match rather than take a training class themselves." }
+                ],
+            };
+
+        case "is-giant-water-lily-pond-old-town-worth-it-phuket":
+            return {
+                title: "Is the Giant Water Lily Pond Photo Tour with Old Town Worth It?",
+                description: "An honest look at the Giant Water Lily Pond photo and drone tour with Old Town in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/giant-water-lily-pond-photo-and-drone-video-options-and-old-town-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Giant Water Lily Pond's massive leaves make for a genuinely striking, unusual photo backdrop rarely covered by standard Phuket itineraries, and pairing it with Phuket Old Town's colorful Sino-Portuguese architecture rounds out the day.", tourCard: { slug: "giant-water-lily-pond-photo-and-drone-video-options-and-old-town-in-phuket", title: "Giant Water Lily Pond Photo and Drone Video Options and Old Town in Phuket", description: "A photo and drone video tour of the Giant Water Lily Pond with a stop at Phuket Old Town.", price: "From $311", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/giant-water-lily-pond-photo-and-drone-video-options-and-old-town-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Add the drone video option if you want footage you can't capture yourself, since the pond's scale photographs especially well from above." }
+                ],
+                faqs: [
+                    { q: "Is the Giant Water Lily Pond photo tour with Old Town worth it?", a: "Yes, for a genuinely striking, unusual photo backdrop most standard Phuket itineraries skip, rounded out with Old Town's architecture." }
+                ],
+            };
+
+        case "is-padi-advanced-open-water-worth-it-phuket":
+            return {
+                title: "Is the PADI Advanced Open Water Course Worth It in Phuket?",
+                description: "An honest look at the 2-day PADI Advanced Open Water course with 6 dives in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/padi-advanced-open-water-course-2-days-6-dives-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Progressing to Advanced Open Water with 6 genuine dives over 2 days gives real depth and navigation skills beyond the entry-level certification, worth it for certified divers wanting to unlock deeper, more varied dive sites.", tourCard: { slug: "padi-advanced-open-water-course-2-days-6-dives-in-phuket", title: "PADI Advanced Open Water Course 2 days/6 Dives in Phuket", description: "A 2-day PADI Advanced Open Water certification course with 6 dives in Phuket.", price: "From $661", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/padi-advanced-open-water-course-2-days-6-dives-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring your Open Water certification card, since this course requires an existing basic certification as a prerequisite." }
+                ],
+                faqs: [
+                    { q: "Is the PADI Advanced Open Water course worth it in Phuket?", a: "Yes, for certified divers wanting real depth and navigation skills that unlock deeper, more varied dive sites than the entry-level certification allows." }
+                ],
+            };
+
+        case "is-6day-surfing-course-worth-it-phuket":
+            return {
+                title: "Is the 6-Day Surfing with Lessons and Stay Package Worth It in Phuket?",
+                description: "An honest look at the 6-day surfing lessons and stay package in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/6-days-surfing-with-lessons-and-stay-package-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Six days of structured surf lessons with accommodation included gives genuine time to progress from basics to real wave-riding, worth it for beginners who want to actually improve rather than take a single one-off lesson.", tourCard: { slug: "6-days-surfing-with-lessons-and-stay-package-in-phuket", title: "6-Days Surfing with Lessons and Stay Package in Phuket", description: "A 6-day surfing course with lessons and accommodation included in Phuket.", price: "From $622", duration: "6 days", image: "https://images.asiabylocals.com/asiabylocals/tours/6-days-surfing-with-lessons-and-stay-package-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check Phuket's surf season before booking, since wave conditions on the Andaman coast vary significantly by month." }
+                ],
+                faqs: [
+                    { q: "Is the 6-day surfing lessons and stay package worth it in Phuket?", a: "Yes, for beginners wanting genuine time to progress from basics to real wave-riding, rather than a single one-off lesson." }
+                ],
+            };
+
         default:
             return null;
     }
