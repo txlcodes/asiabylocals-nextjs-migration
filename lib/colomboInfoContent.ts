@@ -1481,6 +1481,90 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-supervised-tuk-tuk-driving-worth-it-colombo":
+      return {
+        title: "Is the Colombo City Tour with Supervised Tuk-Tuk Driving Experience Worth It?",
+        description: "An honest look at the Colombo city tour with a supervised tuk-tuk driving experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Unlike every other tuk-tuk tour where a driver takes you around, this one hands you the wheel under supervision, worth it specifically for travelers who want to actually drive a tuk-tuk themselves rather than just ride in one as a passenger.",
+            tourCard: { slug: "colombo-city-tour-supervised-tuk-tuk-driving", title: "Colombo: City Tour & Supervised Tuk-Tuk Driving Experience", description: "A city tour of Colombo with a supervised tuk-tuk driving experience.", price: "From $42", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check whether an international driving permit or local license is required before booking — rules vary by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the supervised tuk-tuk driving experience worth it in Colombo?", a: "Yes, specifically for travelers who want to actually drive a tuk-tuk themselves, not just ride as a passenger like every other tuk-tuk tour." },
+        ],
+      };
+
+    case "is-beruwala-gem-market-worth-it-colombo":
+      return {
+        title: "Is the Beruwala Open Gem Market Experience with GIA Expert Worth It?",
+        description: "An honest look at the Beruwala open gem market experience with a GIA gemologist in Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka is a major source of sapphires and other precious stones, and visiting Beruwala's open gem market with a GIA-certified expert gives genuine insight and buying confidence you wouldn't get browsing alone, worth it specifically for travelers seriously considering a gem purchase.",
+            tourCard: { slug: "colombo-beruwala-open-gem-market-experience-with", title: "Colombo: Beruwala Open Gem Market Experience with GIA Expert", description: "A guided visit to Beruwala's open gem market with a GIA-certified gemologist.", price: "From $49", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Only buy if you're genuinely interested and have budgeted for it — go in informed rather than feeling pressured by the market atmosphere.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Beruwala gem market experience worth it in Colombo?", a: "Yes, specifically for travelers seriously considering a gem purchase who want genuine expert guidance and buying confidence." },
+        ],
+      };
+
+    case "is-kayaking-experience-worth-it-colombo":
+      return {
+        title: "Is the Colombo Kayaking Experience Worth It?",
+        description: "An honest look at the Colombo kayaking experience with top safety gear in peaceful waters.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kayaking on Colombo's calmer inland waters is a genuinely different pace of activity than paddling solo canoe-style through Port City's canal, worth it for travelers wanting a quick, low-effort break from sightseeing with real safety gear provided.",
+            tourCard: { slug: "colombo-kayaking-fun-top-safety-gear-peaceful", title: "Colombo: Kayaking Fun - Top Safety Gear & Peaceful Waters", description: "A kayaking experience in Colombo's peaceful inland waters.", price: "From $43", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on activity rather than a standalone half-day booking, given the brief duration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo kayaking experience worth it?", a: "Yes, as a quick, low-effort break from sightseeing with real safety gear provided, though treat it as a short add-on rather than a main activity." },
+        ],
+      };
+
+    case "is-market-tour-cooking-class-worth-it-colombo":
+      return {
+        title: "Is the Colombo Market Tour and Cooking Class with Lunch Worth It?",
+        description: "An honest look at the Colombo market tour and cooking class with lunch.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shopping for ingredients at a local market before cooking with them gives genuine context a standalone cooking class skips entirely, worth it specifically for travelers who want to understand Sri Lankan ingredients, not just eat the finished dishes.",
+            tourCard: { slug: "colombo-market-tour-and-cooking-class-with-lunch", title: "Colombo: Market Tour and Cooking Class with Lunch", description: "A market tour paired with a cooking class and lunch in Colombo.", price: "From $47", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention dietary restrictions when booking, since the class typically cooks a fixed set menu based on what's bought at the market.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo market tour and cooking class worth it?", a: "Yes, for travelers wanting real context on Sri Lankan ingredients from the market, not just a standalone kitchen class." },
+        ],
+      };
+
     default:
       return null;
   }
