@@ -2029,6 +2029,66 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-shekvetili-helicopter-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Shekvetili Helicopter Tour Worth It from Tbilisi?",
+                description: "An honest look at the Shekvetili helicopter tour with hotel pickup from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2100dd8201393167c1277fb52c6c25c703939a233e50d116badea28152a5b45f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Flying to Shekvetili by helicopter turns a multi-hour road trip to the Black Sea coast into a short, genuinely spectacular aerial journey over Georgia's landscape, worth it for travelers with the budget who want the fastest, most memorable way to reach the coast.",
+                    tourCard: { slug: "tbilisi-shekvetili-helicopter-tour-with-hotel", title: "Tbilisi: Shekvetili Helicopter Tour with Hotel Pickup", description: "A helicopter tour to Shekvetili with hotel pickup from Tbilisi.", price: "From $11700", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2100dd8201393167c1277fb52c6c25c703939a233e50d116badea28152a5b45f.jpeg" } },
+                    { title: "Practical Tips", content: "Confirm the ground time included at Shekvetili once you land, since the helicopter ride itself is only part of the day." }
+                ],
+                faqs: [
+                    { q: "Is the Shekvetili helicopter tour worth it from Tbilisi?", a: "Yes, for travelers with the budget who want the fastest, most memorable way to reach the Black Sea coast." }
+                ],
+            };
+
+        case "is-kazbegi-helicopter-buggy-worth-it-tbilisi":
+            return {
+                title: "Is the Kazbegi Helicopter Tour with Buggy Ride Worth It from Tbilisi?",
+                description: "An honest look at the Kazbegi helicopter tour with buggy ride from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1abfd2366b2d487c8d6af10b7530b02786abc80b32010233244c3eb2ff87b8a2.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Flying to Kazbegi by helicopter skips the long Georgian Military Highway drive entirely, and pairing it with a buggy ride adds genuine on-the-ground adventure once you land, worth it for travelers wanting the mountain scenery and adrenaline without the road time.",
+                    tourCard: { slug: "tbilisi-kazbegi-helicopter-tour-with-buggy-ride", title: "Tbilisi: Kazbegi Helicopter Tour with Buggy Ride", description: "A helicopter tour to Kazbegi with a buggy ride from Tbilisi.", price: "From $8450", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1abfd2366b2d487c8d6af10b7530b02786abc80b32010233244c3eb2ff87b8a2.jpeg" } },
+                    { title: "Practical Tips", content: "Weather can affect helicopter flights in the mountains — build flexibility into your schedule in case of delays." }
+                ],
+                faqs: [
+                    { q: "Is the Kazbegi helicopter tour with buggy ride worth it from Tbilisi?", a: "Yes, for travelers wanting mountain scenery and real adventure without the long Georgian Military Highway drive." }
+                ],
+            };
+
+        case "is-lopota-lake-horseback-wine-worth-it-tbilisi":
+            return {
+                title: "Is the Lopota Lake Horseback Ride and Wine Tasting Worth It?",
+                description: "An honest look at the Lopota Lake Kakheti horseback ride and wine tasting from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b4d202ddd0608853e547ab7af554d64e7fe513d70532024e6246421ec0a08558.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding horses around Lopota Lake before a wine tasting gives a genuinely different, more active angle on Kakheti than the standard winery-hopping day trip, worth it for travelers wanting a physical activity alongside the region's famous wine.",
+                    tourCard: { slug: "lopota-lake-kakheti-horseback-ride-wine-tasting", title: "Lopota Lake: Kakheti Horseback Ride, Wine Tasting", description: "A horseback ride around Lopota Lake with wine tasting in Kakheti.", price: "From $845", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b4d202ddd0608853e547ab7af554d64e7fe513d70532024e6246421ec0a08558.jpeg" } },
+                    { title: "Practical Tips", content: "Mention any riding experience level to the operator beforehand, since horseback tours vary in pace and difficulty." }
+                ],
+                faqs: [
+                    { q: "Is the Lopota Lake horseback ride and wine tasting worth it?", a: "Yes, for travelers wanting a genuinely active angle on Kakheti, beyond the standard winery-hopping day trip." }
+                ],
+            };
+
+        case "is-kids-forest-adventure-camp-worth-it-tbilisi":
+            return {
+                title: "Is the Kids Forest Adventure Camp Worth It in Tbilisi?",
+                description: "An honest look at the Tbilisi kids forest adventure camp with map and campfire.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/97ce3dca9af6fd6048f757611c604691d0601468dd3d6cd522c9f9f3f314571a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A genuine outdoor adventure day with map navigation and a campfire gives children real activity-based entertainment, worth it for families traveling with kids who want a break from museum and temple sightseeing.",
+                    tourCard: { slug: "tbilisi-kids-forest-adventure-camp-map-campfire", title: "Tbilisi: Kids Forest Adventure - Camp, Map & Campfire", description: "A forest adventure camp for kids with map navigation and a campfire in Tbilisi.", price: "From $767", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/97ce3dca9af6fd6048f757611c604691d0601468dd3d6cd522c9f9f3f314571a.jpg" } },
+                    { title: "Practical Tips", content: "Dress children in clothes suited for outdoor forest activity, since this involves real time navigating and exploring outside." }
+                ],
+                faqs: [
+                    { q: "Is the kids forest adventure camp worth it in Tbilisi?", a: "Yes, for families wanting genuine activity-based entertainment for children, as a break from museum and temple sightseeing." }
+                ],
+            };
+
         default:
             return null;
     }

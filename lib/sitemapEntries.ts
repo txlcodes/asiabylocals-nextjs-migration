@@ -660,6 +660,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sololaki-vera-cemetery-tour-worth-it-tbilisi', 'is-city-quest-surprise-ending-worth-it-tbilisi',
     'is-georgian-national-museum-worth-it-tbilisi', 'is-soviet-metro-railway-tour-worth-it-tbilisi',
     'is-old-town-brunch-worth-it-tbilisi', 'is-pizza-khachapuri-burger-class-worth-it-tbilisi',
+    'is-shekvetili-helicopter-tour-worth-it-tbilisi', 'is-kazbegi-helicopter-buggy-worth-it-tbilisi',
+    'is-lopota-lake-horseback-wine-worth-it-tbilisi', 'is-kids-forest-adventure-camp-worth-it-tbilisi',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),
