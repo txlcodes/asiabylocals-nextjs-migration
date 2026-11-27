@@ -1934,6 +1934,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-nanta-show-worth-it-seoul":
+      return {
+        title: "Is the NANTA Show Worth It in Seoul?",
+        description: "An honest look at the NANTA non-verbal comedy percussion show in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6666efe59ef.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "NANTA is a long-running, non-verbal percussion comedy show set in a kitchen, genuinely accessible regardless of language and distinct from Seoul's K-pop and palace sightseeing, worth it as an easy, entertaining evening activity.",
+            tourCard: { slug: "seoul-nanta-show-ticket", title: "Seoul: NANTA Show Ticket", description: "A ticket to the NANTA non-verbal percussion comedy show.", price: "From $42", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c6666efe59ef.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No Korean language needed — the show is entirely non-verbal, built around percussion and physical comedy, so it works for any audience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the NANTA show worth it in Seoul?", a: "Yes, it's an easy, entertaining, language-independent evening activity, a good change of pace from sightseeing." },
+        ],
+      };
+
+    case "is-norigae-keyring-making-worth-it-seoul":
+      return {
+        title: "Is the Norigae Keyring Making Experience Worth It in Seoul?",
+        description: "An honest look at the Norigae keyring making experience with a Korean drink in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cdf0a5831c84d1c54474154083e8bab7b6543db014845deb15855617bedebc3.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Norigae are traditional Korean decorative tassel ornaments, and this quick workshop lets you make your own as a keyring, paired with a Korean drink, worth it as a short, inexpensive craft activity rather than a major cultural deep-dive.",
+            tourCard: { slug: "seoul-norigae-keyring-making-experience-with-a", title: "Seoul: Norigae Keyring Making Experience with a Korean Drink", description: "A hands-on Norigae keyring making workshop paired with a Korean drink.", price: "From $40", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cdf0a5831c84d1c54474154083e8bab7b6543db014845deb15855617bedebc3.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on to slot between bigger sightseeing stops rather than a destination activity on its own.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Norigae keyring making experience worth it in Seoul?", a: "Yes, as a short, inexpensive craft activity with a genuine traditional-ornament souvenir to take home." },
+        ],
+      };
+
+    case "is-korean-knot-art-workshop-worth-it-seoul":
+      return {
+        title: "Is the Korean Knot Art Workshop Worth It in Seoul?",
+        description: "An honest look at the Korean knot art workshop with souvenir in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1db8529bf721f51ffbadb057deb7faed85fc6d5ebbefcdd03a95426a6542197b.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Korean knot art (dongbaekjang-style knotting) is a genuine traditional decorative craft, and this workshop teaches the technique hands-on with a souvenir to take home, worth it for travelers wanting a quieter, more niche craft experience than the usual pottery or calligraphy class.",
+            tourCard: { slug: "seoul-korean-knot-art-workshop-with-souvenir", title: "Seoul: Korean Knot Art Workshop with Souvenir", description: "A hands-on traditional Korean knot art workshop with a souvenir included.", price: "From $56", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1db8529bf721f51ffbadb057deb7faed85fc6d5ebbefcdd03a95426a6542197b.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished knot piece makes a genuinely distinctive, lightweight souvenir that packs easily.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Korean knot art workshop worth it in Seoul?", a: "Yes, it's a quieter, more niche traditional craft experience than the usual pottery or calligraphy class, with a genuine souvenir included." },
+        ],
+      };
+
+    case "is-insadong-name-seal-worth-it-seoul":
+      return {
+        title: "Is Creating Your Name Seal with a Calligrapher in Insadong Worth It?",
+        description: "An honest look at the name seal making experience with a calligrapher in Insadong, Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9cca74fbc4a5f7e5bb3e863d677979253934bb6df9a3fdeee0f26569b65d914.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Having a calligrapher carve a personal name seal (dojang) in Insadong, Seoul's traditional arts district, gives a genuinely personal, lasting souvenir with real craft behind it, worth it for travelers wanting something more meaningful than a mass-produced trinket.",
+            tourCard: { slug: "seoul-create-your-name-seal-with-a-calligrapher", title: "Seoul: Create Your Name Seal with a Calligrapher in Insadong", description: "A personal name seal carving experience with a calligrapher in Insadong.", price: "From $64", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9cca74fbc4a5f7e5bb3e863d677979253934bb6df9a3fdeee0f26569b65d914.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Decide on the name or phrase you want carved before the session so the calligrapher can prepare the design in advance.",
+          },
+        ],
+        faqs: [
+          { q: "Is creating a name seal with a calligrapher in Insadong worth it in Seoul?", a: "Yes, it's a genuinely personal, lasting souvenir with real craft behind it, more meaningful than a mass-produced trinket." },
+        ],
+      };
+
     default:
       return null;
   }
