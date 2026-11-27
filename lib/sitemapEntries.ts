@@ -339,6 +339,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-korean-knot-art-workshop-worth-it-seoul', 'is-insadong-name-seal-worth-it-seoul',
     'is-korean-tea-tasting-worth-it-seoul', 'is-indigo-dyeing-workshop-worth-it-seoul',
     'is-hongdae-mother-of-pearl-workshop-worth-it-seoul', 'is-kpop-dance-class-worth-it-seoul',
+    'is-bukhansan-trekking-worth-it-seoul', 'is-namhansanseong-fortress-tour-worth-it-seoul',
+    'is-pocheon-day-trip-worth-it-seoul', 'is-cheorwon-hantangang-geo-park-worth-it-seoul',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),

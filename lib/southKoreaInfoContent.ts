@@ -2186,6 +2186,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bukhansan-trekking-worth-it-seoul":
+      return {
+        title: "Is the Bukhansan National Park Private Trekking Tour Worth It in Seoul?",
+        description: "An honest look at the Bukhansan National Park private trekking tour, one of the few major national parks reachable within city limits.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/285b1d63d7e4473dca34cbba8f133d98c6500ddc7edf7ce29b275cdca3dfe767.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bukhansan is a genuine granite-peak national park sitting almost entirely within Seoul's city limits, giving real mountain hiking without a day-trip commute, worth it for travelers wanting an active outdoor day without leaving the city.",
+            tourCard: { slug: "seoul-bukhansan-national-park-private-trekking", title: "Seoul: Bukhansan National Park Private Trekking Tour", description: "A private trekking tour through Bukhansan National Park in Seoul.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/285b1d63d7e4473dca34cbba8f133d98c6500ddc7edf7ce29b275cdca3dfe767.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear real hiking footwear — Bukhansan's granite sections involve genuine scrambling, not a paved park walk.",
+          },
+        ],
+        faqs: [
+          { q: "Is Bukhansan National Park worth trekking in Seoul?", a: "Yes, it's a genuine mountain park within the city limits, giving real hiking without a day-trip commute out of Seoul." },
+        ],
+      };
+
+    case "is-namhansanseong-fortress-tour-worth-it-seoul":
+      return {
+        title: "Is the Royal Tombs and Namhansanseong Fortress Tour Worth It in Seoul?",
+        description: "An honest look at the royal tombs and Namhansanseong Fortress tour, a UNESCO mountain fortress outside central Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5e04f44d1e4c1629d2a813e22e26e6033f7d08c060fa84111dd4c285f3f9957.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Namhansanseong is a UNESCO-listed mountain fortress with a genuinely different, less-visited atmosphere than the city's main palaces, and pairing it with the Joseon royal tombs gives a fuller historical day, worth it for travelers who've already covered Gyeongbokgung and want deeper history.",
+            tourCard: { slug: "seoul-royal-tombs-namhansanseong-fortress-tour", title: "Seoul: Royal Tombs & Namhansanseong Fortress Tour", description: "A tour combining the Joseon royal tombs with Namhansanseong Fortress near Seoul.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5e04f44d1e4c1629d2a813e22e26e6033f7d08c060fa84111dd4c285f3f9957.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes, since the fortress walls involve a genuine walking circuit along the mountain ridge.",
+          },
+        ],
+        faqs: [
+          { q: "Is the royal tombs and Namhansanseong Fortress tour worth it in Seoul?", a: "Yes, for travelers who've already seen the main palaces and want deeper, less-visited history." },
+        ],
+      };
+
+    case "is-pocheon-day-trip-worth-it-seoul":
+      return {
+        title: "Is the Pocheon Day Trip with Herb Island and Hantan Geo Park Worth It from Seoul?",
+        description: "An honest look at the Pocheon day trip covering Herb Island and Hantan GEO Park.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59f39fe937732f1e86bc1e52450022663bed3a65b25b6fc46101ac53def5c419.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Herb Island's gardens with Hantan Geo Park's volcanic basalt cliffs gives a genuinely varied nature day north of Seoul, worth it for travelers wanting scenery and photo stops distinct from the usual palace-and-market circuit.",
+            tourCard: { slug: "pocheon-day-trip-with-herb-island-hantan-geo-park", title: "Pocheon Day Trip with Herb Island, Hantan GEO Park & Others", description: "A day trip to Pocheon covering Herb Island and Hantan GEO Park.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59f39fe937732f1e86bc1e52450022663bed3a65b25b6fc46101ac53def5c419.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a camera with a wide lens, since Hantan Geo Park's basalt cliffs and suspension bridges are the visual highlight.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pocheon day trip worth it from Seoul?", a: "Yes, for a genuinely varied nature day combining gardens and volcanic basalt scenery, distinct from the usual city circuit." },
+        ],
+      };
+
+    case "is-cheorwon-hantangang-geo-park-worth-it-seoul":
+      return {
+        title: "Is the Cheorwon Hantangang GEO Park Skywalk and Temple Tour Worth It from Seoul?",
+        description: "An honest look at the Cheorwon Hantangang GEO Park skywalk and temple day tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8f9cae3ed2ff094c357d8663fac3b74aef70fba99402bea16ef5304a82771113.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cheorwon's Hantangang Geo Park skywalk sits over a dramatic volcanic gorge near the DMZ border region, giving a genuinely striking view most Seoul itineraries skip entirely, worth it for travelers wanting a dramatic nature stop paired with border-area history.",
+            tourCard: { slug: "cheorwon-hantangang-geo-park-skywalk-and-temple", title: "Cheorwon Hantangang GEO Park Skywalk, and Temple Day Tour", description: "A day tour to Cheorwon's Hantangang GEO Park skywalk and a nearby temple.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8f9cae3ed2ff094c357d8663fac3b74aef70fba99402bea16ef5304a82771113.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the skywalk's glass-floor section if you're uneasy with heights, since it's the centerpiece of the stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cheorwon Hantangang GEO Park tour worth it from Seoul?", a: "Yes, for a genuinely striking volcanic gorge skywalk most Seoul itineraries skip, paired with border-area history." },
+        ],
+      };
+
     default:
       return null;
   }
