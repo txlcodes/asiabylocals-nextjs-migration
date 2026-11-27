@@ -2018,6 +2018,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ulsan-petroglyphs-onggi-village-worth-it-busan":
+      return {
+        title: "Is the Ulsan Bangudae Petroglyphs and Onggi Village Tour Worth It from Busan?",
+        description: "An honest look at the Ulsan Bangudae Petroglyphs, Onggi Village and park tour from Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f2c68a9f52bb79a610be1b2f0d90486362e47e8371793672536231bcc7eb6ae1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bangudae's prehistoric rock carvings are one of Korea's oldest and least-visited heritage sites, and pairing them with Onggi Village's traditional pottery craft gives a genuinely deep history day, worth it for travelers wanting something older and quieter than Busan's beach-and-market circuit.",
+            tourCard: { slug: "ulsan-bangudae-petroglyphs-onggi-village-park-tour", title: "Ulsan: Bangudae Petroglyphs, Onggi Village & Park Tour", description: "A tour covering Ulsan's Bangudae Petroglyphs, Onggi Village and a local park.", price: "From $922", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f2c68a9f52bb79a610be1b2f0d90486362e47e8371793672536231bcc7eb6ae1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about binoculars or a zoom lens for the petroglyphs, since the carvings sit on a rock face best viewed from a distance.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ulsan Bangudae Petroglyphs tour worth it from Busan?", a: "Yes, for travelers wanting one of Korea's oldest and least-visited heritage sites, paired with traditional pottery craft." },
+        ],
+      };
+
+    case "is-oedo-island-geoje-worth-it-busan":
+      return {
+        title: "Is the Oedo Island Botania and Geoje Day Tour Worth It from Busan?",
+        description: "An honest look at the Oedo Island Botania and Geoje private day tour from Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5af82cb157289b1d52a3706abfd3b0268b9dc8241bc896136b3d222b85fd86b6.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Oedo Island's landscaped botanical gardens on a small sea-bound island, paired with Geoje's coastal scenery, give a genuinely different island day from Busan's city beaches, worth it for travelers wanting a scenic, relaxed day trip by boat.",
+            tourCard: { slug: "oedo-island-botania-geoje-private-day-tour-from", title: "Oedo Island Botania & Geoje Private Day Tour from Busan", description: "A private day tour to Oedo Island's Botania gardens and Geoje from Busan.", price: "From $666", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5af82cb157289b1d52a3706abfd3b0268b9dc8241bc896136b3d222b85fd86b6.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the ferry schedule to Oedo Island in advance, since sailings depend on weather and can be limited in number per day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Oedo Island and Geoje day tour worth it from Busan?", a: "Yes, for a genuinely different, relaxed island day with landscaped gardens and coastal scenery, distinct from Busan's city beaches." },
+        ],
+      };
+
+    case "is-screen-golf-experience-worth-it-busan":
+      return {
+        title: "Is the Busan Screen Golf Experience Worth It?",
+        description: "An honest look at the Busan screen golf experience with a local business owner.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9daf1ece5bf9aa063b7563fc5697389e784d103076bc4169a6674205b0927e02.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Screen golf is a genuinely huge part of everyday Korean social life that most visitors never encounter, and trying it with a local business owner gives real context on the culture behind it, worth it for travelers curious about how Koreans actually socialize rather than just sightseeing.",
+            tourCard: { slug: "busan-screen-golf-experience-with-a-local", title: "Busan Screen Golf Experience with a Local Business Owner", description: "A screen golf experience in Busan hosted by a local business owner.", price: "From $669", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9daf1ece5bf9aa063b7563fc5697389e784d103076bc4169a6674205b0927e02.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No golf experience is needed — screen golf simulators are beginner-friendly and most venues provide basic instruction.",
+          },
+        ],
+        faqs: [
+          { q: "Is the screen golf experience worth it in Busan?", a: "Yes, for travelers curious about a genuinely huge part of everyday Korean social life that most visitors never encounter." },
+        ],
+      };
+
+    case "is-east-coast-luge-temple-tour-worth-it-busan":
+      return {
+        title: "Is the Busan East Coast Private Tour with Luge Ride Worth It?",
+        description: "An honest look at the Busan East Coast private tour with luge ride and temple visit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b370d2a63013d562f71fad5033c9e27328e70c989e96c5643e2d6857e09eda18.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a coastal luge ride with a temple visit along Busan's east coast gives a genuinely fun mix of activity and culture in one day, worth it for travelers wanting something more active than a standard sightseeing tour.",
+            tourCard: { slug: "busan-east-coast-private-tour-with-luge-ride", title: "Busan: East Coast Private Tour with Luge Ride & Temple Visit", description: "A private East Coast tour from Busan including a luge ride and temple visit.", price: "From $624", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b370d2a63013d562f71fad5033c9e27328e70c989e96c5643e2d6857e09eda18.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed-toe shoes for the luge ride, since open sandals aren't allowed on most coastal luge tracks.",
+          },
+        ],
+        faqs: [
+          { q: "Is the East Coast luge ride and temple tour worth it in Busan?", a: "Yes, for travelers wanting a fun, active mix of a luge ride and culture in one day along Busan's coast." },
+        ],
+      };
+
     case "is-nanta-show-worth-it-seoul":
       return {
         title: "Is the NANTA Show Worth It in Seoul?",

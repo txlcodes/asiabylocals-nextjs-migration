@@ -1360,6 +1360,8 @@ export const BUSAN_INFO_SLUGS = [
   'is-ocean-view-ring-making-worth-it-busan', 'is-korean-flower-arrangement-worth-it-busan',
   'is-tea-ceremony-experience-worth-it-busan', 'is-rice-cake-making-worth-it-busan',
   'is-night-photography-tour-worth-it-busan', 'is-k-beauty-makeup-experience-worth-it-busan',
+  'is-ulsan-petroglyphs-onggi-village-worth-it-busan', 'is-oedo-island-geoje-worth-it-busan',
+  'is-screen-golf-experience-worth-it-busan', 'is-east-coast-luge-temple-tour-worth-it-busan',
 ];
 
 // Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and

@@ -365,6 +365,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ocean-view-ring-making-worth-it-busan', 'is-korean-flower-arrangement-worth-it-busan',
     'is-tea-ceremony-experience-worth-it-busan', 'is-rice-cake-making-worth-it-busan',
     'is-night-photography-tour-worth-it-busan', 'is-k-beauty-makeup-experience-worth-it-busan',
+    'is-ulsan-petroglyphs-onggi-village-worth-it-busan', 'is-oedo-island-geoje-worth-it-busan',
+    'is-screen-golf-experience-worth-it-busan', 'is-east-coast-luge-temple-tour-worth-it-busan',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/busan/${slug}`,
     lastModified: new Date(),
