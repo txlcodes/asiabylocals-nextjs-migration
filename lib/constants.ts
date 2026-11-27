@@ -2946,4 +2946,6 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'is-mosaic-art-workshop-worth-it-ho-chi-minh-city', 'is-thao-dien-walking-tour-worth-it-ho-chi-minh-city',
   'is-tan-lap-floating-village-worth-it-ho-chi-minh-city', 'is-sa-dec-flower-village-worth-it-ho-chi-minh-city',
   'is-bao-loc-waterfalls-tea-hills-worth-it-ho-chi-minh-city', 'is-dak-nong-tour-worth-it-ho-chi-minh-city',
+  'is-ho-chi-minh-trail-dirtbike-12day-worth-it-ho-chi-minh-city', 'is-5day-southern-vietnam-tour-worth-it-ho-chi-minh-city',
+  'is-10day-beauty-of-vietnam-worth-it-ho-chi-minh-city', 'is-20day-hanoi-ho-chi-minh-tour-worth-it-ho-chi-minh-city',
 ];

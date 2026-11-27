@@ -1368,6 +1368,90 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ho-chi-minh-trail-dirtbike-12day-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Ho Chi Minh Trail Dirtbike Tour (Saigon to Hanoi, 12 Days) Worth It?",
+        description: "An honest look at the 12-day Ho Chi Minh Trail dirtbike tour from Saigon to Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ho-chi-minh-trail-dirtbike-tour-from-saigon-to-hanoi-12-days/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding the full length of the historic Ho Chi Minh Trail from Saigon to Hanoi over 12 days gives a genuinely immersive, backroads view of Vietnam that no bus or flight route can match, worth it specifically for experienced riders wanting the complete country, not just the highlights.",
+            tourCard: { slug: "ho-chi-minh-trail-dirtbike-tour-from-saigon-to-hanoi-12-days", title: "Ho Chi Minh Trail Dirtbike Tour: From Saigon to Hanoi: 12 Days", description: "A 12-day dirtbike tour along the historic Ho Chi Minh Trail from Saigon to Hanoi.", price: "From $2990", duration: "12 days", image: "https://images.asiabylocals.com/asiabylocals/tours/ho-chi-minh-trail-dirtbike-tour-from-saigon-to-hanoi-12-days/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Prior motorcycle experience matters here — this isn't a beginner scooter tour, and the trail includes genuinely rough backroad sections.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 12-day Ho Chi Minh Trail dirtbike tour worth it?", a: "Yes, specifically for experienced riders wanting a complete, immersive view of Vietnam's backroads from Saigon to Hanoi." },
+        ],
+      };
+
+    case "is-5day-southern-vietnam-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the 5-Day Southern Vietnam Tour Worth It from Ho Chi Minh City?",
+        description: "An honest look at the 5-day Southern Vietnam tour from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/5-day-southern-vietnam-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling the city, Mekong Delta, and a coastal stop into one 5-day guided package covers southern Vietnam's main regions without the hassle of booking each leg separately, worth it for travelers who want a complete southern overview handled in one booking.",
+            tourCard: { slug: "5-day-southern-vietnam-tour", title: "5-Day Southern Vietnam Tour", description: "A 5-day guided tour covering Ho Chi Minh City, the Mekong Delta, and the southern coast.", price: "From $1690", duration: "5 days", image: "https://images.asiabylocals.com/asiabylocals/tours/5-day-southern-vietnam-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the exact regions on the itinerary before booking, since several similarly named multi-day southern Vietnam packages exist with slightly different routes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 5-day Southern Vietnam tour worth it from Ho Chi Minh City?", a: "Yes, for travelers wanting a complete southern Vietnam overview handled in one booking rather than arranging each leg separately." },
+        ],
+      };
+
+    case "is-10day-beauty-of-vietnam-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the 10 Days Beauty of Vietnam Tour Worth It?",
+        description: "An honest look at the 10-day Beauty of Vietnam tour from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/10-days-beauty-of-vietnam-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ten days is enough time to genuinely span Vietnam's south-to-north highlights in one guided package, worth it for travelers who want the country's full range covered without piecing together separate city-by-city bookings.",
+            tourCard: { slug: "10-days-beauty-of-vietnam-ho-chi-minh-city", title: "10 Days Beauty of Vietnam (Ho Chi Minh City)", description: "A 10-day guided tour spanning Vietnam's highlights from south to north.", price: "From $2340", duration: "10 days", image: "https://images.asiabylocals.com/asiabylocals/tours/10-days-beauty-of-vietnam-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check which transport is included between cities, since 10-day countrywide packages vary on whether domestic flights or overnight trains are covered.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 10-day Beauty of Vietnam tour worth it?", a: "Yes, for travelers wanting the country's full south-to-north range covered in one guided package rather than separate bookings." },
+        ],
+      };
+
+    case "is-20day-hanoi-ho-chi-minh-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the 20-Day Tour from Hanoi to Ho Chi Minh Worth It?",
+        description: "An honest look at the 20-day guided tour from Hanoi to Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/20-day-tour-from-hanoi-to-ho-chi-minh/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Twenty days gives genuine time to explore Vietnam in depth rather than rushing between highlights, worth it specifically for travelers with a long trip planned who want the entire country covered in one continuous, fully organized itinerary.",
+            tourCard: { slug: "20-day-tour-from-hanoi-to-ho-chi-minh", title: "20-Day Tour from Hanoi to Ho Chi Minh", description: "A 20-day guided tour covering Vietnam from Hanoi to Ho Chi Minh City.", price: "From $2042", duration: "20 days", image: "https://images.asiabylocals.com/asiabylocals/tours/20-day-tour-from-hanoi-to-ho-chi-minh/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the cancellation and date-change policy before booking, since a trip this long carries more risk of needing to adjust dates.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 20-day Hanoi to Ho Chi Minh tour worth it?", a: "Yes, specifically for travelers with a long trip planned who want the entire country covered in one continuous, organized itinerary." },
+        ],
+      };
+
     default:
       return null;
   }
