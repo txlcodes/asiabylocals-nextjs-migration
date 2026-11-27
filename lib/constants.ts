@@ -2005,6 +2005,8 @@ export const GALLE_INFO_SLUGS = [
   'is-batik-workshop-worth-it-galle', 'is-fort-storytelling-walk-worth-it-galle',
   'is-tangalle-whale-dolphin-speedboat-worth-it-galle', 'is-galle-belihuloya-safari-worth-it-galle',
   'is-galle-bakers-bend-worth-it-galle', 'is-cinnamon-moonstone-tea-factory-fort-worth-it-galle',
+  'is-romantic-7day-couple-escape-worth-it-galle', 'is-12day-honeymoon-escape-worth-it-galle',
+  'is-negombo-hiniduma-waterfall-cultural-worth-it-galle',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.

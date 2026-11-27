@@ -900,6 +900,69 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-romantic-7day-couple-escape-worth-it-galle":
+      return {
+        title: "Is the Romantic Sri Lanka 7-Day Private Couple Escape Worth It?",
+        description: "An honest look at the 7-day romantic private couple escape through Sri Lanka from Galle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1223888/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private 7-day itinerary built specifically around couples, rather than a generic sightseeing route, means romantic stops, private transport, and pacing designed for two, worth it for travelers who want the planning handled around a relationship-focused trip.",
+            tourCard: { slug: "romantic-sri-lanka-7-day-private-couple-escape", title: "Romantic Sri Lanka: 7-Day Private Couple Escape", description: "A 7-day private romantic couple escape through Sri Lanka.", price: "From $2366", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1223888/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Communicate any specific romantic touches you'd like in advance, since private tours can often accommodate special requests not listed in the standard package.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 7-day romantic couple escape worth it?", a: "Yes, for couples wanting a trip genuinely designed around them, with romantic stops and pacing rather than a generic sightseeing route." },
+        ],
+      };
+
+    case "is-12day-honeymoon-escape-worth-it-galle":
+      return {
+        title: "Is the 12 Dreamy Days Romantic Sri Lanka Honeymoon Escape Worth It?",
+        description: "An honest look at the 12-day romantic Sri Lanka honeymoon escape.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-859075/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Twelve days gives genuine time to cover Sri Lanka's beaches, hill country, and cultural sites at an unhurried honeymoon pace, worth it for couples who want the full island experience without rushing between stops.",
+            tourCard: { slug: "12-dreamy-days-romantic-sri-lanka-honeymoon-escape", title: "12 Dreamy Days – Romantic Sri Lanka Honeymoon Escape", description: "A 12-day romantic honeymoon escape covering Sri Lanka's beaches, hill country, and culture.", price: "From $2957", duration: "12 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-859075/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Request a mix of beach-relaxation days and sightseeing days when booking, so the pace doesn't feel too packed for a honeymoon.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 12-day honeymoon escape worth it?", a: "Yes, for couples wanting genuine time to cover the island at an unhurried pace, without rushing between beaches, hill country, and culture." },
+        ],
+      };
+
+    case "is-negombo-hiniduma-waterfall-cultural-worth-it-galle":
+      return {
+        title: "Is the Negombo to Hiniduma Church & Waterfall Cultural Day Tour Worth It?",
+        description: "An honest look at the Negombo to Hiniduma church, waterfall and cultural day tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1284899/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hiniduma's church and nearby waterfall offer a genuinely quiet, lesser-known day trip option from Negombo, away from the busier southern coast itineraries most travelers follow.",
+            tourCard: { slug: "negombo-to-hiniduma-church-waterfall-cultural-day", title: "Negombo To Hiniduma Church & Waterfall + Cultural Day Tour", description: "A day tour from Negombo to Hiniduma's church, waterfall, and cultural sites.", price: "From $491", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1284899/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the church visit, and wear footwear suited to the waterfall's wet, uneven terrain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Negombo to Hiniduma church and waterfall tour worth it?", a: "Yes, for travelers wanting a genuinely quiet, lesser-known day trip away from the busier southern coast itineraries." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -2119,6 +2119,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-batik-workshop-worth-it-galle', 'is-fort-storytelling-walk-worth-it-galle',
     'is-tangalle-whale-dolphin-speedboat-worth-it-galle', 'is-galle-belihuloya-safari-worth-it-galle',
     'is-galle-bakers-bend-worth-it-galle', 'is-cinnamon-moonstone-tea-factory-fort-worth-it-galle',
+    'is-romantic-7day-couple-escape-worth-it-galle', 'is-12day-honeymoon-escape-worth-it-galle',
+    'is-negombo-hiniduma-waterfall-cultural-worth-it-galle',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/galle/${slug}`,
     lastModified: new Date(),
