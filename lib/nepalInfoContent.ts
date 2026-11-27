@@ -3089,6 +3089,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-mera-peak-climbing-worth-it-kathmandu":
+            return {
+                title: "Is Mera Peak Climbing Worth It from Kathmandu?",
+                description: "An honest look at the 15-day Mera Peak climbing expedition in the Everest region from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f3f98e346d655ef590a417b1b69f7b05ec4d42f72438d32f4c4ece5128976b1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mera Peak is widely considered the most accessible 6,000-plus-metre summit in the Everest region, giving genuine high-altitude mountaineering experience without the technical skill Island Peak or Lobuche demand, worth it for fit trekkers wanting a real summit beyond Everest Base Camp's trek-only format.", tourCard: { slug: "nepal-mera-peak-climbing-15-days-everest-region", title: "Nepal: Mera Peak climbing-15 Days, Everest Region", description: "A 15-day Mera Peak climbing expedition in the Everest region.", price: "From $4325", duration: "15 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f3f98e346d655ef590a417b1b69f7b05ec4d42f72438d32f4c4ece5128976b1.jpg" } },
+                    { title: "Practical Tips", content: "Train for altitude and basic mountaineering technique beforehand, and budget extra days for acclimatization and weather delays." }
+                ],
+                faqs: [
+                    { q: "Is Mera Peak climbing worth it from Kathmandu?", a: "Yes, for fit trekkers wanting a genuine high-altitude summit that's more accessible than Island Peak or Lobuche, beyond just trekking to Base Camp." }
+                ],
+            };
+
+        case "is-everest-three-high-passes-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Everest Three High Passes Trek Worth It from Kathmandu?",
+                description: "An honest look at the Everest Three High Passes trek with Sherpa immersion from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fdaed9e8638e6f7be50162835df9e7fc629694aebd2b168e4f80e2e80dccbb86.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Crossing all three of the Everest region's high passes — Kongma La, Cho La and Renjo La — gives a genuinely comprehensive, challenging circuit of the region that standard Base Camp treks don't cover, worth it for experienced trekkers wanting the full Everest region rather than the single Base Camp route.", tourCard: { slug: "everest-three-high-passes-trek-with-sherpa", title: "Everest Three High Passes Trek with Sherpa Immersion", description: "A trek crossing all three high passes of the Everest region with Sherpa cultural immersion.", price: "From $3003", duration: "18 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fdaed9e8638e6f7be50162835df9e7fc629694aebd2b168e4f80e2e80dccbb86.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely demanding trek with serious altitude gain across all three passes — prior high-altitude trekking experience is strongly recommended." }
+                ],
+                faqs: [
+                    { q: "Is the Everest Three High Passes trek worth it from Kathmandu?", a: "Yes, for experienced trekkers wanting a comprehensive, challenging circuit of the Everest region beyond the standard single Base Camp route." }
+                ],
+            };
+
+        case "is-upper-dolpo-trek-worth-it-kathmandu":
+            return {
+                title: "Is the Upper Dolpo Trek via Shey Gompa Worth It from Kathmandu?",
+                description: "An honest look at the 18-day Upper Dolpo trek via Shey Gompa from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3cefec30c15b6c359e192f8683ff36d68dd4707e8547966c3ab1da838210858b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Upper Dolpo is one of Nepal's most remote restricted regions, preserving a genuinely untouched Tibetan Buddhist culture around Shey Gompa monastery, worth it for travelers with real time and budget who want somewhere far less visited than Everest or Annapurna.", tourCard: { slug: "kathmandu-18-day-upper-dolpo-trek-via-shey-gompa", title: "Kathmandu: 18-Day Upper Dolpo Trek via Shey Gompa", description: "An 18-day trek through the remote Upper Dolpo region to Shey Gompa monastery.", price: "From $2925", duration: "18 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3cefec30c15b6c359e192f8683ff36d68dd4707e8547966c3ab1da838210858b.jpg" } },
+                    { title: "Practical Tips", content: "Book well ahead, since Upper Dolpo requires a special restricted-area permit with limited availability." }
+                ],
+                faqs: [
+                    { q: "Is the Upper Dolpo trek worth it from Kathmandu?", a: "Yes, for travelers with real time and budget wanting one of Nepal's most remote, untouched regions, far less visited than Everest or Annapurna." }
+                ],
+            };
+
+        case "is-pikey-peak-motorbike-tour-worth-it-kathmandu":
+            return {
+                title: "Is the Pikey Peak Motorbike Tour Worth It from Kathmandu?",
+                description: "An honest look at the 7-day Pikey Peak motorbike tour with meals from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02f427ef85bee24cd0c4b9e9be0b318f63285864c78fce9834f06d8b6b5a492e.png",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a motorbike to Pikey Peak gives sweeping Everest-range panoramas without the multi-day walking commitment of a trek, worth it for travelers wanting mountain views on a faster timeline, or who prefer riding to hiking.", tourCard: { slug: "from-kathmandu-7-day-pikey-peak-motorbike-tour", title: "From Kathmandu: 7-Day Pikey Peak Motorbike Tour with Meals", description: "A 7-day motorbike tour to Pikey Peak with meals from Kathmandu.", price: "From $2990", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02f427ef85bee24cd0c4b9e9be0b318f63285864c78fce9834f06d8b6b5a492e.png" } },
+                    { title: "Practical Tips", content: "Confirm your riding experience matches the route's difficulty, since Nepal's mountain roads involve genuine rough terrain." }
+                ],
+                faqs: [
+                    { q: "Is the Pikey Peak motorbike tour worth it from Kathmandu?", a: "Yes, for travelers wanting sweeping Everest-range views on a faster timeline than a multi-day trek, or who simply prefer riding to hiking." }
+                ],
+            };
+
         case "is-gurkha-mountain-butterfly-museum-worth-it-pokhara":
             return {
                 title: "Is the Private Gurkha, Mountain & Butterfly Museum Tour Worth It?",
