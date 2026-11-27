@@ -2697,6 +2697,90 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-romantic-candlelit-river-dinner-worth-it-ubud":
+      return {
+        title: "Is the Romantic Candlelit Dinner by the River Worth It in Ubud?",
+        description: "An honest look at the romantic candlelit dinner by the river in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/romantic-candlelit-dinner-by-the-river-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A candlelit table set up directly beside Ubud's riverside jungle gives a genuinely dramatic, private setting for couples, worth it specifically for special occasions where travelers want the moment to feel memorable rather than just a nice restaurant meal.",
+            tourCard: { slug: "romantic-candlelit-dinner-by-the-river-in-ubud", title: "Romantic Candlelit Dinner by the River in Ubud", description: "A romantic candlelit dinner setup by the river in Ubud.", price: "From $567", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/romantic-candlelit-dinner-by-the-river-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for early evening, since the riverside jungle setting depends on good light before it gets fully dark for photos.",
+          },
+        ],
+        faqs: [
+          { q: "Is the romantic candlelit river dinner worth it in Ubud?", a: "Yes, for special-occasion travelers wanting a genuinely dramatic, private setting rather than a standard restaurant meal." },
+        ],
+      };
+
+    case "is-lempuyang-professional-photographer-worth-it-ubud":
+      return {
+        title: "Is the Lempuyang Gate of Heaven with Professional Photographer Worth It?",
+        description: "An honest look at the Lempuyang Gate of Heaven tour with a professional photographer from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/discover-lempuyang-gate-of-heaven-professional-photographer-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bringing a professional photographer to Bali's most photographed temple gate gets a genuinely better result than handing your phone to a stranger in the queue, worth it for travelers who specifically want quality images of the iconic reflection shot.",
+            tourCard: { slug: "discover-lempuyang-gate-of-heaven-professional-photographer-ubud", title: "Discover: Lempuyang Gate of Heaven Professional Photographer (Ubud)", description: "A tour to Lempuyang's Gate of Heaven with a professional photographer.", price: "From $271", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/discover-lempuyang-gate-of-heaven-professional-photographer-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go with an early departure to beat the queue, since the gate photo can take an hour or more to reach by mid-morning.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lempuyang tour with a professional photographer worth it?", a: "Yes, for travelers specifically wanting quality images of the iconic gate reflection shot, better than relying on a stranger in the queue." },
+        ],
+      };
+
+    case "is-west-bali-national-park-menjangan-worth-it-ubud":
+      return {
+        title: "Is the West Bali National Park Hike & Menjangan Island Snorkeling Worth It?",
+        description: "An honest look at the West Bali National Park hike and Menjangan Island snorkeling tour from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/west-bali-national-park-hike-and-menjangan-island-snorkeling-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "West Bali National Park's forest hike paired with Menjangan Island's genuinely clear-water snorkeling gives a combination of jungle and reef scenery far from Bali's more crowded southern beaches, worth it for travelers wanting a nature-focused day away from the usual circuit.",
+            tourCard: { slug: "west-bali-national-park-hike-and-menjangan-island-snorkeling-ubud", title: "West Bali: National Park Hike and Menjangan Island Snorkeling (Ubud)", description: "A hike through West Bali National Park with Menjangan Island snorkeling.", price: "From $226", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/west-bali-national-park-hike-and-menjangan-island-snorkeling-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a long drive from Ubud to West Bali, so confirm total travel time before booking if you're short on days.",
+          },
+        ],
+        faqs: [
+          { q: "Is the West Bali National Park and Menjangan Island tour worth it from Ubud?", a: "Yes, for travelers wanting genuine jungle and reef scenery away from Bali's more crowded southern beaches." },
+        ],
+      };
+
+    case "is-mount-rinjani-2d1n-sembalun-worth-it-ubud":
+      return {
+        title: "Is the Mount Rinjani 2D/1N Trek to Sembalun Views Worth It?",
+        description: "An honest look at the 2-day, 1-night Mount Rinjani trek to Sembalun views.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-rinjani-2d-1n-trekking-to-sembalun-views-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This shorter 2D/1N Rinjani trek reaches the Sembalun crater-rim views without committing to the full 3D/2N summit expedition, worth it for travelers who want genuine Rinjani scenery but can't spare the extra day for the summit push.",
+            tourCard: { slug: "mount-rinjani-2d-1n-trekking-to-sembalun-views-in-ubud", title: "Mount Rinjani: 2D/1N Trekking To Sembalun Views in Ubud", description: "A 2-day, 1-night trek to Mount Rinjani's Sembalun crater-rim views.", price: "From $247", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-rinjani-2d-1n-trekking-to-sembalun-views-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack warm layers for the overnight camp, since Rinjani's elevation gets genuinely cold after dark.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2D/1N Mount Rinjani trek to Sembalun views worth it?", a: "Yes, for travelers wanting genuine Rinjani crater-rim scenery without committing to the longer 3D/2N summit expedition." },
+        ],
+      };
+
     default:
       return null;
   }

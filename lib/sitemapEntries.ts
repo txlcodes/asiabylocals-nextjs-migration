@@ -2597,6 +2597,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-keliki-painting-experience-worth-it-ubud', 'is-gianyar-night-market-food-tour-worth-it-ubud',
     'is-mount-rinjani-trek-worth-it-ubud', 'is-padi-open-water-course-worth-it-ubud',
     'is-mount-batur-dirt-bike-worth-it-ubud', 'is-tabanan-jeep-village-workshop-worth-it-ubud',
+    'is-romantic-candlelit-river-dinner-worth-it-ubud', 'is-lempuyang-professional-photographer-worth-it-ubud',
+    'is-west-bali-national-park-menjangan-worth-it-ubud', 'is-mount-rinjani-2d1n-sembalun-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
