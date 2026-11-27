@@ -1322,6 +1322,90 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-wagashi-nerikiri-making-worth-it-sapporo":
+      return {
+        title: "Is the Wagashi Sweets Nerikiri Making Class Worth It in Sapporo?",
+        description: "An honest look at the wagashi sweets nerikiri making class in Sapporo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wagashi-sweets-nerikiri-making-class-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nerikiri is a refined, sculptural style of Japanese sweet traditionally paired with tea ceremony, and this class teaches the shaping technique by hand rather than just having you taste the finished product — worth it for travelers interested in Japanese craft and food culture beyond the city's ramen and soup curry.",
+            tourCard: { slug: "wagashi-sweets-nerikiri-making-class-in-sapporo", title: "Wagashi Sweets Nerikiri Making Class in Sapporo", description: "A hands-on class making traditional nerikiri wagashi sweets.", price: "From $77", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wagashi-sweets-nerikiri-making-class-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Eat your creations fresh, or soon after — nerikiri doesn't travel or keep as well as most packaged souvenirs.",
+          },
+        ],
+        faqs: [
+          { q: "Is the wagashi sweets nerikiri making class worth it in Sapporo?", a: "Yes, it's a genuine hands-on introduction to a refined traditional craft, distinct from the city's usual food experiences." },
+        ],
+      };
+
+    case "is-sake-tasting-traditional-cups-worth-it-sapporo":
+      return {
+        title: "Is the Sake Tasting Through Traditional Cups Worth It in Sapporo?",
+        description: "An honest look at the sake tasting through traditional cups experience in Sapporo.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732187/asiabylocals/tours/sapporo-sake-tasting-through-traditional-cups/img0.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tasting pours the same sake through Otaru cut glass, bentwood, and pewter vessels to show how dramatically the serving material changes the taste — a genuinely educational angle on sake tasting, worth it for travelers who want more than just a flight of different sakes.",
+            tourCard: { slug: "sapporo-sake-tasting-through-traditional-cups", title: "One Sake, Many Cups: A Tasting in Glass, Wood and Pewter", description: "A sake tasting comparing the same sake through different traditional vessels.", price: "From $52", duration: "1.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788732187/asiabylocals/tours/sapporo-sake-tasting-through-traditional-cups/img0.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across the different vessels — the point is comparing how each one changes the sake, not how much you drink.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sake tasting through traditional cups worth it in Sapporo?", a: "Yes, it's a genuinely educational angle on sake tasting that goes beyond a standard flight of different sakes." },
+        ],
+      };
+
+    case "is-chopstick-making-workshop-worth-it-sapporo":
+      return {
+        title: "Is the Chopstick-Making Workshop Worth It in Sapporo?",
+        description: "An honest look at the chopstick-making workshop in Sapporo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chopstick-making-workshop-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A simple, approachable craft class where you shape and finish your own pair of chopsticks to take home, worth it as a relaxed, inexpensive activity for a cold or rainy afternoon rather than a must-do cultural deep-dive.",
+            tourCard: { slug: "chopstick-making-workshop-in-sapporo", title: "Chopstick-Making Workshop in Sapporo", description: "A hands-on chopstick-making workshop.", price: "From $54", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/chopstick-making-workshop-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pairing with the kumiko woodworking workshop if you want a full craft-focused afternoon indoors.",
+          },
+        ],
+        faqs: [
+          { q: "Is the chopstick-making workshop worth it in Sapporo?", a: "Yes, as a relaxed, inexpensive craft activity for a cold or rainy afternoon, with a genuine souvenir to take home." },
+        ],
+      };
+
+    case "is-sukiyaki-shabu-shabu-ayce-worth-it-sapporo":
+      return {
+        title: "Is the All-You-Can-Eat Sukiyaki and Shabu-Shabu Reservation Worth It in Sapporo?",
+        description: "An honest look at the all-you-can-eat sukiyaki and shabu-shabu reservation in Sapporo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/all-you-can-eat-sukiyaki-and-shabu-shabu-reservation-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a straightforward booking service for an all-you-can-eat hot pot dinner, worth it specifically because it guarantees you a table and the English-language booking without needing to navigate a Japanese-only reservation system yourself, rather than offering anything you couldn't eventually find on your own.",
+            tourCard: { slug: "all-you-can-eat-sukiyaki-and-shabu-shabu-reservation-in-sapporo", title: "All You Can Eat Sukiyaki and Shabu-Shabu Reservation in Sapporo", description: "A reserved all-you-can-eat sukiyaki and shabu-shabu dinner.", price: "From $126", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/all-you-can-eat-sukiyaki-and-shabu-shabu-reservation-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive on time — most all-you-can-eat hot pot bookings in Japan run on a strict time limit rather than an open-ended seating.",
+          },
+        ],
+        faqs: [
+          { q: "Is the all-you-can-eat sukiyaki and shabu-shabu reservation worth it in Sapporo?", a: "Yes, mainly for the guaranteed table and easy English-language booking, taking the hassle out of reserving it yourself." },
+        ],
+      };
+
     default:
             return null;
     }
