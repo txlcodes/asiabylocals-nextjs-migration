@@ -381,6 +381,8 @@ export const KOTA_KINABALU_INFO_SLUGS = [
   'is-kinabalu-view-fire-show-tour-worth-it-kota-kinabalu',
   'is-monsopiad-headhunter-village-worth-it-kota-kinabalu', 'is-mount-kinabalu-climb-worth-it-kota-kinabalu',
   'is-kampung-gipsi-worth-it-kota-kinabalu', 'is-tanjung-aru-sup-worth-it-kota-kinabalu',
+  'is-nomadic-borderlands-borneo-worth-it-kota-kinabalu', 'is-brunei-river-safari-worth-it-kota-kinabalu',
+  'is-borneo-hidden-maldives-snorkeling-worth-it-kota-kinabalu', 'is-kokol-farmstay-worth-it-kota-kinabalu',
 ];
 
 export const KUCHING_INFO_SLUGS = [

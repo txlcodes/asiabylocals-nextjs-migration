@@ -4904,6 +4904,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-nomadic-borderlands-borneo-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Nomadic Borderlands of Borneo Tour (Malaysia, Brunei, Indonesia) Worth It?",
+                description: "An honest look at the 14-day Nomadic Borderlands of Borneo tour across Malaysia, Brunei, and Indonesia.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e755a8ccaad25a9fc64e6d581e27404069aad89c31f2ee44c0c0c788aebc46d.png",
+                sections: [
+                    { title: "The Short Answer", content: "Crossing three countries across the island of Borneo over 14 days gives genuine depth to a region most visitors only see one slice of, worth it for travelers with a long trip planned and a serious interest in Borneo's full cross-border diversity.", tourCard: { slug: "nomadic-borderlands-of-borneo-malaysia-brunei", title: "Nomadic Borderlands of Borneo: Malaysia • Brunei • Indonesia", description: "A 14-day expedition crossing Malaysia, Brunei, and Indonesia across Borneo.", price: "From $13520", duration: "14 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9e755a8ccaad25a9fc64e6d581e27404069aad89c31f2ee44c0c0c788aebc46d.png" } },
+                    { title: "Practical Tips", content: "Confirm visa requirements for all three countries well in advance, since crossing multiple borders adds real documentation complexity." }
+                ],
+                faqs: [
+                    { q: "Is the Nomadic Borderlands of Borneo tour worth it?", a: "Yes, for travelers with a long trip planned who want genuine depth across Borneo's full cross-border diversity, not just one country's slice of it." }
+                ],
+            };
+
+        case "is-brunei-river-safari-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Bandar Seri Begawan Brunei River Safari Worth It?",
+                description: "An honest look at the Brunei River Safari from Bandar Seri Begawan with hotel pickup.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e34440a5e7ea27ecd556b8b5e112a29714900293771d065d8d73fa507d63bf3f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Brunei's river safari gives genuine access to proboscis monkeys and the stilt village of Kampong Ayer, a completely different side of Borneo from Kota Kinabalu's beach-and-island circuit, worth it for travelers crossing into Brunei for the day.", tourCard: { slug: "bandar-seri-begawan-brunei-river-safari-with", title: "Bandar Seri Begawan: Brunei River Safari with Hotel Pickup", description: "A river safari in Bandar Seri Begawan, Brunei, with hotel pickup.", price: "From $311", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e34440a5e7ea27ecd556b8b5e112a29714900293771d065d8d73fa507d63bf3f.jpg" } },
+                    { title: "Practical Tips", content: "Check visa and entry requirements for Brunei in advance, since this crosses an international border from Malaysian Borneo." }
+                ],
+                faqs: [
+                    { q: "Is the Brunei River Safari worth it from Bandar Seri Begawan?", a: "Yes, for travelers crossing into Brunei wanting genuine access to proboscis monkeys and the stilt village of Kampong Ayer." }
+                ],
+            };
+
+        case "is-borneo-hidden-maldives-snorkeling-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Borneo Hidden Maldives Island Snorkeling Tour Worth It?",
+                description: "An honest look at the Borneo Hidden Maldives island snorkeling tour from Kota Kinabalu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b75d32eaef1859ce9745a78728ff161951c30b2e5d36fe1d61efe02b69a5a5a0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The 'Hidden Maldives' nickname reflects genuinely clear water and white sand that few travelers associate with Borneo, worth it for snorkelers wanting a lesser-known island escape beyond the main Tunku Abdul Rahman Park islands.", tourCard: { slug: "kota-kinabalu-borneo-hidden-maldives-island", title: "Kota Kinabalu: Borneo Hidden Maldives Island Snorkeling", description: "A snorkeling day tour to the 'Hidden Maldives' island near Kota Kinabalu.", price: "From $160", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b75d32eaef1859ce9745a78728ff161951c30b2e5d36fe1d61efe02b69a5a5a0.jpg" } },
+                    { title: "Practical Tips", content: "Bring your own snorkel gear if you prefer a specific fit, though basic equipment is typically provided." }
+                ],
+                faqs: [
+                    { q: "Is the Borneo Hidden Maldives snorkeling tour worth it?", a: "Yes, for snorkelers wanting a lesser-known island escape with genuinely clear water, beyond the main Tunku Abdul Rahman Park islands." }
+                ],
+            };
+
+        case "is-kokol-farmstay-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Kokol Farmstay Day Trip Worth It from Kota Kinabalu?",
+                description: "An honest look at the Kokol Farmstay day trip from Kota Kinabalu.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-999128/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kokol's hillside farmstays give genuine countryside and farm-life immersion with sweeping views over Kota Kinabalu, worth it for travelers wanting a quiet rural escape distinct from the city's island and beach circuit.", tourCard: { slug: "kota-kinabalu-kokol-farmstay-day-trip", title: "Kota Kinabalu: Kokol Farmstay Day Trip", description: "A day trip to a hillside farmstay in Kokol near Kota Kinabalu.", price: "From $168", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-999128/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go on a clear day if possible, since the hillside views over the city and coastline are a genuine highlight of the trip." }
+                ],
+                faqs: [
+                    { q: "Is the Kokol Farmstay day trip worth it from Kota Kinabalu?", a: "Yes, for travelers wanting a quiet rural escape with genuine countryside views, distinct from the usual island and beach circuit." }
+                ],
+            };
+
         case "is-gunung-gading-rafflesia-tour-worth-it-kuching":
             return {
                 title: "Is the Gunung Gading Rafflesia Tour Worth It from Kuching?",

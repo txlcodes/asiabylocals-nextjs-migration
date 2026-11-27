@@ -1576,6 +1576,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kinabalu-view-fire-show-tour-worth-it-kota-kinabalu',
     'is-monsopiad-headhunter-village-worth-it-kota-kinabalu', 'is-mount-kinabalu-climb-worth-it-kota-kinabalu',
     'is-kampung-gipsi-worth-it-kota-kinabalu', 'is-tanjung-aru-sup-worth-it-kota-kinabalu',
+    'is-nomadic-borderlands-borneo-worth-it-kota-kinabalu', 'is-brunei-river-safari-worth-it-kota-kinabalu',
+    'is-borneo-hidden-maldives-snorkeling-worth-it-kota-kinabalu', 'is-kokol-farmstay-worth-it-kota-kinabalu',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kota-kinabalu/${slug}`,
     lastModified: new Date(),
