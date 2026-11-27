@@ -1111,6 +1111,90 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-my-lai-massacre-tour-worth-it-hoi-an":
+      return {
+        title: "Is the My Lai Massacre Memory Tour Worth It from Hoi An?",
+        description: "An honest look at the full-day My Lai Massacre memory tour from Hoi An.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201808/asiabylocals/tours/full-day-my-lai-massacre-memory-tour-in-hoi-an/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting the My Lai memorial site gives a genuinely sobering, important piece of Vietnam War history that most Hoi An itineraries skip entirely, worth it for travelers wanting real historical depth beyond the town's craft shops and lantern-lit canals.",
+            tourCard: { slug: "full-day-my-lai-massacre-memory-tour-in-hoi-an", title: "Full-day My Lai Massacre Memory Tour in Hoi An", description: "A full-day tour to the My Lai Massacre memorial site from Hoi An.", price: "From $312", duration: "Full day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201808/asiabylocals/tours/full-day-my-lai-massacre-memory-tour-in-hoi-an/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach this with appropriate respect — it's a genuine memorial site for a documented atrocity, not a standard sightseeing stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the My Lai Massacre memory tour worth it from Hoi An?", a: "Yes, for travelers wanting genuine historical depth on the Vietnam War, beyond the town's craft shops and canals." },
+        ],
+      };
+
+    case "is-son-tra-peninsula-jeep-worth-it-hoi-an":
+      return {
+        title: "Is the Son Tra Peninsula US Army Jeep Tour Worth It from Hoi An?",
+        description: "An honest look at exploring Son Tra Peninsula by US Army Jeep from Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/explore-son-tra-peninsula-by-us-army-jeep-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding a vintage US Army jeep up Son Tra Peninsula's winding roads to see the giant Lady Buddha statue and coastal views gives a genuinely fun, distinctive way to explore Da Nang's green mountain beyond Hoi An's own Old Town circuit.",
+            tourCard: { slug: "explore-son-tra-peninsula-by-us-army-jeep-in-hoi-an", title: "Explore Son Tra Peninsula by US Army Jeep in Hoi An", description: "A jeep tour of Son Tra Peninsula near Da Nang from Hoi An.", price: "From $174", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/explore-son-tra-peninsula-by-us-army-jeep-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a camera for the Lady Buddha statue and coastal viewpoints — this is a genuinely photogenic route.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Son Tra Peninsula jeep tour worth it from Hoi An?", a: "Yes, for a genuinely fun, distinctive way to see Da Nang's Lady Buddha and coastal views beyond the standard Old Town circuit." },
+        ],
+      };
+
+    case "is-vinwonders-nam-hoi-an-worth-it":
+      return {
+        title: "Is VinWonders Nam Hoi An Safari and Water Park Worth It?",
+        description: "An honest look at VinWonders Nam Hoi An's safari and water park.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/vinwonders-nam-hoi-an-safari-and-water-park/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "VinWonders combines a safari park with a water park in one large complex, giving families a genuine full-day theme park option that nothing else in Hoi An's heritage-focused town center offers, worth it specifically for travelers with kids wanting a break from temples and tailor shops.",
+            tourCard: { slug: "vinwonders-nam-hoi-an-safari-and-water-park", title: "VinWonders Nam Hoi An Safari and Water Park", description: "Entry to VinWonders Nam Hoi An's safari park and water park.", price: "From $250", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/vinwonders-nam-hoi-an-safari-and-water-park/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive early to make the most of both the safari and water park sections in one day — the complex is large.",
+          },
+        ],
+        faqs: [
+          { q: "Is VinWonders Nam Hoi An worth it?", a: "Yes, specifically for families wanting a genuine theme park break from Hoi An's heritage-focused town center." },
+        ],
+      };
+
+    case "is-secret-cocktail-experience-worth-it-hoi-an":
+      return {
+        title: "Is the Secret Cocktail Experience Worth It in Hoi An?",
+        description: "An honest look at the Secret Cocktail Experience in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/secret-cocktail-experience-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A hidden, speakeasy-style cocktail experience gives a genuinely different evening than Hoi An's usual riverside bars and lantern-lit restaurants, worth it for travelers wanting a memorable, slightly mysterious night out with real craft cocktails.",
+            tourCard: { slug: "secret-cocktail-experience-in-hoi-an", title: "Secret Cocktail Experience in Hoi An", description: "A hidden, speakeasy-style cocktail experience in Hoi An.", price: "From $159", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/secret-cocktail-experience-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Don't look up the exact location beforehand if you want the full speakeasy surprise — part of the appeal is not knowing where you're headed.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Secret Cocktail Experience worth it in Hoi An?", a: "Yes, for travelers wanting a genuinely different, memorable evening out with real craft cocktails beyond the usual riverside bars." },
+        ],
+      };
+
     default:
       return null;
   }

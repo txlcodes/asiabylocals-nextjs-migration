@@ -2727,6 +2727,8 @@ export const HOI_AN_INFO_SLUGS = [
   'is-wood-carving-class-worth-it-hoi-an', 'is-ghosts-mystery-tour-worth-it-hoi-an',
   'is-motorbike-riding-class-worth-it-hoi-an', 'is-hue-imperial-city-day-trip-worth-it-hoi-an',
   'is-boxing-class-worth-it-hoi-an',
+  'is-my-lai-massacre-tour-worth-it-hoi-an', 'is-son-tra-peninsula-jeep-worth-it-hoi-an',
+  'is-vinwonders-nam-hoi-an-worth-it', 'is-secret-cocktail-experience-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [
