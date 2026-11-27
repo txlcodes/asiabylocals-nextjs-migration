@@ -1158,6 +1158,90 @@ export function getHiroshimaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-samurai-experience-worth-it-hiroshima":
+      return {
+        title: "Is the Samurai Experience Worth It in Hiroshima?",
+        description: "An honest look at the short samurai experience in Hiroshima.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/samurai-experience-short-plan-in-hiroshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a quick, costume-and-basics samurai session rather than a deep historical lesson, worth it for travelers wanting a fun, photogenic activity that's a genuine change of pace from the city's heavier Peace Park sightseeing.",
+            tourCard: { slug: "samurai-experience-short-plan-in-hiroshima", title: "Samurai Experience Short Plan in Hiroshima", description: "A short samurai costume and basics experience in Hiroshima.", price: "From $25", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/samurai-experience-short-plan-in-hiroshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this on the lighter half of your itinerary, as a palate-cleanser activity rather than pairing it right after the Peace Memorial Park.",
+          },
+        ],
+        faqs: [
+          { q: "Is the samurai experience worth it in Hiroshima?", a: "Yes, as a fun, quick activity and a genuine change of pace, though it's a short costume session rather than an in-depth history lesson." },
+        ],
+      };
+
+    case "is-kakejiku-scroll-making-worth-it-hiroshima":
+      return {
+        title: "Is the Japanese Kakejiku Hanging Scroll Making Experience Worth It in Hiroshima?",
+        description: "An honest look at the Japanese Kakejiku hanging scroll making experience in Hiroshima.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/japanesekakejiku-hangingscroll-makingexperience-in-hiroshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kakejiku are traditional hanging scrolls used in Japanese homes and tea ceremonies, and this workshop teaches the genuine craft behind making one, worth it for travelers interested in a quieter, more niche traditional art form than the usual calligraphy or origami workshop.",
+            tourCard: { slug: "japanesekakejiku-hangingscroll-makingexperience-in-hiroshima", title: "Japanese Kakejiku (Hanging Scroll) Making Experience", description: "A hands-on Japanese kakejiku hanging scroll making workshop.", price: "From $33", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/japanesekakejiku-hangingscroll-makingexperience-in-hiroshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished scroll makes a genuinely distinctive souvenir — pack it flat or in a tube if you can, to avoid creasing it on the way home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Japanese Kakejiku hanging scroll making experience worth it in Hiroshima?", a: "Yes, for a quieter, more niche traditional craft experience than the usual calligraphy or origami workshop." },
+        ],
+      };
+
+    case "is-citrus-tasting-challenge-worth-it-hiroshima":
+      return {
+        title: "Is the Citrus Tasting and Discovery Challenge Worth It in Hiroshima?",
+        description: "An honest look at the citrus tasting and discovery challenge in Hiroshima.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/citrus-tasting-and-discovery-challenge-in-hiroshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Setouchi region around Hiroshima is one of Japan's major citrus-growing areas, and this short tasting challenge introduces several local citrus varieties most visitors never knowingly try, worth it as a quick, novel stop rather than a full activity in itself.",
+            tourCard: { slug: "citrus-tasting-and-discovery-challenge-in-hiroshima", title: "Citrus Tasting and Discovery Challenge in Hiroshima", description: "A short tasting challenge featuring local Setouchi citrus varieties.", price: "From $48", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/citrus-tasting-and-discovery-challenge-in-hiroshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Combine it with another short activity nearby since this one runs just 30 minutes on its own.",
+          },
+        ],
+        faqs: [
+          { q: "Is the citrus tasting and discovery challenge worth it in Hiroshima?", a: "Yes, as a quick, novel introduction to the Setouchi region's citrus varieties, best paired with another nearby activity." },
+        ],
+      };
+
+    case "is-anime-singing-lesson-worth-it-hiroshima":
+      return {
+        title: "Is the Anime Singing Lesson with Cosplay Video Worth It in Hiroshima?",
+        description: "An honest look at the anime singing lesson with cosplay video experience in Hiroshima.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/anime-singing-lesson-with-cosplay-video-in-hiroshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A genuinely different, pop-culture-focused activity that pairs singing coaching with a cosplay video you take home, worth it specifically for travelers who are anime fans looking for something playful rather than another history or craft stop.",
+            tourCard: { slug: "anime-singing-lesson-with-cosplay-video-in-hiroshima", title: "Anime Singing Lesson with Cosplay Video in Hiroshima", description: "A singing lesson with cosplay video experience themed around anime.", price: "From $65", duration: "80 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/anime-singing-lesson-with-cosplay-video-in-hiroshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask in advance about costume options if you want a specific character or style for your video.",
+          },
+        ],
+        faqs: [
+          { q: "Is the anime singing lesson with cosplay video worth it in Hiroshima?", a: "Yes, specifically for anime fans wanting a playful, different activity from the city's history and craft options." },
+        ],
+      };
+
     default:
             return null;
     }

@@ -1935,7 +1935,9 @@ export const HIROSHIMA_INFO_SLUGS = [
   'is-calligraphy-workshop-worth-it-hiroshima',
   'is-saijo-sake-tasting-worth-it-hiroshima', 'is-mitaki-temple-waterfall-walk-worth-it-hiroshima',
   'is-hiroshima-miyajima-day-tour-worth-it-hiroshima', 'is-atomic-bomb-story-tour-worth-it-hiroshima',
-  'is-koto-concert-worth-it-hiroshima', 'is-okonomiyaki-hopping-tour-worth-it-hiroshima'];
+  'is-koto-concert-worth-it-hiroshima', 'is-okonomiyaki-hopping-tour-worth-it-hiroshima',
+  'is-samurai-experience-worth-it-hiroshima', 'is-kakejiku-scroll-making-worth-it-hiroshima',
+  'is-citrus-tasting-challenge-worth-it-hiroshima', 'is-anime-singing-lesson-worth-it-hiroshima'];
 
 // Re-add a slug here ONLY once its page exists in lib/osakaInfoContent.ts.
 export const OSAKA_INFO_SLUGS = [
