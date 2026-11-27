@@ -1321,6 +1321,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tanoura-dance-dinner-cruise-worth-it-dubai":
+      return {
+        title: "Is the Dinner Cruise with Tanoura Dance Show Worth It in Dubai?",
+        description: "An honest look at the dinner cruise with Tanoura dance show in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1226439/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Tanoura dance is a genuine, visually striking spinning-skirt folk performance distinct from the belly-dance shows most dinner cruises feature — worth it specifically if you want a cruise with a different, less generic entertainment act, at a notably lower price than many Marina dinner cruises.",
+            tourCard: { slug: "dubai-dinner-cruise-with-tanoura-dance-show", title: "Dubai: Dinner Cruise with Tanoura Dance Show", description: "A dinner cruise featuring a traditional Tanoura dance performance.", price: "From $28", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1226439/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the exact cruise route and creek vs. marina departure point with your operator before booking — budget cruises at this price point vary on this detail.",
+          },
+        ],
+        faqs: [
+          { q: "Is the dinner cruise with Tanoura dance show worth it in Dubai?", a: "Yes, for a budget-friendly cruise with a genuinely different folk performance than the usual belly-dance act." },
+        ],
+      };
+
+    case "is-queen-elizabeth-2-heritage-tour-worth-it-dubai":
+      return {
+        title: "Is the Queen Elizabeth 2 Heritage Tour Worth It in Dubai?",
+        description: "An honest look at the Queen Elizabeth 2 heritage tour in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1367357/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The QE2 is a permanently docked former ocean liner turned into a floating heritage hotel and museum in Dubai's port — worth it for travelers interested in maritime history and classic ocean-liner design, a genuinely different attraction from the city's modern skyline sights.",
+            tourCard: { slug: "dubai-queen-elizabeth-2-heritage-tour-with-entry-t", title: "Dubai: Queen Elizabeth 2 Heritage Tour with Entry Ticket", description: "A heritage tour and entry ticket for the QE2 ocean liner in Dubai.", price: "From $41", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1367357/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The ship is docked at Mina Rashid port — check transport options there in advance since it's away from the main downtown sightseeing areas.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Queen Elizabeth 2 heritage tour worth it in Dubai?", a: "Yes, if you're interested in maritime or ocean-liner history — it's a genuinely different kind of attraction from Dubai's usual modern sights." },
+        ],
+      };
+
+    case "is-chillout-ice-lounge-worth-it-dubai":
+      return {
+        title: "Is the Chillout Ice Lounge Worth It in Dubai?",
+        description: "An honest look at the Chillout Ice Lounge entry ticket in Dubai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e967e41cd8022066711acdbf1082bee8f098f6d505e89c5f83e7a8fd8155007d.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "An entire lounge built from ice, with ice furniture and sculptures kept well below freezing, included hot drinks and chocolate to go with the provided cold-weather gear — worth it as a short, novel break from Dubai's heat rather than a full afternoon activity.",
+            tourCard: { slug: "dubai-chillout-ice-lounge-entry-ticket-hot", title: "Dubai: Chillout Ice Lounge Entry Ticket + Hot Drinks/Choco", description: "Entry ticket to the Chillout Ice Lounge with hot drinks and chocolate.", price: "From $36", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e967e41cd8022066711acdbf1082bee8f098f6d505e89c5f83e7a8fd8155007d.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress in layers you can remove easily afterward — the temperature contrast stepping back outside into Dubai's heat is significant.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chillout Ice Lounge worth it in Dubai?", a: "Yes, as a quick, novel break from the heat, though it's a short visit rather than a half-day activity." },
+        ],
+      };
+
+    case "is-al-marmoom-oasis-high-tea-worth-it-dubai":
+      return {
+        title: "Is the Al Marmoom Oasis Desert Afternoon High Tea Worth It in Dubai?",
+        description: "An honest look at the Al Marmoom Oasis desert afternoon high tea experience in Dubai.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Set at the Al Marmoom conservation reserve rather than the busier commercial desert camps, this pairs a quieter oasis desert setting with a proper afternoon high tea spread — worth it for travelers wanting a calmer, more scenic desert experience during daylight rather than the typical evening dune-bashing-and-BBQ format.",
+            tourCard: { slug: "al-marmoom-oasis-desert-afternoon-high-tea", title: "Al Marmoom Oasis Desert Afternoon High Tea", description: "An afternoon high tea experience at the Al Marmoom desert oasis.", price: "From $56", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902350/asiabylocals/tours/al-marmoom-oasis-desert-afternoon-high-tea/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go for the late-afternoon slot if offered, so the high tea runs into softer light over the oasis rather than full midday sun.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Al Marmoom Oasis high tea worth it in Dubai?", a: "Yes, for a calmer, more scenic alternative to the typical evening desert safari with dune bashing and a BBQ." },
+        ],
+      };
+
     default:
       return null;
   }
