@@ -777,6 +777,62 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-wetland-reserve-tour-worth-it-singapore":
+            return {
+                title: "Is the Wetland Reserve Private Nature Tour Worth It in Singapore?",
+                description: "An honest look at the Wetland Reserve private nature tour in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1387511/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Singapore's Wetland Reserve gives a genuinely different, mangrove-and-mudflat side of the city's nature scene than the Botanic Gardens or Gardens by the Bay, worth it for travelers interested in real wildlife spotting rather than landscaped parks.", tourCard: { slug: "singapore-wetland-reserve-private-nature-tour", title: "Singapore: Wetland Reserve Private Nature Tour", description: "A private nature tour of Singapore's Wetland Reserve.", price: "From $1510", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1387511/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring insect repellent and binoculars if you have them — the wetland's wildlife is best spotted quietly from a distance." }
+                ],
+                faqs: [
+                    { q: "Is the Wetland Reserve tour worth it in Singapore?", a: "Yes, for travelers interested in real wildlife spotting in a genuine mangrove setting, distinct from the city's landscaped gardens." }
+                ],
+            };
+
+        case "is-catch-and-cook-worth-it-singapore":
+            return {
+                title: "Is the Catch and Cook Experience Worth It in Singapore?",
+                description: "An honest look at the Catch and Cook fishing and cooking experience in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-753442/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Catching your own seafood and then cooking it gives a genuinely hands-on, satisfying day that's completely different from Singapore's usual walking and museum tours, worth it for travelers who want an active, food-focused experience with a tangible result.", tourCard: { slug: "catch-and-cook", title: "Catch and Cook", description: "A hands-on fishing and cooking experience in Singapore.", price: "From $1584", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-753442/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm what you'll actually be catching and cooking beforehand, since the exact format varies by operator and season." }
+                ],
+                faqs: [
+                    { q: "Is the Catch and Cook experience worth it in Singapore?", a: "Yes, for travelers wanting an active, hands-on food experience with a tangible result, distinct from standard walking tours." }
+                ],
+            };
+
+        case "is-sidecar-tour-worth-it-singapore":
+            return {
+                title: "Is the 1-Hour Sidecar Tour with a Set Meal Worth It in Singapore?",
+                description: "An honest look at the 1-hour sidecar tour with a set meal in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-818837/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Riding in a vintage-style sidecar past the city's landmarks is a genuinely fun, photogenic way to sightsee that's different from a standard car or bus tour, worth it for travelers wanting something memorable and visually distinctive in a short window of time.", tourCard: { slug: "singapore-1-hour-sidecar-tour-with-a-set-meal", title: "Singapore: 1-Hour Sidecar Tour with a Set Meal", description: "A 1-hour sidecar sightseeing tour with a set meal included in Singapore.", price: "From $381", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-818837/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress for open-air riding — sidecars have no roof, so check the weather forecast before booking." }
+                ],
+                faqs: [
+                    { q: "Is the sidecar tour worth it in Singapore?", a: "Yes, for a genuinely fun, photogenic short sightseeing experience that's different from a standard car or bus tour." }
+                ],
+            };
+
+        case "is-public-housing-local-life-tour-worth-it-singapore":
+            return {
+                title: "Is the Public Housing and Local Life Walking Tour Worth It in Singapore?",
+                description: "An honest look at the Public Housing & Local Life private walking tour in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1155142/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Walking through an actual HDB public housing estate with a local guide gives genuine insight into how most Singaporeans actually live, a world away from Marina Bay's skyline, worth it for travelers wanting authentic local context rather than more tourist landmarks.", tourCard: { slug: "singapore-public-housing-local-life-private", title: "Singapore: Public Housing & Local Life Private Walking Tour", description: "A private walking tour of a Singapore public housing estate and local life.", price: "From $398", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1155142/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Be respectful and keep voices down while walking through residential areas, since this is a real lived-in neighborhood, not a tourist attraction." }
+                ],
+                faqs: [
+                    { q: "Is the public housing and local life tour worth it in Singapore?", a: "Yes, for travelers wanting genuine insight into how most Singaporeans actually live, distinct from the skyline-focused sights." }
+                ],
+            };
+
         default:
             return null;
     }
