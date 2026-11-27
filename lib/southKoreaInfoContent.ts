@@ -1850,6 +1850,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-najeonchilgi-mother-of-pearl-craft-worth-it-busan":
+      return {
+        title: "Is the Najeonchilgi Mother-of-Pearl Craft Class Worth It in Busan?",
+        description: "An honest look at the Najeonchilgi mother-of-pearl craft class with Korean tea in Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a64645e4e2dd8c56ad20b2ca8582374790d50c7d6ee2f9ceb3326416f8382021.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Najeonchilgi, Korean mother-of-pearl lacquerware, is a genuine traditional craft most visitors never encounter, and this hands-on class paired with Korean tea gives real insight into a technique rarely offered as a tourist workshop.",
+            tourCard: { slug: "busan-najeonchilgi-mother-of-pearl-craft-class", title: "Busan: Najeonchilgi Mother-of-Pearl Craft Class & Korean Tea", description: "A hands-on Najeonchilgi mother-of-pearl craft class paired with Korean tea.", price: "From $46", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a64645e4e2dd8c56ad20b2ca8582374790d50c7d6ee2f9ceb3326416f8382021.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished piece makes a genuinely distinctive souvenir — pack it carefully since mother-of-pearl inlay can be delicate.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Najeonchilgi mother-of-pearl craft class worth it in Busan?", a: "Yes, it's a rare hands-on introduction to a traditional Korean lacquerware technique most visitors never otherwise encounter." },
+        ],
+      };
+
+    case "is-dark-history-ghost-stories-tour-worth-it-busan":
+      return {
+        title: "Is the Dark History & Ghost Stories Night Walking Tour Worth It in Busan?",
+        description: "An honest look at the Dark History and Ghost Stories night walking tour in Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/223d4b1906e35ebb6a4ee13b0a41ee1e721f867645a24073e975259fc001aeea.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour covers local folklore and darker historical stories tied to specific Busan locations at night, worth it for travelers who want a genuinely different evening angle on the city beyond its usual beach and seafood sightseeing.",
+            tourCard: { slug: "busan-dark-history-ghost-stories-night-walking", title: "Busan: Dark History & Ghost Stories Night Walking Tour", description: "A guided night walking tour covering Busan's dark history and ghost stories.", price: "From $54", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/223d4b1906e35ebb6a4ee13b0a41ee1e721f867645a24073e975259fc001aeea.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with an open mind for storytelling and folklore rather than expecting jump-scares — the format leans toward history and atmosphere.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dark History & Ghost Stories night walking tour worth it in Busan?", a: "Yes, it offers a genuinely different evening angle on the city's history beyond the usual beach and seafood sightseeing." },
+        ],
+      };
+
+    case "is-ocean-view-ring-making-worth-it-busan":
+      return {
+        title: "Is the Ocean-View Ring-Making Workshop Worth It in Busan?",
+        description: "An honest look at the ocean-view ring-making workshop in Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b04fa4456b8d25755a83030b7333c5ea09080d117e9e3d2eb01b1ed19f98b6.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Making your own ring with an ocean view setting gives this a genuinely romantic, personal angle distinct from Busan's usual K-beauty and food-focused workshops, worth it for travelers wanting a craft activity with a meaningful, wearable result.",
+            tourCard: { slug: "busan-ocean-view-ring-making-workshop", title: "Busan: Ocean-View Ring-Making Workshop", description: "A hands-on ring-making workshop with an ocean view setting.", price: "From $97", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b04fa4456b8d25755a83030b7333c5ea09080d117e9e3d2eb01b1ed19f98b6.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book a daytime or sunset slot specifically to get the ocean view while you work, since the setting is part of the appeal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ocean-view ring-making workshop worth it in Busan?", a: "Yes, for a genuinely personal, romantic craft activity with a wearable result, set apart by its ocean-view location." },
+        ],
+      };
+
+    case "is-korean-flower-arrangement-worth-it-busan":
+      return {
+        title: "Is the Hands-on Korean Flower Arrangement Experience Worth It in Busan?",
+        description: "An honest look at the hands-on Korean flower arrangement experience with tea in Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b81ab6eda5016437365fc36e31a1fb5c257969773a95bee836209a54a3e28c0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Korean flower arrangement follows its own distinct aesthetic principles, and this hands-on session paired with tea gives a calm, genuinely cultural activity worth it for travelers wanting a relaxed craft experience between more active sightseeing days.",
+            tourCard: { slug: "busan-hands-on-korean-flower-arrangement", title: "Busan: Hands-on Korean Flower Arrangement Experience & Tea", description: "A hands-on Korean flower arrangement class paired with tea.", price: "From $88", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1b81ab6eda5016437365fc36e31a1fb5c257969773a95bee836209a54a3e28c0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your arrangement won't travel well internationally — treat it as a same-trip experience rather than something to carry home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Korean flower arrangement experience worth it in Busan?", a: "Yes, as a calm, genuinely cultural craft activity, a good change of pace between more active sightseeing days." },
+        ],
+      };
+
     default:
       return null;
   }
