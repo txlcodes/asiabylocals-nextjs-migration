@@ -2372,6 +2372,90 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mount-koya-full-day-private-tour-worth-it-osaka":
+      return {
+        title: "Is the Mount Koya Full-Day Private Guided Tour Worth It?",
+        description: "An honest look at the full-day private guided tour to Mount Koya from Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-koya-full-day-private-guided-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private guide handles the train, cable car, and bus connections up to Koyasan's monastic settlement and its cemetery of 200,000 graves under ancient cedars, worth it for travelers who want the day's logistics handled without sacrificing flexibility on pacing.",
+            tourCard: { slug: "mount-koya-full-day-private-guided-tour-in-osaka", title: "Mount Koya: Full-Day Private Guided Tour in Osaka", description: "A private full-day guided tour to the monastic settlement of Mount Koya.", price: "From $510", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-koya-full-day-private-guided-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Treat this as a full day, not a half day — the mountain is genuinely about two hours each way even with a private guide managing transfers.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Koya full-day private guided tour worth it from Osaka?", a: "Yes, for travelers wanting the day's train, cable car, and bus logistics handled by a guide without losing flexibility on pacing." },
+        ],
+      };
+
+    case "is-lake-biwa-sacred-island-floating-torii-worth-it-osaka":
+      return {
+        title: "Is the Lake Biwa Sacred Island & Floating Torii Tour Worth It?",
+        description: "An honest look at the Lake Biwa sacred island and floating torii day tour from Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lake-biwa-the-sacred-island-and-the-floating-torii-from-osaka-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Japan's largest lake and Shirahige Shrine's torii gate standing in the water make for a genuinely different landscape from Osaka's city-and-temple circuit, worth it for travelers wanting a lower-key nature day without a long drive.",
+            tourCard: { slug: "lake-biwa-the-sacred-island-and-the-floating-torii-from-osaka-by-local-operator", title: "Lake Biwa: The Sacred Island and the Floating Torii from Osaka by Local Operator", description: "A day tour to Lake Biwa's sacred island and the floating torii gate.", price: "From $442", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/lake-biwa-the-sacred-island-and-the-floating-torii-from-osaka-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the operator's museum-closure note if a museum stop is included, since some Lake Biwa attractions shut for long stretches during the year.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lake Biwa sacred island and floating torii tour worth it from Osaka?", a: "Yes, for travelers wanting a genuinely different lakeside landscape without a long drive from the city." },
+        ],
+      };
+
+    case "is-seto-inland-3day-art-islands-worth-it-osaka":
+      return {
+        title: "Is the Seto Inland 3-Day Art Islands Tour Worth It from Osaka?",
+        description: "An honest look at the 3-day, 2-night Seto Inland tour to Naoshima, Teshima, and Shodoshima from Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/seto-inland-3-day-2-night-from-osaka-naoshima-teshima-and-shodoshima/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Naoshima, Teshima, and Shodoshima's contemporary art museums and installations sit on islands accessible only by ferry, making a multi-day trip genuinely necessary rather than optional, worth it for travelers with a strong interest in modern art and architecture.",
+            tourCard: { slug: "seto-inland-3-day-2-night-from-osaka-naoshima-teshima-and-shodoshima", title: "Seto Inland 3-Day 2-Night from Osaka: Naoshima, Teshima and Shodoshima", description: "A 3-day, 2-night tour of the Seto Inland art islands from Osaka.", price: "From $7226", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/seto-inland-3-day-2-night-from-osaka-naoshima-teshima-and-shodoshima/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book museum tickets on these islands in advance where possible, since several of the best-known installations cap daily visitor numbers.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Seto Inland 3-day art islands tour worth it from Osaka?", a: "Yes, for travelers with a genuine interest in contemporary art and architecture, since the islands are only reachable by ferry and reward a multi-day visit." },
+        ],
+      };
+
+    case "is-kumano-kodo-2day-hike-worth-it-osaka":
+      return {
+        title: "Is the Kumano Kodo 2-Day Hike with Nachi Shrine Worth It?",
+        description: "An honest look at the 2-day Kumano Kodo pilgrimage hike with Nachi Shrine from Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kumano-kodo-2-day-hike-nachi-shrine-and-dual-pilgrim-trails-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Walking two of the ancient Kumano Kodo pilgrim trails over two days, with a stop at Nachi Shrine beside Japan's tallest single-drop waterfall, gives a genuinely immersive pilgrimage experience that a single day trip can't match.",
+            tourCard: { slug: "kumano-kodo-2-day-hike-nachi-shrine-and-dual-pilgrim-trails-in-osaka", title: "Kumano Kodo 2-Day Hike: Nachi Shrine and Dual Pilgrim Trails in Osaka", description: "A 2-day guided hike along Kumano Kodo pilgrim trails with a Nachi Shrine stop.", price: "From $296", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/kumano-kodo-2-day-hike-nachi-shrine-and-dual-pilgrim-trails-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sturdy hiking boots, since the pilgrim trails involve real elevation change over stone and forest paths, not paved walkways.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Kumano Kodo hike with Nachi Shrine worth it from Osaka?", a: "Yes, for travelers wanting a genuinely immersive pilgrimage experience along ancient trails that a single day trip can't offer." },
+        ],
+      };
+
     default:
             return null;
     }
