@@ -1842,6 +1842,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-untold-stories-khorezm-tour-worth-it-khiva":
+            return {
+                title: "Is Khiva's Untold Stories of Khorezm Guided Tour Worth It?",
+                description: "An honest look at the Untold Stories of Khorezm guided tour in Khiva.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour digs into lesser-known Khorezm regional history and stories beyond Itchan Kala's main monuments, worth it specifically for travelers who've already done a standard walking tour and want deeper, less commonly told context.", tourCard: { slug: "khiva-the-untold-stories-of-khorezm-guided-tour", title: "Khiva: The Untold Stories of Khorezm Guided Tour", description: "A guided tour covering lesser-known Khorezm regional history and stories.", price: "From $59", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg" } },
+                    { title: "Practical Tips", content: "Best booked after a standard Itchan Kala walking tour, since this builds on rather than replaces the basic monument overview." },
+                ],
+                faqs: [
+                    { q: "Is the Untold Stories of Khorezm tour worth it in Khiva?", a: "Yes, specifically for travelers wanting deeper regional history beyond the standard Itchan Kala monument overview." },
+                ],
+            };
+
+        case "is-silk-road-tour-worth-it-khiva":
+            return {
+                title: "Is the Khiva Silk Road Tour Worth It?",
+                description: "An honest look at the Khiva Silk Road tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour frames Khiva's sights specifically through its Silk Road trading history, worth it for travelers wanting that consistent historical lens explained clearly rather than a generic highlights walk without a connecting narrative.", tourCard: { slug: "khiva-silk-road-tour", title: "Khiva: Silk Road Tour", description: "A tour of Khiva framed around its Silk Road trading history.", price: "From $182", duration: "7.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg" } },
+                    { title: "Practical Tips", content: "Ask your guide how Khiva's specific role in the Silk Road differed from Bukhara's or Samarkand's, if you're visiting all three cities." },
+                ],
+                faqs: [
+                    { q: "Is the Khiva Silk Road tour worth it?", a: "Yes, for travelers wanting the city's trading history explained as a clear, connecting narrative rather than a generic highlights walk." },
+                ],
+            };
+
+        case "is-savitsky-mizdakhan-chilpik-tour-worth-it-khiva":
+            return {
+                title: "Is the Savitsky Museum, Mizdakhan & Chilpik Day Trip Worth It?",
+                description: "An honest look at the day trip from Khiva to the Savitsky Museum, Mizdakhan necropolis, and Chilpik tower.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining the Savitsky Museum's modernist art collection with the ancient Mizdakhan necropolis and Chilpik's Zoroastrian tower gives a genuinely wide historical and cultural range in one day, worth it for travelers wanting more than the standalone museum visit alone offers.", tourCard: { slug: "daytrip-from-khiva-to-savitsky-museum-mizdakhan", title: "Daytrip From Khiva to Savitsky Museum & Mizdakhan & Chilpik", description: "A day trip from Khiva combining the Savitsky Museum, Mizdakhan, and Chilpik.", price: "From $163", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg" } },
+                    { title: "Practical Tips", content: "This is a long day given the distances involved — confirm total travel time with your operator before booking." },
+                ],
+                faqs: [
+                    { q: "Is the Savitsky Museum, Mizdakhan and Chilpik day trip worth it?", a: "Yes, for travelers wanting a genuinely wide historical range in one day, beyond what the standalone Savitsky Museum visit offers alone." },
+                ],
+            };
+
+        case "is-khorezm-fortresses-self-drive-tour-worth-it-khiva":
+            return {
+                title: "Is the Khorezm Fortresses Self-Drive Tour Worth It from Khiva?",
+                description: "An honest look at the Khorezm Fortresses self-drive tour from Khiva.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Driving yourself between the desert fortresses rather than joining a guided group gives genuine flexibility over pacing and which sites to linger at, worth it specifically for confident, independent travelers who'd rather set their own schedule than follow a fixed group itinerary.", tourCard: { slug: "khiva-khorezm-fortresses-self-drive-tour", title: "Khiva: Khorezm Fortresses Self-Drive Tour", description: "A self-drive tour of the Khorezm desert fortresses from Khiva.", price: "From $95", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg" } },
+                    { title: "Practical Tips", content: "Confirm road conditions and navigation support in advance, since the desert routes between fortresses aren't always clearly marked." },
+                ],
+                faqs: [
+                    { q: "Is the Khorezm Fortresses self-drive tour worth it from Khiva?", a: "Yes, specifically for confident, independent travelers who want to set their own pace rather than follow a fixed group schedule." },
+                ],
+            };
+
         default:
             return null;
     }
