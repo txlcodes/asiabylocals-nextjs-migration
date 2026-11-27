@@ -2006,6 +2006,90 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         },
       };
 
+    case "is-mount-manunggal-hike-worth-it-cebu":
+      return {
+        title: "Is the Mount Manunggal Guided Hike Worth It in Cebu?",
+        description: "An honest look at the Mount Manunggal guided hike in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a506edc9d6d5669703d3d9ba594cf16f77a83c13e3921649c257892fee05b6e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mount Manunggal is a genuinely scenic highland hike away from Cebu's beach and whale-shark circuit, worth it for travelers who want a mountain day with real elevation and views rather than another water-based activity.",
+            tourCard: { slug: "cebu-mount-manunggal-guided-hike", title: "Cebu: Mount Manunggal Guided Hike", description: "A guided hike up Mount Manunggal in Cebu's highlands.", price: "From $76", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a506edc9d6d5669703d3d9ba594cf16f77a83c13e3921649c257892fee05b6e.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper hiking shoes and bring more water than you think you'll need — the trail has real elevation gain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Manunggal guided hike worth it in Cebu?", a: "Yes, for travelers wanting a genuine mountain day with real elevation, as a change from the island's water-based activities." },
+        ],
+      };
+
+    case "is-cebu-food-walk-worth-it-cebu":
+      return {
+        title: "Is the Cebu Food Walk (Street Eats to Michelin Bib Gourmand) Worth It?",
+        description: "An honest look at the Cebu food walk covering street eats through Michelin Bib Gourmand spots.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/619c25e4e4d64e096216f6db9710c2f3876fe23995f5abed1634d466d36b607f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walk spans a genuine range from cheap street-stall eats to Michelin Bib Gourmand-recognized spots, worth it for travelers who want a curated food itinerary rather than guessing which stalls and restaurants are actually worth the visit.",
+            tourCard: { slug: "cebu-food-walk-street-eats-to-michelin-bib", title: "Cebu Food Walk: Street Eats to Michelin Bib Gourmand", description: "A guided food walk spanning street eats to Michelin Bib Gourmand spots.", price: "From $100", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/619c25e4e4d64e096216f6db9710c2f3876fe23995f5abed1634d466d36b607f.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across the stops — this covers a genuine range of tastings, so don't fill up early.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cebu food walk worth it?", a: "Yes, it's a genuinely curated range from street eats to Michelin-recognized spots, taking the guesswork out of where to eat." },
+        ],
+      };
+
+    case "is-mactan-sunset-speedboat-cruise-worth-it-cebu":
+      return {
+        title: "Is the Mactan Island Sunset Speedboat Cruise Worth It in Cebu?",
+        description: "An honest look at the Mactan Island sunset speedboat cruise with drinks in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8c74a822d64c508a32bc85b5c476e2268b760b59461ca5449b67d5f705b5d338.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A straightforward sunset speedboat cruise around Mactan Island with drinks included, worth it specifically for the golden-hour views over the water rather than as a full day's activity — a good easy add-on to a beach day on Mactan.",
+            tourCard: { slug: "cebu-mactan-island-sunset-speedboat-cruise-with", title: "Cebu: Mactan Island Sunset Speedboat Cruise with Drinks", description: "A sunset speedboat cruise around Mactan Island with drinks.", price: "From $65", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8c74a822d64c508a32bc85b5c476e2268b760b59461ca5449b67d5f705b5d338.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the exact departure time against sunset that day so you don't miss the golden-hour window.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mactan Island sunset speedboat cruise worth it in Cebu?", a: "Yes, as an easy add-on to a Mactan beach day, mainly for the golden-hour water views." },
+        ],
+      };
+
+    case "is-jet-ski-rental-worth-it-cebu":
+      return {
+        title: "Is the Jet Ski Rental Experience Worth It in Cebu?",
+        description: "An honest look at the jet ski rental and snorkeling experience in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A short, high-energy jet ski session paired with a snorkeling stop, worth it for travelers wanting an active water activity distinct from Cebu's slower-paced island-hopping boat tours.",
+            tourCard: { slug: "cebu-jet-ski-rental-experience-snorkeling-activity", title: "Cebu: Jet Ski Rental Experience & Snorkeling Activity", description: "A jet ski rental experience paired with snorkeling.", price: "From $82", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about the license or briefing requirement beforehand — some operators require a short safety orientation before you ride.",
+          },
+        ],
+        faqs: [
+          { q: "Is the jet ski rental experience worth it in Cebu?", a: "Yes, for a short, active water activity that's a genuine change of pace from the island's slower boat tours." },
+        ],
+      };
+
     default:
       return null;
   }
