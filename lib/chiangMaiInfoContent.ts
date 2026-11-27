@@ -1066,6 +1066,66 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-lamphun-lampang-temples-worth-it-chiang-mai":
+            return {
+                title: "Is the Lamphun and Lampang Temples Tour Worth It from Chiang Mai?",
+                description: "An honest look at the Lamphun and Lampang temples tour from Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lamphun-and-lampang-temples-tour-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Lamphun and Lampang hold genuinely significant Lanna-era temples that sit well outside Chiang Mai's crowded old-city circuit, worth it for travelers wanting deeper temple history without the tourist density.",
+                    tourCard: { slug: "lamphun-and-lampang-temples-tour-in-chiang-mai", title: "Lamphun and Lampang Temples Tour in Chiang Mai", description: "A tour of significant Lanna-era temples in Lamphun and Lampang.", price: "From $252", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/lamphun-and-lampang-temples-tour-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for temple visits, since both towns' temples remain active places of worship." }
+                ],
+                faqs: [
+                    { q: "Is the Lamphun and Lampang temples tour worth it from Chiang Mai?", a: "Yes, for travelers wanting deeper Lanna-era temple history without the crowds of Chiang Mai's old-city circuit." }
+                ],
+            };
+
+        case "is-lanna-culture-thai-dress-night-safari-worth-it-chiang-mai":
+            return {
+                title: "Is the Lanna Culture Experience with Thai Dress and Night Safari Worth It?",
+                description: "An honest look at the Lanna culture experience with Thai dress and night safari in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lanna-culture-experience-with-thai-dress-and-night-safari-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining traditional Lanna dress and culture with a night safari gives a genuinely varied evening mixing local heritage and wildlife, worth it for travelers wanting both in one booking rather than two separate activities.",
+                    tourCard: { slug: "lanna-culture-experience-with-thai-dress-and-night-safari-in-chiang-mai", title: "Lanna Culture Experience with Thai Dress and Night Safari in Chiang Mai", description: "An evening combining Lanna culture, traditional Thai dress, and a night safari.", price: "From $202", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/lanna-culture-experience-with-thai-dress-and-night-safari-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask about photo opportunities in the traditional dress, since this is often the highlight most travelers want to capture." }
+                ],
+                faqs: [
+                    { q: "Is the Lanna culture experience with Thai dress and night safari worth it?", a: "Yes, for travelers wanting both local heritage and a wildlife safari combined into one varied evening booking." }
+                ],
+            };
+
+        case "is-buffalo-rice-planting-worth-it-chiang-mai":
+            return {
+                title: "Is the Thai Buffalo and Rice Planting Experience Worth It in Chiang Mai?",
+                description: "An honest look at the Thai buffalo and rice planting experience in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/thai-buffalo-and-rice-planting-experience-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Getting hands-on with rice planting and working alongside water buffalo gives a genuinely authentic taste of rural Thai farming life, worth it for travelers wanting real agricultural experience rather than a staged photo-op farm visit.",
+                    tourCard: { slug: "thai-buffalo-and-rice-planting-experience-in-chiang-mai", title: "Thai Buffalo and Rice Planting Experience in Chiang Mai", description: "A hands-on rice planting and water buffalo experience in Chiang Mai.", price: "From $194", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/thai-buffalo-and-rice-planting-experience-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting muddy, since rice planting genuinely involves standing in wet paddy fields." }
+                ],
+                faqs: [
+                    { q: "Is the Thai buffalo and rice planting experience worth it in Chiang Mai?", a: "Yes, for travelers wanting a genuinely authentic taste of rural farming life, rather than a staged photo-op farm visit." }
+                ],
+            };
+
+        case "is-3day-meditation-yoga-retreat-worth-it-chiang-mai":
+            return {
+                title: "Is the 3-Day Meditation, Yoga and Cultural Retreat Worth It in Chiang Mai?",
+                description: "An honest look at the 3-day meditation, yoga, and cultural retreat in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-day-meditation-yoga-and-cultural-retreat-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Three days gives genuine time to settle into meditation and yoga practice alongside cultural immersion, worth it for travelers wanting real wellness depth rather than a single rushed class.",
+                    tourCard: { slug: "3-day-meditation-yoga-and-cultural-retreat-in-chiang-mai", title: "3 Day Meditation, Yoga and Cultural Retreat in Chiang Mai", description: "A 3-day retreat combining meditation, yoga, and cultural immersion in Chiang Mai.", price: "From $622", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/3-day-meditation-yoga-and-cultural-retreat-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come with an open schedule and few other plans, since the retreat's value comes from committing to the full 3 days rather than squeezing it between sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the 3-day meditation and yoga retreat worth it in Chiang Mai?", a: "Yes, for travelers wanting genuine wellness depth through real time committed to practice, rather than a single rushed class." }
+                ],
+            };
+
         default:
             return null;
     }
