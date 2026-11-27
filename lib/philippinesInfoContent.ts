@@ -2485,6 +2485,90 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-aguinid-inambakan-tumalog-falls-worth-it-cebu":
+      return {
+        title: "Is the Aguinid, Inambakan and Tumalog Falls Private Tour Worth It?",
+        description: "An honest look at the private tour covering Aguinid, Inambakan, and Tumalog Falls in Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf82a7da0fd500100c5413e693b2fc01b2e5b84a259fa4ebadc8377edfe76fa2.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering three distinct waterfalls in one private day gives genuine variety beyond the single-waterfall day trips most itineraries settle for, worth it for travelers wanting to see multiple sides of southern Cebu's waterfall scenery.",
+            tourCard: { slug: "cebu-aguinid-inambakan-and-tumalog-falls-private", title: "Cebu: Aguinid, Inambakan, and Tumalog Falls Private Tour", description: "A private tour covering Aguinid, Inambakan, and Tumalog Falls in southern Cebu.", price: "From $386", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf82a7da0fd500100c5413e693b2fc01b2e5b84a259fa4ebadc8377edfe76fa2.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes and water shoes, since all three waterfall stops involve genuine wading or swimming.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Aguinid, Inambakan and Tumalog Falls tour worth it in Cebu?", a: "Yes, for travelers wanting to see three genuinely different waterfalls in one day, rather than a single-waterfall stop." },
+        ],
+      };
+
+    case "is-dumaguete-kawasan-canyoneering-worth-it-cebu":
+      return {
+        title: "Is the Dumaguete Kawasan Canyoneering Adventure Worth It?",
+        description: "An honest look at the Kawasan canyoneering adventure with lunch from Dumaguete.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8cde7ec9dc41b7a3bee79a81e8a77bca7632a1df0839b74e346c8ef167fd8645.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Running the Kawasan canyoneering route from Dumaguete rather than the more common Cebu City departure point gives travelers based on the southern side a genuinely more convenient option, with the same cliff-jumping and waterfall rappelling.",
+            tourCard: { slug: "dumaguete-kawasan-canyoneering-adventure-with", title: "Dumaguete: Kawasan Canyoneering Adventure with Lunch", description: "A canyoneering adventure at Kawasan Falls with lunch, departing from Dumaguete.", price: "From $473", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8cde7ec9dc41b7a3bee79a81e8a77bca7632a1df0839b74e346c8ef167fd8645.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear quick-dry clothing and secure footwear with good grip, since the canyoneering route involves cliff jumps and wet rock scrambling.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dumaguete Kawasan canyoneering adventure worth it?", a: "Yes, for travelers based on the southern side wanting a genuinely more convenient departure point for the same cliff-jumping and waterfall rappelling route." },
+        ],
+      };
+
+    case "is-elnido-coron-expedition-worth-it-cebu":
+      return {
+        title: "Is the El Nido Private 3-Day Palawan Expedition to Coron Worth It?",
+        description: "An honest look at the private 3-day Palawan expedition from El Nido to Coron.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58f3b0045a3c1e6e5b2ca9594cc8be627b742cfd7eb56100fce81abe9c55a75f.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Traveling by boat between El Nido and Coron over 3 days covers remote island stops that neither standalone destination tour reaches, worth it for travelers wanting the full Palawan expedition experience rather than choosing just one base.",
+            tourCard: { slug: "el-nido-private-3-day-palawan-expedition-to-coron", title: "El Nido: Private 3-Day Palawan Expedition to Coron", description: "A private 3-day boat expedition through Palawan from El Nido to Coron.", price: "From $4773", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/58f3b0045a3c1e6e5b2ca9594cc8be627b742cfd7eb56100fce81abe9c55a75f.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack light and water-resistant, since this is a genuine multi-day boat expedition with island camping involved.",
+          },
+        ],
+        faqs: [
+          { q: "Is the El Nido to Coron 3-day expedition worth it?", a: "Yes, for travelers wanting the full Palawan experience with remote island stops that neither standalone destination tour reaches." },
+        ],
+      };
+
+    case "is-bohol-zipbike-plunge-worth-it-cebu":
+      return {
+        title: "Is the Bohol Adventure from Cebu: Zipbike, Plunge & Thrill Rides Worth It?",
+        description: "An honest look at the Bohol zipbike, plunge, and thrill rides adventure from Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c735ac231dfd7f069840fe239bf18399d7b9abce8cc13a20a3ba0c5e3708eef9.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Packing zipbiking, a plunge ride, and other thrill attractions into one Bohol day gives genuine adrenaline variety beyond the standard Chocolate Hills and Loboc River sightseeing most Bohol day trips stick to.",
+            tourCard: { slug: "bohol-adventure-from-cebu-zipbike-plunge-thrill", title: "Bohol Adventure from Cebu: Zipbike, Plunge & Thrill Rides", description: "A day of zipbiking, a plunge ride, and thrill attractions in Bohol from Cebu.", price: "From $335", duration: "7.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c735ac231dfd7f069840fe239bf18399d7b9abce8cc13a20a3ba0c5e3708eef9.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check height and weight restrictions for the thrill rides before booking, since several attractions have safety limits.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bohol Zipbike, Plunge and Thrill Rides adventure worth it from Cebu?", a: "Yes, for travelers wanting genuine adrenaline variety beyond the standard Chocolate Hills and Loboc River sightseeing." },
+        ],
+      };
+
     case "is-mactan-island-hopping-worth-it-cebu":
       return {
         title: "Is the Mactan Private Island-Hopping Tour Worth It in Cebu?",

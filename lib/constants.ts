@@ -1626,6 +1626,8 @@ export const CEBU_INFO_SLUGS = [
   'is-scenic-flight-bohol-chocolate-hills-worth-it-cebu', 'is-whale-shark-monkey-sanctuary-turtle-worth-it-cebu',
   'is-balabac-4d3n-onok-island-worth-it-cebu', 'is-kalanggaman-malapascua-combo-worth-it-cebu',
   'is-sorsogon-pilgrimage-tour-worth-it-cebu',
+  'is-aguinid-inambakan-tumalog-falls-worth-it-cebu', 'is-dumaguete-kawasan-canyoneering-worth-it-cebu',
+  'is-elnido-coron-expedition-worth-it-cebu', 'is-bohol-zipbike-plunge-worth-it-cebu',
 ];
 
 export const BANGKOK_INFO_SLUGS = [
