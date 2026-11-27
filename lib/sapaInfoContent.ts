@@ -1147,6 +1147,90 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-homemade-tofu-worth-it-sapa":
+      return {
+        title: "Is the Homemade Tofu Workshop Worth It in Sapa?",
+        description: "An honest look at the homemade tofu making workshop in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Making tofu from scratch is a genuinely different craft skill from Sapa's pho and spring roll cooking classes, worth it for travelers curious about traditional food production rather than just another dish-focused cooking class.",
+            tourCard: { slug: "homemade-tofu-in-sapa", title: "Homemade Tofu in Sapa", description: "A hands-on homemade tofu making workshop in Sapa.", price: "From $65", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite — most workshops let you taste the finished tofu fresh, often with a simple dipping sauce.",
+          },
+        ],
+        faqs: [
+          { q: "Is the homemade tofu workshop worth it in Sapa?", a: "Yes, for travelers curious about traditional food production, a genuinely different craft skill from the city's dish-focused cooking classes." },
+        ],
+      };
+
+    case "is-nam-cang-motorbike-loop-worth-it-sapa":
+      return {
+        title: "Is the 1-Day Countryside Motorbike Loop to Nam Cang Worth It?",
+        description: "An honest look at the 1-day countryside motorbike loop to Nam Cang in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering the Nam Cang countryside loop by motorbike reaches villages and viewpoints that trekking alone wouldn't fit into a single day, worth it specifically for confident riders wanting to cover more ground and see a wider stretch of Sapa's countryside.",
+            tourCard: { slug: "1-day-countryside-motorbike-loop-to-nam-cang-in-sapa", title: "1 Day Countryside Motorbike Loop to Nam Cang in Sapa", description: "A guided motorbike loop through the Nam Cang countryside near Sapa.", price: "From $62", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm whether you're riding yourself or on the back of a guide's bike — both formats exist and affect what license or experience you need.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nam Cang motorbike loop worth it in Sapa?", a: "Yes, specifically for confident riders wanting to cover more countryside ground in a day than trekking alone allows." },
+        ],
+      };
+
+    case "is-walking-food-tour-worth-it-sapa":
+      return {
+        title: "Is the Walking Food Tour with a Local Guide Worth It in Sapa?",
+        description: "An honest look at the walking food tour with a local guide in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walking tour samples food at multiple stops around town rather than teaching you to cook one dish, worth it specifically for travelers who want to taste a wider range of local specialties without committing to a hands-on cooking class.",
+            tourCard: { slug: "walking-food-tour-with-local-guide-in-sapa", title: "Walking Food Tour with Local Guide in Sapa", description: "A guided walking food tour with multiple tasting stops in Sapa.", price: "From $39", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across the stops — the tastings add up across several locations rather than being a single large meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the walking food tour worth it in Sapa?", a: "Yes, for travelers wanting to taste a wider range of local specialties, without committing to a hands-on cooking class." },
+        ],
+      };
+
+    case "is-spring-rolls-cooking-class-worth-it-sapa":
+      return {
+        title: "Is the Vietnamese Spring Rolls Cooking Class Worth It in Sapa?",
+        description: "An honest look at the Vietnamese spring rolls cooking class in Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This class focuses specifically on spring rolls rather than pho or a broader multi-dish menu, worth it for travelers wanting to learn one specific, repeatable technique they can recreate easily at home.",
+            tourCard: { slug: "vietnamese-spring-rolls-cooking-class-in-sapa", title: "Vietnamese Spring Rolls Cooking Class in Sapa", description: "A hands-on Vietnamese spring rolls cooking class in Sapa.", price: "From $39", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wrap-and-roll-kids-cooking-workshop-in-sa-pa-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pay close attention to the rolling technique — it's the one skill from this class that's genuinely easy to repeat at home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the spring rolls cooking class worth it in Sapa?", a: "Yes, specifically for travelers wanting one simple, repeatable technique to recreate at home, rather than a broader multi-dish menu." },
+        ],
+      };
+
     default:
       return null;
   }
