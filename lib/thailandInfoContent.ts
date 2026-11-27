@@ -1755,6 +1755,62 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-truth-sanctuary-coral-island-worth-it-bangkok":
+            return {
+                title: "Is the Pattaya Truth Sanctuary and Coral Island Tour Worth It from Bangkok?",
+                description: "An honest look at the Pattaya Truth Sanctuary guided tour with Coral Island from Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-pattaya-truth-sanctuary-coral-island/hq_tour_img_0/640.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Sanctuary of Truth's entirely wood-carved temple complex is a genuinely unique architectural sight, and pairing it with a Coral Island beach stop gives a varied day combining culture and the coast in one trip from Bangkok.", tourCard: { slug: "bangkok-pattaya-truth-sanctuary-guided-tour-coral", title: "Bangkok: Pattaya Truth Sanctuary Guided Tour & Coral Island", description: "A guided tour of the Pattaya Truth Sanctuary with a Coral Island stop from Bangkok.", price: "From $263", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangkok-pattaya-truth-sanctuary-coral-island/hq_tour_img_0/640.webp" } },
+                    { title: "Practical Tips", content: "This is a long 12-hour day given the Pattaya round trip, so prepare for substantial travel time on both ends." }
+                ],
+                faqs: [
+                    { q: "Is the Truth Sanctuary and Coral Island tour worth it from Bangkok?", a: "Yes, for travelers wanting a genuinely unique wood-carved architectural sight combined with beach time in one day trip." }
+                ],
+            };
+
+        case "is-myste-waterfall-cave-dining-worth-it-bangkok":
+            return {
+                title: "Is Fine Dining in the Waterfall Cave at Myste Worth It in Bangkok?",
+                description: "An honest look at the fine dining experience in the waterfall cave at Myste in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/fine-dining-in-stunning-waterfall-cave-at-myste-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Dining inside a dramatic man-made waterfall cave setting gives a genuinely striking, photogenic evening unlike any standard Bangkok restaurant, worth it for travelers wanting a memorable dining experience built around atmosphere.", tourCard: { slug: "fine-dining-in-stunning-waterfall-cave-at-myste-in-bangkok", title: "Fine Dining in Stunning Waterfall Cave at Myste in Bangkok", description: "A fine dining experience set inside a waterfall cave at Myste in Bangkok.", price: "From $194", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/fine-dining-in-stunning-waterfall-cave-at-myste-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book ahead for a specific time slot, since the dramatic setting is popular for special-occasion dinners." }
+                ],
+                faqs: [
+                    { q: "Is fine dining in the Myste waterfall cave worth it in Bangkok?", a: "Yes, for travelers wanting a genuinely striking, memorable dining atmosphere unlike any standard Bangkok restaurant." }
+                ],
+            };
+
+        case "is-lebua-sky-bar-chinatown-tuktuk-worth-it-bangkok":
+            return {
+                title: "Is the Lebua Sky Bar and Chinatown Street Food Tuk-Tuk Tour Worth It?",
+                description: "An honest look at the Lebua Sky Bar and Chinatown street food tuk-tuk tour in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lebua-sky-bar-and-china-town-street-food-by-tuk-tuk-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing drinks at the famous rooftop Lebua Sky Bar with a tuk-tuk ride through Chinatown's street food stalls gives a genuine mix of upscale views and gritty local eating in one evening.", tourCard: { slug: "lebua-sky-bar-and-china-town-street-food-by-tuk-tuk-in-bangkok", title: "Lebua Sky Bar and China Town Street Food by Tuk Tuk in Bangkok", description: "An evening combining Lebua Sky Bar with a Chinatown street food tuk-tuk tour.", price: "From $216", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/lebua-sky-bar-and-china-town-street-food-by-tuk-tuk-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check Lebua's dress code before going, since rooftop bars in Bangkok typically enforce smart-casual attire." }
+                ],
+                faqs: [
+                    { q: "Is the Lebua Sky Bar and Chinatown tuk-tuk tour worth it?", a: "Yes, for travelers wanting a genuine mix of upscale rooftop views and gritty local street food in one evening." }
+                ],
+            };
+
+        case "is-private-photographer-friend-worth-it-bangkok":
+            return {
+                title: "Is Your Private Bangkok Photographer Friend Photo Walk Worth It?",
+                description: "An honest look at the private Bangkok photographer friend personal photo walk.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773827792/tours/bangkok/tours/bangkok_1773827791492_0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Having a dedicated local photographer walk with you through Bangkok's best spots gets a genuinely better result than self-shot phone photos, worth it specifically for travelers wanting quality images without hiring a formal, stiff photoshoot.", tourCard: { slug: "bangkok-private-photography-tour", title: "Your Private Bangkok Photographer Friend: Personal Photo Walk", description: "A personal photo walk through Bangkok with a dedicated local photographer.", price: "From $234", duration: "6 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773827792/tours/bangkok/tours/bangkok_1773827791492_0.jpg" } },
+                    { title: "Practical Tips", content: "Share your favorite spots or style inspiration beforehand, so the 'friend' framing translates into genuinely personalized shots." }
+                ],
+                faqs: [
+                    { q: "Is the Private Bangkok Photographer Friend photo walk worth it?", a: "Yes, for travelers wanting genuinely good-quality images in a relaxed format, without a formal, stiff photoshoot." }
+                ],
+            };
+
         case "is-muay-thai-class-worth-it-phuket":
             return {
                 title: "Is the Muay Thai Training Class Worth It in Phuket?",

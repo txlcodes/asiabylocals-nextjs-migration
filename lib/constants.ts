@@ -1656,6 +1656,8 @@ export const BANGKOK_INFO_SLUGS = [
   'is-heritage-walk-giant-swing-golden-mount-worth-it-bangkok', 'is-red-sky-rooftop-bar-worth-it-bangkok',
   'is-khao-yai-glamping-safari-worth-it-bangkok', 'is-photography-class-worth-it-bangkok',
   'is-khlong-toei-scavenger-hunt-worth-it-bangkok', 'is-nakhon-nayok-waterfalls-atv-worth-it-bangkok',
+  'is-truth-sanctuary-coral-island-worth-it-bangkok', 'is-myste-waterfall-cave-dining-worth-it-bangkok',
+  'is-lebua-sky-bar-chinatown-tuktuk-worth-it-bangkok', 'is-private-photographer-friend-worth-it-bangkok',
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
