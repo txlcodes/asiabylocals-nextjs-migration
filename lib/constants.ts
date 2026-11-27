@@ -986,6 +986,8 @@ export const POKHARA_INFO_SLUGS = [
   'is-tibetan-singing-bowl-sound-healing-worth-it-pokhara', 'is-hop-on-hop-off-city-tour-worth-it-pokhara',
   'is-fewa-lake-sup-board-worth-it-pokhara', 'is-tibetan-monastery-prayer-tour-worth-it-pokhara',
   'is-pumdikot-eagle-eye-tour-worth-it-pokhara', 'is-methlang-hill-tour-worth-it-pokhara',
+  'is-mohare-danda-trek-worth-it-pokhara', 'is-khopra-danda-khayer-lake-trek-worth-it-pokhara',
+  'is-parbat-honey-hunting-tour-worth-it-pokhara', 'is-nar-phu-valley-trek-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.

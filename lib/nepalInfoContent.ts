@@ -3257,6 +3257,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-mohare-danda-trek-worth-it-pokhara":
+            return {
+                title: "Is the Mohare Danda Trek Worth It from Pokhara?",
+                description: "An honest look at the Mohare Danda trek from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/65351e67b272ab89059b660e4717f7c58c802eaf4b06ad6bb91d64543b95e8c8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Mohare Danda offers Annapurna-range panoramas with a fraction of the crowds found on Poon Hill or Ghorepani, worth it for travelers wanting a quieter, community-run alternative with genuinely similar views.", tourCard: { slug: "mohare-danda-trek", title: "Mohare Danda Trek", description: "A trek to Mohare Danda with Annapurna-range views near Pokhara.", price: "From $2500", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/65351e67b272ab89059b660e4717f7c58c802eaf4b06ad6bb91d64543b95e8c8.jpg" } },
+                    { title: "Practical Tips", content: "Ask whether the trek supports the local community lodges, since Mohare Danda is known for its community-run tourism model." }
+                ],
+                faqs: [
+                    { q: "Is the Mohare Danda trek worth it from Pokhara?", a: "Yes, for travelers wanting Annapurna-range views with far fewer crowds than Poon Hill or Ghorepani." }
+                ],
+            };
+
+        case "is-khopra-danda-khayer-lake-trek-worth-it-pokhara":
+            return {
+                title: "Is the Khopra Danda and Khayer Lake Trek Worth It from Pokhara?",
+                description: "An honest look at the 12-day Khopra Danda and Khayer Lake treks from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84b5fe37e1f60b1161d5efbe4989e1d49cc98ddb208002279c0181b811989e7c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khopra Danda's ridge-top views and the sacred Khayer Lake give a genuinely less-crowded alternative to the Annapurna Base Camp trail, with similar mountain panoramas and a real high-altitude lake destination.", tourCard: { slug: "khopra-danda-and-khayer-lake-treks-12-days", title: "Khopra Danda and Khayer Lake Treks 12 days", description: "A 12-day trek to Khopra Danda and Khayer Lake from Pokhara.", price: "From $1936", duration: "12 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/84b5fe37e1f60b1161d5efbe4989e1d49cc98ddb208002279c0181b811989e7c.jpg" } },
+                    { title: "Practical Tips", content: "Budget real acclimatization time, since Khayer Lake sits at high altitude and the trek involves genuine elevation gain." }
+                ],
+                faqs: [
+                    { q: "Is the Khopra Danda and Khayer Lake trek worth it from Pokhara?", a: "Yes, for travelers wanting mountain views similar to Annapurna Base Camp with far fewer crowds, plus a genuine high-altitude lake." }
+                ],
+            };
+
+        case "is-parbat-honey-hunting-tour-worth-it-pokhara":
+            return {
+                title: "Is the Parbat District Honey Hunting Tour Worth It from Pokhara?",
+                description: "An honest look at the Parbat District honey hunting tour from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d5e8217d6e994405e0fb67afee4c93fa65d1f7eb02d3c4c271e9433700077bdf.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Watching Gurung honey hunters scale sheer cliffs to harvest wild Himalayan giant honeybee combs is a genuinely rare cultural tradition most visitors never know exists, worth it for travelers wanting a truly unusual, once-in-a-lifetime cultural experience.", tourCard: { slug: "from-pokhara-parbat-district-honey-hunting-tour", title: "From Pokhara: Parbat District Honey Hunting Tour", description: "A honey hunting cultural tour to Parbat District from Pokhara.", price: "From $2207", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d5e8217d6e994405e0fb67afee4c93fa65d1f7eb02d3c4c271e9433700077bdf.jpg" } },
+                    { title: "Practical Tips", content: "This is seasonal and weather-dependent, since honey hunting only happens at specific times of year — confirm timing with the operator." }
+                ],
+                faqs: [
+                    { q: "Is the Parbat District honey hunting tour worth it from Pokhara?", a: "Yes, for travelers wanting a truly rare, once-in-a-lifetime cultural experience most visitors never even know exists." }
+                ],
+            };
+
+        case "is-nar-phu-valley-trek-worth-it-pokhara":
+            return {
+                title: "Is the Nar Phu Valley Trek Worth It from Pokhara?",
+                description: "An honest look at the Nar Phu Valley trek with Kang La Pass from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8c86581e8e32d4cd14f43d3fc7fe4987e0893495c5beb61e9d1a0f21c754f102.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Nar Phu Valley is a restricted, Tibetan-influenced region crossed via the dramatic Kang La Pass, giving genuinely remote, less-visited terrain compared to the main Annapurna Circuit trail it connects to.", tourCard: { slug: "nepal-nar-phu-valley-trek-with-kang-la-pass", title: "Nepal: Nar Phu Valley Trek with Kang La Pass & Pokhara Tour", description: "A trek through Nar Phu Valley and Kang La Pass with a Pokhara tour.", price: "From $1192", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8c86581e8e32d4cd14f43d3fc7fe4987e0893495c5beb61e9d1a0f21c754f102.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the restricted-area permit is included, since Nar Phu Valley requires special authorization beyond the standard Annapurna permit." }
+                ],
+                faqs: [
+                    { q: "Is the Nar Phu Valley trek worth it from Pokhara?", a: "Yes, for travelers wanting genuinely remote, Tibetan-influenced terrain beyond the standard Annapurna Circuit trail." }
+                ],
+            };
+
         case "is-maligaun-viewpoint-hike-worth-it-bhaktapur":
             return {
                 title: "Is the Maligaun Viewpoint Guided Hike Worth It from Bhaktapur?",
