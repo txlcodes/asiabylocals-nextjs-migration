@@ -1715,6 +1715,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tarot-card-reading-worth-it-delhi":
+      return {
+        title: "Is the Tarot Card Reading Experience Worth It in Delhi?",
+        description: "An honest look at the tarot card reading experience in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-tarot-card-reading-experience/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely novel, low-commitment activity distinct from the city's monument-heavy sightseeing — worth it specifically for travelers curious about the experience itself rather than expecting a literal prediction, treating it as entertainment and reflection rather than fact.",
+            tourCard: { slug: "delhi-tarot-card-reading-experience", title: "Delhi: Tarot Card Reading Experience", description: "A tarot card reading experience in Delhi.", price: "From $63", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-tarot-card-reading-experience/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with genuine curiosity rather than expecting a literal prediction — treat it as an interesting, reflective activity rather than fact.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tarot card reading experience worth it in Delhi?", a: "Yes, as a novel, low-commitment activity, specifically for travelers curious about the experience itself rather than a literal prediction." },
+        ],
+      };
+
+    case "is-art-craft-handicraft-tour-worth-it-delhi":
+      return {
+        title: "Is the New Delhi Art, Craft and Handicraft Tour Worth It?",
+        description: "An honest look at the New Delhi art, craft, and handicraft tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-art-craft-and-handicraft-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling multiple art, craft, and handicraft stops into one guided tour gives a broader overview of Delhi's creative traditions than committing to a single workshop, good for travelers who want variety across several crafts in one outing.",
+            tourCard: { slug: "new-delhi-art-craft-and-handicraft-tour", title: "New Delhi: Art, Craft and Handicraft Tour", description: "A tour covering multiple art, craft, and handicraft stops in Delhi.", price: "From $68", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/new-delhi-art-craft-and-handicraft-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask which specific crafts are included in advance, since the lineup can vary by operator and availability.",
+          },
+        ],
+        faqs: [
+          { q: "Is the art, craft, and handicraft tour worth it in Delhi?", a: "Yes, for a broader overview of several craft traditions in one outing, good for travelers who want variety over depth in a single workshop." },
+        ],
+      };
+
+    case "is-archeological-sites-tour-worth-it-delhi":
+      return {
+        title: "Is the Delhi Archeological Sites Tour Worth It?",
+        description: "An honest look at the Delhi archeological sites tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-archeological-sites-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dedicated archeological-sites tour connects several of Delhi's lesser-combined historical ruins in one day, giving a more comprehensive, specialist angle on the city's layered history than the standard Red Fort and Qutub Minar circuit alone.",
+            tourCard: { slug: "delhi-archeological-sites-tour", title: "Delhi Archeological Sites Tour", description: "A guided tour of multiple archeological sites across Delhi.", price: "From $80", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-archeological-sites-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A long, genuinely full day — best suited to travelers with a real interest in history rather than a casual sightseeing pace.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Delhi archeological sites tour worth it?", a: "Yes, for a more comprehensive, specialist angle on the city's layered history, beyond the standard Red Fort and Qutub Minar circuit." },
+        ],
+      };
+
+    case "is-old-delhi-photo-tour-worth-it-delhi":
+      return {
+        title: "Is the Old Delhi Photo Tour Worth It?",
+        description: "An honest look at the Old Delhi photo tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guide who already knows Old Delhi's most photogenic lanes, markets, and light conditions can genuinely save real time compared to wandering and hoping to stumble onto good shots, worth it specifically for travelers who care more about the photos than a deep historical narration.",
+            tourCard: { slug: "old-delhi-photo-tour", title: "Old Delhi Photo Tour", description: "A guided photography tour through Old Delhi's most photogenic spots.", price: "From $89", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book an early morning slot if possible — Old Delhi's narrow lanes get both crowded and harshly lit later in the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Old Delhi photo tour worth it?", a: "Yes, specifically for travelers prioritizing photos over deep historical context, since a knowledgeable guide saves real time finding good shots." },
+        ],
+      };
+
     default:
       return null;
   }
