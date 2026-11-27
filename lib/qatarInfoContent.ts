@@ -1922,6 +1922,90 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-north-qatar-purple-island-tour-worth-it-doha":
+      return {
+        title: "Is the North Qatar Highlights: Forts, Villages & Purple Island Tour Worth It?",
+        description: "An honest look at the North Qatar highlights tour covering forts, villages, and Purple Island.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour reaches further into North Qatar than the standard Al Zubarah fort day trip, adding fishing villages and the mangrove-lined Purple Island, worth it specifically for travelers who've already done the fort and want deeper regional coverage.",
+            tourCard: { slug: "north-qatar-highlights-forts-villages-purple", title: "North Qatar Highlights: Forts, Villages & Purple Island", description: "A tour covering North Qatar's forts, fishing villages, and Purple Island.", price: "From $59", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed shoes with good grip for Purple Island's mangrove boardwalks, which can get muddy at low tide.",
+          },
+        ],
+        faqs: [
+          { q: "Is the North Qatar Purple Island tour worth it?", a: "Yes, specifically for travelers who've already seen Al Zubarah fort and want deeper coverage of the region's villages and mangroves." },
+        ],
+      };
+
+    case "is-mia-park-kayaking-worth-it-doha":
+      return {
+        title: "Is Kayaking or Paddleboarding at MIA Park Worth It in Doha?",
+        description: "An honest look at kayaking or paddleboarding at MIA Park in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddling the calm waters right beside the Museum of Islamic Art gives a genuinely different, active perspective on Doha's skyline, worth it specifically for travelers wanting a quick, low-effort water activity close to the city center rather than a longer boat cruise.",
+            tourCard: { slug: "doha-kayaking-or-paddleboarding-at-mia-park", title: "Doha: Kayaking or Paddleboarding at MIA Park", description: "A kayaking or paddleboarding session at MIA Park in Doha.", price: "From $78", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book an early morning or evening slot to avoid the midday heat, since this is a short, exposed activity on open water.",
+          },
+        ],
+        faqs: [
+          { q: "Is kayaking at MIA Park worth it in Doha?", a: "Yes, for a quick, active way to see the skyline from the water close to the city center, without committing to a longer boat cruise." },
+        ],
+      };
+
+    case "is-west-bay-parasailing-worth-it-doha":
+      return {
+        title: "Is West Bay Parasailing Worth It in Doha?",
+        description: "An honest look at the West Bay parasailing experience up to 150 meters high in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Flying up to 150 meters over West Bay gives a genuinely different aerial view of Doha's skyline than any boat tour, worth it specifically for travelers wanting an adrenaline activity with a real skyline payoff rather than a jet ski or cruise alone.",
+            tourCard: { slug: "west-bay-doha-parasailing-up-to-150-meters-high", title: "West Bay, Doha: Parasailing Up to 150 Meters High", description: "A parasailing flight over West Bay, Doha, up to 150 meters high.", price: "From $91", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book earlier in the day when winds tend to be calmer and more consistent for a smoother flight.",
+          },
+        ],
+        faqs: [
+          { q: "Is West Bay parasailing worth it in Doha?", a: "Yes, for a genuinely different aerial view of the skyline, with more adrenaline than a boat tour or jet ski alone." },
+        ],
+      };
+
+    case "is-desert-moonlight-ride-worth-it-doha":
+      return {
+        title: "Is The Desert by Moonlight: Guided Ride with Tea & Stargazing Worth It?",
+        description: "An honest look at the Desert by Moonlight guided ride with tea and stargazing in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This slower, nighttime desert experience trades the dune-bashing adrenaline of standard safaris for a calmer guided ride, tea, and genuine stargazing, worth it specifically for travelers wanting a peaceful desert evening rather than another high-energy ATV or dune-bashing tour.",
+            tourCard: { slug: "the-desert-by-moonlight-guided-ride-with-tea", title: "The Desert by Moonlight: Guided Ride with Tea & Stargazing", description: "A guided moonlight desert ride with tea and stargazing.", price: "From $59", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd8f704142802d95324df891c9a998f43f6a93239eaba8fd824155dc435e3277.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light jacket — desert nights cool down noticeably compared to Doha's daytime heat.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Desert by Moonlight tour worth it in Doha?", a: "Yes, specifically for travelers wanting a calm, peaceful desert evening with real stargazing, rather than another high-energy dune-bashing tour." },
+        ],
+      };
+
     default:
       return null;
   }
