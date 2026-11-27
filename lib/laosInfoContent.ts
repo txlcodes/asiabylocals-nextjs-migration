@@ -1477,6 +1477,74 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-aroma-candle-heritage-home-worth-it-luang-prabang":
+            return {
+                title: "Is Craft Your Own Aroma Candle in a Heritage Home Worth It?",
+                description: "An honest look at the aroma candle crafting experience in a heritage home in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f0984ca53fdb3b5b5c6bdd03dc5bd53f515bf7ba686d8268c8885dd66c4dd84f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Making your own scented candle inside a genuine heritage home gives this craft activity real atmosphere beyond a generic workshop space, worth it for travelers wanting a relaxed, personal souvenir activity.", tourCard: { slug: "luang-prabang-heritage-heritage-tour", title: "Luang Prabang: Craft Your Own Aroma Candle in Heritage Home", description: "A hands-on aroma candle crafting experience in a heritage home.", price: "From $38", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f0984ca53fdb3b5b5c6bdd03dc5bd53f515bf7ba686d8268c8885dd66c4dd84f.jpg" } },
+                    { title: "Practical Tips", content: "Let your candle fully set before packing it for travel, especially in warm weather." },
+                ],
+                faqs: [
+                    { q: "Is the aroma candle crafting experience in a heritage home worth it?", a: "Yes, the genuine heritage home setting gives this craft activity real atmosphere beyond a generic workshop." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the aroma candle workshop worth it in a heritage home?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the genuine heritage home setting gives real atmosphere beyond a generic workshop." } },
+                ] },
+            };
+
+        case "is-buddhas-light-stage-show-worth-it-luang-prabang":
+            return {
+                title: "Is Buddha's Light Stage Show Worth It in Luang Prabang?",
+                description: "An honest look at Buddha's Light stage show in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/76bd8039ca23daeea2ec50804c88b55fae0b23e8af7d25deafa5c96144f48763.png",
+                sections: [
+                    { title: "The Short Answer", content: "This evening show covers traditional Lao culture and Buddhist themes through staged performance, worth it as an entertaining, easy way to close out a day of temple sightseeing with some context beyond what the temples themselves can show you.", tourCard: { slug: "luang-prabang-buddha-entry-ticket", title: "Luang Prabang: Buddha's Light Stage Show Ticket", description: "A ticket to the Buddha's Light evening stage show.", price: "From $49", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/76bd8039ca23daeea2ec50804c88b55fae0b23e8af7d25deafa5c96144f48763.png" } },
+                    { title: "Practical Tips", content: "Book ahead for a good seat — this is a popular evening show with limited nightly capacity." },
+                ],
+                faqs: [
+                    { q: "Is Buddha's Light stage show worth it in Luang Prabang?", a: "Yes, as an entertaining way to close out a day of temple sightseeing with added cultural context." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Buddha's Light stage show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as an entertaining evening activity with cultural context." } },
+                ] },
+            };
+
+        case "is-xiengman-baci-blessing-tour-worth-it-luang-prabang":
+            return {
+                title: "Is the Xiengman Sacred Temple Tour with Baci Blessing Worth It?",
+                description: "An honest look at the Xiengman sacred temple tour with a Baci blessing by monks in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccdfaf4acce859175f0a711728453cc95362c0289ae61c924c7e26759c036af6.png",
+                sections: [
+                    { title: "The Short Answer", content: "The Baci ceremony is a genuine Lao spiritual blessing ritual, and receiving one from actual monks at Xiengman's sacred temples gives real cultural depth beyond a standard temple walk, worth it for travelers wanting a meaningful participatory experience.", tourCard: { slug: "xiengman-sacred-temple-tour-with-baci-blessing-by", title: "Xiengman: Sacred Temple Tour with Baci Blessing by Monks", description: "A sacred temple tour in Xiengman including a Baci blessing ceremony by monks.", price: "From $111", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccdfaf4acce859175f0a711728453cc95362c0289ae61c924c7e26759c036af6.png" } },
+                    { title: "Practical Tips", content: "Dress modestly and be genuinely present for the blessing — this is a real spiritual ritual, not a staged photo-op." },
+                ],
+                faqs: [
+                    { q: "Is the Xiengman sacred temple tour with Baci blessing worth it?", a: "Yes, it gives real cultural and spiritual depth beyond a standard temple walk, with a genuine participatory ritual." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Baci blessing tour worth it in Luang Prabang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives real spiritual depth beyond a standard temple walk." } },
+                ] },
+            };
+
+        case "is-hidden-village-walk-crafts-worth-it-luang-prabang":
+            return {
+                title: "Is the Hidden Village Walk & Local Crafts Experience Worth It?",
+                description: "An honest look at the hidden village walk and local crafts experience in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This walk goes beyond the old town into a lesser-visited village with hands-on local crafts, worth it for travelers who want a genuinely quieter, more local-life side of Luang Prabang distinct from the UNESCO heritage core.", tourCard: { slug: "luang-prabang-hidden-village-walk-local-crafts", title: "Luang Prabang Hidden Village Walk & Local Crafts Experience", description: "A guided walk through a lesser-visited village with hands-on local crafts.", price: "From $110", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b6667cb6c157c7c7ed6ddcdb68e588c980520f24ba7a1965b1508eabf04650b8.jpg" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes and bring small cash in case you want to buy any handmade crafts directly from the village." },
+                ],
+                faqs: [
+                    { q: "Is the hidden village walk and local crafts experience worth it?", a: "Yes, for a genuinely quieter, more local side of Luang Prabang, distinct from the UNESCO heritage core." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the hidden village walk worth it in Luang Prabang?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely quieter, more local side of the city beyond the heritage core." } },
+                ] },
+            };
+
         default:
             return null;
     }
