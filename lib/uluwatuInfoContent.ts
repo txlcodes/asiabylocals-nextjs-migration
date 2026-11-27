@@ -1212,6 +1212,90 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-padang-padang-photoshoot-worth-it-uluwatu":
+      return {
+        title: "Is the Padang Padang Beach Private Photoshoot Worth It in Uluwatu?",
+        description: "An honest look at the private photoshoot experience at Padang Padang Beach in Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/padang-padang-beach-private-photoshoot-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Padang Padang's dramatic cliff-framed cove is a genuinely photogenic spot, and having a dedicated photographer handle the session gets you real, professional-quality shots rather than awkward self-timer attempts on a tripod.",
+            tourCard: { slug: "padang-padang-beach-private-photoshoot-in-uluwatu", title: "Padang Padang Beach Private Photoshoot in Uluwatu", description: "A private professional photoshoot at Padang Padang Beach.", price: "From $86", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/padang-padang-beach-private-photoshoot-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for golden hour if possible — the cliff lighting at Padang Padang is at its best in the early morning or late afternoon.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Padang Padang photoshoot worth it in Uluwatu?", a: "Yes, for genuinely professional-quality shots at one of Bali's most photogenic beaches, without the hassle of a self-timer setup." },
+        ],
+      };
+
+    case "is-sunset-dinner-cruise-buffet-show-worth-it-uluwatu":
+      return {
+        title: "Is the Sunset Dinner Cruise with Buffet and Live Show Worth It in Uluwatu?",
+        description: "An honest look at the sunset dinner cruise with buffet and live show from Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sunset-dinner-cruise-with-buffet-and-live-show-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling a sunset cruise with a full buffet dinner and a live show gives a genuinely complete evening in one booking, a good value alternative to arranging the kecak temple sunset show and a separate dinner yourself.",
+            tourCard: { slug: "sunset-dinner-cruise-with-buffet-and-live-show-in-uluwatu", title: "Sunset Dinner Cruise with Buffet and Live Show in Uluwatu", description: "A sunset dinner cruise with a buffet and live show.", price: "From $103", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sunset-dinner-cruise-with-buffet-and-live-show-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the show schedule when booking, since timing it with sunset is the main draw of this combination.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sunset dinner cruise with live show worth it in Uluwatu?", a: "Yes, it's a good-value way to combine a sunset cruise, full dinner, and live entertainment in one booking." },
+        ],
+      };
+
+    case "is-south-coast-3-beaches-tour-worth-it-uluwatu":
+      return {
+        title: "Is the South Coast 3 Beaches and Sunset Tour Worth It in Uluwatu?",
+        description: "An honest look at the South Coast 3 beaches and sunset tour in Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/south-coast-3-beaches-and-sunset-tour-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hitting three distinct south coast beaches in one day, ending with sunset, gives genuinely efficient coverage of the area's best coastline without needing to arrange separate trips to each one.",
+            tourCard: { slug: "south-coast-3-beaches-and-sunset-tour-in-uluwatu", title: "South Coast 3 Beaches and Sunset Tour in Uluwatu", description: "A tour covering three south coast beaches ending at sunset.", price: "From $68", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/south-coast-3-beaches-and-sunset-tour-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm exactly which three beaches are included before booking, since the specific combination can vary by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the South Coast 3 Beaches tour worth it in Uluwatu?", a: "Yes, for efficient coverage of several of the area's best beaches in one day, ending with sunset." },
+        ],
+      };
+
+    case "is-mangrove-kayaking-tour-worth-it-uluwatu":
+      return {
+        title: "Is the South Bali Mangrove Kayaking Tour Worth It from Uluwatu?",
+        description: "An honest look at the private customizable mangrove kayaking tour from Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/south-bali-private-customizable-mangrove-kayaking-tour-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddling through South Bali's mangrove forest gives a genuinely calm, nature-focused activity distinct from Uluwatu's surf-and-cliff scene, a good pick for travelers wanting a quieter day away from the beach crowds.",
+            tourCard: { slug: "south-bali-private-customizable-mangrove-kayaking-tour-uluwatu", title: "South Bali Private Customizable Mangrove Kayaking Tour (Uluwatu)", description: "A private, customizable mangrove kayaking tour in South Bali.", price: "From $126", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/south-bali-private-customizable-mangrove-kayaking-tour-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A reasonable fitness level helps for the paddling, though the mangrove waters are generally calm and beginner-friendly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the mangrove kayaking tour worth it from Uluwatu?", a: "Yes, for a calm, nature-focused day away from the area's surf-and-cliff scene." },
+        ],
+      };
+
     default:
       return null;
   }
