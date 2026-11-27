@@ -1696,6 +1696,48 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-desert-horse-ride-worth-it-riyadh":
+            return {
+                title: "Is the Desert Horse Ride Tour Worth It in Riyadh?",
+                description: "An honest look at the desert horse ride tour near Riyadh.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a horse through the desert gives a genuinely different pace and experience than the city's camel-and-ATV combo tours, worth it specifically for travelers with some riding experience wanting a calmer, more focused equestrian activity.", tourCard: { slug: "desert-horse-ride-tour-riyadh", title: "Desert Horse Ride Tour Riyadh", description: "A guided desert horse ride tour near Riyadh.", price: "From $259", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg" } },
+                    { title: "Practical Tips", content: "Mention your riding experience level when booking, since pacing and routes can be adjusted for beginners versus more experienced riders." },
+                ],
+                faqs: [
+                    { q: "Is the desert horse ride tour worth it in Riyadh?", a: "Yes, specifically for travelers with some riding experience wanting a calmer, equestrian-focused desert activity, distinct from the city's camel-and-ATV combos." },
+                ],
+            };
+
+        case "is-national-museum-souq-ushaiger-tour-worth-it-riyadh":
+            return {
+                title: "Is the Riyadh Heritage Tour from National Museum to Souq Ushaiger Worth It?",
+                description: "An honest look at the Riyadh heritage tour from the National Museum to Souq Ushaiger.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the National Museum with the historic village of Souq Ushaiger covers both curated exhibits and an authentic mud-brick village, worth it specifically for travelers wanting deeper historical range beyond the city's main Masmak Fort and souq circuit.", tourCard: { slug: "riyadh-heritage-tour-from-national-museum-to-souq", title: "Riyadh: Heritage Tour from National Museum to Souq Ushaiger", description: "A heritage tour from Riyadh's National Museum to Souq Ushaiger village.", price: "From $272", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes for Souq Ushaiger's uneven, historic mud-brick streets." },
+                ],
+                faqs: [
+                    { q: "Is the National Museum to Souq Ushaiger heritage tour worth it?", a: "Yes, specifically for travelers wanting deeper historical range beyond the city's main Masmak Fort and souq circuit." },
+                ],
+            };
+
+        case "is-riyadh-highlights-local-food-tour-worth-it-riyadh":
+            return {
+                title: "Is the Riyadh Highlights City Tour & Local Food Experience Worth It?",
+                description: "An honest look at the Riyadh highlights city tour combined with a local food experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling the city's main highlights with a dedicated local food experience covers both sightseeing and cuisine in one booking, worth it specifically for travelers wanting a well-rounded introduction without arranging a separate food tour.", tourCard: { slug: "riyadh-highlights-city-tour-local-food-experience", title: "Riyadh Highlights City Tour & Local Food Experience", description: "A city highlights tour combined with a local food experience in Riyadh.", price: "From $780", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9b71ddfedb512fa944fc533e08e4fdb315b1e3e7ab60e91aa8c1d0da674d0ed9.jpeg" } },
+                    { title: "Practical Tips", content: "Come hungry for the food portion, and confirm which specific landmarks are included in the sightseeing half." },
+                ],
+                faqs: [
+                    { q: "Is the Riyadh highlights and local food tour worth it?", a: "Yes, for travelers wanting a well-rounded introduction covering both main sights and cuisine in one booking." },
+                ],
+            };
+
         case "is-hajj-route-artisans-alley-tour-worth-it-jeddah":
             return {
                 title: "Is the Historic Hajj Route & Artisans' Alley Tour Worth It in Jeddah?",

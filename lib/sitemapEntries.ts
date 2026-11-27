@@ -849,6 +849,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-paragliding-buggy-adventure-worth-it-riyadh', 'is-misk-institute-art-tour-worth-it-riyadh',
     'is-masmak-fort-souq-tour-worth-it-riyadh', 'is-farm-adventure-atv-horse-worth-it-riyadh',
     'is-vip-city-tour-saudi-cuisine-worth-it-riyadh', 'is-kingdom-tower-faisaliah-tour-worth-it-riyadh',
+    'is-desert-horse-ride-worth-it-riyadh', 'is-national-museum-souq-ushaiger-tour-worth-it-riyadh',
+    'is-riyadh-highlights-local-food-tour-worth-it-riyadh',
   ], 'saudi-arabia', 'riyadh');
 
   const jeddahInfoPages = mapInfoSlugs([
