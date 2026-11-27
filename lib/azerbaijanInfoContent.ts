@@ -630,6 +630,74 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-socialist-architecture-mosaic-tour-worth-it-baku":
+            return {
+                title: "Is the Local Historian's Socialist Architecture & Mosaic Tour Worth It?",
+                description: "An honest look at the socialist architecture and mosaic walking tour led by a local historian in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e2ace79192a14138021562b83b3a249ee197e9d81c8b6fe953f11e18a285ccb.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Led by a genuine historian specializing in the subject, this tour covers Baku's Soviet-era mosaics and socialist architecture, a genuinely niche angle on the city's history distinct from the Old City and modern skyline sightseeing most visitors focus on.", tourCard: { slug: "baku-local-historians-socialist-architecture", title: "Baku: Local Historian's Socialist Architecture & Mosaic Tour", description: "A walking tour of Baku's socialist architecture and mosaics led by a local historian.", price: "From $26", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e2ace79192a14138021562b83b3a249ee197e9d81c8b6fe953f11e18a285ccb.jpg" } },
+                    { title: "Practical Tips", content: "Ask the historian plenty of questions — their specialist knowledge is the main reason this tour is worth it over a generic city walk." },
+                ],
+                faqs: [
+                    { q: "Is the socialist architecture and mosaic tour worth it in Baku?", a: "Yes, it gives a genuinely niche, expert-led angle on the city's Soviet-era history, distinct from the Old City and skyline sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the socialist architecture and mosaic tour worth it in Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely niche, expert-led angle on the city's Soviet-era history." } },
+                ] },
+            };
+
+        case "is-caspian-sea-rowing-worth-it-baku":
+            return {
+                title: "Is Rowing a Boat on the Caspian Sea Worth It in Baku?",
+                description: "An honest look at rowing a boat on the Caspian Sea with skyline views in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6985cf8873f97cd4c0826aa2352a287c74f84fe4282a956bb8b5fdd88b13acbc.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A simple, self-powered rowing experience on the Caspian Sea gives genuinely good skyline views of Baku's Flame Towers and waterfront from the water, worth it for travelers wanting an active, low-cost alternative to a standard boat cruise.", tourCard: { slug: "baku-rowing-a-boat-on-the-caspian-sea-with", title: "Baku: Rowing a Boat on the Caspian Sea with Skyline Views", description: "A self-powered rowing boat experience on the Caspian Sea with Baku skyline views.", price: "From $37", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6985cf8873f97cd4c0826aa2352a287c74f84fe4282a956bb8b5fdd88b13acbc.jpeg" } },
+                    { title: "Practical Tips", content: "Go in the early morning or evening for calmer water and better light on the skyline." },
+                ],
+                faqs: [
+                    { q: "Is rowing a boat on the Caspian Sea worth it in Baku?", a: "Yes, as an active, low-cost way to get genuinely good skyline views of the city from the water." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Caspian Sea rowing worth it in Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for active, low-cost skyline views of the city from the water." } },
+                ] },
+            };
+
+        case "is-eastern-bazaar-tour-worth-it-baku":
+            return {
+                title: "Is the Eastern Bazaar Guided Tour Worth It in Baku?",
+                description: "An honest look at the Eastern Bazaar guided tour in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa0b250a8e0040b075c42fff44d1d249753f7f11cb7be5d56cda12cf1bebbead.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A guided walk through the Eastern Bazaar gives real context on local produce, spices, and shopping customs that are easy to miss browsing on your own, worth it for travelers who want more than a quick photo stop at the market.", tourCard: { slug: "baku-eastern-bazaar-guided-tour", title: "Baku: Eastern Bazaar Guided Tour", description: "A guided tour through Baku's Eastern Bazaar market.", price: "From $38", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aa0b250a8e0040b075c42fff44d1d249753f7f11cb7be5d56cda12cf1bebbead.jpg" } },
+                    { title: "Practical Tips", content: "Bring small cash for any extra snacks or produce you want to sample or buy along the way." },
+                ],
+                faqs: [
+                    { q: "Is the Eastern Bazaar guided tour worth it in Baku?", a: "Yes, a guide adds real context on local produce and shopping customs that's easy to miss browsing alone." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Eastern Bazaar tour worth it in Baku?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a guide adds real context on local produce and shopping customs." } },
+                ] },
+            };
+
+        case "is-paint-baku-by-sea-worth-it-baku":
+            return {
+                title: "Is Paint Baku by the Sea Worth It?",
+                description: "An honest look at the Paint Baku by the Sea painting workshop in Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png",
+                sections: [
+                    { title: "The Short Answer", content: "A relaxed outdoor painting session along Baku's seafront, worth it as a calm, creative activity with a genuine seaside-skyline souvenir to take home, rather than another guided sightseeing stop.", tourCard: { slug: "paint-baku-by-the-sea", title: "Paint Baku by the Sea", description: "An outdoor painting workshop along Baku's seafront.", price: "From $35", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0ee81f691a6be9f22f4c1734f0652c56284b56ba85dfc400be2853f76b763d49.png" } },
+                    { title: "Practical Tips", content: "No prior painting experience is needed — this is designed as a relaxed, beginner-friendly session." },
+                ],
+                faqs: [
+                    { q: "Is Paint Baku by the Sea worth it?", a: "Yes, as a calm, creative activity with a genuine seaside-skyline souvenir, a nice change from sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is Paint Baku by the Sea worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a calm, creative activity with a genuine seaside-skyline souvenir." } },
+                ] },
+            };
+
         default:
             return null;
     }
