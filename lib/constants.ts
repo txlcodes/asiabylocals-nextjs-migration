@@ -1028,6 +1028,8 @@ export const BATUMI_INFO_SLUGS = [
   'is-shipwreck-boat-tour-worth-it-batumi', 'is-pub-crawl-worth-it-batumi',
   'is-turkey-sumela-day-trip-worth-it-batumi', 'is-mtirala-national-park-worth-it-batumi',
   'is-botanical-garden-tour-worth-it-batumi',
+  'is-kolkheti-georgian-amazon-worth-it-batumi', 'is-upper-ajara-tour-worth-it-batumi',
+  'is-black-sea-batumi-multiday-worth-it-batumi', 'is-georgian-dubai-extreme-dinner-worth-it-batumi',
 ];
 
 export const KUTAISI_INFO_SLUGS = [

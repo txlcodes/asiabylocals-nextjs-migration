@@ -1459,6 +1459,62 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-kolkheti-georgian-amazon-worth-it-batumi":
+            return {
+                title: "Is the Georgian Amazon & Kolkheti Park Tour Worth It from Batumi?",
+                description: "An honest look at the Georgian Amazon and Kolkheti National Park tour from Batumi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/db2da5289ca72371198257cd818a353fd1bb654488e49d2b99c385e0954ddb2b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kolkheti National Park's wetlands and waterways earn the 'Georgian Amazon' nickname for genuine reason, giving a completely different landscape from Batumi's beach and city scene, worth it for travelers wanting real wetland nature by boat.", tourCard: { slug: "from-batumi-georgian-amazon-kolkheti-park-tour", title: "From Batumi: Georgian Amazon & Kolkheti Park Tour", description: "A tour of Kolkheti National Park's wetlands from Batumi.", price: "From $169", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/db2da5289ca72371198257cd818a353fd1bb654488e49d2b99c385e0954ddb2b.jpg" } },
+                    { title: "Practical Tips", content: "Bring insect repellent, since the wetland environment means more bugs than Batumi's coastal city center." },
+                ],
+                faqs: [
+                    { q: "Is the Georgian Amazon and Kolkheti Park tour worth it from Batumi?", a: "Yes, for travelers wanting genuine wetland nature by boat, completely different from Batumi's beach and city scene." },
+                ],
+            };
+
+        case "is-upper-ajara-tour-worth-it-batumi":
+            return {
+                title: "Is the Upper Ajara Tour with Local Guide Worth It from Batumi?",
+                description: "An honest look at the Upper Ajara tour with a local guide from Batumi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8eb259a052ea99759c2a711c8fbc8e98fce870389b8e07c9b0ee94097045163.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Upper Ajara's mountain villages and traditions sit well above Batumi's coastal climate, giving genuine cultural and landscape contrast in one long day, worth it for travelers wanting to see the mountainous side of the Adjara region.", tourCard: { slug: "from-batumi-upper-ajara-tour-with-local-guide", title: "From Batumi: Upper Ajara Tour with local guide", description: "A tour of Upper Ajara's mountain villages from Batumi.", price: "From $195", duration: "14 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8eb259a052ea99759c2a711c8fbc8e98fce870389b8e07c9b0ee94097045163.jpeg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long 14-hour day given the mountain roads, so prepare for substantial travel time." },
+                ],
+                faqs: [
+                    { q: "Is the Upper Ajara tour worth it from Batumi?", a: "Yes, for travelers wanting genuine mountain-village culture and landscape contrast from Batumi's coastal climate." },
+                ],
+            };
+
+        case "is-black-sea-batumi-multiday-worth-it-batumi":
+            return {
+                title: "Is the Black Sea & Batumi Highlights Multi-Day Guided Nature Tour Worth It?",
+                description: "An honest look at the multi-day Black Sea and Batumi highlights guided nature tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/65b478d9e65cccfcd0e6ba40f7523f6dc0622bba11060019f363be76c381f185.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Six days gives genuine time to cover the Black Sea coast and Batumi's surrounding nature in depth, rather than rushing through on single-day excursions, worth it for travelers who want a complete regional nature overview.", tourCard: { slug: "black-sea-batumi-highlights-multi-day-guided", title: "Black Sea & Batumi Highlights: Multi-Day Guided Nature Tour", description: "A 6-day guided nature tour covering the Black Sea coast and Batumi highlights.", price: "From $1462", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/65b478d9e65cccfcd0e6ba40f7523f6dc0622bba11060019f363be76c381f185.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the exact daily itinerary before booking, since 'highlights' tours of this length can vary significantly in pacing between operators." },
+                ],
+                faqs: [
+                    { q: "Is the 6-day Black Sea and Batumi highlights tour worth it?", a: "Yes, for travelers wanting a complete regional nature overview with genuine time at each stop, rather than rushed single-day excursions." },
+                ],
+            };
+
+        case "is-georgian-dubai-extreme-dinner-worth-it-batumi":
+            return {
+                title: "Is the Batumi Georgian Dubai, Extreme Activities & Dinner Show Worth It?",
+                description: "An honest look at the Batumi Georgian Dubai tour with extreme activities and dinner show.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11411d7fd682388df654b0ee40b1fb03c4b06c086228306c95ae498818c6e3f7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Batumi's modern skyline earns the 'Georgian Dubai' nickname, and this tour pairs that architecture with extreme activities and a dinner show, giving a genuinely varied evening of adrenaline and entertainment.", tourCard: { slug: "batumi-georgian-dubai-extreme-activities-dinner", title: "Batumi: Georgian Dubai, Extreme Activities & Dinner Show", description: "A tour combining Batumi's modern skyline with extreme activities and a dinner show.", price: "From $169", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11411d7fd682388df654b0ee40b1fb03c4b06c086228306c95ae498818c6e3f7.jpg" } },
+                    { title: "Practical Tips", content: "Confirm exactly which extreme activities are included, since offerings can vary between operators running similarly named packages." },
+                ],
+                faqs: [
+                    { q: "Is the Georgian Dubai extreme activities and dinner show tour worth it?", a: "Yes, for travelers wanting a genuinely varied evening mixing Batumi's modern architecture with adrenaline activities and entertainment." },
+                ],
+            };
+
         case "is-racha-wine-tour-worth-it-kutaisi":
             return {
                 title: "Is the Racha Wine Tasting Day Trip Worth It from Kutaisi?",
