@@ -127,6 +127,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kumhar-gram-pottery-village-tour-worth-it-delhi', 'is-textile-trail-artisan-tour-worth-it-delhi',
     'is-tarot-card-reading-worth-it-delhi', 'is-art-craft-handicraft-tour-worth-it-delhi',
     'is-archeological-sites-tour-worth-it-delhi', 'is-old-delhi-photo-tour-worth-it-delhi',
+    'is-monkey-safari-walking-tour-worth-it-delhi', 'is-south-delhi-cycle-tour-worth-it-delhi',
+    'is-street-art-walk-chai-worth-it-delhi', 'is-chai-master-class-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

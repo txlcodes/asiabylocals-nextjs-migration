@@ -1799,6 +1799,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-monkey-safari-walking-tour-worth-it-delhi":
+      return {
+        title: "Is the Delhi Monkey Safari Guided Walking Tour Worth It?",
+        description: "An honest look at the Delhi monkey safari guided walking tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walking tour frames the city's resident monkey populations as a genuine wildlife-watching activity rather than just an occasional nuisance encounter, worth it specifically for travelers curious about urban wildlife and wanting a quirky, offbeat angle on Delhi beyond its usual monument circuit.",
+            tourCard: { slug: "delhi-monkey-safari-guided-walking-tour", title: "Delhi: Monkey Safari guided walking tour", description: "A guided walking tour focused on Delhi's resident monkey populations.", price: "From $26", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep food and loose items out of sight during the walk, since the monkeys are genuinely wild and opportunistic around visitors.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Delhi monkey safari walking tour worth it?", a: "Yes, specifically for travelers curious about urban wildlife and wanting a quirky, offbeat angle on the city beyond its usual monuments." },
+        ],
+      };
+
+    case "is-south-delhi-cycle-tour-worth-it-delhi":
+      return {
+        title: "Is the South Delhi Cycle Tour of Heritage, Art & Gardens Worth It?",
+        description: "An honest look at the South Delhi cycle tour covering heritage, art, and gardens.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering South Delhi's heritage sites, art spaces, and gardens by bike lets you reach more spread-out stops than walking allows, worth it specifically for travelers wanting an active way to see this greener, more spacious side of the city distinct from Old Delhi's dense lanes.",
+            tourCard: { slug: "south-delhi-cycle-tour-of-heritage-art-gardens", title: "South Delhi Cycle Tour of Heritage, Art & Gardens", description: "A cycling tour covering South Delhi's heritage sites, art spaces, and gardens.", price: "From $32", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go early in the morning to avoid both the heat and heavier traffic on South Delhi's wider roads.",
+          },
+        ],
+        faqs: [
+          { q: "Is the South Delhi cycle tour worth it?", a: "Yes, for travelers wanting an active way to cover South Delhi's spread-out heritage sites, art spaces, and gardens, distinct from Old Delhi's dense walking lanes." },
+        ],
+      };
+
+    case "is-street-art-walk-chai-worth-it-delhi":
+      return {
+        title: "Is the Street Art Walk with Chai & Snack Worth It in Delhi?",
+        description: "An honest look at the street art walk with chai and a snack in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This short walk pairs Delhi's street art scene with a casual chai and snack stop, worth it specifically for travelers wanting a quick, low-commitment creative activity rather than a full-length heritage or food tour.",
+            tourCard: { slug: "street-art-walk-with-chai-snack", title: "Street Art Walk with Chai & Snack", description: "A guided street art walk through Delhi with a chai and snack stop.", price: "From $29", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short add-on between bigger activities, given its brief duration and casual pace.",
+          },
+        ],
+        faqs: [
+          { q: "Is the street art walk with chai worth it in Delhi?", a: "Yes, specifically for travelers wanting a quick, low-commitment creative activity rather than a full-length tour." },
+        ],
+      };
+
+    case "is-chai-master-class-worth-it-delhi":
+      return {
+        title: "Is the Chai Master Class in an Indian Family Home Worth It?",
+        description: "An honest look at the chai master class held in an Indian family home in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning to brew proper chai in a real family home rather than a studio kitchen gives a genuinely more personal, domestic setting, worth it specifically for travelers wanting authentic home context alongside a specific, repeatable skill.",
+            tourCard: { slug: "chai-master-class-savor-food-in-an-indian-family", title: "Chai Master Class - Savor Food in an Indian Family Home", description: "A chai-making master class held in an Indian family home.", price: "From $29", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-photo-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pay attention to the specific spice ratios taught — this is the detail that's easiest to recreate at home afterward.",
+          },
+        ],
+        faqs: [
+          { q: "Is the chai master class worth it in Delhi?", a: "Yes, for a genuinely personal, home-based setting and a specific, repeatable skill, rather than a studio-style cooking class." },
+        ],
+      };
+
     default:
       return null;
   }
