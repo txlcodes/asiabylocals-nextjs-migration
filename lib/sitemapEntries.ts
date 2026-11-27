@@ -1129,6 +1129,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-hidden-villages-cycling-tour-worth-it-pokhara', 'is-rupakot-twin-lakes-hike-worth-it-pokhara',
     'is-gurkha-mountain-butterfly-museum-worth-it-pokhara', 'is-tibetan-refugee-settlement-tour-worth-it-pokhara',
     'is-tibetan-singing-bowl-sound-healing-worth-it-pokhara', 'is-hop-on-hop-off-city-tour-worth-it-pokhara',
+    'is-fewa-lake-sup-board-worth-it-pokhara', 'is-tibetan-monastery-prayer-tour-worth-it-pokhara',
+    'is-pumdikot-eagle-eye-tour-worth-it-pokhara', 'is-methlang-hill-tour-worth-it-pokhara',
   ], 'nepal', 'pokhara');
 
   const batumiInfoPages = mapInfoSlugs([

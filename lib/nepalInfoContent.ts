@@ -3145,6 +3145,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-fewa-lake-sup-board-worth-it-pokhara":
+            return {
+                title: "Is the Fewa Lake SUP Board Experience Worth It in Pokhara?",
+                description: "An honest look at the Fewa Lake stand-up paddle board experience in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Paddleboarding Fewa Lake gives a different, more active perspective than kayaking, worth it specifically for travelers wanting a balance-focused water activity with the Annapurna range reflected in the water as a backdrop.", tourCard: { slug: "pokhara-2-hours-fewa-lake-supboard-experience", title: "Pokhara: 2 hours Fewa Lake SupBoard Experience with transfer", description: "A 2-hour stand-up paddle board experience on Fewa Lake with transfer included.", price: "From $62", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg" } },
+                    { title: "Practical Tips", content: "Go in the early morning for the calmest water and the clearest mountain reflections." }
+                ],
+                faqs: [
+                    { q: "Is the Fewa Lake SUP board experience worth it in Pokhara?", a: "Yes, for a more active, balance-focused way to be on the water than kayaking, with the Annapurna range reflected as a backdrop." }
+                ],
+            };
+
+        case "is-tibetan-monastery-prayer-tour-worth-it-pokhara":
+            return {
+                title: "Is the Guided Tibetan Monastery Tour with Afternoon Prayer Worth It?",
+                description: "An honest look at the guided Tibetan monastery tour with afternoon prayer in Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Timing a visit around the monastery's actual afternoon prayer session gives a genuine, living religious experience rather than just viewing an empty building, worth it specifically for travelers wanting real cultural depth beyond the refugee settlement tour's historical framing.", tourCard: { slug: "pokhara-guided-tibetan-monastery-tour-with", title: "Pokhara: Guided Tibetan Monastery Tour with Afternoon Prayer", description: "A guided monastery tour timed around an afternoon prayer session.", price: "From $62", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg" } },
+                    { title: "Practical Tips", content: "Dress modestly and keep noise to a minimum during the actual prayer session — this is a genuine living practice, not a staged performance." }
+                ],
+                faqs: [
+                    { q: "Is the Tibetan monastery tour with afternoon prayer worth it in Pokhara?", a: "Yes, for travelers wanting a genuine, living religious experience timed around a real prayer session, rather than just viewing an empty building." }
+                ],
+            };
+
+        case "is-pumdikot-eagle-eye-tour-worth-it-pokhara":
+            return {
+                title: "Is the Pumdikot Tour: Eagle Eye Views of Pokhara Worth It?",
+                description: "An honest look at the Pumdikot tour with eagle eye views of Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pumdikot's viewpoint gives a genuinely different, elevated panorama over Pokhara and Fewa Lake than the more crowded World Peace Pagoda, worth it specifically for travelers wanting similar sweeping views without the heavier foot traffic.", tourCard: { slug: "pokhara-pumdikot-tour-eagle-eye-views-of-stunning", title: "Pokhara Pumdikot Tour: Eagle Eye Views of Stunning Pokhara", description: "A guided tour to the Pumdikot viewpoint for panoramic views over Pokhara.", price: "From $58", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg" } },
+                    { title: "Practical Tips", content: "Go for sunrise or sunset when the light over Fewa Lake and the mountains is at its best." }
+                ],
+                faqs: [
+                    { q: "Is the Pumdikot eagle eye tour worth it in Pokhara?", a: "Yes, for a genuinely sweeping panorama over Pokhara and Fewa Lake, without the heavier crowds of the World Peace Pagoda." }
+                ],
+            };
+
+        case "is-methlang-hill-tour-worth-it-pokhara":
+            return {
+                title: "Is the Methlang Hill Tour Worth It in Pokhara?",
+                description: "An honest look at the Methlang Hill tour covering culture, nature, and scenic views of Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Methlang Hill is a genuinely quieter viewpoint than Kahun Danda or Sarangkot, worth it specifically for travelers who've already done the main hikes and want a less-visited alternative with its own cultural and nature elements.", tourCard: { slug: "methlang-hill-tour-culture-nature-scenic-view-of", title: "Methlang Hill Tour: Culture, Nature & Scenic View of Pokhara", description: "A tour of Methlang Hill covering culture, nature, and scenic views.", price: "From $45", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e652f53fc9b2d6f711039975f865015f12280ae02b7e2c01d3729e0fe4c1a191.jpeg" } },
+                    { title: "Practical Tips", content: "Wear sturdy shoes — this is a genuine hike, not a drive-up viewpoint." }
+                ],
+                faqs: [
+                    { q: "Is the Methlang Hill tour worth it in Pokhara?", a: "Yes, specifically for travelers who've already done Kahun Danda or Sarangkot and want a quieter, less-visited alternative viewpoint." }
+                ],
+            };
+
         case "is-maligaun-viewpoint-hike-worth-it-bhaktapur":
             return {
                 title: "Is the Maligaun Viewpoint Guided Hike Worth It from Bhaktapur?",
