@@ -2098,6 +2098,66 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-11day-cambodia-phnom-penh-siem-reap-worth-it-siem-reap":
+            return {
+                title: "Is the 11-Day Cambodia Tour (Phnom Penh, Siem Reap & Beyond) Worth It?",
+                description: "An honest look at the 11-day Cambodia tour covering Phnom Penh, Siem Reap, and more.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/11-day-cambodia-tour-visit-phnom-penh-siem-reap-and-beyond/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Eleven days gives genuine time to cover Phnom Penh's history, Siem Reap's temples, and additional stops beyond the two main cities, worth it for travelers wanting a complete Cambodia overview without rushing between highlights.",
+                    tourCard: { slug: "11-day-cambodia-tour-visit-phnom-penh-siem-reap", title: "11-Day Cambodia Tour: visit Phnom Penh, Siem Reap and Beyond", description: "An 11-day tour covering Phnom Penh, Siem Reap, and additional Cambodia destinations.", price: "From $4119", duration: "11 days", image: "https://images.asiabylocals.com/asiabylocals/tours/11-day-cambodia-tour-visit-phnom-penh-siem-reap-and-beyond/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm exactly which destinations fall under 'and beyond' before booking, since the specifics vary between operators offering similarly named packages." }
+                ],
+                faqs: [
+                    { q: "Is the 11-day Cambodia tour worth it?", a: "Yes, for travelers wanting a complete overview of Phnom Penh, Siem Reap, and beyond without rushing between highlights." }
+                ],
+            };
+
+        case "is-siem-reap-phnom-penh-landcruise-worth-it-siem-reap":
+            return {
+                title: "Is the Siem Reap to Phnom Penh Full-Day Land/Cruise Tour Worth It?",
+                description: "An honest look at the Siem Reap to Phnom Penh full-day land and cruise transfer tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-to-phnom-penh-full-day-land-cruise-tour-one-way/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a Tonle Sap boat cruise with the overland leg to Phnom Penh turns what would otherwise be a dull transfer day into genuine sightseeing, worth it for travelers heading to Phnom Penh who want the journey itself to be part of the trip.",
+                    tourCard: { slug: "siem-reap-to-phnom-penh-full-day-landcruise-tour", title: "Siem Reap to Phnom Penh Full-Day land/cruise tour (one way)", description: "A full-day land and cruise transfer from Siem Reap to Phnom Penh.", price: "From $572", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/siem-reap-to-phnom-penh-full-day-land-cruise-tour-one-way/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This takes considerably longer than a direct bus or flight, so only choose it if you want the Tonle Sap scenery, not the fastest route." }
+                ],
+                faqs: [
+                    { q: "Is the Siem Reap to Phnom Penh land/cruise tour worth it?", a: "Yes, for travelers wanting the journey itself to be genuine sightseeing, rather than just the fastest way to reach Phnom Penh." }
+                ],
+            };
+
+        case "is-24day-cambodia-discovery-worth-it-siem-reap":
+            return {
+                title: "Is the 24-Day Cambodia Discovery Tour Worth It?",
+                description: "An honest look at the 24-day Cambodia Discovery tour covering temples, wildlife, and beaches.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/24-day-cambodia-discovery-from-temple-and-wildlife-to-beaches/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Twenty-four days is enough time to genuinely explore Cambodia in depth, from the Angkor temples to wildlife areas to coastal beaches, worth it specifically for travelers with a long trip planned who want the complete country rather than just the highlights.",
+                    tourCard: { slug: "24-day-cambodia-discovery-from-temple-and-wildlife", title: "24-Day Cambodia Discovery: From Temple and Wildlife to Beaches", description: "A 24-day tour covering Cambodia's temples, wildlife, and beaches.", price: "From $7430", duration: "24 days", image: "https://images.asiabylocals.com/asiabylocals/tours/24-day-cambodia-discovery-from-temple-and-wildlife-to-beaches/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the cancellation and date-change policy before booking, since a trip this long carries more risk of needing adjustments." }
+                ],
+                faqs: [
+                    { q: "Is the 24-day Cambodia Discovery tour worth it?", a: "Yes, specifically for travelers with a long trip planned who want the entire country covered in depth, not just the highlights." }
+                ],
+            };
+
+        case "is-siem-reap-10day-koh-rong-worth-it-siem-reap":
+            return {
+                title: "Is the 10-Day Cambodia Tour with Koh Rong Island Worth It from Siem Reap?",
+                description: "An honest look at the 10-day Cambodia tour with Koh Rong Island from Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-siem-reap-10-day-cambodia-tour-with-koh-rong-island/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing Siem Reap's temples with a stretch of beach time on Koh Rong Island gives genuine balance between culture and relaxation over 10 days, worth it for travelers who want both without arranging the coastal leg separately.",
+                    tourCard: { slug: "from-siem-reap-10-day-cambodia-tour-with-koh", title: "From Siem Reap: 10-Day Cambodia Tour with Koh Rong Island", description: "A 10-day Cambodia tour combining Siem Reap's temples with Koh Rong Island.", price: "From $1299", duration: "10 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-siem-reap-10-day-cambodia-tour-with-koh-rong-island/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book Koh Rong accommodation in advance during peak season, since the island's limited rooms fill up quickly." }
+                ],
+                faqs: [
+                    { q: "Is the 10-day Cambodia tour with Koh Rong Island worth it?", a: "Yes, for travelers wanting genuine balance between temple culture and beach relaxation without arranging the coastal leg separately." }
+                ],
+            };
+
         default:
             return null;
     }

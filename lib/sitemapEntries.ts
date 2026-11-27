@@ -1737,6 +1737,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-west-baray-cycling-tour-worth-it-siem-reap', 'is-kampot-kep-countryside-tour-worth-it-siem-reap',
     'is-sky-venture-microlight-worth-it-siem-reap', 'is-banteay-chhmar-fortress-worth-it-siem-reap',
     'is-preah-khan-kampong-svay-sambo-prei-kuk-worth-it-siem-reap', 'is-kulen-jeep-elephant-forest-worth-it-siem-reap',
+    'is-11day-cambodia-phnom-penh-siem-reap-worth-it-siem-reap', 'is-siem-reap-phnom-penh-landcruise-worth-it-siem-reap',
+    'is-24day-cambodia-discovery-worth-it-siem-reap', 'is-siem-reap-10day-koh-rong-worth-it-siem-reap',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/siem-reap/${slug}`,
     lastModified: new Date(),
