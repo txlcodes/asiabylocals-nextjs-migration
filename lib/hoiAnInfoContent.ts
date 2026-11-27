@@ -964,6 +964,90 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-incense-making-workshop-worth-it-hoi-an":
+      return {
+        title: "Is the Incense Making Workshop Worth It in Hoi An?",
+        description: "An honest look at the incense making workshop in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-incense-making-workshop-experience/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Incense making is a genuine traditional craft in central Vietnam, and this workshop teaches the rolling and drying process hands-on, worth it as a relaxed, low-commitment activity distinct from Hoi An's lantern-making and tailoring experiences.",
+            tourCard: { slug: "hoi-an-incense-making-workshop-experience", title: "Hoi An Incense Making Workshop Experience", description: "A hands-on traditional incense making workshop.", price: "From $26", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-incense-making-workshop-experience/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Let your incense fully dry before packing it for the trip home, so it doesn't warp or stick together.",
+          },
+        ],
+        faqs: [
+          { q: "Is the incense making workshop worth it in Hoi An?", a: "Yes, as a relaxed, genuinely traditional craft activity distinct from the town's lantern-making and tailoring workshops." },
+        ],
+      };
+
+    case "is-teh-dar-bamboo-circus-worth-it-hoi-an":
+      return {
+        title: "Is Teh Dar, the Bamboo Circus, Worth It in Hoi An?",
+        description: "An honest look at Teh Dar, the bamboo circus show in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/teh-dar-unique-bamboo-circus-under-an-iconic-dome-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Teh Dar stages Vietnamese highland culture through acrobatics and bamboo performance under a distinctive dome, worth it as a genuinely well-produced evening show rather than a generic cultural dinner performance.",
+            tourCard: { slug: "teh-dar-unique-bamboo-circus-under-an-iconic-dome-in-hoi-an", title: "Teh Dar - Unique Bamboo Circus Under An Iconic Dome", description: "A bamboo circus and acrobatics performance under an iconic dome.", price: "From $36", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/teh-dar-unique-bamboo-circus-under-an-iconic-dome-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead for a good seat — this is a popular, well-regarded show with limited nightly capacity.",
+          },
+        ],
+        faqs: [
+          { q: "Is Teh Dar, the bamboo circus, worth it in Hoi An?", a: "Yes, it's a genuinely well-produced acrobatic show, distinct from a generic cultural dinner performance." },
+        ],
+      };
+
+    case "is-wood-carving-class-worth-it-hoi-an":
+      return {
+        title: "Is the Wood Carving Class with a Village Master Artisan Worth It?",
+        description: "An honest look at the wood carving class with a village master artisan in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wood-carving-class-with-village-master-artisan-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning directly from a master artisan at a traditional carving village gives genuine insight into a regional craft, worth it for travelers who want a hands-on connection to Hoi An's artisan tradition beyond browsing finished pieces in a shop.",
+            tourCard: { slug: "wood-carving-class-with-village-master-artisan-in-hoi-an", title: "Wood Carving Class with Village Master Artisan in Hoi An", description: "A hands-on wood carving class taught by a village master artisan.", price: "From $35", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wood-carving-class-with-village-master-artisan-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting wood dust on, and ask the artisan about the traditional motifs if they're not already explained.",
+          },
+        ],
+        faqs: [
+          { q: "Is the wood carving class with a village master artisan worth it in Hoi An?", a: "Yes, for genuine hands-on insight into a regional craft tradition, beyond just browsing finished pieces in a shop." },
+        ],
+      };
+
+    case "is-ghosts-mystery-tour-worth-it-hoi-an":
+      return {
+        title: "Is the Hoi An Ghosts, Death, Mystery Unveiled Tour Worth It?",
+        description: "An honest look at the Hoi An Ghosts, Death, Mystery Unveiled walking tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour covers local folklore, ghost stories, and death rituals tied to Hoi An's ancient town, worth it for travelers who want a distinctly different evening angle on the town's history beyond the usual lantern-lit photo walks.",
+            tourCard: { slug: "hoi-an-ghosts-death-mystery-unveiled-by-local-operator", title: "Hoi An Ghosts, Death, Mystery Unveiled", description: "A guided evening walking tour covering local ghost folklore and death rituals.", price: "From $27", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with an open mind for folklore rather than expecting a scare-focused ghost tour — the format leans toward storytelling and cultural context.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hoi An Ghosts, Death, Mystery Unveiled tour worth it?", a: "Yes, it offers a genuinely different, folklore-focused angle on the town's history beyond the usual lantern-lit sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
