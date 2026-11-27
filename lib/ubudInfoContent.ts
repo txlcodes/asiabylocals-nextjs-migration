@@ -2529,6 +2529,90 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-wood-carving-experience-worth-it-ubud":
+      return {
+        title: "Is the Ubud Wood Carving Experience Worth It?",
+        description: "An honest look at the wood carving experience in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ubud has a genuine tradition of Balinese wood carving, and this hands-on workshop teaches real technique rather than just selling a finished piece, worth it for travelers wanting a tangible craft skill and souvenir distinct from the city's silver-jewelry and batik options.",
+            tourCard: { slug: "ubud-wood-carving-experience-ubud", title: "Ubud Wood Carving Experience", description: "A hands-on traditional Balinese wood carving workshop in Ubud.", price: "From $38", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished carving needs time to cure before travel — ask the workshop how best to pack it for your trip home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the wood carving experience worth it in Ubud?", a: "Yes, for a genuine hands-on craft skill and a tangible souvenir, distinct from the city's jewelry and batik workshops." },
+        ],
+      };
+
+    case "is-macrame-workshop-worth-it-ubud":
+      return {
+        title: "Is the Macramé Bag Making Workshop at BK Creative Hub Worth It?",
+        description: "An honest look at the macramé bag making workshop at BK Creative Hub in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Macramé knotting is a genuinely different textile craft from Ubud's usual batik and wood-carving workshops, worth it specifically for travelers wanting a practical, usable souvenir — a finished bag — rather than purely decorative artwork.",
+            tourCard: { slug: "macram-bag-making-workshop-at-bk-creative-hub-in-ubud", title: "Macramé Bag Making Workshop at BK Creative Hub in Ubud", description: "A hands-on macramé bag making workshop at BK Creative Hub in Ubud.", price: "From $42", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior crafting experience is needed — the knotting technique is taught step by step for complete beginners.",
+          },
+        ],
+        faqs: [
+          { q: "Is the macramé bag making workshop worth it in Ubud?", a: "Yes, for a practical, usable souvenir you can actually carry, rather than purely decorative craft artwork." },
+        ],
+      };
+
+    case "is-keliki-painting-experience-worth-it-ubud":
+      return {
+        title: "Is the Threads of Tradition Keliki Painting Experience Worth It in Ubud?",
+        description: "An honest look at the miniature Keliki painting experience near Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Keliki painting is a genuine, highly detailed miniature Balinese art style named after the village where it originated, worth it specifically for travelers wanting a traditional cultural craft rather than the more generic still-life painting session offered elsewhere in Ubud.",
+            tourCard: { slug: "threads-of-tradition-a-miniature-keliki-painting-experience-in-ubud", title: "Threads of Tradition: A Miniature Keliki Painting Experience in Ubud", description: "A miniature Keliki painting experience near Ubud.", price: "From $38", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect fine, detailed brushwork — this is a slower, more meticulous style than a loose, quick painting session.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Keliki painting experience worth it in Ubud?", a: "Yes, specifically for travelers wanting a traditional, culturally rooted Balinese art style rather than a generic painting session." },
+        ],
+      };
+
+    case "is-gianyar-night-market-food-tour-worth-it-ubud":
+      return {
+        title: "Is the Gianyar Night Market Food Tour Worth It from Ubud?",
+        description: "An honest look at the Gianyar night market food tour with 17+ tastings from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gianyar's night market is a genuinely local food scene rarely visited by tourists, and this tour's 17-plus tastings cover far more ground than a single restaurant meal, worth it specifically for travelers wanting an authentic, high-volume food experience after dark.",
+            tourCard: { slug: "gianyar-night-market-food-tour-with-up-to-17-tastings-in-ubud", title: "Gianyar Night Market Food Tour with up to 17+ Tastings in Ubud", description: "A night market food tour in Gianyar with up to 17 tastings.", price: "From $42", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/still-life-painting-workshop-at-bk-creative-hub-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across the stops — with 17-plus tastings, this is meant to be a grazing experience, not a single large meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Gianyar night market food tour worth it from Ubud?", a: "Yes, for an authentic, high-volume local food experience covering far more ground than a single restaurant meal." },
+        ],
+      };
+
     default:
       return null;
   }

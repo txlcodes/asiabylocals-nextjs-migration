@@ -2646,6 +2646,8 @@ export const UBUD_INFO_SLUGS = [
   'is-silver-jewelry-making-worth-it-ubud', 'is-trunyan-village-tour-worth-it-ubud',
   'is-lovina-dolphin-watching-worth-it-ubud', 'is-melukat-purification-ceremony-worth-it-ubud',
   'is-river-tubing-adventure-worth-it-ubud', 'is-still-life-painting-workshop-worth-it-ubud',
+  'is-wood-carving-experience-worth-it-ubud', 'is-macrame-workshop-worth-it-ubud',
+  'is-keliki-painting-experience-worth-it-ubud', 'is-gianyar-night-market-food-tour-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [
