@@ -833,6 +833,62 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-bedok-romantic-walking-tour-worth-it-singapore":
+            return {
+                title: "Is the Private Romantic Walking Tour in Bedok Cultural Heritage Worth It?",
+                description: "An honest look at the private romantic walking tour in Bedok's cultural heritage area in Singapore.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8b341a0347025756c0a065c8d32de3aa937d56495f9d40f889be5b7a051c7d8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bedok's heritage lanes and quiet cultural spots give couples a genuinely intimate, low-crowd setting rarely covered by Singapore's standard sightseeing circuit, worth it for travelers wanting a romantic walk away from Marina Bay's tourist density.", tourCard: { slug: "private-romantic-walking-tour-in-bedok-cultural", title: "Private Romantic Walking Tour in Bedok Cultural Heritage", description: "A private romantic walking tour through Bedok's cultural heritage sites.", price: "From $1980", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8b341a0347025756c0a065c8d32de3aa937d56495f9d40f889be5b7a051c7d8.jpg" } },
+                    { title: "Practical Tips", content: "Wear comfortable walking shoes, since the heritage lanes cover real ground over the 6-hour duration." }
+                ],
+                faqs: [
+                    { q: "Is the Bedok romantic walking tour worth it in Singapore?", a: "Yes, for couples wanting an intimate, low-crowd setting away from the standard Marina Bay sightseeing circuit." }
+                ],
+            };
+
+        case "is-disappearing-kelongs-boat-tour-worth-it-singapore":
+            return {
+                title: "Is the Disappearing Kelongs Boat Tour Around Pulau Ubin Worth It?",
+                description: "An honest look at the Disappearing Kelongs boat tour around Pulau Ubin in Singapore.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5deb17592773ffa1c75e6c14bfe7b2b5c1c7e9a7d22e86e3b52f9f07af634b4.png",
+                sections: [
+                    { title: "The Short Answer", content: "Kelongs, traditional offshore fishing platforms, are disappearing from Singapore's waters, and this boat tour around Pulau Ubin shows a genuinely vanishing piece of maritime heritage most visitors never see.", tourCard: { slug: "singapore-disappearing-kelongs-boat-tour-around", title: "Singapore: Disappearing Kelongs Boat Tour Around Pulau Ubin", description: "A boat tour around Pulau Ubin showing Singapore's disappearing kelong fishing platforms.", price: "From $582", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5deb17592773ffa1c75e6c14bfe7b2b5c1c7e9a7d22e86e3b52f9f07af634b4.png" } },
+                    { title: "Practical Tips", content: "Bring sun protection, since most of the tour takes place on open water with limited shade." }
+                ],
+                faqs: [
+                    { q: "Is the Disappearing Kelongs boat tour worth it in Singapore?", a: "Yes, for travelers wanting to see a genuinely vanishing piece of maritime heritage most visitors never encounter." }
+                ],
+            };
+
+        case "is-batam-island-snorkeling-canoe-worth-it-singapore":
+            return {
+                title: "Is the Private Batam Island Snorkeling and Canoe Tour Worth It from Singapore?",
+                description: "An honest look at the private Batam Island snorkeling and canoe day trip from Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-894881/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Batam Island, a short ferry ride from Singapore, gives genuine snorkeling and canoeing access to clearer water than anything within the city itself, worth it for travelers wanting a nature-focused day trip beyond Singapore's urban attractions.", tourCard: { slug: "from-singapore-private-batam-island-snorkeling", title: "From Singapore : Private Batam Island Snorkeling and Canoe", description: "A private day trip to Batam Island for snorkeling and canoeing from Singapore.", price: "From $886", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-894881/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring your passport, since this trip involves an international ferry crossing to Indonesia and back in one day." }
+                ],
+                faqs: [
+                    { q: "Is the Batam Island snorkeling and canoe tour worth it from Singapore?", a: "Yes, for travelers wanting a genuine nature-focused day trip with clearer water than anything available within the city itself." }
+                ],
+            };
+
+        case "is-intan-museum-nyonya-meal-worth-it-singapore":
+            return {
+                title: "Is the Intan Museum Tour & 7-Course Nyonya Meal Worth It?",
+                description: "An honest look at the Intan Museum tour with a 7-course Nyonya meal in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1343113/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Intan, a private Peranakan heritage museum, pairs its collection with a genuine 7-course Nyonya home-cooked meal, giving a depth of cultural and culinary insight that a standard museum visit or restaurant meal can't match on its own.", tourCard: { slug: "singapore-the-intan-museum-tour-7-course-nyonya", title: "Singapore: The Intan Museum Tour & 7-Course Nyonya Meal", description: "A tour of the Intan Peranakan heritage museum with a 7-course Nyonya meal.", price: "From $793", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1343113/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come hungry — the 7-course meal is a substantial, genuinely home-style Nyonya spread, not a light tasting." }
+                ],
+                faqs: [
+                    { q: "Is the Intan Museum tour and Nyonya meal worth it in Singapore?", a: "Yes, for travelers wanting genuine depth in Peranakan culture and cuisine that a standard museum visit or restaurant meal can't match alone." }
+                ],
+            };
+
         default:
             return null;
     }
