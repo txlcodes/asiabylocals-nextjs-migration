@@ -1000,6 +1000,66 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-surin-islands-snorkeling-worth-it-krabi":
+            return {
+                title: "Is the Surin Islands Snorkeling Tour Worth It from Krabi?",
+                description: "An honest look at the Surin Islands snorkeling tour with meals from Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/surin-islands-snorkeling-tour-w-meals-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Surin Islands offer genuinely pristine reef snorkeling further north than Krabi's usual island-hopping routes, worth it for travelers willing to commit a full 12-hour day for noticeably clearer water and healthier coral.",
+                    tourCard: { slug: "surin-islands-snorkeling-tour-w-meals-in-krabi", title: "Surin Islands Snorkeling Tour w/ Meals in Krabi", description: "A full-day snorkeling tour to the Surin Islands with meals included.", price: "From $466", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/surin-islands-snorkeling-tour-w-meals-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a genuinely long 12-hour day given the distance, so prepare for substantial boat travel time." }
+                ],
+                faqs: [
+                    { q: "Is the Surin Islands snorkeling tour worth it from Krabi?", a: "Yes, for travelers willing to commit a full day for noticeably clearer water and healthier coral than the closer island routes." }
+                ],
+            };
+
+        case "is-hong-islands-sunset-bbq-vintage-boat-worth-it-krabi":
+            return {
+                title: "Is the Hong Islands Sunset BBQ by Luxury Vintage Boat Worth It?",
+                description: "An honest look at the Hong Islands sunset BBQ tour by luxury vintage boat in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hong-islands-sunset-bbq-by-luxury-vintage-boat-join/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A sunset BBQ aboard a luxury vintage-style boat gives a genuinely more atmospheric evening at Hong Islands than the standard daytime lagoon tour, worth it for travelers wanting a relaxed, scenic finish to the day.",
+                    tourCard: { slug: "hong-islands-sunset-bbq-by-luxury-vintage-boat-join", title: "Hong Islands Sunset BBQ By Luxury Vintage Boat (JOIN)", description: "A sunset BBQ tour to Hong Islands aboard a luxury vintage boat.", price: "From $450", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hong-islands-sunset-bbq-by-luxury-vintage-boat-join/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book the sunset timing specifically if the evening atmosphere matters to you, since this differs meaningfully from a standard daytime Hong Island visit." }
+                ],
+                faqs: [
+                    { q: "Is the Hong Islands sunset BBQ by luxury vintage boat worth it?", a: "Yes, for travelers wanting a genuinely more atmospheric evening experience than the standard daytime lagoon tour." }
+                ],
+            };
+
+        case "is-nong-thale-hidden-mountain-hike-worth-it-krabi":
+            return {
+                title: "Is the Nong Thale Hidden Mountain Nature Trail Hike Worth It?",
+                description: "An honest look at the Nong Thale Hidden Mountain nature trail hike in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nong-thale-hidden-mountain-nature-trail-hike-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Nong Thale's lesser-known mountain trail gives genuine jungle hiking away from Krabi's beach and island crowds, worth it for travelers wanting real nature immersion rather than another boat trip.",
+                    tourCard: { slug: "nong-thale-hidden-mountain-nature-trail-hike-in-krabi", title: "Nong Thale Hidden Mountain Nature Trail Hike in Krabi", description: "A guided hike along the hidden Nong Thale mountain nature trail.", price: "From $466", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nong-thale-hidden-mountain-nature-trail-hike-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear sturdy hiking shoes, since this trail involves genuine jungle terrain rather than a paved walkway." }
+                ],
+                faqs: [
+                    { q: "Is the Nong Thale Hidden Mountain hike worth it in Krabi?", a: "Yes, for travelers wanting genuine jungle hiking away from Krabi's usual beach and island crowds." }
+                ],
+            };
+
+        case "is-wareerak-hot-spring-spa-worth-it-krabi":
+            return {
+                title: "Is the Wareerak Hot Spring and Spa Worth It from Ao Nang?",
+                description: "An honest look at the Wareerak Hot Spring and Spa with transfer from Ao Nang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wareerak-hot-spring-and-spa-with-transfer-from-ao-nang/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Wareerak's natural hot springs paired with a proper spa setting give a genuinely relaxed half-day distinct from Krabi's usual adventure-activity circuit, worth it for travelers wanting a dedicated wellness break.",
+                    tourCard: { slug: "wareerak-hot-spring-and-spa-with-transfer-from-ao-nang", title: "Wareerak Hot Spring and Spa with Transfer from Ao Nang", description: "A half-day visit to Wareerak Hot Spring and Spa with transfer from Ao Nang.", price: "From $241", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/wareerak-hot-spring-and-spa-with-transfer-from-ao-nang/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit and towel, since the hot spring portion involves actual soaking rather than just a spa treatment." }
+                ],
+                faqs: [
+                    { q: "Is the Wareerak Hot Spring and Spa worth it from Ao Nang?", a: "Yes, for travelers wanting a genuinely relaxed wellness break distinct from Krabi's usual adventure-activity circuit." }
+                ],
+            };
+
         default:
             return null;
     }

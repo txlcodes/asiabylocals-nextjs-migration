@@ -1834,6 +1834,8 @@ export const KRABI_INFO_SLUGS = [
   'is-stand-up-paddle-board-rental-worth-it-krabi', 'is-krabi-sunrise-market-river-heritage-tour-worth-it-krabi',
   'is-khao-ngon-nak-trekking-worth-it-krabi', 'is-khao-khanab-nam-caves-worth-it-krabi',
   'is-daeng-island-sunset-plankton-worth-it-krabi', 'is-crystal-kayaking-cave-forest-cafe-worth-it-krabi',
+  'is-surin-islands-snorkeling-worth-it-krabi', 'is-hong-islands-sunset-bbq-vintage-boat-worth-it-krabi',
+  'is-nong-thale-hidden-mountain-hike-worth-it-krabi', 'is-wareerak-hot-spring-spa-worth-it-krabi',
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders
