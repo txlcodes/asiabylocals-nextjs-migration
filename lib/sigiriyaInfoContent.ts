@@ -1338,6 +1338,90 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bakers-bend-adventure-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya to Baker's Bend Adventure Day Tour Worth It?",
+        description: "An honest look at the Sigiriya to Baker's Bend adventure day tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294111/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Baker's Bend's river scenery and adventure activities give a genuinely different outdoorsy day than Sigiriya's usual rock-and-ruins circuit, worth it for travelers wanting a nature-and-adventure break between ancient sites.",
+            tourCard: { slug: "sigiriya-to-bakers-bend-adventure-day-tour", title: "Sigiriya to Baker's Bend Adventure Day Tour", description: "An adventure day tour from Sigiriya to Baker's Bend.", price: "From $541", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294111/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes if water activities are included, and check what's covered before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya to Baker's Bend adventure tour worth it?", a: "Yes, for travelers wanting a genuine outdoor adventure break from Sigiriya's usual rock-and-ruins sightseeing." },
+        ],
+      };
+
+    case "is-tea-plucking-waterfalls-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya Tea Plucking and Waterfalls Tour Worth It?",
+        description: "An honest look at the 3-day Sigiriya, tea plucking and waterfalls private tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1214927/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Sigiriya's ancient sites with hands-on tea plucking and waterfall visits over three days gives a genuinely well-rounded trip covering history, agriculture and nature, worth it for travelers wanting more than just the rock fortress.",
+            tourCard: { slug: "sigiriya-tea-plucking-waterfalls-visit-3days", title: "Sigiriya, Tea Plucking & Waterfalls visit 3Days Private tour", description: "A 3-day private tour combining Sigiriya, tea plucking, and waterfalls.", price: "From $1268", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1214927/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting dirty for the tea plucking segment, and bring a swimsuit for the waterfalls.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya tea plucking and waterfalls tour worth it?", a: "Yes, for travelers wanting a well-rounded multi-day trip covering history, agriculture and nature beyond just the rock fortress." },
+        ],
+      };
+
+    case "is-sigiriya-trinco-village-kayak-cycling-worth-it":
+      return {
+        title: "Is the Sigiriya to Trinco Village, Kayak and Cycling Experience Worth It?",
+        description: "An honest look at the Sigiriya to Trinco village, kayak and cycling experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1442450/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a village visit, kayaking and cycling on the route between Sigiriya and Trincomalee gives a genuinely active, varied transfer day rather than just a car ride between destinations, worth it for travelers wanting to make the journey itself part of the experience.",
+            tourCard: { slug: "sigiriya-to-trinco-village-kayak-cycling", title: "Sigiriya to Trinco: Village, Kayak & Cycling Experience", description: "A village, kayaking and cycling experience on the route from Sigiriya to Trincomalee.", price: "From $364", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1442450/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a change of clothes for the kayaking segment and comfortable shoes for the cycling portion.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya to Trinco village, kayak and cycling experience worth it?", a: "Yes, for travelers wanting a genuinely active, varied journey between destinations rather than just a car transfer." },
+        ],
+      };
+
+    case "is-polonnaruwa-cycling-lake-lunch-worth-it-sigiriya":
+      return {
+        title: "Is the Polonnaruwa Ancient City Cycling Tour with Lake Lunch Worth It?",
+        description: "An honest look at the Sigiriya Polonnaruwa Ancient City cycling tour with lake lunch.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1259258/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cycling through Polonnaruwa's spread-out ancient city ruins gives a genuinely more immersive, active way to cover the site than a car-based tour, with a lakeside lunch adding a relaxed finish to the day.",
+            tourCard: { slug: "sigiriya-polonnaruwa-ancient-city-cycling-tour", title: "Sigiriya: Polonnaruwa Ancient City Cycling Tour & Lake Lunch", description: "A cycling tour of Polonnaruwa's ancient city ruins with a lakeside lunch.", price: "From $338", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1259258/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Start early to avoid the midday heat, since cycling between the ruins involves real sun exposure.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Polonnaruwa cycling tour with lake lunch worth it?", a: "Yes, for a genuinely more immersive, active way to see the spread-out ancient city than a standard car-based tour." },
+        ],
+      };
+
     default:
       return null;
   }

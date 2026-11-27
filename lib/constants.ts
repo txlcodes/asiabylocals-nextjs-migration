@@ -2053,6 +2053,8 @@ export const SIGIRIYA_INFO_SLUGS = [
   'is-mask-painting-workshop-worth-it-sigiriya', 'is-village-lake-swimming-worth-it-sigiriya',
   'is-rock-fortress-massage-tour-worth-it-sigiriya', 'is-sunrise-birdwatching-tour-worth-it-sigiriya',
   'is-wood-crafting-village-tour-worth-it-sigiriya', 'is-hidden-lakeside-lunch-worth-it-sigiriya',
+  'is-bakers-bend-adventure-worth-it-sigiriya', 'is-tea-plucking-waterfalls-worth-it-sigiriya',
+  'is-sigiriya-trinco-village-kayak-cycling-worth-it', 'is-polonnaruwa-cycling-lake-lunch-worth-it-sigiriya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kandyInfoContent.ts.
