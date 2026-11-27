@@ -197,6 +197,8 @@ export const JAIPUR_INFO_SLUGS = [
   'is-ranthambore-tiger-safari-worth-it-jaipur', 'is-de-copas-pub-crawl-worth-it-jaipur',
   'is-night-jeep-safari-worth-it-jaipur', 'is-night-heritage-walking-tour-worth-it-jaipur',
   'is-birla-mandir-gaushala-tour-worth-it-jaipur', 'is-monkey-temple-sunset-tour-worth-it-jaipur',
+  'is-albert-hall-museum-tour-worth-it-jaipur', 'is-chand-baori-bhangarh-fort-tour-worth-it-jaipur',
+  'is-elephant-jungle-sanctuary-worth-it-jaipur', 'is-royal-enfield-city-tour-worth-it-jaipur',
 ];
 
 export const PHUKET_INFO_SLUGS = [

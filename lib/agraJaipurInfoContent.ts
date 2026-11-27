@@ -1761,6 +1761,90 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-albert-hall-museum-tour-worth-it-jaipur":
+      return {
+        title: "Is the Albert Hall Museum Guided Walking Tour Worth It in Jaipur?",
+        description: "An honest look at the Albert Hall Museum guided walking tour in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-albert-hall-museum-guided-walking-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Albert Hall is a genuinely striking Indo-Saracenic building housing Rajasthan's oldest museum, and a guide adds real value explaining the eclectic collection inside — from miniature paintings to an actual Egyptian mummy — that's easy to walk past without context.",
+            tourCard: { slug: "jaipur-albert-hall-museum-guided-walking-tour", title: "Jaipur: Albert Hall Museum Guided Walking Tour", description: "A guided walking tour of the Albert Hall Museum in Jaipur.", price: "From $20", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-albert-hall-museum-guided-walking-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the evening if you can — the building itself is beautifully lit up at night, which adds to the visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Albert Hall Museum tour worth it in Jaipur?", a: "Yes, a guide adds real context to the building's striking architecture and eclectic collection, easy to miss walking through alone." },
+        ],
+      };
+
+    case "is-chand-baori-bhangarh-fort-tour-worth-it-jaipur":
+      return {
+        title: "Is the Chand Baori and Bhangarh Fort Day Trip Worth It from Jaipur?",
+        description: "An honest look at the Chand Baori stepwell and Bhangarh Fort day trip from Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-jaipur-day-trip-to-chand-baori-and-bhangarh/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chand Baori's dizzying geometric stepwell is a genuinely unique architectural sight, and pairing it with Bhangarh Fort, popularly known as one of India's most 'haunted' sites, gives the day both visual drama and local folklore — a combination well outside Jaipur's usual palace-and-fort circuit.",
+            tourCard: { slug: "from-jaipur-day-trip-to-chand-baori-and-bhangarh", title: "From Jaipur: Day Trip to Chand Baori and Bhangarh Fort", description: "A day trip to the Chand Baori stepwell and Bhangarh Fort from Jaipur.", price: "From $24", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-jaipur-day-trip-to-chand-baori-and-bhangarh/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bhangarh Fort officially closes before sunset, so don't expect (or ask for) an after-dark visit — the 'haunted' reputation doesn't come with late access.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chand Baori and Bhangarh Fort day trip worth it from Jaipur?", a: "Yes, for a genuinely unique stepwell and a folklore-rich fort, well outside the city's usual palace-and-fort circuit." },
+        ],
+      };
+
+    case "is-elephant-jungle-sanctuary-worth-it-jaipur":
+      return {
+        title: "Is the Elephant Jungle Sanctuary Feed and Shower Trip Worth It in Jaipur?",
+        description: "An honest look at the Elephant Jungle Sanctuary feed and shower trip in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-elephant-jungle-sanctuary-feed-and-shower-t/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A no-riding feed-and-shower format is a genuinely more ethical way to interact with elephants than the traditional riding experiences still common elsewhere in Rajasthan, worth it specifically for travelers who want a hands-on wildlife encounter without the animal-welfare concerns of riding.",
+            tourCard: { slug: "jaipur-elephant-jungle-sanctuary-feed-and-shower-t", title: "Jaipur: Elephant Jungle Sanctuary Feed and Shower Trip", description: "A no-riding elephant feeding and showering experience in Jaipur.", price: "From $24", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-elephant-jungle-sanctuary-feed-and-shower-t/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm with the operator that the sanctuary is genuinely no-riding before booking, since welfare standards vary between different elephant venues in the region.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Elephant Jungle Sanctuary worth it in Jaipur?", a: "Yes, for a no-riding, more ethical elephant encounter — just confirm the specific sanctuary's welfare practices before booking." },
+        ],
+      };
+
+    case "is-royal-enfield-city-tour-worth-it-jaipur":
+      return {
+        title: "Is the Private City Tour by Royal Enfield Motorcycle Worth It in Jaipur?",
+        description: "An honest look at the private Jaipur city tour by Royal Enfield motorcycle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-by-royal-enfield/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding pillion on a genuine Royal Enfield, India's iconic motorcycle brand, gives a distinctly different sightseeing experience than a car or tuk-tuk tour, with open-air views and a bit of local riding culture built into the day.",
+            tourCard: { slug: "jaipur-private-city-tour-by-royal-enfield", title: "Jaipur: Private City Tour by Royal Enfield Motorcycle", description: "A private city tour of Jaipur by Royal Enfield motorcycle.", price: "From $26", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-city-tour-by-royal-enfield/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You ride as a passenger behind an experienced local rider — no motorcycle license or experience is required on your part.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Royal Enfield city tour worth it in Jaipur?", a: "Yes, for a distinctly different open-air sightseeing experience with a bit of local riding culture, and no riding experience is required of you." },
+        ],
+      };
+
     default:
       return null;
   }
