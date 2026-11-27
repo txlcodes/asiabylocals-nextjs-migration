@@ -160,6 +160,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-elephant-jungle-sanctuary-worth-it-jaipur', 'is-royal-enfield-city-tour-worth-it-jaipur',
     'is-ajmer-pushkar-day-trip-worth-it-jaipur', 'is-patrika-gate-photoshoot-worth-it-jaipur',
     'is-jhalana-leopard-safari-worth-it-jaipur', 'is-chokhi-dhani-cultural-evening-worth-it-jaipur',
+    'is-jewelry-gemstone-crafting-worth-it-jaipur', 'is-maota-lake-boat-ride-tour-worth-it-jaipur',
+    'is-local-lifestyle-markets-food-tour-worth-it-jaipur', 'is-artisan-craft-cultural-tour-worth-it-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

@@ -1929,6 +1929,90 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-jewelry-gemstone-crafting-worth-it-jaipur":
+      return {
+        title: "Is the Jewelry and Gemstone Crafting Experience Worth It in Jaipur?",
+        description: "An honest look at the hands-on jewelry and gemstone crafting experience in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jewelry-and-gemstone-crafting-experience/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaipur is a genuine global center for gemstone cutting and jewelry making, and a hands-on crafting experience teaches real technique rather than just shopping for a finished piece, distinct from the city's gem-focused shopping tours.",
+            tourCard: { slug: "jaipur-jewelry-and-gemstone-crafting-experience", title: "Jaipur: Jewelry and Gemstone Crafting Experience", description: "A hands-on jewelry and gemstone crafting workshop in Jaipur.", price: "From $47", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jewelry-and-gemstone-crafting-experience/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You take home the piece you make — a genuinely personal souvenir distinct from a shop-bought item, even if it's technically simpler than a master craftsman's work.",
+          },
+        ],
+        faqs: [
+          { q: "Is the jewelry and gemstone crafting experience worth it in Jaipur?", a: "Yes, for genuine hands-on technique and a personal handmade souvenir, distinct from the city's gem-focused shopping tours." },
+        ],
+      };
+
+    case "is-maota-lake-boat-ride-tour-worth-it-jaipur":
+      return {
+        title: "Is the Full Day Sightseeing Tour with Boat Ride on Maota Lake Worth It in Jaipur?",
+        description: "An honest look at the full-day Jaipur sightseeing tour with a boat ride on Maota Lake.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-sightseeing-tour-w-boat-ride-on/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Maota Lake sits directly below Amber Fort, and a boat ride across it gives a genuinely different vantage point of the fort's reflection and surrounding hills than viewing it from land, a worthwhile add-on to the standard full-day sightseeing circuit.",
+            tourCard: { slug: "jaipur-full-day-sightseeing-tour-w-boat-ride-on", title: "Jaipur: Full Day Sightseeing Tour w/ Boat Ride on Maota Lake", description: "A full-day Jaipur sightseeing tour including a boat ride on Maota Lake.", price: "From $45", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-sightseeing-tour-w-boat-ride-on/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time the boat ride for morning or late afternoon light, when Amber Fort's reflection on the lake is most striking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Maota Lake boat ride tour worth it in Jaipur?", a: "Yes, for a genuinely different vantage point of Amber Fort's reflection, a worthwhile add-on to standard sightseeing." },
+        ],
+      };
+
+    case "is-local-lifestyle-markets-food-tour-worth-it-jaipur":
+      return {
+        title: "Is the Local Lifestyle, Markets, and Food Tour Worth It in Jaipur?",
+        description: "An honest look at the local lifestyle, markets, and food tour in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-local-lifestyle-markets-and-food-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Focusing specifically on everyday local lifestyle, real working markets, and street food gives genuine insight into how Jaipur residents actually live, distinct from the city's palace-and-fort monument circuit.",
+            tourCard: { slug: "jaipur-local-lifestyle-markets-and-food-tour", title: "Jaipur: Local Lifestyle, Markets, and Food Tour", description: "A tour covering local lifestyle, markets, and food in Jaipur.", price: "From $45", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-local-lifestyle-markets-and-food-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite — the format includes genuine street food tastings along the market stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the local lifestyle, markets, and food tour worth it in Jaipur?", a: "Yes, for genuine insight into everyday local life, distinct from the city's palace-and-fort sightseeing circuit." },
+        ],
+      };
+
+    case "is-artisan-craft-cultural-tour-worth-it-jaipur":
+      return {
+        title: "Is the Cultural Tour with Artisan Craft Experiences Worth It in Jaipur?",
+        description: "An honest look at the cultural tour with artisan craft experiences in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-cultural-tour-with-artisan-craft/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling multiple hands-on craft experiences into one cultural tour gives a broader taste of Jaipur's artisan traditions than committing to just one workshop, good for travelers who want variety over depth in a single craft.",
+            tourCard: { slug: "jaipur-cultural-tour-with-artisan-craft", title: "Jaipur: Cultural Tour with Artisan Craft Experiences", description: "A cultural tour bundling multiple artisan craft experiences in Jaipur.", price: "From $40", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-cultural-tour-with-artisan-craft/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask in advance which specific crafts are included, since the exact lineup can vary by operator and date.",
+          },
+        ],
+        faqs: [
+          { q: "Is the artisan craft cultural tour worth it in Jaipur?", a: "Yes, for a broader taste of multiple craft traditions in one booking, good for travelers who want variety over depth in a single workshop." },
+        ],
+      };
+
     default:
       return null;
   }
