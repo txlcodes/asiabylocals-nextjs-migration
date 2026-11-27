@@ -133,6 +133,8 @@ export const AGRA_INFO_SLUGS = [
   'is-a-private-fatehpur-sikri-tour-with-guide-worth-it', 'best-agra-three-unesco-sites-tour',
   'best-taj-mahal-tour-by-high-speed-train-from-delhi', 'best-bharatpur-bird-sanctuary-tour-from-delhi-or-jaipur',
   'best-taj-mahal-sunrise-and-fatehpur-sikri-day-tour', 'best-agra-fort-and-fatehpur-sikri-day-trip-from-agra',
+  'is-wildlife-rescue-center-visit-worth-it-agra', 'is-instagram-photography-tour-worth-it-agra',
+  'is-kinari-bazaar-food-tour-worth-it-agra', 'is-hidden-gems-heritage-tour-worth-it-agra',
 ];
 
 export const DELHI_INFO_SLUGS = [

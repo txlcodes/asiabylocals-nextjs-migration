@@ -12823,6 +12823,86 @@ const PAGES: Record<string, CityInfoData> = {
     "faqs": [
       { "q": "Is the fabric painting workshop worth it in Agra?", "a": "Yes, as a relaxed, hands-on creative activity that's a nice change of pace from the city's monument-heavy sightseeing." }
     ]
+  },
+  "is-wildlife-rescue-center-visit-worth-it-agra": {
+    "title": "Is the Wildlife Rescue Center Visit Worth It on an Agra Taj Mahal Tour?",
+    "seoTitle": "Agra Wildlife Rescue Center Add-On 2026 | Honest Review",
+    "description": "An honest look at adding an optional wildlife rescue center visit to a Taj Mahal tour in Agra.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-tour-with-optional-wildlife-rescue/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Pairing the Taj Mahal with an optional stop at a genuine wildlife rescue center gives a worthwhile change of pace from monument sightseeing, especially for travelers who want to see how rescued animals are cared for rather than just another historical site.",
+        "tourCard": { "slug": "taj-mahal-tour-with-optional-wildlife-rescue", "title": "Taj Mahal Tour with Optional Wildlife Rescue Center Visit", "description": "A Taj Mahal tour with an optional wildlife rescue center visit.", "price": "From $21", "duration": "Flexible", "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-mahal-tour-with-optional-wildlife-rescue/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Ask the operator in advance which animals are typically on-site, since a genuine rescue center's residents can change over time."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the wildlife rescue center visit worth it in Agra?", "a": "Yes, for a genuine change of pace from monument sightseeing, especially for travelers interested in animal welfare and rescue work." }
+    ]
+  },
+  "is-instagram-photography-tour-worth-it-agra": {
+    "title": "Is the Instagram Tour of Agra's Top Photography Spots Worth It?",
+    "seoTitle": "Agra Instagram Photography Tour 2026 | Honest Review",
+    "description": "An honest look at the Instagram-focused photography tour of Agra's top photo spots with a guide.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/agra-instagram-tour-of-the-top-photography-spots-w/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "A guide who already knows the best angles and least crowded times at Agra's most photogenic spots can genuinely save you from the frustration of fighting crowds for a shot, worth it specifically for travelers who care more about the photos than a deep historical explanation.",
+        "tourCard": { "slug": "agra-instagram-tour-of-the-top-photography-spots-w", "title": "Agra: Instagram Tour of The Top Photography Spots w/ Guide", "description": "A guided photography tour of Agra's top Instagram spots.", "price": "From $24", "duration": "8 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/agra-instagram-tour-of-the-top-photography-spots-w/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Go in with a shot list if you have specific photos in mind — a photography-focused guide can plan the route around them."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Instagram photography tour worth it in Agra?", "a": "Yes, specifically for travelers prioritizing photos over deep historical context, since a knowledgeable guide saves real time fighting crowds for the shot." }
+    ]
+  },
+  "is-kinari-bazaar-food-tour-worth-it-agra": {
+    "title": "Is the Kinari Bazaar Street Food and Spice Market Tour Worth It in Agra?",
+    "seoTitle": "Agra Kinari Bazaar Food Tour 2026 | Honest Review",
+    "description": "An honest look at the street food walking tour through Agra's Kinari Bazaar spice market by tuk-tuk.",
+    "heroImage": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1782064354/tours/agra/tours/agra_1782064353721_0.jpg",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Kinari Bazaar is a genuinely dense, working local market distinct from the city's Taj Mahal-focused sightseeing, and sampling street food while weaving through its narrow lanes by tuk-tuk gives real insight into Agra beyond the monuments.",
+        "tourCard": { "slug": "kinari-bazaar-food-tour", "title": "Agra: Street Food Walking Tour, Spice Market with Tuk-Tuk Ride", "description": "A street food walking tour through Kinari Bazaar's spice market by tuk-tuk.", "price": "From $20", "duration": "3 hours", "image": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1782064354/tours/agra/tours/agra_1782064353721_0.jpg" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Come with an appetite — the format is several small tastings across stops rather than one sit-down meal."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Kinari Bazaar food tour worth it in Agra?", "a": "Yes, for a genuine look at local market life and street food beyond the city's monument-focused sightseeing." }
+    ]
+  },
+  "is-hidden-gems-heritage-tour-worth-it-agra": {
+    "title": "Is the Hidden Gems of Agra Heritage Tour Worth It?",
+    "seoTitle": "Hidden Gems of Agra Heritage Tour 2026 | Honest Review",
+    "description": "An honest look at the Hidden Gems of Agra heritage tour, covering lesser-known sites beyond the Taj Mahal and Agra Fort.",
+    "heroImage": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1772365243/tours/agra/tours/agra_1772365242520_0.jpg",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "A heritage tour built specifically around lesser-known sites gives a genuinely different Agra experience for travelers who've already covered the Taj Mahal and Agra Fort and want to see what most visitors skip.",
+        "tourCard": { "slug": "hidden-gems-of-agra-heritage-tour", "title": "Hidden Gems of Agra Heritage Tour", "description": "A heritage tour covering Agra's lesser-known hidden sites.", "price": "From $20", "duration": "3 hours", "image": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1772365243/tours/agra/tours/agra_1772365242520_0.jpg" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Best booked on a second day in Agra, after the main monuments, rather than as your only activity."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Hidden Gems of Agra heritage tour worth it?", "a": "Yes, specifically for travelers who've already seen the Taj Mahal and Agra Fort and want to explore what most visitors skip." }
+    ]
   }
 };
 export const AGRA_BEST_SLUGS = Object.keys(PAGES);
