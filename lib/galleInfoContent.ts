@@ -732,6 +732,90 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-coconut-oil-workshop-worth-it-galle":
+      return {
+        title: "Is the Traditional Coconut Oil Workshop Worth It in Galle?",
+        description: "An honest look at the traditional coconut oil workshop in Galle, with a souvenir included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Watching and helping make coconut oil the traditional Sri Lankan way gives a genuine window into a daily household skill most visitors never see, worth it specifically for travelers wanting a short, hands-on cultural activity with a real souvenir to take home.",
+            tourCard: { slug: "traditional-coconut-oil-workshop-in-galle-souvenir", title: "Traditional Coconut Oil Workshop in Galle + Souvenir", description: "A traditional coconut oil making workshop in Galle, with a souvenir included.", price: "From $47", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a little oily, since the process is genuinely hands-on.",
+          },
+        ],
+        faqs: [
+          { q: "Is the coconut oil workshop worth it in Galle?", a: "Yes, for a genuine, hands-on window into a daily Sri Lankan household skill, with a real souvenir to take home." },
+        ],
+      };
+
+    case "is-silver-ring-making-worth-it-galle":
+      return {
+        title: "Is the Meepawala Create Your Own Silver Ring Experience Worth It in Galle?",
+        description: "An honest look at the Meepawala create-your-own silver ring experience near Galle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Making your own silver ring from scratch gives a genuinely personal souvenir with real craft skill behind it, worth it specifically for travelers wanting something more meaningful than a ready-made jewelry purchase.",
+            tourCard: { slug: "meepawala-galle-create-your-own-silver-ring", title: "Meepawala, Galle: Create Your Own Silver Ring", description: "A hands-on silver ring making experience in Meepawala, near Galle.", price: "From $107", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Decide on your ring size and design preference ahead of time so the artisan can guide you efficiently through the process.",
+          },
+        ],
+        faqs: [
+          { q: "Is the silver ring making experience worth it in Galle?", a: "Yes, for a genuinely personal souvenir with real craft skill behind it, more meaningful than a ready-made jewelry purchase." },
+        ],
+      };
+
+    case "is-batik-workshop-worth-it-galle":
+      return {
+        title: "Is the Authentic Batik Workshop Worth It in Galle?",
+        description: "An honest look at the authentic batik workshop in Galle, where you craft your own masterpiece.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Batik is a genuine traditional Sri Lankan textile craft using wax-resist dyeing, and this hands-on workshop teaches real technique rather than just selling a finished piece, worth it for travelers wanting a creative activity and a tangible, wearable souvenir.",
+            tourCard: { slug: "galle-authentic-batik-workshop-craft-your-own", title: "Galle: Authentic Batik Workshop – Craft Your Own Masterpiece", description: "A hands-on authentic batik workshop in Galle.", price: "From $111", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear old clothes or an apron, since batik dye can stain and the process involves melted wax.",
+          },
+        ],
+        faqs: [
+          { q: "Is the batik workshop worth it in Galle?", a: "Yes, for a genuine hands-on textile craft and a real, wearable souvenir, rather than buying a finished batik piece." },
+        ],
+      };
+
+    case "is-fort-storytelling-walk-worth-it-galle":
+      return {
+        title: "Is the Galle Fort Storytelling Walk with Lunch Worth It?",
+        description: "An honest look at the Galle Fort storytelling walk with lunch and traditional ring making.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a narrative-driven storytelling walk through the Fort with lunch and a traditional ring-making stop gives a fuller, more varied day than a standard walking tour alone, worth it specifically for travelers wanting history, food, and a craft activity in one booking.",
+            tourCard: { slug: "galle-fort-storytelling-walk-with-lunch", title: "Galle Fort Storytelling Walk with Lunch & Traditional Ring Making", description: "A storytelling walk through Galle Fort with lunch and traditional ring making.", price: "From $67", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1236708/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite, and ask ahead about dietary restrictions since lunch is typically a fixed local meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Galle Fort storytelling walk with lunch worth it?", a: "Yes, for travelers wanting history, food, and a craft activity combined in one booking rather than three separate ones." },
+        ],
+      };
+
     default:
       return null;
   }

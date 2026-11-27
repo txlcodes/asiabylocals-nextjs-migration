@@ -1853,6 +1853,8 @@ export const GALLE_INFO_SLUGS = [
   'is-kayaking-village-tour-worth-it-galle',
   'best-galle-fort-walking-tour-galle', 'is-turtle-hatchery-worth-it-galle',
   'is-muay-thai-training-worth-it-galle', 'is-escooter-tour-worth-it-galle',
+  'is-coconut-oil-workshop-worth-it-galle', 'is-silver-ring-making-worth-it-galle',
+  'is-batik-workshop-worth-it-galle', 'is-fort-storytelling-walk-worth-it-galle',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/negomboInfoContent.ts.

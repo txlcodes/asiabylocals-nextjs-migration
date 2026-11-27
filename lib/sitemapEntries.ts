@@ -1951,6 +1951,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kayaking-village-tour-worth-it-galle',
     'best-galle-fort-walking-tour-galle', 'is-turtle-hatchery-worth-it-galle',
     'is-muay-thai-training-worth-it-galle', 'is-escooter-tour-worth-it-galle',
+    'is-coconut-oil-workshop-worth-it-galle', 'is-silver-ring-making-worth-it-galle',
+    'is-batik-workshop-worth-it-galle', 'is-fort-storytelling-walk-worth-it-galle',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/galle/${slug}`,
     lastModified: new Date(),
