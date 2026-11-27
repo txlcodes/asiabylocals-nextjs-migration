@@ -1428,6 +1428,90 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-yuan-ming-yuan-worth-it-beijing":
+      return {
+        title: "Is Yuan Ming Yuan (Old Summer Palace) Worth It in Beijing?",
+        description: "An honest look at the Yuan Ming Yuan (Old Summer Palace) ruins in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9419cfc21d2ce4267e44781026723b2816d24de923d9e6325cb85477874a99f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yuan Ming Yuan's genuinely evocative ruins, destroyed by Anglo-French forces in 1860, give a sobering, visually striking counterpoint to the restored Summer Palace nearby, a different kind of historical experience built around loss rather than preserved grandeur.",
+            tourCard: { slug: "beijing-yuan-ming-yuan-palace-entry-ticket-with", title: "Beijing: Yuan Ming Yuan Palace Entry Ticket with Transfers", description: "Entry ticket to the Yuan Ming Yuan (Old Summer Palace) ruins with transfers.", price: "From $39", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9419cfc21d2ce4267e44781026723b2816d24de923d9e6325cb85477874a99f.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair it with the nearby restored Summer Palace for a genuinely striking contrast between ruins and preserved grandeur in one day.",
+          },
+        ],
+        faqs: [
+          { q: "Is Yuan Ming Yuan worth it in Beijing?", a: "Yes, for a sobering, visually striking historical experience distinct from the restored Summer Palace nearby." },
+        ],
+      };
+
+    case "is-underground-city-bunker-tour-worth-it-beijing":
+      return {
+        title: "Is the Underground City Bunker Walking Tour Worth It in Beijing?",
+        description: "An honest look at Beijing's underground city bunker and hidden gems walking tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b8226eea5b6ed7e5c1e3195f7df3153f5157c3813f2c432a0b76960444f0c554.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Beijing's Cold War-era underground bunker network, built to shelter residents in case of nuclear attack, is a genuinely unusual historical site most visitors never know exists, giving a distinctly different angle on the city's 20th-century history.",
+            tourCard: { slug: "beijing-underground-city-bunker-hidden-gems", title: "Beijing: Underground City Bunker & Hidden Gems Walking Tour", description: "A walking tour of Beijing's Cold War-era underground city bunker.", price: "From $61", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b8226eea5b6ed7e5c1e3195f7df3153f5157c3813f2c432a0b76960444f0c554.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress in layers — the underground bunker is noticeably cooler than the streets above, even in summer.",
+          },
+        ],
+        faqs: [
+          { q: "Is the underground city bunker tour worth it in Beijing?", a: "Yes, for a genuinely unusual Cold War-era historical site most visitors never know exists." },
+        ],
+      };
+
+    case "is-time-tunnel-old-beijing-replica-worth-it-beijing":
+      return {
+        title: "Is the Time Tunnel Old Beijing Replica Worth It?",
+        description: "An honest look at Beijing's Time Tunnel, a 1:1 replica of old Beijing from the 1950s-1990s.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92426a662c36276b3dd16698897e8433de0065cedbe5ba88ada2ea6b941761a1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This full-scale, walk-through replica recreates everyday Beijing street life from the 1950s through 1990s, giving a genuinely nostalgic, immersive look at recent Chinese history that's distinctly different from the city's imperial-era monuments.",
+            tourCard: { slug: "beijing-time-tunnel-11-old-beijing-replica-1950s", title: "Beijing: Time Tunnel – 1:1 Old Beijing Replica (1950s-1990s)", description: "A full-scale walk-through replica of old Beijing from the 1950s to 1990s.", price: "From $61", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92426a662c36276b3dd16698897e8433de0065cedbe5ba88ada2ea6b941761a1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good rainy-day activity that still offers genuine historical and nostalgic context beyond the city's imperial sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Time Tunnel old Beijing replica worth it?", a: "Yes, for a genuinely nostalgic, immersive look at recent Chinese history, distinct from the city's imperial-era monuments." },
+        ],
+      };
+
+    case "is-nanluoguxiang-houhai-walk-worth-it-beijing":
+      return {
+        title: "Is the Nanluoguxiang and Houhai Coffee City Walk Worth It in Beijing?",
+        description: "An honest look at the Nanluoguxiang and Houhai coffee city walk in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nanluoguxiang's narrow hutong lanes mixed with trendy cafes and Houhai's lakeside bar scene give a genuinely different, more contemporary side of Beijing than the city's imperial monuments, pairing old architecture with modern local life.",
+            tourCard: { slug: "beijing-city-walk-nanluoguxiang-houhai-coffee-tour", title: "Beijing City Walk: Nanluoguxiang & Houhai Coffee Tour", description: "A city walk through Nanluoguxiang and Houhai with a coffee stop.", price: "From $24", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good evening pick — Houhai's lakeside area has a genuinely different, livelier atmosphere after dark.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nanluoguxiang and Houhai walk worth it in Beijing?", a: "Yes, for a contemporary, livelier side of the city pairing old hutong architecture with modern cafes and bars." },
+        ],
+      };
+
     default:
       return null;
   }
