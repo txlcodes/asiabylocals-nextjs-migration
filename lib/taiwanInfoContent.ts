@@ -1581,6 +1581,62 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ] },
       };
 
+    case "is-tea-ceremony-qipao-workshop-worth-it-taipei":
+      return {
+        title: "Is the Taiwanese Tea Ceremony Workshop with Qipao Worth It in Taipei?",
+        description: "An honest look at the Taiwanese tea ceremony workshop and tea tasting with qipao in Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a6d702900dcf4751a866c83f51798f067a005ca7627ea06b41d50e5742f3803.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Pairing a genuine Taiwanese tea ceremony with qipao dress-up gives both the cultural depth of the brewing ritual and a photogenic souvenir, worth it specifically for travelers wanting a calm, visually distinctive activity rather than just sampling tea at a shop.", tourCard: { slug: "taiwanese-tea-ceremony-workshop-tea-tasting-with", title: "Taiwanese Tea Ceremony Workshop & Tea Tasting with Qipao", description: "A Taiwanese tea ceremony workshop and tasting with qipao dress-up.", price: "From $72", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a6d702900dcf4751a866c83f51798f067a005ca7627ea06b41d50e5742f3803.jpg" } },
+          { title: "Practical Tips", content: "Book earlier in your trip if the photos matter to you, since you'll want time to actually use and share them afterward." },
+        ],
+        faqs: [
+          { q: "Is the tea ceremony workshop with qipao worth it in Taipei?", a: "Yes, for both the cultural depth of a real tea ceremony and a genuinely photogenic qipao souvenir." },
+        ],
+      };
+
+    case "is-morning-city-cycling-tour-worth-it-taipei":
+      return {
+        title: "Is the 4-Hour Morning City Cycling Tour with Breakfast Worth It in Taipei?",
+        description: "An honest look at the 4-hour morning city cycling tour with breakfast in Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a6d702900dcf4751a866c83f51798f067a005ca7627ea06b41d50e5742f3803.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Covering Taipei by bike in the cool morning hours lets you reach more neighborhoods than walking, with a real local breakfast stop built in, worth it specifically for travelers wanting an active, efficient way to see the city before the midday heat sets in.", tourCard: { slug: "taipei-4-hour-morning-city-cycling-tour-with", title: "Taipei: 4-Hour Morning City Cycling Tour with Breakfast", description: "A morning cycling tour of Taipei with a local breakfast included.", price: "From $108", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a6d702900dcf4751a866c83f51798f067a005ca7627ea06b41d50e5742f3803.jpg" } },
+          { title: "Practical Tips", content: "Wear comfortable, breathable clothing, and bring sunscreen even for the early morning slot." },
+        ],
+        faqs: [
+          { q: "Is the morning cycling tour worth it in Taipei?", a: "Yes, for travelers wanting an active, efficient way to cover more of the city in the cool morning hours, with a real breakfast stop included." },
+        ],
+      };
+
+    case "is-dadaocheng-cooking-class-worth-it-taipei":
+      return {
+        title: "Is the Cooking Class & Market Tour in Historic Dadaocheng Worth It?",
+        description: "An honest look at the cooking class and market tour in historic Dadaocheng, Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Shopping for ingredients in Dadaocheng's historic market before cooking with them gives genuine context a standalone cooking class skips entirely, worth it specifically for travelers who want to understand Taiwanese ingredients, not just the finished dishes.", tourCard: { slug: "taipei-cooking-class-market-tour-in-historic", title: "Taipei: Cooking Class & Market Tour in Historic Dadaocheng", description: "A cooking class paired with a market tour in historic Dadaocheng.", price: "From $117", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg" } },
+          { title: "Practical Tips", content: "Come with an appetite — you'll eat everything you cook as your meal at the end of the class." },
+        ],
+        faqs: [
+          { q: "Is the Dadaocheng cooking class worth it in Taipei?", a: "Yes, for travelers who want real context on Taiwanese ingredients from the market, not just a standalone kitchen class." },
+        ],
+      };
+
+    case "is-thousand-island-lake-pinglin-tea-tour-worth-it-taipei":
+      return {
+        title: "Is the Thousand Island Lake and Pinglin Tea Plantation Tour Worth It?",
+        description: "An honest look at the Thousand Island Lake and Pinglin tea plantation day tour from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Pairing Thousand Island Lake's scenic boat views with a visit to Pinglin's tea-growing region covers both a natural landscape and a genuine agricultural trade rarely seen by visitors, worth it for travelers wanting a quieter day trip outside Taipei's more crowded routes.", tourCard: { slug: "from-taipei-thousand-island-lake-and-pinglin-tea", title: "From Taipei: Thousand Island Lake and Pinglin Tea Plantation", description: "A day tour combining Thousand Island Lake and the Pinglin tea plantation region.", price: "From $66", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1e1691519237b4ea9ec23e517b15ec654856d59ce80f87675df46559414d26b.jpg" } },
+          { title: "Practical Tips", content: "Bring a light jacket, since the lake and tea plantation areas sit at higher elevation and can be cooler than Taipei." },
+        ],
+        faqs: [
+          { q: "Is the Thousand Island Lake and Pinglin tea tour worth it from Taipei?", a: "Yes, for a quieter day trip combining real scenery and a genuine tea-growing region rarely covered by other Taipei tours." },
+        ],
+      };
+
     default:
       return null;
   }
