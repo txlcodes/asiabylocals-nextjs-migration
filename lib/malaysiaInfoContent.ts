@@ -4388,6 +4388,66 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-f1-malaysia-7day-package-worth-it-kuala-lumpur":
+            return {
+                title: "Is the F1 Malaysia 7-Day Private Grand Prix Experience Package Worth It?",
+                description: "An honest look at the 7-day F1 Malaysia private Grand Prix experience package from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1440974/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling race-day access with a full week of Kuala Lumpur sightseeing and transfers turns a single F1 weekend into a complete Malaysia trip, worth it for motorsport fans wanting the race handled alongside everything else.",
+                    tourCard: { slug: "f1-malaysia-20267-day-private-grand-prix", title: "F1 Malaysia 2026—7-Day Private Grand Prix Experience Package", description: "A 7-day private Grand Prix experience package covering the F1 Malaysia race and Kuala Lumpur sightseeing.", price: "From $1846", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1440974/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm exactly which race-day ticket tier is included, since Grand Prix seating options vary significantly in price and view." }
+                ],
+                faqs: [
+                    { q: "Is the F1 Malaysia 7-day Grand Prix package worth it?", a: "Yes, for motorsport fans wanting race-day access combined with a full week of Kuala Lumpur sightseeing handled in one booking." }
+                ],
+            };
+
+        case "is-musang-king-durian-countryside-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Musang King Durian & Countryside Private Tour Worth It?",
+                description: "An honest look at the Musang King durian and countryside private tour from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1391146/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting a real durian farm to taste the prized Musang King variety fresh from the source gives a genuinely deeper experience than a city-based tasting academy, worth it for durian enthusiasts wanting to see where the fruit actually grows.",
+                    tourCard: { slug: "kuala-lumpur-musang-king-durian-countryside", title: "Kuala Lumpur: Musang King Durian& Countryside Private Tour", description: "A private tour to a Musang King durian farm and the surrounding countryside from Kuala Lumpur.", price: "From $961", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1391146/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the season before booking, since Musang King durian has a defined harvest window and availability varies year-round." }
+                ],
+                faqs: [
+                    { q: "Is the Musang King durian and countryside tour worth it?", a: "Yes, for durian enthusiasts wanting a genuinely deeper farm-to-fruit experience than a city-based tasting session." }
+                ],
+            };
+
+        case "is-mossy-forest-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Private Guided Mossy Forest Tour Worth It from Kuala Lumpur?",
+                description: "An honest look at the private guided Mossy Forest tour with Malaysia transfer from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1471837/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Mossy Forest's genuinely eerie, cloud-covered highland terrain gives a completely different atmosphere from Cameron Highlands' tea plantations, worth it for travelers wanting a short, dramatic nature stop unlike anywhere else nearby.",
+                    tourCard: { slug: "private-guided-mossy-forest-tour-malaysia-transfer", title: "Private Guided Mossy Forest Tour & Malaysia Transfer", description: "A private guided tour of the Mossy Forest with transfer included.", price: "From $861", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1471837/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a light jacket, since the Mossy Forest's elevation and cloud cover keep temperatures noticeably cooler than the lowlands." }
+                ],
+                faqs: [
+                    { q: "Is the Mossy Forest tour worth it from Kuala Lumpur?", a: "Yes, for travelers wanting a genuinely eerie, dramatic highland atmosphere unlike the nearby tea-plantation scenery." }
+                ],
+            };
+
+        case "is-nomadic-kl-vintage-vespa-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Nomadic KL Vintage Vespa Tour Worth It?",
+                description: "An honest look at the Nomadic KL Vintage Vespa tour in Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1445732/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Touring Kuala Lumpur's streets on the back of a vintage Vespa gives a genuinely stylish, photogenic way to see the city that a standard car tour can't match, worth it for travelers wanting a memorable, Instagram-friendly ride.",
+                    tourCard: { slug: "nomadic-kl-vintage-vespa-tour", title: "Nomadic KL Vintage Vespa Tour", description: "A vintage Vespa city tour of Kuala Lumpur.", price: "From $541", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1445732/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress for open-air riding, since Vespas have no roof or windshield protection from sun or rain." }
+                ],
+                faqs: [
+                    { q: "Is the Nomadic KL Vintage Vespa tour worth it?", a: "Yes, for travelers wanting a genuinely stylish, photogenic way to see the city that a standard car tour can't offer." }
+                ],
+            };
+
         case "is-spice-garden-cooking-class-worth-it-penang":
             return {
                 title: "Is the Tropical Spice Garden Cooking Class Worth It in Penang?",
