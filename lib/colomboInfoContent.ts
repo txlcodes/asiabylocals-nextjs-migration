@@ -1397,6 +1397,90 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ogf-bowling-worth-it-colombo":
+      return {
+        title: "Is the Colombo OGF Bowling Experience Worth It?",
+        description: "An honest look at the OGF bowling experience in Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1473974/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A straightforward, air-conditioned bowling session, worth it specifically as a relaxed, low-effort activity for a hot afternoon or a group outing rather than a cultural must-do.",
+            tourCard: { slug: "colombo-ogf-bowling-experience", title: "Colombo OGF: Bowling Experience", description: "A bowling experience at OGF in Colombo.", price: "From $50", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1473974/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for a group or family activity on a day when the heat makes outdoor sightseeing less appealing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo OGF bowling experience worth it?", a: "Yes, as a relaxed, air-conditioned group activity, especially useful on a hot afternoon." },
+        ],
+      };
+
+    case "is-sip-and-paint-souvenir-worth-it-colombo":
+      return {
+        title: "Is the Sip & Paint Souvenir Experience Worth It in Colombo?",
+        description: "An honest look at the Sip & Paint souvenir experience with tuk-tuk pickup in Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1424409/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A relaxed painting session paired with drinks, worth it as a social, low-pressure craft activity for travelers wanting a genuine souvenir alongside a fun evening rather than a serious art lesson.",
+            tourCard: { slug: "colombo-sip-paint-souvenir-experience-with-tuk", title: "Colombo: Sip & Paint Souvenir Experience with Tuk-Tuk Pickup", description: "A sip-and-paint souvenir painting session with tuk-tuk pickup included.", price: "From $59", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1424409/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Let your painting dry fully before packing it, especially if you're flying out soon after.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sip & Paint souvenir experience worth it in Colombo?", a: "Yes, as a relaxed, social craft activity with a genuine souvenir, rather than a serious art lesson." },
+        ],
+      };
+
+    case "is-port-city-water-skiing-worth-it-colombo":
+      return {
+        title: "Is the Water Skiing Session at Colombo Port City Worth It?",
+        description: "An honest look at the water skiing session on the Colombo Port City waterfront.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368787/asiabylocals/tours/water-skiing-in-port-city/img0.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Port City's reclaimed waterfront has quietly become Colombo's water-sports hub, and this water skiing session gives a genuinely active, adrenaline-driven activity most visitors have no idea exists in the city, distinct from the temple and market sightseeing most itineraries focus on.",
+            tourCard: { slug: "water-skiing-session-colombo-port-city-waterfront", title: "Water Skiing Session on the Colombo Port City Waterfront", description: "A water skiing session at Colombo's Port City waterfront.", price: "From $66", duration: "20 minutes", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368787/asiabylocals/tours/water-skiing-in-port-city/img0.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior water-skiing experience is needed — instructors typically start beginners on the basics before building up speed.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Port City water skiing session worth it in Colombo?", a: "Yes, it's a genuinely active, adrenaline-driven activity most visitors never realize Colombo even offers." },
+        ],
+      };
+
+    case "is-city-sketching-lesson-worth-it-colombo":
+      return {
+        title: "Is the Colombo City Sketching Lesson and Walk Worth It?",
+        description: "An honest look at the city sketching lesson and walk in Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning to sketch Colombo's colonial-era architecture and street scenes on location gives a genuinely different, slower way to engage with the city, worth it for travelers who want a creative activity rather than just photographing the same landmarks.",
+            tourCard: { slug: "colombo-city-sketching-lesson-and-walk", title: "Colombo: City Sketching Lesson and Walk", description: "A guided sketching lesson and walk through Colombo's architecture and streets.", price: "From $84", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1017387/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior drawing skill is needed — this is designed as a beginner-friendly lesson, not a class for experienced artists only.",
+          },
+        ],
+        faqs: [
+          { q: "Is the city sketching lesson and walk worth it in Colombo?", a: "Yes, it's a genuinely different, slower way to engage with the city's architecture than just taking photos." },
+        ],
+      };
+
     default:
       return null;
   }

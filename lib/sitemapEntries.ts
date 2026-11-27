@@ -2044,6 +2044,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-tea-rubber-estate-tour-worth-it-colombo', 'is-tuk-tuk-food-tour-worth-it-colombo',
     'is-silver-jewelry-workshop-worth-it-colombo', 'is-port-city-canoeing-worth-it-colombo',
     'is-scooter-tour-worth-it-colombo', 'is-free-tea-tasting-worth-it-colombo',
+    'is-ogf-bowling-worth-it-colombo', 'is-sip-and-paint-souvenir-worth-it-colombo',
+    'is-port-city-water-skiing-worth-it-colombo', 'is-city-sketching-lesson-worth-it-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),

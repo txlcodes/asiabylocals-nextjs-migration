@@ -1911,6 +1911,8 @@ export const COLOMBO_INFO_SLUGS = [
   'is-tea-rubber-estate-tour-worth-it-colombo', 'is-tuk-tuk-food-tour-worth-it-colombo',
   'is-silver-jewelry-workshop-worth-it-colombo', 'is-port-city-canoeing-worth-it-colombo',
   'is-scooter-tour-worth-it-colombo', 'is-free-tea-tasting-worth-it-colombo',
+  'is-ogf-bowling-worth-it-colombo', 'is-sip-and-paint-souvenir-worth-it-colombo',
+  'is-port-city-water-skiing-worth-it-colombo', 'is-city-sketching-lesson-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
