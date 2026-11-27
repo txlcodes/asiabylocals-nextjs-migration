@@ -1354,6 +1354,62 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-city-bike-tour-with-snacks-worth-it-phnom-penh":
+            return {
+                title: "Is the Guided City Bike Tour with Snacks Worth It in Phnom Penh?",
+                description: "An honest look at the guided city bike tour with snacks in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This bike tour covers more ground than walking, with local snack stops built in along the way, worth it specifically for travelers wanting an active, budget-friendly way to see the city without the extra cost of the sunset-cruise combo version.", tourCard: { slug: "guided-city-bike-tour-with-snacks-in-phnom-penh", title: "Guided City Bike Tour with Snacks in Phnom Penh", description: "A guided city bike tour with local snack stops in Phnom Penh.", price: "From $59", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come with an appetite for the snack stops, and wear clothing appropriate for cycling in the heat." }
+                ],
+                faqs: [
+                    { q: "Is the city bike tour with snacks worth it in Phnom Penh?", a: "Yes, for an active, budget-friendly way to cover more ground than walking, with real local snack stops included." }
+                ],
+            };
+
+        case "is-mekong-village-cooking-escape-worth-it-phnom-penh":
+            return {
+                title: "Is the Mekong Village Cooking Escape and Night Stay Worth It?",
+                description: "An honest look at the Mekong village cooking escape with an overnight stay near Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Spending a full day and overnight in a Mekong riverside village cooking with locals gives a genuinely slower, deeper experience than a half-day cooking class in the city, worth it specifically for travelers with an extra day who want real immersion rather than a quick lesson.", tourCard: { slug: "mekong-village-cooking-escape-and-night-stay", title: "Mekong Village Cooking Escape and Night Stay", description: "An overnight cooking escape in a Mekong riverside village near Phnom Penh.", price: "From $77", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pack an overnight bag with essentials, since this includes a stay away from your city hotel." }
+                ],
+                faqs: [
+                    { q: "Is the Mekong village cooking escape worth it?", a: "Yes, specifically for travelers with an extra day who want genuine village immersion rather than a quick half-day cooking class." }
+                ],
+            };
+
+        case "is-bike-and-boat-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Bike and Boat Tour Worth It in Phnom Penh?",
+                description: "An honest look at the bike and boat tour, with an e-bike option available, in Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a cycling portion with a boat leg covers both land and water sides of the city's surroundings in one booking, worth it specifically for travelers wanting variety in how they move through the day rather than sticking to one mode of transport.", tourCard: { slug: "bike-and-boat-tour-e-bike-available-in-phnom", title: "Bike and Boat Tour / E-Bike Available in Phnom Penh", description: "A combined bike and boat tour around Phnom Penh, with an e-bike option.", price: "From $85", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Take the e-bike option if you're not confident cycling in heat and traffic — it covers the same route with much less effort." }
+                ],
+                faqs: [
+                    { q: "Is the bike and boat tour worth it in Phnom Penh?", a: "Yes, for travelers wanting genuine variety in how they move through the day, covering both land and water routes in one booking." }
+                ],
+            };
+
+        case "is-oudong-koh-chen-village-tour-worth-it-phnom-penh":
+            return {
+                title: "Is the Old City of Oudong and Koh Chen Village Tour Worth It?",
+                description: "An honest look at the Old City of Oudong and Koh Chen village tour from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Adding Koh Chen, a village known for traditional silver and copper handicrafts, to the Oudong royal capital stop gives a fuller day than the standalone Oudong tour, worth it specifically for travelers wanting both the historical site and a genuine craft-village visit in one trip.", tourCard: { slug: "old-city-of-oudong-and-koh-chen-village-tour", title: "Old City of Oudong and Koh Chen Village Tour", description: "A combined tour of the Oudong royal capital and Koh Chen craft village.", price: "From $59", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/olympic-stadium-and-islands-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask about buying directly from Koh Chen's silversmiths and coppersmiths — it's a good place for an authentic handmade souvenir." }
+                ],
+                faqs: [
+                    { q: "Is the Oudong and Koh Chen village tour worth it?", a: "Yes, specifically for travelers wanting both the historical royal capital site and a genuine craft-village visit in one trip." }
+                ],
+            };
+
         default:
             return null;
     }

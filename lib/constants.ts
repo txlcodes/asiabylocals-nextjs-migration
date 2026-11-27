@@ -1597,6 +1597,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'is-12-stop-landmarks-tuk-tuk-tour-worth-it-phnom-penh', 'is-taprohm-bati-chisor-temple-tour-worth-it-phnom-penh',
     'is-instagram-day-tour-worth-it-phnom-penh', 'is-nightlife-city-tour-worth-it-phnom-penh',
     'is-private-architecture-tour-worth-it-phnom-penh', 'is-olympic-stadium-islands-tour-worth-it-phnom-penh',
+    'is-city-bike-tour-with-snacks-worth-it-phnom-penh', 'is-mekong-village-cooking-escape-worth-it-phnom-penh',
+    'is-bike-and-boat-tour-worth-it-phnom-penh', 'is-oudong-koh-chen-village-tour-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [
