@@ -2016,6 +2016,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bolu-golcuk-abant-lake-worth-it-istanbul":
+      return {
+        title: "Is the Bolu Trip to Golcuk and Abant Lake Worth It from Istanbul?",
+        description: "An honest look at the private Bolu trip to Golcuk and Abant Lake from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6eb26dd66aaabf9adb55f70df2f230b16ea96c12999ed8dbf95a995ea16820c2.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bolu's forested lakes at Golcuk and Abant give a genuinely different, green mountain landscape than Istanbul's historic core, worth it for travelers wanting a quiet nature escape rather than more mosques and bazaars.",
+            tourCard: { slug: "from-istanbul-private-bolu-trip-to-golcuk-abant", title: "From Istanbul: Private Bolu Trip to Golcuk & Abant Lake", description: "A private day trip to Bolu's Golcuk and Abant Lake from Istanbul.", price: "From $2176", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6eb26dd66aaabf9adb55f70df2f230b16ea96c12999ed8dbf95a995ea16820c2.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack layers, since Bolu's forested elevation runs noticeably cooler than Istanbul year-round.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bolu, Golcuk and Abant Lake trip worth it from Istanbul?", a: "Yes, for travelers wanting a quiet, green mountain-lake escape distinct from Istanbul's historic sightseeing." },
+        ],
+      };
+
+    case "is-mount-nemrut-gobekli-tepe-2day-worth-it-istanbul":
+      return {
+        title: "Is the Mount Nemrut and Göbekli Tepe 2-Day Tour Worth It from Istanbul?",
+        description: "An honest look at the Mount Nemrut and Göbekli Tepe 2-day tour from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3429966ec96b181f7af2c5556bf88058a0a20af78c26bda006e3521ec4a2416e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Mount Nemrut's giant stone head statues with Göbekli Tepe's prehistoric temple over two days covers two of Turkey's most remote and significant ancient sites in one trip, worth it for travelers with real interest in archaeology and the time for a multi-day journey.",
+            tourCard: { slug: "from-istanbul-mount-nemrut-gobekli-tepe-2-day-tour", title: "From Istanbul: Mount Nemrut & Göbekli Tepe 2-Day Tour", description: "A 2-day tour covering Mount Nemrut's statues and Göbekli Tepe from Istanbul.", price: "From $1603", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3429966ec96b181f7af2c5556bf88058a0a20af78c26bda006e3521ec4a2416e.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book with real lead time, since this covers two remote sites with fixed flight and ground transport logistics.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Nemrut and Göbekli Tepe 2-day tour worth it from Istanbul?", a: "Yes, for travelers with real interest in archaeology who have time for a multi-day trip to two of Turkey's most significant ancient sites." },
+        ],
+      };
+
+    case "is-wine-tasting-tekirdag-worth-it-istanbul":
+      return {
+        title: "Is the Wine Tasting Day Trip to Tekirdag Worth It from Istanbul?",
+        description: "An honest look at the private wine tasting day trip to Tekirdag from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a739b395b17d9f052b80d51582acf7ea04621497769c35f4355ca50fee4bd2c3.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Turkey's wine region near Tekirdag is genuinely underrated and rarely covered by standard Istanbul itineraries, worth it for travelers interested in wine who want a relaxed countryside day paired with real tastings rather than more mosque-and-bazaar sightseeing.",
+            tourCard: { slug: "istanbul-private-wine-tasting-day-trip-to-tekirdag", title: "Istanbul: Private Wine Tasting Day Trip to Tekirdag", description: "A private wine tasting day trip to the Tekirdag region from Istanbul.", price: "From $1327", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a739b395b17d9f052b80d51582acf7ea04621497769c35f4355ca50fee4bd2c3.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace your tastings across the day, since this typically visits multiple wineries rather than just one.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tekirdag wine tasting day trip worth it from Istanbul?", a: "Yes, for wine-interested travelers wanting a relaxed countryside day in Turkey's genuinely underrated wine region." },
+        ],
+      };
+
+    case "is-edirne-bahai-house-worth-it-istanbul":
+      return {
+        title: "Is the Edirne City and Baha'i House Tour Worth It from Istanbul?",
+        description: "An honest look at the Edirne City and Baha'i House private tour from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49af1e0f8454b2743d19cbc6a4418526dfab996a861cefcb839f889259c48a20.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Edirne's Ottoman-era mosques and the historic Baha'i House give a genuinely different and little-visited side of Turkish history near the Bulgarian and Greek borders, worth it for travelers wanting a deeper, off-the-main-circuit day trip from Istanbul.",
+            tourCard: { slug: "from-istanbul-edirne-city-and-bahai-house-private", title: "From Istanbul: Edirne City and Baha'i House Private Tour", description: "A private tour of Edirne City and the Baha'i House from Istanbul.", price: "From $1074", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/49af1e0f8454b2743d19cbc6a4418526dfab996a861cefcb839f889259c48a20.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the mosque visits, since Edirne's Selimiye Mosque is a major active place of worship.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Edirne City and Baha'i House tour worth it from Istanbul?", a: "Yes, for travelers wanting a genuinely different, little-visited side of Turkish history near the border region." },
+        ],
+      };
+
     default:
       return null;
   }
