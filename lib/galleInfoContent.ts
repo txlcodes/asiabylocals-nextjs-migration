@@ -816,6 +816,90 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tangalle-whale-dolphin-speedboat-worth-it-galle":
+      return {
+        title: "Is the Tangalle Private Whale and Dolphin Watching Speed Boat Tour Worth It?",
+        description: "An honest look at the Tangalle private whale and dolphin watching speed boat tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1468428/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tangalle gives a quieter, less crowded alternative to Mirissa's busier whale-watching harbor, with a private speedboat covering both whales and dolphins in one trip, worth it for travelers wanting the experience without Mirissa's larger tour-boat crowds.",
+            tourCard: { slug: "tangalle-private-whale-dolphin-watching-speed", title: "Tangalle: Private Whale & Dolphin Watching Speed Boat Tour", description: "A private speedboat whale and dolphin watching tour from Tangalle.", price: "From $1063", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1468428/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book during the November-to-April season for the best whale and dolphin sighting odds.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tangalle whale and dolphin watching tour worth it?", a: "Yes, for travelers wanting whale and dolphin sightings without Mirissa's larger, more crowded tour boats." },
+        ],
+      };
+
+    case "is-galle-belihuloya-safari-worth-it-galle":
+      return {
+        title: "Is the Galle to Belihuloya Safari Day Tour Worth It?",
+        description: "An honest look at the Galle to Belihuloya safari day tour, a hidden nature escape.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294274/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Belihuloya's hill-country jeep safaris give a genuinely different inland landscape from Galle's coastal fort-and-beach circuit, worth it for travelers wanting a nature-focused day trip away from the south coast's crowds.",
+            tourCard: { slug: "galle-to-belihuloya-safari-day-tour-hidden-nature", title: "Galle to Belihuloya Safari Day Tour Hidden Nature Escape", description: "A safari day tour to Belihuloya from Galle.", price: "From $423", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294274/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the inland distance — confirm total travel time with the operator before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Galle to Belihuloya safari day tour worth it?", a: "Yes, for travelers wanting a genuinely different inland landscape away from Galle's coastal fort-and-beach circuit." },
+        ],
+      };
+
+    case "is-galle-bakers-bend-worth-it-galle":
+      return {
+        title: "Is the Galle to Baker's Bend Day Tour Worth It?",
+        description: "An honest look at the Galle to Baker's Bend day tour, a scenic inland nature escape.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294287/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Baker's Bend's river and nature scenery give a genuinely different inland day than Galle's fort and beach circuit, worth it for travelers wanting a scenic nature escape without a multi-day commitment to the hill country.",
+            tourCard: { slug: "galle-to-bakers-bend-day-tour-scenic-inland", title: "Galle to Baker's Bend Day Tour Scenic Inland Nature Escape", description: "A scenic inland nature day tour to Baker's Bend from Galle.", price: "From $423", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294287/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm what water or adventure activities are included at Baker's Bend before booking, since the itinerary can vary by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Galle to Baker's Bend day tour worth it?", a: "Yes, for travelers wanting a genuine scenic nature escape inland, without committing multiple days to the hill country." },
+        ],
+      };
+
+    case "is-cinnamon-moonstone-tea-factory-fort-worth-it-galle":
+      return {
+        title: "Is the Cinnamon, Moonstone, Tea Factory and Fort Day Tour Worth It?",
+        description: "An honest look at the Galle cinnamon, moonstone, tea factory and fort day tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1186984/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining cinnamon and moonstone craft stops with a tea factory visit and Galle Fort gives a genuinely varied day covering agriculture, gems and heritage, worth it for travelers wanting more substance than a fort-only visit.",
+            tourCard: { slug: "galle-cinnamon-moonstone-tea-factory-fort-day-tour", title: "Galle: Cinnamon, Moonstone, Tea Factory & Fort Day Tour", description: "A day tour combining cinnamon, moonstone, a tea factory and Galle Fort.", price: "From $423", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1186984/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring cash if you're interested in buying moonstone jewelry directly at the gem stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cinnamon, moonstone, tea factory and fort day tour worth it?", a: "Yes, for travelers wanting a genuinely varied day covering agriculture, gems and heritage, beyond a fort-only visit." },
+        ],
+      };
+
     default:
       return null;
   }
