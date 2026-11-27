@@ -5118,6 +5118,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-yacht-charter-by-mila-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Private Yacht Charter by Mila Worth It?",
+                description: "An honest look at the Langkawi private yacht charter by Mila.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1352318/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A private yacht charter gives full control over the route and schedule around Langkawi's waters, worth it for travelers wanting a premium, personalized boat experience rather than a shared group tour.", tourCard: { slug: "langkawi-private-yacht-charter-by-mila", title: "Langkawi Private Yacht Charter by Mila", description: "A private yacht charter around Langkawi's waters.", price: "From $647", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1352318/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Discuss your preferred route and stops with the captain in advance, since the private format allows real flexibility." }
+                ],
+                faqs: [
+                    { q: "Is the Private Yacht Charter by Mila worth it in Langkawi?", a: "Yes, for travelers wanting a premium, personalized boat experience with full control over the route and schedule." }
+                ],
+            };
+
+        case "is-3day-private-tour-worth-it-langkawi":
+            return {
+                title: "Is the 3 Days 2 Nights Langkawi Private Tour Worth It?",
+                description: "An honest look at the 3-day, 2-night Langkawi private tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1036340/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A private multi-day tour gives genuine time to cover Langkawi's islands, cable car, and mangroves at a relaxed pace, worth it for travelers wanting the island's highlights handled in one organized booking rather than piecing together separate day tours.", tourCard: { slug: "3-days-2-nights-langkawi-private-tour", title: "3 Days 2 Nights Langkawi Private Tour", description: "A 3-day, 2-night private tour covering Langkawi's highlights.", price: "From $1944", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1036340/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm exactly which attractions are included across the 3 days, since 'highlights' tours of this length vary between operators." }
+                ],
+                faqs: [
+                    { q: "Is the 3-day Langkawi private tour worth it?", a: "Yes, for travelers wanting the island's main highlights handled in one organized booking, at a relaxed pace rather than rushed day trips." }
+                ],
+            };
+
+        case "is-overnight-fishing-squid-jigging-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Overnight Fishing and Squid Jigging Boat Trip Worth It?",
+                description: "An honest look at the overnight fishing and squid jigging boat trip in Langkawi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1463494/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Squid jigging under lights at night is a genuinely different fishing technique from standard daytime fishing trips, and the overnight format gives real time to try both, worth it for anglers wanting a more varied, hands-on fishing experience.", tourCard: { slug: "langkawi-overnight-fishing-and-squid-jigging-boat", title: "Langkawi: Overnight Fishing and Squid Jigging Boat Trip", description: "An overnight boat trip combining standard fishing with squid jigging in Langkawi.", price: "From $617", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1463494/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress warmly for the overnight hours on the water, since temperatures drop noticeably once the sun goes down." }
+                ],
+                faqs: [
+                    { q: "Is the overnight fishing and squid jigging trip worth it in Langkawi?", a: "Yes, for anglers wanting a genuinely varied, hands-on experience trying both standard fishing and squid jigging in one trip." }
+                ],
+            };
+
+        case "is-city-pass-multiple-attractions-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi City Pass with Multiple Attractions Worth It?",
+                description: "An honest look at the Langkawi City Pass with multiple attractions and transport.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1216332/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling entry to several attractions with transport included can genuinely save money and hassle compared to booking each site separately, worth it for travelers wanting to cover multiple Langkawi sights without arranging individual transfers.", tourCard: { slug: "langkawi-city-pass-with-multiple-attractions", title: "Langkawi : City Pass With Multiple Attractions & Transport", description: "A city pass bundling entry to multiple Langkawi attractions with transport.", price: "From $754", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1216332/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check which specific attractions are included in the pass before booking, since bundled passes vary in their exact lineup." }
+                ],
+                faqs: [
+                    { q: "Is the Langkawi City Pass with multiple attractions worth it?", a: "Yes, for travelers wanting to cover several sights with transport handled, genuinely saving money and hassle over booking each separately." }
+                ],
+            };
+
         default:
             return null;
     }

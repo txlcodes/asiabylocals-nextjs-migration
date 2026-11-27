@@ -350,6 +350,8 @@ export const LANGKAWI_INFO_SLUGS = [
   'is-secrets-of-the-sanctuary-walk-worth-it-langkawi', 'is-countryside-bike-waterfall-tour-worth-it-langkawi',
   'is-seven-wells-waterfall-tour-worth-it-langkawi', 'is-private-fishing-charter-worth-it-langkawi',
   'is-private-full-day-car-tour-worth-it-langkawi', 'is-dangli-island-snorkeling-worth-it-langkawi',
+  'is-yacht-charter-by-mila-worth-it-langkawi', 'is-3day-private-tour-worth-it-langkawi',
+  'is-overnight-fishing-squid-jigging-worth-it-langkawi', 'is-city-pass-multiple-attractions-worth-it-langkawi',
 ];
 
 export const MALACCA_INFO_SLUGS = [
