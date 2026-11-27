@@ -2354,6 +2354,90 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kpop-debut-premium-package-worth-it-seoul":
+      return {
+        title: "Is the Seoul K-pop Debut Premium Package Worth It?",
+        description: "An honest look at the K-pop Debut Premium Package in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d2e2e6b10876a7568dfdb71ebbcbf52b8d70aaaad898b3b5ee55734620262ca.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A premium production package covering styling, choreography, and a polished music-video-style shoot gives fans a genuine taste of the K-pop idol experience, worth it specifically for travelers wanting a memorable, highly produced souvenir rather than a casual photo.",
+            tourCard: { slug: "seoul-your-k-pop-debut-premium-package", title: "Seoul: Your K-pop Debut Premium Package", description: "A premium K-pop styling, choreography, and photo/video shoot package in Seoul.", price: "From $1332", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7d2e2e6b10876a7568dfdb71ebbcbf52b8d70aaaad898b3b5ee55734620262ca.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Practice the choreography beforehand if provided, since the session time is limited and goes faster than expected once filming starts.",
+          },
+        ],
+        faqs: [
+          { q: "Is the K-pop Debut Premium Package worth it in Seoul?", a: "Yes, specifically for K-pop fans wanting a genuinely polished, memorable production experience rather than a casual photo session." },
+        ],
+      };
+
+    case "is-incheon-landing-operation-history-worth-it-seoul":
+      return {
+        title: "Is the Incheon Landing Operation History Tour with Col VINCERO Worth It?",
+        description: "An honest look at the Incheon Landing Operation history tour led by Col VINCERO.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a87472b00b35b6912e8af194e0a8e60c58f63db15a0c52d2170a1f11cff81519.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A tour led by a retired colonel specializing in military history gives genuine expert depth on the 1950 Incheon Landing, one of the Korean War's pivotal operations, worth it for travelers with real interest in military history rather than a general sightseeing stop.",
+            tourCard: { slug: "incheon-landing-operation-history-tour-with-col", title: "Incheon Landing Operation: History Tour with Col VINCERO", description: "A history tour of the Incheon Landing Operation led by a retired colonel.", price: "From $873", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a87472b00b35b6912e8af194e0a8e60c58f63db15a0c52d2170a1f11cff81519.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Read up on the broader Korean War timeline beforehand, since the expert-led commentary carries more weight with that context.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Incheon Landing Operation history tour worth it?", a: "Yes, for travelers with real interest in military history wanting genuine expert depth, led by a retired colonel specializing in the subject." },
+        ],
+      };
+
+    case "is-daegwallyeong-ranch-bts-bus-stop-worth-it-seoul":
+      return {
+        title: "Is the Daegwallyeong Ranch & BTS Bus Stop Private Tour Worth It from Seoul?",
+        description: "An honest look at the Daegwallyeong Ranch and BTS bus stop private tour from Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff57f593107a863a3540baf62d3e2eb0f500359b7ce66e285e7b8187e661062f.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Daegwallyeong's scenic highland ranch with a stop at a bus shelter made famous by BTS gives fans a genuine landmark pilgrimage alongside real countryside scenery, worth it for K-pop fans wanting both nature and fandom in one trip.",
+            tourCard: { slug: "from-seoul-daegwallyeong-ranch-bts-bus-stop", title: "From Seoul: Daegwallyeong Ranch & BTS Bus Stop Private Tour", description: "A private tour to Daegwallyeong Ranch and a BTS-famous bus stop from Seoul.", price: "From $909", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff57f593107a863a3540baf62d3e2eb0f500359b7ce66e285e7b8187e661062f.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long 12-hour day given the distance to Daegwallyeong, so prepare for substantial travel time each way.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Daegwallyeong Ranch and BTS bus stop tour worth it from Seoul?", a: "Yes, for K-pop fans wanting a genuine landmark pilgrimage alongside real highland countryside scenery in one trip." },
+        ],
+      };
+
+    case "is-effortless-transit-layover-worth-it-seoul":
+      return {
+        title: "Is the Seoul Effortless Transit & Tailored 10-Hour Layover Experience Worth It?",
+        description: "An honest look at the tailored 10-hour layover experience in Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A tailored layover tour built specifically around a long transit window makes genuine use of what would otherwise be dead airport time, worth it for travelers with a long layover who want a real taste of Seoul without missing their connection.",
+            tourCard: { slug: "seoul-effortless-transit-tailored-10hr-layover", title: "Seoul: Effortless Transit & Tailored 10hr Layover Experience", description: "A tailored 10-hour layover experience in Seoul built around transit timing.", price: "From $970", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e83adac682525068c13880ea43e0dcf685f0e9146feb0243a603171589a2f62e.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your visa and transit status allows leaving the airport before booking, since rules vary by nationality.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tailored 10-hour layover experience worth it in Seoul?", a: "Yes, for travelers with a long layover wanting a genuine taste of the city without risking their connection." },
+        ],
+      };
+
     default:
       return null;
   }

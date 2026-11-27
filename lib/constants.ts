@@ -1321,6 +1321,8 @@ export const SEOUL_INFO_SLUGS = [
   'is-hongdae-mother-of-pearl-workshop-worth-it-seoul', 'is-kpop-dance-class-worth-it-seoul',
   'is-bukhansan-trekking-worth-it-seoul', 'is-namhansanseong-fortress-tour-worth-it-seoul',
   'is-pocheon-day-trip-worth-it-seoul', 'is-cheorwon-hantangang-geo-park-worth-it-seoul',
+  'is-kpop-debut-premium-package-worth-it-seoul', 'is-incheon-landing-operation-history-worth-it-seoul',
+  'is-daegwallyeong-ranch-bts-bus-stop-worth-it-seoul', 'is-effortless-transit-layover-worth-it-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
