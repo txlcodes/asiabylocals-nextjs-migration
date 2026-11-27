@@ -168,6 +168,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-local-lifestyle-markets-food-tour-worth-it-jaipur', 'is-artisan-craft-cultural-tour-worth-it-jaipur',
     'is-galta-peeth-jawahar-kala-kendra-tour-worth-it-jaipur', 'is-mandawa-art-gallery-town-day-trip-worth-it-jaipur',
     'is-solo-female-motorbike-tour-worth-it-jaipur', 'is-2-day-guided-tour-local-art-worth-it-jaipur',
+    'is-namaste-bollywood-dance-worth-it-jaipur', 'is-flower-market-sunrise-tour-worth-it-jaipur',
+    'is-morning-bike-tour-old-city-worth-it-jaipur', 'is-night-tuk-tuk-tour-worth-it-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),

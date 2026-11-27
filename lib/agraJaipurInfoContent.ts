@@ -2097,6 +2097,90 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-namaste-bollywood-dance-worth-it-jaipur":
+      return {
+        title: "Is Namaste Bollywood: Dance Like a Star Worth It in Jaipur?",
+        description: "An honest look at the Namaste Bollywood dance like a star experience in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning real Bollywood choreography rather than watching a performance gives a genuinely active, participatory activity, worth it specifically for travelers wanting a fun, high-energy break from heritage sightseeing rather than another temple or fort visit.",
+            tourCard: { slug: "jaipur-namaste-bollywood-l-dance-like-a-star", title: "Jaipur: Namaste Bollywood | Dance like a Star", description: "A hands-on Bollywood dance class in Jaipur.", price: "From $27", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable clothes and shoes you can move in — this is an active dance class, not a seated demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Namaste Bollywood dance class worth it in Jaipur?", a: "Yes, for travelers wanting a fun, high-energy, participatory break from the city's heritage sightseeing." },
+        ],
+      };
+
+    case "is-flower-market-sunrise-tour-worth-it-jaipur":
+      return {
+        title: "Is the Morning Sunrise with Jaipur Flower Market Tour Worth It?",
+        description: "An honest look at the morning sunrise flower market tour in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaipur's wholesale flower market is a genuinely vivid, chaotic scene that runs on its own early-morning schedule, worth it specifically for travelers wanting authentic local color and photography rather than another curated heritage stop.",
+            tourCard: { slug: "from-jaipur-morning-sunrise-with-jaipur-flower-mar", title: "From Jaipur: Morning Sunrise with Jaipur Flower Market Tour", description: "A sunrise tour of Jaipur's flower market.", price: "From $30", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Set an early alarm — the market's genuine energy and color peak well before sunrise crowds of tourists would ever arrive.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jaipur flower market sunrise tour worth it?", a: "Yes, for travelers wanting authentic local color and photography, a genuinely different scene from the city's curated heritage stops." },
+        ],
+      };
+
+    case "is-morning-bike-tour-old-city-worth-it-jaipur":
+      return {
+        title: "Is the 3-Hour Morning Bike Tour of Jaipur Old City Worth It?",
+        description: "An honest look at the 3-hour morning bicycle tour of Jaipur's old city.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering the Pink City's old quarter by bicycle in the cool morning hours lets you reach more lanes and markets than walking, worth it specifically for travelers wanting an active way to see the city before the heat and traffic build up, distinct from the Royal Enfield motorbike tour.",
+            tourCard: { slug: "jaipur-3-hour-morning-bike-tour-of-jaipur-old", title: "Jaipur: 3-Hour Morning Bike Tour of Jaipur Old City", description: "A morning bicycle tour of Jaipur's old city.", price: "From $28", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the earliest available slot to beat both the heat and the old city's daytime traffic.",
+          },
+        ],
+        faqs: [
+          { q: "Is the morning bike tour of Jaipur old city worth it?", a: "Yes, for travelers wanting an active, quiet-hours way to cover more of the old city before heat and traffic build up." },
+        ],
+      };
+
+    case "is-night-tuk-tuk-tour-worth-it-jaipur":
+      return {
+        title: "Is the Jaipur Night Tuk-Tuk Tour Worth It?",
+        description: "An honest look at the Jaipur night tuk-tuk tour with hotel pickup and drop-off.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing Jaipur's illuminated monuments from an open tuk-tuk gives a genuinely different, breezier perspective than a walking tour, worth it specifically for travelers wanting an easy, low-effort evening covering more ground than walking allows.",
+            tourCard: { slug: "jaipur-night-tuk-tuk-tour-with-hotel-pickup-drop", title: "Jaipur: Night Tuk-Tuk Tour with Hotel Pickup & Drop-off", description: "A night tuk-tuk tour of Jaipur's illuminated monuments.", price: "From $32", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light layer — open-air tuk-tuk rides can get cool once the sun is fully down.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jaipur night tuk-tuk tour worth it?", a: "Yes, for travelers wanting an easy, low-effort evening covering more ground than a walking tour, with a genuinely different open-air view of the illuminated monuments." },
+        ],
+      };
+
     default:
       return null;
   }
