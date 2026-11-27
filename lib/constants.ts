@@ -2661,6 +2661,8 @@ export const ABU_DHABI_INFO_SLUGS = [
   'is-dune-dinner-worth-it-abu-dhabi', 'is-padi-certification-worth-it-abu-dhabi',
   'is-national-aquarium-worth-it-abu-dhabi', 'is-private-fishing-trip-worth-it-abu-dhabi',
   'is-yas-waterworld-worth-it-abu-dhabi', 'is-private-yacht-formula1-luxury-worth-it-abu-dhabi',
+  'is-quad-bike-camel-sandboarding-worth-it-abu-dhabi', 'is-sunrise-serenity-desert-walk-worth-it-abu-dhabi',
+  'is-catamaran-island-cruise-worth-it-abu-dhabi', 'is-4day-uae-cultural-journey-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)

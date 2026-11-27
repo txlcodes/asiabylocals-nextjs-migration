@@ -951,6 +951,90 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-quad-bike-camel-sandboarding-worth-it-abu-dhabi":
+      return {
+        title: "Is the Quad Bike ATV Safari, Camel Ride and Sandboarding Combo Worth It?",
+        description: "An honest look at the Abu Dhabi quad bike ATV safari with camel ride and sandboarding.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1036011/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a quad bike ATV safari with a camel ride and sandboarding packs three distinct desert activities into one outing, worth it for travelers wanting an active, varied desert day rather than picking just one activity.",
+            tourCard: { slug: "abu-dhabi-quad-bike-atv-safari-camel-ride-and", title: "Abu Dhabi: Quad Bike ATV Safari, Camel Ride and Sandboarding", description: "A desert combo of quad bike ATV safari, camel riding, and sandboarding near Abu Dhabi.", price: "From $2646", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1036011/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed shoes and clothes you don't mind getting sandy, since all three activities involve kicking up plenty of desert sand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the quad bike, camel ride and sandboarding combo worth it in Abu Dhabi?", a: "Yes, for travelers wanting an active, varied desert day combining three distinct activities in one outing." },
+        ],
+      };
+
+    case "is-sunrise-serenity-desert-walk-worth-it-abu-dhabi":
+      return {
+        title: "Is the Sunrise Serenity Desert Walk Worth It in Abu Dhabi?",
+        description: "An honest look at the Sunrise Serenity Desert Walk near Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1266464/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guided walk through the dunes at sunrise offers a quiet, low-impact alternative to the usual engine-heavy desert safaris, worth it for travelers wanting a calm, meditative desert experience rather than dune bashing or ATVs.",
+            tourCard: { slug: "sunrise-serenity-desert-walk-abu-dhabi", title: "Sunrise Serenity Desert Walk – Abu Dhabi", description: "A guided sunrise walk through the desert dunes near Abu Dhabi.", price: "From $968", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1266464/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress in layers, since desert mornings run cooler than the daytime heat most visitors expect.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sunrise Serenity Desert Walk worth it in Abu Dhabi?", a: "Yes, for travelers wanting a calm, meditative desert experience, distinct from the usual engine-heavy safaris." },
+        ],
+      };
+
+    case "is-catamaran-island-cruise-worth-it-abu-dhabi":
+      return {
+        title: "Is the Catamaran Island Cruise (5-Hour Package) Worth It in Abu Dhabi?",
+        description: "An honest look at the 5-hour catamaran island cruise package in Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1137327/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A 5-hour catamaran cruise out to Abu Dhabi's islands gives genuinely more time on the water than a short sightseeing boat ride, worth it for travelers wanting a relaxed, extended sailing day rather than a quick harbor loop.",
+            tourCard: { slug: "catamaran-island-cruise-abudhabi-5-hours-package", title: "Catamaran Island Cruise Abudhabi -5 Hours Package", description: "A 5-hour catamaran cruise to the islands around Abu Dhabi.", price: "From $3682", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1137327/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection for the full day on open water, since shade is limited for most of the cruise.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 5-hour catamaran island cruise worth it in Abu Dhabi?", a: "Yes, for travelers wanting a relaxed, extended sailing day rather than a quick harbor loop." },
+        ],
+      };
+
+    case "is-4day-uae-cultural-journey-worth-it-abu-dhabi":
+      return {
+        title: "Is the Four-Day UAE Cultural Journey (Dubai, Abu Dhabi, Al Ain) Worth It?",
+        description: "An honest look at the 4-day UAE cultural journey covering Dubai, Abu Dhabi, and Al Ain.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902270/asiabylocals/tours/four-day-uae-cultural-journey-dubai-abu-dhabi-and-al-ain/img1.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering Dubai, Abu Dhabi, and the inland oasis city of Al Ain in one 4-day package gives a genuinely complete UAE cultural overview beyond the usual Dubai-and-Abu-Dhabi day trip pairing, worth it for travelers wanting the full country without arranging transport between all three themselves.",
+            tourCard: { slug: "four-day-uae-cultural-journey-dubai-abu-dhabi-and-al-ain", title: "Four-Day UAE Cultural Journey: Dubai, Abu Dhabi and Al Ain", description: "A 4-day cultural journey covering Dubai, Abu Dhabi, and Al Ain.", price: "From $1219", duration: "4 days", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788902270/asiabylocals/tours/four-day-uae-cultural-journey-dubai-abu-dhabi-and-al-ain/img1.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Al Ain is noticeably hotter inland than the coastal cities, so plan outdoor portions of that leg for early morning or late afternoon.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 4-day UAE cultural journey worth it?", a: "Yes, for travelers wanting a complete overview of Dubai, Abu Dhabi, and Al Ain without arranging transport between all three themselves." },
+        ],
+      };
+
     default:
       return null;
   }
