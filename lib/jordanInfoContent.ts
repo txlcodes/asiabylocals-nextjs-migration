@@ -1518,6 +1518,74 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-petra-lots-cave-dead-sea-tour-worth-it-amman":
+            return {
+                title: "Is the Petra, Lot's Cave, and Dead Sea Day Trip Worth It from Amman?",
+                description: "An honest look at the Petra, Lot's Cave, and Dead Sea day trip from Amman.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f0bd3a0cdaa0518061906884799bdc5b5ace793183b8a1b7864dad45391aed0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Adding the biblically significant Lot's Cave to the standard Petra and Dead Sea combo gives this day a genuinely different historical stop most itineraries skip, worth it for travelers with a deeper interest in biblical history.", tourCard: { slug: "amman-petra-lots-cave-and-dead-sea-day-trip", title: "Amman: Petra, Lot's Cave, and Dead Sea Day Trip", description: "A day trip combining Petra, Lot's Cave, and the Dead Sea from Amman.", price: "From $325", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f0bd3a0cdaa0518061906884799bdc5b5ace793183b8a1b7864dad45391aed0.jpeg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day covering three stops — pace your energy and expect a late return to Amman." },
+                ],
+                faqs: [
+                    { q: "Is the Petra, Lot's Cave, and Dead Sea day trip worth it from Amman?", a: "Yes, specifically for travelers with a deeper interest in biblical history, adding a stop most standard Petra combos skip." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Petra, Lot's Cave, and Dead Sea day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers with a deeper interest in biblical history." } },
+                ] },
+            };
+
+        case "is-petra-pink-salt-lake-dead-sea-tour-worth-it-amman":
+            return {
+                title: "Is the Petra, Pink Salt Lake, & Dead Sea Private Tour Worth It?",
+                description: "An honest look at the Petra, Pink Salt Lake, and Dead Sea private tour from Amman.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2288041a2905fde0d4b277789ce4ac5607ce7927e6b9807e9db82ed4ccb1a3e.png",
+                sections: [
+                    { title: "The Short Answer", content: "Jordan's Pink Salt Lake is a genuinely striking, lesser-known natural feature, and pairing it with Petra and the Dead Sea gives this long private day a photogenic stop most standard combo tours don't include.", tourCard: { slug: "from-amman-petra-pink-salt-lake-dead-sea-private", title: "From Amman: Petra, Pink Salt Lake, & Dead Sea Private Tour", description: "A private day tour combining Petra, the Pink Salt Lake, and the Dead Sea.", price: "From $426", duration: "16 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a2288041a2905fde0d4b277789ce4ac5607ce7927e6b9807e9db82ed4ccb1a3e.png" } },
+                    { title: "Practical Tips", content: "At 16 hours, this is a genuinely demanding day — confirm start and end times with your operator and pace your energy across all three stops." },
+                ],
+                faqs: [
+                    { q: "Is the Petra, Pink Salt Lake, and Dead Sea private tour worth it?", a: "Yes, the Pink Salt Lake adds a genuinely photogenic stop most standard Petra and Dead Sea combos skip." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Petra, Pink Salt Lake, and Dead Sea tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the Pink Salt Lake adds a genuinely photogenic stop most Petra combos skip." } },
+                ] },
+            };
+
+        case "is-sharm-el-sheikh-petra-ferry-tour-worth-it":
+            return {
+                title: "Is the Day Tour to Petra from Sharm El Sheikh by Ferry Worth It?",
+                description: "An honest look at the day tour to Petra from Sharm El Sheikh by ferry.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e03b047a191e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This lets travelers based in Egypt's Sharm El Sheikh see Petra without a separate Jordan trip, crossing by ferry, worth it specifically for the convenience of adding Petra to an Egyptian Red Sea holiday, despite the genuinely long day involved.", tourCard: { slug: "from-sharm-el-sheikh-day-tour-to-petra-by", title: "From Sharm El Sheikh: Day Tour to Petra by Ferry", description: "A day tour to Petra from Sharm El Sheikh via ferry crossing.", price: "From $580", duration: "22 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5e03b047a191e.jpeg" } },
+                    { title: "Practical Tips", content: "At 22 hours including the ferry crossing, this is an extremely long day — confirm your passport and visa requirements for crossing into Jordan well in advance." },
+                ],
+                faqs: [
+                    { q: "Is the Petra day tour from Sharm El Sheikh by ferry worth it?", a: "Yes, specifically for the convenience of adding Petra to an Egyptian Red Sea holiday, though it's a genuinely long day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Petra day tour from Sharm El Sheikh worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for the convenience of adding Petra to an Egyptian Red Sea holiday." } },
+                ] },
+            };
+
+        case "is-petra-spanish-speaking-guide-tour-worth-it":
+            return {
+                title: "Is the Petra Private Walking Tour with a Spanish-Speaking Guide Worth It?",
+                description: "An honest look at the Petra private walking tour with a Spanish-speaking guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/15216a6dd5f6981202aa3258ecb06883fb75433ca15db9f271134802d5f242d1.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A genuine Spanish-speaking guide makes a real difference in understanding Petra's history without a language barrier, worth it specifically for Spanish-speaking travelers who want full context rather than a generic English tour.", tourCard: { slug: "petra-private-walking-tour-with-spanish-speaking", title: "Petra: Private Walking Tour with Spanish-Speaking Guide", description: "A private walking tour of Petra with a Spanish-speaking guide.", price: "From $172", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/15216a6dd5f6981202aa3258ecb06883fb75433ca15db9f271134802d5f242d1.jpeg" } },
+                    { title: "Practical Tips", content: "Confirm the guide's specific dialect or regional Spanish if that matters to your group." },
+                ],
+                faqs: [
+                    { q: "Is the Petra tour with a Spanish-speaking guide worth it?", a: "Yes, for Spanish-speaking travelers who want full historical context without a language barrier." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Petra tour with Spanish-speaking guide worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for Spanish-speaking travelers wanting full context without a language barrier." } },
+                ] },
+            };
+
         default:
             return null;
     }

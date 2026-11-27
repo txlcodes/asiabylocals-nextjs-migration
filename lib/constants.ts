@@ -500,6 +500,8 @@ export const PETRA_INFO_SLUGS: string[] = [
   'best-petra-beyond-the-ruins-experience-petra',
   'is-shobak-castle-tour-worth-it-petra',
   'is-sand-art-experience-worth-it-petra',
+  'is-petra-lots-cave-dead-sea-tour-worth-it-amman', 'is-petra-pink-salt-lake-dead-sea-tour-worth-it-amman',
+  'is-sharm-el-sheikh-petra-ferry-tour-worth-it', 'is-petra-spanish-speaking-guide-tour-worth-it',
 ];
 export const AMMAN_INFO_SLUGS: string[] = [
   'best-dead-sea-day-trip-tour-amman', 'best-jerash-day-trip-tour-amman',
