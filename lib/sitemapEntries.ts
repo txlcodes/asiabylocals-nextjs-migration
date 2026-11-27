@@ -521,6 +521,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-wood-carving-masterclass-worth-it-khiva', 'is-savitsky-museum-tour-worth-it-khiva',
     'is-aral-sea-ship-cemetery-tour-worth-it-khiva', 'is-miniature-painting-workshop-worth-it-khiva',
     'is-shivit-oshi-cooking-class-worth-it-khiva', 'is-japanese-language-walking-tour-worth-it-khiva',
+    'is-manti-cooking-tea-ceremony-worth-it-khiva', 'is-barak-dumpling-cooking-class-worth-it-khiva',
+    'is-rooftop-cooking-class-dinner-worth-it-khiva', 'is-kunya-urgench-day-tour-worth-it-khiva',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/khiva/${slug}`,
     lastModified: new Date(),

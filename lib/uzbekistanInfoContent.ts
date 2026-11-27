@@ -1606,6 +1606,74 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-manti-cooking-tea-ceremony-worth-it-khiva":
+            return {
+                title: "Is the Manti Cooking Class with Tea Ceremony & Souvenirs Worth It?",
+                description: "An honest look at the manti cooking class with a tea ceremony and souvenirs in Khiva.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/47269e995dc56fdb960197825f17cbcba6fbee9f3fd5a6d30253615aac16908c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Learning to make manti, steamed dumplings common across Central Asia, paired with a traditional tea ceremony and souvenirs included, gives this class genuine added value beyond a basic cooking lesson.", tourCard: { slug: "khiva-manti-cooking-class-with-tea-ceremony", title: "Khiva: Manti Cooking Class with Tea Ceremony & Souvenirs", description: "A hands-on manti cooking class paired with a tea ceremony and souvenirs.", price: "From $65", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/47269e995dc56fdb960197825f17cbcba6fbee9f3fd5a6d30253615aac16908c.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — the class ends with eating the manti you helped make, alongside the tea ceremony." },
+                ],
+                faqs: [
+                    { q: "Is the manti cooking class with tea ceremony worth it in Khiva?", a: "Yes, the tea ceremony and souvenirs give this genuine added value beyond a basic cooking lesson." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the manti cooking class worth it in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the tea ceremony and souvenirs add genuine value beyond a basic cooking lesson." } },
+                ] },
+            };
+
+        case "is-barak-dumpling-cooking-class-worth-it-khiva":
+            return {
+                title: "Is the Traditional Barak Dumpling Cooking Class Worth It in Khiva?",
+                description: "An honest look at the traditional Barak dumpling cooking class in Khiva.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bec9adb64bf8c2b7b56c090f7f1e515de705268de6903fa63d50929dcc1eb2c0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Barak is a distinct regional Khorezm dumpling, different from manti in both shape and filling, and this class teaches the specific technique, worth it for travelers who've already tried manti and want to compare the region's dumpling varieties.", tourCard: { slug: "khiva-traditional-barak-dumpling-cooking-class", title: "Khiva: Traditional Barak Dumpling Cooking Class", description: "A hands-on traditional Barak dumpling cooking class.", price: "From $65", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bec9adb64bf8c2b7b56c090f7f1e515de705268de6903fa63d50929dcc1eb2c0.jpg" } },
+                    { title: "Practical Tips", content: "If you want to compare dumpling styles, pair this with a separate manti class on another day rather than booking both the same day." },
+                ],
+                faqs: [
+                    { q: "Is the Barak dumpling cooking class worth it in Khiva?", a: "Yes, it teaches a genuinely distinct regional dumpling technique, different from manti in shape and filling." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Barak dumpling cooking class worth it in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it teaches a genuinely distinct regional dumpling technique." } },
+                ] },
+            };
+
+        case "is-rooftop-cooking-class-dinner-worth-it-khiva":
+            return {
+                title: "Is the Rooftop Cooking Class with Dinner and Tea Ceremony Worth It?",
+                description: "An honest look at the rooftop cooking class with dinner and tea ceremony in Khiva.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bf8345e512508eaa314dc80d4f32a9464b57e88b0fd2e5499727075977f7da5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A rooftop setting over Khiva's old city gives this cooking class genuinely striking views alongside the hands-on cooking and tea ceremony, worth it for travelers who want atmosphere as much as the culinary lesson itself.", tourCard: { slug: "khiva-rooftop-cooking-class-with-dinner-and-tea", title: "Khiva: Rooftop Cooking Class with Dinner and Tea Ceremony", description: "A rooftop cooking class with dinner and a tea ceremony overlooking the old city.", price: "From $117", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bf8345e512508eaa314dc80d4f32a9464b57e88b0fd2e5499727075977f7da5.jpg" } },
+                    { title: "Practical Tips", content: "Book a slot timed for sunset if possible, to get the best rooftop views over the old city skyline." },
+                ],
+                faqs: [
+                    { q: "Is the rooftop cooking class with dinner worth it in Khiva?", a: "Yes, the rooftop setting gives genuinely striking views alongside the cooking lesson and tea ceremony." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the rooftop cooking class worth it in Khiva?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely striking rooftop views alongside the cooking lesson." } },
+                ] },
+            };
+
+        case "is-kunya-urgench-day-tour-worth-it-khiva":
+            return {
+                title: "Is the Kunya Urgench Day Tour Worth It from Khiva?",
+                description: "An honest look at the Kunya Urgench day tour from Khiva.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Kunya Urgench, a UNESCO-listed former capital just across the border in Turkmenistan, holds genuinely significant medieval Islamic monuments distinct from Khiva's own architecture, worth it for travelers with a deep interest in Silk Road history and the logistics to cross the border.", tourCard: { slug: "kunya-urgench-day-tour-from-uzbekistan", title: "Kunya Urgench Day Tour from Uzbekistan", description: "A day tour to the UNESCO-listed Kunya Urgench site from Uzbekistan.", price: "From $468", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4aa92ae256775a75c829901b2e98bf8559ffe9ab85016a644ad7f27dda4d5e5d.jpg" } },
+                    { title: "Practical Tips", content: "Confirm visa and border-crossing requirements for Turkmenistan well in advance — this is a genuine international crossing, not a simple day trip." },
+                ],
+                faqs: [
+                    { q: "Is the Kunya Urgench day tour worth it from Khiva?", a: "Yes, for travelers with a deep interest in Silk Road history and the logistics to handle a Turkmenistan border crossing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Kunya Urgench day tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers with a deep Silk Road history interest and the logistics for a border crossing." } },
+                ] },
+            };
+
         default:
             return null;
     }
