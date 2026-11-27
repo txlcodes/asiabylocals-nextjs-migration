@@ -316,6 +316,8 @@ export const PENANG_INFO_SLUGS = [
   'is-floating-mosque-thai-burmese-temple-tour-worth-it-penang', 'is-chowrasta-asam-laksa-nyonya-kuih-tour-worth-it-penang',
   'is-balik-pulau-atv-ride-worth-it-penang', 'is-penang-after-five-golden-hour-worth-it',
   'is-iconic-temples-penang-hill-tour-worth-it-penang', 'is-guided-cultural-village-tour-worth-it-penang',
+  'is-ipoh-food-boat-ride-worth-it-penang', 'is-taiping-day-tour-worth-it-penang',
+  'is-george-town-upside-down-museum-worth-it-penang', 'is-forest-island-jet-car-worth-it-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [

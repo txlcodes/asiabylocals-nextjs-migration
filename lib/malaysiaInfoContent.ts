@@ -4276,6 +4276,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-ipoh-food-boat-ride-worth-it-penang":
+            return {
+                title: "Is the Ipoh Day Trip with Food Tasting and Boat Ride Worth It from Penang?",
+                description: "An honest look at the Ipoh day trip with food tasting and boat ride from Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1336490/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Ipoh's famous food scene paired with a river boat ride gives a genuinely varied day combining Malaysia's best-regarded regional cuisine with scenic limestone cave-country, worth it for travelers wanting a food-focused day trip beyond George Town's own street food.", tourCard: { slug: "penang-ipoh-day-trip-with-food-tasting-and-boat", title: "Penang: Ipoh Day Trip with Food Tasting and Boat Ride", description: "A day trip to Ipoh from Penang combining food tasting and a boat ride.", price: "From $504", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1336490/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go hungry and pace your eating — Ipoh food trips typically involve multiple tasting stops rather than one sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is the Ipoh food tasting and boat ride day trip worth it from Penang?", a: "Yes, for travelers wanting a food-focused day combining Malaysia's best-regarded regional cuisine with scenic limestone cave-country." }
+                ],
+            };
+
+        case "is-taiping-day-tour-worth-it-penang":
+            return {
+                title: "Is the Enlightening Taiping Private Day Tour Worth It from Penang?",
+                description: "An honest look at the Enlightening Taiping private day tour from Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1003696/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Taiping holds Malaysia's oldest hill station, lake gardens and zoo along with genuinely old colonial-era architecture, giving a quieter, less-touristed day trip than Penang's usual circuit, worth it for travelers interested in Malaysian history off the main path.", tourCard: { slug: "from-penang-enlightening-taiping-private-day-tour", title: "From Penang: Enlightening Taiping Private Day Tour", description: "A private day tour to Taiping from Penang.", price: "From $561", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1003696/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Visit the Lake Gardens early morning, since Taiping's famously heavy rainfall tends to arrive in the afternoon." }
+                ],
+                faqs: [
+                    { q: "Is the Taiping day tour worth it from Penang?", a: "Yes, for travelers interested in Malaysian history wanting a quieter, less-touristed day trip than Penang's usual circuit." }
+                ],
+            };
+
+        case "is-george-town-upside-down-museum-worth-it-penang":
+            return {
+                title: "Is the George Town Highlights and Upside Down Museum Tour Worth It?",
+                description: "An honest look at the George Town highlights and Upside Down Museum tour in Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1081015/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing George Town's heritage highlights with the playful, photo-friendly Upside Down Museum gives a genuinely fun contrast between serious UNESCO architecture and lighthearted entertainment, worth it for travelers, especially families, wanting variety in one outing.", tourCard: { slug: "penang-george-town-highlights-upside-down-museum", title: "Penang: George Town Highlights & Upside Down Museum Tour", description: "A tour combining George Town's highlights with the Upside Down Museum.", price: "From $268", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1081015/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear something you don't mind photographing in unusual poses — the Upside Down Museum is built entirely around creative photo ops." }
+                ],
+                faqs: [
+                    { q: "Is the George Town and Upside Down Museum tour worth it in Penang?", a: "Yes, especially for families, as a fun contrast between serious heritage architecture and lighthearted, photo-friendly entertainment." }
+                ],
+            };
+
+        case "is-forest-island-jet-car-worth-it-penang":
+            return {
+                title: "Is the Forest Island Jet Car Tour with Dinner Worth It in Penang?",
+                description: "An honest look at the Forest Island jet car tour with dinner and activities in Penang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1496187/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Driving a jet car through forest trails on a small island and finishing with dinner gives a genuinely fun, active evening that's distinct from Penang's usual heritage and food tours, worth it for travelers wanting adventure activity alongside their meal.", tourCard: { slug: "penang-forest-island-jet-car-tour-with-dinner", title: "Penang: Forest Island Jet Car Tour with Dinner & Activities", description: "A jet car tour through forest trails on an island, with dinner and activities in Penang.", price: "From $293", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1496187/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm whether a driving license is needed to pilot the jet car yourself, since requirements vary by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Forest Island jet car tour worth it in Penang?", a: "Yes, for travelers wanting a genuinely fun, active evening combining adventure driving with dinner, distinct from the usual heritage tours." }
+                ],
+            };
+
         case "is-kanching-falls-eagle-feeding-worth-it-kuala-lumpur":
             return {
                 title: "Is the Kanching Falls, Eagle Feeding and Fireflies Tour Worth It?",
