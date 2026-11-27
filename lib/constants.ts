@@ -2550,6 +2550,8 @@ export const DUBAI_INFO_SLUGS = [
   'is-chillout-ice-lounge-worth-it-dubai', 'is-al-marmoom-oasis-high-tea-worth-it-dubai',
   'is-storm-coaster-worth-it-dubai', 'is-aya-universe-worth-it-dubai',
   'is-jetski-burj-arab-worth-it-dubai', 'is-house-of-hype-worth-it-dubai',
+  'is-ferrari-rental-worth-it-dubai', 'is-zerzura-buggy-dinner-worth-it-dubai',
+  'is-russian-bathhouse-worth-it-dubai', 'is-donut-ride-water-sports-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

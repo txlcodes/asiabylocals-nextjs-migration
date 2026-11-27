@@ -1489,6 +1489,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ferrari-rental-worth-it-dubai":
+      return {
+        title: "Is the Ferrari 12Cilindri 1-Day Rental Worth It in Dubai?",
+        description: "An honest look at the Ferrari 12Cilindri 1-day rental with no deposit required in Dubai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f73a3923c55c80e0fd9997de0c5b2729c7d474404423a888ce9977d16cd2d143.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dubai's wide, well-maintained roads are genuinely one of the best places to drive a supercar for a day, and a no-deposit rental removes the usual friction of a self-drive luxury rental, worth it for travelers wanting the experience itself rather than a photo op.",
+            tourCard: { slug: "dubai-ferrari-12cilindri-1-day-rental-no-deposit", title: "Dubai: Ferrari 12Cilindri 1-Day Rental, No Deposit Required", description: "A 1-day Ferrari 12Cilindri rental in Dubai with no deposit required.", price: "From $10828", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f73a3923c55c80e0fd9997de0c5b2729c7d474404423a888ce9977d16cd2d143.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the mileage allowance and insurance terms before driving off, since supercar rentals often cap daily mileage.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ferrari rental worth it in Dubai?", a: "Yes, for travelers wanting the actual driving experience on Dubai's excellent roads, not just a photo with the car." },
+        ],
+      };
+
+    case "is-zerzura-buggy-dinner-worth-it-dubai":
+      return {
+        title: "Is the Zerzura Buggy Experience and Private Dinner Worth It from Dubai?",
+        description: "An honest look at the Zerzura buggy experience with private dinner from Dubai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6cc2815d8256dfe994cb86480971452c822d7611a1811e6fee38439e19ec960.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Driving a buggy through the desert dunes followed by a private dinner setup gives a more active, intimate version of the standard desert safari, worth it for travelers wanting hands-on dune driving rather than riding as a passenger in a 4x4.",
+            tourCard: { slug: "from-dubai-zerzura-buggy-experience-private-dinner", title: "From Dubai: Zerzura Buggy Experience + Private Dinner", description: "A desert buggy experience with a private dinner setup from Dubai.", price: "From $1204", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6cc2815d8256dfe994cb86480971452c822d7611a1811e6fee38439e19ec960.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask whether a driving license is required to pilot the buggy yourself versus riding as a passenger.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Zerzura buggy experience and private dinner worth it from Dubai?", a: "Yes, for travelers wanting hands-on dune driving rather than just riding along in a standard desert safari." },
+        ],
+      };
+
+    case "is-russian-bathhouse-worth-it-dubai":
+      return {
+        title: "Is the Private VIP Authentic Russian Bathhouse Experience Worth It in Dubai?",
+        description: "An honest look at the private VIP authentic Russian bathhouse experience in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1214829/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dubai has a genuine authentic Russian bathhouse (banya) scene given its large Russian-speaking expat community, and a private VIP session gives real steam, platza treatment and plunge pool rituals rather than a generic spa package, worth it for travelers curious about the tradition.",
+            tourCard: { slug: "dubai-private-vip-authentic-russian-bathhouse-expe", title: "Dubai: Private VIP Authentic Russian Bathhouse Experience", description: "A private VIP authentic Russian bathhouse experience in Dubai.", price: "From $1841", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1214829/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about the platza (oak leaf) treatment specifically, since it's the signature part of an authentic banya session.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Russian bathhouse experience worth it in Dubai?", a: "Yes, for travelers curious about an authentic banya tradition that's genuinely well-established in Dubai, not a generic spa package." },
+        ],
+      };
+
+    case "is-donut-ride-water-sports-worth-it-dubai":
+      return {
+        title: "Is the Donut Ride Water Sports Adventure Worth It in Dubai?",
+        description: "An honest look at the donut ride water sports adventure with transfers in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1061797/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Getting towed on an inflatable donut behind a speedboat is a genuinely fun, low-skill water activity that works for groups and families alike, worth it for travelers wanting a quick adrenaline burst on the water without the commitment of jetskiing or diving.",
+            tourCard: { slug: "dubai-donut-ride-water-sports-adventure-with-trans", title: "Dubai: Donut Ride Water Sports Adventure with Transfers", description: "A donut ride water sports adventure with hotel transfers in Dubai.", price: "From $2296", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1061797/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Secure loose items and sunglasses before the ride, since the donut tow can be a genuinely bumpy, splashy experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the donut ride water sports adventure worth it in Dubai?", a: "Yes, for a quick, low-skill, genuinely fun water activity that works well for groups and families." },
+        ],
+      };
+
     default:
       return null;
   }
