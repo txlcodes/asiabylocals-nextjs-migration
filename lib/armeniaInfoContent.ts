@@ -1029,6 +1029,62 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-kars-ani-3day-worth-it-yerevan":
+            return {
+                title: "Is the Yerevan to Kars and Ani 3-Day Guided Tour Worth It?",
+                description: "An honest look at the 3-day guided tour from Yerevan to Kars and Ani in Turkey.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5d60ffa6f1fd93b4cb691d81bbc65df02a4445d5d88efcf163687e303c35012.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Crossing into Turkey to see Ani's ruined medieval Armenian capital and Kars's Ottoman-era city adds genuine historical depth that no Armenia-only itinerary can offer, worth it for travelers with a specific interest in the region's cross-border Armenian heritage.", tourCard: { slug: "armenia-yerevan-to-kars-and-ani-3-day-guided", title: "Armenia: Yerevan to Kars and Ani 3-Day Guided Tour", description: "A 3-day guided tour from Yerevan crossing into Turkey to see Kars and the ruins of Ani.", price: "From $1740", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5d60ffa6f1fd93b4cb691d81bbc65df02a4445d5d88efcf163687e303c35012.jpeg" } },
+                    { title: "Practical Tips", content: "Confirm visa and border-crossing requirements for Turkey well in advance, since this itinerary crosses an international border." }
+                ],
+                faqs: [
+                    { q: "Is the Yerevan to Kars and Ani tour worth it?", a: "Yes, for travelers with a specific interest in the cross-border Armenian heritage of Ani and Kars, offering depth no Armenia-only itinerary provides." }
+                ],
+            };
+
+        case "is-7day-dental-wellness-vacation-worth-it-yerevan":
+            return {
+                title: "Is the 7-Day Armenia All-Inclusive Vacation & Dental Wellness Trip Worth It?",
+                description: "An honest look at the 7-day Armenia all-inclusive vacation combined with dental wellness treatment.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/98578ffeb4c7be486ba53d1076f7e61bdab52d4fb949fdbcea2cedb2d9f47d38.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining dental treatment with a full week of sightseeing turns a medical trip into a genuine vacation, worth it specifically for travelers seeking affordable dental care who also want a proper Armenia holiday around the appointments.", tourCard: { slug: "armenia-7-day-all-inclusive-vacation-dental", title: "Armenia: 7-Day All-Inclusive Vacation & Dental Wellness", description: "A 7-day all-inclusive Armenia vacation combined with dental wellness treatment.", price: "From $2176", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/98578ffeb4c7be486ba53d1076f7e61bdab52d4fb949fdbcea2cedb2d9f47d38.jpeg" } },
+                    { title: "Practical Tips", content: "Get a treatment plan and cost estimate from the dental clinic before booking, so sightseeing days can be scheduled around recovery time if needed." }
+                ],
+                faqs: [
+                    { q: "Is the 7-day dental wellness vacation worth it in Armenia?", a: "Yes, specifically for travelers seeking affordable dental care who also want a genuine vacation built around the treatment schedule." }
+                ],
+            };
+
+        case "is-armenia-wine-tour-worth-it-yerevan":
+            return {
+                title: "Is the Armenia Wine Tour Worth It?",
+                description: "An honest look at the multi-day Armenia Wine Tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/68dc555ad34322be.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Armenia's wine regions, among the world's oldest winemaking areas, get a dedicated multi-day tour here rather than a quick single-winery stop, worth it for travelers with genuine interest in wine history and tasting rather than a passing curiosity.", tourCard: { slug: "armenia-wine-tour", title: "Armenia: Wine Tour", description: "A multi-day tour of Armenia's wine regions.", price: "From $3380", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/68dc555ad34322be.jpeg" } },
+                    { title: "Practical Tips", content: "Pace your tastings across the multi-day format rather than trying to visit every winery in one day." }
+                ],
+                faqs: [
+                    { q: "Is the Armenia Wine Tour worth it?", a: "Yes, for travelers with genuine interest in wine history and tasting, since Armenia's wine regions are among the world's oldest." }
+                ],
+            };
+
+        case "is-2day-waterfalls-nature-tour-worth-it-yerevan":
+            return {
+                title: "Is the Yerevan 2-Day Waterfalls and Nature Tour Worth It?",
+                description: "An honest look at the 2-day waterfalls and nature tour from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/146e86894bf87bb363f52a2bd3d6b94f09b711dd27b5b53be30ad1cf7c6c8aa5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Spreading a focused waterfalls-and-nature itinerary across 2 days gives genuine time at each stop rather than rushing through on a single-day loop, worth it for travelers wanting Armenia's natural scenery without the usual monastery-heavy itinerary.", tourCard: { slug: "yerevan-2-day-waterfalls-and-nature-tour", title: "Yerevan: 2-Day Waterfalls and Nature Tour", description: "A 2-day tour of Armenia's waterfalls and natural scenery from Yerevan.", price: "From $724", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/146e86894bf87bb363f52a2bd3d6b94f09b711dd27b5b53be30ad1cf7c6c8aa5.jpeg" } },
+                    { title: "Practical Tips", content: "Bring sturdy footwear, since reaching the better waterfalls often involves a short hike over uneven terrain." }
+                ],
+                faqs: [
+                    { q: "Is the 2-day waterfalls and nature tour worth it from Yerevan?", a: "Yes, for travelers wanting Armenia's natural scenery with genuine time at each stop, rather than the usual monastery-heavy itinerary." }
+                ],
+            };
+
         default:
             return null;
     }
