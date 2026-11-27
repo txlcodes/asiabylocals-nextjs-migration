@@ -1318,6 +1318,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-organic-farm-cooking-class-worth-it-langkawi', 'is-birdwatching-tour-worth-it-langkawi',
     'is-spy-game-curve-worth-it-langkawi', 'is-banana-boat-ride-worth-it-langkawi',
     'is-kayaking-adventure-worth-it-langkawi', 'is-evening-city-fire-show-tour-worth-it-langkawi',
+    'is-night-rainforest-safari-worth-it-langkawi', 'is-family-forest-walk-survival-skills-worth-it-langkawi',
+    'is-secrets-of-the-sanctuary-walk-worth-it-langkawi', 'is-countryside-bike-waterfall-tour-worth-it-langkawi',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/langkawi/${slug}`,
     lastModified: new Date(),

@@ -4581,6 +4581,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-night-rainforest-safari-worth-it-langkawi":
+            return {
+                title: "Is the After Dark Guided Night Rainforest Safari Worth It in Langkawi?",
+                description: "An honest look at the After Dark guided night rainforest safari in Langkawi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/98f7206f17a6769f8c2398263e5f387aebcbebf38be832e6b1f4ca4d86f594c3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Unlike the mangrove boat night safari, this walking safari goes through land-based rainforest after dark, with a guide spotting nocturnal wildlife on foot, worth it for travelers who want a different nighttime nature format than the boat-based option.", tourCard: { slug: "langkawi-after-dark-guided-night-rainforest-safari", title: "Langkawi: After Dark - Guided Night Rainforest Safari", description: "A guided land-based night rainforest safari in Langkawi.", price: "From $72", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/98f7206f17a6769f8c2398263e5f387aebcbebf38be832e6b1f4ca4d86f594c3.jpg" } },
+                    { title: "Practical Tips", content: "Wear closed-toe shoes and bring insect repellent — this is a genuine walking trail through forest at night, not a boat ride." }
+                ],
+                faqs: [
+                    { q: "Is the After Dark guided night rainforest safari worth it in Langkawi?", a: "Yes, for a genuinely different land-based nighttime wildlife experience, distinct from the island's mangrove boat night safari." }
+                ],
+            };
+
+        case "is-family-forest-walk-survival-skills-worth-it-langkawi":
+            return {
+                title: "Is the Family Forest Walk, Survival Skills & Bamboo Feast Worth It in Langkawi?",
+                description: "An honest look at the family forest walk with survival skills and bamboo feast in Langkawi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1370512/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This combines a forest walk with hands-on basic survival skills and a bamboo-cooked meal, worth it specifically for families with kids who want an interactive, skills-based activity rather than just a guided nature walk.", tourCard: { slug: "langkawi-family-forest-walk-survival-skills", title: "Langkawi: Family Forest Walk, Survival Skills & Bamboo Feast", description: "A family-friendly forest walk with survival skills and a bamboo-cooked meal.", price: "From $119", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1370512/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the minimum age for the survival skills portion before booking if traveling with younger kids." }
+                ],
+                faqs: [
+                    { q: "Is the Family Forest Walk, Survival Skills & Bamboo Feast worth it in Langkawi?", a: "Yes, especially for families wanting an interactive, skills-based activity rather than a passive guided nature walk." }
+                ],
+            };
+
+        case "is-secrets-of-the-sanctuary-walk-worth-it-langkawi":
+            return {
+                title: "Is Secrets of the Sanctuary: A Gentle Rainforest Walk Worth It in Langkawi?",
+                description: "An honest look at the Secrets of the Sanctuary gentle rainforest walk in Langkawi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1365272/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Billed specifically as gentle, this rainforest walk is worth it for travelers who want nature immersion without the physical demands of a full hiking trek, including families with younger children or less mobile travelers.", tourCard: { slug: "langkawi-secrets-of-the-sanctuary-a-gentle", title: "Langkawi: Secrets of the Sanctuary - A Gentle Rainforest Walk", description: "A gentle, accessible rainforest walk in Langkawi.", price: "From $63", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1365272/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a good pick specifically if a more demanding hike like Seven Wells isn't realistic for your group." }
+                ],
+                faqs: [
+                    { q: "Is the Secrets of the Sanctuary gentle rainforest walk worth it in Langkawi?", a: "Yes, specifically for travelers wanting genuine rainforest immersion without the physical demands of a full hiking trek." }
+                ],
+            };
+
+        case "is-countryside-bike-waterfall-tour-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Countryside Bike Tour, Waterfall Swim & Treats Worth It?",
+                description: "An honest look at the Langkawi countryside bike tour with a waterfall swim and local treats.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85e925c790205815eacede765d9f6a7d747f96e2f4012786405c348172ca2e1d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This bike tour combines a countryside ride with a waterfall swim stop and local treats, worth it for travelers who want an active half-day that mixes exercise, cooling off, and local food in one booking.", tourCard: { slug: "langkawi-countryside-bike-tour-waterfall-swim", title: "Langkawi Countryside Bike Tour, Waterfall Swim & Treats", description: "A countryside bike tour with a waterfall swim and local treats.", price: "From $69", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85e925c790205815eacede765d9f6a7d747f96e2f4012786405c348172ca2e1d.jpg" } },
+                    { title: "Practical Tips", content: "Bring swimwear and a towel under your clothes so you're ready for the waterfall stop without extra planning." }
+                ],
+                faqs: [
+                    { q: "Is the Langkawi countryside bike tour with waterfall swim worth it?", a: "Yes, for an active half-day that combines cycling, a cooling swim, and local treats in one straightforward booking." }
+                ],
+            };
+
         default:
             return null;
     }
