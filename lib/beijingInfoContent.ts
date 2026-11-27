@@ -1596,6 +1596,90 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-great-wall-helicopter-tour-worth-it-beijing":
+      return {
+        title: "Is the Great Wall Helicopter Tour with Cable Car Ride Worth It?",
+        description: "An honest look at the Great Wall helicopter tour with cable car ride in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d25722f6edae56c2cb4d9c9766febbb73d4c1d5dd370b61b4ab5085fb41b1ed0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing the Great Wall snake across the mountains from a helicopter gives a genuinely different, dramatic perspective that no amount of walking the wall itself provides, worth it for travelers wanting a memorable splurge rather than just another hiking visit.",
+            tourCard: { slug: "beijing-great-wall-helicopter-tour-with-cable-car", title: "Beijing: Great Wall Helicopter Tour with Cable Car Ride", description: "A helicopter tour over the Great Wall combined with a cable car ride.", price: "From $1581", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d25722f6edae56c2cb4d9c9766febbb73d4c1d5dd370b61b4ab5085fb41b1ed0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the weather forecast before your date, since helicopter flights are the first thing to get cancelled or rescheduled for poor visibility.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Great Wall helicopter tour worth it in Beijing?", a: "Yes, for a genuinely dramatic aerial perspective of the wall that walking it on foot simply can't provide." },
+        ],
+      };
+
+    case "is-datong-grottoes-huayan-temple-worth-it-beijing":
+      return {
+        title: "Is the Datong 2-Day Grottoes and Huayan Temple Tour Worth It from Beijing?",
+        description: "An honest look at the Datong 2-day Grottoes and Huayan Temple tour from Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e80c9fc0e8f3f207558802409baed2797a908c476c909f4a007f3ba83a9050a8.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Datong's Yungang Grottoes and Huayan Temple give access to some of China's most significant Buddhist cave art and architecture, a genuinely deep historical detour most Beijing visitors skip entirely, worth it for travelers with an extra two days and real interest in ancient religious art.",
+            tourCard: { slug: "from-beijing-datong-2-day-grottoes-huayan-temple", title: "From Beijing: Datong 2-Day Grottoes & Huayan Temple Tour", description: "A 2-day tour to Datong's Grottoes and Huayan Temple from Beijing.", price: "From $1794", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e80c9fc0e8f3f207558802409baed2797a908c476c909f4a007f3ba83a9050a8.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack warm layers if traveling outside summer, since Datong sits considerably further north and colder than Beijing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Datong Grottoes and Huayan Temple tour worth it from Beijing?", a: "Yes, for travelers with extra time and real interest in ancient Buddhist cave art, a genuinely deep historical detour most visitors skip." },
+        ],
+      };
+
+    case "is-longmenjian-canyon-old-village-worth-it-beijing":
+      return {
+        title: "Is the Longmenjian Canyon and Old Village Day Trip Worth It from Beijing?",
+        description: "An honest look at the Longmenjian Canyon and Old Village private day trip from Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a67d5787f485552759189832bc7c73e4152b755bca00b070a2ace06c39f24a54.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Longmenjian Canyon's dramatic rock formations paired with a quiet old village give a genuinely rural, untouristed side of the Beijing countryside, worth it for travelers who've already done the Great Wall and want a different kind of nature day.",
+            tourCard: { slug: "beijing-longmenjian-canyon-old-village-private", title: "Beijing: Longmenjian Canyon & Old Village Private Day Trip", description: "A private day trip to Longmenjian Canyon and a nearby old village from Beijing.", price: "From $1125", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a67d5787f485552759189832bc7c73e4152b755bca00b070a2ace06c39f24a54.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper walking shoes, since the canyon terrain involves real hiking rather than paved paths.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Longmenjian Canyon and Old Village day trip worth it from Beijing?", a: "Yes, for travelers who've already done the Great Wall and want a quieter, more rural side of the countryside." },
+        ],
+      };
+
+    case "is-luoyang-longmen-grottoes-worth-it-beijing":
+      return {
+        title: "Is the Luoyang Longmen Grottoes Day Trip Worth It from Beijing?",
+        description: "An honest look at the Luoyang Longmen Grottoes day trip by train from Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a1dbb4c9797fa8bc6fd89c90e5cfc641f95d799308dbc15f6714fc816cd89e2.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Longmen Grottoes hold thousands of carved Buddhist statues along a riverside cliff, a UNESCO site genuinely on par with Datong's grottoes but reached by high-speed train, worth it for travelers with a full day and real interest in ancient Buddhist art.",
+            tourCard: { slug: "from-beijing-luoyang-longmen-grottoes-day-trip-by", title: "From Beijing: Luoyang Longmen Grottoes Day Trip by Train", description: "A day trip by high-speed train to Luoyang's Longmen Grottoes from Beijing.", price: "From $958", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a1dbb4c9797fa8bc6fd89c90e5cfc641f95d799308dbc15f6714fc816cd89e2.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the train schedule in advance, since this is a genuinely long day trip even by China's fast rail network.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Luoyang Longmen Grottoes day trip worth it from Beijing?", a: "Yes, for travelers with a full day and real interest in ancient Buddhist art, reached conveniently by high-speed train." },
+        ],
+      };
+
     default:
       return null;
   }

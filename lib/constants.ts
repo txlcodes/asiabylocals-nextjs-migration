@@ -1129,6 +1129,8 @@ export const BEIJING_INFO_SLUGS = [
   'is-time-tunnel-old-beijing-replica-worth-it-beijing', 'is-nanluoguxiang-houhai-walk-worth-it-beijing',
   'is-universal-studios-worth-it-beijing', 'is-kite-painting-workshop-worth-it-beijing',
   'is-slow-morning-qigong-worth-it-beijing', 'is-night-hutong-food-walk-worth-it-beijing',
+  'is-great-wall-helicopter-tour-worth-it-beijing', 'is-datong-grottoes-huayan-temple-worth-it-beijing',
+  'is-longmenjian-canyon-old-village-worth-it-beijing', 'is-luoyang-longmen-grottoes-worth-it-beijing',
 ];
 
 export const SHANGHAI_INFO_SLUGS = [
