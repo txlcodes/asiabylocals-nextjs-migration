@@ -1580,6 +1580,62 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-daymaniyat-private-yacht-charter-worth-it-muscat":
+            return {
+                title: "Is the Daymaniyat Islands Private 8-Hour Yacht Charter Worth It?",
+                description: "An honest look at the private 8-hour yacht charter to the Daymaniyat Islands from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A private yacht gives you the whole boat, your own schedule, and first pick of snorkeling spots around the Daymaniyat Islands marine reserve, worth it for groups or families who want privacy and flexibility over a cheaper shared boat trip.", tourCard: { slug: "daymaniyat-islands-private-8-hour-yacht-charter", title: "Daymaniyat Islands: Private 8-Hour Yacht Charter", description: "A private 8-hour yacht charter to the Daymaniyat Islands marine reserve.", price: "From $4290", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "The Daymaniyat Islands are only accessible by boat from October to May, since the reserve closes for turtle nesting season outside those months." }
+                ],
+                faqs: [
+                    { q: "Is the Daymaniyat private yacht charter worth it from Muscat?", a: "Yes, for groups or families wanting full privacy and flexibility over a shared boat, especially for snorkeling the marine reserve." }
+                ],
+            };
+
+        case "is-muscat-lamborghini-luxury-tour-worth-it":
+            return {
+                title: "Is the Private Lamborghini Luxury City Tour Worth It in Muscat?",
+                description: "An honest look at the private Lamborghini luxury city tour with local guide in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Touring Muscat's coastal corniche and landmark sites in a Lamborghini with a local guide is about the drive and the experience itself, worth it specifically for travelers wanting a memorable splurge rather than the most efficient way to see the city's sights.", tourCard: { slug: "muscatprivate-lamborghini-luxury-city-tour-with", title: "Muscat: Private Lamborghini Luxury City Tour with Local Guide", description: "A private city tour of Muscat in a Lamborghini with a local guide.", price: "From $1950", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "Book this for a special occasion rather than general sightseeing — a standard private car tour covers the same stops for a fraction of the price." }
+                ],
+                faqs: [
+                    { q: "Is the Lamborghini luxury tour worth it in Muscat?", a: "Yes, for travelers wanting a memorable splurge experience, though a standard private tour covers the same landmarks far cheaper." }
+                ],
+            };
+
+        case "is-8-day-desert-mountains-coast-dolphin-worth-it-muscat":
+            return {
+                title: "Is the 8-Day Desert, Mountains, Coast & Dolphin Adventure Worth It?",
+                description: "An honest look at the 8-day Oman adventure covering desert, mountains, coast, and dolphin watching.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering Oman's desert dunes, mountain canyons, coastline, and a dolphin-watching stop in one 8-day trip saves the hassle of booking separate day trips, worth it for travelers wanting a full country overview without the planning.", tourCard: { slug: "oman-8-day-desert-mountains-coast-dolphin", title: "Oman: 8-Day Desert, Mountains, Coast & Dolphin Adventure", description: "An 8-day tour covering Oman's desert, mountains, coast, and dolphin watching.", price: "From $6240", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "Pack for big temperature swings — desert camps get cold at night even when daytime coastal heat is intense." }
+                ],
+                faqs: [
+                    { q: "Is the 8-day Desert, Mountains, Coast & Dolphin tour worth it?", a: "Yes, for travelers wanting a complete overview of Oman's landscapes in one trip without arranging separate day tours." }
+                ],
+            };
+
+        case "is-muscat-8-day-best-of-oman-worth-it":
+            return {
+                title: "Is the Muscat 8-Day Best of Oman Tour with Stay and Adventures Worth It?",
+                description: "An honest look at the 8-day Best of Oman guided tour with hotel stays from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This 8-day guided tour bundles hotel stays, transfers, and a wide spread of Oman's highlights into one booking, worth it for travelers who want a hands-off, fully organized trip rather than piecing together separate multi-day packages.", tourCard: { slug: "muscat-8-day-best-of-oman-tour-w-stay", title: "Muscat: 8-Day Best of Oman Tour w/ Stay and Adventures", description: "An 8-day guided tour of Oman's highlights with hotel stays included.", price: "From $2990", duration: "8 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "Confirm which meals are included before booking, since coverage varies between the different multi-day Oman packages." }
+                ],
+                faqs: [
+                    { q: "Is the 8-day Best of Oman tour worth it from Muscat?", a: "Yes, for travelers wanting a fully organized trip with hotels and transfers handled, rather than booking separate day tours." }
+                ],
+            };
+
         default:
             return null;
     }

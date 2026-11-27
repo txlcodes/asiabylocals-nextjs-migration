@@ -691,6 +691,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-wadi-huwqain-hike-swim-worth-it-muscat', 'is-bandar-al-khayran-journey-worth-it-muscat',
     'is-muscat-through-locals-camera-worth-it-muscat', 'is-sidab-hike-worth-it-muscat',
     'is-semi-submarine-cruise-worth-it-muscat',
+    'is-daymaniyat-private-yacht-charter-worth-it-muscat', 'is-muscat-lamborghini-luxury-tour-worth-it',
+    'is-8-day-desert-mountains-coast-dolphin-worth-it-muscat', 'is-muscat-8-day-best-of-oman-worth-it',
   ].map(slug => ({
     url: `${BASE_URL}/oman/muscat/${slug}`,
     lastModified: new Date(),
