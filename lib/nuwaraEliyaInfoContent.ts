@@ -558,6 +558,90 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-pekoe-trail-stage11-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Pekoe Trail Stage 11 Guided Hike Worth It?",
+        description: "An honest look at the guided Pekoe Trail Stage 11 hike from Horton Plains to Udaweriya.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463074/asiabylocals/tours/pekoe-trail-stage-11-guided-hike-horton-plains-udaweriya/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This stage of the Pekoe Trail extends the standard Horton Plains visit into a genuine long-distance hike down to Udaweriya via the dramatic Devil's Staircase, worth it for travelers wanting serious trekking rather than the typical short World's End walk.",
+            tourCard: { slug: "pekoe-trail-stage-11-guided-hike-horton-plains-to-udaweriya", title: "Pekoe Trail Stage 11 Guided Hike: Horton Plains to Udaweriya by the Devil's Staircase", description: "A guided hike along Pekoe Trail Stage 11, from Horton Plains to Udaweriya.", price: "From $195", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463074/asiabylocals/tours/pekoe-trail-stage-11-guided-hike-horton-plains-udaweriya/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear sturdy hiking boots with good grip, since the Devil's Staircase section involves genuinely steep, uneven descent.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pekoe Trail Stage 11 guided hike worth it?", a: "Yes, for travelers wanting serious long-distance trekking beyond the typical short World's End walk at Horton Plains." },
+        ],
+      };
+
+    case "is-kandy-ambuluwawa-fullday-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Full Day to Kandy with Ambuluwawa Tower Worth It from Nuwara Eliya?",
+        description: "An honest look at the full-day Kandy tour with Ambuluwawa Tower from Nuwara Eliya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-892552/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Kandy's temple and city sights with a stop at the distinctive spiral Ambuluwawa Tower gives a genuinely varied day covering both heritage and a unique viewpoint, worth it for travelers heading toward Kandy from the hill country.",
+            tourCard: { slug: "from-nuwara-eliya-full-day-to-kandy-with", title: "From Nuwara Eliya: Full Day to Kandy with Ambuluwawa Tower", description: "A full-day tour to Kandy with a stop at Ambuluwawa Tower from Nuwara Eliya.", price: "From $331", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-892552/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The spiral climb up Ambuluwawa Tower is narrow and claustrophobic in parts, so skip it if you're uncomfortable in tight spaces.",
+          },
+        ],
+        faqs: [
+          { q: "Is the full day to Kandy with Ambuluwawa Tower worth it from Nuwara Eliya?", a: "Yes, for travelers wanting a genuinely varied day covering both Kandy's heritage sites and a unique spiral-tower viewpoint." },
+        ],
+      };
+
+    case "is-belihuloya-safari-nature-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Nuwara Eliya to Belihuloya Safari Day Tour Worth It?",
+        description: "An honest look at the Nuwara Eliya to Belihuloya safari day tour covering nature and waterfalls.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294257/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Belihuloya's jeep safaris and waterfalls offer a genuinely less-commercialized hill-country experience than the main Nuwara Eliya sights, worth it for travelers wanting a quieter nature day away from the tea-estate tourist circuit.",
+            tourCard: { slug: "nuwara-eliya-to-belihuloya-safari-day-tour-nature", title: "Nuwara Eliya to Belihuloya Safari Day Tour Nature Waterfalls", description: "A day tour from Nuwara Eliya to Belihuloya covering nature and waterfalls.", price: "From $186", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294257/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a change of clothes if waterfall swimming is included, since the stops can get genuinely wet.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nuwara Eliya to Belihuloya safari day tour worth it?", a: "Yes, for travelers wanting a quieter, less-commercialized nature day away from the main tea-estate tourist circuit." },
+        ],
+      };
+
+    case "is-negombo-transfer-kitulgala-rafting-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Nuwara Eliya to Negombo Transfer with Kitulgala Rafting Worth It?",
+        description: "An honest look at the Nuwara Eliya to Negombo transfer with white-water rafting at Kitulgala.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1394753/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Turning the long transfer from Nuwara Eliya to Negombo into a white-water rafting stop at Kitulgala makes genuinely good use of travel time that would otherwise be lost to a straight drive.",
+            tourCard: { slug: "nuwara-eliya-to-negombo-transfer-with-rafting-in", title: "Nuwara Eliya to Negombo Transfer with Rafting in Kitulgala", description: "A transfer from Nuwara Eliya to Negombo including white-water rafting at Kitulgala.", price: "From $271", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1394753/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes and secure valuables, since you'll go straight from rafting back into transfer mode.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nuwara Eliya to Negombo transfer with Kitulgala rafting worth it?", a: "Yes, for travelers wanting to turn an otherwise wasted transfer day into a genuine white-water rafting experience." },
+        ],
+      };
+
     default:
       return null;
   }

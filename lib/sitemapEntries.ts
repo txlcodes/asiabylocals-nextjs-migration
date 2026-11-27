@@ -2158,6 +2158,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ramayana-temple-trail-worth-it-nuwara-eliya', 'is-rafting-ziplining-combo-worth-it-nuwara-eliya',
     'is-labookellie-tea-factory-worth-it-nuwara-eliya', 'is-horton-plains-sunrise-hike-worth-it-nuwara-eliya',
     'is-tea-field-cycling-worth-it-nuwara-eliya', 'is-ramboda-waterfall-tuk-tuk-tour-worth-it-nuwara-eliya',
+    'is-pekoe-trail-stage11-worth-it-nuwara-eliya', 'is-kandy-ambuluwawa-fullday-worth-it-nuwara-eliya',
+    'is-belihuloya-safari-nature-worth-it-nuwara-eliya', 'is-negombo-transfer-kitulgala-rafting-worth-it-nuwara-eliya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),
