@@ -1167,6 +1167,8 @@ export const SHANGHAI_INFO_SLUGS = [
   'is-tongjian-lake-kayaking-lingshan-cave-worth-it-shanghai', 'is-jingdezhen-porcelain-capital-worth-it-shanghai',
   'is-wuzhen-xizha-night-tour-worth-it-shanghai', 'is-shengsi-floating-sea-farm-worth-it-shanghai',
   'is-danxia-cliffs-tea-gardens-worth-it-shanghai', 'is-cixi-stream-trail-ancient-village-worth-it-shanghai',
+  'is-qiandao-lake-underwater-city-worth-it-shanghai', 'is-shenxianju-linhai-ancient-city-worth-it-shanghai',
+  'is-yandang-mountain-worth-it-shanghai', 'is-pinghu-old-town-seaside-sunset-worth-it-shanghai',
 ];
 
 // Hong Kong launched 2026-10 with 197 live tours and zero authority pages.

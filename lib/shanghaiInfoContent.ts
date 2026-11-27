@@ -1647,6 +1647,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-qiandao-lake-underwater-city-worth-it-shanghai":
+      return {
+        title: "Is the Qiandao Lake Underwater City and Lantern Craft Tour Worth It?",
+        description: "An honest look at the Hangzhou Qiandao Lake underwater city and lantern craft tour from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea4bc5ef689f6cf626ef56abe101f231611c8ac0ff3ce56ff5c87af337a84d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Qiandao Lake holds an entire submerged ancient city beneath its surface, a genuinely unusual story paired here with a hands-on lantern craft session, worth it for travelers wanting something more unusual than the standard West Lake day trip.",
+            tourCard: { slug: "hangzhou-qiandao-lake-underwater-city-lantern", title: "Hangzhou: Qiandao Lake Underwater City & Lantern Craft Tour", description: "A tour of Qiandao Lake's submerged ancient city with a lantern craft session.", price: "From $1560", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea4bc5ef689f6cf626ef56abe101f231611c8ac0ff3ce56ff5c87af337a84d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask whether the submerged city is viewable by boat tour or only explained on land, since viewing options vary.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Qiandao Lake underwater city tour worth it from Shanghai?", a: "Yes, for travelers wanting a genuinely unusual story and craft experience beyond the standard West Lake day trip." },
+        ],
+      };
+
+    case "is-shenxianju-linhai-ancient-city-worth-it-shanghai":
+      return {
+        title: "Is the Shenxianju and Linhai Ancient City Tour Worth It from Shanghai?",
+        description: "An honest look at the 2-day Shenxianju and Linhai Ancient City tour from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c65d20180a4387f00643481325ccf87955eb4d8f7275c0c18df182e09675c23.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shenxianju's dramatic cliff scenery paired with Linhai's preserved ancient city wall gives a genuinely varied two days of nature and history, worth it for travelers wanting to go beyond Shanghai's usual water-town circuit.",
+            tourCard: { slug: "from-shanghai-2-day-shenxianju-linhai-ancient", title: "From Shanghai: 2-Day Shenxianju & Linhai Ancient City Tour", description: "A 2-day tour to Shenxianju and Linhai Ancient City from Shanghai.", price: "From $2171", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c65d20180a4387f00643481325ccf87955eb4d8f7275c0c18df182e09675c23.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring proper footwear for Shenxianju's cliffside walkways, which involve real elevation and exposure.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shenxianju and Linhai Ancient City tour worth it from Shanghai?", a: "Yes, for a genuinely varied two days of dramatic cliff scenery and preserved history beyond the usual water-town circuit." },
+        ],
+      };
+
+    case "is-yandang-mountain-worth-it-shanghai":
+      return {
+        title: "Is the Yandang Mountain 2-Day Tour Worth It from Shanghai?",
+        description: "An honest look at the Yandang Mountain 2-day tour by train from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/456ed405bb26ab3a0fabf7df743139e7e40a72391a982a4724e29127fa66398b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yandang Mountain's volcanic peaks and waterfalls are a UNESCO Global Geopark genuinely worth the train ride out, giving real mountain scenery distinct from the flat water-town landscapes closer to Shanghai, worth it for travelers who want serious hiking terrain.",
+            tourCard: { slug: "from-shanghai-yandang-mountain-2-day-tour-by-train", title: "From Shanghai: Yandang Mountain 2-Day Tour by Train", description: "A 2-day tour to Yandang Mountain by train from Shanghai.", price: "From $1713", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/456ed405bb26ab3a0fabf7df743139e7e40a72391a982a4724e29127fa66398b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack real hiking shoes, since Yandang's peaks involve genuine elevation gain, not flat sightseeing paths.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yandang Mountain tour worth it from Shanghai?", a: "Yes, for travelers wanting serious mountain hiking terrain, distinct from the flat water-town landscapes closer to the city." },
+        ],
+      };
+
+    case "is-pinghu-old-town-seaside-sunset-worth-it-shanghai":
+      return {
+        title: "Is the Pinghu Old Town and Seaside Sunset Day Trip Worth It from Shanghai?",
+        description: "An honest look at the Pinghu Old Town and seaside sunset day trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9fcfc47b175233b526f75261a02841ba2b02241c496e9edae5235173dd6c8f1e.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Pinghu's quiet old town with a seaside sunset stop gives a genuinely relaxed, low-key day that's different from Shanghai's bigger, more commercial water-town circuits, worth it for travelers wanting a calmer pace.",
+            tourCard: { slug: "shanghai-pinghu-old-town-seaside-sunset-day-trip", title: "Shanghai: Pinghu Old Town & Seaside Sunset Day Trip", description: "A day trip to Pinghu Old Town with a seaside sunset stop from Shanghai.", price: "From $1307", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9fcfc47b175233b526f75261a02841ba2b02241c496e9edae5235173dd6c8f1e.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time the trip to arrive at the seaside stop before sunset, since that's the highlight of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pinghu Old Town and seaside sunset day trip worth it from Shanghai?", a: "Yes, for a genuinely relaxed, low-key day distinct from Shanghai's bigger, more commercial water-town circuits." },
+        ],
+      };
+
     default:
       return null;
   }
