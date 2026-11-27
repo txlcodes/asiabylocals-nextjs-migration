@@ -2158,6 +2158,66 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-siem-reap-lao-border-transfer-worth-it-siem-reap":
+            return {
+                title: "Is the Private Transfer from Siem Reap to the Lao Border Worth It?",
+                description: "An honest look at the private transfer from Siem Reap to the Lao border.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-transfer-siem-reap-to-lao-border/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A private transfer handles the long overland journey to the Lao border in comfort, worth it for travelers continuing their trip into Laos who want a reliable, direct ride rather than piecing together local buses.",
+                    tourCard: { slug: "private-transfer-siem-reap-to-lao-border", title: "Private Transfer Siem Reap to Lao Border", description: "A private transfer from Siem Reap to the Laos border crossing.", price: "From $488", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-transfer-siem-reap-to-lao-border/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm Laos visa requirements and border crossing hours in advance, since timing matters for this long overland route." }
+                ],
+                faqs: [
+                    { q: "Is the private transfer to the Lao border worth it from Siem Reap?", a: "Yes, for travelers continuing into Laos wanting a reliable, direct ride rather than piecing together local buses for the long overland journey." }
+                ],
+            };
+
+        case "is-siem-reap-kohkong-battambang-worth-it-siem-reap":
+            return {
+                title: "Is the Transfer to Koh Kong with Overnight in Battambang Worth It?",
+                description: "An honest look at the transfer from Siem Reap to Koh Kong with an overnight stop in Battambang.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/transfer-siem-reap-to-koh-kong-with-overnight-in-battambang/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Breaking the long journey to Koh Kong with an overnight stop in Battambang turns a grueling single-day transfer into a genuinely manageable 2-day trip, worth it for travelers heading to the southwest coast who don't want to rush it.",
+                    tourCard: { slug: "transfer-siem-reap-to-koh-kong-with-overnight-in", title: "Transfer Siem Reap to Koh Kong with Overnight in Battambang", description: "A 2-day transfer from Siem Reap to Koh Kong with an overnight stop in Battambang.", price: "From $475", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/transfer-siem-reap-to-koh-kong-with-overnight-in-battambang/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Use the Battambang stop to explore the town itself, since it's a worthwhile destination in its own right, not just a stopover." }
+                ],
+                faqs: [
+                    { q: "Is the Siem Reap to Koh Kong transfer with a Battambang overnight worth it?", a: "Yes, for travelers heading to the southwest coast wanting a genuinely manageable 2-day trip rather than a grueling single-day transfer." }
+                ],
+            };
+
+        case "is-phnom-krom-sunset-picnic-landrover-worth-it-siem-reap":
+            return {
+                title: "Is the Phnom Krom Sunset Picnic with Vintage Land Rover Worth It?",
+                description: "An honest look at the Phnom Krom sunset picnic with a vintage Land Rover ride.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phnom-krom-sunset-picnic-with-vintage-land-rover/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Riding up to Phnom Krom hill temple in a vintage Land Rover for a sunset picnic over Tonle Sap gives a genuinely stylish, memorable evening beyond the usual tuk-tuk sunset spots, worth it for travelers wanting something more special.",
+                    tourCard: { slug: "phnom-krom-sunset-picnic-with-vintage-land-rover", title: "Phnom Krom Sunset Picnic with Vintage Land Rover", description: "A sunset picnic at Phnom Krom with a vintage Land Rover ride.", price: "From $423", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phnom-krom-sunset-picnic-with-vintage-land-rover/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go on a clear evening, since the Tonle Sap sunset view is the whole point of the climb up Phnom Krom." }
+                ],
+                faqs: [
+                    { q: "Is the Phnom Krom sunset picnic with vintage Land Rover worth it?", a: "Yes, for travelers wanting a genuinely stylish, memorable evening beyond the usual tuk-tuk sunset spots." }
+                ],
+            };
+
+        case "is-8day-private-tour-highlights-worth-it-siem-reap":
+            return {
+                title: "Is the 8 Days Private Tour Highlights of Cambodia Worth It?",
+                description: "An honest look at the 8-day private tour covering the highlights of Cambodia.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/8-days-private-tour-highlights-of-cambodia/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Eight days with a private guide gives genuine time to cover Cambodia's major highlights beyond just the Angkor temples, worth it for travelers wanting a complete country overview handled in one organized private booking.",
+                    tourCard: { slug: "8-days-private-tour-highlights-of-cambodia", title: "8 Days Private Tour Highlights of Cambodia", description: "An 8-day private tour covering Cambodia's major highlights.", price: "From $2990", duration: "8 days", image: "https://images.asiabylocals.com/asiabylocals/tours/8-days-private-tour-highlights-of-cambodia/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the exact itinerary before booking, since 'highlights' tours of this length vary in which destinations beyond Angkor are included." }
+                ],
+                faqs: [
+                    { q: "Is the 8-day private tour highlights of Cambodia worth it?", a: "Yes, for travelers wanting a complete country overview beyond just the Angkor temples, handled in one organized private booking." }
+                ],
+            };
+
         default:
             return null;
     }

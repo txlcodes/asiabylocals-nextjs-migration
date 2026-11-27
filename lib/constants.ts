@@ -1824,6 +1824,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'is-preah-khan-kampong-svay-sambo-prei-kuk-worth-it-siem-reap', 'is-kulen-jeep-elephant-forest-worth-it-siem-reap',
     'is-11day-cambodia-phnom-penh-siem-reap-worth-it-siem-reap', 'is-siem-reap-phnom-penh-landcruise-worth-it-siem-reap',
     'is-24day-cambodia-discovery-worth-it-siem-reap', 'is-siem-reap-10day-koh-rong-worth-it-siem-reap',
+    'is-siem-reap-lao-border-transfer-worth-it-siem-reap', 'is-siem-reap-kohkong-battambang-worth-it-siem-reap',
+    'is-phnom-krom-sunset-picnic-landrover-worth-it-siem-reap', 'is-8day-private-tour-highlights-worth-it-siem-reap',
 ];
 
 export const KRABI_INFO_SLUGS = [
