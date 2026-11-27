@@ -2141,6 +2141,8 @@ export const COLOMBO_INFO_SLUGS = [
   'is-kayaking-experience-worth-it-colombo', 'is-market-tour-cooking-class-worth-it-colombo',
   'is-pekoe-trail-trek-worth-it-colombo', 'is-kithulgala-birdwatching-worth-it-colombo',
   'is-deep-sea-fishing-worth-it-colombo', 'is-belihuloya-hill-safaris-kayaking-worth-it-colombo',
+  'is-pekoe-trail-18-22-worth-it-colombo', 'is-8day-ramayana-tour-worth-it-colombo',
+  'is-2day-arugam-bay-yala-safari-worth-it-colombo', 'is-offbeat-sri-lanka-roadtrip-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.

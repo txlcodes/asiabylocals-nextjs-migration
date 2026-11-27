@@ -2290,6 +2290,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kayaking-experience-worth-it-colombo', 'is-market-tour-cooking-class-worth-it-colombo',
     'is-pekoe-trail-trek-worth-it-colombo', 'is-kithulgala-birdwatching-worth-it-colombo',
     'is-deep-sea-fishing-worth-it-colombo', 'is-belihuloya-hill-safaris-kayaking-worth-it-colombo',
+    'is-pekoe-trail-18-22-worth-it-colombo', 'is-8day-ramayana-tour-worth-it-colombo',
+    'is-2day-arugam-bay-yala-safari-worth-it-colombo', 'is-offbeat-sri-lanka-roadtrip-worth-it-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),

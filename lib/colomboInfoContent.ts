@@ -1649,6 +1649,90 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-pekoe-trail-18-22-worth-it-colombo":
+      return {
+        title: "Is the Pekoe Trail 18-22 Guided 7-Day Trail Worth It from Colombo?",
+        description: "An honest look at the guided 7-day Pekoe Trail stages 18-22 trek with hotels and transfers.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1200504/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Stages 18-22 of the Pekoe Trail cover a different, less-walked section of the route than the earlier stages, worth it for travelers who've already done part of the trail or want a fresh 7-day stretch of genuine hill-country immersion.",
+            tourCard: { slug: "pekoe-trail-18-22-guided-7-day-trail-with", title: "Pekoe Trail 18-22: Guided 7 Day Trail with Hotels &Transfers", description: "A guided 7-day trek along Pekoe Trail stages 18-22, with hotels and transfers.", price: "From $2022", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1200504/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check fitness requirements before booking, since a full 7-day trekking stretch demands sustained daily hiking stamina.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pekoe Trail 18-22 guided trek worth it?", a: "Yes, for travelers wanting a fresh, less-walked 7-day stretch of the trail, whether as a standalone trip or a continuation of earlier stages." },
+        ],
+      };
+
+    case "is-8day-ramayana-tour-worth-it-colombo":
+      return {
+        title: "Is the 8-Day Ramayana Tour in Sri Lanka Worth It from Colombo?",
+        description: "An honest look at the 8-day Ramayana-themed tour across Sri Lanka from Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1020555/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tracing sites connected to the Ramayana epic across Sri Lanka over 8 days gives genuine religious and mythological depth for travelers with a specific interest in the story, going well beyond what a standard sightseeing itinerary covers.",
+            tourCard: { slug: "from-colombo-8-day-ramayana-tour-in-sri-lanka", title: "From Colombo: 8-Day Ramayana Tour in Sri Lanka", description: "An 8-day tour of sites connected to the Ramayana epic across Sri Lanka.", price: "From $1521", duration: "8 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1020555/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Brush up on the Ramayana's key episodes beforehand, since the tour's value depends heavily on recognizing the mythological context at each site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 8-day Ramayana tour worth it from Colombo?", a: "Yes, for travelers with a specific interest in the Ramayana epic, offering genuine mythological depth beyond a standard sightseeing trip." },
+        ],
+      };
+
+    case "is-2day-arugam-bay-yala-safari-worth-it-colombo":
+      return {
+        title: "Is the 2-Day Tour to Arugam Bay with Yala Safari Worth It?",
+        description: "An honest look at the 2-day Colombo/Negombo tour to Arugam Bay with Yala Safari.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-893460/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Arugam Bay's famous surf coastline with a Yala Safari gives genuinely different experiences, waves and wildlife, in one efficient 2-day package rather than treating them as separate trips.",
+            tourCard: { slug: "colombonegombo-2-day-tour-to-arugam-bay-with-yala", title: "Colombo/Negombo: 2-Day Tour to Arugam Bay with Yala Safari", description: "A 2-day tour combining Arugam Bay's coastline with a Yala Safari.", price: "From $1200", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-893460/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the safari slot early in the trip, since wildlife sighting odds are generally better in the morning drives.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Arugam Bay and Yala Safari tour worth it?", a: "Yes, for travelers wanting both the coastline and genuine wildlife safari covered efficiently in one 2-day package." },
+        ],
+      };
+
+    case "is-offbeat-sri-lanka-roadtrip-worth-it-colombo":
+      return {
+        title: "Is the Offbeat Sri Lanka Adventure Road Trip Worth It from Colombo?",
+        description: "An honest look at the 5-day offbeat Sri Lanka road trip covering waterfalls and hikes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1318936/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This 5-day road trip deliberately skips the standard Sigiriya-Kandy-Ella circuit in favor of lesser-known waterfalls and hiking spots, worth it for travelers who've already done Sri Lanka's main sights and want something genuinely different.",
+            tourCard: { slug: "offbeat-sri-lanka-adventure-road-trip-waterfalls", title: "Offbeat Sri Lanka Adventure: Road trip Waterfalls, Hikes", description: "A 5-day offbeat road trip covering Sri Lanka's lesser-known waterfalls and hikes.", price: "From $1309", duration: "5 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1318936/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits repeat visitors or travelers with flexible expectations, since it deliberately avoids the well-known highlight sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the offbeat Sri Lanka road trip worth it?", a: "Yes, for travelers who've already seen the main sights and want genuinely different, lesser-known waterfalls and hikes." },
+        ],
+      };
+
     default:
       return null;
   }
