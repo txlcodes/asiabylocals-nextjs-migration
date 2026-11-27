@@ -2882,6 +2882,8 @@ export const DA_NANG_INFO_SLUGS = [
   'is-natural-dyeing-fan-painting-worth-it-da-nang', 'is-speedboat-fishing-experience-worth-it-da-nang',
   'is-cham-island-speedboat-snorkeling-worth-it-da-nang', 'is-dong-giang-heaven-gate-tour-worth-it-da-nang',
   'is-private-fitness-class-worth-it-da-nang', 'is-night-motorbike-han-cruise-worth-it-da-nang',
+  'is-intercontinental-citron-afternoon-tea-worth-it-da-nang', 'is-off-road-atv-bbq-worth-it-da-nang',
+  'is-countryside-bike-stream-dip-worth-it-da-nang', 'is-full-day-fishing-local-boat-worth-it-da-nang',
 ];
 
 export const HO_CHI_MINH_CITY_INFO_SLUGS = [

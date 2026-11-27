@@ -1103,6 +1103,90 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-intercontinental-citron-afternoon-tea-worth-it-da-nang":
+      return {
+        title: "Is the Luxury Afternoon Tea at InterContinental Citron Worth It?",
+        description: "An honest look at the luxury afternoon tea at InterContinental Danang's Citron restaurant.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-luxury-afternoon-tea-at-intercontinental-citron-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper afternoon tea at one of Da Nang's most architecturally striking resorts gives a genuinely relaxed, upscale break from sightseeing, with real ocean views, worth it for travelers wanting a memorable splurge rather than another temple or market stop.",
+            tourCard: { slug: "da-nang-luxury-afternoon-tea-at-intercontinental-citron-by-local-operator", title: "Da Nang Luxury Afternoon Tea at InterContinental Citron by Local Operator", description: "A luxury afternoon tea experience at InterContinental Danang's Citron restaurant.", price: "From $569", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-luxury-afternoon-tea-at-intercontinental-citron-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead and ask for a table with ocean views, since the resort's architecture and setting are a big part of the appeal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the InterContinental Citron afternoon tea worth it in Da Nang?", a: "Yes, for travelers wanting a memorable, relaxed upscale experience with real ocean views, beyond standard sightseeing." },
+        ],
+      };
+
+    case "is-off-road-atv-bbq-worth-it-da-nang":
+      return {
+        title: "Is the Off-Road ATV Adventure with BBQ Feast Worth It in Da Nang?",
+        description: "An honest look at the off-road ATV adventure with BBQ feast in Da Nang.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201346/asiabylocals/tours/off-road-atv-adventure-with-bbq-feast-in-da-nang/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding ATVs across genuine off-road terrain and finishing with a proper BBQ feast gives a satisfying mix of adrenaline and reward, worth it for travelers wanting an active half-day that isn't centered on Ba Na Hills or the beach.",
+            tourCard: { slug: "off-road-atv-adventure-with-bbq-feast-in-da-nang", title: "Off-Road ATV Adventure with BBQ Feast in Da Nang", description: "An off-road ATV adventure with a BBQ feast in Da Nang.", price: "From $174", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201346/asiabylocals/tours/off-road-atv-adventure-with-bbq-feast-in-da-nang/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting dusty or muddy, since this covers genuine off-road terrain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the off-road ATV adventure with BBQ worth it in Da Nang?", a: "Yes, for travelers wanting an active half-day combining real off-road adrenaline with a satisfying BBQ reward." },
+        ],
+      };
+
+    case "is-countryside-bike-stream-dip-worth-it-da-nang":
+      return {
+        title: "Is the Scenic Countryside Bike Tour with Stream Dip Worth It?",
+        description: "An honest look at the scenic countryside bike tour, lunch and stream dip in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/scenic-countryside-bike-tour-lunch-and-stream-dip-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cycling through Da Nang's rural countryside with a cooling stream dip and lunch stop gives a genuinely relaxed, active day distinct from the city's beach and Ba Na Hills circuit, worth it for travelers wanting a slower, nature-focused pace.",
+            tourCard: { slug: "scenic-countryside-bike-tour-lunch-and-stream-dip-in-da-nang", title: "Scenic Countryside Bike Tour, Lunch and Stream Dip in Da Nang", description: "A countryside bike tour with lunch and a stream dip in Da Nang.", price: "From $218", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/scenic-countryside-bike-tour-lunch-and-stream-dip-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit and towel for the stream dip, and reasonable fitness for a full day of cycling.",
+          },
+        ],
+        faqs: [
+          { q: "Is the countryside bike tour with stream dip worth it in Da Nang?", a: "Yes, for travelers wanting a slower, nature-focused active day distinct from the beach and Ba Na Hills circuit." },
+        ],
+      };
+
+    case "is-full-day-fishing-local-boat-worth-it-da-nang":
+      return {
+        title: "Is the Full-Day Fishing Trip by Local Boat Worth It in Da Nang?",
+        description: "An honest look at the full-day fishing trip by local boat in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/full-day-fishing-trip-by-local-boat-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A full day of real traditional fishing aboard a local boat gives a genuinely slower, more authentic experience than the short speedboat-and-fishing outing, worth it for travelers who actually want to fish rather than squeeze in a quick water activity.",
+            tourCard: { slug: "full-day-fishing-trip-by-local-boat-in-da-nang", title: "Full-Day Fishing Trip by Local Boat in Da Nang", description: "A full-day traditional fishing trip aboard a local boat in Da Nang.", price: "From $312", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-fishing-trip-by-local-boat-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection and snacks, since this is a genuine full day on the water rather than a short outing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the full-day fishing trip by local boat worth it in Da Nang?", a: "Yes, for travelers who genuinely want to fish, with a slower, more authentic pace than the short speedboat version." },
+        ],
+      };
+
     default:
       return null;
   }
