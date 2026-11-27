@@ -1381,6 +1381,8 @@ export const ISTANBUL_INFO_SLUGS = [
   'is-wine-tasting-tekirdag-worth-it-istanbul', 'is-edirne-bahai-house-worth-it-istanbul',
   'is-iznik-nicaea-heritage-tour-worth-it-istanbul', 'is-jewish-district-walking-tour-worth-it-istanbul',
   'is-catalhoyuk-mevlana-rumi-2day-worth-it-istanbul', 'is-ancient-monasteries-full-day-tour-worth-it-istanbul',
+  'is-turkish-series-filming-locations-worth-it-istanbul', 'is-pergamon-by-plane-worth-it-istanbul',
+  'is-kidfriendly-hagia-sophia-tour-worth-it-istanbul', 'is-2day-europe-asia-dinner-tickets-worth-it-istanbul',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and

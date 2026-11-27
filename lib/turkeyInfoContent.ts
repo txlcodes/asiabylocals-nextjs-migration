@@ -2184,6 +2184,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-turkish-series-filming-locations-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Turkish TV Series Filming Locations Tour Worth It?",
+        description: "An honest look at the tour discovering the places where Turkish series are shot in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53e55c20439c50cf55528e5e764dce460f5a554f6720558c2ff38fc3ccebe860.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting the real locations behind Turkey's internationally popular TV dramas gives genuine fan-pilgrimage appeal that no standard sightseeing tour offers, worth it specifically for travelers who follow Turkish series and want to see the settings in person.",
+            tourCard: { slug: "istanbul-discover-the-places-where-turkish-series", title: "Istanbul: Discover the places where Turkish series are shot.", description: "A tour of Istanbul locations featured in popular Turkish TV series.", price: "From $1161", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53e55c20439c50cf55528e5e764dce460f5a554f6720558c2ff38fc3ccebe860.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention your favorite shows to the guide in advance, since the itinerary can often be adjusted toward specific series you follow.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Turkish TV series filming locations tour worth it in Istanbul?", a: "Yes, specifically for fans of Turkish dramas wanting to see the real settings in person, a genuine niche appeal no standard tour offers." },
+        ],
+      };
+
+    case "is-pergamon-by-plane-worth-it-istanbul":
+      return {
+        title: "Is the Private Pergamon Day Tour from Istanbul by Plane Worth It?",
+        description: "An honest look at the private Pergamon day tour from Istanbul by plane.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75e00242393607ae.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Flying to Pergamon rather than driving turns a multi-day overland trip into a single, if long, day, giving access to one of the ancient world's great healing centers and library sites without sacrificing extra nights in Istanbul.",
+            tourCard: { slug: "private-pergamon-day-tour-from-istanbul-by-plane", title: "Private Pergamon Day Tour from Istanbul by Plane", description: "A private flight-inclusive day tour to the ancient city of Pergamon from Istanbul.", price: "From $975", duration: "15 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75e00242393607ae.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long 15-hour day given the flights on both ends, so come rested and prepared for an early start.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pergamon day tour by plane worth it from Istanbul?", a: "Yes, for travelers wanting access to Pergamon's ancient sites without sacrificing extra nights in Istanbul, despite the genuinely long day." },
+        ],
+      };
+
+    case "is-kidfriendly-hagia-sophia-tour-worth-it-istanbul":
+      return {
+        title: "Is the Kid-Friendly Fun Private Tour with Hagia Sophia Worth It?",
+        description: "An honest look at the kid-friendly private tour with Hagia Sophia in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4bb16ab7b906f19e1c97dd3696add1d9275b5cd32da353b74d942e011418d7f8.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A tour specifically paced and framed for children at Hagia Sophia makes the site's history engaging rather than overwhelming for younger visitors, worth it for families wanting the landmark covered without a restless, bored child in tow.",
+            tourCard: { slug: "istanbul-kid-friendly-fun-private-tour-with-hagia", title: "Istanbul: Kid-Friendly Fun Private Tour with Hagia Sophia", description: "A kid-friendly private tour of Hagia Sophia in Istanbul.", price: "From $892", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4bb16ab7b906f19e1c97dd3696add1d9275b5cd32da353b74d942e011418d7f8.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring snacks and water for younger kids, since mosque etiquette inside Hagia Sophia requires a reasonably calm, quiet demeanor.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kid-Friendly Hagia Sophia tour worth it in Istanbul?", a: "Yes, for families wanting the landmark's history made engaging for children, rather than overwhelming or boring for younger visitors." },
+        ],
+      };
+
+    case "is-2day-europe-asia-dinner-tickets-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul 2 Days of Europe and Asia with Dinner and Tickets Worth It?",
+        description: "An honest look at the 2-day Istanbul tour covering both Europe and Asia sides with dinner and tickets included.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d88397fac521562404fdda866a963146fa6d4008216beb9aea216fd0ea0275e3.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering both the European and Asian sides of Istanbul over 2 days, with dinner and entry tickets bundled in, gives genuine depth to a city that straddles two continents, worth it for travelers wanting a complete overview without arranging logistics themselves.",
+            tourCard: { slug: "istanbul2-days-of-europe-and-asia-dinner-tickets", title: "Istanbul:2 days of Europe and Asia. Dinner /Tickets included", description: "A 2-day tour of Istanbul's European and Asian sides with dinner and tickets included.", price: "From $1320", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d88397fac521562404fdda866a963146fa6d4008216beb9aea216fd0ea0275e3.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm exactly which attraction tickets and meals are bundled before booking, since inclusions vary between similarly named packages.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Europe and Asia tour with dinner and tickets worth it in Istanbul?", a: "Yes, for travelers wanting genuine depth across both continents of the city, with logistics and bundled extras handled in one booking." },
+        ],
+      };
+
     default:
       return null;
   }
