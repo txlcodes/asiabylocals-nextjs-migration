@@ -1477,6 +1477,62 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-askhi-mountain-4x4-worth-it-kutaisi":
+            return {
+                title: "Is the Askhi Mountain 4x4 Tour Worth It from Kutaisi?",
+                description: "An honest look at the Askhi Mountain 4x4 tour with stunning views and picnic from Kutaisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bfb6a75c894ab64b4e23aae13a7553a937d0fc2412e06ace6997c4a0141ee68b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Askhi Mountain's 4x4 route climbs to genuinely sweeping views that few visitors seek out, with a picnic stop built in, worth it for travelers wanting an adventurous full-day escape beyond Kutaisi's cave-and-canyon circuit.", tourCard: { slug: "kutaisi-askhi-mountain-4x4-tour-on-stunning-views", title: "Kutaisi: Askhi Mountain 4x4 Tour on Stunning views & Picnic", description: "A 4x4 tour up Askhi Mountain with scenic views and a picnic.", price: "From $481", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bfb6a75c894ab64b4e23aae13a7553a937d0fc2412e06ace6997c4a0141ee68b.jpg" } },
+                    { title: "Practical Tips", content: "This is a full 12-hour day, so bring warm layers for the mountain elevation even if Kutaisi itself is warm." },
+                ],
+                faqs: [
+                    { q: "Is the Askhi Mountain 4x4 tour worth it from Kutaisi?", a: "Yes, for travelers wanting an adventurous full-day escape with genuinely sweeping mountain views beyond the usual cave-and-canyon circuit." },
+                ],
+            };
+
+        case "is-khvamli-mountain-green-lake-worth-it-kutaisi":
+            return {
+                title: "Is the Khvamli Mountain, Green Lake & Museum Tour Worth It from Kutaisi?",
+                description: "An honest look at the Khvamli Mountain, Green Lake, and museum day tour from Kutaisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1a1729f35bc8bcbf822bb260b1ca2782aac0ab4b99f0a1b5c126e1f578228100.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khvamli Mountain's dramatic cliffs and the strikingly colored Green Lake give a genuinely different landscape from Kutaisi's better-known caves and canyons, with a museum stop adding cultural context to the day.", tourCard: { slug: "kutaisi-khvamli-mountain-green-lake-museum", title: "Kutaisi: Khvamli Mountain, Green Lake & Museum", description: "A day tour to Khvamli Mountain, Green Lake, and a museum from Kutaisi.", price: "From $338", duration: "11 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1a1729f35bc8bcbf822bb260b1ca2782aac0ab4b99f0a1b5c126e1f578228100.jpg" } },
+                    { title: "Practical Tips", content: "The Green Lake's striking color varies with season and water level, so ask your guide about current conditions." },
+                ],
+                faqs: [
+                    { q: "Is the Khvamli Mountain and Green Lake tour worth it from Kutaisi?", a: "Yes, for travelers wanting genuinely different mountain-and-lake scenery beyond Kutaisi's better-known caves and canyons." },
+                ],
+            };
+
+        case "is-sairme-spa-zipline-worth-it-kutaisi":
+            return {
+                title: "Is the Sairme Spa Resort & Zipline Adventure Tour Worth It from Kutaisi?",
+                description: "An honest look at the Sairme Spa Resort and zipline adventure tour from Kutaisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c1ffdcc7c4aadaba658c646052fd27270a35eaa99e65762f374b188ada804e5c.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Sairme's mineral-water spa resort paired with a zipline adventure gives a genuine mix of relaxation and adrenaline in one day, worth it for travelers wanting both rather than choosing one or the other.", tourCard: { slug: "kutaisi-sairme-spa-resort-zipline-aventure-tour", title: "Kutaisi: Sairme Spa Resort & Zipline Aventure Tour", description: "A tour combining the Sairme Spa Resort with a zipline adventure from Kutaisi.", price: "From $384", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c1ffdcc7c4aadaba658c646052fd27270a35eaa99e65762f374b188ada804e5c.jpeg" } },
+                    { title: "Practical Tips", content: "Bring swimwear for the spa portion and closed shoes for the zipline, since the day covers both activities." },
+                ],
+                faqs: [
+                    { q: "Is the Sairme Spa Resort and zipline tour worth it from Kutaisi?", a: "Yes, for travelers wanting a genuine mix of relaxation and adrenaline activity in one day." },
+                ],
+            };
+
+        case "is-samegrelo-anaklia-daytrip-worth-it-kutaisi":
+            return {
+                title: "Is the Samegrelo Royal Palaces & Anaklia Day Trip Worth It from Kutaisi?",
+                description: "An honest look at the Samegrelo Royal Palaces and Anaklia day trip from Kutaisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/114c67df0729ac8f38fc843d5bbd1e91867aaf65d8663e87b1acba28b5332fde.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Dadiani royal palace in Samegrelo and Anaklia's Black Sea coastline give a genuine combination of regional history and beach scenery, worth it for travelers wanting a day trip beyond Kutaisi's cave-and-mountain circuit.", tourCard: { slug: "from-kutaisi-samegrelo-royal-palaces-anaklia-day", title: "From Kutaisi: Samegrelo Royal Palaces & Anaklia Day Trip", description: "A day trip to the Samegrelo royal palaces and Anaklia coastline from Kutaisi.", price: "From $182", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/114c67df0729ac8f38fc843d5bbd1e91867aaf65d8663e87b1acba28b5332fde.jpg" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit if the season allows, since Anaklia's coastline offers a genuine beach stop on an otherwise history-focused day." },
+                ],
+                faqs: [
+                    { q: "Is the Samegrelo Royal Palaces and Anaklia day trip worth it from Kutaisi?", a: "Yes, for travelers wanting a genuine mix of regional history and coastal scenery beyond Kutaisi's cave-and-mountain circuit." },
+                ],
+            };
+
         case "is-dmanisi-archeology-tour-worth-it-tbilisi":
             return {
                 title: "Is the Dmanisi Archeology Tour Worth It from Tbilisi?",

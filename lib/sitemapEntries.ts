@@ -1224,6 +1224,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-vani-sulfur-baths-tour-worth-it-kutaisi', 'is-racha-wine-tour-worth-it-kutaisi',
     'is-svaneti-tour-worth-it-kutaisi', 'is-gelati-motsameta-bagrati-tour-worth-it-kutaisi',
     'is-martvili-okatse-prometheus-combo-worth-it-kutaisi',
+    'is-askhi-mountain-4x4-worth-it-kutaisi', 'is-khvamli-mountain-green-lake-worth-it-kutaisi',
+    'is-sairme-spa-zipline-worth-it-kutaisi', 'is-samegrelo-anaklia-daytrip-worth-it-kutaisi',
   ], 'georgia', 'kutaisi');
 
   const salalahInfoPages = mapInfoSlugs([
