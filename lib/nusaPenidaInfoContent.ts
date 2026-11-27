@@ -1176,6 +1176,90 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-calendula-spa-worth-it-nusa-penida":
+      return {
+        title: "Is the Calendula Spa and Wellness Treatments Worth It in Nusa Penida?",
+        description: "An honest look at the Calendula Spa and wellness treatments in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper spa treatment gives genuine recovery time after the island's long, bumpy sightseeing days, worth it specifically for travelers wanting to unwind rather than packing in another snorkel or viewpoint stop.",
+            tourCard: { slug: "calendula-spa-and-wellness-treatments-in-nusa-penida", title: "Calendula Spa and Wellness Treatments in Nusa Penida", description: "Spa and wellness treatments at Calendula Spa in Nusa Penida.", price: "From $27", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for the evening after a full day of sightseeing, since Nusa Penida's roads and heat make genuine recovery time worthwhile.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Calendula Spa worth it in Nusa Penida?", a: "Yes, for genuine recovery time after the island's long, bumpy sightseeing days, rather than packing in another activity." },
+        ],
+      };
+
+    case "is-private-car-rental-worth-it-nusa-penida":
+      return {
+        title: "Is Private Car Rental Worth It in Nusa Penida?",
+        description: "An honest look at private car rental in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Renting your own car with a driver gives genuine flexibility over which viewpoints and beaches to linger at, worth it specifically for travelers who'd rather set their own pace than follow a fixed group tour itinerary across the island's rough roads.",
+            tourCard: { slug: "private-car-rental-in-nusa-penida", title: "Private Car Rental in Nusa Penida", description: "A private car rental with driver in Nusa Penida.", price: "From $56", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm whether a driver is included — the island's roads are genuinely rough, and self-driving isn't recommended for most visitors.",
+          },
+        ],
+        faqs: [
+          { q: "Is private car rental worth it in Nusa Penida?", a: "Yes, for travelers wanting genuine flexibility to linger at specific spots, rather than following a fixed group tour schedule." },
+        ],
+      };
+
+    case "is-kerta-gosa-tenganan-virgin-beach-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Kerta Gosa, Tenganan and Virgin Beach Tour Worth It?",
+        description: "An honest look at the Kerta Gosa, Tenganan, and Virgin Beach all-inclusive tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining the historic Kerta Gosa justice hall, the traditional Tenganan village, and a quieter Virgin Beach stop covers heritage, culture, and coast in one day, worth it for travelers wanting variety beyond the usual snorkeling and viewpoint circuit.",
+            tourCard: { slug: "kerta-gosa-tenganan-and-virgin-beach-all-inclusive-tour-in-nusa-penida", title: "Kerta Gosa, Tenganan and Virgin Beach All-Inclusive Tour", description: "An all-inclusive tour covering Kerta Gosa, Tenganan village, and Virgin Beach.", price: "From $114", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day covering heritage, village culture, and beach — pace your energy accordingly across all three stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kerta Gosa, Tenganan and Virgin Beach tour worth it?", a: "Yes, for travelers wanting heritage, traditional village culture, and a quieter beach stop all in one day, a genuine change from the usual snorkeling circuit." },
+        ],
+      };
+
+    case "is-historic-murals-fairy-garden-bat-cave-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Historic Murals, Fairy Garden and Bat Cave Temple Tour Worth It?",
+        description: "An honest look at the historic murals, fairy garden, and bat cave temple tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour covers genuinely offbeat stops — historic murals, a fairy-tale-style garden, and a bat cave temple — that most itineraries skip entirely, worth it for travelers who've already seen the island's main viewpoints and want something different.",
+            tourCard: { slug: "historic-murals-fairy-garden-and-bat-cave-temple-tour-in-nusa-penida", title: "Historic Murals, Fairy Garden and Bat Cave Temple Tour", description: "A tour covering historic murals, a fairy garden, and a bat cave temple.", price: "From $131", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mangrove-point-snorkeling-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a flashlight for the bat cave temple portion, since lighting inside can be limited.",
+          },
+        ],
+        faqs: [
+          { q: "Is the historic murals, fairy garden and bat cave temple tour worth it?", a: "Yes, specifically for travelers who've already seen the island's main viewpoints and want genuinely offbeat stops instead." },
+        ],
+      };
+
     default:
       return null;
   }
