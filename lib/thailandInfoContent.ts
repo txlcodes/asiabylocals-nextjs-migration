@@ -1839,6 +1839,62 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-street-art-tile-painting-workshop-worth-it-phuket":
+            return {
+                title: "Is the Phuket Old Town Street Art Walk & Tile Painting Workshop Worth It?",
+                description: "An honest look at the Phuket Old Town street art walk and tile painting workshop.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a walk past Old Town's colorful street murals with a hands-on tile painting workshop gives both a photo-worthy walk and a real craft activity, worth it for travelers wanting a creative souvenir alongside the sightseeing rather than just photos.", tourCard: { slug: "phuket-amulet-market-painting-walking-tour", title: "Phuket: Old Town Street Art Walk & Tile Painting Workshop", description: "A street art walking tour paired with a tile painting workshop in Phuket Old Town.", price: "From $25", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Your painted tile needs time to dry — ask about pickup or shipping options if you don't want to carry it wet." }
+                ],
+                faqs: [
+                    { q: "Is the street art walk and tile painting workshop worth it in Phuket?", a: "Yes, for travelers wanting a real craft souvenir alongside the Old Town's photogenic street art, not just photos." }
+                ],
+            };
+
+        case "is-private-surf-lesson-kata-worth-it-phuket":
+            return {
+                title: "Is the Private Surf Lesson at Kata Beach Worth It in Phuket?",
+                description: "An honest look at the private surf lesson at Kata Beach in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "One-on-one coaching at Kata Beach gives genuinely faster progress than a group lesson, worth it specifically for travelers wanting real instructor attention, especially during the May–October swell season when Kata's waves are at their best.", tourCard: { slug: "private-surf-lesson-kata-beach-phuket", title: "Private Surf Lesson at Kata Beach Phuket", description: "A private, one-on-one surf lesson at Kata Beach.", price: "From $40", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book during the May–October monsoon swell season for the most consistent waves — Kata can go nearly flat in the dry months." }
+                ],
+                faqs: [
+                    { q: "Is the private surf lesson worth it at Kata Beach?", a: "Yes, for genuinely faster progress with real one-on-one instructor attention, especially during Kata's May–October swell season." }
+                ],
+            };
+
+        case "is-patong-nightlife-crawl-worth-it-phuket":
+            return {
+                title: "Is the Patong VIP Nightlife Crawl Worth It in Phuket?",
+                description: "An honest look at the Patong VIP nightlife crawl covering Bangla rooftop bars and clubs.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Hitting rooftop bars and clubs along Bangla with a guided crawl takes the planning and queue-skipping hassle out of a Patong night out, worth it specifically for travelers wanting VIP access and a social group rather than navigating the strip solo.", tourCard: { slug: "patong-vip-nightlife-crawl-bangla-rooftop-and-clubs", title: "Patong VIP Nightlife Crawl – Bangla Rooftop and Clubs", description: "A guided VIP nightlife crawl through Patong's Bangla rooftop bars and clubs.", price: "From $44", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pace your drinking across the full crawl — VIP entry access is the real value here, not unlimited drinks." }
+                ],
+                faqs: [
+                    { q: "Is the Patong VIP nightlife crawl worth it in Phuket?", a: "Yes, specifically for travelers wanting VIP queue-skip access and a social group, rather than navigating Bangla's bars and clubs solo." }
+                ],
+            };
+
+        case "is-authentic-thai-cultural-experiences-worth-it-phuket":
+            return {
+                title: "Is the 6 Authentic Thai Cultural Hands-On Experiences Tour Worth It?",
+                description: "An honest look at the 6 authentic Thai cultural hands-on experiences tour in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Packing six different hands-on cultural activities into one session gives broad exposure to Thai crafts and traditions in a single short booking, worth it specifically for travelers with limited time who want variety over going deep on just one craft.", tourCard: { slug: "6-authentic-thai-cultural-hands-on-experiences-in-phuket", title: "6 Authentic Thai Cultural Hands-On Experiences in Phuket", description: "A tour combining six hands-on Thai cultural experiences in one session.", price: "From $35", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bangla-boxing-stadium-muay-thai-ticket-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "If you want to go deep on one specific craft rather than a broad sampler, a dedicated single-activity workshop is the better fit instead." }
+                ],
+                faqs: [
+                    { q: "Is the 6 authentic Thai cultural experiences tour worth it in Phuket?", a: "Yes, specifically for travelers with limited time wanting broad exposure to several crafts rather than going deep on just one." }
+                ],
+            };
+
         default:
             return null;
     }

@@ -244,6 +244,8 @@ export const PHUKET_INFO_SLUGS = [
   'is-sunset-horse-riding-worth-it-phuket', 'is-hanuman-zipline-worth-it-phuket',
   'is-junkyard-theatre-worth-it-phuket', 'is-froggys-fun-park-worth-it-phuket',
   'is-southern-flavours-food-tour-worth-it-phuket', 'is-bangla-boxing-stadium-worth-it-phuket',
+  'is-street-art-tile-painting-workshop-worth-it-phuket', 'is-private-surf-lesson-kata-worth-it-phuket',
+  'is-patong-nightlife-crawl-worth-it-phuket', 'is-authentic-thai-cultural-experiences-worth-it-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
