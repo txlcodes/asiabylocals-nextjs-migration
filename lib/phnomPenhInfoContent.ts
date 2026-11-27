@@ -1410,6 +1410,48 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-aural-mountain-trek-worth-it-phnom-penh":
+            return {
+                title: "Is the 3-Day Aural Mountain Trek Worth It from Phnom Penh?",
+                description: "An honest look at the 3-day Aural Mountain trek to Cambodia's tallest peak from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-day-aural-mountain-trek-to-cambodia-s-tallest-peak/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Climbing Phnom Aural, Cambodia's tallest peak, gives a genuinely serious multi-day trekking experience that nothing in Phnom Penh itself or the standard temple circuit offers, worth it for fit travelers wanting real wilderness and a summit to show for it.", tourCard: { slug: "3-day-aural-mountain-trek-to-cambodias-tallest-pea", title: "3-Day Aural Mountain Trek to Cambodia's Tallest Peak", description: "A 3-day trek to the summit of Phnom Aural, Cambodia's tallest mountain.", price: "From $637", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/3-day-aural-mountain-trek-to-cambodia-s-tallest-peak/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Train for multi-day hiking beforehand, and pack proper camping gear, since this is genuine wilderness trekking with no facilities en route." }
+                ],
+                faqs: [
+                    { q: "Is the Aural Mountain trek worth it from Phnom Penh?", a: "Yes, for fit travelers wanting a genuinely serious wilderness trek to Cambodia's tallest peak, unlike anything else near the capital." }
+                ],
+            };
+
+        case "is-phnom-tamao-buddha-kiri-worth-it-phnom-penh":
+            return {
+                title: "Is the Phnom Tamao Wildlife Center and Buddha Kiri Tour Worth It?",
+                description: "An honest look at the Phnom Tamao Wildlife Center and Buddha Kiri Cambodia day tour from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phnom-tamao-wildlife-center-and-buddha-kiri-cambodia-day-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Phnom Tamao is a genuine wildlife rescue operation rather than a zoo with a story, and pairing it with the striking Buddha Kiri monastery gives a day combining real conservation and a peaceful, less-visited religious site, worth it for travelers wanting both.", tourCard: { slug: "phnom-tamao-wildlife-center-and-buddha-kiri-cambod", title: "Phnom Tamao Wildlife Center and Buddha Kiri Cambodia Day Tour", description: "A day tour combining the Phnom Tamao wildlife rescue center and Buddha Kiri monastery.", price: "From $389", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/phnom-tamao-wildlife-center-and-buddha-kiri-cambodia-day-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm current visiting arrangements for Phnom Tamao with your operator, since access to certain enclosures can change." }
+                ],
+                faqs: [
+                    { q: "Is the Phnom Tamao and Buddha Kiri tour worth it from Phnom Penh?", a: "Yes, for travelers wanting both genuine wildlife rescue conservation and a peaceful, less-visited monastery in one day." }
+                ],
+            };
+
+        case "is-phum-taing-snay-birdwatching-worth-it-phnom-penh":
+            return {
+                title: "Is the Phum Taing Snay Birdwatching Day Trip Worth It from Phnom Penh?",
+                description: "An honest look at the Phum Taing Snay birdwatching day trip from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-phnom-penh-phum-taing-snay-birdwatching-day-trip/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Phum Taing Snay's wetlands hold a genuine concentration of waterbirds rarely covered by standard Phnom Penh tours, worth it for birdwatchers and wildlife enthusiasts wanting a specialized nature day rather than another temple or market stop.", tourCard: { slug: "from-phnom-penh-phum-taing-snay-birdwatching-day-t", title: "From Phnom Penh: Phum Taing Snay Birdwatching Day Trip", description: "A birdwatching day trip to Phum Taing Snay from Phnom Penh.", price: "From $267", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-phnom-penh-phum-taing-snay-birdwatching-day-trip/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring binoculars and arrive early morning, when bird activity at the wetlands is at its highest." }
+                ],
+                faqs: [
+                    { q: "Is the Phum Taing Snay birdwatching trip worth it from Phnom Penh?", a: "Yes, for birdwatchers and wildlife enthusiasts wanting a specialized nature day rarely covered by standard city tours." }
+                ],
+            };
+
         default:
             return null;
     }
