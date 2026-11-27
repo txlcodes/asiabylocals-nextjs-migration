@@ -693,6 +693,69 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-anawilundawa-bird-sanctuary-worth-it-negombo":
+      return {
+        title: "Is the Anawilundawa Bird Sanctuary Bird Watching Tour Worth It from Negombo?",
+        description: "An honest look at the Anawilundawa Bird Sanctuary bird watching tour from Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1406190/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Anawilundawa's Ramsar-listed wetlands draw genuine migratory bird diversity in a quieter setting than the better-known Muthurajawela wetland closer to the city, worth it for serious birdwatchers willing to go a bit further.",
+            tourCard: { slug: "from-negombo-anawilundawa-bird-sanctuary-bird", title: "From Negombo: Anawilundawa Bird Sanctuary Bird Watching Tour", description: "A bird watching tour of the Anawilundawa Bird Sanctuary wetlands from Negombo.", price: "From $169", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1406190/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars and visit during the winter migratory season for the best variety of bird sightings.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Anawilundawa Bird Sanctuary tour worth it from Negombo?", a: "Yes, for serious birdwatchers wanting a quieter wetland than Muthurajawela, with genuine migratory bird diversity." },
+        ],
+      };
+
+    case "is-sinharaja-2day-rainforest-worth-it-negombo":
+      return {
+        title: "Is the Negombo 2-Day Sinharaja Rainforest Private Trip Worth It?",
+        description: "An honest look at the 2-day private trip to Sinharaja Rainforest from Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1341592/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sinharaja is Sri Lanka's last major primary rainforest and a UNESCO World Heritage site, and a 2-day trip gives real time to explore its trails rather than rushing through on a single day, worth it for travelers with a genuine interest in rainforest biodiversity.",
+            tourCard: { slug: "negombo-2-day-sinharaja-rainforest-private-trip", title: "Negombo: 2-Day Sinharaja Rainforest Private Trip", description: "A 2-day private trip to Sinharaja Rainforest from Negombo.", price: "From $176", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1341592/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear sturdy, waterproof hiking shoes, since Sinharaja's trails are genuinely muddy and leech-prone given the rainforest's high rainfall.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Sinharaja Rainforest trip worth it from Negombo?", a: "Yes, for travelers with a genuine interest in rainforest biodiversity, giving real time to explore rather than rushing through in a single day." },
+        ],
+      };
+
+    case "is-4day-ayurveda-wellness-retreat-worth-it-negombo":
+      return {
+        title: "Is the Sri Lanka 4-Day Ayurveda and Wellness Retreat Worth It?",
+        description: "An honest look at the 4-day Ayurveda and wellness retreat with meals in Sri Lanka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1366356/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Four days gives genuine time to experience authentic Ayurvedic treatments and meals rather than a single rushed spa session, worth it for travelers with real interest in wellness who want to properly unwind rather than squeeze treatments between sightseeing.",
+            tourCard: { slug: "sri-lanka-4-day-ayurveda-and-wellness-retreat", title: "Sri Lanka: 4-Day Ayurveda and Wellness Retreat with Meals", description: "A 4-day Ayurveda and wellness retreat with meals included.", price: "From $1268", duration: "4 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1366356/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any health conditions to the Ayurvedic practitioner in advance, since treatments are often tailored to individual constitution.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 4-day Ayurveda and wellness retreat worth it?", a: "Yes, for travelers with genuine interest in wellness wanting real time for authentic treatments, rather than squeezing a rushed spa session between sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

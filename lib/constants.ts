@@ -2025,6 +2025,8 @@ export const NEGOMBO_INFO_SLUGS = [
   'is-snorkeling-worth-it-negombo', 'is-scooter-ride-worth-it-negombo',
   'is-fishing-village-fish-market-tour-worth-it-negombo', 'is-dutch-canal-sunset-boat-tour-worth-it-negombo',
   'is-sunset-kayaking-worth-it-negombo', 'is-local-friend-lagoon-tour-worth-it-negombo',
+  'is-anawilundawa-bird-sanctuary-worth-it-negombo', 'is-sinharaja-2day-rainforest-worth-it-negombo',
+  'is-4day-ayurveda-wellness-retreat-worth-it-negombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
