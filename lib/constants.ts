@@ -1537,6 +1537,8 @@ export const PATTAYA_INFO_SLUGS = [
   'is-elephant-jungle-sanctuary-worth-it-pattaya',
   'is-tiffanys-show-worth-it-pattaya', 'is-ramayana-water-park-worth-it-pattaya',
   'is-max-muay-thai-worth-it-pattaya', 'is-winter-wonderland-worth-it-pattaya',
+  'is-bann-thai-food-museum-worth-it-pattaya', 'is-naklua-fishing-village-food-walk-worth-it-pattaya',
+  'is-sina-floating-beach-club-worth-it-pattaya', 'is-pattaya-fishing-park-worth-it-pattaya',
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.

@@ -894,6 +894,74 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-bann-thai-food-museum-worth-it-pattaya":
+            return {
+                title: "Is the Bann Thai Food Museum with 11-Dish Meals Worth It?",
+                description: "An honest look at the Bann Thai Food Museum with 11-dish meals in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bann-thai-food-museum-with-11-dish-meals-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a food-focused museum experience with an 11-dish meal gives genuine breadth across Thai cuisine in one sitting, worth it for travelers who want to sample widely with cultural context rather than picking one restaurant.", tourCard: { slug: "bann-thai-food-museum-with-11-dish-meals-in-pattaya", title: "Bann Thai Food Museum with 11-Dish Meals in Pattaya", description: "A food museum experience with an 11-dish Thai meal included.", price: "From $39", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bann-thai-food-museum-with-11-dish-meals-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pace yourself across the 11 dishes — it's a genuinely filling amount of food for one sitting." }
+                ],
+                faqs: [
+                    { q: "Is the Bann Thai Food Museum with 11-dish meals worth it in Pattaya?", a: "Yes, for genuine breadth across Thai cuisine with cultural context, rather than picking one restaurant." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Bann Thai Food Museum worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine breadth across Thai cuisine with cultural context." } }
+                ] },
+            };
+
+        case "is-naklua-fishing-village-food-walk-worth-it-pattaya":
+            return {
+                title: "Is the Naklua Fishing Village Evening Food Walk Worth It?",
+                description: "An honest look at the Naklua Fishing Village evening food walk in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-food-tour-round24/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Naklua is a genuine working fishing village away from the main tourist strip, and an evening food walk there gives real local flavor and seafood freshness most visitors never encounter, worth it for travelers wanting authenticity over polish.", tourCard: { slug: "pattaya-naklua-fishing-village-evening-food-walk", title: "Pattaya Naklua Fishing Village Evening Food Walk", description: "An evening food walking tour through the Naklua fishing village.", price: "From $64", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-food-tour-round24/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go hungry — this is a genuine tasting walk across multiple stalls rather than one sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is the Naklua Fishing Village evening food walk worth it in Pattaya?", a: "Yes, it offers genuine local flavor and seafood freshness away from the main tourist strip." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Naklua fishing village food walk worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine local flavor away from the main tourist strip." } }
+                ] },
+            };
+
+        case "is-sina-floating-beach-club-worth-it-pattaya":
+            return {
+                title: "Is the SINA Floating Beach Club Worth It in Pattaya?",
+                description: "An honest look at the SINA floating beach club in Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sina-floating-beach-club-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A floating beach club setup gives a genuinely different beach-day format than a standard loungers-and-umbrella setup, worth it for travelers wanting a social, Instagram-friendly atmosphere with food and drinks included at one venue.", tourCard: { slug: "sina-floating-beach-club-in-pattaya", title: "SINA Floating Beach Club in Pattaya", description: "A floating beach club day pass with food and drinks.", price: "From $78", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/sina-floating-beach-club-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check what's included in the package versus what costs extra once you're there, since beach club pricing can vary by what you order." }
+                ],
+                faqs: [
+                    { q: "Is the SINA Floating Beach Club worth it in Pattaya?", a: "Yes, for a social, different beach-day format with food and drinks handled at one venue." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the SINA floating beach club worth it in Pattaya?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a social, different beach-day experience with food and drinks included." } }
+                ] },
+            };
+
+        case "is-pattaya-fishing-park-worth-it-pattaya":
+            return {
+                title: "Is the Private Fishing Experience at Pattaya Fishing Park Worth It?",
+                description: "An honest look at the private fishing experience at Pattaya Fishing Park.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A relaxed, private fishing session gives a genuine change of pace from Pattaya's usual beach and nightlife activities, worth it for travelers wanting a calm, low-key half-day rather than another high-energy water sport.", tourCard: { slug: "private-fishing-experience-at-pattaia-fishing-park-in-pattaya", title: "Private Fishing Experience at Pattaya Fishing Park", description: "A private fishing experience at a dedicated fishing park.", price: "From $97", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-fishing-experience-at-pattaia-fishing-park-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm what's included — rods, bait, and any catch-and-release policies — before booking." }
+                ],
+                faqs: [
+                    { q: "Is the private fishing experience at Pattaya Fishing Park worth it?", a: "Yes, for a calm, low-key change of pace from the city's usual beach and nightlife activities." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Pattaya fishing park experience worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a calm, low-key change of pace from beach and nightlife activities." } }
+                ] },
+            };
+
         default:
             return null;
     }
