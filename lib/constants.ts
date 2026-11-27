@@ -225,6 +225,8 @@ export const JAIPUR_INFO_SLUGS = [
   'is-solo-female-motorbike-tour-worth-it-jaipur', 'is-2-day-guided-tour-local-art-worth-it-jaipur',
   'is-namaste-bollywood-dance-worth-it-jaipur', 'is-flower-market-sunrise-tour-worth-it-jaipur',
   'is-morning-bike-tour-old-city-worth-it-jaipur', 'is-night-tuk-tuk-tour-worth-it-jaipur',
+  'is-horse-riding-adventure-worth-it-jaipur', 'is-meenakari-silver-workshop-worth-it-jaipur',
+  'is-elephant-poo-paper-workshop-worth-it-jaipur', 'is-sariska-tiger-reserve-safari-worth-it-jaipur',
 ];
 
 export const PHUKET_INFO_SLUGS = [

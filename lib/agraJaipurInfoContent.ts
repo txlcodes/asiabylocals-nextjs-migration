@@ -2181,6 +2181,90 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-horse-riding-adventure-worth-it-jaipur":
+      return {
+        title: "Is the Jaipur Horse Riding Adventure Worth It?",
+        description: "An honest look at the Jaipur horse riding adventure.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-horse-riding-adventure/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding horses through Jaipur's countryside and rural outskirts gives a genuinely different, more active way to see the region than a car-based fort circuit, worth it for travelers with some riding comfort who want an outdoor adventure alongside the city's heritage sites.",
+            tourCard: { slug: "jaipur-horse-riding-adventure", title: "Jaipur Horse Riding Adventure", description: "A horse riding adventure through Jaipur's rural countryside.", price: "From $180", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-horse-riding-adventure/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed-toe shoes and comfortable pants, and mention any riding experience level to the operator beforehand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jaipur horse riding adventure worth it?", a: "Yes, for travelers wanting a genuinely active, outdoor way to see the countryside around Jaipur, beyond the standard fort circuit." },
+        ],
+      };
+
+    case "is-meenakari-silver-workshop-worth-it-jaipur":
+      return {
+        title: "Is the Private Meenakari on Silver Workshop Worth It in Jaipur?",
+        description: "An honest look at the private Meenakari on Silver workshop in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-meenakari-on-silver-workshop/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Meenakari enamel work is a genuine Jaipur specialty craft, and a hands-on silver workshop gives real insight into the technique behind the jewelry sold throughout the city's markets, worth it for travelers wanting to understand the craft rather than just shop for it.",
+            tourCard: { slug: "jaipur-private-meenakari-on-silver-workshop", title: "Jaipur: Private Meenakari on Silver Workshop", description: "A private Meenakari enamel work workshop on silver in Jaipur.", price: "From $165", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-meenakari-on-silver-workshop/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask to keep your finished piece — most Meenakari workshops let you take home what you make.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Meenakari on silver workshop worth it in Jaipur?", a: "Yes, for travelers wanting genuine insight into this Jaipur specialty craft, rather than just buying finished pieces in the market." },
+        ],
+      };
+
+    case "is-elephant-poo-paper-workshop-worth-it-jaipur":
+      return {
+        title: "Is the Elephant Poo Paper-Making Workshop Worth It in Jaipur?",
+        description: "An honest look at the elephant poo paper-making workshop with a tour guide in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-elephant-poo-paper-making-workshop-with-tou/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaipur's elephant sanctuaries turn dung into genuine handmade paper through an eco-friendly process, and watching and trying it yourself gives a memorable, slightly unusual craft experience, worth it for travelers wanting something genuinely different from standard jewelry or textile workshops.",
+            tourCard: { slug: "jaipur-elephant-poo-paper-making-workshop-with-tou", title: "Jaipur: Elephant Poo Paper-Making Workshop with Tour Guide", description: "An elephant poo paper-making workshop with a guide in Jaipur.", price: "From $141", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-elephant-poo-paper-making-workshop-with-tou/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Don't let the name put you off — the process is odor-free and the finished paper makes a genuinely unusual souvenir.",
+          },
+        ],
+        faqs: [
+          { q: "Is the elephant poo paper-making workshop worth it in Jaipur?", a: "Yes, for a memorable, genuinely different craft experience and an unusual, eco-friendly souvenir." },
+        ],
+      };
+
+    case "is-sariska-tiger-reserve-safari-worth-it-jaipur":
+      return {
+        title: "Is the Sariska Tiger Reserve 1-Night Safari Worth It from Jaipur?",
+        description: "An honest look at the Sariska Tiger Reserve 1-night safari and transfer from Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-sariska-tiger-reserve-1-night-safari-transf/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sariska gets a fraction of Ranthambore's tourist traffic despite genuine tiger sighting potential, and an overnight format gives two safari drives instead of a rushed single outing, worth it for travelers wanting a quieter alternative to Ranthambore's more crowded jeeps.",
+            tourCard: { slug: "jaipur-sariska-tiger-reserve-1-night-safari-transf", title: "Jaipur: Sariska Tiger Reserve 1-Night Safari & Transfer", description: "A 1-night Sariska Tiger Reserve safari with transfer from Jaipur.", price: "From $292", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-sariska-tiger-reserve-1-night-safari-transf/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book both morning and evening safari slots if offered, since sighting odds improve with more drives.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sariska Tiger Reserve safari worth it from Jaipur?", a: "Yes, for travelers wanting a quieter tiger reserve alternative to Ranthambore's more crowded safari jeeps." },
+        ],
+      };
+
     default:
       return null;
   }
