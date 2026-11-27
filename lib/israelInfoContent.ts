@@ -796,6 +796,74 @@ export function getIsraelInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-sunset-art-wine-beach-worth-it-tel-aviv":
+            return {
+                title: "Is Tel Aviv Sunset, Art & Local Wine on the Beach Worth It?",
+                description: "An honest look at the Tel Aviv sunset, art, and local wine experience on the beach.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f1cbbe1e3c6172ae0842dc9cf2bf17392d342d1727dce06dcb385de299f298a2.png",
+                sections: [
+                    { title: "The Short Answer", content: "Combining sunset beach views with local wine and an artistic element, this short experience gives a relaxed, social evening activity, worth it as an easy way to unwind rather than another guided city walk.", tourCard: { slug: "tel-aviv-sunset-art-local-wine-on-the-beach", title: "Tel Aviv: Sunset, Art & Local Wine on the Beach", description: "A relaxed beach experience combining sunset views, art, and local wine.", price: "From $63", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f1cbbe1e3c6172ae0842dc9cf2bf17392d342d1727dce06dcb385de299f298a2.png" } },
+                    { title: "Practical Tips", content: "Check the exact beach location and sunset time before booking to plan your evening around it." },
+                ],
+                faqs: [
+                    { q: "Is the Tel Aviv sunset, art, and wine beach experience worth it?", a: "Yes, as a relaxed, social evening activity, a good change of pace from guided city walks." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the sunset art and wine beach experience worth it in Tel Aviv?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a relaxed, social evening activity." } },
+                ] },
+            };
+
+        case "is-art-museum-habima-tour-worth-it-tel-aviv":
+            return {
+                title: "Is the Tel Aviv Art Museum and Habima Tour Worth It?",
+                description: "An honest look at the Tel Aviv Art Museum and Habima Theatre tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0b3581c469fe0c07f6d73c3671f705788653d3f34aa740f80cbd4c5e2fc17ef.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the Tel Aviv Museum of Art with Habima Theatre, Israel's national theatre, gives a genuine cultural half-day covering visual art and performing arts history, worth it for travelers interested in the city's cultural institutions beyond the beach.", tourCard: { slug: "tel-aviv-art-museum-and-habima-tour", title: "Tel Aviv Art Museum and Habima Tour", description: "A tour combining the Tel Aviv Art Museum and Habima Theatre.", price: "From $247", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b0b3581c469fe0c07f6d73c3671f705788653d3f34aa740f80cbd4c5e2fc17ef.jpeg" } },
+                    { title: "Practical Tips", content: "Check the museum's current exhibition schedule before booking, since the collection on display rotates." },
+                ],
+                faqs: [
+                    { q: "Is the Tel Aviv Art Museum and Habima tour worth it?", a: "Yes, for travelers interested in the city's cultural institutions, covering both visual and performing arts history." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Art Museum and Habima tour worth it in Tel Aviv?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for travelers interested in the city's cultural institutions beyond the beach." } },
+                ] },
+            };
+
+        case "is-anu-palmach-museum-tour-worth-it-tel-aviv":
+            return {
+                title: "Is the Anu Museum and Palmach Museum Tour Worth It in Tel Aviv?",
+                description: "An honest look at the Anu Museum and Palmach Museum tour in Tel Aviv.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85f246cb12b3a9e60703610e25ccfd12f62525153bd9159612e8982e2e8b9541.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Anu Museum covers the story of the Jewish people worldwide, and Palmach commemorates Israel's pre-state fighting force, giving this tour genuine historical depth distinct from the city's beach and nightlife reputation.", tourCard: { slug: "the-anu-museum-and-palmach-museum-tour-in-tel", title: "The Anu Museum and Palmach Museum Tour in Tel Aviv", description: "A tour combining the Anu Museum and the Palmach Museum.", price: "From $286", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85f246cb12b3a9e60703610e25ccfd12f62525153bd9159612e8982e2e8b9541.jpeg" } },
+                    { title: "Practical Tips", content: "Allow genuine time for both museums — they cover distinct historical periods and each rewards unhurried attention." },
+                ],
+                faqs: [
+                    { q: "Is the Anu Museum and Palmach Museum tour worth it in Tel Aviv?", a: "Yes, it gives genuine historical depth distinct from the city's beach and nightlife reputation." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Anu and Palmach museum tour worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine historical depth beyond the city's beach reputation." } },
+                ] },
+            };
+
+        case "is-nazareth-cana-galilee-tour-worth-it-tel-aviv":
+            return {
+                title: "Is the Nazareth and Cana Galilee Day Trip Worth It from Tel Aviv?",
+                description: "An honest look at the Nazareth and Cana Galilee day trip from Tel Aviv.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e7ce57bb99719a892d94462ce776a92d382b268396d32a64ecb4bd1cddf877f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering both Nazareth and Cana, two significant Christian biblical sites in the Galilee, gives this day trip genuine religious-history depth, worth it for travelers interested in biblical sites beyond Jerusalem and Bethlehem.", tourCard: { slug: "nazareth-and-cana-discover-the-galilee-and", title: "Nazareth and Cana: Discover the Galilee and Israel's North", description: "A day trip to Nazareth and Cana in Israel's Galilee region.", price: "From $286", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4e7ce57bb99719a892d94462ce776a92d382b268396d32a64ecb4bd1cddf877f.jpeg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day given the distance to the Galilee — confirm start and return times with your operator." },
+                ],
+                faqs: [
+                    { q: "Is the Nazareth and Cana Galilee day trip worth it from Tel Aviv?", a: "Yes, for travelers interested in biblical sites beyond Jerusalem and Bethlehem, though it's a genuinely long day." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Nazareth and Cana day trip worth it from Tel Aviv?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for biblical sites beyond Jerusalem and Bethlehem, though a long day." } },
+                ] },
+            };
+
         default:
             return null;
     }

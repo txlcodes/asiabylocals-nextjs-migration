@@ -767,6 +767,8 @@ export const TEL_AVIV_INFO_SLUGS: string[] = [
   'best-time-to-visit-tel-aviv', 'tel-aviv-1-day-itinerary',
   'is-tel-aviv-safe', 'tel-aviv-to-jerusalem-guide',
   'is-paragliding-worth-it-tel-aviv', 'is-private-bike-tour-worth-it-tel-aviv',
+  'is-sunset-art-wine-beach-worth-it-tel-aviv', 'is-art-museum-habima-tour-worth-it-tel-aviv',
+  'is-anu-palmach-museum-tour-worth-it-tel-aviv', 'is-nazareth-cana-galilee-tour-worth-it-tel-aviv',
 ];
 
 // Bhutan launched 2026-11-19 with 92 live tours and zero authority pages.
