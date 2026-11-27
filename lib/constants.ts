@@ -1588,6 +1588,8 @@ export const KRABI_INFO_SLUGS = [
   'is-hong-island-lagoon-tour-worth-it-krabi',
   'is-railay-rock-climbing-worth-it-krabi', 'is-thai-cooking-class-worth-it-krabi',
   'is-muay-thai-fight-worth-it-krabi', 'is-ko-lanta-emerald-cave-tour-worth-it-krabi',
+  'is-blue-dragon-cabaret-worth-it-krabi', 'is-private-muay-thai-training-session-worth-it-krabi',
+  'is-krabi-local-food-night-market-worth-it-krabi', 'is-jurassic-trails-atv-kayaking-worth-it-krabi',
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders

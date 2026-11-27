@@ -1543,6 +1543,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-hong-island-lagoon-tour-worth-it-krabi',
     'is-railay-rock-climbing-worth-it-krabi', 'is-thai-cooking-class-worth-it-krabi',
     'is-muay-thai-fight-worth-it-krabi', 'is-ko-lanta-emerald-cave-tour-worth-it-krabi',
+    'is-blue-dragon-cabaret-worth-it-krabi', 'is-private-muay-thai-training-session-worth-it-krabi',
+    'is-krabi-local-food-night-market-worth-it-krabi', 'is-jurassic-trails-atv-kayaking-worth-it-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),

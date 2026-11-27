@@ -832,6 +832,62 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-blue-dragon-cabaret-worth-it-krabi":
+            return {
+                title: "Is the Blue Dragon Cabaret Worth It in Krabi?",
+                description: "An honest look at the Blue Dragon Cabaret show in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/blue-dragon-cabaret-ticket-dazzling-night-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A lively, Thailand-style cabaret show with costumes, music and dance, worth it as a fun evening activity distinct from Krabi's usual beach bars and boat days — the same genre of show found at Phuket's Patong but on a smaller, local scale here.", tourCard: { slug: "blue-dragon-cabaret-ticket-dazzling-night-in-krabi", title: "Blue Dragon Cabaret Ticket Dazzling Night in Krabi", description: "A ticket to the Blue Dragon Cabaret show in Krabi.", price: "From $33", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/blue-dragon-cabaret-ticket-dazzling-night-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book a table close to the stage if you want the full experience — seating further back can feel distant for a show this visual." }
+                ],
+                faqs: [
+                    { q: "Is the Blue Dragon Cabaret worth it in Krabi?", a: "Yes, as a fun, lively evening activity, a genuine change of pace from the beach bars and boat days that dominate most Krabi itineraries." }
+                ],
+            };
+
+        case "is-private-muay-thai-training-session-worth-it-krabi":
+            return {
+                title: "Is the Private 1-on-1 Muay Thai Training Session Worth It in Krabi?",
+                description: "An honest look at the private 1-on-1 Muay Thai training session in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-1-on-1-muay-thai-session-at-e-n-muaythai-gym-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Distinct from watching a live fight, this is a hands-on private training session with a working gym's own trainer, worth it for travelers who want to actually learn Muay Thai technique rather than just spectate.", tourCard: { slug: "private-1-on-1-muay-thai-session-at-e-n-muaythai-gym-in-krabi", title: "Private 1-on-1 Muay Thai Session at E.N. Muaythai Gym in Krabi", description: "A private one-on-one Muay Thai training session with a gym trainer.", price: "From $31", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/private-1-on-1-muay-thai-session-at-e-n-muaythai-gym-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear light athletic clothing and expect a genuinely physical hour — this is real training, not a staged photo-op session." }
+                ],
+                faqs: [
+                    { q: "Is the private 1-on-1 Muay Thai training session worth it in Krabi?", a: "Yes, for travelers who want to actually learn technique hands-on, distinct from just watching a live fight." }
+                ],
+            };
+
+        case "is-krabi-local-food-night-market-worth-it-krabi":
+            return {
+                title: "Is the Krabi Local Food and Night Market Experience Worth It?",
+                description: "An honest look at the Krabi local food and night market experience.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/krabi-local-food-and-night-market-experience-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A guided walk through a local night market with a guide pointing out what's actually worth eating, worth it for travelers who want more than Ao Nang's tourist-priced beach road but don't want to navigate an unfamiliar market alone.", tourCard: { slug: "krabi-local-food-and-night-market-experience-by-local-operator", title: "Krabi Local Food and Night Market Experience", description: "A guided food experience through a local night market in Krabi.", price: "From $43", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/krabi-local-food-and-night-market-experience-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go hungry and pace yourself — a good night market walk means sampling from several stalls rather than one big sit-down meal." }
+                ],
+                faqs: [
+                    { q: "Is the Krabi local food and night market experience worth it?", a: "Yes, a guide takes the guesswork out of an unfamiliar market and steers you past the tourist-priced beach road eats." }
+                ],
+            };
+
+        case "is-jurassic-trails-atv-kayaking-worth-it-krabi":
+            return {
+                title: "Is the Jurassic Trails ATV Ride and Kayaking Tour Worth It in Krabi?",
+                description: "An honest look at the Jurassic Trails ATV ride and kayaking tour in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining an ATV ride through jungle trails with a kayaking stop gives a genuinely active, varied half-day, worth it for travelers who want more adrenaline than a standard mangrove paddle without committing to a full-day activity.", tourCard: { slug: "jurassic-trails-atv-ride-and-kayaking-tour-in-krabi", title: "Jurassic Trails ATV Ride and Kayaking Tour in Krabi", description: "A combined ATV ride and kayaking tour through Krabi's jungle trails.", price: "From $35", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jurassic-trails-atv-ride-and-kayaking-tour-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a change of clothes — you'll get muddy on the ATV portion and wet on the kayak, often in the same outing." }
+                ],
+                faqs: [
+                    { q: "Is the Jurassic Trails ATV ride and kayaking tour worth it in Krabi?", a: "Yes, for a genuinely active, varied half-day with more adrenaline than a standard mangrove paddle alone." }
+                ],
+            };
+
         default:
             return null;
     }
