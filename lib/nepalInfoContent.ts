@@ -3313,6 +3313,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-annapurna-i-expedition-worth-it-pokhara":
+            return {
+                title: "Is the Annapurna I Expedition Worth It from Pokhara?",
+                description: "An honest look at the Annapurna I expedition with guide and permits from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f0ac2eb11b291c7878420e0d6ba9efe92cefbab49fe170c0e3ac9b2c0a7805d8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Annapurna I is the world's tenth-highest peak and a genuine high-altitude mountaineering expedition, not a trek, worth it only for experienced climbers with serious technical preparation and a committed 42-day timeline.", tourCard: { slug: "pokhara-annapurna-i-expedition-with-guide-permits", title: "Pokhara: Annapurna I Expedition with Guide & Permits", description: "A full Annapurna I summit expedition with guide and permits from Pokhara.", price: "From $389999", duration: "42 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f0ac2eb11b291c7878420e0d6ba9efe92cefbab49fe170c0e3ac9b2c0a7805d8.jpg" } },
+                    { title: "Practical Tips", content: "This is a serious mountaineering undertaking, not a trekking holiday — prior high-altitude climbing experience and technical training are essential prerequisites." }
+                ],
+                faqs: [
+                    { q: "Is the Annapurna I expedition worth it?", a: "Yes, but only for experienced mountaineers with serious technical preparation — this is a genuine summit expedition, not a trek." }
+                ],
+            };
+
+        case "is-dhaulagiri-expedition-worth-it-pokhara":
+            return {
+                title: "Is the Dhaulagiri Expedition Worth It from Pokhara?",
+                description: "An honest look at the Dhaulagiri Expedition 2025/2026 from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cd3bc02b9ba4f63ed97b9b39023b3d746bfe029dbb8fc75b28750b419ac0050.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Dhaulagiri, the world's seventh-highest peak, is one of the more technically demanding 8000-metre expeditions, worth it only for experienced high-altitude mountaineers prepared for a genuine 44-day summit attempt.", tourCard: { slug: "dhaulagiri-expedition-20252026", title: "Dhaulagiri Expedition 2025/2026", description: "A full Dhaulagiri summit expedition over 44 days.", price: "From $7148", duration: "44 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0cd3bc02b9ba4f63ed97b9b39023b3d746bfe029dbb8fc75b28750b419ac0050.jpeg" } },
+                    { title: "Practical Tips", content: "Prior 8000-metre or at least serious high-altitude experience is expected, since Dhaulagiri is considered more technically demanding than several other Himalayan giants." }
+                ],
+                faqs: [
+                    { q: "Is the Dhaulagiri Expedition worth it?", a: "Yes, for experienced high-altitude mountaineers prepared for a genuinely demanding 44-day summit attempt on one of the world's harder 8000-metre peaks." }
+                ],
+            };
+
+        case "is-muldai-viewpoint-trek-worth-it-pokhara":
+            return {
+                title: "Is the 6-Day Muldai View Point Trek Worth It from Pokhara?",
+                description: "An honest look at the 6-day Muldai View Point trek with transfers from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/849a175a8b0c131669ddfea4b04f332a1ffb949faa8c9c04c859bce5ca2fac63.png",
+                sections: [
+                    { title: "The Short Answer", content: "Muldai View Point offers a 360-degree Annapurna panorama with genuinely fewer crowds than Poon Hill, worth it for trekkers wanting comparable mountain views on a quieter trail.", tourCard: { slug: "from-pokhara-6-day-muldai-view-point-trek-with", title: "From Pokhara: 6-Day Muldai View Point Trek with Transfers", description: "A 6-day trek to Muldai View Point with transfers from Pokhara.", price: "From $1560", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/849a175a8b0c131669ddfea4b04f332a1ffb949faa8c9c04c859bce5ca2fac63.png" } },
+                    { title: "Practical Tips", content: "Go in autumn or spring for the clearest mountain views, since cloud cover is more common outside those peak trekking seasons." }
+                ],
+                faqs: [
+                    { q: "Is the 6-day Muldai View Point trek worth it from Pokhara?", a: "Yes, for trekkers wanting Annapurna panoramas comparable to Poon Hill but on a genuinely quieter trail." }
+                ],
+            };
+
+        case "is-ghandruk-ghorepani-jeep-tour-worth-it-pokhara":
+            return {
+                title: "Is the Luxury Ghandruk to Ghorepani Jeep Tour Worth It from Pokhara?",
+                description: "An honest look at the luxury Ghandruk to Ghorepani jeep tour and hike from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff50b505b9ca5ace24e7a3b03a2a40d27ed87ab714b29b7ea4c396d3b5dd809c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering the Ghandruk-to-Ghorepani route mostly by jeep with shorter hiking sections makes the classic hill-country scenery accessible to travelers who want the views without committing to a full multi-day trek on foot.", tourCard: { slug: "pokhara-luxury-ghandruk-to-ghorepani-jeep-tour", title: "Pokhara: Luxury Ghandruk to Ghorepani Jeep Tour and Hike", description: "A luxury jeep tour and hike covering Ghandruk and Ghorepani from Pokhara.", price: "From $2144", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff50b505b9ca5ace24e7a3b03a2a40d27ed87ab714b29b7ea4c396d3b5dd809c.jpg" } },
+                    { title: "Practical Tips", content: "This suits travelers who want the hill-country scenery without the physical demands of a full trekking itinerary on foot." }
+                ],
+                faqs: [
+                    { q: "Is the luxury Ghandruk to Ghorepani jeep tour worth it from Pokhara?", a: "Yes, for travelers wanting the classic hill-country scenery accessible by vehicle, without committing to a full multi-day trek on foot." }
+                ],
+            };
+
         case "is-maligaun-viewpoint-hike-worth-it-bhaktapur":
             return {
                 title: "Is the Maligaun Viewpoint Guided Hike Worth It from Bhaktapur?",
