@@ -1538,6 +1538,48 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-muscat-through-locals-camera-worth-it-muscat":
+            return {
+                title: "Is Muscat Through a Local's Camera Worth It?",
+                description: "An honest look at the Muscat through a Local's Camera photography tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A local photographer takes you to Muscat's most photogenic spots and helps compose better shots than you'd get wandering alone, worth it specifically for travelers who want genuinely good photos of the city without hiring a separate professional photoshoot.", tourCard: { slug: "muscat-muscat-through-a-locals-camera", title: "Muscat: Muscat through a Local's Camera", description: "A photography-focused tour of Muscat led by a local.", price: "From $128", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "Bring your own camera or phone — this is a guided photography outing, not a professional photoshoot where someone else takes the pictures for you." }
+                ],
+                faqs: [
+                    { q: "Is the Muscat through a Local's Camera tour worth it?", a: "Yes, for travelers wanting genuinely good photos of the city's best spots, guided by someone who knows the angles and timing." }
+                ],
+            };
+
+        case "is-sidab-hike-worth-it-muscat":
+            return {
+                title: "Is the Sidab Hike Adventure Worth It in Muscat?",
+                description: "An honest look at the Sidab hike adventure near Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Sidab is a small fishing village tucked between mountains and sea just outside the city center, and this hike covers genuinely scenic coastal terrain, worth it specifically for travelers wanting a moderate hike close to Muscat rather than a longer trip out to Jabal Shams or Jabal Akhdar.", tourCard: { slug: "sidab-hike-adventure", title: "Sidab Hike Adventure", description: "A hiking tour through the coastal village of Sidab near Muscat.", price: "From $129", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "Wear sturdy hiking shoes and bring plenty of water — the coastal terrain has limited shade." }
+                ],
+                faqs: [
+                    { q: "Is the Sidab hike worth it near Muscat?", a: "Yes, for a moderate, genuinely scenic coastal hike close to the city, without the longer drive out to the bigger mountain treks." }
+                ],
+            };
+
+        case "is-semi-submarine-cruise-worth-it-muscat":
+            return {
+                title: "Is the Semi-Submarine Cruise with Snorkeling Worth It in Muscat?",
+                description: "An honest look at the semi-submarine cruise with snorkeling and snacks in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A semi-submarine lets you see underwater marine life through viewing windows without getting wet, worth it specifically for travelers wanting an underwater glimpse who can't or don't want to snorkel, while still having the snorkeling option available on the same trip.", tourCard: { slug: "muscat-semi-submarine-cruise-with-snorkeling", title: "Muscat: Semi-Submarine Cruise with Snorkeling & Snacks", description: "A semi-submarine cruise with an optional snorkeling stop and snacks.", price: "From $130", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4aecdfa1515c86e779740977b94394c596eb721e63a2794c1c02cf474960216.jpeg" } },
+                    { title: "Practical Tips", content: "A good pick for non-swimmers or anyone traveling with people who don't want to get in the water, since the submarine portion needs no swimming at all." }
+                ],
+                faqs: [
+                    { q: "Is the semi-submarine cruise worth it in Muscat?", a: "Yes, especially for non-swimmers or anyone wanting an underwater view without getting wet, with snorkeling still optional for others in the group." }
+                ],
+            };
+
         default:
             return null;
     }
