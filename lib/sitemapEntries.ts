@@ -129,6 +129,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-archeological-sites-tour-worth-it-delhi', 'is-old-delhi-photo-tour-worth-it-delhi',
     'is-monkey-safari-walking-tour-worth-it-delhi', 'is-south-delhi-cycle-tour-worth-it-delhi',
     'is-street-art-walk-chai-worth-it-delhi', 'is-chai-master-class-worth-it-delhi',
+    'is-narnaul-skydiving-worth-it-delhi', 'is-tungnath-chandrashila-trek-worth-it-delhi',
+    'is-same-day-varanasi-flight-worth-it-delhi', 'is-rishikesh-yoga-ayurveda-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

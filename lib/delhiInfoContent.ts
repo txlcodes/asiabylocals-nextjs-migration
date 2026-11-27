@@ -1883,6 +1883,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-narnaul-skydiving-worth-it-delhi":
+      return {
+        title: "Is the Narnaul Airstrip Skydiving Adventure Worth It Near Delhi?",
+        description: "An honest look at the Narnaul Airstrip skydiving adventure near Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/narnaul-airstrip-skydiving-adventure-near-delhi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Skydiving over Narnaul's open countryside gives a genuine adrenaline rush unlike anything else near Delhi, worth it for travelers wanting a real extreme-sport experience rather than another heritage site or market walk.",
+            tourCard: { slug: "narnaul-airstrip-skydiving-adventure-near-delhi", title: "Narnaul Airstrip: Skydiving Adventure Near Delhi", description: "A skydiving adventure at Narnaul Airstrip near Delhi.", price: "From $670", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/narnaul-airstrip-skydiving-adventure-near-delhi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check weight and health restrictions beforehand, since skydiving operators enforce strict safety limits.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Narnaul skydiving adventure worth it near Delhi?", a: "Yes, for travelers wanting a genuine extreme-sport experience, unlike anything else available near the city." },
+        ],
+      };
+
+    case "is-tungnath-chandrashila-trek-worth-it-delhi":
+      return {
+        title: "Is the Tungnath Chandrashila Trek Tour Worth It from Delhi?",
+        description: "An honest look at the 5-day Tungnath Chandrashila trek tour from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-tungnath-chandrashila-trek-tour-5-dyas/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tungnath, the world's highest Shiva temple, and the Chandrashila summit beyond it give a genuinely serious Himalayan trekking experience, worth it for travelers with real hiking fitness who want mountain scenery far beyond Delhi's plains.",
+            tourCard: { slug: "from-delhi-tungnath-chandrashila-trek-tour-5-dyas", title: "From Delhi: Tungnath Chandrashila Trek Tour -5 Days", description: "A 5-day trek tour to Tungnath and Chandrashila from Delhi.", price: "From $720", duration: "5 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-tungnath-chandrashila-trek-tour-5-dyas/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Train for the altitude and elevation gain beforehand, since this is a genuine multi-day Himalayan trek, not a casual walk.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tungnath Chandrashila trek worth it from Delhi?", a: "Yes, for fit travelers wanting a genuine Himalayan trekking experience, including the world's highest Shiva temple." },
+        ],
+      };
+
+    case "is-same-day-varanasi-flight-worth-it-delhi":
+      return {
+        title: "Is the Same Day Varanasi Tour by Flight Worth It from Delhi?",
+        description: "An honest look at the same day Varanasi tour by flight with boat ride from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-same-day-varanasi-tour-by-flight-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Flying to Varanasi and back in a single day makes India's holiest city genuinely reachable for travelers without time for an overnight, and a Ganges boat ride captures the city's essential experience in the window available.",
+            tourCard: { slug: "from-delhi-same-day-varanasi-tour-by-flight-with", title: "From Delhi: Same Day Varanasi Tour By Flight With Boat Ride", description: "A same-day Varanasi tour by flight with a Ganges boat ride from Delhi.", price: "From $646", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-same-day-varanasi-tour-by-flight-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a very long, tightly scheduled day — confirm flight times leave enough ground time for the boat ride and ghats.",
+          },
+        ],
+        faqs: [
+          { q: "Is the same day Varanasi tour by flight worth it from Delhi?", a: "Yes, for travelers without time for an overnight who still want to experience the Ganges and ghats in one tightly scheduled day." },
+        ],
+      };
+
+    case "is-rishikesh-yoga-ayurveda-worth-it-delhi":
+      return {
+        title: "Is the 7-Day Rishikesh Yoga, Ayurveda and Meditation Tour Worth It from Delhi?",
+        description: "An honest look at the 7-day Rishikesh yoga, Ayurveda and meditation tour from Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-7-day-rishikesh-yoga-ayurveda-and-meditation/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rishikesh is a genuine global center for yoga and Ayurveda, and a full week there gives real depth to the practice rather than a single staged session, worth it for travelers with real interest in wellness and willing to commit real time to it.",
+            tourCard: { slug: "delhi-7-day-rishikesh-yoga-ayurveda-and-meditation", title: "Delhi: 7-Day Rishikesh Yoga, Ayurveda, and Meditation Tour", description: "A 7-day yoga, Ayurveda and meditation tour in Rishikesh from Delhi.", price: "From $782", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-7-day-rishikesh-yoga-ayurveda-and-meditation/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an open schedule and few other plans — the value of this trip is in committing to the full week, not squeezing it between other sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 7-day Rishikesh yoga and Ayurveda tour worth it from Delhi?", a: "Yes, for travelers with genuine interest in wellness who can commit real time, giving far more depth than a single staged session." },
+        ],
+      };
+
     default:
       return null;
   }
