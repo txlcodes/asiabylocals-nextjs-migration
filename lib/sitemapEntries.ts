@@ -296,6 +296,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-yangmingshan-national-park-tour-worth-it-taipei',
     'is-beitou-hot-springs-worth-it-taipei', 'is-national-palace-museum-tour-worth-it-taipei',
     'is-houtong-cat-village-worth-it-taipei', 'is-beer-brewery-tour-worth-it-taipei',
+    'is-hanfu-guzheng-workshop-worth-it-taipei', 'is-wanli-paragliding-worth-it-taipei',
+    'is-zhongshan-comedy-show-tour-worth-it-taipei', 'is-dihua-street-photoshoot-worth-it-taipei',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),

@@ -1513,6 +1513,74 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ] },
       };
 
+    case "is-hanfu-guzheng-workshop-worth-it-taipei":
+      return {
+        title: "Is the Hanfu & Guzheng Beginner Workshop Worth It in Taipei?",
+        description: "An honest look at the Hanfu dress and Guzheng beginner workshop in Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a3ea750d649aa08d0219a3d7e78f83015c616ee69bc6980fa3cf043dc66b6a77.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Wearing traditional Hanfu while learning the basics of the guzheng, a traditional Chinese zither, gives a genuinely immersive hands-on cultural experience, worth it for travelers who want more than a quick costume photo-op.", tourCard: { slug: "taipei-wear-hanfu-play-the-guzheng-in-a-beginner", title: "Taipei: Wear Hanfu & Play the Guzheng in a Beginner Workshop", description: "A beginner guzheng workshop while wearing traditional Hanfu dress.", price: "From $66", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a3ea750d649aa08d0219a3d7e78f83015c616ee69bc6980fa3cf043dc66b6a77.jpg" } },
+          { title: "Practical Tips", content: "No musical background is needed — this is a genuine beginner session, so don't skip it just because you've never played an instrument." },
+        ],
+        faqs: [
+          { q: "Is the Hanfu and Guzheng beginner workshop worth it in Taipei?", a: "Yes, it's a genuinely immersive hands-on cultural activity, more involved than a quick costume photo-op." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Hanfu and Guzheng workshop worth it in Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely immersive hands-on cultural activity." } },
+        ] },
+      };
+
+    case "is-wanli-paragliding-worth-it-taipei":
+      return {
+        title: "Is the Wanli Coastal Tandem Paragliding Experience Worth It from Taipei?",
+        description: "An honest look at the Wanli coastal tandem paragliding experience with video from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172c5b10b49386be6f6e3cfb7331c2143d765ed1a9c8a8a6b4990b09d2b59487.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Tandem paragliding over Wanli's coastline gives a genuinely different, adrenaline-driven perspective on Taiwan's north coast, worth it for travelers seeking an active adventure activity distinct from the city's temples and markets.", tourCard: { slug: "taipei-wanli-coastal-tandem-paragliding-with-video", title: "Taipei: Wanli Coastal Tandem Paragliding with Video", description: "A tandem paragliding experience over Wanli's coastline with video included.", price: "From $221", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/172c5b10b49386be6f6e3cfb7331c2143d765ed1a9c8a8a6b4990b09d2b59487.jpg" } },
+          { title: "Practical Tips", content: "Check the weather-dependent cancellation policy before booking — paragliding is highly sensitive to wind and visibility conditions." },
+        ],
+        faqs: [
+          { q: "Is the Wanli coastal tandem paragliding experience worth it from Taipei?", a: "Yes, for a genuinely different, adrenaline-driven perspective on Taiwan's north coast." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is Wanli paragliding worth it from Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely different adrenaline perspective on the north coast." } },
+        ] },
+      };
+
+    case "is-zhongshan-comedy-show-tour-worth-it-taipei":
+      return {
+        title: "Is the Zhongshan District Tour with Comedy Show Worth It in Taipei?",
+        description: "An honest look at the Zhongshan District tour with a comedy show in Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/058549481daf7f6fc7dd6d3a268fa32ca3b0ca13d8c4eb659a8e34b69bcba7a4.png",
+        sections: [
+          { title: "The Short Answer", content: "Pairing a neighborhood walking tour with a live comedy show gives this a genuinely lighter, more entertainment-focused evening than the usual history-and-food tour format, worth it for travelers wanting to laugh as much as learn.", tourCard: { slug: "taipei-zhongshan-district-tour-with-comedy-show", title: "Taipei: Zhongshan District Tour with Comedy Show", description: "A guided Zhongshan District walking tour paired with a live comedy show.", price: "From $63", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/058549481daf7f6fc7dd6d3a268fa32ca3b0ca13d8c4eb659a8e34b69bcba7a4.png" } },
+          { title: "Practical Tips", content: "Check the comedy show's language before booking — confirm it's performed in English if that matters to you." },
+        ],
+        faqs: [
+          { q: "Is the Zhongshan District tour with comedy show worth it in Taipei?", a: "Yes, it's a genuinely lighter, entertainment-focused evening, distinct from the usual history-and-food tour format." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Zhongshan District tour with comedy show worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuinely lighter, entertainment-focused evening activity." } },
+        ] },
+      };
+
+    case "is-dihua-street-photoshoot-worth-it-taipei":
+      return {
+        title: "Is the Dihua Street Private Photoshoot Worth It in Taipei?",
+        description: "An honest look at the Dihua Street private photoshoot with a Taipei photographer.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a6d702900dcf4751a866c83f51798f067a005ca7627ea06b41d50e5742f3803.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Dihua Street's historic shophouse architecture makes a genuinely distinctive photo backdrop, and a professional photographer gets you better shots than a phone selfie, worth it for travelers who want quality portrait photos from their trip.", tourCard: { slug: "dihua-street-private-photoshoot-with-taipei", title: "Dihua Street: Private Photoshoot with Taipei Photographer", description: "A private portrait photoshoot on Dihua Street with a local photographer.", price: "From $103", duration: "30 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7a6d702900dcf4751a866c83f51798f067a005ca7627ea06b41d50e5742f3803.jpg" } },
+          { title: "Practical Tips", content: "Check the delivery timeline for your edited photos before booking, since it varies by photographer." },
+        ],
+        faqs: [
+          { q: "Is the Dihua Street private photoshoot worth it in Taipei?", a: "Yes, for travelers wanting quality portrait photos against a genuinely distinctive historic backdrop." },
+        ],
+        jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+          { "@type": "Question", "name": "Is the Dihua Street photoshoot worth it in Taipei?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for quality portrait photos against a distinctive historic shophouse backdrop." } },
+        ] },
+      };
+
     default:
       return null;
   }
