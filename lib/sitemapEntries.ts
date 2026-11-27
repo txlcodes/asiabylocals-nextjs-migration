@@ -115,6 +115,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-gandhi-smriti-raj-ghat-tour-worth-it-delhi', 'is-jantar-mantar-tour-worth-it-delhi',
     'is-sanjay-colony-slum-tour-worth-it-delhi', 'is-hauz-khas-deer-park-tour-worth-it-delhi',
     'best-shopping-tour-delhi',
+    'is-garden-of-five-senses-tour-worth-it-delhi', 'is-purana-qila-tour-worth-it-delhi',
+    'is-khari-bawli-spice-market-tour-worth-it-delhi', 'is-gurudwara-bangla-sahib-tour-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

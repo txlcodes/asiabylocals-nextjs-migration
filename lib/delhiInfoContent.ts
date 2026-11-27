@@ -1463,6 +1463,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-garden-of-five-senses-tour-worth-it-delhi":
+      return {
+        title: "Is the Garden of Five Senses Tour Worth It in Delhi?",
+        description: "An honest look at the Garden of Five Senses guided tour in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-garden-of-five-senses-guided-tour-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This themed public garden, built around sculpture, landscaping, and sensory-focused design, is a genuinely relaxed green space distinct from Delhi's monument-heavy sightseeing, worth it specifically as a slower-paced break between busier historical sites.",
+            tourCard: { slug: "delhi-garden-of-five-senses-guided-tour-with", title: "Delhi: Garden of Five Senses Guided Tour with Pickup", description: "A guided tour of the Garden of Five Senses in Delhi.", price: "From $21", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-garden-of-five-senses-guided-tour-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for a slower afternoon between busier monument visits, rather than a must-see on its own.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Garden of Five Senses worth it in Delhi?", a: "Yes, as a relaxed green space between busier sightseeing stops, though it's not an essential must-see on its own." },
+        ],
+      };
+
+    case "is-purana-qila-tour-worth-it-delhi":
+      return {
+        title: "Is the Purana Qila (Old Fort) Walking Tour Worth It in Delhi?",
+        description: "An honest look at the 16th-century Purana Qila walking tour in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-16th-century-fort-purana-qila-walking-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Purana Qila is a genuinely older, quieter fort than the Red Fort, with far fewer crowds and a layered history tied to some of Delhi's earliest settlements, worth it specifically for travelers wanting a more contemplative historical site.",
+            tourCard: { slug: "delhi-16th-century-fort-purana-qila-walking-tour", title: "Delhi: 16th Century Fort - Purana Qila Walking Tour", description: "A walking tour of the 16th-century Purana Qila fort.", price: "From $23", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-16th-century-fort-purana-qila-walking-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go for the quieter, more contemplative experience here specifically if the Red Fort's crowds didn't suit you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Purana Qila tour worth it in Delhi?", a: "Yes, for a quieter, less-crowded historical fort with a genuinely layered history, a good alternative to the busier Red Fort." },
+        ],
+      };
+
+    case "is-khari-bawli-spice-market-tour-worth-it-delhi":
+      return {
+        title: "Is the Khari Bawli Spice Market Tour Worth It in Delhi?",
+        description: "An honest look at the Khari Bawli spice market tour in Old Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-khari-bawli-asias-largest-spice-market/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Khari Bawli is genuinely Asia's largest spice market, and walking through its narrow, aromatic lanes gives a sensory experience that's hard to replicate anywhere else in the city, distinct from the general Old Delhi street food and shopping walks.",
+            tourCard: { slug: "old-delhi-khari-bawli-asias-largest-spice-market", title: "Old Delhi: Khari Bawli - Asia's Largest Spice Market", description: "A guided tour of the Khari Bawli spice market in Old Delhi.", price: "From $23", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/old-delhi-khari-bawli-asias-largest-spice-market/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuinely narrow, crowded lanes — this is a real working market, not a curated tourist stall setup.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Khari Bawli spice market tour worth it in Delhi?", a: "Yes, for a genuinely sensory experience at Asia's largest spice market, distinct from the city's general street food walks." },
+        ],
+      };
+
+    case "is-gurudwara-bangla-sahib-tour-worth-it-delhi":
+      return {
+        title: "Is the Gurudwara Bangla Sahib Tour Worth It in Delhi?",
+        description: "An honest look at the Gurudwara Bangla Sahib tour in Delhi, a prominent Sikh house of worship.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-gurudwara-bangla-sahib-faith-culture-and-pea/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bangla Sahib is a genuinely significant Sikh gurudwara with a striking golden dome and a community kitchen (langar) serving free meals to thousands daily, giving real insight into Sikh faith and community practice distinct from Delhi's Hindu temples and mosques.",
+            tourCard: { slug: "delhi-gurudwara-bangla-sahib-faith-culture-and-pea", title: "Delhi: Gurudwara Bangla Sahib - Faith, Culture and Peace", description: "A guided tour of the Gurudwara Bangla Sahib in Delhi.", price: "From $27", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-gurudwara-bangla-sahib-faith-culture-and-pea/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Cover your head, remove your shoes, and consider volunteering briefly in the community kitchen — it's open to all visitors and a genuine way to engage with the site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Gurudwara Bangla Sahib tour worth it in Delhi?", a: "Yes, for genuine insight into Sikh faith and community practice, distinct from the city's Hindu temples and mosques." },
+        ],
+      };
+
     default:
       return null;
   }
