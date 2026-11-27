@@ -1563,6 +1563,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-wuzhen-xizha-night-tour-worth-it-shanghai":
+      return {
+        title: "Is the Wuzhen Xizha Night Tour Worth It from Shanghai?",
+        description: "An honest look at the Wuzhen Xizha night tour and Wucun Village visit from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4e98bc0c2d33c254840d64848ad3eb3993822591dfc8ee08fa8b0f571b1aa4a.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wuzhen's Xizha scenic area lit up at night gives a genuinely different, more atmospheric version of a water town than a daytime visit, worth it for travelers wanting the classic canal-town look without the daytime crowds.",
+            tourCard: { slug: "shanghai-wuzhen-xizha-night-tour-wucun-village", title: "Shanghai: Wuzhen Xizha Night Tour & Wucun Village Visit", description: "A night tour of Wuzhen's Xizha scenic area with a Wucun Village visit from Shanghai.", price: "From $1925", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e4e98bc0c2d33c254840d64848ad3eb3993822591dfc8ee08fa8b0f571b1aa4a.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light jacket for the evening, since water towns can feel noticeably cooler after dark.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Wuzhen Xizha night tour worth it from Shanghai?", a: "Yes, for a genuinely more atmospheric version of a classic water town, without the daytime crowds." },
+        ],
+      };
+
+    case "is-shengsi-floating-sea-farm-worth-it-shanghai":
+      return {
+        title: "Is the Shengsi 3-Day Floating Sea Farm Trip Worth It from Shanghai?",
+        description: "An honest look at the Shengsi 3-day private tour and floating sea farm trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9db315150b726928994971e852ab21e68e00753c238f8201b3169f679e5be35c.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shengsi's remote fishing islands and floating sea farm give a genuinely different, maritime side of the Shanghai region most tourists never reach, worth it for travelers with a few extra days who want real island and fishing culture.",
+            tourCard: { slug: "shanghai-shengsi-3-day-private-tour-floating-sea", title: "Shanghai: Shengsi 3-Day Private Tour & Floating Sea Farm", description: "A 3-day private tour to Shengsi's islands and a floating sea farm from Shanghai.", price: "From $2015", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9db315150b726928994971e852ab21e68e00753c238f8201b3169f679e5be35c.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack for boat travel between islands, and confirm ferry schedules are factored into the itinerary.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shengsi floating sea farm trip worth it from Shanghai?", a: "Yes, for travelers with extra days who want real island and fishing culture, genuinely off the standard tourist route." },
+        ],
+      };
+
+    case "is-danxia-cliffs-tea-gardens-worth-it-shanghai":
+      return {
+        title: "Is the Danxia Cliffs, Tea Gardens and Canyon Day Trip Worth It from Shanghai?",
+        description: "An honest look at the Danxia Cliffs, tea gardens and canyon day trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/991bacb04eb215e16557229cfa12cbe1ae89acd4b7ff9b7b83c76ccc910ffdd2.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The striking red Danxia rock formations paired with tea garden scenery give a genuinely dramatic landscape day that's different from Shanghai's water-town and canal trips, worth it for travelers wanting real natural scenery rather than more historic towns.",
+            tourCard: { slug: "shanghai-danxia-cliffs-tea-gardens-canyon-day-trip", title: "Shanghai: Danxia Cliffs, Tea Gardens & Canyon Day Trip", description: "A day trip to the Danxia Cliffs, tea gardens and canyon from Shanghai.", price: "From $1365", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/991bacb04eb215e16557229cfa12cbe1ae89acd4b7ff9b7b83c76ccc910ffdd2.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear sturdy shoes for the canyon walking sections, and bring a camera for the distinctive red cliff formations.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Danxia Cliffs and tea gardens day trip worth it from Shanghai?", a: "Yes, for travelers wanting genuinely dramatic natural scenery, distinct from Shanghai's usual water-town day trips." },
+        ],
+      };
+
+    case "is-cixi-stream-trail-ancient-village-worth-it-shanghai":
+      return {
+        title: "Is the Cixi Stream Trail and Ancient Village Day Trip Worth It from Shanghai?",
+        description: "An honest look at the Cixi Stream Trail and ancient village day trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f7a93a34a39801a2cde75046ce7298b15c002c39aedc39ebab1fb85d14941ad.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Walking the Cixi Stream Trail into a genuinely quiet ancient village gives a slower, nature-focused day distinct from Shanghai's bigger, more commercial water towns, worth it for travelers wanting a real countryside walk.",
+            tourCard: { slug: "shanghai-cixi-stream-trail-ancient-village-day", title: "Shanghai: Cixi Stream Trail & Ancient Village Day Trip", description: "A day trip along the Cixi Stream Trail to an ancient village from Shanghai.", price: "From $1304", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3f7a93a34a39801a2cde75046ce7298b15c002c39aedc39ebab1fb85d14941ad.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable walking shoes, since the stream trail involves a genuine walk rather than a drive-and-stop itinerary.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cixi Stream Trail and ancient village day trip worth it from Shanghai?", a: "Yes, for a slower, nature-focused countryside walk distinct from Shanghai's bigger, more commercial water towns." },
+        ],
+      };
+
     default:
       return null;
   }
