@@ -665,6 +665,62 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-axe-throwing-worth-it-singapore":
+            return {
+                title: "Is the Axe Factor Axe Throwing Experience Worth It in Singapore?",
+                description: "An honest look at the Axe Factor axe throwing experience in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-837027/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This is a genuinely different kind of activity for Singapore, an indoor axe throwing range with coaching included, worth it for travelers looking for something active and a bit different from the city's temples, gardens, and food tours rather than another sightseeing stop.", tourCard: { slug: "singapore-axe-factor-axe-throwing-experience", title: "Singapore: Axe Factor (Axe Throwing Experience)", description: "An indoor axe throwing experience with coaching in Singapore.", price: "From $56", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-837027/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Closed-toe shoes are typically required — check the dress code before you go." }
+                ],
+                faqs: [
+                    { q: "Is the Axe Factor axe throwing experience worth it in Singapore?", a: "Yes, for travelers wanting an active, different-feeling activity as a break from sightseeing." }
+                ],
+            };
+
+        case "is-fort-canning-walking-tour-worth-it-singapore":
+            return {
+                title: "Is the Fort Canning Guided Walking Tour Worth It in Singapore?",
+                description: "An honest look at the Fort Canning 2-hour guided walking tour in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1231145/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Fort Canning Hill carries layers of history, from an ancient royal settlement to a WWII command bunker, that most visitors walk past without realizing, making a guided tour genuinely worthwhile for the context alone rather than just the park's greenery.", tourCard: { slug: "singapore-fort-canning-2-hour-guided-walking-tour", title: "Singapore: Fort Canning 2-hour Guided Walking Tour", description: "A guided walking tour of Fort Canning's layered history.", price: "From $54", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1231145/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes with good grip — the hill has some genuine elevation and uneven historic pathways." }
+                ],
+                faqs: [
+                    { q: "Is the Fort Canning guided walking tour worth it in Singapore?", a: "Yes, the hill's layered history is easy to miss without a guide explaining the context as you walk." }
+                ],
+            };
+
+        case "is-floral-tea-workshop-worth-it-singapore":
+            return {
+                title: "Is the Floral Tea with Flora Charm Workshop Worth It in Singapore?",
+                description: "An honest look at the floral tea with flora charm workshop in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1381299/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This pairs a floral tea tasting with a hands-on flora charm making activity, a calm, craft-focused experience worth it for travelers looking for a relaxed indoor activity distinct from the city's more physical or sightseeing-heavy tours.", tourCard: { slug: "singapore-floral-tea-with-flora-charm-workshop", title: "Singapore: Floral Tea with Flora Charm Workshop", description: "A floral tea tasting paired with a flora charm making workshop.", price: "From $67", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1381299/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good choice to slot in on a hot midday when you want an air-conditioned break between outdoor sightseeing." }
+                ],
+                faqs: [
+                    { q: "Is the floral tea with flora charm workshop worth it in Singapore?", a: "Yes, for a calm, craft-focused break from sightseeing, especially during the midday heat." }
+                ],
+            };
+
+        case "is-nyonya-kebaya-rental-worth-it-singapore":
+            return {
+                title: "Is the Nyonya Kebaya & Traditional Costume Rental Worth It in Singapore?",
+                description: "An honest look at the Nyonya Kebaya and traditional costume rental experience in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Renting a Nyonya Kebaya lets you wear a genuine piece of Peranakan heritage dress for photos around Singapore's heritage districts, worth it specifically if you're already visiting Katong or the Peranakan shophouses and want photos that go beyond a standard tourist snapshot.", tourCard: { slug: "singapore-nyonya-kebaya-traditional-costume-rental", title: "Singapore: Nyonya Kebaya & Traditional Costume Rental", description: "A traditional Nyonya Kebaya costume rental experience.", price: "From $51", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book this for a visit to Katong or another Peranakan-shophouse district so the costume matches the backdrop." }
+                ],
+                faqs: [
+                    { q: "Is the Nyonya Kebaya and traditional costume rental worth it in Singapore?", a: "Yes, especially paired with a visit to Katong or another Peranakan heritage district for photos." }
+                ],
+            };
+
         default:
             return null;
     }
