@@ -4640,6 +4640,66 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-cbts-sunset-cruise-penang-bridge-worth-it-penang":
+            return {
+                title: "Is the Private Charter CBTS Sunset Cruise on the Penang Bridge Route Worth It?",
+                description: "An honest look at the private charter CBTS sunset cruise along the Penang Bridge route.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1482040/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A private sunset charter along the Penang Bridge route gives a genuinely dramatic view of the bridge and skyline lit up at dusk, worth it for travelers wanting a premium, private evening cruise rather than a shared boat tour.",
+                    tourCard: { slug: "private-charter-cbts-sunset-cruise-penang-bridge", title: "Private Charter CBTS Sunset Cruise ~ Penang Bridge Route", description: "A private charter sunset cruise along the Penang Bridge route.", price: "From $2247", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1482040/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book the sunset timing specifically, since the bridge and skyline views are the main draw and depend on good evening light." }
+                ],
+                faqs: [
+                    { q: "Is the Private Charter CBTS Sunset Cruise worth it in Penang?", a: "Yes, for travelers wanting a premium, private evening cruise with dramatic views of the Penang Bridge and skyline at dusk." }
+                ],
+            };
+
+        case "is-top-seven-wonders-penang-worth-it-penang":
+            return {
+                title: "Is the Top Seven Wonders of Penang Private Exploration Tour Worth It?",
+                description: "An honest look at the Top Seven Wonders of Penang private exploration tour.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-205659/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A curated 'seven wonders' format covering Penang's most distinctive sights in one private tour gives a genuinely efficient overview for travelers short on time, worth it for those wanting the highlights without planning the route themselves.",
+                    tourCard: { slug: "penang-top-seven-wonders-of-penang-private", title: "Penang: Top Seven Wonders Of Penang Private Exploration Tour", description: "A private tour covering the Top Seven Wonders of Penang.", price: "From $281", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-205659/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask for the exact list of the seven stops before booking, since the specific 'wonders' can vary slightly between operators using this format." }
+                ],
+                faqs: [
+                    { q: "Is the Top Seven Wonders of Penang tour worth it?", a: "Yes, for travelers short on time wanting an efficient, curated overview of Penang's most distinctive sights." }
+                ],
+            };
+
+        case "is-magical-nature-heritage-street-art-worth-it-penang":
+            return {
+                title: "Is the Penang Private Tour: Magical Nature, Heritage & Street Art Worth It?",
+                description: "An honest look at the Penang private tour combining nature, heritage, and street art.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1366997/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining natural scenery, heritage sites, and George Town's famous street art murals in one private tour gives genuinely varied sightseeing across three different themes in a single day.",
+                    tourCard: { slug: "penang-private-tour-magical-nature-heritage", title: "Penang Private Tour ~ Magical Nature, Heritage & Street Art", description: "A private tour combining nature, heritage sites, and street art in Penang.", price: "From $604", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1366997/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask which specific street art murals are included, since George Town has dozens scattered across the old town." }
+                ],
+                faqs: [
+                    { q: "Is the Magical Nature, Heritage and Street Art tour worth it in Penang?", a: "Yes, for travelers wanting genuinely varied sightseeing across nature, heritage, and street art in one private day." }
+                ],
+            };
+
+        case "is-desaru-mangrove-night-cruise-fireflies-worth-it-penang":
+            return {
+                title: "Is the Desaru Private Mangrove Night Cruise & Fireflies Experience Worth It?",
+                description: "An honest look at the Desaru private mangrove night cruise and fireflies experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6bdce07ecb03d61b692b9770061e4035160feacad04d5364384bcf805d2b595.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Desaru's mangroves light up with genuine firefly displays after dark, giving a quieter, less-touristed alternative to the better-known firefly spots elsewhere in Malaysia, worth it for travelers wanting a peaceful evening nature cruise.",
+                    tourCard: { slug: "desaru-private-mangrove-night-cruise-fireflies", title: "Desaru Private Mangrove Night Cruise & Fireflies Experience", description: "A private night mangrove cruise with a fireflies viewing experience in Desaru.", price: "From $292", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6bdce07ecb03d61b692b9770061e4035160feacad04d5364384bcf805d2b595.jpg" } },
+                    { title: "Practical Tips", content: "Check the moon phase before booking, since fireflies are typically more visible on darker, moonless nights." }
+                ],
+                faqs: [
+                    { q: "Is the Desaru mangrove night cruise and fireflies experience worth it?", a: "Yes, for travelers wanting a quieter, less-touristed firefly viewing experience than Malaysia's more famous spots." }
+                ],
+            };
+
         case "is-night-mangrove-safari-worth-it-langkawi":
             return {
                 title: "Is the Night Mangrove Safari with BBQ Worth It in Langkawi?",

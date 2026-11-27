@@ -328,6 +328,8 @@ export const PENANG_INFO_SLUGS = [
   'is-iconic-temples-penang-hill-tour-worth-it-penang', 'is-guided-cultural-village-tour-worth-it-penang',
   'is-ipoh-food-boat-ride-worth-it-penang', 'is-taiping-day-tour-worth-it-penang',
   'is-george-town-upside-down-museum-worth-it-penang', 'is-forest-island-jet-car-worth-it-penang',
+  'is-cbts-sunset-cruise-penang-bridge-worth-it-penang', 'is-top-seven-wonders-penang-worth-it-penang',
+  'is-magical-nature-heritage-street-art-worth-it-penang', 'is-desaru-mangrove-night-cruise-fireflies-worth-it-penang',
 ];
 
 export const LANGKAWI_INFO_SLUGS = [
