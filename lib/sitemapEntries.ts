@@ -2636,6 +2636,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-scented-candle-making-workshop-worth-it-ho-chi-minh-city', 'is-icon-saigon-sunset-cruise-worth-it-ho-chi-minh-city',
     'is-chinatown-temples-market-walking-tour-worth-it-ho-chi-minh-city', 'is-archery-hidden-cafe-experience-worth-it-ho-chi-minh-city',
     'is-mosaic-art-workshop-worth-it-ho-chi-minh-city', 'is-thao-dien-walking-tour-worth-it-ho-chi-minh-city',
+    'is-tan-lap-floating-village-worth-it-ho-chi-minh-city', 'is-sa-dec-flower-village-worth-it-ho-chi-minh-city',
+    'is-bao-loc-waterfalls-tea-hills-worth-it-ho-chi-minh-city', 'is-dak-nong-tour-worth-it-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),

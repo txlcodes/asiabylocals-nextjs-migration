@@ -1284,6 +1284,90 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tan-lap-floating-village-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Tan Lap Floating Village Eco Day Tour Worth It?",
+        description: "An honest look at the Tan Lap Floating Village eco day tour from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tan-lap-floating-village-eco-day-tour-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tan Lap's flooded cajuput forest and boardwalk give a genuinely different eco-landscape than the standard My Tho/Ben Tre delta circuit, worth it for travelers wanting a quieter, more nature-focused Mekong day away from the usual boat crowds.",
+            tourCard: { slug: "tan-lap-floating-village-eco-day-tour-in-ho-chi-minh-city", title: "Tan Lap Floating Village Eco Day Tour in Ho Chi Minh City", description: "An eco day tour to Tan Lap Floating Village's flooded forest and boardwalk.", price: "From $343", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/tan-lap-floating-village-eco-day-tour-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring insect repellent, since the flooded forest area has more mosquitoes than the open delta river sections.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tan Lap Floating Village tour worth it from Ho Chi Minh City?", a: "Yes, for a quieter, more nature-focused eco-landscape than the standard delta river circuit." },
+        ],
+      };
+
+    case "is-sa-dec-flower-village-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Sa Dec Flower Village and Xeo Quyt Forest Day Tour Worth It?",
+        description: "An honest look at the 1-day Mekong Sa Dec Flower Village and Xeo Quyt Forest tour from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hcm-1-day-mekong-sa-dec-flower-village-and-xeo-quyt-forest-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Sa Dec's flower-growing village with Xeo Quyt's wartime guerrilla forest gives a genuinely varied day combining color and history, distinct from the standard coconut-candy delta circuit, worth it for travelers wanting something beyond the usual My Tho/Ben Tre route.",
+            tourCard: { slug: "hcm-1-day-mekong-sa-dec-flower-village-and-xeo-quyt-forest-ho-chi-minh-city", title: "HCM: 1 Day Mekong Sa Dec Flower Village and Xeo Quyt Forest", description: "A day tour combining Sa Dec Flower Village and Xeo Quyt Forest in the Mekong Delta.", price: "From $390", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/hcm-1-day-mekong-sa-dec-flower-village-and-xeo-quyt-forest-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the flower season before booking, since Sa Dec's village is more vivid at certain times of year than others.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sa Dec Flower Village and Xeo Quyt Forest tour worth it from Ho Chi Minh City?", a: "Yes, for a genuinely varied day combining color and wartime history, beyond the standard delta circuit." },
+        ],
+      };
+
+    case "is-bao-loc-waterfalls-tea-hills-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Bao Loc Waterfalls and Tea Hills Day Trip Worth It?",
+        description: "An honest look at the Bao Loc Waterfalls and tea hills private day trip from Mui Ne.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bao-loc-waterfalls-and-tea-hills-private-day-trip-from-mui-ne-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bao Loc's waterfalls and rolling tea plantations give a genuinely different highland landscape than Mui Ne's dunes or Saigon's delta day trips, worth it for travelers already in the Mui Ne area who want a scenic detour into the highlands.",
+            tourCard: { slug: "bao-loc-waterfalls-and-tea-hills-private-day-trip-from-mui-ne-in-ho-chi-minh-city", title: "Bao Loc Waterfalls and Tea Hills Private Day Trip from Mui Ne", description: "A private day trip to Bao Loc's waterfalls and tea plantations from Mui Ne.", price: "From $328", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/bao-loc-waterfalls-and-tea-hills-private-day-trip-from-mui-ne-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a light jacket, since Bao Loc sits at higher elevation and runs noticeably cooler than the coast.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bao Loc waterfalls and tea hills day trip worth it?", a: "Yes, for travelers already in the Mui Ne area wanting a scenic highland detour distinct from the coast or delta." },
+        ],
+      };
+
+    case "is-dak-nong-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Dak Nong 3-Day Tour Worth It from Ho Chi Minh City?",
+        description: "An honest look at the Dak Nong 3-day tour with meals and guide from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/dak-nong-3-day-tour-with-meals-and-guide-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dak Nong's volcanic caves, waterfalls and Central Highlands scenery are a genuinely different side of Vietnam than the delta, tunnels or coast, worth it for travelers with a few extra days who want real highland terrain and UNESCO geopark sites few tourists visit.",
+            tourCard: { slug: "dak-nong-3-day-tour-with-meals-and-guide-in-ho-chi-minh-city", title: "Dak Nong 3-Day Tour with Meals and Guide", description: "A 3-day tour of Dak Nong's volcanic caves, waterfalls and highlands with meals and a guide.", price: "From $2077", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/dak-nong-3-day-tour-with-meals-and-guide-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book with real lead time, since this is a multi-day trip covering a remote region with fixed logistics.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dak Nong 3-day tour worth it from Ho Chi Minh City?", a: "Yes, for travelers with extra days who want genuine Central Highlands terrain and geopark sites few tourists visit." },
+        ],
+      };
+
     default:
       return null;
   }
