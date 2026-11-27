@@ -1163,6 +1163,90 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-belihuloya-trails-stage-3-4-worth-it-ella":
+      return {
+        title: "Is the Belihuloya Trails Stage 3 and 4 Hiking Adventure Worth It?",
+        description: "An honest look at the Belihuloya Trails Stage 3 and 4, a 4-day hiking adventure from Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1171675/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering stages 3 and 4 of the Belihuloya trail network over four days gives genuinely serious multi-day hiking through remote hill country, far beyond Ella's standard half-day peaks, worth it for fit trekkers wanting a real wilderness commitment.",
+            tourCard: { slug: "belihuloya-trails-stage-3-4-4-day-hiking-adventure", title: "Belihuloya Trails Stage 3 & 4 : 4-Day Hiking Adventure", description: "A 4-day hiking adventure covering stages 3 and 4 of the Belihuloya trails.", price: "From $1268", duration: "4 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1171675/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack proper multi-day trekking gear, since this covers remote terrain with limited facilities between stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Belihuloya Trails Stage 3 and 4 hike worth it from Ella?", a: "Yes, for fit trekkers wanting genuinely serious multi-day hiking through remote hill country, far beyond Ella's standard half-day peaks." },
+        ],
+      };
+
+    case "is-marriage-proposal-photoshoot-worth-it-ella":
+      return {
+        title: "Is the Marriage Proposal Photoshoot Worth It in Ella?",
+        description: "An honest look at the marriage proposal photoshoot experience in Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1021003/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Having a professional photographer capture a proposal against Ella's dramatic hill-country scenery gives a genuinely memorable, well-documented moment that planning it yourself would struggle to match, worth it for couples wanting the setting and the photos handled properly.",
+            tourCard: { slug: "book-your-dream-marriage-proposal-photoshoot-ella", title: "Book Your Dream Marriage Proposal Photoshoot- Ella SriLanka", description: "A professional marriage proposal photoshoot experience in Ella.", price: "From $423", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1021003/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Coordinate the exact proposal moment and location with the photographer in advance so the surprise and the shot both land.",
+          },
+        ],
+        faqs: [
+          { q: "Is the marriage proposal photoshoot worth it in Ella?", a: "Yes, for couples wanting a professionally documented, memorable proposal against Ella's hill-country scenery." },
+        ],
+      };
+
+    case "is-discover-ella-7-landmarks-worth-it-ella":
+      return {
+        title: "Is the Discover Ella 7 Iconic Landmarks Tour Worth It?",
+        description: "An honest look at the all-inclusive Discover Ella day tour to 7 iconic landmarks.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-754771/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering seven of Ella's landmark sights in one all-inclusive day gives efficient coverage for travelers with limited time, worth it specifically for those who want the highlight reel rather than picking individual sites separately.",
+            tourCard: { slug: "discover-ella-all-inclusive-day-tour-to-7-iconic", title: "Discover Ella: All-Inclusive Day Tour to 7 Iconic Landmarks", description: "An all-inclusive day tour covering 7 iconic landmarks in Ella.", price: "From $338", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-754771/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a genuinely packed day — confirm the pace suits you if you prefer lingering at fewer sites rather than covering many quickly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Discover Ella 7 landmarks tour worth it?", a: "Yes, for travelers with limited time wanting efficient coverage of Ella's highlights in one booking rather than picking sites separately." },
+        ],
+      };
+
+    case "is-ella-weligama-transfer-safari-surf-worth-it":
+      return {
+        title: "Is the Ella to Weligama Transfer with Safari and Surf Lesson Worth It?",
+        description: "An honest look at the Ella to Weligama private transfer with safari and surf lesson.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1447194/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Turning the transfer from Ella to the coast into a day combining a wildlife safari and a surf lesson makes genuinely good use of what would otherwise be a wasted travel day, worth it for travelers heading to Weligama anyway.",
+            tourCard: { slug: "ella-to-weligama-private-transfer-with-safari", title: "Ella to Weligama: Private Transfer with Safari & Surf Lesson", description: "A private transfer from Ella to Weligama including a safari and surf lesson.", price: "From $338", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1447194/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a swimsuit and sunscreen for the surf lesson, since you'll go straight from the safari to the beach.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ella to Weligama transfer with safari and surf lesson worth it?", a: "Yes, for travelers heading to Weligama anyway, since it turns a transfer day into genuine wildlife and surf activity." },
+        ],
+      };
+
     default:
       return null;
   }

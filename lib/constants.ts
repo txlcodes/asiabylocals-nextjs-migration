@@ -1951,6 +1951,8 @@ export const ELLA_INFO_SLUGS = [
   'is-diyaluma-falls-tour-worth-it-ella', 'is-sinharaja-rainforest-trek-worth-it-ella',
   'is-tea-making-workshop-worth-it-ella', 'is-demodara-cycling-tour-worth-it-ella',
   'is-sunrise-yoga-worth-it-ella', 'is-ella-rock-sunrise-hike-worth-it-ella',
+  'is-belihuloya-trails-stage-3-4-worth-it-ella', 'is-marriage-proposal-photoshoot-worth-it-ella',
+  'is-discover-ella-7-landmarks-worth-it-ella', 'is-ella-weligama-transfer-safari-surf-worth-it',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.

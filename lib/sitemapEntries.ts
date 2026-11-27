@@ -1988,7 +1988,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-cooking-class-worth-it-ella',
     'is-diyaluma-falls-tour-worth-it-ella', 'is-sinharaja-rainforest-trek-worth-it-ella',
     'is-tea-making-workshop-worth-it-ella', 'is-demodara-cycling-tour-worth-it-ella',
-    'is-sunrise-yoga-worth-it-ella', 'is-ella-rock-sunrise-hike-worth-it-ella'].map(slug => ({
+    'is-sunrise-yoga-worth-it-ella', 'is-ella-rock-sunrise-hike-worth-it-ella',
+    'is-belihuloya-trails-stage-3-4-worth-it-ella', 'is-marriage-proposal-photoshoot-worth-it-ella',
+    'is-discover-ella-7-landmarks-worth-it-ella', 'is-ella-weligama-transfer-safari-surf-worth-it'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
