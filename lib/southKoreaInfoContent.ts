@@ -2102,6 +2102,69 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-geoje-jungle-dome-pow-camp-worth-it-busan":
+      return {
+        title: "Is the Geoje Jungle Dome, Cable and POW Camp Day Trip Worth It from Busan?",
+        description: "An honest look at the Geoje Jungle Dome, cable car, and POW camp day trip from Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff632b13673e06869458f8fa2eff4f3cc8a20ca7b30d2678dce1c6b8e6182b27.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Geoje's Jungle Dome botanical attraction, a scenic cable car ride, and the historic Korean War POW camp gives a genuinely varied day mixing nature, views, and history, distinct from Geoje's more common botanical-garden-focused day trips.",
+            tourCard: { slug: "from-busan-geoje-jungle-dome-cable-and-pow-camp", title: "From Busan: Geoje Jungle Dome, Cable and POW Camp Day Trip", description: "A day trip to Geoje's Jungle Dome, cable car, and POW camp from Busan.", price: "From $601", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff632b13673e06869458f8fa2eff4f3cc8a20ca7b30d2678dce1c6b8e6182b27.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Allow extra time at the POW camp if Korean War history interests you, since it offers more depth than a quick walkthrough suggests.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Geoje Jungle Dome, cable car and POW camp day trip worth it from Busan?", a: "Yes, for travelers wanting a genuinely varied day mixing nature, views, and Korean War history, distinct from the standard botanical-garden day trips." },
+        ],
+      };
+
+    case "is-pohang-day-trip-worth-it-busan":
+      return {
+        title: "Is the Private Pohang Day Trip Worth It from Busan?",
+        description: "An honest look at the private Pohang day trip with hotel pickup from Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fa4e2419c3be015c824545fb652588bddf0ec1de2f1b8250091a494857e17fdb.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pohang's steel-industry port city and coastal landmarks sit well off Busan's usual day-trip circuit, giving travelers a genuinely different industrial-coastal city to explore for those who've already covered Gyeongju and the main Busan sights.",
+            tourCard: { slug: "from-busan-private-pohang-day-trip-with-hotel", title: "From Busan: Private Pohang Day Trip with Hotel Pickup", description: "A private day trip to Pohang with hotel pickup from Busan.", price: "From $597", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fa4e2419c3be015c824545fb652588bddf0ec1de2f1b8250091a494857e17fdb.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers who've already done Busan's main sights and Gyeongju, wanting somewhere genuinely different for a final day trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private Pohang day trip worth it from Busan?", a: "Yes, for travelers who've already covered Gyeongju and Busan's main sights, wanting a genuinely different industrial-coastal city to explore." },
+        ],
+      };
+
+    case "is-maritime-industrial-tour-worth-it-busan":
+      return {
+        title: "Is the Busan Maritime and Industrial Tour Worth It?",
+        description: "An honest look at the Busan Maritime and Industrial Tour with a licensed guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/24e2e561b4b02e814002ddb27d923caf3f0c3ac24eb1eeb2d876b9f408f8f7db.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Busan's working port and shipbuilding industry get a dedicated tour here rather than a quick harbor photo stop, worth it for travelers with genuine interest in maritime trade and industrial history, led by a licensed guide who knows the sector.",
+            tourCard: { slug: "busan-maritime-and-industrial-tourlicensed-guide", title: "Busan: Maritime and Industrial Tour(Licensed Guide, up to 8)", description: "A maritime and industrial tour of Busan's port with a licensed guide.", price: "From $650", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/24e2e561b4b02e814002ddb27d923caf3f0c3ac24eb1eeb2d876b9f408f8f7db.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers with genuine professional or academic interest in shipping and industry, more than casual sightseers.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Busan Maritime and Industrial Tour worth it?", a: "Yes, for travelers with genuine interest in maritime trade and industrial history, led by a guide who knows the sector in depth." },
+        ],
+      };
+
     case "is-nanta-show-worth-it-seoul":
       return {
         title: "Is the NANTA Show Worth It in Seoul?",
