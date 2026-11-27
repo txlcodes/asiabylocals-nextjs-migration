@@ -2615,6 +2615,8 @@ export const HANOI_INFO_SLUGS = [
   'is-embroidery-workshop-worth-it-hanoi', 'is-knife-making-workshop-worth-it-hanoi',
   'is-indoor-shooting-experience-worth-it-hanoi', 'is-floating-cakes-lotus-tea-worth-it-hanoi',
   'is-incense-village-ao-dai-photoshoot-worth-it-hanoi', 'is-quintessence-of-tonkin-show-worth-it-hanoi',
+  'is-ban-gioc-waterfall-tour-worth-it-hanoi', 'is-cao-bang-loop-worth-it-hanoi',
+  'is-yen-tu-sacred-mountain-worth-it-hanoi', 'is-hoang-su-phi-harvest-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [

@@ -1228,6 +1228,90 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ban-gioc-waterfall-tour-worth-it-hanoi":
+      return {
+        title: "Is the Ban Gioc Waterfall Tour Worth It from Hanoi?",
+        description: "An honest look at the 2-day Ban Gioc Waterfall tour from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-ban-gioc-waterfall-tour-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ban Gioc is one of Vietnam's largest waterfalls and sits far enough from Hanoi that almost nobody does it as a day trip, so the 2-day tour format genuinely matches the destination, worth it for travelers wanting dramatic scenery well off the Ha Giang/Ninh Binh circuit.",
+            tourCard: { slug: "2-day-ban-gioc-waterfall-tour-in-hanoi", title: "2-Day Ban Gioc Waterfall Tour in Hanoi", description: "A 2-day tour to Ban Gioc Waterfall from Hanoi.", price: "From $337", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-ban-gioc-waterfall-tour-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack for changeable mountain weather, since Cao Bang province sits considerably higher and cooler than Hanoi.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ban Gioc Waterfall tour worth it from Hanoi?", a: "Yes, for travelers wanting one of Vietnam's largest waterfalls and genuinely dramatic scenery off the main Ha Giang/Ninh Binh circuit." },
+        ],
+      };
+
+    case "is-cao-bang-loop-worth-it-hanoi":
+      return {
+        title: "Is the Cao Bang Loop Worth It from Hanoi?",
+        description: "An honest look at the 4-day, 3-night Cao Bang Loop tour with a local guide from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cao-bang-loop-tour-4-days-3-nights-with-a-local-guide-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cao Bang gets a fraction of the Ha Giang Loop's traffic despite similarly dramatic karst and border scenery, so this multi-day loop genuinely delivers a quieter version of the same experience, worth it for travelers who want Ha Giang-style riding without Ha Giang's crowds.",
+            tourCard: { slug: "cao-bang-loop-tour-4-days-3-nights-with-a-local-guide-in-hanoi", title: "Cao Bang Loop Tour: 4 Days, 3 Nights with a Local Guide in Hanoi", description: "A 4-day, 3-night Cao Bang loop tour with a local guide from Hanoi.", price: "From $748", duration: "4 days", image: "https://images.asiabylocals.com/asiabylocals/tours/cao-bang-loop-tour-4-days-3-nights-with-a-local-guide-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book with real lead time, since this is a multi-day guided loop with fixed group logistics rather than a flexible day trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cao Bang Loop worth it from Hanoi?", a: "Yes, for travelers wanting Ha Giang-style karst and border scenery with noticeably fewer crowds." },
+        ],
+      };
+
+    case "is-yen-tu-sacred-mountain-worth-it-hanoi":
+      return {
+        title: "Is the Yen Tu Sacred Mountain Day Trip Worth It from Hanoi?",
+        description: "An honest look at the Yen Tu Sacred Mountain day trip with cable car from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/yen-tu-sacred-mountain-day-trip-with-cable-car-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yen Tu is one of Vietnamese Buddhism's most important pilgrimage mountains, and the cable car makes the summit pagodas genuinely reachable in a single day trip, worth it for travelers wanting a spiritual and scenic site distinct from Hanoi's city temples.",
+            tourCard: { slug: "yen-tu-sacred-mountain-day-trip-with-cable-car-in-hanoi", title: "Yen Tu Sacred Mountain Day Trip with Cable Car in Hanoi", description: "A day trip to Yen Tu Sacred Mountain with cable car access from Hanoi.", price: "From $338", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/yen-tu-sacred-mountain-day-trip-with-cable-car-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly, since the summit holds active pagodas and monasteries rather than just a scenic viewpoint.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yen Tu Sacred Mountain day trip worth it from Hanoi?", a: "Yes, for a genuinely important Buddhist pilgrimage site made reachable in a day by the cable car, distinct from Hanoi's city temples." },
+        ],
+      };
+
+    case "is-hoang-su-phi-harvest-worth-it-hanoi":
+      return {
+        title: "Is the Hoang Su Phi Harvest Season Mountain Escape Worth It from Hanoi?",
+        description: "An honest look at the Hoang Su Phi in harvest season 3-day mountain escape from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoang-su-phi-in-harvest-season-3-day-mountain-escape-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hoang Su Phi's terraced rice fields are at their most striking during the harvest window, and this 3-day trip is timed specifically around that, worth it for travelers visiting in season who want a quieter alternative to the better-known Sapa terraces.",
+            tourCard: { slug: "hoang-su-phi-in-harvest-season-3-day-mountain-escape-in-hanoi", title: "Hoang Su Phi in Harvest Season: 3-Day Mountain Escape in Hanoi", description: "A 3-day mountain escape to Hoang Su Phi timed for harvest season.", price: "From $332", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/hoang-su-phi-in-harvest-season-3-day-mountain-escape-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the harvest timing with the operator before booking, since the terraces' peak color window shifts slightly year to year.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hoang Su Phi harvest season trip worth it from Hanoi?", a: "Yes, for travelers visiting in the harvest window who want Sapa-style terraced scenery with far fewer crowds." },
+        ],
+      };
+
     default:
       return null;
   }
