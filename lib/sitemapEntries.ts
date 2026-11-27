@@ -2220,7 +2220,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-udawatta-kele-nature-walk-worth-it-kandy', 'is-nelligala-temple-tour-worth-it-kandy',
     'is-pinnawala-elephants-tour-worth-it-kandy', 'is-village-walk-cooking-experience-worth-it-kandy',
     'is-wood-carving-workshop-worth-it-kandy', 'is-hanthana-pekoe-trail-hike-worth-it-kandy',
-    'is-village-hiking-waterfalls-worth-it-kandy', 'is-roti-cooking-class-worth-it-kandy'].map(slug => ({
+    'is-village-hiking-waterfalls-worth-it-kandy', 'is-roti-cooking-class-worth-it-kandy',
+    'is-night-wildlife-tea-plantation-worth-it-kandy', 'is-train-photography-experience-worth-it-kandy',
+    'is-wilpattu-safari-worth-it-kandy'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/kandy/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

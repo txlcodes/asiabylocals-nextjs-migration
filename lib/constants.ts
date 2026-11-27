@@ -2077,6 +2077,8 @@ export const KANDY_INFO_SLUGS = [
   'is-pinnawala-elephants-tour-worth-it-kandy', 'is-village-walk-cooking-experience-worth-it-kandy',
   'is-wood-carving-workshop-worth-it-kandy', 'is-hanthana-pekoe-trail-hike-worth-it-kandy',
   'is-village-hiking-waterfalls-worth-it-kandy', 'is-roti-cooking-class-worth-it-kandy',
+  'is-night-wildlife-tea-plantation-worth-it-kandy', 'is-train-photography-experience-worth-it-kandy',
+  'is-wilpattu-safari-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.

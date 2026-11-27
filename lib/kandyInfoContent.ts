@@ -1430,6 +1430,69 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-night-wildlife-tea-plantation-worth-it-kandy":
+      return {
+        title: "Is the Night Wildlife Adventure with Tea Plantation Visit Worth It?",
+        description: "An honest look at the Kandy night wildlife adventure with tea plantation visit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1479320/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spotting nocturnal wildlife on a guided night walk, paired with a daytime tea plantation visit, gives a genuinely different angle on the hill country's ecosystem than the standard daytime safari or temple circuit, worth it for travelers curious about what comes out after dark.",
+            tourCard: { slug: "kandy-night-wildlife-adventure-with-tea", title: "Kandy: Night Wildlife Adventure with Tea Plantation Visit", description: "A night wildlife adventure combined with a tea plantation visit in Kandy.", price: "From $1014", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1479320/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear dark, insect-repellent-treated clothing for the night walk, and bring a light jacket for the cooler plantation air.",
+          },
+        ],
+        faqs: [
+          { q: "Is the night wildlife adventure with tea plantation visit worth it in Kandy?", a: "Yes, for travelers curious about nocturnal wildlife, giving a genuinely different angle than the standard daytime safari or temple circuit." },
+        ],
+      };
+
+    case "is-train-photography-experience-worth-it-kandy":
+      return {
+        title: "Is the Iconic Train Photography Experience Worth It from Kandy?",
+        description: "An honest look at the Kandy iconic train photography experience to/from Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1256815/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Getting positioned at the right spots along the Kandy-Ella railway for the classic shots of the train winding through tea country gives a genuinely more deliberate, photo-focused experience than just riding the train yourself, worth it for travelers chasing specific iconic shots.",
+            tourCard: { slug: "kandy-iconic-train-photography-experience-tofrom", title: "Kandy: Iconic Train Photography Experience To/From Ella", description: "A train photography experience along the Kandy-Ella railway route.", price: "From $1013", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1256815/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a zoom lens if you have one, since the best train shots are often taken from a distance across the tea estates.",
+          },
+        ],
+        faqs: [
+          { q: "Is the train photography experience worth it from Kandy?", a: "Yes, for travelers specifically chasing the classic iconic shots of the train in tea country, beyond just riding it themselves." },
+        ],
+      };
+
+    case "is-wilpattu-safari-worth-it-kandy":
+      return {
+        title: "Is the Wilpattu Safari Worth It from Kandy?",
+        description: "An honest look at the all-inclusive half/full day Wilpattu Safari from Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1179564/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wilpattu, Sri Lanka's largest national park, gets a fraction of Yala's crowds while offering genuine leopard sighting potential around its natural lakes, worth it for travelers wanting a quieter safari alternative to the more commercialized parks closer to the south coast.",
+            tourCard: { slug: "from-kandy-all-inclusive-halffull-day-wilpattu", title: "From Kandy: All Inclusive Half/Full Day Wilpattu Safari", description: "An all-inclusive half or full day Wilpattu Safari from Kandy.", price: "From $528", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1179564/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Choose the full-day option if sightings matter to you, since more time in the park genuinely improves your odds.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Wilpattu Safari worth it from Kandy?", a: "Yes, for travelers wanting a quieter, less crowded safari alternative to Yala with genuine leopard sighting potential." },
+        ],
+      };
+
     default:
       return null;
   }
