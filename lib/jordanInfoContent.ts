@@ -1654,6 +1654,62 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-private-boat-tour-snorkeling-worth-it-aqaba":
+            return {
+                title: "Is the Aqaba Private Boat Tour with Snorkeling and Lunch Worth It?",
+                description: "An honest look at the Aqaba private boat tour with snorkeling and lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png",
+                sections: [
+                    { title: "The Short Answer", content: "A private boat gives genuine flexibility over which Red Sea reef spots to snorkel and how long to linger at each, worth it specifically for travelers who want to avoid a shared group boat schedule and set their own pace on the water.", tourCard: { slug: "aqaba-private-boat-tour-with-snorkeling-and-lunch", title: "Aqaba: Private Boat Tour with Snorkeling and Lunch", description: "A private boat tour with snorkeling stops and lunch in Aqaba.", price: "From $437", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png" } },
+                    { title: "Practical Tips", content: "Discuss your preferred reef spots with the captain beforehand, since the private format means the route can flex around what you want to see." },
+                ],
+                faqs: [
+                    { q: "Is the private boat tour with snorkeling worth it in Aqaba?", a: "Yes, for travelers wanting flexibility over reef spots and pacing, rather than following a shared group boat's fixed schedule." },
+                ],
+            };
+
+        case "is-desert-secret-private-jeep-tour-worth-it-aqaba":
+            return {
+                title: "Is the Desert Secret Four Hour Private Jeep Tour with Bedouin Worth It?",
+                description: "An honest look at the Desert Secret four-hour private jeep tour with Bedouin in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png",
+                sections: [
+                    { title: "The Short Answer", content: "This private jeep tour frames itself around lesser-known 'secret' desert spots rather than the standard highlights circuit, worth it for travelers who've already done a basic Wadi Rum jeep tour and want a different route with the same genuine Bedouin guide experience.", tourCard: { slug: "desert-secret-four-hour-private-jeep-tour-with", title: "Desert Secret: Four Hour Private Jeep Tour with Bedouin", description: "A private four-hour jeep tour covering lesser-known desert spots with a Bedouin guide.", price: "From $96", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png" } },
+                    { title: "Practical Tips", content: "Ask your guide to point out which spots are genuinely off the standard circuit, since 'secret' framing varies by operator." },
+                ],
+                faqs: [
+                    { q: "Is the Desert Secret private jeep tour worth it?", a: "Yes, specifically for travelers who've already done a standard Wadi Rum jeep tour and want a different route to lesser-known desert spots." },
+                ],
+            };
+
+        case "is-kharaza-jeep-tour-worth-it-aqaba":
+            return {
+                title: "Is the Kharaza Jeep Tour with Sunset & Tea Worth It?",
+                description: "An honest look at the Kharaza jeep tour with sunset and Bedouin tea in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png",
+                sections: [
+                    { title: "The Short Answer", content: "This jeep tour times itself specifically around sunset at the Kharaza viewpoint with Bedouin tea afterward, worth it for travelers who prioritize the golden-hour desert light and a relaxed tea stop over covering more ground during the day.", tourCard: { slug: "kharaza-jeep-tour-with-sunset-tea-4-hours-wadi", title: "Kharaza Jeep Tour with Sunset & Tea, 4 Hours Wadi Rum", description: "A four-hour jeep tour timed around sunset at Kharaza with Bedouin tea.", price: "From $129", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png" } },
+                    { title: "Practical Tips", content: "Check the day's sunset time and confirm pickup timing accordingly, since the whole tour is built around catching that golden-hour light." },
+                ],
+                faqs: [
+                    { q: "Is the Kharaza jeep tour with sunset and tea worth it?", a: "Yes, specifically for travelers prioritizing golden-hour desert light and a relaxed tea stop over covering more ground." },
+                ],
+            };
+
+        case "is-desert-secret-two-days-bedouin-worth-it-aqaba":
+            return {
+                title: "Is Desert Secret: Two Days and Nights in the Bedouin World Worth It?",
+                description: "An honest look at the Desert Secret two-day, two-night Bedouin world package in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png",
+                sections: [
+                    { title: "The Short Answer", content: "Spending two full days and nights immersed in Bedouin desert life gives genuinely deeper cultural contact than a single-day jeep tour or overnight camp stay, worth it specifically for travelers with the extra time who want real immersion rather than a quick desert sampler.", tourCard: { slug: "desert-secret-two-days-and-nights-in-the-bedouin", title: "Desert Secret: Two Days and Nights in the Bedouin World", description: "A two-day, two-night immersive Bedouin desert experience in Wadi Rum.", price: "From $239", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a49b5d9826c05d1bf2f844c58c6be388e46a6fac2d9212f6012e747d474073ce.png" } },
+                    { title: "Practical Tips", content: "Pack for genuine desert camping conditions — layers for cold nights, and realistic expectations about basic facilities." },
+                ],
+                faqs: [
+                    { q: "Is the two-day Bedouin world package worth it in Wadi Rum?", a: "Yes, specifically for travelers with extra time wanting genuine cultural immersion rather than a quick single-day desert sampler." },
+                ],
+            };
+
         default:
             return null;
     }

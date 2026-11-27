@@ -745,6 +745,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-wadi-sabat-trek-worth-it-aqaba', 'is-jebel-rum-summit-climb-worth-it-aqaba',
     'is-bedouin-etiquette-jeep-tour-worth-it-aqaba', 'is-camel-ride-dinner-party-worth-it-aqaba',
     'is-romantic-sunset-dinner-couples-worth-it-aqaba', 'is-umm-ad-dami-camping-package-worth-it-aqaba',
+    'is-private-boat-tour-snorkeling-worth-it-aqaba', 'is-desert-secret-private-jeep-tour-worth-it-aqaba',
+    'is-kharaza-jeep-tour-worth-it-aqaba', 'is-desert-secret-two-days-bedouin-worth-it-aqaba',
   ], 'jordan', 'aqaba');
   const bakuInfoPages = mapInfoSlugs([
     'best-gobustan-tour-baku', 'best-old-city-walking-tour-baku',
