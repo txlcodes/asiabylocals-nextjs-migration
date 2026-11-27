@@ -1955,6 +1955,8 @@ export const KANDY_INFO_SLUGS = [
   'is-night-temple-tour-worth-it-kandy', 'is-sacred-forest-hike-worth-it-kandy',
   'is-udawatta-kele-nature-walk-worth-it-kandy', 'is-nelligala-temple-tour-worth-it-kandy',
   'is-pinnawala-elephants-tour-worth-it-kandy', 'is-village-walk-cooking-experience-worth-it-kandy',
+  'is-wood-carving-workshop-worth-it-kandy', 'is-hanthana-pekoe-trail-hike-worth-it-kandy',
+  'is-village-hiking-waterfalls-worth-it-kandy', 'is-roti-cooking-class-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.

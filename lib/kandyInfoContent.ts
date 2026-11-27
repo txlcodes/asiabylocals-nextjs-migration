@@ -1346,6 +1346,90 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-wood-carving-workshop-worth-it-kandy":
+      return {
+        title: "Is the Kandy Wood Carving and Hand-Painting Workshop Worth It?",
+        description: "An honest look at the Kandy wood carving and hand-painting workshop with a local artisan.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kandy is one of Sri Lanka's traditional craft centers, and this workshop teaches genuine wood carving and hand-painting technique from a local artisan, worth it for travelers wanting a real hands-on craft skill and a tangible souvenir rather than buying a finished piece from a shop.",
+            tourCard: { slug: "kandy-wood-carving-and-hand-painting-workshop-with-a-local-artisan", title: "Kandy Wood Carving and Hand-Painting Workshop with a Local Artisan", description: "A hands-on wood carving and hand-painting workshop with a local Kandy artisan.", price: "From $35", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished piece needs time to dry before packing — ask the artisan how long to wait before wrapping it for travel.",
+          },
+        ],
+        faqs: [
+          { q: "Is the wood carving workshop worth it in Kandy?", a: "Yes, for a genuine hands-on craft skill and a real souvenir, rather than buying a finished carving from a shop." },
+        ],
+      };
+
+    case "is-hanthana-pekoe-trail-hike-worth-it-kandy":
+      return {
+        title: "Is the Hanthana Pekoe Trail to Galaha Hiking Tour Worth It in Kandy?",
+        description: "An honest look at the Hanthana Pekoe Trail to Galaha hiking tour from Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This stretch of the Pekoe Trail from Hanthana to Galaha covers tea-estate ridgelines close to Kandy itself, worth it specifically for travelers who want a real hiking day without the longer commitment of the Knuckles range or a full Pekoe Trail stage further out.",
+            tourCard: { slug: "from-kandy-hanthana-pekoe-trail-to-galaha-hiking", title: "From Kandy: Hanthana Pekoe Trail to Galaha Hiking Tour", description: "A guided hike along the Hanthana Pekoe Trail from Kandy to Galaha.", price: "From $43", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear sturdy footwear with grip — the tea-estate terrain can be uneven and slippery after rain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hanthana Pekoe Trail hike worth it from Kandy?", a: "Yes, specifically for travelers wanting a real but manageable hiking day close to the city, without the longer Knuckles range commitment." },
+        ],
+      };
+
+    case "is-village-hiking-waterfalls-worth-it-kandy":
+      return {
+        title: "Is the Kandy Village Hiking Tour with Waterfalls Worth It?",
+        description: "An honest look at the Kandy village hiking tour covering waterfalls and local encounters.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a village hike with waterfall stops and genuine local encounters gives a fuller, more active day than the village walk and cooking experience alone, worth it specifically for travelers who want real physical activity alongside the cultural contact.",
+            tourCard: { slug: "kandy-village-hiking-tour-waterfalls-local", title: "Kandy Village Hiking Tour: Waterfalls & Local Encounters", description: "A guided village hiking tour covering waterfalls and local encounters near Kandy.", price: "From $43", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a swimsuit and a change of clothes if you want to get in the water at the waterfall stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the village hiking tour with waterfalls worth it in Kandy?", a: "Yes, for travelers wanting real physical activity alongside genuine local village contact, more active than the standard village walk." },
+        ],
+      };
+
+    case "is-roti-cooking-class-worth-it-kandy":
+      return {
+        title: "Is the Sri Lankan Roti Cooking Class and Tasting Experience Worth It in Kandy?",
+        description: "An honest look at the Sri Lankan roti cooking class and tasting experience in Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This class focuses specifically on Sri Lankan roti varieties rather than a full rice-and-curry spread, worth it for travelers who want to learn one specific, repeatable dish they can actually recreate at home rather than a broader but shallower cooking lesson.",
+            tourCard: { slug: "kandy-sri-lankan-roti-cooking-class-tasting", title: "Kandy: Sri Lankan Roti Cooking Class & Tasting Experience", description: "A focused Sri Lankan roti cooking class and tasting experience in Kandy.", price: "From $34", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306091/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you want a broader introduction to Sri Lankan cuisine beyond roti, the city's standard rice-and-curry cooking class is the better fit instead.",
+          },
+        ],
+        faqs: [
+          { q: "Is the roti cooking class worth it in Kandy?", a: "Yes, specifically for travelers wanting to learn one dish well enough to recreate it at home, rather than a broader but shallower lesson." },
+        ],
+      };
+
     default:
       return null;
   }
