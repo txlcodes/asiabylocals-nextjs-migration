@@ -4412,6 +4412,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-balik-pulau-atv-ride-worth-it-penang":
+            return {
+                title: "Is the ATV Ride in Balik Pulau Worth It in Penang?",
+                description: "An honest look at the ATV ride through Balik Pulau's countryside in Penang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Riding your own ATV through Balik Pulau's durian orchards and rural trails is a genuinely more active alternative to the standard guided car tour of the same area, worth it specifically for travelers who want to drive themselves rather than sit as passengers.", tourCard: { slug: "penang-atv-ride-in-balik-pulau-with-snacks-and", title: "Penang: ATV Ride in Balik Pulau with Snacks and Transfers", description: "A self-driven ATV ride through Balik Pulau's countryside.", price: "From $125", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting dusty or muddy, since the trails through the countryside aren't paved." }
+                ],
+                faqs: [
+                    { q: "Is the Balik Pulau ATV ride worth it in Penang?", a: "Yes, for travelers wanting a more active, self-driven way to see Balik Pulau's countryside than a standard guided car tour." }
+                ],
+            };
+
+        case "is-penang-after-five-golden-hour-worth-it":
+            return {
+                title: "Is Penang After Five: Golden Hour, Hawkers and the Durian Strip Worth It?",
+                description: "An honest look at the Penang After Five evening tour covering golden-hour views, hawker food, and the durian strip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This evening tour times itself around golden-hour light before moving into hawker stalls and Penang's durian strip, worth it specifically for travelers who want the island's best light and its best street food covered in one outing after the day's heat breaks.", tourCard: { slug: "penang-after-five-golden-hour-hawkers-and-the", title: "Penang After Five: Golden Hour, Hawkers and the Durian Strip", description: "An evening tour covering golden-hour views, hawker stalls, and Penang's durian strip.", price: "From $125", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry and skip a big dinner beforehand, since the hawker and durian stops are meant to be your evening meal." }
+                ],
+                faqs: [
+                    { q: "Is Penang After Five worth it?", a: "Yes, specifically for travelers wanting the island's best light and street food covered together in one evening outing." }
+                ],
+            };
+
+        case "is-iconic-temples-penang-hill-tour-worth-it-penang":
+            return {
+                title: "Is the Iconic Temples and Penang Hill Half-Day Tour Worth It?",
+                description: "An honest look at the half-day tour combining Penang's iconic temples with Penang Hill.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling the island's iconic temples with a Penang Hill visit in one guided half-day covers two of the biggest sights outside George Town's old town without arranging separate transport, worth it for travelers on a tighter schedule.", tourCard: { slug: "penang-iconic-temples-and-penang-hill-half-day", title: "Penang: Iconic Temples and Penang Hill Half-Day Tour", description: "A half-day guided tour combining Penang's iconic temples with Penang Hill.", price: "From $104", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Dress modestly for the temple stops, since several require covered shoulders and knees." }
+                ],
+                faqs: [
+                    { q: "Is the Iconic Temples and Penang Hill tour worth it?", a: "Yes, for travelers on a tighter schedule wanting two of the island's biggest sights covered in one guided half-day." }
+                ],
+            };
+
+        case "is-guided-cultural-village-tour-worth-it-penang":
+            return {
+                title: "Is the Guided Cultural Village Tour with Local Lunch Worth It in Penang?",
+                description: "An honest look at the guided cultural village tour with local lunch in Penang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour pairs a visit to a local village community with a home-style lunch, worth it specifically for travelers wanting a slower, more personal look at rural Penang life than the island's faster-paced heritage and food walks.", tourCard: { slug: "guided-cultural-village-tour-with-local-lunch", title: "Guided Cultural Village Tour with Local Lunch & Transfers", description: "A guided village tour with a local-style lunch included.", price: "From $114", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Let the operator know about dietary restrictions in advance, since the lunch is typically home-style and fixed, not a buffet." }
+                ],
+                faqs: [
+                    { q: "Is the guided cultural village tour worth it in Penang?", a: "Yes, for a slower, more personal look at rural Penang village life than the island's faster-paced heritage walks." }
+                ],
+            };
+
         case "is-night-mangrove-safari-worth-it-langkawi":
             return {
                 title: "Is the Night Mangrove Safari with BBQ Worth It in Langkawi?",

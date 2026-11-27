@@ -1354,6 +1354,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-jet-ski-worth-it-penang', 'is-nanyang-kungfu-tea-experience-worth-it-penang',
     'is-village-fun-congkak-petting-zoo-worth-it-penang', 'is-balik-pulau-batik-petting-zoo-worth-it-penang',
     'is-floating-mosque-thai-burmese-temple-tour-worth-it-penang', 'is-chowrasta-asam-laksa-nyonya-kuih-tour-worth-it-penang',
+    'is-balik-pulau-atv-ride-worth-it-penang', 'is-penang-after-five-golden-hour-worth-it',
+    'is-iconic-temples-penang-hill-tour-worth-it-penang', 'is-guided-cultural-village-tour-worth-it-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),
