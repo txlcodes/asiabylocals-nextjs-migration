@@ -12983,6 +12983,86 @@ const PAGES: Record<string, CityInfoData> = {
     "faqs": [
       { "q": "Is the Taj Nature and Countryside bike tour worth it in Agra?", "a": "Yes, for a genuinely active, different way to see rural life around Agra, beyond the city's monument-focused sightseeing." }
     ]
+  },
+  "is-taj-mahal-helicopter-tour-worth-it-agra": {
+    "title": "Is the Taj Mahal Helicopter Tour from Delhi Worth It?",
+    "seoTitle": "Taj Mahal Helicopter Tour 2026 | Honest Review",
+    "description": "An honest look at the Taj Mahal helicopter tour from Delhi.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/experience-taj-mahal-tour-by-helicopter-from-delhi/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Flying to Agra by helicopter turns a 3.5-to-4-hour road trip into a short, genuinely spectacular aerial journey with an entirely different view of the Taj Mahal and surrounding countryside on approach, worth it for travelers with the budget who want the fastest, most memorable way to arrive.",
+        "tourCard": { "slug": "experience-taj-mahal-tour-by-helicopter-from-delhi", "title": "Experience Taj Mahal Tour by Helicopter from Delhi", "description": "A helicopter tour to the Taj Mahal from Delhi.", "price": "From $10177", "duration": "Full day", "image": "https://images.asiabylocals.com/asiabylocals/tours/experience-taj-mahal-tour-by-helicopter-from-delhi/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Confirm the ground transport and monument time included once you land, since the helicopter itself is only part of the day."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Taj Mahal helicopter tour worth it from Delhi?", "a": "Yes, for travelers with the budget who want the fastest route to Agra and a genuinely spectacular aerial view on approach." }
+    ]
+  },
+  "is-gatiman-express-taj-mahal-tour-worth-it-agra": {
+    "title": "Is the Same Day Taj Mahal Tour by Gatiman Express Worth It?",
+    "seoTitle": "Gatiman Express Taj Mahal Tour 2026 | Honest Review",
+    "description": "An honest look at the same day Taj Mahal tour by Gatiman Express train.",
+    "heroImage": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773214627/tours/agra/tours/agra_1773214625081_0.jpg",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "India's fastest train gets you from Delhi to Agra in under two hours, genuinely faster and more comfortable than the road trip most same-day Taj tours use, worth it for travelers wanting the quickest, smoothest way to fit the Taj into a single day.",
+        "tourCard": { "slug": "taj-mahal-express-tour", "title": "Same Day Taj Mahal Tour By Gatiman Express Train", "description": "A same-day Taj Mahal tour via the Gatiman Express train from Delhi.", "price": "From $445", "duration": "12 hours", "image": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773214627/tours/agra/tours/agra_1773214625081_0.jpg" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Book the train tickets well ahead, since the Gatiman Express has limited daily departures and seats sell out."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Gatiman Express Taj Mahal tour worth it?", "a": "Yes, for travelers wanting the fastest, most comfortable way to fit a same-day Taj Mahal visit into their schedule." }
+    ]
+  },
+  "is-taj-mahal-agra-fort-skydeck-dining-worth-it-agra": {
+    "title": "Is the Taj Mahal and Agra Fort Tour with Skydeck Dining Worth It?",
+    "seoTitle": "Taj Mahal Agra Fort Skydeck Dining 2026 | Honest Review",
+    "description": "An honest look at the Taj Mahal and Agra Fort tour with skydeck dining from Delhi.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-fort-tour-with-skydeck/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Pairing the standard Taj Mahal and Agra Fort sightseeing with an elevated skydeck dining stop gives a more memorable, photogenic finish to the day than the usual roadside restaurant lunch, worth it for travelers wanting to make the trip feel like an occasion.",
+        "tourCard": { "slug": "from-delhi-taj-mahal-agra-fort-tour-with-skydeck", "title": "From Delhi: Taj Mahal & Agra Fort Tour with Skydeck Dining", "description": "A Taj Mahal and Agra Fort tour from Delhi with skydeck dining.", "price": "From $336", "duration": "12 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-taj-mahal-agra-fort-tour-with-skydeck/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Ask about the skydeck's exact timing, since booking it around sunset gives the best views over the city."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Taj Mahal and Agra Fort tour with skydeck dining worth it?", "a": "Yes, for travelers wanting a more memorable, photogenic finish to the day than a standard roadside lunch stop." }
+    ]
+  },
+  "can-you-visit-taj-mahal-from-pune-same-day": {
+    "title": "Can You Visit the Taj Mahal from Pune in a Single Day?",
+    "seoTitle": "Taj Mahal from Pune Same Day 2026 | Honest Review",
+    "description": "An honest look at the same day Taj Mahal tour from Pune with roundtrip flights.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-pune-same-day-taj-mahal-tour-with-roundtrip/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Yes, roundtrip flights from Pune make a same-day Taj Mahal visit genuinely workable, though it's a long day involving an early flight, a packed sightseeing window, and a late return, worth it specifically for travelers who can't spare an overnight.",
+        "tourCard": { "slug": "from-pune-same-day-taj-mahal-tour-with-roundtrip", "title": "From Pune: Same Day Taj Mahal Tour with Roundtrip flights", "description": "A same-day Taj Mahal tour from Pune with roundtrip flights.", "price": "From $625", "duration": "Full day", "image": "https://images.asiabylocals.com/asiabylocals/tours/from-pune-same-day-taj-mahal-tour-with-roundtrip/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Build in buffer time around your flights, since any delay on either leg puts real pressure on the sightseeing window."
+      }
+    ],
+    "faqs": [
+      { "q": "Can you visit the Taj Mahal from Pune in one day?", "a": "Yes, with roundtrip flights it's workable, though it's a long day best suited to travelers who can't spare an overnight." }
+    ]
   }
 };
 export const AGRA_BEST_SLUGS = Object.keys(PAGES);

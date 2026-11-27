@@ -88,6 +88,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kinari-bazaar-food-tour-worth-it-agra', 'is-hidden-gems-heritage-tour-worth-it-agra',
     'is-sos-elephant-bear-rescue-worth-it-agra', 'is-taj-mahal-moonlight-tour-worth-it-agra',
     'is-women-special-taj-shiva-temple-tour-worth-it-agra', 'is-taj-nature-countryside-bike-tour-worth-it-agra',
+    'is-taj-mahal-helicopter-tour-worth-it-agra', 'is-gatiman-express-taj-mahal-tour-worth-it-agra',
+    'is-taj-mahal-agra-fort-skydeck-dining-worth-it-agra', 'can-you-visit-taj-mahal-from-pune-same-day',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),
