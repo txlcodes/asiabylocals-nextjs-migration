@@ -249,6 +249,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-maxicheng-acrobatic-show-worth-it-shanghai', 'is-cherry-blossom-pastry-making-worth-it-shanghai',
     'is-118-tower-worth-it-shanghai', 'is-qin-dynasty-vr-experience-worth-it-shanghai',
     'is-ai-tui-na-massage-worth-it-shanghai', 'is-suzhou-river-north-bund-walk-worth-it-shanghai',
+    'is-chongming-island-worth-it-shanghai', 'is-zhoushan-windmill-coast-worth-it-shanghai',
+    'is-tongjian-lake-kayaking-lingshan-cave-worth-it-shanghai', 'is-jingdezhen-porcelain-capital-worth-it-shanghai',
   ].map(slug => ({
     url: `${BASE_URL}/china/shanghai/${slug}`,
     lastModified: new Date(),

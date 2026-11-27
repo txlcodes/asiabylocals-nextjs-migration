@@ -1479,6 +1479,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-chongming-island-worth-it-shanghai":
+      return {
+        title: "Is the Chongming Island Private Tour Worth It in Shanghai?",
+        description: "An honest look at the Chongming Island private tour with lunch in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/455d58432b37c51d455bf44367b38b388db4f8cfd9723af1cad45b8d3053e588.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chongming Island's wetlands and rural scenery give a genuinely slower, greener side of Shanghai that most visitors never see, worth it for travelers wanting a calm nature escape within easy reach of the city.",
+            tourCard: { slug: "shanghai-chongming-island-private-tour-with-lunch", title: "Shanghai: Chongming Island Private Tour with Lunch", description: "A private tour of Chongming Island with lunch included.", price: "From $1427", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/455d58432b37c51d455bf44367b38b388db4f8cfd9723af1cad45b8d3053e588.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars if birdwatching interests you, since the island's wetlands are a genuine migratory bird habitat.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chongming Island tour worth it in Shanghai?", a: "Yes, for a genuinely slower, greener side of Shanghai that most visitors never see, within easy reach of the city." },
+        ],
+      };
+
+    case "is-zhoushan-windmill-coast-worth-it-shanghai":
+      return {
+        title: "Is the Zhoushan Windmill Coast Day Trip Worth It from Shanghai?",
+        description: "An honest look at the Zhoushan Windmill Coast private day trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a97291e6fedab746d92d53d0e6e5b26aa72cf12f5e38dd84a74d3ab8977dc183.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Zhoushan's coastal windmills and sea views give a genuinely different, more scenic coastal landscape than Shanghai's water-town day trips, worth it for travelers wanting ocean scenery rather than more canals and old towns.",
+            tourCard: { slug: "shanghai-zhoushan-windmill-coast-private-day-trip", title: "Shanghai: Zhoushan Windmill Coast Private Day Trip", description: "A private day trip to Zhoushan's windmill coast from Shanghai.", price: "From $1365", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a97291e6fedab746d92d53d0e6e5b26aa72cf12f5e38dd84a74d3ab8977dc183.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the weather and wind conditions before your date, since this is a coastal trip best enjoyed on a clear day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Zhoushan Windmill Coast day trip worth it from Shanghai?", a: "Yes, for travelers wanting genuine ocean and coastal scenery, distinct from Shanghai's usual water-town day trips." },
+        ],
+      };
+
+    case "is-tongjian-lake-kayaking-lingshan-cave-worth-it-shanghai":
+      return {
+        title: "Is the Tongjian Lake Kayaking and Lingshan Cave Day Trip Worth It?",
+        description: "An honest look at the Tongjian Lake kayaking, Lingshan Cave and flowers day trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f8b845e9ef44b80f24d4e06c903d9ae2fd3e7186efcb0ee40daf31b91f2c2f9.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining kayaking on Tongjian Lake with a visit to Lingshan Cave gives a genuinely active, varied day of water sport and underground scenery, worth it for travelers wanting hands-on activity rather than another bus-and-walk day trip.",
+            tourCard: { slug: "shanghai-tongjian-lake-kayaking-lingshan-cave", title: "Shanghai: Tongjian Lake Kayaking, Lingshan Cave & Flowers", description: "A day trip combining Tongjian Lake kayaking and Lingshan Cave from Shanghai.", price: "From $1365", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f8b845e9ef44b80f24d4e06c903d9ae2fd3e7186efcb0ee40daf31b91f2c2f9.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes for after the kayaking segment, and comfortable shoes for the cave's uneven terrain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tongjian Lake kayaking and Lingshan Cave day trip worth it from Shanghai?", a: "Yes, for travelers wanting a genuinely active day combining water sport and underground scenery." },
+        ],
+      };
+
+    case "is-jingdezhen-porcelain-capital-worth-it-shanghai":
+      return {
+        title: "Is the Jingdezhen Porcelain Capital 2-Day Trip Worth It from Shanghai?",
+        description: "An honest look at the Jingdezhen Porcelain Capital 2-day pottery trip from Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2567f33cb34b43c1637b36a2188ffcd1932dff89d0a797b3707e50721cadbfeb.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jingdezhen has made porcelain for over a thousand years and is genuinely the best place in China to see and try the craft firsthand, worth it for travelers with real interest in ceramics and traditional Chinese craft, not just sightseeing.",
+            tourCard: { slug: "shanghai-jingdezhen-porcelain-capital-2-day", title: "Shanghai: Jingdezhen Porcelain Capital 2-Day Pottery Trip", description: "A 2-day pottery trip to Jingdezhen, China's porcelain capital, from Shanghai.", price: "From $2015", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2567f33cb34b43c1637b36a2188ffcd1932dff89d0a797b3707e50721cadbfeb.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting dirty if the trip includes hands-on pottery wheel time.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jingdezhen Porcelain Capital trip worth it from Shanghai?", a: "Yes, for travelers with real interest in ceramics and traditional craft — it's genuinely the best place in China to see and try it." },
+        ],
+      };
+
     default:
       return null;
   }
