@@ -2089,6 +2089,66 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-kakheti-helicopter-wine-tasting-worth-it-tbilisi":
+            return {
+                title: "Is the Kakheti Helicopter Tour with Wine Tasting Worth It?",
+                description: "An honest look at the Kakheti helicopter tour with wine tasting from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9dca03b90fe8c3c800101cf76c800846b9b459976f9d13828d5593a5f266d818.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Flying over Kakheti's vineyards by helicopter before landing for a wine tasting turns the usual multi-hour road trip into a short, scenic flight, worth it for travelers wanting an exceptional one-off experience rather than the standard ground tour.",
+                    tourCard: { slug: "tbilisi-kakheti-helicopter-tour-with-wine-tasting", title: "Tbilisi: Kakheti Helicopter Tour with Wine Tasting", description: "A helicopter tour over Kakheti's vineyards with a wine tasting stop.", price: "From $9750", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9dca03b90fe8c3c800101cf76c800846b9b459976f9d13828d5593a5f266d818.jpeg" } },
+                    { title: "Practical Tips", content: "Book well ahead, since helicopter capacity is limited and weather can push departure times." }
+                ],
+                faqs: [
+                    { q: "Is the Kakheti helicopter tour with wine tasting worth it?", a: "Yes, for travelers wanting an exceptional aerial experience over the wine region rather than the standard road trip." }
+                ],
+            };
+
+        case "is-secret-emerald-lake-4x4-forest-worth-it-tbilisi":
+            return {
+                title: "Is Georgia's Secret Emerald Lake 4x4 Adventure Worth It?",
+                description: "An honest look at the Secret Emerald Lake 4x4 adventure and forest hike from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2ef2d6565419f656184a84a9f9870078845be1e37b7a982189a5409cfb8531b4.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A 4x4 ride through forest trails to a genuinely secluded emerald-green lake gets you away from Georgia's more crowded day-trip routes, worth it for travelers wanting an off-the-beaten-path nature outing close to Tbilisi.",
+                    tourCard: { slug: "georgias-secret-emerald-lake-4x4-adventure-forest", title: "Georgia's Secret Emerald Lake: 4x4 Adventure & Forest Hike", description: "A 4x4 adventure and forest hike to a secluded emerald lake.", price: "From $585", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2ef2d6565419f656184a84a9f9870078845be1e37b7a982189a5409cfb8531b4.jpeg" } },
+                    { title: "Practical Tips", content: "Wear closed hiking shoes, since the forest trail portion involves uneven terrain beyond the 4x4 ride itself." }
+                ],
+                faqs: [
+                    { q: "Is the Secret Emerald Lake 4x4 adventure worth it from Tbilisi?", a: "Yes, for travelers wanting an off-the-beaten-path nature outing away from Georgia's more crowded day-trip routes." }
+                ],
+            };
+
+        case "is-tsalka-paravani-plateau-worth-it-tbilisi":
+            return {
+                title: "Is the Tsalka Lake & Paravani Plateau Day Trip Worth It?",
+                description: "An honest look at the Tsalka Lake and Paravani Plateau day trip from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/270e5a3aae492af44e4b6731f2da3d159650e0d2b6fb7020d22aadd785e30774.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Tsalka Lake and the high-altitude Paravani Plateau offer wide-open volcanic landscapes rarely covered by standard Georgia itineraries, worth it for travelers wanting genuinely different scenery beyond Kazbegi and Kakheti.",
+                    tourCard: { slug: "tbilisi-tsalka-lake-paravani-plateau-day-trip", title: "Tbilisi: Tsalka Lake & Paravani Plateau Day Trip", description: "A day trip to Tsalka Lake and the Paravani Plateau's volcanic landscapes.", price: "From $585", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/270e5a3aae492af44e4b6731f2da3d159650e0d2b6fb7020d22aadd785e30774.jpeg" } },
+                    { title: "Practical Tips", content: "Pack warm layers even in summer, since the high-altitude plateau stays noticeably cooler than Tbilisi." }
+                ],
+                faqs: [
+                    { q: "Is the Tsalka Lake and Paravani Plateau day trip worth it from Tbilisi?", a: "Yes, for travelers wanting genuinely different volcanic-plateau scenery beyond the standard Kazbegi and Kakheti routes." }
+                ],
+            };
+
+        case "is-private-northern-armenia-trip-worth-it-tbilisi":
+            return {
+                title: "Is the Private Northern Armenia Trip from Tbilisi Worth It?",
+                description: "An honest look at the private Northern Armenia day trip with guide from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d0778ce7a9384400422c252b22b7d9b7d84c25ea5b3fe5db2ec08e3551c9ca70.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private guided day trip across the border into Northern Armenia covers a region most Tbilisi-based itineraries skip entirely, worth it for travelers wanting to add a second country without organizing a separate multi-day Armenia trip.",
+                    tourCard: { slug: "from-tbilisi-private-northern-armenia-trip-with", title: "From Tbilisi: Private Northern Armenia Trip with Guide", description: "A private guided day trip into Northern Armenia from Tbilisi.", price: "From $715", duration: "10.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d0778ce7a9384400422c252b22b7d9b7d84c25ea5b3fe5db2ec08e3551c9ca70.jpg" } },
+                    { title: "Practical Tips", content: "Bring your passport, since this trip crosses an international border and back in a single day." }
+                ],
+                faqs: [
+                    { q: "Is the private Northern Armenia trip worth it from Tbilisi?", a: "Yes, for travelers wanting to add a second country to their trip without organizing a separate multi-day Armenia itinerary." }
+                ],
+            };
+
         default:
             return null;
     }
