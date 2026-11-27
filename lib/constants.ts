@@ -612,6 +612,8 @@ export const SINGAPORE_INFO_SLUGS: string[] = [
   'is-punggol-kayak-tour-worth-it-singapore', 'is-peranakan-culture-tour-worth-it-singapore',
   'is-axe-throwing-worth-it-singapore', 'is-fort-canning-walking-tour-worth-it-singapore',
   'is-floral-tea-workshop-worth-it-singapore', 'is-nyonya-kebaya-rental-worth-it-singapore',
+  'is-vroomtown-driving-city-worth-it-singapore', 'is-running-tour-worth-it-singapore',
+  'is-tumbler-painting-workshop-worth-it-singapore', 'is-southern-islands-speedboat-tour-worth-it-singapore',
 ];
 
 // Laos launched 2026-11-19 with 304 live tours and zero authority pages.

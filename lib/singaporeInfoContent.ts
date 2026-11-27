@@ -721,6 +721,62 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-vroomtown-driving-city-worth-it-singapore":
+            return {
+                title: "Is the VroomTown Driving City Admission Ticket Worth It in Singapore?",
+                description: "An honest look at the VroomTown driving city admission ticket in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "VroomTown gives kids a genuine hands-on driving experience in a scaled, realistic mock city rather than a simple go-kart track, worth it specifically for families with young children wanting an interactive, educational indoor activity.", tourCard: { slug: "singapore-vroomtown-driving-city-admission-ticket", title: "Singapore: VroomTown Driving City Admission Ticket", description: "An admission ticket to VroomTown driving city in Singapore.", price: "From $59", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the age and height requirements before booking, since the driving activities are scaled for children." }
+                ],
+                faqs: [
+                    { q: "Is VroomTown worth it in Singapore?", a: "Yes, specifically for families with young children wanting an interactive, educational driving experience rather than a simple go-kart track." }
+                ],
+            };
+
+        case "is-running-tour-worth-it-singapore":
+            return {
+                title: "Is the Sunrise or Night Running Tour Worth It in Singapore?",
+                description: "An honest look at the sunrise and night running tours in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A guided run covers genuine distance past Singapore's skyline and landmarks while doubling as exercise, worth it specifically for fitness-minded travelers wanting to combine sightseeing with their workout routine rather than choosing one or the other.", tourCard: { slug: "sunrise-running-tour-4km", title: "Sunrise Running Tour 4km", description: "A guided 4km sunrise running tour through Singapore.", price: "From $52", duration: "50 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come with a reasonable fitness level — this is a genuine guided run, not a leisurely walk." }
+                ],
+                faqs: [
+                    { q: "Is the running tour worth it in Singapore?", a: "Yes, for fitness-minded travelers wanting to combine real exercise with sightseeing past the skyline and landmarks." }
+                ],
+            };
+
+        case "is-tumbler-painting-workshop-worth-it-singapore":
+            return {
+                title: "Is the First and Only Tumbler Painting Workshop Worth It in Singapore?",
+                description: "An honest look at the tumbler painting workshop in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Painting a tumbler gives a genuinely practical, usable souvenir distinct from the city's canvas-based art jamming sessions, worth it for travelers wanting a functional craft item rather than purely decorative artwork.", tourCard: { slug: "singapore-first-and-only-tumbler-painting", title: "Singapore: First and Only Tumbler Painting Workshop (Guided)", description: "A guided tumbler painting workshop in Singapore.", price: "From $87", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Let your paint fully cure before using the tumbler for drinks — ask the studio for the recommended curing time." }
+                ],
+                faqs: [
+                    { q: "Is the tumbler painting workshop worth it in Singapore?", a: "Yes, for a genuinely practical, usable souvenir, distinct from the city's canvas-based art jamming sessions." }
+                ],
+            };
+
+        case "is-southern-islands-speedboat-tour-worth-it-singapore":
+            return {
+                title: "Is the Southern Islands Speedboat Guided Tour Worth It in Singapore?",
+                description: "An honest look at the Southern Islands speedboat guided tour in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Singapore's Southern Islands are a genuinely quieter, lesser-visited side of the city reachable by speedboat, worth it specifically for travelers who've already done the main downtown sights and want a short, scenic water-based change of pace.", tourCard: { slug: "singapore-southern-islands-speedboat-guided-tour", title: "Singapore Southern Islands Speedboat Guided Tour", description: "A guided speedboat tour of Singapore's Southern Islands.", price: "From $60", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-954425/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring sun protection — most of this short tour is spent on open water with direct sun exposure." }
+                ],
+                faqs: [
+                    { q: "Is the Southern Islands speedboat tour worth it in Singapore?", a: "Yes, specifically for travelers who've already seen the main downtown sights and want a quieter, scenic water-based change of pace." }
+                ],
+            };
+
         default:
             return null;
     }
