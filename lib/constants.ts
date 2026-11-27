@@ -1724,6 +1724,8 @@ export const NAGOYA_INFO_SLUGS = [
   'nagoya-osu-maid-cafe-experience', 'nagoya-private-koto-lesson-with-musician',
   'nagoya-private-kyudo-archery-lesson-toyoake-dojo', 'nagoya-shinto-priest-shrine-maiden-experience',
   'nagoya-shimenawa-wreath-making-workshop', 'nagoya-sword-museum-admission-ticket',
+  'custom-fragrance-workshop-in-nagoya', 'nagoya-takoyaki-cooking-class',
+  'osu-kannon-retro-shops-and-pop-culture-walk-in-nagoya', 'golden-palace-and-futuristic-oasis-walk-in-nagoya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/ellaInfoContent.ts.

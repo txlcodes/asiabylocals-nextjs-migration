@@ -1356,6 +1356,90 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "custom-fragrance-workshop-in-nagoya":
+      return {
+        title: "Is the Custom Fragrance Workshop Worth It in Nagoya?",
+        description: "An honest look at the custom fragrance workshop in Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/custom-fragrance-workshop-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A quick, personal craft activity where you blend your own custom fragrance to take home, worth it as a short, relaxed stop rather than a major cultural activity — a good fit if you're already in Sakae or Osu and want something to add on.",
+            tourCard: { slug: "custom-fragrance-workshop-in-nagoya", title: "Custom Fragrance Workshop in Nagoya", description: "A hands-on custom fragrance blending workshop.", price: "From $65", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/custom-fragrance-workshop-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check airline liquid restrictions before flying home with your finished fragrance.",
+          },
+        ],
+        faqs: [
+          { q: "Is the custom fragrance workshop worth it in Nagoya?", a: "Yes, as a short, relaxed personal craft add-on rather than a standalone major activity." },
+        ],
+      };
+
+    case "nagoya-takoyaki-cooking-class":
+      return {
+        title: "Is the Takoyaki Cooking Class Worth It in Nagoya?",
+        description: "An honest look at the takoyaki cooking class in Nagoya.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788734457/asiabylocals/tours/nagoya-takoyaki-cooking-class/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning the batter, the octopus filling, and the signature flip technique gives real insight into a dish most visitors only ever eat from a street stall, worth it for travelers who want a genuinely hands-on food experience rather than another sit-down meal.",
+            tourCard: { slug: "nagoya-takoyaki-cooking-class", title: "Takoyaki from Scratch in Nagoya: Batter, Octopus and the Flip", description: "A hands-on takoyaki cooking class covering batter, filling and technique.", price: "From $104", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788734457/asiabylocals/tours/nagoya-takoyaki-cooking-class/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The flip technique takes a few tries to get right — don't be discouraged if your first batch comes out uneven.",
+          },
+        ],
+        faqs: [
+          { q: "Is the takoyaki cooking class worth it in Nagoya?", a: "Yes, it's a genuinely hands-on way to learn a dish most visitors only ever eat from a street stall." },
+        ],
+      };
+
+    case "osu-kannon-retro-shops-and-pop-culture-walk-in-nagoya":
+      return {
+        title: "Is the Osu Kannon, Retro Shops and Pop Culture Walk Worth It in Nagoya?",
+        description: "An honest look at the Osu Kannon, retro shops and pop culture walking tour in Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/osu-kannon-retro-shops-and-pop-culture-walk-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This guided walk covers Osu Kannon temple alongside the district's retro shops and pop-culture stores with a guide pointing out what's actually worth stopping at, worth it for travelers who'd otherwise wander Osu's dense arcades without context on what they're looking at.",
+            tourCard: { slug: "osu-kannon-retro-shops-and-pop-culture-walk-in-nagoya", title: "Osu Kannon, Retro Shops and Pop Culture Walk in Nagoya", description: "A guided walk through Osu Kannon temple, retro shops and pop-culture stores.", price: "From $143", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/osu-kannon-retro-shops-and-pop-culture-walk-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a bit of extra cash — the retro shops and pop-culture stores on this route are easy places to end up buying something.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Osu Kannon, retro shops and pop culture walk worth it in Nagoya?", a: "Yes, a guide adds real context to Osu's dense arcades that's easy to miss wandering on your own." },
+        ],
+      };
+
+    case "golden-palace-and-futuristic-oasis-walk-in-nagoya":
+      return {
+        title: "Is the Golden Palace and Futuristic Oasis Walk Worth It in Nagoya?",
+        description: "An honest look at the golden palace and futuristic oasis walking tour in Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/golden-palace-and-futuristic-oasis-walk-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walk pairs Nagoya Castle's golden shachihoko landmarks with a stop at the city's modern Oasis 21 structure, giving a genuine contrast between historic and contemporary Nagoya in one guided outing, worth it for travelers who want more context than wandering between the two sites alone would give.",
+            tourCard: { slug: "golden-palace-and-futuristic-oasis-walk-in-nagoya", title: "Golden Palace and Futuristic Oasis Walk in Nagoya", description: "A guided walk covering Nagoya Castle's golden landmarks and the modern Oasis 21 structure.", price: "From $143", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/golden-palace-and-futuristic-oasis-walk-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — this is a longer walking route covering two distinct parts of the city.",
+          },
+        ],
+        faqs: [
+          { q: "Is the golden palace and futuristic oasis walk worth it in Nagoya?", a: "Yes, it gives a genuine contrast between historic and contemporary Nagoya in one guided outing." },
+        ],
+      };
+
     default:
       return null;
   }
