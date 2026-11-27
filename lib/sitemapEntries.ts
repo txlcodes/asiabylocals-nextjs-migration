@@ -1346,6 +1346,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-cebu-cooking-class-worth-it', 'is-live-fire-shooting-worth-it-cebu',
     'is-mactan-island-hopping-worth-it-cebu', 'is-kalanggaman-island-worth-it-cebu',
     'is-scenic-flight-bohol-chocolate-hills-worth-it-cebu', 'is-whale-shark-monkey-sanctuary-turtle-worth-it-cebu',
+    'is-balabac-4d3n-onok-island-worth-it-cebu', 'is-kalanggaman-malapascua-combo-worth-it-cebu',
+    'is-sorsogon-pilgrimage-tour-worth-it-cebu',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/cebu/${slug}`,
     lastModified: new Date(),

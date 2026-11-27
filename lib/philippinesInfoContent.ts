@@ -2342,6 +2342,69 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-balabac-4d3n-onok-island-worth-it-cebu":
+      return {
+        title: "Is the Balabac 4D3N Island Tour & Onok Island Overnight Worth It?",
+        description: "An honest look at the 4D3N Balabac island tour with an overnight on Onok Island.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0bd9914a1c1cf7d08b4c52b5694f9a5ba7414db2fb9ea580aab2564556db24b.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Balabac's turquoise waters and sandbars are among the Philippines' least-visited island landscapes precisely because they're remote, and a 4-day trip with an overnight on Onok Island gives genuine time to see multiple islands rather than rushing through on a day trip.",
+            tourCard: { slug: "balabac-4d3n-island-tour-onok-island-overnight", title: "BALABAC: 4D3N Island Tour & Onok Island Overnight Experience", description: "A 4-day, 3-night Balabac island tour with an overnight stay on Onok Island.", price: "From $1425", duration: "4 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c0bd9914a1c1cf7d08b4c52b5694f9a5ba7414db2fb9ea580aab2564556db24b.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm what accommodation on Onok Island actually looks like before booking, since facilities on remote islands like this are genuinely basic.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Balabac 4D3N island tour with Onok Island overnight worth it?", a: "Yes, for travelers wanting genuine time across several remote islands rather than rushing Balabac as a single day trip." },
+        ],
+      };
+
+    case "is-kalanggaman-malapascua-combo-worth-it-cebu":
+      return {
+        title: "Is the Kalanggaman & Malapascua Island Combo Worth It from Cebu?",
+        description: "An honest look at the Kalanggaman and Malapascua Island combo tour with lunch and transfer from Cebu.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35b953a7e32ce75db88ae3014b62c16376937ef480af8f4c8ccdecbc50a9ddff.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Kalanggaman's famous sandbar with Malapascua's thresher-shark diving reputation in one 2-day trip covers two of northern Cebu's standout islands without the logistics of booking them separately.",
+            tourCard: { slug: "kalanggaman-malapascua-island-w-lunch-transfer-fr", title: "Kalanggaman & Malapascua Island W/ Lunch & Transfer fr Cebu", description: "A 2-day combo tour of Kalanggaman and Malapascua Islands with lunch and transfer from Cebu.", price: "From $582", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/35b953a7e32ce75db88ae3014b62c16376937ef480af8f4c8ccdecbc50a9ddff.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack reef-safe sunscreen and bring cash for Kalanggaman's island entrance fee, which is collected locally.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kalanggaman and Malapascua combo worth it from Cebu?", a: "Yes, for travelers wanting both of northern Cebu's standout islands covered in one trip without arranging separate transport." },
+        ],
+      };
+
+    case "is-sorsogon-pilgrimage-tour-worth-it-cebu":
+      return {
+        title: "Is the Sorsogon Pilgrimage Day Tour with Guide & Snacks Worth It?",
+        description: "An honest look at the Sorsogon pilgrimage day tour with guide and snacks.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5bf2d61bf1149bd3aa4c0808757538e46872da01b82c459abf9c741171d937c5.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sorsogon's pilgrimage churches and shrines draw genuine religious significance for Filipino Catholic travelers, and a guided day with snacks included takes the planning out of visiting several sites in one trip.",
+            tourCard: { slug: "sorsogon-pilgrimage-day-tour-with-guide-snacks", title: "Sorsogon: Pilgrimage Day Tour with Guide & Snacks", description: "A guided pilgrimage day tour of Sorsogon's churches and shrines, with snacks included.", price: "From $626", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5bf2d61bf1149bd3aa4c0808757538e46872da01b82c459abf9c741171d937c5.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for church visits, since several pilgrimage sites maintain active religious dress expectations.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sorsogon pilgrimage day tour worth it?", a: "Yes, for travelers with genuine interest in the region's pilgrimage churches and shrines, with the planning and snacks handled." },
+        ],
+      };
+
     case "is-mactan-island-hopping-worth-it-cebu":
       return {
         title: "Is the Mactan Private Island-Hopping Tour Worth It in Cebu?",
