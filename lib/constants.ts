@@ -1968,6 +1968,8 @@ export const MIRISSA_INFO_SLUGS = [
   'best-water-sports-mirissa', 'is-ayurvedic-retreat-worth-it-mirissa',
   'is-cinnamon-garden-tour-worth-it-mirissa', 'is-crazy-ufo-water-sport-worth-it-mirissa',
   'is-jet-skiing-worth-it-mirissa', 'is-paddle-boarding-worth-it-mirissa',
+  'is-full-body-relaxation-wellness-worth-it-mirissa', 'is-road-gravel-bike-tour-worth-it-mirissa',
+  'is-seafood-platter-experience-worth-it-mirissa', 'is-private-beach-birthday-celebration-worth-it-mirissa',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.

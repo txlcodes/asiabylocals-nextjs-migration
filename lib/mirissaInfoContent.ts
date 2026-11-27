@@ -576,6 +576,90 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-full-body-relaxation-wellness-worth-it-mirissa":
+      return {
+        title: "Is the Full Body Relaxation & Recovery Wellness Experience Worth It?",
+        description: "An honest look at the full body relaxation and recovery wellness experience in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This wellness session focuses on genuine physical recovery rather than the Nordic sauna's cold-exposure format, worth it specifically for travelers wanting a straightforward massage-and-relaxation experience after active days of surfing, whale watching, or snorkeling.",
+            tourCard: { slug: "mirissa-full-body-relaxation-recovery-wellness", title: "Mirissa: Full Body Relaxation & Recovery Wellness Experience", description: "A full body relaxation and recovery wellness experience in Mirissa.", price: "From $51", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for the evening after an active day — this is a genuine recovery session, not an adrenaline activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the full body relaxation wellness experience worth it in Mirissa?", a: "Yes, for travelers wanting genuine physical recovery after active days, a more straightforward option than the Nordic sauna's cold-exposure format." },
+        ],
+      };
+
+    case "is-road-gravel-bike-tour-worth-it-mirissa":
+      return {
+        title: "Is the Guided Road or Gravel Bike Tour Worth It in Mirissa?",
+        description: "An honest look at the guided road or gravel bike tour with refreshments in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering Mirissa's coastal roads and backroads by bike gives genuine physical activity and a different pace than the town's water-focused tours, worth it specifically for travelers wanting exercise alongside the scenery rather than another boat trip.",
+            tourCard: { slug: "mirissa-guided-road-or-gravel-bike-tour-with", title: "Mirissa: Guided Road or Gravel Bike Tour with Refreshments", description: "A guided road or gravel bike tour with refreshments in Mirissa.", price: "From $68", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Choose the gravel option if you want to see more rural backroads, or road if you'd rather stick to paved coastal routes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the road or gravel bike tour worth it in Mirissa?", a: "Yes, for travelers wanting genuine exercise and a different pace than the town's water-focused tours." },
+        ],
+      };
+
+    case "is-seafood-platter-experience-worth-it-mirissa":
+      return {
+        title: "Is the Premium Sri Lankan Seafood Platter Experience Worth It?",
+        description: "An honest look at the premium Sri Lankan seafood platter experience in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This dedicated seafood platter experience focuses specifically on fresh local catch rather than the broader cooking-class format, worth it specifically for travelers who want to eat well rather than cook, prioritizing a quality meal over a learning activity.",
+            tourCard: { slug: "mirissa-premium-sri-lankan-seafood-platter", title: "Mirissa: Premium Sri Lankan Seafood Platter Experience", description: "A premium Sri Lankan seafood platter experience in Mirissa.", price: "From $77", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any shellfish allergies in advance, since the platter typically includes a wide variety of fresh catch.",
+          },
+        ],
+        faqs: [
+          { q: "Is the premium seafood platter experience worth it in Mirissa?", a: "Yes, specifically for travelers wanting a quality seafood meal rather than a hands-on cooking class." },
+        ],
+      };
+
+    case "is-private-beach-birthday-celebration-worth-it-mirissa":
+      return {
+        title: "Is the Private Beach Birthday Celebration & Dinner Worth It?",
+        description: "An honest look at the private beach birthday celebration and dinner in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Having a private setup and dinner handled on the beach takes the planning out of celebrating a birthday while traveling, worth it specifically for travelers wanting a genuinely special occasion marked without arranging decorations or a venue themselves.",
+            tourCard: { slug: "mirissa-private-beach-birthday-celebration-dinner", title: "Mirissa: Private Beach Birthday Celebration & Dinner", description: "A private beach birthday celebration with dinner in Mirissa.", price: "From $88", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-929676/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the exact setup and menu details with the operator in advance so there are no surprises on the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private beach birthday celebration worth it in Mirissa?", a: "Yes, for travelers wanting a genuinely special occasion marked on the beach without arranging the setup and dinner themselves." },
+        ],
+      };
+
     default:
       return null;
   }
