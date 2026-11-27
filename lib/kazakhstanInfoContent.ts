@@ -725,6 +725,62 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-grand-almaty-peaks-vip-flight-worth-it-almaty":
+            return {
+                title: "Is the Grand Almaty Peaks 90-Min VIP Flight Worth It?",
+                description: "An honest look at the Grand Almaty Peaks 90-minute VIP scenic flight.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/425ab7098c6fb7bbe8fbedbc0b5ec07464aaa7e02e8e8eee3c20c718b6b95f4c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A 90-minute VIP flight over the Tian Shan peaks surrounding Almaty gives an aerial view of terrain that would take days to cover on foot, worth it for travelers wanting a genuinely exceptional perspective on the mountains above the city.", tourCard: { slug: "grand-almaty-peaks-90-min-vip-flight", title: "Grand Almaty Peaks: 90-Min VIP Flight", description: "A 90-minute VIP scenic flight over the Grand Almaty Peaks.", price: "From $2178", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/425ab7098c6fb7bbe8fbedbc0b5ec07464aaa7e02e8e8eee3c20c718b6b95f4c.jpg" } },
+                    { title: "Practical Tips", content: "Book early morning flights when possible, since mountain visibility is typically clearest before afternoon cloud builds." },
+                ],
+                faqs: [
+                    { q: "Is the Grand Almaty Peaks VIP flight worth it?", a: "Yes, for travelers wanting an exceptional aerial perspective on the Tian Shan peaks that would take days to see on foot." },
+                ],
+            };
+
+        case "is-tien-shan-mountains-4wd-worth-it-almaty":
+            return {
+                title: "Is the 3-Day Tien Shan Mountains 4WD Expedition Worth It?",
+                description: "An honest look at the 3-day Tien Shan Mountains 4WD expedition from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7344af729678174013a09d88dc5f71020123e8110809e212e428cbfdaf1f5ac1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A 3-day 4WD expedition into the Tien Shan range reaches remote valleys and passes that standard single-day tours can't access, worth it for travelers wanting genuine wilderness exploration rather than a quick mountain viewpoint stop.", tourCard: { slug: "from-almaty-3-day-tien-shan-mountains-4wd", title: "From Almaty: 3-Day Tien Shan Mountains 4WD Expedition", description: "A 3-day 4WD expedition into the Tien Shan mountain range.", price: "From $1755", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7344af729678174013a09d88dc5f71020123e8110809e212e428cbfdaf1f5ac1.jpg" } },
+                    { title: "Practical Tips", content: "Pack for cold nights at altitude even in summer, since camping or lodging during the expedition sits well above the city." },
+                ],
+                faqs: [
+                    { q: "Is the 3-day Tien Shan Mountains 4WD expedition worth it?", a: "Yes, for travelers wanting genuine wilderness exploration of remote valleys that single-day tours can't reach." },
+                ],
+            };
+
+        case "is-assy-plateau-kairak-waterfall-2day-worth-it-almaty":
+            return {
+                title: "Is the Assy Plateau & Kairak Waterfall 2-Day Expedition Worth It?",
+                description: "An honest look at the 2-day Assy Plateau and Kairak Waterfall expedition from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ac037803ec330212c66b0839105bf87f62b12afc8dbe6f5fdf42c4b780bea60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Extending the standard Assy Plateau day trip into a 2-day expedition adds time at the remote Kairak Waterfall and an overnight camp on the grassland, worth it for travelers wanting more than a quick drive-through of the plateau.", tourCard: { slug: "from-almaty-assy-plateau-kairak-waterfal-2-day", title: "From Almaty: Assy Plateau & Kairak Waterfal 2-Day Expedition", description: "A 2-day expedition to Assy Plateau and Kairak Waterfall with overnight camping.", price: "From $1287", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7ac037803ec330212c66b0839105bf87f62b12afc8dbe6f5fdf42c4b780bea60.jpg" } },
+                    { title: "Practical Tips", content: "Bring warm sleeping gear — the plateau's high elevation means overnight temperatures drop sharply even in warmer months." },
+                ],
+                faqs: [
+                    { q: "Is the 2-day Assy Plateau and Kairak Waterfall expedition worth it?", a: "Yes, for travelers wanting more time at the remote waterfall and an overnight camp, beyond the standard day-trip version." },
+                ],
+            };
+
+        case "is-golden-ring-zhetysu-5day-worth-it-almaty":
+            return {
+                title: "Is the Golden Ring of Zhetysu 5-Day Tour Worth It?",
+                description: "An honest look at the 5-day Golden Ring of Zhetysu tour covering 3 national parks from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ea8e53e9e41ca958721cea9ebeae7003e4b352c4955979b0f903e5e29734721.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Looping through three national parks in the Zhetysu region over 5 days covers far more ground than any combination of single-day Charyn or Kolsay trips, worth it for travelers with enough time who want a complete tour of the region's landscapes in one booking.", tourCard: { slug: "golden-ring-of-zhetysu-5-day-tour-of-3", title: "Golden Ring of Zhetysu: 5-Day Tour of 3 National Parks", description: "A 5-day tour covering 3 national parks in the Zhetysu region.", price: "From $2860", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1ea8e53e9e41ca958721cea9ebeae7003e4b352c4955979b0f903e5e29734721.jpeg" } },
+                    { title: "Practical Tips", content: "Confirm the exact three parks on the itinerary before booking, since several similarly named Golden Ring packages exist with slightly different routes." },
+                ],
+                faqs: [
+                    { q: "Is the 5-day Golden Ring of Zhetysu tour worth it?", a: "Yes, for travelers with enough time who want a complete tour of the region's national parks in one booking rather than piecing together day trips." },
+                ],
+            };
+
         default:
             return null;
     }
