@@ -1048,6 +1048,69 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-motorbike-riding-class-worth-it-hoi-an":
+      return {
+        title: "Is the Scooter/Motorbike Riding Class Worth It in Hoi An?",
+        description: "An honest look at the scooter and motorbike riding crash course class in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This crash-course class teaches genuine scooter and motorbike riding basics in a controlled setting, worth it specifically for travelers who've never ridden before but want to rent a bike for Vietnam's countryside roads rather than relying on taxis or tours.",
+            tourCard: { slug: "scooter-motorbike-riding-class-crash-course-in-hoi-an", title: "Scooter/Motorbike Riding Class (crash course) in Hoi An", description: "A crash-course scooter and motorbike riding class in Hoi An.", price: "From $25", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed-toe shoes and clothing you don't mind getting dusty — this is hands-on practice, not a lecture.",
+          },
+        ],
+        faqs: [
+          { q: "Is the motorbike riding class worth it in Hoi An?", a: "Yes, specifically for complete beginners who want to safely learn before renting a scooter for Vietnam's countryside roads." },
+        ],
+      };
+
+    case "is-hue-imperial-city-day-trip-worth-it-hoi-an":
+      return {
+        title: "Is the Hue Imperial City Day Trip Worth It from Hoi An?",
+        description: "An honest look at the Hue Imperial City day trip with the Hai Van Pass from Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hue's Imperial City, Vietnam's former royal capital, gives a genuinely different historical layer than Hoi An's trading-port architecture, and most tours route through the scenic Hai Van Pass along the way, worth it for travelers with a full day to spare for deeper Vietnamese history.",
+            tourCard: { slug: "from-hoian-danang-hue-imperial-city-tour-with-haivan-pass-hoi-an", title: "From Hoian/Danang: Hue Imperial City Tour with Hai Van Pass", description: "A day trip to Hue's Imperial City via the Hai Van Pass from Hoi An.", price: "From $36", duration: "11 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day given the distance — confirm total travel time and whether the Hai Van Pass stop is weather-dependent.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hue Imperial City day trip worth it from Hoi An?", a: "Yes, for travelers with a full day to spare wanting a genuinely different historical layer — Vietnam's former royal capital — plus the scenic Hai Van Pass en route." },
+        ],
+      };
+
+    case "is-boxing-class-worth-it-hoi-an":
+      return {
+        title: "Is the Boxing Class with English-Speaking Trainer Worth It in Hoi An?",
+        description: "An honest look at the boxing class with an English-speaking trainer in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A real boxing class with proper English-language instruction gives a genuine fitness activity distinct from the town's usual food tours and craft workshops, worth it specifically for travelers wanting to keep up a workout routine while traveling.",
+            tourCard: { slug: "boxing-class-with-english-speaking-trainer-in-hoi-an", title: "Boxing Class with English-Speaking Trainer in Hoi An", description: "A boxing class with an English-speaking trainer in Hoi An.", price: "From $39", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-ghosts-death-mystery-unveiled-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear workout clothes and bring a water bottle — this is a genuine physical training session, not a cultural demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the boxing class worth it in Hoi An?", a: "Yes, for travelers wanting to keep up a real fitness routine while traveling, with proper English-language instruction." },
+        ],
+      };
+
     default:
       return null;
   }

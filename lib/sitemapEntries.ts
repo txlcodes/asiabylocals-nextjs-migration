@@ -2389,6 +2389,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-coffee-making-class-worth-it-hoi-an', 'is-memories-show-worth-it-hoi-an',
     'is-incense-making-workshop-worth-it-hoi-an', 'is-teh-dar-bamboo-circus-worth-it-hoi-an',
     'is-wood-carving-class-worth-it-hoi-an', 'is-ghosts-mystery-tour-worth-it-hoi-an',
+    'is-motorbike-riding-class-worth-it-hoi-an', 'is-hue-imperial-city-day-trip-worth-it-hoi-an',
+    'is-boxing-class-worth-it-hoi-an',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hoi-an/${slug}`,
     lastModified: new Date(),
