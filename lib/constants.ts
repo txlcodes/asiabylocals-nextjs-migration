@@ -1817,7 +1817,9 @@ export const SAPPORO_INFO_SLUGS = [
   'is-otaru-shakotan-yoichi-distillery-tour-worth-it-sapporo', 'is-sushi-roll-making-class-worth-it-sapporo',
   'is-nijo-market-tour-worth-it-sapporo', 'is-red-brick-government-office-tour-worth-it-sapporo',
   'is-wagashi-nerikiri-making-worth-it-sapporo', 'is-chopstick-making-workshop-worth-it-sapporo',
-  'is-sake-tasting-traditional-cups-worth-it-sapporo', 'is-sukiyaki-shabu-shabu-ayce-worth-it-sapporo'];
+  'is-sake-tasting-traditional-cups-worth-it-sapporo', 'is-sukiyaki-shabu-shabu-ayce-worth-it-sapporo',
+  'is-karaoke-experience-worth-it-sapporo', 'is-pub-crawl-worth-it-sapporo',
+  'is-hokkaido-historical-village-worth-it-sapporo', 'is-shikotsu-toya-snowshoe-onsen-worth-it-sapporo'];
 
 // Re-add a slug here ONLY once its page exists in lib/naraInfoContent.ts.
 export const NARA_INFO_SLUGS = [

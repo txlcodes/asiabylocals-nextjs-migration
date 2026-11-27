@@ -1406,6 +1406,90 @@ export function getSapporoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-karaoke-experience-worth-it-sapporo":
+      return {
+        title: "Is the Karaoke Experience with an English-Speaking Guide Worth It in Sapporo?",
+        description: "An honest look at the karaoke experience with an English-speaking guide in Sapporo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/karaoke-experience-with-english-speaking-guide-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Having a guide explain how a Japanese karaoke box actually works, from ordering food through the touchscreen to picking songs in English, removes the awkward guesswork of a first visit, worth it for travelers curious about this piece of Japanese nightlife but unsure where to start.",
+            tourCard: { slug: "karaoke-experience-with-english-speaking-guide-in-sapporo", title: "Karaoke Experience with English-Speaking Guide in Sapporo", description: "A karaoke box experience in Sapporo with an English-speaking guide.", price: "From $219", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/karaoke-experience-with-english-speaking-guide-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a group if you can, since karaoke boxes are rented by the room and the per-person cost drops with more people.",
+          },
+        ],
+        faqs: [
+          { q: "Is the karaoke experience worth it in Sapporo?", a: "Yes, for travelers curious about Japanese karaoke culture who want a guide to remove the first-visit guesswork." },
+        ],
+      };
+
+    case "is-pub-crawl-worth-it-sapporo":
+      return {
+        title: "Is the Local Dinner and Hidden Counter Pub Crawl Worth It in Sapporo?",
+        description: "An honest look at the local dinner and hidden counter pub crawl in Sapporo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/local-dinner-and-hidden-counter-pub-crawl-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Getting led into Sapporo's small, counter-only bars and dinner spots that don't have English signage or an obvious entrance gets you access a solo evening likely wouldn't find, worth it for travelers wanting a genuine local night out beyond Susukino's main strip.",
+            tourCard: { slug: "local-dinner-and-hidden-counter-pub-crawl-in-sapporo", title: "Local Dinner and Hidden Counter Pub Crawl in Sapporo", description: "A guided dinner and pub crawl through Sapporo's hidden counter-style bars.", price: "From $230", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/local-dinner-and-hidden-counter-pub-crawl-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace your drinking across the stops, since this covers several small counters rather than one sit-down dinner.",
+          },
+        ],
+        faqs: [
+          { q: "Is the pub crawl worth it in Sapporo?", a: "Yes, for access to small counter bars and local spots that a solo evening out likely wouldn't find on its own." },
+        ],
+      };
+
+    case "is-hokkaido-historical-village-worth-it-sapporo":
+      return {
+        title: "Is the Hokkaido Historical Village Worth It from Sapporo?",
+        description: "An honest look at the Hokkaido Historical Village, step into the frontier.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hokkaido-historical-village-step-into-the-frontier-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Walking through relocated original buildings from Hokkaido's frontier settlement era gives a genuinely different historical angle than the city's clock tower and government office sites, worth it for travelers curious about how the island was actually settled rather than just its present-day sights.",
+            tourCard: { slug: "hokkaido-historical-village-step-into-the-frontier-in-sapporo", title: "Hokkaido Historical Village, Step into the Frontier in Sapporo", description: "A visit to Hokkaido Historical Village's relocated frontier-era buildings.", price: "From $223", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/hokkaido-historical-village-step-into-the-frontier-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Budget a few hours, since the village grounds are large and spread across several distinct building clusters.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hokkaido Historical Village worth it from Sapporo?", a: "Yes, for a genuinely different historical angle on how Hokkaido was settled, beyond the city's usual sights." },
+        ],
+      };
+
+    case "is-shikotsu-toya-snowshoe-onsen-worth-it-sapporo":
+      return {
+        title: "Is the Shikotsu-Toya National Park Snowshoe Hike and Onsen Worth It from Sapporo?",
+        description: "An honest look at the Shikotsu-Toya National Park guided snowshoe hike and onsen day.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/shikotsu-toya-national-park-guided-snowshoe-hike-and-onsen-in-sapporo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a guided snowshoe hike through the national park's winter landscape with a hot spring soak afterward gives a genuinely well-rounded day combining activity and recovery, worth it for travelers visiting Sapporo in winter who want more than a city walk.",
+            tourCard: { slug: "shikotsu-toya-national-park-guided-snowshoe-hike-and-onsen-in-sapporo", title: "Shikotsu-Toya National Park: Guided Snowshoe Hike and Onsen in Sapporo", description: "A guided snowshoe hike through Shikotsu-Toya National Park followed by an onsen soak.", price: "From $270", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/shikotsu-toya-national-park-guided-snowshoe-hike-and-onsen-in-sapporo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring or rent proper winter layers, since the hike itself happens in genuine snow conditions before the onsen warm-up.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shikotsu-Toya snowshoe hike and onsen worth it from Sapporo?", a: "Yes, for a well-rounded winter day pairing real activity with a hot spring soak, beyond a standard city walk." },
+        ],
+      };
+
     default:
             return null;
     }
