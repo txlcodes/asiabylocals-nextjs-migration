@@ -4774,6 +4774,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-seven-wells-waterfall-tour-worth-it-langkawi":
+            return {
+                title: "Is the Seven Wells Waterfalls and Sacred Blue Pool Trip Worth It in Langkawi?",
+                description: "An honest look at the Seven Wells Waterfalls and Sacred Blue Pool trip in Langkawi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85e925c790205815eacede765d9f6a7d747f96e2f4012786405c348172ca2e1d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Seven Wells is a genuine, moderately demanding hike up a series of natural stone pools near Gunung Mat Cincang, worth it specifically for travelers who want a real swim-in-the-wild payoff rather than the gentler, accessible walk offered at Secrets of the Sanctuary.", tourCard: { slug: "langkawi-seven-wells-waterfalls-and-sacred-blue", title: "Langkawi: Seven Wells Waterfalls and Sacred Blue Pool Trip", description: "A guided trip to Seven Wells Waterfalls and the Sacred Blue Pool in Langkawi.", price: "From $117", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85e925c790205815eacede765d9f6a7d747f96e2f4012786405c348172ca2e1d.jpg" } },
+                    { title: "Practical Tips", content: "Bring sturdy shoes with grip, since the rocks around the pools get slippery, and pack swimwear for the climb's reward." }
+                ],
+                faqs: [
+                    { q: "Is Seven Wells worth hiking in Langkawi?", a: "Yes, specifically for travelers wanting a real swim-in-the-wild hike, more demanding than the island's gentler rainforest walks." }
+                ],
+            };
+
+        case "is-private-fishing-charter-worth-it-langkawi":
+            return {
+                title: "Is the Private Fishing Charter with Local Captain Worth It in Langkawi?",
+                description: "An honest look at the private fishing charter with a local captain in Langkawi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cec85a207d611fa2613fc4dab0f3bc530fbeab8a49f517503955311ae227a5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private charter with your own boat and local captain is a genuinely different experience from a shared fishing trip, worth it specifically for travelers wanting a flexible, unhurried day on the water rather than a fixed group itinerary.", tourCard: { slug: "langkawi-private-fishing-charter-with-local", title: "Langkawi Private Fishing Charter with Local Captain", description: "A private fishing charter with a local captain in Langkawi.", price: "From $324", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cec85a207d611fa2613fc4dab0f3bc530fbeab8a49f517503955311ae227a5.jpg" } },
+                    { title: "Practical Tips", content: "Ask the captain ahead about keeping your catch — some charters will cook what you reel in back at the dock." }
+                ],
+                faqs: [
+                    { q: "Is the private fishing charter worth it in Langkawi?", a: "Yes, for travelers wanting a flexible, unhurried day on the water rather than a fixed group itinerary." }
+                ],
+            };
+
+        case "is-private-full-day-car-tour-worth-it-langkawi":
+            return {
+                title: "Is the Private Full-Day Car Tour & Island Highlights Worth It in Langkawi?",
+                description: "An honest look at the private full-day car tour covering Langkawi's island highlights.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private car and driver for a full day covers the island's spread-out highlights without the fixed pace of a group tour, worth it specifically for families or groups who want flexibility on which stops to linger at.", tourCard: { slug: "langkawi-private-full-day-car-tour-island", title: "Langkawi: Private Full-Day Car Tour & Island Highlights", description: "A private full-day car tour covering Langkawi's main highlights.", price: "From $72", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d4e3c95164cf1404f1315fe80aee6ba86d7fbe5f2b28271d533a265c8e485606.jpg" } },
+                    { title: "Practical Tips", content: "Tell your driver upfront which stops matter most to you — the itinerary is genuinely flexible on a private car tour." }
+                ],
+                faqs: [
+                    { q: "Is the private full-day car tour worth it in Langkawi?", a: "Yes, for families or groups wanting flexible pacing across the island's spread-out highlights rather than a fixed group schedule." }
+                ],
+            };
+
+        case "is-dangli-island-snorkeling-worth-it-langkawi":
+            return {
+                title: "Is Dangli Island Snorkeling Worth It in Langkawi?",
+                description: "An honest look at the Dangli Island snorkeling trip in Langkawi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cec85a207d611fa2613fc4dab0f3bc530fbeab8a49f517503955311ae227a5.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dangli Island focuses specifically on snorkeling at one quieter reef spot rather than the multi-stop format of the hidden islands discovery cruise, worth it for travelers who'd rather spend more time in the water at fewer stops than hop between several quick ones.", tourCard: { slug: "langkawi-dangli-island-snorkeling", title: "Langkawi: Dangli Island Snorkeling", description: "A snorkeling trip to Dangli Island in Langkawi.", price: "From $324", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/02cec85a207d611fa2613fc4dab0f3bc530fbeab8a49f517503955311ae227a5.jpg" } },
+                    { title: "Practical Tips", content: "If you'd rather see several islands briefly than snorkel longer at one, the hidden islands discovery cruise is the better fit instead." }
+                ],
+                faqs: [
+                    { q: "Is Dangli Island snorkeling worth it in Langkawi?", a: "Yes, specifically for travelers who want more time in the water at one quieter spot rather than hopping between several islands." }
+                ],
+            };
+
         default:
             return null;
     }
