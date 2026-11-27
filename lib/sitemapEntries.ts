@@ -1603,6 +1603,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-pha-chor-grand-canyon-worth-it-chiang-mai', 'is-michelin-gastronomic-tour-worth-it-chiang-mai',
     'is-old-city-walking-tour-worth-it-chiang-mai', 'is-herbal-ball-workshop-worth-it-chiang-mai',
     'is-historic-old-city-bike-tour-worth-it-chiang-mai', 'is-local-food-markets-walking-tour-worth-it-chiang-mai',
+    'is-pai-sticky-waterfalls-tour-worth-it-chiang-mai', 'is-chiang-dao-caves-trek-worth-it-chiang-mai',
+    'is-mae-kampong-village-trek-worth-it-chiang-mai', 'is-karen-village-homestay-trek-worth-it-chiang-mai',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),

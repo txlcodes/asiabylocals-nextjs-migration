@@ -1618,6 +1618,8 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'is-pha-chor-grand-canyon-worth-it-chiang-mai', 'is-michelin-gastronomic-tour-worth-it-chiang-mai',
   'is-old-city-walking-tour-worth-it-chiang-mai', 'is-herbal-ball-workshop-worth-it-chiang-mai',
   'is-historic-old-city-bike-tour-worth-it-chiang-mai', 'is-local-food-markets-walking-tour-worth-it-chiang-mai',
+  'is-pai-sticky-waterfalls-tour-worth-it-chiang-mai', 'is-chiang-dao-caves-trek-worth-it-chiang-mai',
+  'is-mae-kampong-village-trek-worth-it-chiang-mai', 'is-karen-village-homestay-trek-worth-it-chiang-mai',
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',

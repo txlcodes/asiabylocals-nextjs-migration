@@ -1010,6 +1010,62 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-pai-sticky-waterfalls-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Pai 2-Day Tour with Sticky Waterfalls Worth It from Chiang Mai?",
+                description: "An honest look at the Pai 2-day tour with Sticky Waterfalls from Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pai-2-day-tour-with-sticky-waterfalls-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pai's laid-back mountain-valley atmosphere and famous 762-curve drive give a genuinely different pace and scenery from Chiang Mai itself, and a 2-day format makes the long drive worthwhile, worth it for travelers wanting the classic northern Thailand road trip experience.", tourCard: { slug: "pai-2-day-tour-with-sticky-waterfalls-in-chiang-mai", title: "Pai 2-Day Tour with Sticky Waterfalls in Chiang Mai", description: "A 2-day tour to Pai with a Sticky Waterfalls stop from Chiang Mai.", price: "From $543", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/pai-2-day-tour-with-sticky-waterfalls-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Take motion sickness medication seriously before the drive — the road to Pai genuinely has 762 curves." }
+                ],
+                faqs: [
+                    { q: "Is the Pai 2-day tour worth it from Chiang Mai?", a: "Yes, for travelers wanting the classic laid-back mountain-valley road trip experience that Chiang Mai itself doesn't offer." }
+                ],
+            };
+
+        case "is-chiang-dao-caves-trek-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Dao Caves and Jungle Trek Worth It from Chiang Mai?",
+                description: "An honest look at the Chiang Dao Caves and jungle trek with lunch from Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/chiang-dao-caves-and-jungle-trek-with-lunch-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Chiang Dao's limestone cave system paired with a jungle trek gives a genuinely different underground-and-forest day than Chiang Mai's usual waterfall and elephant circuit, worth it for travelers wanting cave exploration alongside their trekking.", tourCard: { slug: "chiang-dao-caves-and-jungle-trek-with-lunch-in-chiang-mai", title: "Chiang Dao Caves and Jungle Trek with Lunch in Chiang Mai", description: "A tour combining Chiang Dao Caves and a jungle trek with lunch.", price: "From $264", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/chiang-dao-caves-and-jungle-trek-with-lunch-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a flashlight or headlamp, since parts of the Chiang Dao cave system go beyond the lit main chambers." }
+                ],
+                faqs: [
+                    { q: "Is the Chiang Dao Caves and jungle trek worth it from Chiang Mai?", a: "Yes, for travelers wanting genuine cave exploration alongside their trekking, distinct from the usual waterfall circuit." }
+                ],
+            };
+
+        case "is-mae-kampong-village-trek-worth-it-chiang-mai":
+            return {
+                title: "Is the Mae Kampong Village Trek and Food Experience Worth It?",
+                description: "An honest look at the Mae Kampong Village trek and local food experience from Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mae-kampong-village-trek-and-local-food-experience-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Mae Kampong's misty hillside village and genuine local food give a quieter, more community-focused experience than Chiang Mai's bigger trekking operations, worth it for travelers wanting a real village visit rather than a staged hill-tribe stop.", tourCard: { slug: "mae-kampong-village-trek-and-local-food-experience-in-chiang-mai", title: "Mae Kampong Village Trek and Local Food Experience in Chiang Mai", description: "A trek and local food experience in Mae Kampong Village.", price: "From $244", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/mae-kampong-village-trek-and-local-food-experience-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Try the local coffee — Mae Kampong is known regionally for its home-grown, home-roasted beans." }
+                ],
+                faqs: [
+                    { q: "Is the Mae Kampong Village trek worth it from Chiang Mai?", a: "Yes, for travelers wanting a genuine, community-focused village visit rather than a staged hill-tribe stop." }
+                ],
+            };
+
+        case "is-karen-village-homestay-trek-worth-it-chiang-mai":
+            return {
+                title: "Is the Karen Village Homestay and Trek Worth It from Chiang Mai?",
+                description: "An honest look at the Karen Village homestay and trek, 3 days 2 nights, from Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/karen-village-homestay-and-trek-3-day-2-night-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Staying overnight in a Karen village rather than just passing through gives a genuinely deeper cultural experience than a day-trip trek, worth it for travelers with real time who want to understand hill-tribe life beyond a quick photo stop.", tourCard: { slug: "karen-village-homestay-and-trek-3-day-2-night-in-chiang-mai", title: "Karen Village Homestay and Trek 3-Day 2-Night in Chiang Mai", description: "A 3-day, 2-night homestay and trek in a Karen village from Chiang Mai.", price: "From $845", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/karen-village-homestay-and-trek-3-day-2-night-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pack light but bring layers, since homestay accommodation is basic and mountain nights get cool." }
+                ],
+                faqs: [
+                    { q: "Is the Karen Village homestay and trek worth it from Chiang Mai?", a: "Yes, for travelers with real time who want a genuinely deeper cultural experience than a quick day-trip trek." }
+                ],
+            };
+
         default:
             return null;
     }
