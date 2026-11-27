@@ -1573,6 +1573,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-burj-khalifa-proposal-vow-renewal-worth-it-dubai":
+      return {
+        title: "Is the Burj Khalifa Proposal, Anniversary & Vow Renewal Package Worth It?",
+        description: "An honest look at the Burj Khalifa proposal, anniversary, and vow renewal package in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-414565/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Arranging a proposal, anniversary celebration, or vow renewal at the top of the world's tallest building gives a genuinely dramatic backdrop that no other venue in Dubai can match, worth it for couples wanting the moment to feel unmistakably special rather than just photogenic.",
+            tourCard: { slug: "dubai-burj-khalifa-proposal-anniversary-vow-renewa", title: "Dubai: Burj Khalifa Proposal, Anniversary & Vow Renewal", description: "A proposal, anniversary, or vow renewal package at the top of Burj Khalifa.", price: "From $6676", duration: "6.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-414565/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book well in advance and confirm exactly what's included, since packages at this price point vary widely on photography, decor, and timing flexibility.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Burj Khalifa proposal and vow renewal package worth it?", a: "Yes, for couples wanting an unmistakably dramatic, unforgettable setting rather than just a photogenic city backdrop." },
+        ],
+      };
+
+    case "is-virtual-swiss-alps-tour-worth-it-dubai":
+      return {
+        title: "Is the Virtual Swiss Alps Tour Interactive Experience Worth It in Dubai?",
+        description: "An honest look at the Virtual Swiss Alps interactive video tour experience in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1462999/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "An interactive virtual experience transporting visitors to the Swiss Alps is a genuinely novel indoor activity distinct from anything else in Dubai's usual desert-and-skyline lineup, worth it for travelers wanting a quick, air-conditioned diversion with a different kind of visual spectacle.",
+            tourCard: { slug: "virtual-swiss-alps-tour-interactive-video-experien", title: "Virtual Swiss Alps Tour: Interactive Video Experience", description: "An interactive virtual video experience simulating a tour of the Swiss Alps.", price: "From $1615", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1462999/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Treat this as a novelty indoor activity rather than a substitute for Dubai's outdoor desert experiences — it's a different kind of attraction entirely.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Virtual Swiss Alps tour worth it in Dubai?", a: "Yes, for travelers wanting a genuinely novel, air-conditioned diversion distinct from the usual desert-and-skyline activities." },
+        ],
+      };
+
+    case "is-nest-by-sonara-luxury-desert-worth-it-dubai":
+      return {
+        title: "Is The Nest by Sonara Luxury Overnight Desert Experience Worth It?",
+        description: "An honest look at The Nest by Sonara luxury overnight desert experience in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1099758/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "An 18-hour luxury overnight stay in the desert with high-end accommodation goes well beyond a standard desert safari's few hours, worth it for travelers wanting a genuinely immersive, upscale desert night rather than a quick dinner-and-dune-bashing stop.",
+            tourCard: { slug: "the-nest-by-sonara-luxury-overnight-desert-experie", title: "The Nest by Sonara: Luxury Overnight Desert Experience Dubai", description: "An 18-hour luxury overnight desert experience in Dubai.", price: "From $1995", duration: "18 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1099758/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack warm layers for the overnight stay, since desert temperatures drop sharply after dark even in warmer months.",
+          },
+        ],
+        faqs: [
+          { q: "Is The Nest by Sonara luxury overnight desert experience worth it?", a: "Yes, for travelers wanting a genuinely immersive, upscale desert night, well beyond a standard few-hour safari." },
+        ],
+      };
+
+    case "is-platinum-conservation-drive-al-maha-worth-it-dubai":
+      return {
+        title: "Is the Platinum Conservation Drive and Breakfast at Al Maha Worth It?",
+        description: "An honest look at the Platinum Conservation Drive and breakfast at Al Maha in Dubai.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-32154/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A guided conservation drive through the protected Al Maha reserve followed by breakfast gives genuine access to desert wildlife and landscape conservation work that standard dune-bashing safaris don't cover, worth it for travelers with a real interest in the desert's ecology.",
+            tourCard: { slug: "dubai-platinum-conservation-drive-and-breakfast-at", title: "DUBAI: Platinum Conservation Drive and Breakfast at Al Maha", description: "A conservation drive through the Al Maha reserve with breakfast included.", price: "From $1105", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-32154/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go early morning, since wildlife sightings and the desert light are both best in the first hours after sunrise.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Platinum Conservation Drive and Al Maha breakfast worth it?", a: "Yes, for travelers with a genuine interest in desert ecology and conservation, beyond standard dune-bashing safaris." },
+        ],
+      };
+
     default:
       return null;
   }

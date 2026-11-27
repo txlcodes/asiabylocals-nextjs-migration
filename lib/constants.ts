@@ -2632,6 +2632,8 @@ export const DUBAI_INFO_SLUGS = [
   'is-jetski-burj-arab-worth-it-dubai', 'is-house-of-hype-worth-it-dubai',
   'is-ferrari-rental-worth-it-dubai', 'is-zerzura-buggy-dinner-worth-it-dubai',
   'is-russian-bathhouse-worth-it-dubai', 'is-donut-ride-water-sports-worth-it-dubai',
+  'is-burj-khalifa-proposal-vow-renewal-worth-it-dubai', 'is-virtual-swiss-alps-tour-worth-it-dubai',
+  'is-nest-by-sonara-luxury-desert-worth-it-dubai', 'is-platinum-conservation-drive-al-maha-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

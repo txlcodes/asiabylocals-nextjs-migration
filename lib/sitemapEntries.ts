@@ -2054,7 +2054,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-storm-coaster-worth-it-dubai', 'is-aya-universe-worth-it-dubai',
     'is-jetski-burj-arab-worth-it-dubai', 'is-house-of-hype-worth-it-dubai',
     'is-ferrari-rental-worth-it-dubai', 'is-zerzura-buggy-dinner-worth-it-dubai',
-    'is-russian-bathhouse-worth-it-dubai', 'is-donut-ride-water-sports-worth-it-dubai'].map(slug => ({
+    'is-russian-bathhouse-worth-it-dubai', 'is-donut-ride-water-sports-worth-it-dubai',
+    'is-burj-khalifa-proposal-vow-renewal-worth-it-dubai', 'is-virtual-swiss-alps-tour-worth-it-dubai',
+    'is-nest-by-sonara-luxury-desert-worth-it-dubai', 'is-platinum-conservation-drive-al-maha-worth-it-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
