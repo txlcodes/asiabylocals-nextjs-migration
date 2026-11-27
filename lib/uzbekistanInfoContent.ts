@@ -1402,6 +1402,74 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-human-house-walking-tour-worth-it-tashkent":
+            return {
+                title: "Is the Guided Walking Tour with Human House Visit Worth It?",
+                description: "An honest look at the guided walking tour with a Human House visit in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/42d113e0b318849e5cb84d347ee2876824a522e10cafbec67bdd5325ba6a1c59.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a city walking tour with a visit to a traditional Uzbek 'Human House' gives genuine insight into local domestic life and hospitality, worth it for travelers who want more than monument sightseeing.", tourCard: { slug: "tashkent-guided-walking-tour-with-human-house", title: "Tashkent: Guided Walking Tour with Human House Visit", description: "A guided walking tour of Tashkent including a visit to a traditional Human House.", price: "From $25", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/42d113e0b318849e5cb84d347ee2876824a522e10cafbec67bdd5325ba6a1c59.jpg" } },
+                    { title: "Practical Tips", content: "Ask your guide about the family's daily life and customs — the home visit is the part that gives this tour real depth." }
+                ],
+                faqs: [
+                    { q: "Is the guided walking tour with Human House visit worth it in Tashkent?", a: "Yes, it gives genuine insight into local domestic life beyond standard monument sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Human House walking tour worth it in Tashkent?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it gives genuine insight into local domestic life beyond standard sightseeing." } }
+                ] },
+            };
+
+        case "is-soviet-metro-baker-dishes-tour-worth-it-tashkent":
+            return {
+                title: "Is the Soviet Metro Tour, Baker Visit & 6 Uzbek Dishes Worth It?",
+                description: "An honest look at the Soviet metro tour with a baker visit and 6 Uzbek dish tasting in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ad953abdd500c42667eb0bf152e2d19cf9cd1e7b8a86239655107f49b6ac691a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Tashkent's Soviet-era metro stations are genuinely striking, ornate underground architecture, and pairing them with a traditional baker visit and a 6-dish tasting gives a varied, well-rounded half-day worth it for travelers wanting architecture, craft, and food in one booking.", tourCard: { slug: "tashkent-soviet-metro-tour-baker-visit-6-uzbek", title: "Tashkent: Soviet Metro Tour, Baker Visit & 6 Uzbek Dishes", description: "A tour covering Tashkent's Soviet-era metro stations, a traditional baker, and 6 Uzbek dishes.", price: "From $65", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ad953abdd500c42667eb0bf152e2d19cf9cd1e7b8a86239655107f49b6ac691a.jpg" } },
+                    { title: "Practical Tips", content: "Photography rules vary by metro station — check with your guide before taking photos underground." }
+                ],
+                faqs: [
+                    { q: "Is the Soviet metro tour with baker visit and 6 Uzbek dishes worth it?", a: "Yes, it combines striking underground architecture, a traditional craft visit, and real food variety in one well-rounded half-day." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Soviet metro and food tour worth it in Tashkent?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it combines striking architecture with a traditional craft visit and real food variety." } }
+                ] },
+            };
+
+        case "is-parks-and-nature-walking-tour-worth-it-tashkent":
+            return {
+                title: "Is the Parks and Nature Walking Tour Worth It in Tashkent?",
+                description: "An honest look at the parks and nature walking tour in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb0f8d27be5503c1012855114e8642fa8e0e98d5cdc1ee11dc92d5470694ea6a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A relaxed walk through Tashkent's green spaces gives a quieter, slower-paced side of the city, worth it for travelers who want a break from monument and metro sightseeing rather than another packed cultural stop.", tourCard: { slug: "tashkent-parks-and-nature-walking-tour-with-guide", title: "Tashkent: Parks and Nature Walking Tour with Guide", description: "A guided walking tour through Tashkent's parks and green spaces.", price: "From $39", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eb0f8d27be5503c1012855114e8642fa8e0e98d5cdc1ee11dc92d5470694ea6a.jpg" } },
+                    { title: "Practical Tips", content: "A good pick for a lighter day in your itinerary, between heavier sightseeing days." }
+                ],
+                faqs: [
+                    { q: "Is the parks and nature walking tour worth it in Tashkent?", a: "Yes, as a relaxed, quieter break from the city's monument and metro sightseeing." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the parks and nature walking tour worth it in Tashkent?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a relaxed, quieter break from monument sightseeing." } }
+                ] },
+            };
+
+        case "is-food-bazaar-local-life-tour-worth-it-tashkent":
+            return {
+                title: "Is the Food, Bazaar & Local Life Walking Tour Worth It in Tashkent?",
+                description: "An honest look at the food, bazaar, and local life walking tour in Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This walk combines market stalls, food tastings, and everyday local life into one route, worth it for travelers who want a genuine sense of how residents actually shop and eat rather than a monument-focused itinerary.", tourCard: { slug: "tashkent-food-bazaar-local-life-walking-tour", title: "Tashkent: Food, Bazaar & Local Life Walking Tour", description: "A walking tour combining food tastings, market stalls, and local life in Tashkent.", price: "From $65", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6fce14e3310c5ecabd29be4d82fc0107b374a3cdf5425c2a66c9ae130de7a0b3.jpg" } },
+                    { title: "Practical Tips", content: "Go hungry and pace yourself — the tastings add up across the market stops." }
+                ],
+                faqs: [
+                    { q: "Is the Food, Bazaar and Local Life walking tour worth it in Tashkent?", a: "Yes, for a genuine sense of how residents actually shop and eat, beyond a monument-focused itinerary." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Food, Bazaar and Local Life tour worth it in Tashkent?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuine sense of local daily life beyond monument sightseeing." } }
+                ] },
+            };
+
         default:
             return null;
     }
