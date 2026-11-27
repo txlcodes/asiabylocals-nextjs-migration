@@ -1311,6 +1311,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-yuyuan-old-street-food-walk-worth-it-shanghai":
+      return {
+        title: "Is the Yuyuan Old Street Food Walking Tour Worth It in Shanghai?",
+        description: "An honest look at the Yuyuan Old Street food walking tour in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a26d7b1f82ba066673eb90cac8df47fbf87a22cf6d481161d23924a2d69c0ca9.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yuyuan's old street is already a popular stop for its bazaar and garden, but most visitors walk through without knowing which stalls are actually worth eating at — a guided food walk here is worth it specifically because it turns a crowded tourist street into a structured tasting route with context on what you're eating.",
+            tourCard: { slug: "shanghai-yuyuan-old-street-food-walking-tour-225", title: "Shanghai: Yuyuan Old Street Food Walking Tour (2–2.5 Hours)", description: "A guided food walking tour through Yuyuan's old street stalls.", price: "From $63", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a26d7b1f82ba066673eb90cac8df47fbf87a22cf6d481161d23924a2d69c0ca9.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry and skip breakfast beforehand — the whole point is tasting your way through multiple stalls rather than one sit-down meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yuyuan Old Street food walking tour worth it in Shanghai?", a: "Yes, it turns an often-crowded tourist street into a structured, well-explained tasting route." },
+        ],
+      };
+
+    case "is-local-market-food-tasting-tour-worth-it-shanghai":
+      return {
+        title: "Is the Local Market Tour with Food Tastings Worth It in Shanghai?",
+        description: "An honest look at the local market tour with food tastings in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/30033b163163e2da68e4df137ae026ee89f2aa1cd5b0469f5f84fb8ad30cce2c.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour takes you into a genuine working local market, not a tourist-facing food street, with a guide explaining unfamiliar produce and ingredients between tastings — worth it for travelers who want to see how Shanghai residents actually shop and eat day to day.",
+            tourCard: { slug: "shanghai-local-market-tour-with-food-tastings", title: "Shanghai: Local Market Tour with Food Tastings", description: "A guided tour of a local market with food tastings.", price: "From $53", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/30033b163163e2da68e4df137ae026ee89f2aa1cd5b0469f5f84fb8ad30cce2c.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring cash for any extra snacks you want to try beyond what's included — vendors at a working market rarely take cards.",
+          },
+        ],
+        faqs: [
+          { q: "Is the local market tour with food tastings worth it in Shanghai?", a: "Yes, it shows a genuine working market rather than a tourist food street, with a guide to explain what you're seeing." },
+        ],
+      };
+
+    case "is-maxicheng-acrobatic-show-worth-it-shanghai":
+      return {
+        title: "Is the Maxicheng Theatre Acrobatic Show Worth It in Shanghai?",
+        description: "An honest look at the Maxicheng Theatre acrobatic show in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4b3f6a7f572a5266d8da9f56a9b2306b53cb48fa7efb8989eb9e45f7dcf91001.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shanghai has more than one acrobatic show venue, and Maxicheng Theatre is a genuine alternative to the better-known ERA show — worth it if you want the same high-energy acrobatics tradition at a different venue, schedule, or price point.",
+            tourCard: { slug: "shanghai-maxicheng-theatre-acrobatic-show-tickets", title: "Shanghai Maxicheng Theatre Acrobatic Show Tickets", description: "Tickets to the acrobatic show at Maxicheng Theatre.", price: "From $72", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4b3f6a7f572a5266d8da9f56a9b2306b53cb48fa7efb8989eb9e45f7dcf91001.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check showtimes before booking other evening plans — most performances run a single nightly slot.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Maxicheng Theatre acrobatic show worth it in Shanghai?", a: "Yes, as a genuine alternative acrobatics venue if the better-known show doesn't fit your schedule." },
+        ],
+      };
+
+    case "is-cherry-blossom-pastry-making-worth-it-shanghai":
+      return {
+        title: "Is Cherry Blossom Pastry Making Worth It in Shanghai?",
+        description: "An honest look at the cherry blossom pastry making class in Shanghai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a seasonal, visually distinctive pastry class built around cherry-blossom-themed designs rather than a generic cooking lesson — worth it for travelers looking for a craft activity with a pretty, shareable result rather than another dumpling or noodle class.",
+            tourCard: { slug: "cherry-blossom-pastry-making-in-shanghai", title: "Cherry Blossom Pastry Making in Shanghai", description: "A hands-on cherry blossom themed pastry making class.", price: "From $78", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b87f0fe883dbf85f400b9bd2d3a758b52fd612e5f3462fa8e1884eb08aea06b6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask whether the class runs year-round or only during cherry blossom season — the designs are themed but the class itself is usually offered regardless of season.",
+          },
+        ],
+        faqs: [
+          { q: "Is cherry blossom pastry making worth it in Shanghai?", a: "Yes, for a visually distinctive craft class that's a nice change from the city's dumpling and noodle cooking classes." },
+        ],
+      };
+
     default:
       return null;
   }
