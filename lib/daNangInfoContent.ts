@@ -1019,6 +1019,90 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-cham-island-speedboat-snorkeling-worth-it-da-nang":
+      return {
+        title: "Is the Cham Island Speedboat & Snorkeling Day Tour Worth It?",
+        description: "An honest look at the Cham Island speedboat and snorkeling day tour from Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cham Island's marine protected waters give genuinely clearer snorkeling than most mainland beach spots, worth it specifically for travelers wanting a real snorkeling destination rather than the shorter speedboat-and-fishing outing closer to the city.",
+            tourCard: { slug: "cham-island-speedboat-snorkeling-day-tour", title: "Cham Island Speedboat & Snorkeling Day Tour", description: "A speedboat and snorkeling day tour to Cham Island from Da Nang.", price: "From $59", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book earlier in your trip in case rough seas force a reschedule — this is a longer day than the shorter speedboat-and-fishing outing closer to shore.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cham Island speedboat and snorkeling tour worth it from Da Nang?", a: "Yes, specifically for travelers wanting genuinely clear marine-protected waters rather than a shorter, closer-to-shore speedboat outing." },
+        ],
+      };
+
+    case "is-dong-giang-heaven-gate-tour-worth-it-da-nang":
+      return {
+        title: "Is the Dong Giang Heaven Gate Tour with Lunch Worth It?",
+        description: "An honest look at the Dong Giang Heaven Gate tour with lunch from Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dong Giang's mountain pass and 'Heaven Gate' viewpoint give a completely different highland landscape than Da Nang's beaches and city sights, worth it specifically for travelers wanting genuine mountain scenery without the longer drive out to Hue or Bach Ma.",
+            tourCard: { slug: "dong-giang-heaven-gate-tour-with-lunch-in-da-nang", title: "Dong Giang Heaven Gate Tour with Lunch in Da Nang", description: "A tour to Dong Giang's Heaven Gate viewpoint with lunch, from Da Nang.", price: "From $70", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light jacket — the higher elevation at Heaven Gate can be noticeably cooler than Da Nang's coastline.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dong Giang Heaven Gate tour worth it from Da Nang?", a: "Yes, for travelers wanting genuine mountain scenery closer to the city, without the longer drive out to Hue or Bach Ma." },
+        ],
+      };
+
+    case "is-private-fitness-class-worth-it-da-nang":
+      return {
+        title: "Is the Fitness Class with a Private Personal Trainer Worth It?",
+        description: "An honest look at the private personal trainer fitness class in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private trainer session lets you keep up a real fitness routine while traveling, worth it specifically for travelers who don't want to lose momentum on their workout habits during a trip focused on sightseeing and food.",
+            tourCard: { slug: "fitness-class-private-personal-trainer-all-levels-in-da-nang", title: "Fitness Class, Private Personal Trainer - All Levels in Da Nang", description: "A private personal trainer fitness class for all levels in Da Nang.", price: "From $51", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention your fitness level and any goals beforehand, since the session is tailored to all levels rather than a fixed format.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private personal trainer fitness class worth it in Da Nang?", a: "Yes, for travelers wanting to keep up a real fitness routine while traveling, rather than losing momentum during a sightseeing-heavy trip." },
+        ],
+      };
+
+    case "is-night-motorbike-han-cruise-worth-it-da-nang":
+      return {
+        title: "Is the Night City Motorbike and Han Cruise by Aodai Riders Worth It?",
+        description: "An honest look at the night city motorbike tour and Han River cruise by Aodai Riders in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a night motorbike tour with a Han River cruise covers both the city's illuminated streets and the Dragon Bridge from the water, worth it specifically for travelers wanting both perspectives on Da Nang after dark in one booking.",
+            tourCard: { slug: "da-nang-night-city-motorbike-and-han-cruise-by-aodai-riders-da-nang", title: "Da Nang Night City Motorbike and Han Cruise by Aodai Riders", description: "A night motorbike tour and Han River cruise with Aodai-dressed riders.", price: "From $62", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light layer — riding on the back of a motorbike at night can feel cooler than walking the same streets.",
+          },
+        ],
+        faqs: [
+          { q: "Is the night motorbike and Han cruise tour worth it in Da Nang?", a: "Yes, for travelers wanting both the city's illuminated streets and a river view of the Dragon Bridge covered in one evening booking." },
+        ],
+      };
+
     default:
       return null;
   }
