@@ -969,6 +969,8 @@ export const BHAKTAPUR_INFO_SLUGS = [
   'is-changunarayan-hike-worth-it-bhaktapur', 'is-bicycle-heritage-tour-worth-it-bhaktapur',
   'is-woodcarving-workshop-worth-it-bhaktapur', 'bhaktapur-travel-guide-2026',
   'is-pottery-curd-workshop-worth-it-bhaktapur', 'is-nagarkot-sunrise-bhaktapur-tour-worth-it',
+  'is-maligaun-viewpoint-hike-worth-it-bhaktapur', 'is-ranikot-hike-temple-worth-it-bhaktapur',
+  'is-namo-buddha-panauti-bhaktapur-tour-worth-it', 'is-bhaktapur-patan-streets-behind-squares-worth-it',
 ];
 
 export const LUMBINI_INFO_SLUGS = [

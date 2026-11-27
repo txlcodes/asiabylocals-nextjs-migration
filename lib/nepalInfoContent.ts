@@ -3089,6 +3089,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-maligaun-viewpoint-hike-worth-it-bhaktapur":
+            return {
+                title: "Is the Maligaun Viewpoint Guided Hike Worth It from Bhaktapur?",
+                description: "An honest look at the Maligaun viewpoint guided hike from Bhaktapur.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c78afee6fed2d435974cf716591b621751b21addd75d58a414307e89574cb1dc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This guided hike leads to a genuinely scenic, lesser-known viewpoint outside the city, worth it for travelers who've already covered Bhaktapur's Durbar Square and want a quieter, more active outdoor outing.", tourCard: { slug: "bhaktapur-maligaun-viewpoint-guided-hike", title: "Bhaktapur: Maligaun Viewpoint Guided Hike", description: "A guided hike to the Maligaun viewpoint from Bhaktapur.", price: "From $78", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c78afee6fed2d435974cf716591b621751b21addd75d58a414307e89574cb1dc.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes and bring water — this is a genuine trail hike rather than a paved walk." },
+                ],
+                faqs: [
+                    { q: "Is the Maligaun viewpoint guided hike worth it from Bhaktapur?", a: "Yes, for travelers wanting a quieter, more active outdoor outing beyond the city's Durbar Square sightseeing." },
+                ],
+            };
+
+        case "is-ranikot-hike-temple-worth-it-bhaktapur":
+            return {
+                title: "Is the Ranikot Guided Hike with Temple Visit Worth It from Bhaktapur?",
+                description: "An honest look at the Ranikot guided hike with a temple visit from Bhaktapur.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/126333ad5ace593f4e8aecf762150a87ceac3d543b7dfe00afbb54c5fd8c0051.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This hike combines Ranikot's countryside trail with a stop at a local temple, worth it for travelers wanting a genuine mix of nature and culture outside the city's main heritage circuit.", tourCard: { slug: "from-bhaktapur-ranikot-guided-hike-with-temple", title: "From Bhaktapur: Ranikot Guided Hike with Temple Visit", description: "A guided hike to Ranikot with a temple visit from Bhaktapur.", price: "From $78", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/126333ad5ace593f4e8aecf762150a87ceac3d543b7dfe00afbb54c5fd8c0051.jpg" } },
+                    { title: "Practical Tips", content: "A good pairing if you want both outdoor activity and a cultural stop in the same half-day." },
+                ],
+                faqs: [
+                    { q: "Is the Ranikot guided hike with temple visit worth it from Bhaktapur?", a: "Yes, it combines genuine nature and culture outside the city's main heritage circuit." },
+                ],
+            };
+
+        case "is-namo-buddha-panauti-bhaktapur-tour-worth-it":
+            return {
+                title: "Is the Namo Buddha, Panauti and Bhaktapur Heritage Tour Worth It?",
+                description: "An honest look at the Namo Buddha, Panauti, and Bhaktapur heritage tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d41a9848541c173aece592c1c6a65347ac53cf9d8aa8e41946a72f5a19605bf0.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour combines Bhaktapur with Namo Buddha's Buddhist monastery and Panauti's lesser-known Newari old town, worth it for travelers wanting a broader regional heritage day beyond Bhaktapur's own Durbar Square alone.", tourCard: { slug: "heritage-tour-namo-buddha-panauti-and-bhaktapur", title: "Heritage Tour Namo Buddha, Panauti and Bhaktapur Exploration", description: "A heritage tour combining Namo Buddha, Panauti, and Bhaktapur.", price: "From $177", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d41a9848541c173aece592c1c6a65347ac53cf9d8aa8e41946a72f5a19605bf0.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely full day covering three distinct sites — pace your energy and expect a fair amount of driving between stops." },
+                ],
+                faqs: [
+                    { q: "Is the Namo Buddha, Panauti and Bhaktapur heritage tour worth it?", a: "Yes, for travelers wanting a broader regional heritage day beyond Bhaktapur's Durbar Square alone." },
+                ],
+            };
+
+        case "is-bhaktapur-patan-streets-behind-squares-worth-it":
+            return {
+                title: "Is Bhaktapur & Patan: The Streets Behind the Squares Worth It?",
+                description: "An honest look at the Bhaktapur and Patan tour covering the streets behind the main squares.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9821c0e882fd6f71636c7a05ddd44921f186ce15832ed0643d48f6fd4146e9f.png",
+                sections: [
+                    { title: "The Short Answer", content: "Going beyond the main Durbar Square photo spots in both cities, this tour explores the residential lanes and everyday local life behind them, worth it for travelers who've already seen the squares and want genuine depth beyond the postcard views.", tourCard: { slug: "bhaktapur-patan-the-streets-behind-the-squares", title: "Bhaktapur & Patan: The Streets Behind the Squares", description: "A guided tour exploring the residential streets behind Bhaktapur and Patan's main squares.", price: "From $521", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9821c0e882fd6f71636c7a05ddd44921f186ce15832ed0643d48f6fd4146e9f.png" } },
+                    { title: "Practical Tips", content: "Best booked after you've already seen the main Durbar Squares, since this tour is specifically designed to go beyond them." },
+                ],
+                faqs: [
+                    { q: "Is Bhaktapur & Patan: The Streets Behind the Squares worth it?", a: "Yes, it gives genuine depth beyond the postcard Durbar Square views, for travelers who've already seen the main squares." },
+                ],
+            };
+
         default:
             return null;
     }
