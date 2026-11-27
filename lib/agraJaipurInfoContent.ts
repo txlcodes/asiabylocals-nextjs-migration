@@ -2013,6 +2013,90 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-galta-peeth-jawahar-kala-kendra-tour-worth-it-jaipur":
+      return {
+        title: "Is the Galta Peeth and Jawahar Kala Kendra Tour Worth It in Jaipur?",
+        description: "An honest look at the Galta Peeth and Jawahar Kala Kendra tour in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-galta-peeth-jawahar-kala-kendra-and-more/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Galta Peeth's temple complex with Jawahar Kala Kendra, a genuinely distinctive modern cultural arts center designed around the nine planets of Vedic astrology, gives a mix of spiritual history and contemporary architecture well outside Jaipur's palace-and-fort circuit.",
+            tourCard: { slug: "jaipur-galta-peeth-jawahar-kala-kendra-and-more", title: "Jaipur: Galta Peeth & Jawahar Kala Kendra and more", description: "A tour of Galta Peeth and Jawahar Kala Kendra in Jaipur.", price: "From $50", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-galta-peeth-jawahar-kala-kendra-and-more/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Take time to appreciate Jawahar Kala Kendra's unusual nine-block architectural layout — it's a genuinely distinctive modern design easy to rush past.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Galta Peeth and Jawahar Kala Kendra tour worth it in Jaipur?", a: "Yes, for a mix of spiritual history and distinctive modern architecture, well outside the city's palace-and-fort circuit." },
+        ],
+      };
+
+    case "is-mandawa-art-gallery-town-day-trip-worth-it-jaipur":
+      return {
+        title: "Is the Mandawa Open Art Gallery Town Day Trip Worth It from Jaipur?",
+        description: "An honest look at the Mandawa open art gallery town day trip from Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/explore-the-open-art-gallery-town-of-mandawa-on/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mandawa's genuinely unique haveli mansions, covered in centuries-old painted frescoes, have earned it the nickname 'open art gallery,' giving a distinctly different architectural and artistic experience from Jaipur's palace-and-fort sightseeing.",
+            tourCard: { slug: "explore-the-open-art-gallery-town-of-mandawa-on", title: "Explore the open art gallery town of Mandawa on a day tour", description: "A day trip to the fresco-covered haveli town of Mandawa from Jaipur.", price: "From $58", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/explore-the-open-art-gallery-town-of-mandawa-on/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the round-trip distance — confirm the drive time with your operator before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mandawa day trip worth it from Jaipur?", a: "Yes, for a distinctly different fresco-covered haveli architecture, earning the town its 'open art gallery' nickname." },
+        ],
+      };
+
+    case "is-solo-female-motorbike-tour-worth-it-jaipur":
+      return {
+        title: "Is the Full Day Motorbike Tour for Solo Female Travelers Worth It in Jaipur?",
+        description: "An honest look at the full-day motorbike tour for solo female travelers in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-motorbike-tour-for-solo-female/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A tour specifically built and marketed for solo female travelers can genuinely ease safety concerns some women have about riding alone with an unfamiliar male guide, worth it specifically for the reassurance of a format designed with that in mind.",
+            tourCard: { slug: "jaipur-full-day-motorbike-tour-for-solo-female", title: "Jaipur: Full Day Motorbike Tour for Solo Female Travelers", description: "A full-day motorbike tour of Jaipur designed for solo female travelers.", price: "From $52", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-full-day-motorbike-tour-for-solo-female/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator directly about the rider's experience and safety record before booking, as you would with any motorbike tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the solo female motorbike tour worth it in Jaipur?", a: "Yes, specifically for the reassurance of a format designed with women's safety concerns in mind." },
+        ],
+      };
+
+    case "is-2-day-guided-tour-local-art-worth-it-jaipur":
+      return {
+        title: "Is the 2-Day Guided Tour with Car and Local Art Activities Worth It in Jaipur?",
+        description: "An honest look at the 2-day guided tour with car and local art activities in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spreading sightseeing across two full days with a dedicated car and guide, plus local art activities built in, gives genuinely more breathing room than the city's common rushed single-day circuits, worth it specifically for travelers who want depth over speed.",
+            tourCard: { slug: "jaipur-2-days-guided-tour-with-car-local-art", title: "Jaipur: 2 Days Guided Tour with Car & Local Art Activities", description: "A 2-day guided tour of Jaipur with car and local art activities.", price: "From $59", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-2-days-guided-tour-with-car-local-art/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick if you have two full days in Jaipur and want a less rushed pace than the standard single-day sightseeing tours.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day guided tour with local art activities worth it in Jaipur?", a: "Yes, for travelers with two full days who want a less rushed pace than the city's common single-day circuits." },
+        ],
+      };
+
     default:
       return null;
   }

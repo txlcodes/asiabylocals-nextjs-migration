@@ -215,6 +215,8 @@ export const JAIPUR_INFO_SLUGS = [
   'is-jhalana-leopard-safari-worth-it-jaipur', 'is-chokhi-dhani-cultural-evening-worth-it-jaipur',
   'is-jewelry-gemstone-crafting-worth-it-jaipur', 'is-maota-lake-boat-ride-tour-worth-it-jaipur',
   'is-local-lifestyle-markets-food-tour-worth-it-jaipur', 'is-artisan-craft-cultural-tour-worth-it-jaipur',
+  'is-galta-peeth-jawahar-kala-kendra-tour-worth-it-jaipur', 'is-mandawa-art-gallery-town-day-trip-worth-it-jaipur',
+  'is-solo-female-motorbike-tour-worth-it-jaipur', 'is-2-day-guided-tour-local-art-worth-it-jaipur',
 ];
 
 export const PHUKET_INFO_SLUGS = [
