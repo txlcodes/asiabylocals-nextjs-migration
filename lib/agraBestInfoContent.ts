@@ -12903,6 +12903,86 @@ const PAGES: Record<string, CityInfoData> = {
     "faqs": [
       { "q": "Is the Hidden Gems of Agra heritage tour worth it?", "a": "Yes, specifically for travelers who've already seen the Taj Mahal and Agra Fort and want to explore what most visitors skip." }
     ]
+  },
+  "is-sos-elephant-bear-rescue-worth-it-agra": {
+    "title": "Is the SOS Elephant Conservation and Bear Rescue Day Trip Worth It from Agra?",
+    "seoTitle": "Agra Elephant & Bear Rescue Day Trip 2026 | Honest Review",
+    "description": "An honest look at the SOS elephant conservation and bear rescue day trip from Agra.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-sos-elephant-conservation-bear-rescue/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "This visits genuine wildlife rescue and rehabilitation centers caring for elephants and sloth bears previously used in exploitative tourism or entertainment, giving real insight into conservation work rather than another monument stop — worth it specifically for travelers interested in animal welfare.",
+        "tourCard": { "slug": "from-agra-sos-elephant-conservation-bear-rescue", "title": "From Agra: SOS Elephant Conservation & Bear Rescue Day Trip", "description": "A day trip to genuine elephant and bear rescue centers from Agra.", "price": "From $32", "duration": "6 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-sos-elephant-conservation-bear-rescue/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "This is a genuine rescue facility rather than a riding or performance venue — go in expecting observation and education, not direct animal interaction."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the SOS elephant and bear rescue trip worth it from Agra?", "a": "Yes, for travelers genuinely interested in animal welfare and conservation work, distinct from the city's monument sightseeing." }
+    ]
+  },
+  "is-taj-mahal-moonlight-tour-worth-it-agra": {
+    "title": "Is the Taj Mahal Moonlight Tour Worth It from Agra?",
+    "seoTitle": "Taj Mahal Moonlight Tour 2026 | Honest Review",
+    "description": "An honest look at the Taj Mahal moonlight tour with Agra sightseeing.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-taj-mahal-moonlight-tour-with-agra/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Seeing the Taj Mahal by moonlight is a genuinely rare and restricted experience, only permitted on specific nights around the full moon with limited visitor numbers, giving a completely different atmosphere from the daytime crowds — worth it specifically if your dates line up with the restricted viewing nights.",
+        "tourCard": { "slug": "from-agra-taj-mahal-moonlight-tour-with-agra", "title": "From Agra: Taj Mahal Moonlight Tour With Agra Sightseeing", "description": "A moonlight viewing tour of the Taj Mahal paired with Agra sightseeing.", "price": "From $41", "duration": "Full day", "image": "https://images.asiabylocals.com/asiabylocals/tours/from-agra-taj-mahal-moonlight-tour-with-agra/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Confirm the moonlight viewing dates with your operator well in advance — this is only available around the full moon and requires separate permission with limited slots."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Taj Mahal moonlight tour worth it from Agra?", "a": "Yes, if your travel dates align with the restricted full-moon viewing nights — it's a genuinely rare, uncrowded way to see the monument." }
+    ]
+  },
+  "is-women-special-taj-shiva-temple-tour-worth-it-agra": {
+    "title": "Is the Women's Special Taj Mahal and Lord Shiva Temple Tour Worth It?",
+    "seoTitle": "Agra Women's Special Taj Mahal Tour 2026 | Honest Review",
+    "description": "An honest look at the women-only Taj Mahal and Lord Shiva Temple tour with buffet lunch in Agra.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/women-spcl-taj-mahal-lord-shiva-temple-5-buffet/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "A women-only format with a female guide can genuinely make solo female travelers feel more comfortable, and pairing the Taj Mahal with a Lord Shiva temple visit and a proper buffet lunch gives a fuller day than a standard monument-only tour.",
+        "tourCard": { "slug": "women-spcl-taj-mahal-lord-shiva-temple-5-buffet", "title": "Women spcl: Taj Mahal & Lord Shiva Temple - 5* Buffet Lunch", "description": "A women-only Taj Mahal and Lord Shiva temple tour with buffet lunch.", "price": "From $31", "duration": "10 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/women-spcl-taj-mahal-lord-shiva-temple-5-buffet/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Confirm with the operator that the guide is specifically female if that's the main reason you're booking this version."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the women's special Taj Mahal tour worth it?", "a": "Yes, specifically for solo female travelers wanting a female guide and a more comfortable group format, with a temple visit and buffet lunch added in." }
+    ]
+  },
+  "is-taj-nature-countryside-bike-tour-worth-it-agra": {
+    "title": "Is the Taj Nature and Countryside Bike Tour Worth It in Agra?",
+    "seoTitle": "Agra Countryside Bike Tour 2026 | Honest Review",
+    "description": "An honest look at the Taj Nature and Countryside bike tour in Agra.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/taj-nature-and-country-side-bike-tour/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Cycling through rural villages and farmland around Agra gives a genuinely different, more active way to see the region than monument-hopping by car, reaching everyday rural life most Taj Mahal visitors never glimpse.",
+        "tourCard": { "slug": "taj-nature-and-country-side-bike-tour", "title": "Taj Nature And Country Side Bike Tour", "description": "A countryside bike tour through rural villages near Agra.", "price": "From $37", "duration": "4 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/taj-nature-and-country-side-bike-tour/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "A reasonable fitness level helps, though the pace is generally relaxed and suited to sightseeing rather than a workout."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Taj Nature and Countryside bike tour worth it in Agra?", "a": "Yes, for a genuinely active, different way to see rural life around Agra, beyond the city's monument-focused sightseeing." }
+    ]
   }
 };
 export const AGRA_BEST_SLUGS = Object.keys(PAGES);

@@ -86,6 +86,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-taj-mahal-sunrise-and-fatehpur-sikri-day-tour', 'best-agra-fort-and-fatehpur-sikri-day-trip-from-agra',
     'is-wildlife-rescue-center-visit-worth-it-agra', 'is-instagram-photography-tour-worth-it-agra',
     'is-kinari-bazaar-food-tour-worth-it-agra', 'is-hidden-gems-heritage-tour-worth-it-agra',
+    'is-sos-elephant-bear-rescue-worth-it-agra', 'is-taj-mahal-moonlight-tour-worth-it-agra',
+    'is-women-special-taj-shiva-temple-tour-worth-it-agra', 'is-taj-nature-countryside-bike-tour-worth-it-agra',
   ].map(slug => ({
     url: `${BASE_URL}/india/agra/${slug}`,
     lastModified: new Date(),
