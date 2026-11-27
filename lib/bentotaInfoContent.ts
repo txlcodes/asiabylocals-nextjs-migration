@@ -591,6 +591,69 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-scenic-countryside-cycling-worth-it-bentota":
+      return {
+        title: "Is the Bentota/Beruwala Scenic Countryside Cycling Adventure Worth It?",
+        description: "An honest look at the scenic countryside cycling adventure from Bentota and Beruwala.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-534638/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cycling through the countryside around Bentota and Beruwala gives genuine access to rural village life and scenery that the beach resort strip and river boat tours don't show, worth it for travelers wanting a slower, more active look at the area.",
+            tourCard: { slug: "from-bentota-beruwala-scenic-countryside-cycling", title: "From Bentota/ Beruwala: Scenic Countryside Cycling Adventure", description: "A scenic countryside cycling adventure around Bentota and Beruwala.", price: "From $271", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-534638/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the early morning or late afternoon to avoid cycling through the midday heat.",
+          },
+        ],
+        faqs: [
+          { q: "Is the scenic countryside cycling adventure worth it from Bentota?", a: "Yes, for travelers wanting genuine access to rural village life and scenery beyond the beach resort strip and river tours." },
+        ],
+      };
+
+    case "is-anuradhapura-day-trip-worth-it-bentota":
+      return {
+        title: "Is the Private Guided Day Trip to Anuradhapura Ancient Kingdom Worth It?",
+        description: "An honest look at the private guided day trip to Anuradhapura Ancient Kingdom from Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1175625/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Anuradhapura, Sri Lanka's ancient capital and a still-active pilgrimage city, is a genuine commitment from Bentota given the distance, but offers a depth of Buddhist history and living religious practice unmatched by anything on the south coast.",
+            tourCard: { slug: "private-guided-day-trip-to-anuradhapura-ancient", title: "Private Guided Day trip to Anuradhapura Ancient Kingdom", description: "A private guided day trip to the ancient city of Anuradhapura from Bentota.", price: "From $322", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1175625/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and be prepared for a long drive each way, since Anuradhapura sits well north of the typical south coast circuit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Anuradhapura day trip worth it from Bentota?", a: "Yes, for travelers with genuine interest in Buddhist history and living pilgrimage culture, despite the long distance from the south coast." },
+        ],
+      };
+
+    case "is-aluthgama-tuktuk-tour-worth-it-bentota":
+      return {
+        title: "Is the Ride Through Paradise Aluthgama & Bentota Tuk Tuk Tour Worth It?",
+        description: "An honest look at the Aluthgama and Bentota tuk-tuk tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-853422/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Touring Aluthgama and Bentota by open-air tuk-tuk gives a more local, breezy way to see the area's streets and coastline than a standard van tour, worth it for travelers wanting a casual, photogenic way to explore both towns.",
+            tourCard: { slug: "ride-through-paradise-aluthgama-bentota-tuk-tuk", title: "Ride Through Paradise: Aluthgama & Bentota Tuk Tuk Tour", description: "A tuk-tuk tour through Aluthgama and Bentota.", price: "From $253", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-853422/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection, since tuk-tuks are open-air and offer no real shelter from direct sun.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Aluthgama and Bentota tuk-tuk tour worth it?", a: "Yes, for travelers wanting a casual, local, open-air way to see both towns, rather than a standard enclosed van tour." },
+        ],
+      };
+
     default:
       return null;
   }
