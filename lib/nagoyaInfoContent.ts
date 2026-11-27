@@ -1440,6 +1440,90 @@ export function getNagoyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "miso-factory-and-fox-statue-temple-eco-tour-from-nagoya-by-local-operator":
+      return {
+        title: "Is the Miso Factory and Fox Statue Temple Eco Tour Worth It in Nagoya?",
+        description: "An honest look at the miso factory and fox statue temple eco tour from Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/miso-factory-and-fox-statue-temple-eco-tour-from-nagoya-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a working miso factory visit with Toyokawa Inari's striking rows of fox statues gives a genuinely distinct combination of craft and culture outside the usual castle-and-Osu circuit, worth it for travelers wanting something different from the standard city sights.",
+            tourCard: { slug: "miso-factory-and-fox-statue-temple-eco-tour-from-nagoya-by-local-operator", title: "Miso Factory and Fox Statue Temple Eco Tour from Nagoya by Local Operator", description: "An eco tour combining a miso factory visit with a fox statue temple near Nagoya.", price: "From $293", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/miso-factory-and-fox-statue-temple-eco-tour-from-nagoya-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — the miso factory stop usually includes tastings, so pace your other meals around it.",
+          },
+        ],
+        faqs: [
+          { q: "Is the miso factory and fox statue temple eco tour worth it in Nagoya?", a: "Yes, it pairs a working miso factory with the striking fox statues of Toyokawa Inari for a genuinely different day outside the usual city sights." },
+        ],
+      };
+
+    case "choose-meieki-sakae-kanayama-or-osu-bar-hop-in-nagoya":
+      return {
+        title: "Is the Meieki, Sakae, Kanayama or Osu Bar Hop Worth It in Nagoya?",
+        description: "An honest look at the choose-your-district bar hop tour in Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/choose-meieki-sakae-kanayama-or-osu-bar-hop-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Letting you pick your starting district — Meieki, Sakae, Kanayama or Osu — before hopping between local bars with a guide gets you into spots a solo night out would likely miss, worth it for travelers wanting a genuine evening out tailored to where they're already staying.",
+            tourCard: { slug: "choose-meieki-sakae-kanayama-or-osu-bar-hop-in-nagoya", title: "Choose Meieki, Sakae, Kanayama or Osu Bar Hop in Nagoya", description: "A bar hopping tour in Nagoya with your choice of starting district.", price: "From $280", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/choose-meieki-sakae-kanayama-or-osu-bar-hop-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pick the district closest to your hotel when booking, since the route is built around that starting point.",
+          },
+        ],
+        faqs: [
+          { q: "Is the bar hop tour worth it in Nagoya?", a: "Yes, for a genuine local evening out built around whichever district you're staying in, getting you into bars a solo visitor would likely miss." },
+        ],
+      };
+
+    case "tokoname-flexible-food-tour-from-centrair-or-town-center-in-nagoya":
+      return {
+        title: "Is the Tokoname Flexible Food Tour Worth It from Nagoya?",
+        description: "An honest look at the Tokoname flexible food tour from Centrair or the town center.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tokoname-flexible-food-tour-from-centrair-or-town-center-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Starting the food tour from either Centrair airport or Tokoname's town center gives real flexibility around flight times, and the pottery town's food stops are a genuinely different outing from central Nagoya's food scene, worth it for travelers with a layover or an early flight who still want a proper meal.",
+            tourCard: { slug: "tokoname-flexible-food-tour-from-centrair-or-town-center-in-nagoya", title: "Tokoname: Flexible Food Tour from Centrair or Town Center in Nagoya", description: "A flexible food tour through Tokoname starting from either Centrair airport or the town center.", price: "From $271", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tokoname-flexible-food-tour-from-centrair-or-town-center-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you're using this around a flight, confirm the exact pickup point with the operator, since Centrair and the town center are different starting locations.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tokoname food tour worth it from Nagoya?", a: "Yes, especially for travelers with a Centrair layover or early flight, since it starts flexibly from either the airport or the town center." },
+        ],
+      };
+
+    case "samurai-kendo-practice-experience-in-nagoya":
+      return {
+        title: "Is the Samurai Kendo Practice Experience Worth It in Nagoya?",
+        description: "An honest look at the samurai kendo practice experience in Nagoya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/samurai-kendo-practice-experience-in-nagoya/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Trying real kendo technique — stance, strikes, the bogu armor — gives a hands-on feel for Japanese swordsmanship that watching a demonstration doesn't, worth it for travelers wanting an active cultural experience distinct from Nagoya's other samurai-themed tours.",
+            tourCard: { slug: "samurai-kendo-practice-experience-in-nagoya", title: "Samurai Kendo Practice Experience in Nagoya", description: "A hands-on kendo practice session covering stance, strikes and armor in Nagoya.", price: "From $148", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/samurai-kendo-practice-experience-in-nagoya/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear loose, comfortable clothing you can move in under the practice armor.",
+          },
+        ],
+        faqs: [
+          { q: "Is the kendo practice experience worth it in Nagoya?", a: "Yes, for a genuinely hands-on feel for Japanese swordsmanship that a demonstration alone wouldn't give." },
+        ],
+      };
+
     default:
       return null;
   }
