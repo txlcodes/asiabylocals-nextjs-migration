@@ -2803,6 +2803,8 @@ export const HOI_AN_INFO_SLUGS = [
   'is-boxing-class-worth-it-hoi-an',
   'is-my-lai-massacre-tour-worth-it-hoi-an', 'is-son-tra-peninsula-jeep-worth-it-hoi-an',
   'is-vinwonders-nam-hoi-an-worth-it', 'is-secret-cocktail-experience-worth-it-hoi-an',
+  'is-hai-van-pass-us-army-jeep-worth-it-hoi-an', 'is-pagoda-stay-spiritual-tour-worth-it-hoi-an',
+  'is-10day-vietnam-family-tour-worth-it-hoi-an', 'is-7day-north-central-vietnam-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [

@@ -1195,6 +1195,90 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hai-van-pass-us-army-jeep-worth-it-hoi-an":
+      return {
+        title: "Is Exploring Hai Van Pass by US Army Jeep Worth It from Hoi An?",
+        description: "An honest look at exploring Hai Van Pass by vintage US Army jeep from Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/explore-hai-van-pass-by-us-army-jeep-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding Hai Van Pass's dramatic coastal switchbacks in an open vintage-style US Army jeep gives a genuinely different, nostalgic feel than the standard motorbike pillion ride, worth it for travelers wanting an unusual vehicle experience alongside the scenery.",
+            tourCard: { slug: "explore-hai-van-pass-by-us-army-jeep-in-hoi-an", title: "Explore Hai Van Pass by US Army Jeep in Hoi An", description: "A tour of Hai Van Pass by vintage US Army jeep from Hoi An.", price: "From $270", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/explore-hai-van-pass-by-us-army-jeep-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The open-top jeep offers less protection from weather than an enclosed vehicle, so check the forecast before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is exploring Hai Van Pass by US Army jeep worth it?", a: "Yes, for travelers wanting a genuinely different, nostalgic vehicle experience on the pass, distinct from the standard motorbike pillion ride." },
+        ],
+      };
+
+    case "is-pagoda-stay-spiritual-tour-worth-it-hoi-an":
+      return {
+        title: "Is the Pagoda Stay 2-Day Spiritual Tour Worth It in Hoi An?",
+        description: "An honest look at the Pagoda Stay 2-day spiritual tour in Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pagoda-stay-2-day-spiritual-tour-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Staying overnight at a working pagoda gives genuine insight into Vietnamese Buddhist monastic life that a quick temple visit can't offer, worth it for travelers with real interest in spiritual practice rather than just sightseeing.",
+            tourCard: { slug: "pagoda-stay-2-day-spiritual-tour-in-hoi-an", title: "Pagoda Stay 2-Day Spiritual Tour in Hoi An", description: "A 2-day spiritual tour including an overnight stay at a pagoda in Hoi An.", price: "From $182", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/pagoda-stay-2-day-spiritual-tour-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect simple monastic accommodation and a quiet daily rhythm, since this is a genuine spiritual stay, not a boutique hotel experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pagoda Stay 2-day spiritual tour worth it in Hoi An?", a: "Yes, for travelers with real interest in Buddhist monastic life, offering genuine insight that a quick temple visit can't provide." },
+        ],
+      };
+
+    case "is-10day-vietnam-family-tour-worth-it-hoi-an":
+      return {
+        title: "Is the 10 Days Vietnam Family Tour Worth It from Hoi An?",
+        description: "An honest look at the 10-day Vietnam family tour from Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/10-days-vietnam-family-tour-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ten days gives genuine time to cover Vietnam's highlights at a family-friendly pace, with built-in flexibility for children's energy levels, worth it for families wanting a complete country overview without rushing between cities.",
+            tourCard: { slug: "10-days-vietnam-family-tour-hoi-an", title: "10 Days Vietnam Family Tour (Hoi An)", description: "A 10-day Vietnam tour designed for families, based from Hoi An.", price: "From $2080", duration: "10 days", image: "https://images.asiabylocals.com/asiabylocals/tours/10-days-vietnam-family-tour-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the pacing and rest days built into the itinerary, since family tours should balance sightseeing with genuine downtime for kids.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 10-day Vietnam family tour worth it?", a: "Yes, for families wanting a complete country overview at a comfortable pace, with flexibility built in for children." },
+        ],
+      };
+
+    case "is-7day-north-central-vietnam-worth-it-hoi-an":
+      return {
+        title: "Is the 7-Day North and Central Vietnam Tour Worth It from Hoi An?",
+        description: "An honest look at the 7-day North and Central Vietnam tour from Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/7-days-in-north-and-central-vietnam-tour-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering both North and Central Vietnam in one 7-day trip gives travelers a genuine sense of the country's regional variety, from Hanoi's north to Hoi An's central coast, without committing to a full south-to-north itinerary.",
+            tourCard: { slug: "7-days-in-north-and-central-vietnam-tour-hoi-an", title: "7 Days in North and Central Vietnam Tour (Hoi An)", description: "A 7-day tour covering North and Central Vietnam.", price: "From $1950", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/7-days-in-north-and-central-vietnam-tour-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the internal transport included between north and central regions, since the distances involve either domestic flights or long train legs.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 7-day North and Central Vietnam tour worth it?", a: "Yes, for travelers wanting genuine regional variety between the north and central coast without committing to a full south-to-north trip." },
+        ],
+      };
+
     default:
       return null;
   }
