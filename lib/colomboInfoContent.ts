@@ -1565,6 +1565,90 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-pekoe-trail-trek-worth-it-colombo":
+      return {
+        title: "Is the Pekoe Trail Guided Trek Worth It from Colombo?",
+        description: "An honest look at the guided 6-day Pekoe Trail trek with hotels and transfers from Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1200348/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Pekoe Trail is Sri Lanka's new long-distance hiking route through tea country, and a guided multi-day section gives genuine immersion in the hill country's plantations and villages that no single day trip can match, worth it for travelers wanting serious trekking rather than a quick viewpoint stop.",
+            tourCard: { slug: "pekoe-trail-6-9-guided-6-day-trail-with", title: "Pekoe Trail 6-9: Guided 6 Day Trail with Hotels & Transfers", description: "A guided 6-day trek along sections 6-9 of the Pekoe Trail with hotels and transfers.", price: "From $3803", duration: "6 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1200348/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack real hiking layers, since the hill country's elevation makes mornings and evenings genuinely cold.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pekoe Trail trek worth it from Colombo?", a: "Yes, for travelers wanting serious multi-day trekking through genuine tea country immersion, beyond a single viewpoint day trip." },
+        ],
+      };
+
+    case "is-kithulgala-birdwatching-worth-it-colombo":
+      return {
+        title: "Is the Kithulgala Rainforest Birdwatching Tour Worth It from Colombo?",
+        description: "An honest look at the Kithulgala rainforest birdwatching tour with lunch from Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306795/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kithulgala's rainforest holds genuine endemic bird species in a setting most Colombo day trips never reach, worth it for birdwatchers and wildlife enthusiasts wanting a specialized nature day distinct from the standard cultural triangle circuit.",
+            tourCard: { slug: "colombo-kithulgala-rainforest-birdwatching-tour", title: "Colombo: Kithulgala Rainforest Birdwatching Tour & Lunch", description: "A rainforest birdwatching tour with lunch in Kithulgala from Colombo.", price: "From $998", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1306795/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars and arrive early morning, when the rainforest's bird activity is highest.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kithulgala birdwatching tour worth it from Colombo?", a: "Yes, for birdwatchers wanting genuine endemic species in a specialized rainforest setting beyond the standard cultural triangle circuit." },
+        ],
+      };
+
+    case "is-deep-sea-fishing-worth-it-colombo":
+      return {
+        title: "Is the Deep Sea Fishing Tour Worth It from Colombo?",
+        description: "An honest look at the deep sea fishing tour with pickup and photos from Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1408106/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Heading out into genuine deep water for real game fishing gives a completely different activity than Colombo's harbor and city sightseeing, worth it for travelers who actually want to fish rather than just ride along on a boat.",
+            tourCard: { slug: "colombo-deep-sea-fishing-tour-with-pickup-and", title: "Colombo: Deep Sea Fishing Tour with Pickup and Photos", description: "A deep sea fishing tour with pickup and photos in Colombo.", price: "From $957", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1408106/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Take seasickness precautions in advance if you're prone to it, since deep sea conditions can be rougher than coastal waters.",
+          },
+        ],
+        faqs: [
+          { q: "Is the deep sea fishing tour worth it from Colombo?", a: "Yes, for travelers who genuinely want to fish, offering a real game-fishing experience completely different from city sightseeing." },
+        ],
+      };
+
+    case "is-belihuloya-hill-safaris-kayaking-worth-it-colombo":
+      return {
+        title: "Is the Belihuloya Hill Safaris and Kayaking Tour Worth It from Colombo?",
+        description: "An honest look at the Belihuloya hill safaris and kayaking 2-day tour from Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1191276/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Belihuloya's hill-country jeep safaris paired with kayaking give a genuinely varied adventure day combining mountain terrain and water activity, worth it for travelers wanting somewhere less commercialized than the main hill-country tourist towns.",
+            tourCard: { slug: "colombo-belihuloya-hill-safaris-kayaking-2-day", title: "Colombo: Belihuloya Hill Safaris & Kayaking 2-Day Tour", description: "A 2-day tour combining hill safaris and kayaking in Belihuloya from Colombo.", price: "From $1217", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1191276/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack layers for the jeep safari, since hill-country mornings and evenings run noticeably cooler than Colombo.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Belihuloya hill safaris and kayaking tour worth it from Colombo?", a: "Yes, for travelers wanting a genuinely varied mountain-and-water adventure in a less commercialized hill-country area." },
+        ],
+      };
+
     default:
       return null;
   }

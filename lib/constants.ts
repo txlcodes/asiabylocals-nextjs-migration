@@ -2101,6 +2101,8 @@ export const COLOMBO_INFO_SLUGS = [
   'is-port-city-water-skiing-worth-it-colombo', 'is-city-sketching-lesson-worth-it-colombo',
   'is-supervised-tuk-tuk-driving-worth-it-colombo', 'is-beruwala-gem-market-worth-it-colombo',
   'is-kayaking-experience-worth-it-colombo', 'is-market-tour-cooking-class-worth-it-colombo',
+  'is-pekoe-trail-trek-worth-it-colombo', 'is-kithulgala-birdwatching-worth-it-colombo',
+  'is-deep-sea-fishing-worth-it-colombo', 'is-belihuloya-hill-safaris-kayaking-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
