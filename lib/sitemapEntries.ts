@@ -1414,6 +1414,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-durian-academy-tour-worth-it-kuala-lumpur', 'is-kampung-baru-walking-tour-worth-it-kuala-lumpur',
     'is-putrajaya-lake-cruise-tour-worth-it-kuala-lumpur', 'is-chinatown-central-market-tour-worth-it-kuala-lumpur',
     'is-sultan-abdul-samad-building-tour-worth-it-kuala-lumpur', 'is-kuala-gandah-batu-caves-private-trip-worth-it-kuala-lumpur',
+    'is-kanching-falls-eagle-feeding-worth-it-kuala-lumpur', 'is-lata-kinjang-waterfall-ipoh-worth-it-kuala-lumpur',
+    'is-bukit-tinggi-day-trip-worth-it-kuala-lumpur', 'is-frasers-hill-day-tour-worth-it-kuala-lumpur',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/kuala-lumpur/${slug}`,
     lastModified: new Date(),

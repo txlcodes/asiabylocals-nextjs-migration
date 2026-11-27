@@ -4276,6 +4276,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-kanching-falls-eagle-feeding-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kanching Falls, Eagle Feeding and Fireflies Tour Worth It?",
+                description: "An honest look at the Kanching Falls, eagle feeding and fireflies tour from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1500238/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a jungle waterfall swim with eagle feeding and an evening firefly river cruise gives a genuinely varied day covering jungle, wildlife and nighttime nature in one trip, worth it for travelers wanting more than the standard Batu Caves and city circuit.", tourCard: { slug: "from-kuala-lumpur-kanching-falls-eagle-feeding", title: "From Kuala Lumpur: Kanching Falls, Eagle Feeding & Fireflies", description: "A day combining Kanching Falls, eagle feeding and a firefly tour from Kuala Lumpur.", price: "From $466", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1500238/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit and change of clothes for the waterfall, and save your phone battery for the firefly cruise after dark." }
+                ],
+                faqs: [
+                    { q: "Is the Kanching Falls, eagle feeding and fireflies tour worth it from Kuala Lumpur?", a: "Yes, for travelers wanting a genuinely varied day covering jungle, wildlife and nighttime nature beyond the standard city circuit." }
+                ],
+            };
+
+        case "is-lata-kinjang-waterfall-ipoh-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Lata Kinjang Waterfall and Ipoh Tour Worth It from Kuala Lumpur?",
+                description: "An honest look at the Lata Kinjang Waterfall and Ipoh tour from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1311241/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Lata Kinjang is one of Malaysia's tallest waterfalls, and pairing it with Ipoh's old town and famous food scene gives a genuinely varied day of nature and culture outside KL's usual day-trip circuit, worth it for travelers wanting both scenery and a real town visit.", tourCard: { slug: "from-kuala-lumpur-lata-kinjang-waterfall-ipoh-tour", title: "From Kuala Lumpur: Lata Kinjang Waterfall & Ipoh Tour", description: "A day trip combining Lata Kinjang Waterfall and Ipoh's old town from Kuala Lumpur.", price: "From $465", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1311241/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Save room for Ipoh's famous food — the town is one of Malaysia's best-regarded food destinations, not just a waterfall stopover." }
+                ],
+                faqs: [
+                    { q: "Is the Lata Kinjang Waterfall and Ipoh tour worth it from Kuala Lumpur?", a: "Yes, for travelers wanting genuine waterfall scenery paired with a real town and food visit, beyond KL's standard day-trip circuit." }
+                ],
+            };
+
+        case "is-bukit-tinggi-day-trip-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Bukit Tinggi Private Day Trip Worth It from Kuala Lumpur?",
+                description: "An honest look at the Bukit Tinggi private day trip from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-617166/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Bukit Tinggi's cooler hill-station air and French-themed Colmar Tropicale give a quirky, photogenic day that's genuinely different from Genting's casino-and-theme-park focus, worth it for travelers wanting a relaxed, scenic alternative to the more crowded hill resorts.", tourCard: { slug: "from-kuala-lumpur-bukit-tinggi-private-day-trip", title: "From Kuala Lumpur: Bukit Tinggi Private Day Trip", description: "A private day trip to Bukit Tinggi from Kuala Lumpur.", price: "From $410", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-617166/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a light jacket — Bukit Tinggi's elevation makes it noticeably cooler than Kuala Lumpur year-round." }
+                ],
+                faqs: [
+                    { q: "Is the Bukit Tinggi day trip worth it from Kuala Lumpur?", a: "Yes, for travelers wanting a relaxed, scenic hill-station day that's genuinely different from Genting's casino-and-theme-park focus." }
+                ],
+            };
+
+        case "is-frasers-hill-day-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Fraser's Hill Private Day Tour Worth It from Kuala Lumpur?",
+                description: "An honest look at the Fraser's Hill private day tour with driver from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1460838/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Fraser's Hill is a genuinely quiet, colonial-era hill station with cool air and birdwatching that gets a fraction of Genting's or Cameron Highlands' visitor numbers, worth it for travelers wanting real tranquility rather than another crowded resort town.", tourCard: { slug: "kuala-lumpur-frasers-hill-private-day-tour-with", title: "Kuala Lumpur: Fraser's Hill Private Day Tour with Driver", description: "A private day tour to Fraser's Hill with a driver from Kuala Lumpur.", price: "From $341", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1460838/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring binoculars if you're interested in birds — Fraser's Hill is one of Malaysia's best-regarded birdwatching spots." }
+                ],
+                faqs: [
+                    { q: "Is the Fraser's Hill day tour worth it from Kuala Lumpur?", a: "Yes, for travelers wanting a genuinely quiet, colonial-era hill station with real tranquility, distinct from the more crowded resort towns." }
+                ],
+            };
+
         case "is-spice-garden-cooking-class-worth-it-penang":
             return {
                 title: "Is the Tropical Spice Garden Cooking Class Worth It in Penang?",
