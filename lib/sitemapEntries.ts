@@ -1198,6 +1198,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-tours-in-manila',
     'is-fort-santiago-tour-worth-it-manila', 'is-dessert-museum-worth-it-manila',
     'is-manila-bay-night-cruise-worth-it-manila', 'is-tondo-walking-tour-worth-it-manila',
+    'is-lakbay-museo-worth-it-manila', 'is-smokey-mountain-community-tour-worth-it-manila',
+    'is-manila-wwii-history-walking-tour-worth-it', 'is-manila-oldest-cemetery-tour-worth-it',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/manila/${slug}`,
     lastModified: new Date(),

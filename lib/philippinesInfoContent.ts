@@ -1741,6 +1741,91 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lakbay-museo-worth-it-manila":
+      return {
+        title: "Is the Lakbay Museo Entry Ticket Worth It in Manila?",
+        description: "An honest look at Lakbay Museo, an interactive, walk-through Filipino history museum in Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2dd147b619aa9fb2c4f6a0196b42fb6f133eb380fb55986a935db51a56c842b4.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lakbay Museo presents Philippine history through immersive, walk-through dioramas rather than static glass cases, worth it specifically for travelers who find traditional museums dry and want a more visual, photo-friendly way to absorb the country's history.",
+            tourCard: { slug: "manila-lakbay-museo-entry-ticket", title: "Manila: Lakbay Museo Entry Ticket", description: "Entry ticket to Lakbay Museo, an interactive Filipino history museum in Manila.", price: "From $35", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2dd147b619aa9fb2c4f6a0196b42fb6f133eb380fb55986a935db51a56c842b4.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Budget close to the full allotted time, since each themed room is designed to be walked through slowly and photographed rather than rushed.",
+          },
+        ],
+        faqs: [
+          { q: "Is Lakbay Museo worth it in Manila?", a: "Yes, especially for travelers who want a visual, interactive way to learn Philippine history rather than a traditional static museum." },
+        ],
+      };
+
+    case "is-smokey-mountain-community-tour-worth-it-manila":
+      return {
+        title: "Is the Smokey Mountain Community Life Tour Worth It in Manila?",
+        description: "An honest, even-handed look at the 3-hour community life and Smokey Mountain history tour in Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/39f515683a25dcbb317adc21b1d1ccc97372107037e3fe7bee7e7e15588259f4.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour walks through the history and present-day community life around Smokey Mountain, once Manila's largest garbage dump and now a densely populated residential area, worth it specifically for travelers wanting an honest, non-sanitized picture of the city rather than only its tourist core, provided the operator genuinely benefits the community.",
+            tourCard: { slug: "manila-3-hour-community-life-smokey-mountain", title: "Manila: 3-Hour Community Life & Smokey Mountain History Tour", description: "A 3-hour tour covering community life and the history of Smokey Mountain in Manila.", price: "From $64", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/39f515683a25dcbb317adc21b1d1ccc97372107037e3fe7bee7e7e15588259f4.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "As with any community-focused tour, ask the operator directly how proceeds support the area and whether guides are from the community itself before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is a Smokey Mountain community tour ethical?", a: "It depends on the operator — confirm how the tour benefits the community and whether local guides lead it before booking." },
+          { q: "Is the Smokey Mountain history tour worth it in Manila?", a: "Yes, for travelers genuinely interested in the city's full history and present-day community life, not as a spectacle." },
+        ],
+      };
+
+    case "is-manila-wwii-history-walking-tour-worth-it":
+      return {
+        title: "Is the Manila WWII History Walking Tour Worth It?",
+        description: "An honest look at the WWII history walking tour through Manila, covering the Battle of Manila's key sites.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a0befffc860ee824c6c72b80b7d428c579c193bdc94bf0c226670242697625c.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walking tour covers the Battle of Manila's key sites within the city itself, a more compact alternative to the day-long Bataan WWII memorial tour, worth it specifically for travelers who want the city-based WWII history without committing to a full-day trip outside Manila.",
+            tourCard: { slug: "manila-wwii-history-walking-tour", title: "Manila: WWII History Walking Tour", description: "A guided walking tour covering key WWII and Battle of Manila history sites in the city.", price: "From $78", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a0befffc860ee824c6c72b80b7d428c579c193bdc94bf0c226670242697625c.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you want the deeper, full memorial-site experience at Bataan itself, book that separately — this city walking tour is a shorter, complementary introduction.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Manila WWII walking tour worth it?", a: "Yes, specifically for travelers wanting a compact, city-based introduction to the Battle of Manila without a full day trip to Bataan." },
+        ],
+      };
+
+    case "is-manila-oldest-cemetery-tour-worth-it":
+      return {
+        title: "Is the Manila Oldest Cemetery Walking Tour Worth It?",
+        description: "An honest look at the walking tour of Manila's oldest cemetery, known for its elaborate mausoleums and history.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4045813f7a6bd37773badda72dbf40393784940848226f9e06c4cf4a019aec00.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Manila's oldest cemetery is known for elaborate, mansion-like mausoleums built for wealthy families, and this guided tour is worth it specifically for travelers interested in local history and architecture told through an angle most itineraries skip entirely.",
+            tourCard: { slug: "manila-oldest-cemetery-walking-tour", title: "Manila: Oldest Cemetery Walking Tour", description: "A guided walking tour of Manila's oldest cemetery and its historic mausoleums.", price: "From $78", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4045813f7a6bd37773badda72dbf40393784940848226f9e06c4cf4a019aec00.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress respectfully and keep your voice down, since this remains an active cemetery for local families, not purely a tourist site.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Manila cemetery walking tour worth it?", a: "Yes, for travelers interested in local history and architecture told through an unusual, rarely-covered angle." },
+        ],
+      };
+
     case "is-las-casas-filipinas-worth-it-cebu":
       return {
         title: "Is Las Casas Filipinas Heritage Village Worth It near Cebu?",
