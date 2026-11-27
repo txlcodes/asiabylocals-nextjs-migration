@@ -1692,6 +1692,51 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-sugar-dunes-khaluf-ruwais-worth-it-muscat":
+            return {
+                title: "Is the Muscat Sugar Dunes, Al Khaluf & Ras Al Ruwais Tour Worth It?",
+                description: "An honest look at the Sugar Dunes, Al Khaluf, and Ras Al Ruwais 2-day tour from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b9d512cd456180ca19030d6f9ac227e6d4d789e4bc1c957a3bcdb47c737473e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Sugar Dunes' bright white sand and the remote coastal villages of Al Khaluf and Ras Al Ruwais sit well off Oman's main tourist circuit, worth it for travelers wanting genuinely different desert and coastal scenery over a focused 2-day trip.",
+                    tourCard: { slug: "muscat-sugar-dunes-al-khaluf-ras-al-ruwais-tour", title: "Muscat: Sugar Dunes, Al Khaluf & Ras Al Ruwais Tour", description: "A 2-day tour of the Sugar Dunes, Al Khaluf, and Ras Al Ruwais from Muscat.", price: "From $2712", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2b9d512cd456180ca19030d6f9ac227e6d4d789e4bc1c957a3bcdb47c737473e.jpeg" } },
+                    { title: "Practical Tips", content: "This route is genuinely remote, so confirm fuel and supply stops with your operator before setting out." }
+                ],
+                faqs: [
+                    { q: "Is the Sugar Dunes, Al Khaluf and Ras Al Ruwais tour worth it from Muscat?", a: "Yes, for travelers wanting genuinely different desert and coastal scenery well off Oman's main tourist circuit." }
+                ],
+            };
+
+        case "is-dubai-muscat-oneway-flight-tour-worth-it-muscat":
+            return {
+                title: "Is the Dubai to Muscat, Nizwa & Jebel Akhdar Tour with One-Way Flight Worth It?",
+                description: "An honest look at the Dubai to Muscat, Nizwa, and Jebel Akhdar tour with a one-way flight home.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a5fede39803c3ac77e114264c134ded7a6e91bcf0a57072792adbf92f0bc229.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Starting in Dubai and ending with a flight out of Muscat avoids the backtracking a round-trip itinerary would require, covering Nizwa and Jebel Akhdar along the way, worth it specifically for travelers combining both countries in one trip.",
+                    tourCard: { slug: "dubai-muscat-nizwa-jebel-akhdar-tour-with-one-way", title: "Dubai: Muscat, Nizwa & Jebel Akhdar Tour with One-Way Flight", description: "A tour from Dubai through Muscat, Nizwa, and Jebel Akhdar ending with a one-way flight.", price: "From $2301", duration: "16 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a5fede39803c3ac77e114264c134ded7a6e91bcf0a57072792adbf92f0bc229.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the one-way flight details and baggage allowance in advance, since the itinerary ends at the airport rather than returning to Dubai." }
+                ],
+                faqs: [
+                    { q: "Is the Dubai to Muscat one-way flight tour worth it?", a: "Yes, specifically for travelers combining Dubai and Oman in one trip, avoiding the backtracking a round-trip route would require." }
+                ],
+            };
+
+        case "is-five-watersports-activities-worth-it-muscat":
+            return {
+                title: "Are the Muscat Five Watersports Activities Worth It?",
+                description: "An honest look at the Muscat Five Watersports Activities package.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f9b2e324832fe5f1b824ddfd592b391ce4dcf6b46211077b48a7bf49314a087.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Packing five distinct water activities into a single 4-hour session gives genuine variety for travelers who want to sample multiple watersports rather than committing to just one.",
+                    tourCard: { slug: "muscat-five-watersports-activities", title: "Muscat: Five Watersports Activities", description: "A package combining five different watersports activities in Muscat.", price: "From $1690", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0f9b2e324832fe5f1b824ddfd592b391ce4dcf6b46211077b48a7bf49314a087.jpg" } },
+                    { title: "Practical Tips", content: "Ask exactly which five activities are included before booking, since the specific combination can vary." }
+                ],
+                faqs: [
+                    { q: "Is the Muscat Five Watersports Activities package worth it?", a: "Yes, for travelers wanting genuine variety by sampling multiple watersports in one session rather than committing to just one activity." }
+                ],
+            };
+
         default:
             return null;
     }

@@ -505,6 +505,8 @@ export const MUSCAT_INFO_SLUGS = [
   'is-semi-submarine-cruise-worth-it-muscat',
   'is-daymaniyat-private-yacht-charter-worth-it-muscat', 'is-muscat-lamborghini-luxury-tour-worth-it',
   'is-8-day-desert-mountains-coast-dolphin-worth-it-muscat', 'is-muscat-8-day-best-of-oman-worth-it',
+  'is-sugar-dunes-khaluf-ruwais-worth-it-muscat', 'is-dubai-muscat-oneway-flight-tour-worth-it-muscat',
+  'is-five-watersports-activities-worth-it-muscat',
 ];
 
 // Armenia launched 2026-11-19 with 547 live tours and zero authority pages.
