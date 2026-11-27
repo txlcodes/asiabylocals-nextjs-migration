@@ -2100,6 +2100,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-iznik-nicaea-heritage-tour-worth-it-istanbul":
+      return {
+        title: "Is the Private Iznik Nicaea Christian Heritage Tour Worth It?",
+        description: "An honest look at the private Iznik Nicaea Christian heritage tour from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd183e0d51a664867f4d42b17163eebf7d12c62b2985277bd19e4ecbd909223a.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Iznik, ancient Nicaea, hosted two of Christianity's early ecumenical councils and holds genuinely significant ruins alongside its famous ceramic tradition, worth it for travelers with a specific interest in early Christian or Byzantine history beyond Istanbul's main churches.",
+            tourCard: { slug: "istanbul-private-iznik-nicaea-christian-heritage", title: "Istanbul: Private Iznik Nicaea Christian Heritage Tour", description: "A private tour of Iznik's early Christian and Byzantine heritage sites.", price: "From $726", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bd183e0d51a664867f4d42b17163eebf7d12c62b2985277bd19e4ecbd909223a.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Combine this with Iznik's ceramic workshops if time allows, since the town's pottery tradition is a worthwhile stop alongside the historical sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Iznik Nicaea Christian heritage tour worth it from Istanbul?", a: "Yes, for travelers with a specific interest in early Christian or Byzantine history, beyond Istanbul's main churches." },
+        ],
+      };
+
+    case "is-jewish-district-walking-tour-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Jewish District 3-Hour Walking Tour Worth It?",
+        description: "An honest look at the Jewish District 3-hour walking tour in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f243d9288b188db2a522db230fd416e97101e34d5f49ad1f5a7b8872adc25f74.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Istanbul's historic Jewish quarter, with its synagogues and Sephardic heritage dating back to the Ottoman era, is a genuinely overlooked side of the city's multicultural history, worth it for travelers wanting a focused cultural walk beyond the main mosque-and-bazaar circuit.",
+            tourCard: { slug: "istanbul-jewish-district-3-hour-walking-tour", title: "Istanbul: Jewish District 3-Hour Walking Tour", description: "A 3-hour walking tour of Istanbul's historic Jewish district.", price: "From $689", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f243d9288b188db2a522db230fd416e97101e34d5f49ad1f5a7b8872adc25f74.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check synagogue visiting hours and dress code in advance, since some sites have limited public access windows.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jewish District walking tour worth it in Istanbul?", a: "Yes, for travelers wanting a focused look at the city's Sephardic Jewish heritage, beyond the main mosque-and-bazaar circuit." },
+        ],
+      };
+
+    case "is-catalhoyuk-mevlana-rumi-2day-worth-it-istanbul":
+      return {
+        title: "Is the Catalhoyuk & Mevlana Rumi 2-Day Tour with Flights Worth It?",
+        description: "An honest look at the 2-day Catalhoyuk and Mevlana Rumi tour with flights from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d899f2a88b405554f900a11ee99c0a67785b9550fa4cfadc44e9f0f828b5cfd.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Çatalhöyük, one of the world's oldest known human settlements, with Konya's Mevlana shrine and Sema ceremony heritage in one flight-inclusive 2-day trip covers both deep prehistory and Sufi spiritual history that no single-day tour from Istanbul can reach.",
+            tourCard: { slug: "from-istanbulcatalhoyuk-mevlana-rumi-2-day-tour", title: "From Istanbul: Catalhoyuk & Mevlana Rumi 2-Day Tour w/Flights", description: "A 2-day flight-inclusive tour covering Catalhoyuk and Mevlana Rumi heritage sites.", price: "From $929", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d899f2a88b405554f900a11ee99c0a67785b9550fa4cfadc44e9f0f828b5cfd.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check whether a Sema ceremony performance is included on your specific travel dates, since showings follow a set schedule in Konya.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Catalhoyuk and Mevlana Rumi 2-day tour worth it from Istanbul?", a: "Yes, for travelers wanting both deep prehistory and Sufi spiritual history covered in one flight-inclusive trip." },
+        ],
+      };
+
+    case "is-ancient-monasteries-full-day-tour-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Ancient Monasteries Full-Day Tour Worth It?",
+        description: "An honest look at the Ancient Monasteries full-day tour with lunch in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62fe46e2b012e.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting the historic Byzantine-era monasteries around Istanbul in one guided day, with lunch included, gives genuine insight into the city's Orthodox Christian heritage that most mosque-and-bazaar itineraries skip entirely.",
+            tourCard: { slug: "istanbul-ancient-monasteries-full-day-tour-with", title: "Istanbul Ancient Monasteries Full-Day Tour with Lunch", description: "A full-day guided tour of Istanbul's Byzantine-era monasteries, with lunch included.", price: "From $689", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/62fe46e2b012e.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly, since several monasteries remain active places of worship with entry expectations around covered shoulders and knees.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ancient Monasteries full-day tour worth it in Istanbul?", a: "Yes, for travelers wanting genuine insight into the city's Orthodox Christian heritage, beyond the standard mosque-and-bazaar circuit." },
+        ],
+      };
+
     default:
       return null;
   }

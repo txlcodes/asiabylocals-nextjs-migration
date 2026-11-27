@@ -423,6 +423,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-turkish-tea-world-teas-workshop-worth-it-istanbul', 'is-kinusaiga-fabric-mosaic-workshop-worth-it-istanbul',
     'is-bolu-golcuk-abant-lake-worth-it-istanbul', 'is-mount-nemrut-gobekli-tepe-2day-worth-it-istanbul',
     'is-wine-tasting-tekirdag-worth-it-istanbul', 'is-edirne-bahai-house-worth-it-istanbul',
+    'is-iznik-nicaea-heritage-tour-worth-it-istanbul', 'is-jewish-district-walking-tour-worth-it-istanbul',
+    'is-catalhoyuk-mevlana-rumi-2day-worth-it-istanbul', 'is-ancient-monasteries-full-day-tour-worth-it-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),
