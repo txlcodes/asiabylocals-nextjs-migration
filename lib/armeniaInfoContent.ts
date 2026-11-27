@@ -849,6 +849,74 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-morning-walk-with-dog-worth-it-yerevan":
+            return {
+                title: "Is the Morning Walk in Yerevan with a Local Dog Worth It?",
+                description: "An honest look at the morning walking tour in Yerevan guided with a local dog, Charlie.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a150de11e7c0aa65be919cf228027146116ecc1e40651e1a788ac7c374d2d667.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A relaxed, low-key morning walk with a friendly local guide and their dog gives a genuinely different, more personal introduction to Yerevan's streets than a standard group walking tour, worth it for travelers who want a calmer, more casual start to the day.", tourCard: { slug: "morning-walk-in-yerevan-guided-tour-with-my-dog", title: "Morning Walk in Yerevan: Guided Tour with my Dog Charlie", description: "A relaxed morning walking tour of Yerevan guided with a local dog.", price: "From $37", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a150de11e7c0aa65be919cf228027146116ecc1e40651e1a788ac7c374d2d667.jpg" } },
+                    { title: "Practical Tips", content: "A good gentle start to a day, before the city's heat and crowds build up." }
+                ],
+                faqs: [
+                    { q: "Is the morning walk with a local dog worth it in Yerevan?", a: "Yes, it's a genuinely personal, relaxed introduction to the city, a nice change from a standard group walking tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the morning walk with a dog worth it in Yerevan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a relaxed, personal introduction to the city." } }
+                ] },
+            };
+
+        case "is-saryan-street-wine-tasting-worth-it-yerevan":
+            return {
+                title: "Is the Saryan Street Soirée Wine Tasting Worth It in Yerevan?",
+                description: "An honest look at the Saryan Street wine tasting soirée in Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d19d9f6a3b96277116f3c2a938a55edbd0d0a7f9c58c39c72a2cac87c5dcb48.png",
+                sections: [
+                    { title: "The Short Answer", content: "Centered on Saryan Street's wine bar scene, this tasting evening gives genuine insight into Armenian wines in a social, bar-hopping format, worth it for travelers who want an evening wine activity distinct from a daytime vineyard tour.", tourCard: { slug: "saryan-street-soiree-wine-tasting-extravaganza-in", title: "Saryan Street Soirée: Wine Tasting Extravaganza in Yerevan", description: "A wine tasting evening along Yerevan's Saryan Street wine bar scene.", price: "From $63", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0d19d9f6a3b96277116f3c2a938a55edbd0d0a7f9c58c39c72a2cac87c5dcb48.png" } },
+                    { title: "Practical Tips", content: "Pace yourself across the stops — this is a social, bar-hopping format rather than a single seated tasting." }
+                ],
+                faqs: [
+                    { q: "Is the Saryan Street Soirée wine tasting worth it in Yerevan?", a: "Yes, for a social evening wine activity genuinely different from a daytime vineyard tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Saryan Street wine tasting worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a social evening wine bar-hopping experience distinct from a daytime vineyard tour." } }
+                ] },
+            };
+
+        case "is-distillates-tasting-courtyard-worth-it-yerevan":
+            return {
+                title: "Is the Yerevan Tour & Distillates Tasting in a 100-Year Courtyard Worth It?",
+                description: "An honest look at the Yerevan tour and distillates tasting in a historic 100-year courtyard.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Tasting Armenian distillates (like oghi, the local fruit brandy) in a genuine century-old courtyard gives real atmosphere beyond a standard tasting room, worth it for travelers who want a distinctive, historic setting alongside the drink itself.", tourCard: { slug: "yerevan-tour-distillates-tasting-in-100-year", title: "Yerevan Tour & Distillates Tasting in 100-Year Courtyard", description: "A guided tour and distillates tasting in a historic 100-year courtyard.", price: "From $77", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg" } },
+                    { title: "Practical Tips", content: "Pace your tasting across the session — distillates are considerably stronger than wine." }
+                ],
+                faqs: [
+                    { q: "Is the distillates tasting in a 100-year courtyard worth it in Yerevan?", a: "Yes, the genuine historic courtyard setting gives real atmosphere beyond a standard tasting room." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the distillates tasting worth it in Yerevan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, the historic courtyard setting gives genuine atmosphere beyond a standard tasting room." } }
+                ] },
+            };
+
+        case "is-food-hidden-places-stories-tour-worth-it-yerevan":
+            return {
+                title: "Is the Food, Hidden Places, and Stories Walking Tour Worth It?",
+                description: "An honest look at the Yerevan food, hidden places, and stories walking tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This walk combines food stops with lesser-known corners of Yerevan and local storytelling, worth it for travelers who want more depth and narrative context than a typical food-crawl tour offers.", tourCard: { slug: "yerevan-food-hidden-places-and-stories-walking", title: "Yerevan: Food, Hidden Places, and Stories Walking Tour", description: "A walking tour combining food stops, hidden places, and local storytelling.", price: "From $85", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg" } },
+                    { title: "Practical Tips", content: "Come hungry but not full — the food stops are designed to complement the storytelling rather than be a full meal." }
+                ],
+                faqs: [
+                    { q: "Is the Food, Hidden Places, and Stories walking tour worth it in Yerevan?", a: "Yes, it gives genuine narrative depth beyond a typical food-crawl tour." }
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Food, Hidden Places, and Stories tour worth it in Yerevan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it offers genuine narrative depth beyond a typical food-crawl tour." } }
+                ] },
+            };
+
         default:
             return null;
     }
