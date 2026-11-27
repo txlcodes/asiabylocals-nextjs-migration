@@ -1260,6 +1260,90 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-7day-guided-tour-accommodation-worth-it-nusa-penida":
+      return {
+        title: "Is the 7-Day Guided Tour with Accommodation Worth It in Nusa Penida?",
+        description: "An honest look at the 7-day guided tour with accommodation in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/7-day-guided-tour-with-accommodation-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A week on Nusa Penida with accommodation and a guide handled gives genuine time to see the island's west and east sides properly, rather than squeezing both into a rushed day trip from Bali, worth it for travelers who want to settle into the island's slower pace.",
+            tourCard: { slug: "7-day-guided-tour-with-accommodation-in-nusa-penida", title: "7-Day Guided Tour with Accommodation in Nusa Penida", description: "A 7-day guided tour of Nusa Penida with accommodation included.", price: "From $1318", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/7-day-guided-tour-with-accommodation-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm which accommodation standard is included, since Nusa Penida's lodging ranges from very basic to genuinely comfortable.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 7-day guided tour with accommodation worth it in Nusa Penida?", a: "Yes, for travelers wanting real time to properly see both sides of the island, rather than rushing through on a day trip from Bali." },
+        ],
+      };
+
+    case "is-4day-private-tour-package-worth-it-nusa-penida":
+      return {
+        title: "Is the Four Days Private Tour Package Worth It in Nusa Penida?",
+        description: "An honest look at the 4-day private tour package in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/four-days-private-tour-package-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Four days with a private guide and vehicle gives genuine flexibility to cover the island's viewpoints, snorkeling spots, and offbeat corners at your own pace, worth it for travelers who want more than a single rushed day but less commitment than a full week.",
+            tourCard: { slug: "four-days-private-tour-package-in-nusa-penida", title: "Four Days Private Tour Package in Nusa Penida", description: "A 4-day private tour package covering Nusa Penida's main sights.", price: "From $976", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/four-days-private-tour-package-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Discuss your priorities with the guide upfront, since four days leaves room to add offbeat stops beyond the standard viewpoint circuit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the four-day private tour package worth it in Nusa Penida?", a: "Yes, for travelers wanting genuine flexibility and pacing, more than a rushed single day but less commitment than a full week." },
+        ],
+      };
+
+    case "is-sanur-penida-open-water-course-worth-it-nusa-penida":
+      return {
+        title: "Is the Open Water Diver Course in Sanur and Penida Worth It?",
+        description: "An honest look at the Open Water Diver certification course across Sanur and Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/open-water-diver-course-in-sanur-and-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Splitting the Open Water certification between Sanur's calmer training waters and Nusa Penida's more dramatic dive sites gives a genuine mix of easy skill-building and exciting real diving, worth it for beginners wanting a proper certification rather than a single discover-dive outing.",
+            tourCard: { slug: "open-water-diver-course-in-sanur-and-penida", title: "Open Water Diver Course in Sanur and Penida", description: "A PADI Open Water Diver certification course split between Sanur and Nusa Penida.", price: "From $673", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/open-water-diver-course-in-sanur-and-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect the Sanur portion to focus on basic skills in calmer water, with the more exciting diving saved for the Penida days.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Open Water Diver course in Sanur and Penida worth it?", a: "Yes, for beginners wanting a proper certification with a genuine mix of easy skill-building and exciting real diving." },
+        ],
+      };
+
+    case "is-west-nusa-penida-photographer-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the West Nusa Penida Tour with Photographer Service Worth It?",
+        description: "An honest look at the West Nusa Penida tour with a dedicated photographer service.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/west-nusa-penida-tour-with-photografer-service/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bringing a dedicated photographer to the west side's iconic viewpoints like Kelingking and Broken Beach gets a genuinely better result than handing your phone to a stranger, worth it for travelers who specifically want quality photos of the island's most photographed spots.",
+            tourCard: { slug: "west-nusa-penida-tour-with-photografer-service", title: "West Nusa Penida Tour with Photografer Service", description: "A tour of West Nusa Penida's viewpoints with a dedicated photographer.", price: "From $283", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/west-nusa-penida-tour-with-photografer-service/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go early morning to beat both the crowds and the harsh midday light at the viewpoints.",
+          },
+        ],
+        faqs: [
+          { q: "Is the West Nusa Penida tour with photographer service worth it?", a: "Yes, for travelers specifically wanting quality photos of the island's most photographed viewpoints, better than a self-shot phone photo." },
+        ],
+      };
+
     default:
       return null;
   }

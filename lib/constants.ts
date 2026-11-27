@@ -2936,6 +2936,8 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'is-open-air-buggy-tour-worth-it-nusa-penida', 'is-mangrove-point-snorkeling-worth-it-nusa-penida',
   'is-calendula-spa-worth-it-nusa-penida', 'is-private-car-rental-worth-it-nusa-penida',
   'is-kerta-gosa-tenganan-virgin-beach-tour-worth-it-nusa-penida', 'is-historic-murals-fairy-garden-bat-cave-tour-worth-it-nusa-penida',
+  'is-7day-guided-tour-accommodation-worth-it-nusa-penida', 'is-4day-private-tour-package-worth-it-nusa-penida',
+  'is-sanur-penida-open-water-course-worth-it-nusa-penida', 'is-west-nusa-penida-photographer-tour-worth-it-nusa-penida',
 ];
 
 export const DA_NANG_INFO_SLUGS = [
