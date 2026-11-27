@@ -1526,6 +1526,48 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-chorsu-market-ankhor-river-tour-worth-it-tashkent":
+            return {
+                title: "Is the Old Town, Chorsu Market & Ankhor River Tour Worth It?",
+                description: "An honest look at the Tashkent Old Town, Chorsu Market, and Ankhor River tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ef07641dc16b10273406ddf8ec973b0ced170834c8ad3a36f031c22b146d39db.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing Tashkent's old town streets, the bustling Chorsu Market, and a stroll along the Ankhor River gives a genuine mix of history and everyday local life in one short outing, worth it for travelers wanting authentic city atmosphere beyond the main monuments.", tourCard: { slug: "tashkent-old-town-chorsu-market-and-ankhor-river", title: "Tashkent: Old Town, Chorsu Market, and Ankhor River Tour", description: "A tour of Tashkent's old town, Chorsu Market, and the Ankhor River.", price: "From $2470", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ef07641dc16b10273406ddf8ec973b0ced170834c8ad3a36f031c22b146d39db.jpeg" } },
+                    { title: "Practical Tips", content: "Go hungry — Chorsu Market's food stalls are a highlight most travelers end up wishing they'd saved more appetite for." },
+                ],
+                faqs: [
+                    { q: "Is the Old Town, Chorsu Market and Ankhor River tour worth it in Tashkent?", a: "Yes, for travelers wanting authentic local atmosphere and market life beyond the city's main monuments." },
+                ],
+            };
+
+        case "is-ferghana-valley-2day-classes-worth-it-tashkent":
+            return {
+                title: "Is the Ferghana Valley 2-Day Tour with Classes Worth It?",
+                description: "An honest look at the 2-day Ferghana Valley tour with craft classes from Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d292a9abcebd54febc13e96652ac1ae44583b1efeccc99a019d8a2f68c5603c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Ferghana Valley is Uzbekistan's craft heartland, and this 2-day trip adds hands-on classes in local trades alongside the usual sightseeing, worth it for travelers wanting a genuine, participatory look at traditional craftsmanship rather than just viewing workshops from outside.", tourCard: { slug: "from-tashkent-ferghana-valley-2-day-tour-with", title: "From Tashkent: Ferghana Valley 2-Day Tour with Classes", description: "A 2-day tour of the Ferghana Valley with hands-on craft classes.", price: "From $1118", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d292a9abcebd54febc13e96652ac1ae44583b1efeccc99a019d8a2f68c5603c.jpg" } },
+                    { title: "Practical Tips", content: "Ask in advance which crafts the classes will cover, since Ferghana Valley workshops vary between ceramics, silk weaving, and knife-making." },
+                ],
+                faqs: [
+                    { q: "Is the 2-day Ferghana Valley tour with classes worth it from Tashkent?", a: "Yes, for travelers wanting a genuine, hands-on look at traditional craftsmanship rather than just viewing workshops from outside." },
+                ],
+            };
+
+        case "is-zaamin-3day-tour-worth-it-tashkent":
+            return {
+                title: "Is the 3-Day Tour to Zaamin from Tashkent Worth It?",
+                description: "An honest look at the 3-day Zaamin tour from Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/edd2867fe10b449f2a16174800fd8d1d6d9f2602a92f0326252b4157d4de5b08.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Zaamin National Park's forested mountains and clean air offer a completely different landscape from Uzbekistan's desert cities, worth it for travelers wanting a genuine nature escape alongside the standard Silk Road sightseeing.", tourCard: { slug: "3-days-tour-to-zaamin-from-tashkent", title: "3 days tour to Zaamin from Tashkent", description: "A 3-day tour to Zaamin National Park from Tashkent.", price: "From $936", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/edd2867fe10b449f2a16174800fd8d1d6d9f2602a92f0326252b4157d4de5b08.jpg" } },
+                    { title: "Practical Tips", content: "Pack warmer clothing than you'd expect for Uzbekistan, since Zaamin's forested elevation runs noticeably cooler than the desert cities." },
+                ],
+                faqs: [
+                    { q: "Is the 3-day Zaamin tour worth it from Tashkent?", a: "Yes, for travelers wanting a genuine forested-mountain nature escape alongside the standard Silk Road city sightseeing." },
+                ],
+            };
+
         case "is-marokand-concert-hall-show-worth-it-samarkand":
             return {
                 title: "Is the Marokand Concert Hall Show Worth It in Samarkand?",

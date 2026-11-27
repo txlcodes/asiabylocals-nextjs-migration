@@ -538,6 +538,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-parks-and-nature-walking-tour-worth-it-tashkent', 'is-food-bazaar-local-life-tour-worth-it-tashkent',
     'is-khushtak-clay-figurine-painting-worth-it-tashkent', 'is-beldersay-mountain-hike-worth-it-tashkent',
     'is-uzbekistan-6-city-tour-worth-it-tashkent', 'is-private-city-tour-photo-session-worth-it-tashkent',
+    'is-chorsu-market-ankhor-river-tour-worth-it-tashkent', 'is-ferghana-valley-2day-classes-worth-it-tashkent',
+    'is-zaamin-3day-tour-worth-it-tashkent',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/tashkent/${slug}`,
     lastModified: new Date(),
