@@ -680,6 +680,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-carpet-factory-weaving-workshop-worth-it-yerevan', 'is-letter-writing-ritual-worth-it-yerevan',
     'is-morning-walk-with-dog-worth-it-yerevan', 'is-saryan-street-wine-tasting-worth-it-yerevan',
     'is-distillates-tasting-courtyard-worth-it-yerevan', 'is-food-hidden-places-stories-tour-worth-it-yerevan',
+    'is-night-walking-tour-worth-it-yerevan', 'is-soviet-yerevan-tour-worth-it-yerevan',
+    'is-moonq-wine-tasting-worth-it-yerevan', 'is-bike-tour-food-wine-worth-it-yerevan',
   ], 'armenia', 'yerevan');
   const petraInfoPages = mapInfoSlugs([
     'best-petra-day-tour-from-amman', 'best-petra-wadi-rum-2-day-tour',

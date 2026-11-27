@@ -492,6 +492,8 @@ export const YEREVAN_INFO_SLUGS: string[] = [
   'is-carpet-factory-weaving-workshop-worth-it-yerevan', 'is-letter-writing-ritual-worth-it-yerevan',
   'is-morning-walk-with-dog-worth-it-yerevan', 'is-saryan-street-wine-tasting-worth-it-yerevan',
   'is-distillates-tasting-courtyard-worth-it-yerevan', 'is-food-hidden-places-stories-tour-worth-it-yerevan',
+  'is-night-walking-tour-worth-it-yerevan', 'is-soviet-yerevan-tour-worth-it-yerevan',
+  'is-moonq-wine-tasting-worth-it-yerevan', 'is-bike-tour-food-wine-worth-it-yerevan',
 ];
 
 // Jordan launched 2026-11-19 with 507 live tours and zero authority pages.

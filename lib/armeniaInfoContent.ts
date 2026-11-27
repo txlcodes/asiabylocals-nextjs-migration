@@ -917,6 +917,62 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-night-walking-tour-worth-it-yerevan":
+            return {
+                title: "Is the Yerevan Night Walking Tour with Panoramic Views Worth It?",
+                description: "An honest look at the Yerevan night walking tour with enchanting panoramic views.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yerevan's Cascade complex and viewpoints look genuinely different lit up after dark, and this walking tour times itself around the best panoramic spots, worth it specifically for travelers wanting an evening activity that's a real alternative to the city's wine bars and restaurants.", tourCard: { slug: "yerevan-night-walking-tour-with-enchanting", title: "Yerevan: Night Walking Tour With Enchanting Panoramic Views", description: "A night walking tour through Yerevan's best panoramic viewpoints.", price: "From $57", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a light jacket — evening temperatures can drop noticeably compared to Yerevan's daytime heat." }
+                ],
+                faqs: [
+                    { q: "Is the Yerevan night walking tour worth it?", a: "Yes, for a genuinely different evening perspective on the city's viewpoints, lit up after dark." }
+                ],
+            };
+
+        case "is-soviet-yerevan-tour-worth-it-yerevan":
+            return {
+                title: "Is Soviet Yerevan in Motion: Streets, Metro & Local Life Worth It?",
+                description: "An honest look at the Soviet Yerevan in Motion tour covering streets, metro, and local life.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This tour covers Yerevan's Soviet-era architecture and metro system alongside genuine everyday local life, worth it specifically for travelers interested in the city's 20th-century history beyond its ancient and medieval sites.", tourCard: { slug: "soviet-yerevan-in-motion-streets-metro-local-life", title: "Soviet Yerevan in Motion: Streets, Metro & Local Life", description: "A tour covering Soviet-era Yerevan's streets, metro, and local life.", price: "From $85", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg" } },
+                    { title: "Practical Tips", content: "Wear comfortable walking shoes, since the tour moves between streets and metro stations rather than staying in one area." }
+                ],
+                faqs: [
+                    { q: "Is the Soviet Yerevan tour worth it?", a: "Yes, specifically for travelers interested in the city's 20th-century Soviet-era history beyond its ancient and medieval sites." }
+                ],
+            };
+
+        case "is-moonq-wine-tasting-worth-it-yerevan":
+            return {
+                title: "Is the Rare Grape and Wine Tasting Experience at MOONQ Worth It?",
+                description: "An honest look at the rare grape and wine tasting experience at MOONQ in Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "MOONQ focuses specifically on rare, indigenous Armenian grape varieties rather than the more mainstream wines poured elsewhere in the city, worth it specifically for travelers with genuine wine curiosity wanting something beyond the usual Saryan Street or courtyard tastings.", tourCard: { slug: "rare-grape-wine-tasting-experience-at-moonq", title: "Rare Grape & Wine Tasting Experience at MOONQ", description: "A rare indigenous grape and wine tasting experience at MOONQ in Yerevan.", price: "From $69", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg" } },
+                    { title: "Practical Tips", content: "Ask your host which grapes are genuinely rare versus commonly available elsewhere, to get the most out of the tasting's specific focus." }
+                ],
+                faqs: [
+                    { q: "Is the MOONQ rare grape wine tasting worth it in Yerevan?", a: "Yes, specifically for travelers with real wine curiosity wanting indigenous Armenian varieties beyond the city's more mainstream tastings." }
+                ],
+            };
+
+        case "is-bike-tour-food-wine-worth-it-yerevan":
+            return {
+                title: "Is the Guided Bike Tour with Food & Wine Near Yerevan Worth It?",
+                description: "An honest look at the guided bike tour with food and wine near Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Covering the countryside around Yerevan by bike with food and wine stops built in gives a genuinely active alternative to the city's seated tasting experiences, worth it specifically for travelers wanting exercise alongside the eating and drinking.", tourCard: { slug: "guided-bike-tour-with-food-wine-near-yerevan", title: "Guided Bike Tour with Food & Wine near Yerevan", description: "A guided bike tour with food and wine stops near Yerevan.", price: "From $89", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/59b36d4ea183a34d33e9ad2f1de82fe7d56f64ed67dc36074f8d7bf713f9a823.jpeg" } },
+                    { title: "Practical Tips", content: "Pace your wine intake across the ride — you'll still need to cycle safely between the food and tasting stops." }
+                ],
+                faqs: [
+                    { q: "Is the bike tour with food and wine worth it near Yerevan?", a: "Yes, for travelers wanting genuine physical activity alongside the eating and drinking, rather than a seated tasting experience." }
+                ],
+            };
+
         default:
             return null;
     }
