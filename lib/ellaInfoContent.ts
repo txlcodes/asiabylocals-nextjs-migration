@@ -1247,6 +1247,90 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ella-2day-yala-arugam-bay-worth-it":
+      return {
+        title: "Is the 2-Day Yala Park Safari with Arugam Bay Drop-off Worth It from Ella?",
+        description: "An honest look at the 2-day Yala Park safari with Arugam Bay drop-off from Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-893239/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a Yala safari with a direct drop-off at Arugam Bay turns the onward journey into a genuine wildlife stop rather than a wasted transfer day, worth it for travelers heading to Arugam Bay's surf scene next.",
+            tourCard: { slug: "from-ella-2-day-yala-park-safari-with-arugam", title: "From Ella: 2-Day Yala Park Safari with Arugam Bay Drop-off", description: "A 2-day Yala Park safari with transfer and drop-off at Arugam Bay from Ella.", price: "From $964", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-893239/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the exact drop-off point in Arugam Bay, since the town stretches along a fair length of coastline.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Yala safari with Arugam Bay drop-off worth it from Ella?", a: "Yes, for travelers heading to Arugam Bay's surf scene next, turning the transfer into a genuine wildlife safari." },
+        ],
+      };
+
+    case "is-ella-udawalawe-yala-2day-worth-it":
+      return {
+        title: "Is the Ella Udawalawe & Yala National Parks 2-Day Tour Worth It?",
+        description: "An honest look at the 2-day Udawalawe and Yala National Parks tour from Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-893391/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering both Udawalawe, known for reliable elephant sightings, and Yala, known for leopards, in one 2-day trip gives genuinely better wildlife odds than committing to just one park.",
+            tourCard: { slug: "ella-udawalawe-yala-national-parks-2-day-tour", title: "Ella: Udawalawe, Yala National Parks 2-Day Tour & Transfers", description: "A 2-day tour covering both Udawalawe and Yala National Parks from Ella.", price: "From $1082", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-893391/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book morning safari slots at both parks where possible, since wildlife activity drops off noticeably by midday.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Udawalawe and Yala tour worth it from Ella?", a: "Yes, for travelers wanting genuinely better wildlife odds by covering both elephant and leopard territory in one trip." },
+        ],
+      };
+
+    case "is-7day-off-beaten-nature-wildlife-worth-it":
+      return {
+        title: "Is the 7-Day Off the Beaten Nature and Wildlife Tour Worth It?",
+        description: "An honest look at the 7-day off-the-beaten nature and wildlife tour from Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-411730/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This 7-day tour deliberately routes through less-visited nature and wildlife spots rather than the standard national park circuit, worth it for travelers who've already done the main safaris and want genuinely different terrain.",
+            tourCard: { slug: "7-day-off-the-beaten-nature-and-wildlife-tour", title: "7-Day Off The Beaten Nature and Wildlife tour", description: "A 7-day tour through lesser-visited nature and wildlife destinations in Sri Lanka.", price: "From $3126", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-411730/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask exactly which parks and reserves are on the itinerary, since 'off the beaten path' routes vary significantly between operators.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 7-day off-the-beaten nature and wildlife tour worth it?", a: "Yes, for travelers who've already done the main safari circuit and want genuinely different, less-visited nature terrain." },
+        ],
+      };
+
+    case "is-8day-active-sri-lanka-tour-worth-it":
+      return {
+        title: "Is the 8-Day Active Sri Lanka Tour (Ella, Safari, Rafting & Beaches) Worth It?",
+        description: "An honest look at the 8-day active Sri Lanka tour covering Ella, safari, rafting, and beaches.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1359214/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This 8-day tour is built around activity rather than sightseeing, pairing Ella's hiking with a safari, white-water rafting, and beach time, worth it for travelers wanting a genuinely active trip rather than a temple-and-viewpoint circuit.",
+            tourCard: { slug: "8-day-active-sri-lanka-tour-ella-safari-rafting", title: "8 Day Active Sri Lanka Tour; Ella, Safari, Rafting & Beaches", description: "An 8-day active tour covering Ella, a wildlife safari, white-water rafting, and beaches.", price: "From $3638", duration: "8 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1359214/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with a reasonable fitness level, since this itinerary is genuinely activity-focused rather than a relaxed sightseeing pace.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 8-day Active Sri Lanka Tour worth it?", a: "Yes, for travelers wanting a genuinely active trip combining hiking, safari, rafting, and beach time, rather than a standard sightseeing circuit." },
+        ],
+      };
+
     default:
       return null;
   }
