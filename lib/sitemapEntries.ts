@@ -1742,6 +1742,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ninja-weapon-workshop-worth-it-kyoto',
     'is-sushi-making-workshop-worth-it-kyoto', 'is-nintendo-museum-worth-it-kyoto',
     'is-yuzen-dyeing-worth-it-kyoto', 'is-archery-workshop-worth-it-kyoto',
+    'is-samurai-ninja-museum-worth-it-kyoto', 'is-tea-ceremony-with-maiko-worth-it-kyoto',
+    'is-shibori-scarf-class-worth-it-kyoto', 'is-chopstick-making-workshop-worth-it-kyoto',
 ].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),

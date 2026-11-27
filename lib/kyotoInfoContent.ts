@@ -2651,6 +2651,90 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-samurai-ninja-museum-worth-it-kyoto":
+      return {
+        title: "Is the Samurai Ninja Museum Guided Tour Worth It in Kyoto?",
+        description: "An honest look at the Samurai Ninja Museum guided tour in Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This museum gives genuine historical context behind samurai armor and ninja tools through a guided tour, distinct from the city's hands-on ninja weapon workshop, worth it for travelers wanting the history and artifacts explained before or instead of a purely hands-on activity.",
+            tourCard: { slug: "samurai-ninja-museum-guided-tour-in-kyoto", title: "Samurai Ninja Museum guided tour in Kyoto", description: "A guided tour of the Samurai Ninja Museum in Kyoto.", price: "From $30", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair this with the city's hands-on ninja weapon workshop for a fuller day if you want both the history and the practice.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Samurai Ninja Museum guided tour worth it in Kyoto?", a: "Yes, for genuine historical context on samurai armor and ninja tools, a good complement to the city's hands-on ninja weapon workshop." },
+        ],
+      };
+
+    case "is-tea-ceremony-with-maiko-worth-it-kyoto":
+      return {
+        title: "Is the Tea Ceremony with Maiko Worth It in Kyoto?",
+        description: "An honest look at the tea ceremony with a maiko in Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Having an apprentice geisha host the tea ceremony gives a genuinely rare, close encounter with Kyoto's maiko culture, worth it specifically for travelers who want more than a glimpse of a maiko from a distance on the street.",
+            tourCard: { slug: "tea-ceremony-with-maiko-in-kyoto", title: "Tea Ceremony with Maiko in Kyoto", description: "A tea ceremony experience hosted by a maiko in Kyoto.", price: "From $41", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book well in advance — sessions with a maiko are genuinely limited and fill up faster than standard tea ceremonies.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tea ceremony with Maiko worth it in Kyoto?", a: "Yes, for a genuinely rare, close encounter with maiko culture, far beyond just spotting one from a distance on the street." },
+        ],
+      };
+
+    case "is-shibori-scarf-class-worth-it-kyoto":
+      return {
+        title: "Is the Hanakoushi Shibori Cotton Scarf Class Worth It in Kyoto?",
+        description: "An honest look at the Hanakoushi Shibori cotton scarf-making class in Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Shibori is a traditional Japanese tie-dye technique distinct from the city's yuzen painted-dyeing craft, worth it for travelers wanting to learn a different textile method and take home a genuinely handmade cotton scarf.",
+            tourCard: { slug: "hanakoushi-shibori-cotton-scarf-class-in-kyoto", title: "Hanakoushi Shibori Cotton Scarf Class in Kyoto", description: "A hands-on Hanakoushi Shibori cotton scarf-making class in Kyoto.", price: "From $55", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your scarf is ready to wear by the end of the short session, making it a genuinely quick, practical souvenir.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Shibori scarf class worth it in Kyoto?", a: "Yes, for a genuinely different traditional textile technique than yuzen dyeing, with a real handmade scarf to take home." },
+        ],
+      };
+
+    case "is-chopstick-making-workshop-worth-it-kyoto":
+      return {
+        title: "Is the Chopstick Making Workshop at HASHI LAB Worth It in Kyoto?",
+        description: "An honest look at the chopstick making workshop at HASHI LAB in Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Making a real pair of chopsticks from scratch gives a genuinely practical, everyday souvenir distinct from the city's more decorative crafts, worth it specifically for travelers wanting a quick, functional item rather than purely ornamental artwork.",
+            tourCard: { slug: "chopstick-making-workshop-at-hashi-lab-in-kyoto", title: "Chopstick Making Workshop at HASHI LAB in Kyoto", description: "A hands-on chopstick making workshop at HASHI LAB in Kyoto.", price: "From $33", duration: "45 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/japanese-archery-workshop-with-experienced-instructor-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good short, inexpensive activity to slot between bigger sightseeing stops, given the quick session length.",
+          },
+        ],
+        faqs: [
+          { q: "Is the chopstick making workshop worth it in Kyoto?", a: "Yes, for a genuinely practical, everyday souvenir, distinct from the city's more decorative, purely ornamental crafts." },
+        ],
+      };
+
     default:
             return null;
     }
