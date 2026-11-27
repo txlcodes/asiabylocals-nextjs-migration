@@ -935,6 +935,90 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-perfume-making-workshop-worth-it-da-nang":
+      return {
+        title: "Is the Perfume Making Workshop Worth It in Da Nang?",
+        description: "An honest look at the perfume making workshop with a local instructor in Da Nang.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201283/asiabylocals/tours/perfume-making-workshop-with-local-instructor-in-da-nang/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A relaxed, personal craft activity where you blend and bottle your own custom fragrance under a local instructor's guidance, worth it as a short, low-key stop between beach and mountain sightseeing rather than a major cultural experience.",
+            tourCard: { slug: "perfume-making-workshop-with-local-instructor-in-da-nang", title: "Perfume Making Workshop with Local Instructor in Da Nang", description: "A hands-on custom perfume making workshop with a local instructor.", price: "From $29", duration: "1.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201283/asiabylocals/tours/perfume-making-workshop-with-local-instructor-in-da-nang/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check airline liquid restrictions before flying home with your finished bottle.",
+          },
+        ],
+        faqs: [
+          { q: "Is the perfume making workshop worth it in Da Nang?", a: "Yes, as a relaxed, personal craft activity that's a nice low-key break from the city's beach and mountain sightseeing." },
+        ],
+      };
+
+    case "is-night-squid-fishing-worth-it-da-nang":
+      return {
+        title: "Is the Danang Night Squid Fishing Experience Worth It?",
+        description: "An honest look at the Danang night squid fishing experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/danang-night-squid-fishing-experience-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Squid fishing at night, with the lights drawing them to the boat, is a genuinely different evening activity from Da Nang's usual sunset cruises or city tours, worth it for travelers who want a hands-on local fishing experience rather than just watching from a cruise deck.",
+            tourCard: { slug: "danang-night-squid-fishing-experience-da-nang", title: "Danang Night Squid Fishing Experience", description: "A hands-on night squid fishing experience in Da Nang.", price: "From $37", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/danang-night-squid-fishing-experience-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a bit wet or smelling of the sea — this is genuine fishing, not a staged photo-op.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Danang night squid fishing experience worth it?", a: "Yes, for a genuinely hands-on local fishing activity, distinct from the city's usual sunset cruises." },
+        ],
+      };
+
+    case "is-natural-dyeing-fan-painting-worth-it-da-nang":
+      return {
+        title: "Is the Natural Dyeing and Fabric Fan Painting Workshop Worth It?",
+        description: "An honest look at the natural dyeing and fabric fan painting workshop in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/natural-dyeing-and-free-fabric-fan-painting-workshop-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This workshop teaches natural plant-based dyeing techniques alongside a fabric fan painting activity, worth it for travelers who want a genuinely hands-on craft experience that produces two distinct take-home souvenirs in one booking.",
+            tourCard: { slug: "natural-dyeing-and-free-fabric-fan-painting-workshop-in-da-nang", title: "Natural Dyeing and Free Fabric Fan Painting Workshop in Da Nang", description: "A hands-on natural dyeing and fabric fan painting workshop.", price: "From $44", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/natural-dyeing-and-free-fabric-fan-painting-workshop-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a bit of dye on, even with aprons provided.",
+          },
+        ],
+        faqs: [
+          { q: "Is the natural dyeing and fabric fan painting workshop worth it in Da Nang?", a: "Yes, it's a genuinely hands-on craft session producing two distinct souvenirs — a dyed piece and a painted fan — in one booking." },
+        ],
+      };
+
+    case "is-speedboat-fishing-experience-worth-it-da-nang":
+      return {
+        title: "Is the Small-Group Speedboat and Fishing Experience Worth It?",
+        description: "An honest look at the small-group speedboat and fishing experience in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A short, active speedboat outing combined with a fishing stop, worth it for travelers wanting a quick, high-energy water activity in a small group setting rather than the longer Cham Island snorkeling day trip.",
+            tourCard: { slug: "small-group-speedboat-and-fishing-experience-in-da-nang", title: "Small-Group Speedboat and Fishing Experience in Da Nang", description: "A speedboat and fishing experience in a small group setting.", price: "From $46", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-speedboat-and-fishing-experience-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection — most of this experience happens out on open water with little shade.",
+          },
+        ],
+        faqs: [
+          { q: "Is the small-group speedboat and fishing experience worth it in Da Nang?", a: "Yes, for a quick, active water outing in a small group, a good shorter alternative to the longer Cham Island day trip." },
+        ],
+      };
+
     default:
       return null;
   }

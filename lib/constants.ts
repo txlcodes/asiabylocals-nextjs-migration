@@ -2648,6 +2648,8 @@ export const DA_NANG_INFO_SLUGS = [
   'is-pottery-workshop-worth-it-da-nang', 'is-surfing-lesson-worth-it-da-nang',
   'is-woodblock-printing-workshop-worth-it-da-nang', 'is-mi-quang-noodle-show-worth-it-da-nang',
   'is-do-paper-workshop-worth-it-da-nang', 'is-nui-than-tai-hot-springs-worth-it-da-nang',
+  'is-perfume-making-workshop-worth-it-da-nang', 'is-night-squid-fishing-worth-it-da-nang',
+  'is-natural-dyeing-fan-painting-worth-it-da-nang', 'is-speedboat-fishing-experience-worth-it-da-nang',
 ];
 
 export const HO_CHI_MINH_CITY_INFO_SLUGS = [
