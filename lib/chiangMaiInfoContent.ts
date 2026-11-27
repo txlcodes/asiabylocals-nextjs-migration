@@ -954,6 +954,62 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-old-city-walking-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Old City Walking Tour with Temples and History Worth It?",
+                description: "An honest look at the guided old city walking tour covering temples and history in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1317039/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Chiang Mai's moated old city packs over 30 temples into roughly one square kilometer, and a guided walking tour explains the history behind what you'd otherwise just be photographing, worth it specifically for first-time visitors wanting context before exploring on their own.", tourCard: { slug: "old-city-walking-tour-with-temples-and-history-in-chiang-mai", title: "Old City Walking Tour with Temples and History in Chiang Mai", description: "A guided walking tour of Chiang Mai's old city temples and history.", price: "From $39", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1317039/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear comfortable shoes and modest clothing covering shoulders and knees, since the route goes in and out of active temples." }
+                ],
+                faqs: [
+                    { q: "Is the old city walking tour worth it in Chiang Mai?", a: "Yes, especially for first-time visitors who want historical context before exploring the old city's temples on their own." }
+                ],
+            };
+
+        case "is-herbal-ball-workshop-worth-it-chiang-mai":
+            return {
+                title: "Is the Herbal Tea, Thai Inhaler and Massage Ball Workshop Worth It?",
+                description: "An honest look at the herbal tea, Thai inhaler, and massage ball-making workshop in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-665527/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This hands-on workshop teaches traditional northern Thai herbal remedies — blending your own tea, inhaler, and compress ball — worth it specifically for travelers wanting a genuine craft skill and souvenir to take home rather than a passive demonstration.", tourCard: { slug: "herbal-tea-thai-inhaler-and-massage-ball-workshop-in-chiang-mai", title: "Herbal Tea, Thai Inhaler and Massage Ball Workshop in Chiang Mai", description: "A hands-on workshop making herbal tea, a Thai inhaler, and a massage ball.", price: "From $36", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/my-665527/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good rainy-day or midday-heat activity, since it's entirely indoors and short." }
+                ],
+                faqs: [
+                    { q: "Is the herbal workshop worth it in Chiang Mai?", a: "Yes, for a genuine hands-on craft and a real souvenir, rather than watching a passive demonstration." }
+                ],
+            };
+
+        case "is-historic-old-city-bike-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Historic Old City Bike Tour Worth It in Chiang Mai?",
+                description: "An honest look at the morning or night bike tour through Chiang Mai's historic old city.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1201547/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Covering the old city by bike rather than on foot or by tuk-tuk lets you reach more temples and back streets within the same window, worth it specifically for travelers wanting a more active, flexible pace than a walking or motorized tour.", tourCard: { slug: "historic-old-city-bike-tour-morning-or-night-in-chiang-mai", title: "Historic Old City Bike Tour - Morning or Night in Chiang Mai", description: "A bike tour of Chiang Mai's historic old city, available morning or night.", price: "From $48", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1201547/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pick the night option if you want to avoid the midday heat and see the old city's temples lit up instead." }
+                ],
+                faqs: [
+                    { q: "Is the old city bike tour worth it in Chiang Mai?", a: "Yes, for travelers wanting a more active, flexible way to cover more ground than a walking or tuk-tuk tour." }
+                ],
+            };
+
+        case "is-local-food-markets-walking-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Local Food and Markets Guided Walking Tour Worth It?",
+                description: "An honest look at the daytime local food and markets walking tour in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-723228/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This daytime walking tour through local markets covers a genuinely different angle than the city's popular night tuk-tuk food tour, worth it specifically for travelers who want to see how northern Thai ingredients are actually bought and prepared, not just eat the finished dishes after dark.", tourCard: { slug: "local-food-and-markets-guided-walking-tour-in-chiang-mai", title: "Local Food and Markets Guided Walking Tour in Chiang Mai", description: "A guided daytime walking tour through Chiang Mai's local food markets.", price: "From $31", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-723228/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come with an appetite — most guides have you taste multiple items straight from the market stalls as you go." }
+                ],
+                faqs: [
+                    { q: "Is the local food and markets walking tour worth it in Chiang Mai?", a: "Yes, especially if you want to see how northern Thai food is actually sourced and prepared, not just eat it at night." }
+                ],
+            };
+
         default:
             return null;
     }
