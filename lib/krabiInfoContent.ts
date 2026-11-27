@@ -944,6 +944,62 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-khao-ngon-nak-trekking-worth-it-krabi":
+            return {
+                title: "Is the Khao Ngon Nak Trekking Experience Worth It in Krabi?",
+                description: "An honest look at the Khao Ngon Nak trekking experience in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khao-ngon-nak-trekking-experience-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Khao Ngon Nak's ridge trail, known locally as the Dragon Crest trek, gives a genuinely rewarding jungle hike with sweeping views over Krabi's karst coastline, worth it for travelers wanting a free or low-cost active alternative to the boat-based island days.", tourCard: { slug: "khao-ngon-nak-trekking-experience-in-krabi", title: "Khao Ngon Nak Trekking Experience in Krabi", description: "A guided trekking experience up Khao Ngon Nak's Dragon Crest ridge trail.", price: "From $256", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/khao-ngon-nak-trekking-experience-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Start early morning, since the trail has little shade and gets genuinely hot and humid by midday." }
+                ],
+                faqs: [
+                    { q: "Is the Khao Ngon Nak trek worth it in Krabi?", a: "Yes, for travelers wanting a genuinely rewarding jungle hike with coastal karst views, as an active alternative to the boat-based island days." }
+                ],
+            };
+
+        case "is-khao-khanab-nam-caves-worth-it-krabi":
+            return {
+                title: "Is the Khao Khanab Nam Caves Tour Worth It in Krabi?",
+                description: "An honest look at the Khao Khanab Nam Caves tour with romantic boat ride in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khao-khanab-nam-caves-tour-with-romantic-boat-ride-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Khao Khanab Nam's twin limestone peaks and riverside caves give a quick, scenic stop reachable right from Krabi Town, and the boat ride itself is a genuinely relaxed way to see the karst formations up close, worth it for travelers with limited time wanting an easy add-on.", tourCard: { slug: "khao-khanab-nam-caves-tour-with-romantic-boat-ride-in-krabi", title: "Khao Khanab Nam Caves Tour with Romantic Boat Ride in Krabi", description: "A boat tour to Khao Khanab Nam's limestone caves in Krabi.", price: "From $194", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/khao-khanab-nam-caves-tour-with-romantic-boat-ride-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Time it for late afternoon, when the light on the limestone cliffs and river is at its most photogenic." }
+                ],
+                faqs: [
+                    { q: "Is the Khao Khanab Nam Caves tour worth it in Krabi?", a: "Yes, for travelers with limited time wanting an easy, scenic boat trip right from Krabi Town." }
+                ],
+            };
+
+        case "is-daeng-island-sunset-plankton-worth-it-krabi":
+            return {
+                title: "Is the Daeng Island Sunset and Bioluminescent Plankton Tour Worth It?",
+                description: "An honest look at the Daeng Island sunset and bioluminescent plankton tour in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/daeng-island-sunset-and-bioluminescent-plankton-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Daeng Island's quieter sunset and the genuine glow of bioluminescent plankton after dark give a two-stage evening most standard island tours don't cover, worth it for travelers wanting both a sunset view and a real nighttime natural phenomenon in one trip.", tourCard: { slug: "daeng-island-sunset-and-bioluminescent-plankton-in-krabi", title: "Daeng Island Sunset and Bioluminescent Plankton in Krabi", description: "A sunset and bioluminescent plankton tour at Daeng Island in Krabi.", price: "From $241", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/daeng-island-sunset-and-bioluminescent-plankton-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Check the moon phase before booking — bioluminescence is far more visible on darker, moonless nights." }
+                ],
+                faqs: [
+                    { q: "Is the Daeng Island sunset and plankton tour worth it in Krabi?", a: "Yes, for travelers wanting both a sunset view and a genuine bioluminescent plankton experience in one evening trip." }
+                ],
+            };
+
+        case "is-crystal-kayaking-cave-forest-cafe-worth-it-krabi":
+            return {
+                title: "Is the Crystal Kayaking, Cave and Forest Cafe Day Worth It in Krabi?",
+                description: "An honest look at the full-day crystal kayaking, cave and forest cafe tour in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/full-day-crystal-kayaking-cave-and-into-the-forest-cafe-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kayaking on crystal-clear water, exploring a limestone cave and finishing at a jungle-set forest cafe gives a genuinely varied full day combining water, underground and relaxation elements, worth it for travelers wanting more variety than a single-activity tour.", tourCard: { slug: "full-day-crystal-kayaking-cave-and-into-the-forest-cafe-in-krabi", title: "Full-Day Crystal Kayaking, Cave and Into the forest Cafe in Krabi", description: "A full day combining crystal kayaking, a cave visit and a forest cafe stop in Krabi.", price: "From $428", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/full-day-crystal-kayaking-cave-and-into-the-forest-cafe-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a dry bag for your phone or camera, since the kayaking and cave sections both involve real water exposure." }
+                ],
+                faqs: [
+                    { q: "Is the crystal kayaking, cave and forest cafe day worth it in Krabi?", a: "Yes, for travelers wanting a genuinely varied day combining water, underground and relaxation elements in one trip." }
+                ],
+            };
+
         default:
             return null;
     }
