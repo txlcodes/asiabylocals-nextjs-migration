@@ -1538,6 +1538,74 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-private-tennis-experience-worth-it-bukhara":
+            return {
+                title: "Is the Private Tennis Experience with a Coach Worth It in Bukhara?",
+                description: "An honest look at the private tennis experience with a coach in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5190adc28e763af5fca5099884228d8baaaceadc3399a48e47e04462aa89cd5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A genuinely unusual activity to find in Bukhara, this private coached tennis session gives active travelers a break from monument walking, worth it for those wanting physical activity alongside the city's heritage sightseeing.", tourCard: { slug: "bukhara-private-tennis-experience-with-coach", title: "Bukhara Private Tennis Experience with Coach", description: "A private coached tennis session in Bukhara.", price: "From $91", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5190adc28e763af5fca5099884228d8baaaceadc3399a48e47e04462aa89cd5d.jpg" } },
+                    { title: "Practical Tips", content: "Confirm court availability and equipment rental with the operator in advance." },
+                ],
+                faqs: [
+                    { q: "Is the private tennis experience with a coach worth it in Bukhara?", a: "Yes, for active travelers wanting a genuine physical break from monument-heavy sightseeing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the private tennis experience worth it in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for active travelers wanting a physical break from sightseeing." } },
+                ] },
+            };
+
+        case "is-jewish-heritage-house-plov-worth-it-bukhara":
+            return {
+                title: "Is the Jewish Heritage House Tour and Plov Cooking Class Worth It?",
+                description: "An honest look at the Jewish heritage house tour and plov cooking class in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3222f17b15abeadedefd6b03eb7fc9a952c77a7b29f735d747523077d9861197.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bukhara has one of Central Asia's oldest Jewish communities, and this tour pairs a visit to a heritage house with a hands-on plov cooking class, worth it for travelers wanting genuine cultural depth beyond the main Islamic monuments.", tourCard: { slug: "bukhara-jewish-heritage-house-tour-and-plov", title: "Bukhara: Jewish Heritage House Tour and Plov Cooking Class", description: "A tour of a Jewish heritage house paired with a plov cooking class.", price: "From $97", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3222f17b15abeadedefd6b03eb7fc9a952c77a7b29f735d747523077d9861197.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — the class ends with eating the plov you helped cook." },
+                ],
+                faqs: [
+                    { q: "Is the Jewish heritage house tour and plov cooking class worth it in Bukhara?", a: "Yes, it gives genuine cultural depth into the city's Jewish history, beyond the main Islamic monuments." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Jewish heritage house tour worth it in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuine cultural depth into the city's Jewish history." } },
+                ] },
+            };
+
+        case "is-suzani-embroidery-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Suzani Embroidery Workshop and Cultural Exploration Worth It?",
+                description: "An honest look at the Suzani embroidery workshop and cultural exploration in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77735d6b8dddc0369ba6ef1f28d3176784af40ac70efc3abfe05e1f40c70d7c9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Suzani is a genuine traditional Uzbek embroidery technique, and this hands-on workshop teaches the basics while giving real cultural context, worth it for travelers wanting a craft activity with actual historical substance.", tourCard: { slug: "bukhara-suzani-embroidery-workshop-and-cultural", title: "Bukhara: Suzani Embroidery Workshop and Cultural Exploration", description: "A hands-on Suzani embroidery workshop with cultural context.", price: "From $117", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77735d6b8dddc0369ba6ef1f28d3176784af40ac70efc3abfe05e1f40c70d7c9.jpg" } },
+                    { title: "Practical Tips", content: "Your finished embroidery piece makes a genuinely distinctive, lightweight souvenir to pack." },
+                ],
+                faqs: [
+                    { q: "Is the Suzani embroidery workshop worth it in Bukhara?", a: "Yes, it's a genuine traditional craft with real historical substance, not just a souvenir-making session." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Suzani embroidery workshop worth it in Bukhara?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it's a genuine traditional craft with real historical substance." } },
+                ] },
+            };
+
+        case "is-sarmish-soy-petroglyphs-tour-worth-it-bukhara":
+            return {
+                title: "Is the Sarmish-Soy Gorge Petroglyphs Day Trip Worth It from Bukhara?",
+                description: "An honest look at the Sarmish-Soy Gorge petroglyphs day trip from Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Sarmish-Soy Gorge holds thousands of ancient rock carvings dating back millennia, giving a genuinely different, much older historical layer than Bukhara's Islamic-era architecture, worth it for travelers interested in prehistoric history.", tourCard: { slug: "bukhara-sarmish-soy-gorge-petroglyphs-day-trip", title: "Bukhara: Sarmish-Soy Gorge Petroglyphs Day Trip", description: "A day trip to the Sarmish-Soy Gorge petroglyphs from Bukhara.", price: "From $195", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d51657c2bc8689e555ce5091917582319487e6b5091280f998876e7cea2116db.jpg" } },
+                    { title: "Practical Tips", content: "Wear sturdy shoes and bring water — the gorge involves walking over uneven rocky terrain under open sun." },
+                ],
+                faqs: [
+                    { q: "Is the Sarmish-Soy Gorge petroglyphs day trip worth it from Bukhara?", a: "Yes, for travelers interested in prehistoric history, a genuinely older layer than the city's Islamic-era architecture." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Sarmish-Soy petroglyphs day trip worth it?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for a genuinely older prehistoric history layer than the city's Islamic architecture." } },
+                ] },
+            };
+
         default:
             return null;
     }
