@@ -2320,6 +2320,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-yen-tu-mountain-tour-worth-it-ha-long',
     'is-ngu-lam-peak-trek-worth-it-ha-long', 'is-poseidon-night-cruise-worth-it-ha-long',
     'is-monkey-island-tour-worth-it-ha-long', 'is-cat-ba-trekking-overnight-worth-it-ha-long',
+    'is-tam-coc-ebike-tour-worth-it-ha-long', 'is-ha-giang-loop-3-day-worth-it-ha-long',
+    'is-dinner-cruise-buffet-live-music-worth-it-ha-long', 'is-halong-sky-paragliding-worth-it-ha-long',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ha-long/${slug}`,
     lastModified: new Date(),

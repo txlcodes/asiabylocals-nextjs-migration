@@ -786,6 +786,90 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tam-coc-ebike-tour-worth-it-ha-long":
+      return {
+        title: "Is the Tam Coc E-Bike and Dungj Valley Tour Worth It?",
+        description: "An honest look at the Tam Coc e-bike and Dungj Valley tour, a Ninh Binh region day trip.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering Tam Coc's rice-field valleys and limestone karsts by e-bike gives a genuinely different, land-based landscape than Ha Long's boat-based bay scenery, worth it specifically for travelers wanting variety beyond another cruise.",
+            tourCard: { slug: "tam-coc-e-bike-and-dundj-valley-tour", title: "Tam Coc E-Bike and Dundj Valley Tour", description: "An e-bike tour through Tam Coc and Dungj Valley.", price: "From $52", duration: "7.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear sun protection and comfortable clothing — this is an active e-bike route through open countryside with limited shade.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tam Coc e-bike tour worth it?", a: "Yes, for travelers wanting genuine landscape variety beyond another Ha Long Bay boat cruise." },
+        ],
+      };
+
+    case "is-ha-giang-loop-3-day-worth-it-ha-long":
+      return {
+        title: "Is the Ha Giang Loop 3-Day, 2-Night Tour Worth It?",
+        description: "An honest look at the Ha Giang Loop 3-day, 2-night tour beyond the classic route.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ha Giang's mountain passes give a completely different kind of Vietnamese scenery than Ha Long's limestone bay, worth it specifically for travelers with extra days wanting dramatic highland roads and remote villages rather than more boat time.",
+            tourCard: { slug: "ha-giang-loop-3-day-2-night-beyond-the-classic-route-in-ha-long", title: "Ha Giang Loop 3-Day 2-Night – Beyond the Classic Route", description: "A 3-day, 2-night Ha Giang Loop tour beyond the classic route.", price: "From $66", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm whether you're riding yourself or on the back of a guide's motorbike, since the mountain roads require real riding experience either way.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ha Giang Loop 3-day tour worth it?", a: "Yes, specifically for travelers with extra days wanting dramatic mountain scenery and remote villages, a completely different trip from Ha Long Bay's limestone karsts." },
+        ],
+      };
+
+    case "is-dinner-cruise-buffet-live-music-worth-it-ha-long":
+      return {
+        title: "Is the Dinner Cruise with Buffet and Live Music Worth It in Ha Long?",
+        description: "An honest look at the dinner cruise with buffet and live music in Ha Long.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This cruise focuses on a proper buffet dinner with live music rather than the DJ-led party format of the Poseidon night cruise, worth it specifically for travelers wanting a relaxed evening meal on the water rather than a nightlife atmosphere.",
+            tourCard: { slug: "dinner-cruise-with-buffet-and-live-music-in-ha-long", title: "Dinner Cruise with Buffet and Live Music in Ha Long", description: "A dinner cruise with a buffet meal and live music in Ha Long.", price: "From $70", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you want a party atmosphere with a DJ, the Poseidon night cruise is the better fit instead — this one is built around a relaxed dinner.",
+          },
+        ],
+        faqs: [
+          { q: "Is the dinner cruise with buffet and live music worth it in Ha Long?", a: "Yes, specifically for travelers wanting a relaxed evening meal on the water, distinct from the DJ-led party format of the Poseidon night cruise." },
+        ],
+      };
+
+    case "is-halong-sky-paragliding-worth-it-ha-long":
+      return {
+        title: "Is the Halong Sky Tour Powered Paragliding Worth It?",
+        description: "An honest look at the Halong Sky Tour powered paragliding experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A powered paragliding flight gives a genuinely different aerial view of Ha Long Bay's limestone karsts than any boat cruise, worth it specifically for travelers wanting an adrenaline activity with a real bay-view payoff.",
+            tourCard: { slug: "halong-sky-tour-powered-paragliding-ha-long", title: "Halong Sky Tour: Powered Paragliding", description: "A powered paragliding flight over Ha Long Bay.", price: "From $117", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/from-hanoi-2-day-1-night-cat-ba-trekking-and-lan-ha-bay-adventure/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book earlier in the day when winds tend to be calmer and more consistent for flying.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Halong Sky powered paragliding tour worth it?", a: "Yes, for a genuinely different aerial view of the bay's limestone karsts, with more adrenaline than any boat cruise." },
+        ],
+      };
+
     default:
       return null;
   }
