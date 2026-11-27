@@ -483,6 +483,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-tea-heritage-walk-worth-it-samarkand', 'is-street-food-walking-tour-worth-it-samarkand',
     'is-marokand-concert-hall-show-worth-it-samarkand', 'is-uzbek-folklore-show-worth-it-samarkand',
     'is-legendary-bread-acrobatic-class-worth-it-samarkand', 'is-after-sunset-slow-evening-worth-it-samarkand',
+    'is-village-tour-homemade-dinner-worth-it-samarkand', 'is-spiritual-cultural-walk-tea-worth-it-samarkand',
+    'is-museum-tour-small-group-worth-it-samarkand', 'is-qurtob-family-masterclass-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),

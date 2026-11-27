@@ -1382,6 +1382,8 @@ export const SAMARKAND_INFO_SLUGS = [
   'is-tea-heritage-walk-worth-it-samarkand', 'is-street-food-walking-tour-worth-it-samarkand',
   'is-marokand-concert-hall-show-worth-it-samarkand', 'is-uzbek-folklore-show-worth-it-samarkand',
   'is-legendary-bread-acrobatic-class-worth-it-samarkand', 'is-after-sunset-slow-evening-worth-it-samarkand',
+  'is-village-tour-homemade-dinner-worth-it-samarkand', 'is-spiritual-cultural-walk-tea-worth-it-samarkand',
+  'is-museum-tour-small-group-worth-it-samarkand', 'is-qurtob-family-masterclass-worth-it-samarkand',
 ];
 
 export const TASHKENT_INFO_SLUGS = [

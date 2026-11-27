@@ -1594,6 +1594,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-village-tour-homemade-dinner-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Village Tour with Homemade Dinner Worth It?",
+                description: "An honest look at the Samarkand village tour with homemade dinner and local snacks.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting a rural village outside Samarkand and eating a homemade dinner with a local family gives a genuinely different, slower experience than the city's monument-focused tours, worth it for travelers wanting real cultural contact rather than another historical walk.", tourCard: { slug: "samarkand-village-tour-with-homemade-dinner-local", title: "Samarkand: Village Tour with Homemade Dinner & Local Snacks", description: "A village tour near Samarkand with a homemade dinner and local snacks.", price: "From $65", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg" } },
+                    { title: "Practical Tips", content: "Come with an appetite — homemade meals in rural Uzbek households are typically generous, multi-dish spreads." }
+                ],
+                faqs: [
+                    { q: "Is the Samarkand village tour with homemade dinner worth it?", a: "Yes, for genuine cultural contact and a real home-cooked meal, a slower change of pace from the city's monument-focused tours." }
+                ],
+            };
+
+        case "is-spiritual-cultural-walk-tea-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Spiritual and Cultural Walk with Tea Worth It?",
+                description: "An honest look at the Samarkand spiritual and cultural walk with tea and stories.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This walk pairs Samarkand's spiritual sites with storytelling and tea stops at a deliberately slower pace, worth it specifically for travelers wanting narrative depth and a contemplative tone rather than a fast-paced highlights circuit.", tourCard: { slug: "samarkand-spiritual-cultural-walk-with-tea-and", title: "Samarkand: Spiritual & Cultural Walk with Tea and Stories", description: "A spiritual and cultural walk through Samarkand with tea stops and storytelling.", price: "From $52", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg" } },
+                    { title: "Practical Tips", content: "Go in with an open mind for storytelling and reflection — the pace is deliberately slower than the city's standard highlights walks." }
+                ],
+                faqs: [
+                    { q: "Is the spiritual and cultural walk with tea worth it in Samarkand?", a: "Yes, specifically for travelers wanting narrative depth and a contemplative pace rather than a fast highlights circuit." }
+                ],
+            };
+
+        case "is-museum-tour-small-group-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Museum Tour (Small Group & Private Options) Worth It?",
+                description: "An honest look at the Samarkand museum tour with small group and private options.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "This museum-focused tour gives historical and archaeological context behind Samarkand's monuments, worth it specifically for travelers wanting deeper background before or after seeing the city's famous sites in person.", tourCard: { slug: "museum-tour-small-group-private-options", title: "Museum Tour – Small Group & Private Options!", description: "A museum tour of Samarkand with small group and private options.", price: "From $43", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg" } },
+                    { title: "Practical Tips", content: "Choose the private option if you want to move at your own pace through the exhibits rather than following a group schedule." }
+                ],
+                faqs: [
+                    { q: "Is the Samarkand museum tour worth it?", a: "Yes, for travelers wanting deeper historical context behind the city's famous monuments before or after seeing them." }
+                ],
+            };
+
+        case "is-qurtob-family-masterclass-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Countryside Qurtob Family Masterclass Worth It?",
+                description: "An honest look at the traditional Qurtob family cooking masterclass in the Samarkand countryside.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Qurtob is a specific regional dish rarely taught in the city's more common plov and bread classes, worth it for travelers wanting a genuinely different dish and a countryside setting rather than another urban cooking class.", tourCard: { slug: "samarkand-countryside-traditional-qurtob-family", title: "Samarkand Countryside: Traditional Qurtob Family Masterclass", description: "A traditional Qurtob cooking masterclass with a family in the Samarkand countryside.", price: "From $72", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0978919f912cc5b58df09690ec7eb5514fda011940c0b764e855a0cce398b936.jpeg" } },
+                    { title: "Practical Tips", content: "Come hungry — like most Uzbek cooking classes, you'll eat what you make as a full meal." }
+                ],
+                faqs: [
+                    { q: "Is the Qurtob family masterclass worth it in Samarkand?", a: "Yes, for a genuinely different regional dish and countryside setting, distinct from the city's more common plov and bread classes." }
+                ],
+            };
+
         case "is-private-tennis-experience-worth-it-bukhara":
             return {
                 title: "Is the Private Tennis Experience with a Coach Worth It in Bukhara?",
