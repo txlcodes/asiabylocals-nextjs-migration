@@ -809,6 +809,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-eastern-bazaar-tour-worth-it-baku', 'is-paint-baku-by-sea-worth-it-baku',
     'is-canoe-experience-worth-it-baku', 'is-punch-needle-mirror-workshop-worth-it-baku',
     'is-neon-art-museum-worth-it-baku', 'is-history-museum-worth-it-baku',
+    'is-guba-hiking-homestay-worth-it-baku', 'is-shahdag-paragliding-quad-coaster-worth-it-baku',
+    'is-ski-zipline-snowmobile-worth-it-baku', 'is-frozen-waterfall-hiking-worth-it-baku',
   ], 'azerbaijan', 'baku');
   const singaporeInfoPages = mapInfoSlugs([
     'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',

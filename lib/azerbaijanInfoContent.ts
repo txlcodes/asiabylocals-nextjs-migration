@@ -754,6 +754,62 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-guba-hiking-homestay-worth-it-baku":
+            return {
+                title: "Is the 2-Day Hiking and Homestay Tour in Guba Worth It?",
+                description: "An honest look at the 2-day hiking and homestay tour in Guba from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/88035621cb563d348bff2cae1ec23e182eb7edd55caaac7ddf7ba90d1af3a5e9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Staying overnight with a local family in Guba rather than just passing through gives genuine access to mountain village life alongside real hiking, worth it for travelers wanting authentic cultural immersion rather than a quick day-trip sightseeing stop.", tourCard: { slug: "baku-homestay-adventure-tour", title: "From Baku: 2-Day Hiking and Homestay Tour in Guba", description: "A 2-day hiking and homestay tour in the mountain region of Guba from Baku.", price: "From $975", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/88035621cb563d348bff2cae1ec23e182eb7edd55caaac7ddf7ba90d1af3a5e9.jpg" } },
+                    { title: "Practical Tips", content: "Pack layers, since Guba's mountain elevation runs noticeably cooler than Baku, especially overnight." },
+                ],
+                faqs: [
+                    { q: "Is the Guba hiking and homestay tour worth it from Baku?", a: "Yes, for travelers wanting genuine cultural immersion in mountain village life, beyond a quick day-trip sightseeing stop." },
+                ],
+            };
+
+        case "is-shahdag-paragliding-quad-coaster-worth-it-baku":
+            return {
+                title: "Is the Shahdag Paragliding, Quad Biking, Coaster and Cable Car Tour Worth It?",
+                description: "An honest look at the Shahdag paragliding, quad biking, coaster and cable car tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2667e85ed51420395d62dcd04415efce67609e40544df084b58dbac32ccdfa0e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Packing paragliding, quad biking, a mountain coaster and a cable car ride into one Shahdag day gives a genuinely adrenaline-dense outing beyond the resort's standard ski-season sightseeing, worth it for travelers wanting multiple adventure activities in one trip.", tourCard: { slug: "baku-coaster-guided-tour", title: "Shahdag: Paragliding, Quad Biking, Coaster & Cable Car Tour", description: "A combo adventure tour at Shahdag covering paragliding, quad biking, a coaster and cable car.", price: "From $676", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2667e85ed51420395d62dcd04415efce67609e40544df084b58dbac32ccdfa0e.jpg" } },
+                    { title: "Practical Tips", content: "Check weather conditions before booking, since paragliding specifically depends on clear, calm conditions at altitude." },
+                ],
+                faqs: [
+                    { q: "Is the Shahdag paragliding, quad biking and coaster tour worth it?", a: "Yes, for travelers wanting multiple genuine adventure activities packed into one mountain day." },
+                ],
+            };
+
+        case "is-ski-zipline-snowmobile-worth-it-baku":
+            return {
+                title: "Is the Skiing, Zipline, Snow Tubing and Snowmobile Tour Worth It from Baku?",
+                description: "An honest look at the skiing, zipline, snow tubing and snowmobile tour from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d98faafc436b6cb113265bb3a5804e8c948aad8f2896feed318fb18a2af69282.png",
+                sections: [
+                    { title: "The Short Answer", content: "Combining skiing, ziplining, snow tubing and snowmobiling into one winter day gives genuine variety that a single-activity ski pass doesn't, worth it for travelers visiting in winter who want to try several snow activities rather than just skiing.", tourCard: { slug: "baku-snowmobile-guided-tour", title: "From Baku: Skiing, Zipline, Snow Tubing, and Snowmobile Tour", description: "A winter combo tour covering skiing, zipline, snow tubing and snowmobiling from Baku.", price: "From $793", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d98faafc436b6cb113265bb3a5804e8c948aad8f2896feed318fb18a2af69282.png" } },
+                    { title: "Practical Tips", content: "This only runs in winter when there's genuine snow cover — confirm current conditions with the operator before booking." },
+                ],
+                faqs: [
+                    { q: "Is the skiing, zipline and snowmobile tour worth it from Baku?", a: "Yes, for winter travelers wanting genuine variety across several snow activities, rather than just a standard ski pass." },
+                ],
+            };
+
+        case "is-frozen-waterfall-hiking-worth-it-baku":
+            return {
+                title: "Is the Full-Day Frozen Waterfall Hiking Tour Worth It from Baku?",
+                description: "An honest look at the full-day frozen waterfall hiking tour from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bebdb0ebb0a6e83d024e2386fe2c647fb6badb05c38fc21b56531fcc51f3ddcd.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Hiking to a genuinely frozen winter waterfall gives a striking, seasonal sight unlike anything Baku's coastal city offers, worth it for travelers visiting in the cold months who want real mountain scenery beyond the standard Old City circuit.", tourCard: { slug: "waterfall-frozen-full-day-tour", title: "From Baku: Full-Day Frozen Waterfall Hiking Tour", description: "A full-day hiking tour to a frozen waterfall from Baku.", price: "From $715", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bebdb0ebb0a6e83d024e2386fe2c647fb6badb05c38fc21b56531fcc51f3ddcd.jpg" } },
+                    { title: "Practical Tips", content: "This is seasonal and only available when the waterfall is genuinely frozen — confirm current conditions before booking." },
+                ],
+                faqs: [
+                    { q: "Is the frozen waterfall hiking tour worth it from Baku?", a: "Yes, for winter travelers wanting a striking, seasonal natural sight and real mountain scenery beyond the standard Old City circuit." },
+                ],
+            };
+
         default:
             return null;
     }
