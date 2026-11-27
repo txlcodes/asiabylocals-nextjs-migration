@@ -601,6 +601,74 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-city-tour-professional-photoshoot-worth-it-almaty":
+            return {
+                title: "Is the Almaty City Tour with Professional Photoshoot Worth It?",
+                description: "An honest look at the Almaty city tour with a professional photoshoot included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea7dbb904f02d292acce8539c5ca9d3a8718af23aa65aa2f9bb51528bb77dab3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a city sightseeing tour with a professional photoshoot gets you quality photos of your trip without relying on phone selfies, worth it for travelers who want genuinely good images of Almaty's landmarks.", tourCard: { slug: "almaty-city-tour-with-professional-photoshoot", title: "Almaty: City Tour with Professional Photoshoot", description: "A city tour of Almaty with a professional photoshoot included.", price: "From $59", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea7dbb904f02d292acce8539c5ca9d3a8718af23aa65aa2f9bb51528bb77dab3.jpg" } },
+                    { title: "Practical Tips", content: "Plan your outfit in advance if photos matter to you — this is as much a photography session as a city tour." },
+                ],
+                faqs: [
+                    { q: "Is the Almaty city tour with professional photoshoot worth it?", a: "Yes, for travelers who want genuinely good trip photos rather than relying on phone selfies." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the city tour with photoshoot worth it in Almaty?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for genuinely good trip photos beyond phone selfies." } },
+                ] },
+            };
+
+        case "is-city-highlights-chocolate-shop-worth-it-almaty":
+            return {
+                title: "Is the Almaty City Highlights Walking Tour with Chocolate Shop Worth It?",
+                description: "An honest look at the Almaty city highlights walking tour with a chocolate shop stop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d22822708500ba88d2bf60822c83ed94cbbf2f529b91d3f190a3bd014ce2dbc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This walking tour covers the city's main landmarks and adds a stop at a local chocolate shop, worth it as an easy, low-cost introduction to Almaty with a sweet, memorable detour built in.", tourCard: { slug: "almaty-city-highlights-walking-tour-with", title: "Almaty: City Highlights Walking Tour with Chocolate Shop", description: "A city highlights walking tour with a stop at a local chocolate shop.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4d22822708500ba88d2bf60822c83ed94cbbf2f529b91d3f190a3bd014ce2dbc.jpg" } },
+                    { title: "Practical Tips", content: "A good first-day activity to orient yourself before tackling the city's longer mountain and lake day trips." },
+                ],
+                faqs: [
+                    { q: "Is the city highlights walking tour with chocolate shop worth it in Almaty?", a: "Yes, as an easy, low-cost introduction to the city with a memorable sweet detour built in." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the city highlights tour with chocolate shop worth it in Almaty?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, as a low-cost, easy introduction to the city with a sweet detour." } },
+                ] },
+            };
+
+        case "is-city-tour-green-bazaar-worth-it-almaty":
+            return {
+                title: "Is the Almaty City Tour with Green Bazaar Visit Worth It?",
+                description: "An honest look at the Almaty city tour with a Green Bazaar visit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8bf8c47e8fb881cf085f4ec699009cc89ffeb9b102c00476e5ddf8d8b5ae4fa7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Green Bazaar is a genuine working market selling local produce, dried fruits, and spices, and pairing a city tour with a guided visit there gives real context on everyday Almaty life beyond the main landmarks.", tourCard: { slug: "almaty-city-tour-with-green-bazaar-visit", title: "Almaty: City Tour with Green Bazaar Visit", description: "A city tour of Almaty including a guided visit to Green Bazaar.", price: "From $207", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8bf8c47e8fb881cf085f4ec699009cc89ffeb9b102c00476e5ddf8d8b5ae4fa7.jpg" } },
+                    { title: "Practical Tips", content: "Bring small cash for sampling dried fruits, nuts, and other market snacks along the way." },
+                ],
+                faqs: [
+                    { q: "Is the city tour with Green Bazaar visit worth it in Almaty?", a: "Yes, it gives real context on everyday local life at a genuine working market, beyond the city's main landmarks." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Green Bazaar city tour worth it in Almaty?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, for real context on everyday local life at a genuine working market." } },
+                ] },
+            };
+
+        case "is-museum-of-arts-kok-tobe-tour-worth-it-almaty":
+            return {
+                title: "Is the Almaty City Tour of the Museum of Arts & Kok Tobe Worth It?",
+                description: "An honest look at the Almaty city tour covering the Museum of Arts and Kok Tobe hill.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the Almaty Museum of Arts with the Kok Tobe hill cable car and viewpoint gives a genuine mix of culture and panoramic city views in one outing, worth it for travelers who want both an indoor and an outdoor highlight in a single tour.", tourCard: { slug: "almaty-city-tour-of-almaty-museum-of-arts-kok", title: "Almaty: City Tour of Almaty Museum of Arts & Kok Tobe", description: "A city tour covering the Almaty Museum of Arts and Kok Tobe hill.", price: "From $299", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3d0219c4d47143b53d100a5768d77715abeb0b5499849b8859f83cbd0d8189cc.jpg" } },
+                    { title: "Practical Tips", content: "Check the Kok Tobe cable car's current operating hours and weather conditions before heading up for the views." },
+                ],
+                faqs: [
+                    { q: "Is the Museum of Arts and Kok Tobe tour worth it in Almaty?", a: "Yes, it combines a genuine cultural stop with panoramic city views in one well-rounded outing." },
+                ],
+                jsonLd: { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    { "@type": "Question", "name": "Is the Museum of Arts and Kok Tobe tour worth it in Almaty?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it combines culture and panoramic views in one outing." } },
+                ] },
+            };
+
         default:
             return null;
     }

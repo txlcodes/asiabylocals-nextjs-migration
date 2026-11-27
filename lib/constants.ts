@@ -702,6 +702,8 @@ export const ALMATY_INFO_SLUGS: string[] = [
   'is-kazakh-wine-masterclass-worth-it-almaty', 'best-almaty-evening-experience-almaty',
   'is-tanbaly-gorge-petroglyphs-tour-worth-it-almaty', 'is-wwii-soviet-history-tour-worth-it-almaty',
   'is-alpine-climbing-worth-it-almaty',
+  'is-city-tour-professional-photoshoot-worth-it-almaty', 'is-city-highlights-chocolate-shop-worth-it-almaty',
+  'is-city-tour-green-bazaar-worth-it-almaty', 'is-museum-of-arts-kok-tobe-tour-worth-it-almaty',
 ];
 
 // Mongolia launched 2026-11-19 with 139 live tours and zero authority pages.
