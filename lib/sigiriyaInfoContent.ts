@@ -1422,6 +1422,90 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-northern-sri-lanka-6day-jaffna-kalpitiya-worth-it-sigiriya":
+      return {
+        title: "Is the Northern Sri Lanka 6-Day Tour (Jaffna, Kalpitiya, Sigiriya) Worth It?",
+        description: "An honest look at the 6-day Northern Sri Lanka tour covering Jaffna, Kalpitiya, and Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1332801/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaffna's distinct Tamil culture and Kalpitiya's dolphin-watching coastline sit well outside the standard cultural triangle circuit, and combining both with Sigiriya over 6 days covers a genuinely different side of Sri Lanka most itineraries skip entirely.",
+            tourCard: { slug: "northern-sri-lanka-6-day-tour-jaffna-kalpitiya", title: "Northern Sri Lanka 6-Day Tour: Jaffna, Kalpitiya, Sigiriya", description: "A 6-day tour covering Jaffna, Kalpitiya, and Sigiriya in northern Sri Lanka.", price: "From $1727", duration: "6 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1332801/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit Kalpitiya between November and April for the best dolphin-watching odds, since sightings drop off outside that window.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Northern Sri Lanka 6-day tour worth it?", a: "Yes, for travelers wanting Jaffna's distinct culture and Kalpitiya's coastline covered alongside Sigiriya, well beyond the standard cultural triangle circuit." },
+        ],
+      };
+
+    case "is-2day-sigiriya-trinco-arugam-worth-it-sigiriya":
+      return {
+        title: "Is the 2-Day Sri Lanka Tour to Sigiriya & Trincomalee/Arugam Bay Worth It?",
+        description: "An honest look at the 2-day tour combining Sigiriya with either Trincomalee or Arugam Bay.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1323552/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Sigiriya's ancient rock fortress with a choice of either Trincomalee or Arugam Bay gives travelers flexibility to add their preferred coastal stop in one efficient 2-day package.",
+            tourCard: { slug: "2-days-sri-lanka-tour-to-sigiriya", title: "2 Days Sri Lanka Tour to Sigiriya & Trincomalee/Arugam Bay", description: "A 2-day tour combining Sigiriya with a choice of Trincomalee or Arugam Bay.", price: "From $879", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1323552/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pick Trincomalee for temples and whale watching, or Arugam Bay for surf, depending on which suits your trip better.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day Sigiriya and coastal combo tour worth it?", a: "Yes, for travelers wanting the flexibility to pair Sigiriya with either Trincomalee or Arugam Bay in one efficient trip." },
+        ],
+      };
+
+    case "is-3day-sigiriya-village-elephant-safari-worth-it-sigiriya":
+      return {
+        title: "Is the 3-Day Sigiriya Tour with Village Experience & Elephant Safari Worth It?",
+        description: "An honest look at the 3-day Sigiriya tour combining a village experience with an elephant safari.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1293420/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spreading the village experience, Sigiriya itself, and an elephant safari across 3 days gives genuine breathing room, rather than rushing all three into a single exhausting day.",
+            tourCard: { slug: "3-day-sigiriya-tour-village-experience-elephant", title: "3-Day Sigiriya Tour: Village Experience & Elephant Safari", description: "A 3-day tour combining a village experience with Sigiriya and an elephant safari.", price: "From $507", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1293420/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask which village is included, since the experience quality varies depending on how touristed the specific village is.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-day Sigiriya village and elephant safari tour worth it?", a: "Yes, for travelers wanting genuine breathing room across the village experience, Sigiriya, and the safari, rather than cramming all three into one day." },
+        ],
+      };
+
+    case "is-world-heritage-sigiriya-jeep-safari-worth-it-sigiriya":
+      return {
+        title: "Is the World Heritage Sigiriya Jeep Safari Day Tour Worth It?",
+        description: "An honest look at the World Heritage Sigiriya jeep safari day tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1406097/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Sigiriya's World Heritage rock fortress with a jeep safari in the same day makes efficient use of a single full day in the cultural triangle, worth it for travelers wanting both history and wildlife without a second overnight.",
+            tourCard: { slug: "world-heritage-sigiriya-jeep-safari-day-tour", title: "World Heritage Sigiriya Jeep Safari Day Tour", description: "A day tour combining Sigiriya's World Heritage site with a jeep safari.", price: "From $712", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1406097/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Climb Sigiriya at opening and save the safari for mid-afternoon, since that's when wildlife activity picks back up after the midday heat.",
+          },
+        ],
+        faqs: [
+          { q: "Is the World Heritage Sigiriya and jeep safari day tour worth it?", a: "Yes, for travelers wanting both history and wildlife covered efficiently in a single full day without a second overnight." },
+        ],
+      };
+
     default:
       return null;
   }
