@@ -2042,6 +2042,62 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-sky-venture-microlight-worth-it-siem-reap":
+            return {
+                title: "Is the Sky Venture Microlight Flight Worth It in Siem Reap?",
+                description: "An honest look at the Sky Venture microlight flight in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sky-venture-microlight-siem-reap-siem-reap/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing the Angkor temple complex and surrounding countryside from an open-air microlight gives a genuinely unique aerial perspective that no ground tour can match, worth it for travelers wanting a memorable splurge beyond the standard temple circuit.", tourCard: { slug: "sky-venture-microlight-siem-reap", title: "Sky Venture Microlight Siem Reap", description: "An open-air microlight flight over Siem Reap and the Angkor region.", price: "From $439", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sky-venture-microlight-siem-reap-siem-reap/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book early morning flights for the calmest air and the best light over the temples and countryside." }
+                ],
+                faqs: [
+                    { q: "Is the Sky Venture microlight flight worth it in Siem Reap?", a: "Yes, for a genuinely unique aerial perspective over Angkor and the countryside that no ground tour can match." }
+                ],
+            };
+
+        case "is-banteay-chhmar-fortress-worth-it-siem-reap":
+            return {
+                title: "Is the Banteay Chhmar Khmer Fortress Journey Worth It from Siem Reap?",
+                description: "An honest look at the Banteay Chhmar journey to the Khmer fortress in the jungle from Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/banteay-chhmar-journey-to-khmer-fortress-in-the-jungle-siem-reap/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Banteay Chhmar sits far from the main Angkor circuit near the Thai border, and reaching this genuinely uncleared jungle fortress gives a sense of discovery that Angkor's well-trodden temples no longer offer, worth it for travelers who've already done the main sites and want genuine remoteness.", tourCard: { slug: "banteay-chhmar-journey-to-khmer-fortress-in-the-ju", title: "Banteay Chhmar: Journey to Khmer Fortress in the Jungle", description: "A journey to the remote jungle fortress of Banteay Chhmar from Siem Reap.", price: "From $411", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/banteay-chhmar-journey-to-khmer-fortress-in-the-jungle-siem-reap/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a long day given the distance from Siem Reap — confirm total travel time and whether an overnight is recommended." }
+                ],
+                faqs: [
+                    { q: "Is the Banteay Chhmar fortress journey worth it from Siem Reap?", a: "Yes, for travelers who've already covered the main Angkor sites and want a genuinely remote, uncleared temple experience." }
+                ],
+            };
+
+        case "is-preah-khan-kampong-svay-sambo-prei-kuk-worth-it-siem-reap":
+            return {
+                title: "Is the Preah Khan Kampong Svay and Sambo Prei Kuk Tour Worth It?",
+                description: "An honest look at the Preah Khan Kampong Svay and Sambo Prei Kuk tour from Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/preah-khan-kampong-svay-and-sambo-prei-kuk-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Preah Khan Kampong Svay and Sambo Prei Kuk, Cambodia's pre-Angkorian capital with its distinctive round brick towers, give access to temple architecture genuinely older and far less visited than the main Angkor circuit, worth it for travelers with serious interest in Khmer history.", tourCard: { slug: "preah-khan-kampong-svay-and-sambo-prei-kuk-tour", title: "Preah Khan Kampong Svay and Sambo Prei Kuk Tour", description: "A tour of Preah Khan Kampong Svay and the pre-Angkorian site of Sambo Prei Kuk.", price: "From $558", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/preah-khan-kampong-svay-and-sambo-prei-kuk-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book a guide with real expertise in pre-Angkorian history, since these sites have far less on-site signage than the main Angkor temples." }
+                ],
+                faqs: [
+                    { q: "Is the Preah Khan Kampong Svay and Sambo Prei Kuk tour worth it?", a: "Yes, for travelers with serious interest in Khmer history wanting older, far less visited temple architecture than the main Angkor circuit." }
+                ],
+            };
+
+        case "is-kulen-jeep-elephant-forest-worth-it-siem-reap":
+            return {
+                title: "Is the Kulen Adventure Jeep Tour with Elephant Forest Worth It?",
+                description: "An honest look at the Kulen Adventure tour by jeep with picnic and Elephant Forest from Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kulen-adventure-tour-by-jeep-with-picnic-and-elephant-forest/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Exploring Phnom Kulen's jungle trails by open jeep rather than trekking on foot, with a stop at the Elephant Forest and a jungle picnic, gives a more relaxed version of the mountain visit than a full hiking day, worth it for travelers wanting the sacred mountain's scenery without the physical demands of trekking.", tourCard: { slug: "kulen-adventure-tour-by-jeep-with-picnic-and-eleph", title: "Kulen Adventure Tour by Jeep with Picnic and Elephant Forest", description: "A jeep adventure tour of Phnom Kulen with a picnic and Elephant Forest stop.", price: "From $778", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/kulen-adventure-tour-by-jeep-with-picnic-and-elephant-forest/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This suits travelers who want Kulen's scenery without a strenuous hike — choose the trekking tour instead if fitness and challenge are the goal." }
+                ],
+                faqs: [
+                    { q: "Is the Kulen Adventure jeep tour with Elephant Forest worth it?", a: "Yes, for travelers wanting Phnom Kulen's sacred-mountain scenery and a jungle picnic without the physical demands of a full trek." }
+                ],
+            };
+
         default:
             return null;
     }
