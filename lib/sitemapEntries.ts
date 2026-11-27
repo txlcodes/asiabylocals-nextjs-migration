@@ -375,6 +375,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-grand-bazaar-shopping-tour-worth-it-istanbul', 'is-magnificent-century-tour-worth-it-istanbul',
     'is-chora-mosque-worth-it-istanbul', 'is-ebru-marbling-workshop-worth-it-istanbul',
     'is-mosaic-lamp-workshop-worth-it-istanbul', 'is-rainbow-fener-balat-walking-tour-worth-it-istanbul',
+    'is-doner-tandoor-bread-making-worth-it-istanbul', 'is-carpet-rug-weaving-workshop-worth-it-istanbul',
+    'is-beylerbeyi-palace-worth-it-istanbul', 'is-stained-glass-art-workshop-worth-it-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),

@@ -1848,6 +1848,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-doner-tandoor-bread-making-worth-it-istanbul":
+      return {
+        title: "Is the Döner & Tandoor Bread Making Experience Worth It in Istanbul?",
+        description: "An honest look at the döner and tandoor bread making experience in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/984e8dba2ca2ba8615c6ad43a416a152a455c78114ac1ee51e87f7e9a6500726.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rather than just eating döner from a street stall, this hands-on class teaches how it's actually layered, carved, and served alongside freshly baked tandoor bread made from scratch — worth it for travelers who want to understand the craft behind Turkey's most famous street food rather than just sampling it.",
+            tourCard: { slug: "istanbul-doner-tandoor-bread-making-experience", title: "Istanbul: Döner & Tandoor Bread Making Experience with Meal", description: "A hands-on döner and tandoor bread making class with a meal included.", price: "From $22", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/984e8dba2ca2ba8615c6ad43a416a152a455c78114ac1ee51e87f7e9a6500726.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry — the class ends with eating the döner and bread you just helped make.",
+          },
+        ],
+        faqs: [
+          { q: "Is the döner and tandoor bread making experience worth it in Istanbul?", a: "Yes, for a genuine hands-on understanding of the craft behind Turkey's best-known street food, with a meal included." },
+        ],
+      };
+
+    case "is-carpet-rug-weaving-workshop-worth-it-istanbul":
+      return {
+        title: "Is the Turkish Carpet/Rug Weaving Workshop Worth It in Istanbul?",
+        description: "An honest look at the Turkish carpet and rug weaving workshop with an artisan in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3451801020918c472ef8db9937c85cd21238394c1055cbfa74ee55b56cfc2130.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuine hands-on weaving lesson with a working artisan, distinct from the Grand Bazaar's carpet-shopping tours — worth it for travelers who want to actually try the craft rather than just buy the finished product, giving real context for what goes into a hand-knotted carpet before you ever consider purchasing one.",
+            tourCard: { slug: "istanbul-turkish-carpetrug-weaving-workshop-with", title: "Istanbul: Turkish Carpet/Rug Weaving Workshop with Artisan", description: "A hands-on Turkish carpet and rug weaving workshop with a local artisan.", price: "From $38", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3451801020918c472ef8db9937c85cd21238394c1055cbfa74ee55b56cfc2130.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Doing this before a Grand Bazaar carpet-shopping trip gives you a real reference point for judging quality and labor when you're negotiating there.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Turkish carpet and rug weaving workshop worth it in Istanbul?", a: "Yes, it's a genuine hands-on craft lesson, distinct from a carpet-shopping tour, and useful context before buying one at the bazaar." },
+        ],
+      };
+
+    case "is-beylerbeyi-palace-worth-it-istanbul":
+      return {
+        title: "Is Beylerbeyi Palace Worth It in Istanbul?",
+        description: "An honest look at Beylerbeyi Palace on Istanbul's Asian shore.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ab85b8f10de5e452ba8edaa44048c20fa009b4a093bcdd5807a201378a2f5f2.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Beylerbeyi Palace, the Ottoman sultans' summer residence on the Asian shore of the Bosphorus, draws far smaller crowds than Dolmabahçe or Topkapi while offering genuinely comparable Ottoman-era architecture and waterfront gardens — worth it specifically for travelers who want the same imperial-palace experience without the queues.",
+            tourCard: { slug: "istanbul-beylerbeyi-palace-skip-the-line-ticket", title: "Istanbul: Beylerbeyi Palace Skip-the-Line Ticket & Audio Guide", description: "Skip-the-line entry and audio guide for Beylerbeyi Palace.", price: "From $27", duration: "Flexible", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9ab85b8f10de5e452ba8edaa44048c20fa009b4a093bcdd5807a201378a2f5f2.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Combine it with a Bosphorus cruise or Asian-side walk since it's on the opposite shore from the Old City's main sights.",
+          },
+        ],
+        faqs: [
+          { q: "Is Beylerbeyi Palace worth it in Istanbul?", a: "Yes, for travelers wanting comparable Ottoman-era palace architecture to Dolmabahçe or Topkapi, with far smaller crowds." },
+        ],
+      };
+
+    case "is-stained-glass-art-workshop-worth-it-istanbul":
+      return {
+        title: "Is the Stained Glass Art Workshop from Galata Tower Worth It in Istanbul?",
+        description: "An honest look at the stained glass art making workshop near Galata Tower in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Held near Galata Tower, this workshop teaches a genuine stained glass art technique with guided instruction rather than just a quick souvenir craft — worth it as an easy add-on while you're already in the Galata/Karaköy area for the tower and its surrounding cafes.",
+            tourCard: { slug: "istanbul-make-your-own-stained-glass-art-from", title: "Istanbul: Make Your Own Stained Glass Art from Galata Tower", description: "A stained glass art making workshop near Galata Tower.", price: "From $35", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair this with a Galata Tower visit and a walk down Istiklal Street since they're all in the same neighborhood.",
+          },
+        ],
+        faqs: [
+          { q: "Is the stained glass art workshop worth it in Istanbul?", a: "Yes, as an easy, genuine craft add-on while you're already exploring the Galata Tower area." },
+        ],
+      };
+
     default:
       return null;
   }
