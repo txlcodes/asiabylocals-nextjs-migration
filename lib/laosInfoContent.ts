@@ -1409,6 +1409,62 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-reformer-pilates-class-worth-it-vientiane":
+            return {
+                title: "Is the Private Boutique Reformer Pilates Class Worth It in Vientiane?",
+                description: "An honest look at the private boutique reformer Pilates class in Vientiane.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private reformer Pilates session is a genuinely different kind of activity from Vientiane's temple circuits and food tours, worth it specifically for travelers wanting a wellness break or to maintain a fitness routine while traveling.", tourCard: { slug: "vientiane-private-boutique-reformer-pilates-class", title: "Vientiane: Private Boutique Reformer Pilates Class", description: "A private reformer Pilates class at a boutique studio in Vientiane.", price: "From $104", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg" } },
+                    { title: "Practical Tips", content: "Wear comfortable workout clothing and mention any injuries or limitations to the instructor beforehand." },
+                ],
+                faqs: [
+                    { q: "Is the reformer Pilates class worth it in Vientiane?", a: "Yes, for travelers wanting a genuine wellness break or to keep up a fitness routine, a different kind of activity from the city's usual sightseeing." },
+                ],
+            };
+
+        case "is-la-foret-nature-trip-worth-it-vientiane":
+            return {
+                title: "Is the La Forêt Nature Trip for 2 Worth It from Vientiane?",
+                description: "An honest look at the La Forêt nature trip for 2 by car and boat from Vientiane.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a car journey with a boat leg to reach a genuine natural setting outside the capital gives couples a quieter, more intimate day than the city's landmark circuit, worth it specifically for travelers wanting nature and privacy over sightseeing crowds.", tourCard: { slug: "from-vientiane-la-foret-nature-trip-for-2-by", title: "From Vientiane: La Forêt Nature Trip for 2 by Car & Boat", description: "A nature trip for two by car and boat from Vientiane.", price: "From $121", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg" } },
+                    { title: "Practical Tips", content: "This is built specifically for couples or pairs — check with the operator if you're traveling in a larger group." },
+                ],
+                faqs: [
+                    { q: "Is the La Forêt nature trip worth it from Vientiane?", a: "Yes, specifically for couples wanting a quieter, more intimate nature day away from the city's landmark sightseeing crowds." },
+                ],
+            };
+
+        case "is-private-food-tour-dance-show-worth-it-vientiane":
+            return {
+                title: "Is the Vientiane Private Food Tour & Traditional Dance Show Worth It?",
+                description: "An honest look at the Vientiane private food tour combined with a traditional dance show.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Bundling a private food tour with a traditional dance performance covers both local cuisine and a cultural show in one evening, worth it specifically for travelers wanting both experiences handled in a single booking rather than arranging them separately.", tourCard: { slug: "vientiane-private-food-tour-traditional-dance-show", title: "Vientiane: Private Food Tour & Traditional Dance Show", description: "A private food tour combined with a traditional Lao dance show in Vientiane.", price: "From $224", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg" } },
+                    { title: "Practical Tips", content: "Come with an appetite for the food portion, and ask whether the dance show runs on a fixed schedule that the tour needs to time around." },
+                ],
+                faqs: [
+                    { q: "Is the private food tour and dance show worth it in Vientiane?", a: "Yes, for travelers wanting both local cuisine and a cultural performance covered together in one evening booking." },
+                ],
+            };
+
+        case "is-exploring-charms-half-day-tour-worth-it-vientiane":
+            return {
+                title: "Is Half Day Exploring the Charms of Vientiane Worth It?",
+                description: "An honest look at the half-day exploring the charms of Vientiane tour, with hotel pickup.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This half-day tour with hotel pickup takes the planning off your hands for a general introduction to the city, worth it specifically for travelers who want an easy, no-effort overview rather than piecing together their own route between landmarks.", tourCard: { slug: "vientiane-exploring-half-day-tour", title: "Half Day Exploring the Charms of Vientiane and hotel pickup", description: "A half-day guided exploration of Vientiane with hotel pickup.", price: "From $195", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/382e753c15df86e342b288c869fd840456588e61f8bb8bb581635158bc23b559.jpg" } },
+                    { title: "Practical Tips", content: "Confirm exactly which sights are included before booking, since 'exploring the charms' framing can vary between operators." },
+                ],
+                faqs: [
+                    { q: "Is the half-day exploring Vientiane tour worth it?", a: "Yes, specifically for travelers wanting an easy, no-effort city overview with hotel pickup handled, rather than planning their own route." },
+                ],
+            };
+
         case "is-traditional-costume-photoshoot-worth-it-luang-prabang":
             return {
                 title: "Is the Traditional Clothing Photoshoot Experience Worth It in Luang Prabang?",

@@ -700,6 +700,8 @@ export const VIENTIANE_INFO_SLUGS: string[] = [
   'vientiane-to-luang-prabang-guide', 'vientiane-public-transport-guide',
   'is-lao-art-museum-tuk-tuk-tour-worth-it-vientiane', 'is-traditional-lao-wedding-ceremony-worth-it-vientiane',
   'is-temple-bamboo-spiritual-tour-worth-it-vientiane',
+  'is-reformer-pilates-class-worth-it-vientiane', 'is-la-foret-nature-trip-worth-it-vientiane',
+  'is-private-food-tour-dance-show-worth-it-vientiane', 'is-exploring-charms-half-day-tour-worth-it-vientiane',
 ];
 export const VANG_VIENG_INFO_SLUGS: string[] = [
   'best-hot-air-balloon-tour-vang-vieng', 'best-blue-lagoon-tour-vang-vieng',
