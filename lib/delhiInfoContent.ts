@@ -1631,6 +1631,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-henna-art-workshop-worth-it-delhi":
+      return {
+        title: "Is the Henna Art Workshop with a Local Artist Worth It in Delhi?",
+        description: "An honest look at the henna (mehndi) art workshop with a local artist in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-henna-art-workshop-with-local-artist/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning genuine henna application technique from a local artist is a more hands-on experience than simply getting a design applied, and you leave with both a temporary piece of body art and an actual skill, distinct from the city's other craft workshops.",
+            tourCard: { slug: "delhi-henna-art-workshop-with-local-artist", title: "Delhi: Henna Art Workshop with Local Artist", description: "A hands-on henna (mehndi) art workshop with a local artist.", price: "From $42", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-henna-art-workshop-with-local-artist/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Avoid scheduling water activities or showers for several hours afterward, since the henna needs time to set and darken properly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the henna art workshop worth it in Delhi?", a: "Yes, for learning a genuine hands-on skill rather than just getting a design applied, distinct from the city's other craft workshops." },
+        ],
+      };
+
+    case "is-nature-oasis-mudhouse-tour-worth-it-delhi":
+      return {
+        title: "Is the Hidden-Gem Nature Oasis and Mudhouse Visit Worth It in Delhi?",
+        description: "An honest look at the hidden-gem nature oasis and mudhouse visit with lunch in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-hidden-gem-nature-oasis-mudhouse-visit-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting a genuine rural mudhouse and a quieter natural green space gives a side of Delhi most visitors never see, a real contrast to the city's traffic and monument-heavy sightseeing, with lunch included to round out the visit.",
+            tourCard: { slug: "delhi-hidden-gem-nature-oasis-mudhouse-visit-with", title: "Delhi: Hidden-Gem Nature Oasis & Mudhouse Visit with Lunch", description: "A visit to a hidden nature oasis and traditional mudhouse with lunch.", price: "From $41", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-hidden-gem-nature-oasis-mudhouse-visit-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for a slower, restorative day between busier monument-heavy sightseeing stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the nature oasis and mudhouse visit worth it in Delhi?", a: "Yes, for a genuine rural contrast to the city's traffic and monuments, with lunch included for a fuller outing." },
+        ],
+      };
+
+    case "is-kumhar-gram-pottery-village-tour-worth-it-delhi":
+      return {
+        title: "Is the Kumhar Gram Hidden Pottery Village Tour Worth It in Delhi?",
+        description: "An honest look at the Kumhar Gram pottery village tour in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-hidden-pottery-village-treasure-tour-kumhar-/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kumhar Gram is a genuine working potters' colony where entire families practice traditional pottery techniques, giving real craft context well outside the city's usual sightseeing circuit — worth it specifically for travelers interested in traditional Indian ceramics.",
+            tourCard: { slug: "delhi-hidden-pottery-village-treasure-tour-kumhar-", title: "Delhi: Hidden Pottery Village Treasure Tour – Kumhar Gram", description: "A tour of the Kumhar Gram working potters' village in Delhi.", price: "From $53", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-hidden-pottery-village-treasure-tour-kumhar-/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask if a hands-on wheel-throwing option is available if you want to try the technique yourself rather than just observe.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kumhar Gram pottery village tour worth it in Delhi?", a: "Yes, for genuine craft context at a real working potters' colony, well outside the city's usual sightseeing circuit." },
+        ],
+      };
+
+    case "is-textile-trail-artisan-tour-worth-it-delhi":
+      return {
+        title: "Is the Textile Trail Tour with Artisan Interaction Worth It in Delhi?",
+        description: "An honest look at the textile trail tour with artisan interaction in Delhi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-textile-trail-tour-with-artisan-interaction/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Meeting actual textile artisans and seeing their techniques firsthand gives genuine insight into India's fabric and weaving traditions, distinct from the city's general shopping tours that focus more on buying than understanding how things are made.",
+            tourCard: { slug: "delhi-textile-trail-tour-with-artisan-interaction", title: "Delhi: Textile Trail Tour with Artisan Interaction", description: "A textile trail tour with hands-on artisan interaction in Delhi.", price: "From $51", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-textile-trail-tour-with-artisan-interaction/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask questions directly to the artisans about their techniques — the interaction is the real value here, not just watching from a distance.",
+          },
+        ],
+        faqs: [
+          { q: "Is the textile trail tour worth it in Delhi?", a: "Yes, for genuine insight into fabric and weaving traditions directly from artisans, distinct from the city's general shopping tours." },
+        ],
+      };
+
     default:
       return null;
   }

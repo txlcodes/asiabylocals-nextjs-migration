@@ -173,6 +173,8 @@ export const DELHI_INFO_SLUGS = [
   'is-khari-bawli-spice-market-tour-worth-it-delhi', 'is-gurudwara-bangla-sahib-tour-worth-it-delhi',
   'is-haunted-monuments-walking-tour-worth-it-delhi', 'is-mehrauli-ruins-tour-worth-it-delhi',
   'is-connaught-place-heritage-walk-worth-it-delhi', 'is-northern-ridge-tibetan-colony-walk-worth-it-delhi',
+  'is-henna-art-workshop-worth-it-delhi', 'is-nature-oasis-mudhouse-tour-worth-it-delhi',
+  'is-kumhar-gram-pottery-village-tour-worth-it-delhi', 'is-textile-trail-artisan-tour-worth-it-delhi',
 ];
 
 export const JAIPUR_INFO_SLUGS = [
