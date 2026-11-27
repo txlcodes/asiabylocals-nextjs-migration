@@ -2083,6 +2083,8 @@ export const MOUNT_FUJI_INFO_SLUGS = [
   'is-mount-fuji-summit-climb-worth-it',
   'is-mount-hoei-crater-trek-worth-it-mount-fuji', 'is-aokigahara-forest-day-trip-worth-it-mount-fuji',
   'is-sumo-experience-day-trip-worth-it-mount-fuji', 'is-gotemba-outlets-tour-worth-it-mount-fuji',
+  'is-mt-fuji-cycling-hidden-gems-worth-it-mount-fuji', 'is-lake-tanuki-makaino-farm-worth-it-mount-fuji',
+  'is-izu-mt-fuji-coast-onsen-worth-it-mount-fuji',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hiroshimaInfoContent.ts.

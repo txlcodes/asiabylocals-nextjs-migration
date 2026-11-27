@@ -2016,6 +2016,69 @@ export function getHakoneInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mt-fuji-cycling-hidden-gems-worth-it-mount-fuji":
+      return {
+        title: "Is the Mt. Fuji Cycling and Hidden Gems Small Group Tour Worth It?",
+        description: "An honest look at the Mt. Fuji cycling and hidden gems small group tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-cycling-and-hidden-gems-small-group-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering the Fuji Five Lakes area by bike with a small group rather than a bus gets you to quieter viewpoints and local stops that coach tours skip entirely, worth it for travelers wanting an active, less touristy way to see the mountain.",
+            tourCard: { slug: "mt-fuji-cycling-and-hidden-gems-small-group-tour", title: "Mt. Fuji Cycling and Hidden Gems Small Group Tour", description: "A small-group cycling tour covering Mount Fuji's hidden gems.", price: "From $745", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/mt-fuji-cycling-and-hidden-gems-small-group-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the fitness level expected beforehand, since this covers real cycling distance rather than a short loop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mt. Fuji cycling and hidden gems tour worth it?", a: "Yes, for travelers wanting an active, less touristy way to see the Fuji Five Lakes area than a standard bus tour." },
+        ],
+      };
+
+    case "is-lake-tanuki-makaino-farm-worth-it-mount-fuji":
+      return {
+        title: "Is the Lake Tanuki and Makaino Farm Day Tour Worth It?",
+        description: "An honest look at the small-group Mt. Fuji Lake Tanuki and Makaino Farm day tour.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/small-group-mt-fuji-lake-tanuki-and-makaino-farm-day-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting Lake Tanuki and Makaino Farm gives a quieter, more rural side of the Fuji area than the standard Kawaguchiko circuit, worth it for travelers who've already covered the main viewpoints and want somewhere less crowded.",
+            tourCard: { slug: "small-group-mt-fuji-lake-tanuki-and-makaino-farm-day-tour", title: "Small-Group Mt Fuji Lake Tanuki and Makaino Farm Day Tour", description: "A small-group day tour to Lake Tanuki and Makaino Farm near Mount Fuji.", price: "From $98", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/small-group-mt-fuji-lake-tanuki-and-makaino-farm-day-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the farm's seasonal activities before booking, since what's on offer at Makaino Farm changes through the year.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lake Tanuki and Makaino Farm day tour worth it?", a: "Yes, for travelers who've done the main Fuji viewpoints and want a quieter, more rural alternative." },
+        ],
+      };
+
+    case "is-izu-mt-fuji-coast-onsen-worth-it-mount-fuji":
+      return {
+        title: "Is the Izu and Mt. Fuji Day Coast, Onsen and Scenic Trip Worth It?",
+        description: "An honest look at the Izu and Mt. Fuji day coast, onsen and scenic trip.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/izu-and-mt-fuji-day-coast-onsen-and-scenic-trip/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining the Izu Peninsula's coastline and a hot spring soak with Mount Fuji views gives a genuinely different day than the usual lakes-and-viewpoints circuit, worth it for travelers wanting coastal scenery and relaxation alongside the mountain.",
+            tourCard: { slug: "izu-and-mt-fuji-day-coast-onsen-and-scenic-trip", title: "Izu and Mt. Fuji Day Coast, Onsen and Scenic Trip", description: "A day trip combining the Izu coast, an onsen soak and Mount Fuji scenery.", price: "From $112", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/izu-and-mt-fuji-day-coast-onsen-and-scenic-trip/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit or towel if the onsen stop is mixed-bathing or outdoor, since requirements vary by facility.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Izu and Mt. Fuji coast and onsen trip worth it?", a: "Yes, for a genuinely different day combining coastal scenery and a hot spring soak with Mount Fuji views." },
+        ],
+      };
+
     default:
       return null;
   }
