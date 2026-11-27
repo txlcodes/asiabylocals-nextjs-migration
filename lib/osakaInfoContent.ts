@@ -2204,6 +2204,90 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sakai-knife-blacksmith-tour-worth-it-osaka":
+      return {
+        title: "Is the Sakai Knife Maker or Blacksmith Walking Tour Worth It in Osaka?",
+        description: "An honest look at the Sakai knife maker and blacksmith walking tour near Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sakai-knife-maker-or-blacksmith-walking-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sakai is one of Japan's premier traditional knife-making centers, and this walking tour visits a working blacksmith to see genuine craftsmanship most visitors never encounter, worth it specifically for travelers interested in Japanese craft and kitchen culture beyond the usual sightseeing.",
+            tourCard: { slug: "sakai-knife-maker-or-blacksmith-walking-tour-in-osaka", title: "Sakai Knife Maker or Blacksmith Walking Tour in Osaka", description: "A guided walking tour visiting a working Sakai knife maker or blacksmith.", price: "From $83", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sakai-knife-maker-or-blacksmith-walking-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you're hoping to buy a knife directly from the workshop, bring cash and check beforehand whether international shipping is an option for larger pieces.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sakai knife maker or blacksmith walking tour worth it in Osaka?", a: "Yes, for travelers genuinely interested in traditional Japanese craftsmanship, it's a rare look at a working blacksmith most visitors never see." },
+        ],
+      };
+
+    case "is-seven-lucky-gods-pilgrimage-worth-it-osaka":
+      return {
+        title: "Is the Seven Lucky Gods Goshuin Pilgrimage Tour Worth It in Osaka?",
+        description: "An honest look at the Seven Lucky Gods goshuin pilgrimage tour in Osaka.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671618/asiabylocals/tours/osaka-seven-lucky-gods-goshuin-pilgrimage-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This self-guided or guided pilgrimage visits seven shrines and temples associated with Japan's Seven Lucky Gods, collecting a goshuin stamp at each stop, worth it for travelers who want a structured way to see a spread of lesser-visited shrines rather than just the one or two major ones most itineraries cover.",
+            tourCard: { slug: "osaka-spiritual-tour", title: "Seven Lucky Gods Goshuin Pilgrimage Tour", description: "A pilgrimage tour visiting seven shrines and temples tied to Japan's Seven Lucky Gods.", price: "From $46", duration: "Flexible", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787671618/asiabylocals/tours/osaka-seven-lucky-gods-goshuin-pilgrimage-tour/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a goshuin stamp book if you have one from elsewhere in Japan, or buy one at the first shrine — most sell them specifically for this purpose.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Seven Lucky Gods goshuin pilgrimage tour worth it in Osaka?", a: "Yes, it's a structured, meaningful way to see a spread of lesser-visited shrines rather than just the one or two major sites most itineraries cover." },
+        ],
+      };
+
+    case "is-sushi-food-replica-workshop-worth-it-osaka":
+      return {
+        title: "Is the Sushi Food Replica Making Workshop Worth It in Osaka?",
+        description: "An honest look at the sushi food replica making workshop in Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/make-sushi-food-replicas-in-osaka-and-win-a-lucky-capsule-toy-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Japan's famously realistic plastic food replicas (shokuhin sampuru) are a genuine craft tradition, and this workshop lets you make your own fake sushi piece to take home, worth it as a fun, novel craft activity distinct from the usual pottery or calligraphy workshop.",
+            tourCard: { slug: "make-sushi-food-replicas-in-osaka-and-win-a-lucky-capsule-toy-by-local-operator", title: "Make Sushi Food Replicas in Osaka and Win a Lucky Capsule Toy!", description: "A hands-on workshop making realistic sushi food replicas.", price: "From $42", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/make-sushi-food-replicas-in-osaka-and-win-a-lucky-capsule-toy-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished replica makes a genuinely distinctive souvenir — it travels well since it's not actually food.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sushi food replica making workshop worth it in Osaka?", a: "Yes, as a fun, distinctive craft activity rooted in a genuine Japanese tradition of realistic plastic food models." },
+        ],
+      };
+
+    case "is-tempozan-ferris-wheel-worth-it-osaka":
+      return {
+        title: "Is the Tempozan Ferris Wheel Worth It in Osaka?",
+        description: "An honest look at the Tempozan Ferris Wheel in Osaka's bay area.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "One of the world's largest Ferris wheels when it opened, Tempozan gives genuine panoramic views over Osaka Bay, worth it specifically for families already visiting the aquarium nearby who want an easy, accessible add-on rather than a dedicated trip across the city.",
+            tourCard: { slug: "tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka", title: "Tempozan Ferris Wheel Family and Accessible Ticket in Osaka", description: "A family and accessibility-friendly ticket for the Tempozan Ferris Wheel.", price: "From $29", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Combine it with a visit to the nearby Osaka Aquarium Kaiyukan rather than making a special trip just for the wheel.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tempozan Ferris Wheel worth it in Osaka?", a: "Yes, as an easy, accessible add-on if you're already visiting the nearby aquarium, with genuine panoramic bay views." },
+        ],
+      };
+
     default:
             return null;
     }

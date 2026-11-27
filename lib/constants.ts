@@ -1969,6 +1969,8 @@ export const OSAKA_INFO_SLUGS = [
   'is-ninja-experience-worth-it-osaka',
   'is-samurai-experience-worth-it-osaka', 'is-minoh-waterfall-tour-worth-it-osaka',
   'is-maid-cafe-experience-worth-it-osaka', 'is-ramen-gyoza-cooking-class-worth-it-osaka',
+  'is-sakai-knife-blacksmith-tour-worth-it-osaka', 'is-seven-lucky-gods-pilgrimage-worth-it-osaka',
+  'is-sushi-food-replica-workshop-worth-it-osaka', 'is-tempozan-ferris-wheel-worth-it-osaka',
 ];
 
 export const KASHMIR_INFO_SLUGS = [
