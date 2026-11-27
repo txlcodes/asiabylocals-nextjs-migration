@@ -1558,6 +1558,91 @@ export function getHongKongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-dialogue-in-the-dark-worth-it-hong-kong":
+      return {
+        title: "Is Dialogue in the Dark Worth It in Hong Kong?",
+        description: "An honest look at the Dialogue in the Dark experience in Hong Kong.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d8bfd1e1b4c21f48b4098f6c7ba59238274783032655c3d283ec6b8854e37238.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Guided through pitch-black rooms by visually impaired guides who navigate the space daily, this is a genuinely perspective-shifting experience rather than a gimmick, worth it for travelers wanting something reflective and completely different from the city's usual sightseeing.",
+            tourCard: { slug: "hong-kong-dialogue-in-the-dark-a-classic-dark", title: "Hong Kong: Dialogue in the Dark - A Classic Dark Experience", description: "A guided experience through pitch-black rooms led by visually impaired guides.", price: "From $42", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d8bfd1e1b4c21f48b4098f6c7ba59238274783032655c3d283ec6b8854e37238.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in without expecting a scare experience — this is reflective and sensory rather than designed to startle you.",
+          },
+        ],
+        faqs: [
+          { q: "Is Dialogue in the Dark worth it in Hong Kong?", a: "Yes, it's a genuinely perspective-shifting, reflective experience led by visually impaired guides, distinct from the city's usual sightseeing." },
+        ],
+      };
+
+    case "is-caged-home-walking-tour-worth-it-hong-kong":
+      return {
+        title: "Is the Alternative Hong Kong Caged Home Walking Tour Worth It?",
+        description: "An honest look at the Alternative Hong Kong caged home walking tour, examining the city's subdivided housing crisis.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/508d28016d014063dc39dc859ff111aa1f7a68311aca32f0487cf52e67294a67.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour confronts Hong Kong's genuine housing affordability crisis directly, including visits related to subdivided and caged housing, rather than presenting only the city's wealthy, glossy side — whether it's right for you depends on your comfort with the format and confidence that the specific operator and guide handle the subject respectfully rather than as a spectacle.",
+            tourCard: { slug: "hong-kong-alternative-hong-kong-caged-home", title: "Hong Kong: Alternative Hong Kong Caged Home Walking Tour", description: "A walking tour examining Hong Kong's housing affordability crisis, including subdivided and caged housing.", price: "From $49", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/508d28016d014063dc39dc859ff111aa1f7a68311aca32f0487cf52e67294a67.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator directly how the tour treats residents' privacy and dignity, and expect a clear, specific answer before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the caged home walking tour ethical in Hong Kong?", a: "It depends on the specific operator — ask directly how residents' privacy and dignity are handled, and expect a clear, specific answer." },
+          { q: "Is the caged home walking tour worth it?", a: "It can be, for travelers genuinely interested in understanding the city's housing crisis rather than treating it as a spectacle — confirm the operator's approach first." },
+        ],
+      };
+
+    case "is-fruit-market-gangster-movie-walk-worth-it-hong-kong":
+      return {
+        title: "Is the Yau Ma Tei Fruit Market Gangster Movie Walk Worth It?",
+        description: "An honest look at the Yau Ma Tei Fruit Market gangster movie walking tour in Hong Kong.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d40ddbe4061e3e851b467efe5c1f9822c2b88140926cd315b5b6fa5125844b4f.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This walk covers the working Yau Ma Tei fruit market alongside its history as a filming location for classic Hong Kong gangster cinema, worth it for film fans and travelers wanting a genuinely different angle on the district than the Temple Street night market crowd typically gets.",
+            tourCard: { slug: "hong-kong-yau-ma-tei-fruit-market-gangster-movie", title: "Hong Kong: Yau Ma Tei Fruit Market Gangster Movie Walk", description: "A guided walk through the Yau Ma Tei fruit market covering its gangster-cinema film history.", price: "From $61", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d40ddbe4061e3e851b467efe5c1f9822c2b88140926cd315b5b6fa5125844b4f.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the early morning when the market is actually working, rather than the evening Temple Street crowds are drawn to nearby.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yau Ma Tei Fruit Market gangster movie walk worth it in Hong Kong?", a: "Yes, especially for film fans, for a genuinely different angle on the district than the nearby Temple Street night market." },
+        ],
+      };
+
+    case "is-jet-lag-sound-bath-worth-it-hong-kong":
+      return {
+        title: "Is the Jet Lag Recovery Sound Bath Worth It in Hong Kong?",
+        description: "An honest look at the jet lag recovery sound bath with gong and crystal bowls in Hong Kong.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/494bd63e909e1b591b92f54759f32e72ff523aa2abc1dc492715c893bb76e181.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Marketed specifically at jet-lagged travelers, this gong and crystal bowl sound bath gives a genuinely relaxing, low-effort recovery activity, worth it for travelers who've just arrived and want to reset before diving into sightseeing rather than pushing through fatigue.",
+            tourCard: { slug: "hong-kong-jet-lag-recovery-sound-bath-gongcrystal", title: "Hong Kong: Jet Lag Recovery Sound Bath (Gong & Crystal Bowls)", description: "A gong and crystal bowl sound bath session aimed at jet-lagged travelers.", price: "From $80", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/494bd63e909e1b591b92f54759f32e72ff523aa2abc1dc492715c893bb76e181.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for your arrival day specifically, rather than later in the trip, since it's designed as a jet-lag reset.",
+          },
+        ],
+        faqs: [
+          { q: "Is the jet lag recovery sound bath worth it in Hong Kong?", a: "Yes, for travelers who've just arrived and want a relaxing, low-effort way to reset before sightseeing, rather than pushing through fatigue." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1115,6 +1115,8 @@ export const HONG_KONG_INFO_SLUGS = [
   'is-food-tour-worth-it-hong-kong',
   'is-tai-o-boat-tour-worth-it-hong-kong', 'is-sai-kung-snorkeling-worth-it-hong-kong',
   'is-hanfu-costume-experience-worth-it-hong-kong', 'is-lion-rock-hike-worth-it-hong-kong',
+  'is-dialogue-in-the-dark-worth-it-hong-kong', 'is-caged-home-walking-tour-worth-it-hong-kong',
+  'is-fruit-market-gangster-movie-walk-worth-it-hong-kong', 'is-jet-lag-sound-bath-worth-it-hong-kong',
 ];
 
 // Taiwan launched 2026-10 with 157 live tours (Taipei) and zero authority pages.
