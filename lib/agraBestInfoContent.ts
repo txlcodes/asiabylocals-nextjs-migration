@@ -13063,6 +13063,86 @@ const PAGES: Record<string, CityInfoData> = {
     "faqs": [
       { "q": "Can you visit the Taj Mahal from Pune in one day?", "a": "Yes, with roundtrip flights it's workable, though it's a long day best suited to travelers who can't spare an overnight." }
     ]
+  },
+  "is-chennai-taj-mahal-day-trip-worth-it": {
+    "title": "Is the Chennai to Taj Mahal Day Trip with Return Flights Worth It?",
+    "seoTitle": "Chennai to Taj Mahal Day Trip 2026 | Honest Review",
+    "description": "An honest look at the Chennai to Taj Mahal and Agra day trip with return flights.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/chennai-to-taj-mahal-agra-day-trip-with-return/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Flying from Chennai and back in a single day makes the Taj Mahal genuinely reachable without an overnight stay, worth it specifically for travelers with limited time who can handle a long day of flights and sightseeing packed into 18 hours.",
+        "tourCard": { "slug": "chennai-to-taj-mahal-agra-day-trip-with-return", "title": "Chennai to Taj Mahal, Agra day trip with return flights", "description": "A same-day Taj Mahal and Agra day trip from Chennai with return flights.", "price": "From $553", "duration": "18 hours", "image": "https://images.asiabylocals.com/asiabylocals/tours/chennai-to-taj-mahal-agra-day-trip-with-return/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Get some rest before the trip, since 18 hours covering flights both ways plus sightseeing makes for a genuinely long day."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Chennai to Taj Mahal day trip worth it?", "a": "Yes, specifically for time-limited travelers who can handle a long single day of flights and sightseeing to see the Taj Mahal without an overnight stay." }
+    ]
+  },
+  "is-agra-mathura-vrindavan-day-trip-worth-it": {
+    "title": "Is the Taj Mahal, Mathura & Vrindavan Day Trip Worth It from Agra?",
+    "seoTitle": "Taj Mahal Mathura Vrindavan Day Trip 2026 | Honest Review",
+    "description": "An honest look at the private guided Taj Mahal, Mathura and Vrindavan day trip from Agra.",
+    "heroImage": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773433540/tours/agra/tour_322_0.jpg",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Pairing the Taj Mahal with Mathura and Vrindavan, Krishna's birthplace and the town of a thousand temples, adds genuine religious and cultural depth beyond Agra's Mughal monuments, worth it for travelers with a specific interest in Hindu pilgrimage sites.",
+        "tourCard": { "slug": "agra-mathura-full-day-tour", "title": "From Agra: Taj Mahal, Mathura & Vrindavan Day Trip", "description": "A private guided day trip covering the Taj Mahal, Mathura, and Vrindavan from Agra.", "price": "From $399", "duration": "12 hours", "image": "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773433540/tours/agra/tour_322_0.jpg" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Vrindavan's temples get genuinely crowded during Krishna-related festivals, so check the calendar if you want a calmer visit."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Taj Mahal, Mathura and Vrindavan day trip worth it from Agra?", "a": "Yes, for travelers with a specific interest in Hindu pilgrimage sites, adding genuine depth beyond Agra's Mughal monuments." }
+    ]
+  },
+  "is-mumbai-agra-2day-taj-mahal-fort-worth-it": {
+    "title": "Is the Mumbai to Agra 2-Day Taj Mahal & Agra Fort Tour Worth It?",
+    "seoTitle": "Mumbai to Agra 2-Day Tour 2026 | Honest Review",
+    "description": "An honest look at the 2-day Mumbai to Agra Taj Mahal and Agra Fort tour by flight.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/mumbai-to-agra-2-day-taj-mahal-agra-fort/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "A 2-day version from Mumbai gives real breathing room to see both the Taj Mahal and Agra Fort properly, rather than squeezing both into one rushed same-day flight trip, worth it for travelers wanting a less exhausting pace.",
+        "tourCard": { "slug": "mumbai-to-agra-2-day-taj-mahal-agra-fort", "title": "Mumbai to Agra: 2-Day Taj Mahal & Agra Fort Tour by Flight", "description": "A 2-day Taj Mahal and Agra Fort tour from Mumbai by flight.", "price": "From $363", "duration": "2 days", "image": "https://images.asiabylocals.com/asiabylocals/tours/mumbai-to-agra-2-day-taj-mahal-agra-fort/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Book an overnight hotel close to the Taj Mahal's eastern or western gates, so the sunrise visit doesn't require a long early-morning transfer."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the 2-day Mumbai to Agra Taj Mahal and Agra Fort tour worth it?", "a": "Yes, for travelers wanting a less exhausting pace than a same-day flight trip, with real time to see both the Taj Mahal and Agra Fort properly." }
+    ]
+  },
+  "is-bangalore-taj-mahal-5star-day-trip-worth-it": {
+    "title": "Is the Bangalore to Taj Mahal Day Trip with 5-Star Hotel Stay Worth It?",
+    "seoTitle": "Bangalore to Taj Mahal 5-Star Day Trip 2026 | Honest Review",
+    "description": "An honest look at the Taj Mahal and Agra day trip from Bangalore with a 5-star hotel stay.",
+    "heroImage": "https://images.asiabylocals.com/asiabylocals/tours/from-bangalore-taj-mahal-agra-day-trip-with-5/img0/1600.webp",
+    "sections": [
+      {
+        "title": "The Short Answer",
+        "content": "Including a 5-star hotel stay turns a rushed same-day Bangalore-to-Agra flight trip into a genuinely comfortable 2-day visit, worth it for travelers who want to see the Taj Mahal without the exhaustion of a single-day round trip.",
+        "tourCard": { "slug": "from-bangalore-taj-mahal-agra-day-trip-with-5", "title": "From Bangalore: Taj Mahal, Agra Day-Trip with 5* Hotel Stay", "description": "A Taj Mahal and Agra day trip from Bangalore with a 5-star hotel stay.", "price": "From $675", "duration": "2 days", "image": "https://images.asiabylocals.com/asiabylocals/tours/from-bangalore-taj-mahal-agra-day-trip-with-5/img0/1600.webp" }
+      },
+      {
+        "title": "Practical Tips",
+        "content": "Confirm the hotel's proximity to the Taj Mahal when booking, since the value of the overnight stay depends on cutting down transfer time."
+      }
+    ],
+    "faqs": [
+      { "q": "Is the Bangalore to Taj Mahal day trip with 5-star hotel stay worth it?", "a": "Yes, for travelers wanting a genuinely comfortable visit rather than the exhaustion of a single-day round trip." }
+    ]
   }
 };
 export const AGRA_BEST_SLUGS = Object.keys(PAGES);
