@@ -1845,6 +1845,90 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ajmer-pushkar-day-trip-worth-it-jaipur":
+      return {
+        title: "Is the Ajmer and Pushkar Day Trip Worth It from Jaipur?",
+        description: "An honest look at the Ajmer and Pushkar day trip with lunch and a camel ride from Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-ajmer-pushkar-day-trip-with-lunch-and/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pushkar is a genuine pilgrimage town built around its sacred lake and the rare Brahma temple, and pairing it with Ajmer's significant Sufi shrine gives a day of religious and cultural sites entirely different from Jaipur's palace-and-fort circuit, with a camel ride as a lighter, fun add-on.",
+            tourCard: { slug: "jaipur-ajmer-pushkar-day-trip-with-lunch-and", title: "Jaipur: Ajmer & Pushkar Day Trip with Lunch and Camel Ride", description: "A day trip to Ajmer and Pushkar from Jaipur with lunch and a camel ride.", price: "From $30", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-ajmer-pushkar-day-trip-with-lunch-and/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for both the Brahma temple and the Sufi shrine, and expect a genuinely long day given the round-trip distance.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ajmer and Pushkar day trip worth it from Jaipur?", a: "Yes, for genuinely significant religious and cultural sites entirely different from Jaipur's palace-and-fort circuit." },
+        ],
+      };
+
+    case "is-patrika-gate-photoshoot-worth-it-jaipur":
+      return {
+        title: "Is the Patrika Gate Professional Photoshoot Worth It in Jaipur?",
+        description: "An honest look at the Patrika Gate professional photoshoot experience in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-patrika-gate-professional-photoshoot-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Patrika Gate's genuinely vivid, hand-painted archways are one of Jaipur's most photogenic modern landmarks, and having a dedicated photographer handle the session gets you real, professional-quality shots rather than awkward self-timer attempts.",
+            tourCard: { slug: "jaipur-patrika-gate-professional-photoshoot-with", title: "Jaipur: Patrika Gate Professional Photoshoot with Local", description: "A professional photoshoot at Patrika Gate with a local photographer.", price: "From $32", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-patrika-gate-professional-photoshoot-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the early morning or late afternoon, when the gate's colorful paintwork catches the best light and the crowds thin out.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Patrika Gate photoshoot worth it in Jaipur?", a: "Yes, for genuinely professional-quality shots at one of the city's most photogenic modern landmarks." },
+        ],
+      };
+
+    case "is-jhalana-leopard-safari-worth-it-jaipur":
+      return {
+        title: "Is the Jhalana Amagarh Leopard Safari Worth It in Jaipur?",
+        description: "An honest look at the guided leopard safari in Jhalana Amagarh Safari Park in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jhalana-amagarh-leopard-safari-park-guided/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jhalana is a genuine urban leopard habitat with one of India's highest leopard densities, giving a real shot at spotting wild leopards without the long drive to Ranthambore's tiger reserve, though sightings are never guaranteed on any wildlife safari.",
+            tourCard: { slug: "jaipur-jhalana-amagarh-leopard-safari-park-guided", title: "Jaipur: Jhalana Amagarh Leopard Safari Park Guided Tour", description: "A guided leopard safari in Jhalana Amagarh Safari Park.", price: "From $37", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jhalana-amagarh-leopard-safari-park-guided/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the early morning or late afternoon slot, when leopards are generally more active and visible.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jhalana leopard safari worth it in Jaipur?", a: "Yes, for a real shot at spotting wild leopards close to the city, without the long drive to Ranthambore — though sightings are never guaranteed." },
+        ],
+      };
+
+    case "is-chokhi-dhani-cultural-evening-worth-it-jaipur":
+      return {
+        title: "Is the Cultural Evening Tour with Dinner at Chokhi Dhani Worth It in Jaipur?",
+        description: "An honest look at the cultural evening tour with dinner at Chokhi Dhani in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-cultural-evening-tour-with-dinner-at-chokhi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Chokhi Dhani is a themed Rajasthani village recreation with folk performances, traditional games, and an all-you-can-eat thali dinner, giving a packaged but genuinely entertaining evening overview of regional culture in one booking.",
+            tourCard: { slug: "jaipur-cultural-evening-tour-with-dinner-at-chokhi", title: "Jaipur: Cultural Evening Tour with Dinner at Chokhi Dhani", description: "A cultural evening tour with dinner at the Chokhi Dhani village resort.", price: "From $34", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-cultural-evening-tour-with-dinner-at-chokhi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — the thali dinner is genuinely all-you-can-eat, and the folk performances run throughout the evening.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chokhi Dhani cultural evening worth it in Jaipur?", a: "Yes, for a packaged but genuinely entertaining regional culture overview with folk performances and an all-you-can-eat dinner." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -154,6 +154,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-birla-mandir-gaushala-tour-worth-it-jaipur', 'is-monkey-temple-sunset-tour-worth-it-jaipur',
     'is-albert-hall-museum-tour-worth-it-jaipur', 'is-chand-baori-bhangarh-fort-tour-worth-it-jaipur',
     'is-elephant-jungle-sanctuary-worth-it-jaipur', 'is-royal-enfield-city-tour-worth-it-jaipur',
+    'is-ajmer-pushkar-day-trip-worth-it-jaipur', 'is-patrika-gate-photoshoot-worth-it-jaipur',
+    'is-jhalana-leopard-safari-worth-it-jaipur', 'is-chokhi-dhani-cultural-evening-worth-it-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),
