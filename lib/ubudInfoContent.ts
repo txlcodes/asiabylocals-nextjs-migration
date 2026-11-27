@@ -2613,6 +2613,90 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mount-rinjani-trek-worth-it-ubud":
+      return {
+        title: "Is the Mount Rinjani 3D/2N Trek Worth It from Ubud?",
+        description: "An honest look at the Mount Rinjani 3-day, 2-night trek to the summit, lake and hot spring from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mount-rinjani-trekking-3d-2n-to-summit-lake-and-hot-spring-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mount Rinjani on Lombok is Indonesia's second-highest volcano, and a multi-day trek to its crater lake and hot spring gives a genuinely serious mountaineering experience far beyond Bali's sunrise treks on Batur or Agung, worth it for fit travelers wanting a real multi-day wilderness challenge.",
+            tourCard: { slug: "mount-rinjani-trekking-3d-2n-to-summit-lake-and-hot-spring-in-ubud", title: "Mount Rinjani Trekking 3D/2N To Summit, Lake and Hot Spring in Ubud", description: "A 3-day, 2-night trek to Mount Rinjani's summit, crater lake and hot spring.", price: "From $288", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/mount-rinjani-trekking-3d-2n-to-summit-lake-and-hot-spring-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Train for multi-day hiking with elevation gain beforehand, and pack real cold-weather layers for the summit push.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Rinjani trek worth it from Ubud?", a: "Yes, for fit travelers wanting a genuinely serious multi-day mountain trek, far beyond Bali's shorter sunrise climbs on Batur or Agung." },
+        ],
+      };
+
+    case "is-padi-open-water-course-worth-it-ubud":
+      return {
+        title: "Is the 3-Day PADI Open Water Diver Course Worth It from Ubud?",
+        description: "An honest look at the 3-day PADI Open Water diver certification course from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/3-day-padi-open-water-diver-course-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Getting a real PADI Open Water certification during your Bali trip gives you a credential usable at dive destinations worldwide, and Bali's waters are genuinely good for training, worth it for travelers who want to start diving seriously rather than just a one-off discover-scuba session.",
+            tourCard: { slug: "3-day-padi-open-water-diver-course-in-ubud", title: "3-Day PADI Open Water Diver Course in Ubud", description: "A 3-day PADI Open Water diver certification course based from Ubud.", price: "From $553", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/3-day-padi-open-water-diver-course-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Block out the full 3 days with no other plans, since the course involves genuine classroom time alongside the pool and ocean dives.",
+          },
+        ],
+        faqs: [
+          { q: "Is the PADI Open Water course worth it from Ubud?", a: "Yes, for travelers wanting a real, globally usable diving certification rather than just a one-off discover-scuba experience." },
+        ],
+      };
+
+    case "is-mount-batur-dirt-bike-worth-it-ubud":
+      return {
+        title: "Is the Mount Batur Dirt Bike Adventure Worth It from Ubud?",
+        description: "An honest look at the Mountain Batur dirt bike adventure with lunch from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mountain-batur-dirt-bike-adventure-and-lunch-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding a dirt bike across Mount Batur's volcanic terrain gives a genuinely more active, adrenaline-focused experience than the standard sunrise hike, worth it for travelers who want to engage with the volcano's landscape physically rather than walking it before dawn.",
+            tourCard: { slug: "mountain-batur-dirt-bike-adventure-and-lunch-ubud", title: "Mountain Batur Dirt Bike Adventure and Lunch (Ubud)", description: "A dirt bike adventure across Mount Batur's volcanic terrain with lunch.", price: "From $376", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/mountain-batur-dirt-bike-adventure-and-lunch-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm riding experience requirements with the operator beforehand, since this covers genuine off-road volcanic terrain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mount Batur dirt bike adventure worth it from Ubud?", a: "Yes, for travelers wanting a genuinely more active, adrenaline-focused way to engage with the volcano than the standard sunrise hike." },
+        ],
+      };
+
+    case "is-tabanan-jeep-village-workshop-worth-it-ubud":
+      return {
+        title: "Is the Tabanan Private Jeep and Balinese Village Workshop Worth It?",
+        description: "An honest look at the Tabanan private jeep, Balinese village workshop and lunch tour from Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tabanan-private-jeep-balinese-village-workshop-and-lunch-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Exploring Tabanan's rice-growing countryside by open jeep with a stop at a genuine village craft workshop gives a more active, hands-on day than a standard temple-and-rice-terrace circuit, worth it for travelers wanting real rural immersion alongside the scenery.",
+            tourCard: { slug: "tabanan-private-jeep-balinese-village-workshop-and-lunch-in-ubud", title: "Tabanan: Private Jeep, Balinese Village Workshop and Lunch in Ubud", description: "A private jeep tour of Tabanan with a Balinese village workshop and lunch.", price: "From $301", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/tabanan-private-jeep-balinese-village-workshop-and-lunch-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask what craft the village workshop covers before booking, since it can vary between operators and seasons.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tabanan jeep and village workshop tour worth it from Ubud?", a: "Yes, for travelers wanting real rural immersion and hands-on craft experience alongside Tabanan's rice-growing scenery." },
+        ],
+      };
+
     default:
       return null;
   }

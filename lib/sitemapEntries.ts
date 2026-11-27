@@ -2539,6 +2539,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-river-tubing-adventure-worth-it-ubud', 'is-still-life-painting-workshop-worth-it-ubud',
     'is-wood-carving-experience-worth-it-ubud', 'is-macrame-workshop-worth-it-ubud',
     'is-keliki-painting-experience-worth-it-ubud', 'is-gianyar-night-market-food-tour-worth-it-ubud',
+    'is-mount-rinjani-trek-worth-it-ubud', 'is-padi-open-water-course-worth-it-ubud',
+    'is-mount-batur-dirt-bike-worth-it-ubud', 'is-tabanan-jeep-village-workshop-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
