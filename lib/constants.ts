@@ -2123,6 +2123,8 @@ export const OSAKA_INFO_SLUGS = [
   'is-maid-cafe-experience-worth-it-osaka', 'is-ramen-gyoza-cooking-class-worth-it-osaka',
   'is-sakai-knife-blacksmith-tour-worth-it-osaka', 'is-seven-lucky-gods-pilgrimage-worth-it-osaka',
   'is-sushi-food-replica-workshop-worth-it-osaka', 'is-tempozan-ferris-wheel-worth-it-osaka',
+  'is-street-kart-experience-worth-it-osaka', 'is-nifrel-aquazoo-worth-it-osaka',
+  'is-kimono-photoshoot-worth-it-osaka', 'is-forest-bathing-minoh-worth-it-osaka',
 ];
 
 export const KASHMIR_INFO_SLUGS = [

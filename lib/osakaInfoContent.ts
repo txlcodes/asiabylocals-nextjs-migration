@@ -2288,6 +2288,90 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-street-kart-experience-worth-it-osaka":
+      return {
+        title: "Is the Osaka Street Kart Experience Worth It?",
+        description: "An honest look at the original street kart experience in Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Driving a real go-kart through Osaka's streets, often in costume, gives a genuinely different and memorable way to see the city than walking or riding in a taxi, worth it specifically for travelers wanting an active, slightly silly adventure rather than another guided walking tour.",
+            tourCard: { slug: "osaka-original-guided-tour", title: "Osaka: Original Street Kart Experience (1 Hr)", description: "A one-hour street kart driving experience through Osaka.", price: "From $67", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a valid driving license, since this requires a real license to drive on public roads, unlike an indoor go-kart track.",
+          },
+        ],
+        faqs: [
+          { q: "Is the street kart experience worth it in Osaka?", a: "Yes, for a genuinely memorable, active way to see the city, especially for travelers wanting something more adventurous than a standard walking tour." },
+        ],
+      };
+
+    case "is-nifrel-aquazoo-worth-it-osaka":
+      return {
+        title: "Is NIFREL Interactive Aquazoo Worth It in Osaka?",
+        description: "An honest look at the NIFREL interactive aquazoo entry ticket in Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "NIFREL blends aquarium, zoo, and art-gallery elements into one modern, design-focused space, worth it specifically for travelers wanting a different, more contemporary animal-viewing experience than a traditional aquarium or zoo format.",
+            tourCard: { slug: "nifrel-interactive-aquazoo-entry-ticket-in-osaka", title: "NIFREL Interactive Aquazoo Entry Ticket in Osaka", description: "An entry ticket to the NIFREL interactive aquazoo in Osaka.", price: "From $38", duration: "Flexible", image: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good indoor option for a hot or rainy day, since the whole experience is climate-controlled.",
+          },
+        ],
+        faqs: [
+          { q: "Is NIFREL interactive aquazoo worth it in Osaka?", a: "Yes, for a modern, design-focused animal-viewing experience distinct from a traditional aquarium or zoo." },
+        ],
+      };
+
+    case "is-kimono-photoshoot-worth-it-osaka":
+      return {
+        title: "Is the Kimono Photoshoot Worth It in Osaka?",
+        description: "An honest look at the kimono photoshoot experience with basic rental and studio session in Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper studio session with a kimono rental gives genuinely better photos than renting a kimono and taking your own pictures around the city, worth it specifically for travelers wanting quality portrait photos in traditional dress as a keepsake.",
+            tourCard: { slug: "osaka-session-photography-tour", title: "Kimono Photoshoot (Basic Rental & Studio Session)", description: "A kimono photoshoot with basic rental and a studio photography session.", price: "From $60", duration: "1-3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book earlier in your trip if the photos matter to you, so you have content to actually use and share for the rest of the visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the kimono photoshoot worth it in Osaka?", a: "Yes, for travelers wanting genuinely good-quality portrait photos in traditional dress, better than a casual self-shot kimono rental." },
+        ],
+      };
+
+    case "is-forest-bathing-minoh-worth-it-osaka":
+      return {
+        title: "Is the Forest Bathing Hike to Minoh Falls Worth It?",
+        description: "An honest look at the forest bathing hike to Minoh Falls with a local guide in Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This guided mindfulness walk through Minoh's forest focuses on slow, deliberate forest bathing rather than the faster-paced temple-and-waterfall combo tour, worth it specifically for travelers wanting a genuinely calm, meditative nature experience rather than another sightseeing checklist.",
+            tourCard: { slug: "forest-bathing-hike-to-minoh-falls-walk-with-a-local-guide-in-osaka", title: "Forest Bathing Hike to Minoh Falls — Walk with a Local Guide", description: "A guided forest bathing hike to Minoh Falls in Osaka.", price: "From $42", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tempozan-ferris-wheel-family-and-accessible-ticket-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with a slower mindset than a typical sightseeing day — the value here is the deliberate, meditative pace, not covering ground quickly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the forest bathing hike to Minoh Falls worth it in Osaka?", a: "Yes, specifically for travelers wanting a genuinely calm, meditative nature experience, distinct from the faster-paced temple-and-waterfall combo tour." },
+        ],
+      };
+
     default:
             return null;
     }
