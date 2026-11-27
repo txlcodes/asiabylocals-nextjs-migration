@@ -1312,6 +1312,69 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-dien-bien-phu-3day-worth-it-hanoi":
+      return {
+        title: "Is the Dien Bien Phu 3-Day Guided Adventure Worth It from Hanoi?",
+        description: "An honest look at the 3-day Dien Bien Phu guided adventure from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/dien-bien-phu-3-day-guided-adventure-with-meals-and-transfers-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dien Bien Phu, the site of the decisive 1954 battle that ended French colonial rule in Vietnam, offers genuine historical weight far from Hanoi's usual tourist circuit, worth it for travelers with a specific interest in Vietnamese history.",
+            tourCard: { slug: "dien-bien-phu-3-day-guided-adventure-with-meals-and-transfers-in-hanoi", title: "Dien Bien Phu: 3-Day Guided Adventure with Meals and Transfers in Hanoi", description: "A 3-day guided adventure to Dien Bien Phu with meals and transfers.", price: "From $719", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/dien-bien-phu-3-day-guided-adventure-with-meals-and-transfers-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Read up on the battle's history beforehand, since the sites carry far more weight with that context than as a standalone sightseeing stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dien Bien Phu 3-day guided adventure worth it from Hanoi?", a: "Yes, for travelers with a specific interest in Vietnamese history, offering genuine historical weight far from the usual tourist circuit." },
+        ],
+      };
+
+    case "is-maichau-puluong-ninhbinh-worth-it-hanoi":
+      return {
+        title: "Is the Mai Chau, Pu Luong & Ninh Binh 3-Day Tour Worth It from Hanoi?",
+        description: "An honest look at the 3-day Mai Chau, Pu Luong, and Ninh Binh tour from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mai-chau-pu-luong-and-ninh-binh-3-day-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Mai Chau's valley villages, Pu Luong's terraced hills, and Ninh Binh's limestone scenery in one 3-day trip covers three genuinely distinct landscapes without backtracking to Hanoi between each.",
+            tourCard: { slug: "mai-chau-pu-luong-and-ninh-binh-3-day-tour", title: "Mai Chau, Pu Luong, and Ninh Binh 3-Day Tour", description: "A 3-day tour combining Mai Chau, Pu Luong, and Ninh Binh.", price: "From $351", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/mai-chau-pu-luong-and-ninh-binh-3-day-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack light but bring layers, since the route moves between valley, hill, and karst terrain with varying temperatures.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mai Chau, Pu Luong and Ninh Binh 3-day tour worth it from Hanoi?", a: "Yes, for travelers wanting three genuinely distinct landscapes covered efficiently in one trip, without backtracking to Hanoi between stops." },
+        ],
+      };
+
+    case "is-sonla-quynhnhai-dariver-worth-it-hanoi":
+      return {
+        title: "Is the Son La Quynh Nhai Ecotourism & Da River Tour Worth It from Hanoi?",
+        description: "An honest look at the 3-day Son La Quynh Nhai ecotourism and Da River tour from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sonla-quynh-nhai-ecotourism-and-da-river-3-day-private-tour-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Quynh Nhai's reservoir and Da River scenery sit well off the standard northern Vietnam loop, giving genuine ecotourism access to a region most travelers never reach, worth it for those wanting somewhere truly off the beaten path.",
+            tourCard: { slug: "sonla-quynh-nhai-ecotourism-and-da-river-3-day-private-tour-in-hanoi", title: "SonLa: Quynh Nhai Ecotourism and Da river 3 day Private Tour in Hanoi", description: "A 3-day private ecotourism tour of Quynh Nhai and the Da River from Hanoi.", price: "From $338", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sonla-quynh-nhai-ecotourism-and-da-river-3-day-private-tour-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Infrastructure here is genuinely limited compared to the main northern Vietnam tourist loop, so set expectations accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Son La Quynh Nhai and Da River tour worth it from Hanoi?", a: "Yes, for travelers wanting genuine ecotourism access to a region most visitors never reach, truly off the beaten path." },
+        ],
+      };
+
     default:
       return null;
   }

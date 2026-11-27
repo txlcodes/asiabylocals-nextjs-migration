@@ -2503,6 +2503,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-incense-village-ao-dai-photoshoot-worth-it-hanoi', 'is-quintessence-of-tonkin-show-worth-it-hanoi',
     'is-ban-gioc-waterfall-tour-worth-it-hanoi', 'is-cao-bang-loop-worth-it-hanoi',
     'is-yen-tu-sacred-mountain-worth-it-hanoi', 'is-hoang-su-phi-harvest-worth-it-hanoi',
+    'is-dien-bien-phu-3day-worth-it-hanoi', 'is-maichau-puluong-ninhbinh-worth-it-hanoi',
+    'is-sonla-quynhnhai-dariver-worth-it-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
