@@ -1932,6 +1932,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-perfume-workshop-mansion-worth-it-istanbul":
+      return {
+        title: "Is the Perfume Workshop at an Old Wooden Mansion Worth It in Istanbul?",
+        description: "An honest look at the perfume workshop with 90+ oils at an old wooden mansion in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Blending your own scent from over 90 oils inside a genuine historic wooden mansion gives both a real craft skill and a distinctive, atmospheric setting, worth it for travelers wanting a personal, lasting souvenir rather than buying perfume off a shelf.",
+            tourCard: { slug: "istanbul-perfume-workshop-at-old-wooden-mansion", title: "Istanbul: Perfume Workshop at Old Wooden Mansion, 90+ Oils", description: "A perfume-making workshop with over 90 oils at a historic wooden mansion in Istanbul.", price: "From $40", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Take your time testing oils before committing to a blend — with 90-plus options, rushing the process means a less personal result.",
+          },
+        ],
+        faqs: [
+          { q: "Is the perfume workshop worth it in Istanbul?", a: "Yes, for a genuinely personal, lasting souvenir and a real craft skill, set in a distinctive historic mansion." },
+        ],
+      };
+
+    case "is-hodjapasha-dance-show-worth-it-istanbul":
+      return {
+        title: "Is the Hodjapasha Rhythm of the Dance Show Worth It in Istanbul?",
+        description: "An honest look at the Hodjapasha Rhythm of the Dance show in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Staged in a converted historic hammam, this high-energy dance show covers a wider range of Turkish folk and modern dance styles than the whirling dervish ceremony, worth it specifically for travelers wanting a more varied, theatrical evening performance rather than the slower, meditative dervish ritual.",
+            tourCard: { slug: "istanbul-hodjapasha-rhythm-of-the-dance-show", title: "Istanbul: Hodjapasha Rhythm of The Dance Show", description: "A dance performance at the historic Hodjapasha venue in Istanbul.", price: "From $42", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive early to get a good seat and take in the venue itself — the converted hammam building is part of the experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hodjapasha dance show worth it in Istanbul?", a: "Yes, for a more varied, high-energy theatrical evening than the slower, meditative whirling dervish ceremony." },
+        ],
+      };
+
+    case "is-turkish-tea-world-teas-workshop-worth-it-istanbul":
+      return {
+        title: "Is the Turkish Tea and World Teas Brewing and Tasting Workshop Worth It?",
+        description: "An honest look at the Turkish tea and world teas brewing and tasting workshop in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Going beyond a single glass of Turkish tea, this workshop teaches proper brewing technique and compares it against teas from other traditions, worth it specifically for travelers who want real depth on tea culture rather than just drinking a cup at a café.",
+            tourCard: { slug: "istanbul-turkish-tea-world-teas-brewing-tasting", title: "Istanbul: Turkish Tea & World Teas Brewing, Tasting Workshop", description: "A brewing and tasting workshop comparing Turkish tea with teas from other traditions.", price: "From $40", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with an open palate — part of the value here is tasting teas you may never have tried before, not just Turkish tea.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Turkish and world teas workshop worth it in Istanbul?", a: "Yes, for real depth on tea culture and brewing technique, rather than just drinking a cup at a café." },
+        ],
+      };
+
+    case "is-kinusaiga-fabric-mosaic-workshop-worth-it-istanbul":
+      return {
+        title: "Is the Kinusaiga Fabric Mosaic Workshop Worth It in Istanbul?",
+        description: "An honest look at the Kinusaiga fabric mosaic workshop with framed art in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kinusaiga is a genuine fabric-based mosaic craft distinct from Istanbul's more common glass mosaic lamp workshops, worth it for travelers wanting a different textile-based craft activity and a finished, framed piece of art to take home.",
+            tourCard: { slug: "istanbul-kinusaiga-fabric-mosaic-workshop-with", title: "Istanbul: Kinusaiga Fabric Mosaic Workshop with Framed Art", description: "A Kinusaiga fabric mosaic workshop producing a framed piece of art.", price: "From $40", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f8a0a0fe11e7a7efcbb1965dca0298d4307ebb308829d264169c573152c69341.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your framed piece is ready to display immediately — a good, packable souvenir compared to more fragile glasswork crafts.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kinusaiga fabric mosaic workshop worth it in Istanbul?", a: "Yes, for a genuinely different textile-based craft and a ready-to-display framed souvenir." },
+        ],
+      };
+
     default:
       return null;
   }
