@@ -671,6 +671,62 @@ export function getMongoliaInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-motorcycle-hot-springs-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the 5-Day Motorcycle Tour with Hot Springs Worth It from Ulaanbaatar?",
+                description: "An honest look at the 5-day motorcycle tour with hot springs from Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6f1611ee3b8907145b237dae0ff384adc37943e600fa9e06b60530306a3ccab.png",
+                sections: [
+                    { title: "The Short Answer", content: "Riding a motorcycle across Mongolia's open countryside, ending days at natural hot springs, gives a genuinely different, more physical way to see the steppe than a standard van tour, worth it for experienced riders wanting a real adventure trip.", tourCard: { slug: "ulaanbaatar-5-day-motorcycle-tour-with-hot-springs", title: "Ulaanbaatar: 5-Day Motorcycle Tour with Hot Springs", description: "A 5-day motorcycle tour through Mongolia's countryside with hot springs stops.", price: "From $2990", duration: "5 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6f1611ee3b8907145b237dae0ff384adc37943e600fa9e06b60530306a3ccab.png" } },
+                    { title: "Practical Tips", content: "Confirm the required riding license and experience level with the operator before booking, since Mongolia's terrain can be rough." }
+                ],
+                faqs: [
+                    { q: "Is the motorcycle tour with hot springs worth it from Ulaanbaatar?", a: "Yes, for experienced riders wanting a genuinely physical, memorable way to see the steppe, distinct from a standard van tour." }
+                ],
+            };
+
+        case "is-darkhan-shamanic-culture-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Darkhan Heritage and Shamanic Culture Tour Worth It from Ulaanbaatar?",
+                description: "An honest look at the Darkhan Heritage & Shamanic Culture tour from Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d745b77a5d3de4c675e63dc2a1aa0c5b73bb050295d5a0b81234332b1ef254ae.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Darkhan, a lesser-visited city north of Ulaanbaatar, gives real access to Mongolia's shamanic heritage with far fewer tourists than the capital's own shamanic ceremony experiences, worth it for travelers wanting deeper, more authentic regional culture.", tourCard: { slug: "darkhan-heritage-shamanic-culture-tour-from", title: "Darkhan Heritage & Shamanic Culture Tour from Ulaanbaatar", description: "A heritage and shamanic culture tour to Darkhan from Ulaanbaatar.", price: "From $1441", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d745b77a5d3de4c675e63dc2a1aa0c5b73bb050295d5a0b81234332b1ef254ae.jpg" } },
+                    { title: "Practical Tips", content: "Approach any shamanic ceremony with respect — ask your guide about appropriate etiquette before participating." }
+                ],
+                faqs: [
+                    { q: "Is the Darkhan heritage and shamanic culture tour worth it from Ulaanbaatar?", a: "Yes, for travelers wanting deeper, more authentic regional shamanic culture away from the capital's more touristed experiences." }
+                ],
+            };
+
+        case "is-khugnu-khan-mountain-tour-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Khugnu Khan Mountain Tour Worth It from Ulaanbaatar?",
+                description: "An honest look at the 3-day Khugnu Khan Mountain tour from Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4c814af114d4b5b6f379c37d5ec3baea7fb42643fab219de44cea5a4db708a6d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khugnu Khan Mountain's granite rock formations and nearby sand dunes give a genuinely distinct landscape from both Terelj and the Gobi, worth it for travelers wanting a quieter, less-touristed stretch of central Mongolia.", tourCard: { slug: "3-days-khugnu-khan-mountain-tour", title: "3 Days Khugnu Khan Mountain Tour", description: "A 3-day tour to Khugnu Khan Mountain's granite formations and sand dunes.", price: "From $1116", duration: "3 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4c814af114d4b5b6f379c37d5ec3baea7fb42643fab219de44cea5a4db708a6d.jpg" } },
+                    { title: "Practical Tips", content: "Pack for camping and variable weather, since multi-day central Mongolia trips typically involve ger or tent accommodation." }
+                ],
+                faqs: [
+                    { q: "Is the Khugnu Khan Mountain tour worth it from Ulaanbaatar?", a: "Yes, for a genuinely distinct landscape of granite formations and sand dunes, quieter than both Terelj and the Gobi." }
+                ],
+            };
+
+        case "is-asralt-peak-trek-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Asralt Peak Trek and Horseback Adventure Worth It in Terelj?",
+                description: "An honest look at the 6-day Asralt Peak trek and horseback adventure in Terelj.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7caf559c45bf496364b69183a2ee50e64a5b3cd5f4bb7692605b44ac0b39b4b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Trekking and riding to Asralt Peak over six days gives a genuinely serious mountain adventure deep into Terelj's backcountry, far beyond the standard day-trip sightseeing circuit, worth it for fit travelers wanting a real multi-day wilderness trip.", tourCard: { slug: "terelj-6-day-asralt-peak-trek-horseback-adventure", title: "Terelj: 6-Day Asralt Peak Trek & Horseback Adventure", description: "A 6-day trek and horseback adventure to Asralt Peak in Terelj.", price: "From $1983", duration: "6 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c7caf559c45bf496364b69183a2ee50e64a5b3cd5f4bb7692605b44ac0b39b4b.jpg" } },
+                    { title: "Practical Tips", content: "Build up riding stamina before the trip if you're not an experienced horseback rider, since the days involve sustained time in the saddle." }
+                ],
+                faqs: [
+                    { q: "Is the Asralt Peak trek and horseback adventure worth it in Terelj?", a: "Yes, for fit travelers wanting a genuinely serious multi-day wilderness trip, far beyond Terelj's standard day-trip circuit." }
+                ],
+            };
+
         default:
             return null;
     }
