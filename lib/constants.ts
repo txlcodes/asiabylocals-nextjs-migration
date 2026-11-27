@@ -231,6 +231,8 @@ export const JAIPUR_INFO_SLUGS = [
   'is-morning-bike-tour-old-city-worth-it-jaipur', 'is-night-tuk-tuk-tour-worth-it-jaipur',
   'is-horse-riding-adventure-worth-it-jaipur', 'is-meenakari-silver-workshop-worth-it-jaipur',
   'is-elephant-poo-paper-workshop-worth-it-jaipur', 'is-sariska-tiger-reserve-safari-worth-it-jaipur',
+  'is-jhalana-leopard-safari-worth-it-jaipur', 'is-ranthambore-private-jeep-safari-worth-it-jaipur',
+  'is-jaipur-ranthambore-3day-worth-it-jaipur', 'is-overnight-taj-mahal-sunrise-tour-worth-it-jaipur',
 ];
 
 export const PHUKET_INFO_SLUGS = [

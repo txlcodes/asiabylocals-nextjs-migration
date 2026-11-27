@@ -2265,6 +2265,90 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-jhalana-leopard-safari-worth-it-jaipur":
+      return {
+        title: "Is the Jhalana Leopard Safari with Bird Watching Worth It in Jaipur?",
+        description: "An honest look at the Jhalana Leopard Safari with bird watching in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jhalana-leopard-safari-with-bird-watching/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jhalana Reserve sits inside Jaipur's city limits yet holds a genuine leopard population alongside varied birdlife, worth it for travelers wanting real wildlife sighting odds without a long drive out to Ranthambore or Sariska.",
+            tourCard: { slug: "jaipur-jhalana-leopard-safari-with-bird-watching", title: "Jaipur: Jhalana Leopard Safari with Bird Watching", description: "A leopard safari with bird watching at Jhalana Reserve near Jaipur.", price: "From $402", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-jhalana-leopard-safari-with-bird-watching/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the early morning slot for the best leopard sighting odds, since activity drops noticeably as temperatures rise through the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Jhalana Leopard Safari worth it in Jaipur?", a: "Yes, for travelers wanting real wildlife sighting odds close to the city, without the long drive out to Ranthambore or Sariska." },
+        ],
+      };
+
+    case "is-ranthambore-private-jeep-safari-worth-it-jaipur":
+      return {
+        title: "Is the Ranthambore National Park Private Jeep Safari Worth It?",
+        description: "An honest look at the private jeep safari at Ranthambore National Park.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/rajasthan-ranthambore-national-park-private-jeep/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private jeep gives full control over pacing and stops inside Ranthambore, rather than sharing a shared canter vehicle with other travelers, worth it for serious wildlife photographers and travelers wanting the best possible tiger sighting experience.",
+            tourCard: { slug: "rajasthan-ranthambore-national-park-private-jeep", title: "Rajasthan: Ranthambore National Park Private Jeep Safari", description: "A private jeep safari at Ranthambore National Park.", price: "From $364", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/rajasthan-ranthambore-national-park-private-jeep/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book well ahead, since Ranthambore's zone permits are limited and private jeep slots fill up fastest.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ranthambore private jeep safari worth it?", a: "Yes, for serious wildlife photographers and travelers wanting full control over pacing, rather than sharing a canter with a group." },
+        ],
+      };
+
+    case "is-jaipur-ranthambore-3day-worth-it-jaipur":
+      return {
+        title: "Is the 3-Day Jaipur and Ranthambore Tour with Safari Worth It?",
+        description: "An honest look at the 3-day Jaipur and Ranthambore tour with safari.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-jaipur-3-day-jaipur-and-ranthambore-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Jaipur's forts and palaces with a Ranthambore tiger safari over 3 days covers both city heritage and wildlife without the rush of a single-day add-on, worth it for travelers wanting a complete, well-paced combination.",
+            tourCard: { slug: "from-jaipur-3-day-jaipur-and-ranthambore-tour", title: "From Jaipur: 3-Day Jaipur and Ranthambore Tour with Safari", description: "A 3-day tour combining Jaipur sightseeing with a Ranthambore tiger safari.", price: "From $366", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-jaipur-3-day-jaipur-and-ranthambore-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm how many safari drives are included, since tiger sighting odds improve noticeably with multiple attempts.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-day Jaipur and Ranthambore tour worth it?", a: "Yes, for travelers wanting a well-paced combination of city heritage and a genuine tiger safari, without rushing either." },
+        ],
+      };
+
+    case "is-overnight-taj-mahal-sunrise-tour-worth-it-jaipur":
+      return {
+        title: "Is the Overnight Taj Mahal Tour: Sunrise at the Iconic Wonder Worth It?",
+        description: "An honest look at the overnight Taj Mahal sunrise tour from Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/overnight-taj-mahal-tour-sunrise-at-the-iconic/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Staying overnight near Agra lets you catch the Taj Mahal at sunrise, when the light and crowds are both at their best, rather than arriving mid-morning after a rushed day trip from Jaipur, worth it for travelers who want the classic sunrise photograph done properly.",
+            tourCard: { slug: "overnight-taj-mahal-tour-sunrise-at-the-iconic", title: "Overnight Taj Mahal Tour: Sunrise at the Iconic Wonder", description: "An overnight tour to see the Taj Mahal at sunrise.", price: "From $883", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/overnight-taj-mahal-tour-sunrise-at-the-iconic/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive at the gate right at opening, since the sunrise crowd builds quickly even with an overnight stay giving you a head start.",
+          },
+        ],
+        faqs: [
+          { q: "Is the overnight Taj Mahal sunrise tour worth it?", a: "Yes, for travelers wanting the classic sunrise photograph done properly, with better light and fewer crowds than a rushed day trip." },
+        ],
+      };
+
     default:
       return null;
   }
