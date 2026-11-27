@@ -1831,6 +1831,8 @@ export const TOKYO_INFO_SLUGS = [
   'is-ghost-stories-night-walk-worth-it-tokyo',
   'is-ninja-samurai-training-worth-it-tokyo', 'is-sushi-making-class-worth-it-tokyo',
   'is-kendo-experience-worth-it-tokyo', 'is-toyosu-tuna-auction-tour-worth-it-tokyo',
+  'is-tokyo-helicopter-flight-skytree-worth-it-tokyo', 'is-fuji-speedway-nismo-jdm-tour-worth-it-tokyo',
+  'is-tateyama-kurobe-alpine-route-worth-it-tokyo', 'is-aichi-meiji-village-worth-it-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.

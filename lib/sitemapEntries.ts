@@ -1782,6 +1782,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ghost-stories-night-walk-worth-it-tokyo',
     'is-ninja-samurai-training-worth-it-tokyo', 'is-sushi-making-class-worth-it-tokyo',
     'is-kendo-experience-worth-it-tokyo', 'is-toyosu-tuna-auction-tour-worth-it-tokyo',
+    'is-tokyo-helicopter-flight-skytree-worth-it-tokyo', 'is-fuji-speedway-nismo-jdm-tour-worth-it-tokyo',
+    'is-tateyama-kurobe-alpine-route-worth-it-tokyo', 'is-aichi-meiji-village-worth-it-tokyo',
 ].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),

@@ -2818,6 +2818,90 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tokyo-helicopter-flight-skytree-worth-it-tokyo":
+      return {
+        title: "Is the Tokyo Helicopter Flight Over Skytree & Tokyo Tower Worth It?",
+        description: "An honest look at the 30-minute helicopter flight over Tokyo Skytree and Tokyo Tower.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788727204/asiabylocals/tours/tokyo-helicopter-flight-skytree-tokyo-tower/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Thirty minutes over Tokyo by helicopter gives a genuinely different perspective on the city's scale than any observation deck, with both Skytree and Tokyo Tower visible from above, worth it specifically for travelers wanting a memorable splurge experience rather than the most efficient way to see the skyline.",
+            tourCard: { slug: "tokyo-helicopter-flight-skytree-tokyo-tower", title: "Thirty Minutes Over Tokyo by Helicopter: Skytree and Tokyo Tower", description: "A 30-minute helicopter flight over Tokyo, passing Skytree and Tokyo Tower.", price: "From $753", duration: "1 hour", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788727204/asiabylocals/tours/tokyo-helicopter-flight-skytree-tokyo-tower/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book for clear weather days when possible, since views depend entirely on visibility and flights may be rescheduled in poor conditions.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tokyo helicopter flight worth it?", a: "Yes, for travelers wanting a genuinely memorable aerial perspective on the city's scale, beyond what any observation deck offers." },
+        ],
+      };
+
+    case "is-fuji-speedway-nismo-jdm-tour-worth-it-tokyo":
+      return {
+        title: "Is the Fuji Speedway & NISMO Private JDM Day Tour Worth It?",
+        description: "An honest look at the private JDM day tour to Fuji Speedway and the NISMO museum from Tokyo.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169097/asiabylocals/tours/fuji-speedway-nismo-jdm-day-tour/hq_tour_img_1.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Fuji Speedway's racing circuit and the NISMO motorsports museum into one private day trip gives genuine motorsport enthusiasts a dedicated JDM-focused day that standard Mount Fuji sightseeing tours don't offer, with the mountain's southern side visible along the way.",
+            tourCard: { slug: "fuji-motorsports-museum-private-tour", title: "Fuji Speedway and NISMO: Private JDM Day Tour from Tokyo", description: "A private JDM-focused day tour to Fuji Speedway and the NISMO museum.", price: "From $1019", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1787169097/asiabylocals/tours/fuji-speedway-nismo-jdm-day-tour/hq_tour_img_1.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the circuit's event calendar before booking, since race days can affect access to certain areas of the speedway.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Fuji Speedway and NISMO JDM tour worth it from Tokyo?", a: "Yes, for genuine motorsport enthusiasts wanting a dedicated JDM-focused day that standard Mount Fuji sightseeing tours don't offer." },
+        ],
+      };
+
+    case "is-tateyama-kurobe-alpine-route-worth-it-tokyo":
+      return {
+        title: "Is the Tateyama Kurobe Alpine Route Private Day Tour Worth It?",
+        description: "An honest look at the privately guided day tour of the Tateyama Kurobe Alpine Route from Tokyo.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788727464/asiabylocals/tours/tateyama-kurobe-alpine-route-private-day-tour/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Tateyama Kurobe Alpine Route's famous snow walls and high-altitude mountain scenery, often called the Roof of Japan, make for a genuinely dramatic day trip that few Tokyo-based itineraries attempt, worth it for travelers with enough time who want mountain scenery unlike anything closer to the city.",
+            tourCard: { slug: "tateyama-kurobe-alpine-route-private-day-tour", title: "The Tateyama Kurobe Alpine Route: Snow Walls and the Roof of Japan, Privately Guided", description: "A privately guided day tour of the Tateyama Kurobe Alpine Route.", price: "From $298", duration: "12 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788727464/asiabylocals/tours/tateyama-kurobe-alpine-route-private-day-tour/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day from Tokyo — confirm start and return times with your guide, since round-trip travel eats a large share of the 12 hours.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tateyama Kurobe Alpine Route day tour worth it from Tokyo?", a: "Yes, for travelers with enough time who want dramatic high-altitude mountain scenery unlike anything closer to the city." },
+        ],
+      };
+
+    case "is-aichi-meiji-village-worth-it-tokyo":
+      return {
+        title: "Is the Aichi Meiji Village Tour Worth It from Tokyo?",
+        description: "An honest look at the Aichi Meiji Village and Japan's modernization journey tour from Tokyo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/aichi-meiji-village-and-japan-s-modernization-journey-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Meiji Village's relocated historical buildings trace Japan's rapid modernization era in a way no single Tokyo museum covers, worth it for travelers with a specific interest in Japanese architectural and social history during the Meiji period.",
+            tourCard: { slug: "aichi-meiji-village-and-japan-s-modernization-journey-tokyo", title: "Aichi: Meiji Village and Japan's Modernization Journey (Tokyo)", description: "A tour of Meiji Village's relocated historical buildings tracing Japan's modernization era.", price: "From $312", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/aichi-meiji-village-and-japan-s-modernization-journey-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Allow more time than the listed duration suggests if architectural history genuinely interests you — the village covers considerable ground.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Aichi Meiji Village tour worth it from Tokyo?", a: "Yes, for travelers with a specific interest in Japanese architectural and social history from the Meiji modernization era." },
+        ],
+      };
+
     default:
             return null;
     }
