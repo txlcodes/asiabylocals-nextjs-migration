@@ -1512,6 +1512,90 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-universal-studios-worth-it-beijing":
+      return {
+        title: "Is Universal Studios Beijing Worth It?",
+        description: "An honest look at the Universal Studios Beijing admission ticket.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Universal Studios Beijing is a genuinely different full-day experience from the city's temples and hutongs, worth it specifically for families or theme-park fans wanting a break from history-heavy sightseeing, though it eats a full day that could otherwise go toward the Great Wall or Forbidden City.",
+            tourCard: { slug: "universal-studios-beijing-ticket-optional-private", title: "Universal Studios Beijing Ticket & Optional Private Transfer", description: "An admission ticket to Universal Studios Beijing, with optional private transfer.", price: "From $52", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the optional private transfer if your hotel isn't near the metro — the park sits well outside the central sightseeing area.",
+          },
+        ],
+        faqs: [
+          { q: "Is Universal Studios Beijing worth it?", a: "Yes, specifically for families or theme-park fans wanting a break from history-heavy sightseeing, but budget a full day for it." },
+        ],
+      };
+
+    case "is-kite-painting-workshop-worth-it-beijing":
+      return {
+        title: "Is the Traditional Chinese Kite-Painting Workshop Worth It in Beijing?",
+        description: "An honest look at the traditional Chinese kite-painting workshop in Beijing.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Traditional Chinese kite-making and painting is a genuine folk craft with centuries of history, and this hands-on workshop teaches real technique rather than just selling a finished souvenir, worth it for travelers wanting a calm, creative activity and something tangible to take home.",
+            tourCard: { slug: "beijing-traditional-chinese-kite-painting-workshop", title: "Beijing: Traditional Chinese Kite-Painting Workshop", description: "A hands-on traditional Chinese kite-painting workshop in Beijing.", price: "From $33", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished kite is lightweight and reasonably packable for travel — ask the studio about rolling it safely for your suitcase.",
+          },
+        ],
+        faqs: [
+          { q: "Is the kite-painting workshop worth it in Beijing?", a: "Yes, for a genuine hands-on folk craft and a real souvenir, rather than buying a finished kite ready-made." },
+        ],
+      };
+
+    case "is-slow-morning-qigong-worth-it-beijing":
+      return {
+        title: "Is the Beijing Slow Morning: Breakfast, Qigong, Ping Pong Worth It?",
+        description: "An honest look at the Beijing slow morning experience with breakfast, qigong, and ping pong in a local park.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Joining locals for their actual morning park routine — breakfast, qigong, ping pong — gives genuine insight into daily Beijing life that no monument visit can, worth it specifically for travelers wanting a slower, more authentic morning than another temple or museum stop.",
+            tourCard: { slug: "beijing-slow-morning-breakfast-qigong-ping-pong", title: "Beijing Slow Morning: Breakfast, Qigong, Ping Pong in a Park", description: "A slow morning experience with breakfast, qigong, and ping pong in a Beijing park.", price: "From $51", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable, loose clothing you can move in for the qigong and ping pong portions.",
+          },
+        ],
+        faqs: [
+          { q: "Is the slow morning qigong experience worth it in Beijing?", a: "Yes, for genuine insight into everyday local life, a slower and more authentic morning than another temple or museum stop." },
+        ],
+      };
+
+    case "is-night-hutong-food-walk-worth-it-beijing":
+      return {
+        title: "Is the Beijing Night Walking Tour to Old Hutongs and Food Discovery Worth It?",
+        description: "An honest look at the Beijing night walking tour through old hutongs with food discovery.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Beijing's hutongs look and feel genuinely different after dark, and pairing a night walk with food stops along the way gives a more atmospheric, less touristy experience than a daytime hutong visit, worth it for travelers wanting to see the lanes come alive in the evening.",
+            tourCard: { slug: "beijing-night-walking-tour-to-old-hutongs-food", title: "Beijing Night Walking Tour to Old Hutongs & Food Discovery", description: "A night walking tour through Beijing's old hutongs with food stops.", price: "From $31", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92833af218f226730c6f0f185fe1dd168a5503a309451709b412ca2b616ee848.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite — the food stops are meant to add up to a full evening meal, not just a few bites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the night hutong food walk worth it in Beijing?", a: "Yes, for a more atmospheric, less touristy evening version of a hutong visit, with real food stops along the way." },
+        ],
+      };
+
     default:
       return null;
   }

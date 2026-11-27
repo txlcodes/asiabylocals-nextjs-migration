@@ -203,6 +203,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-confucius-temple-worth-it-beijing', 'is-paper-cut-workshop-worth-it-beijing',
     'is-yuan-ming-yuan-worth-it-beijing', 'is-underground-city-bunker-tour-worth-it-beijing',
     'is-time-tunnel-old-beijing-replica-worth-it-beijing', 'is-nanluoguxiang-houhai-walk-worth-it-beijing',
+    'is-universal-studios-worth-it-beijing', 'is-kite-painting-workshop-worth-it-beijing',
+    'is-slow-morning-qigong-worth-it-beijing', 'is-night-hutong-food-walk-worth-it-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),
