@@ -584,6 +584,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-uzbekistan-6-city-tour-worth-it-tashkent', 'is-private-city-tour-photo-session-worth-it-tashkent',
     'is-chorsu-market-ankhor-river-tour-worth-it-tashkent', 'is-ferghana-valley-2day-classes-worth-it-tashkent',
     'is-zaamin-3day-tour-worth-it-tashkent',
+    'is-luxury-horseback-mountains-worth-it-tashkent', 'is-khujand-fergana-circuit-worth-it-tashkent',
+    'is-khujand-border-crossing-worth-it-tashkent', 'is-tien-shan-guided-hike-picnic-worth-it-tashkent',
+    'is-mountain-chalet-tour-worth-it-tashkent',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/tashkent/${slug}`,
     lastModified: new Date(),

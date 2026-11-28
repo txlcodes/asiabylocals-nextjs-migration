@@ -1568,6 +1568,76 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-luxury-horseback-mountains-worth-it-tashkent":
+            return {
+                title: "Is the Luxury Horseback Riding Tour in the Mountains Worth It from Tashkent?",
+                description: "An honest look at the luxury horseback riding tour through the mountains near Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4e989b686d8226b5252a0dc7418cb70fcc3a1766b8350270258cc8739680a74.png",
+                sections: [
+                    { title: "The Short Answer", content: "Riding through genuine mountain scenery near Tashkent on a premium horseback tour gives a real outdoor escape from the city's Silk Road sightseeing circuit, worth it for travelers wanting a mix of activity and alpine landscape.", tourCard: { slug: "from-tashkent-luxury-horseback-riding-tour-in-the", title: "From Tashkent: Luxury Horseback Riding Tour in the Mountains", description: "A luxury horseback riding tour through the mountains near Tashkent.", price: "From $884", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f4e989b686d8226b5252a0dc7418cb70fcc3a1766b8350270258cc8739680a74.png" } },
+                    { title: "Practical Tips", content: "No prior riding experience is typically needed, but confirm skill expectations with the operator beforehand." },
+                ],
+                faqs: [
+                    { q: "Is the luxury horseback riding mountain tour worth it from Tashkent?", a: "Yes, for travelers wanting a genuine mix of outdoor activity and alpine scenery, a real escape from the city's Silk Road sightseeing." },
+                ],
+            };
+
+        case "is-khujand-fergana-circuit-worth-it-tashkent":
+            return {
+                title: "Is the Khujand-Fergana Valley Circuit Worth It from Tashkent?",
+                description: "An honest look at the 2-day, 1-night Khujand-Fergana Valley circuit from Tashkent, crossing into Tajikistan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b7fd97dd72f527825fa448373ff50c6871f8f7d3d163362ccd96681530292fc6.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining Tajikistan's Khujand with Uzbekistan's Fergana Valley gives genuine cross-border variety in a single circuit, worth it for travelers wanting two distinct Central Asian regions covered efficiently in 2 days.", tourCard: { slug: "from-tashkent-2-day-1-night-khujand-fergana", title: "From Tashkent: 2-Day, 1-Night Khujand-Fergana Valley Circuit", description: "A 2-day, 1-night circuit covering Khujand in Tajikistan and the Fergana Valley from Tashkent.", price: "From $702", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b7fd97dd72f527825fa448373ff50c6871f8f7d3d163362ccd96681530292fc6.jpeg" } },
+                    { title: "Practical Tips", content: "Confirm your visa covers both Uzbekistan and Tajikistan before booking, since this genuinely crosses an international border." },
+                ],
+                faqs: [
+                    { q: "Is the Khujand-Fergana Valley circuit worth it from Tashkent?", a: "Yes, for travelers wanting genuine cross-border variety, covering two distinct Central Asian regions efficiently in 2 days." },
+                ],
+            };
+
+        case "is-khujand-border-crossing-worth-it-tashkent":
+            return {
+                title: "Is the Khujand Day Trip with Border Crossing Worth It from Tashkent?",
+                description: "An honest look at the Khujand day trip from Tashkent, including a border crossing into Tajikistan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5eb3b0cb8313e73e021fe3c2d531c2cca0208d1e1248e8994d6f9289e7115ba9.png",
+                sections: [
+                    { title: "The Short Answer", content: "Khujand is genuinely one of Tajikistan's oldest cities, and this day trip handles the border crossing logistics for you, worth it for travelers wanting to add a second country to their Uzbekistan trip without a major detour.", tourCard: { slug: "from-tashkent-khujand-day-trip-with-border", title: "From Tashkent: Khujand Day Trip with Border Crossing", description: "A day trip to Khujand, Tajikistan from Tashkent, including border crossing.", price: "From $572", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5eb3b0cb8313e73e021fe3c2d531c2cca0208d1e1248e8994d6f9289e7115ba9.png" } },
+                    { title: "Practical Tips", content: "Carry your passport and confirm visa requirements for Tajikistan well before your trip date." },
+                ],
+                faqs: [
+                    { q: "Is the Khujand day trip with border crossing worth it from Tashkent?", a: "Yes, for travelers wanting to add a second country to their Uzbekistan trip without a major detour, with crossing logistics handled." },
+                ],
+            };
+
+        case "is-tien-shan-guided-hike-picnic-worth-it-tashkent":
+            return {
+                title: "Is the Tien Shan Mountains Guided Hike with Picnic Worth It from Tashkent?",
+                description: "An honest look at the Tien Shan Mountains guided hike with picnic near Tashkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3bdf85db1bdf7bbdce371166aac7349b777588e36b6226901b19452e0ed8b9f.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "The Tien Shan range gives genuinely dramatic mountain scenery close to Tashkent, and a guided hike with a picnic lunch makes this a well-paced, relaxed outdoor day rather than a rushed summit push.", tourCard: { slug: "tashkent-tien-shan-mountains-guided-hike-with", title: "Tashkent: Tien Shan Mountains Guided Hike with Picnic", description: "A guided hike in the Tien Shan Mountains with a picnic lunch near Tashkent.", price: "From $559", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d3bdf85db1bdf7bbdce371166aac7349b777588e36b6226901b19452e0ed8b9f.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes and bring a camera — the Tien Shan views are genuinely a highlight of any Tashkent side trip." },
+                ],
+                faqs: [
+                    { q: "Is the Tien Shan Mountains guided hike with picnic worth it from Tashkent?", a: "Yes, for a genuinely relaxed, well-paced mountain day with dramatic scenery close to the city." },
+                ],
+            };
+
+        case "is-mountain-chalet-tour-worth-it-tashkent":
+            return {
+                title: "Is the 2-Day Mountain Tour with Chalet Stay Worth It from Tashkent?",
+                description: "An honest look at the 2-day mountain tour from Tashkent with a chalet stay and meals included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a01df795e518d66fc7bff202a1212d37a5463bca6e18de9224daec71c127072.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Staying overnight in a genuine mountain chalet, with meals included, gives real time to enjoy the scenery beyond a rushed day trip, worth it for travelers wanting a proper mountain retreat rather than a quick hike and return.", tourCard: { slug: "tashkent-2-day-mountain-tour-with-chalet-stay", title: "Tashkent: 2-Day Mountain Tour with Chalet Stay & Meals", description: "A 2-day mountain tour from Tashkent with a chalet stay and meals included.", price: "From $650", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6a01df795e518d66fc7bff202a1212d37a5463bca6e18de9224daec71c127072.jpg" } },
+                    { title: "Practical Tips", content: "Pack layers for genuinely cooler mountain nights, even if Tashkent itself is warm." },
+                ],
+                faqs: [
+                    { q: "Is the 2-day mountain tour with chalet stay worth it from Tashkent?", a: "Yes, for travelers wanting a proper mountain retreat with real time to enjoy the scenery, rather than a rushed day trip." },
+                ],
+            };
+
         case "is-marokand-concert-hall-show-worth-it-samarkand":
             return {
                 title: "Is the Marokand Concert Hall Show Worth It in Samarkand?",
