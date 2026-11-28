@@ -1502,6 +1502,27 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-guided-motorcycle-night-ride-worth-it-canggu":
+      return {
+        title: "Is the Guided Motorcycle Night Ride with Photos and Videos Worth It in Canggu?",
+        description: "An honest look at the guided evening motorcycle ride through Canggu with photo and video stops.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/guided-motorcycle-night-ride-with-photos-and-videos-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a different side of Canggu after dark — riding past spots like Melasti Beach and Starbucks Reserve Dewata at night, with a guide capturing photos and videos along the way, makes for a genuinely memorable short ride.",
+            tourCard: { slug: "guided-motorcycle-night-ride-with-photos-and-videos-in-canggu", title: "Guided Motorcycle Night Ride with Photos and Videos in Canggu", description: "A guided evening motorcycle ride through Canggu with photo and video stops.", price: "From $211", duration: "3.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-motorcycle-night-ride-with-photos-and-videos-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light jacket — evening rides in Canggu can feel cooler once you're moving, even in Bali's warm climate.",
+          },
+        ],
+        faqs: [
+          { q: "Is the guided motorcycle night ride worth it in Canggu?", a: "Yes, for travelers wanting a memorable evening ride past Canggu's landmarks with photos and videos included." },
+        ],
+      };
+
     default:
       return null;
   }

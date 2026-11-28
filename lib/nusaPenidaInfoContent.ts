@@ -1617,6 +1617,27 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-manta-point-private-snorkeling-worth-it-nusa-penida":
+      return {
+        title: "Is the Manta Point Private Snorkeling Tour Worth It in Nusa Penida?",
+        description: "An honest look at the 3-hour private snorkeling tour covering Manta Bay, Gamat Bay, and Mangrove Point in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/manta-point-private-snorkeling-tour-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a private boat rather than sharing with a large group — covering Manta Bay, Gamat Bay, and Mangrove Point in a single 3-hour private tour gives a real shot at manta ray sightings without competing for space with crowded group snorkel boats.",
+            tourCard: { slug: "manta-point-private-snorkeling-tour-in-nusa-penida", title: "Manta Point Private Snorkeling Tour in Nusa Penida", description: "A 3-hour private snorkeling tour covering Manta Bay, Gamat Bay, and Mangrove Point in Nusa Penida.", price: "From $303", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/manta-point-private-snorkeling-tour-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Manta ray sightings are never guaranteed, but mornings generally offer calmer water and better visibility at Manta Bay.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Manta Point private snorkeling tour worth it in Nusa Penida?", a: "Yes, for travelers wanting a private boat and a real shot at manta ray sightings without crowded group snorkel boats." },
+        ],
+      };
+
     default:
       return null;
   }

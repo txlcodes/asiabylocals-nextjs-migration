@@ -2964,6 +2964,48 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-rice-terrace-unesco-motorcycle-photo-worth-it-ubud":
+      return {
+        title: "Is the Rice Terrace UNESCO Motorcycle Tour Photo Experience Worth It in Ubud?",
+        description: "An honest look at the full-day motorcycle tour through Ubud's UNESCO rice terraces, built around photo stops.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/rice-terrace-unesco-motorcycle-tour-photo-experience-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to actually ride through Bali's UNESCO-listed rice terraces rather than just view them from a car park — full riding gear is included, and the route is built specifically around scenic photo stops rather than just transit between sights.",
+            tourCard: { slug: "rice-terrace-unesco-motorcycle-tour-photo-experience-in-ubud", title: "Rice Terrace UNESCO Motorcycle Tour — Photo Experience in Ubud", description: "A full-day motorcycle tour through Ubud's UNESCO rice terraces built around photo stops.", price: "From $301", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/rice-terrace-unesco-motorcycle-tour-photo-experience-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your license and riding experience level match what the operator requires before booking, since this is a genuine riding tour, not a passenger ride.",
+          },
+        ],
+        faqs: [
+          { q: "Is the rice terrace UNESCO motorcycle photo tour worth it in Ubud?", a: "Yes, for travelers wanting to actually ride through Bali's UNESCO rice terraces with a route built around scenic photo stops." },
+        ],
+      };
+
+    case "is-private-balinese-ceremony-dinner-massage-worth-it-ubud":
+      return {
+        title: "Is the Private Balinese Ceremony with Dinner and Massage Worth It in Ubud?",
+        description: "An honest look at the full-day private Balinese ceremony experience paired with dinner and a massage in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-balinese-ceremony-with-dinner-and-massage-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine spiritual and relaxation combination rather than just sightseeing — participating in a real Balinese ceremony in Tabanan Regency, followed by dinner and a massage, makes for a meaningful, well-rounded full day.",
+            tourCard: { slug: "private-balinese-ceremony-with-dinner-and-massage-in-ubud", title: "Private Balinese Ceremony with Dinner and Massage in Ubud", description: "A full-day private Balinese ceremony experience paired with dinner and a massage in Ubud.", price: "From $265", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-balinese-ceremony-with-dinner-and-massage-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and respectfully for the ceremony portion — a sarong and sash are typically required at Balinese religious sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private Balinese ceremony with dinner and massage worth it in Ubud?", a: "Yes, for travelers wanting a genuine spiritual experience paired with a relaxing dinner and massage in one full day." },
+        ],
+      };
+
     default:
       return null;
   }

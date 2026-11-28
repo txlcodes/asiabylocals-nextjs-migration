@@ -3186,6 +3186,7 @@ export const UBUD_INFO_SLUGS = [
   'is-sangeh-monkey-forest-waterfall-atv-worth-it-ubud',
   'is-leather-wallet-craft-experience-worth-it-ubud', 'is-spiritual-healing-session-worth-it-ubud',
   'is-cow-feeding-harvest-cooking-worth-it-ubud', 'is-aura-chakras-purification-worth-it-ubud',
+  'is-rice-terrace-unesco-motorcycle-photo-worth-it-ubud', 'is-private-balinese-ceremony-dinner-massage-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [
@@ -3216,7 +3217,7 @@ export const CANGGU_INFO_SLUGS = [
   'is-charm-bar-workshop-worth-it-canggu', 'is-coastal-snorkeling-worth-it-canggu',
   'is-bbq-party-salt-restaurant-worth-it-canggu', 'is-tantra-energy-meditation-worth-it-canggu',
   'is-baluran-national-park-jeep-worth-it-canggu', 'is-sanur-beach-horse-riding-worth-it-canggu',
-  'is-neon-painting-worth-it-canggu',
+  'is-neon-painting-worth-it-canggu', 'is-guided-motorcycle-night-ride-worth-it-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
@@ -3279,6 +3280,7 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'is-blapoeh-sunrise-highlights-worth-it-nusa-penida', 'is-reverse-tour-land-first-snorkel-later-worth-it-nusa-penida',
   'is-sacred-peaks-eternal-blooms-worth-it-nusa-penida', 'is-lembongan-mangrove-buggy-worth-it-nusa-penida',
   'is-ceningan-bridge-tour-worth-it-nusa-penida', 'is-turtle-conservation-quiet-snorkel-worth-it-nusa-penida',
+  'is-manta-point-private-snorkeling-worth-it-nusa-penida',
 ];
 
 export const DA_NANG_INFO_SLUGS = [

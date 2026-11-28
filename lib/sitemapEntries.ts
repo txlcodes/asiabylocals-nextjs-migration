@@ -2975,6 +2975,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sangeh-monkey-forest-waterfall-atv-worth-it-ubud',
     'is-leather-wallet-craft-experience-worth-it-ubud', 'is-spiritual-healing-session-worth-it-ubud',
     'is-cow-feeding-harvest-cooking-worth-it-ubud', 'is-aura-chakras-purification-worth-it-ubud',
+    'is-rice-terrace-unesco-motorcycle-photo-worth-it-ubud', 'is-private-balinese-ceremony-dinner-massage-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
@@ -3007,7 +3008,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-charm-bar-workshop-worth-it-canggu', 'is-coastal-snorkeling-worth-it-canggu',
     'is-bbq-party-salt-restaurant-worth-it-canggu', 'is-tantra-energy-meditation-worth-it-canggu',
     'is-baluran-national-park-jeep-worth-it-canggu', 'is-sanur-beach-horse-riding-worth-it-canggu',
-    'is-neon-painting-worth-it-canggu',
+    'is-neon-painting-worth-it-canggu', 'is-guided-motorcycle-night-ride-worth-it-canggu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/canggu/${slug}`,
     lastModified: new Date(),
@@ -3077,6 +3078,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-blapoeh-sunrise-highlights-worth-it-nusa-penida', 'is-reverse-tour-land-first-snorkel-later-worth-it-nusa-penida',
     'is-sacred-peaks-eternal-blooms-worth-it-nusa-penida', 'is-lembongan-mangrove-buggy-worth-it-nusa-penida',
     'is-ceningan-bridge-tour-worth-it-nusa-penida', 'is-turtle-conservation-quiet-snorkel-worth-it-nusa-penida',
+    'is-manta-point-private-snorkeling-worth-it-nusa-penida',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
     lastModified: new Date(),
