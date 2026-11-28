@@ -1506,6 +1506,106 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tree-house-stay-safari-worth-it-sigiriya":
+      return {
+        title: "Is the Sigiriya Tree House Stay with Safari and Hikes Worth It?",
+        description: "An honest look at the 2-3 day Sigiriya tree house stay combining accommodation, safari, and hikes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1478070/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sleeping in a genuine tree house gives a memorable accommodation experience in its own right, and bundling it with safari and hiking over 2-3 days makes this worth it for travelers wanting their stay itself to be part of the adventure rather than just a place to sleep.",
+            tourCard: { slug: "sigiriya-tree-house-stay-safari-hikes-2-3-days", title: "Sigiriya: Tree House Stay, Safari & Hikes (2-3 Days)", description: "A 2-3 day package combining a tree house stay with safari and hikes near Sigiriya.", price: "From $366", duration: "2-3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1478070/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack for genuinely basic jungle-adjacent accommodation — a tree house trades hotel comforts for atmosphere and immersion." },
+        ],
+        faqs: [
+          { q: "Is the Sigiriya tree house stay with safari and hikes worth it?", a: "Yes, for travelers wanting their accommodation itself to be part of the adventure, rather than just a place to sleep between activities." }
+        ],
+      };
+
+    case "is-kantale-lake-kayaking-worth-it-sigiriya":
+      return {
+        title: "Is the Kantale Lake Kayaking and Safari Tour Worth It?",
+        description: "An honest look at the Trincomalee to Sigiriya route combining Kantale Lake kayaking with a safari.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1430707/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kayaking Kantale Lake gives a genuinely peaceful, active way to see the water and surrounding scenery before the safari portion, worth it for travelers wanting a mix of paddling and wildlife rather than a day spent entirely in a jeep.",
+            tourCard: { slug: "trincomalee-to-sigiriya-kantale-lake-kayaking", title: "Trincomalee to Sigiriya: Kantale Lake Kayaking & Safari Tour", description: "A tour combining Kantale Lake kayaking with a safari between Trincomalee and Sigiriya.", price: "From $336", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1430707/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Apply sun protection before the kayaking portion specifically, since there's genuinely little shade out on open water." },
+        ],
+        faqs: [
+          { q: "Is the Kantale Lake kayaking and safari tour worth it?", a: "Yes, for travelers wanting a genuine mix of active paddling and wildlife viewing, rather than a day spent entirely in a safari jeep." }
+        ],
+      };
+
+    case "is-wasgamuwa-safari-worth-it-sigiriya":
+      return {
+        title: "Is the Wasgamuwa National Park Safari Worth It from Sigiriya?",
+        description: "An honest look at the Wasgamuwa National Park safari, a less-visited wildlife park alternative to Sigiriya's busier safari destinations.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1138143/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wasgamuwa genuinely sees far fewer safari jeeps than Minneriya or Kaudulla, giving a quieter wildlife experience with real elephant populations, worth it for travelers wanting a less crowded safari alternative.",
+            tourCard: { slug: "from-sigiriya-wasgamuwa-national-park-safari", title: "From Sigiriya: Wasgamuwa National Park Safari Adventure", description: "A safari adventure at Wasgamuwa National Park from Sigiriya.", price: "From $221", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1138143/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuinely rougher roads into the park than the more developed Minneriya or Kaudulla access routes." },
+        ],
+        faqs: [
+          { q: "Is the Wasgamuwa National Park safari worth it from Sigiriya?", a: "Yes, for travelers wanting a genuinely quieter wildlife experience with real elephant populations, away from the busier safari parks." }
+        ],
+      };
+
+    case "is-elahera-gem-mining-worth-it-sigiriya":
+      return {
+        title: "Is the Elahera Gem Mining and Moragahakanda Tour Worth It from Sigiriya?",
+        description: "An honest look at the Elahera gem mining and Moragahakanda tour, a look at Sri Lanka's gem industry away from the cultural triangle's temples.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1228455/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives genuine access to an active gem mining operation plus the Moragahakanda reservoir, a real change of pace from the cultural triangle's temples and rock fortresses, worth it for travelers curious about Sri Lanka's gem industry specifically.",
+            tourCard: { slug: "sigiriya-elahera-gem-mining-and-moragahakanda-tour", title: "Sigiriya: Elahera Gem Mining and Moragahakanda Tour", description: "A tour of Elahera's gem mining operation and the Moragahakanda reservoir from Sigiriya.", price: "From $212", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1228455/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear shoes you don't mind getting dusty, since this genuinely involves walking through an active mining site." },
+        ],
+        faqs: [
+          { q: "Is the Elahera gem mining and Moragahakanda tour worth it from Sigiriya?", a: "Yes, for travelers genuinely curious about Sri Lanka's gem industry, a real change of pace from the cultural triangle's temples." }
+        ],
+      };
+
+    case "is-night-jeep-safari-wildcat-worth-it-sigiriya":
+      return {
+        title: "Is the Night Jeep Safari for Wild Cat Spotting Worth It from Sigiriya?",
+        description: "An honest look at the night jeep safari targeting wild cats, a nocturnal wildlife alternative to Sigiriya's standard daytime safaris.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1148521/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nocturnal wildlife like wild cats are genuinely active mostly after dark, so a night safari gives real odds of sightings that daytime jeep tours simply can't offer, worth it for travelers specifically interested in nocturnal species rather than the usual elephant sightings.",
+            tourCard: { slug: "night-jeep-safari-wild-cat-spotting-adventure", title: "Night Jeep Safari: Wild Cat Spotting Adventure from Sigiriya", description: "A night jeep safari focused on spotting wild cats near Sigiriya.", price: "From $171", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1148521/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring warm layers — desert and jungle nights genuinely cool down significantly compared to daytime safari temperatures." },
+        ],
+        faqs: [
+          { q: "Is the night jeep safari for wild cat spotting worth it from Sigiriya?", a: "Yes, for travelers specifically interested in nocturnal species, with real sighting odds that daytime safaris can't offer." }
+        ],
+      };
+
     default:
       return null;
   }

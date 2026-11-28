@@ -2339,6 +2339,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sigiriya-trinco-village-kayak-cycling-worth-it', 'is-polonnaruwa-cycling-lake-lunch-worth-it-sigiriya',
     'is-northern-sri-lanka-6day-jaffna-kalpitiya-worth-it-sigiriya', 'is-2day-sigiriya-trinco-arugam-worth-it-sigiriya',
     'is-3day-sigiriya-village-elephant-safari-worth-it-sigiriya', 'is-world-heritage-sigiriya-jeep-safari-worth-it-sigiriya',
+    'is-tree-house-stay-safari-worth-it-sigiriya', 'is-kantale-lake-kayaking-worth-it-sigiriya',
+    'is-wasgamuwa-safari-worth-it-sigiriya', 'is-elahera-gem-mining-worth-it-sigiriya',
+    'is-night-jeep-safari-wildcat-worth-it-sigiriya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/sigiriya/${slug}`,
     lastModified: new Date(),
