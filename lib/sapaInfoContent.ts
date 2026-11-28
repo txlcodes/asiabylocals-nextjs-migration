@@ -1336,6 +1336,90 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-red-dao-herbal-bath-worth-it-sapa":
+      return {
+        title: "Is the Sapa Mountain Views and Red Dao Herbal Bath Worth It?",
+        description: "An honest look at Sapa's mountain viewpoint experience combined with a traditional Red Dao herbal bath at a local home.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine rest after trekking combined with authentic local culture — this pairs mountain viewpoints with a traditional Red Dao herbal bath at an actual local home, a real wellness tradition specific to the region's ethnic minority groups.",
+            tourCard: { slug: "mountain-views-and-red-dao-herbal-bath-at-a-local-home-in-sapa", title: "Mountain Views and Red Dao Herbal Bath at a Local Home in Sapa", description: "A mountain viewpoint experience combined with a traditional Red Dao herbal bath at a local home in Sapa.", price: "From $220", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The herbal bath works especially well after a day of trekking, when your legs will genuinely appreciate the soak.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Red Dao herbal bath worth it in Sapa?", a: "Yes, for travelers wanting a genuine local wellness tradition and rest, especially after a day of trekking." },
+        ],
+      };
+
+    case "is-hmong-beewax-drawing-herbal-bath-worth-it-sapa":
+      return {
+        title: "Is the Sapa Hmong Bee-Wax Drawing and Ta Phin Herbal Bath Experience Worth It?",
+        description: "An honest look at Sapa's hands-on Hmong bee-wax drawing workshop paired with a Ta Phin herbal bath.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine hands-on craft lesson alongside relaxation — this teaches traditional Hmong bee-wax batik drawing techniques, then finishes with a Ta Phin herbal bath, combining culture and wellness in one half-day.",
+            tourCard: { slug: "hmong-bee-wax-drawing-and-ta-phin-herbal-bath-experience-in-sapa", title: "Hmong Bee-Wax Drawing and Ta Phin Herbal Bath Experience in Sapa", description: "A Hmong bee-wax drawing workshop combined with a Ta Phin herbal bath in Sapa.", price: "From $156", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep your finished bee-wax piece as a distinctive, handmade souvenir rather than a typical shop-bought item.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hmong bee-wax drawing and herbal bath experience worth it in Sapa?", a: "Yes, for travelers wanting a genuine hands-on traditional craft lesson combined with relaxation in one half-day." },
+        ],
+      };
+
+    case "is-senior-car-tour-worth-it-sapa":
+      return {
+        title: "Is the Sapa Private Car Tour for Seniors Worth It?",
+        description: "An honest look at Sapa's private car tour designed specifically for senior travelers, covering Cat Cat, Moana, and Lao Chai.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for older travelers who want to see Sapa's highlights without the demanding trekking most tours require — this private car tour covers Cat Cat, Moana, and Lao Chai at a gentler pace suited to limited mobility.",
+            tourCard: { slug: "private-sapa-car-tour-for-seniors-cat-cat-moana-and-lao-chai-sapa", title: "Private Sapa Car Tour for Seniors: Cat Cat, Moana and Lao Chai (Sapa)", description: "A private car tour of Sapa designed for senior travelers, covering Cat Cat, Moana, and Lao Chai.", price: "From $129", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any specific mobility needs when booking so the driver can plan stops and walking distances accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private car tour for seniors worth it in Sapa?", a: "Yes, for older travelers wanting to see Sapa's highlights at a gentler pace without demanding treks." },
+        ],
+      };
+
+    case "is-open-air-jeep-off-beaten-path-worth-it-sapa":
+      return {
+        title: "Is the Sapa Open Air Jeep Off the Beaten Path Tour Worth It?",
+        description: "An honest look at Sapa's open-air jeep tour venturing off the beaten path and backroads.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuinely remote backroads rather than the main tourist viewpoints — this open-air jeep tour gets you onto less-traveled routes, with the open design giving unobstructed views the whole way.",
+            tourCard: { slug: "sapa-open-air-jeep-full-days-tour-get-off-the-beate-path-by-local-operator", title: "Sapa open Air Jeep Full Days Tour Get Off The Beate Path by Local Operator", description: "A full-day open-air jeep tour exploring Sapa's backroads off the beaten path.", price: "From $329", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress warmly and bring sun protection — an open-air jeep means direct exposure to the elements throughout the ride.",
+          },
+        ],
+        faqs: [
+          { q: "Is the open-air jeep off-the-beaten-path tour worth it in Sapa?", a: "Yes, for travelers wanting genuinely remote backroads and unobstructed views beyond Sapa's main viewpoints." },
+        ],
+      };
+
     default:
       return null;
   }

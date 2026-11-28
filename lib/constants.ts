@@ -2976,6 +2976,8 @@ export const SAPA_INFO_SLUGS = [
   'is-golf-experience-worth-it-sapa', 'is-lai-chau-motor-tour-worth-it-sapa',
   'is-bac-ha-ban-phung-motorbike-worth-it-sapa', 'is-mu-cang-chai-loop-motorbike-worth-it-sapa',
   'is-lonely-tree-secret-cave-worth-it-sapa',
+  'is-red-dao-herbal-bath-worth-it-sapa', 'is-hmong-beewax-drawing-herbal-bath-worth-it-sapa',
+  'is-senior-car-tour-worth-it-sapa', 'is-open-air-jeep-off-beaten-path-worth-it-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
