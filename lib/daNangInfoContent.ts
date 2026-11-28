@@ -1292,6 +1292,90 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-waterfall-sliding-food-tour-worth-it-da-nang":
+      return {
+        title: "Is the Da Nang Food Tour and Waterfall Sliding Adventure Worth It?",
+        description: "An honest look at Da Nang's food tour combined with a waterfall sliding adventure.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want an active adventure element alongside your food stops — sliding down natural waterfalls adds genuine adrenaline to what's usually a purely culinary activity, a distinctive combination in Da Nang.",
+            tourCard: { slug: "da-nang-food-tour-and-waterfall-sliding-adventure-by-local-operator", title: "Da Nang Food Tour and Waterfall Sliding Adventure by Local Operator", description: "A food tour combined with a waterfall sliding adventure in Da Nang.", price: "From $187", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit and quick-dry clothes for the waterfall portion, and save the heavier eating for after the sliding activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the food tour and waterfall sliding adventure worth it in Da Nang?", a: "Yes, for travelers wanting genuine adrenaline combined with food stops, rather than a purely culinary day." },
+        ],
+      };
+
+    case "is-atv-quad-massage-resort-worth-it-da-nang":
+      return {
+        title: "Is the Da Nang ATV Quad Adventure and Massage at a 4-Star Resort Worth It?",
+        description: "An honest look at Da Nang's ATV quad adventure paired with a massage at a 4-star resort.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want the adrenaline of an ATV ride balanced by genuine relaxation afterward — this pairs off-road quad riding with a resort-quality massage, giving both an active and recovery element in one booking.",
+            tourCard: { slug: "atv-quad-adventure-and-massage-at-a-4-star-resort-in-da-nang", title: "ATV Quad Adventure and Massage at a 4-Star Resort in Da Nang", description: "An ATV quad adventure paired with a massage at a 4-star resort in Da Nang.", price: "From $153", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the massage for right after the ATV ride, when your muscles will genuinely benefit most from it.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ATV quad adventure and resort massage worth it in Da Nang?", a: "Yes, for travelers wanting both an adrenaline activity and genuine relaxation balanced into one booking." },
+        ],
+      };
+
+    case "is-pho-local-girl-cooking-class-worth-it-da-nang":
+      return {
+        title: "Is the Da Nang Traditional Cooking Class and Pho with a Local Girl Worth It?",
+        description: "An honest look at Da Nang's traditional cooking class learning to make pho with a local host.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to learn Vietnam's signature dish properly rather than just eat it — this hands-on class teaches you to make genuine pho from scratch with a local host, going deeper than a standard market-and-cook class.",
+            tourCard: { slug: "traditional-cooking-class-and-pho-with-local-girl-in-da-nang", title: "Traditional Cooking Class and Pho with Local Girl in Da Nang", description: "A traditional cooking class learning to make pho with a local host in Da Nang.", price: "From $88", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pho's broth takes real time to develop properly, so expect a genuinely hands-on, multi-step cooking process rather than a quick assembly class.",
+          },
+        ],
+        faqs: [
+          { q: "Is the pho cooking class with a local host worth it in Da Nang?", a: "Yes, for travelers wanting to genuinely learn Vietnam's signature dish from scratch, rather than just eating it." },
+        ],
+      };
+
+    case "is-cyclo-japanese-guide-food-worth-it-da-nang":
+      return {
+        title: "Is the Da Nang City Tour by Cyclo with Michelin Food and Japanese Guide Worth It?",
+        description: "An honest look at Da Nang's cyclo city tour with Michelin-recommended food stops and a Japanese-speaking guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, specifically for Japanese-speaking travelers who want a relaxed, old-fashioned way to see the city — riding by cyclo (pedal rickshaw) rather than walking or driving, with Michelin-recommended food stops and a guide explaining everything in Japanese.",
+            tourCard: { slug: "da-nang-city-tour-by-cyclo-michelin-food-and-japanese-guide-by-local-operator", title: "Da Nang City Tour by Cyclo Michelin Food and Japanese Guide by Local Operator", description: "A cyclo city tour in Da Nang with Michelin-recommended food stops and a Japanese-speaking guide.", price: "From $112", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Cyclo rides are slower-paced than a car or scooter tour, so this suits travelers who want to take in the city at a relaxed pace rather than cover maximum ground.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cyclo tour with Michelin food and a Japanese guide worth it in Da Nang?", a: "Yes, for Japanese-speaking travelers wanting a relaxed, old-fashioned city tour with quality food stops and no language barrier." },
+        ],
+      };
+
     default:
       return null;
   }
