@@ -766,6 +766,7 @@ export const LUANG_PRABANG_INFO_SLUGS: string[] = [
   'is-xiengman-baci-blessing-tour-worth-it-luang-prabang', 'is-hidden-village-walk-crafts-worth-it-luang-prabang',
   'is-sunrise-market-food-experience-worth-it-luang-prabang', 'is-mountain-bike-tour-worth-it-luang-prabang',
   'is-hidden-temples-sacred-cave-hike-worth-it-luang-prabang', 'is-heritage-dinner-cruise-show-worth-it-luang-prabang',
+  'is-village-farm-experience-worth-it-luang-prabang', 'is-night-market-food-tour-bbq-worth-it-luang-prabang',
 ];
 
 // Saudi Arabia launched 2026-11-19 with 289 live tours and zero authority pages.
@@ -857,6 +858,7 @@ export const VANG_VIENG_INFO_SLUGS: string[] = [
   'is-vang-vieng-safe', 'vang-vieng-tubing-safety-guide',
   'vang-vieng-food-guide', 'vang-vieng-nightlife-guide',
   'is-kayaking-zipline-blue-lagoon-worth-it-vang-vieng',
+  'is-na-duang-village-cultural-natural-worth-it-vang-vieng',
 ];
 
 // Kazakhstan launched 2026-11-19 with 209 live tours and zero authority pages.

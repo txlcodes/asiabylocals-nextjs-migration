@@ -1705,6 +1705,48 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-village-farm-experience-worth-it-luang-prabang":
+            return {
+                title: "Is the Luang Prabang Lao Village & Farm Experience Day Worth It?",
+                description: "An honest look at the full-day authentic Lao village and hill farm experience from Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec5399ddf7a42067deb6443f5f77dbe3d2636a8227aaae856903fc027da046a7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine rural Laos beyond temples and waterfalls — spending real time on a local hill village farm gives a hands-on look at everyday agricultural life that most Luang Prabang itineraries skip entirely.", tourCard: { slug: "luang-prabang-authentic-guided-tour", title: "Luang Prabang: Authentic Lao Village & Farm Experience Day", description: "A full-day authentic Lao village and hill farm experience from Luang Prabang.", price: "From $260", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec5399ddf7a42067deb6443f5f77dbe3d2636a8227aaae856903fc027da046a7.jpg" } },
+                    { title: "Practical Tips", content: "Wear clothes and shoes you don't mind getting dirty, since this is a working farm visit rather than a polished cultural show." }
+                ],
+                faqs: [
+                    { q: "Is the Lao village and farm experience worth it in Luang Prabang?", a: "Yes, for travelers wanting a genuine, hands-on look at everyday rural Lao farm life beyond temples and waterfalls." }
+                ],
+            };
+
+        case "is-night-market-food-tour-bbq-worth-it-luang-prabang":
+            return {
+                title: "Is the Luang Prabang Night Market Private Food Tour and BBQ Dinner Worth It?",
+                description: "An honest look at the half-day private night market food tour with BBQ dinner in Luang Prabang.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92f1bbd207a6baa76af967f7f9a63884a778013089c9af79765e922e698e67ee.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a guided introduction to the Night Market's food street rather than wandering it blind — having a guide point out specific stalls and finishing with a proper BBQ dinner makes for a more satisfying evening than browsing alone.", tourCard: { slug: "market-night-evening-tour", title: "Luang Prabang: Night Market Private Food Tour and BBQ Dinner", description: "A half-day private night market food tour with BBQ dinner in Luang Prabang.", price: "From $268", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/92f1bbd207a6baa76af967f7f9a63884a778013089c9af79765e922e698e67ee.jpg" } },
+                    { title: "Practical Tips", content: "Pace yourself at the food stalls — the BBQ dinner that follows is a genuinely full meal on its own." }
+                ],
+                faqs: [
+                    { q: "Is the night market food tour and BBQ dinner worth it in Luang Prabang?", a: "Yes, for travelers wanting a guided introduction to the Night Market's food stalls followed by a proper BBQ dinner." }
+                ],
+            };
+
+        case "is-na-duang-village-cultural-natural-worth-it-vang-vieng":
+            return {
+                title: "Is the Na Duang Village Full-Day Cultural and Natural Experience Worth It in Vang Vieng?",
+                description: "An honest look at the half-day Na Duang Village cultural and natural experience in Vang Vieng.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5c22b8e2f95f224b970213f6bd562156f45d383fbc1bfd92db758a1918eeb06.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quieter, more village-focused alternative to Vang Vieng's adventure-sports circuit — visiting Na Duang Village and the Angel Cave area gives a calmer, more cultural half-day than the usual tubing and ziplining itineraries.", tourCard: { slug: "na-duang-village-full-day-cultural-and-natural", title: "Na Duang Village Full-Day Cultural and Natural Experience", description: "A half-day Na Duang Village cultural and natural experience in Vang Vieng.", price: "From $129", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f5c22b8e2f95f224b970213f6bd562156f45d383fbc1bfd92db758a1918eeb06.png" } },
+                    { title: "Practical Tips", content: "This suits travelers who've already done Vang Vieng's main adventure activities and want a calmer, more cultural day instead." }
+                ],
+                faqs: [
+                    { q: "Is the Na Duang Village cultural and natural experience worth it in Vang Vieng?", a: "Yes, for travelers wanting a quieter, more village-focused alternative to Vang Vieng's adventure-sports circuit." }
+                ],
+            };
+
         default:
             return null;
     }

@@ -1038,6 +1038,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-xiengman-baci-blessing-tour-worth-it-luang-prabang', 'is-hidden-village-walk-crafts-worth-it-luang-prabang',
     'is-sunrise-market-food-experience-worth-it-luang-prabang', 'is-mountain-bike-tour-worth-it-luang-prabang',
     'is-hidden-temples-sacred-cave-hike-worth-it-luang-prabang', 'is-heritage-dinner-cruise-show-worth-it-luang-prabang',
+    'is-village-farm-experience-worth-it-luang-prabang', 'is-night-market-food-tour-bbq-worth-it-luang-prabang',
   ], 'laos', 'luang-prabang');
   const riyadhInfoPages = mapInfoSlugs([
     'best-edge-of-the-world-tour-riyadh', 'best-desert-safari-tour-riyadh',
@@ -1124,6 +1125,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-vang-vieng-safe', 'vang-vieng-tubing-safety-guide',
     'vang-vieng-food-guide', 'vang-vieng-nightlife-guide',
     'is-kayaking-zipline-blue-lagoon-worth-it-vang-vieng',
+    'is-na-duang-village-cultural-natural-worth-it-vang-vieng',
   ], 'laos', 'vang-vieng');
 
   const almatyInfoPages = mapInfoSlugs([
