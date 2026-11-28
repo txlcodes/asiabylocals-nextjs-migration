@@ -2026,6 +2026,48 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-city-tour-lotus-tower-temple-worth-it-colombo":
+      return {
+        title: "Is the Colombo City Tour with Lotus Tower and Temple Entry Worth It?",
+        description: "An honest look at the half-day Colombo city tour including Lotus Tower and temple entry.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1353102/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Colombo's modern skyline landmark paired with genuine cultural sightseeing — Lotus Tower is the tallest structure in South Asia, and pairing it with a temple visit rounds out a city tour that covers both the contemporary and spiritual sides of the capital.",
+            tourCard: { slug: "colombo-city-tour-with-lotus-tower-and-temple", title: "Colombo: City Tour with Lotus Tower and Temple Entry", description: "A half-day Colombo city tour including Lotus Tower and temple entry.", price: "From $507", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1353102/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the Lotus Tower's observation deck hours in advance, since access can vary by day and time.",
+          },
+        ],
+        faqs: [
+          { q: "Is the city tour with Lotus Tower and temple entry worth it in Colombo?", a: "Yes, for travelers wanting both Colombo's modern skyline landmark and genuine temple sightseeing in one tour." },
+        ],
+      };
+
+    case "is-liptons-seat-tea-factory-day-tour-worth-it-colombo":
+      return {
+        title: "Are the Lipton's Seat & Tea Factory Day Tour Worth It from Colombo?",
+        description: "An honest look at the full-day Lipton's Seat and tea factory day tour from Colombo or Negombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1273810/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if sweeping tea country views matter more to you than a quick factory stop — Lipton's Seat in Haputale offers one of Sri Lanka's most celebrated panoramic viewpoints over tea plantations, making this a genuinely scenic full day rather than just an industrial tour.",
+            tourCard: { slug: "colombo-negombo-to-liptons-seat-tea-factory-day", title: "Colombo / Negombo to Lipton's Seat & Tea Factory – Day Tour", description: "A full-day Lipton's Seat and tea factory day tour from Colombo or Negombo.", price: "From $507", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1273810/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a long day given the distance to Haputale, so go in expecting a genuinely full day of driving and scenery rather than a quick half-day outing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lipton's Seat and tea factory day tour worth it from Colombo?", a: "Yes, for travelers wanting one of Sri Lanka's most celebrated tea country viewpoints as part of a full scenic day." },
+        ],
+      };
+
     default:
       return null;
   }

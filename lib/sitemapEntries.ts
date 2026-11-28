@@ -2658,6 +2658,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bawa-trail-heritage-worth-it-colombo', 'is-bentota-paramotor-water-sports-worth-it-colombo',
     'is-kitulgala-life-rescue-worth-it-colombo', 'is-weligama-surfing-galle-fort-worth-it-colombo',
     'is-wilpattu-national-park-day-trip-worth-it-colombo',
+    'is-city-tour-lotus-tower-temple-worth-it-colombo', 'is-liptons-seat-tea-factory-day-tour-worth-it-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),
