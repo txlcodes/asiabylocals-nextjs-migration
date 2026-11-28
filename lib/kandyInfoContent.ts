@@ -1677,6 +1677,86 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-gombaniya-peak-hike-worth-it-kandy":
+      return {
+        title: "Is the Gombaniya Peak Knuckles Range Guided Hike Worth It from Kandy?",
+        description: "An honest look at the Gombaniya Peak guided hike in the Knuckles Range from Kandy.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for hikers wanting another genuinely quiet summit option within the Knuckles Range beyond the more commonly booked routes — Gombaniya Peak sees far less traffic than the main Knuckles trails while still delivering real mountain views.",
+            tourCard: { slug: "from-kandy-gombaniya-peak-knuckles-range-guided", title: "From Kandy: Gombaniya Peak Knuckles range guided hike.", description: "A guided hike to Gombaniya Peak in the Knuckles Range from Kandy.", price: "From $314", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "As with other Knuckles routes, this is a genuinely demanding day hike — confirm fitness expectations with the guide before booking." },
+        ],
+        faqs: [
+          { q: "Is the Gombaniya Peak hike worth it from Kandy?", a: "Yes, for hikers wanting a quieter Knuckles Range summit hike with fewer other trekkers on the trail." }
+        ],
+      };
+
+    case "is-tedo-7-waterfalls-hike-worth-it-kandy":
+      return {
+        title: "Is the Tedo 7 Waterfalls Peak Adventure Worth It from Kandy?",
+        description: "An honest look at the Tedo 7 Waterfalls Peak Adventure in the Knuckles Mountain Range.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if chasing multiple waterfalls in one hike appeals — this route strings together seven separate waterfalls along a single trail in the Knuckles range, a genuinely different structure from the single-peak summit hikes most Knuckles tours offer.",
+            tourCard: { slug: "tedo-7-waterfalls-peak-adventure-knuckles", title: "Tedo 7 Waterfalls Peak Adventure – Knuckles Mountain Range", description: "A guided hike through seven waterfalls in the Knuckles Mountain Range.", price: "From $415", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Trail conditions near waterfalls get slippery, especially in wet season, so proper hiking footwear matters more here than on dry ridge routes." },
+        ],
+        faqs: [
+          { q: "Is the Tedo 7 Waterfalls hike worth it from Kandy?", a: "Yes, for hikers wanting a waterfall-focused route through the Knuckles range rather than a single-summit hike." }
+        ],
+      };
+
+    case "is-kitulgala-abseiling-worth-it-kandy":
+      return {
+        title: "Is the Kandy Kitulgala Abseiling Adventure Worth It?",
+        description: "An honest look at Kandy's Kitulgala abseiling adventure with a Nuwara Eliya drop-off.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if abseiling down a genuine waterfall sounds appealing — Kitulgala is known for white-water rafting, but this tour swaps that for abseiling down its waterfalls, a distinctly different adrenaline activity, with a convenient drop-off in Nuwara Eliya afterward.",
+            tourCard: { slug: "kandy-kitulgala-abseiling-adventure-nuwara-eliya", title: "Kandy: Kitulgala Abseiling Adventure & Nuwara Eliya Drop-off", description: "An abseiling adventure at Kitulgala's waterfalls with a Nuwara Eliya drop-off.", price: "From $314", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Nuwara Eliya drop-off makes this ideal if you're heading into the hill country next rather than returning to Kandy, so plan your route accordingly." },
+        ],
+        faqs: [
+          { q: "Is the Kitulgala abseiling adventure worth it from Kandy?", a: "Yes, for travelers wanting a waterfall abseiling thrill distinct from Kitulgala's more commonly booked white-water rafting." }
+        ],
+      };
+
+    case "is-exclusive-knuckles-camping-worth-it-kandy":
+      return {
+        title: "Is the Exclusive Knuckles Camping Tour Worth It from Kandy?",
+        description: "An honest look at the exclusive overnight camping tour in the Knuckles Mountain Range from Kandy.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to actually sleep in the Knuckles range rather than hike it in a single day — camping overnight means sunrise and sunset views most day-hikers never see, plus a genuinely quieter mountain experience after other visitors leave.",
+            tourCard: { slug: "exclusive-knuckles-camping-tour-from-kandy", title: "Exclusive knuckles Camping Tour from kandy", description: "An overnight camping tour in the Knuckles Mountain Range from Kandy.", price: "From $372", duration: "Overnight", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Nights in the Knuckles range get genuinely cold even though Sri Lanka is tropical, so pack warmer layers than you'd expect to need." },
+        ],
+        faqs: [
+          { q: "Is the exclusive Knuckles camping tour worth it from Kandy?", a: "Yes, for travelers wanting sunrise and sunset views in the Knuckles range and a quieter overnight mountain experience." }
+        ],
+      };
+
     default:
       return null;
   }

@@ -2475,7 +2475,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-3day-mahiyanganaya-wildlife-yala-worth-it-kandy', 'is-9day-ceylon-honeymoon-worth-it-kandy',
     'is-snakehead-fishing-worth-it-kandy', 'is-sembuwatta-hunas-falls-worth-it-kandy',
     'is-hidden-tea-heritage-tuktuk-worth-it-kandy', 'is-mountain-biking-tea-trails-worth-it-kandy',
-    'is-kanawiddagala-yahangala-worth-it-kandy'].map(slug => ({
+    'is-kanawiddagala-yahangala-worth-it-kandy',
+    'is-gombaniya-peak-hike-worth-it-kandy', 'is-tedo-7-waterfalls-hike-worth-it-kandy',
+    'is-kitulgala-abseiling-worth-it-kandy', 'is-exclusive-knuckles-camping-worth-it-kandy'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/kandy/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

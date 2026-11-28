@@ -2291,6 +2291,8 @@ export const KANDY_INFO_SLUGS = [
   'is-snakehead-fishing-worth-it-kandy', 'is-sembuwatta-hunas-falls-worth-it-kandy',
   'is-hidden-tea-heritage-tuktuk-worth-it-kandy', 'is-mountain-biking-tea-trails-worth-it-kandy',
   'is-kanawiddagala-yahangala-worth-it-kandy',
+  'is-gombaniya-peak-hike-worth-it-kandy', 'is-tedo-7-waterfalls-hike-worth-it-kandy',
+  'is-kitulgala-abseiling-worth-it-kandy', 'is-exclusive-knuckles-camping-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.
