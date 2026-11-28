@@ -3649,6 +3649,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-sikles-village-jeep-day-trip-worth-it-pokhara":
+            return {
+                title: "Is the Sikles Village Off-Road Jeep Day Trip Worth It from Pokhara?",
+                description: "An honest look at the full-day off-road jeep day trip to Sikles Village from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a227875139741bdaff9de93e01b8615a2af890b692f08b9cfcb71d826b7d5709.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want Annapurna foothill scenery and an authentic Gurung village without committing to a multi-day trek — the off-road jeep ride itself is part of the appeal, and Sikles is one of the larger traditional Gurung settlements in the region.", tourCard: { slug: "from-pokhara-sikles-village-off-road-jeep-day-trip", title: "From Pokhara: Sikles Village Off-Road Jeep Day Trip", description: "A full-day off-road jeep day trip to Sikles Village from Pokhara.", price: "From $403", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a227875139741bdaff9de93e01b8615a2af890b692f08b9cfcb71d826b7d5709.jpg" } },
+                    { title: "Practical Tips", content: "The jeep road is genuinely rough in places, so this isn't the trip for anyone prone to motion sickness — but it's also exactly what makes Sikles feel far less touristed than closer villages." }
+                ],
+                faqs: [
+                    { q: "Is the Sikles Village jeep day trip worth it from Pokhara?", a: "Yes, for travelers wanting an authentic Gurung village and Annapurna foothill views in a single day without trekking." }
+                ],
+            };
+
+        case "is-enduro-mountain-biking-adventure-worth-it-pokhara":
+            return {
+                title: "Is the Enduro Mountain Biking Adventure with Lunch Worth It in Pokhara?",
+                description: "An honest look at the half-day enduro mountain biking adventure with lunch from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b350548ba27247478d8d016beacecb61126fe68ab914746d5d1906e63dca3355.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers with real mountain biking experience looking for genuine technical trails — enduro riding in the hills above Pokhara offers steep, varied terrain that casual sightseeing tours don't cover, with lunch included.", tourCard: { slug: "pokhara-enduro-mountain-biking-adventure-with", title: "Pokhara: Enduro Mountain Biking Adventure with Lunch", description: "A half-day enduro mountain biking adventure with lunch in the hills above Pokhara.", price: "From $380", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b350548ba27247478d8d016beacecb61126fe68ab914746d5d1906e63dca3355.jpg" } },
+                    { title: "Practical Tips", content: "This is aimed at riders with prior mountain biking experience, not casual pedal-and-sightsee tourists — confirm the trail difficulty matches your skill level before booking." }
+                ],
+                faqs: [
+                    { q: "Is the enduro mountain biking adventure worth it in Pokhara?", a: "Yes, for experienced riders wanting genuine technical trails in the hills above Pokhara, with lunch included." }
+                ],
+            };
+
+        case "is-private-land-cruiser-prado-hire-worth-it-pokhara":
+            return {
+                title: "Is the Private Toyota Land Cruiser Prado Hire with Driver Worth It in Pokhara?",
+                description: "An honest look at hiring a private Toyota Land Cruiser Prado with driver for a full day around Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6145308a1dd9c5d1c7e0d05eff047b80ff41cecf4dd0a5677aa57dda658b276.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want full control over your Pokhara itinerary without driving yourself — a private Land Cruiser Prado with driver lets you set your own pace across viewpoints, lakes, and villages instead of following a fixed group schedule.", tourCard: { slug: "pokhara-private-toyota-land-cruiser-prado-hire", title: "Pokhara: Private Toyota Land Cruiser Prado Hire with Driver", description: "A full-day private Toyota Land Cruiser Prado hire with driver around Pokhara.", price: "From $345", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f6145308a1dd9c5d1c7e0d05eff047b80ff41cecf4dd0a5677aa57dda658b276.jpg" } },
+                    { title: "Practical Tips", content: "Agree on your exact stops and total driving distance with the driver before setting off, since the itinerary is flexible rather than fixed." }
+                ],
+                faqs: [
+                    { q: "Is hiring a private Land Cruiser Prado worth it in Pokhara?", a: "Yes, for travelers who want a flexible, self-paced itinerary around Pokhara rather than a fixed group tour schedule." }
+                ],
+            };
+
+        case "is-paragliding-from-sarangkot-worth-it-pokhara":
+            return {
+                title: "Is Paragliding from Sarangkot Worth It in Pokhara?",
+                description: "An honest look at the classic tandem paragliding flight from Sarangkot over Pokhara Valley.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f105eff8206e6923c55c55b15f9730ee9ebe3abd328ed56a87d67e4f8216183.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes — Sarangkot is Pokhara's signature paragliding launch site for good reason, with reliable thermals and sweeping views over Phewa Lake and the Annapurna range during the short tandem flight.", tourCard: { slug: "pokhara-paragliding-from-sarangkot", title: "Pokhara: Paragliding from Sarangkot", description: "A tandem paragliding flight from Sarangkot over Pokhara Valley.", price: "From $319", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f105eff8206e6923c55c55b15f9730ee9ebe3abd328ed56a87d67e4f8216183.png" } },
+                    { title: "Practical Tips", content: "Flights depend on wind and weather, so build in a buffer day during the main September-to-May paragliding season if clear skies matter to you." }
+                ],
+                faqs: [
+                    { q: "Is paragliding from Sarangkot worth it in Pokhara?", a: "Yes, it's Pokhara's signature paragliding experience, with reliable thermals and views over Phewa Lake and the Annapurna range." }
+                ],
+            };
+
         default:
             return null;
     }

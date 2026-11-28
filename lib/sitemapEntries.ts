@@ -1343,6 +1343,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-muldai-viewpoint-trek-worth-it-pokhara', 'is-ghandruk-ghorepani-jeep-tour-worth-it-pokhara',
     'is-ultralight-flight-worth-it-pokhara', 'is-canyoning-adventure-worth-it-pokhara',
     'is-manakamana-temple-cable-car-worth-it-pokhara', 'is-6-iconic-himalayan-viewpoints-worth-it-pokhara',
+    'is-sikles-village-jeep-day-trip-worth-it-pokhara', 'is-enduro-mountain-biking-adventure-worth-it-pokhara',
+    'is-private-land-cruiser-prado-hire-worth-it-pokhara', 'is-paragliding-from-sarangkot-worth-it-pokhara',
   ], 'nepal', 'pokhara');
 
   const batumiInfoPages = mapInfoSlugs([
