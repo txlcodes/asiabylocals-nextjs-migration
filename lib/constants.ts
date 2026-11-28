@@ -605,6 +605,8 @@ export const YEREVAN_INFO_SLUGS: string[] = [
   'is-soviet-modernism-tour-worth-it-yerevan',
   'is-lavash-masters-dungeon-worth-it-yerevan', 'is-lake-sevan-beer-tasting-worth-it-yerevan',
   'is-khor-virap-angel-canyon-worth-it-yerevan', 'is-yazidi-villages-molokan-tour-worth-it-yerevan',
+  'is-culinary-journey-worth-it-yerevan', 'is-vayots-dzor-areni-wine-route-worth-it-yerevan',
+  'is-mountains-sunset-campfire-tour-worth-it-yerevan', 'is-meghradzor-horse-ride-day-trip-worth-it-yerevan',
 ];
 
 // Jordan launched 2026-11-19 with 507 live tours and zero authority pages.

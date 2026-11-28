@@ -1281,6 +1281,62 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-culinary-journey-worth-it-yerevan":
+            return {
+                title: "Is the One-Day Culinary Journey Worth It from Yerevan?",
+                description: "An honest look at the half-day culinary journey from Yerevan featuring a wine and cheese tasting experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/51e1d7024be55c7d24be8cb72248e2b639d5ea74e46e00f657eb130e0d77dd91.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want Armenian food culture explained properly rather than just eaten — a dedicated culinary journey with wine and cheese tastings gives real context behind the flavors, a step up from grabbing meals on your own without guidance.", tourCard: { slug: "a-one-day-culinary-journey-from-yerevan", title: "A One-Day Culinary Journey from Yerevan", description: "A half-day culinary journey from Yerevan featuring a wine and cheese tasting experience.", price: "From $563", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/51e1d7024be55c7d24be8cb72248e2b639d5ea74e46e00f657eb130e0d77dd91.jpg" } },
+                    { title: "Practical Tips", content: "Pace yourself across the tastings — Armenian wine and cheese portions on these tours tend to add up to a genuinely filling meal." }
+                ],
+                faqs: [
+                    { q: "Is the one-day culinary journey worth it from Yerevan?", a: "Yes, for travelers wanting Armenian food and wine culture properly explained, rather than just eaten without context." }
+                ],
+            };
+
+        case "is-vayots-dzor-areni-wine-route-worth-it-yerevan":
+            return {
+                title: "Is the Vayots Dzor Areni Wine Route Private Tour Worth It from Yerevan?",
+                description: "An honest look at the half-day private tour of the Vayots Dzor Areni wine route from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1fdb60bad5ef816145b151f06fd81c0a73762c3968e567c682c99b6eb3462b9.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want wine tasting paired with genuine historical depth — Armenia claims one of the world's oldest known winemaking sites, and this route combines a WineCube tasting with Khor Virap and Noravank Monastery, giving real cultural context alongside the wine.", tourCard: { slug: "vayots-dzor-areni-wine-route-private-tour", title: "Vayots Dzor Areni Wine Route (Private Tour)", description: "A half-day private tour of the Vayots Dzor Areni wine route, visiting Khor Virap, Momik WineCube, and Noravank Monastery.", price: "From $511", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d1fdb60bad5ef816145b151f06fd81c0a73762c3968e567c682c99b6eb3462b9.png" } },
+                    { title: "Practical Tips", content: "Book a private tour specifically if wine tasting is your priority — it lets you set your own pace at the WineCube rather than rushing with a group." }
+                ],
+                faqs: [
+                    { q: "Is the Vayots Dzor Areni wine route tour worth it from Yerevan?", a: "Yes, for travelers wanting wine tasting paired with genuine historical and monastery sightseeing in one half-day." }
+                ],
+            };
+
+        case "is-mountains-sunset-campfire-tour-worth-it-yerevan":
+            return {
+                title: "Is the Armenia Mountains, Sunset & Campfire Tour Worth It from Yerevan?",
+                description: "An honest look at the full-day tour to the Aragats Alpine State Sanctuary and Aparan Reservoir, ending with a sunset campfire.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/edfe3112509d1f738c942ba3e5b7f8402814a0d1e303ef690e5bbdab3ea5f288.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine alpine scenery with a memorable, unhurried finish — visiting the Aragats Alpine State Sanctuary and Aparan Reservoir before settling in for a sunset campfire gives this day a calmer, more atmospheric close than a typical highlights tour.", tourCard: { slug: "armenia-mountains-sunset-campfire-tour", title: "Armenia: Mountains, Sunset & Campfire Tour", description: "A full-day tour to the Aragats Alpine State Sanctuary and Aparan Reservoir, ending with a sunset campfire.", price: "From $488", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/edfe3112509d1f738c942ba3e5b7f8402814a0d1e303ef690e5bbdab3ea5f288.jpg" } },
+                    { title: "Practical Tips", content: "Bring warm layers for the campfire portion — Armenia's mountain evenings cool down quickly even after a warm day." }
+                ],
+                faqs: [
+                    { q: "Is the mountains, sunset and campfire tour worth it from Yerevan?", a: "Yes, for travelers wanting genuine alpine scenery with a memorable, unhurried sunset campfire finish." }
+                ],
+            };
+
+        case "is-meghradzor-horse-ride-day-trip-worth-it-yerevan":
+            return {
+                title: "Is the Meghradzor Day Trip with Horse Ride Worth It from Yerevan?",
+                description: "An honest look at the half-day Meghradzor day trip from Yerevan featuring a horse ride.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cee884624edb321e2bff8b9c2de43129c78e78f299ec114636753374e60e840c.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quick dose of Armenia's rural mountain scenery without a full-day commitment — Meghradzor's natural beauty paired with a horse ride makes for a genuinely active half-day escape from the city.", tourCard: { slug: "from-yerevan-meghradzor-day-trip-with-horse-ride", title: "From Yerevan: Meghradzor Day Trip with Horse Ride", description: "A half-day Meghradzor day trip from Yerevan featuring a horse ride.", price: "From $416", duration: "5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cee884624edb321e2bff8b9c2de43129c78e78f299ec114636753374e60e840c.png" } },
+                    { title: "Practical Tips", content: "No prior riding experience is typically needed, but confirm with the operator in advance if you have any specific concerns." }
+                ],
+                faqs: [
+                    { q: "Is the Meghradzor day trip with horse ride worth it from Yerevan?", a: "Yes, for travelers wanting a quick, active dose of Armenia's rural mountain scenery in half a day." }
+                ],
+            };
+
         default:
             return null;
     }

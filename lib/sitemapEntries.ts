@@ -867,6 +867,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-soviet-modernism-tour-worth-it-yerevan',
     'is-lavash-masters-dungeon-worth-it-yerevan', 'is-lake-sevan-beer-tasting-worth-it-yerevan',
     'is-khor-virap-angel-canyon-worth-it-yerevan', 'is-yazidi-villages-molokan-tour-worth-it-yerevan',
+    'is-culinary-journey-worth-it-yerevan', 'is-vayots-dzor-areni-wine-route-worth-it-yerevan',
+    'is-mountains-sunset-campfire-tour-worth-it-yerevan', 'is-meghradzor-horse-ride-day-trip-worth-it-yerevan',
   ], 'armenia', 'yerevan');
   const petraInfoPages = mapInfoSlugs([
     'best-petra-day-tour-from-amman', 'best-petra-wadi-rum-2-day-tour',
