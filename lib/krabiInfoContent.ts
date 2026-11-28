@@ -1120,6 +1120,66 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-bannateen-batik-dessert-worth-it-krabi":
+            return {
+                title: "Is the Ban Nateen Village Tour with Batik and Dessert Class Worth It?",
+                description: "An honest look at the Ban Nateen village tour in Krabi, with hands-on batik and dessert-making classes.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want two distinct hands-on crafts in a genuine village setting — this combines a batik fabric-dyeing lesson with a traditional dessert-making class, giving both a visual and edible souvenir from the same visit.",
+                    tourCard: { slug: "ban-nateen-village-tour-with-batik-and-dessert-class-in-krabi", title: "Ban Nateen Village Tour with Batik and Dessert Class in Krabi", description: "A village tour in Krabi with hands-on batik and dessert-making classes.", price: "From $116", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting a little dye on during the batik portion of the day." }
+                ],
+                faqs: [
+                    { q: "Is the Ban Nateen batik and dessert class worth it in Krabi?", a: "Yes, for travelers wanting two distinct hands-on crafts, both a visual and edible souvenir, in a genuine village setting." }
+                ],
+            };
+
+        case "is-kohklang-culture-cycling-worth-it-krabi":
+            return {
+                title: "Is the Half-Day Koh Klang Culture Cycling Tour Worth It?",
+                description: "An honest look at the half-day Koh Klang culture cycling tour from Krabi, with transfer included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for a genuinely local, slower-paced way to see rural Krabi — Koh Klang is a Muslim fishing village largely untouched by tourism, and cycling through it gives real insight into daily life beyond the beach and island circuit.",
+                    tourCard: { slug: "half-day-koh-klang-culture-cycling-tour-with-transfer-in-krabi", title: "Half-Day Koh Klang Culture Cycling Tour with Transfer in Krabi", description: "A half-day cycling tour through Koh Klang village in Krabi, with transfer included.", price: "From $97", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Dress modestly out of respect, since Koh Klang is a traditional Muslim fishing community." }
+                ],
+                faqs: [
+                    { q: "Is the Koh Klang culture cycling tour worth it in Krabi?", a: "Yes, for travelers wanting genuine rural village life, largely untouched by tourism, beyond Krabi's standard beach and island circuit." }
+                ],
+            };
+
+        case "is-beach-horse-ride-worth-it-krabi":
+            return {
+                title: "Is the Krabi Province City Tour with Beach Horse Ride Worth It?",
+                description: "An honest look at Krabi's city tour that includes a 1-hour beach horse ride.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely relaxed beach activity added to standard city sightseeing — this pairs a Krabi city tour with a full hour of horseback riding along the beach, a distinct pace from the province's usual ATV or kayak adventures.",
+                    tourCard: { slug: "krabi-province-city-tour-with-1-hour-beach-horse-ride-by-local-operator", title: "Krabi Province: City Tour with 1-Hour Beach Horse Ride by Local Operator", description: "A Krabi province city tour that includes a 1-hour beach horse ride.", price: "From $126", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Mention your riding experience level in advance so the operator can match you with a suitable horse and pace." }
+                ],
+                faqs: [
+                    { q: "Is the beach horse ride worth it in Krabi?", a: "Yes, for travelers wanting a genuinely relaxed beach activity, a different pace from Krabi's usual ATV or kayak adventures." }
+                ],
+            };
+
+        case "is-jurassic-jungle-kayaking-klongroot-worth-it-krabi":
+            return {
+                title: "Is the Half Day Jurassic Jungle Kayaking Tour at Klong Root Worth It?",
+                description: "An honest look at the half-day Jurassic-themed jungle kayaking tour at Klong Root in Krabi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting genuinely dramatic limestone and jungle scenery while kayaking — Klong Root's towering cliffs and dense jungle give a prehistoric, 'Jurassic' feel that's a real step up from a standard mangrove paddle.",
+                    tourCard: { slug: "half-day-jurassic-jungle-kayaking-tour-at-klong-root-in-krabi", title: "Half Day Jurassic Jungle Kayaking Tour at Klong Root in Krabi", description: "A half-day Jurassic-themed jungle kayaking tour at Klong Root in Krabi.", price: "From $120", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Bring a waterproof case for your phone or camera — the dramatic scenery here is genuinely worth capturing." }
+                ],
+                faqs: [
+                    { q: "Is the Jurassic Jungle kayaking tour at Klong Root worth it in Krabi?", a: "Yes, for travelers wanting genuinely dramatic limestone and jungle scenery, a step up from a standard mangrove kayak paddle." }
+                ],
+            };
+
         default:
             return null;
     }
