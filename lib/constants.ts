@@ -3185,3 +3185,13 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'is-loaloa-dining-show-worth-it-ho-chi-minh-city', 'is-binh-duong-day-tour-worth-it-ho-chi-minh-city',
   'is-chaoshow-dinner-worth-it-ho-chi-minh-city',
 ];
+
+// Jaisalmer (5 live tours) and Udaipur (9 live tours) launched 2026-11-28,
+// sharing one file like Jordan's Petra/Amman/Aqaba split.
+export const JAISALMER_INFO_SLUGS: string[] = [
+  'best-jaisalmer-fort-tour-jaisalmer', 'is-jeep-safari-camel-ride-dinner-worth-it-jaisalmer',
+];
+export const UDAIPUR_INFO_SLUGS: string[] = [
+  'best-udaipur-city-tour-udaipur', 'is-kumbhalgarh-ranakpur-day-trip-worth-it-udaipur',
+  'is-chittorgarh-fort-day-trip-worth-it-udaipur',
+];
