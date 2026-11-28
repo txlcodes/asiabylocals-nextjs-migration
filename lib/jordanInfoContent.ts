@@ -1780,6 +1780,34 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-petra-through-local-eyes-worth-it-petra":
+            return {
+                title: "Is Petra Through Local Eyes: Authentic Day Journey from Amman Worth It?",
+                description: "An honest look at the full-day Petra tour from Amman with all logistics handled, framed as an authentic local-guided journey.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e5a593f445804e7968bfd1a9311bf314a9cc02d9a87b197b3b078bf566409f4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want someone else to handle every logistical detail of a long Petra day from Amman — the full round-trip transfer plus guided time at the site removes the stress of coordinating transport and timing yourself.", tourCard: { slug: "petra-through-local-eyes-authentic-day-journey", title: "Petra Through Local Eyes: Authentic Day Journey from Amman", description: "A full-day Petra tour from Amman with all logistics handled, framed as an authentic local-guided journey.", price: "From $525", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2e5a593f445804e7968bfd1a9311bf314a9cc02d9a87b197b3b078bf566409f4.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day given the Amman-Petra round trip, so bring snacks and water for the drive on top of what you carry inside the site." },
+                ],
+                faqs: [
+                    { q: "Is the Petra Through Local Eyes day journey worth it from Amman?", a: "Yes, for travelers wanting every logistical detail of a long Petra day trip handled for them." },
+                ],
+            };
+
+        case "is-emperors-acoustics-jerash-citadel-worth-it-amman":
+            return {
+                title: "Is 'Emperors & Acoustics': Private Jerash & Amman Citadel Journey Worth It?",
+                description: "An honest look at the full-day private tour pairing Jerash's Roman ruins with the Amman Citadel.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fbbeba87d4a9d42a59799488bfa5b205e9980474276cc607b22667c55cb1c60a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for history and architecture enthusiasts specifically — Jerash's remarkably preserved Roman theater (with genuine acoustic properties) paired with the Amman Citadel's hilltop ruins gives a focused, well-rounded day of ancient history without the usual Dead Sea or desert add-ons.", tourCard: { slug: "emperors-acoustics-private-jerash-amman-citadel", title: "Emperors & Acoustics: Private Jerash & Amman Citadel Journey", description: "A full-day private tour pairing Jerash's Roman ruins with the Amman Citadel.", price: "From $229", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fbbeba87d4a9d42a59799488bfa5b205e9980474276cc607b22667c55cb1c60a.jpg" } },
+                    { title: "Practical Tips", content: "Test the famous acoustics at Jerash's theater yourself — standing on the center stage marker lets you hear how sound carries without any amplification." },
+                ],
+                faqs: [
+                    { q: "Is the Jerash and Amman Citadel tour worth it?", a: "Yes, for history and architecture enthusiasts wanting a focused day of Roman and ancient ruins without extra desert or Dead Sea add-ons." },
+                ],
+            };
+
         default:
             return null;
     }

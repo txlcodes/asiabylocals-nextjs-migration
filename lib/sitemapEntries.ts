@@ -895,6 +895,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sand-art-experience-worth-it-petra',
     'is-petra-lots-cave-dead-sea-tour-worth-it-amman', 'is-petra-pink-salt-lake-dead-sea-tour-worth-it-amman',
     'is-sharm-el-sheikh-petra-ferry-tour-worth-it', 'is-petra-spanish-speaking-guide-tour-worth-it',
+    'is-petra-through-local-eyes-worth-it-petra',
   ], 'jordan', 'petra');
   const ammanInfoPages = mapInfoSlugs([
     'best-dead-sea-day-trip-tour-amman', 'best-jerash-day-trip-tour-amman',
@@ -916,6 +917,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-hammam-workshop-worth-it-amman', 'is-kurinuki-pottery-workshop-worth-it-amman',
     'is-shaumari-wildlife-worth-it-amman', 'is-cooking-pottery-city-tour-worth-it-amman',
     'is-salt-iraq-al-amir-worth-it-amman',
+    'is-emperors-acoustics-jerash-citadel-worth-it-amman',
   ], 'jordan', 'amman');
   const aqabaInfoPages = mapInfoSlugs([
     'best-wadi-rum-half-day-jeep-tour-aqaba', 'best-wadi-rum-full-day-jeep-tour-aqaba',
