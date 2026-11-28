@@ -3111,6 +3111,9 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'is-kerta-gosa-tenganan-virgin-beach-tour-worth-it-nusa-penida', 'is-historic-murals-fairy-garden-bat-cave-tour-worth-it-nusa-penida',
   'is-7day-guided-tour-accommodation-worth-it-nusa-penida', 'is-4day-private-tour-package-worth-it-nusa-penida',
   'is-sanur-penida-open-water-course-worth-it-nusa-penida', 'is-west-nusa-penida-photographer-tour-worth-it-nusa-penida',
+  'is-holy-cave-temple-purification-worth-it-nusa-penida', 'is-cultural-photography-dance-tour-worth-it-nusa-penida',
+  'is-mangrove-adventure-worth-it-nusa-penida', 'is-santara-villas-beach-dinner-worth-it-nusa-penida',
+  'is-manta-point-dive-ecology-worth-it-nusa-penida',
 ];
 
 export const DA_NANG_INFO_SLUGS = [

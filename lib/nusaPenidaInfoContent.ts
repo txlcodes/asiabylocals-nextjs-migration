@@ -1344,6 +1344,111 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-holy-cave-temple-purification-worth-it-nusa-penida":
+      return {
+        title: "Is the Holy Cave Temple Purification Experience Worth It in Nusa Penida?",
+        description: "An honest look at the Holy Cave Temple purification ceremony experience in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-the-holy-cave-temple-purification/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives genuine access to a real Balinese purification ritual inside a sacred cave temple, worth it for travelers wanting authentic spiritual and cultural depth rather than just the island's famous photo-stop viewpoints.",
+            tourCard: { slug: "nusa-penida-the-holy-cave-temple-purification", title: "Nusa Penida: The Holy Cave Temple Purification", description: "A Balinese purification ceremony experience at a holy cave temple in Nusa Penida.", price: "From $201", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-penida-the-holy-cave-temple-purification/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and approach the ritual with genuine respect — this is a real active religious practice, not a staged tourist show.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Holy Cave Temple purification experience worth it in Nusa Penida?", a: "Yes, for travelers wanting genuinely authentic spiritual and cultural depth, beyond the island's famous photo-stop viewpoints." },
+        ],
+      };
+
+    case "is-cultural-photography-dance-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Cultural Photography Tour with Tradition and Dance Worth It in Nusa Penida?",
+        description: "An honest look at the cultural photography tour combining Balinese tradition and dance in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cultural-photography-tour-tradition-dance-and-balinese-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining traditional Balinese dance and cultural elements with a dedicated photography focus gives genuinely more meaningful images than typical landscape photo stops, worth it for travelers wanting cultural depth alongside their photography.",
+            tourCard: { slug: "cultural-photography-tour-tradition-dance-and-balinese-in-nusa-penida", title: "Cultural Photography Tour, Tradition, Dance and Balinese in Nusa Penida", description: "A cultural photography tour combining Balinese tradition and dance in Nusa Penida.", price: "From $185", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/cultural-photography-tour-tradition-dance-and-balinese-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring or rent traditional Balinese attire if offered — it genuinely adds authenticity to the cultural photos.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cultural photography tour with tradition and dance worth it in Nusa Penida?", a: "Yes, for travelers wanting genuinely meaningful cultural photos, combining traditional dance and Balinese elements rather than just scenic landscapes." },
+        ],
+      };
+
+    case "is-mangrove-adventure-worth-it-nusa-penida":
+      return {
+        title: "Is the Nusa Lembongan Island and Mangrove Adventure Worth It from Nusa Penida?",
+        description: "An honest look at the Nusa Lembongan island and mangrove adventure tour from Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nusa-lembongan-tour-island-and-mangrove-adventure-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Nusa Lembongan's island sights with a mangrove forest exploration gives genuine ecological variety beyond the usual snorkeling and viewpoint circuit, worth it for travelers wanting a mix of nature and island scenery.",
+            tourCard: { slug: "nusa-lembongan-tour-island-and-mangrove-adventure-nusa-penida", title: "Nusa Lembongan Tour: Island and Mangrove Adventure", description: "An island and mangrove forest adventure tour at Nusa Lembongan.", price: "From $184", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/nusa-lembongan-tour-island-and-mangrove-adventure-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring insect repellent — mangrove forests genuinely attract more mosquitoes than the island's open beaches.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nusa Lembongan island and mangrove adventure worth it from Nusa Penida?", a: "Yes, for travelers wanting genuine ecological variety, mixing mangrove forest exploration with island scenery beyond typical snorkeling." },
+        ],
+      };
+
+    case "is-santara-villas-beach-dinner-worth-it-nusa-penida":
+      return {
+        title: "Is the Santara Villas Full-Day Tour with Beach Dinner Worth It in Nusa Penida?",
+        description: "An honest look at the Santara Villas full-day Nusa Penida tour with a beach dinner included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/santara-villas-nusa-penida-full-day-tour-with-beach-dinner-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bundling a full day of island sightseeing with a proper beach dinner gives genuine value and logistics handled in one booking, worth it for travelers wanting their day's activities and evening meal combined without separate arrangements.",
+            tourCard: { slug: "santara-villas-nusa-penida-full-day-tour-with-beach-dinner-nusa-penida", title: "Santara Villas: Nusa Penida Full-Day Tour with Beach Dinner", description: "A full-day Nusa Penida tour with a beach dinner at Santara Villas.", price: "From $283", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/santara-villas-nusa-penida-full-day-tour-with-beach-dinner-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the exact sightseeing stops included, since 'full-day tour' itineraries vary between operators.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Santara Villas full-day tour with beach dinner worth it in Nusa Penida?", a: "Yes, for travelers wanting genuine value and logistics handled in one booking, combining a full day of sightseeing with a proper evening meal." },
+        ],
+      };
+
+    case "is-manta-point-dive-ecology-worth-it-nusa-penida":
+      return {
+        title: "Is the Manta Point Dive and Manta Ecology Experience Worth It in Nusa Penida?",
+        description: "An honest look at the Manta Point dive combined with manta ray ecology education in Nusa Penida.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/manta-point-dive-and-manta-ecology-in-nusa-penida/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a genuine Manta Point dive with real ecology education gives deeper understanding of manta ray behavior and conservation than a standard snorkeling trip, worth it for certified divers with genuine interest in marine biology alongside the sighting itself.",
+            tourCard: { slug: "manta-point-dive-and-manta-ecology-in-nusa-penida", title: "Manta Point Dive and Manta Ecology in Nusa Penida", description: "A dive at Manta Point combined with manta ray ecology education.", price: "From $265", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/manta-point-dive-and-manta-ecology-in-nusa-penida/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your certification level meets the dive requirements before booking, since this is a genuine scuba dive, not a snorkeling trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Manta Point dive and manta ecology experience worth it in Nusa Penida?", a: "Yes, for certified divers with genuine interest in marine biology, offering deeper understanding than a standard snorkeling trip." },
+        ],
+      };
+
     default:
       return null;
   }
