@@ -756,6 +756,27 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lagoon-boat-safari-fruit-tasting-worth-it-negombo":
+      return {
+        title: "Is the Negombo City Tour & Lagoon Boat Safari with Fruit Tasting Worth It?",
+        description: "An honest look at the half-day Negombo city tour and lagoon boat safari with fruit tasting.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1395791/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine variety across city, water, and food in one half-day — pairing a Negombo city tour with a lagoon boat safari and fruit tasting gives real breadth beyond just the dawn fish market and Dutch canal walk most visitors stick to.",
+            tourCard: { slug: "negombo-city-tour-lagoon-boat-safari-with-fruit", title: "Negombo City Tour & Lagoon Boat Safari with Fruit Tasting", description: "A half-day Negombo city tour and lagoon boat safari with fruit tasting.", price: "From $254", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1395791/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite for the fruit tasting portion — tropical fruit varieties on these tours are often ones travelers haven't tried before.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Negombo lagoon boat safari with fruit tasting worth it?", a: "Yes, for travelers wanting genuine variety across city sightseeing, a lagoon boat safari, and local fruit tasting in one half-day." },
+        ],
+      };
+
     default:
       return null;
   }

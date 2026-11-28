@@ -2511,6 +2511,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sunset-kayaking-worth-it-negombo', 'is-local-friend-lagoon-tour-worth-it-negombo',
     'is-anawilundawa-bird-sanctuary-worth-it-negombo', 'is-sinharaja-2day-rainforest-worth-it-negombo',
     'is-4day-ayurveda-wellness-retreat-worth-it-negombo',
+    'is-lagoon-boat-safari-fruit-tasting-worth-it-negombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/negombo/${slug}`,
     lastModified: new Date(),
@@ -2532,6 +2533,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sita-eliya-cave-temple-worth-it-nuwara-eliya', 'is-horse-riding-worth-it-nuwara-eliya',
     'is-horton-plains-strawberry-ambewela-worth-it-nuwara-eliya', 'is-bakers-bend-worth-it-nuwara-eliya',
     'is-adams-peak-summit-bliss-worth-it-nuwara-eliya',
+    'is-tea-plantation-jeep-safari-tea-making-worth-it-nuwara-eliya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/nuwara-eliya/${slug}`,
     lastModified: new Date(),
@@ -2601,6 +2603,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sail-lanka-overnight-cruise-worth-it-mirissa', 'is-booze-cruise-worth-it-mirissa',
     'is-marine-wildlife-photography-worth-it-mirissa', 'is-romantic-sunset-seafood-dinner-worth-it-mirissa',
     'is-night-snorkel-safari-worth-it-mirissa',
+    'is-traditional-fishing-trip-breakfast-worth-it-mirissa',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/mirissa/${slug}`,
     lastModified: new Date(),

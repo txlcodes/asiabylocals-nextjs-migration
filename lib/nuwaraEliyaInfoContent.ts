@@ -742,6 +742,27 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tea-plantation-jeep-safari-tea-making-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Tea Plantation Jeep Safari & Tea Making Experience Worth It in Nuwara Eliya?",
+        description: "An honest look at the full-day jeep safari through Nuwara Eliya's tea plantations with a hands-on tea-making experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1183617/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine hands-on insight rather than just scenic photos — a jeep safari through the tea plantations with 360-degree panoramic views, paired with actually making tea yourself, gives real depth beyond a standard drive-through viewpoint stop.",
+            tourCard: { slug: "nuwara-eliya-tea-plantation-jeep-safari-tea-making", title: "Nuwara Eliya Tea Plantation Jeep Safari & Tea Making", description: "A full-day jeep safari through Nuwara Eliya's tea plantations with a hands-on tea-making experience.", price: "From $457", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1183617/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear layers — the jeep ride through open plantation terrain can get genuinely breezy at Nuwara Eliya's elevation.",
+          },
+        ],
+        faqs: [
+          { q: "Is the tea plantation jeep safari and tea making experience worth it in Nuwara Eliya?", a: "Yes, for travelers wanting genuine hands-on insight into tea production, not just scenic plantation views." }
+        ],
+      };
+
     default:
       return null;
   }

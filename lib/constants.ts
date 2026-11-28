@@ -2347,6 +2347,7 @@ export const NEGOMBO_INFO_SLUGS = [
   'is-sunset-kayaking-worth-it-negombo', 'is-local-friend-lagoon-tour-worth-it-negombo',
   'is-anawilundawa-bird-sanctuary-worth-it-negombo', 'is-sinharaja-2day-rainforest-worth-it-negombo',
   'is-4day-ayurveda-wellness-retreat-worth-it-negombo',
+  'is-lagoon-boat-safari-fruit-tasting-worth-it-negombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/nuwaraEliyaInfoContent.ts.
@@ -2367,6 +2368,7 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
   'is-sita-eliya-cave-temple-worth-it-nuwara-eliya', 'is-horse-riding-worth-it-nuwara-eliya',
   'is-horton-plains-strawberry-ambewela-worth-it-nuwara-eliya', 'is-bakers-bend-worth-it-nuwara-eliya',
   'is-adams-peak-summit-bliss-worth-it-nuwara-eliya',
+  'is-tea-plantation-jeep-safari-tea-making-worth-it-nuwara-eliya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.
@@ -2409,6 +2411,7 @@ export const MIRISSA_INFO_SLUGS = [
   'is-sail-lanka-overnight-cruise-worth-it-mirissa', 'is-booze-cruise-worth-it-mirissa',
   'is-marine-wildlife-photography-worth-it-mirissa', 'is-romantic-sunset-seafood-dinner-worth-it-mirissa',
   'is-night-snorkel-safari-worth-it-mirissa',
+  'is-traditional-fishing-trip-breakfast-worth-it-mirissa',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.

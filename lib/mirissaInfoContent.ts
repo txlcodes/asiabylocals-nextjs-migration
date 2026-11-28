@@ -760,6 +760,27 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-traditional-fishing-trip-breakfast-worth-it-mirissa":
+      return {
+        title: "Is the Traditional Fishing Trip with Breakfast Worth It in Mirissa?",
+        description: "An honest look at the half-day traditional fishing trip with a local fisherman and breakfast in Mirissa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1489150/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine hands-on fishing experience rather than just watching from shore — joining a local fisherman to actually fish gives real insight into traditional Sri Lankan fishing methods, with breakfast afterward rounding out the morning.",
+            tourCard: { slug: "mirissa-traditional-fishing-trip-with-breakfast", title: "Mirissa: Traditional Fishing Trip with Breakfast", description: "A half-day traditional fishing trip with a local fisherman and breakfast in Mirissa.", price: "From $575", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1489150/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a hands-on fishing trip, not a whale watching tour — set expectations accordingly if marine wildlife sightings are your priority.",
+          },
+        ],
+        faqs: [
+          { q: "Is the traditional fishing trip with breakfast worth it in Mirissa?", a: "Yes, for travelers wanting genuine hands-on insight into traditional Sri Lankan fishing methods, not a wildlife-watching tour." },
+        ],
+      };
+
     default:
       return null;
   }
