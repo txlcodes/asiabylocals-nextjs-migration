@@ -2772,6 +2772,9 @@ export const ABU_DHABI_INFO_SLUGS = [
   'is-yas-waterworld-worth-it-abu-dhabi', 'is-private-yacht-formula1-luxury-worth-it-abu-dhabi',
   'is-quad-bike-camel-sandboarding-worth-it-abu-dhabi', 'is-sunrise-serenity-desert-walk-worth-it-abu-dhabi',
   'is-catamaran-island-cruise-worth-it-abu-dhabi', 'is-4day-uae-cultural-journey-worth-it-abu-dhabi',
+  'is-hummer-safari-worth-it-abu-dhabi', 'is-street-food-tastings-worth-it-abu-dhabi',
+  'is-catamaran-corniche-cruise-worth-it-abu-dhabi', 'is-fujairah-turtle-snorkeling-worth-it-abu-dhabi',
+  'is-dune-buggy-adventure-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)

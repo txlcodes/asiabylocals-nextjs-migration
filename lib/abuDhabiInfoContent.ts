@@ -1035,6 +1035,111 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hummer-safari-worth-it-abu-dhabi":
+      return {
+        title: "Is the Hummer Safari Tour Worth It in Abu Dhabi?",
+        description: "An honest look at Abu Dhabi's Hummer safari tour, a desert dune-bashing adventure in a larger, more rugged vehicle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1236178/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A Hummer gives a genuinely more powerful, rugged dune-bashing experience than a standard 4x4 safari vehicle, worth it for travelers specifically wanting the biggest, most capable ride through Abu Dhabi's desert dunes.",
+            tourCard: { slug: "abu-dhabi-hummer-safari-tour", title: "Abu Dhabi Hummer Safari Tour", description: "A desert dune-bashing safari tour in a Hummer in Abu Dhabi.", price: "From $366", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1236178/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you're prone to motion sickness, sit toward the front — dune bashing in any large vehicle involves genuine sharp turns and drops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hummer safari tour worth it in Abu Dhabi?", a: "Yes, for travelers specifically wanting a genuinely more powerful, rugged dune-bashing experience than a standard 4x4 safari." },
+        ],
+      };
+
+    case "is-street-food-tastings-worth-it-abu-dhabi":
+      return {
+        title: "Is the Guided Street Food Tastings Tour Worth It in Abu Dhabi?",
+        description: "An honest look at Abu Dhabi's guided street food tastings tour, a culinary alternative to the city's usual landmark sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1237933/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives genuine access to Abu Dhabi's everyday food scene, which can be hard to find independently in a city dominated by malls and fine dining, worth it for travelers wanting real local flavor beyond the Grand Mosque and Louvre.",
+            tourCard: { slug: "abu-dhabi-guided-street-food-tastings-tour", title: "Abu Dhabi Guided Street Food Tastings Tour", description: "A guided tour of Abu Dhabi's street food scene with multiple tastings.", price: "From $361", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1237933/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry and pace yourself — a guided tastings tour genuinely covers multiple stops, so save room throughout rather than filling up early.",
+          },
+        ],
+        faqs: [
+          { q: "Is the street food tastings tour worth it in Abu Dhabi?", a: "Yes, for travelers wanting genuine access to the city's everyday food scene, a real contrast to its malls and fine-dining reputation." },
+        ],
+      };
+
+    case "is-catamaran-corniche-cruise-worth-it-abu-dhabi":
+      return {
+        title: "Is the Catamaran Corniche Cruise Worth It in Abu Dhabi?",
+        description: "An honest look at the 3-hour catamaran corniche cruise in Abu Dhabi, a relaxed sailing tour along the city's waterfront.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1026530/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sailing the Corniche by catamaran gives a genuinely relaxed, scenic view of Abu Dhabi's skyline from the water, a different pace than the city's usual car-based sightseeing, worth it for travelers wanting a leisurely few hours on the water.",
+            tourCard: { slug: "abu-dhabi-catamaran-corniche-cruise-3hours", title: "Abu Dhabi Catamaran Corniche Cruise - 3 Hours", description: "A 3-hour catamaran cruise along Abu Dhabi's Corniche waterfront.", price: "From $1658", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1026530/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the late afternoon for the most comfortable temperatures and the best light over the skyline for photos.",
+          },
+        ],
+        faqs: [
+          { q: "Is the catamaran Corniche cruise worth it in Abu Dhabi?", a: "Yes, for a genuinely relaxed, scenic way to see the city's skyline from the water, a different pace than typical car-based sightseeing." },
+        ],
+      };
+
+    case "is-fujairah-turtle-snorkeling-worth-it-abu-dhabi":
+      return {
+        title: "Is Snorkeling with Turtles in Fujairah Worth It from Abu Dhabi?",
+        description: "An honest look at the Fujairah turtle snorkeling trip from Abu Dhabi, a marine wildlife day trip to the UAE's east coast.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-609323/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Fujairah's east coast waters genuinely host sea turtles, giving a real wildlife snorkeling experience that Abu Dhabi's own coastline doesn't offer, worth it for travelers wanting a dedicated marine wildlife day trip rather than another desert or city tour.",
+            tourCard: { slug: "from-abu-dhabi-snorkeling-with-turtles-in-fujairah", title: "From Abu Dhabi: Snorkeling with Turtles in Fujairah", description: "A snorkeling day trip to see sea turtles in Fujairah from Abu Dhabi.", price: "From $368", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-609323/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a genuine cross-country day trip to the east coast, so confirm total travel time fits comfortably within your schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is snorkeling with turtles in Fujairah worth it from Abu Dhabi?", a: "Yes, for a genuine marine wildlife experience that Abu Dhabi's own coastline doesn't offer, well worth the cross-country day trip." },
+        ],
+      };
+
+    case "is-dune-buggy-adventure-worth-it-abu-dhabi":
+      return {
+        title: "Is the Morning Dune Buggy Adventure Worth It in Abu Dhabi?",
+        description: "An honest look at Abu Dhabi's morning dune buggy adventure, a self-driven desert thrill in the cooler early hours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-661318/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Driving your own dune buggy gives a genuinely more hands-on adrenaline rush than riding along in a 4x4 or Hummer safari, and the morning timing means cooler temperatures and softer desert light, worth it for travelers wanting to be behind the wheel themselves.",
+            tourCard: { slug: "abu-dhabi-morning-dune-buggy-adventure", title: "Abu Dhabi: Morning Dune Buggy Adventure", description: "A self-driven dune buggy adventure through the desert in the morning.", price: "From $1116", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-661318/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the morning slot specifically — midday desert heat makes this a genuinely more grueling experience later in the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the morning dune buggy adventure worth it in Abu Dhabi?", a: "Yes, for travelers wanting a genuinely more hands-on desert thrill than riding along in a 4x4, with the added benefit of cooler morning conditions." },
+        ],
+      };
+
     default:
       return null;
   }
