@@ -792,6 +792,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-amberd-fortress-alphabet-alley-worth-it-yerevan', 'is-romantic-proposal-tour-worth-it-yerevan',
     'is-kars-ani-3day-worth-it-yerevan', 'is-7day-dental-wellness-vacation-worth-it-yerevan',
     'is-armenia-wine-tour-worth-it-yerevan', 'is-2day-waterfalls-nature-tour-worth-it-yerevan',
+    'is-garni-geghard-teeth-whitening-worth-it-yerevan', 'is-khashlama-mountain-feast-worth-it-yerevan',
+    'is-private-birdwatching-worth-it-yerevan', 'is-aparan-amberd-fortress-worth-it-yerevan',
+    'is-lori-drone-video-worth-it-yerevan',
   ], 'armenia', 'yerevan');
   const petraInfoPages = mapInfoSlugs([
     'best-petra-day-tour-from-amman', 'best-petra-wadi-rum-2-day-tour',

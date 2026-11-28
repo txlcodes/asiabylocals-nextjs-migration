@@ -1085,6 +1085,76 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-garni-geghard-teeth-whitening-worth-it-yerevan":
+            return {
+                title: "Is the Garni & Geghard Tour with Teeth Whitening Worth It from Yerevan?",
+                description: "An honest look at the Garni Temple and Geghard Monastery tour bundled with a teeth whitening session from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ef87d0d06f20f81b5d9feee249ade2fcdf1ad0140411c41267c211da21e64d7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Garni Temple and Geghard Monastery are genuinely worthwhile UNESCO-listed sites on their own, and this tour bundles in a teeth whitening session as an unusual add-on, worth it specifically for travelers who want both the sightseeing and the cosmetic treatment handled in one booking.", tourCard: { slug: "from-yerevan-garni-geghard-tour-with-teeth", title: "From Yerevan: Garni & Geghard Tour with Teeth Whitening", description: "A tour of Garni Temple and Geghard Monastery combined with a teeth whitening session from Yerevan.", price: "From $871", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5ef87d0d06f20f81b5d9feee249ade2fcdf1ad0140411c41267c211da21e64d7.jpg" } },
+                    { title: "Practical Tips", content: "If teeth whitening isn't a priority for you, a standard Garni and Geghard tour without the add-on will genuinely cost less." }
+                ],
+                faqs: [
+                    { q: "Is the Garni and Geghard tour with teeth whitening worth it from Yerevan?", a: "Yes, specifically for travelers wanting both the UNESCO sightseeing and the cosmetic treatment handled together in one booking." }
+                ],
+            };
+
+        case "is-khashlama-mountain-feast-worth-it-yerevan":
+            return {
+                title: "Is the Khashlama in the Mountains Feast Worth It from Yerevan?",
+                description: "An honest look at the Khashlama mountain feast by the fire, a traditional Armenian culinary experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8d59eb0cde33958fd3b73319a3816ff5baa66cd6b918386cfe32a9af06b3757a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Khashlama is a genuine traditional Armenian stew, and eating it fireside in the mountains gives real atmosphere beyond a standard restaurant meal, worth it for travelers wanting an authentic culinary and cultural evening.", tourCard: { slug: "khashlama-in-the-mountains-feast-by-the-fire", title: "Khashlama in the Mountains: Feast by the Fire", description: "A traditional Khashlama feast by the fire in the Armenian mountains.", price: "From $520", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8d59eb0cde33958fd3b73319a3816ff5baa66cd6b918386cfe32a9af06b3757a.jpg" } },
+                    { title: "Practical Tips", content: "Dress warmly — evenings in the mountains genuinely cool down fast, even if Yerevan itself is warm." }
+                ],
+                faqs: [
+                    { q: "Is the Khashlama mountain feast worth it from Yerevan?", a: "Yes, for travelers wanting a genuinely authentic traditional Armenian meal with real fireside atmosphere." }
+                ],
+            };
+
+        case "is-private-birdwatching-worth-it-yerevan":
+            return {
+                title: "Is the Private Birdwatching Experience Worth It in Yerevan?",
+                description: "An honest look at Yerevan's private birdwatching experience, a niche nature activity for wildlife enthusiasts.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a6475b19ed5e3d7db3e20af793aa6de12b0bc5b412e8b8b79d198f19915965f7.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Armenia's varied landscapes genuinely support a real diversity of bird species, and a private, dedicated birdwatching guide gives a far better experience than trying to spot wildlife during a general sightseeing tour.", tourCard: { slug: "yerevan-private-birdwatching-experience", title: "Yerevan: Private Birdwatching Experience", description: "A private birdwatching experience near Yerevan.", price: "From $507", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a6475b19ed5e3d7db3e20af793aa6de12b0bc5b412e8b8b79d198f19915965f7.jpg" } },
+                    { title: "Practical Tips", content: "Bring your own binoculars if you have a preferred pair, and go in the early morning when bird activity is genuinely highest." }
+                ],
+                faqs: [
+                    { q: "Is the private birdwatching experience worth it in Yerevan?", a: "Yes, for genuine wildlife enthusiasts wanting a dedicated guide, far better than spotting birds incidentally during general sightseeing." }
+                ],
+            };
+
+        case "is-aparan-amberd-fortress-worth-it-yerevan":
+            return {
+                title: "Is the Aparan Reservoir and Amberd Fortress Tour Worth It from Yerevan?",
+                description: "An honest look at the Aparan Reservoir and Amberd Fortress tour, combining a scenic lake with a medieval mountain fortress.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/acbb79f41430ce6c68ad5b4618c14bc44a82efbf0d009bb50f63a8314de7f34e.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Amberd Fortress's dramatic mountainside setting and the Aparan Reservoir's scenic water views give a genuine combination of history and landscape that's distinct from Yerevan's usual Garni and Geghard circuit.", tourCard: { slug: "from-yerevan-aparan-reservoir-and-amberd-fortress", title: "From Yerevan: Aparan Reservoir and Amberd Fortress Tour", description: "A tour of the Aparan Reservoir and Amberd Fortress from Yerevan.", price: "From $546", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/acbb79f41430ce6c68ad5b4618c14bc44a82efbf0d009bb50f63a8314de7f34e.jpg" } },
+                    { title: "Practical Tips", content: "Visit the fortress section first while energy is highest — the mountainside terrain involves genuine walking over uneven ground." }
+                ],
+                faqs: [
+                    { q: "Is the Aparan Reservoir and Amberd Fortress tour worth it from Yerevan?", a: "Yes, for a genuine combination of history and mountain landscape, distinct from the usual Garni and Geghard circuit." }
+                ],
+            };
+
+        case "is-lori-drone-video-worth-it-yerevan":
+            return {
+                title: "Is the Private Tour of Lori with Drone Video Worth It from Yerevan?",
+                description: "An honest look at the private Lori region tour with included drone video from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccd1f168f13b9c0bf7adc5fbf687458c28df60ba90de209ea86e0a2bdf205eba.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Lori's canyons and monasteries are genuinely scenic, and having a professional drone video included gives travelers real aerial footage as a keepsake, worth it specifically for those wanting high-quality visual memories beyond their own phone photos.", tourCard: { slug: "from-yerevan-private-tour-of-lori-with-drone-video", title: "From Yerevan: Private Tour of Lori with Drone Video", description: "A private tour of the Lori region from Yerevan with included drone video.", price: "From $520", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ccd1f168f13b9c0bf7adc5fbf687458c28df60ba90de209ea86e0a2bdf205eba.jpg" } },
+                    { title: "Practical Tips", content: "Ask in advance how the drone footage is delivered — formats and turnaround time genuinely vary by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Lori tour with drone video worth it from Yerevan?", a: "Yes, specifically for travelers wanting genuinely high-quality aerial footage as a keepsake, beyond their own phone photos." }
+                ],
+            };
+
         default:
             return null;
     }
