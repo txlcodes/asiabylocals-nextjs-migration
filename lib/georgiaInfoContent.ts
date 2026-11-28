@@ -2261,6 +2261,81 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-carriage-ride-worth-it-tbilisi":
+            return {
+                title: "Is the Romantic Old-Town Carriage Ride at Night Worth It in Tbilisi?",
+                description: "An honest look at Tbilisi's romantic old-town carriage ride at night, a classic couples-focused evening activity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6680aae2a961ec8c77306bd9a2c678a94ce92ed140fcc7755789caa272d99f4.png",
+                sections: [
+                    { title: "The Short Answer", content: "Riding through the Old Town's cobbled streets by carriage at night gives a genuinely romantic, low-effort way to see the illuminated architecture, worth it specifically for couples wanting a memorable evening rather than another walking tour.",
+                    tourCard: { slug: "tbilisi-romantic-old-town-carriage-ride-at-night", title: "Tbilisi: Romantic Old-Town Carriage Ride at Night", description: "A romantic carriage ride through Tbilisi's Old Town at night.", price: "From $542", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d6680aae2a961ec8c77306bd9a2c678a94ce92ed140fcc7755789caa272d99f4.png" } },
+                    { title: "Practical Tips", content: "Book this for a special occasion specifically — the price reflects the romantic, premium framing rather than general sightseeing value." }
+                ],
+                faqs: [
+                    { q: "Is the romantic old-town carriage ride worth it in Tbilisi?", a: "Yes, specifically for couples wanting a genuinely romantic, memorable evening, rather than general-purpose Old Town sightseeing." }
+                ],
+            };
+
+        case "is-udabno-desert-ridge-worth-it-tbilisi":
+            return {
+                title: "Is the Udabno Desert Ridge and Off-Road Day Tour Worth It from Tbilisi?",
+                description: "An honest look at the Udabno Desert Ridge off-road day tour, a semi-desert landscape outside Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/40ed7e7f1e352d82cd0de6798ee9ea344932acfd76cd764b2acd64a3cc43bda0.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Udabno's semi-desert ridges give genuinely dramatic, otherworldly scenery distinct from Georgia's usual green mountains and vineyards, worth it for travelers wanting a real landscape contrast on an off-road day trip.",
+                    tourCard: { slug: "tbilisi-udabno-desert-ridge-off-road-day-tour", title: "Tbilisi: Udabno Desert Ridge & Off-Road Day Tour", description: "An off-road day tour of the Udabno Desert Ridge from Tbilisi.", price: "From $520", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/40ed7e7f1e352d82cd0de6798ee9ea344932acfd76cd764b2acd64a3cc43bda0.jpeg" } },
+                    { title: "Practical Tips", content: "Bring sun protection — the desert terrain genuinely offers little shade compared to Georgia's forested mountain regions." }
+                ],
+                faqs: [
+                    { q: "Is the Udabno Desert Ridge off-road tour worth it from Tbilisi?", a: "Yes, for travelers wanting a genuinely dramatic landscape contrast, distinct from Georgia's usual green mountains and vineyards." }
+                ],
+            };
+
+        case "is-trialeti-manglisi-monastery-worth-it-tbilisi":
+            return {
+                title: "Is the Trialeti Mountains and Manglisi Monastery Tour Worth It from Tbilisi?",
+                description: "An honest look at the Trialeti Mountains and Manglisi Monastery tour, a lesser-known nature and heritage day trip from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5c1918cf4229a3af1702ae81a8c9feffc6997f3dbec27eb3c4770737b2f0056.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "The Trialeti range and Manglisi Monastery give genuine mountain and heritage combination that most Tbilisi visitors never discover, worth it for travelers wanting a quieter, less-crowded day trip alternative.",
+                    tourCard: { slug: "tbilisi-trialeti-mountains-manglisi-monastery-tour", title: "Tbilisi: Trialeti Mountains & Manglisi Monastery Tour", description: "A tour of the Trialeti Mountains and Manglisi Monastery from Tbilisi.", price: "From $520", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a5c1918cf4229a3af1702ae81a8c9feffc6997f3dbec27eb3c4770737b2f0056.jpeg" } },
+                    { title: "Practical Tips", content: "Dress modestly for the monastery visit, since it remains a genuinely active place of worship." }
+                ],
+                faqs: [
+                    { q: "Is the Trialeti Mountains and Manglisi Monastery tour worth it from Tbilisi?", a: "Yes, for travelers wanting a genuinely quieter mountain and heritage day trip that most visitors never discover." }
+                ],
+            };
+
+        case "is-alpaca-lunch-dinner-worth-it-tbilisi":
+            return {
+                title: "Is the Romantic Lunch or Dinner with Alpacas Worth It near Tbilisi?",
+                description: "An honest look at the romantic lunch or dinner experience with alpacas near Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c9e96361bbd83aaf5401918b8bd3f282fa9e8dfe2d2ea7f5ad71aac4e6f48489.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Dining alongside genuinely friendly alpacas gives a quirky, photogenic twist on a romantic meal, worth it for travelers wanting something more memorable and lighthearted than a standard restaurant dinner.",
+                    tourCard: { slug: "romantic-lunch-or-dinner-with-alpacas-near-tbilisi", title: "Romantic Lunch or Dinner with Alpacas near Tbilisi", description: "A romantic lunch or dinner experience with alpacas near Tbilisi.", price: "From $442", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c9e96361bbd83aaf5401918b8bd3f282fa9e8dfe2d2ea7f5ad71aac4e6f48489.jpg" } },
+                    { title: "Practical Tips", content: "Bring a camera — the alpacas are genuinely the highlight and the main reason to book this over a standard restaurant meal." }
+                ],
+                faqs: [
+                    { q: "Is the romantic lunch or dinner with alpacas worth it near Tbilisi?", a: "Yes, for travelers wanting a genuinely quirky, memorable twist on a romantic meal, beyond a standard restaurant setting." }
+                ],
+            };
+
+        case "is-pankisi-horseback-riding-worth-it-tbilisi":
+            return {
+                title: "Is the Horseback Riding and Family Dinner in Pankisi Worth It from Tbilisi?",
+                description: "An honest look at the horseback riding and family dinner experience in Pankisi Valley from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aaeae9c08de73f2e673826650fcf90106630691678fdc38250e832ff46ea0dae.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pankisi Valley is genuinely one of Georgia's most culturally distinct regions, home to the Kist people, and combining horseback riding with a real family dinner gives authentic cultural contact that most Tbilisi day trips don't offer.",
+                    tourCard: { slug: "from-tbilisi-horseback-riding-family-dinner-in", title: "From Tbilisi: Horseback Riding & Family Dinner in Pankisi", description: "A horseback riding experience with a family dinner in the Pankisi Valley from Tbilisi.", price: "From $511", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/aaeae9c08de73f2e673826650fcf90106630691678fdc38250e832ff46ea0dae.jpg" } },
+                    { title: "Practical Tips", content: "Come with genuine curiosity about the Kist culture — the family dinner is a real opportunity to ask questions and learn." }
+                ],
+                faqs: [
+                    { q: "Is the horseback riding and family dinner in Pankisi worth it from Tbilisi?", a: "Yes, for travelers wanting genuinely authentic cultural contact with the Kist people, a real highlight most Tbilisi day trips don't offer." }
+                ],
+            };
+
         default:
             return null;
     }
