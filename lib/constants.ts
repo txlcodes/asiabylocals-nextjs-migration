@@ -1941,6 +1941,9 @@ export const KYOTO_INFO_SLUGS = [
   'is-yuzen-dyeing-worth-it-kyoto', 'is-archery-workshop-worth-it-kyoto',
   'is-samurai-ninja-museum-worth-it-kyoto', 'is-tea-ceremony-with-maiko-worth-it-kyoto',
   'is-shibori-scarf-class-worth-it-kyoto', 'is-chopstick-making-workshop-worth-it-kyoto',
+  'is-manga-drawing-workshop-worth-it-kyoto', 'is-maki-e-lacquer-workshop-worth-it-kyoto',
+  'is-kifune-shrine-day-trip-worth-it-kyoto', 'is-asuka-ancient-capital-tour-worth-it-kyoto',
+  'is-yamashina-farm-tour-worth-it-kyoto',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.

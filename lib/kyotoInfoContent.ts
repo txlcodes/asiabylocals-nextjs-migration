@@ -2735,6 +2735,111 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-manga-drawing-workshop-worth-it-kyoto":
+      return {
+        title: "Is the Manga Drawing Workshop Worth It in Kyoto?",
+        description: "An honest look at Kyoto's manga drawing workshop guided by a professional artist, a hands-on take on one of Japan's most famous art forms.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/manga-drawing-workshop-guided-by-pro-artist-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning manga technique directly from a professional artist is a genuinely different creative activity than Kyoto's usual temple-and-craft sightseeing, worth it specifically for travelers interested in Japanese illustration rather than traditional crafts like pottery or dyeing.",
+            tourCard: { slug: "manga-drawing-workshop-guided-by-pro-artist-in-kyoto", title: "Manga Drawing Workshop Guided by Pro Artist in Kyoto", description: "A hands-on manga drawing workshop guided by a professional artist.", price: "From $329", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/manga-drawing-workshop-guided-by-pro-artist-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior drawing experience is needed, but come with genuine enthusiasm for manga as an art form, since the session is priced as a dedicated artistic experience, not a casual activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the manga drawing workshop worth it in Kyoto?", a: "Yes, for travelers genuinely interested in Japanese illustration, learning directly from a professional artist rather than following a generic craft class." },
+        ],
+      };
+
+    case "is-maki-e-lacquer-workshop-worth-it-kyoto":
+      return {
+        title: "Is the Maki-e Lacquer Art Workshop Worth It in Kyoto?",
+        description: "An honest look at Kyoto's maki-e lacquer art workshop, a hands-on introduction to a centuries-old Japanese gold-dust decorative technique.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/maki-e-lacquer-art-workshop-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Maki-e is a genuinely prestigious centuries-old lacquer technique using gold and silver dust, rarely offered as a tourist workshop, making this a real find for travelers who want a deeper craft experience than Kyoto's more common pottery or dyeing classes.",
+            tourCard: { slug: "maki-e-lacquer-art-workshop-in-kyoto", title: "Maki-e Lacquer Art Workshop in Kyoto", description: "A hands-on maki-e lacquer art workshop in Kyoto.", price: "From $238", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/maki-e-lacquer-art-workshop-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Handle your finished piece carefully on the way home — genuine lacquerware needs time to fully cure and is more delicate than it looks.",
+          },
+        ],
+        faqs: [
+          { q: "Is the maki-e lacquer workshop worth it in Kyoto?", a: "Yes, for a genuinely prestigious, rarely offered craft experience using real gold and silver dust, deeper than the city's more common pottery or dyeing classes." },
+        ],
+      };
+
+    case "is-kifune-shrine-day-trip-worth-it-kyoto":
+      return {
+        title: "Is the Kifune Shrine Day Trip Worth It from Kyoto?",
+        description: "An honest look at the Kifune Shrine and sacred Kibune Valley day trip, a quieter mountain escape from Kyoto's busiest temple circuits.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kifune-shrine-and-the-sacred-kifune-valley-day-trip-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kifune Shrine and its river-valley setting give a genuinely quieter, more atmospheric alternative to Kyoto's famously crowded central temples, a worthwhile day trip for travelers wanting mountain scenery and a real sense of seclusion.",
+            tourCard: { slug: "kifune-shrine-and-the-sacred-kifune-valley-day-trip-in-kyoto", title: "Kifune Shrine and the Sacred Kifune Valley Day Trip in Kyoto", description: "A day trip to Kifune Shrine and the sacred Kibune Valley from Kyoto.", price: "From $206", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/kifune-shrine-and-the-sacred-kifune-valley-day-trip-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair this with nearby Kurama if you have the time and energy, since the two are connected by a scenic mountain hiking trail.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kifune Shrine day trip worth it from Kyoto?", a: "Yes, for a genuinely quieter, more atmospheric alternative to Kyoto's crowded central temples, with real mountain scenery." },
+        ],
+      };
+
+    case "is-asuka-ancient-capital-tour-worth-it-kyoto":
+      return {
+        title: "Is the Asuka Ancient Capital Tour Worth It from Kyoto?",
+        description: "An honest look at the private guided tour of Asuka, one of Japan's earliest ancient capitals, offered as a day trip from Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/asuka-private-guided-tour-of-an-ancient-capital-of-japan-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Asuka was genuinely Japan's capital centuries before Kyoto itself, and this private guided tour covers ancient burial mounds and historic sites that predate Kyoto's own famous temples, a worthwhile deep-history detour for travelers who've already covered the city's main sights.",
+            tourCard: { slug: "asuka-private-guided-tour-of-an-ancient-capital-of-japan-kyoto", title: "Asuka: Private Guided Tour of an Ancient Capital of Japan", description: "A private guided tour of Asuka, one of Japan's earliest ancient capitals.", price: "From $535", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/asuka-private-guided-tour-of-an-ancient-capital-of-japan-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a premium private tour, so it's worth it specifically for travelers with a genuine interest in ancient Japanese history, not as a general-purpose day trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Asuka ancient capital tour worth it from Kyoto?", a: "Yes, for travelers with a genuine interest in ancient Japanese history — Asuka predates Kyoto itself as the country's capital." },
+        ],
+      };
+
+    case "is-yamashina-farm-tour-worth-it-kyoto":
+      return {
+        title: "Is the Yamashina Farm Tour with Breakfast Worth It in Kyoto?",
+        description: "An honest look at the Yamashina farm tour with breakfast, a rural countryside morning distinct from Kyoto's temple-heavy sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/yamashina-farm-tour-with-breakfast-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This genuinely rural morning on a working farm, with a real breakfast included, gives a different side of the Kyoto area than its temples and geisha districts, worth it for travelers wanting an easy, low-key countryside start to the day.",
+            tourCard: { slug: "yamashina-farm-tour-with-breakfast-in-kyoto", title: "Yamashina Farm Tour with Breakfast in Kyoto", description: "A rural farm tour with breakfast included near Kyoto.", price: "From $227", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/yamashina-farm-tour-with-breakfast-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good early-morning slot before an afternoon of temple sightseeing, since the pace here is genuinely relaxed rather than packed.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yamashina farm tour worth it in Kyoto?", a: "Yes, for a genuinely relaxed, rural morning that's a different side of the Kyoto area than its temples and geisha districts." },
+        ],
+      };
+
     default:
             return null;
     }
