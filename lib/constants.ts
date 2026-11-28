@@ -1799,6 +1799,9 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'is-bike-and-boat-tour-worth-it-phnom-penh', 'is-oudong-koh-chen-village-tour-worth-it-phnom-penh',
     'is-aural-mountain-trek-worth-it-phnom-penh', 'is-phnom-tamao-buddha-kiri-worth-it-phnom-penh',
     'is-phum-taing-snay-birdwatching-worth-it-phnom-penh',
+    'is-kirirom-national-park-worth-it-phnom-penh', 'is-koh-rong-samloem-hike-snorkel-worth-it-phnom-penh',
+    'is-kampong-phluk-floating-village-worth-it-phnom-penh', 'is-mekong-big-private-cruise-worth-it-phnom-penh',
+    'is-cambodia-2day-nature-culture-heritage-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [

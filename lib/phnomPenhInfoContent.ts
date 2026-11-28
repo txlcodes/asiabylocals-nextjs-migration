@@ -1452,6 +1452,76 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-kirirom-national-park-worth-it-phnom-penh":
+            return {
+                title: "Is Kirirom National Park Worth It from Phnom Penh?",
+                description: "An honest look at the Kirirom National Park day trip with lunch, a cool pine-forest escape from Phnom Penh's heat.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kirirom-national-park-day-trip-with-lunch-in-phnom-penh/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kirirom's elevation and pine forests give a genuinely cooler, different landscape than Phnom Penh's heat and the flat Mekong delta, worth it for travelers wanting a real change of scenery and climate without a multi-day trip.", tourCard: { slug: "kirirom-national-park-day-trip-with-lunch-in-phnom", title: "Kirirom National Park Day Trip with Lunch in Phnom Penh", description: "A day trip to Kirirom National Park with lunch from Phnom Penh.", price: "From $246", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/kirirom-national-park-day-trip-with-lunch-in-phnom-penh/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a light jacket — Kirirom's elevation genuinely makes it noticeably cooler than Phnom Penh, even during the day." }
+                ],
+                faqs: [
+                    { q: "Is Kirirom National Park worth it from Phnom Penh?", a: "Yes, for a genuinely cooler, pine-forest change of scenery from the city's heat, without needing a multi-day trip." }
+                ],
+            };
+
+        case "is-koh-rong-samloem-hike-snorkel-worth-it-phnom-penh":
+            return {
+                title: "Is the Koh Rong Samloem Hike and Snorkel Day Trip Worth It from Phnom Penh?",
+                description: "An honest look at the Koh Rong Samloem day trip from Phnom Penh, combining a jungle hike with island snorkeling.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/koh-rong-samloem-day-trip-from-phnom-penh-hike-and-snorkel/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Koh Rong Samloem is genuinely quieter and less developed than its larger neighbor Koh Rong, and combining a jungle hike with snorkeling gives a real mix of land and water activity in one long day trip from the capital.", tourCard: { slug: "koh-rong-samloem-day-trip-from-phnom-penh-hike", title: "Koh Rong Samloem: Day Trip from Phnom Penh - Hike and Snorkel", description: "A day trip to Koh Rong Samloem from Phnom Penh combining a hike and snorkeling.", price: "From $501", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/koh-rong-samloem-day-trip-from-phnom-penh-hike-and-snorkel/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day given the travel distance from Phnom Penh — confirm total transit time before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Koh Rong Samloem hike and snorkel trip worth it from Phnom Penh?", a: "Yes, for travelers wanting a genuine mix of jungle hiking and snorkeling on a quieter island, despite the long travel distance." }
+                ],
+            };
+
+        case "is-kampong-phluk-floating-village-worth-it-phnom-penh":
+            return {
+                title: "Is the Kampong Phluk Floating Village Experience Worth It from Phnom Penh?",
+                description: "An honest look at the Kampong Phluk floating village and local life experience, a Tonle Sap stilt-house community.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kampong-phluk-floating-village-and-local-life-experience/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Kampong Phluk's stilt houses and floating community on the Tonle Sap give genuine insight into a way of life built entirely around the lake's seasonal flooding, worth it for travelers wanting authentic cultural depth beyond temples and markets.", tourCard: { slug: "kampong-phluk-floating-village-and-local-life-expe", title: "Kampong Phluk Floating Village and Local Life Experience", description: "A visit to the Kampong Phluk floating village and local community life on the Tonle Sap.", price: "From $207", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/kampong-phluk-floating-village-and-local-life-experience/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Visit during the wet season for the full stilt-house effect — in the dry season, the water level drops and the scene looks genuinely different." }
+                ],
+                faqs: [
+                    { q: "Is the Kampong Phluk floating village experience worth it from Phnom Penh?", a: "Yes, for travelers wanting genuine cultural depth, seeing a community built entirely around the Tonle Sap's seasonal flooding." }
+                ],
+            };
+
+        case "is-mekong-big-private-cruise-worth-it-phnom-penh":
+            return {
+                title: "Is the Mekong River Big Private Cruise Worth It in Phnom Penh?",
+                description: "An honest look at the Mekong River big private cruise in Phnom Penh, a larger-scale private boat experience.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mekong-river-by-a-big-private-cruise/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A larger private boat gives genuinely more space and comfort than a small group sunset cruise, worth it specifically for families or groups wanting room to move around while still having the Mekong and riverside skyline views to themselves.", tourCard: { slug: "mekong-river-by-a-big-private-cruise", title: "Mekong River by a Big Private Cruise", description: "A large private cruise on the Mekong River in Phnom Penh.", price: "From $220", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mekong-river-by-a-big-private-cruise/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This suits larger groups or families specifically — a smaller sunset cruise is a better value for couples or solo travelers." }
+                ],
+                faqs: [
+                    { q: "Is the Mekong big private cruise worth it in Phnom Penh?", a: "Yes, for families or larger groups wanting genuinely more space and comfort than a small group sunset cruise." }
+                ],
+            };
+
+        case "is-cambodia-2day-nature-culture-heritage-worth-it-phnom-penh":
+            return {
+                title: "Is Cambodia in 2 Days: Nature, Culture and Heritage Worth It?",
+                description: "An honest look at the 2-day Cambodia tour covering nature, culture, and heritage from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cambodia-in-2-days-nature-culture-and-heritage/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Covering nature, culture, and heritage sites in a genuinely compact 2-day package gives travelers with limited time a well-rounded taste of Cambodia beyond just the capital's city sights, worth it specifically for short layovers or stopovers.", tourCard: { slug: "cambodia-in-2-days-nature-culture-and-heritage", title: "Cambodia in 2 Days: Nature, Culture and Heritage", description: "A 2-day tour covering nature, culture, and heritage sites in Cambodia.", price: "From $189", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/cambodia-in-2-days-nature-culture-and-heritage/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm the exact sites included before booking, since a 2-day window means real trade-offs on what fits." }
+                ],
+                faqs: [
+                    { q: "Is the Cambodia in 2 Days nature, culture and heritage tour worth it?", a: "Yes, specifically for travelers with limited time wanting a well-rounded taste of the country beyond just the capital." }
+                ],
+            };
+
         default:
             return null;
     }
