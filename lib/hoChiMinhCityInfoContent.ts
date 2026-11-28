@@ -1452,6 +1452,111 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-secret-cocktail-experience-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Secret Cocktail Experience Worth It in Ho Chi Minh City?",
+        description: "An honest look at the Secret Cocktail Experience in Ho Chi Minh City, a speakeasy-style evening activity beyond the usual bar crawl.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/secret-cocktail-experience-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives a genuinely curated, speakeasy-style evening rather than a generic bar crawl, worth it for travelers wanting a more intimate, well-crafted cocktail experience in a city better known for cheap beer than mixology.",
+            tourCard: { slug: "secret-cocktail-experience-in-ho-chi-minh-city", title: "Secret Cocktail Experience in Ho Chi Minh City", description: "A curated, speakeasy-style cocktail experience in Ho Chi Minh City.", price: "From $205", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/secret-cocktail-experience-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with an open mind about the menu — the appeal here is the curated, surprise element rather than ordering off a standard cocktail list.",
+          },
+        ],
+        faqs: [
+          { q: "Is the secret cocktail experience worth it in Ho Chi Minh City?", a: "Yes, for travelers wanting a genuinely curated, intimate evening rather than a generic bar crawl." },
+        ],
+      };
+
+    case "is-ao-dai-photography-cyclo-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Ao Dai Photography Tour with Cyclo Ride Worth It in Ho Chi Minh City?",
+        description: "An honest look at the 4-hour Ao Dai photography tour with a cyclo ride, combining traditional Vietnamese dress with the city's classic three-wheeled transport.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hcm-city-4-hours-ao-dai-photography-tour-with-cyclo-ride-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wearing a traditional ao dai while riding a classic cyclo past the city's colonial-era landmarks gives a genuinely photogenic combination that's distinctly Vietnamese, worth it specifically for travelers wanting a memorable, dressed-up photo set rather than casual street snapshots.",
+            tourCard: { slug: "hcm-city-4-hours-ao-dai-photography-tour-with-cyclo-ride-in-ho-chi-minh-city", title: "HCM City: 4-hours Ao Dai Photography Tour with Cyclo Ride", description: "A 4-hour photography tour in traditional ao dai with a classic cyclo ride through Ho Chi Minh City.", price: "From $168", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hcm-city-4-hours-ao-dai-photography-tour-with-cyclo-ride-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for golden hour if possible, since the soft evening light makes a genuine difference to how the ao dai and colonial architecture photograph together.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ao Dai photography tour with cyclo ride worth it in Ho Chi Minh City?", a: "Yes, for a genuinely photogenic, distinctly Vietnamese photo experience combining traditional dress with the city's classic cyclo transport." },
+        ],
+      };
+
+    case "is-loaloa-dining-show-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the LoaLoa Culture and Dining Show Worth It in Ho Chi Minh City?",
+        description: "An honest look at the LoaLoa culture and dining show at Independence Palace, combining a cultural performance with dinner in a historic setting.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/loaloa-culture-and-dining-show-ticket-at-independence-palace-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a cultural performance with dinner at the genuinely historic Independence Palace gives an evening with real atmosphere and significance, worth it for travelers wanting an easy, all-in-one cultural evening rather than arranging a show and dinner separately.",
+            tourCard: { slug: "loaloa-culture-and-dining-show-ticket-at-independence-palace-in-ho-chi-minh-city", title: "LoaLoa Culture and Dining Show Ticket at Independence Palace", description: "A cultural performance and dinner show ticket at Independence Palace in Ho Chi Minh City.", price: "From $166", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/loaloa-culture-and-dining-show-ticket-at-independence-palace-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit the palace itself earlier in the day if you haven't already, since the evening show ticket is focused on the performance and dinner rather than full museum access.",
+          },
+        ],
+        faqs: [
+          { q: "Is the LoaLoa culture and dining show worth it in Ho Chi Minh City?", a: "Yes, for an easy, all-in-one cultural evening with real atmosphere, combining a performance and dinner at a genuinely historic venue." },
+        ],
+      };
+
+    case "is-binh-duong-day-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Binh Duong Day Tour Worth It from Ho Chi Minh City?",
+        description: "An honest look at the Binh Duong day tour with lunch, a visit to an industrializing province just outside Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/binh-duong-day-tour-with-lunch-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Binh Duong offers a genuinely different side of southern Vietnam than Saigon's tourist core, a mix of traditional craft villages and rapid industrial development, worth it for travelers curious about modern Vietnam's economic growth rather than another temple or market.",
+            tourCard: { slug: "binh-duong-day-tour-with-lunch-in-ho-chi-minh-city", title: "Binh Duong Day Tour with Lunch in Ho Chi Minh City", description: "A day tour of Binh Duong province with lunch included, from Ho Chi Minh City.", price: "From $260", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/binh-duong-day-tour-with-lunch-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Set expectations correctly — this is a genuinely offbeat regional tour, not a major tourist attraction, so go in curious about contemporary Vietnam rather than expecting iconic landmarks.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Binh Duong day tour worth it from Ho Chi Minh City?", a: "Yes, for travelers genuinely curious about modern Vietnam's economic growth, a real contrast to Saigon's usual tourist sights." },
+        ],
+      };
+
+    case "is-chaoshow-dinner-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Chào Show with 3-Region Dinner Worth It in Ho Chi Minh City?",
+        description: "An honest look at the Chào Show evening, combining a Vietnamese cultural performance with a dinner spanning three regional cuisines.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hcmc-evening-ch-o-show-with-3-region-dinner-and-transfers-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing a cultural performance with a dinner spanning northern, central, and southern Vietnamese cuisine gives a genuinely comprehensive taste of the country's regional diversity in one evening, worth it for travelers who won't have time to visit all three regions in person.",
+            tourCard: { slug: "hcmc-evening-ch-o-show-with-3-region-dinner-and-transfers-ho-chi-minh-city", title: "HCMC Evening: Chào Show with 3-Region Dinner and Transfers", description: "An evening cultural show with a 3-region Vietnamese dinner and transfers included.", price: "From $104", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hcmc-evening-ch-o-show-with-3-region-dinner-and-transfers-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Included transfers make this a genuinely easy, low-effort evening booking, worth factoring in if you don't want to arrange transport after dark.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Chào Show with 3-region dinner worth it in Ho Chi Minh City?", a: "Yes, for a genuinely comprehensive taste of Vietnam's regional culinary diversity in one easy, transfer-included evening." },
+        ],
+      };
+
     default:
       return null;
   }

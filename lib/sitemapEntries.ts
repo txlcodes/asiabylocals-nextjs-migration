@@ -2845,6 +2845,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bao-loc-waterfalls-tea-hills-worth-it-ho-chi-minh-city', 'is-dak-nong-tour-worth-it-ho-chi-minh-city',
     'is-ho-chi-minh-trail-dirtbike-12day-worth-it-ho-chi-minh-city', 'is-5day-southern-vietnam-tour-worth-it-ho-chi-minh-city',
     'is-10day-beauty-of-vietnam-worth-it-ho-chi-minh-city', 'is-20day-hanoi-ho-chi-minh-tour-worth-it-ho-chi-minh-city',
+    'is-secret-cocktail-experience-worth-it-ho-chi-minh-city', 'is-ao-dai-photography-cyclo-worth-it-ho-chi-minh-city',
+    'is-loaloa-dining-show-worth-it-ho-chi-minh-city', 'is-binh-duong-day-tour-worth-it-ho-chi-minh-city',
+    'is-chaoshow-dinner-worth-it-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),
