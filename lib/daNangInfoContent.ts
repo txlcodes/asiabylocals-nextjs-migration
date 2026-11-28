@@ -1376,6 +1376,47 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-coffee-making-cooking-class-worth-it-da-nang":
+      return {
+        title: "Is the Coffee Making and Cooking Class Worth It in Da Nang?",
+        description: "An honest look at the half-day Vietnamese coffee making workshop paired with a hands-on cooking class in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/coffee-making-and-cooking-class-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want two distinct hands-on skills rather than just watching a demonstration — Vietnamese coffee has its own brewing technique worth learning properly, and pairing it with a full cooking class makes for a more complete half-day than either activity alone.",
+            tourCard: { slug: "coffee-making-and-cooking-class-in-da-nang", title: "Coffee Making and Cooking Class in Da Nang", description: "A Vietnamese coffee making workshop paired with a hands-on cooking class in Da Nang.", price: "From $135", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/coffee-making-and-cooking-class-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Vietnamese egg coffee and ca phe sua da use different techniques from Western brewing, so pay close attention during the coffee segment if you want to replicate it at home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the coffee making and cooking class worth it in Da Nang?", a: "Yes, for travelers wanting to learn both genuine Vietnamese coffee brewing and a full hands-on cooking class in one session." },
+        ],
+      };
+
+    case "is-scenic-train-journey-worth-it-da-nang":
+      return {
+        title: "Is the Scenic Train Journey Through Vietnam Worth It from Da Nang?",
+        description: "An honest look at the full-day scenic train journey between Hanoi and Da Nang with a reserved sleeper berth.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-scenic-train-journey-through-vietnam/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see the Vietnamese coastline unfold slowly rather than flying between cities — the Hanoi-Da Nang rail line runs along dramatic stretches of coast, and a reserved sleeper berth makes the long journey genuinely comfortable.",
+            tourCard: { slug: "da-nang-scenic-train-journey-through-vietnam", title: "Da Nang: Scenic Train Journey Through Vietnam", description: "A full-day scenic train journey between Hanoi and Da Nang with a reserved sleeper berth.", price: "From $118", duration: "16 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-scenic-train-journey-through-vietnam/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuine long-haul option, not a scenic day excursion — treat it as part of your transport between cities rather than a standalone activity." },
+        ],
+        faqs: [
+          { q: "Is the scenic train journey worth it from Da Nang?", a: "Yes, for travelers wanting to see Vietnam's coastline slowly with a comfortable sleeper berth, as part of their transport between cities." },
+        ],
+      };
+
     default:
       return null;
   }

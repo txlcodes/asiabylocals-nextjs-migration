@@ -1683,6 +1683,27 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-saigon-after-dark-street-food-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Saigon After Dark Street Food Tour Worth It in Ho Chi Minh City?",
+        description: "An honest look at the half-day evening street food tour through Nhieu Loc and local bakeries in Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/saigon-after-dark-street-food-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see Saigon's food scene come alive at night rather than during the midday heat — the evening timing hits a local restaurant, the Nhieu Loc canal area, and a local bakery when the city's street food culture is genuinely at its liveliest.",
+            tourCard: { slug: "saigon-after-dark-street-food-ho-chi-minh-city", title: "Saigon After Dark Street Food", description: "A half-day evening street food tour through local restaurants, Nhieu Loc, and a local bakery in Ho Chi Minh City.", price: "From $298", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/saigon-after-dark-street-food-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite and pace yourself across stops — evening street food tours in Saigon tend to involve more food than a single meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Saigon after dark street food tour worth it in Ho Chi Minh City?", a: "Yes, for travelers wanting to experience Saigon's street food scene at its liveliest, after dark." },
+        ],
+      };
+
     default:
       return null;
   }

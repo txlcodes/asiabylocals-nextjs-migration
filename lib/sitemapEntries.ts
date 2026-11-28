@@ -2828,6 +2828,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-leather-notebook-making-workshop-worth-it-hanoi', 'is-halal-food-train-street-tour-worth-it-hanoi',
     'is-ceramic-village-dong-ho-painting-worth-it-hanoi', 'is-cave-dining-pearl-show-onsen-worth-it-hanoi',
     'is-military-history-museum-landmarks-worth-it-hanoi', 'is-bar-crawl-nightclub-worth-it-hanoi',
+    'is-lan-ha-bay-luxury-day-cruise-worth-it-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
@@ -3103,6 +3104,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bach-ma-trekking-five-lakes-worth-it-da-nang',
     'is-waterfall-sliding-food-tour-worth-it-da-nang', 'is-atv-quad-massage-resort-worth-it-da-nang',
     'is-pho-local-girl-cooking-class-worth-it-da-nang', 'is-cyclo-japanese-guide-food-worth-it-da-nang',
+    'is-coffee-making-cooking-class-worth-it-da-nang', 'is-scenic-train-journey-worth-it-da-nang',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/da-nang/${slug}`,
     lastModified: new Date(),
@@ -3145,6 +3147,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-cao-dai-noon-mass-cu-chi-tour-worth-it-ho-chi-minh-city',
     'is-tay-ninh-craft-village-worth-it-ho-chi-minh-city', 'is-cat-tien-crocodile-lake-worth-it-ho-chi-minh-city',
     'is-vegetarian-street-food-worth-it-ho-chi-minh-city',
+    'is-saigon-after-dark-street-food-worth-it-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),

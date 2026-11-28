@@ -1647,6 +1647,27 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lan-ha-bay-luxury-day-cruise-worth-it-hanoi":
+      return {
+        title: "Is the Most Luxurious Day Cruise in Lan Ha Bay Worth It from Hanoi?",
+        description: "An honest look at the full-day luxury cruise around Lan Ha Bay, Cat Ba Island, and a traditional village from Hanoi.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201457/asiabylocals/tours/the-most-luxurious-day-cruise-in-lan-ha-bay-in-hanoi/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Ha Long Bay's dramatic karst scenery without the heaviest tourist crowds — Lan Ha Bay sits right next to Ha Long Bay but sees far less boat traffic, and this cruise adds a stop at a traditional village alongside Cat Ba Island.",
+            tourCard: { slug: "the-most-luxurious-day-cruise-in-lan-ha-bay-in-hanoi", title: "The Most Luxurious Day Cruise in Lan Ha Bay in Hanoi", description: "A full-day luxury cruise around Lan Ha Bay, Cat Ba Island, and a traditional village.", price: "From $101", duration: "1 day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201457/asiabylocals/tours/the-most-luxurious-day-cruise-in-lan-ha-bay-in-hanoi/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the transfer time from Hanoi to Ben Beo harbour in advance, since it's a genuine half-day drive each way before the cruise itself begins.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lan Ha Bay luxury day cruise worth it from Hanoi?", a: "Yes, for travelers wanting Ha Long Bay-style karst scenery with noticeably fewer crowds than the main bay." },
+        ],
+      };
+
     default:
       return null;
   }

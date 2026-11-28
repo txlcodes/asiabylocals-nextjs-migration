@@ -3047,6 +3047,7 @@ export const HANOI_INFO_SLUGS = [
   'is-leather-notebook-making-workshop-worth-it-hanoi', 'is-halal-food-train-street-tour-worth-it-hanoi',
   'is-ceramic-village-dong-ho-painting-worth-it-hanoi', 'is-cave-dining-pearl-show-onsen-worth-it-hanoi',
   'is-military-history-museum-landmarks-worth-it-hanoi', 'is-bar-crawl-nightclub-worth-it-hanoi',
+  'is-lan-ha-bay-luxury-day-cruise-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [
@@ -3299,6 +3300,7 @@ export const DA_NANG_INFO_SLUGS = [
   'is-bach-ma-trekking-five-lakes-worth-it-da-nang',
   'is-waterfall-sliding-food-tour-worth-it-da-nang', 'is-atv-quad-massage-resort-worth-it-da-nang',
   'is-pho-local-girl-cooking-class-worth-it-da-nang', 'is-cyclo-japanese-guide-food-worth-it-da-nang',
+  'is-coffee-making-cooking-class-worth-it-da-nang', 'is-scenic-train-journey-worth-it-da-nang',
 ];
 
 export const HO_CHI_MINH_CITY_INFO_SLUGS = [
@@ -3338,6 +3340,7 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'is-cao-dai-noon-mass-cu-chi-tour-worth-it-ho-chi-minh-city',
   'is-tay-ninh-craft-village-worth-it-ho-chi-minh-city', 'is-cat-tien-crocodile-lake-worth-it-ho-chi-minh-city',
   'is-vegetarian-street-food-worth-it-ho-chi-minh-city',
+  'is-saigon-after-dark-street-food-worth-it-ho-chi-minh-city',
 ];
 
 // Jaisalmer (5 live tours) and Udaipur (9 live tours) launched 2026-11-28,
