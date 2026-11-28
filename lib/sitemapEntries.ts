@@ -478,6 +478,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-breakfast-cruise-luxury-yacht-worth-it-istanbul', 'is-gallipoli-troy-day-tour-worth-it-istanbul',
     'is-ertugrul-osman-ghazi-film-set-worth-it-istanbul', 'is-sidecar-tour-2-continents-worth-it-istanbul',
     'is-sunrise-photoshoot-dress-rental-ortakoy-worth-it-istanbul', 'is-rooftop-photoshoot-worth-it-istanbul',
+    'is-marbling-workshop-madrasah-worth-it-istanbul', 'is-afyon-phrygian-valley-balloon-worth-it-istanbul',
+    'is-mom-cooking-local-home-worth-it-istanbul', 'is-city-walls-constantinople-tour-worth-it-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),

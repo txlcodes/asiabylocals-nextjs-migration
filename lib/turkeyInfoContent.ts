@@ -2537,6 +2537,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-marbling-workshop-madrasah-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Marbling Workshop at a Madrasah Worth It?",
+        description: "An honest look at Istanbul's traditional marbling (ebru) workshop held inside a historic madrasah.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine traditional craft lesson in an authentic setting — Turkish marbling (ebru) is a centuries-old art of floating pigments on water to create patterns, taught here hands-on inside an actual historic madrasah rather than a modern studio.",
+            tourCard: { slug: "istanbul-marbling-workshop-at-a-madrasah", title: "Istanbul: Marbling Workshop at a Madrasah", description: "A hands-on traditional marbling (ebru) workshop held inside a historic madrasah in Istanbul.", price: "From $319", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Your finished marbling piece makes a genuinely unique, lightweight souvenir to take home, since it's made on paper or fabric.",
+          },
+        ],
+        faqs: [
+          { q: "Is the marbling workshop at a madrasah worth it in Istanbul?", a: "Yes, for travelers wanting a genuine traditional craft lesson in an authentic historic setting, rather than a modern studio." },
+        ],
+      };
+
+    case "is-afyon-phrygian-valley-balloon-worth-it-istanbul":
+      return {
+        title: "Is the Afyon Phrygian Valley Sunrise Hot Air Balloon Ride Worth It?",
+        description: "An honest look at the sunrise hot air balloon ride over Afyon's Phrygian Valley, reachable from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Cappadocia-style ballooning over a far less crowded landscape — the Phrygian Valley has genuine ancient rock-cut tombs and formations similar in spirit to Cappadocia, but with far fewer balloons and tourists sharing the sky.",
+            tourCard: { slug: "afyon-phrygian-valley-sunrise-hot-air-balloon-ride", title: "Afyon: Phrygian Valley Sunrise Hot Air Balloon Ride", description: "A sunrise hot air balloon ride over the Phrygian Valley in Afyon.", price: "From $276", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Afyon is a genuine trip from Istanbul, so this works best as part of a wider Turkey itinerary rather than a simple day trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Phrygian Valley sunrise balloon ride worth it?", a: "Yes, for travelers wanting a Cappadocia-style ballooning experience over a genuinely less crowded ancient landscape." },
+        ],
+      };
+
+    case "is-mom-cooking-local-home-worth-it-istanbul":
+      return {
+        title: "Is Traditional Mom Cooking at a Local Home in Istanbul Worth It?",
+        description: "An honest look at Istanbul's traditional home cooking experience hosted by a local mother.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if genuine home hospitality matters more to you than restaurant polish — this puts you in an actual local home, cooking and eating traditional Turkish dishes with a host rather than a professional chef in a studio kitchen.",
+            tourCard: { slug: "traditional-mom-cooking-at-a-local-home-in", title: "Traditional Mom Cooking at a Local Home in Central Istanbul", description: "A traditional home cooking experience hosted by a local mother in central Istanbul.", price: "From $218", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with questions about family recipes and daily life — the conversation is as much a part of the experience as the cooking itself.",
+          },
+        ],
+        faqs: [
+          { q: "Is the mom cooking experience at a local home worth it in Istanbul?", a: "Yes, for travelers wanting genuine home hospitality and traditional recipes, distinct from a professional chef-led class." },
+        ],
+      };
+
+    case "is-city-walls-constantinople-tour-worth-it-istanbul":
+      return {
+        title: "Is the City Walls of Constantinople Tour Worth It in Istanbul?",
+        description: "An honest look at Istanbul's guided tour of the historic City Walls of Constantinople.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for history enthusiasts specifically — the Theodosian Walls defended Constantinople for over a thousand years and are genuinely underrated compared to Hagia Sophia and the Blue Mosque, a quieter, less-visited piece of the city's Byzantine history.",
+            tourCard: { slug: "city-walls-of-constantinople-tour", title: "City Walls of Constantinople Tour", description: "A guided tour of the historic City Walls of Constantinople in Istanbul.", price: "From $291", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable walking shoes, since covering stretches of the ancient walls involves genuine distance and uneven terrain.",
+          },
+        ],
+        faqs: [
+          { q: "Is the City Walls of Constantinople tour worth it in Istanbul?", a: "Yes, for history enthusiasts wanting a quieter, underrated piece of Byzantine history beyond Hagia Sophia and the Blue Mosque." },
+        ],
+      };
+
     default:
       return null;
   }
