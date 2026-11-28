@@ -1860,6 +1860,66 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mask-painting-workshop-worth-it-kandy":
+      return {
+        title: "Is the Traditional Sri Lankan Mask Painting Workshop Worth It in Kandy?",
+        description: "An honest look at the hands-on mask painting workshop, a short cultural craft activity distinct from Kandy's usual temples and tea tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1183733/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Painting your own traditional mask under guidance gives a hands-on feel for Sri Lankan folk art that a quick shop visit can't match, worth it for travelers wanting a short, creative break from temples and tea estates and a genuine souvenir they made themselves.",
+            tourCard: { slug: "traditional-sri-lankan-mask-painting-workshop", title: "Traditional Sri Lankan Mask Painting Workshop", description: "A hands-on workshop painting a traditional Sri Lankan mask in Kandy.", price: "From $51", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1183733/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind getting a little paint on, this is a genuinely hands-on craft session." },
+        ],
+        faqs: [
+          { q: "Is the traditional Sri Lankan mask painting workshop worth it in Kandy?", a: "Yes, for travelers wanting a short, hands-on craft activity and a self-made souvenir, distinct from the usual temple and tea sightseeing." }
+        ],
+      };
+
+    case "is-pidurutalagala-mountain-day-trip-worth-it-kandy":
+      return {
+        title: "Is the Pidurutalagala Mountain Day Trip Worth It from Kandy?",
+        description: "An honest look at the day trip to Pidurutalagala, Sri Lanka's highest peak, combined with Nuwara Eliya from Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1213377/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pidurutalagala is Sri Lanka's highest point and offers genuinely different views and cooler air than anything around Kandy itself, worth it for travelers who want to combine a high-altitude stop with Nuwara Eliya rather than doing a separate dedicated mountain trip.",
+            tourCard: { slug: "kandy-pidurutalagala-mountain-day-trip-with-pickup", title: "Kandy: Pidurutalagala Mountain Day Trip with Pickup", description: "A full-day trip from Kandy to Pidurutalagala and Nuwara Eliya.", price: "From $55", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1213377/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a warm layer, the summit area is noticeably colder than Kandy even in the middle of the day." },
+        ],
+        faqs: [
+          { q: "Is the Pidurutalagala mountain day trip worth it from Kandy?", a: "Yes, for travelers who want Sri Lanka's highest peak and Nuwara Eliya combined into one day trip." }
+        ],
+      };
+
+    case "is-wax-museum-entry-worth-it-kandy":
+      return {
+        title: "Is the Wax Museum of Art and Culture Entry Ticket Worth It in Kandy?",
+        description: "An honest look at the Wax Museum of Art and Culture, a short indoor stop covering Sri Lankan history through wax figures.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065780/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a quick, air-conditioned indoor stop that works best as a filler between Kandy's bigger sights rather than a standalone destination, worth it for travelers with an hour or two to spare or looking for a break from the midday heat, not worth a dedicated half-day.",
+            tourCard: { slug: "kandy-wax-museum-of-art-and-culture-entry-ticket", title: "Kandy: Wax Museum of Art and Culture Entry Ticket", description: "An entry ticket to the Wax Museum of Art and Culture in Kandy.", price: "From $60", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065780/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair it with a nearby stop on the same day, it's short enough to slot between other Kandy sights without losing much time." },
+        ],
+        faqs: [
+          { q: "Is the Wax Museum of Art and Culture entry ticket worth it in Kandy?", a: "Yes, as a quick filler stop between other sights, though not worth a dedicated half-day on its own." }
+        ],
+      };
+
     default:
       return null;
   }

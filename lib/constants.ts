@@ -2478,6 +2478,8 @@ export const KANDY_INFO_SLUGS = [
   'is-ayurvedic-wellness-tuktuk-worth-it-kandy', 'is-train-pool-club-day-tour-worth-it-kandy',
   'is-hanthana-lizards-back-hike-worth-it-kandy', 'is-five-peaks-cloud-forest-worth-it-kandy',
   'is-mountain-biking-knuckles-worth-it-kandy',
+  'is-mask-painting-workshop-worth-it-kandy', 'is-pidurutalagala-mountain-day-trip-worth-it-kandy',
+  'is-wax-museum-entry-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.
