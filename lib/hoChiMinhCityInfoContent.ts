@@ -1557,6 +1557,69 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-long-tan-nui-dat-battlefield-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Long Tan and Nui Dat Battlefield Tour Worth It from Ho Chi Minh City?",
+        description: "An honest look at the Long Tan and Nui Dat war history tour from Vung Tau/HCM.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for Vietnam War history enthusiasts, particularly those with Australian connections — Long Tan and Nui Dat were key sites of Australian military involvement in the war, a different historical angle from the more commonly booked Cu Chi Tunnels tours.",
+            tourCard: { slug: "long-tan-and-nui-dat-war-history-discovery-from-vung-tau-hcm-in-ho-chi-minh-city", title: "Long Tan and Nui Dat War History Discovery From Vung Tau/HCM", description: "A war history tour of the Long Tan and Nui Dat battlefields.", price: "From $137", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide with specific knowledge of the Battle of Long Tan adds real depth here — this is a more specialized history tour than the mainstream Cu Chi Tunnels circuit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Long Tan and Nui Dat battlefield tour worth it from Ho Chi Minh City?", a: "Yes, for Vietnam War history enthusiasts, especially those with Australian historical interest, wanting a different angle than the mainstream Cu Chi Tunnels tours." },
+        ],
+      };
+
+    case "is-flower-arrangement-workshop-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Ho Chi Minh City Vietnamese Flower Arrangement Workshop Worth It?",
+        description: "An honest look at Ho Chi Minh City's hands-on Vietnamese flower arrangement workshop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely calm, creative activity distinct from HCMC's usual history and street food circuit — this workshop teaches traditional Vietnamese flower arrangement techniques hands-on, with your own arrangement to take away.",
+            tourCard: { slug: "vietnamese-flower-arrangement-workshop-in-ho-chi-minh-city", title: "Vietnamese Flower Arrangement Workshop in Ho Chi Minh City", description: "A hands-on Vietnamese flower arrangement workshop in Ho Chi Minh City.", price: "From $130", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This works well as a relaxed break midway through a trip heavy on history sites and busy street food tours.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Vietnamese flower arrangement workshop worth it in Ho Chi Minh City?", a: "Yes, for travelers wanting a calm, creative activity distinct from the city's usual history and street food circuit." },
+        ],
+      };
+
+    case "is-cao-dai-noon-mass-cu-chi-tour-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Cao Dai Temple Noon Mass and Cu Chi Tunnels Day Tour Worth It?",
+        description: "An honest look at the combined Cao Dai Temple noon mass and Cu Chi Tunnels day tour from HCM.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to time your Cu Chi Tunnels visit around witnessing the Cao Dai religious ceremony — the noon mass at the Cao Dai Holy See is a genuinely striking, colorful religious ceremony, and pairing it with Cu Chi Tunnels makes efficient use of the same day trip.",
+            tourCard: { slug: "from-hcm-cao-dai-temple-noon-mass-and-cu-chi-tunnels-day-tour-ho-chi-minh-city", title: "From HCM: Cao Dai Temple Noon Mass and Cu Chi Tunnels Day Tour", description: "A day tour combining the Cao Dai Temple noon mass ceremony with Cu Chi Tunnels.", price: "From $291", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The noon mass timing is fixed, so confirm your itinerary's schedule actually lines up with the ceremony rather than missing it.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cao Dai Temple noon mass and Cu Chi Tunnels tour worth it?", a: "Yes, for travelers wanting to witness the genuinely striking Cao Dai religious ceremony alongside a standard Cu Chi Tunnels visit." },
+        ],
+      };
+
     default:
       return null;
   }

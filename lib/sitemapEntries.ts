@@ -3019,6 +3019,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-secret-cocktail-experience-worth-it-ho-chi-minh-city', 'is-ao-dai-photography-cyclo-worth-it-ho-chi-minh-city',
     'is-loaloa-dining-show-worth-it-ho-chi-minh-city', 'is-binh-duong-day-tour-worth-it-ho-chi-minh-city',
     'is-chaoshow-dinner-worth-it-ho-chi-minh-city',
+    'is-long-tan-nui-dat-battlefield-tour-worth-it-ho-chi-minh-city', 'is-flower-arrangement-workshop-worth-it-ho-chi-minh-city',
+    'is-cao-dai-noon-mass-cu-chi-tour-worth-it-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),

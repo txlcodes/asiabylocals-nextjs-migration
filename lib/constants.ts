@@ -3212,6 +3212,8 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'is-secret-cocktail-experience-worth-it-ho-chi-minh-city', 'is-ao-dai-photography-cyclo-worth-it-ho-chi-minh-city',
   'is-loaloa-dining-show-worth-it-ho-chi-minh-city', 'is-binh-duong-day-tour-worth-it-ho-chi-minh-city',
   'is-chaoshow-dinner-worth-it-ho-chi-minh-city',
+  'is-long-tan-nui-dat-battlefield-tour-worth-it-ho-chi-minh-city', 'is-flower-arrangement-workshop-worth-it-ho-chi-minh-city',
+  'is-cao-dai-noon-mass-cu-chi-tour-worth-it-ho-chi-minh-city',
 ];
 
 // Jaisalmer (5 live tours) and Udaipur (9 live tours) launched 2026-11-28,
