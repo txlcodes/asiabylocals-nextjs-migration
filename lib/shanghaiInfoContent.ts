@@ -1731,6 +1731,122 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-anji-atv-canyon-rafting-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Private Anji ATV & Canyon Rafting Day Trip Worth It?",
+        description: "An honest look at Shanghai's $1,274 private day trip to Anji combining ATV riding and canyon rafting.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely active day away from water towns and city sightseeing — Anji's bamboo-covered hills make for a scenic ATV ride, followed by canyon rafting through the surrounding gorges.",
+            tourCard: { slug: "shanghai-private-anji-atv-canyon-rafting-day-trip", title: "Shanghai: Private Anji ATV & Canyon Rafting Day Trip", description: "A private day trip to Anji combining ATV riding and canyon rafting.", price: "From $1,274", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "What You Actually Get",
+            content: "Anji is known for its bamboo forests (parts of Crouching Tiger, Hidden Dragon were filmed here), and the day combines an ATV ride through the hills with canyon rafting through its gorges — a rare combination of two active outdoor activities in one trip from Shanghai.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers who've already done the standard water-town and city circuit and want something more physical and outdoorsy for a change of pace.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes for the rafting portion, and check seasonal availability since water levels affect whether rafting runs year-round.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Anji ATV and canyon rafting day trip worth it from Shanghai?", a: "Yes, for travelers wanting an active, outdoorsy alternative to Shanghai's usual water-town and city day trips." },
+        ],
+      };
+
+    case "is-private-family-indoor-skiing-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Private Family Indoor Skiing Day Trip Worth It?",
+        description: "An honest look at Shanghai's $1,359 private family day trip to L+SNOW, an indoor ski and snow facility.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you have kids or want to ski without traveling to a mountain resort — L+SNOW is an indoor snow facility near Shanghai with real snow and ski slopes, bookable as a private family day trip.",
+            tourCard: { slug: "shanghai-private-family-indoor-skiing-day-trip-at", title: "Shanghai: Private Family Indoor Skiing Day Trip at L+SNOW", description: "A private family day trip to an indoor ski and snow facility near Shanghai.", price: "From $1,359", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "What You Actually Get",
+            content: "L+SNOW maintains real snow and ski slopes year-round indoors, with equipment rental and lessons available, making it accessible even for first-time skiers or families with young children.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for families with kids who want a snow experience without the climate or travel demands of an actual ski resort.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress in layers you can adjust — it's genuinely cold inside the facility regardless of the Shanghai weather outside.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private family indoor skiing day trip worth it from Shanghai?", a: "Yes, especially for families with kids wanting a snow experience without traveling to a real ski resort." },
+        ],
+      };
+
+    case "is-xishan-island-bayberry-picking-worth-it-shanghai":
+      return {
+        title: "Is the Suzhou Xishan Island & Bayberry Picking Day Trip Worth It from Shanghai?",
+        description: "An honest look at the $1,274 private day trip from Shanghai to Suzhou's Xishan Island for bayberry picking.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it in season — Xishan Island on Lake Tai is known for its bayberry orchards, and this trip lets you pick and eat the fruit fresh off the trees alongside the island's lake views, a genuinely different activity from Shanghai's usual sightseeing.",
+            tourCard: { slug: "suzhou-xishan-island-bayberry-picking-private-day", title: "Suzhou: Xishan Island & Bayberry Picking Private Day Trip", description: "A private day trip to Xishan Island on Lake Tai for bayberry picking.", price: "From $1,274", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "What You Actually Get",
+            content: "Xishan Island sits in Lake Tai and is covered in orchards; during bayberry season, you can pick and eat the fruit directly from the trees, paired with the island's lakeside scenery.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers visiting during bayberry season (typically early summer) who want a rural, agricultural experience distinct from Shanghai's water towns and city sights.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm bayberry season dates before booking — outside the harvest window, the picking element won't be available even if the island visit still goes ahead.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Xishan Island bayberry picking day trip worth it from Shanghai?", a: "Yes, during bayberry season — it's a genuinely different, rural activity compared to the usual water-town day trips." },
+        ],
+      };
+
+    case "is-film-park-zhujiajiao-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Film Park & Zhujiajiao Water Town Tour Worth It?",
+        description: "An honest look at Shanghai's $1,282 combo tour pairing a film park with the Zhujiajiao water town.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it if you want more than another canal walk — this pairs a standard Zhujiajiao water town visit with a film park built around Chinese movie and TV production sets, a different angle than the usual water-town day trip.",
+            tourCard: { slug: "shanghai-film-park-and-zhujiajiao-water-town-tour", title: "Shanghai: Film Park and Zhujiajiao Water Town Tour", description: "A combo tour pairing a film park with the Zhujiajiao water town.", price: "From $1,282", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "What You Actually Get",
+            content: "The film park recreates sets used in Chinese film and television productions, giving a behind-the-scenes look at how period dramas and historical films are shot, paired with Zhujiajiao's canals and bridges for the water-town half of the day.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers who've already seen a water town elsewhere and want the film park's production-set novelty added in, rather than a first-time water-town visitor who'd get more from a dedicated Zhujiajiao trip.",
+          },
+          {
+            title: "Practical Tips",
+            content: "If you're a fan of Chinese period dramas, a guide who can point out which productions used which sets adds a lot to the film park half of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the film park and Zhujiajiao water town tour worth it from Shanghai?", a: "Yes, as a novel addition to a water-town day trip, especially for fans of Chinese film and TV productions." },
+        ],
+      };
+
     default:
       return null;
   }
