@@ -1030,6 +1030,8 @@ export const ASTANA_INFO_SLUGS = [
   'astana-travel-guide-2026', 'best-time-to-visit-astana',
   'is-karlag-museum-tour-worth-it-astana',
   'is-horse-riding-stargazing-worth-it-astana',
+  'is-night-city-tour-city-lights-worth-it-astana', 'is-private-guided-cultural-city-tour-worth-it-astana',
+  'is-private-city-tour-wine-tasting-worth-it-astana',
 ];
 
 export const BORJOMI_INFO_SLUGS = [
@@ -1056,7 +1058,7 @@ export const NIZWA_INFO_SLUGS = [
 
 export const SHYMKENT_INFO_SLUGS = [
   'best-turkistan-tour-shymkent', 'is-city-tour-worth-it-shymkent',
-  'is-aksu-canyon-tour-worth-it-shymkent',
+  'is-aksu-canyon-tour-worth-it-shymkent', 'is-turkestan-otrar-day-tour-worth-it-shymkent',
 ];
 
 export const HAIFA_INFO_SLUGS = [

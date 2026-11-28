@@ -1278,11 +1278,13 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'astana-travel-guide-2026', 'best-time-to-visit-astana',
     'is-karlag-museum-tour-worth-it-astana',
     'is-horse-riding-stargazing-worth-it-astana',
+    'is-night-city-tour-city-lights-worth-it-astana', 'is-private-guided-cultural-city-tour-worth-it-astana',
+    'is-private-city-tour-wine-tasting-worth-it-astana',
   ], 'kazakhstan', 'astana');
 
   const shymkentInfoPages = mapInfoSlugs([
     'best-turkistan-tour-shymkent', 'is-city-tour-worth-it-shymkent',
-    'is-aksu-canyon-tour-worth-it-shymkent',
+    'is-aksu-canyon-tour-worth-it-shymkent', 'is-turkestan-otrar-day-tour-worth-it-shymkent',
   ], 'kazakhstan', 'shymkent');
 
   const khasabInfoPages = mapInfoSlugs([

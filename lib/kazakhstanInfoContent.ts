@@ -963,6 +963,62 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-night-city-tour-city-lights-worth-it-astana":
+            return {
+                title: "Is the Night City Tour with City Lights and Skip-the-Line Entry Worth It in Astana?",
+                description: "An honest look at the 3-hour night city tour covering Astana's illuminated landmarks with skip-the-line entry.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7dbab246725329446afde7976413400cd9baaf4811b9de67db68ff2799ddf08.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see Astana's futuristic architecture at its most striking — the Grand Mosque, the Palace of Peace and Reconciliation, and Assumption Cathedral all look genuinely different lit up at night, and skip-the-line entry saves real time.", tourCard: { slug: "astana-night-city-tour-city-lights-skip-the-line", title: "Astana: Night City Tour, City Lights & Skip-the-Line Entry", description: "A 3-hour night city tour covering Astana's illuminated landmarks with skip-the-line entry.", price: "From $104", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f7dbab246725329446afde7976413400cd9baaf4811b9de67db68ff2799ddf08.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a jacket even in warmer months — Astana's evenings cool down quickly once the sun sets." }
+                ],
+                faqs: [
+                    { q: "Is the night city tour with city lights worth it in Astana?", a: "Yes, for travelers wanting to see Astana's futuristic landmarks lit up at night with skip-the-line entry." }
+                ],
+            };
+
+        case "is-private-guided-cultural-city-tour-worth-it-astana":
+            return {
+                title: "Is the Private Guided Cultural City Tour with Lunch Worth It in Astana?",
+                description: "An honest look at the full-day private guided cultural city tour of Astana with lunch included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c27a88c06dd689f367dc366fe0dfd1bd1bbfddf06efc798c42a4f854d389d93d.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a thorough, unhurried look at Astana's major landmarks — covering the Grand Mosque, Hazrat Sultan Mosque, and the Palace of Peace and Reconciliation in a full day with lunch included gives real depth beyond a quick highlights tour.", tourCard: { slug: "astana-private-guided-cultural-city-tour-with", title: "Astana: Private Guided Cultural City Tour with Lunch", description: "A full-day private guided cultural city tour of Astana with lunch included.", price: "From $281", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c27a88c06dd689f367dc366fe0dfd1bd1bbfddf06efc798c42a4f854d389d93d.png" } },
+                    { title: "Practical Tips", content: "Dress modestly for the mosque visits — long sleeves and covered legs are expected, and headscarves for women are typically provided on site." }
+                ],
+                faqs: [
+                    { q: "Is the private guided cultural city tour with lunch worth it in Astana?", a: "Yes, for travelers wanting a thorough, unhurried look at Astana's major landmarks in one full day." }
+                ],
+            };
+
+        case "is-private-city-tour-wine-tasting-worth-it-astana":
+            return {
+                title: "Is the Private Guided City Tour with Lunch & Wine Tasting Worth It in Astana?",
+                description: "An honest look at the half-day private guided city tour of Astana combined with a wine tasting.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c0271d1f525200b7d5eda8a867acafd45b15a090952dc03936f41307a59c72d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a more relaxed pace than a packed sightseeing day — pairing a half-day city tour with lunch and a wine tasting gives a genuinely different, slower-paced way to experience Astana than the usual landmark-hopping itinerary.", tourCard: { slug: "astana-private-guided-city-tour-with-lunch-wine", title: "Astana: Private Guided City Tour with Lunch & Wine Tasting", description: "A half-day private guided city tour of Astana combined with lunch and a wine tasting.", price: "From $254", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3c0271d1f525200b7d5eda8a867acafd45b15a090952dc03936f41307a59c72d.jpg" } },
+                    { title: "Practical Tips", content: "Kazakhstan's wine scene is still niche, so treat the tasting as a curious extra rather than the main reason to book this tour." }
+                ],
+                faqs: [
+                    { q: "Is the private city tour with lunch and wine tasting worth it in Astana?", a: "Yes, for travelers wanting a relaxed, slower-paced day combining sightseeing with lunch and a wine tasting." }
+                ],
+            };
+
+        case "is-turkestan-otrar-day-tour-worth-it-shymkent":
+            return {
+                title: "Is the Turkestan and Otrar Day Tour Worth It from Shymkent?",
+                description: "An honest look at the full-day Turkestan and Otrar day tour with guide from Shymkent.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/427d4228b0bddca533cf8a5a5ba2b67fe9428ddaa3fcc1ef3910df0eaed24873.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for history enthusiasts specifically — pairing Turkestan's well-preserved mausoleums with the ruins of Otrar, once a key Silk Road center, gives a genuine step back into Central Asia's trading history in a single day from Shymkent.", tourCard: { slug: "from-shymkent-turkestan-and-otrar-day-tour-with", title: "From Shymkent: Turkestan and Otrar Day Tour with Guide", description: "A full-day Turkestan and Otrar day tour with guide from Shymkent.", price: "From $445", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/427d4228b0bddca533cf8a5a5ba2b67fe9428ddaa3fcc1ef3910df0eaed24873.jpg" } },
+                    { title: "Practical Tips", content: "Otrar is largely ruins rather than restored monuments, so go in with the right expectations — the history and guide's narration matter more here than the visuals alone." }
+                ],
+                faqs: [
+                    { q: "Is the Turkestan and Otrar day tour worth it from Shymkent?", a: "Yes, for history enthusiasts wanting a genuine look at Central Asia's Silk Road trading history in a single day." }
+                ],
+            };
+
         default:
             return null;
     }
