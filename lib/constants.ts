@@ -748,6 +748,8 @@ export const SINGAPORE_INFO_SLUGS: string[] = [
   'is-disney-inspired-walking-tour-worth-it-singapore', 'is-silversmithing-workshop-worth-it-singapore',
   'is-kluang-farm-heritage-worth-it-singapore', 'is-tiong-bahru-estate-tour-worth-it-singapore',
   'is-mount-faber-breakfast-walk-worth-it-singapore',
+  'is-marina-bay-photography-worth-it-singapore', 'is-how-people-live-tour-worth-it-singapore',
+  'is-brave-bites-chinatown-food-tour-worth-it-singapore',
 ];
 
 // Laos launched 2026-11-19 with 304 live tours and zero authority pages.

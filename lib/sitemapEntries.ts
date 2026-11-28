@@ -1024,6 +1024,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-disney-inspired-walking-tour-worth-it-singapore', 'is-silversmithing-workshop-worth-it-singapore',
     'is-kluang-farm-heritage-worth-it-singapore', 'is-tiong-bahru-estate-tour-worth-it-singapore',
     'is-mount-faber-breakfast-walk-worth-it-singapore',
+    'is-marina-bay-photography-worth-it-singapore', 'is-how-people-live-tour-worth-it-singapore',
+    'is-brave-bites-chinatown-food-tour-worth-it-singapore',
   ], 'singapore', 'singapore');
   const luangPrabangInfoPages = mapInfoSlugs([
     'best-kuang-si-waterfall-tour-luang-prabang', 'best-alms-giving-ceremony-tour-luang-prabang',

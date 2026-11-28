@@ -959,6 +959,48 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-marina-bay-photography-worth-it-singapore":
+            return {
+                title: "Is the Marina Bay Sands & Gardens by the Bay Photography Tour Worth It?",
+                description: "An honest look at the 1.5-hour professional photography session at the Helix Bridge, Marina Bay Sands, and Gardens by the Bay in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-679970/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuinely professional photos rather than relying on your own phone camera — a dedicated photographer who knows the best angles at the Helix Bridge, Marina Bay Sands, and Gardens by the Bay delivers a noticeably different result than casual tourist shots.", tourCard: { slug: "singapore-photography-marina-bay-sands-gardens-by", title: "Singapore Photography: Marina Bay Sands & Gardens by the Bay", description: "A 1.5-hour professional photography session at the Helix Bridge, Marina Bay Sands, and Gardens by the Bay in Singapore.", price: "From $596", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-679970/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book the session for golden hour or blue hour if possible — these three landmarks photograph especially well with Singapore's skyline lighting at those times." }
+                ],
+                faqs: [
+                    { q: "Is the Marina Bay Sands and Gardens by the Bay photography tour worth it?", a: "Yes, for travelers wanting genuinely professional photos at Singapore's most iconic landmarks." }
+                ],
+            };
+
+        case "is-how-people-live-tour-worth-it-singapore":
+            return {
+                title: "Is the 'Singapore: How People Live' Tour Worth It?",
+                description: "An honest look at the 3-hour tour exploring Singapore's public and social housing lifestyle.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1126885/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine insight into everyday Singaporean life rather than just skyline sightseeing — exploring the country's distinctive public and social housing system (HDB flats) gives a realistic look at how the vast majority of Singaporeans actually live.", tourCard: { slug: "singapore-how-people-live", title: "Singapore: How People Live", description: "A 3-hour tour exploring Singapore's public and social housing lifestyle.", price: "From $463", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1126885/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This suits travelers genuinely curious about urban planning and everyday local life, not those looking for standard landmark photo stops." }
+                ],
+                faqs: [
+                    { q: "Is the 'How People Live' tour worth it in Singapore?", a: "Yes, for travelers wanting a genuine look at how most Singaporeans actually live, beyond skyline sightseeing." }
+                ],
+            };
+
+        case "is-brave-bites-chinatown-food-tour-worth-it-singapore":
+            return {
+                title: "Is the Brave Bites: Exotic Singapore Food Tour in Chinatown Worth It?",
+                description: "An honest look at the 3-hour exotic food tour through Chinatown, including the Fuk Tak Chi Museum and Amoy Street Food Centre.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1357965/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for adventurous eaters specifically — this tour is framed around genuinely unusual, 'brave' local dishes rather than the safer hawker-stall staples, pairing Chinatown Complex and Amoy Street Food Centre stops with real historical context at the Fuk Tak Chi Museum.", tourCard: { slug: "brave-bites-exotic-singapore-food-tour-in", title: "Brave Bites: Exotic Singapore Food Tour in Chinatown", description: "A 3-hour exotic food tour through Chinatown, including the Fuk Tak Chi Museum and Amoy Street Food Centre.", price: "From $483", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1357965/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come with an open mind and an empty stomach — this tour is explicitly framed as a challenge for adventurous palates, not a gentle food introduction." }
+                ],
+                faqs: [
+                    { q: "Is the Brave Bites Chinatown food tour worth it in Singapore?", a: "Yes, for adventurous eaters wanting genuinely unusual local dishes paired with real historical context in Chinatown." }
+                ],
+            };
+
         default:
             return null;
     }
