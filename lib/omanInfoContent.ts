@@ -1992,6 +1992,62 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-jebel-akhdar-green-mountain-tour-worth-it-nizwa":
+            return {
+                title: "Is the Jebel Akhdar Green Mountain Tour Worth It from Nizwa?",
+                description: "An honest look at the full-day Jebel Akhdar Green Mountain tour visiting Nizwa Souq and Birkat Al Mouz from Nizwa.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c390be1a8065f23f333f271d5af91d84d971a9f11a24373a5504a2a10b4006d.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine mountain scenery paired with real cultural depth — Jebel Akhdar's terraced villages and cooler elevation give a striking contrast to Nizwa's desert heat, and pairing it with Nizwa Souq and the Birkat Al Mouz ruins rounds out the day.", tourCard: { slug: "nizwa-jebel-akhdar-green-mountain-tour", title: "Nizwa, Jebel Akhdar: Green Mountain Tour", description: "A full-day Jebel Akhdar Green Mountain tour visiting Nizwa Souq and Birkat Al Mouz from Nizwa.", price: "From $239", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c390be1a8065f23f333f271d5af91d84d971a9f11a24373a5504a2a10b4006d.png" } },
+                    { title: "Practical Tips", content: "Bring a light jacket — Jebel Akhdar's elevation means genuinely cooler temperatures than Nizwa's valley floor, even in warmer months." }
+                ],
+                faqs: [
+                    { q: "Is the Jebel Akhdar Green Mountain tour worth it from Nizwa?", a: "Yes, for travelers wanting genuine mountain scenery and cultural depth beyond Nizwa's desert heat." }
+                ],
+            };
+
+        case "is-jebel-shams-nizwa-fort-shared-tour-worth-it-nizwa":
+            return {
+                title: "Is the Shared Nizwa: Jebel Shams, Castle & Nizwa Fort Guided Trip Worth It?",
+                description: "An honest look at the full-day shared tour visiting Nizwa Fort, Nizwa Souq, and Jebel Shams from Nizwa.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2989e3f9830e7eef4f82a76c897b72ad549573fb783ceadabe05db25078d79f3.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if budget matters more than privacy — a shared tour covering Nizwa Fort, the souq, and Jebel Shams (the 'Grand Canyon of Arabia') gives genuine value by splitting costs across the group while still covering Nizwa's major highlights.", tourCard: { slug: "shared-nizwa-jebel-shamscastle-nizwa-fort-guided", title: "Shared Nizwa: Jebel Shams, Castle & Nizwa Fort Guided Trip", description: "A full-day shared tour visiting Nizwa Fort, Nizwa Souq, and Jebel Shams from Nizwa.", price: "From $142", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2989e3f9830e7eef4f82a76c897b72ad549573fb783ceadabe05db25078d79f3.png" } },
+                    { title: "Practical Tips", content: "Jebel Shams offers genuinely dramatic canyon views, so budget extra time there if photography is a priority." }
+                ],
+                faqs: [
+                    { q: "Is the shared Jebel Shams, castle, and Nizwa Fort trip worth it?", a: "Yes, for budget-conscious travelers wanting Nizwa's major highlights at a lower shared-group cost." }
+                ],
+            };
+
+        case "is-outdoor-camping-dhow-cruise-worth-it-khasab":
+            return {
+                title: "Is the Khasab Outdoor Camping with Dhow Cruise Tour Worth It?",
+                description: "An honest look at the full-day Khasab experience combining a dhow cruise with overnight beach camping under the stars.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6409bf5e5cc01.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely memorable overnight experience rather than a standard day cruise — camping on an Omani beach under the stars after a dhow cruise through the fjords gives this trip a real sense of adventure beyond a typical afternoon boat tour.", tourCard: { slug: "khasab-outdoor-camping-with-dhow-cruise-tour", title: "Khasab: Outdoor Camping with Dhow Cruise Tour", description: "A full-day Khasab experience combining a dhow cruise with overnight beach camping under the stars.", price: "From $312", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6409bf5e5cc01.jpeg" } },
+                    { title: "Practical Tips", content: "Pack warm layers for the night — desert and coastal temperatures drop noticeably after sunset even in Khasab's warm climate." }
+                ],
+                faqs: [
+                    { q: "Is the outdoor camping with dhow cruise tour worth it in Khasab?", a: "Yes, for travelers wanting a genuinely memorable overnight adventure beyond a standard afternoon dhow cruise." }
+                ],
+            };
+
+        case "is-musandam-6-hour-diving-worth-it-khasab":
+            return {
+                title: "Is the 6-Hour Diving Experience in Khasab Worth It from Musandam?",
+                description: "An honest look at the half-day scuba diving experience in Khasab from Musandam.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9171b02ba050f65d406e7d125e45a5163d4fdb852fb87926ee944f31fd8402c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine diving time rather than a quick snorkel — six hours gives real flexibility to explore Musandam's fjord waters properly, a different and often less-crowded dive destination than Oman's more popular Muscat-area sites.", tourCard: { slug: "from-musandam-6-hours-diving-experience-in-khasab", title: "From Musandam: 6-Hours Diving Experience in Khasab", description: "A half-day scuba diving experience in Khasab from Musandam.", price: "From $306", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e9171b02ba050f65d406e7d125e45a5163d4fdb852fb87926ee944f31fd8402c.jpg" } },
+                    { title: "Practical Tips", content: "Confirm your certification level with the operator in advance, since dive site selection depends on your experience." }
+                ],
+                faqs: [
+                    { q: "Is the 6-hour diving experience worth it in Khasab?", a: "Yes, for divers wanting genuine time in Musandam's fjord waters, a less-crowded alternative to Muscat-area dive sites." }
+                ],
+            };
+
         default:
             return null;
     }

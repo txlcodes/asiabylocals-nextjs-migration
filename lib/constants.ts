@@ -1068,6 +1068,7 @@ export const KHASAB_INFO_SLUGS = [
   'khasab-travel-guide-2026',
   'is-scuba-diving-worth-it-khasab', 'is-city-tour-worth-it-khasab',
   'is-dhow-zipline-combo-worth-it-khasab', 'is-jabel-mountain-safari-worth-it-khasab',
+  'is-outdoor-camping-dhow-cruise-worth-it-khasab', 'is-musandam-6-hour-diving-worth-it-khasab',
 ];
 
 export const NIZWA_INFO_SLUGS = [
@@ -1076,6 +1077,7 @@ export const NIZWA_INFO_SLUGS = [
   'is-cultural-cart-tour-worth-it-nizwa',
   'is-jabreen-bahla-castle-tour-worth-it-nizwa',
   'is-nizwa-fort-ticket-worth-it-nizwa', 'is-sayq-plateau-trek-worth-it-nizwa',
+  'is-jebel-akhdar-green-mountain-tour-worth-it-nizwa', 'is-jebel-shams-nizwa-fort-shared-tour-worth-it-nizwa',
 ];
 
 export const SHYMKENT_INFO_SLUGS = [

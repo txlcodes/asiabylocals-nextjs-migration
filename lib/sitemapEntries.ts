@@ -1320,6 +1320,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'khasab-travel-guide-2026',
     'is-scuba-diving-worth-it-khasab', 'is-city-tour-worth-it-khasab',
     'is-dhow-zipline-combo-worth-it-khasab', 'is-jabel-mountain-safari-worth-it-khasab',
+    'is-outdoor-camping-dhow-cruise-worth-it-khasab', 'is-musandam-6-hour-diving-worth-it-khasab',
   ], 'oman', 'khasab');
 
   const nizwaInfoPages = mapInfoSlugs([
@@ -1328,6 +1329,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-cultural-cart-tour-worth-it-nizwa',
     'is-jabreen-bahla-castle-tour-worth-it-nizwa',
     'is-nizwa-fort-ticket-worth-it-nizwa', 'is-sayq-plateau-trek-worth-it-nizwa',
+    'is-jebel-akhdar-green-mountain-tour-worth-it-nizwa', 'is-jebel-shams-nizwa-fort-shared-tour-worth-it-nizwa',
   ], 'oman', 'nizwa');
 
   const borjomiInfoPages = mapInfoSlugs([
