@@ -2641,6 +2641,62 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kpop-debut-song-recording-worth-it-seoul":
+      return {
+        title: "Is the Seoul K-Pop Debut Song Recording Experience Worth It?",
+        description: "An honest look at Seoul's K-Pop debut song recording experience in a professional studio.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for K-pop fans specifically — this puts you in a professional recording studio to record your own vocal track, a genuine hands-on fan experience distinct from a K-pop dance class or a tour of entertainment company buildings.", tourCard: { slug: "seoul-k-pop-debut-song-recording-experience", title: "Seoul: K-Pop Debut Song Recording Experience", description: "A professional studio recording experience for K-pop fans in Seoul.", price: "From $665", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Ask in advance what you take home — a recorded track, video, or both — since this varies by operator and matters if the keepsake is the main draw." },
+        ],
+        faqs: [
+          { q: "Is the K-Pop debut song recording experience worth it in Seoul?", a: "Yes, for K-pop fans wanting a genuine hands-on studio recording experience rather than just watching a performance." },
+        ],
+      };
+
+    case "is-vip-russian-guide-tour-worth-it-seoul":
+      return {
+        title: "Is the Seoul VIP Tour with a Russian-Speaking Guide Worth It?",
+        description: "An honest look at Seoul's VIP private tours with a dedicated Russian-speaking guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, specifically for Russian-speaking travelers who want to avoid the language barrier — these VIP tours cover Seoul's highlights or day trips like Incheon and Seoraksan with a guide who communicates directly in Russian throughout.", tourCard: { slug: "seoul-in-one-day-by-car-vip-tour-with", title: "Seoul in One Day by Car: VIP Tour with Russian Guide", description: "A VIP private car tour of Seoul with a Russian-speaking guide.", price: "From $1,040", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Several variants exist (Seoraksan, Incheon, city-only) with Russian-speaking guides, so confirm which specific itinerary matches what you want to see." },
+        ],
+        faqs: [
+          { q: "Is the VIP Russian-speaking guide tour worth it in Seoul?", a: "Yes, for Russian-speaking travelers wanting Seoul's highlights explained without a language barrier." },
+        ],
+      };
+
+    case "is-dmz-military-expert-tour-worth-it-seoul":
+      return {
+        title: "Is the Seoul DMZ Full-Day Tour with a Military Expert Worth It?",
+        description: "An honest look at Seoul's DMZ full-day tour led by a military expert guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want deeper context than a standard DMZ tour guide typically provides — a military expert can explain tactical and historical details of the Korean War and the DMZ's current status with genuine authority, a meaningful upgrade for history-focused visitors.", tourCard: { slug: "seoul-dmz-full-day-tour-with-military-expert", title: "Seoul: DMZ Full-Day Tour with Military Expert", description: "A full-day DMZ tour from Seoul led by a military expert guide.", price: "From $776", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Bring your passport — it's required for DMZ access regardless of which specific tour or guide you book." },
+        ],
+        faqs: [
+          { q: "Is the DMZ tour with a military expert worth it in Seoul?", a: "Yes, for history-focused travelers wanting genuinely deeper tactical and historical context than a standard DMZ tour guide provides." },
+        ],
+      };
+
+    case "is-exhibition-interpreter-service-worth-it-seoul":
+      return {
+        title: "Is the Seoul & Busan Professional Exhibition Interpreter Service Worth It?",
+        description: "An honest look at the professional exhibition interpreter service available in Seoul and Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Worth it specifically for business travelers attending trade shows or exhibitions — this provides a professional interpreter for exhibition and business settings, a genuinely different service from a standard sightseeing tour guide.", tourCard: { slug: "seoul-busan-professional-exhibition-interpreter", title: "Seoul & Busan: Professional Exhibition Interpreter Service", description: "A professional interpreter service for exhibitions and trade shows in Seoul and Busan.", price: "From $699", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Share the specific industry and terminology in advance so the interpreter can prepare rather than translating unfamiliar technical terms on the spot." },
+        ],
+        faqs: [
+          { q: "Is the professional exhibition interpreter service worth it in Seoul or Busan?", a: "Yes, for business travelers attending trade shows who need accurate, prepared interpretation rather than a general tour guide." },
+        ],
+      };
+
     default:
       return null;
   }

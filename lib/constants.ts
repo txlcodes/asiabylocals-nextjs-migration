@@ -1390,6 +1390,8 @@ export const SEOUL_INFO_SLUGS = [
   'is-mt-gwanaksan-trek-worth-it-seoul', 'is-mt-dobongsan-hiking-worth-it-seoul',
   'is-seoul-city-wall-trekking-worth-it-seoul', 'is-paju-mt-gamaksan-gloucester-worth-it-seoul',
   'is-street-food-sashimi-dinner-worth-it-seoul',
+  'is-kpop-debut-song-recording-worth-it-seoul', 'is-vip-russian-guide-tour-worth-it-seoul',
+  'is-dmz-military-expert-tour-worth-it-seoul', 'is-exhibition-interpreter-service-worth-it-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
