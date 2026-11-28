@@ -1620,6 +1620,69 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tay-ninh-craft-village-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Tay Ninh Craft Village: Rice Paper and Local Salt Experience Worth It?",
+        description: "An honest look at the Tay Ninh craft village day trip covering rice paper making and local salt production.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want hands-on exposure to two distinct local crafts in one trip — this covers both traditional rice paper making and local salt production in Tay Ninh province, genuinely different village traditions beyond HCMC's usual Cu Chi Tunnels and Mekong Delta circuit.",
+            tourCard: { slug: "tay-ninh-craft-village-rice-paper-and-local-salt-experience-in-ho-chi-minh-city", title: "Tay Ninh Craft Village: Rice Paper and Local Salt Experience in Ho Chi Minh City", description: "A day trip to Tay Ninh covering rice paper making and local salt production.", price: "From $260", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Tay Ninh's famous muối tôm (shrimp salt) makes a genuinely good, packable souvenir if you want to bring the local flavor home.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tay Ninh craft village tour worth it from Ho Chi Minh City?", a: "Yes, for travelers wanting hands-on exposure to rice paper making and local salt production, beyond the standard Cu Chi and Mekong circuit." },
+        ],
+      };
+
+    case "is-cat-tien-crocodile-lake-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is Cat Tien National Park with Crocodile Lake Worth It from Ho Chi Minh City?",
+        description: "An honest look at the Cat Tien National Park day trip that includes a visit to Crocodile Lake.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for wildlife enthusiasts specifically — Cat Tien is a genuine biodiversity hotspot, and Crocodile Lake lets you spot real wild Siamese crocodiles in their natural habitat, a distinct wildlife experience from the standard Mekong Delta or Cu Chi Tunnels day trips.",
+            tourCard: { slug: "cat-tien-national-park-with-crocodile-lake-in-ho-chi-minh-city", title: "Cat Tien National Park with Crocodile Lake in Ho Chi Minh City", description: "A day trip to Cat Tien National Park including a visit to Crocodile Lake.", price: "From $338", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars and insect repellent — genuine wildlife spotting in a national park rewards patience and preparation.",
+          },
+        ],
+        faqs: [
+          { q: "Is Cat Tien National Park with Crocodile Lake worth it from Ho Chi Minh City?", a: "Yes, for wildlife enthusiasts wanting to spot real wild crocodiles and genuine biodiversity, distinct from standard Mekong Delta trips." },
+        ],
+      };
+
+    case "is-vegetarian-street-food-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Vegetarian Street Food Tour Worth It in Ho Chi Minh City?",
+        description: "An honest look at Ho Chi Minh City's dedicated vegetarian street food tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if dietary restrictions have you worried about missing out on Vietnamese street food — this tour curates genuinely vegetarian versions of local dishes and stalls, letting plant-based travelers experience Saigon's food scene without the usual guesswork.",
+            tourCard: { slug: "vegetarian-street-food-in-ho-chi-minh-city", title: "Vegetarian Street Food in Ho Chi Minh City", description: "A dedicated vegetarian street food tour in Ho Chi Minh City.", price: "From $125", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any further dietary restrictions (vegan, allergies) in advance so your guide can adjust specific stops accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the vegetarian street food tour worth it in Ho Chi Minh City?", a: "Yes, for vegetarian and plant-based travelers wanting to experience Saigon's food scene without the usual dietary guesswork." },
+        ],
+      };
+
     default:
       return null;
   }
