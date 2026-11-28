@@ -1889,6 +1889,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kirirom-national-park-worth-it-phnom-penh', 'is-koh-rong-samloem-hike-snorkel-worth-it-phnom-penh',
     'is-kampong-phluk-floating-village-worth-it-phnom-penh', 'is-mekong-big-private-cruise-worth-it-phnom-penh',
     'is-cambodia-2day-nature-culture-heritage-worth-it-phnom-penh',
+    'is-koh-dach-silk-island-worth-it-phnom-penh', 'is-kep-scenic-train-pepper-farm-worth-it-phnom-penh',
+    'is-chisor-mountain-temple-worth-it-phnom-penh', 'is-udong-long-vek-phnom-reap-worth-it-phnom-penh',
   ].map(slug => ({
     url: `${BASE_URL}/cambodia/phnom-penh/${slug}`,
     lastModified: new Date(),

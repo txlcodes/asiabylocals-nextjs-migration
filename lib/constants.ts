@@ -1888,6 +1888,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'is-kirirom-national-park-worth-it-phnom-penh', 'is-koh-rong-samloem-hike-snorkel-worth-it-phnom-penh',
     'is-kampong-phluk-floating-village-worth-it-phnom-penh', 'is-mekong-big-private-cruise-worth-it-phnom-penh',
     'is-cambodia-2day-nature-culture-heritage-worth-it-phnom-penh',
+    'is-koh-dach-silk-island-worth-it-phnom-penh', 'is-kep-scenic-train-pepper-farm-worth-it-phnom-penh',
+    'is-chisor-mountain-temple-worth-it-phnom-penh', 'is-udong-long-vek-phnom-reap-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [

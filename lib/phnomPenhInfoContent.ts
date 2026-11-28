@@ -1522,6 +1522,66 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-koh-dach-silk-island-worth-it-phnom-penh":
+            return {
+                title: "Is the Koh Dach Silk Island Tour Worth It from Phnom Penh?",
+                description: "An honest look at the Koh Dach Silk Island full-day private tour from Phnom Penh.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine rural, craft-focused escape close to the city — Koh Dach is known for its traditional silk weaving, and this tour lets you watch and learn the craft on a quiet Mekong river island most visitors never reach.",
+                    tourCard: { slug: "koh-dach-silk-island-and-phnom-penh-full-day", title: "Koh Dach Silk Island and Phnom Penh Full Day Private Tour", description: "A full-day private tour combining Koh Dach Silk Island with Phnom Penh.", price: "From $376", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Ask to see the actual weaving process in action, since watching artisans at work is the real highlight of the island." }
+                ],
+                faqs: [
+                    { q: "Is the Koh Dach Silk Island tour worth it from Phnom Penh?", a: "Yes, for travelers wanting a quiet, craft-focused rural escape close to the capital." }
+                ],
+            };
+
+        case "is-kep-scenic-train-pepper-farm-worth-it-phnom-penh":
+            return {
+                title: "Is the Phnom Penh to Kep Scenic Train and Pepper Farm Tour Worth It?",
+                description: "An honest look at the scenic train journey from Phnom Penh to Kep combined with a pepper farm visit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if the journey itself matters to you as much as the destination — Cambodia's train network is still a relatively novel way to travel for tourists, and pairing the scenic ride to Kep with a stop at a working pepper farm gives both transport novelty and a genuine agricultural stop.",
+                    tourCard: { slug: "phnom-penh-to-kep-scenic-train-and-pepper-farm", title: "Phnom Penh to Kep Scenic Train and Pepper Farm", description: "A scenic train journey from Phnom Penh to Kep combined with a pepper farm visit.", price: "From $220", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the train schedule in advance, since Cambodia's rail network runs limited services rather than frequent departures." }
+                ],
+                faqs: [
+                    { q: "Is the Kep scenic train and pepper farm tour worth it from Phnom Penh?", a: "Yes, for travelers who want a novel train journey combined with a genuine stop at a working pepper farm." }
+                ],
+            };
+
+        case "is-chisor-mountain-temple-worth-it-phnom-penh":
+            return {
+                title: "Is the Phnom Penh Temple Tour and Chisor Mountain Worth It?",
+                description: "An honest look at the Phnom Penh temple tour that includes Chisor Mountain, with an onward Vietnam transfer option.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a lesser-visited hilltop temple with genuine views — Chisor Mountain's ancient Angkorian-era ruins sit atop a hill overlooking the surrounding countryside, a quieter alternative to Phnom Penh's busier city temples, with the convenience of an onward Vietnam transfer built in.",
+                    tourCard: { slug: "phnom-penh-temple-tour-and-chisor-mountain-vietnam", title: "Phnom Penh Temple Tour and Chisor Mountain + Vietnam Transfer", description: "A Phnom Penh temple tour including Chisor Mountain, with an onward Vietnam transfer.", price: "From $519", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Climbing to Chisor Mountain's summit temple involves real stairs, so wear comfortable shoes and bring water." }
+                ],
+                faqs: [
+                    { q: "Is the Chisor Mountain temple tour worth it from Phnom Penh?", a: "Yes, for travelers wanting a quieter hilltop Angkorian-era temple with genuine views, beyond the city's busier temples." }
+                ],
+            };
+
+        case "is-udong-long-vek-phnom-reap-worth-it-phnom-penh":
+            return {
+                title: "Is the Udong Hill, Long Vek, and Phnom Reap Day Tour Worth It?",
+                description: "An honest look at the day tour combining Udong Hill, Long Vek, and Phnom Reap from Phnom Penh.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers with genuine interest in Cambodia's pre-colonial royal history — Udong, Long Vek, and Phnom Reap were all former Khmer capitals at different points, and covering all three in one day gives a layered history lesson well off the standard tourist circuit.",
+                    tourCard: { slug: "udong-hill-long-vek-and-phnom-reap-day-tour", title: "Udong Hill, Long Vek, and Phnom Reap Day Tour", description: "A day tour covering Udong Hill, Long Vek, and Phnom Reap, former Khmer capitals near Phnom Penh.", price: "From $307", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "A guide with strong knowledge of Cambodia's pre-Angkor and post-Angkor royal history adds real depth to this niche itinerary." }
+                ],
+                faqs: [
+                    { q: "Is the Udong, Long Vek, and Phnom Reap tour worth it from Phnom Penh?", a: "Yes, for travelers with genuine interest in Cambodia's former royal capitals, well off the standard tourist circuit." }
+                ],
+            };
+
         default:
             return null;
     }
