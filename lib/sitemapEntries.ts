@@ -919,6 +919,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-luxury-beachclub-worth-it-baku', 'is-f1-circuit-walking-tour-worth-it-baku',
     'is-soviet-mosaics-architecture-worth-it-baku', 'is-garanohur-lake-hiking-worth-it-baku',
     'is-capybara-alpaca-farms-worth-it-baku',
+    'is-f1-grand-prix-balcony-package-worth-it-baku', 'is-cinematic-shoot-instagram-reel-worth-it-baku',
+    'is-basqal-silk-masterclass-worth-it-baku', 'is-beginner-scuba-diving-worth-it-baku',
   ], 'azerbaijan', 'baku');
   const singaporeInfoPages = mapInfoSlugs([
     'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',

@@ -936,6 +936,62 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-f1-grand-prix-balcony-package-worth-it-baku":
+            return {
+                title: "Is the Baku Formula 1 Azerbaijan Grand Prix Balcony Package Worth It?",
+                description: "An honest look at Baku's Formula 1 Azerbaijan Grand Prix balcony viewing package.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for F1 fans specifically — this balcony package gives an elevated vantage point over Baku's famously tight and fast street circuit, a genuinely different viewing experience from standard grandstand seating.", tourCard: { slug: "baku-formula-1-azerbaijan-grand-prix-balcony", title: "Baku: Formula 1 Azerbaijan Grand Prix Balcony Package", description: "A balcony viewing package for the Formula 1 Azerbaijan Grand Prix in Baku.", price: "From $364", duration: "Race weekend", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book well ahead of race weekend — F1 Grand Prix packages sell out, and hotel prices in Baku spike significantly during the event." },
+                ],
+                faqs: [
+                    { q: "Is the F1 Azerbaijan Grand Prix balcony package worth it in Baku?", a: "Yes, for F1 fans wanting an elevated vantage point over Baku's distinctive street circuit." },
+                ],
+            };
+
+        case "is-cinematic-shoot-instagram-reel-worth-it-baku":
+            return {
+                title: "Is the Baku Private Cinematic Shoot & Instagram Reel Experience Worth It?",
+                description: "An honest look at Baku's private cinematic photo and video shoot, delivered as an Instagram reel within 48 hours.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Worth it specifically for travelers who want professional-quality content from their trip — this is a dedicated photo and video shoot at Baku's most cinematic spots, edited into a ready-to-post Instagram reel within 48 hours.", tourCard: { slug: "baku-private-cinematic-shoot-instagram-reel-in-48", title: "Baku: Private Cinematic Shoot, Instagram Reel in 48 Hours", description: "A private cinematic photo and video shoot in Baku, delivered as an Instagram reel within 48 hours.", price: "From $286", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Pick your outfits and preferred Baku locations in advance so the photographer can plan the shoot route efficiently." },
+                ],
+                faqs: [
+                    { q: "Is the cinematic shoot and Instagram reel experience worth it in Baku?", a: "Yes, for travelers wanting professionally shot and edited content from Baku's most cinematic spots, delivered quickly." },
+                ],
+            };
+
+        case "is-basqal-silk-masterclass-worth-it-baku":
+            return {
+                title: "Is the Shamakhi & Lahij Tour with Basqal Silk Masterclass Worth It from Baku?",
+                description: "An honest look at the Shamakhi and Lahij tour with a hands-on Basqal silk-making masterclass from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if traditional craft matters to you as much as scenery — Basqal village is known for traditional Azerbaijani silk-making, and this masterclass lets you learn the technique hands-on, a genuine point of difference from a standard Shamakhi and Lahij sightseeing day.", tourCard: { slug: "shamakhi-lahij-tour-with-basqal-silk-masterclass", title: "Shamakhi & Lahij tour with Basqal silk masterclass", description: "A tour of Shamakhi and Lahij including a Basqal silk-making masterclass.", price: "From $325", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "A genuinely good pick if you want a distinctive, handmade silk souvenir rather than typical shop-bought items." },
+                ],
+                faqs: [
+                    { q: "Is the Basqal silk masterclass worth it from Baku?", a: "Yes, for travelers wanting genuine hands-on traditional craft alongside Shamakhi and Lahij sightseeing." },
+                ],
+            };
+
+        case "is-beginner-scuba-diving-worth-it-baku":
+            return {
+                title: "Is the Baku Beginner Scuba Diving Experience Worth It?",
+                description: "An honest look at Baku's scuba diving experience for beginners in the Caspian Sea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you've never scuba dived before and want to try it somewhere genuinely different — diving in the Caspian Sea, the world's largest inland body of water, is a novelty most travelers won't get the chance to try elsewhere.", tourCard: { slug: "baku-beginners-guided-tour", title: "From Baku: Scuba Diving Experience for Beginners", description: "A beginner-friendly scuba diving experience in the Caspian Sea from Baku.", price: "From $260", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "No prior diving experience is needed, but confirm with the operator what certification, if any, you'll walk away with." },
+                ],
+                faqs: [
+                    { q: "Is the beginner scuba diving experience worth it in Baku?", a: "Yes, for first-time divers wanting the novelty of diving in the Caspian Sea, the world's largest inland body of water." },
+                ],
+            };
+
         default:
             return null;
     }
