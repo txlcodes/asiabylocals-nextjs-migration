@@ -1808,6 +1808,66 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-white-desert-overnight-safari-worth-it-wadi-rum":
+            return {
+                title: "Is the Wadi Rum White Desert Overnight Safari with Meals Worth It?",
+                description: "An honest look at the full-day Wadi Rum White Desert overnight safari with Bedouin history, traditions, and meals.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3b254ee59530462b1d1c809d8a79f3cd576591bcfd1c0b3dee9c649ef1908e14.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine cultural context alongside the desert scenery — learning about Bedouin history and traditions directly from your hosts, paired with meals and an overnight stay, gives real depth beyond a scenic drive-through.",
+                    tourCard: { slug: "wadi-rum-white-desert-overnight-safari-with-meals", title: "Wadi Rum: White Desert Overnight Safari with Meals", description: "A full-day Wadi Rum White Desert overnight safari with Bedouin history, traditions, and meals.", price: "From $287", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3b254ee59530462b1d1c809d8a79f3cd576591bcfd1c0b3dee9c649ef1908e14.jpeg" } },
+                    { title: "Practical Tips", content: "Ask questions directly about Bedouin life and traditions — hosts on these tours are usually genuinely happy to share their culture beyond a scripted tour narration." }
+                ],
+                faqs: [
+                    { q: "Is the White Desert overnight safari worth it in Wadi Rum?", a: "Yes, for travelers wanting genuine Bedouin cultural context alongside the desert scenery and overnight stay." }
+                ],
+            };
+
+        case "is-4x4-bedouin-sunset-worth-it-wadi-rum":
+            return {
+                title: "Is the 4x4 Full-Day Tour with Bedouin Guide and Sunset Worth It in Wadi Rum?",
+                description: "An honest look at the full-day 4x4 tour visiting Lawrence's Spring, Al Ramal Red Sand Dune, and Khazali Canyon with a Bedouin guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1a9c193d35890c9bdc545f58202ef190220948317973ffc6648908234e175fe8.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want the classic Wadi Rum landmarks covered properly — Lawrence's Spring, the Al Ramal Red Sand Dune, and Khazali Canyon together give genuine variety, and finishing with sunset in the desert is a real highlight a Bedouin guide knows how to time well.",
+                    tourCard: { slug: "wadi-rum-4x4-full-day-tour-with-bedouin-guide", title: "Wadi Rum: 4x4 Full-day Tour with Bedouin Guide and Sunset", description: "A full-day 4x4 tour visiting Lawrence's Spring, Al Ramal Red Sand Dune, and Khazali Canyon with a Bedouin guide.", price: "From $134", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1a9c193d35890c9bdc545f58202ef190220948317973ffc6648908234e175fe8.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the exact sunset timing with your guide, since the desert light at that hour is genuinely one of the trip's best moments." }
+                ],
+                faqs: [
+                    { q: "Is the 4x4 tour with Bedouin guide and sunset worth it in Wadi Rum?", a: "Yes, for travelers wanting Wadi Rum's classic landmarks covered properly, timed to end with a genuine desert sunset." }
+                ],
+            };
+
+        case "is-9-hour-jeep-camel-sandboarding-worth-it-wadi-rum":
+            return {
+                title: "Is the 9-Hour Jeep Tour, Camel, Sandboarding & Lunch Worth It in Wadi Rum?",
+                description: "An honest look at the full-day 9-hour Wadi Rum tour combining a jeep ride, camel riding, sandboarding, and lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73082bb08d9edf428d9675ed4fb931ad842c9b21189b33416d09db8d26697191.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to try every classic Wadi Rum activity in one booking — stacking a jeep tour, camel riding, and sandboarding across a genuinely long 9-hour day gives real variety rather than picking just one activity.",
+                    tourCard: { slug: "wadi-rum-9-hour-jeep-tour-pass-camel-sandbording", title: "Wadi Rum: 9 Hour Jeep Tour Pass, Camel, Sandbording & Lunch", description: "A full-day 9-hour Wadi Rum tour combining a jeep ride, camel riding, sandboarding, and lunch.", price: "From $84", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73082bb08d9edf428d9675ed4fb931ad842c9b21189b33416d09db8d26697191.jpg" } },
+                    { title: "Practical Tips", content: "Pace yourself across the day — combining jeep touring, camel riding, and sandboarding is genuinely more physically tiring than a single-activity tour." }
+                ],
+                faqs: [
+                    { q: "Is the 9-hour jeep, camel, and sandboarding tour worth it in Wadi Rum?", a: "Yes, for travelers wanting to try every classic Wadi Rum activity in one long, varied day." }
+                ],
+            };
+
+        case "is-2-hour-jeep-sandboarding-sunset-worth-it-wadi-rum":
+            return {
+                title: "Is the 2-Hour Jeep Adventure & Sandboarding at Sunset Worth It in Wadi Rum?",
+                description: "An honest look at the short 2-hour jeep adventure with sandboarding at sunset in Wadi Rum.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8919c686e072391fec4f735d69f75c8148d81bbb7c6f5e906334f850cf760326.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you have limited time but still want a genuine taste of Wadi Rum's adventure side — a short jeep ride combined with sandboarding timed for sunset packs real adrenaline and scenery into just a couple of hours.",
+                    tourCard: { slug: "wadi-rum-2-hour-jeep-adventure-sandboarding-at", title: "Wadi Rum: 2-Hour Jeep Adventure & Sandboarding at Sunset", description: "A short 2-hour jeep adventure with sandboarding at sunset in Wadi Rum.", price: "From $77", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8919c686e072391fec4f735d69f75c8148d81bbb7c6f5e906334f850cf760326.jpeg" } },
+                    { title: "Practical Tips", content: "Book the slot timed closest to actual sunset for the best light on both the jeep ride and the sandboarding portion." }
+                ],
+                faqs: [
+                    { q: "Is the 2-hour jeep adventure and sandboarding at sunset worth it in Wadi Rum?", a: "Yes, for travelers with limited time wanting a genuine taste of Wadi Rum's adventure and scenery in a short window." }
+                ],
+            };
+
         default:
             return null;
     }

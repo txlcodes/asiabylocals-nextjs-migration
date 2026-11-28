@@ -1468,6 +1468,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'best-jeep-tour-wadi-rum', 'best-overnight-camping-tour-wadi-rum',
     'best-camel-tour-wadi-rum', 'is-khazali-canyon-horseback-worth-it-wadi-rum',
     'wadi-rum-travel-guide-2026',
+    'is-white-desert-overnight-safari-worth-it-wadi-rum', 'is-4x4-bedouin-sunset-worth-it-wadi-rum',
+    'is-9-hour-jeep-camel-sandboarding-worth-it-wadi-rum', 'is-2-hour-jeep-sandboarding-sunset-worth-it-wadi-rum',
   ], 'jordan', 'wadi-rum');
 
   const pakseInfoPages = mapInfoSlugs([
