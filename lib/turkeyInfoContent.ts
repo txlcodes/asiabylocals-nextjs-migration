@@ -2621,6 +2621,89 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sapanca-lake-masukiye-day-trip-worth-it-istanbul":
+      return {
+        title: "Is the Private Day Trip to Sapanca Lake and Maşukiye Worth It from Istanbul?",
+        description: "An honest look at the full-day private day trip to Sapanca Lake and Maşukiye from Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6cbcd74717edfc1a3a753fd8f56b34ee42fcc232c1789bff4ba35f2a66694617.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine countryside and forest scenery without leaving the Istanbul region — Sapanca Lake and the alpine-village feel of Maşukiye are a real change of pace from the city's mosques and bazaars, reachable in a single day.",
+            tourCard: { slug: "from-istanbul-private-day-trip-to-sapanca-lake", title: "From Istanbul: Private Day Trip to Sapanca Lake and Maşukiye", description: "A full-day private day trip to Sapanca Lake and Maşukiye from Istanbul.", price: "From $573", duration: "9.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6cbcd74717edfc1a3a753fd8f56b34ee42fcc232c1789bff4ba35f2a66694617.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Autumn brings out the best colors in Maşukiye's forests, so consider the season if the scenery is your main reason for going.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sapanca Lake and Maşukiye day trip worth it from Istanbul?", a: "Yes, for travelers wanting genuine countryside and forest scenery in a single day away from the city." },
+        ],
+      };
+
+    case "is-galata-tower-chora-church-balat-tour-worth-it-istanbul":
+      return {
+        title: "Is the Galata Tower, Chora Church, and Balat Tour Worth It in Istanbul?",
+        description: "An honest look at the half-day tour combining Galata Tower, Chora Church, and the Balat neighborhood in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66e62ce04b3c501cf9df25efd91b897852b2a5ade10fc3583671313556a54626.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Istanbul's lesser-known highlights in one half-day — Chora Church holds some of the finest Byzantine mosaics in the city, far less crowded than Hagia Sophia, and pairing it with Galata Tower views and Balat's colorful streets covers real ground beyond the main tourist circuit.",
+            tourCard: { slug: "istanbul-galata-tower-chora-church-and-balat-tour", title: "Istanbul: Galata Tower, Chora Church, and Balat Tour", description: "A half-day tour combining Galata Tower, Chora Church, and the Balat neighborhood in Istanbul.", price: "From $520", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/66e62ce04b3c501cf9df25efd91b897852b2a5ade10fc3583671313556a54626.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Balat's steep, colorful streets make for great photos but involve real walking uphill, so wear comfortable shoes.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Galata Tower, Chora Church, and Balat tour worth it in Istanbul?", a: "Yes, for travelers wanting Istanbul's Byzantine mosaics and colorful neighborhood streets beyond the main tourist circuit." },
+        ],
+      };
+
+    case "is-hagia-sophia-blue-mosque-night-tour-worth-it-istanbul":
+      return {
+        title: "Is the Hagia Sophia and Blue Mosque Tour by Night Worth It in Istanbul?",
+        description: "An honest look at the evening tour of Hagia Sophia and the Blue Mosque in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6031750d72b72.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see Istanbul's two most famous landmarks without the daytime crowds — visiting at night means thinner groups and a genuinely different atmosphere under floodlit domes and minarets.",
+            tourCard: { slug: "istanbul-tour-of-hagia-sophia-and-blue-mosque-by", title: "Istanbul: Tour of Hagia Sophia and Blue Mosque By Night", description: "An evening tour of Hagia Sophia and the Blue Mosque in Istanbul.", price: "From $441", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6031750d72b72.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Interior access and lighting can vary around prayer times, so confirm with your guide exactly what's included on your specific evening slot.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hagia Sophia and Blue Mosque night tour worth it in Istanbul?", a: "Yes, for travelers wanting to see Istanbul's two most famous landmarks with fewer crowds and dramatic night lighting." },
+        ],
+      };
+
+    case "is-turkish-cocktail-workshop-worth-it-istanbul":
+      return {
+        title: "Is the Turkish Cocktail Workshop with Locals at a Home Bar Worth It in Istanbul?",
+        description: "An honest look at Istanbul's hands-on Turkish cocktail workshop hosted with locals at a home bar.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/428c24298a0e55c5d279f0cc1d61d4b7bff8a14fa16e9b7769d6b0e020c8afa5.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine social evening rather than a formal class — this workshop is hosted at a local's home bar, mixing cocktail-making with real conversation and connection, a different kind of Istanbul evening than a restaurant or rooftop bar.",
+            tourCard: { slug: "istanbul-turkish-cocktail-workshop-with-locals-at", title: "Istanbul Turkish Cocktail Workshop with Locals at Home Bar", description: "A hands-on Turkish cocktail workshop hosted with locals at a home bar in Istanbul.", price: "From $327", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/428c24298a0e55c5d279f0cc1d61d4b7bff8a14fa16e9b7769d6b0e020c8afa5.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This works best for travelers genuinely interested in meeting locals, not just those looking for a standard mixology class." },
+        ],
+        faqs: [
+          { q: "Is the Turkish cocktail workshop worth it in Istanbul?", a: "Yes, for travelers wanting a genuine social evening with locals rather than a formal mixology class." },
+        ],
+      };
+
     default:
       return null;
   }
