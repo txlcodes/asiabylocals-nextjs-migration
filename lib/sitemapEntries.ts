@@ -1773,6 +1773,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-holy-tattoo-wat-bang-phra-worth-it-bangkok', 'is-don-wai-market-worth-it-bangkok',
     'is-sala-lakorn-dinner-show-worth-it-bangkok', 'is-viral-head-spa-worth-it-bangkok',
     'is-harmony-onsen-worth-it-bangkok',
+    'is-okura-japanese-dinner-cruise-worth-it-bangkok', 'is-thai-costume-photoshoot-worth-it-bangkok',
+    'is-specialty-coffee-tour-worth-it-bangkok', 'is-night-safari-alleyways-wild-encounters-worth-it-bangkok',
+    'is-guided-fishing-market-coffee-worth-it-bangkok',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),

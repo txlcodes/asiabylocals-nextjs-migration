@@ -2319,6 +2319,81 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-okura-japanese-dinner-cruise-worth-it-bangkok":
+            return {
+                title: "Is the Okura Cruise Luxury Japanese Dinner Cruise Worth It in Bangkok?",
+                description: "An honest look at Bangkok's Okura Cruise, a luxury Japanese dinner cruise on the Chao Phraya River.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine break from Thai-cuisine dinner cruises — the Okura Cruise serves a proper Japanese dinner menu while cruising the Chao Phraya River, a distinctive combination not offered by the standard Thai-buffet riverboat cruises.",
+                    tourCard: { slug: "okura-cruise-luxury-japanese-dinner-cruise-in-bangkok", title: "Okura Cruise - Luxury Japanese Dinner Cruise in Bangkok", description: "A luxury Japanese dinner cruise on the Chao Phraya River in Bangkok.", price: "From $179", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book a window-side table in advance if river views matter to you, since seating by the window tends to fill up first." }
+                ],
+                faqs: [
+                    { q: "Is the Okura Japanese dinner cruise worth it in Bangkok?", a: "Yes, for travelers wanting a genuine Japanese dining experience combined with Chao Phraya River views, a distinctive alternative to standard Thai dinner cruises." }
+                ],
+            };
+
+        case "is-thai-costume-photoshoot-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Photoshoot in Thai Costume Worth It?",
+                description: "An honest look at Bangkok's photoshoot experience in traditional Thai costume.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuinely distinctive photos rather than standard tourist shots — dressing in traditional Thai costume for a dedicated photoshoot gives a far more memorable result than photographing temples in regular clothes.",
+                    tourCard: { slug: "photoshoot-in-thai-costume-in-bangkok", title: "Photoshoot in Thai Costume in Bangkok", description: "A professional photoshoot experience in traditional Thai costume in Bangkok.", price: "From $156", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Ask in advance which temple or backdrop locations are included, since this affects how varied your final photo set will look." }
+                ],
+                faqs: [
+                    { q: "Is the Thai costume photoshoot worth it in Bangkok?", a: "Yes, for travelers wanting genuinely distinctive, memorable photos beyond standard tourist shots." }
+                ],
+            };
+
+        case "is-specialty-coffee-tour-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Specialty Coffee Tour and Tastings Worth It?",
+                description: "An honest look at Bangkok's specialty coffee tour with tastings led by a local guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for coffee enthusiasts specifically — this tour takes you through Bangkok's specialty coffee scene with a knowledgeable local guide, a genuinely different angle than the city's usual temple and street food circuit.",
+                    tourCard: { slug: "specialty-coffee-tour-and-tastings-with-local-guide-in-bangkok", title: "Specialty Coffee Tour and Tastings with Local Guide in Bangkok", description: "A specialty coffee tour with tastings led by a local guide in Bangkok.", price: "From $167", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Pace your tastings across stops — specialty coffee tours often involve more cups than you'd drink in a normal day." }
+                ],
+                faqs: [
+                    { q: "Is the specialty coffee tour worth it in Bangkok?", a: "Yes, for coffee enthusiasts wanting a genuinely different angle on the city beyond temples and street food." }
+                ],
+            };
+
+        case "is-night-safari-alleyways-wild-encounters-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Night Safari, Alleyways, Parks, and Wild Encounters Tour Worth It?",
+                description: "An honest look at Bangkok's after-dark tour covering alleyways, parks, and urban wildlife encounters.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you're curious about Bangkok's urban wildlife and hidden corners after dark — this tour weaves through alleyways and parks specifically looking for wild encounters, a distinctive angle beyond the usual night market or temple circuit.",
+                    tourCard: { slug: "night-safari-alleyways-parks-and-wild-encounters-in-bangkok", title: "Night Safari, Alleyways, Parks, and Wild Encounters in Bangkok", description: "A night tour of Bangkok's alleyways and parks focused on urban wildlife encounters.", price: "From $151", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Wear comfortable walking shoes and bring mosquito repellent, since the route covers parks and green spaces after dark." }
+                ],
+                faqs: [
+                    { q: "Is the night safari and wild encounters tour worth it in Bangkok?", a: "Yes, for travelers curious about the city's urban wildlife and hidden corners, a distinctive angle beyond standard night markets." }
+                ],
+            };
+
+        case "is-guided-fishing-market-coffee-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Guided Fishing Tour with Market Visit and Coffee Worth It?",
+                description: "An honest look at Bangkok's guided fishing tour combined with a market visit and coffee stop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a slower, varied morning rather than another temple stop — this pairs genuine fishing with a local market visit and coffee, giving three distinct, low-key activities in one relaxed outing.",
+                    tourCard: { slug: "guided-fishing-tour-with-market-visit-and-coffee-in-bangkok", title: "Guided Fishing Tour with Market Visit and Coffee in Bangkok", description: "A guided fishing tour combined with a market visit and coffee stop in Bangkok.", price: "From $182", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Go in without fixed expectations on the catch — like any fishing outing, results vary day to day." }
+                ],
+                faqs: [
+                    { q: "Is the guided fishing tour with market visit and coffee worth it in Bangkok?", a: "Yes, for travelers wanting a slower, varied morning combining fishing, a local market, and coffee in one relaxed outing." }
+                ],
+            };
+
         default:
             return null;
     }
