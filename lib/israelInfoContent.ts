@@ -892,6 +892,48 @@ export function getIsraelInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-jaffa-sunset-skyline-walk-worth-it-jerusalem":
+            return {
+                title: "Is the Jaffa Sunset Skyline Walking Tour to Jaffa Port Worth It?",
+                description: "An honest look at the 1.5-hour sunset walking tour to Jaffa Port with panoramic views of the Tel Aviv skyline.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/28bd2d02352d8880e2f64691126d811a940b8e8172bd79f6174f87ea7b7fca3d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a short, scenic evening walk rather than a packed sightseeing day — Jaffa Port's panoramic sunset views over the Tel Aviv skyline give a genuinely relaxing, photogenic close to the day in just 90 minutes.", tourCard: { slug: "jaffa-sunset-skyline-walking-tour-to-jaffa-port", title: "Jaffa: Sunset Skyline Walking Tour to Jaffa Port", description: "A 1.5-hour sunset walking tour to Jaffa Port with panoramic views of the Tel Aviv skyline.", price: "From $117", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/28bd2d02352d8880e2f64691126d811a940b8e8172bd79f6174f87ea7b7fca3d.jpeg" } },
+                    { title: "Practical Tips", content: "Time your start to arrive at the port roughly 30 minutes before actual sunset for the best light over the skyline." }
+                ],
+                faqs: [
+                    { q: "Is the Jaffa sunset skyline walking tour worth it?", a: "Yes, for travelers wanting a short, scenic evening walk with panoramic sunset views over the Tel Aviv skyline." }
+                ],
+            };
+
+        case "is-tel-aviv-highlights-jerusalem-old-city-worth-it-jerusalem":
+            return {
+                title: "Are the Tel Aviv Highlights of Jerusalem's Old City Worth It?",
+                description: "An honest look at the full-day tour covering Jerusalem's Old City highlights and historic sites from Tel Aviv.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/61dc465de2149.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want an efficient day covering Jerusalem's major historic sites from a Tel Aviv base — this tour is specifically structured as a highlights circuit, hitting the Old City's most significant stops without requiring an overnight stay in Jerusalem.", tourCard: { slug: "from-tel-aviv-highlights-of-jerusalems-old-city", title: "From Tel Aviv: Highlights of Jerusalem's Old City", description: "A full-day tour covering Jerusalem's Old City highlights and historic sites from Tel Aviv.", price: "From $120", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/61dc465de2149.png" } },
+                    { title: "Practical Tips", content: "Wear comfortable walking shoes — the Old City's cobblestone streets and uneven terrain make for a genuinely demanding day of walking." }
+                ],
+                faqs: [
+                    { q: "Is the Jerusalem Old City highlights tour worth it from Tel Aviv?", a: "Yes, for travelers wanting an efficient day covering Jerusalem's major historic sites without an overnight stay." }
+                ],
+            };
+
+        case "is-bethlehem-christian-jerusalem-russian-worth-it-jerusalem":
+            return {
+                title: "Is the Bethlehem & Christian Jerusalem Tour in Russian Worth It?",
+                description: "An honest look at the half-day Bethlehem and Christian Jerusalem tour conducted in Russian, including the Church of the Nativity.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c8e3e56949e9.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, specifically for Russian-speaking travelers — removing the language barrier for sites as historically layered as the Church of the Nativity and Christian Jerusalem matters more than any generic English tour.", tourCard: { slug: "bethlehem-christian-jerusalem-in-russian", title: "Bethlehem & Christian Jerusalem in Russian", description: "A half-day Bethlehem and Christian Jerusalem tour conducted in Russian, including the Church of the Nativity.", price: "From $94", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5c8e3e56949e9.jpeg" } },
+                    { title: "Practical Tips", content: "Dress modestly for the Church of the Nativity, covering shoulders and knees as expected at active religious sites." }
+                ],
+                faqs: [
+                    { q: "Is the Bethlehem and Christian Jerusalem tour worth it in Russian?", a: "Yes, for Russian-speaking travelers wanting full historical context at Bethlehem and Christian Jerusalem's sites without a language barrier." }
+                ],
+            };
+
         default:
             return null;
     }
