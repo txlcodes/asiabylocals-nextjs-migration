@@ -290,6 +290,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-yandang-mountain-worth-it-shanghai', 'is-pinghu-old-town-seaside-sunset-worth-it-shanghai',
     'is-anji-atv-canyon-rafting-worth-it-shanghai', 'is-private-family-indoor-skiing-worth-it-shanghai',
     'is-xishan-island-bayberry-picking-worth-it-shanghai', 'is-film-park-zhujiajiao-worth-it-shanghai',
+    'is-yacht-party-karaoke-worth-it-shanghai', 'is-wildlife-park-predator-feeding-worth-it-shanghai',
+    'is-yiwu-trade-market-worth-it-shanghai', 'is-pingtan-folk-art-teahouse-worth-it-shanghai',
   ].map(slug => ({
     url: `${BASE_URL}/china/shanghai/${slug}`,
     lastModified: new Date(),

@@ -1847,6 +1847,90 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-yacht-party-karaoke-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Luxury Yacht Party with Karaoke Worth It?",
+        description: "An honest look at Shanghai's luxury yacht party experience with karaoke on board.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely lively, social evening on the water — this combines a luxury yacht cruise with onboard karaoke, a far more party-oriented experience than a standard scenic river cruise.",
+            tourCard: { slug: "shanghai-luxury-yacht-party-with-karaoke", title: "Shanghai Luxury Yacht Party with Karaoke", description: "A luxury yacht party experience in Shanghai with karaoke on board.", price: "From $1,170", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Best booked for a group celebration rather than a quiet sightseeing cruise, since the karaoke setup is the centerpiece of the experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the yacht party with karaoke worth it in Shanghai?", a: "Yes, for groups wanting a lively, social celebration on the water rather than a quiet scenic cruise." },
+        ],
+      };
+
+    case "is-wildlife-park-predator-feeding-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Wildlife Park Panda & Predator Feeding Tour Worth It?",
+        description: "An honest look at Shanghai Wildlife Park's panda and predator feeding experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want active animal encounters rather than passive viewing — this tour includes actual feeding sessions for pandas and predator species, giving a more hands-on, up-close experience than a standard zoo walkthrough.",
+            tourCard: { slug: "shanghai-wildlife-park-panda-predator-feeding-tour", title: "Shanghai Wildlife Park Panda & Predator Feeding Tour", description: "A tour of Shanghai Wildlife Park including panda and predator feeding sessions.", price: "From $1,216", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check feeding session times in advance, since that's the highlight of the visit and sessions run on a fixed schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is the panda and predator feeding tour worth it at Shanghai Wildlife Park?", a: "Yes, for travelers wanting active, up-close animal encounters rather than passive zoo viewing." },
+        ],
+      };
+
+    case "is-yiwu-trade-market-worth-it-shanghai":
+      return {
+        title: "Is the Yiwu International Trade Market Tour from Shanghai Worth It?",
+        description: "An honest look at the Yiwu International Trade Market tour from Shanghai, one of the world's largest wholesale markets.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, specifically for business travelers or wholesale buyers — Yiwu is one of the world's largest small-commodity wholesale markets, and a guided tour helps you navigate its genuinely overwhelming scale rather than getting lost browsing alone.",
+            tourCard: { slug: "yiwu-international-trade-market-tour-from-shanghai", title: "Yiwu International Trade Market Tour From Shanghai", description: "A guided tour of the Yiwu International Trade Market from Shanghai.", price: "From $1,040", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a clear list of what you're sourcing before you go — Yiwu's market is genuinely vast, and a focused plan saves real time.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Yiwu International Trade Market tour worth it from Shanghai?", a: "Yes, for business travelers and wholesale buyers wanting guided help navigating one of the world's largest wholesale markets." },
+        ],
+      };
+
+    case "is-pingtan-folk-art-teahouse-worth-it-shanghai":
+      return {
+        title: "Is the Shanghai Pingtan Folk Art & Teahouse Cultural Experience Worth It?",
+        description: "An honest look at Shanghai's Pingtan folk art and teahouse cultural experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers with genuine interest in traditional Chinese performance art — pingtan is a storytelling and music tradition native to the Jiangnan region, performed live in an authentic teahouse setting, a distinctive cultural angle beyond Shanghai's modern skyline.",
+            tourCard: { slug: "shanghai-pingtan-folk-art-teahouse-cultural", title: "Shanghai: Pingtan Folk Art & Teahouse Cultural Experience", description: "A cultural experience featuring Pingtan folk art performance in a traditional teahouse in Shanghai.", price: "From $1,014", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The performance is in the local dialect, so a guide who can translate or explain the storyline adds real value.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Pingtan folk art and teahouse experience worth it in Shanghai?", a: "Yes, for travelers with genuine interest in traditional Chinese performance art, distinct from the city's modern attractions." },
+        ],
+      };
+
     default:
       return null;
   }
