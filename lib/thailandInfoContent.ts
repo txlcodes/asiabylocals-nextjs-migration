@@ -1811,6 +1811,76 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-holy-tattoo-wat-bang-phra-worth-it-bangkok":
+            return {
+                title: "Is the Holy Tattoo Experience at Wat Bang Phra Worth It in Bangkok?",
+                description: "An honest look at the sacred sak yant tattoo experience at Wat Bang Phra, a temple famous for traditional Thai bamboo tattooing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/holy-tattoo-experience-at-wat-bang-phra-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Wat Bang Phra is genuinely one of Thailand's most famous temples for sacred sak yant tattoos, applied by hand with a traditional bamboo needle by monks, a real spiritual and cultural practice rather than a standard tourist tattoo shop experience.", tourCard: { slug: "holy-tattoo-experience-at-wat-bang-phra-in-bangkok", title: "Holy Tattoo Experience at Wat Bang Phra in Bangkok", description: "A traditional sacred sak yant tattoo experience at Wat Bang Phra temple.", price: "From $144", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/holy-tattoo-experience-at-wat-bang-phra-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Research the designs and their meanings beforehand, since sak yant tattoos carry genuine spiritual significance, not just decorative patterns." }
+                ],
+                faqs: [
+                    { q: "Is the holy tattoo experience at Wat Bang Phra worth it in Bangkok?", a: "Yes, for a genuinely significant spiritual and cultural experience at one of Thailand's most famous sacred tattoo temples." }
+                ],
+            };
+
+        case "is-don-wai-market-worth-it-bangkok":
+            return {
+                title: "Is the Don Wai Market and Wat Samphran Tour Worth It from Bangkok?",
+                description: "An honest look at the Don Wai Market, Wat Samphran, and Lotus Café tour, a quirky riverside day trip outside Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/don-wai-market-wat-samphran-and-lotus-caf-tour-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Wat Samphran's giant dragon-wrapped tower is genuinely one of Thailand's most unusual temple sights, and pairing it with Don Wai's riverside market and a lotus café stop gives a quirky, offbeat day trip that's a real contrast to central Bangkok's major temples.", tourCard: { slug: "don-wai-market-wat-samphran-and-lotus-caf-tour-in-bangkok", title: "Don Wai Market, Wat Samphran and Lotus Café Tour in Bangkok", description: "A day trip to Don Wai Market, the dragon tower at Wat Samphran, and a lotus café near Bangkok.", price: "From $107", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/don-wai-market-wat-samphran-and-lotus-caf-tour-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a camera specifically for Wat Samphran's dragon tower — it's a genuinely unusual, highly photogenic structure unlike Bangkok's classic golden temples." }
+                ],
+                faqs: [
+                    { q: "Is the Don Wai Market and Wat Samphran tour worth it from Bangkok?", a: "Yes, for a genuinely quirky, offbeat day trip featuring one of Thailand's most unusual temple sights, a real contrast to central Bangkok's major temples." }
+                ],
+            };
+
+        case "is-sala-lakorn-dinner-show-worth-it-bangkok":
+            return {
+                title: "Is the Sala Lakorn Dinner Buffet and Thai Theatrical Show Worth It in Bangkok?",
+                description: "An honest look at the Sala Lakorn dinner buffet paired with a traditional Thai theatrical performance in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sala-lakorn-dinner-buffet-and-thai-theatrical-show-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a dinner buffet with a genuine traditional Thai theatrical performance gives a cultural evening with real entertainment value, worth it for travelers wanting an easy, all-in-one dinner-and-show night rather than arranging dinner and tickets separately.", tourCard: { slug: "sala-lakorn-dinner-buffet-and-thai-theatrical-show-in-bangkok", title: "Sala Lakorn Dinner Buffet and Thai Theatrical Show in Bangkok", description: "A dinner buffet combined with a traditional Thai theatrical performance in Bangkok.", price: "From $113", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sala-lakorn-dinner-buffet-and-thai-theatrical-show-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Arrive with an appetite for the buffet, but save real attention for the performance — the theatrical show is the genuine highlight, not just a backdrop to dinner." }
+                ],
+                faqs: [
+                    { q: "Is the Sala Lakorn dinner buffet and theatrical show worth it in Bangkok?", a: "Yes, for an easy, all-in-one cultural evening with a genuine traditional performance and dinner included." }
+                ],
+            };
+
+        case "is-viral-head-spa-worth-it-bangkok":
+            return {
+                title: "Is the Viral Head Spa Kiss Series Worth It in Bangkok?",
+                description: "An honest look at Bangkok's viral head spa kiss series with aroma oil treatment, a trending Korean-style scalp wellness treatment.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/viral-head-spa-kiss-series-with-aroma-oil-treatment-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This trending scalp and head massage treatment gives a genuinely relaxing, social-media-popular wellness break, worth it specifically for travelers curious about the viral head spa trend rather than those wanting a traditional Thai massage.", tourCard: { slug: "viral-head-spa-kiss-series-with-aroma-oil-treatment-in-bangkok", title: "Viral Head Spa Kiss Series with Aroma Oil Treatment in Bangkok", description: "A trending head spa treatment with aroma oil in Bangkok.", price: "From $109", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/viral-head-spa-kiss-series-with-aroma-oil-treatment-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go in expecting a scalp-and-head-focused treatment specifically, genuinely different from a full-body Thai massage." }
+                ],
+                faqs: [
+                    { q: "Is the viral head spa kiss series worth it in Bangkok?", a: "Yes, for travelers curious about the trending head spa treatment, a genuinely relaxing scalp-focused experience distinct from a traditional Thai massage." }
+                ],
+            };
+
+        case "is-harmony-onsen-worth-it-bangkok":
+            return {
+                title: "Is Harmony Onsen Worth It in Bangkok?",
+                description: "An honest look at Harmony Onsen's hand spa, foot reflexology, and onsen experience in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/harmony-onsen-hand-spa-foot-reflexology-and-onsen-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a Japanese-style onsen soak with hand spa and foot reflexology gives a genuinely thorough relaxation session, worth it for travelers wanting a complete wellness break after days of temple-hopping and city walking.", tourCard: { slug: "harmony-onsen-hand-spa-foot-reflexology-and-onsen-in-bangkok", title: "Harmony Onsen Hand Spa, Foot Reflexology and Onsen in Bangkok", description: "A combined hand spa, foot reflexology, and onsen experience in Bangkok.", price: "From $136", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/harmony-onsen-hand-spa-foot-reflexology-and-onsen-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book this for a rest day between sightseeing, since the genuine value here comes from taking the full session slowly rather than rushing through it." }
+                ],
+                faqs: [
+                    { q: "Is Harmony Onsen worth it in Bangkok?", a: "Yes, for a genuinely thorough relaxation session combining onsen, hand spa, and foot reflexology, a good complete wellness break." }
+                ],
+            };
+
         case "is-muay-thai-class-worth-it-phuket":
             return {
                 title: "Is the Muay Thai Training Class Worth It in Phuket?",

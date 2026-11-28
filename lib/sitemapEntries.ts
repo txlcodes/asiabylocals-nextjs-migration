@@ -1671,6 +1671,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-khlong-toei-scavenger-hunt-worth-it-bangkok', 'is-nakhon-nayok-waterfalls-atv-worth-it-bangkok',
     'is-truth-sanctuary-coral-island-worth-it-bangkok', 'is-myste-waterfall-cave-dining-worth-it-bangkok',
     'is-lebua-sky-bar-chinatown-tuktuk-worth-it-bangkok', 'is-private-photographer-friend-worth-it-bangkok',
+    'is-holy-tattoo-wat-bang-phra-worth-it-bangkok', 'is-don-wai-market-worth-it-bangkok',
+    'is-sala-lakorn-dinner-show-worth-it-bangkok', 'is-viral-head-spa-worth-it-bangkok',
+    'is-harmony-onsen-worth-it-bangkok',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/bangkok/${slug}`,
     lastModified: new Date(),
