@@ -948,6 +948,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const udaipurInfoPages = mapInfoSlugs([
     'best-udaipur-city-tour-udaipur', 'is-kumbhalgarh-ranakpur-day-trip-worth-it-udaipur',
     'is-chittorgarh-fort-day-trip-worth-it-udaipur',
+    'is-vintage-car-havelis-tour-worth-it-udaipur',
   ], 'india', 'udaipur');
   const jodhpurInfoPages = mapInfoSlugs([
     'best-jodhpur-blue-city-tour-jodhpur', 'is-local-flavors-hidden-lanes-tour-worth-it-jodhpur',

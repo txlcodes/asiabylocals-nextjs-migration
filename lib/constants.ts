@@ -3402,6 +3402,7 @@ export const JAISALMER_INFO_SLUGS: string[] = [
 export const UDAIPUR_INFO_SLUGS: string[] = [
   'best-udaipur-city-tour-udaipur', 'is-kumbhalgarh-ranakpur-day-trip-worth-it-udaipur',
   'is-chittorgarh-fort-day-trip-worth-it-udaipur',
+  'is-vintage-car-havelis-tour-worth-it-udaipur',
 ];
 export const JODHPUR_INFO_SLUGS: string[] = [
   'best-jodhpur-blue-city-tour-jodhpur', 'is-local-flavors-hidden-lanes-tour-worth-it-jodhpur',

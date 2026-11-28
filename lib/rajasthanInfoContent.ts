@@ -94,6 +94,22 @@ export function getRajasthanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-vintage-car-havelis-tour-worth-it-udaipur":
+            return {
+                title: "Is the Private City Tour with Vintage Cars & Havelis Worth It in Udaipur?",
+                description: "An honest look at the full-day private Udaipur city tour riding in a vintage car, visiting the city's royal havelis.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/udaipur-private-city-tour-with-vintage-cars/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see Udaipur's royal heritage with a touch of old-world glamour — riding in a vintage car while visiting the city's historic havelis gives this private tour a genuinely different feel than a standard sedan-and-driver sightseeing day.", tourCard: { slug: "udaipur-private-city-tour-with-vintage-cars", title: "Udaipur: Private City Tour with Vintage Cars & Havelis", description: "A full-day private Udaipur city tour riding in a vintage car, visiting the city's royal havelis.", price: "From $198", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/udaipur-private-city-tour-with-vintage-cars/img0/1600.webp" } },
+                    { title: "What You Actually See", content: "Expect stops at several of Udaipur's grand havelis alongside the city's lakes and palaces, with the vintage car itself becoming part of the photo-worthy experience." },
+                    { title: "Who It's For", content: "Best for travelers wanting a touch of old-world romance to their Udaipur sightseeing, rather than a purely practical city tour." },
+                    { title: "Practical Tips", content: "Vintage cars prioritize style over speed and comfort, so expect a slower, more deliberate pace than a modern air-conditioned vehicle." }
+                ],
+                faqs: [
+                    { q: "Is the vintage car and havelis tour worth it in Udaipur?", a: "Yes, for travelers wanting a touch of old-world glamour alongside genuine royal heritage sightseeing." }
+                ],
+            };
+
         case "best-jodhpur-blue-city-tour-jodhpur":
             return {
                 title: "Which Is the Best Jodhpur Blue City Tour?",
