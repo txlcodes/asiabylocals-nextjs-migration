@@ -1225,6 +1225,62 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-lavash-masters-dungeon-worth-it-yerevan":
+            return {
+                title: "Is the 'With Armenian Lavash to the Master's Dungeon' Experience Worth It?",
+                description: "An honest look at Yerevan's experience learning traditional lavash bread-making in a master baker's dungeon workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to learn Armenia's UNESCO-recognized lavash bread tradition hands-on — this takes you to an actual master baker's workshop (traditionally set in a cellar or 'dungeon' space) to see and help make the thin flatbread the traditional way.", tourCard: { slug: "with-armenian-lavash-to-the-masters-dungeon", title: "With Armenian Lavash to the Master's Dungeon", description: "A hands-on experience learning traditional lavash bread-making from a master baker in Yerevan.", price: "From $286", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — you'll typically get to taste the fresh lavash you help make, straight from the traditional tonir oven." }
+                ],
+                faqs: [
+                    { q: "Is the Armenian lavash master's dungeon experience worth it in Yerevan?", a: "Yes, for travelers wanting a genuine hands-on introduction to Armenia's UNESCO-recognized lavash bread tradition." }
+                ],
+            };
+
+        case "is-lake-sevan-beer-tasting-worth-it-yerevan":
+            return {
+                title: "Is the Lake Sevan, Dilijan, Haghartsin, Goshavank & Beer Tasting Tour Worth It?",
+                description: "An honest look at the day tour combining Lake Sevan, Dilijan, two monasteries, and a beer tasting from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a change from Armenia's usual wine-tasting day trips — this covers Lake Sevan and two historic monasteries with a beer tasting stop instead, a genuinely different pairing for travelers who prefer beer over wine.", tourCard: { slug: "lake-sevan-dilijan-haghartsin-goshavank-beer", title: "Lake Sevan, Dilijan, Haghartsin, Goshavank & Beer Tasting", description: "A day tour covering Lake Sevan, Dilijan, two monasteries, and a beer tasting.", price: "From $291", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Armenia's craft beer scene is genuinely growing, so ask your guide about local breweries if you want to explore further after the tour." }
+                ],
+                faqs: [
+                    { q: "Is the Lake Sevan and beer tasting tour worth it from Yerevan?", a: "Yes, for travelers who prefer beer over wine and want a genuinely different pairing on their Lake Sevan and monastery day trip." }
+                ],
+            };
+
+        case "is-khor-virap-angel-canyon-worth-it-yerevan":
+            return {
+                title: "Is the Khor Virap, Angel Canyon & Ararat Valley Tour Worth It?",
+                description: "An honest look at the tour combining Khor Virap monastery with Angel Canyon and the Ararat Valley.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to pair Khor Virap's famous Mount Ararat views with genuine canyon scenery — Angel Canyon is a lesser-known natural formation in the Ararat Valley, adding real landscape variety beyond the standard monastery visit.", tourCard: { slug: "yerevan-khor-virap-angel-canyon-ararat-valley-tour", title: "Yerevan: Khor Virap, Angel Canyon & Ararat Valley Tour", description: "A tour combining Khor Virap monastery with Angel Canyon and the Ararat Valley.", price: "From $289", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Clear weather matters most here — Mount Ararat's summit is frequently obscured by clouds, so check forecasts for the best chance of an unobstructed view." }
+                ],
+                faqs: [
+                    { q: "Is the Khor Virap and Angel Canyon tour worth it from Yerevan?", a: "Yes, for travelers wanting genuine canyon landscape variety added to the standard Khor Virap monastery visit." }
+                ],
+            };
+
+        case "is-yazidi-villages-molokan-tour-worth-it-yerevan":
+            return {
+                title: "Is the Lake Sevan, Yazidi Villages & Molokan Tour Worth It from Yerevan?",
+                description: "An honest look at the tour combining Lake Sevan with Yazidi and Molokan ethnic minority villages.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers with genuine interest in Armenia's ethnic diversity — this pairs Lake Sevan's scenery with visits to real Yazidi and Molokan Russian communities, two distinct minority groups most Armenia tours never introduce you to.", tourCard: { slug: "from-yerevan-lake-sevan-yazidi-villages-molokan", title: "From Yerevan: Lake Sevan, Yazidi Villages & Molokan Tour", description: "A day tour combining Lake Sevan with Yazidi and Molokan ethnic minority villages.", price: "From $420", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Approach the village visits with genuine respect and curiosity — these are real communities, not staged cultural attractions." }
+                ],
+                faqs: [
+                    { q: "Is the Yazidi and Molokan villages tour worth it from Yerevan?", a: "Yes, for travelers with genuine interest in Armenia's ethnic diversity, introducing two distinct minority communities." }
+                ],
+            };
+
         default:
             return null;
     }
