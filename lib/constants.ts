@@ -274,6 +274,9 @@ export const PHUKET_INFO_SLUGS = [
   'is-go-kart-atv-shooting-combo-worth-it-phuket', 'is-koh-chang-vip-mini-phi-phi-worth-it-phuket',
   'is-muay-thai-live-match-ticket-worth-it-phuket', 'is-giant-water-lily-pond-old-town-worth-it-phuket',
   'is-padi-advanced-open-water-worth-it-phuket', 'is-6day-surfing-course-worth-it-phuket',
+  'is-surin-islands-snorkeling-worth-it-phuket', 'is-horseback-riding-ao-chalong-worth-it-phuket',
+  'is-ma-doo-bua-drone-photos-worth-it-phuket', 'is-bamboo-rafting-turtle-center-worth-it-phuket',
+  'is-kapong-tubing-worth-it-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once

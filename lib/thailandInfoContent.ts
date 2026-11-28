@@ -2119,6 +2119,76 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-surin-islands-snorkeling-worth-it-phuket":
+            return {
+                title: "Is the Surin Islands Snorkeling Trip Worth It from Phuket?",
+                description: "An honest look at the Surin Islands snorkeling trip, a less-visited marine park alternative to Phuket's busier Phi Phi and Similan routes.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/surin-islands-snorkeling-trip-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "The Surin Islands genuinely see far fewer visitors than Phi Phi or the Similans, with real coral and marine life that's held up better under lighter tourist traffic, worth it for travelers wanting a quieter, less crowded snorkeling destination.", tourCard: { slug: "surin-islands-snorkeling-trip-in-phuket", title: "Surin Islands Snorkeling Trip in Phuket", description: "A snorkeling trip to the less-visited Surin Islands marine park from Phuket.", price: "From $165", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/surin-islands-snorkeling-trip-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "It's a genuinely longer boat ride than Phi Phi, so confirm the journey time fits your schedule before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Surin Islands snorkeling trip worth it from Phuket?", a: "Yes, for travelers wanting a genuinely quieter, less crowded alternative to Phi Phi or the Similans, with marine life that's held up well." }
+                ],
+            };
+
+        case "is-horseback-riding-ao-chalong-worth-it-phuket":
+            return {
+                title: "Is Horseback Riding at Ao Chalong Worth It in Phuket?",
+                description: "An honest look at horseback riding with scenic nature views at Ao Chalong, a land-based activity away from Phuket's usual boat tours.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/horseback-riding-at-ao-chalong-scenic-nature-views-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This gives a genuine change of pace from Phuket's heavily boat-and-island-focused activity lineup, with real countryside and coastal scenery best appreciated from horseback, worth it for travelers wanting variety beyond another snorkeling or speedboat trip.", tourCard: { slug: "horseback-riding-at-ao-chalong-scenic-nature-views-in-phuket", title: "Horseback Riding at Ao Chalong Scenic Nature Views in Phuket", description: "A horseback riding experience with scenic nature views at Ao Chalong in Phuket.", price: "From $151", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/horseback-riding-at-ao-chalong-scenic-nature-views-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "No prior riding experience is typically needed, but confirm with the operator if you want a more advanced ride than a guided walk." }
+                ],
+                faqs: [
+                    { q: "Is horseback riding at Ao Chalong worth it in Phuket?", a: "Yes, for a genuine change of pace from Phuket's usual boat and island tours, with real scenic countryside and coastal views." }
+                ],
+            };
+
+        case "is-ma-doo-bua-drone-photos-worth-it-phuket":
+            return {
+                title: "Is the Ma Doo Bua Skip-the-Line Drone Photo Service Worth It in Phuket?",
+                description: "An honest look at Ma Doo Bua's skip-the-line drone photography and video service at one of Phuket's scenic viewpoints.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ma-doo-bua-skip-the-line-services-for-drone-photos-or-videos-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Professional drone photography captures genuinely dramatic aerial shots of the coastline that a phone camera simply can't match, and the skip-the-line access saves real time at what's become a popular, often crowded viewpoint.", tourCard: { slug: "ma-doo-bua-skip-the-line-services-for-drone-photos-or-videos-in-phuket", title: "Ma Doo Bua Skip-the-Line Services for Drone Photos or Videos in Phuket", description: "Skip-the-line drone photography and video service at Ma Doo Bua in Phuket.", price: "From $208", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/ma-doo-bua-skip-the-line-services-for-drone-photos-or-videos-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Worth it specifically if you want professional-quality aerial footage as a keepsake, rather than just the viewpoint visit itself." }
+                ],
+                faqs: [
+                    { q: "Is the Ma Doo Bua drone photo service worth it in Phuket?", a: "Yes, for genuinely dramatic professional aerial shots and real time saved with skip-the-line access at a popular, often crowded viewpoint." }
+                ],
+            };
+
+        case "is-bamboo-rafting-turtle-center-worth-it-phuket":
+            return {
+                title: "Is the Bamboo Rafting, Turtle Center and Lampi Waterfall Tour Worth It in Phuket?",
+                description: "An honest look at the combined bamboo rafting, turtle conservation center, and Lampi Waterfall tour in Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bamboo-rafting-turtle-center-and-lampi-waterfall-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a gentle bamboo rafting trip with a turtle conservation center visit and a waterfall stop gives a genuinely well-rounded land-based day, worth it for travelers wanting nature and conservation interest without another full day on a boat.", tourCard: { slug: "bamboo-rafting-turtle-center-and-lampi-waterfall-in-phuket", title: "Bamboo Rafting, Turtle Center and Lampi Waterfall in Phuket", description: "A combined bamboo rafting, turtle conservation center, and waterfall tour in Phuket.", price: "From $140", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/bamboo-rafting-turtle-center-and-lampi-waterfall-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A genuinely good pick for families with kids, since the pace is gentle and the turtle center adds real educational value." }
+                ],
+                faqs: [
+                    { q: "Is the bamboo rafting and turtle center tour worth it in Phuket?", a: "Yes, for a genuinely well-rounded land-based day combining gentle rafting, conservation interest, and a waterfall, good for families." }
+                ],
+            };
+
+        case "is-kapong-tubing-worth-it-phuket":
+            return {
+                title: "Is the Khao Lak Kapong Tubing and Jungle Tour Worth It from Phuket?",
+                description: "An honest look at the Kapong tubing, waterfall, and jungle tour from Khao Lak, a river adventure day trip from Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khaolak-kapong-tubing-waterfall-and-jungle-tour-with-lunch-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Tubing down Kapong's river through genuine jungle scenery, with a waterfall stop and lunch included, gives a real adventure-nature day that's a complete change from Phuket's beach and boat-heavy itineraries.", tourCard: { slug: "khaolak-kapong-tubing-waterfall-and-jungle-tour-with-lunch-in-phuket", title: "Khaolak: Kapong Tubing, Waterfall and Jungle Tour with Lunch", description: "A tubing, waterfall, and jungle tour from Khao Lak with lunch included.", price: "From $218", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/khaolak-kapong-tubing-waterfall-and-jungle-tour-with-lunch-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Expect to get genuinely wet throughout the day, so pack a dry bag for phones and valuables." }
+                ],
+                faqs: [
+                    { q: "Is the Kapong tubing and jungle tour worth it from Phuket?", a: "Yes, for a genuine river adventure through real jungle scenery, a complete change from Phuket's usual beach and boat tours." }
+                ],
+            };
+
         default:
             return null;
     }
