@@ -1118,6 +1118,7 @@ export const BATUMI_INFO_SLUGS = [
   'is-botanical-garden-tour-worth-it-batumi',
   'is-kolkheti-georgian-amazon-worth-it-batumi', 'is-upper-ajara-tour-worth-it-batumi',
   'is-black-sea-batumi-multiday-worth-it-batumi', 'is-georgian-dubai-extreme-dinner-worth-it-batumi',
+  'is-motorcycle-atv-adventure-worth-it-batumi', 'is-car-boat-ride-black-sea-worth-it-batumi',
 ];
 
 export const KUTAISI_INFO_SLUGS = [
@@ -1130,6 +1131,7 @@ export const KUTAISI_INFO_SLUGS = [
   'is-martvili-okatse-prometheus-combo-worth-it-kutaisi',
   'is-askhi-mountain-4x4-worth-it-kutaisi', 'is-khvamli-mountain-green-lake-worth-it-kutaisi',
   'is-sairme-spa-zipline-worth-it-kutaisi', 'is-samegrelo-anaklia-daytrip-worth-it-kutaisi',
+  'is-ushguli-4x4-transfer-food-tasting-worth-it-kutaisi',
 ];
 
 // Salalah (Oman) — 93 live tours, launched 2026-11-21.

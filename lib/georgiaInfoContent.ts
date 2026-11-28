@@ -2411,6 +2411,48 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-motorcycle-atv-adventure-worth-it-batumi":
+            return {
+                title: "Is the Motorcycle or ATV Adventure Tour Worth It in Batumi?",
+                description: "An honest look at Batumi's 3-hour motorcycle or ATV adventure tour with pickup.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/51cf4e13c81ce4b465334e0d5cea05561cf8841a20a628b1e6ec59ac68f97dc4.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want an active, local-led alternative to the usual Batumi sightseeing — riding a motorcycle or ATV with a guide covers more varied terrain in three hours than a typical walking or car tour.", tourCard: { slug: "batumi-motorcycle-or-atv-adventure-tour-with", title: "Batumi: Motorcycle or ATV Adventure Tour with Pickup", description: "A 3-hour guided motorcycle or ATV adventure tour around Batumi with pickup.", price: "From $228", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/51cf4e13c81ce4b465334e0d5cea05561cf8841a20a628b1e6ec59ac68f97dc4.jpeg" } },
+                    { title: "Practical Tips", content: "Confirm whether you need a valid motorcycle license for the bike option, and check what protective gear is actually provided before booking." }
+                ],
+                faqs: [
+                    { q: "Is the motorcycle or ATV adventure tour worth it in Batumi?", a: "Yes, for travelers wanting an active, guided way to explore Batumi's surroundings beyond standard sightseeing." }
+                ],
+            };
+
+        case "is-ushguli-4x4-transfer-food-tasting-worth-it-kutaisi":
+            return {
+                title: "Is the Ushguli 4x4 Transfer with Stops & Food Tasting Worth It from Kutaisi?",
+                description: "An honest look at the half-day 4x4 transfer to Ushguli from Kutaisi with scenic stops and local food tasting.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09ad8cbe3fcff7115a1910bf8618a24bcc18a1dae53c3b2a1d94c63c9b0167b4.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see Ushguli's famous Svan defensive towers without committing to the multi-day trek that usually gets there — this 4x4 transfer covers the ground in half a day and adds stops for scenic viewpoints and local food tasting along the way.", tourCard: { slug: "from-kutaisi-ushguli-4x4-transfer-with-stops-food", title: "From Kutaisi: Ushguli 4x4 Transfer with Stops & Food Tasting", description: "A half-day 4x4 transfer to Ushguli from Kutaisi with scenic stops and local food tasting.", price: "From $545", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/09ad8cbe3fcff7115a1910bf8618a24bcc18a1dae53c3b2a1d94c63c9b0167b4.jpg" } },
+                    { title: "Practical Tips", content: "The mountain roads to Ushguli are long and winding even by 4x4, so this is still a demanding day out despite skipping the trek — pack for motion sickness if you're prone to it." }
+                ],
+                faqs: [
+                    { q: "Is the Ushguli 4x4 transfer worth it from Kutaisi?", a: "Yes, for travelers wanting to see Ushguli's Svan towers in half a day with scenic stops, without a multi-day trek." }
+                ],
+            };
+
+        case "is-car-boat-ride-black-sea-worth-it-batumi":
+            return {
+                title: "Is the Private Car Boat Ride at the Black Sea Worth It in Batumi?",
+                description: "An honest look at Batumi's short private car boat ride novelty experience on the Black Sea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18870c53bc2472cc3f5fa3f2ca145de513d80b2f5f6667411a3bb89387b79637.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, as a quick, offbeat novelty rather than a proper boat tour — a car boat is an amphibious vehicle that drives into the water, and the appeal here is the ride itself rather than any extended sightseeing in the short time on the water.", tourCard: { slug: "batumi-private-delightful-car-boat-ride-at-black", title: "Batumi: Private, Delightful Car Boat Ride at Black Sea", description: "A short private car boat ride, an amphibious vehicle experience on the Black Sea in Batumi.", price: "From $220", duration: "12 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/18870c53bc2472cc3f5fa3f2ca145de513d80b2f5f6667411a3bb89387b79637.jpg" } },
+                    { title: "Practical Tips", content: "Treat this as a fun photo-op novelty add-on to your Batumi beach time, not a substitute for a longer boat or yacht cruise." }
+                ],
+                faqs: [
+                    { q: "Is the car boat ride worth it in Batumi?", a: "Yes, as a short, offbeat novelty experience on the Black Sea, but not a substitute for a longer boat tour." }
+                ],
+            };
+
         default:
             return null;
     }
