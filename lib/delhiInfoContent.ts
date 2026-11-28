@@ -2135,6 +2135,111 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mathura-vrindavan-day-tour-worth-it-delhi":
+      return {
+        title: "Is the Mathura & Vrindavan Day Tour Worth It from Delhi?",
+        description: "An honest look at the Mathura and Vrindavan day tour from Delhi, a pilgrimage circuit tied to Krishna's birthplace and childhood.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-mathura-vrindavan-day-tour-with-lunch/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mathura and Vrindavan are genuinely significant pilgrimage towns tied to Krishna's birthplace and childhood, with temples and a devotional atmosphere unlike anything in Delhi's own sightseeing, and the day trip is comfortably doable with guide, lunch, and car included.",
+            tourCard: { slug: "from-delhi-mathura-vrindavan-day-tour-with-lunch", title: "From Delhi: Mathura & Vrindavan Day Tour with Lunch & Guide", description: "A day tour of Mathura and Vrindavan from Delhi with lunch and a guide included.", price: "From $161", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-mathura-vrindavan-day-tour-with-lunch/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and be ready for genuinely crowded temples, especially around festival dates tied to Krishna's life.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mathura and Vrindavan day tour worth it from Delhi?", a: "Yes, for a genuinely significant pilgrimage experience tied to Krishna's birthplace, comfortably doable as a day trip with guide and lunch included." },
+        ],
+      };
+
+    case "is-char-dham-yatra-worth-it-delhi":
+      return {
+        title: "Is the Char Dham Yatra Package Worth It from Delhi?",
+        description: "An honest look at the Char Dham Yatra package from Delhi, the pilgrimage circuit to four of Hinduism's most sacred Himalayan shrines.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-char-dham-yatra-package-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Char Dham Yatra visits Yamunotri, Gangotri, Kedarnath, and Badrinath, four of Hinduism's most sacred Himalayan shrines, and this is a genuinely demanding multi-day pilgrimage rather than a sightseeing trip, worth it specifically for travelers undertaking the Yatra itself rather than casual tourists.",
+            tourCard: { slug: "from-delhi-char-dham-yatra-package-with", title: "From Delhi: Char Dham Yatra Package with Accommodation", description: "A Char Dham Yatra pilgrimage package from Delhi with accommodation included.", price: "From $239", duration: "Multi-day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-char-dham-yatra-package-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Yatra involves genuine high-altitude trekking and variable mountain weather — check the season and your own fitness before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Char Dham Yatra worth it from Delhi?", a: "Yes, specifically for travelers undertaking the pilgrimage itself — it's a genuinely demanding Himalayan journey, not a casual sightseeing trip." },
+        ],
+      };
+
+    case "is-manali-tour-worth-it-delhi":
+      return {
+        title: "Is the Manali Tour Package Worth It from Delhi?",
+        description: "An honest look at the Delhi to Manali tour package, a classic Himachal hill-station escape from Delhi's heat and traffic.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-delhi-to-manali-tour-package/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Manali's mountain scenery, cooler climate, and adventure activities make it a genuinely popular escape from Delhi, and this package handles the long road journey and accommodation so you can focus on the destination rather than logistics.",
+            tourCard: { slug: "from-delhi-delhi-to-manali-tour-package", title: "From Delhi: Delhi to Manali Tour Package", description: "A tour package from Delhi to Manali with transport and accommodation.", price: "From $176", duration: "Multi-day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-delhi-to-manali-tour-package/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Delhi-Manali road journey is genuinely long, so an overnight bus or an early start matters for how fresh you feel on arrival.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Manali tour package worth it from Delhi?", a: "Yes, for a genuinely popular mountain escape from Delhi's heat, with the long road journey and accommodation already handled." },
+        ],
+      };
+
+    case "is-nainital-3day-worth-it-delhi":
+      return {
+        title: "Is the 3-Day Nainital Tour Worth It from Delhi?",
+        description: "An honest look at the 3-day Nainital tour from Delhi, a lake-district hill station in the Kumaon Himalayas.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-3-days-nainital-tour-with-accommodation/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nainital's namesake lake and Kumaon hill scenery give a genuinely different escape from Delhi than the more crowded Himachal hill stations, and 3 days allows real time for boating, viewpoints, and the town itself rather than a rushed overnight stop.",
+            tourCard: { slug: "from-delhi-3-days-nainital-tour-with-accommodation", title: "From Delhi: 3 Days Nainital Tour with Accommodation", description: "A 3-day tour of Nainital from Delhi with accommodation included.", price: "From $155", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-3-days-nainital-tour-with-accommodation/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit Naini Lake early morning or evening, when the surrounding hills and water are at their most scenic and before the midday crowds arrive.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-day Nainital tour worth it from Delhi?", a: "Yes, for a genuinely different lake-district escape than Delhi's more crowded Himachal hill-station options, with real time to enjoy the town." },
+        ],
+      };
+
+    case "is-hisar-rakhigarhi-worth-it-delhi":
+      return {
+        title: "Is the Hisar & Rakhigarhi Day Trip Worth It from Delhi?",
+        description: "An honest look at the Hisar and Rakhigarhi day trip from Delhi, a visit to one of the largest known Indus Valley Civilization sites.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-hisar-rakhigarhi-private-day-trip-with/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Rakhigarhi is genuinely one of the largest known Indus Valley Civilization sites, older and far less visited than Delhi's usual Mughal-era sightseeing, making this a real find for travelers interested in ancient history rather than another palace or fort.",
+            tourCard: { slug: "from-delhi-hisar-rakhigarhi-private-day-trip-with", title: "From Delhi: Hisar & Rakhigarhi Private Day Trip with Guide", description: "A private day trip to Hisar and Rakhigarhi from Delhi with a guide.", price: "From $197", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-hisar-rakhigarhi-private-day-trip-with/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Set expectations correctly — this is an archaeological site rather than a restored monument, so the appeal is historical significance, not visual spectacle.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hisar and Rakhigarhi day trip worth it from Delhi?", a: "Yes, for travelers genuinely interested in ancient history — it's one of the largest known Indus Valley Civilization sites, far less visited than Delhi's usual Mughal-era attractions." },
+        ],
+      };
+
     default:
       return null;
   }
