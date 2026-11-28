@@ -2165,6 +2165,76 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bongnaesan-hiking-worth-it-busan":
+      return {
+        title: "Is the Bongnaesan Mountain Morning Hiking Tour Worth It in Busan?",
+        description: "An honest look at the Bongnaesan mountain morning hiking tour, a 395-meter peak hike near Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff98827690f6352083212e90333034f1c8640c48f7f6479655e06c2236ae9efb.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Bongnaesan's 395-meter peak gives a genuinely achievable morning hike with real coastal views, worth it for travelers wanting outdoor activity and a scenic payoff without committing to a full-day trek.", tourCard: { slug: "busan-bongnaesan-mountain-395m-morning-hiking-tour", title: "Busan Bongnaesan Mountain 395m Morning Hiking Tour", description: "A morning hiking tour up Bongnaesan's 395-meter peak near Busan.", price: "From $429", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ff98827690f6352083212e90333034f1c8640c48f7f6479655e06c2236ae9efb.jpg" } },
+          { title: "Practical Tips", content: "Go early for the morning light and genuinely cooler hiking temperatures, before the midday heat sets in." },
+        ],
+        faqs: [
+          { q: "Is the Bongnaesan hiking tour worth it in Busan?", a: "Yes, for a genuinely achievable morning hike with real coastal views, without committing to a full-day trek." },
+        ],
+      };
+
+    case "is-kdrama-pet-cafe-tour-worth-it-busan":
+      return {
+        title: "Is the Guided K-Drama Day Tour with Pet Cafe Worth It in Busan?",
+        description: "An honest look at Busan's guided K-Drama day tour combined with a pet cafe visit, a fan-focused city experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/46745dc35179fa858d397384d25002de332ca714f71fd2701a932d19d461267e.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "Visiting genuine K-Drama filming locations paired with a pet cafe stop gives a lighthearted, fan-focused day distinct from Busan's usual beach and temple sightseeing, worth it specifically for K-Drama fans wanting that connection.", tourCard: { slug: "busan-guided-k-drama-day-tour-with-pet-cafe", title: "Busan: Guided K-Drama Day Tour with Pet Cafe & Magnate", description: "A guided K-Drama filming location tour with a pet cafe visit in Busan.", price: "From $259", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/46745dc35179fa858d397384d25002de332ca714f71fd2701a932d19d461267e.jpeg" } },
+          { title: "Practical Tips", content: "Watch the relevant K-Dramas beforehand — the filming location visits genuinely mean more when you recognize the scenes." },
+        ],
+        faqs: [
+          { q: "Is the K-Drama day tour with pet cafe worth it in Busan?", a: "Yes, specifically for K-Drama fans wanting a genuine connection to filming locations, paired with a lighthearted pet cafe stop." },
+        ],
+      };
+
+    case "is-personal-color-analysis-worth-it-busan":
+      return {
+        title: "Is Personal Color Analysis Worth It in Busan?",
+        description: "An honest look at Busan's personal color analysis service, a trending Korean style-consultation experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2bb4a26e4c2ca03be2902daf185759151469ab8291439c45df1cbf7f1c3be8d.jpg",
+        sections: [
+          { title: "The Short Answer", content: "A professional color analysis gives genuinely practical, personalized style guidance based on your skin tone and features, worth it specifically for travelers curious about the trending Korean beauty and styling culture rather than general sightseeing.", tourCard: { slug: "busan-personal-color-analysis", title: "Busan: Personal Color Analysis", description: "A personal color analysis style consultation in Busan.", price: "From $130", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e2bb4a26e4c2ca03be2902daf185759151469ab8291439c45df1cbf7f1c3be8d.jpg" } },
+          { title: "Practical Tips", content: "Wear minimal makeup to the session — natural skin tone genuinely gives the consultant a clearer read for analysis." },
+        ],
+        faqs: [
+          { q: "Is personal color analysis worth it in Busan?", a: "Yes, for travelers genuinely curious about Korean beauty and styling culture, with real practical takeaways for future wardrobe choices." },
+        ],
+      };
+
+    case "is-blue-line-capsule-yacht-worth-it-busan":
+      return {
+        title: "Is the Blue Line Capsule and Yacht Luxury Ocean Journey Worth It in Busan?",
+        description: "An honest look at Busan's Blue Line Capsule train combined with a yacht experience along the coast.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eba4ff155c9ddae13d66b86b55191a7c762ee8802c239b7954d5dcbcee861ece.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "Combining the scenic Blue Line Capsule coastal train with a yacht segment gives genuinely varied perspectives on Busan's coastline, from a fixed rail route to open water, worth it for travelers wanting a premium, photogenic coastal day.", tourCard: { slug: "busan-luxury-ocean-journey-blue-line-capsule-yacht", title: "Busan: Luxury Ocean Journey – Blue Line Capsule & Yacht", description: "A combined Blue Line Capsule train and yacht experience along Busan's coast.", price: "From $168", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eba4ff155c9ddae13d66b86b55191a7c762ee8802c239b7954d5dcbcee861ece.jpeg" } },
+          { title: "Practical Tips", content: "Book a clear-weather day — both the capsule train and yacht segments genuinely depend on good visibility for the coastal views." },
+        ],
+        faqs: [
+          { q: "Is the Blue Line Capsule and yacht journey worth it in Busan?", a: "Yes, for travelers wanting genuinely varied, photogenic perspectives on the coastline, combining a scenic train with open water." },
+        ],
+      };
+
+    case "is-tongdosa-gourmet-tour-worth-it-busan":
+      return {
+        title: "Is the Tongdosa UNESCO and Gourmet Half-Day Tour Worth It from Busan?",
+        description: "An honest look at the Tongdosa UNESCO temple and gourmet half-day private tour from Busan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2f96135ff4710f5676b07a536ba4884479a72a5f43ef91e65cb8b41573e999a2.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Tongdosa is genuinely one of Korea's three jewel temples and a UNESCO World Heritage site, and pairing the visit with a proper gourmet meal gives real cultural and culinary value in a single half-day trip from Busan.", tourCard: { slug: "tongdosa-unesco-gourmet-half-day-private-tour", title: "Tongdosa UNESCO & Gourmet Half Day Private Tour from Busan", description: "A half-day tour of the UNESCO-listed Tongdosa temple with a gourmet meal from Busan.", price: "From $465", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2f96135ff4710f5676b07a536ba4884479a72a5f43ef91e65cb8b41573e999a2.jpg" } },
+          { title: "Practical Tips", content: "Dress modestly for the temple visit, since Tongdosa remains a genuinely active place of worship, not just a heritage site." },
+        ],
+        faqs: [
+          { q: "Is the Tongdosa UNESCO and gourmet tour worth it from Busan?", a: "Yes, for genuine cultural and culinary value in one trip, visiting one of Korea's three jewel temples paired with a proper meal." },
+        ],
+      };
+
     case "is-nanta-show-worth-it-seoul":
       return {
         title: "Is the NANTA Show Worth It in Seoul?",
