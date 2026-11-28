@@ -3551,6 +3551,62 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-ultralight-flight-worth-it-pokhara":
+            return {
+                title: "Is the Pokhara Ultra-Light Flight with Annapurna Range Views Worth It?",
+                description: "An honest look at Pokhara's ultra-light aircraft flight with Annapurna Range views.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want powered flight with real maneuverability rather than a fixed helicopter route — ultra-light aircraft fly lower and slower than helicopters, giving genuinely different, more intimate views of the Annapurna Range.", tourCard: { slug: "pokhara-ultra-light-flight-with-annapurna-range", title: "Pokhara: Ultra-Light Flight with Annapurna Range Views", description: "An ultra-light aircraft flight over Pokhara with Annapurna Range views.", price: "From $376", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Flights are weather-dependent, so mornings typically offer calmer, clearer conditions than later in the day." }
+                ],
+                faqs: [
+                    { q: "Is the ultra-light flight worth it in Pokhara?", a: "Yes, for travelers wanting a genuinely different, lower, more maneuverable aerial view of the Annapurna Range than a helicopter tour." }
+                ],
+            };
+
+        case "is-canyoning-adventure-worth-it-pokhara":
+            return {
+                title: "Is the Pokhara Canyoning Adventure with Waterfalls & Jungle Trek Worth It?",
+                description: "An honest look at Pokhara's canyoning adventure combining waterfalls with a jungle trek.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine water-based adventure beyond rafting — canyoning means rappelling and sliding down actual waterfalls, combined here with a jungle trek, a more technical and adrenaline-heavy activity than Pokhara's usual trekking or paragliding options.", tourCard: { slug: "pokhara-canyoning-adventure-with-waterfalls", title: "Pokhara: Canyoning Adventure with Waterfalls & Jungle Trek", description: "A canyoning adventure in Pokhara combining waterfalls with a jungle trek.", price: "From $260", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "No prior canyoning experience is typically required, but confirm with the operator and expect a genuinely physical, wet day." }
+                ],
+                faqs: [
+                    { q: "Is the canyoning adventure worth it in Pokhara?", a: "Yes, for travelers wanting a more technical, adrenaline-heavy water activity than standard rafting or trekking." }
+                ],
+            };
+
+        case "is-manakamana-temple-cable-car-worth-it-pokhara":
+            return {
+                title: "Is the Pokhara Manakamana Temple Private Tour with Cable Car Worth It?",
+                description: "An honest look at the private tour to Manakamana Temple via cable car from Pokhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers interested in genuine Nepali pilgrimage culture — Manakamana is one of Nepal's most significant Hindu temples, dedicated to a wish-fulfilling goddess, and the cable car ride itself offers striking valley views on the way up.", tourCard: { slug: "pokhara-manakamana-temple-private-tour-with-cable", title: "Pokhara: Manakamana Temple Private Tour with Cable Car", description: "A private tour to Manakamana Temple via cable car from Pokhara.", price: "From $318", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Expect genuine crowds of Nepali pilgrims, especially on weekends and festival days — this is a living pilgrimage site, not a tourist attraction built for visitors." }
+                ],
+                faqs: [
+                    { q: "Is the Manakamana Temple cable car tour worth it from Pokhara?", a: "Yes, for travelers interested in genuine Nepali pilgrimage culture and striking valley views on the cable car ride." }
+                ],
+            };
+
+        case "is-6-iconic-himalayan-viewpoints-worth-it-pokhara":
+            return {
+                title: "Is the Pokhara Private Tour on 6 Iconic Himalayan Viewpoints Worth It?",
+                description: "An honest look at Pokhara's private tour covering 6 iconic Himalayan viewpoints.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want maximum mountain-view coverage without committing to a trek — this private tour is specifically curated to hit 6 different viewpoints around Pokhara in one day, rather than relying on a single spot like Sarangkot.", tourCard: { slug: "pokhara-private-tour-on-6-iconic-himalayan", title: "Pokhara: Private Tour On 6 Iconic Himalayan Viewpoints", description: "A private tour covering 6 iconic Himalayan viewpoints around Pokhara.", price: "From $195", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Clear mountain views depend heavily on weather and season, so check forecasts and travel in the drier months for the best odds." }
+                ],
+                faqs: [
+                    { q: "Is the 6 iconic Himalayan viewpoints tour worth it in Pokhara?", a: "Yes, for travelers wanting maximum mountain-view coverage in a single day without committing to a multi-day trek." }
+                ],
+            };
+
         default:
             return null;
     }

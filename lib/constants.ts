@@ -1090,6 +1090,8 @@ export const POKHARA_INFO_SLUGS = [
   'is-parbat-honey-hunting-tour-worth-it-pokhara', 'is-nar-phu-valley-trek-worth-it-pokhara',
   'is-annapurna-i-expedition-worth-it-pokhara', 'is-dhaulagiri-expedition-worth-it-pokhara',
   'is-muldai-viewpoint-trek-worth-it-pokhara', 'is-ghandruk-ghorepani-jeep-tour-worth-it-pokhara',
+  'is-ultralight-flight-worth-it-pokhara', 'is-canyoning-adventure-worth-it-pokhara',
+  'is-manakamana-temple-cable-car-worth-it-pokhara', 'is-6-iconic-himalayan-viewpoints-worth-it-pokhara',
 ];
 
 // Batumi & Kutaisi (Georgia) — launched 2026-11-21.
