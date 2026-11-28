@@ -1465,6 +1465,8 @@ export const ISTANBUL_INFO_SLUGS = [
   'is-golden-horn-bosphorus-cruise-worth-it-istanbul',
   'is-black-sea-lunch-cruise-worth-it-istanbul', 'is-private-yacht-swimming-stops-worth-it-istanbul',
   'is-breakfast-cruise-luxury-yacht-worth-it-istanbul', 'is-gallipoli-troy-day-tour-worth-it-istanbul',
+  'is-ertugrul-osman-ghazi-film-set-worth-it-istanbul', 'is-sidecar-tour-2-continents-worth-it-istanbul',
+  'is-sunrise-photoshoot-dress-rental-ortakoy-worth-it-istanbul', 'is-rooftop-photoshoot-worth-it-istanbul',
 ];
 
 // Qatar launched 2026-10 with 850 live tours (single city: Doha) and

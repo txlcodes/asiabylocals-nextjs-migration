@@ -2453,6 +2453,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ertugrul-osman-ghazi-film-set-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Ertugrul and Osman Ghazi Film Set Tour Worth It?",
+        description: "An honest look at Istanbul's tour of the Ertugrul and Osman Ghazi TV series film sets.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for fans of the Ertugrul and Osman Ghazi TV series specifically — this takes you to the actual film sets used to recreate the Ottoman-founding era, a niche but genuinely fun stop for anyone who's watched the shows.",
+            tourCard: { slug: "istanbul-ertugrul-and-osman-ghazi-film-set-tour", title: "Istanbul: Ertugrul and Osman Ghazi Film Set Tour", description: "A tour of the film sets used for the Ertugrul and Osman Ghazi TV series.", price: "From $508", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This tour means much more if you've actually watched the series — go in with that context rather than cold.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ertugrul and Osman Ghazi film set tour worth it in Istanbul?", a: "Yes, for fans of the TV series specifically, who'll recognize the sets and get genuine value from the visit." },
+        ],
+      };
+
+    case "is-sidecar-tour-2-continents-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Sidecar Tour: Highlights, Hidden Gems & 2 Continents Worth It?",
+        description: "An honest look at Istanbul's sidecar motorcycle tour covering highlights, hidden gems, and both continents.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely different, more thrilling way to cover ground — riding in a vintage-style sidecar across both the European and Asian sides of Istanbul gives a real sense of adventure that a standard car or bus tour doesn't offer.",
+            tourCard: { slug: "istanbulsidecar-tour-highlightshidden-gems-2", title: "Istanbul:Sidecar Tour, Highlights,Hidden Gems & 2 Continents", description: "A sidecar motorcycle tour covering Istanbul's highlights, hidden gems, and both continents.", price: "From $412", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress for open-air riding regardless of the season, since a sidecar offers no weather protection like a standard vehicle.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sidecar tour across 2 continents worth it in Istanbul?", a: "Yes, for travelers wanting a genuinely thrilling, novel way to cover the city's European and Asian sides in one day." },
+        ],
+      };
+
+    case "is-sunrise-photoshoot-dress-rental-ortakoy-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Sunrise Photoshoot with Dress Rental in Ortaköy Worth It?",
+        description: "An honest look at Istanbul's sunrise photoshoot with dress rental in the Ortaköy neighborhood.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if dramatic, golden-hour photos matter to you — Ortaköy's waterfront setting with the Bosphorus Bridge in the background is genuinely photogenic at sunrise, and the included dress rental means you don't need to pack a specific outfit.",
+            tourCard: { slug: "istanbul-sunrise-photoshoot-with-dress-rental-in", title: "Istanbul Sunrise Photoshoot with Dress Rental in Ortaköy", description: "A sunrise photoshoot in Ortaköy with dress rental included.", price: "From $329", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a genuinely early start to catch the actual sunrise light, so plan the rest of your day accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sunrise photoshoot with dress rental worth it in Ortaköy?", a: "Yes, for travelers wanting dramatic golden-hour photos with the Bosphorus Bridge backdrop, without needing to pack an outfit." },
+        ],
+      };
+
+    case "is-rooftop-photoshoot-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Rooftop Experience: Private Photoshoot Worth It?",
+        description: "An honest look at Istanbul's private rooftop photoshoot experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want skyline shots that stand out from ground-level tourist photos — a rooftop vantage point over Istanbul's historic skyline, paired with a dedicated photographer, gives genuinely more striking results than shooting from street level.",
+            tourCard: { slug: "istanbul-rooftop-experience-private-photoshoot", title: "Istanbul Rooftop Experience: Private Photoshoot", description: "A private rooftop photoshoot experience overlooking Istanbul's skyline.", price: "From $455", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Late afternoon or sunset slots typically give the most flattering light over the skyline for photos.",
+          },
+        ],
+        faqs: [
+          { q: "Is the rooftop photoshoot experience worth it in Istanbul?", a: "Yes, for travelers wanting genuinely striking skyline shots from a rooftop vantage point, beyond standard ground-level photos." },
+        ],
+      };
+
     default:
       return null;
   }
