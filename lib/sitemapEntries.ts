@@ -142,6 +142,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-mathura-vrindavan-day-tour-worth-it-delhi', 'is-char-dham-yatra-worth-it-delhi',
     'is-manali-tour-worth-it-delhi', 'is-nainital-3day-worth-it-delhi',
     'is-hisar-rakhigarhi-worth-it-delhi',
+    'is-ayodhya-2day-worth-it-delhi', 'is-bollywood-dance-class-worth-it-delhi',
+    'is-neemrana-fort-worth-it-delhi', 'is-vegan-cooking-class-worth-it-delhi',
+    'is-elephant-conservation-centre-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),

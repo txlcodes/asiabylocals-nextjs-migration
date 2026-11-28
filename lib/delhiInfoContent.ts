@@ -2240,6 +2240,106 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ayodhya-2day-worth-it-delhi":
+      return {
+        title: "Is the Ayodhya 2-Day Private Tour Worth It from Delhi?",
+        description: "An honest look at the 2-day Ayodhya private tour from Delhi, visiting one of Hinduism's most significant pilgrimage cities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-ayodhya-2-day-private-tour-with-guide-meals/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ayodhya is genuinely one of Hinduism's most significant pilgrimage sites, and 2 days gives real time to properly see the Ram Mandir and surrounding temples without rushing, worth it for travelers wanting a meaningful religious and historical visit rather than a quick pass-through.",
+            tourCard: { slug: "delhi-ayodhya-2-day-private-tour-with-guide-meals", title: "Delhi: Ayodhya 2-Day Private Tour with Guide & Meals", description: "A 2-day private tour of Ayodhya from Delhi with a guide and meals included.", price: "From $160", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-ayodhya-2-day-private-tour-with-guide-meals/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuinely large pilgrim crowds, especially around major festival dates — plan temple visits for early morning where possible." },
+        ],
+        faqs: [
+          { q: "Is the Ayodhya 2-day tour worth it from Delhi?", a: "Yes, for travelers wanting a genuinely meaningful visit to one of Hinduism's most significant pilgrimage cities, with real time to see it properly." }
+        ],
+      };
+
+    case "is-bollywood-dance-class-worth-it-delhi":
+      return {
+        title: "Is the Bollywood Dance Classes Tour Worth It in Delhi?",
+        description: "An honest look at Delhi's Bollywood dance classes tour, a hands-on introduction to India's famous film-dance style.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-bollywood-dance-classes-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning real Bollywood choreography from an instructor gives a genuinely fun, energetic activity distinct from Delhi's usual monument sightseeing, worth it for travelers wanting an active, playful cultural experience rather than another passive tour.",
+            tourCard: { slug: "delhi-bollywood-dance-classes-tour", title: "Delhi: Bollywood Dance Classes Tour", description: "A hands-on Bollywood dance class in Delhi.", price: "From $109", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-bollywood-dance-classes-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No dance experience is needed — instructors genuinely build routines simple enough for complete beginners to enjoy." },
+        ],
+        faqs: [
+          { q: "Is the Bollywood dance classes tour worth it in Delhi?", a: "Yes, for a genuinely fun, active cultural experience, a playful break from Delhi's usual monument-focused sightseeing." }
+        ],
+      };
+
+    case "is-neemrana-fort-worth-it-delhi":
+      return {
+        title: "Is the Neemrana Fort Day Trip Worth It from Delhi?",
+        description: "An honest look at the 15th-century Neemrana Fort day trip from Delhi, with car, guide, and lunch included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-15th-century-neemrana-fort-car-guide-lunch/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Neemrana Fort is a genuinely impressive 15th-century hilltop fortress, now restored as a heritage property, giving real architectural and historical interest that's less crowded than Delhi's major monuments, worth it as an easy half-day escape with car, guide, and lunch handled.",
+            tourCard: { slug: "delhi-15th-century-neemrana-fort-car-guide-lunch", title: "Delhi: 15th Century Neemrana Fort - Car, Guide, Lunch", description: "A day trip to the 15th-century Neemrana Fort from Delhi with car, guide, and lunch.", price: "From $108", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-15th-century-neemrana-fort-car-guide-lunch/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Allow time to explore the fort's many levels and terraces — Neemrana's layout genuinely rewards unhurried wandering." },
+        ],
+        faqs: [
+          { q: "Is the Neemrana Fort day trip worth it from Delhi?", a: "Yes, for genuine 15th-century architectural interest with far fewer crowds than Delhi's major monuments, handled as an easy half-day trip." }
+        ],
+      };
+
+    case "is-vegan-cooking-class-worth-it-delhi":
+      return {
+        title: "Is the Vegan Cooking Class with a Local Chef Worth It in Delhi?",
+        description: "An honest look at Delhi's vegan cooking class with a local chef, a plant-based take on Indian home cooking.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/delhi-vegan-cooking-class-with-local-chef/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives genuinely practical, plant-based Indian cooking skills direct from a local chef, worth it specifically for vegan and vegetarian travelers wanting recipes they can actually recreate at home, rather than just eating at restaurants.",
+            tourCard: { slug: "delhi-vegan-cooking-class-with-local-chef", title: "Delhi: Vegan Cooking Class with Local Chef", description: "A hands-on vegan cooking class with a local chef in Delhi.", price: "From $100", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/delhi-vegan-cooking-class-with-local-chef/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the chef for ingredient substitutions used back home — genuinely useful if some spices or produce aren't available where you live." },
+        ],
+        faqs: [
+          { q: "Is the vegan cooking class with a local chef worth it in Delhi?", a: "Yes, for vegan and vegetarian travelers wanting genuinely practical plant-based Indian recipes they can recreate at home." }
+        ],
+      };
+
+    case "is-elephant-conservation-centre-worth-it-delhi":
+      return {
+        title: "Is the Elephant Conservation and Care Centre Worth It from Delhi?",
+        description: "An honest look at the elephant conservation and care centre day trip from Delhi, an ethical wildlife alternative to elephant riding attractions.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-elephant-conservation-and-care-centre/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This genuinely focuses on elephant rescue and care rather than riding or performance, giving a more ethical wildlife experience, worth it for travelers wanting a real conservation-focused visit rather than an attraction built around elephant entertainment.",
+            tourCard: { slug: "from-delhi-elephant-conservation-and-care-centre", title: "From Delhi: Elephant Conservation and Care Centre - Wildlife", description: "A visit to an elephant conservation and care centre from Delhi.", price: "From $115", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/from-delhi-elephant-conservation-and-care-centre/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect observation-focused activities like feeding and bathing rather than riding — that's genuinely the point of an ethical centre." },
+        ],
+        faqs: [
+          { q: "Is the elephant conservation and care centre worth it from Delhi?", a: "Yes, for travelers wanting a genuinely ethical, conservation-focused elephant experience, rather than a riding or performance attraction." }
+        ],
+      };
+
     default:
       return null;
   }
