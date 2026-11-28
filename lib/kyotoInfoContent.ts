@@ -2840,7 +2840,91 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-nishijin-weaving-worth-it-kyoto":
+      return {
+        title: "Is the Nishijin Weaving Experience in the Oldest Geisha District Worth It?",
+        description: "An honest look at Kyoto's Nishijin weaving workshop in the historic Nishijin textile district.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers with genuine interest in Japanese textiles — Nishijin is historically one of Japan's most important silk-weaving districts, and this hands-on class teaches the traditional loom technique in the actual neighborhood where it's practiced.",
+            tourCard: { slug: "try-nishijin-weaving-in-the-oldest-geisha-district-in-kyoto", title: "Try Nishijin Weaving in the Oldest Geisha District in Kyoto", description: "A hands-on traditional weaving workshop in Kyoto's historic Nishijin textile district.", price: "From $244", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Combine this with a walk through the surrounding Nishijin neighborhood, since the district itself has genuine historic character worth exploring.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nishijin weaving experience worth it in Kyoto?", a: "Yes, for travelers with genuine interest in traditional Japanese textiles, taught in the actual historic district where the craft originated." },
+        ],
+      };
+
+    case "is-wagyu-kaiseki-historic-villa-worth-it-kyoto":
+      return {
+        title: "Is the Wagyu Kaiseki Dinner in a Historic Villa Worth It in Kyoto?",
+        description: "An honest look at Kyoto's Wagyu kaiseki dinner reservation in a historic villa.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Kyoto's two culinary and architectural highlights combined — kaiseki (Japan's traditional multi-course haute cuisine) built around genuine Wagyu beef, served inside an actual historic villa rather than a modern restaurant.",
+            tourCard: { slug: "wagyu-kaiseki-dinner-in-a-historic-villa-reservation-in-kyoto", title: "Wagyu Kaiseki Dinner in a Historic Villa Reservation in Kyoto", description: "A Wagyu kaiseki multi-course dinner reservation inside a historic Kyoto villa.", price: "From $290", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book well ahead — reservations at historic villas for kaiseki dining are limited and fill up faster than standard restaurant bookings.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Wagyu kaiseki dinner in a historic villa worth it in Kyoto?", a: "Yes, for travelers wanting Kyoto's traditional haute cuisine and historic architecture combined in one memorable meal." },
+        ],
+      };
+
+    case "is-samurai-canals-sake-brewery-worth-it-kyoto":
+      return {
+        title: "Is the Samurai Canals and Edo Sake Brewery Walk Worth It in Kyoto?",
+        description: "An honest look at Kyoto's walking tour covering historic samurai-era canals and an Edo-period sake brewery.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers wanting genuine Edo-period history away from the main temple circuit — this walk covers canals built during the samurai era and stops at a working sake brewery with real historic roots, a distinct angle from Kyoto's usual geisha-district and temple tours.",
+            tourCard: { slug: "samurai-canals-and-edo-sake-brewery-walk-in-kyoto", title: "Samurai Canals and Edo Sake Brewery Walk in Kyoto", description: "A walking tour covering historic samurai-era canals and an Edo-period sake brewery in Kyoto.", price: "From $198", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask whether sake tasting is included at the brewery stop, since this varies by tour and adds real value if it is.",
+          },
+        ],
+        faqs: [
+          { q: "Is the samurai canals and sake brewery walk worth it in Kyoto?", a: "Yes, for travelers wanting genuine Edo-period history, distinct from Kyoto's usual geisha-district and temple sightseeing." },
+        ],
+      };
+
+    case "is-amanohashidate-ine-tour-worth-it-kyoto":
+      return {
+        title: "Is the Kyoto Amanohashidate and Ine Premium Small-Group Tour Worth It?",
+        description: "An honest look at the premium small-group tour to Amanohashidate and Ine from Kyoto.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see a genuinely different coastal side of the Kyoto region — Amanohashidate is one of Japan's three most scenic views, and Ine is known for its boathouses built directly over the water, both well off the standard temple circuit.",
+            tourCard: { slug: "kyoto-amanohashidate-and-ine-premium-small-group-tour-by-local-operator", title: "Kyoto Amanohashidate and Ine Premium Small-Group Tour by Local Operator", description: "A premium small-group tour to the coastal towns of Amanohashidate and Ine from Kyoto.", price: "From $304", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a genuinely long day trip from Kyoto, so confirm total travel time fits comfortably within your schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Amanohashidate and Ine tour worth it from Kyoto?", a: "Yes, for travelers wanting a genuinely different coastal side of the region, well off the standard temple circuit." },
+        ],
+      };
+
     default:
-            return null;
+      return null;
     }
 }
