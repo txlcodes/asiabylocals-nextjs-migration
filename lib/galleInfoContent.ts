@@ -963,6 +963,106 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-moonstone-mine-tour-worth-it-galle":
+      return {
+        title: "Is the Moonstone Mine Tour Worth It in Galle?",
+        description: "An honest look at the moonstone mine tour with museum visit in Galle, a look at Sri Lanka's gem mining industry.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1199232/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sri Lanka is genuinely one of the world's notable moonstone sources, and this tour gives real insight into the mining process alongside a museum visit, worth it for travelers curious about gemstones beyond just shopping for finished jewelry.",
+            tourCard: { slug: "moonstone-mine-tour-with-museum-visit-in-galle", title: "Moonstone Mine Tour with Museum Visit in Galle", description: "A tour of a moonstone mine with a museum visit in Galle.", price: "From $153", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1199232/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear shoes you don't mind getting dusty, since the mine visit genuinely involves walking through an active working site." },
+        ],
+        faqs: [
+          { q: "Is the moonstone mine tour worth it in Galle?", a: "Yes, for travelers curious about Sri Lanka's genuine gem mining industry, going beyond simply shopping for finished jewelry." }
+        ],
+      };
+
+    case "is-galle-fort-street-food-walk-worth-it-galle":
+      return {
+        title: "Is the Galle Fort Street Food Walk Worth It?",
+        description: "An honest look at the Galle Fort street food walk, a culinary alternative to the fort's usual heritage sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-789978/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives genuine access to Galle Fort's everyday food scene tucked between its colonial buildings, worth it for travelers wanting real local flavor rather than just walking the fort's ramparts and photographing the architecture.",
+            tourCard: { slug: "galle-fort-street-food-walk", title: "Galle Fort Street Food Walk", description: "A guided street food walk through Galle Fort.", price: "From $153", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-789978/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry and pace yourself across multiple stops — a genuine food walk covers more ground than a single meal." },
+        ],
+        faqs: [
+          { q: "Is the Galle Fort street food walk worth it?", a: "Yes, for travelers wanting genuine local flavor tucked between the fort's colonial buildings, beyond just the usual photo stops." }
+        ],
+      };
+
+    case "is-vespa-tour-galle-fort-worth-it-galle":
+      return {
+        title: "Is the Vespa Tour of Galle Fort Worth It?",
+        description: "An honest look at the Vespa tour of Galle Fort with an optional photoshoot, a stylish alternative to walking the fort's streets.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1277643/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Touring the fort's cobbled streets by vintage-style Vespa gives a genuinely photogenic, stylish alternative to walking, and the optional photoshoot makes this worth it specifically for travelers wanting memorable images alongside the sightseeing.",
+            tourCard: { slug: "galle-vespa-tour-of-galle-fort-with-optional", title: "Galle: Vespa Tour of Galle Fort with Optional Photoshoot", description: "A Vespa tour of Galle Fort with an optional photoshoot.", price: "From $151", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1277643/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Add the photoshoot option specifically if photos are a priority — the Vespa and fort backdrop genuinely photograph well together." },
+        ],
+        faqs: [
+          { q: "Is the Vespa tour of Galle Fort worth it?", a: "Yes, for a genuinely photogenic, stylish way to see the fort, especially worth it with the optional photoshoot add-on." }
+        ],
+      };
+
+    case "is-lagoon-canoeing-worth-it-galle":
+      return {
+        title: "Is the Lagoon Canoeing Tour Worth It in Galle?",
+        description: "An honest look at the Galle lagoon canoeing tour with hotel pickup, a quiet paddling activity away from the fort's crowds.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1186103/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddling the lagoon by canoe gives a genuinely peaceful, slow-paced activity distinct from Galle Fort's busier heritage sightseeing, worth it for travelers wanting a quiet nature break with real wildlife-spotting potential along the water.",
+            tourCard: { slug: "galle-lagoon-canoeing-tour-with-hotel-pickup", title: "Galle: Lagoon Canoeing Tour with Hotel Pickup", description: "A lagoon canoeing tour with hotel pickup in Galle.", price: "From $128", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1186103/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the early morning for genuinely calmer water and better wildlife-spotting chances along the lagoon." },
+        ],
+        faqs: [
+          { q: "Is the lagoon canoeing tour worth it in Galle?", a: "Yes, for a genuinely peaceful nature break distinct from the fort's busier heritage sightseeing, with real wildlife-spotting potential." }
+        ],
+      };
+
+    case "is-gem-making-workshop-worth-it-galle":
+      return {
+        title: "Is the Gem Making Workshop Worth It in Galle?",
+        description: "An honest look at Galle's gem making workshop with certificate, a hands-on introduction to Sri Lanka's gem-cutting craft.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1081521/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning real gem-cutting technique rather than just shopping for finished stones gives genuine insight into Sri Lanka's gem industry, and the included certificate makes this a worthwhile memento for travelers with a real interest in the craft.",
+            tourCard: { slug: "galle-gem-making-workshop-with-certificate", title: "Galle: Gem Making Workshop with Certificate", description: "A hands-on gem making workshop with a completion certificate in Galle.", price: "From $111", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1081521/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior experience is needed — instructors genuinely guide beginners through the full cutting process step by step." },
+        ],
+        faqs: [
+          { q: "Is the gem making workshop worth it in Galle?", a: "Yes, for travelers wanting genuine hands-on insight into Sri Lanka's gem-cutting craft, with a certificate as a worthwhile memento." }
+        ],
+      };
+
     default:
       return null;
   }
