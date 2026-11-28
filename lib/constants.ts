@@ -543,6 +543,8 @@ export const MUSCAT_INFO_SLUGS = [
   'is-bandar-al-khairan-yacht-charter-worth-it-muscat', 'is-jebel-hatt-overnight-camping-worth-it-muscat',
   'is-family-island-excursion-bbq-worth-it-muscat', 'is-vip-luxury-city-tour-worth-it-muscat',
   'is-2day-city-souqs-cultural-tour-worth-it-muscat',
+  'is-celebration-party-boat-worth-it-muscat', 'is-exclusive-mercedes-lexus-tour-worth-it-muscat',
+  'is-german-guide-nizwa-tour-worth-it-muscat', 'is-market-tour-cooking-class-worth-it-muscat',
 ];
 
 // Armenia launched 2026-11-19 with 547 live tours and zero authority pages.

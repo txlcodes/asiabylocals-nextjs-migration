@@ -1812,6 +1812,66 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-celebration-party-boat-worth-it-muscat":
+            return {
+                title: "Is the Muscat Celebration Party Boat Worth It?",
+                description: "An honest look at Muscat's celebration party boat for groups and special occasions.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you're celebrating a birthday, bachelor/bachelorette party, or other group occasion — this boat is specifically set up for celebrations rather than standard sightseeing, with the Muscat coastline as a backdrop rather than the main focus.",
+                    tourCard: { slug: "muscat-celebration-party-boat", title: "Muscat: Celebration Party Boat", description: "A party boat for celebrations and group occasions in Muscat.", price: "From $943", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Confirm what's included (music setup, decorations, catering) versus what you need to bring yourself before booking for a specific occasion." }
+                ],
+                faqs: [
+                    { q: "Is the celebration party boat worth it in Muscat?", a: "Yes, for groups celebrating a specific occasion who want a dedicated party setting rather than a standard sightseeing cruise." }
+                ],
+            };
+
+        case "is-exclusive-mercedes-lexus-tour-worth-it-muscat":
+            return {
+                title: "Is the Muscat Exclusive Luxury Tour by Mercedes or Lexus Worth It?",
+                description: "An honest look at Muscat's exclusive private luxury tour in a Mercedes or Lexus.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Worth it specifically for travelers who want the comfort and prestige of a luxury vehicle built into the day — this covers the same Muscat highlights as a standard private tour, but in a Mercedes or Lexus rather than a regular sedan or van.",
+                    tourCard: { slug: "muscat-exclusive-luxury-private-tour-by-mercedes", title: "Muscat: Exclusive Luxury Private Tour by Mercedes or Lexus", description: "An exclusive private city tour of Muscat in a Mercedes or Lexus.", price: "From $780", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "If the specific vehicle model matters to you, confirm it directly with the operator before booking, since availability can vary by date." }
+                ],
+                faqs: [
+                    { q: "Is the Mercedes or Lexus luxury tour worth it in Muscat?", a: "Yes, for travelers who want the standard Muscat sightseeing experience with the added comfort and prestige of a luxury vehicle." }
+                ],
+            };
+
+        case "is-german-guide-nizwa-tour-worth-it-muscat":
+            return {
+                title: "Is the Muscat Nizwa & Green Mountain Tour in German Worth It?",
+                description: "An honest look at Muscat's private full-day Nizwa and Green Mountain tour with a German-speaking guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, specifically for German-speaking travelers who want to avoid the language barrier — this covers the same Nizwa and Green Mountain highlights as standard tours, but with a guide who explains everything in German rather than through English or translation.",
+                    tourCard: { slug: "from-muscat-nizwa-green-mountain-private-full-day", title: "From Muscat: Nizwa & Green Mountain – Private Full-Day Tour in German", description: "A private full-day tour of Nizwa and Green Mountain with a German-speaking guide.", price: "From $798", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book this specific listing rather than a standard tour if having a German-speaking guide genuinely matters to your experience." }
+                ],
+                faqs: [
+                    { q: "Is the German-speaking Nizwa and Green Mountain tour worth it in Muscat?", a: "Yes, for German-speaking travelers who want the Nizwa and Green Mountain highlights explained without a language barrier." }
+                ],
+            };
+
+        case "is-market-tour-cooking-class-worth-it-muscat":
+            return {
+                title: "Is the Muscat Market Tour and Cooking Class Worth It?",
+                description: "An honest look at Muscat's market tour paired with a cooking class and lunch.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to understand Omani food beyond eating it — this pairs a guided walk through a local market with a hands-on cooking class using ingredients you've just seen, finishing with lunch, a genuinely different angle from Muscat's usual souq and fort sightseeing.",
+                    tourCard: { slug: "muscat-market-tour-and-cooking-class-with-lunch", title: "Muscat: Market Tour and Cooking Class with Lunch", description: "A guided market tour paired with a cooking class and lunch in Muscat.", price: "From $777", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry — between market tastings and the cooking class lunch, this is a genuinely food-heavy half day." }
+                ],
+                faqs: [
+                    { q: "Is the market tour and cooking class worth it in Muscat?", a: "Yes, for travelers wanting to understand Omani cuisine hands-on rather than just eating at restaurants." }
+                ],
+            };
+
         default:
             return null;
     }
