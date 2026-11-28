@@ -233,6 +233,34 @@ export function getBoracayInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-redwhale-party-yacht-sunset-cruise-worth-it-boracay":
+            return {
+                title: "Is the Sunset Cruise with RedWhale Party Yacht Worth It in Boracay?",
+                description: "An honest look at the half-day motorized party yacht sunset cruise with a Coral Garden stop in Boracay.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bec2ddcbf7bf1d36c2ee3999d36a3ed11da8c04c81d9ca468d950bee27b1473a.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a livelier, social sunset experience rather than a quiet traditional sail — a motorized party yacht with music and a Coral Garden stop gives a genuinely different atmosphere than the slower, quieter paraw sailboat option.", tourCard: { slug: "boracay-sunset-cruise-with-redwhale-party-yacht", title: "Boracay Sunset Cruise with RedWhale Party Yacht", description: "A half-day motorized party yacht sunset cruise with a Coral Garden stop in Boracay.", price: "From $87", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/bec2ddcbf7bf1d36c2ee3999d36a3ed11da8c04c81d9ca468d950bee27b1473a.png" } },
+                    { title: "Practical Tips", content: "If you want a quieter, more traditional sunset experience instead, the paraw sailboat option is the better fit — this one is built around music and a lively social atmosphere." }
+                ],
+                faqs: [
+                    { q: "Is the RedWhale party yacht sunset cruise worth it in Boracay?", a: "Yes, for travelers wanting a livelier, social sunset cruise with music, distinct from the quieter traditional paraw sailboat option." }
+                ],
+            };
+
+        case "is-discovery-land-tour-worth-it-boracay":
+            return {
+                title: "Is the Boracay Discovery Land Tour Experience Worth It?",
+                description: "An honest look at the 3-hour tuk-tuk land tour discovery experience in Boracay.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/47e20e57402c9db4280dab45d4ea6ae6a215a65da5dc2cda4d6f98659a306d7e.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see Boracay's land-based sights rather than just the beach — riding tuk-tuks between stops gives a genuinely different, more local perspective on the island than a beach or boat-focused day.", tourCard: { slug: "boracay-discovery-land-tour-experience", title: "Boracay Discovery: Land Tour Experience", description: "A 3-hour tuk-tuk land tour discovery experience in Boracay.", price: "From $76", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/47e20e57402c9db4280dab45d4ea6ae6a215a65da5dc2cda4d6f98659a306d7e.png" } },
+                    { title: "Practical Tips", content: "A good pick for a short add-on day when you want a break from the beach and boats without committing to a full-day excursion." }
+                ],
+                faqs: [
+                    { q: "Is the Boracay Discovery land tour worth it?", a: "Yes, for travelers wanting a genuine land-based perspective on Boracay beyond the beach and boat activities." }
+                ],
+            };
+
         default:
             return null;
     }

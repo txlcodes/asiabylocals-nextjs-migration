@@ -2884,6 +2884,27 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mactan-island-hopping-snorkeling-worth-it-cebu":
+      return {
+        title: "Is the Mactan Private Island-Hopping & Snorkeling Boat Tour Worth It from Cebu?",
+        description: "An honest look at the half-day private island-hopping and snorkeling boat tour to Nalusuan Island near Mactan.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1a5e3f8192c4682d5584bce43fe871a377a5d4810755f699d984a4e53234c52b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if your schedule is tight or you're easing into your Cebu trip — the Gilutungan and Nalusuan marine sanctuary islands near Mactan give a genuinely worthwhile half-day of snorkeling and island-hopping without the long drive south or a ferry commitment to Bohol.",
+            tourCard: { slug: "mactan-private-island-hopping-snorkeling-boat-tour", title: "Mactan: Private Island-Hopping & Snorkeling Boat Tour", description: "A half-day private island-hopping and snorkeling boat tour to Nalusuan Island near Mactan.", price: "From $380", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1a5e3f8192c4682d5584bce43fe871a377a5d4810755f699d984a4e53234c52b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good choice for a shorter first or last day in Cebu, when a full-day trip to Oslob or Bohol doesn't fit your schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mactan island-hopping and snorkeling tour worth it from Cebu?", a: "Yes, for travelers with a tight schedule wanting a genuinely worthwhile half-day without the long drive or ferry commitment of Oslob or Bohol." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1568,6 +1568,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-osmena-casino-peak-tour-worth-it-cebu', 'is-heritage-local-market-tour-worth-it-cebu',
     'is-carbon-market-jeepney-tour-worth-it-cebu', 'is-pub-crawl-worth-it-cebu',
     'is-mount-manunggal-hike-worth-it-cebu', 'is-cebu-food-walk-worth-it-cebu',
+    'is-mactan-island-hopping-snorkeling-worth-it-cebu',
     'is-mactan-sunset-speedboat-cruise-worth-it-cebu', 'is-jet-ski-rental-worth-it-cebu',
     'is-mount-naupa-hiking-worth-it-cebu', 'is-bantayan-fundive-scuba-worth-it-cebu',
     'is-cebu-cooking-class-worth-it', 'is-live-fire-shooting-worth-it-cebu',
@@ -1591,6 +1592,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-shooting-range-worth-it-boracay', 'is-jet-ski-rental-worth-it-boracay',
     'is-filipino-cooking-class-worth-it-boracay', 'is-scuba-diving-intro-worth-it-boracay',
     'is-luna-spa-worth-it-boracay',
+    'is-redwhale-party-yacht-sunset-cruise-worth-it-boracay', 'is-discovery-land-tour-worth-it-boracay',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/boracay/${slug}`,
     lastModified: new Date(),
