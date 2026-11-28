@@ -64,6 +64,7 @@ import { getIsraelInfoContent } from './israelInfoContent';
 import { getBhutanInfoContent } from './bhutanInfoContent';
 import { getGulfSmallInfoContent } from './gulfSmallInfoContent';
 import { getRajasthanInfoContent } from './rajasthanInfoContent';
+import { getAurangabadInfoContent } from './aurangabadInfoContent';
 
 export interface CityInfoData {
     /** On-page H1. Can be long and descriptive. */
@@ -89,6 +90,9 @@ export function getCityInfoContent(slug: string): CityInfoData | null {
 
     const rajasthanPage = getRajasthanInfoContent(slug);
     if (rajasthanPage) return rajasthanPage;
+
+    const aurangabadPage = getAurangabadInfoContent(slug);
+    if (aurangabadPage) return aurangabadPage;
 
     const uzbekistanPage = getUzbekistanInfoContent(slug);
     if (uzbekistanPage) return uzbekistanPage;

@@ -3202,3 +3202,10 @@ export const JODHPUR_INFO_SLUGS: string[] = [
 export const BIKANER_INFO_SLUGS: string[] = [
   'is-junagarh-fort-karni-mata-tour-worth-it-bikaner',
 ];
+export const CHAMPASAK_INFO_SLUGS: string[] = [
+  'best-champasak-sunset-cruise-champasak', 'is-champasak-lao-culture-workshop-worth-it-champasak',
+  'is-champasak-mekong-legends-food-tasting-worth-it-champasak',
+];
+export const AURANGABAD_INFO_SLUGS: string[] = [
+  'best-ajanta-ellora-caves-tour-aurangabad', 'is-daulatabad-fort-tour-worth-it-aurangabad',
+];

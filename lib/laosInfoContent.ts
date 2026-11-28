@@ -1657,6 +1657,54 @@ export function getLaosInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "best-champasak-sunset-cruise-champasak":
+            return {
+                title: "Which Is the Best Champasak Sunset Cruise?",
+                description: "Compare Champasak's Mekong sunset cruises — the $143 version with traditional food tasting versus the fully private $260 cruise.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Both Champasak sunset cruises put you on the Mekong at golden hour; the difference is whether traditional food tasting is built in or whether you're paying more for a fully private boat.", tourCard: { slug: "champasak-city-private-sunset-cruise-traditional", title: "Champasak City: Private Sunset Cruise + Traditional Food Tasting", description: "A private sunset cruise with traditional Lao food tasting included.", price: "From $143", duration: "2 hours" } },
+                    { title: "Best Value: Private Cruise + Food Tasting", content: "At $143, this is private and includes traditional food tasting, giving the most for your money of the two options.", tourCard: { slug: "champasak-city-private-sunset-cruise-traditional", title: "Champasak City: Private Sunset Cruise + Traditional Food Tasting", description: "A private cruise bundled with food tasting.", price: "From $143", duration: "2 hours" } },
+                    { title: "Most Exclusive: Private Sunset Cruise", content: "At $260, this is a more premium standalone private cruise experience on the Mekong without the food-tasting bundle.", tourCard: { slug: "in-champasak-private-sunset-cruise-on-the-mekong", title: "In Champasak: Private Sunset Cruise on the Mekong River", description: "A premium standalone private sunset cruise on the Mekong.", price: "From $260", duration: "2 hours" } },
+                    { title: "Practical Tips", content: "Champasak sits on the Mekong near Wat Phou, so a sunset cruise pairs naturally with a daytime temple visit rather than needing to be its own separate trip." }
+                ],
+                faqs: [
+                    { q: "What is the best Champasak sunset cruise?", a: "The $143 private cruise with food tasting offers the best value; go for the standalone $260 private cruise if food isn't a priority." }
+                ],
+            };
+
+        case "is-champasak-lao-culture-workshop-worth-it-champasak":
+            return {
+                title: "Is a Champasak Lao Culture Workshop Worth It?",
+                description: "An honest look at Champasak's hands-on local experiences — a $33 gardening workshop in a Lao house and $130 garden yoga session.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine small-scale local interaction rather than a sightseeing checklist — these workshops put you inside an actual Lao household or garden setting rather than at a monument.", tourCard: { slug: "champasak-gardening-workshop-in-a-lao-house-snack", title: "Champasak: Gardening Workshop in a Lao House + Snack", description: "A hands-on gardening workshop in a local Lao house with a snack included.", price: "From $33", duration: "2 hours" } },
+                    { title: "Most Affordable: Gardening Workshop + Snack", content: "At $33, this is a simple, affordable way to spend time in a real Lao household setting with a snack included.", tourCard: { slug: "champasak-gardening-workshop-in-a-lao-house-snack", title: "Champasak: Gardening Workshop in a Lao House + Snack", description: "The budget gardening and snack workshop.", price: "From $33", duration: "2 hours" } },
+                    { title: "Best for Relaxation: Garden Yoga Session", content: "At $130, this is a peaceful yoga session set in a garden, a different pace from the hands-on gardening workshop.", tourCard: { slug: "peaceful-yoga-in-a-garden-in-champasak", title: "Peaceful yoga in a garden in Champasak", description: "A relaxed yoga session set in a Champasak garden.", price: "From $130", duration: "1 hour" } },
+                    { title: "Practical Tips", content: "These small-group, home-based experiences work best for travelers who already have a day or two in Champasak rather than those passing through quickly en route to Wat Phou." }
+                ],
+                faqs: [
+                    { q: "Is a Champasak Lao culture workshop worth it?", a: "Yes, for a genuine small-group, home-based alternative to monument sightseeing, especially the affordable $33 gardening workshop." }
+                ],
+            };
+
+        case "is-champasak-mekong-legends-food-tasting-worth-it-champasak":
+            return {
+                title: "Is the Champasak Mekong Legends & Lao Food Tasting Tour Worth It?",
+                description: "An honest look at Champasak's storytelling and food tasting experiences — from $46 Lao specialty tastings to the $59 Mekong legends tour with dish tasting.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to understand Champasak's Mekong river culture beyond just seeing the water — this pairs local legends and folklore with a tasting of traditional Lao dishes.", tourCard: { slug: "in-champasak-listen-to-the-legends-of-the-mekong", title: "In Champasak: Listen to the Legends of the Mekong with a Tasting of Lao Dishes", description: "A storytelling experience about Mekong legends paired with Lao dish tasting.", price: "From $59", duration: "2 hours" } },
+                    { title: "Cheapest: Lao Specialties Tasting", content: "At $46, this focuses purely on tasting Lao specialties in Champasak City without the storytelling component.", tourCard: { slug: "in-champasak-city-tasting-of-lao-specialties", title: "In Champasak City: Tasting of Lao specialties", description: "A pure food-tasting experience of Lao specialties.", price: "From $46", duration: "1.5 hours" } },
+                    { title: "Best for Culture: Mekong Legends with Tasting", content: "At $59, this adds storytelling about the Mekong's local legends on top of the food tasting, for a more complete cultural picture.", tourCard: { slug: "in-champasak-listen-to-the-legends-of-the-mekong", title: "In Champasak: Listen to the Legends of the Mekong with a Tasting of Lao Dishes", description: "A combined legends and food-tasting experience.", price: "From $59", duration: "2 hours" } },
+                    { title: "Practical Tips", content: "Both experiences are small-group and conversational by nature — expect a more intimate setting than a formal restaurant meal." }
+                ],
+                faqs: [
+                    { q: "Is the Champasak Mekong legends and food tasting tour worth it?", a: "Yes, for travelers wanting storytelling and local food together rather than just a standard meal." }
+                ],
+            };
+
         default:
             return null;
     }
