@@ -1533,6 +1533,90 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sacred-peaks-eternal-blooms-worth-it-nusa-penida":
+      return {
+        title: "Is From Sacred Peaks to the Valley of Eternal Blooms Worth It in Nusa Penida?",
+        description: "An honest look at Nusa Penida's tour connecting sacred clifftop peaks with a valley of blooming flowers.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine landscape variety beyond the island's famous clifftop viewpoints — this pairs sacred peaks with a lush flowering valley, giving a real contrast between the island's dramatic coastline and its greener interior.",
+            tourCard: { slug: "from-sacred-peaks-to-the-valley-of-eternal-blooms-in-nusa-penida", title: "From Sacred Peaks to the Valley of Eternal Blooms in Nusa Penida", description: "A tour connecting sacred clifftop peaks with a valley of blooming flowers in Nusa Penida.", price: "From $130", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a camera for both halves of the day — the sacred peaks and the flower valley offer genuinely different photo opportunities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sacred Peaks to Eternal Blooms tour worth it in Nusa Penida?", a: "Yes, for travelers wanting genuine landscape variety, pairing dramatic clifftop scenery with the island's greener interior." },
+        ],
+      };
+
+    case "is-lembongan-mangrove-buggy-worth-it-nusa-penida":
+      return {
+        title: "Is the Lembongan and Mangrove Buggy Tour with Buffet Lunch Worth It?",
+        description: "An honest look at the Lembongan tour combining a mangrove visit with a buggy ride and buffet lunch.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want an active land-based element added to the standard Lembongan island day — this pairs a mangrove forest visit with a buggy ride through the island's interior, plus a buffet lunch, rather than sticking purely to beach and snorkel stops.",
+            tourCard: { slug: "lembongan-and-mangrove-buggy-tour-with-buffet-lunch", title: "Lembongan and Mangrove Buggy Tour with Buffet Lunch", description: "A Lembongan tour combining a mangrove visit, buggy ride, and buffet lunch.", price: "From $102", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed-toe shoes for the buggy portion, since the terrain can get genuinely bumpy and uneven.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lembongan mangrove and buggy tour worth it?", a: "Yes, for travelers wanting an active land-based element added to the standard Lembongan beach and snorkel day." },
+        ],
+      };
+
+    case "is-ceningan-bridge-tour-worth-it-nusa-penida":
+      return {
+        title: "Is the Lembongan and Ceningan Bridge Tour with Snorkeling Worth It?",
+        description: "An honest look at the Lembongan and Ceningan Bridge tour, paired with snorkeling.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see the distinctive yellow suspension bridge connecting Lembongan and Ceningan islands alongside your snorkeling — it's a genuinely photogenic local landmark most standard Nusa Penida day trips skip entirely.",
+            tourCard: { slug: "lembongan-and-ceningan-bridge-tour-with-snorkeling", title: "Lembongan and Ceningan Bridge Tour with Snorkeling", description: "A tour of the Lembongan and Ceningan Bridge, combined with snorkeling.", price: "From $92", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The bridge itself makes for a genuinely good photo stop — budget a few extra minutes there before or after snorkeling.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ceningan Bridge tour worth it with snorkeling?", a: "Yes, for travelers wanting to see the distinctive bridge landmark, which most standard Nusa Penida day trips skip entirely." },
+        ],
+      };
+
+    case "is-turtle-conservation-quiet-snorkel-worth-it-nusa-penida":
+      return {
+        title: "Is Turtle Conservation and Quiet Snorkel Worth It in Nusa Penida?",
+        description: "An honest look at Nusa Penida's turtle conservation visit paired with a quiet snorkel session.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a calmer, more conservation-focused activity than the usual crowded Manta Point or Crystal Bay snorkel trips — this pairs a visit to a turtle conservation site with a quieter, less crowded snorkel session.",
+            tourCard: { slug: "turtle-conservation-and-quiet-snorkel-in-nusa-penida", title: "Turtle Conservation and Quiet Snorkel in Nusa Penida", description: "A turtle conservation visit paired with a quiet snorkel session in Nusa Penida.", price: "From $121", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the operator how the conservation site actually supports turtle populations, since genuine conservation efforts vary by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the turtle conservation and quiet snorkel tour worth it in Nusa Penida?", a: "Yes, for travelers wanting a calmer, conservation-focused alternative to the island's usual crowded snorkel spots." },
+        ],
+      };
+
     default:
       return null;
   }

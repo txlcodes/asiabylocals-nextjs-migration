@@ -3247,6 +3247,8 @@ export const NUSA_PENIDA_INFO_SLUGS = [
   'is-manta-point-dive-ecology-worth-it-nusa-penida',
   'is-amok-sunset-photography-worth-it-nusa-penida', 'is-watersport-adventure-lunch-worth-it-nusa-penida',
   'is-blapoeh-sunrise-highlights-worth-it-nusa-penida', 'is-reverse-tour-land-first-snorkel-later-worth-it-nusa-penida',
+  'is-sacred-peaks-eternal-blooms-worth-it-nusa-penida', 'is-lembongan-mangrove-buggy-worth-it-nusa-penida',
+  'is-ceningan-bridge-tour-worth-it-nusa-penida', 'is-turtle-conservation-quiet-snorkel-worth-it-nusa-penida',
 ];
 
 export const DA_NANG_INFO_SLUGS = [
