@@ -1331,6 +1331,106 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-gal-oya-boat-safari-worth-it-ella":
+      return {
+        title: "Is the Gal Oya National Park Wildlife Boat Safari Worth It from Ella?",
+        description: "An honest look at the Gal Oya National Park wildlife boat safari, a lesser-known reservoir safari distinct from Ella's usual jeep tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1441521/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Gal Oya is genuinely Sri Lanka's only national park offering boat-based safaris, with elephants that actually swim between islands on the reservoir, worth it for travelers wanting a real alternative to the standard jeep safari format.",
+            tourCard: { slug: "ella-gal-oya-national-park-wildlife-boat-safari", title: "Ella: Gal Oya National Park Wildlife Boat Safari with Pickup", description: "A wildlife boat safari at Gal Oya National Park from Ella with pickup included.", price: "From $305", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1441521/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a genuinely long transfer from Ella, so build the travel time into your day's schedule." },
+        ],
+        faqs: [
+          { q: "Is the Gal Oya boat safari worth it from Ella?", a: "Yes, for a genuinely unique boat-based safari format, with swimming elephants that a standard jeep safari can't show you." }
+        ],
+      };
+
+    case "is-ravana-pool-club-worth-it-ella":
+      return {
+        title: "Is the Ravana Pool Club Dip & Dine Worth It in Ella?",
+        description: "An honest look at the Ravana Pool Club dip and dine experience in Ella, a relaxed poolside break with included cocktails.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-614655/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper pool day with dining and two free cocktails included gives a genuinely relaxed break from Ella's hike-heavy itinerary, worth it for travelers wanting a lazy afternoon rather than another viewpoint or waterfall hike.",
+            tourCard: { slug: "ella-ravana-pool-club-dip-dine-2-free-cocktails", title: "Ella Ravana Pool Club Dip & Dine + 2 Free Cocktails!", description: "A pool club dip and dine experience in Ella with two free cocktails included.", price: "From $219", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-614655/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for a rest day between hikes — the point here is genuinely slowing down, not packing in more sightseeing." },
+        ],
+        faqs: [
+          { q: "Is the Ravana Pool Club dip and dine worth it in Ella?", a: "Yes, for a genuinely relaxed poolside break from Ella's hike-heavy itinerary, with cocktails and dining included." }
+        ],
+      };
+
+    case "is-craft-safari-worth-it-ella":
+      return {
+        title: "Is the Ella Craft Safari by Jeep Worth It?",
+        description: "An honest look at the Ella craft safari by jeep, visiting treacle, tea, pottery, and handloom craft producers.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1184854/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting genuine treacle, tea, pottery, and handloom producers in one jeep tour gives real insight into local craft traditions, worth it for travelers wanting hands-on cultural depth rather than another hike or waterfall stop.",
+            tourCard: { slug: "ella-craft-safari-by-jeep-treacle-tea-pottery", title: "Ella Craft Safari by Jeep: Treacle, Tea, Pottery & Handloom", description: "A jeep tour visiting treacle, tea, pottery, and handloom craft producers near Ella.", price: "From $237", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1184854/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring cash if you want to buy directly from the craft producers — genuine local purchases support them more than souvenir shops do." },
+        ],
+        faqs: [
+          { q: "Is the Ella craft safari by jeep worth it?", a: "Yes, for travelers wanting real hands-on insight into local craft traditions, a genuine break from the area's hikes and waterfalls." }
+        ],
+      };
+
+    case "is-bakers-bend-worth-it-ella":
+      return {
+        title: "Is Baker's Bend Worth It as a Day Trip from Ella?",
+        description: "An honest look at the Ella to Baker's Bend adventure day tour, a lesser-known scenic spot outside the main Ella circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294107/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Baker's Bend is genuinely far less visited than Ella's famous Nine Arch Bridge and Little Adam's Peak, giving a quieter adventure day trip for travelers who've already covered the main sights and want something less crowded.",
+            tourCard: { slug: "ella-to-bakers-bend-adventure-day-tour", title: "Ella to Baker's Bend Adventure Day Tour", description: "An adventure day tour to Baker's Bend from Ella.", price: "From $169", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294107/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with flexible expectations, since the appeal here is genuinely the quiet and lesser-known setting rather than a famous landmark." },
+        ],
+        faqs: [
+          { q: "Is Baker's Bend worth it as a day trip from Ella?", a: "Yes, for travelers who've already seen Ella's famous sights and want a genuinely quieter, less crowded adventure spot." }
+        ],
+      };
+
+    case "is-belihuloya-camping-kayaking-worth-it-ella":
+      return {
+        title: "Is the 2-Day Belihuloya Camping, Kayaking and Trekking Tour Worth It from Ella?",
+        description: "An honest look at the 2-day Belihuloya tour combining camping, kayaking, and trekking outside Ella.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1352048/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining camping, kayaking, and trekking over 2 genuine days gives a complete outdoor adventure package distinct from Ella's usual day-trip pace, worth it for travelers wanting a proper multi-activity nature immersion rather than a series of separate day tours.",
+            tourCard: { slug: "ella-2-day-belihuloya-camping-kayaking-and", title: "Ella 2 Day Belihuloya Camping, Kayaking, and Trekking Tour", description: "A 2-day camping, kayaking, and trekking tour in Belihuloya from Ella.", price: "From $169", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1352048/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack for genuinely basic camping conditions — this trades hotel comfort for a real multi-activity outdoor experience." },
+        ],
+        faqs: [
+          { q: "Is the 2-day Belihuloya camping and kayaking tour worth it from Ella?", a: "Yes, for travelers wanting a genuine multi-activity outdoor adventure package, rather than a series of separate day tours." }
+        ],
+      };
+
     default:
       return null;
   }
