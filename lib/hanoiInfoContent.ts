@@ -1731,6 +1731,66 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-vegan-street-food-stories-worth-it-hanoi":
+      return {
+        title: "Is the Vegan Street Food and Stories Tour Worth It in Hanoi?",
+        description: "An honest look at this vegan-focused food tour through the Old Quarter, a genuine alternative to Hanoi's usual meat- and seafood-heavy street food routes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/vegan-street-food-and-stories-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hanoi's street food scene is built around pho, bun cha, and other meat dishes, so a dedicated vegan route genuinely solves a real gap, worth it for vegan and vegetarian travelers who'd otherwise struggle to confidently navigate the Old Quarter's usual stops.",
+            tourCard: { slug: "vegan-street-food-and-stories-in-hanoi", title: "Vegan Street Food and Stories in Hanoi", description: "A vegan-focused street food tour through Hanoi's Old Quarter.", price: "From $53", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/vegan-street-food-and-stories-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any further dietary restrictions when booking, vegan doesn't automatically mean allergy-safe on every stop." },
+        ],
+        faqs: [
+          { q: "Is the vegan street food and stories tour worth it in Hanoi?", a: "Yes, for vegan and vegetarian travelers who want a confident, dedicated route through the Old Quarter's food scene." }
+        ],
+      };
+
+    case "is-hoa-lo-prison-subsidy-era-worth-it-hanoi":
+      return {
+        title: "Is the Hoa Lo Prison and Subsidy-Era Area Tour Worth It in Hanoi?",
+        description: "An honest look at this history tour pairing Hoa Lo Prison with the lesser-known Subsidy-Era Market, a deeper dive into Vietnam's 20th-century history beyond the usual war sites.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/vietnam-war-stories-hoa-lo-prison-and-subsidy-era-area/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing Hoa Lo Prison with the Subsidy-Era Market gives a fuller picture of Vietnam's recent history, covering both the war years and the post-war rationing period most visitors never hear about, worth it for travelers wanting real historical depth rather than just a prison visit.",
+            tourCard: { slug: "vietnam-war-stories-hoa-lo-prison-and-subsidy-era-area", title: "Vietnam War Stories: Hoa Lo Prison and Subsidy-Era Area", description: "A history tour of Hoa Lo Prison and the Subsidy-Era Market in Hanoi.", price: "From $52", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/vietnam-war-stories-hoa-lo-prison-and-subsidy-era-area/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The prison's exhibits are genuinely heavy, go in prepared for sobering subject matter rather than a light sightseeing stop." },
+        ],
+        faqs: [
+          { q: "Is the Hoa Lo Prison and Subsidy-Era Area tour worth it in Hanoi?", a: "Yes, for travelers wanting a fuller picture of Vietnam's war and post-war history rather than just a prison visit." }
+        ],
+      };
+
+    case "is-bike-tour-hidden-gems-banana-island-worth-it-hanoi":
+      return {
+        title: "Is the Bike Tour Through Hidden Gems and Banana Island Worth It in Hanoi?",
+        description: "An honest look at this bike tour reaching Banana Island, a rural riverside spot in the Red River that most visitors to Hanoi never see.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201442/asiabylocals/tours/bike-tour-through-hidden-gems-and-banana-island-in-hanoi/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Banana Island's farmland and riverside paths are a genuine contrast to the Old Quarter's density, so cycling out there gives a real break from the city's traffic and crowds, worth it for travelers who want an active, rural-feeling escape without leaving Hanoi proper.",
+            tourCard: { slug: "bike-tour-through-hidden-gems-and-banana-island-in-hanoi", title: "Bike Tour Through Hidden Gems and Banana Island in Hanoi", description: "A bike tour from Hanoi's Old Quarter out to the rural Banana Island.", price: "From $51", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201442/asiabylocals/tours/bike-tour-through-hidden-gems-and-banana-island-in-hanoi/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed shoes, the island's farm paths can get muddy depending on recent rain." },
+        ],
+        faqs: [
+          { q: "Is the bike tour through hidden gems and Banana Island worth it in Hanoi?", a: "Yes, for travelers wanting a rural, active escape from the Old Quarter's crowds without leaving the city." }
+        ],
+      };
+
     default:
       return null;
   }

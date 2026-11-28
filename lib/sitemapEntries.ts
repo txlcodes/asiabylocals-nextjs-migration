@@ -2932,6 +2932,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-lan-ha-bay-luxury-day-cruise-worth-it-hanoi',
     'is-truc-temple-tam-chuc-worth-it-hanoi', 'is-city-jeep-tour-food-culture-worth-it-hanoi',
     'is-motorbike-food-tour-7-tastings-worth-it-hanoi',
+    'is-vegan-street-food-stories-worth-it-hanoi', 'is-hoa-lo-prison-subsidy-era-worth-it-hanoi',
+    'is-bike-tour-hidden-gems-banana-island-worth-it-hanoi',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hanoi/${slug}`,
     lastModified: new Date(),
