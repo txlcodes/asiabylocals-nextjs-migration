@@ -2141,6 +2141,8 @@ export const ELLA_INFO_SLUGS = [
   'is-gal-oya-boat-safari-worth-it-ella', 'is-ravana-pool-club-worth-it-ella',
   'is-craft-safari-worth-it-ella', 'is-bakers-bend-worth-it-ella',
   'is-belihuloya-camping-kayaking-worth-it-ella',
+  'is-scenic-train-photography-tour-worth-it-ella', 'is-nine-arch-bridge-photoshoot-worth-it-ella',
+  'is-waterfall-hunter-tour-worth-it-ella', 'is-village-experience-breakfast-jeep-worth-it-ella',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.

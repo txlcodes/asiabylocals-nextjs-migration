@@ -1431,6 +1431,90 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-scenic-train-photography-tour-worth-it-ella":
+      return {
+        title: "Is the Ella Scenic Train Ride and Professional Photography Tour Worth It?",
+        description: "An honest look at Ella's scenic train ride paired with a professional photography tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want professional-quality photos of the famous hill-country train route rather than just your own phone shots — a photographer accompanies the scenic train ride to capture genuinely polished images of the journey and its tea-country backdrop.",
+            tourCard: { slug: "ella-scenic-train-ride-and-professional", title: "Ella: Scenic Train Ride and Professional Photography Tour", description: "A scenic train ride through Ella's hill country paired with a professional photography tour.", price: "From $254", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask in advance how the final photos are delivered and how many you'll receive, since this varies by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the scenic train ride and photography tour worth it in Ella?", a: "Yes, for travelers wanting genuinely professional photos of the hill-country train journey rather than relying on their own phone shots." },
+        ],
+      };
+
+    case "is-nine-arch-bridge-photoshoot-worth-it-ella":
+      return {
+        title: "Is the Ella Nine Arch Bridge Private Photoshoot Worth It?",
+        description: "An honest look at Ella's private photoshoot experience at the famous Nine Arch Bridge.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want more than a quick selfie at Sri Lanka's most photographed bridge — a dedicated photoshoot gives you genuinely composed, professional shots at the Nine Arch Bridge, worth it for travelers who value the photos as much as the visit itself.",
+            tourCard: { slug: "ella-nine-arch-bridge-photoshoot", title: "Ella: Nine Arch Bridge Photoshoot", description: "A private professional photoshoot at Ella's Nine Arch Bridge.", price: "From $169", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time the shoot around a train passing through if you want that classic shot — ask your photographer about the train schedule in advance.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nine Arch Bridge photoshoot worth it in Ella?", a: "Yes, for travelers who want genuinely professional, composed photos at the bridge rather than a quick phone selfie." },
+        ],
+      };
+
+    case "is-waterfall-hunter-tour-worth-it-ella":
+      return {
+        title: "Is the Ella Waterfall Hunter Guided Tour Worth It?",
+        description: "An honest look at Ella's Waterfall Hunter guided tour with lunch.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see multiple waterfalls around Ella in a single structured day rather than picking just one — this tour is specifically built around hunting down several of the area's waterfalls, with lunch included.",
+            tourCard: { slug: "ella-waterfall-hunter-guided-tour-with-lunch", title: "Ella: Waterfall Hunter Guided Tour with Lunch", description: "A guided tour of multiple waterfalls around Ella, with lunch included.", price: "From $214", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear shoes with good grip — paths to multiple waterfalls in one day mean more varied, sometimes slippery terrain than a single-site visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Waterfall Hunter guided tour worth it in Ella?", a: "Yes, for travelers wanting to see multiple waterfalls around Ella in one structured day rather than visiting just one." },
+        ],
+      };
+
+    case "is-village-experience-breakfast-jeep-worth-it-ella":
+      return {
+        title: "Is the Ella Village Experience with Breakfast and Jeep Ride Worth It?",
+        description: "An honest look at Ella's village experience tour with breakfast and a jeep ride.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely local morning rather than another waterfall or safari stop — this combines a jeep ride into the countryside with breakfast in an actual village setting, a slower, more intimate activity than Ella's usual sightseeing pace.",
+            tourCard: { slug: "ella-village-experience-with-breakfast-and-jeep", title: "Ella: Village Experience with Breakfast and Jeep Ride", description: "A village experience tour from Ella with breakfast and a jeep ride.", price: "From $217", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go with an appetite and genuine curiosity about rural Sri Lankan life — this works best as a slow, conversational morning rather than a rushed stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the village experience with breakfast and jeep ride worth it in Ella?", a: "Yes, for travelers wanting a genuinely local, slower-paced morning distinct from Ella's usual waterfall and safari circuit." },
+        ],
+      };
+
     default:
       return null;
   }

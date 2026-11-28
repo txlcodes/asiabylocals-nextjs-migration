@@ -2206,7 +2206,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-7day-off-beaten-nature-wildlife-worth-it', 'is-8day-active-sri-lanka-tour-worth-it',
     'is-gal-oya-boat-safari-worth-it-ella', 'is-ravana-pool-club-worth-it-ella',
     'is-craft-safari-worth-it-ella', 'is-bakers-bend-worth-it-ella',
-    'is-belihuloya-camping-kayaking-worth-it-ella'].map(slug => ({
+    'is-belihuloya-camping-kayaking-worth-it-ella',
+    'is-scenic-train-photography-tour-worth-it-ella', 'is-nine-arch-bridge-photoshoot-worth-it-ella',
+    'is-waterfall-hunter-tour-worth-it-ella', 'is-village-experience-breakfast-jeep-worth-it-ella'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/ella/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
