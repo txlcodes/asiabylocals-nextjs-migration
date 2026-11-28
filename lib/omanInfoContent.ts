@@ -2048,6 +2048,34 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-east-adventure-waterfalls-mountain-safari-worth-it-salalah":
+            return {
+                title: "Is the Salalah East Adventure: Waterfalls, Mountain & Safari Tour Worth It?",
+                description: "An honest look at the half-day East Salalah adventure visiting Taqah, Wadi Darbat, and Jabal Samhan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9411abe331623aaacacd8865569115b17da88dde91fb08109636bc05140f200.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine natural variety on the eastern side of the city — pairing the coastal town of Taqah with Wadi Darbat's lagoon scenery and Jabal Samhan's mountain safari gives real range beyond a single-stop excursion.", tourCard: { slug: "salalah-east-adventure-waterfalls-mountain-safari", title: "Salalah East Adventure: Waterfalls, Mountain & Safari", description: "A half-day East Salalah adventure visiting Taqah, Wadi Darbat, and Jabal Samhan.", price: "From $364", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d9411abe331623aaacacd8865569115b17da88dde91fb08109636bc05140f200.jpeg" } },
+                    { title: "Practical Tips", content: "Visit during or shortly after the Khareef monsoon season for the most dramatic waterfall and greenery at Wadi Darbat." }
+                ],
+                faqs: [
+                    { q: "Is the East Adventure waterfalls, mountain, and safari tour worth it in Salalah?", a: "Yes, for travelers wanting genuine natural variety across a coastal town, lagoon, and mountain safari in one outing." }
+                ],
+            };
+
+        case "is-coastal-highway-fushi-dunes-hasik-worth-it-salalah":
+            return {
+                title: "Is the Coastal Highway Tour to Fushi Dunes & Hasik Beach Worth It in Salalah?",
+                description: "An honest look at the full-day Coastal Highway tour to Fushi Dunes and Hasik Beach from Salalah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2434783a13f87b227c4e76ea2d09e2cda48c814893f1bad7817ded1c4696bb5d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely scenic drive beyond the usual Salalah stops — the Coastal Highway's cliffs, beaches, and ocean views give real variety, and reaching Fushi Dunes and the remote Hasik Beach takes you further off the tourist trail.", tourCard: { slug: "salalah-coastal-highway-tour-to-fushi-dunes-hasik", title: "Salalah: Coastal Highway Tour to Fushi Dunes & Hasik Beach", description: "A full-day Coastal Highway tour to Fushi Dunes and Hasik Beach from Salalah.", price: "From $247", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2434783a13f87b227c4e76ea2d09e2cda48c814893f1bad7817ded1c4696bb5d.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely long day given the distance to Hasik, so confirm pickup times leave a comfortable buffer for the return drive." }
+                ],
+                faqs: [
+                    { q: "Is the Coastal Highway tour to Fushi Dunes and Hasik Beach worth it in Salalah?", a: "Yes, for travelers wanting a scenic coastal drive to remote dunes and beaches well off the usual tourist trail." }
+                ],
+            };
+
         default:
             return null;
     }

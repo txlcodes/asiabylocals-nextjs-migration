@@ -1429,6 +1429,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ayn-ghedh-waterfall-hike-worth-it-salalah', 'is-dhofar-mountains-coffee-sunset-worth-it-salalah',
     'is-5day-dhofar-highlights-worth-it-salalah', 'is-quad-camel-horse-combo-worth-it-salalah',
     'is-rub-al-khali-sunset-stargazing-worth-it-salalah', 'is-1001-nights-desert-safari-worth-it-salalah',
+    'is-east-adventure-waterfalls-mountain-safari-worth-it-salalah', 'is-coastal-highway-fushi-dunes-hasik-worth-it-salalah',
   ], 'oman', 'salalah');
 
   const bhaktapurInfoPages = mapInfoSlugs([
