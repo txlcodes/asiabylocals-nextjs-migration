@@ -851,6 +851,62 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-falcon-farm-experience-worth-it-almaty":
+            return {
+                title: "Is the Big Almaty Lake, Ayusai Waterfall & Falcon Farm Experience Worth It?",
+                description: "An honest look at the combo tour pairing Big Almaty Lake and Ayusai Waterfall with a falconry experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want wildlife interaction alongside the scenery — the falcon farm stop gives a genuine falconry demonstration, a distinctive addition most Big Almaty Lake tours don't include.", tourCard: { slug: "big-almaty-lake-ayusai-waterfall-falcon-farm", title: "Big Almaty Lake, Ayusai Waterfall & Falcon Farm Experience", description: "A combo tour pairing Big Almaty Lake and Ayusai Waterfall with a falconry experience.", price: "From $611", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Ask whether you can hold or interact with the falcons directly, since this varies by operator and adds real value if it's included." }
+                ],
+                faqs: [
+                    { q: "Is the Big Almaty Lake and falcon farm experience worth it?", a: "Yes, for travelers wanting a genuine falconry demonstration added to the standard lake and waterfall scenery." }
+                ],
+            };
+
+        case "is-huns-ethno-village-issyk-lake-worth-it-almaty":
+            return {
+                title: "Is the Almaty Day Tour to Huns Ethno Village & Issyk Lake Worth It?",
+                description: "An honest look at the day tour combining the Huns Ethno Village with Issyk Lake from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine cultural context alongside the scenery — the Huns Ethno Village recreates nomadic Hun-era life, a distinctive historical angle paired here with the natural beauty of Issyk Lake.", tourCard: { slug: "from-almaty-day-tour-to-huns-ethno-village-issyk", title: "From Almaty: Day Tour to Huns Ethno Village & Issyk Lake", description: "A day tour combining the Huns Ethno Village with Issyk Lake from Almaty.", price: "From $572", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "A guide knowledgeable about Hun-era history and nomadic culture adds real depth to the ethno village portion of the day." }
+                ],
+                faqs: [
+                    { q: "Is the Huns Ethno Village and Issyk Lake tour worth it from Almaty?", a: "Yes, for travelers wanting genuine historical context on nomadic Hun-era life paired with lake scenery." }
+                ],
+            };
+
+        case "is-eco-tour-ev-charyn-kolsai-worth-it-almaty":
+            return {
+                title: "Is the Private Eco Tour by EV to Charyn Canyon, River & Kolsai Lakes Worth It?",
+                description: "An honest look at the private eco tour in an electric vehicle to Charyn Canyon, a river, and Kolsai Lakes.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if lower-impact travel matters to you — this covers the same Charyn Canyon and Kolsai Lakes highlights as standard tours, but in an electric vehicle rather than a diesel SUV, a genuinely different environmental footprint for the same route.", tourCard: { slug: "private-eco-tour-by-ev-charyn-canyon-river-kolsai", title: "Private Eco Tour by EV: Charyn Canyon, River & Kolsai Lakes", description: "A private eco tour in an electric vehicle to Charyn Canyon, a river, and Kolsai Lakes.", price: "From $546", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Confirm charging logistics with the operator in advance, since EV range and charging stops matter more on long rural routes than with a standard vehicle." }
+                ],
+                faqs: [
+                    { q: "Is the EV eco tour to Charyn Canyon and Kolsai Lakes worth it?", a: "Yes, for travelers wanting the same scenic highlights with a genuinely lower environmental footprint than a standard diesel SUV tour." }
+                ],
+            };
+
+        case "is-4x4-photo-expedition-worth-it-almaty":
+            return {
+                title: "Is the Almaty Private 4x4 Photo Expedition, 3 Canyons & Lakes Worth It?",
+                description: "An honest look at the private 4x4 photo expedition covering 3 canyons and lakes from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if photography is your main priority — this tour is specifically framed around capturing 3 canyons and lakes photographically, timed and routed for good light rather than just covering ground efficiently.", tourCard: { slug: "from-almaty-private-4x4-photo-expedition-3", title: "From Almaty: Private 4x4 Photo Expedition, 3 Canyons & Lakes", description: "A private 4x4 photo expedition covering 3 canyons and lakes from Almaty.", price: "From $533", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Mention any specific shots you're after in advance, since a photo-focused guide can plan timing around golden hour at each stop." }
+                ],
+                faqs: [
+                    { q: "Is the 4x4 photo expedition worth it in Almaty?", a: "Yes, for photography-focused travelers wanting timing and routing built specifically around capturing good shots at each canyon and lake." }
+                ],
+            };
+
         default:
             return null;
     }

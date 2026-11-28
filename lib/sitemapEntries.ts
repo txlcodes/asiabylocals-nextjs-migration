@@ -1094,6 +1094,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-scenic-airplane-flight-worth-it-almaty', 'is-wine-drone-experience-worth-it-almaty',
     'is-tamgaly-tas-rock-art-worth-it-almaty', 'is-paragliding-zipline-combo-worth-it-almaty',
     'is-hobbit-waterfall-hot-springs-worth-it-almaty',
+    'is-falcon-farm-experience-worth-it-almaty', 'is-huns-ethno-village-issyk-lake-worth-it-almaty',
+    'is-eco-tour-ev-charyn-kolsai-worth-it-almaty', 'is-4x4-photo-expedition-worth-it-almaty',
   ], 'kazakhstan', 'almaty');
   const ulaanbaatarInfoPages = mapInfoSlugs([
     'best-terelj-national-park-day-tour-ulaanbaatar', 'best-city-tour-ulaanbaatar',
