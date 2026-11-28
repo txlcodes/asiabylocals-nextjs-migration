@@ -2514,6 +2514,66 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-suthep-pha-lat-umong-temples-worth-it-chiang-mai":
+            return {
+                title: "Is the Private Suthep, Pha Lat, Umong Sacred Temples and Baan Kang Wat Tour Worth It?",
+                description: "An honest look at the full-day private tour covering Suthep, Pha Lat, Umong temples, and Baan Kang Wat in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-suthep-pha-lat-umong-sacred-temples-and-baan-kang-wat-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quieter, more spiritual side of Chiang Mai beyond the main Doi Suthep crowds — Pha Lat and Umong are both genuinely less-visited forest temples, and pairing them with the artsy Baan Kang Wat community gives this day real variety.",
+                    tourCard: { slug: "private-suthep-pha-lat-umong-sacred-temples-and-baan-kang-wat-in-chiang-mai", title: "Private Suthep-Pha Lat- Umong Sacred Temples and Baan Kang Wat", description: "A full-day private tour covering Suthep, Pha Lat, Umong temples, and Baan Kang Wat in Chiang Mai.", price: "From $194", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-suthep-pha-lat-umong-sacred-temples-and-baan-kang-wat-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Umong Temple's tunnel passages are a genuine highlight, so budget extra time there if ancient architecture interests you." }
+                ],
+                faqs: [
+                    { q: "Is the Suthep, Pha Lat, Umong temples and Baan Kang Wat tour worth it in Chiang Mai?", a: "Yes, for travelers wanting a quieter, more spiritual side of Chiang Mai beyond the main Doi Suthep crowds." }
+                ],
+            };
+
+        case "is-bamboo-rafting-wat-phra-that-doi-kham-worth-it-chiang-mai":
+            return {
+                title: "Is the Bamboo Rafting and Wat Phra That Doi Kham Tour Worth It in Chiang Mai?",
+                description: "An honest look at the half-day bamboo rafting trip paired with a visit to Wat Phra That Doi Kham in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bamboo-rafting-and-wat-phra-that-doi-kham-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a calm, traditional river activity paired with a genuinely impressive temple — bamboo rafting on the Mae Wang River is a slower, more meditative pace than whitewater rafting, and Wat Phra That Doi Kham's giant golden Buddha is a real highlight to pair it with.",
+                    tourCard: { slug: "bamboo-rafting-and-wat-phra-that-doi-kham-in-chiang-mai", title: "Bamboo Rafting and Wat Phra That Doi Kham in Chiang Mai", description: "A half-day bamboo rafting trip paired with a visit to Wat Phra That Doi Kham in Chiang Mai.", price: "From $261", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bamboo-rafting-and-wat-phra-that-doi-kham-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a calmer pace than whitewater rafting, so it suits travelers wanting a relaxing river experience rather than an adrenaline rush." }
+                ],
+                faqs: [
+                    { q: "Is the bamboo rafting and Wat Phra That Doi Kham tour worth it in Chiang Mai?", a: "Yes, for travelers wanting a calm, traditional river experience paired with a genuinely impressive golden Buddha temple." }
+                ],
+            };
+
+        case "is-pongyang-jungle-coaster-zipline-worth-it-chiang-mai":
+            return {
+                title: "Is the Pongyang Jungle Coaster and Zipline with Transfer Worth It in Chiang Mai?",
+                description: "An honest look at the half-day Pongyang Jungle Coaster and zipline experience with transfer in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pongyang-jungle-coaster-and-zipline-with-transfer-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quick, focused adrenaline fix rather than a full day of mixed activities — the jungle coaster and zipline combo at Pongyang is a short, self-contained adventure that doesn't require stacking in other stops.",
+                    tourCard: { slug: "pongyang-jungle-coaster-and-zipline-with-transfer-in-chiang-mai", title: "Pongyang Jungle Coaster and Zipline with Transfer in Chiang Mai", description: "A half-day Pongyang Jungle Coaster and zipline experience with transfer in Chiang Mai.", price: "From $202", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/pongyang-jungle-coaster-and-zipline-with-transfer-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A good half-day add-on if you're already in Chiang Mai for other activities and want a short, pure adrenaline stop." }
+                ],
+                faqs: [
+                    { q: "Is the Pongyang Jungle Coaster and zipline worth it in Chiang Mai?", a: "Yes, for travelers wanting a quick, focused adrenaline fix without committing to a full day of mixed activities." }
+                ],
+            };
+
+        case "is-elephant-care-atv-zipline-raft-worth-it-chiang-mai":
+            return {
+                title: "Is the Private Elephant Care, ATV/Zipline, Waterfall and Raft Tour Worth It in Chiang Mai?",
+                description: "An honest look at the full-day private tour combining elephant care, ATV or zipline, a waterfall, and rafting in Chiang Mai.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-elephant-care-atv-zipline-waterfall-and-raft-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want maximum variety across one private day — pairing a full ethical elephant care program with a choice of ATV or zipline, a waterfall stop, and rafting covers both gentle wildlife care and genuine adrenaline in a single booking.",
+                    tourCard: { slug: "private-elephant-care-atv-zipline-waterfall-and-raft-in-chiang-mai", title: "Private Elephant Care, ATV/Zipline, Waterfall and Raft in Chiang Mai", description: "A full-day private tour combining elephant care, ATV or zipline, a waterfall, and rafting in Chiang Mai.", price: "From $350", duration: "7.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-elephant-care-atv-zipline-waterfall-and-raft-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask whether you choose ATV or zipline on the day or in advance, since the two offer genuinely different experiences." }
+                ],
+                faqs: [
+                    { q: "Is the elephant care, ATV/zipline, waterfall and raft tour worth it in Chiang Mai?", a: "Yes, for travelers wanting maximum variety — gentle elephant care and genuine adrenaline activities — in a single private day." }
+                ],
+            };
+
         case "is-chandee-head-spa-worth-it-bangkok":
             return {
                 title: "Is the Chandee Head Spa and Massage at Sukhumvit 39 Worth It?",

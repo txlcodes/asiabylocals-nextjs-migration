@@ -1931,6 +1931,20 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-taichung-highlights-cultural-private-tour-worth-it-taipei":
+      return {
+        title: "Is the Taichung Highlights & Cultural Private Tour Worth It from Taipei?",
+        description: "An honest look at the full-day private cultural tour of Taichung visiting the Lin Family Garden, Second Market, and the original Chun Shui Tang teahouse from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for travelers with specific interest in Taiwanese heritage and food culture — the Wufeng Lin Family Garden's historic architecture, Taichung's bustling Second Market, and the original Chun Shui Tang (credited with inventing bubble tea) together give a genuinely different cultural angle than Taipei's own sightseeing.", tourCard: { slug: "from-taipei-taichung-highlights-cultural-private", title: "From Taipei: Private Classic Taichung Highlights & Cultural Tour", description: "A full-day private cultural tour of Taichung visiting the Lin Family Garden, Second Market, and the original Chun Shui Tang teahouse from Taipei.", price: "From $440", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Try the original bubble tea at Chun Shui Tang's founding location — it's a genuine piece of food history, not just a tea stop." },
+        ],
+        faqs: [
+          { q: "Is the Taichung Highlights and Cultural Private Tour worth it from Taipei?", a: "Yes, for travelers with specific interest in Taiwanese heritage architecture and the origins of bubble tea." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1421,6 +1421,7 @@ export const TAIPEI_INFO_SLUGS = [
   'is-landmark-photoshoot-48hr-worth-it-taipei', 'is-pinglin-maokong-gondola-worth-it-taipei',
   'is-water-activities-night-market-worth-it-taipei', 'is-taipeieye-culture-opera-day-tour-worth-it-taipei',
   'is-yongkang-raohe-night-market-tour-worth-it-taipei', 'is-taichung-gardens-harbor-wetlands-worth-it-taipei',
+  'is-taichung-highlights-cultural-private-tour-worth-it-taipei',
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and
@@ -1901,6 +1902,8 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'is-self-drive-scooter-backroad-tour-worth-it-chiang-mai',
   'is-silver-ring-workshop-worth-it-chiang-mai', 'is-fabric-tie-dye-workshop-worth-it-chiang-mai',
   'is-lamphun-local-train-worth-it-chiang-mai', 'is-chiangdao-caving-kayaking-worth-it-chiang-mai',
+  'is-suthep-pha-lat-umong-temples-worth-it-chiang-mai', 'is-bamboo-rafting-wat-phra-that-doi-kham-worth-it-chiang-mai',
+  'is-pongyang-jungle-coaster-zipline-worth-it-chiang-mai', 'is-elephant-care-atv-zipline-raft-worth-it-chiang-mai',
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',

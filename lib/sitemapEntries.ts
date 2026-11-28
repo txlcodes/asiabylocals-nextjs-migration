@@ -373,6 +373,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-landmark-photoshoot-48hr-worth-it-taipei', 'is-pinglin-maokong-gondola-worth-it-taipei',
     'is-water-activities-night-market-worth-it-taipei', 'is-taipeieye-culture-opera-day-tour-worth-it-taipei',
     'is-yongkang-raohe-night-market-tour-worth-it-taipei', 'is-taichung-gardens-harbor-wetlands-worth-it-taipei',
+    'is-taichung-highlights-cultural-private-tour-worth-it-taipei',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),
@@ -1910,6 +1911,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-self-drive-scooter-backroad-tour-worth-it-chiang-mai',
     'is-silver-ring-workshop-worth-it-chiang-mai', 'is-fabric-tie-dye-workshop-worth-it-chiang-mai',
     'is-lamphun-local-train-worth-it-chiang-mai', 'is-chiangdao-caving-kayaking-worth-it-chiang-mai',
+    'is-suthep-pha-lat-umong-temples-worth-it-chiang-mai', 'is-bamboo-rafting-wat-phra-that-doi-kham-worth-it-chiang-mai',
+    'is-pongyang-jungle-coaster-zipline-worth-it-chiang-mai', 'is-elephant-care-atv-zipline-raft-worth-it-chiang-mai',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),
