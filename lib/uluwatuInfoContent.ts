@@ -1296,6 +1296,106 @@ export function getUluwatuInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-romantic-evening-cruise-worth-it-uluwatu":
+      return {
+        title: "Is the 5-Course Romantic Evening Cruise with Live Music Worth It in Uluwatu?",
+        description: "An honest look at the 5-course romantic evening cruise with live music near Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/5-course-romantic-evening-cruise-with-live-music-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A genuine 5-course dinner cruise with live music gives a polished, romantic evening on the water, worth it specifically for couples wanting a special occasion handled in one booking rather than arranging dinner and a boat separately.",
+            tourCard: { slug: "5-course-romantic-evening-cruise-with-live-music-in-uluwatu", title: "5-Course Romantic Evening Cruise With Live Music in Uluwatu", description: "A 5-course dinner cruise with live music near Uluwatu.", price: "From $112", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/5-course-romantic-evening-cruise-with-live-music-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for an anniversary or special occasion specifically — the pricing reflects the premium, romantic framing." },
+        ],
+        faqs: [
+          { q: "Is the 5-course romantic evening cruise worth it in Uluwatu?", a: "Yes, specifically for couples wanting a genuinely polished, special-occasion evening with dinner and live music handled in one booking." }
+        ],
+      };
+
+    case "is-surf-skills-coaching-worth-it-uluwatu":
+      return {
+        title: "Is Improving Your Surf Skills Worth It in Uluwatu?",
+        description: "An honest look at the dedicated surf skills improvement coaching program in Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/improve-your-surf-skills-with-us-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This focuses specifically on improving existing surf technique rather than teaching complete beginners, worth it for travelers who already surf and want genuine skill progression at one of the world's most famous surf destinations.",
+            tourCard: { slug: "improve-your-surf-skills-with-us-in-uluwatu", title: "Improve Your Surf Skills with Us in Uluwatu", description: "A dedicated surf skills coaching session in Uluwatu.", price: "From $53", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/improve-your-surf-skills-with-us-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with genuine prior surfing experience — this is coaching for improvement, not a beginner lesson." },
+        ],
+        faqs: [
+          { q: "Is the surf skills coaching worth it in Uluwatu?", a: "Yes, for travelers who already surf and want genuine technique progression at one of the world's most famous surf breaks." }
+        ],
+      };
+
+    case "is-silver-brass-jewelry-class-worth-it-uluwatu":
+      return {
+        title: "Is the Uluwatu Silver and Brass Jewelry Class Worth It?",
+        description: "An honest look at the Uluwatu silver and brass jewelry class with a gold-plating option.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-silver-and-brass-jewelry-class-with-gold-plating-option-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Making a real piece of silver or brass jewelry, with an optional gold-plating finish, gives a genuinely more meaningful souvenir than buying finished pieces, worth it for travelers wanting a hands-on craft activity with a wearable result.",
+            tourCard: { slug: "uluwatu-silver-and-brass-jewelry-class-with-gold-plating-option-uluwatu", title: "Uluwatu Silver and Brass Jewelry Class with Gold Plating Option", description: "A hands-on silver and brass jewelry-making class with an optional gold-plating finish in Uluwatu.", price: "From $48", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uluwatu-silver-and-brass-jewelry-class-with-gold-plating-option-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Choose the gold-plating option specifically if you want a genuinely more premium finished look to your piece." },
+        ],
+        faqs: [
+          { q: "Is the silver and brass jewelry class worth it in Uluwatu?", a: "Yes, for a genuinely meaningful, wearable souvenir you make yourself, with an optional premium gold-plated finish." }
+        ],
+      };
+
+    case "is-turtle-island-beaches-tour-worth-it-uluwatu":
+      return {
+        title: "Is the Turtle Island and Beaches Private Tour Worth It from Uluwatu?",
+        description: "An honest look at the private Turtle Island and beaches tour from Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/turtle-island-and-beaches-private-tour-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a genuine turtle conservation visit with multiple beach stops gives real wildlife interest alongside the area's usual beach-hopping, worth it for travelers wanting a mix of nature and relaxation in one private tour.",
+            tourCard: { slug: "turtle-island-and-beaches-private-tour-in-uluwatu", title: "Turtle Island and Beaches - Private Tour in Uluwatu", description: "A private tour combining Turtle Island and multiple beach stops from Uluwatu.", price: "From $106", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/turtle-island-and-beaches-private-tour-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about the turtle conservation center's current rescue population — it genuinely varies by season." },
+        ],
+        faqs: [
+          { q: "Is the Turtle Island and beaches private tour worth it from Uluwatu?", a: "Yes, for travelers wanting genuine wildlife interest combined with relaxed beach-hopping in one private tour." }
+        ],
+      };
+
+    case "is-monumental-grace-art-worth-it-uluwatu":
+      return {
+        title: "Is the Monumental Grace, Art Reflection and Hidden Calm Shore Tour Worth It in Uluwatu?",
+        description: "An honest look at the Monumental Grace tour combining art reflection and a hidden calm shore in Uluwatu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/monumental-grace-art-reflection-and-hidden-calm-shore-in-uluwatu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This combines genuine art and monument appreciation with a quieter, lesser-known shore stop, worth it for travelers wanting a reflective, slower-paced day distinct from Uluwatu's busier surf and sunset crowds.",
+            tourCard: { slug: "monumental-grace-art-reflection-and-hidden-calm-shore-in-uluwatu", title: "Monumental Grace, Art Reflection and Hidden Calm Shore in Uluwatu", description: "A tour combining monumental art and a hidden calm shore experience in Uluwatu.", price: "From $132", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/monumental-grace-art-reflection-and-hidden-calm-shore-in-uluwatu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with an unhurried mindset — the genuine value here is the reflective pace, not covering maximum ground." },
+        ],
+        faqs: [
+          { q: "Is the Monumental Grace art and hidden shore tour worth it in Uluwatu?", a: "Yes, for travelers wanting a genuinely reflective, slower-paced day away from the area's busier surf and sunset crowds." }
+        ],
+      };
+
     default:
       return null;
   }

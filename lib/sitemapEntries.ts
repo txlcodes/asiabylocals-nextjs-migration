@@ -2856,6 +2856,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-silver-jewelry-workshop-worth-it-uluwatu', 'is-cooking-class-market-tour-worth-it-uluwatu',
     'is-padang-padang-photoshoot-worth-it-uluwatu', 'is-sunset-dinner-cruise-buffet-show-worth-it-uluwatu',
     'is-south-coast-3-beaches-tour-worth-it-uluwatu', 'is-mangrove-kayaking-tour-worth-it-uluwatu',
+    'is-romantic-evening-cruise-worth-it-uluwatu', 'is-surf-skills-coaching-worth-it-uluwatu',
+    'is-silver-brass-jewelry-class-worth-it-uluwatu', 'is-turtle-island-beaches-tour-worth-it-uluwatu',
+    'is-monumental-grace-art-worth-it-uluwatu',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/uluwatu/${slug}`,
     lastModified: new Date(),
