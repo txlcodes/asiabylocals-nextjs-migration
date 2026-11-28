@@ -1126,6 +1126,76 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-sheep-cafe-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Sheep Cafe Full-Day Tour Worth It in Chiang Mai?",
+                description: "An honest look at the private full-day tour with a sheep cafe stop in Chiang Mai, a quirky animal-cafe add-on to a day of sightseeing.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-full-day-tour-with-sheep-cafe-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A sheep cafe is a genuinely quirky, low-key stop to break up a day of temples and markets, worth it for travelers wanting a lighthearted, photogenic activity rather than another heavy cultural site, especially if traveling with kids.", tourCard: { slug: "private-full-day-tour-with-sheep-cafe-in-chiang-mai", title: "Private Full-Day Tour with Sheep Cafe in Chiang Mai", description: "A private full-day sightseeing tour including a stop at a sheep cafe.", price: "From $156", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/private-full-day-tour-with-sheep-cafe-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A genuinely good fit for families with young kids looking for a lighter, animal-focused break between heavier sightseeing stops." }
+                ],
+                faqs: [
+                    { q: "Is the sheep cafe tour worth it in Chiang Mai?", a: "Yes, as a genuinely lighthearted, photogenic break from temples and markets, especially good for families with kids." }
+                ],
+            };
+
+        case "is-thai-silk-weaving-workshop-worth-it-chiang-mai":
+            return {
+                title: "Is the Thai Silk Weaving Workshop Worth It in Chiang Mai?",
+                description: "An honest look at the Thai silk weaving workshop with lunch in Chiang Mai, a hands-on introduction to traditional textile craft.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/thai-silk-weaving-workshop-with-lunch-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Silk weaving is a genuinely significant traditional Thai craft, and this hands-on workshop with lunch included gives real insight into a skill that takes locals years to master, worth it for travelers wanting a deeper textile-focused cultural activity.", tourCard: { slug: "thai-silk-weaving-workshop-with-lunch-in-chiang-mai", title: "Thai Silk Weaving Workshop with Lunch in Chiang Mai", description: "A hands-on Thai silk weaving workshop with lunch included.", price: "From $150", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/thai-silk-weaving-workshop-with-lunch-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Don't expect to master the craft in one session — the real value is genuine appreciation for the skill involved, not a finished masterpiece." }
+                ],
+                faqs: [
+                    { q: "Is the Thai silk weaving workshop worth it in Chiang Mai?", a: "Yes, for a genuinely deeper, hands-on appreciation of a significant traditional Thai craft, with lunch included." }
+                ],
+            };
+
+        case "is-horse-riding-wooden-temple-worth-it-chiang-mai":
+            return {
+                title: "Is the Horse Riding Lesson and Wooden Temple Tour Worth It in Chiang Mai?",
+                description: "An honest look at the horse riding lesson and wooden temple tour in Chiang Mai, combining a riding lesson with a visit to a distinctive temple.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/horse-riding-lesson-and-wooden-temple-tour-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing a genuine horse riding lesson with a visit to one of the region's distinctive wooden temples gives a combination of activity and culture that most Chiang Mai itineraries don't offer together, worth it for travelers wanting variety in a single outing.", tourCard: { slug: "horse-riding-lesson-and-wooden-temple-tour-in-chiang-mai", title: "Horse Riding Lesson and Wooden Temple Tour in Chiang Mai", description: "A horse riding lesson combined with a visit to a wooden temple in Chiang Mai.", price: "From $163", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/horse-riding-lesson-and-wooden-temple-tour-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "No prior riding experience is needed — this is a genuine lesson for beginners, not an assumed-skill trail ride." }
+                ],
+                faqs: [
+                    { q: "Is the horse riding and wooden temple tour worth it in Chiang Mai?", a: "Yes, for travelers wanting genuine variety, combining a real beginner-friendly riding lesson with a distinctive temple visit in one outing." }
+                ],
+            };
+
+        case "is-slow-boat-luang-prabang-worth-it-chiang-mai":
+            return {
+                title: "Is the Slow Boat to Luang Prabang Worth It from Chiang Mai?",
+                description: "An honest look at the 2-day, 1-night slow boat journey from Chiang Mai to Luang Prabang, Laos.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/2-day-1-night-slow-boat-to-luang-prabang-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This classic slow boat journey down the Mekong gives a genuinely scenic, unhurried way to cross from Thailand into Laos, worth it specifically for travelers continuing their trip into Laos who want the journey itself to be part of the experience rather than just a flight.", tourCard: { slug: "2-day-1-night-slow-boat-to-luang-prabang-in-chiang-mai", title: "2-Day, 1-Night Slow Boat to Luang Prabang in Chiang Mai", description: "A 2-day, 1-night slow boat journey from Chiang Mai to Luang Prabang, Laos.", price: "From $136", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/2-day-1-night-slow-boat-to-luang-prabang-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a cushion and something to read — the boat is genuinely slow-paced by design, and comfort on board varies by operator." }
+                ],
+                faqs: [
+                    { q: "Is the slow boat to Luang Prabang worth it from Chiang Mai?", a: "Yes, specifically for travelers continuing into Laos who want a genuinely scenic, unhurried river journey rather than a quick flight." }
+                ],
+            };
+
+        case "is-diy-skincare-workshop-worth-it-chiang-mai":
+            return {
+                title: "Is the DIY Natural Skincare and Aromatherapy Workshop Worth It in Chiang Mai?",
+                description: "An honest look at Chiang Mai's DIY natural skincare and aromatherapy workshop, a hands-on wellness craft activity.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/diy-natural-skincare-and-aromatherapy-workshop-in-chiang-mai/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Making your own natural skincare products with local herbs and essential oils gives a genuinely practical, take-home wellness activity, worth it for travelers wanting a calm, hands-on break from Chiang Mai's more physically demanding jungle and trekking tours.", tourCard: { slug: "diy-natural-skincare-and-aromatherapy-workshop-in-chiang-mai", title: "DIY Natural Skincare and Aromatherapy Workshop in Chiang Mai", description: "A hands-on workshop making natural skincare products with local herbs and essential oils.", price: "From $105", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/diy-natural-skincare-and-aromatherapy-workshop-in-chiang-mai/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "You'll leave with genuinely usable products, so this makes a more practical souvenir than typical trinkets." }
+                ],
+                faqs: [
+                    { q: "Is the DIY natural skincare workshop worth it in Chiang Mai?", a: "Yes, for a genuinely calm, hands-on wellness activity with practical take-home products, a good break from the city's more physical adventure tours." }
+                ],
+            };
+
         default:
             return null;
     }

@@ -1699,6 +1699,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-mae-kampong-village-trek-worth-it-chiang-mai', 'is-karen-village-homestay-trek-worth-it-chiang-mai',
     'is-lamphun-lampang-temples-worth-it-chiang-mai', 'is-lanna-culture-thai-dress-night-safari-worth-it-chiang-mai',
     'is-buffalo-rice-planting-worth-it-chiang-mai', 'is-3day-meditation-yoga-retreat-worth-it-chiang-mai',
+    'is-sheep-cafe-tour-worth-it-chiang-mai', 'is-thai-silk-weaving-workshop-worth-it-chiang-mai',
+    'is-horse-riding-wooden-temple-worth-it-chiang-mai', 'is-slow-boat-luang-prabang-worth-it-chiang-mai',
+    'is-diy-skincare-workshop-worth-it-chiang-mai',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/chiang-mai/${slug}`,
     lastModified: new Date(),
