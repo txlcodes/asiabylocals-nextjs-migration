@@ -2072,6 +2072,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ikebana-workshop-worth-it-tokyo',
     'is-red-pandas-ichikawa-zoo-worth-it-tokyo', 'is-denim-jeans-workshop-worth-it-tokyo',
     'is-daikoku-jdm-car-meet-worth-it-tokyo',
+    'is-nikko-world-heritage-luxury-tour-worth-it-tokyo', 'is-manga-drawing-workshop-worth-it-tokyo',
 ].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
@@ -2109,6 +2110,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-yamashina-farm-tour-worth-it-kyoto',
     'is-nishijin-weaving-worth-it-kyoto', 'is-wagyu-kaiseki-historic-villa-worth-it-kyoto',
     'is-samurai-canals-sake-brewery-worth-it-kyoto', 'is-amanohashidate-ine-tour-worth-it-kyoto',
+    'is-keihoku-miyama-countryside-car-tour-worth-it-kyoto',
 ].map(slug => ({
     url: `${BASE_URL}/japan/kyoto/${slug}`,
     lastModified: new Date(),

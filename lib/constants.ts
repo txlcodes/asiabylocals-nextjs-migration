@@ -2098,6 +2098,7 @@ export const TOKYO_INFO_SLUGS = [
   'is-ikebana-workshop-worth-it-tokyo',
   'is-red-pandas-ichikawa-zoo-worth-it-tokyo', 'is-denim-jeans-workshop-worth-it-tokyo',
   'is-daikoku-jdm-car-meet-worth-it-tokyo',
+  'is-nikko-world-heritage-luxury-tour-worth-it-tokyo', 'is-manga-drawing-workshop-worth-it-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.
@@ -2138,6 +2139,7 @@ export const KYOTO_INFO_SLUGS = [
   'is-yamashina-farm-tour-worth-it-kyoto',
   'is-nishijin-weaving-worth-it-kyoto', 'is-wagyu-kaiseki-historic-villa-worth-it-kyoto',
   'is-samurai-canals-sake-brewery-worth-it-kyoto', 'is-amanohashidate-ine-tour-worth-it-kyoto',
+  'is-keihoku-miyama-countryside-car-tour-worth-it-kyoto',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sapporoInfoContent.ts.

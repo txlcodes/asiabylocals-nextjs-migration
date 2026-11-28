@@ -2924,6 +2924,27 @@ export function getKyotoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-keihoku-miyama-countryside-car-tour-worth-it-kyoto":
+      return {
+        title: "Is the Keihoku and Miyama Countryside Guided Car Tour Worth It in Kyoto?",
+        description: "An honest look at the full-day guided car tour through Keihoku and Miyama's rural countryside from Kyoto.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/keihoku-and-miyama-countryside-guided-car-tour-in-kyoto/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine rural Japan beyond Kyoto's temple circuit — Keihoku and Miyama's thatched-roof villages and quiet shrines like Yamakuni Shrine and Joshoko-ji Temple give a real countryside contrast to the city's busier tourist sites.",
+            tourCard: { slug: "keihoku-and-miyama-countryside-guided-car-tour-in-kyoto", title: "Keihoku and Miyama Countryside Guided Car Tour in Kyoto", description: "A full-day guided car tour through Keihoku and Miyama's rural countryside from Kyoto.", price: "From $410", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/keihoku-and-miyama-countryside-guided-car-tour-in-kyoto/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely rural day with limited English signage, so having a guided car tour removes real logistical hassle compared to self-driving or public transport.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Keihoku and Miyama countryside car tour worth it from Kyoto?", a: "Yes, for travelers wanting genuine rural Japan beyond Kyoto's busier temple circuit." },
+        ],
+      };
+
     default:
       return null;
     }

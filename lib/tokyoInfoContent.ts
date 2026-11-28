@@ -3070,6 +3070,48 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-nikko-world-heritage-luxury-tour-worth-it-tokyo":
+      return {
+        title: "Is the Nikko World Heritage and Natural Private Luxury Tour Worth It from Tokyo?",
+        description: "An honest look at the full-day private luxury tour to Nikko's World Heritage sites, Kegon Falls, and Lake Chuzenji from Tokyo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/nikko-world-heritage-and-natural-private-luxury-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Nikko's UNESCO shrines paired with real natural scenery in comfort — Kegon Falls and Lake Chuzenji add genuine scenic variety to the World Heritage temple sites, and the private luxury format removes the hassle of coordinating trains and buses on your own.",
+            tourCard: { slug: "nikko-world-heritage-and-natural-private-luxury-tour", title: "Nikko World Heritage and Natural Private Luxury Tour", description: "A full-day private luxury tour to Nikko's World Heritage sites, Kegon Falls, and Lake Chuzenji from Tokyo.", price: "From $453", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/nikko-world-heritage-and-natural-private-luxury-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely full day given the distance from Tokyo, so plan for an early start to make the most of time at each stop.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nikko World Heritage and natural luxury tour worth it from Tokyo?", a: "Yes, for travelers wanting Nikko's UNESCO shrines paired with Kegon Falls and Lake Chuzenji in comfortable, private transport." },
+        ],
+      };
+
+    case "is-manga-drawing-workshop-worth-it-tokyo":
+      return {
+        title: "Is the Manga Drawing Workshop with a Pro Manga Artist Worth It in Tokyo?",
+        description: "An honest look at the 2.5-hour manga drawing workshop guided by a professional manga artist in Tokyo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/manga-drawing-workshop-guided-by-pro-manga-artist-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for manga and anime fans specifically — learning real technique directly from a professional manga artist, with an interpreter on hand, gives genuine skill-building rather than just a souvenir sketch.",
+            tourCard: { slug: "manga-drawing-workshop-guided-by-pro-manga-artist-in-tokyo", title: "Manga Drawing Workshop Guided by Pro Manga Artist in Tokyo", description: "A 2.5-hour manga drawing workshop guided by a professional manga artist in Tokyo.", price: "From $328", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/manga-drawing-workshop-guided-by-pro-manga-artist-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior drawing experience is needed, but come with a specific character or style in mind to get the most out of the instructor's feedback.",
+          },
+        ],
+        faqs: [
+          { q: "Is the manga drawing workshop worth it in Tokyo?", a: "Yes, for manga and anime fans wanting genuine technique instruction directly from a professional artist." },
+        ],
+      };
+
     default:
       return null;
     }
