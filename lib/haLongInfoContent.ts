@@ -975,6 +975,90 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-catamaran-trampoline-waterslide-worth-it-ha-long":
+      return {
+        title: "Is the Halong Catamaran 5-Star Day Cruise with Trampoline & Water Slide Worth It?",
+        description: "An honest look at Ha Long's catamaran day cruise featuring an onboard trampoline and water slide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, especially for families with kids — this catamaran cruise includes an actual onboard trampoline and water slide, turning the standard scenic bay cruise into a more active, playful day rather than purely sightseeing.",
+            tourCard: { slug: "halong-catamaran-5-day-cruise-trampoline-water-slide", title: "Halong Catamaran 5* Day Cruise, Trampoline, Water Slide", description: "A 5-star catamaran day cruise in Ha Long Bay with an onboard trampoline and water slide.", price: "From $88", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring swimwear specifically for the trampoline and water slide, since this is a far more active cruise than a standard sightseeing-only option.",
+          },
+        ],
+        faqs: [
+          { q: "Is the catamaran cruise with trampoline and water slide worth it in Ha Long Bay?", a: "Yes, especially for families wanting an active, playful day on the water rather than purely scenic sightseeing." },
+        ],
+      };
+
+    case "is-caobang-motorbike-easyrider-worth-it-ha-long":
+      return {
+        title: "Is the Cao Bang Group Motorbike Tour with EasyRider Worth It from Hanoi?",
+        description: "An honest look at the 2-day Cao Bang motorbike group tour with an EasyRider guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuinely remote mountain scenery beyond the Ha Long Bay and Sapa circuit — Cao Bang is a less-visited northern province, and riding pillion with an EasyRider guide gets you there without needing your own motorbike license or experience.",
+            tourCard: { slug: "from-ha-noi-caobang-group-tour-2d-motorbike-with-easyrider-in-ha-long", title: "From Ha Noi: CaoBang Group Tour 2D -Motorbike with EasyRider in Ha Long", description: "A 2-day Cao Bang motorbike group tour from Hanoi with an EasyRider guide.", price: "From $182", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress warmly and pack layers, since Cao Bang's mountain roads can get genuinely cool even when Hanoi is hot.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cao Bang motorbike tour with EasyRider worth it?", a: "Yes, for travelers wanting genuinely remote mountain scenery, with the EasyRider handling the riding so no license or experience is needed." },
+        ],
+      };
+
+    case "is-halong-port-hanoi-city-visit-worth-it-ha-long":
+      return {
+        title: "Is the Private Tour to Visit Hanoi City from Ha Long Cruise Port Worth It?",
+        description: "An honest look at the private Hanoi city tour arranged directly from the Ha Long cruise port.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you're disembarking a cruise at Ha Long and want to see Hanoi before flying out — this handles the transfer and city sightseeing directly from the cruise port, a convenient way to fit in the capital without a separate overnight stay.",
+            tourCard: { slug: "from-halong-cruise-port-private-tour-visit-hanoi-city-ha-long", title: "From HaLong cruise Port: Private tour visit Hanoi city (Ha Long)", description: "A private tour from Ha Long cruise port to visit Hanoi city.", price: "From $494", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your flight or onward travel timing in advance, since the drive between Ha Long and Hanoi takes a few hours each way.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hanoi city visit from Ha Long cruise port worth it?", a: "Yes, for cruise passengers wanting to fit in Hanoi sightseeing before departing, without arranging a separate overnight stay." },
+        ],
+      };
+
+    case "is-tamchuc-pagoda-cruise-golden-pagoda-worth-it-ha-long":
+      return {
+        title: "Is the Tam Chuc Biggest Pagoda + Cruise Ship or Golden Pagoda Tour Worth It?",
+        description: "An honest look at the Tam Chuc Pagoda tour, Vietnam's largest pagoda complex, with a cruise ship or golden pagoda option.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers wanting a genuinely massive, less internationally known Buddhist site — Tam Chuc is Vietnam's largest pagoda complex, with options to explore it via cruise ship on the surrounding lake or focus on its striking golden pagoda structure.",
+            tourCard: { slug: "tam-chuc-biggest-pagoda-cruise-ship-or-golden-pagoda-in-ha-long", title: "Tam Chuc BIGGEST Pagoda +Cruise Ship or Golden Pagoda in Ha Long", description: "A tour of Tam Chuc Pagoda, Vietnam's largest pagoda complex, with a cruise ship or golden pagoda option.", price: "From $198", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm which specific option (cruise ship or golden pagoda) is included before booking, since the two give different experiences of the complex.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tam Chuc Pagoda tour worth it?", a: "Yes, for travelers wanting to see Vietnam's largest pagoda complex, with a choice of a scenic cruise or the striking golden pagoda structure." },
+        ],
+      };
+
     default:
       return null;
   }

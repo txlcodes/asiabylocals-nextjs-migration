@@ -2977,6 +2977,8 @@ export const HA_LONG_INFO_SLUGS = [
   'is-sunset-bbq-fishing-locals-worth-it-ha-long', 'is-bioluminescent-plankton-kayak-worth-it-ha-long',
   'is-jacuzzi-buffet-cruise-worth-it-ha-long', 'is-catba-national-park-museum-cruise-worth-it-ha-long',
   'is-inland-city-tour-worth-it-ha-long',
+  'is-catamaran-trampoline-waterslide-worth-it-ha-long', 'is-caobang-motorbike-easyrider-worth-it-ha-long',
+  'is-halong-port-hanoi-city-visit-worth-it-ha-long', 'is-tamchuc-pagoda-cruise-golden-pagoda-worth-it-ha-long',
 ];
 
 export const HANOI_INFO_SLUGS = [
