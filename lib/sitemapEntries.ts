@@ -980,6 +980,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-capybara-alpaca-farms-worth-it-baku',
     'is-f1-grand-prix-balcony-package-worth-it-baku', 'is-cinematic-shoot-instagram-reel-worth-it-baku',
     'is-basqal-silk-masterclass-worth-it-baku', 'is-beginner-scuba-diving-worth-it-baku',
+    'is-shamakhi-safari-park-worth-it-baku', 'is-caspian-off-road-4x4-worth-it-baku',
+    'is-gabala-rafting-adventure-worth-it-baku', 'is-shamakhi-alpaca-wine-worth-it-baku',
   ], 'azerbaijan', 'baku');
   const singaporeInfoPages = mapInfoSlugs([
     'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',

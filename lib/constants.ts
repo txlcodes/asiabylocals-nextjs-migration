@@ -704,6 +704,8 @@ export const BAKU_INFO_SLUGS: string[] = [
   'is-capybara-alpaca-farms-worth-it-baku',
   'is-f1-grand-prix-balcony-package-worth-it-baku', 'is-cinematic-shoot-instagram-reel-worth-it-baku',
   'is-basqal-silk-masterclass-worth-it-baku', 'is-beginner-scuba-diving-worth-it-baku',
+  'is-shamakhi-safari-park-worth-it-baku', 'is-caspian-off-road-4x4-worth-it-baku',
+  'is-gabala-rafting-adventure-worth-it-baku', 'is-shamakhi-alpaca-wine-worth-it-baku',
 ];
 
 // Singapore launched 2026-11-19 with 318 live tours and zero authority pages.

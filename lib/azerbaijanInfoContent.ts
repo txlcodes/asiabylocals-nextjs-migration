@@ -992,6 +992,62 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-shamakhi-safari-park-worth-it-baku":
+            return {
+                title: "Is the Shamakhi Safari Park Day Tour Worth It from Baku?",
+                description: "An honest look at the full-day safari tour to Azerbaijan's biggest national park from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ba39234b7fa00858.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for wildlife and nature lovers specifically — visiting Azerbaijan's largest national park gives you a genuine safari experience and scenic scale that's a real change of pace from Baku's urban sightseeing.", tourCard: { slug: "park-shamakhi-guided-tour", title: "From Baku: Shamakhi Safari Park Day Tour", description: "A full-day safari tour to Azerbaijan's biggest national park from Baku.", price: "From $566", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ba39234b7fa00858.jpeg" } },
+                    { title: "Practical Tips", content: "Bring binoculars if you have them — spotting wildlife across the park's large area is easier with your own pair rather than relying on the group's." },
+                ],
+                faqs: [
+                    { q: "Is the Shamakhi Safari Park day tour worth it from Baku?", a: "Yes, for wildlife and nature lovers wanting a genuine safari experience at Azerbaijan's largest national park." },
+                ],
+            };
+
+        case "is-caspian-off-road-4x4-worth-it-baku":
+            return {
+                title: "Is the Caspian Off-Road 4x4 Tour on Rugged Trails Worth It in Baku?",
+                description: "An honest look at the full-day off-road 4x4 tour on rugged trails near the Caspian coast from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/44cb76c5157ba1b1461a6aaa03ba0e36df7f206383b81ad938e92fba5d8f756b.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting genuine adrenaline rather than passive sightseeing — navigating rugged trails in a 4x4 near the Caspian coast is a real off-road experience, distinct from the usual city and heritage tours around Baku.", tourCard: { slug: "baku-caspian-guided-tour", title: "Baku: Caspian Off-Road 4x4 Tour on Rugged Trails", description: "A full-day off-road 4x4 tour on rugged trails near the Caspian coast from Baku.", price: "From $494", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/44cb76c5157ba1b1461a6aaa03ba0e36df7f206383b81ad938e92fba5d8f756b.jpeg" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting dusty — rugged off-road trails mean a genuinely bumpy, dirty ride by design." },
+                ],
+                faqs: [
+                    { q: "Is the Caspian off-road 4x4 tour worth it in Baku?", a: "Yes, for travelers wanting genuine off-road adrenaline on rugged trails near the Caspian coast." },
+                ],
+            };
+
+        case "is-gabala-rafting-adventure-worth-it-baku":
+            return {
+                title: "Is the Gabala Rafting Adventure with Lunch Worth It from Baku?",
+                description: "An honest look at the full-day Gabala rafting adventure on a 14 km river route from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d4983833a0237303e93060d38b2eaeff1a3489b6cc86a7ea6eeb8800c1fcdbc.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine whitewater thrills rather than scenic sightseeing — a full 14 km river route in Gabala is a real rafting commitment, not a short novelty paddle, with lunch and transfers included for the long day.", tourCard: { slug: "baku-transfers-adventure-tour", title: "From Baku: Gabala Rafting Adventure with Lunch and Transfers", description: "A full-day Gabala rafting adventure on a 14 km river route from Baku, with lunch and transfers.", price: "From $436", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d4983833a0237303e93060d38b2eaeff1a3489b6cc86a7ea6eeb8800c1fcdbc.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the river's current difficulty level for your date, since conditions on a 14 km route can vary with season and recent rainfall." },
+                ],
+                faqs: [
+                    { q: "Is the Gabala rafting adventure worth it from Baku?", a: "Yes, for travelers wanting a genuine, full-length whitewater rafting commitment rather than a short novelty paddle." },
+                ],
+            };
+
+        case "is-shamakhi-alpaca-wine-worth-it-baku":
+            return {
+                title: "Is the All-Inclusive Private Shamakhi Alpaca and Wine Experience Worth It from Baku?",
+                description: "An honest look at the full-day all-inclusive private tour combining alpacas and wine tasting near Shamakhi from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ae5af531a72fe571157330e699b893b0dba93b33a82f1de569ba642ee90d80f2.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely unusual, relaxed day away from Baku's standard heritage tours — visiting Azerbaijan's alpaca farm paired with wine tasting is a quirky, low-key combination that works well for a slower-paced private day.", tourCard: { slug: "baku-inclusive-private-tour", title: "All-Inclusive Private Shamakhi Alpaca and Wine Experience", description: "A full-day all-inclusive private tour combining alpacas and wine tasting near Shamakhi from Baku.", price: "From $389", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ae5af531a72fe571157330e699b893b0dba93b33a82f1de569ba642ee90d80f2.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely relaxed, slower-paced day — don't expect the dense sightseeing of a typical heritage tour." },
+                ],
+                faqs: [
+                    { q: "Is the Shamakhi alpaca and wine experience worth it from Baku?", a: "Yes, for travelers wanting a quirky, relaxed day combining an alpaca farm visit with wine tasting." },
+                ],
+            };
+
         default:
             return null;
     }
