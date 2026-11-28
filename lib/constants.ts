@@ -1562,6 +1562,7 @@ export const DOHA_INFO_SLUGS = [
   'is-974-cruises-houseboat-worth-it-doha',
   'is-zubarah-film-city-combo-worth-it-doha', 'is-german-speaking-guide-tour-worth-it-doha',
   'is-self-drive-buggy-desert-safari-worth-it-doha',
+  'is-city-tour-souq-waqif-katara-worth-it-doha', 'is-grand-tour-art-history-nature-worth-it-doha',
 ];
 
 export const BUSAN_INFO_SLUGS = [

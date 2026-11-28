@@ -2337,6 +2337,48 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-city-tour-souq-waqif-katara-worth-it-doha":
+      return {
+        title: "Is the Private City Tour with Souq Waqif & Katara Village Worth It in Doha?",
+        description: "An honest look at the half-day private Doha city tour combining Souq Waqif and Katara Cultural Village.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e082622f454b984190532172f40789abedbb6ea9cebb03d3e304bae36f8c9f97.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Doha's traditional and modern cultural sides in one outing — Souq Waqif's bustling traditional market and Katara Cultural Village's amphitheater and galleries give real contrast in a single half-day.",
+            tourCard: { slug: "doha-private-city-tour-with-souq-waqif-katara", title: "Doha: Private City Tour with Souq Waqif & Katara Village", description: "A half-day private Doha city tour combining Souq Waqif and Katara Cultural Village.", price: "From $585", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e082622f454b984190532172f40789abedbb6ea9cebb03d3e304bae36f8c9f97.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Evening visits to Souq Waqif are genuinely livelier, with more stalls and foot traffic than during the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the city tour with Souq Waqif and Katara Village worth it in Doha?", a: "Yes, for travelers wanting both Doha's traditional market culture and its modern cultural village in one half-day." },
+        ],
+      };
+
+    case "is-grand-tour-art-history-nature-worth-it-doha":
+      return {
+        title: "Is the Qatar Full-Day Grand Tour of Art, History & Nature Worth It?",
+        description: "An honest look at the full-day Qatar tour combining art, history, and nature, including the Shahaniyah Camel Race Track.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/55fd43413fdffcaca8f9775ada55b6925f4431eada6fb3c64f9eda7ce35c7407.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine variety beyond the usual desert-safari-plus-city-tour formula — stopping at the Shahaniyah Camel Race Track alongside art and history sites gives this full-day tour a distinctly different structure from Doha's more generic combo tours.",
+            tourCard: { slug: "qatar-full-day-grand-tour-of-art-history-nature", title: "Qatar: Full-Day Grand Tour of Art, History & Nature", description: "A full-day Qatar tour combining art, history, and nature, including the Shahaniyah Camel Race Track.", price: "From $479", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/55fd43413fdffcaca8f9775ada55b6925f4431eada6fb3c64f9eda7ce35c7407.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Camel race track visits depend on training schedules, so ask your guide whether camels are likely to be out and training on your date.",
+          },
+        ],
+        faqs: [
+          { q: "Is the grand tour of art, history and nature worth it in Qatar?", a: "Yes, for travelers wanting genuine variety beyond the usual desert-safari-plus-city-tour formula, including a camel race track stop." },
+        ],
+      };
+
     default:
       return null;
   }
