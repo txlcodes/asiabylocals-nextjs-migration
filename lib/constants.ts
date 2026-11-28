@@ -2803,6 +2803,9 @@ export const HANOI_INFO_SLUGS = [
   'is-yen-tu-sacred-mountain-worth-it-hanoi', 'is-hoang-su-phi-harvest-worth-it-hanoi',
   'is-dien-bien-phu-3day-worth-it-hanoi', 'is-maichau-puluong-ninhbinh-worth-it-hanoi',
   'is-sonla-quynhnhai-dariver-worth-it-hanoi',
+  'is-tam-chuc-pagoda-worth-it-hanoi', 'is-paragliding-worth-it-hanoi',
+  'is-michelin-restaurant-worth-it-hanoi', 'is-beer-bath-massage-worth-it-hanoi',
+  'is-cucphuong-wildlife-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [

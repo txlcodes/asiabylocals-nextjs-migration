@@ -1375,6 +1375,111 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tam-chuc-pagoda-worth-it-hanoi":
+      return {
+        title: "Is the Tam Chuc Pagoda Day Trip Worth It from Hanoi?",
+        description: "An honest look at the Tam Chuc Pagoda day trip, a visit to one of the world's largest pagoda complexes near Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tam-chuc-biggest-pagoda-and-boat-or-duyen-ninh-pagoda-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tam Chuc is genuinely one of the largest pagoda complexes in the world, set dramatically among limestone mountains and a lake, and the included boat ride across the water gives a scale and setting that Hanoi's own city-center temples simply can't match.",
+            tourCard: { slug: "tam-chuc-biggest-pagoda-and-boat-or-duyen-ninh-pagoda-in-hanoi", title: "Tam Chuc BIGGEST Pagoda and Boat or Duyen Ninh Pagoda in Hanoi", description: "A day trip to Tam Chuc, one of the world's largest pagoda complexes, with a boat ride.", price: "From $208", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/tam-chuc-biggest-pagoda-and-boat-or-duyen-ninh-pagoda-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — the complex is genuinely vast, and seeing it properly involves a fair amount of walking between halls.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tam Chuc Pagoda day trip worth it from Hanoi?", a: "Yes, for a genuinely dramatic, oversized pagoda complex set among mountains and a lake, a scale Hanoi's own temples can't match." },
+        ],
+      };
+
+    case "is-paragliding-worth-it-hanoi":
+      return {
+        title: "Is Paragliding Worth It Near Hanoi?",
+        description: "An honest look at the Hanoi paragliding tour with roundtrip city transfer, an aerial adventure activity outside the capital.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-paragliding-tour-roundtrip-transfer-from-city-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives a genuine aerial thrill over the countryside outside Hanoi, a real change of pace from the capital's temples, lakes, and Old Quarter streets, worth it specifically for travelers wanting an adrenaline activity rather than more city sightseeing.",
+            tourCard: { slug: "hanoi-paragliding-tour-roundtrip-transfer-from-city-by-local-operator", title: "Hanoi Paragliding Tour - Roundtrip Transfer from City", description: "A paragliding tour with roundtrip transfer from Hanoi city center.", price: "From $103", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-paragliding-tour-roundtrip-transfer-from-city-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Flights depend genuinely on wind conditions, so build some flexibility into your schedule in case of a weather-related reschedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is paragliding worth it near Hanoi?", a: "Yes, for a genuine aerial adventure outside the capital, a real change of pace from the city's temples and lakes." },
+        ],
+      };
+
+    case "is-michelin-restaurant-worth-it-hanoi":
+      return {
+        title: "Is the Tam Vị Michelin Restaurant Meal Worth It in Hanoi?",
+        description: "An honest look at dining at Tam Vị, a Michelin-starred restaurant in Hanoi serving Vietnamese cuisine.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/vietnamese-meal-at-tam-v-1-star-michelin-restaurant/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper Michelin-starred meal gives a genuinely different dining experience than Hanoi's street food scene, a worthwhile splurge for food-focused travelers who want a sit-down taste of elevated Vietnamese cuisine alongside the city's famous street stalls.",
+            tourCard: { slug: "vietnamese-meal-at-tam-v-1-star-michelin-restaurant", title: "Vietnamese Meal at Tam Vị 1-Star Michelin Restaurant", description: "A Vietnamese meal at the Michelin-starred Tam Vị restaurant in Hanoi.", price: "From $86", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/vietnamese-meal-at-tam-v-1-star-michelin-restaurant/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book ahead — Michelin-starred dining in Hanoi genuinely fills up, especially for evening slots.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tam Vị Michelin restaurant meal worth it in Hanoi?", a: "Yes, as a genuinely worthwhile splurge for food-focused travelers wanting elevated Vietnamese cuisine alongside the city's street food." },
+        ],
+      };
+
+    case "is-beer-bath-massage-worth-it-hanoi":
+      return {
+        title: "Is the Beer Bath and Massage Experience Worth It in Hanoi?",
+        description: "An honest look at the 75-minute beer bath and massage experience in Hanoi's Old Quarter, a novelty wellness activity.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-old-quarter-75-minute-beer-bath-and-massage-experience-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A beer bath is a genuinely quirky novelty wellness treatment, popular in parts of Vietnam for its claimed skin benefits, and pairing it with a massage makes this a relaxed, easy-to-book break after a day of Old Quarter sightseeing.",
+            tourCard: { slug: "hanoi-old-quarter-75-minute-beer-bath-and-massage-experience-by-local-operator", title: "Hanoi Old Quarter: 75-Minute Beer Bath and Massage Experience", description: "A 75-minute beer bath and massage experience in Hanoi's Old Quarter.", price: "From $62", duration: "75 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-old-quarter-75-minute-beer-bath-and-massage-experience-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in for the novelty and the relaxation, not for any dramatic skin transformation — treat it as a fun, low-stakes spa break.",
+          },
+        ],
+        faqs: [
+          { q: "Is the beer bath and massage experience worth it in Hanoi?", a: "Yes, for a genuinely quirky, relaxed wellness break — go in for the novelty and relaxation rather than expecting dramatic results." },
+        ],
+      };
+
+    case "is-cucphuong-wildlife-worth-it-hanoi":
+      return {
+        title: "Is the Cuc Phuong Wildlife and Mua Cave Sunset Tour Worth It from Hanoi?",
+        description: "An honest look at the Cuc Phuong wildlife and Mua Cave sunset experience, combining Vietnam's oldest national park with a scenic sunset viewpoint.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cuc-phuong-wildlife-and-mua-cave-sunset-experience-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cuc Phuong is genuinely Vietnam's oldest national park, home to a real primate rescue center, and pairing it with the Mua Cave sunset viewpoint gives both wildlife conservation interest and a genuinely scenic payoff in a single day.",
+            tourCard: { slug: "cuc-phuong-wildlife-and-mua-cave-sunset-experience-in-hanoi", title: "Cuc Phuong Wildlife and Mua Cave Sunset Experience in Hanoi", description: "A day trip combining Cuc Phuong National Park wildlife with a Mua Cave sunset viewpoint.", price: "From $64", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/cuc-phuong-wildlife-and-mua-cave-sunset-experience-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Mua Cave viewpoint involves a genuine uphill climb of several hundred steps, so time your visit to arrive before sunset with energy to spare.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cuc Phuong wildlife and Mua Cave sunset tour worth it from Hanoi?", a: "Yes, for genuine wildlife conservation interest at Vietnam's oldest national park, paired with a real scenic sunset payoff." },
+        ],
+      };
+
     default:
       return null;
   }
