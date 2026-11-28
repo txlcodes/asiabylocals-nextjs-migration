@@ -2218,6 +2218,76 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-koh-ker-birding-worth-it-siem-reap":
+            return {
+                title: "Is the Koh Ker Birding Private Tour Worth It from Siem Reap?",
+                description: "An honest look at the Koh Ker birding private tour, combining a remote temple site with dedicated birdwatching.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/koh-ker-birding-private-tours/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Koh Ker is genuinely a remote, less-visited temple complex surrounded by forest with real birdlife, giving birdwatchers a dedicated nature-focused reason to make the longer trip beyond just the ruins themselves.", tourCard: { slug: "koh-ker-birding-private-tours", title: "Koh Ker Birding Private Tours", description: "A private birding tour combined with a visit to the remote Koh Ker temple site.", price: "From $345", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/koh-ker-birding-private-tours/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring binoculars and arrive early morning, when bird activity around the forested temple grounds is genuinely at its peak." }
+                ],
+                faqs: [
+                    { q: "Is the Koh Ker birding tour worth it from Siem Reap?", a: "Yes, for birdwatchers wanting a genuine dedicated nature focus alongside a remote, less-visited temple complex." }
+                ],
+            };
+
+        case "is-monk-blessing-massage-worth-it-siem-reap":
+            return {
+                title: "Is the Guided Tour with Monk Blessing and Massage Worth It in Siem Reap?",
+                description: "An honest look at the guided tour combining a monk blessing ceremony with a traditional massage in Siem Reap.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/guided-tour-with-monk-blessing-and-massage/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Receiving a genuine monk blessing ceremony paired with a traditional massage gives a spiritually and physically restorative combination that's a real contrast to Siem Reap's usual temple-sightseeing pace.", tourCard: { slug: "guided-tour-with-monk-blessing-and-massage", title: "Guided Tour with Monk Blessing and Massage", description: "A guided tour combining a monk blessing ceremony with a massage in Siem Reap.", price: "From $322", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/guided-tour-with-monk-blessing-and-massage/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for the blessing ceremony, since this is a genuine religious practice, not a staged photo opportunity." }
+                ],
+                faqs: [
+                    { q: "Is the monk blessing and massage tour worth it in Siem Reap?", a: "Yes, for a genuinely restorative spiritual and physical combination, a real change of pace from temple sightseeing." }
+                ],
+            };
+
+        case "is-sambor-prei-kuk-worth-it-siem-reap":
+            return {
+                title: "Is the Sambor Prei Kuk Hidden Treasures Tour Worth It from Siem Reap?",
+                description: "An honest look at the Sambor Prei Kuk tour, a pre-Angkorian temple complex predating the famous Angkor sites.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sambor-prei-kuk-site-hidden-treasures-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Sambor Prei Kuk genuinely predates Angkor Wat by centuries, giving real insight into pre-Angkorian Khmer architecture with far fewer visitors, worth it for travelers interested in deeper Cambodian history beyond the main temple circuit.", tourCard: { slug: "sambor-prei-kuk-site-hidden-treasures-tour", title: "Sambor Prei Kuk Site Hidden Treasures Tour", description: "A tour of the pre-Angkorian Sambor Prei Kuk temple site from Siem Reap.", price: "From $389", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sambor-prei-kuk-site-hidden-treasures-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go in with genuine interest in architecture and history — the brick ruins reward context more than pure visual spectacle." }
+                ],
+                faqs: [
+                    { q: "Is the Sambor Prei Kuk tour worth it from Siem Reap?", a: "Yes, for travelers genuinely interested in deeper Cambodian history, visiting a site that predates Angkor Wat by centuries with far fewer crowds." }
+                ],
+            };
+
+        case "is-jungle-temple-vintage-jeep-worth-it-siem-reap":
+            return {
+                title: "Is the Jungle Temple Tour by Vintage Jeep Worth It in Siem Reap?",
+                description: "An honest look at the jungle temple tour by vintage jeep, a stylish alternative to standard tuk-tuk or van temple transport.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/the-jungle-temple-tour-by-vintage-jeep/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Touring jungle-shrouded temples by vintage jeep gives a genuinely more atmospheric, adventurous feel than a standard tuk-tuk or air-conditioned van, worth it for travelers wanting the journey itself to add to the sense of discovery.", tourCard: { slug: "the-jungle-temple-tour-by-vintage-jeep", title: "The Jungle Temple Tour by Vintage Jeep", description: "A jungle temple tour by vintage jeep in Siem Reap.", price: "From $325", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/the-jungle-temple-tour-by-vintage-jeep/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Expect a genuinely bumpier, more open-air ride than a standard van — that's the whole point of the vintage jeep experience." }
+                ],
+                faqs: [
+                    { q: "Is the jungle temple tour by vintage jeep worth it in Siem Reap?", a: "Yes, for travelers wanting a genuinely more atmospheric, adventurous journey to the temples than a standard tuk-tuk or van." }
+                ],
+            };
+
+        case "is-angkor-mountain-bike-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Angkor Mountain Bike Tour Worth It in Siem Reap?",
+                description: "An honest look at the Angkor mountain bike tour covering temples and local villages, an active alternative to tuk-tuk temple hopping.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/angkor-mountain-bike-tour-temples-and-local-villages/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Cycling between temples and local villages gives a genuinely more active, immersive way to experience the Angkor area than riding in a tuk-tuk, worth it for travelers wanting real exercise and closer contact with rural Cambodian life alongside the ruins.", tourCard: { slug: "angkor-mountain-bike-tour-temples-and-local-villag", title: "Angkor Mountain Bike Tour, Temples, and Local Villages", description: "A mountain bike tour covering Angkor temples and local villages.", price: "From $332", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/angkor-mountain-bike-tour-temples-and-local-villages/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pace yourself for genuine heat and distance — this is a real cycling day, not a casual short ride between a couple of temples." }
+                ],
+                faqs: [
+                    { q: "Is the Angkor mountain bike tour worth it in Siem Reap?", a: "Yes, for travelers wanting a genuinely active, immersive way to see the temples and rural villages, rather than riding in a tuk-tuk." }
+                ],
+            };
+
         default:
             return null;
     }
