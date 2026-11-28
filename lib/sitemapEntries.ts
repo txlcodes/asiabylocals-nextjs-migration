@@ -749,6 +749,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-8-day-desert-mountains-coast-dolphin-worth-it-muscat', 'is-muscat-8-day-best-of-oman-worth-it',
     'is-sugar-dunes-khaluf-ruwais-worth-it-muscat', 'is-dubai-muscat-oneway-flight-tour-worth-it-muscat',
     'is-five-watersports-activities-worth-it-muscat',
+    'is-bandar-al-khairan-yacht-charter-worth-it-muscat', 'is-jebel-hatt-overnight-camping-worth-it-muscat',
+    'is-family-island-excursion-bbq-worth-it-muscat', 'is-vip-luxury-city-tour-worth-it-muscat',
+    'is-2day-city-souqs-cultural-tour-worth-it-muscat',
   ].map(slug => ({
     url: `${BASE_URL}/oman/muscat/${slug}`,
     lastModified: new Date(),

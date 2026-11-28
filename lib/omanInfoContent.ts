@@ -1737,6 +1737,81 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-bandar-al-khairan-yacht-charter-worth-it-muscat":
+            return {
+                title: "Is the Bandar Al Khairan Yacht Charter Worth It in Muscat?",
+                description: "An honest look at the Bandar Al Khairan yacht charter with snorkeling in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9425ccb3c2cff963ff3790c5a92eaf8823b7b2216ed23db218363a093e246ad2.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Bandar Al Khairan's sheltered coastline and clear water give genuinely good snorkeling conditions, and chartering a yacht rather than a shared boat gives real privacy and flexibility over the day's pace.",
+                    tourCard: { slug: "muscat-bander-al-khairan-yacht-charter-with", title: "Muscat: Bander Al Khairan Yacht Charter with Snorkeling", description: "A yacht charter with snorkeling at Bandar Al Khairan from Muscat.", price: "From $1560", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9425ccb3c2cff963ff3790c5a92eaf8823b7b2216ed23db218363a093e246ad2.jpeg" } },
+                    { title: "Practical Tips", content: "Book this specifically for groups wanting genuine privacy and flexibility, since a shared snorkeling boat costs noticeably less." }
+                ],
+                faqs: [
+                    { q: "Is the Bandar Al Khairan yacht charter worth it in Muscat?", a: "Yes, for groups wanting genuine privacy and flexible pacing, with real snorkeling quality in the sheltered, clear water." }
+                ],
+            };
+
+        case "is-jebel-hatt-overnight-camping-worth-it-muscat":
+            return {
+                title: "Is the Jebel Hatt Overnight Camping Tour Worth It from Muscat?",
+                description: "An honest look at the Jebel Hatt overnight camping tour with meals from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73f3a5cc536923bc29e46b0ca6bbcd93a18a4b710398ec59f9d51cebc4c595d6.png",
+                sections: [
+                    { title: "The Short Answer", content: "Jebel Hatt gives genuinely dramatic mountain scenery less crowded than the more famous Jebel Shams or Jebel Akhdar, and an overnight camping stay with meals handled gives real time to enjoy sunset and sunrise over the terrain.",
+                    tourCard: { slug: "muscat-jebel-hatt-overnight-camping-tour-with", title: "Muscat: Jebel Hatt Overnight Camping Tour with Meals", description: "An overnight camping tour at Jebel Hatt with meals included from Muscat.", price: "From $1469", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/73f3a5cc536923bc29e46b0ca6bbcd93a18a4b710398ec59f9d51cebc4c595d6.png" } },
+                    { title: "Practical Tips", content: "Pack warm layers — mountain nights genuinely drop in temperature even when Muscat itself stays warm." }
+                ],
+                faqs: [
+                    { q: "Is the Jebel Hatt overnight camping tour worth it from Muscat?", a: "Yes, for genuinely dramatic, less-crowded mountain scenery than Jebel Shams or Jebel Akhdar, with real time to enjoy sunset and sunrise." }
+                ],
+            };
+
+        case "is-family-island-excursion-bbq-worth-it-muscat":
+            return {
+                title: "Is the Private Family Island Excursion with Beach BBQ Worth It in Muscat?",
+                description: "An honest look at the private family island excursion with a beach BBQ lunch in Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eec9b85d3a4029fcfe400b81ebba44c986540fac10aef95983f4189b1f745dc1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A private island excursion with a beach BBQ gives genuine flexibility and privacy for families, worth it specifically for groups wanting their own pace and setup rather than a shared boat tour schedule.",
+                    tourCard: { slug: "muscat-private-family-island-excursion-with-beach", title: "Muscat: Private Family Island Excursion with Beach BBQ Lunch", description: "A private family island excursion with a beach BBQ lunch in Muscat.", price: "From $1300", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/eec9b85d3a4029fcfe400b81ebba44c986540fac10aef95983f4189b1f745dc1.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the BBQ menu and dietary options in advance, since a private setup genuinely allows more customization than a shared tour." }
+                ],
+                faqs: [
+                    { q: "Is the family island excursion with beach BBQ worth it in Muscat?", a: "Yes, for families wanting genuine privacy and flexible pacing, with a proper beach BBQ rather than a packed lunch on a shared tour." }
+                ],
+            };
+
+        case "is-vip-luxury-city-tour-worth-it-muscat":
+            return {
+                title: "Is the VIP Muscat Luxury City Tour Worth It?",
+                description: "An honest look at the VIP Muscat luxury city tour, a premium private sightseeing experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b6b2d701259a3f0f7388d49013a385d2e2c6d40e8c93f31c8fb9a3ada8f9210.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "A VIP luxury city tour gives genuinely premium transport, guiding, and pacing through Muscat's main sights, worth it specifically for travelers wanting a top-tier experience rather than a standard group city tour.",
+                    tourCard: { slug: "vip-muscat-luxury-city-tour-private-experience", title: "VIP Muscat Luxury City Tour – Private Experience", description: "A VIP luxury private city tour of Muscat.", price: "From $1393", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5b6b2d701259a3f0f7388d49013a385d2e2c6d40e8c93f31c8fb9a3ada8f9210.jpeg" } },
+                    { title: "Practical Tips", content: "This suits travelers specifically prioritizing comfort and exclusivity — a standard group city tour covers the same sights for less." }
+                ],
+                faqs: [
+                    { q: "Is the VIP Muscat luxury city tour worth it?", a: "Yes, specifically for travelers prioritizing premium comfort and exclusivity over the cost savings of a standard group tour." }
+                ],
+            };
+
+        case "is-2day-city-souqs-cultural-tour-worth-it-muscat":
+            return {
+                title: "Is the Muscat 2-Day City, Souqs, and Cultural Tour Worth It?",
+                description: "An honest look at the 2-day Muscat city, souqs, and cultural tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/176263638636ae2cc8a9e2cb491f6bfa2f9b5c54fea3cb822664a17b60b20eea.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Spreading Muscat's city sights, souqs, and cultural stops across 2 days gives genuine time to properly explore each, rather than rushing through on a single busy day, worth it for travelers wanting depth over speed.",
+                    tourCard: { slug: "muscat-2-day-city-souqs-and-cultural-tour", title: "Muscat: 2-Day City, Souqs, and Cultural Tour", description: "A 2-day tour of Muscat's city sights, souqs, and cultural stops.", price: "From $1469", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/176263638636ae2cc8a9e2cb491f6bfa2f9b5c54fea3cb822664a17b60b20eea.jpg" } },
+                    { title: "Practical Tips", content: "Spend genuine time bargaining in the souqs on day two, once you've already gotten a feel for typical prices on day one." }
+                ],
+                faqs: [
+                    { q: "Is the 2-day Muscat city, souqs, and cultural tour worth it?", a: "Yes, for travelers wanting genuine time to properly explore the city's sights and souqs, rather than rushing through in a single day." }
+                ],
+            };
+
         default:
             return null;
     }
