@@ -777,6 +777,66 @@ export function getNegomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ayurvedic-spa-massage-steam-bath-worth-it-negombo":
+      return {
+        title: "Is the Luxury Ayurvedic Spa Massage & Steam Bath Worth It in Negombo?",
+        description: "An honest look at this Ayurvedic spa massage and steam bath, a relaxation-focused break from Negombo's lagoon tours and sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1337433/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A proper Ayurvedic massage followed by a steam bath is a genuinely different kind of activity from Negombo's usual boat and city tours, worth it for travelers wanting a dedicated wellness break mid-trip rather than another sightseeing stop.",
+            tourCard: { slug: "negombo-luxury-ayurvedic-spa-massage-steam-bath", title: "Negombo: Luxury Ayurvedic Spa Massage & Steam Bath", description: "An Ayurvedic spa massage and steam bath experience in Negombo.", price: "From $114", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1337433/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive a little early and avoid a heavy meal beforehand, the steam bath is more comfortable on a lighter stomach." },
+        ],
+        faqs: [
+          { q: "Is the luxury Ayurvedic spa massage and steam bath worth it in Negombo?", a: "Yes, for travelers wanting a genuine wellness break rather than another lagoon or city sightseeing stop." }
+        ],
+      };
+
+    case "is-kitulgala-white-water-rafting-worth-it-negombo":
+      return {
+        title: "Is the Kitulgala White Water Rafting Day Trip Worth It from Negombo?",
+        description: "An honest look at this full-day trip to Kitulgala for white water rafting, an adrenaline alternative to Negombo's calm lagoon and beach activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-195944/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kitulgala's rapids are the real thing, not a watered-down tourist version, so this trip genuinely delivers for travelers wanting adventure rather than another relaxed lagoon boat ride, worth the long drive for anyone who specifically wants white water.",
+            tourCard: { slug: "negombo-adventure-water-rafting-in-kitulgala", title: "Negombo: Adventure Water Rafting in Kitulgala", description: "A full-day white water rafting trip to Kitulgala from Negombo.", price: "From $245", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-195944/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes for the ride back, you will be genuinely soaked and the drive from Negombo is long." },
+        ],
+        faqs: [
+          { q: "Is the Kitulgala white water rafting day trip worth it from Negombo?", a: "Yes, for travelers who specifically want real white water rafting rather than another calm lagoon activity, despite the long drive." }
+        ],
+      };
+
+    case "is-anuradhapura-transfer-sightseeing-worth-it-negombo":
+      return {
+        title: "Is the Negombo to Anuradhapura Transfer with Sightseeing Stops Worth It?",
+        description: "An honest look at this transfer service between Negombo and Anuradhapura, which adds sightseeing stops rather than being a plain point-to-point ride.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1365691/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "If you're already relocating between Negombo and Anuradhapura, adding sightseeing stops to the transfer turns dead travel time into something useful, worth it for travelers who need the transfer anyway rather than booking a separate day tour on top of it.",
+            tourCard: { slug: "from-negombo-to-anuradhapura-transfer-with", title: "From Negombo To Anuradhapura Transfer with Sightseeing Stops", description: "A transfer from Negombo to Anuradhapura with sightseeing stops along the way.", price: "From $214", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1365691/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm which specific stops are included before booking, since these vary by operator and some charge separate entrance fees." },
+        ],
+        faqs: [
+          { q: "Is the Negombo to Anuradhapura transfer with sightseeing stops worth it?", a: "Yes, for travelers who already need the transfer and want to use the drive time productively rather than booking a separate tour." }
+        ],
+      };
+
     default:
       return null;
   }
