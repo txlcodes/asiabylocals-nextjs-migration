@@ -1120,6 +1120,90 @@ export function getMaldivesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-nurse-shark-fulidhoo-stingray-tour-worth-it-male":
+      return {
+        title: "Is the Nurse Shark Maldives & Fulidhoo Stingray Tour Worth It from Male?",
+        description: "An honest look at the full-day Fulidhoo island trip with nurse shark and stingray snorkeling, picnic, and dolphin watching from Male.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/df5a72482e0cde88b08965937bfdeff84a2177f5d61c0262313460d63a55241b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine variety across one full day — a Fulidhoo island picnic, nurse shark and stingray snorkeling, and dolphin watching combine into a far fuller day than a single-activity boat trip near Male.",
+            tourCard: { slug: "male-nurse-shark-maldives-fulidhoo-stingray-tour", title: "Male: Nurse Shark Maldives & Fulidhoo Stingray Tour", description: "A full-day Fulidhoo island trip with nurse shark and stingray snorkeling, picnic, and dolphin watching from Male.", price: "From $273", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/df5a72482e0cde88b08965937bfdeff84a2177f5d61c0262313460d63a55241b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dolphin sightings can't be guaranteed on any trip, so treat the picnic and snorkeling as the reliable core of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the nurse shark and Fulidhoo stingray tour worth it from Male?", a: "Yes, for travelers wanting a genuinely full day combining an island picnic, wildlife snorkeling, and dolphin watching." },
+        ],
+      };
+
+    case "is-kurumba-house-reef-tuna-factory-worth-it-male":
+      return {
+        title: "Is the Snorkelling Tour at Kurumba House Reef & Tuna Factory Worth It in Male?",
+        description: "An honest look at the short snorkeling tour covering three sites at Kurumba House Reef and a tuna factory near Male.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8ef899c974e33273355321c21ebefdc68d1c9a566148b723b5dcd0f6abcf09b.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you have limited time but still want real marine variety — covering three distinct snorkeling sites at Kurumba House Reef in just 2.5 hours gives a genuine shot at seeing different species without a full-day commitment.",
+            tourCard: { slug: "male-snorkelling-tour-at-kurumba-house-reef-tuna", title: "Male: Snorkelling Tour at Kurumba House Reef & Tuna Factory", description: "A short snorkeling tour covering three sites at Kurumba House Reef and a tuna factory near Male.", price: "From $211", duration: "2.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c8ef899c974e33273355321c21ebefdc68d1c9a566148b723b5dcd0f6abcf09b.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Good for travelers with a short layover or limited time near Male who still want genuine snorkeling variety.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kurumba House Reef and tuna factory snorkeling tour worth it near Male?", a: "Yes, for travelers with limited time wanting real marine variety across three sites in a short outing." },
+        ],
+      };
+
+    case "is-cinnamon-private-island-resort-day-pass-worth-it-male":
+      return {
+        title: "Is the Cinnamon 5-Star Private-Island Resort Day Pass Worth It from Male?",
+        description: "An honest look at the full-day resort day pass to Cinnamon Dhonveli Maldives from Male.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3304bbfaddb3ec161eceb3f9b4902ec159a3a0917ec9c5d120f6d18cdb3715e7.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine 5-star resort facilities without booking an overnight stay — a day pass to Cinnamon Dhonveli gives access to a proper private-island resort setting on a speedboat day trip from Male.",
+            tourCard: { slug: "from-male-cinnamon-5-star-private-island-resort", title: "From Male: Cinnamon 5-Star Private-Island Resort Day Pass", description: "A full-day resort day pass to Cinnamon Dhonveli Maldives from Male.", price: "From $182", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3304bbfaddb3ec161eceb3f9b4902ec159a3a0917ec9c5d120f6d18cdb3715e7.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm exactly which facilities (pool, beach, dining credits) are included in the day pass before booking, since resort inclusions vary.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cinnamon 5-star private-island resort day pass worth it from Male?", a: "Yes, for travelers wanting genuine 5-star resort facilities on a day trip without booking an overnight stay." },
+        ],
+      };
+
+    case "is-village-tour-scenic-ferry-snorkeling-worth-it-male":
+      return {
+        title: "Is the Village Tour, Scenic Ferry & Guided Snorkeling Worth It from Male?",
+        description: "An honest look at the half-day village tour, scenic ferry ride, and guided snorkeling to Villingili and One Love Beach from Male.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b4e2720a044e1f544607e8fae86a205da665d5220038b924fcf4057c9d5d1b1a.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for budget-conscious travelers wanting a genuine taste of local Maldivian island life — visiting Villingili and One Love Beach by scenic ferry with guided snorkeling gives real local-island character at a fraction of a resort day pass's cost.",
+            tourCard: { slug: "from-male-village-tour-scenic-ferry-guided", title: "From Male: Village Tour, Scenic Ferry & Guided Snorkeling", description: "A half-day village tour, scenic ferry ride, and guided snorkeling to Villingili and One Love Beach from Male.", price: "From $64", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b4e2720a044e1f544607e8fae86a205da665d5220038b924fcf4057c9d5d1b1a.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is one of the more affordable Maldives experiences available, making it a good budget add-on alongside a pricier resort day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the village tour, scenic ferry, and guided snorkeling worth it from Male?", a: "Yes, for budget-conscious travelers wanting a genuine taste of local Maldivian island life." },
+        ],
+      };
+
     default:
       return null;
   }
