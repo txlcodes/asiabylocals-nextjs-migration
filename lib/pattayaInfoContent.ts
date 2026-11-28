@@ -1176,6 +1176,66 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-frost-ice-of-siam-worth-it-pattaya":
+            return {
+                title: "Is Frost Magical Ice of Siam Worth It in Pattaya?",
+                description: "An honest look at Pattaya's Frost Magical Ice of Siam attraction, with transfers included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine break from Pattaya's tropical heat — Frost is an indoor ice attraction with sub-zero temperatures and ice sculptures, a refreshing, distinctly cool contrast to the beach and jungle activities most Pattaya tours involve.",
+                    tourCard: { slug: "frost-magical-ice-of-siam-entry-with-transfers-in-pattaya", title: "Frost Magical Ice of Siam Entry with Transfers in Pattaya", description: "Entry to Frost Magical Ice of Siam in Pattaya, with transfers included.", price: "From $98", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Dress in warm layers — the indoor ice environment is genuinely cold, a sharp contrast to Pattaya's outside temperature." }
+                ],
+                faqs: [
+                    { q: "Is Frost Magical Ice of Siam worth it in Pattaya?", a: "Yes, for travelers wanting a genuinely cool, refreshing break from Pattaya's tropical heat and beach-focused activities." }
+                ],
+            };
+
+        case "is-candy-wonderland-sheep-farm-worth-it-pattaya":
+            return {
+                title: "Is the BKK to Pattaya Candy Wonderland, Sheep Farm and Sunset Bar Tour Worth It?",
+                description: "An honest look at the tour combining Candy Wonderland, a sheep farm, and a sunset bar between Bangkok and Pattaya.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quirky, photogenic mix of stops on your Bangkok-Pattaya transfer — this combines a candy-themed attraction, an actual sheep farm, and a scenic sunset bar, a genuinely varied route rather than a direct point-to-point transfer.",
+                    tourCard: { slug: "bkk-to-pattaya-candy-wonderland-sheep-farm-and-sunset-bar-by-local-operator", title: "BKK to Pattaya: Candy Wonderland, Sheep Farm and Sunset Bar by Local Operator", description: "A tour combining Candy Wonderland, a sheep farm, and a sunset bar between Bangkok and Pattaya.", price: "From $97", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "A fun pick for families with kids, who'll genuinely enjoy both the candy-themed stop and feeding the sheep." }
+                ],
+                faqs: [
+                    { q: "Is the Candy Wonderland, sheep farm and sunset bar tour worth it?", a: "Yes, for families and travelers wanting a quirky, varied route between Bangkok and Pattaya rather than a direct transfer." }
+                ],
+            };
+
+        case "is-orbit-restaurant-space-worth-it-pattaya":
+            return {
+                title: "Is Orbit Restaurant at Grande Centre Point Space Worth It in Pattaya?",
+                description: "An honest look at Pattaya's space-themed Orbit Restaurant at Grande Centre Point.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely themed dining atmosphere rather than a standard restaurant meal — Orbit's space theming gives a distinctive, Instagram-worthy setting at the Grande Centre Point hotel, a novelty beyond Pattaya's usual beachside dining.",
+                    tourCard: { slug: "orbit-restaurant-grande-centre-point-space-pattaya", title: "Orbit Restaurant Grande Centre Point Space Pattaya", description: "A space-themed dining experience at Orbit Restaurant in Grande Centre Point, Pattaya.", price: "From $50", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book ahead for a window or feature seat, since the themed decor is a big part of the appeal and the best spots fill up." }
+                ],
+                faqs: [
+                    { q: "Is Orbit Restaurant's space theme worth it in Pattaya?", a: "Yes, for travelers wanting a distinctive, novelty themed dining setting beyond standard beachside restaurants." }
+                ],
+            };
+
+        case "is-6996-show-worth-it-pattaya":
+            return {
+                title: "Is the Pattaya 6996 Show Entry Ticket Worth It?",
+                description: "An honest look at Pattaya's 6996 Show entry ticket for adults.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Worth it specifically for adult travelers seeking Pattaya's nightlife entertainment scene — the 6996 Show is an adult-oriented performance distinct from the city's family-friendly cabaret shows, catering to a specific nightlife crowd.",
+                    tourCard: { slug: "pattaya-thailand-6996-show-entry-ticket-for-adults-by-local-operator", title: "Pattaya, Thailand 6996 Show Entry Ticket for Adults by Local Operator", description: "An entry ticket to the adult-oriented 6996 Show in Pattaya.", price: "From $68", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Confirm the show's content and format in advance, since it's adult-oriented and distinct from the family-friendly cabaret shows elsewhere in Pattaya." }
+                ],
+                faqs: [
+                    { q: "Is the 6996 Show entry ticket worth it in Pattaya?", a: "Yes, for adult travelers specifically seeking Pattaya's nightlife entertainment scene beyond standard family-friendly shows." }
+                ],
+            };
+
         default:
             return null;
     }
