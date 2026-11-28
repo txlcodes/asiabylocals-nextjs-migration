@@ -5417,6 +5417,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-penang-hill-kek-lok-si-photography-worth-it-penang":
+            return {
+                title: "Is the Penang Hill & Kek Lok Si Temple Photography Tour Worth It?",
+                description: "An honest look at the 1-hour photography tour covering Penang Hill and Kek Lok Si Temple.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1371383/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuinely professional photos at two of Penang's most photogenic landmarks — a dedicated photographer knows the best angles at both Penang Hill's panoramic viewpoints and Kek Lok Si Temple's colorful pagodas, a step up from quick phone snapshots.", tourCard: { slug: "penang-hill-kek-lok-si-temple-photography-tour", title: "Penang Hill & Kek Lok Si Temple Photography Tour", description: "A 1-hour photography tour covering Penang Hill and Kek Lok Si Temple.", price: "From $432", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1371383/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book for early morning or late afternoon light, since both Penang Hill's views and the temple's colors photograph best outside the harsh midday sun." }
+                ],
+                faqs: [
+                    { q: "Is the Penang Hill and Kek Lok Si Temple photography tour worth it?", a: "Yes, for travelers wanting genuinely professional photos at two of Penang's most photogenic landmarks." }
+                ],
+            };
+
+        case "is-romance-batik-sunset-cruise-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Romance: Batik, Lunch & Sunset Cruise Worth It?",
+                description: "An honest look at the full-day Langkawi tour combining the Craft Complex's batik workshop, lunch, and a sunset cruise through the archipelago.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1429429/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely well-rounded, relaxed day for couples — pairing the Langkawi Craft Complex's batik workshop with lunch and finishing on a sunset cruise through the archipelago gives real variety between culture, food, and scenery.", tourCard: { slug: "langkawi-romance-batik-lunch-sunset-cruise", title: "Langkawi Romance: Batik, Lunch & Sunset Cruise", description: "A full-day Langkawi tour combining the Craft Complex's batik workshop, lunch, and a sunset cruise through the archipelago.", price: "From $560", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1429429/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask whether you get to try the batik-making yourself or just watch, since hands-on involvement varies by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Langkawi Romance batik, lunch, and sunset cruise worth it?", a: "Yes, for couples wanting a well-rounded, relaxed day combining culture, food, and a scenic sunset finish." }
+                ],
+            };
+
+        case "is-mangrove-jet-ski-wildlife-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Mangrove Jet Ski Tour with Wildlife Watching Worth It?",
+                description: "An honest look at the 3-hour jet ski tour through Langkawi's mangrove forest with wildlife watching.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1348090/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine adrenaline paired with wildlife spotting — riding your own jet ski through Langkawi's mangrove forest gives a far more active experience than a standard boat tour, while still offering real chances to spot local wildlife along the way.", tourCard: { slug: "langkawi-mangrove-jet-ski-tour-with-wildlife", title: "Langkawi: Mangrove Jet Ski Tour with Wildlife Watching", description: "A 3-hour jet ski tour through Langkawi's mangrove forest with wildlife watching.", price: "From $475", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1348090/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm whether a driving license or prior jet ski experience is required before booking, since requirements vary by operator." }
+                ],
+                faqs: [
+                    { q: "Is the mangrove jet ski tour with wildlife watching worth it in Langkawi?", a: "Yes, for travelers wanting genuine adrenaline paired with real chances to spot local wildlife in the mangroves." }
+                ],
+            };
+
+        case "is-iconic-landmarks-natural-wonders-worth-it-langkawi":
+            return {
+                title: "Is the Langkawi Iconic Landmarks & Natural Wonders Guided Tour Worth It?",
+                description: "An honest look at the half-day guided tour covering Eagle Square, Durian Perangin waterfalls, and the Langkawi Skybridge Cable Car.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1061201/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want Langkawi's essential landmarks covered efficiently — Eagle Square, the Durian Perangin waterfalls, and the Skybridge Cable Car together give real variety between manmade icons and natural scenery in a single half-day.", tourCard: { slug: "langkawi-iconic-landmarks-natural-wonders-guided", title: "Langkawi: Iconic Landmarks & Natural Wonders Guided Tour", description: "A half-day guided tour covering Eagle Square, Durian Perangin waterfalls, and the Langkawi Skybridge Cable Car.", price: "From $538", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1061201/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book the Skybridge Cable Car portion for a clear day if possible, since the views are the main highlight and depend on visibility." }
+                ],
+                faqs: [
+                    { q: "Is the iconic landmarks and natural wonders tour worth it in Langkawi?", a: "Yes, for travelers wanting Langkawi's essential manmade and natural highlights covered efficiently in one half-day." }
+                ],
+            };
+
         default:
             return null;
     }

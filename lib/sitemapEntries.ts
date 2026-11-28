@@ -1737,6 +1737,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-george-town-upside-down-museum-worth-it-penang', 'is-forest-island-jet-car-worth-it-penang',
     'is-cbts-sunset-cruise-penang-bridge-worth-it-penang', 'is-top-seven-wonders-penang-worth-it-penang',
     'is-magical-nature-heritage-street-art-worth-it-penang', 'is-desaru-mangrove-night-cruise-fireflies-worth-it-penang',
+    'is-penang-hill-kek-lok-si-photography-worth-it-penang',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/penang/${slug}`,
     lastModified: new Date(),
@@ -1763,6 +1764,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-private-full-day-car-tour-worth-it-langkawi', 'is-dangli-island-snorkeling-worth-it-langkawi',
     'is-yacht-charter-by-mila-worth-it-langkawi', 'is-3day-private-tour-worth-it-langkawi',
     'is-overnight-fishing-squid-jigging-worth-it-langkawi', 'is-city-pass-multiple-attractions-worth-it-langkawi',
+    'is-romance-batik-sunset-cruise-worth-it-langkawi', 'is-mangrove-jet-ski-wildlife-worth-it-langkawi',
+    'is-iconic-landmarks-natural-wonders-worth-it-langkawi',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/langkawi/${slug}`,
     lastModified: new Date(),
