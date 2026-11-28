@@ -2972,6 +2972,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-holy-cave-temple-purification-worth-it-nusa-penida', 'is-cultural-photography-dance-tour-worth-it-nusa-penida',
     'is-mangrove-adventure-worth-it-nusa-penida', 'is-santara-villas-beach-dinner-worth-it-nusa-penida',
     'is-manta-point-dive-ecology-worth-it-nusa-penida',
+    'is-amok-sunset-photography-worth-it-nusa-penida', 'is-watersport-adventure-lunch-worth-it-nusa-penida',
+    'is-blapoeh-sunrise-highlights-worth-it-nusa-penida', 'is-reverse-tour-land-first-snorkel-later-worth-it-nusa-penida',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/nusa-penida/${slug}`,
     lastModified: new Date(),

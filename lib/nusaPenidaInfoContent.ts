@@ -1449,6 +1449,90 @@ export function getNusaPenidaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-amok-sunset-photography-worth-it-nusa-penida":
+      return {
+        title: "Is the West Nusa Penida Tour with Photography Service and Amok Sunset Worth It?",
+        description: "An honest look at the West Nusa Penida tour with a professional photography service and sunset at Amok.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuinely professional photos of Nusa Penida's famous clifftop viewpoints — this tour includes a dedicated photographer and times the day to end with sunset at Amok, giving both quality shots and a scenic finish most standard tours don't offer.",
+            tourCard: { slug: "west-nusa-penida-with-photography-service-and-amok-sunset-nusa-penida", title: "West Nusa Penida with Photography Service and Amok Sunset (Nusa Penida)", description: "A West Nusa Penida tour with a professional photography service and sunset at Amok.", price: "From $173", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask in advance how the final photos are delivered and how many you'll receive, since this varies by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the West Nusa Penida photography and Amok sunset tour worth it?", a: "Yes, for travelers wanting genuinely professional photos of the island's viewpoints combined with a scenic sunset finish." },
+        ],
+      };
+
+    case "is-watersport-adventure-lunch-worth-it-nusa-penida":
+      return {
+        title: "Is the Nusa Penida Watersport Adventure with Lunch Worth It?",
+        description: "An honest look at Nusa Penida's watersport adventure package with lunch included.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want more active water activities than just snorkeling — this bundles multiple watersport elements into one day with lunch included, a more varied, adrenaline-focused option than the standard snorkel-only boat trips.",
+            tourCard: { slug: "nusa-penida-watersport-adventure-with-lunch", title: "Nusa Penida Watersport Adventure with Lunch", description: "A watersport adventure package in Nusa Penida with lunch included.", price: "From $173", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask exactly which watersport activities are included before booking, since the specific lineup can vary by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nusa Penida watersport adventure with lunch worth it?", a: "Yes, for travelers wanting more active water activities than a standard snorkel-only boat trip." },
+        ],
+      };
+
+    case "is-blapoeh-sunrise-highlights-worth-it-nusa-penida":
+      return {
+        title: "Is the East Nusa Penida Highlights with Blapoeh Point Sunrise Tour Worth It?",
+        description: "An honest look at the East Nusa Penida highlights tour featuring sunrise at Blapoeh Point.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to beat the crowds at Nusa Penida's famous viewpoints — starting the day with sunrise at the lesser-known Blapoeh Point gives a genuinely quieter, more peaceful start before the island's main sights get busy.",
+            tourCard: { slug: "east-nusa-penida-highlights-with-blapoeh-point-sunrise", title: "East Nusa Penida Highlights with Blapoeh Point Sunrise", description: "An East Nusa Penida highlights tour featuring sunrise at Blapoeh Point.", price: "From $141", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the pickup time with your operator, since catching sunrise means a genuinely early start.",
+          },
+        ],
+        faqs: [
+          { q: "Is the East Nusa Penida tour with Blapoeh Point sunrise worth it?", a: "Yes, for travelers wanting a quieter, less crowded start to the day at a lesser-known sunrise viewpoint." },
+        ],
+      };
+
+    case "is-reverse-tour-land-first-snorkel-later-worth-it-nusa-penida":
+      return {
+        title: "Is the Nusa Penida Reverse Tour (Land First, Snorkel Later) Worth It?",
+        description: "An honest look at Nusa Penida's reverse-order tour that covers land sights first and snorkeling later in the day.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if crowds at the main viewpoints are a concern — flipping the usual order to visit land sights first and snorkel later means you reach famous spots like Kelingking before the bulk of day-trippers arrive from Bali.",
+            tourCard: { slug: "nusa-penida-reverse-tour-land-first-snorkel-later-nusa-penida", title: "Nusa Penida Reverse Tour: Land First, Snorkel Later (Nusa Penida)", description: "A reverse-order Nusa Penida tour covering land sights first and snorkeling later in the day.", price: "From $227", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This requires an earlier departure than standard tours to actually beat the crowds, so confirm the pickup time works for you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the reverse-order Nusa Penida tour worth it?", a: "Yes, for travelers wanting to reach famous viewpoints before the crowds by flipping the usual land-then-snorkel order." },
+        ],
+      };
+
     default:
       return null;
   }
