@@ -1693,6 +1693,76 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-yilan-atv-adventure-worth-it-taipei":
+      return {
+        title: "Is the Yilan Adventure: ATV, Culture, Scallions and Whisky Worth It?",
+        description: "An honest look at the Yilan day trip from Taipei combining ATV riding, local culture, scallion farming, and a whisky distillery.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/79afeaf6f0c38dd1e19b617ea70085c4dfad922f0c91f32ed5f65d13c035906f.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "Combining ATV riding with a scallion farm visit and a whisky distillery tour gives a genuinely eclectic mix of adventure, agriculture, and tasting in one Yilan day trip, worth it for travelers wanting variety beyond Taipei's usual temple and night market circuit.", tourCard: { slug: "yilan-adventure-atv-culture-scallions-whisky", title: "Yilan Adventure: ATV, Culture, Scallions & Whisky", description: "A Yilan day trip combining ATV riding, local culture, scallion farming, and whisky tasting.", price: "From $978", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/79afeaf6f0c38dd1e19b617ea70085c4dfad922f0c91f32ed5f65d13c035906f.jpeg" } },
+          { title: "Practical Tips", content: "Pace your whisky tasting if you're driving back the same day — plan transport accordingly." },
+        ],
+        faqs: [
+          { q: "Is the Yilan ATV, culture, scallions and whisky adventure worth it?", a: "Yes, for travelers wanting a genuinely eclectic mix of adventure, agriculture, and tasting in one day trip from Taipei." },
+        ],
+      };
+
+    case "is-wedding-photoshoot-worth-it-taipei":
+      return {
+        title: "Is the Taipei Wedding Photoshoot with a Professional Photographer Worth It?",
+        description: "An honest look at Taipei's wedding photoshoot experience with a professional photographer at scenic city locations.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fa767506e1c24d7f03bd930faf1b43f1e2e841926561c07dd3422154a030c007.jpeg",
+        sections: [
+          { title: "The Short Answer", content: "A dedicated wedding photoshoot with a professional photographer at Taipei's most photogenic spots gives genuinely polished results that a casual phone photo session can't match, worth it specifically for couples wanting real keepsake-quality images.", tourCard: { slug: "taipei-wedding-photoshoot-with-professional", title: "Taipei: Wedding Photoshoot with Professional Photographer", description: "A professional wedding photoshoot experience at scenic Taipei locations.", price: "From $2054", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fa767506e1c24d7f03bd930faf1b43f1e2e841926561c07dd3422154a030c007.jpeg" } },
+          { title: "Practical Tips", content: "Discuss hair, makeup, and outfit logistics with the operator beforehand, since this is a genuinely premium, detail-heavy experience." },
+        ],
+        faqs: [
+          { q: "Is the Taipei wedding photoshoot with a professional photographer worth it?", a: "Yes, specifically for couples wanting genuinely polished, keepsake-quality images that a casual photo session can't match." },
+        ],
+      };
+
+    case "is-taipingshan-national-forest-worth-it-taipei":
+      return {
+        title: "Is the Taipingshan National Forest Day Tour Worth It from Taipei?",
+        description: "An honest look at the Taipingshan National Forest private day tour, a high-altitude forest escape outside Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dc7d79992d10b33c8dd044a913dcef52b71469203d3d07bffa6d78dbc064992e.png",
+        sections: [
+          { title: "The Short Answer", content: "Taipingshan's high-altitude cypress forest and cooler climate give a genuinely different landscape than Taipei's city heat or the more crowded Yehliu/Jiufen circuit, worth it for travelers wanting real forest scenery and quiet trails.", tourCard: { slug: "from-taipei-taipingshan-national-forest-private", title: "From Taipei: Taipingshan National Forest Private Day Tour", description: "A private day tour of Taipingshan National Forest from Taipei.", price: "From $367", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dc7d79992d10b33c8dd044a913dcef52b71469203d3d07bffa6d78dbc064992e.png" } },
+          { title: "Practical Tips", content: "Pack layers — Taipingshan's elevation genuinely makes it significantly cooler than Taipei, even in summer." },
+        ],
+        faqs: [
+          { q: "Is the Taipingshan National Forest tour worth it from Taipei?", a: "Yes, for travelers wanting genuine high-altitude forest scenery and quiet trails, a real change from the city's heat and crowded coastal circuit." },
+        ],
+      };
+
+    case "is-sandiaoling-makang-worth-it-taipei":
+      return {
+        title: "Is the Sandiaoling and Makang Private Day Trip Worth It from Taipei?",
+        description: "An honest look at the Sandiaoling and Makang private guided day trip, featuring waterfall trails outside the main tourist circuit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a84130e6713e1fa9fa42eec9eb6ede11298ee455b513446f86bde6f2f0ef1a6e.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Sandiaoling's waterfall trail system is genuinely less visited than Jiufen or Shifen, giving quieter hiking with real scenic payoff, worth it for travelers who've already covered the standard northeast coast highlights.", tourCard: { slug: "from-taipei-sandiaoling-makang-private-guided-day", title: "From Taipei: Sandiaoling & Makang Private Guided Day Trip", description: "A private guided day trip to Sandiaoling and Makang from Taipei.", price: "From $406", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a84130e6713e1fa9fa42eec9eb6ede11298ee455b513446f86bde6f2f0ef1a6e.jpg" } },
+          { title: "Practical Tips", content: "Wear proper hiking shoes — the waterfall trails genuinely involve uneven, sometimes slippery terrain." },
+        ],
+        faqs: [
+          { q: "Is the Sandiaoling and Makang day trip worth it from Taipei?", a: "Yes, for travelers who've already seen Jiufen and Shifen and want genuinely quieter waterfall hiking with real scenic payoff." },
+        ],
+      };
+
+    case "is-meditation-tea-coastal-cycling-worth-it-taipei":
+      return {
+        title: "Is the Private Meditation, Tea and Coastal Cycling Tour Worth It in Taipei?",
+        description: "An honest look at Taipei's private meditation, tea, and coastal cycling tour, a wellness-focused day combining mindfulness and activity.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8ff2702716c223f930ac54a4f9b20d7c21d84e9bdd88970320b0befb2e8c8790.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Combining guided meditation, a proper tea session, and coastal cycling gives a genuinely well-rounded wellness day, worth it for travelers wanting mindfulness and gentle activity together rather than a purely sightseeing-focused itinerary.", tourCard: { slug: "taipei-private-meditation-tea-coastal-cycling-tour", title: "Taipei: Private Meditation, Tea & Coastal Cycling Tour", description: "A private wellness tour combining meditation, tea, and coastal cycling in Taipei.", price: "From $437", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8ff2702716c223f930ac54a4f9b20d7c21d84e9bdd88970320b0befb2e8c8790.jpg" } },
+          { title: "Practical Tips", content: "Come with an open mind for the meditation portion — genuine mindfulness practice rewards a receptive attitude over skepticism." },
+        ],
+        faqs: [
+          { q: "Is the meditation, tea and coastal cycling tour worth it in Taipei?", a: "Yes, for travelers wanting a genuinely well-rounded wellness day combining mindfulness and gentle activity." },
+        ],
+      };
+
     default:
       return null;
   }

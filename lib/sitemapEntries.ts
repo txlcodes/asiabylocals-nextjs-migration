@@ -346,6 +346,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-dadaocheng-cooking-class-worth-it-taipei', 'is-thousand-island-lake-pinglin-tea-tour-worth-it-taipei',
     'is-daxi-old-street-tea-factory-worth-it-taipei', 'is-taichung-lukang-gaomei-wetlands-worth-it-taipei',
     'is-tamsui-shell-temple-northernmost-worth-it-taipei', 'is-coast-cycling-railbike-ginger-spa-worth-it-taipei',
+    'is-yilan-atv-adventure-worth-it-taipei', 'is-wedding-photoshoot-worth-it-taipei',
+    'is-taipingshan-national-forest-worth-it-taipei', 'is-sandiaoling-makang-worth-it-taipei',
+    'is-meditation-tea-coastal-cycling-worth-it-taipei',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),

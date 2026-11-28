@@ -1320,6 +1320,9 @@ export const TAIPEI_INFO_SLUGS = [
   'is-dadaocheng-cooking-class-worth-it-taipei', 'is-thousand-island-lake-pinglin-tea-tour-worth-it-taipei',
   'is-daxi-old-street-tea-factory-worth-it-taipei', 'is-taichung-lukang-gaomei-wetlands-worth-it-taipei',
   'is-tamsui-shell-temple-northernmost-worth-it-taipei', 'is-coast-cycling-railbike-ginger-spa-worth-it-taipei',
+  'is-yilan-atv-adventure-worth-it-taipei', 'is-wedding-photoshoot-worth-it-taipei',
+  'is-taipingshan-national-forest-worth-it-taipei', 'is-sandiaoling-makang-worth-it-taipei',
+  'is-meditation-tea-coastal-cycling-worth-it-taipei',
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and
