@@ -2501,6 +2501,76 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mt-gwanaksan-trek-worth-it-seoul":
+      return {
+        title: "Is the Mt. Gwanaksan Full-Day Trek Worth It in Seoul?",
+        description: "An honest look at the Mt. Gwanaksan full-day trek, a demanding hike within Seoul's own city limits.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/618c0f735c3b8a840ffdfe0afc0ebe33aeee042746a170efd1000971c649dbaf.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Gwanaksan genuinely offers one of the more demanding hikes accessible directly from within Seoul, giving real elevation and rocky terrain without leaving the city, worth it for serious hikers wanting a proper trek rather than a casual park walk.", tourCard: { slug: "seoul-mt-gwanaksan-full-day-trek", title: "Seoul: Mt. Gwanaksan Full-Day Trek", description: "A full-day trek up Mt. Gwanaksan within Seoul.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/618c0f735c3b8a840ffdfe0afc0ebe33aeee042746a170efd1000971c649dbaf.jpg" } },
+          { title: "Practical Tips", content: "Wear proper hiking boots — Gwanaksan's rocky sections genuinely require more grip than sneakers provide." },
+        ],
+        faqs: [
+          { q: "Is the Mt. Gwanaksan trek worth it in Seoul?", a: "Yes, for serious hikers wanting a genuinely demanding trek with real elevation, accessible directly from within the city." },
+        ],
+      };
+
+    case "is-mt-dobongsan-hiking-worth-it-seoul":
+      return {
+        title: "Is the Mt. Dobongsan National Park Hiking Tour Worth It in Seoul?",
+        description: "An honest look at the Mt. Dobongsan National Park hiking tour with Sapaesan, a granite-peak trek on Seoul's northern edge.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b620570f4cc3b5db0b0835ed288f5d0d4486b4897c3c0084b91fd987130b8a92.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Dobongsan's dramatic granite peaks give genuinely striking mountain scenery within easy reach of the city, worth it for hikers wanting real alpine-style views without a long trip outside Seoul.", tourCard: { slug: "seoul-mt-dobongsan-national-park-hiking-with", title: "Seoul: Mt. Dobongsan National Park Hiking with Sapaesan", description: "A hiking tour of Mt. Dobongsan National Park and Sapaesan in Seoul.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b620570f4cc3b5db0b0835ed288f5d0d4486b4897c3c0084b91fd987130b8a92.jpg" } },
+          { title: "Practical Tips", content: "Go on a clear day — Dobongsan's granite peak views are genuinely the highlight, and they're lost in fog or haze." },
+        ],
+        faqs: [
+          { q: "Is the Mt. Dobongsan hiking tour worth it in Seoul?", a: "Yes, for hikers wanting genuinely striking granite-peak mountain scenery without a long trip outside the city." },
+        ],
+      };
+
+    case "is-seoul-city-wall-trekking-worth-it-seoul":
+      return {
+        title: "Is the Seoul City Wall Trekking Tour Worth It?",
+        description: "An honest look at the Seoul City Wall trekking tour, following the historic fortress wall around the old city.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d07989bd8c3052d8b2f9c016189f2dfca0f727d87d0fd469e60a2fda048ac476.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Tracing the historic Seoul City Wall gives a genuinely different way to see the old city's layout and skyline than visiting individual palaces, worth it for travelers wanting both exercise and a real sense of the capital's historic fortifications.", tourCard: { slug: "seoul-city-wall-trekking-tour", title: "Seoul City Wall Trekking Tour", description: "A trekking tour along the historic Seoul City Wall.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d07989bd8c3052d8b2f9c016189f2dfca0f727d87d0fd469e60a2fda048ac476.jpg" } },
+          { title: "Practical Tips", content: "Wear comfortable walking shoes — the full wall trek genuinely covers significant distance and some steep sections." },
+        ],
+        faqs: [
+          { q: "Is the Seoul City Wall trekking tour worth it?", a: "Yes, for a genuinely different, more active way to see the old city's historic fortifications and skyline." },
+        ],
+      };
+
+    case "is-paju-mt-gamaksan-gloucester-worth-it-seoul":
+      return {
+        title: "Is the Paju Mt. Gamaksan Hike and Gloucester Monument Tour Worth It?",
+        description: "An honest look at the Paju Mt. Gamaksan hike combined with a visit to the Gloucester Monument near Seoul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fea8d35c4f9985b4613a8ed60461c21473052dc6421883d2601c5b9a7ff934a.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Combining a genuine mountain hike with the Gloucester Monument's Korean War history gives a worthwhile mix of nature and history, distinct from Seoul's more commonly visited DMZ tours, worth it for travelers wanting a less crowded perspective on the war's history.", tourCard: { slug: "paju-mt-gamaksan-hike-and-gloucester-monument", title: "Paju Mt. Gamaksan Hike and Gloucester Monument", description: "A hike up Mt. Gamaksan combined with a visit to the Gloucester Monument near Seoul.", price: "From $669", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1fea8d35c4f9985b4613a8ed60461c21473052dc6421883d2601c5b9a7ff934a.jpg" } },
+          { title: "Practical Tips", content: "Read up on the Battle of the Imjin River beforehand — the Gloucester Monument's significance genuinely means more with that context." },
+        ],
+        faqs: [
+          { q: "Is the Paju Mt. Gamaksan hike and Gloucester Monument tour worth it?", a: "Yes, for travelers wanting a genuine mix of nature and lesser-known Korean War history, distinct from the standard DMZ tours." },
+        ],
+      };
+
+    case "is-street-food-sashimi-dinner-worth-it-seoul":
+      return {
+        title: "Is the Seoul Street Food and Sashimi Dinner with a Gourmet Guide Worth It?",
+        description: "An honest look at Seoul's street food and sashimi dinner tour led by a gourmet guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9456407f62bc10ba8a758af8a186343b1c1846207c92178d170769f2521e2487.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Pairing street food stops with a proper sashimi dinner, led by a genuinely knowledgeable gourmet guide, gives a well-rounded culinary evening spanning both casual and refined Korean dining, worth it for food-focused travelers wanting curated variety in one night.", tourCard: { slug: "seoul-street-food-and-sashimi-dinner-with-gourmet", title: "Seoul: Street Food and Sashimi Dinner with Gourmet Guide", description: "A street food and sashimi dinner tour with a gourmet guide in Seoul.", price: "From $679", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9456407f62bc10ba8a758af8a186343b1c1846207c92178d170769f2521e2487.jpg" } },
+          { title: "Practical Tips", content: "Pace yourself across the street food stops — you'll genuinely want room left for the sashimi dinner portion." },
+        ],
+        faqs: [
+          { q: "Is the Seoul street food and sashimi dinner tour worth it?", a: "Yes, for food-focused travelers wanting genuinely curated variety spanning both casual and refined Korean dining in one evening." },
+        ],
+      };
+
     default:
       return null;
   }

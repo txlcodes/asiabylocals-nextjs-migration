@@ -1359,6 +1359,9 @@ export const SEOUL_INFO_SLUGS = [
   'is-pocheon-day-trip-worth-it-seoul', 'is-cheorwon-hantangang-geo-park-worth-it-seoul',
   'is-kpop-debut-premium-package-worth-it-seoul', 'is-incheon-landing-operation-history-worth-it-seoul',
   'is-daegwallyeong-ranch-bts-bus-stop-worth-it-seoul', 'is-effortless-transit-layover-worth-it-seoul',
+  'is-mt-gwanaksan-trek-worth-it-seoul', 'is-mt-dobongsan-hiking-worth-it-seoul',
+  'is-seoul-city-wall-trekking-worth-it-seoul', 'is-paju-mt-gamaksan-gloucester-worth-it-seoul',
+  'is-street-food-sashimi-dinner-worth-it-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
