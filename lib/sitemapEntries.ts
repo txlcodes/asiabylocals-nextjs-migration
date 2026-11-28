@@ -3213,6 +3213,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-pho-local-girl-cooking-class-worth-it-da-nang', 'is-cyclo-japanese-guide-food-worth-it-da-nang',
     'is-coffee-making-cooking-class-worth-it-da-nang', 'is-scenic-train-journey-worth-it-da-nang',
     'is-private-hai-van-pass-food-options-worth-it-da-nang',
+    'is-vegetarian-food-walking-tour-worth-it-da-nang', 'is-scooter-city-tour-ao-dai-rider-worth-it-da-nang',
+    'is-luxury-yacht-dragon-bridge-fire-show-worth-it-da-nang',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/da-nang/${slug}`,
     lastModified: new Date(),

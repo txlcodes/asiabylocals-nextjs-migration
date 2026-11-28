@@ -1437,6 +1437,66 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-vegetarian-food-walking-tour-worth-it-da-nang":
+      return {
+        title: "Is the Vegetarian Food Walking Tour Worth It in Da Nang?",
+        description: "An honest look at this vegetarian-focused food walking tour, a genuine alternative to Da Nang's meat- and seafood-heavy street food circuits.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-vegetarian-food-walking-tour-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most Da Nang food tours lean heavily on seafood and meat dishes, so a dedicated vegetarian route genuinely solves a real gap, worth it for vegetarian travelers who'd otherwise struggle to navigate the usual street food stops confidently.",
+            tourCard: { slug: "da-nang-vegetarian-food-walking-tour-by-local-operator", title: "Da Nang Vegetarian Food Walking Tour by Local Operator", description: "A vegetarian-focused food walking tour through Da Nang on foot.", price: "From $62", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/da-nang-vegetarian-food-walking-tour-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any further dietary restrictions when booking, vegetarian doesn't automatically mean vegan or allergy-safe on every stop." },
+        ],
+        faqs: [
+          { q: "Is the vegetarian food walking tour worth it in Da Nang?", a: "Yes, for vegetarian travelers who want a confident, dedicated route rather than navigating the usual seafood-heavy street food stops themselves." }
+        ],
+      };
+
+    case "is-scooter-city-tour-ao-dai-rider-worth-it-da-nang":
+      return {
+        title: "Is the Private City Tour by Scooter with an Ao Dai Lady Rider Worth It?",
+        description: "An honest look at this scooter city tour, which pairs an English-speaking rider in traditional Ao Dai with a more personal, photogenic way to see Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-city-tour-by-scooter-with-ao-dai-lady-rider-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding pillion with a local guide through the city gives a more intimate, photo-friendly feel than a van or private car tour, worth it for travelers who want the classic Vietnam scooter experience with a knowledgeable, English-speaking rider rather than driving themselves.",
+            tourCard: { slug: "private-city-tour-by-scooter-with-ao-dai-lady-rider-in-da-nang", title: "Private City Tour by Scooter with Ao Dai Lady Rider in Da Nang", description: "A private scooter city tour of Da Nang with an English-speaking rider in traditional Ao Dai.", price: "From $71", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-city-tour-by-scooter-with-ao-dai-lady-rider-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a jacket even in warm weather, wind on an open scooter at speed feels cooler than you'd expect." },
+        ],
+        faqs: [
+          { q: "Is the private city tour by scooter with an Ao Dai lady rider worth it in Da Nang?", a: "Yes, for travelers wanting a personal, photogenic scooter tour with a knowledgeable local rider rather than a van tour or self-driving." }
+        ],
+      };
+
+    case "is-luxury-yacht-dragon-bridge-fire-show-worth-it-da-nang":
+      return {
+        title: "Is the Private Luxury Yacht and Dragon Bridge Fire Show Worth It in Da Nang?",
+        description: "An honest look at this evening yacht cruise timed to the Dragon Bridge's fire and water show, booked direct with the operator rather than through a reseller.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-luxury-yacht-and-dragon-bridge-fire-show-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Watching the Dragon Bridge breathe fire from the water on a private yacht beats the crowded riverside sidewalks most visitors use, worth it for travelers who want the best seat for the show and a short, scenic evening cruise rather than jostling for a view on the bank.",
+            tourCard: { slug: "private-luxury-yacht-and-dragon-bridge-fire-show-in-da-nang", title: "Private Luxury Yacht and Dragon Bridge Fire Show in Da Nang", description: "A private yacht cruise with prime viewing of the Dragon Bridge fire and water show in Da Nang.", price: "From $83", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/private-luxury-yacht-and-dragon-bridge-fire-show-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the show runs on your chosen night, the Dragon Bridge typically only breathes fire on weekend evenings." },
+        ],
+        faqs: [
+          { q: "Is the private luxury yacht and Dragon Bridge fire show worth it in Da Nang?", a: "Yes, for travelers who want the best vantage point for the show on a short private cruise rather than crowding the riverside." }
+        ],
+      };
+
     default:
       return null;
   }
