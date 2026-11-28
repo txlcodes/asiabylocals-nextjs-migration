@@ -1420,6 +1420,69 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-black-hmong-transformation-photoshoot-worth-it-sapa":
+      return {
+        title: "Is the Black Hmong Cultural Transformation and Photoshoot Tour Worth It?",
+        description: "An honest look at Sapa's experience dressing in traditional Black Hmong attire for a cultural photoshoot.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuinely distinctive photos and a closer look at local ethnic dress — this dresses you in traditional Black Hmong clothing for a dedicated photoshoot against Sapa's terraced landscape, going beyond a quick souvenir photo op.",
+            tourCard: { slug: "black-hmong-cultural-transformation-and-photoshoot-tour-in-sapa", title: "Black Hmong Cultural Transformation and Photoshoot Tour in Sapa", description: "An experience dressing in traditional Black Hmong attire for a cultural photoshoot in Sapa.", price: "From $129", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach the experience with genuine respect and curiosity about Black Hmong culture, not just the photo outcome.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Black Hmong transformation and photoshoot tour worth it in Sapa?", a: "Yes, for travelers wanting genuinely distinctive photos and closer exposure to local ethnic dress traditions." },
+        ],
+      };
+
+    case "is-tramton-sinchai-jungle-trek-worth-it-sapa":
+      return {
+        title: "Is the Jungle Trek from Tram Ton to Sin Chai Village Worth It in Sapa?",
+        description: "An honest look at the jungle trek route from Tram Ton Pass to Sin Chai village near Sapa.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for hikers wanting genuine jungle terrain beyond the standard rice-terrace village walks — this route starts from the high-altitude Tram Ton Pass and descends through real forest to Sin Chai village, a more varied trek than Sapa's usual valley trails.",
+            tourCard: { slug: "jungle-trek-from-tram-ton-to-sin-chai-village-in-sapa", title: "Jungle Trek from Tram Ton to Sin Chai village in Sapa", description: "A jungle trek route from Tram Ton Pass to Sin Chai village near Sapa.", price: "From $143", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper hiking boots with good grip — the jungle terrain and elevation change make this more demanding than a casual village walk.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tram Ton to Sin Chai jungle trek worth it in Sapa?", a: "Yes, for hikers wanting genuine jungle and elevation-change terrain, beyond Sapa's usual rice-terrace valley walks." },
+        ],
+      };
+
+    case "is-hagiang-bangioc-private-car-worth-it-sapa":
+      return {
+        title: "Is the Sapa, Ha Giang and Ban Gioc Waterfall Private Car Tour Worth It?",
+        description: "An honest look at the private car tour covering Sapa, Ha Giang, and Ban Gioc Waterfall.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to cover northern Vietnam's major mountain and waterfall highlights in one private trip — this connects Sapa with Ha Giang's dramatic mountain roads and Ban Gioc, one of the country's most impressive waterfalls, rather than treating them as separate trips.",
+            tourCard: { slug: "sapa-ha-giang-and-ban-gioc-waterfall-private-car", title: "Sapa, Ha Giang and Ban Gioc Waterfall Private Car", description: "A private car tour covering Sapa, Ha Giang, and Ban Gioc Waterfall.", price: "From $162", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This covers genuinely long distances across northern Vietnam's mountain roads, so confirm the itinerary gives real time at each stop rather than rushing between them.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sapa, Ha Giang and Ban Gioc Waterfall private car tour worth it?", a: "Yes, for travelers wanting northern Vietnam's major mountain and waterfall highlights connected in one trip rather than separate bookings." },
+        ],
+      };
+
     default:
       return null;
   }

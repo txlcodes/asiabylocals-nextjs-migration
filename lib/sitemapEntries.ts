@@ -2831,6 +2831,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-lonely-tree-secret-cave-worth-it-sapa',
     'is-red-dao-herbal-bath-worth-it-sapa', 'is-hmong-beewax-drawing-herbal-bath-worth-it-sapa',
     'is-senior-car-tour-worth-it-sapa', 'is-open-air-jeep-off-beaten-path-worth-it-sapa',
+    'is-black-hmong-transformation-photoshoot-worth-it-sapa', 'is-tramton-sinchai-jungle-trek-worth-it-sapa',
+    'is-hagiang-bangioc-private-car-worth-it-sapa',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),
