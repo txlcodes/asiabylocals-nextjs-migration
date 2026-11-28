@@ -2424,6 +2424,69 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-taj-mahal-superfast-train-tour-worth-it-delhi":
+      return {
+        title: "Is the Taj Mahal Superfast Train Tour Worth It from Delhi?",
+        description: "An honest look at the same-day Taj Mahal tour from Delhi via superfast train.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773222484/tours/agra/tours/agra_1773222483490_0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if speed and comfort matter more to you than cost — the superfast train cuts travel time to Agra significantly compared to driving, leaving more actual time at the Taj Mahal itself on a same-day round trip.",
+            tourCard: { slug: "taj-mahal-superfast-guided-tour", title: "Book Taj Mahal Train Tour from Delhi", description: "A same-day Taj Mahal tour from Delhi via superfast train.", price: "From $499", duration: "12 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773222484/tours/agra/tours/agra_1773222483490_0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the earliest available train slot to maximize your actual time at the Taj Mahal before the return journey.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Taj Mahal superfast train tour worth it from Delhi?", a: "Yes, for travelers wanting a faster, more comfortable same-day trip to the Taj Mahal than driving." },
+        ],
+      };
+
+    case "is-taj-mahal-sunrise-tour-worth-it-delhi":
+      return {
+        title: "Is the Taj Mahal Sunrise Tour Worth It from Delhi?",
+        description: "An honest look at the same-day Taj Mahal sunrise tour from Delhi.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773216784/tours/agra/tours/agra_1773216783750_0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if seeing the Taj Mahal at its most photogenic matters to you — sunrise brings cooler temperatures, thinner crowds, and the famous soft light on the white marble that midday visits simply can't match.",
+            tourCard: { slug: "taj-mahal-delhi-sunrise-tour", title: "Best Taj Mahal Sunrise Tour Package", description: "A same-day Taj Mahal sunrise tour from Delhi.", price: "From $445", duration: "10 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773216784/tours/agra/tours/agra_1773216783750_0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a genuinely early start — leaving Delhi well before dawn is necessary to catch sunrise at the monument itself.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Taj Mahal sunrise tour worth it from Delhi?", a: "Yes, for travelers wanting the Taj Mahal at its most photogenic, with cooler temperatures and thinner crowds than a midday visit." },
+        ],
+      };
+
+    case "is-same-day-sightseeing-tour-worth-it-delhi":
+      return {
+        title: "Is the Same Day Delhi Sightseeing Tour Worth It?",
+        description: "An honest look at the full-day same-day sightseeing tour covering Delhi's main landmarks.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773221214/tours/delhi/tours/delhi_1773221213580_0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you have just one day in Delhi and want to cover the essentials efficiently — a structured same-day sightseeing tour hits the major historical and architectural landmarks without you having to plan logistics yourself.",
+            tourCard: { slug: "delhi-same-day-sightseeing-tour", title: "Same Day Delhi Sightseeing Tour", description: "A full-day same-day sightseeing tour covering Delhi's main landmarks.", price: "From $455", duration: "10 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1773221214/tours/delhi/tours/delhi_1773221213580_0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — a full-day Delhi sightseeing tour involves real walking between and within major sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the same day Delhi sightseeing tour worth it?", a: "Yes, for travelers with just one day in Delhi wanting to cover the city's major landmarks efficiently." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -147,6 +147,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-elephant-conservation-centre-worth-it-delhi',
     'is-solo-female-traveler-golden-triangle-worth-it-delhi', 'is-hidden-art-gallery-tour-worth-it-delhi',
     'is-haveli-classical-dance-cuisine-worth-it-delhi', 'is-multi-faith-day-tour-worth-it-delhi',
+    'is-taj-mahal-superfast-train-tour-worth-it-delhi', 'is-taj-mahal-sunrise-tour-worth-it-delhi',
+    'is-same-day-sightseeing-tour-worth-it-delhi',
   ].map(slug => ({
     url: `${BASE_URL}/india/delhi/${slug}`,
     lastModified: new Date(),
