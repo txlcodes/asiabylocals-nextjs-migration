@@ -1959,6 +1959,8 @@ export const SIEM_REAP_INFO_SLUGS = [
     'is-koh-ker-birding-worth-it-siem-reap', 'is-monk-blessing-massage-worth-it-siem-reap',
     'is-sambor-prei-kuk-worth-it-siem-reap', 'is-jungle-temple-vintage-jeep-worth-it-siem-reap',
     'is-angkor-mountain-bike-tour-worth-it-siem-reap',
+    'is-apopo-rats-museum-tour-worth-it-siem-reap', 'is-ox-cart-ride-worth-it-siem-reap',
+    'is-spider-market-visit-worth-it-siem-reap', 'is-bamboo-train-sunset-bat-cave-worth-it-siem-reap',
 ];
 
 export const KRABI_INFO_SLUGS = [

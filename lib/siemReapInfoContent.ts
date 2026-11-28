@@ -2288,6 +2288,66 @@ export function getSiemReapInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-apopo-rats-museum-tour-worth-it-siem-reap":
+            return {
+                title: "Is the Kampong Phluk, Apopo Rats, and Museum Tour Worth It?",
+                description: "An honest look at the Siem Reap tour combining Kampong Phluk floating village with the Apopo mine-detection rats and a museum stop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely distinctive stop alongside the floating village — Apopo trains rats to detect landmines, a real and surprising part of Cambodia's post-war recovery, paired here with a museum visit that adds historical context.",
+                    tourCard: { slug: "kampong-phluk-apopo-rats-and-museum-tour", title: "Kampong Phluk, Apopo Rats, and Museum Tour", description: "A tour combining Kampong Phluk floating village with the Apopo mine-detection rats and a museum stop.", price: "From $273", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "The museum portion gives useful context on Cambodia's landmine history, making the Apopo rats stop more meaningful than seeing them cold." }
+                ],
+                faqs: [
+                    { q: "Is the Apopo rats and museum tour worth it in Siem Reap?", a: "Yes, for travelers wanting a genuinely distinctive stop on Cambodia's landmine-detection history alongside the floating village." }
+                ],
+            };
+
+        case "is-ox-cart-ride-worth-it-siem-reap":
+            return {
+                title: "Is the Traditional Ox-Cart Ride Tour Worth It in Siem Reap?",
+                description: "An honest look at Siem Reap's traditional ox-cart ride tour through the countryside.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for a genuinely slow, traditional way to see rural Cambodian life — ox carts were a primary mode of transport in the countryside for generations, and this ride gives a real sense of that pace, a sharp contrast to tuk-tuk temple hopping.",
+                    tourCard: { slug: "traditional-ox-cart-ride-tours", title: "Traditional Ox-Cart Ride Tours", description: "A traditional ox-cart ride tour through Siem Reap's countryside.", price: "From $202", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Set expectations for a genuinely slow pace — the appeal here is the traditional rhythm, not covering ground quickly." }
+                ],
+                faqs: [
+                    { q: "Is the traditional ox-cart ride tour worth it in Siem Reap?", a: "Yes, for travelers wanting a genuinely slow, traditional way to experience rural Cambodian life, distinct from tuk-tuk temple tours." }
+                ],
+            };
+
+        case "is-spider-market-visit-worth-it-siem-reap":
+            return {
+                title: "Is the Private Car Siem Reap to Phnom Penh with Spider Market Visit Worth It?",
+                description: "An honest look at the transfer from Siem Reap to Phnom Penh that includes a stop at Cambodia's famous spider market.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you're already making the Siem Reap to Phnom Penh journey and want a genuinely memorable stop along the way — the spider market in Skun sells fried tarantulas and other insects as local snacks, a distinctive, if not for everyone, roadside experience.",
+                    tourCard: { slug: "private-car-siem-reap-to-phnom-penh-with-spider", title: "Private Car Siem Reap to Phnom Penh with Spider Market Visit", description: "A private car transfer from Siem Reap to Phnom Penh with a stop at the spider market.", price: "From $259", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "You don't have to eat anything — browsing the market and taking photos is a perfectly valid way to experience the stop." }
+                ],
+                faqs: [
+                    { q: "Is the spider market stop worth it on the Siem Reap to Phnom Penh transfer?", a: "Yes, for travelers making the journey anyway and wanting a distinctive, memorable roadside stop along the way." }
+                ],
+            };
+
+        case "is-bamboo-train-sunset-bat-cave-worth-it-siem-reap":
+            return {
+                title: "Is the Private Tuk-Tuk Tour: Bamboo Train and Sunset Bat Cave Worth It?",
+                description: "An honest look at the private tuk-tuk tour combining the bamboo train with a sunset bat cave visit near Siem Reap.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want two genuinely novel experiences in one evening — the bamboo train is a quirky, improvised rail cart ride, and timing the day to end at a bat cave for sunset means watching thousands of bats emerge in a single dramatic swarm.",
+                    tourCard: { slug: "private-tuk-tuk-tour-bamboo-train-and-sunset-bat", title: "Private Tuk-Tuk Tour: Bamboo Train and Sunset Bat Cave", description: "A private tuk-tuk tour combining the bamboo train with a sunset bat cave visit.", price: "From $286", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Time your arrival at the bat cave carefully — the bats emerge in a short window around sunset, and missing it means missing the whole point of the stop." }
+                ],
+                faqs: [
+                    { q: "Is the bamboo train and sunset bat cave tour worth it in Siem Reap?", a: "Yes, for travelers wanting two genuinely novel, non-temple experiences combined into one memorable evening." }
+                ],
+            };
+
         default:
             return null;
     }
