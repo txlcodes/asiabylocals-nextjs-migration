@@ -3481,6 +3481,76 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-shamanism-retreat-worth-it-kathmandu":
+            return {
+                title: "Is the 1-Week Shamanism Retreat in Kathmandu Worth It?",
+                description: "An honest look at the 1-week shamanism retreat in Kathmandu, a deep dive into Nepali shamanic practices.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Worth it specifically for travelers with genuine spiritual or anthropological interest — this is a full week immersed in Nepali shamanic traditions, going far deeper than a one-off ceremony or blessing most tours offer.", tourCard: { slug: "1-week-shamanism-retreat-in-kathmandu", title: "1-Week Shamanism Retreat in Kathmandu", description: "A 1-week retreat immersed in Nepali shamanic practices in Kathmandu.", price: "From $2,630", duration: "1 week", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Go in with genuine openness and commitment — a week-long retreat rewards sincere engagement far more than casual curiosity." }
+                ],
+                faqs: [
+                    { q: "Is the 1-week shamanism retreat worth it in Kathmandu?", a: "Yes, for travelers with genuine spiritual interest wanting a deep, immersive week rather than a brief ceremony." }
+                ],
+            };
+
+        case "is-potter-led-class-bhaktapur-worth-it-kathmandu":
+            return {
+                title: "Is the Potter-Led Class & Bhaktapur Durbar Square Tour Worth It?",
+                description: "An honest look at the pottery class led by a local potter paired with a Bhaktapur Durbar Square tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine craft experience alongside heritage sightseeing — Bhaktapur is historically known for its pottery, and learning directly from a local potter gives real hands-on insight before exploring the Durbar Square itself.", tourCard: { slug: "kathmandu-potter-led-class-bhaktapur-durbar", title: "Kathmandu: Potter-Led Class & Bhaktapur Durbar Square Tour", description: "A pottery class led by a local potter paired with a Bhaktapur Durbar Square tour.", price: "From $2,600", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting dusty with clay, and ask if you can take your finished piece home." }
+                ],
+                faqs: [
+                    { q: "Is the potter-led class and Bhaktapur tour worth it in Kathmandu?", a: "Yes, for travelers wanting a genuine hands-on craft experience alongside Bhaktapur's heritage sightseeing." }
+                ],
+            };
+
+        case "is-kailash-mansarovar-yatra-worth-it-kathmandu":
+            return {
+                title: "Is the Kailash Mansarovar Yatra Tour with Kora Worth It from Kathmandu?",
+                description: "An honest look at the Kailash Mansarovar Yatra pilgrimage tour from Kathmandu, including the sacred Kora circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for pilgrims and travelers with genuine spiritual purpose — Mount Kailash is sacred across Hinduism, Buddhism, Jainism, and Bon, and this tour includes the Kora, the traditional circumambulation circuit around the mountain.", tourCard: { slug: "from-kathmandu-kailash-mansarovar-yatra-tour-with", title: "From Kathmandu: Kailash Mansarovar Yatra Tour with Kora 2025", description: "A Kailash Mansarovar Yatra pilgrimage tour from Kathmandu, including the Kora circuit.", price: "From $5,472", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely demanding high-altitude pilgrimage — consult your doctor about altitude sickness risk well before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Kailash Mansarovar Yatra worth it from Kathmandu?", a: "Yes, for pilgrims and travelers with genuine spiritual purpose, though it's a demanding high-altitude journey requiring real preparation." }
+                ],
+            };
+
+        case "is-bardiya-tiger-tracking-worth-it-kathmandu":
+            return {
+                title: "Is the Kathmandu 7-Day Bardiya Tiger Tracking with Naturalist Guide Worth It?",
+                description: "An honest look at the 7-day Bardiya National Park tiger tracking expedition with a naturalist guide from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for genuine wildlife enthusiasts — Bardiya National Park has a real, less-touristed tiger population compared to Chitwan, and a naturalist guide over 7 days gives far better odds of an actual sighting than a quick day safari elsewhere.", tourCard: { slug: "kathmandu-7-d-bardiya-tiger-tracking-with", title: "Kathmandu: 7-D Bardiya Tiger Tracking with Naturalist Guide", description: "A 7-day Bardiya National Park tiger tracking expedition with a naturalist guide.", price: "From $2,730", duration: "7 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Tiger sightings are never guaranteed even over a week, so go in valuing the broader wildlife and jungle experience, not just the tiger itself." }
+                ],
+                faqs: [
+                    { q: "Is the 7-day Bardiya tiger tracking expedition worth it from Kathmandu?", a: "Yes, for genuine wildlife enthusiasts wanting real odds at a tiger sighting in a less-touristed park than Chitwan." }
+                ],
+            };
+
+        case "is-mad-honey-hunting-ludi-worth-it-kathmandu":
+            return {
+                title: "Is the Ludi Village Mad Honey Hunting Experience Worth It?",
+                description: "An honest look at Ludi Village's mad honey hunting experience with lodging and meals included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to witness the actual harvesting rather than just tasting the honey — this takes you to Ludi Village to see traditional cliffside mad honey hunting firsthand, with lodging and meals included, a far deeper experience than a quick Kathmandu tasting session.", tourCard: { slug: "ludi-village-mad-honey-hunting-with-lodging-and", title: "Ludi Village; Mad Honey Hunting with Lodging and Meals", description: "A mad honey hunting experience in Ludi Village with lodging and meals included.", price: "From $2,648", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Mad honey has genuine psychoactive effects in large quantities — sample it carefully and in moderation if you try it." }
+                ],
+                faqs: [
+                    { q: "Is the Ludi Village mad honey hunting experience worth it?", a: "Yes, for travelers wanting to witness traditional cliffside honey hunting firsthand, a deeper experience than a quick tasting session in Kathmandu." }
+                ],
+            };
+
         default:
             return null;
     }

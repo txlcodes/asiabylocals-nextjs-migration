@@ -472,6 +472,9 @@ export const KATHMANDU_INFO_SLUGS = [
   'is-upper-dolpo-trek-worth-it-kathmandu', 'is-pikey-peak-motorbike-tour-worth-it-kathmandu',
   'is-manaslu-expedition-worth-it-kathmandu', 'is-rolwaling-valley-trek-worth-it-kathmandu',
   'is-manang-mountain-bike-worth-it-kathmandu', 'is-get-married-nepal-worth-it-kathmandu',
+  'is-shamanism-retreat-worth-it-kathmandu', 'is-potter-led-class-bhaktapur-worth-it-kathmandu',
+  'is-kailash-mansarovar-yatra-worth-it-kathmandu', 'is-bardiya-tiger-tracking-worth-it-kathmandu',
+  'is-mad-honey-hunting-ludi-worth-it-kathmandu',
 ];
 
 // Georgia launched 2026-11-16 with 1,024 live tours and zero authority pages.
