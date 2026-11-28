@@ -1926,6 +1926,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kimono-photoshoot-worth-it-osaka', 'is-forest-bathing-minoh-worth-it-osaka',
     'is-mount-koya-full-day-private-tour-worth-it-osaka', 'is-lake-biwa-sacred-island-floating-torii-worth-it-osaka',
     'is-seto-inland-3day-art-islands-worth-it-osaka', 'is-kumano-kodo-2day-hike-worth-it-osaka',
+    'is-wakayama-cat-train-worth-it-osaka', 'is-mt-inunaki-hiking-worth-it-osaka',
+    'is-hoshi-no-buranko-worth-it-osaka', 'is-itami-sake-tour-worth-it-osaka',
+    'is-nishinari-walking-tour-worth-it-osaka',
 ].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),

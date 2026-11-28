@@ -2456,6 +2456,111 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-wakayama-cat-train-worth-it-osaka":
+      return {
+        title: "Is the Wakayama Cat Train and Soy Sauce Factory Tour Worth It from Osaka?",
+        description: "An honest look at the Wakayama cat train and soy sauce factory day trip from Osaka, a quirky rural outing outside the city.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/wakayama-cat-train-and-soy-sauce-factory-guided-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wakayama's famous cat stationmaster and a visit to a genuine soy sauce factory make for a genuinely quirky, offbeat day trip that's a complete break from Osaka's castle and food-district sightseeing, worth it for travelers chasing something a little different.",
+            tourCard: { slug: "wakayama-cat-train-and-soy-sauce-factory-guided-tour-in-osaka", title: "Wakayama Cat Train and Soy Sauce Factory Guided Tour in Osaka", description: "A guided day trip to Wakayama's cat train and a soy sauce factory from Osaka.", price: "From $279", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/wakayama-cat-train-and-soy-sauce-factory-guided-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The cat stationmaster's appearances aren't guaranteed on any fixed schedule, so treat a sighting as a bonus rather than the main reason to go.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Wakayama cat train and soy sauce factory tour worth it from Osaka?", a: "Yes, for a genuinely quirky, offbeat day trip that's a complete change of pace from Osaka's usual city sightseeing." },
+        ],
+      };
+
+    case "is-mt-inunaki-hiking-worth-it-osaka":
+      return {
+        title: "Is the Mt. Inunaki Waterfall Hiking Tour Worth It near Osaka?",
+        description: "An honest look at the Mt. Inunaki Shugendo waterfall hiking tour near Kansai Airport, a mountain and waterfall escape close to Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/near-kix-mt-inunaki-shugendo-waterfall-hiking-guided-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mt. Inunaki's Shugendo mountain-ascetic trails and waterfalls give genuine hiking scenery within easy reach of Kansai Airport, a worthwhile nature escape for travelers with a layover or spare day who want real elevation and forest rather than more city streets.",
+            tourCard: { slug: "near-kix-mt-inunaki-shugendo-waterfall-hiking-guided-tour-in-osaka", title: "Near KIX: Mt. Inunaki Shugendo Waterfall Hiking Guided Tour", description: "A guided hiking tour of Mt. Inunaki's Shugendo trails and waterfalls near Osaka.", price: "From $280", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/near-kix-mt-inunaki-shugendo-waterfall-hiking-guided-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Its proximity to Kansai Airport makes this a genuinely convenient option for a last day before a flight, rather than needing a dedicated trip from central Osaka.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mt. Inunaki hiking tour worth it near Osaka?", a: "Yes, for genuine hiking and waterfall scenery conveniently close to Kansai Airport, a real nature escape from the city." },
+        ],
+      };
+
+    case "is-hoshi-no-buranko-worth-it-osaka":
+      return {
+        title: "Is Hoshi no Buranko Worth It as a Nature Escape from Osaka?",
+        description: "An honest look at Hoshi no Buranko, a suspension bridge and forest trail that's one of Osaka's lesser-known nature escapes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoshi-no-buranko-osaka-s-hidden-nature-escape-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hoshi no Buranko's suspension bridge and surrounding forest give a genuinely hidden nature escape that most visitors to Osaka never discover, worth it specifically for travelers wanting real greenery and quiet trails rather than another city attraction.",
+            tourCard: { slug: "hoshi-no-buranko-osaka-s-hidden-nature-escape-by-local-operator", title: "Hoshi no Buranko: Osaka's Hidden Nature Escape", description: "A guided visit to Hoshi no Buranko's suspension bridge and forest trails near Osaka.", price: "From $206", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/hoshi-no-buranko-osaka-s-hidden-nature-escape-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go on a clear day — the suspension bridge's forest views are the whole point, and they're genuinely diminished in fog or rain.",
+          },
+        ],
+        faqs: [
+          { q: "Is Hoshi no Buranko worth it as a nature escape from Osaka?", a: "Yes, for a genuinely hidden, little-visited nature spot with real greenery and quiet trails away from the city." },
+        ],
+      };
+
+    case "is-itami-sake-tour-worth-it-osaka":
+      return {
+        title: "Is the Itami Sake Tour Worth It near Osaka?",
+        description: "An honest look at the Itami sake tour, a visit to the historic town regarded as the birthplace of clear sake near Osaka.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/near-osaka-explore-itami-the-birthplace-of-clear-sake-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Itami is genuinely regarded as the birthplace of clear sake, and this tour gives real insight into sake history and brewing in the town where it began, a worthwhile detour for travelers with a genuine interest in Japanese drinking culture beyond a standard tasting.",
+            tourCard: { slug: "near-osaka-explore-itami-the-birthplace-of-clear-sake-by-local-operator", title: "Near Osaka: Explore Itami, the Birthplace of Clear Sake", description: "A guided tour of Itami, the historic birthplace of clear sake, near Osaka.", price: "From $212", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/near-osaka-explore-itami-the-birthplace-of-clear-sake-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with genuine curiosity about sake history, not just tasting — the historical context is a real part of what makes Itami distinctive.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Itami sake tour worth it near Osaka?", a: "Yes, for travelers with a genuine interest in sake history and brewing, visiting the town actually regarded as its birthplace." },
+        ],
+      };
+
+    case "is-nishinari-walking-tour-worth-it-osaka":
+      return {
+        title: "Is the Nishinari Walking Tour Worth It in Osaka?",
+        description: "An honest look at the off-the-beaten-path Nishinari walking tour, exploring one of Osaka's most unvarnished, least-touristed neighborhoods.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/off-the-beaten-path-nishinari-walking-tour-in-osaka/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Nishinari is a genuinely unvarnished, working-class district that most Osaka visitors never see, and this guided walk gives real context on a side of the city that contrasts sharply with Dotonbori's neon and tourist crowds, worth it for travelers wanting an honest, non-sanitized look at urban Japan.",
+            tourCard: { slug: "off-the-beaten-path-nishinari-walking-tour-in-osaka", title: "Off the Beaten Path Nishinari Walking Tour in Osaka", description: "A guided walking tour through Osaka's unvarnished Nishinari district.", price: "From $165", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/off-the-beaten-path-nishinari-walking-tour-in-osaka/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go with a genuinely open, respectful mindset — this is a real working-class neighborhood, not a curated attraction, and a knowledgeable local guide makes a real difference here.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Nishinari walking tour worth it in Osaka?", a: "Yes, for travelers wanting an honest, non-sanitized look at a side of Osaka that most visitors never see, with real local context from a guide." },
+        ],
+      };
+
     default:
             return null;
     }
