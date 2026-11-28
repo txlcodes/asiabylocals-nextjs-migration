@@ -1788,6 +1788,66 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-loa-loa-show-half-day-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Half-Day Tour with Loa Loa Show Worth It in Ho Chi Minh City?",
+        description: "An honest look at this half-day city tour covering the War Remnants Museum, Notre-Dame Cathedral, and the Central Post Office, paired with the Loa Loa show.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ho-chi-minh-city-half-day-with-loa-loa-show-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering the city's three signature landmarks and adding the Loa Loa show gives a broader half day than a plain walking tour, worth it for travelers who want the core sights plus a bit of local entertainment in one booking rather than arranging each separately.",
+            tourCard: { slug: "ho-chi-minh-city-half-day-with-loa-loa-show-by-local-operator", title: "Ho Chi Minh City Half Day with Loa Loa Show by Local Operator", description: "A half-day city tour of Ho Chi Minh City's landmarks paired with the Loa Loa show.", price: "From $52", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ho-chi-minh-city-half-day-with-loa-loa-show-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The War Remnants Museum section is genuinely heavy, pace yourself before moving on to the lighter show portion." },
+        ],
+        faqs: [
+          { q: "Is the half-day tour with Loa Loa show worth it in Ho Chi Minh City?", a: "Yes, for travelers who want the city's core landmarks plus local entertainment combined in one half-day booking." }
+        ],
+      };
+
+    case "is-green-oasis-bike-experience-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Half Day Green Oasis Bike Experience Worth It in Ho Chi Minh City?",
+        description: "An honest look at this guided mountain bike ride through the city's quieter green spaces, an active alternative to the usual Cu Chi Tunnels or Mekong Delta day trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/half-day-green-oasis-bike-experience-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Quality mountain bikes and properly fitted helmets make this a genuinely comfortable ride rather than a rough rental-bike outing, worth it for travelers who want an active half day close to the city instead of another long bus trip to the Delta or the tunnels.",
+            tourCard: { slug: "half-day-green-oasis-bike-experience-in-ho-chi-minh-city", title: "Half Day Green Oasis Bike Experience in Ho Chi Minh City", description: "A half-day guided mountain bike ride through Ho Chi Minh City's green spaces.", price: "From $57", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/half-day-green-oasis-bike-experience-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed-toe shoes and clothes you don't mind sweating in, this is a genuine ride, not a slow cruise." },
+        ],
+        faqs: [
+          { q: "Is the half day Green Oasis bike experience worth it in Ho Chi Minh City?", a: "Yes, for travelers who want an active half day close to the city rather than another long day trip to the Delta or tunnels." }
+        ],
+      };
+
+    case "is-landmark-81-skyview-dinner-cruise-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is Landmark 81 SkyView and Dinner Cruise Worth It in Ho Chi Minh City?",
+        description: "An honest look at this combo pairing a visit to Landmark 81's SkyView observation deck with a Saigon River dinner cruise.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/landmark-81-skyview-and-dinner-cruise-in-ha-long/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seeing the city skyline from Vietnam's tallest building before heading down to the river for dinner gives two genuinely different perspectives on Saigon in one evening, worth it for travelers who want both the aerial view and the waterfront atmosphere without booking them separately.",
+            tourCard: { slug: "landmark-81-skyview-and-dinner-cruise-in-ha-long", title: "Landmark 81 SkyView and Dinner Cruise", description: "A combo visit to Landmark 81's SkyView deck and a Saigon River dinner cruise.", price: "From $59", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/landmark-81-skyview-and-dinner-cruise-in-ha-long/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go up to the SkyView deck before sunset to catch the skyline in daylight and again as the lights come on." },
+        ],
+        faqs: [
+          { q: "Is Landmark 81 SkyView and dinner cruise worth it in Ho Chi Minh City?", a: "Yes, for travelers who want both the city's best skyline view and a riverfront evening in one combined booking." }
+        ],
+      };
+
     default:
       return null;
   }
