@@ -1236,6 +1236,51 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-day-trip-workshops-thai-costume-worth-it-pattaya":
+            return {
+                title: "Is the Pattaya Day Trip with Workshops and Thai Costume Worth It?",
+                description: "An honest look at the full-day Pattaya tour combining hands-on workshops and a Thai traditional costume experience.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-day-trip-with-workshops-and-thai-costume/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want hands-on craft activities and a genuine cultural costume moment rather than passive sightseeing — pairing local workshops with dressing in traditional Thai costume gives this full day real participatory variety.",
+                    tourCard: { slug: "pattaya-day-trip-with-workshops-and-thai-costume", title: "Pattaya Day Trip with Workshops and Thai Costume", description: "A full-day Pattaya tour combining hands-on workshops and a Thai traditional costume experience.", price: "From $359", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/pattaya-day-trip-with-workshops-and-thai-costume/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask in advance which specific workshops are included on your date, since offerings can vary." }
+                ],
+                faqs: [
+                    { q: "Is the day trip with workshops and Thai costume worth it in Pattaya?", a: "Yes, for travelers wanting hands-on craft activities and a genuine cultural costume experience in one day." }
+                ],
+            };
+
+        case "is-samae-san-island-snorkeling-kayak-worth-it-pattaya":
+            return {
+                title: "Is the Samae San Island Snorkeling and Kayak Tour Worth It in Pattaya?",
+                description: "An honest look at the full-day Samae San Island snorkeling and kayak tour from Pattaya.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/samae-san-island-snorkeling-and-kayak-tour-in-pattaya/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quieter island alternative to Pattaya's busier Koh Larn — Samae San is a genuinely less-crowded destination, and combining snorkeling with kayaking gives real activity variety across the full day.",
+                    tourCard: { slug: "samae-san-island-snorkeling-and-kayak-tour-in-pattaya", title: "Samae San Island Snorkeling and Kayak Tour in Pattaya", description: "A full-day Samae San Island snorkeling and kayak tour from Pattaya.", price: "From $214", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/samae-san-island-snorkeling-and-kayak-tour-in-pattaya/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Samae San is a Thai Navy-controlled area with limited daily access, so book in advance to secure a spot." }
+                ],
+                faqs: [
+                    { q: "Is the Samae San Island snorkeling and kayak tour worth it in Pattaya?", a: "Yes, for travelers wanting a quieter island alternative to Koh Larn with genuine activity variety." }
+                ],
+            };
+
+        case "is-five-island-jet-ski-safari-worth-it-pattaya":
+            return {
+                title: "Is the Five-Island Jet Ski Safari from Pattaya Worth It?",
+                description: "An honest look at the guided self-drive jet ski safari hopping between five islands from Jomtien Beach, Pattaya.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098889/asiabylocals/tours/pattaya-premium-5-islands-jet-ski-adventure-2h-4h-tours/hq_tour_img_1.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to actually drive rather than ride along — riding your own jet ski on a guided open-sea safari between five islands and coastal landmarks gives genuine control and adrenaline that a standard boat tour can't match.",
+                    tourCard: { slug: "jomtien-beach-premium-tour", title: "Five-Island Jet Ski Safari from Pattaya: Premium Guided Ride", description: "A guided self-drive jet ski safari hopping between five islands from Jomtien Beach, Pattaya.", price: "From $250", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1786098889/asiabylocals/tours/pattaya-premium-5-islands-jet-ski-adventure-2h-4h-tours/hq_tour_img_1.png" } },
+                    { title: "Practical Tips", content: "Choose the 4-hour format if you want real time at each island stop rather than rushing between them on the shorter 2-hour option." }
+                ],
+                faqs: [
+                    { q: "Is the five-island jet ski safari worth it from Pattaya?", a: "Yes, for travelers wanting genuine self-drive control and adrenaline across five islands rather than a standard boat tour." }
+                ],
+            };
+
         default:
             return null;
     }

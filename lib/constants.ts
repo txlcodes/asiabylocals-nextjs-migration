@@ -1935,6 +1935,8 @@ export const PATTAYA_INFO_SLUGS = [
   'is-panpuri-wellness-spa-andaz-worth-it-pattaya', 'is-luxury-yacht-premium-lunch-worth-it-pattaya',
   'is-frost-ice-of-siam-worth-it-pattaya', 'is-candy-wonderland-sheep-farm-worth-it-pattaya',
   'is-orbit-restaurant-space-worth-it-pattaya', 'is-6996-show-worth-it-pattaya',
+  'is-day-trip-workshops-thai-costume-worth-it-pattaya', 'is-samae-san-island-snorkeling-kayak-worth-it-pattaya',
+  'is-five-island-jet-ski-safari-worth-it-pattaya',
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.
