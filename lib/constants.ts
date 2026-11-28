@@ -2953,6 +2953,8 @@ export const DUBAI_INFO_SLUGS = [
   'is-cabriolet-convertible-tour-worth-it-dubai', 'is-elite-tour-sky-pool-shopping-worth-it-dubai',
   'is-dinner-in-the-sky-worth-it-dubai', 'is-mleiha-dinner-dunes-worth-it-dubai',
   'is-efoil-experience-worth-it-dubai', 'is-sunseeker-omakase-dinner-cruise-worth-it-dubai',
+  'is-fairmont-the-palm-day-pass-worth-it-dubai', 'is-private-deep-sea-fishing-catch-grilled-worth-it-dubai',
+  'is-jet-car-experience-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.
@@ -2985,6 +2987,7 @@ export const ABU_DHABI_INFO_SLUGS = [
   'is-hummer-safari-worth-it-abu-dhabi', 'is-street-food-tastings-worth-it-abu-dhabi',
   'is-catamaran-corniche-cruise-worth-it-abu-dhabi', 'is-fujairah-turtle-snorkeling-worth-it-abu-dhabi',
   'is-dune-buggy-adventure-worth-it-abu-dhabi',
+  'is-padi-basic-scuba-diver-course-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)

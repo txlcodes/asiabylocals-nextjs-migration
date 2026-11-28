@@ -2353,7 +2353,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-loco-bear-experience-worth-it-dubai', 'is-clay-dine-couples-family-worth-it-dubai',
     'is-cabriolet-convertible-tour-worth-it-dubai', 'is-elite-tour-sky-pool-shopping-worth-it-dubai',
     'is-dinner-in-the-sky-worth-it-dubai', 'is-mleiha-dinner-dunes-worth-it-dubai',
-    'is-efoil-experience-worth-it-dubai', 'is-sunseeker-omakase-dinner-cruise-worth-it-dubai'].map(slug => ({
+    'is-efoil-experience-worth-it-dubai', 'is-sunseeker-omakase-dinner-cruise-worth-it-dubai',
+    'is-fairmont-the-palm-day-pass-worth-it-dubai', 'is-private-deep-sea-fishing-catch-grilled-worth-it-dubai',
+    'is-jet-car-experience-worth-it-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -2388,7 +2390,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-catamaran-island-cruise-worth-it-abu-dhabi', 'is-4day-uae-cultural-journey-worth-it-abu-dhabi',
     'is-hummer-safari-worth-it-abu-dhabi', 'is-street-food-tastings-worth-it-abu-dhabi',
     'is-catamaran-corniche-cruise-worth-it-abu-dhabi', 'is-fujairah-turtle-snorkeling-worth-it-abu-dhabi',
-    'is-dune-buggy-adventure-worth-it-abu-dhabi'].map(slug => ({
+    'is-dune-buggy-adventure-worth-it-abu-dhabi', 'is-padi-basic-scuba-diver-course-worth-it-abu-dhabi'].map(slug => ({
     url: `${BASE_URL}/uae/abu-dhabi/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

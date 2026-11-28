@@ -2075,6 +2075,68 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-fairmont-the-palm-day-pass-worth-it-dubai":
+      return {
+        title: "Is the Fairmont The Palm Day Pass with GMC Yukon Transfer Worth It in Dubai?",
+        description: "An honest look at the half-day Fairmont The Palm day pass with private GMC Yukon transfer in Dubai.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want resort-quality pools and beach access without booking a room — a day pass at Fairmont The Palm gets you the same facilities as overnight guests, and the private transfer removes the hassle of getting to Palm Jumeirah on your own.",
+            tourCard: { slug: "dubai-fairmont-the-palm-day-pass-with-gmc-yukon", title: "Dubai: Fairmont The Palm Day Pass with GMC Yukon Transfer", description: "A half-day Fairmont The Palm day pass with private GMC Yukon transfer in Dubai.", price: "From $576", duration: "6 hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm exactly which pools, beach areas, and food credits are included in your specific pass before booking, since resort day pass inclusions vary by date and season.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Fairmont The Palm day pass worth it in Dubai?", a: "Yes, for travelers wanting resort-quality pool and beach access on Palm Jumeirah without booking an overnight stay." },
+        ],
+      };
+
+    case "is-private-deep-sea-fishing-catch-grilled-worth-it-dubai":
+      return {
+        title: "Is the Private Deep Sea Fishing Trip with Your Catch Grilled Worth It in Dubai?",
+        description: "An honest look at the private deep sea fishing trip off the Dubai coast, with your catch grilled afterward.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine fishing trip rather than a scenic boat ride — having the whole vessel, crew, and rods to your group means real casting time in the Gulf, and finishing with your own catch grilled makes the day feel complete.",
+            tourCard: { slug: "dubai-private-deep-sea-fishing-trip-with-your-catch-grilled", title: "Dubai: Private Deep Sea Fishing Trip with Your Catch Grilled", description: "A private deep sea fishing trip off the Dubai coast, with your catch grilled afterward.", price: "From $566", duration: "Flexible", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Catches aren't guaranteed on any fishing trip, so go in treating the boat time and crew experience as the main value, with the grilled catch as a bonus.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private deep sea fishing trip with catch grilled worth it in Dubai?", a: "Yes, for travelers wanting a genuine fishing experience with the full boat and crew to themselves, finished off with their own catch grilled." },
+        ],
+      };
+
+    case "is-jet-car-experience-worth-it-dubai":
+      return {
+        title: "Is the Jet Car Experience Worth It in Dubai?",
+        description: "An honest look at Dubai's 20-minute jet car experience at Umm Suqeim.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, as a short, high-adrenaline novelty rather than a full day on the water — a jet car combines the speed of a jet ski with a seated, car-like ride, and 20 minutes is enough to feel the thrill without a major time or cost commitment.",
+            tourCard: { slug: "dubai-jet-car-experience-with-private-transfers", title: "Dubai: Jet Car Experience with Private Transfers", description: "A 20-minute jet car experience at Umm Suqeim in Dubai with private transfers.", price: "From $484", duration: "20 minutes", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Treat this as a quick adrenaline add-on to your day rather than a standalone outing, given the short time on the water." },
+        ],
+        faqs: [
+          { q: "Is the jet car experience worth it in Dubai?", a: "Yes, as a short, high-adrenaline novelty on the water, best added onto a fuller day rather than booked alone." },
+        ],
+      };
+
     default:
       return null;
   }

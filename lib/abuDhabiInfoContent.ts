@@ -1140,6 +1140,27 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-padi-basic-scuba-diver-course-worth-it-abu-dhabi":
+      return {
+        title: "Is the PADI Basic Scuba Diver Course Worth It in Abu Dhabi?",
+        description: "An honest look at the half-day PADI Basic Scuba Diver course in Abu Dhabi, no prior experience needed.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-468507/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you're curious about scuba diving but not ready to commit to a full certification — the PADI Basic Diver course is a genuine first step, teaching real diving skills under supervision in a single half-day, distinct from the multi-day Advanced Open Water course offered elsewhere in Abu Dhabi.",
+            tourCard: { slug: "abu-dhabi-padi-basic-scuba-diver-course", title: "Abu Dhabi: PADI Basic Scuba Diver Course", description: "A half-day PADI Basic Scuba Diver course in Abu Dhabi, no prior experience needed.", price: "From $576", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-468507/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This course doesn't grant a full certification, so ask your instructor about the path to upgrade later if you enjoy it and want to keep diving.",
+          },
+        ],
+        faqs: [
+          { q: "Is the PADI Basic Scuba Diver course worth it in Abu Dhabi?", a: "Yes, for complete beginners wanting a genuine, low-commitment introduction to real scuba diving skills in a single half-day." },
+        ],
+      };
+
     default:
       return null;
   }
