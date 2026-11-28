@@ -2436,6 +2436,8 @@ export const SIGIRIYA_INFO_SLUGS = [
   'is-tree-house-stay-safari-worth-it-sigiriya', 'is-kantale-lake-kayaking-worth-it-sigiriya',
   'is-wasgamuwa-safari-worth-it-sigiriya', 'is-elahera-gem-mining-worth-it-sigiriya',
   'is-night-jeep-safari-wildcat-worth-it-sigiriya',
+  'is-kalawewa-elephant-safari-worth-it-sigiriya', 'is-countryside-jeep-tour-viewpoints-villages-worth-it-sigiriya',
+  'is-nuwara-eliya-day-trip-tea-factory-worth-it-sigiriya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kandyInfoContent.ts.

@@ -1606,6 +1606,66 @@ export function getSigiriyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kalawewa-elephant-safari-worth-it-sigiriya":
+      return {
+        title: "Is the Kalawewa National Park Elephant Safari Worth It from Sigiriya?",
+        description: "An honest look at the Kalawewa elephant safari, a quieter alternative to Minneriya and Kaudulla for seeing wild elephants near Sigiriya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1341003/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kalawewa gets a fraction of the jeep traffic that piles into Minneriya and Kaudulla during the dry season, so you trade a small chance of fewer elephants for a far calmer, less crowded safari, worth it for travelers who'd rather have space than guaranteed herd size.",
+            tourCard: { slug: "sigiriya-kalawewa-national-park-elephant-safari", title: "Sigiriya: Kalawewa National Park Elephant Safari & Pickup", description: "A half-day elephant safari in the quieter Kalawewa National Park near Sigiriya.", price: "From $186", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1341003/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go early morning when elephants are most active near the reservoir before the day heats up." },
+        ],
+        faqs: [
+          { q: "Is the Kalawewa elephant safari worth it from Sigiriya?", a: "Yes, for travelers who prefer a quieter park over the crowded jeep convoys at Minneriya and Kaudulla." }
+        ],
+      };
+
+    case "is-countryside-jeep-tour-viewpoints-villages-worth-it-sigiriya":
+      return {
+        title: "Is the Countryside Jeep Tour with Viewpoints & Villages Worth It from Sigiriya?",
+        description: "An honest look at the countryside jeep tour, a full-day ride through rural villages and lookout points away from Sigiriya's usual wildlife safaris.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1201821/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour swaps elephants and leopards for everyday village life and scenic viewpoints, worth it for travelers who've already done a wildlife safari and want to see how people actually live around Sigiriya instead.",
+            tourCard: { slug: "sigiriya-countryside-jeep-tour-with-viewpoints", title: "Sigiriya: Countryside Jeep Tour with Viewpoints & Villages", description: "A full-day jeep tour through rural villages and scenic viewpoints near Sigiriya.", price: "From $240", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1201821/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable shoes — most village stops involve walking on uneven dirt paths." },
+        ],
+        faqs: [
+          { q: "Is the countryside jeep tour with viewpoints and villages worth it from Sigiriya?", a: "Yes, for travelers who want rural village life and scenic viewpoints rather than another wildlife safari." }
+        ],
+      };
+
+    case "is-nuwara-eliya-day-trip-tea-factory-worth-it-sigiriya":
+      return {
+        title: "Is the Nuwara Eliya Day Trip with Tea Factory Visit Worth It from Sigiriya?",
+        description: "An honest look at the long day trip to Nuwara Eliya and Kandy from Sigiriya, covering tea country, botanic gardens, and waterfalls in a single day.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1142429/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely long day, covering the Royal Botanic Gardens, Kandy, a tea factory, and Ramboda Falls in one 10-hour round trip, worth it only for travelers short on time who won't otherwise get to the hill country, not for anyone who can instead stay a night in Nuwara Eliya itself.",
+            tourCard: { slug: "sigiriya-nuwara-eliya-day-trip-with-tea-factory", title: "Sigiriya: Nuwara Eliya Day Trip with Tea Factory Visit", description: "A full-day trip from Sigiriya to Nuwara Eliya and Kandy, with a tea factory visit and waterfalls.", price: "From $229", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1142429/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a jacket — Nuwara Eliya's hill-country climate is noticeably colder than Sigiriya's lowland heat." },
+        ],
+        faqs: [
+          { q: "Is the Nuwara Eliya day trip with tea factory visit worth it from Sigiriya?", a: "Yes, but only for travelers tight on time, since it's a long single day covering ground better split over an overnight stay." }
+        ],
+      };
+
     default:
       return null;
   }

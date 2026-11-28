@@ -2631,6 +2631,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-tree-house-stay-safari-worth-it-sigiriya', 'is-kantale-lake-kayaking-worth-it-sigiriya',
     'is-wasgamuwa-safari-worth-it-sigiriya', 'is-elahera-gem-mining-worth-it-sigiriya',
     'is-night-jeep-safari-wildcat-worth-it-sigiriya',
+    'is-kalawewa-elephant-safari-worth-it-sigiriya', 'is-countryside-jeep-tour-viewpoints-villages-worth-it-sigiriya',
+    'is-nuwara-eliya-day-trip-tea-factory-worth-it-sigiriya',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/sigiriya/${slug}`,
     lastModified: new Date(),
