@@ -2290,6 +2290,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-timurid-blue-mosaic-workshop-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Timurid Blue Mosaic Art Workshop Worth It?",
+                description: "An honest look at Samarkand's hands-on Timurid blue mosaic art workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine hands-on insight into the craft behind Samarkand's famous turquoise-domed architecture — this workshop teaches the Timurid-era mosaic techniques used on the city's monuments, rather than just admiring the finished tilework from outside.", tourCard: { slug: "samarkand-timurid-blue-mosaic-art-workshop", title: "Samarkand: Timurid Blue Mosaic Art Workshop", description: "A hands-on Timurid blue mosaic art workshop in Samarkand.", price: "From $143", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Do this after visiting the Registan or Shah-i-Zinda — seeing the real monuments first makes the craft lesson far more meaningful." }
+                ],
+                faqs: [
+                    { q: "Is the Timurid blue mosaic workshop worth it in Samarkand?", a: "Yes, for travelers wanting genuine hands-on insight into the craft behind the city's famous turquoise-domed architecture." }
+                ],
+            };
+
+        case "is-copper-plate-engraving-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Hands-On Copper Plate Engraving Workshop Worth It?",
+                description: "An honest look at Samarkand's hands-on copper plate engraving workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting a genuinely distinctive metal craft tradition — copper engraving is a less commonly offered workshop than Samarkand's usual ceramics or embroidery classes, giving a real functional or decorative piece you made yourself.", tourCard: { slug: "samarkand-hands-on-copper-plate-engraving-workshop", title: "Samarkand: Hands-On Copper Plate Engraving Workshop", description: "A hands-on copper plate engraving workshop in Samarkand.", price: "From $124", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Expect genuine hands-on tool work with metal — allow extra time if you want a more intricate design." }
+                ],
+                faqs: [
+                    { q: "Is the copper plate engraving workshop worth it in Samarkand?", a: "Yes, for travelers wanting a genuinely distinctive metal craft tradition, beyond the city's more common ceramics or embroidery classes." }
+                ],
+            };
+
+        case "is-folk-figurine-painting-worth-it-samarkand":
+            return {
+                title: "Is Paint Your Own Traditional Uzbek Folk Figurine Worth It in Samarkand?",
+                description: "An honest look at Samarkand's hands-on workshop painting a traditional Uzbek folk figurine.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for a genuinely relaxed, creative activity suited to all ages — this lets you paint your own traditional Uzbek folk figurine, a simpler and more accessible craft than pottery or metalwork, with a colorful souvenir to take home.", tourCard: { slug: "samarkand-paint-your-own-traditional-uzbek-folk", title: "Samarkand: Paint Your Own Traditional Uzbek Folk Figurine", description: "A hands-on workshop painting a traditional Uzbek folk figurine in Samarkand.", price: "From $111", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "A genuinely good pick for families with kids, since painting is simpler and more accessible than other craft workshops in the city." }
+                ],
+                faqs: [
+                    { q: "Is painting a traditional Uzbek folk figurine worth it in Samarkand?", a: "Yes, for travelers of all ages wanting a relaxed, accessible craft activity with a colorful take-home souvenir." }
+                ],
+            };
+
+        case "is-iraqi-style-embroidery-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Traditional Iraqi-Style Embroidery Workshop Worth It?",
+                description: "An honest look at Samarkand's hands-on Iraqi-style embroidery workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting a genuinely different embroidery tradition than Uzbekistan's own Suzani style — Iraqi-style embroidery brings a distinct regional technique and pattern language, a less commonly offered craft lesson in Samarkand.", tourCard: { slug: "samarkand-traditional-iraqi-style-embroidery", title: "Samarkand: Traditional Iraqi-Style Embroidery Workshop", description: "A hands-on Iraqi-style embroidery workshop in Samarkand.", price: "From $111", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Ask your instructor to explain how this technique differs from Uzbek Suzani embroidery — the comparison genuinely adds to the lesson." }
+                ],
+                faqs: [
+                    { q: "Is the Iraqi-style embroidery workshop worth it in Samarkand?", a: "Yes, for travelers wanting to learn a genuinely distinct regional embroidery tradition, different from Uzbekistan's own Suzani style." }
+                ],
+            };
+
         default:
             return null;
     }

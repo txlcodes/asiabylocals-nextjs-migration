@@ -593,6 +593,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-hazrat-daud-cave-horse-worth-it-samarkand', 'is-baguizagan-wine-tour-worth-it-samarkand',
     'is-flying-dress-photoshoot-worth-it-samarkand', 'is-japanese-guide-tour-worth-it-samarkand',
     'is-spanish-guide-night-tour-worth-it-samarkand', 'is-local-family-suzani-food-worth-it-samarkand',
+    'is-timurid-blue-mosaic-workshop-worth-it-samarkand', 'is-copper-plate-engraving-worth-it-samarkand',
+    'is-folk-figurine-painting-worth-it-samarkand', 'is-iraqi-style-embroidery-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),
