@@ -1279,6 +1279,111 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ky-anh-tunnel-cham-tower-worth-it-hoi-an":
+      return {
+        title: "Is the Ky Anh Tunnel and Cham Tower Vietnam War Tour Worth It from Hoi An?",
+        description: "An honest look at the Ky Anh Tunnel and Cham Tower private Vietnam War tour from Hoi An.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201838/asiabylocals/tours/ky-anh-tunnel-and-cham-tower-vietnam-war-tour-by-private-in-hoi-an/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting the Ky Anh tunnel system alongside a Cham tower gives a genuine mix of recent war history and ancient Cham heritage in one private tour, worth it for travelers wanting historical depth beyond Hoi An's Old Town and My Son circuit.",
+            tourCard: { slug: "ky-anh-tunnel-and-cham-tower-vietnam-war-tour-by-private-in-hoi-an", title: "Ky Anh Tunnel and Cham Tower: Vietnam War Tour by Private", description: "A private tour of the Ky Anh tunnel system and a Cham tower from Hoi An.", price: "From $140", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201838/asiabylocals/tours/ky-anh-tunnel-and-cham-tower-vietnam-war-tour-by-private-in-hoi-an/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a flashlight for the tunnel system, since lighting inside is genuinely limited compared to more developed war history sites.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ky Anh Tunnel and Cham Tower tour worth it from Hoi An?", a: "Yes, for travelers wanting genuine historical depth combining recent war history with ancient Cham heritage, beyond the usual Old Town and My Son circuit." },
+        ],
+      };
+
+    case "is-handicraft-wood-carving-workshop-worth-it-hoi-an":
+      return {
+        title: "Is the Hoi An Statue Wood Carving Workshop Worth It?",
+        description: "An honest look at Hoi An's handicraft workshop focused on statue wood carving.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-handicraft-workshop-statue-wood-carving-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Hoi An's wood carving tradition runs genuinely deep, and this workshop gives real hands-on exposure to statue carving technique rather than just shopping finished pieces, worth it for travelers wanting a tangible craft souvenir they made themselves.",
+            tourCard: { slug: "hoi-an-handicraft-workshop-statue-wood-carving-by-local-operator", title: "Hoi An Handicraft Workshop: Statue Wood Carving", description: "A hands-on statue wood carving workshop in Hoi An.", price: "From $166", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hoi-an-handicraft-workshop-statue-wood-carving-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior carving experience is needed — instructors genuinely guide beginners through manageable, simplified pieces.",
+          },
+        ],
+        faqs: [
+          { q: "Is the statue wood carving workshop worth it in Hoi An?", a: "Yes, for a genuinely hands-on take on the city's deep wood carving tradition, leaving you with a real souvenir you made yourself." },
+        ],
+      };
+
+    case "is-thanh-ha-pottery-kim-bong-worth-it-hoi-an":
+      return {
+        title: "Is the Thanh Ha Pottery and Kim Bong Carpentry Villages Tour Worth It?",
+        description: "An honest look at the half-day Thanh Ha Pottery and Kim Bong Carpentry villages tour near Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/half-day-thanh-ha-pottery-and-kim-bong-carpentry-villages-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Visiting both a pottery village and a carpentry village in one half-day gives genuine hands-on exposure to two distinct traditional crafts, worth it for travelers wanting cultural depth beyond Hoi An's Old Town lantern-lined streets.",
+            tourCard: { slug: "half-day-thanh-ha-pottery-and-kim-bong-carpentry-villages-in-hoi-an", title: "Half Day Thanh Ha Pottery and Kim Bong Carpentry Villages", description: "A half-day tour of Thanh Ha Pottery Village and Kim Bong Carpentry Village near Hoi An.", price: "From $151", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/half-day-thanh-ha-pottery-and-kim-bong-carpentry-villages-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pick up a small pottery piece directly from the village — genuine local purchases support the artisans more than souvenir shops do.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Thanh Ha Pottery and Kim Bong Carpentry villages tour worth it?", a: "Yes, for travelers wanting genuine hands-on exposure to two distinct traditional crafts, beyond Hoi An's Old Town streets." },
+        ],
+      };
+
+    case "is-cham-islands-scuba-diving-worth-it-hoi-an":
+      return {
+        title: "Is the Cham Islands Scuba Diving Experience Worth It from Hoi An?",
+        description: "An honest look at the Cham Islands scuba diving experience with divemaster options from Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cham-islands-scuba-diving-experience-with-2-divemaster-opts-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Cham Islands offer genuinely some of central Vietnam's best diving conditions, and having divemaster options means both beginners and certified divers can book the right level of experience, worth it for travelers wanting real underwater exploration rather than just snorkeling.",
+            tourCard: { slug: "cham-islands-scuba-diving-experience-with-2-divemaster-opts-hoi-an", title: "Cham Islands: Scuba Diving Experience with 2 Divemaster Options", description: "A scuba diving experience at the Cham Islands with divemaster options from Hoi An.", price: "From $168", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/cham-islands-scuba-diving-experience-with-2-divemaster-opts-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm which divemaster option suits your certification level before booking, since options genuinely differ for beginners versus certified divers.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cham Islands scuba diving experience worth it from Hoi An?", a: "Yes, for travelers wanting genuine underwater exploration at some of central Vietnam's best diving conditions, beyond just snorkeling." },
+        ],
+      };
+
+    case "is-south-hoi-an-river-safari-worth-it-hoi-an":
+      return {
+        title: "Is the South Hoi An River Safari and Beach Dinner Worth It?",
+        description: "An honest look at the South Hoi An river safari combined with a beach dinner.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201686/asiabylocals/tours/south-hoi-an-river-safari-and-beach-dinner-hoi-an/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a river safari through the less-visited southern waterways with a beach dinner gives a genuinely relaxed, scenic day-to-evening combination, worth it for travelers wanting both nature and a proper sunset meal in one booking.",
+            tourCard: { slug: "south-hoi-an-river-safari-and-beach-dinner-hoi-an", title: "South Hoi An River Safari and Beach Dinner", description: "A river safari through South Hoi An combined with a beach dinner.", price: "From $346", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201686/asiabylocals/tours/south-hoi-an-river-safari-and-beach-dinner-hoi-an/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the sunset time slot if possible, since the beach dinner's lighting genuinely makes the evening feel more special.",
+          },
+        ],
+        faqs: [
+          { q: "Is the South Hoi An river safari and beach dinner worth it?", a: "Yes, for travelers wanting a genuinely relaxed combination of nature and a proper sunset meal in one booking." },
+        ],
+      };
+
     default:
       return null;
   }
