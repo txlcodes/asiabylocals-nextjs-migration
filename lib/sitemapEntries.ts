@@ -1558,6 +1558,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-surin-islands-snorkeling-worth-it-phuket', 'is-horseback-riding-ao-chalong-worth-it-phuket',
     'is-ma-doo-bua-drone-photos-worth-it-phuket', 'is-bamboo-rafting-turtle-center-worth-it-phuket',
     'is-kapong-tubing-worth-it-phuket',
+    'is-paramotor-paragliding-tsa-worth-it-phuket', 'is-floating-raft-house-cheow-lan-worth-it-phuket',
+    'is-elite-similan-islands-yacht-worth-it-phuket', 'is-james-bond-sea-cave-canoeing-worth-it-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),

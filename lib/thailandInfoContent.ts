@@ -2259,6 +2259,66 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-paramotor-paragliding-tsa-worth-it-phuket":
+            return {
+                title: "Is the Phuket Paramotor or Paragliding Adventure by TSA Thailand Worth It?",
+                description: "An honest look at Phuket's paramotor and paragliding adventures run by TSA Thailand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting a genuine aerial adrenaline rush over Phuket's coastline — paramotoring (powered paragliding) gives you more control and flight time than a towed parasail, and TSA Thailand runs both paramotor and traditional paragliding options.",
+                    tourCard: { slug: "phuket-paramotor-adventure-by-tsa-thailand-by-local-operator", title: "Phuket Paramotor Adventure by TSA Thailand by Local Operator", description: "A paramotor flight adventure over Phuket run by TSA Thailand.", price: "From $268", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Flights are weather-dependent, so keep your schedule flexible around the booked slot in case conditions push the flight." }
+                ],
+                faqs: [
+                    { q: "Is the Phuket paramotor or paragliding adventure worth it?", a: "Yes, for travelers wanting a genuine aerial adrenaline experience over Phuket's coastline, with real flight time rather than a brief towed parasail." }
+                ],
+            };
+
+        case "is-floating-raft-house-cheow-lan-worth-it-phuket":
+            return {
+                title: "Is the Overnight Floating Raft House at Cheow Lan Lake Worth It from Phuket?",
+                description: "An honest look at the overnight floating raft house stay on Cheow Lan Lake with a coral cave visit, from Phuket.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to actually sleep on the lake rather than just visit for a day — staying overnight in a floating raft house on Cheow Lan Lake's limestone-karst scenery, with a coral cave stop included, gives sunrise and sunset views most day-trippers never see.",
+                    tourCard: { slug: "overnight-floating-raft-house-cheow-lan-lake-and-coral-cave-in-phuket", title: "Overnight Floating Raft House Cheow Lan Lake and Coral Cave in Phuket", description: "An overnight stay in a floating raft house on Cheow Lan Lake with a coral cave visit, from Phuket.", price: "From $229", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Raft house accommodation is genuinely basic — pack for simple conditions rather than expecting hotel-level comfort." }
+                ],
+                faqs: [
+                    { q: "Is the overnight floating raft house at Cheow Lan Lake worth it from Phuket?", a: "Yes, for travelers wanting genuine sunrise and sunset views on the lake that day-trip-only visitors miss." }
+                ],
+            };
+
+        case "is-elite-similan-islands-yacht-worth-it-phuket":
+            return {
+                title: "Is the Elite Similan Islands Yacht Experience Worth It from Phuket?",
+                description: "An honest look at the Elite Similan Islands yacht experience from Phuket.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a premium, less crowded way to see the Similan Islands — this elite yacht experience trades the standard speedboat group tour for a more comfortable, exclusive vessel, worth it for travelers prioritizing comfort over budget.",
+                    tourCard: { slug: "the-elite-similan-islands-yacht-experience", title: "The Elite Similan Islands Yacht Experience", description: "A premium yacht experience to the Similan Islands from Phuket.", price: "From $228", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "The Similan Islands are only open seasonally (roughly November to April), so confirm the park is open before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Elite Similan Islands yacht experience worth it from Phuket?", a: "Yes, for travelers wanting a more comfortable, less crowded alternative to the standard speedboat group tour." }
+                ],
+            };
+
+        case "is-james-bond-sea-cave-canoeing-worth-it-phuket":
+            return {
+                title: "Is the James Bond Island by Big Boat with Sea Cave Canoeing Worth It?",
+                description: "An honest look at Phuket's James Bond Island tour by big boat with sea cave canoeing included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want the comfort of a bigger boat alongside the hands-on canoeing experience into Phang Nga Bay's sea caves — this combines a stable big-boat journey to James Bond Island with canoeing into the karst caves, rather than relying on a small longtail the whole way.",
+                    tourCard: { slug: "james-bond-island-by-big-boat-with-sea-cave-canoeing", title: "James Bond Island by Big Boat with Sea Cave Canoeing", description: "A James Bond Island tour by big boat including sea cave canoeing in Phang Nga Bay.", price: "From $155", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "The canoeing portion involves ducking through low cave entrances at certain tide levels, so follow your guide's timing closely." }
+                ],
+                faqs: [
+                    { q: "Is James Bond Island by big boat with sea cave canoeing worth it?", a: "Yes, for travelers wanting the comfort of a bigger boat combined with the hands-on sea cave canoeing experience." }
+                ],
+            };
+
         default:
             return null;
     }
