@@ -3008,6 +3008,8 @@ export const DUBAI_INFO_SLUGS = [
   'is-efoil-experience-worth-it-dubai', 'is-sunseeker-omakase-dinner-cruise-worth-it-dubai',
   'is-fairmont-the-palm-day-pass-worth-it-dubai', 'is-private-deep-sea-fishing-catch-grilled-worth-it-dubai',
   'is-jet-car-experience-worth-it-dubai',
+  'is-speedboat-scuba-diving-worth-it-dubai', 'is-family-friendly-citytour-worth-it-dubai',
+  'is-sonara-camp-sunset-dinner-worth-it-dubai', 'is-new-years-eve-megayacht-cruise-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

@@ -2137,6 +2137,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-speedboat-scuba-diving-worth-it-dubai":
+      return {
+        title: "Is the Speedboat Scuba Diving on UAE's Largest Diving Boat Worth It in Dubai?",
+        description: "An honest look at the half-day speedboat scuba diving trip on the UAE's largest diving boat from Dubai.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if boat size and stability matter to your diving comfort — operating from the UAE's largest diving boat gives genuinely more space and smoother conditions than smaller charter boats, worth it for divers who value comfort between dive sites.",
+            tourCard: { slug: "dubai-speedboat-scuba-diving-on-uaes-largest-divin", title: "Dubai: Speedboat Scuba Diving on UAE's Largest Diving Boat", description: "A half-day speedboat scuba diving trip on the UAE's largest diving boat from Dubai.", price: "From $507", duration: "4 hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your certification level in advance, since dive site selection depends on your experience and credentials.",
+          },
+        ],
+        faqs: [
+          { q: "Is the speedboat scuba diving trip worth it in Dubai?", a: "Yes, for divers wanting genuine comfort and space aboard the UAE's largest diving boat." },
+        ],
+      };
+
+    case "is-family-friendly-citytour-worth-it-dubai":
+      return {
+        title: "Is the Family Friendly Citytour with Sightseeing Highlights Worth It in Dubai?",
+        description: "An honest look at the half-day family-friendly Dubai city tour with sightseeing highlights and a Dubai Frame entry ticket.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you're traveling with kids and want a pace suited to the whole family — this tour is specifically structured as family-friendly, pairing city highlights with a complimentary Dubai Frame entry ticket included in the price.",
+            tourCard: { slug: "dubai-family-friendly-citytour-with-sightseeing-hi", title: "Dubai: Family Friendly Citytour with Sightseeing Highlights", description: "A half-day family-friendly Dubai city tour with sightseeing highlights and a Dubai Frame entry ticket.", price: "From $553", duration: "5 hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Dubai Frame entry ticket is included, so budget time in your schedule to actually use it rather than skipping past.",
+          },
+        ],
+        faqs: [
+          { q: "Is the family friendly city tour worth it in Dubai?", a: "Yes, for families wanting a kid-paced sightseeing day that includes a Dubai Frame entry ticket." },
+        ],
+      };
+
+    case "is-sonara-camp-sunset-dinner-worth-it-dubai":
+      return {
+        title: "Is the Sonara Camp Sunset and Dinner, Shows, and Activities Experience Worth It in Dubai?",
+        description: "An honest look at the half-day Sonara Camp desert sunset experience with a 3-course dinner, shows, and activities in Dubai.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely elevated desert evening beyond a standard safari camp — a 3-course Mediterranean and Middle Eastern dinner paired with shows and activities gives Sonara Camp real variety over a basic BBQ-and-show desert dinner.",
+            tourCard: { slug: "dubai-sonara-camp-sunset-and-dinner-shows-and-acti", title: "Dubai: Sonara Camp Sunset and Dinner, Shows, and Activities", description: "A half-day Sonara Camp desert sunset experience with a 3-course dinner, shows, and activities in Dubai.", price: "From $567", duration: "5.5 hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Arrive in time for sunset specifically — the desert light at that hour is a genuine highlight of the Sonara Camp experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sonara Camp sunset and dinner experience worth it in Dubai?", a: "Yes, for travelers wanting an elevated desert dinner evening with genuine variety over a standard BBQ safari camp." },
+        ],
+      };
+
+    case "is-new-years-eve-megayacht-cruise-worth-it-dubai":
+      return {
+        title: "Is the Dubai New Year's Eve Megayacht Cruise with Dinner and Fireworks Worth It?",
+        description: "An honest look at the New Year's Eve megayacht cruise with dinner, watching fireworks over the Burj Khalifa, Atlantis, and Palm from the water.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely unique vantage point on Dubai's most oversubscribed night — watching fireworks set off simultaneously over the Burj Khalifa, Atlantis, and the Palm from a megayacht gives perspective that land-based viewing spots simply can't match.",
+            tourCard: { slug: "dubai-new-years-eve-megayacht-cruise-with-dinner-and-fireworks", title: "Dubai New Year's Eve Megayacht Cruise with Dinner and Fireworks", description: "A New Year's Eve megayacht cruise with dinner, watching fireworks over the Burj Khalifa, Atlantis, and Palm from the water.", price: "From $532", duration: "Flexible", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book well in advance — this is genuinely one of the most oversubscribed nights of the year in Dubai, and yacht capacity sells out early.",
+          },
+        ],
+        faqs: [
+          { q: "Is the New Year's Eve megayacht cruise worth it in Dubai?", a: "Yes, for a genuinely unique vantage point watching fireworks over the Burj Khalifa, Atlantis, and Palm simultaneously from the water." },
+        ],
+      };
+
     default:
       return null;
   }
