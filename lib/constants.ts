@@ -289,6 +289,7 @@ export const PHUKET_INFO_SLUGS = [
   'is-elite-similan-islands-yacht-worth-it-phuket', 'is-james-bond-sea-cave-canoeing-worth-it-phuket',
   'is-german-guide-sightseeing-shopping-worth-it-phuket', 'is-similan-lazy-bird-program-worth-it-phuket',
   'is-sea-salt-lounge-dining-worth-it-phuket', 'is-carnival-magic-dinner-show-worth-it-phuket',
+  'is-tiger-safari-park-zipline-city-worth-it-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once
@@ -2038,6 +2039,8 @@ export const KRABI_INFO_SLUGS = [
   'is-german-guide-4-islands-tour-worth-it-krabi', 'is-dirt-bike-off-road-adventure-worth-it-krabi',
   'is-bannateen-batik-dessert-worth-it-krabi', 'is-kohklang-culture-cycling-worth-it-krabi',
   'is-beach-horse-ride-worth-it-krabi', 'is-jurassic-jungle-kayaking-klongroot-worth-it-krabi',
+  'is-free-diving-5-point-island-worth-it-krabi', 'is-game-fishing-french-spanish-guide-worth-it-krabi',
+  'is-atv-kayak-sunset-khao-thong-hill-worth-it-krabi',
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders

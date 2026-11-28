@@ -2454,6 +2454,21 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-tiger-safari-park-zipline-city-worth-it-phuket":
+            return {
+                title: "Is the Tiger Safari Park, Zipline and City Highlights Tour Worth It in Phuket?",
+                description: "An honest look at the full-day tour combining Tiger Safari Park, ziplining, and Phuket city highlights.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/tiger-safari-park-zipline-and-city-highlights-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a mix of close-up wildlife viewing, adrenaline, and sightseeing in a single day — pairing Tiger Safari Park with ziplining and a city highlights segment covers more ground than any one activity alone, with round-trip hotel pickup included.",
+                    tourCard: { slug: "tiger-safari-park-zipline-and-city-highlights-in-phuket", title: "Tiger Safari Park, Zipline and City Highlights in Phuket", description: "A full-day tour combining Tiger Safari Park, ziplining, and Phuket city highlights.", price: "From $380", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/tiger-safari-park-zipline-and-city-highlights-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask in advance about the tiger viewing setup (enclosure distance, interaction options) so expectations match what's actually offered." }
+                ],
+                faqs: [
+                    { q: "Is the Tiger Safari Park, zipline and city highlights tour worth it in Phuket?", a: "Yes, for travelers wanting wildlife viewing, adrenaline, and city sightseeing combined in a single day." }
+                ],
+            };
+
         case "is-bradbury-led-massage-worth-it-bangkok":
             return {
                 title: "Is Bradbury World's Noisiest LED Massage Experience Worth It in Bangkok?",

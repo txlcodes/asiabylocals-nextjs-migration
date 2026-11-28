@@ -1180,6 +1180,51 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-free-diving-5-point-island-worth-it-krabi":
+            return {
+                title: "Is the Private Free Diving 5-Point Island Experience Worth It in Krabi?",
+                description: "An honest look at the full-day private free diving experience across 5 points around Krabi's islands.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-free-diving-5-point-island-experience-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers specifically interested in free diving technique rather than scuba — covering 5 distinct dive points in one day with a professional local guide gives genuine variety in depth and marine scenery around Krabi's islands.",
+                    tourCard: { slug: "private-free-diving-5-point-island-experience-in-krabi", title: "Private Free Diving 5-Point Island Experience in Krabi", description: "A full-day private free diving experience across 5 points around Krabi's islands.", price: "From $505", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-free-diving-5-point-island-experience-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is aimed at travelers genuinely interested in free diving technique, not casual snorkelers — ask about the skill level expected before booking." }
+                ],
+                faqs: [
+                    { q: "Is the free diving 5-point island experience worth it in Krabi?", a: "Yes, for travelers specifically interested in free diving technique across multiple island dive points in one day." }
+                ],
+            };
+
+        case "is-game-fishing-french-spanish-guide-worth-it-krabi":
+            return {
+                title: "Is Game Fishing by French and Spanish Guide Worth It in Krabi?",
+                description: "An honest look at the full-day game fishing trip in Krabi with a French- and Spanish-speaking guide.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/game-fishing-by-french-and-spanish-guide-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, specifically for French- or Spanish-speaking travelers who want to fish without a language barrier — this full-day trip removes the usual communication gap with the guide, letting you focus on the fishing itself.",
+                    tourCard: { slug: "game-fishing-by-french-and-spanish-guide-in-krabi", title: "Game Fishing by French and Spanish Guide in Krabi", description: "A full-day game fishing trip in Krabi with a French- and Spanish-speaking guide.", price: "From $272", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/game-fishing-by-french-and-spanish-guide-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Confirm which species are in season before booking, since Krabi's game fishing results vary significantly by month." }
+                ],
+                faqs: [
+                    { q: "Is the game fishing trip with a French and Spanish guide worth it in Krabi?", a: "Yes, for French- and Spanish-speaking travelers wanting to fish without a language barrier." }
+                ],
+            };
+
+        case "is-atv-kayak-sunset-khao-thong-hill-worth-it-krabi":
+            return {
+                title: "Is the ATV and Kayak Tour with Sunset at Khao Thong Hill Worth It in Krabi?",
+                description: "An honest look at the short ATV ride through mountains and forests paired with a kayak and sunset at Khao Thong Hill in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/atv-and-kayak-tour-with-sunset-at-khao-thong-hill-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want two distinct activities packed into a short window — the ATV ride through mountains and forests is a genuine adrenaline segment, and finishing with kayaking and sunset at Khao Thong Hill gives a scenic, relaxed close to the day.",
+                    tourCard: { slug: "atv-and-kayak-tour-with-sunset-at-khao-thong-hill-in-krabi", title: "ATV and Kayak Tour with Sunset at Khao Thong Hill in Krabi", description: "A short ATV ride through mountains and forests paired with kayaking and sunset at Khao Thong Hill in Krabi.", price: "From $349", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/atv-and-kayak-tour-with-sunset-at-khao-thong-hill-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book a slot timed to actual sunset, since the kayak-and-view portion is the highlight and depends on good light." }
+                ],
+                faqs: [
+                    { q: "Is the ATV and kayak tour with sunset at Khao Thong Hill worth it in Krabi?", a: "Yes, for travelers wanting both an adrenaline ATV segment and a scenic, relaxed sunset close to the day." }
+                ],
+            };
+
         default:
             return null;
     }
