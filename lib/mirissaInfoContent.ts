@@ -660,6 +660,106 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sail-lanka-overnight-cruise-worth-it-mirissa":
+      return {
+        title: "Is the Sail Lanka Charter Overnight Cruise Worth It in Mirissa?",
+        description: "An honest look at the Sail Lanka Charter one-night cruise in Mirissa, an overnight sailing experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-831541/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sleeping aboard a sailing yacht for the night gives a genuinely different experience than Mirissa's usual day-trip whale watching and fishing tours, worth it for travelers wanting the novelty of overnight life on the water rather than returning to a hotel each evening.",
+            tourCard: { slug: "sail-lanka-charter-01-night-cruise-in-mirissa", title: "Sail Lanka Charter - 01 Night Cruise In Mirissa", description: "A one-night overnight sailing cruise in Mirissa.", price: "From $467", duration: "1 night", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-831541/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack light and expect genuinely compact cabin space, since this trades hotel comfort for a real sailing experience." },
+        ],
+        faqs: [
+          { q: "Is the Sail Lanka Charter overnight cruise worth it in Mirissa?", a: "Yes, for travelers wanting the genuine novelty of sleeping aboard a sailing yacht, distinct from the area's usual day-trip tours." }
+        ],
+      };
+
+    case "is-booze-cruise-worth-it-mirissa":
+      return {
+        title: "Is the Evening Booze Cruise Worth It in Mirissa?",
+        description: "An honest look at Mirissa's evening booze cruise with wine and food, a social sailing alternative to the daytime whale-watching trips.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1436283/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "An evening cruise with wine and food included gives a genuinely social, relaxed alternative to Mirissa's usual early-morning whale-watching trips, worth it for travelers wanting a party atmosphere on the water rather than another wildlife-spotting outing.",
+            tourCard: { slug: "mirissa-evening-booze-cruise-with-wine-and-food", title: "Mirissa: Evening Booze Cruise with Wine and Food", description: "An evening booze cruise with wine and food in Mirissa.", price: "From $1182", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1436283/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for an evening when you don't need an early morning afterward — it's genuinely a social, later-paced outing." },
+        ],
+        faqs: [
+          { q: "Is the evening booze cruise worth it in Mirissa?", a: "Yes, for travelers wanting a genuinely social, relaxed evening on the water, distinct from the area's early-morning whale-watching trips." }
+        ],
+      };
+
+    case "is-marine-wildlife-photography-worth-it-mirissa":
+      return {
+        title: "Is the Private Marine Wildlife Photography Tour Worth It in Mirissa?",
+        description: "An honest look at Mirissa's private marine wildlife photography and snorkeling tour, aimed at travelers wanting genuine photo-quality results.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1326218/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This tour is genuinely built around getting quality marine wildlife photos rather than just a general sighting, worth it specifically for travelers serious about photography who want a guide focused on positioning and timing rather than a standard group tour.",
+            tourCard: { slug: "mirissa-private-marine-wildlife-photography", title: "Mirissa: Private Marine Wildlife Photography & Snorkeling", description: "A private marine wildlife photography and snorkeling tour in Mirissa.", price: "From $288", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1326218/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your own underwater camera gear if you have it — guides genuinely help with positioning, but equipment quality still matters." },
+        ],
+        faqs: [
+          { q: "Is the marine wildlife photography tour worth it in Mirissa?", a: "Yes, for travelers genuinely serious about photography, with a guide focused on positioning and timing rather than a standard group sighting tour." }
+        ],
+      };
+
+    case "is-romantic-sunset-seafood-dinner-worth-it-mirissa":
+      return {
+        title: "Is the Romantic Sunset Seafood Dinner for Two Worth It in Mirissa?",
+        description: "An honest look at Mirissa's romantic sunset seafood dinner for two, a dedicated couples dining experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1470877/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dedicated seafood dinner timed to the sunset gives a genuinely romantic, low-effort evening for couples, worth it specifically for anniversaries or honeymoon travelers wanting the setting and timing handled rather than arranging their own beachfront table.",
+            tourCard: { slug: "mirissa-romantic-sunset-seafood-dinner-for-two", title: "Mirissa: Romantic Sunset Seafood Dinner For Two", description: "A romantic sunset seafood dinner for two in Mirissa.", price: "From $195", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1470877/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the specific sunset time slot in advance — the timing genuinely matters more here than the menu itself." },
+        ],
+        faqs: [
+          { q: "Is the romantic sunset seafood dinner worth it in Mirissa?", a: "Yes, for couples wanting a genuinely romantic, low-effort evening with the setting and timing already handled." }
+        ],
+      };
+
+    case "is-night-snorkel-safari-worth-it-mirissa":
+      return {
+        title: "Is the Epic Night Snorkel Safari Worth It in Mirissa?",
+        description: "An honest look at Mirissa's night snorkel safari with GoPro video, a nocturnal marine activity distinct from daytime snorkeling tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1434312/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Snorkeling at night reveals genuinely different marine life behavior than daytime trips, with bioluminescence and nocturnal species adding a real sense of adventure, and the included GoPro video makes this worth it for travelers wanting footage of the experience.",
+            tourCard: { slug: "mirissa-epic-night-snorkel-safari-gopro-video", title: "Mirissa: Epic Night Snorkel Safari & GoPro Video", description: "A night snorkeling safari with GoPro video included in Mirissa.", price: "From $136", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1434312/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Comfort with swimming in darker water genuinely matters here — it's a different sensation than daytime snorkeling, even with a guide." },
+        ],
+        faqs: [
+          { q: "Is the night snorkel safari worth it in Mirissa?", a: "Yes, for travelers wanting a genuinely different nocturnal marine experience, with included GoPro footage as a bonus." }
+        ],
+      };
+
     default:
       return null;
   }
