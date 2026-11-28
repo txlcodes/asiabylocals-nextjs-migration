@@ -2234,6 +2234,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-buzkashi-game-tour-worth-it-tashkent":
+            return {
+                title: "Is the Samarkand Live Uloq-Kopkari (Buzkashi) Game Day Tour Worth It?",
+                description: "An honest look at the live Uloq-Kopkari (Buzkashi) horseback game tour near Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting a genuinely rare cultural sporting event — Buzkashi (also called Uloq-Kopkari) is a traditional Central Asian horseback game involving fierce competition over a goat carcass, a visceral, authentic spectacle most Uzbekistan tours never get close to.", tourCard: { slug: "samarkand-live-uloq-kopkari-buzkashi-game-day-tour", title: "Samarkand: Live Uloq-Kopkari (Buzkashi) Game Day Tour", description: "A tour to watch a live Uloq-Kopkari (Buzkashi) horseback game near Samarkand.", price: "From $286", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "This is a genuinely intense, physical sport to watch — go in prepared for a raw, authentic spectacle rather than a polished tourist show." }
+                ],
+                faqs: [
+                    { q: "Is the Buzkashi (Uloq-Kopkari) game tour worth it near Samarkand?", a: "Yes, for travelers wanting a genuinely rare, authentic Central Asian cultural sporting event." }
+                ],
+            };
+
+        case "is-asian-journey-spa-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Asian Journey Spa with Body Scrub and Massage Worth It?",
+                description: "An honest look at Tashkent's Asian Journey Spa, featuring a body scrub and massage.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine wellness break after days of sightseeing — this spa pairs a body scrub with a full massage, a relaxing contrast to Tashkent's usual history and market-focused itinerary.", tourCard: { slug: "tashkent-asian-journey-spa-with-body-scrub-and", title: "Tashkent: Asian Journey Spa with Body Scrub and Massage", description: "A spa experience in Tashkent featuring a body scrub and massage.", price: "From $255", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Book this for a rest day between heavier sightseeing, since the real value here is slowing down rather than covering more ground." }
+                ],
+                faqs: [
+                    { q: "Is the Asian Journey Spa worth it in Tashkent?", a: "Yes, for travelers wanting a genuine wellness break with a body scrub and massage after days of sightseeing." }
+                ],
+            };
+
+        case "is-metro-market-tour-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Guided City Tour with Metro Ride and Market Visit Worth It?",
+                description: "An honest look at Tashkent's guided city tour that includes a metro ride and market visit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see Tashkent's famously ornate metro stations in person — the Tashkent Metro is genuinely one of the most beautifully decorated subway systems in the world, and pairing a ride with a local market visit gives both architecture and everyday life in one tour.", tourCard: { slug: "tashkent-guided-city-tour-with-metro-ride-and", title: "Tashkent: Guided City Tour with Metro Ride and Market Visit", description: "A guided city tour of Tashkent including a metro ride and market visit.", price: "From $195", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Bring a camera specifically for the metro stations — several are genuinely ornate enough to be tourist attractions in their own right." }
+                ],
+                faqs: [
+                    { q: "Is the metro ride and market visit tour worth it in Tashkent?", a: "Yes, for travelers wanting to see the Tashkent Metro's genuinely ornate stations alongside a local market visit." }
+                ],
+            };
+
+        case "is-vegan-street-food-tour-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Vegan Street Food Tour with a Local Guide Worth It?",
+                description: "An honest look at Tashkent's vegan street food tour, guided by a local.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if dietary restrictions have you worried about missing out on Uzbek street food — Uzbek cuisine is genuinely meat-heavy, so a dedicated vegan tour curated by a local guide solves the guesswork of finding real plant-based options.", tourCard: { slug: "tashkent-vegan-street-food-tour-with-local-guide", title: "Tashkent: Vegan Street Food Tour with Local Guide", description: "A vegan street food tour in Tashkent with a local guide.", price: "From $186", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Mention any further dietary restrictions (vegan vs. vegetarian, allergies) in advance so your guide can plan accordingly." }
+                ],
+                faqs: [
+                    { q: "Is the vegan street food tour worth it in Tashkent?", a: "Yes, for vegan and plant-based travelers wanting to experience Uzbek street food without the usual dietary guesswork." }
+                ],
+            };
+
         default:
             return null;
     }
