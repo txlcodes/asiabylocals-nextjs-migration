@@ -781,6 +781,66 @@ export function getMirissaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-vip-turtle-snorkeling-pool-training-worth-it-mirissa":
+      return {
+        title: "Is the VIP Turtle Snorkeling with Pool Training Worth It in Mirissa?",
+        description: "An honest look at this turtle snorkeling tour's added pool training session, aimed at nervous or first-time snorkelers.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1415048/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The pool training session before heading into open water removes the biggest barrier for nervous swimmers, worth it for first-time snorkelers who want to practice breathing through a mask in a calm pool before trying it with moving sea turtles.",
+            tourCard: { slug: "mirissa-vip-turtle-snorkeling-pool-training-gopro", title: "Mirissa VIP Turtle Snorkeling: Pool Training & GoPro Video", description: "A turtle snorkeling tour in Mirissa with pool training beforehand and a GoPro video.", price: "From $50", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1415048/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Use the pool session to get fully comfortable breathing through the snorkel, it genuinely makes the open-water part far less stressful." },
+        ],
+        faqs: [
+          { q: "Is the VIP turtle snorkeling with pool training worth it in Mirissa?", a: "Yes, for first-time or nervous snorkelers who want a confidence-building pool session before swimming with sea turtles." }
+        ],
+      };
+
+    case "is-garadu-lagoon-mangrove-kayaking-worth-it-mirissa":
+      return {
+        title: "Is the Guided Garadu Lagoon Mangrove Kayaking Experience Worth It in Mirissa?",
+        description: "An honest look at this guided kayaking trip through Garadu Lagoon's mangroves, a quieter paddle than Mirissa's whale-watching boat tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1270976/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Paddling yourself through the mangrove channels gives a slower, quieter view of the lagoon's birdlife than a motorized boat safari, worth it for travelers who want an active, low-key morning as a change of pace from Mirissa's whale and dolphin cruises.",
+            tourCard: { slug: "mirissa-guided-garadu-lagoon-mangrove-kayaking", title: "Mirissa: Guided Garadu Lagoon Mangrove Kayaking Experience", description: "A guided kayaking trip through Garadu Lagoon's mangroves in Mirissa.", price: "From $50", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1270976/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go early morning for the calmest water and the best chance of spotting birds before the day heats up." },
+        ],
+        faqs: [
+          { q: "Is the guided Garadu Lagoon mangrove kayaking experience worth it in Mirissa?", a: "Yes, for travelers wanting a quieter, active paddle through mangroves as a change of pace from the usual whale-watching cruises." }
+        ],
+      };
+
+    case "is-deniyaya-rainforest-day-trip-worth-it-mirissa":
+      return {
+        title: "Is the Deniyaya Rainforest Day Trip Worth It from Mirissa or Weligama?",
+        description: "An honest look at the long day trip to Sinharaja's Lankagama entrance near Deniyaya, a rainforest alternative to Mirissa's usual coastal and marine activities.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1374421/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely long 12-hour day trading beach and whale-watching time for a proper rainforest trek into Sinharaja via its quieter Lankagama entrance, worth it only for travelers with a real interest in rainforest wildlife who have a day to spare away from the coast.",
+            tourCard: { slug: "from-mirissa-or-weligama-deniyaya-rainforest-day", title: "From Mirissa or Weligama: Deniyaya Rainforest Day Trip", description: "A full-day rainforest trip to Sinharaja's Lankagama entrance from Mirissa or Weligama.", price: "From $203", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1374421/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper trekking shoes and bring leech socks, the rainforest trails are genuinely muddy and leeches are common." },
+        ],
+        faqs: [
+          { q: "Is the Deniyaya rainforest day trip worth it from Mirissa or Weligama?", a: "Yes, but only for travelers genuinely interested in rainforest wildlife and willing to give up a full day away from the coast." }
+        ],
+      };
+
     default:
       return null;
   }

@@ -2418,6 +2418,8 @@ export const MIRISSA_INFO_SLUGS = [
   'is-marine-wildlife-photography-worth-it-mirissa', 'is-romantic-sunset-seafood-dinner-worth-it-mirissa',
   'is-night-snorkel-safari-worth-it-mirissa',
   'is-traditional-fishing-trip-breakfast-worth-it-mirissa',
+  'is-vip-turtle-snorkeling-pool-training-worth-it-mirissa', 'is-garadu-lagoon-mangrove-kayaking-worth-it-mirissa',
+  'is-deniyaya-rainforest-day-trip-worth-it-mirissa',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/sigiriyaInfoContent.ts.

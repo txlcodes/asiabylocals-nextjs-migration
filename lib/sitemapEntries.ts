@@ -2610,6 +2610,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-marine-wildlife-photography-worth-it-mirissa', 'is-romantic-sunset-seafood-dinner-worth-it-mirissa',
     'is-night-snorkel-safari-worth-it-mirissa',
     'is-traditional-fishing-trip-breakfast-worth-it-mirissa',
+    'is-vip-turtle-snorkeling-pool-training-worth-it-mirissa', 'is-garadu-lagoon-mangrove-kayaking-worth-it-mirissa',
+    'is-deniyaya-rainforest-day-trip-worth-it-mirissa',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/mirissa/${slug}`,
     lastModified: new Date(),
