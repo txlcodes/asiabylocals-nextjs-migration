@@ -1710,6 +1710,76 @@ export function getJordanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-hammam-workshop-worth-it-amman":
+            return {
+                title: "Is the Hammam, Workshop, and Dinner Experience Worth It in Amman?",
+                description: "An honest look at Amman's combined hammam, workshop, history, and dinner experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75de0f5208043c10990f8f9917c9b51359b02a11973d2d103e4d1f6185a1d194.png",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a traditional hammam with a hands-on workshop, historic hidden gems, and dinner gives genuine variety across relaxation, craft, and culture in one evening, worth it for travelers wanting a well-rounded local experience beyond standard sightseeing.", tourCard: { slug: "amman-hammam-fun-workshop-history-hidden-gems", title: "Amman: Hammam + Fun Workshop + History Hidden Gems + Dinner", description: "A combined hammam, workshop, history, and dinner experience in Amman.", price: "From $287", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/75de0f5208043c10990f8f9917c9b51359b02a11973d2d103e4d1f6185a1d194.png" } },
+                    { title: "Practical Tips", content: "Come with an open schedule — the genuine value here is in the full combination, so don't rush any single part." },
+                ],
+                faqs: [
+                    { q: "Is the hammam, workshop, and dinner experience worth it in Amman?", a: "Yes, for travelers wanting genuine variety across relaxation, craft, and culture in one well-rounded evening." },
+                ],
+            };
+
+        case "is-kurinuki-pottery-workshop-worth-it-amman":
+            return {
+                title: "Is the Japanese Kurinuki Pottery Workshop Worth It in Amman?",
+                description: "An honest look at Amman's Japanese Kurinuki pottery workshop, a hands-on carved-clay technique with snacks included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d796bf1fe38c27248d26f89d555b2588fd986f49a590ef2e0892737dece41ad.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Kurinuki is a genuinely distinctive Japanese pottery-carving technique, an unexpected cross-cultural find in Amman, worth it for travelers wanting a calm, hands-on craft activity rather than another historical site.", tourCard: { slug: "amman-japanese-kurinuki-pottery-workshop-with", title: "Amman: Japanese Kurinuki Pottery Workshop with Snacks", description: "A hands-on Japanese Kurinuki pottery workshop with snacks in Amman.", price: "From $69", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/1d796bf1fe38c27248d26f89d555b2588fd986f49a590ef2e0892737dece41ad.jpeg" } },
+                    { title: "Practical Tips", content: "No prior pottery experience is needed — the carving technique is genuinely approachable for complete beginners." },
+                ],
+                faqs: [
+                    { q: "Is the Japanese Kurinuki pottery workshop worth it in Amman?", a: "Yes, for a genuinely distinctive, calm hands-on craft activity, an unexpected cross-cultural find in the city." },
+                ],
+            };
+
+        case "is-shaumari-wildlife-worth-it-amman":
+            return {
+                title: "Is the Desert Castles and Al-Shaumari Wildlife Day Trip Worth It from Amman?",
+                description: "An honest look at the combined desert castles and Al-Shaumari wildlife reserve private day trip from Amman.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/faab834c23c243a0bfa3d32e680ccb9549ff0d39b3f9a498ff8e881e40d507d3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing Jordan's desert castles with the Al-Shaumari wildlife reserve gives genuine history and real conservation interest in one day trip, worth it for travelers wanting a mix of architecture and wildlife rather than just ruins.", tourCard: { slug: "amman-desert-castles-al-shaumari-wildlife-private", title: "Amman: Desert Castles Al-Shaumari Wildlife Private Day Trip", description: "A private day trip combining Jordan's desert castles with the Al-Shaumari wildlife reserve.", price: "From $285", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/faab834c23c243a0bfa3d32e680ccb9549ff0d39b3f9a498ff8e881e40d507d3.jpg" } },
+                    { title: "Practical Tips", content: "Bring binoculars for the wildlife reserve — genuine sightings of oryx and other desert species reward a closer look." },
+                ],
+                faqs: [
+                    { q: "Is the desert castles and Al-Shaumari wildlife day trip worth it from Amman?", a: "Yes, for travelers wanting a genuine mix of desert castle history and real wildlife conservation interest in one trip." },
+                ],
+            };
+
+        case "is-cooking-pottery-city-tour-worth-it-amman":
+            return {
+                title: "Is the Cooking Class, Pottery Workshop, and City Tour Worth It in Amman?",
+                description: "An honest look at Amman's combined cooking class, pottery workshop, and city tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9fc00fb04eef79e9a2f9e15c1fc964376743748b8a496ec8023a4c5a20483567.png",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a cooking class, pottery workshop, and city tour gives genuine hands-on variety across craft and cuisine alongside standard sightseeing, worth it for travelers wanting a fuller cultural day than a tour alone provides.", tourCard: { slug: "amman-cooking-class-pottery-workshop-and-city-tour", title: "Amman: Cooking Class, Pottery Workshop, and City Tour", description: "A combined cooking class, pottery workshop, and city tour in Amman.", price: "From $287", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9fc00fb04eef79e9a2f9e15c1fc964376743748b8a496ec8023a4c5a20483567.png" } },
+                    { title: "Practical Tips", content: "Come hungry for the cooking class portion — like most Jordanian cooking experiences, you'll eat what you make." },
+                ],
+                faqs: [
+                    { q: "Is the cooking class, pottery workshop, and city tour worth it in Amman?", a: "Yes, for travelers wanting genuine hands-on variety across craft and cuisine alongside standard city sightseeing." },
+                ],
+            };
+
+        case "is-salt-iraq-al-amir-worth-it-amman":
+            return {
+                title: "Is the Salt and Iraq Al-Amir Day Trip Worth It from Amman?",
+                description: "An honest look at the Salt and Iraq Al-Amir private full-day tour from Amman, covering lesser-visited Jordanian towns.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/03e57e1972b043c18d466d730ae960840a74d0c4183c5ea3558419a07d28ad36.png",
+                sections: [
+                    { title: "The Short Answer", content: "Salt's Ottoman-era architecture and Iraq Al-Amir's ancient Qasr al-Abd ruins give genuine historical depth in towns most Jordan itineraries skip entirely, worth it for travelers who've already covered Petra and Jerash wanting less-visited sites.", tourCard: { slug: "amman-salt-iraq-al-amir-private-full-day-tour", title: "Amman: Salt & Iraq Al-Amir Private Full-Day Tour", description: "A private full-day tour of Salt and Iraq Al-Amir from Amman.", price: "From $156", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/03e57e1972b043c18d466d730ae960840a74d0c4183c5ea3558419a07d28ad36.png" } },
+                    { title: "Practical Tips", content: "This suits travelers who've already seen Jordan's major highlights and want genuinely less-visited historical sites." },
+                ],
+                faqs: [
+                    { q: "Is the Salt and Iraq Al-Amir day trip worth it from Amman?", a: "Yes, for travelers who've already covered Petra and Jerash and want genuinely less-visited historical depth." },
+                ],
+            };
+
         default:
             return null;
     }

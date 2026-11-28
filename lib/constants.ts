@@ -606,6 +606,9 @@ export const AMMAN_INFO_SLUGS: string[] = [
   'is-arabic-class-worth-it-amman', 'is-kintsugi-pottery-workshop-worth-it-amman',
   'is-raku-pottery-workshop-worth-it-amman', 'is-stained-glass-workshop-worth-it-amman',
   'is-dead-sea-soap-wellness-class-worth-it-amman', 'is-decapolis-route-tour-worth-it-amman',
+  'is-hammam-workshop-worth-it-amman', 'is-kurinuki-pottery-workshop-worth-it-amman',
+  'is-shaumari-wildlife-worth-it-amman', 'is-cooking-pottery-city-tour-worth-it-amman',
+  'is-salt-iraq-al-amir-worth-it-amman',
 ];
 export const AQABA_INFO_SLUGS: string[] = [
   'best-wadi-rum-half-day-jeep-tour-aqaba', 'best-wadi-rum-full-day-jeep-tour-aqaba',
