@@ -320,6 +320,8 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'is-kanching-waterfall-skyline-luge-worth-it-kuala-lumpur', 'is-tropical-reawakening-spa-worth-it-kuala-lumpur',
   'is-gopeng-white-water-rafting-worth-it-kuala-lumpur', 'is-cooking-batik-pewter-workshop-worth-it-kuala-lumpur',
   'is-3regions-3religions-tour-worth-it-kuala-lumpur',
+  'is-polish-guide-tour-worth-it-kuala-lumpur', 'is-hobbiton-cameron-highlands-worth-it-kuala-lumpur',
+  'is-after-dark-food-stories-tour-worth-it-kuala-lumpur', 'is-family-cooking-class-market-tour-worth-it-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [

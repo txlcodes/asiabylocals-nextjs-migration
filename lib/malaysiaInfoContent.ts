@@ -5305,6 +5305,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-polish-guide-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kuala Lumpur Tour with a Polish-Speaking Guide Worth It?",
+                description: "An honest look at Kuala Lumpur's 8-hour join tour with a Polish-speaking guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, specifically for Polish-speaking travelers who want to avoid the language barrier — this join tour covers Kuala Lumpur's highlights over 8 hours with a guide who explains everything in Polish rather than through English or translation.", tourCard: { slug: "join-tour-kuala-lumpur-with-polish-guide-8hours", title: "Join tour: Kuala Lumpur with Polish Guide - 8hours (Mondays)", description: "An 8-hour join tour of Kuala Lumpur with a Polish-speaking guide.", price: "From $386", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "This specific tour runs on Mondays only, so plan your Kuala Lumpur schedule around that fixed day if the Polish-speaking guide matters to you." }
+                ],
+                faqs: [
+                    { q: "Is the Polish-speaking guide tour worth it in Kuala Lumpur?", a: "Yes, for Polish-speaking travelers wanting Kuala Lumpur's highlights explained without a language barrier." }
+                ],
+            };
+
+        case "is-hobbiton-cameron-highlands-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Cameron Highlands 2D1N Tea Hills & Hobbiton Adventure Worth It?",
+                description: "An honest look at the Cameron Highlands 2-day, 1-night tour combining tea hills with a Hobbiton-themed attraction.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want more than just tea plantation views — this overnight tour pairs the Cameron Highlands' tea hills with a Hobbiton-style themed attraction, a quirky, photogenic addition beyond the standard scenery-focused day trip.", tourCard: { slug: "cameron-highlands-2d1n-tea-hills-hobbiton", title: "Cameron Highlands 2D1N: Tea Hills & Hobbiton Adventure", description: "A 2-day, 1-night Cameron Highlands tour combining tea hills with a Hobbiton-themed attraction.", price: "From $732", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Fans of the Lord of the Rings theming will get the most out of the Hobbiton stop — it's a fun photo opportunity rather than a deep cultural experience." }
+                ],
+                faqs: [
+                    { q: "Is the Cameron Highlands Hobbiton tour worth it?", a: "Yes, for travelers wanting a quirky, photogenic addition to the standard tea plantation scenery over an overnight stay." }
+                ],
+            };
+
+        case "is-after-dark-food-stories-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Nomadic Kuala Lumpur After Dark Food & Stories Tour Worth It?",
+                description: "An honest look at Kuala Lumpur's After Dark food tour combined with local stories and history.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want narrative context alongside your night food stops — this tour pairs street food tastings with local stories and history, a more conversational, guide-led format than a pure food-stop checklist.", tourCard: { slug: "nomadic-kuala-lumpur-after-dark-food-stories", title: "Nomadic Kuala Lumpur: After Dark Food & Stories", description: "An evening street food tour of Kuala Lumpur combined with local stories and history.", price: "From $506", duration: "3-4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Come with questions for the guide — the storytelling format works best when you engage rather than just following along quietly." }
+                ],
+                faqs: [
+                    { q: "Is the After Dark food and stories tour worth it in Kuala Lumpur?", a: "Yes, for travelers wanting narrative context and local stories alongside their night food stops, not just a tasting checklist." }
+                ],
+            };
+
+        case "is-family-cooking-class-market-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kuala Lumpur Family Cooking Class with Market Tour Worth It?",
+                description: "An honest look at Kuala Lumpur's family cooking class paired with a market tour and meal.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, especially for families with kids — this pairs a hands-on cooking class with an actual market tour to source ingredients first, giving a fuller, more educational experience than a cooking class alone, finishing with the meal you made.", tourCard: { slug: "kuala-lumpur-family-cooking-class-with-market", title: "Kuala Lumpur: Family Cooking Class with Market Tour & Meal", description: "A family cooking class combined with a market tour and meal in Kuala Lumpur.", price: "From $643", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Let the organizer know of any food allergies in advance so the market shopping and recipe can be adjusted accordingly." }
+                ],
+                faqs: [
+                    { q: "Is the family cooking class with market tour worth it in Kuala Lumpur?", a: "Yes, especially for families with kids, giving a fuller, more educational experience than a standalone cooking class." }
+                ],
+            };
+
         default:
             return null;
     }
