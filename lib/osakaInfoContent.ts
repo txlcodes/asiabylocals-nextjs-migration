@@ -2561,7 +2561,70 @@ export function getOsakaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-iaido-master-class-worth-it-osaka":
+      return {
+        title: "Is Learning Iaido from a Master Worth It in Osaka?",
+        description: "An honest look at Osaka's hands-on iaido class taught by a master, a traditional Japanese sword-drawing art.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers wanting genuine martial depth rather than a costume photo op — iaido focuses specifically on the precise art of drawing and sheathing a sword, a distinct discipline from kendo's sparring, taught here directly by an experienced master.",
+            tourCard: { slug: "step-into-the-samurai-world-learn-iaido-from-a-master-in-osaka", title: "Step into the Samurai World: Learn Iaido from a Master in Osaka", description: "A hands-on iaido class taught by a master in Osaka.", price: "From $574", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable, loose clothing that allows a full range of motion for the precise draw-and-sheath movements.",
+          },
+        ],
+        faqs: [
+          { q: "Is learning iaido from a master worth it in Osaka?", a: "Yes, for travelers wanting genuine martial depth in a specific, disciplined sword art, distinct from kendo sparring." },
+        ],
+      };
+
+    case "is-otaku-culture-tour-worth-it-osaka":
+      return {
+        title: "Is the Private Otaku Culture and Adult Shops Tour Worth It in Osaka?",
+        description: "An honest look at Osaka's private tour covering otaku culture and adult-themed shops.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for travelers curious about this particular corner of Japanese subculture — this tour covers otaku-focused shops and adult-themed retail with a guide who can explain the context and etiquette, rather than browsing confused on your own.",
+            tourCard: { slug: "private-hentai-adult-shops-and-otaku-culture-tour-in-osaka", title: "Private Hentai, Adult Shops and Otaku Culture Tour in Osaka", description: "A private tour covering otaku culture and adult-themed shops in Osaka.", price: "From $234", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This tour covers adult content and themes, so it suits travelers specifically seeking this experience rather than general sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the otaku culture and adult shops tour worth it in Osaka?", a: "Yes, for travelers specifically curious about this niche subculture, with a guide providing context most visitors wouldn't have on their own." },
+        ],
+      };
+
+    case "is-lgbtq-tour-dinner-drinks-worth-it-osaka":
+      return {
+        title: "Is the Osaka LGBTQ+ Tour with Dinner and Drinks Worth It?",
+        description: "An honest look at Osaka's LGBTQ+-focused tour that includes dinner and drinks.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for LGBTQ+ travelers wanting a genuinely welcoming evening out — this tour is specifically oriented around Osaka's LGBTQ+ scene, combining dinner and drinks with a guide who can point out safe, friendly venues rather than guessing on your own.",
+            tourCard: { slug: "osaka-dinner-guided-tour", title: "Osaka: LGBTQ+ Tour with Dinner and Drinks", description: "An LGBTQ+-focused evening tour in Osaka with dinner and drinks.", price: "From $179", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask your guide for recommendations beyond the tour itself if you want to continue the evening at specific venues afterward.",
+          },
+        ],
+        faqs: [
+          { q: "Is the LGBTQ+ tour with dinner and drinks worth it in Osaka?", a: "Yes, for LGBTQ+ travelers wanting a genuinely welcoming evening with a guide pointing out friendly venues." },
+        ],
+      };
+
     default:
-            return null;
+      return null;
     }
 }

@@ -2085,6 +2085,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-wakayama-cat-train-worth-it-osaka', 'is-mt-inunaki-hiking-worth-it-osaka',
     'is-hoshi-no-buranko-worth-it-osaka', 'is-itami-sake-tour-worth-it-osaka',
     'is-nishinari-walking-tour-worth-it-osaka',
+    'is-iaido-master-class-worth-it-osaka', 'is-otaku-culture-tour-worth-it-osaka',
+    'is-lgbtq-tour-dinner-drinks-worth-it-osaka',
 ].map(slug => ({
     url: `${BASE_URL}/japan/osaka/${slug}`,
     lastModified: new Date(),

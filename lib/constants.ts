@@ -2477,6 +2477,8 @@ export const OSAKA_INFO_SLUGS = [
   'is-wakayama-cat-train-worth-it-osaka', 'is-mt-inunaki-hiking-worth-it-osaka',
   'is-hoshi-no-buranko-worth-it-osaka', 'is-itami-sake-tour-worth-it-osaka',
   'is-nishinari-walking-tour-worth-it-osaka',
+  'is-iaido-master-class-worth-it-osaka', 'is-otaku-culture-tour-worth-it-osaka',
+  'is-lgbtq-tour-dinner-drinks-worth-it-osaka',
 ];
 
 export const KASHMIR_INFO_SLUGS = [
