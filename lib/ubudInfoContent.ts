@@ -2781,6 +2781,105 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-trunyan-cemetery-boat-worth-it-ubud":
+      return {
+        title: "Is the Trunyan Cemetery Paddling Boat Tour Worth It from Ubud?",
+        description: "An honest look at the Trunyan Cemetery paddling boat tour, visiting Bali's unusual above-ground burial village.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/trunyan-cemetery-paddling-boat-tour-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Trunyan's genuinely unusual burial tradition, where bodies are laid above ground rather than cremated or buried, gives real cultural insight unlike anywhere else in Bali, worth it for travelers with a respectful interest in local customs beyond typical temple sightseeing.",
+            tourCard: { slug: "trunyan-cemetery-paddling-boat-tour-in-ubud", title: "Trunyan Cemetery Paddling Boat Tour in Ubud", description: "A paddling boat tour to the Trunyan Cemetery burial village from Ubud.", price: "From $159", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/trunyan-cemetery-paddling-boat-tour-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach this with genuine respect — it's an active cultural site tied to real local beliefs, not a curiosity attraction." },
+        ],
+        faqs: [
+          { q: "Is the Trunyan Cemetery paddling boat tour worth it from Ubud?", a: "Yes, for travelers with a genuine, respectful interest in Bali's unusual burial traditions, offering insight unlike anywhere else on the island." }
+        ],
+      };
+
+    case "is-floating-sound-bath-worth-it-ubud":
+      return {
+        title: "Is the Svara Nadi Floating Sound Bath Worth It in Ubud?",
+        description: "An honest look at the Svara Nadi floating sound bath experience in Sanggraloka, Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/svara-nadi-floating-sound-bath-in-sanggraloka-ubud-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Floating in water while a sound bath plays gives a genuinely different, deeply relaxing wellness experience than a standard massage or yoga class, worth it for travelers specifically seeking Ubud's wellness scene at its most immersive.",
+            tourCard: { slug: "svara-nadi-floating-sound-bath-in-sanggraloka-ubud-ubud", title: "Svara Nadi Floating Sound Bath in Sanggraloka Ubud", description: "A floating sound bath wellness experience in Sanggraloka, Ubud.", price: "From $159", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/svara-nadi-floating-sound-bath-in-sanggraloka-ubud-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an open mind and no tight schedule afterward — genuine sound bath relaxation can leave you drowsy." },
+        ],
+        faqs: [
+          { q: "Is the Svara Nadi floating sound bath worth it in Ubud?", a: "Yes, for travelers specifically seeking Ubud's wellness scene at its most immersive, genuinely different from a standard massage or yoga class." }
+        ],
+      };
+
+    case "is-leather-journal-workshop-worth-it-ubud":
+      return {
+        title: "Is the Create Your Own Leather Journal Workshop Worth It in Ubud?",
+        description: "An honest look at Ubud's hands-on leather journal-making workshop.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/create-your-own-leather-journal-a5-size-in-ubud-ubud/img0/1600.webp",
+        sections: [
+          {
+                title: "The Short Answer", content: "Making a real A5 leather journal from scratch gives a genuinely practical, long-lasting souvenir, worth it for travelers wanting a hands-on craft activity with an everyday-useful result rather than a purely decorative piece.",
+            tourCard: { slug: "create-your-own-leather-journal-a5-size-in-ubud-ubud", title: "Create Your Own Leather Journal (A5 Size) in Ubud", description: "A hands-on workshop making an A5-size leather journal in Ubud.", price: "From $182", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/create-your-own-leather-journal-a5-size-in-ubud-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior leatherworking experience is needed — instructors genuinely guide beginners through every step." },
+        ],
+        faqs: [
+          { q: "Is the leather journal workshop worth it in Ubud?", a: "Yes, for a genuinely practical, long-lasting souvenir you make yourself, rather than a purely decorative craft piece." }
+        ],
+      };
+
+    case "is-cretya-infinity-pool-worth-it-ubud":
+      return {
+        title: "Is the Cretya Infinity Pool, Hidden Waterfall and Water Temple Tour Worth It in Ubud?",
+        description: "An honest look at the combined Cretya infinity pool, hidden waterfall, and water temple tour in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/cretya-infinity-pool-hidden-waterfall-and-water-temple-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a genuinely photogenic infinity pool with a hidden waterfall and a water temple gives a well-rounded mix of relaxation, nature, and culture in one trip, worth it for travelers wanting variety beyond a single attraction visit.",
+            tourCard: { slug: "cretya-infinity-pool-hidden-waterfall-and-water-temple-in-ubud", title: "Cretya Infinity Pool, Hidden Waterfall and Water Temple in Ubud", description: "A combined tour of the Cretya infinity pool, a hidden waterfall, and a water temple in Ubud.", price: "From $158", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/cretya-infinity-pool-hidden-waterfall-and-water-temple-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit specifically for the infinity pool portion, and modest wear for the water temple visit." },
+        ],
+        faqs: [
+          { q: "Is the Cretya infinity pool, waterfall and water temple tour worth it in Ubud?", a: "Yes, for travelers wanting a genuinely well-rounded mix of relaxation, nature, and culture in a single trip." }
+        ],
+      };
+
+    case "is-sangeh-monkey-forest-waterfall-atv-worth-it-ubud":
+      return {
+        title: "Is the Sangeh Monkey Forest, Waterfall and ATV Tour Worth It in Ubud?",
+        description: "An honest look at the combined Sangeh Monkey Forest, waterfall, and ATV tour with lunch in Ubud.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sangeh-monkey-forest-waterfall-and-atv-tour-with-lunch-in-ubud/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sangeh's monkey forest is genuinely less crowded than Ubud's own Sacred Monkey Forest, and pairing it with a waterfall stop and ATV ride gives a well-rounded, active day, worth it for travelers wanting wildlife, nature, and adventure in one trip.",
+            tourCard: { slug: "sangeh-monkey-forest-waterfall-and-atv-tour-with-lunch-in-ubud", title: "Sangeh Monkey Forest, Waterfall and ATV Tour with Lunch in Ubud", description: "A combined tour of Sangeh Monkey Forest, a waterfall, and an ATV ride with lunch in Ubud.", price: "From $189", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sangeh-monkey-forest-waterfall-and-atv-tour-with-lunch-in-ubud/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Keep food and loose items secured around the monkeys, since they're genuinely bold about grabbing anything within reach." },
+        ],
+        faqs: [
+          { q: "Is the Sangeh Monkey Forest, waterfall and ATV tour worth it in Ubud?", a: "Yes, for travelers wanting genuinely less-crowded wildlife viewing combined with nature and adventure in one well-rounded day." }
+        ],
+      };
+
     default:
       return null;
   }

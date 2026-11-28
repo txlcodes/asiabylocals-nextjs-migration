@@ -3025,6 +3025,9 @@ export const UBUD_INFO_SLUGS = [
   'is-mount-batur-dirt-bike-worth-it-ubud', 'is-tabanan-jeep-village-workshop-worth-it-ubud',
   'is-romantic-candlelit-river-dinner-worth-it-ubud', 'is-lempuyang-professional-photographer-worth-it-ubud',
   'is-west-bali-national-park-menjangan-worth-it-ubud', 'is-mount-rinjani-2d1n-sembalun-worth-it-ubud',
+  'is-trunyan-cemetery-boat-worth-it-ubud', 'is-floating-sound-bath-worth-it-ubud',
+  'is-leather-journal-workshop-worth-it-ubud', 'is-cretya-infinity-pool-worth-it-ubud',
+  'is-sangeh-monkey-forest-waterfall-atv-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [
