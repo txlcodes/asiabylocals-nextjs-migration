@@ -1931,6 +1931,69 @@ export function getShanghaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-natural-history-museum-river-cruise-worth-it-shanghai":
+      return {
+        title: "Is the Natural History Museum Tour & River Cruise Worth It in Shanghai?",
+        description: "An honest look at the half-day Shanghai Natural History Museum tour paired with a river cruise.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a401e263f9ee73ba9e38ed53779c3d7a21059dddd54dc807f491cd389578cb80.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want architecture and science alongside your sightseeing — the museum's award-winning 'Spiral Shell' design is genuinely striking on its own, and pairing it with a river cruise gives a relaxing, scenic second half to the day.",
+            tourCard: { slug: "shanghai-natural-history-museum-tour-river-cruise", title: "Shanghai: Natural History Museum Tour & River Cruise", description: "A half-day Shanghai Natural History Museum tour paired with a river cruise.", price: "From $598", duration: "4.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a401e263f9ee73ba9e38ed53779c3d7a21059dddd54dc807f491cd389578cb80.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for families — the museum's exhibits and the river cruise both work well for younger travelers.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Natural History Museum and river cruise tour worth it in Shanghai?", a: "Yes, for travelers wanting striking museum architecture paired with a relaxing, scenic river cruise." },
+        ],
+      };
+
+    case "is-luxury-bathhouse-local-lifestyle-worth-it-shanghai":
+      return {
+        title: "Is the Luxury Bathhouse & Local Lifestyle Experience Worth It in Shanghai?",
+        description: "An honest look at Shanghai's full-day luxury bathhouse and local lifestyle experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c3bdaea0d2fe37b34abef8c97294882db4779691801199325c6baa69453e080.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely relaxing, culturally immersive day — modern Chinese bathhouse culture is a real local lifestyle experience, offering a slower, more social pace than Shanghai's usual fast-moving sightseeing.",
+            tourCard: { slug: "shanghai-luxury-bathhouse-local-lifestyle", title: "Shanghai: Luxury Bathhouse & Local Lifestyle Experience", description: "A full-day luxury bathhouse and local lifestyle experience in Shanghai.", price: "From $592", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7c3bdaea0d2fe37b34abef8c97294882db4779691801199325c6baa69453e080.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bathhouse etiquette in China can differ from what Western travelers expect, so ask your guide about norms in advance.",
+          },
+        ],
+        faqs: [
+          { q: "Is the luxury bathhouse and local lifestyle experience worth it in Shanghai?", a: "Yes, for travelers wanting a genuinely relaxing, culturally immersive day at a slower pace than typical sightseeing." },
+        ],
+      };
+
+    case "is-private-tesla-tour-worth-it-shanghai":
+      return {
+        title: "Is the Private Full-Day Tesla Tour with Hotel Pickup Worth It in Shanghai?",
+        description: "An honest look at the private full-day Tesla tour of Shanghai's top attractions with hotel pickup.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af8208d1c95fe63d77147166726da3cd8c135ff9caa371221034ba6d0629ff2a.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want comfortable, private transport between Shanghai's top attractions — touring in a Tesla with a local guide and hotel pickup included removes the hassle of public transport or taxis between stops.",
+            tourCard: { slug: "shanghai-private-full-day-tesla-tour-with-hotel", title: "Shanghai Private Full-Day Tesla Tour with Hotel Pickup", description: "A private full-day Tesla tour of Shanghai's top attractions with hotel pickup.", price: "From $586", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af8208d1c95fe63d77147166726da3cd8c135ff9caa371221034ba6d0629ff2a.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your exact must-see list with the guide in advance, since the itinerary is flexible rather than fixed.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private Tesla tour worth it in Shanghai?", a: "Yes, for travelers wanting comfortable, private transport between top attractions with hotel pickup included." },
+        ],
+      };
+
     default:
       return null;
   }

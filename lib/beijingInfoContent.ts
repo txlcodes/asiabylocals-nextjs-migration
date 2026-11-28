@@ -1881,6 +1881,20 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-tianjin-highlights-high-speed-rail-worth-it-beijing":
+      return {
+        title: "Is the Tianjin Highlights Day Tour by High-Speed Rail Worth It from Beijing?",
+        description: "An honest look at the full-day Tianjin highlights tour from Beijing via high-speed rail.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b8a9163aff4be7b01a973182ffc10fcf85ab944a721e64e38cc12444c60c7eee.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want a genuinely different Chinese city in a single day — the high-speed rail link makes a Tianjin day trip remarkably efficient, and the city's European-influenced architecture and waterfront feel distinct from Beijing's imperial sites.", tourCard: { slug: "from-beijing-tianjin-highlights-day-tour-by-high", title: "From Beijing: Tianjin Highlights Day Tour by High-Speed Rail", description: "A full-day Tianjin highlights tour from Beijing via high-speed rail.", price: "From $597", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b8a9163aff4be7b01a973182ffc10fcf85ab944a721e64e38cc12444c60c7eee.jpg" } },
+          { title: "Practical Tips", content: "The rail journey itself takes well under an hour each way, so most of your day is genuinely spent in Tianjin rather than in transit." },
+        ],
+        faqs: [
+          { q: "Is the Tianjin highlights day tour worth it from Beijing?", a: "Yes, for travelers wanting a genuinely different Chinese city in a single efficient day via high-speed rail." },
+        ],
+      };
+
     default:
       return null;
   }

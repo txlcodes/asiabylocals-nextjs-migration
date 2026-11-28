@@ -244,6 +244,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-lama-temple-confucius-temple-hutong-tea-worth-it-beijing',
     'is-liuli-craft-heritage-worth-it-beijing', 'is-jiankou-camping-sunrise-sunset-worth-it-beijing',
     'is-forbidden-city-dental-spa-worth-it-beijing', 'is-peking-man-stone-flower-cave-worth-it-beijing',
+    'is-tianjin-highlights-high-speed-rail-worth-it-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),
@@ -292,6 +293,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-xishan-island-bayberry-picking-worth-it-shanghai', 'is-film-park-zhujiajiao-worth-it-shanghai',
     'is-yacht-party-karaoke-worth-it-shanghai', 'is-wildlife-park-predator-feeding-worth-it-shanghai',
     'is-yiwu-trade-market-worth-it-shanghai', 'is-pingtan-folk-art-teahouse-worth-it-shanghai',
+    'is-natural-history-museum-river-cruise-worth-it-shanghai', 'is-luxury-bathhouse-local-lifestyle-worth-it-shanghai',
+    'is-private-tesla-tour-worth-it-shanghai',
   ].map(slug => ({
     url: `${BASE_URL}/china/shanghai/${slug}`,
     lastModified: new Date(),
