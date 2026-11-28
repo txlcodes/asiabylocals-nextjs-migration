@@ -2880,6 +2880,90 @@ export function getUbudInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-leather-wallet-craft-experience-worth-it-ubud":
+      return {
+        title: "Is the Ubud Leather Wallet Craft Experience Worth It?",
+        description: "An honest look at Ubud's hands-on leather wallet-making craft experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine souvenir you made yourself rather than another bought item — this hands-on workshop walks you through crafting your own leather wallet from start to finish, a distinctive alternative to Ubud's usual cooking or painting classes.",
+            tourCard: { slug: "make-a-leather-wallet-your-way-ubud-craft-experience-ubud", title: "Make a Leather Wallet, Your Way – Ubud Craft Experience (Ubud)", description: "A hands-on workshop crafting your own leather wallet in Ubud.", price: "From $163", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuine hands-on time with tools and materials — this is a real craft lesson, not a watch-and-buy demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the leather wallet craft experience worth it in Ubud?", a: "Yes, for travelers wanting a genuine hands-on souvenir they made themselves, distinct from Ubud's usual cooking or art classes." },
+        ],
+      };
+
+    case "is-spiritual-healing-session-worth-it-ubud":
+      return {
+        title: "Is the Ubud Spiritual Healing Session Worth It?",
+        description: "An honest look at Ubud's spiritual healing session with pickup and transfer included.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for travelers genuinely interested in Balinese spiritual practices — this is a one-on-one healing session with a local practitioner, with pickup and transfer handled, rather than a generic spa treatment marketed as spiritual.",
+            tourCard: { slug: "spiritual-healing-session-with-pickup-and-transfer-in-ubud", title: "Spiritual Healing Session with Pickup and Transfer in Ubud", description: "A spiritual healing session with a local practitioner in Ubud, including pickup and transfer.", price: "From $271", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with an open mind and clear expectations — this is a genuine cultural and spiritual practice, not a spa massage, so it suits a different kind of traveler.",
+          },
+        ],
+        faqs: [
+          { q: "Is the spiritual healing session worth it in Ubud?", a: "Yes, for travelers with genuine interest in Balinese spiritual practices, though it's not a spa treatment and suits a specific mindset." },
+        ],
+      };
+
+    case "is-cow-feeding-harvest-cooking-worth-it-ubud":
+      return {
+        title: "Is the Ubud Family Private Cooking with Harvest and Cow Feeding Worth It?",
+        description: "An honest look at Ubud's family cooking class that includes harvesting ingredients and feeding cows on a working farm.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, especially for families with kids — this goes beyond a standard cooking class by adding hands-on harvesting of your own ingredients and feeding cows on an actual working farm, a genuinely immersive alternative to a market-and-kitchen-only cooking class.",
+            tourCard: { slug: "family-private-cooking-with-harvest-and-cow-feeding-in-ubud", title: "Family Private Cooking with Harvest and Cow Feeding in Ubud", description: "A private family cooking class including ingredient harvesting and cow feeding in Ubud.", price: "From $204", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Kids who enjoy animals and getting hands-on will get the most out of this compared to a standard restaurant-style cooking demo.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cow feeding and harvest cooking class worth it in Ubud?", a: "Yes, especially for families, as a more immersive alternative to a standard market-and-kitchen cooking class." },
+        ],
+      };
+
+    case "is-aura-chakras-purification-worth-it-ubud":
+      return {
+        title: "Is the Ubud Palm Reading, Aura Chakras & Purification Session Worth It?",
+        description: "An honest look at Ubud's combined palm reading, aura and chakra reading, and purification and blessing session.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it for travelers curious about Balinese spiritual readings specifically — this bundles palm reading, aura and chakra assessment, and a purification and blessing ceremony into one session, going further into mystical practice than the standalone palm reading experiences Ubud is known for.",
+            tourCard: { slug: "palm-reading-aura-chakras-purification-and-blessing-in-ubud", title: "Palm Reading, Aura Chakras, Purification and Blessing in Ubud", description: "A combined palm reading, aura/chakra reading, and purification blessing session in Ubud.", price: "From $191", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This works best as a genuine spiritual experience rather than pure entertainment — approach it with sincerity for the most meaningful outcome.",
+          },
+        ],
+        faqs: [
+          { q: "Is the aura, chakras and purification session worth it in Ubud?", a: "Yes, for travelers with genuine curiosity about Balinese spiritual readings, offering more depth than a standalone palm reading." },
+        ],
+      };
+
     default:
       return null;
   }

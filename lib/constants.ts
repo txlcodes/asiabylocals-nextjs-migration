@@ -3045,6 +3045,8 @@ export const UBUD_INFO_SLUGS = [
   'is-trunyan-cemetery-boat-worth-it-ubud', 'is-floating-sound-bath-worth-it-ubud',
   'is-leather-journal-workshop-worth-it-ubud', 'is-cretya-infinity-pool-worth-it-ubud',
   'is-sangeh-monkey-forest-waterfall-atv-worth-it-ubud',
+  'is-leather-wallet-craft-experience-worth-it-ubud', 'is-spiritual-healing-session-worth-it-ubud',
+  'is-cow-feeding-harvest-cooking-worth-it-ubud', 'is-aura-chakras-purification-worth-it-ubud',
 ];
 
 export const CANGGU_INFO_SLUGS = [

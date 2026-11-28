@@ -2835,6 +2835,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-trunyan-cemetery-boat-worth-it-ubud', 'is-floating-sound-bath-worth-it-ubud',
     'is-leather-journal-workshop-worth-it-ubud', 'is-cretya-infinity-pool-worth-it-ubud',
     'is-sangeh-monkey-forest-waterfall-atv-worth-it-ubud',
+    'is-leather-wallet-craft-experience-worth-it-ubud', 'is-spiritual-healing-session-worth-it-ubud',
+    'is-cow-feeding-harvest-cooking-worth-it-ubud', 'is-aura-chakras-purification-worth-it-ubud',
 ].map(slug => ({
     url: `${BASE_URL}/indonesia/ubud/${slug}`,
     lastModified: new Date(),
