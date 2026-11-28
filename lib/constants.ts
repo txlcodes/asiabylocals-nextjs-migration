@@ -564,6 +564,8 @@ export const MUSCAT_INFO_SLUGS = [
   'is-german-guide-nizwa-tour-worth-it-muscat', 'is-market-tour-cooking-class-worth-it-muscat',
   'is-fahal-island-birdwatching-boat-worth-it-muscat', 'is-wadi-mibam-canyoneering-worth-it-muscat',
   'is-desert-birthday-celebration-worth-it-muscat', 'is-al-hoota-cave-mountain-village-worth-it-muscat',
+  'is-bidiya-desert-sunset-camel-ride-worth-it-muscat', 'is-adam-castle-villages-museum-worth-it-muscat',
+  'is-wakan-dune-bashing-show-worth-it-muscat', 'is-city-tour-saal-cave-worth-it-muscat',
 ];
 
 // Armenia launched 2026-11-19 with 547 live tours and zero authority pages.

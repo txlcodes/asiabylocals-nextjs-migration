@@ -1932,6 +1932,66 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-bidiya-desert-sunset-camel-ride-worth-it-muscat":
+            return {
+                title: "Is the Bidiya Desert Sunset Camel Ride Worth It from Muscat?",
+                description: "An honest look at the half-day Bidiya Desert sunset camel ride with transfer from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6aca9cf5907fdbc22316b4ba514b483d1fc72d33549cd287dd23f74bbb7bee7d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a classic desert experience without committing to an overnight camp — riding a camel through the Bidiya Desert at sunset is a genuinely scenic, low-commitment way to get a taste of Oman's desert landscape in just half a day.",
+                    tourCard: { slug: "muscat-bidiya-desert-sunset-camel-ride-with", title: "Muscat: Bidiya Desert Sunset Camel Ride with Transfer", description: "A half-day Bidiya Desert sunset camel ride with transfer from Muscat.", price: "From $581", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6aca9cf5907fdbc22316b4ba514b483d1fc72d33549cd287dd23f74bbb7bee7d.jpeg" } },
+                    { title: "Practical Tips", content: "Dress in layers — desert temperatures drop noticeably once the sun sets, even right after a warm afternoon." }
+                ],
+                faqs: [
+                    { q: "Is the Bidiya Desert sunset camel ride worth it from Muscat?", a: "Yes, for travelers wanting a scenic, low-commitment taste of desert life without an overnight camp." }
+                ],
+            };
+
+        case "is-adam-castle-villages-museum-worth-it-muscat":
+            return {
+                title: "Is the Adam Castle, Villages, and Museum Private Tour Worth It from Muscat?",
+                description: "An honest look at the full-day private tour of Adam Castle, surrounding villages, and a museum from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a43dc749d62799833d67b06357b72a469248e690a72eb7ff99a2d940d15c88c0.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers specifically interested in Oman's lesser-known heritage sites — Adam Castle and its surrounding villages in Ad Dakhiliyah Governorate sit well off the main Nizwa-Jabreen circuit, giving a quieter, more local look at the region's history.",
+                    tourCard: { slug: "muscat-adam-castle-villages-and-museum-private", title: "Muscat: Adam Castle, Villages, and Museum Private Tour", description: "A full-day private tour of Adam Castle, surrounding villages, and a museum from Muscat.", price: "From $559", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a43dc749d62799833d67b06357b72a469248e690a72eb7ff99a2d940d15c88c0.png" } },
+                    { title: "Practical Tips", content: "This is a long drive from Muscat, so it suits travelers who want a deep, quiet look at the Ad Dakhiliyah region rather than a quick highlights stop." }
+                ],
+                faqs: [
+                    { q: "Is the Adam Castle, villages, and museum tour worth it from Muscat?", a: "Yes, for travelers wanting a quieter, lesser-known side of Oman's heritage sites beyond the main Nizwa-Jabreen circuit." }
+                ],
+            };
+
+        case "is-wakan-dune-bashing-show-worth-it-muscat":
+            return {
+                title: "Is the Friday Special: Wakan & Dune Bashing Show Worth It in Muscat?",
+                description: "An honest look at Muscat's Friday special combining a visit to Wakan Village with a dune bashing show.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bafa6c7dea4bc12c35878d24fbc5f52584b122e182f8eee0029d7025a4c5051.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine mix of calm mountain village scenery and high-energy desert adrenaline in one day — Wakan Village's terraced mountain setting is a striking contrast to the dune bashing show that follows, and the Friday-only scheduling makes it a good weekend pick.",
+                    tourCard: { slug: "muscat-friday-special-wakan-dune-bashing-show", title: "Muscat Friday Special: Wakan & Dune Bashing Show", description: "A full-day Friday special combining a visit to Wakan Village with a dune bashing show from Muscat.", price: "From $559", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6bafa6c7dea4bc12c35878d24fbc5f52584b122e182f8eee0029d7025a4c5051.png" } },
+                    { title: "Practical Tips", content: "This only runs on Fridays, so plan your Muscat itinerary around that day specifically if this tour is a priority." }
+                ],
+                faqs: [
+                    { q: "Is the Wakan and dune bashing show worth it in Muscat?", a: "Yes, for travelers wanting a genuine mix of calm mountain scenery and high-energy desert adrenaline in one Friday outing." }
+                ],
+            };
+
+        case "is-city-tour-saal-cave-worth-it-muscat":
+            return {
+                title: "Is the Full-Day City Tour with Saal Cave or Saal Walk Worth It in Muscat?",
+                description: "An honest look at Muscat's full-day city tour paired with a visit to the Sultan Qaboos Grand Mosque and Saal Cave or Saal Walk.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb49ce4c25d90a0f203d8d5de542ba446463ff537b2f5a3d6e4410997416f6de.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want Muscat's architectural highlights paired with a genuine natural detour — the Sultan Qaboos Grand Mosque is a must-see on its own, and adding either Saal Cave or a Saal Walk gives the day a nature component most city tours skip.",
+                    tourCard: { slug: "muscat-full-day-city-tour-with-saal-cave-or", title: "Muscat: Full-Day City Tour with Saal Cave or Saal Walk", description: "A full-day Muscat city tour paired with a visit to the Sultan Qaboos Grand Mosque and Saal Cave or Saal Walk.", price: "From $579", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fb49ce4c25d90a0f203d8d5de542ba446463ff537b2f5a3d6e4410997416f6de.jpg" } },
+                    { title: "Practical Tips", content: "Ask in advance whether your date includes the cave or the walk option, since the two give fairly different experiences." }
+                ],
+                faqs: [
+                    { q: "Is the city tour with Saal Cave or Saal Walk worth it in Muscat?", a: "Yes, for travelers wanting Muscat's architectural highlights paired with a genuine natural detour." }
+                ],
+            };
+
         default:
             return null;
     }
