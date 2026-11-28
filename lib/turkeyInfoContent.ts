@@ -2369,6 +2369,90 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-black-sea-lunch-cruise-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Bosphorus & Black Sea Lunch Cruise Worth It?",
+        description: "An honest look at Istanbul's $2,321 cruise extending past the Bosphorus into the Black Sea, with lunch included.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you've already done a standard Bosphorus cruise and want to see where it actually opens into the Black Sea — this extends the usual route further north with lunch included, rather than turning back at the second bridge like most shorter cruises.",
+            tourCard: { slug: "istanbul-bosphorus-strait-and-black-sea-lunch", title: "Istanbul: Bosphorus Strait and Black Sea Lunch Cruise", description: "A cruise extending from the Bosphorus into the Black Sea, with lunch included.", price: "From $2,321", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a longer day than a standard Bosphorus cruise, so budget accordingly and don't pair it with too much else on the same day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bosphorus and Black Sea lunch cruise worth it in Istanbul?", a: "Yes, for travelers wanting to see where the Bosphorus actually meets the Black Sea rather than just the standard shorter cruise route." },
+        ],
+      };
+
+    case "is-private-yacht-swimming-stops-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Private Yacht Tour with Swimming Stops Worth It?",
+        description: "An honest look at Istanbul's $1,451 private yacht tour that includes stops for swimming.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to actually get in the water rather than just view the Bosphorus from the deck — this private yacht tour builds in dedicated swimming stops, a genuine point of difference from the standard sightseeing-only cruise format.",
+            tourCard: { slug: "istanbul-private-yacht-tour-with-swimming-stops", title: "Istanbul: Private Yacht Tour with Swimming Stops", description: "A private yacht tour with dedicated swimming stops.", price: "From $1,451", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring swimwear and a towel — this is easy to forget if you're thinking of it as a standard sightseeing cruise.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private yacht tour with swimming stops worth it in Istanbul?", a: "Yes, for travelers wanting to actually swim during the cruise rather than just view the water from the deck." },
+        ],
+      };
+
+    case "is-breakfast-cruise-luxury-yacht-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Private Bosphorus Breakfast Cruise Worth It?",
+        description: "An honest look at Istanbul's $1,016 private breakfast cruise on a luxury yacht along the Bosphorus.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if mornings on the water with a proper breakfast appeal more than an evening sunset cruise — this private yacht cruise is timed and framed around breakfast rather than dinner or sunset, a different pace to the usual evening Bosphorus cruise.",
+            tourCard: { slug: "istanbul-private-bosphorus-breakfast-cruise-on", title: "Istanbul: Private Bosphorus Breakfast Cruise on Luxury Yacht", description: "A private breakfast cruise on a luxury yacht along the Bosphorus.", price: "From $1,016", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Morning light on the Bosphorus is softer and the water is typically calmer than later in the day, a real advantage for photos.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bosphorus breakfast cruise worth it in Istanbul?", a: "Yes, for travelers who'd rather spend a calm morning on the water with breakfast than book the standard evening cruise." },
+        ],
+      };
+
+    case "is-gallipoli-troy-day-tour-worth-it-istanbul":
+      return {
+        title: "Is the Gallipoli & Troy Private Day Tour Worth It from Istanbul?",
+        description: "An honest look at Istanbul's $2,901 private day tour combining the Gallipoli WWI battlefields with the ancient ruins of Troy.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want ancient and modern history in one trip — this pairs the WWI Gallipoli battlefields with the legendary ruins of Troy, covering roughly 3,000 years of history in a single private day rather than splitting them across two separate trips.",
+            tourCard: { slug: "gallipoli-troy-private-day-tour-from-istanbul", title: "Gallipoli & Troy: Private Day Tour from Istanbul", description: "A private day tour combining the Gallipoli WWI battlefields and the ruins of Troy.", price: "From $2,901", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the distance from Istanbul to the Dardanelles region — confirm the itinerary gives real time at both sites rather than rushing through either.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Gallipoli and Troy day tour worth it from Istanbul?", a: "Yes, for travelers wanting both WWI history and ancient Troy covered in a single private day rather than two separate trips." },
+        ],
+      };
+
     default:
       return null;
   }

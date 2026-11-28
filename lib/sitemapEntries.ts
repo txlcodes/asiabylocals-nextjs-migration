@@ -468,6 +468,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-instagram-tour-worth-it-istanbul', 'is-roman-era-walking-tour-worth-it-istanbul',
     'is-ottoman-empire-tour-worth-it-istanbul', 'is-byzantine-heritage-walking-tour-worth-it-istanbul',
     'is-golden-horn-bosphorus-cruise-worth-it-istanbul',
+    'is-black-sea-lunch-cruise-worth-it-istanbul', 'is-private-yacht-swimming-stops-worth-it-istanbul',
+    'is-breakfast-cruise-luxury-yacht-worth-it-istanbul', 'is-gallipoli-troy-day-tour-worth-it-istanbul',
   ].map(slug => ({
     url: `${BASE_URL}/turkey/istanbul/${slug}`,
     lastModified: new Date(),
