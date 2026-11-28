@@ -1196,6 +1196,81 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-paramotor-gokart-sticky-waterfall-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Mai Paramotor, Go-Kart and Sticky Waterfall Adventure Worth It?",
+                description: "An honest look at Chiang Mai's combo adventure day covering paramotor flying, go-karting, and the Sticky Waterfall.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine variety in one day — this combines a paramotor flight (powered paragliding) with go-karting and a stop at the famously grippy Sticky Waterfall, three distinct activity types most tours don't combine.",
+                    tourCard: { slug: "chiang-mai-paramotor-go-kart-and-sticky-waterfall-adventure-by-local-operator", title: "Chiang Mai Paramotor, Go-Kart and Sticky Waterfall Adventure by Local Operator", description: "A combo adventure day in Chiang Mai covering paramotor flying, go-karting, and the Sticky Waterfall.", price: "From $366", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "The paramotor flight is weather-dependent, so have a flexible schedule in case conditions push the flight to a different time." }
+                ],
+                faqs: [
+                    { q: "Is the paramotor, go-kart and Sticky Waterfall adventure worth it in Chiang Mai?", a: "Yes, for travelers wanting genuine variety across three distinct activities most tours don't combine." }
+                ],
+            };
+
+        case "is-mountain-buggy-adventure-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Mai Mountain Buggy Adventure Tour Worth It?",
+                description: "An honest look at Chiang Mai's mountain buggy adventure tour through rugged terrain.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want more power and stability than a standard ATV — mountain buggies handle rugged mountain terrain with a sturdier build, giving a genuinely different off-road feel than the city's more common ATV tours.",
+                    tourCard: { slug: "mountain-buggy-adventure-tour-in-chiang-mai", title: "Mountain Buggy Adventure Tour in Chiang Mai", description: "A mountain buggy off-road adventure tour through rugged terrain in Chiang Mai.", price: "From $287", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting muddy — mountain buggy routes often hit wetter, rougher terrain than standard ATV trails." }
+                ],
+                faqs: [
+                    { q: "Is the mountain buggy adventure tour worth it in Chiang Mai?", a: "Yes, for travelers wanting a sturdier, more powerful off-road vehicle than a standard ATV on rugged mountain terrain." }
+                ],
+            };
+
+        case "is-lahu-village-waterfall-trek-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Mai Lahu Village and Waterfall Trek Worth It?",
+                description: "An honest look at Chiang Mai's full-day tour combining a Lahu hill tribe village visit with a waterfall trek.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting genuine hill tribe cultural exposure alongside nature — the Lahu are one of several distinct ethnic minority groups in northern Thailand, and pairing a village visit with a waterfall trek gives both cultural and scenic payoff.",
+                    tourCard: { slug: "full-day-tour-of-lahu-village-and-waterfall-trek-in-chiang-mai", title: "Full-Day Tour of Lahu Village and Waterfall Trek in Chiang Mai", description: "A full-day tour combining a Lahu hill tribe village visit with a waterfall trek in Chiang Mai.", price: "From $225", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Approach the village visit with genuine respect and curiosity — ask your guide how the tour supports the local community rather than treating it as a photo stop." }
+                ],
+                faqs: [
+                    { q: "Is the Lahu village and waterfall trek worth it in Chiang Mai?", a: "Yes, for travelers wanting genuine hill tribe cultural exposure combined with a scenic waterfall trek." }
+                ],
+            };
+
+        case "is-chiang-rai-golden-triangle-kayan-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Rai Temples, Golden Triangle and Kayan Tour Worth It?",
+                description: "An honest look at the Chiang Rai day tour covering temples, the Golden Triangle, and a Kayan long-neck village.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want Chiang Rai's major themes in one day — this covers its famous temples, the historic Golden Triangle border region, and a Kayan long-neck village, three genuinely distinct stops that would otherwise mean separate trips.",
+                    tourCard: { slug: "chiang-rai-temples-golden-triangle-and-kayan", title: "Chiang Rai Temples, Golden Triangle and Kayan", description: "A day tour covering Chiang Rai's temples, the Golden Triangle, and a Kayan long-neck village.", price: "From $225", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Chiang Rai is roughly 3 hours each way from Chiang Mai, so this makes for a genuinely long day — start early to make the most of it." }
+                ],
+                faqs: [
+                    { q: "Is the Chiang Rai temples, Golden Triangle and Kayan tour worth it from Chiang Mai?", a: "Yes, for travelers wanting Chiang Rai's major cultural and historical themes covered in a single, if long, day trip." }
+                ],
+            };
+
+        case "is-self-drive-scooter-backroad-tour-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Mai Full-Day Guided Backroad Self-Drive Scooter Tour Worth It?",
+                description: "An honest look at Chiang Mai's guided self-drive scooter tour through countryside backroads.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want the freedom of riding yourself rather than being driven — this gives you your own scooter with a guide leading the route through countryside backroads, a more independent feel than a van or jeep tour.",
+                    tourCard: { slug: "chiang-mai-full-day-guided-backroad-self-drive-scooter-tour-by-local-operator", title: "Chiang Mai Full-Day Guided Backroad Self-Drive Scooter Tour by Local Operator", description: "A full-day guided self-drive scooter tour through Chiang Mai's countryside backroads.", price: "From $152", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "You'll need a valid driving license and some scooter experience — this isn't suited to complete first-time riders given the backroad terrain." }
+                ],
+                faqs: [
+                    { q: "Is the self-drive scooter backroad tour worth it in Chiang Mai?", a: "Yes, for confident riders wanting the independence of riding themselves through countryside backroads with a guide leading the way." }
+                ],
+            };
+
         default:
             return null;
     }
