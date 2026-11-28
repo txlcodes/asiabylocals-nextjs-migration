@@ -1577,6 +1577,106 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-snakehead-fishing-worth-it-kandy":
+      return {
+        title: "Is the Snakehead Fishing Tour at Deduru Oya Worth It from Kandy?",
+        description: "An honest look at the full-day snakehead fishing tour at Deduru Oya, a niche fishing activity outside Kandy's usual hiking and temple circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1433296/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely specialized fishing trip targeting snakehead, a prized catch among anglers, worth it specifically for fishing enthusiasts wanting a real sporting activity rather than another hike or temple visit from Kandy.",
+            tourCard: { slug: "kandy-full-day-snakehead-fishing-tour-at-deduru", title: "Kandy: Full-Day Snakehead Fishing Tour at Deduru Oya", description: "A full-day snakehead fishing tour at Deduru Oya from Kandy.", price: "From $331", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1433296/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm whether gear is provided or you need your own, since equipment requirements can vary genuinely by operator." },
+        ],
+        faqs: [
+          { q: "Is the snakehead fishing tour worth it from Kandy?", a: "Yes, for genuine fishing enthusiasts wanting a specialized sporting activity, distinct from the area's usual hikes and temple visits." }
+        ],
+      };
+
+    case "is-sembuwatta-hunas-falls-worth-it-kandy":
+      return {
+        title: "Is the Sembuwatta Lake and Hunas Falls Tuk-Tuk Tour Worth It from Kandy?",
+        description: "An honest look at the private tuk-tuk tour to Sembuwatta Lake and Hunas Falls, a scenic highland combination outside Kandy.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1379027/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sembuwatta Lake's turquoise water and Hunas Falls' cascading drop give a genuinely scenic highland pairing, and doing it by private tuk-tuk adds an authentically local, open-air way to travel between the two that a closed vehicle can't match.",
+            tourCard: { slug: "kandy-sembuwatta-lake-hunas-falls-private-tuk-tuk", title: "Kandy: Sembuwatta Lake & Hunas Falls Private Tuk-Tuk Tour", description: "A private tuk-tuk tour to Sembuwatta Lake and Hunas Falls from Kandy.", price: "From $288", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1379027/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a light jacket — the highland elevation around Sembuwatta genuinely runs cooler than Kandy itself." },
+        ],
+        faqs: [
+          { q: "Is the Sembuwatta Lake and Hunas Falls tuk-tuk tour worth it from Kandy?", a: "Yes, for a genuinely scenic highland pairing experienced the authentic, open-air way by tuk-tuk." }
+        ],
+      };
+
+    case "is-hidden-tea-heritage-tuktuk-worth-it-kandy":
+      return {
+        title: "Is the Hidden Tea & Heritage Tuk-Tuk Tour Worth It in Kandy?",
+        description: "An honest look at Kandy's hidden tea and heritage tuk-tuk tour, a locally driven route to lesser-known tea estates and heritage sites.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1376176/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This genuinely bypasses the big-name tea factories most visitors see, routing instead to lesser-known estates and heritage stops by tuk-tuk, worth it for travelers wanting a more local, off-the-main-track tea country experience.",
+            tourCard: { slug: "kandy-hidden-tea-heritage-tuk-tuk-tour", title: "Kandy: Hidden Tea & Heritage Tuk-Tuk Tour", description: "A tuk-tuk tour to lesser-known tea estates and heritage sites around Kandy.", price: "From $305", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1376176/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask your driver about the estates' harvest season if tea picking itself is something you want to genuinely witness." },
+        ],
+        faqs: [
+          { q: "Is the hidden tea and heritage tuk-tuk tour worth it in Kandy?", a: "Yes, for travelers wanting a genuinely more local, off-the-main-track alternative to the big-name tea factory visits." }
+        ],
+      };
+
+    case "is-mountain-biking-tea-trails-worth-it-kandy":
+      return {
+        title: "Is Mountain Biking Around the Tea Trails Worth It in Kandy?",
+        description: "An honest look at the mountain biking tour through Kandy's surrounding tea trails, an active alternative to standard tea country sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065259/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering the tea trails by mountain bike gives a genuinely more active, immersive way to experience the hills than a seated vehicle tour, worth it for travelers wanting a physical, outdoor activity woven into Kandy's tea-growing scenery.",
+            tourCard: { slug: "mountain-biking-around-tea-trails-tour-in-kandy", title: "Mountain Biking Around Tea Trails Tour in Kandy", description: "A mountain biking tour through tea trails around Kandy.", price: "From $389", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065259/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A reasonable fitness level genuinely helps here, since the terrain includes real hill climbs through the tea estates." },
+        ],
+        faqs: [
+          { q: "Is mountain biking around the tea trails worth it in Kandy?", a: "Yes, for travelers wanting a genuinely more active, immersive way to experience the tea-growing hills than a seated vehicle tour." }
+        ],
+      };
+
+    case "is-kanawiddagala-yahangala-worth-it-kandy":
+      return {
+        title: "Is the Kanawiddagala and Yahangala Twin Peak Hike Worth It from Kandy?",
+        description: "An honest look at the Kanawiddagala and Yahangala twin peak hike, a lesser-known trekking alternative to the heavily trafficked Knuckles routes.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1008052/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "These twin peaks see genuinely far fewer trekkers than the popular Knuckles Mountain Range routes, giving a quieter hiking experience with real summit views, worth it for travelers wanting a less crowded alternative to Kandy's best-known hikes.",
+            tourCard: { slug: "from-kandy-kanawiddagala-and-yahangala-twin-peak", title: "From Kandy: Kanawiddagala and Yahangala Twin Peak Hike", description: "A guided twin peak hike to Kanawiddagala and Yahangala from Kandy.", price: "From $426", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1008052/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a genuinely demanding full-day hike — confirm your fitness level matches the trek's difficulty before booking." },
+        ],
+        faqs: [
+          { q: "Is the Kanawiddagala and Yahangala twin peak hike worth it from Kandy?", a: "Yes, for hikers wanting a genuinely quieter, less crowded alternative to Kandy's popular Knuckles Mountain Range routes." }
+        ],
+      };
+
     default:
       return null;
   }
