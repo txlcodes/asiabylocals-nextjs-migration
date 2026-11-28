@@ -2296,6 +2296,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-private-village-tour-worth-it-bentota', 'is-beruwala-lighthouse-snorkeling-cruise-worth-it-bentota',
     'is-scenic-countryside-cycling-worth-it-bentota', 'is-anuradhapura-day-trip-worth-it-bentota',
     'is-aluthgama-tuktuk-tour-worth-it-bentota',
+    'is-gemology-experience-worth-it-bentota', 'is-cinnamon-mask-workshop-worth-it-bentota',
+    'is-wood-carving-tuktuk-worth-it-bentota', 'is-discover-aluthgama-adventures-worth-it-bentota',
+    'is-sinharaja-waterfall-bath-worth-it-bentota',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/bentota/${slug}`,
     lastModified: new Date(),

@@ -654,6 +654,106 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-gemology-experience-worth-it-bentota":
+      return {
+        title: "Is the 7-Day Gemology Experience Worth It in Bentota?",
+        description: "An honest look at the 7-day gemology experience with accommodation in Bentota, a deep dive into Sri Lanka's gem industry.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1336793/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Seven genuine days covering Sri Lanka's gem industry, with accommodation included, gives a real deep dive for anyone seriously interested in gemology, worth it specifically for that niche audience rather than casual travelers wanting a quick gem shop visit.",
+            tourCard: { slug: "bentota-7-day-gemology-experience-with", title: "Bentota: 7-Day Gemology Experience with Accommodation", description: "A 7-day gemology experience with accommodation in Bentota.", price: "From $81", duration: "7 days", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1336793/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers with a genuine, specific interest in gemology — it's a substantial time commitment, not a casual day activity." },
+        ],
+        faqs: [
+          { q: "Is the 7-day gemology experience worth it in Bentota?", a: "Yes, specifically for travelers with a genuine, deep interest in Sri Lanka's gem industry, rather than a casual quick visit." }
+        ],
+      };
+
+    case "is-cinnamon-mask-workshop-worth-it-bentota":
+      return {
+        title: "Is the Cinnamon and Mask Workshop Worth It near Bentota?",
+        description: "An honest look at the Mirissa to Bentota day trip with a cinnamon and traditional mask-making workshop.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1305939/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a cinnamon processing demonstration with a traditional mask-making workshop gives genuine hands-on exposure to two distinct Sri Lankan crafts in one day, worth it for travelers wanting cultural depth beyond the area's usual river safaris.",
+            tourCard: { slug: "mirissa-bentota-day-trip-with-cinnamon-mask", title: "Mirissa: Bentota Day Trip with Cinnamon & Mask Workshop", description: "A day trip combining a cinnamon demonstration and mask-making workshop near Bentota.", price: "From $136", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1305939/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask about taking a cinnamon stick or finished mask home — genuine souvenirs made during the workshop make this more memorable." },
+        ],
+        faqs: [
+          { q: "Is the cinnamon and mask workshop worth it near Bentota?", a: "Yes, for travelers wanting genuine hands-on exposure to two distinct local crafts, a real change from the area's usual river safaris." }
+        ],
+      };
+
+    case "is-wood-carving-tuktuk-worth-it-bentota":
+      return {
+        title: "Is the Bentota River, Turtles, Wood Carving and Temple Tuk-Tuk Tour Worth It?",
+        description: "An honest look at the Bentota combination tour covering the river, turtles, wood carving, and a temple by tuk-tuk.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1164187/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This combines a river stop, turtle viewing, a genuine wood carving craft demonstration, and a temple visit in one open-air tuk-tuk tour, worth it for travelers wanting a varied, efficient half day covering wildlife, craft, and culture together.",
+            tourCard: { slug: "bentota-river-turtels-wood-carving-temple-tuk-tuk", title: "Bentota River, Turtles, Wood Carving & Temple Tuk Tuk Tour", description: "A combination tour covering Bentota's river, turtles, wood carving, and a temple by tuk-tuk.", price: "From $123", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1164187/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The wood carving demonstration is a genuine highlight here — ask questions, since craftspeople are often happy to explain their technique." },
+        ],
+        faqs: [
+          { q: "Is the Bentota river, turtles, wood carving and temple tuk-tuk tour worth it?", a: "Yes, for travelers wanting a genuinely varied, efficient half day combining wildlife, craft, and culture in one trip." }
+        ],
+      };
+
+    case "is-discover-aluthgama-adventures-worth-it-bentota":
+      return {
+        title: "Is the Discover Aluthgama with Thrilling Adventures Tour Worth It?",
+        description: "An honest look at the Discover Aluthgama city tour with thrilling adventures, an activity-focused alternative to standard sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-879905/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This genuinely leans into adventure activities rather than passive sightseeing, worth it for travelers wanting a more adrenaline-focused day in Aluthgama rather than another scenic tuk-tuk ride or river safari.",
+            tourCard: { slug: "city-tour-discover-aluthgama-with-thrilling", title: "City Tour: Discover Aluthgama with Thrilling Adventures", description: "An activity-focused city tour of Aluthgama with thrilling adventure elements.", price: "From $253", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-879905/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm exactly which adventure activities are included before booking, since the specific thrills can vary by operator." },
+        ],
+        faqs: [
+          { q: "Is the Discover Aluthgama with thrilling adventures tour worth it?", a: "Yes, for travelers wanting a genuinely more adrenaline-focused day, distinct from the area's usual scenic tuk-tuk rides and river safaris." }
+        ],
+      };
+
+    case "is-sinharaja-waterfall-bath-worth-it-bentota":
+      return {
+        title: "Is Sinharaja Forest Trekking with a Waterfall Bath Worth It from Bentota?",
+        description: "An honest look at the Sinharaja Forest trekking tour with a waterfall bath, a rainforest nature escape from Bentota.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1339790/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sinharaja is genuinely a UNESCO-listed rainforest with real biodiversity, and trekking it followed by a waterfall bath gives a complete nature immersion that's a real contrast to Bentota's beach and river-safari activities.",
+            tourCard: { slug: "from-bentota-sinharaja-forest-trekking-with", title: "From Bentota: Sinharaja Forest Trekking with Waterfall Bath", description: "A rainforest trekking tour in Sinharaja with a waterfall bath from Bentota.", price: "From $85", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1339790/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of clothes for the waterfall bath — you'll genuinely want to swap out of wet trekking gear afterward." },
+        ],
+        faqs: [
+          { q: "Is Sinharaja Forest trekking with a waterfall bath worth it from Bentota?", a: "Yes, for a genuine rainforest nature immersion in a UNESCO-listed forest, a real contrast to the area's usual beach and river activities." }
+        ],
+      };
+
     default:
       return null;
   }
