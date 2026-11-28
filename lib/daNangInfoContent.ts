@@ -1187,6 +1187,111 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-silver-jewelry-making-worth-it-da-nang":
+      return {
+        title: "Is the Silver Jewelry Making Workshop Worth It in Da Nang?",
+        description: "An honest look at Da Nang's silver jewelry making workshop with an instructor.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/silver-jewelry-making-workshop-with-instructor-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Making a real piece of silver jewelry under proper instruction gives a genuinely more meaningful souvenir than buying finished pieces, worth it for travelers wanting a hands-on craft activity with a wearable result.",
+            tourCard: { slug: "silver-jewelry-making-workshop-with-instructor-in-da-nang", title: "Silver Jewelry Making Workshop with Instructor in Da Nang", description: "A hands-on silver jewelry making workshop with an instructor in Da Nang.", price: "From $156", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/silver-jewelry-making-workshop-with-instructor-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior jewelry-making experience is needed — instructors genuinely guide beginners through the full process step by step.",
+          },
+        ],
+        faqs: [
+          { q: "Is the silver jewelry making workshop worth it in Da Nang?", a: "Yes, for a genuinely meaningful, wearable souvenir you make yourself, rather than buying a finished piece." },
+        ],
+      };
+
+    case "is-endangered-monkey-safari-worth-it-da-nang":
+      return {
+        title: "Is the Safari to Find the World's Most Endangered Monkey Worth It in Da Nang?",
+        description: "An honest look at the safari experience to find one of the world's most endangered monkey species near Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/safari-finding-the-most-endangered-monkey-in-the-world-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This safari gives a genuine chance to spot one of the world's most endangered primate species in the wild, worth it specifically for wildlife enthusiasts wanting real conservation interest rather than a typical sightseeing stop.",
+            tourCard: { slug: "safari-finding-the-most-endangered-monkey-in-the-world-in-da-nang", title: "Safari - Finding the Most Endangered Monkey in the World in Da Nang", description: "A wildlife safari to spot one of the world's most endangered monkey species near Da Nang.", price: "From $83", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/safari-finding-the-most-endangered-monkey-in-the-world-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars and set realistic expectations — genuine wildlife sightings of rare species are never guaranteed.",
+          },
+        ],
+        faqs: [
+          { q: "Is the endangered monkey safari worth it in Da Nang?", a: "Yes, specifically for wildlife enthusiasts wanting genuine conservation interest and a real chance to spot a rare primate species." },
+        ],
+      };
+
+    case "is-prescription-glasses-worth-it-da-nang":
+      return {
+        title: "Are Custom-Made Prescription Glasses Worth It in Da Nang?",
+        description: "An honest look at getting custom-made prescription glasses at Colonial Optic in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/custom-made-prescription-glasses-in-colonial-optic-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Vietnam genuinely offers quality prescription eyewear at a fraction of Western prices, and this service handles the custom fitting professionally, worth it specifically for travelers needing new glasses who want real savings without sacrificing quality.",
+            tourCard: { slug: "custom-made-prescription-glasses-in-colonial-optic-in-da-nang", title: "Custom-Made Prescription Glasses in Colonial Optic in Da Nang", description: "Custom-made prescription glasses service at Colonial Optic in Da Nang.", price: "From $109", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/custom-made-prescription-glasses-in-colonial-optic-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your current prescription or a recent eye exam result to genuinely speed up the fitting process.",
+          },
+        ],
+        faqs: [
+          { q: "Are custom-made prescription glasses worth it in Da Nang?", a: "Yes, specifically for travelers needing new glasses, with genuine savings compared to Western prices without sacrificing quality." },
+        ],
+      };
+
+    case "is-champa-war-tour-worth-it-da-nang":
+      return {
+        title: "Is the Da Nang War Tour from Champa Kingdom to Weaponry Worth It?",
+        description: "An honest look at the Da Nang war tour covering Champa Kingdom sculpture through to weaponry history.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201260/asiabylocals/tours/da-nang-war-tour-from-champa-kingdom-sculptury-to-weaponry-da-nang/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Spanning from ancient Champa Kingdom sculpture through to modern war-era weaponry gives genuinely unusual historical range in one tour, worth it for travelers interested in Da Nang's layered history beyond the standard beach and bridge sightseeing.",
+            tourCard: { slug: "da-nang-war-tour-from-champa-kingdom-sculptury-to-weaponry-da-nang", title: "Da Nang War Tour from Champa Kingdom Sculptury to Weaponry", description: "A historical tour spanning Champa Kingdom sculpture to war-era weaponry in Da Nang.", price: "From $88", duration: "Half day", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201260/asiabylocals/tours/da-nang-war-tour-from-champa-kingdom-sculptury-to-weaponry-da-nang/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with genuine interest in history spanning centuries — this covers a wide range rather than focusing on just one era.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Champa Kingdom to weaponry war tour worth it in Da Nang?", a: "Yes, for travelers interested in genuinely unusual historical range, from ancient Champa sculpture through to modern war history." },
+        ],
+      };
+
+    case "is-bach-ma-trekking-five-lakes-worth-it-da-nang":
+      return {
+        title: "Is the Bach Ma Trekking, Five Lakes and Waterfall Adventure Worth It from Da Nang?",
+        description: "An honest look at the Bach Ma trekking adventure covering five lakes and a waterfall from Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bach-ma-trekking-five-lakes-and-waterfall-adventure-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bach Ma National Park's genuine cloud-forest trails, five lakes, and waterfall give real nature immersion that's distinct from Da Nang's beach and Golden Bridge circuit, worth it for travelers wanting a proper hiking day in the mountains.",
+            tourCard: { slug: "bach-ma-trekking-five-lakes-and-waterfall-adventure-in-da-nang", title: "Bach Ma Trekking, Five Lakes and Waterfall Adventure in Da Nang", description: "A trekking adventure through Bach Ma National Park covering five lakes and a waterfall.", price: "From $81", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/bach-ma-trekking-five-lakes-and-waterfall-adventure-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear proper hiking shoes and expect genuinely humid cloud-forest conditions, even on otherwise sunny days.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bach Ma trekking and five lakes adventure worth it from Da Nang?", a: "Yes, for travelers wanting a genuine mountain hiking day, distinct from the city's usual beach and Golden Bridge sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
