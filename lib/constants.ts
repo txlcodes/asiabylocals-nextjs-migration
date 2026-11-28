@@ -2900,6 +2900,8 @@ export const DUBAI_INFO_SLUGS = [
   'is-lamborghini-experience-worth-it-dubai', 'is-wonder-bus-amphibious-tour-worth-it-dubai',
   'is-fishing-charter-no-fish-no-pay-worth-it-dubai', 'is-ras-al-khaimah-day-trip-worth-it-dubai',
   'is-michelin-dinner-desert-safari-worth-it-dubai',
+  'is-loco-bear-experience-worth-it-dubai', 'is-clay-dine-couples-family-worth-it-dubai',
+  'is-cabriolet-convertible-tour-worth-it-dubai', 'is-elite-tour-sky-pool-shopping-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.

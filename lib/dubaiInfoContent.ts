@@ -1907,6 +1907,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-loco-bear-experience-worth-it-dubai":
+      return {
+        title: "Is the Dubai Loco Bear Experience Worth It?",
+        description: "An honest look at Dubai's Loco Bear experience with private GMC Yukon transfer.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for travelers looking for a quirky, non-standard Dubai activity — the Loco Bear experience is a distinct attraction outside the usual desert safari and skyline sightseeing circuit, with private GMC Yukon transfer included.",
+            tourCard: { slug: "dubai-loco-bear-experience-with-private-gmc-yukon-", title: "Dubai: Loco Bear Experience with Private GMC Yukon Transfer", description: "The Loco Bear experience in Dubai with private GMC Yukon transfer.", price: "From $610", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check exactly what the experience involves before booking, since it's a niche attraction distinct from Dubai's mainstream sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Loco Bear experience worth it in Dubai?", a: "Yes, for travelers seeking a quirky, non-standard activity outside the usual desert safari and skyline sightseeing circuit." },
+        ],
+      };
+
+    case "is-clay-dine-couples-family-worth-it-dubai":
+      return {
+        title: "Is the Dubai Couples & Family Clay & Dine Activity Worth It?",
+        description: "An honest look at Dubai's 'Only in Dubai' luxury clay and dine activity for couples and families.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a relaxed, creative activity paired with a meal — this combines pottery or clay work with dining, giving couples and families a hands-on, low-key alternative to Dubai's usual high-adrenaline desert and skyline activities.",
+            tourCard: { slug: "only-in-dubai-couples-family-activity-luxury-clay-", title: "Only in Dubai: Couples & Family Activity -Luxury Clay & Dine", description: "A luxury clay and dine activity for couples and families in Dubai.", price: "From $592", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for a slower-paced day between more active desert or adventure bookings elsewhere in your Dubai itinerary.",
+          },
+        ],
+        faqs: [
+          { q: "Is the clay and dine activity worth it in Dubai?", a: "Yes, for couples and families wanting a relaxed, creative alternative to Dubai's usual high-adrenaline activities." },
+        ],
+      };
+
+    case "is-cabriolet-convertible-tour-worth-it-dubai":
+      return {
+        title: "Is the Dubai Cabriolet Tour in a Convertible Mustang or Camaro Worth It?",
+        description: "An honest look at Dubai's cabriolet city tour in a convertible Mustang or Camaro.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want the open-air thrill of a convertible sports car for your city sightseeing — this tour covers Dubai's skyline in a Mustang or Camaro with the top down, a step up in style from a standard sedan or SUV city tour.",
+            tourCard: { slug: "dubai-cabriolet-tour-in-a-convertible-mustang-or-c", title: "Dubai: Cabriolet Tour in a convertible Mustang or Camaro", description: "A cabriolet city tour of Dubai in a convertible Mustang or Camaro.", price: "From $580", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book an early morning or evening slot to avoid the harshest midday sun with the top down.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cabriolet convertible tour worth it in Dubai?", a: "Yes, for travelers wanting the open-air thrill of a sports car for their city sightseeing, a stylish step up from a standard sedan tour." },
+        ],
+      };
+
+    case "is-elite-tour-sky-pool-shopping-worth-it-dubai":
+      return {
+        title: "Is the Dubai Elite Tour with Sky Pool, Shopping, and Hotel Pickup Worth It?",
+        description: "An honest look at Dubai's elite tour combining a sky pool, shopping, and hotel pickup.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely varied, upscale day — this bundles a sky pool experience with a shopping stop and hotel pickup, giving a mix of relaxation and retail rather than a pure sightseeing itinerary.",
+            tourCard: { slug: "dubai-elite-tour-with-sky-pool-shopping-and-hotel", title: "Dubai: Elite Tour with Sky Pool, Shopping, and Hotel Pickup", description: "An elite tour combining a sky pool experience with shopping and hotel pickup in Dubai.", price: "From $500", duration: "Full day", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit specifically for the sky pool portion, and set aside a shopping budget if that's a priority for you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the elite tour with sky pool and shopping worth it in Dubai?", a: "Yes, for travelers wanting a varied, upscale day mixing relaxation and retail rather than pure sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
