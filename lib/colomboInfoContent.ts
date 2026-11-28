@@ -1733,6 +1733,110 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lotus-tower-worth-it-colombo":
+      return {
+        title: "Is the Lotus Tower Guided Tour Worth It in Colombo?",
+        description: "An honest look at the private Lotus Tower guided tour in Colombo, South Asia's tallest self-supported structure.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c47224c024a433e11643bf299b25820c583f5415149c873ecef5503ff6a431b.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "The Lotus Tower genuinely offers the best panoramic view of Colombo available anywhere in the city, and a flexible-duration guided visit lets you take in the skyline at your own pace rather than rushing through on a fixed schedule.",
+            tourCard: { slug: "colombo-private-lotus-tower-guided-tour-flexible", title: "Colombo: Private Lotus Tower Guided Tour & Flexible Duration", description: "A private guided tour of the Lotus Tower in Colombo with flexible duration.", price: "From $372", duration: "Flexible", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6c47224c024a433e11643bf299b25820c583f5415149c873ecef5503ff6a431b.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go toward sunset for genuinely the best light over the city and harbor, rather than the middle of the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lotus Tower guided tour worth it in Colombo?", a: "Yes, for genuinely the best panoramic view of the city available anywhere, especially worthwhile around sunset." },
+        ],
+      };
+
+    case "is-kitulgala-rafting-worth-it-colombo":
+      return {
+        title: "Is the Kitulgala Rainforest Rafting Adventure Worth It from Colombo?",
+        description: "An honest look at the Kitulgala rainforest rafting adventure, a whitewater activity surrounded by genuine jungle scenery outside Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1361748/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kitulgala's river genuinely runs through dense rainforest, giving a whitewater rafting experience with real jungle immersion rather than just the rapids themselves, worth it for travelers wanting adventure and nature scenery combined in one day trip.",
+            tourCard: { slug: "from-colombo-kitulgala-rainforest-rafting", title: "From Colombo: Kitulgala Rainforest Rafting Adventure", description: "A whitewater rafting adventure through Kitulgala's rainforest from Colombo.", price: "From $609", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1361748/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Rafting here runs best after recent rainfall, so check conditions if a specific rapid intensity matters to you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kitulgala rainforest rafting adventure worth it from Colombo?", a: "Yes, for travelers wanting genuine jungle immersion combined with real whitewater rafting in a single day trip." },
+        ],
+      };
+
+    case "is-attidiya-bird-sanctuary-wwii-jeep-worth-it-colombo":
+      return {
+        title: "Is the Colombo City and Attidiya Bird Sanctuary WWII Jeep Tour Worth It?",
+        description: "An honest look at the combined Colombo city and Attidiya Bird Sanctuary tour, done by vintage WWII jeep.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1297600/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Touring in a genuine vintage WWII jeep adds a distinctive, fun element to this combination of city sightseeing and Attidiya's wetland bird sanctuary, worth it for travelers wanting both urban and nature sightseeing with a memorable mode of transport.",
+            tourCard: { slug: "colombo-city-attidiya-bird-sanctuary-tour-by-wwii", title: "Colombo: City & Attidiya Bird Sanctuary Tour by WWII Jeep", description: "A combined city and Attidiya Bird Sanctuary tour by vintage WWII jeep in Colombo.", price: "From $440", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1297600/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring binoculars if you have them — the sanctuary's wetland birdlife is genuinely best appreciated with a closer look than the naked eye allows.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Colombo and Attidiya Bird Sanctuary WWII jeep tour worth it?", a: "Yes, for travelers wanting both city and nature sightseeing combined with a genuinely distinctive, memorable vintage-jeep ride." },
+        ],
+      };
+
+    case "is-seethawaka-secret-garden-worth-it-colombo":
+      return {
+        title: "Is the Seethawaka Kingdom and Secret Garden Escape Worth It from Colombo?",
+        description: "An honest look at the Seethawaka Kingdom and secret garden day trip, a hidden nature escape outside Colombo.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1264154/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This genuinely little-known rainforest and garden escape gives a quiet, lesser-visited alternative to Colombo's more popular day-trip destinations, worth it for travelers specifically seeking a hidden, less crowded nature spot.",
+            tourCard: { slug: "colombo-to-hidden-seethawaka-kingdom-secret", title: "Colombo To Hidden Seethawaka Kingdom & Secret Garden Escape", description: "A day trip to the hidden Seethawaka Kingdom and secret garden from Colombo.", price: "From $229", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1264154/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with no fixed expectations beyond quiet nature — the appeal here is genuinely in the seclusion, not major landmarks." },
+        ],
+        faqs: [
+          { q: "Is the Seethawaka Kingdom and secret garden escape worth it from Colombo?", a: "Yes, for travelers specifically seeking a genuinely hidden, less crowded nature escape away from Colombo's more popular day trips." }
+        ],
+      };
+
+    case "is-maskeliya-waterfalls-worth-it-colombo":
+      return {
+        title: "Is the Maskeliya and Waterfalls Day Trip Worth It from Colombo?",
+        description: "An honest look at the Maskeliya and waterfalls day trip, a hill-country nature escape in Sri Lanka's tea country.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1078482/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Maskeliya's tea-country setting and waterfalls give a genuinely scenic hill-country escape without the multi-day commitment of a full tea-country tour, worth it for travelers wanting a taste of Sri Lanka's highlands as a day trip from Colombo.",
+            tourCard: { slug: "colombo-to-maskeliya-waterfalls-day-trip", title: "Colombo To Maskeliya & Waterfalls Day Trip", description: "A day trip to Maskeliya's tea country and waterfalls from Colombo.", price: "From $246", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1078482/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "It's a genuinely long day given the distance to the highlands, so start early to make the most of time at the waterfalls themselves.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Maskeliya and waterfalls day trip worth it from Colombo?", a: "Yes, for a genuinely scenic taste of Sri Lanka's tea-country highlands as a day trip, without committing to a multi-day tour." }
+        ],
+      };
+
     default:
       return null;
   }
