@@ -727,6 +727,62 @@ export function getMongoliaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-mongolian-culture-tour-full-day-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Mongolian Culture Tour with Full Day Activities Worth It in Ulaanbaatar?",
+                description: "An honest look at the full-day guided Mongolian culture tour with activities in Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c18791e61cb5a60d448da9e30732cf8ff44a319b13293283b4f4bb4cef96b9f9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want immersive hands-on activities rather than just sightseeing — a dedicated full-day culture tour built around activities gives genuine engagement with Mongolian traditions beyond watching from the outside.", tourCard: { slug: "ulaanbaatar-mongolian-culture-tour-with-full-day", title: "Ulaanbaatar: Mongolian Culture Tour with Full Day Activities", description: "A full-day guided Mongolian culture tour with activities in Ulaanbaatar.", price: "From $285", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c18791e61cb5a60d448da9e30732cf8ff44a319b13293283b4f4bb4cef96b9f9.jpg" } },
+                    { title: "Practical Tips", content: "Ask in advance exactly which activities are included, since 'full day activities' can vary significantly by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Mongolian culture tour with full day activities worth it in Ulaanbaatar?", a: "Yes, for travelers wanting genuine hands-on engagement with Mongolian traditions, not just sightseeing." }
+                ],
+            };
+
+        case "is-city-tour-black-market-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Private City Tour with Black Market Narantuul Worth It in Ulaanbaatar?",
+                description: "An honest look at the half-day private Ulaanbaatar city tour including the Narantuul Black Market.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cdffdca2446baa3c3a8f7b0f425143707766daacd6d881b0a4708668f0e5e61.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely raw slice of local commerce alongside standard sightseeing — Narantuul, known as the Black Market, is one of Asia's largest open-air markets, giving real local-life texture that a monument-only city tour skips.", tourCard: { slug: "ulaanbaatar-private-city-tour-with-black-market", title: "Ulaanbaatar: Private City Tour with Black Market Narantuul", description: "A half-day private Ulaanbaatar city tour including the Narantuul Black Market.", price: "From $233", duration: "3.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9cdffdca2446baa3c3a8f7b0f425143707766daacd6d881b0a4708668f0e5e61.jpg" } },
+                    { title: "Practical Tips", content: "Keep valuables secure and be mindful of your belongings at the market, as is sensible at any large, busy open-air bazaar." }
+                ],
+                faqs: [
+                    { q: "Is the city tour with Narantuul Black Market worth it in Ulaanbaatar?", a: "Yes, for travelers wanting a genuinely raw, local side of the city alongside standard monument sightseeing." }
+                ],
+            };
+
+        case "is-chinggis-khan-statue-horse-ride-utv-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Chinggis Khan Statue, Horse Ride & UTV Tour Worth It in Ulaanbaatar?",
+                description: "An honest look at the full-day tour combining the Chinggis Khaan Statue Complex, a horse ride, and a UTV adventure from Ulaanbaatar.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af4f01beb50deb769edeca12ee73c10d96c0536508092b6a6d24ed2a618f1b23.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want history and adrenaline combined rather than just viewing the statue — pairing the massive Chinggis Khaan Statue Complex with a horse ride and UTV adventure gives this day genuine physical activity on top of the sightseeing.", tourCard: { slug: "ulaanbaatar-chinggis-khan-statue-horse-ride-utv", title: "Ulaanbaatar: Chinggis Khan Statue, Horse Ride, & UTV Tour", description: "A full-day tour combining the Chinggis Khaan Statue Complex, a horse ride, and a UTV adventure from Ulaanbaatar.", price: "From $285", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/af4f01beb50deb769edeca12ee73c10d96c0536508092b6a6d24ed2a618f1b23.jpg" } },
+                    { title: "Practical Tips", content: "Dress in layers, since the day moves between the statue complex, horseback time, and a dusty UTV ride across varied terrain." }
+                ],
+                faqs: [
+                    { q: "Is the Chinggis Khan Statue, horse ride, and UTV tour worth it in Ulaanbaatar?", a: "Yes, for travelers wanting genuine physical activity combined with the iconic statue sightseeing." }
+                ],
+            };
+
+        case "is-highlights-private-city-tour-car-worth-it-ulaanbaatar":
+            return {
+                title: "Is the Ulaanbaatar Highlights & Private City Tour with Car Worth It?",
+                description: "An honest look at the full-day private city tour covering Ulaanbaatar's highlights with a car and driver.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4dd7a0434df80f215a06cb5f08a35c5c3af8e3ecc817f896238fef93728f3b1.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a stress-free, efficient way to cover the city's main sights in one day — a private car and driver removes the hassle of navigating Ulaanbaatar's traffic and public transport on your own.", tourCard: { slug: "ulaanbaatar-highlights-private-city-tour-with-car", title: "Ulaanbaatar: Highlights & Private City Tour with Car", description: "A full-day private city tour covering Ulaanbaatar's highlights with a car and driver.", price: "From $319", duration: "8.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/a4dd7a0434df80f215a06cb5f08a35c5c3af8e3ecc817f896238fef93728f3b1.png" } },
+                    { title: "Practical Tips", content: "Share your specific must-see list with the driver in advance to make the most of the private, flexible format." }
+                ],
+                faqs: [
+                    { q: "Is the highlights and private city tour with car worth it in Ulaanbaatar?", a: "Yes, for travelers wanting a stress-free, efficient way to cover the city's main sights without navigating traffic themselves." }
+                ],
+            };
+
         default:
             return null;
     }

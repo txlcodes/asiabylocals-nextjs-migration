@@ -922,6 +922,8 @@ export const ULAANBAATAR_INFO_SLUGS: string[] = [
   'is-cow-herding-experience-worth-it-ulaanbaatar', 'is-terelj-zipline-worth-it-ulaanbaatar',
   'is-motorcycle-hot-springs-tour-worth-it-ulaanbaatar', 'is-darkhan-shamanic-culture-tour-worth-it-ulaanbaatar',
   'is-khugnu-khan-mountain-tour-worth-it-ulaanbaatar', 'is-asralt-peak-trek-worth-it-ulaanbaatar',
+  'is-mongolian-culture-tour-full-day-worth-it-ulaanbaatar', 'is-city-tour-black-market-worth-it-ulaanbaatar',
+  'is-chinggis-khan-statue-horse-ride-utv-worth-it-ulaanbaatar', 'is-highlights-private-city-tour-car-worth-it-ulaanbaatar',
 ];
 
 // Israel launched 2026-11-19 with 110 live tours and zero authority pages.
