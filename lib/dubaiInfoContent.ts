@@ -1991,6 +1991,90 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-dinner-in-the-sky-worth-it-dubai":
+      return {
+        title: "Is the Dubai Dinner in the Sky Experience Worth It?",
+        description: "An honest look at Dubai's Dinner in the Sky experience, dining suspended high above the ground.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely unique dining memory rather than just a meal with a view — this suspends your table (and you) dozens of meters in the air by crane, a distinctive experience you can't easily replicate elsewhere.",
+            tourCard: { slug: "dubai-dinner-in-the-sky-experience", title: "Dubai: Dinner in the Sky Experience", description: "A dining experience suspended high above the ground by crane in Dubai.", price: "From $371", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "This isn't suited to anyone with a fear of heights — the table is genuinely suspended in open air with no enclosed cabin.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dinner in the Sky experience worth it in Dubai?", a: "Yes, for travelers wanting a genuinely unique, memorable dining experience, though it's not suited to those with a fear of heights." },
+        ],
+      };
+
+    case "is-mleiha-dinner-dunes-worth-it-dubai":
+      return {
+        title: "Is the Private Dinner in the Dunes in Mleiha Worth It from Dubai?",
+        description: "An honest look at the private dinner in the dunes at Mleiha, away from Dubai's standard desert camps.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely quieter, more intimate desert evening — Mleiha is less commercialized than Dubai's main desert safari zones, with real archaeological and geological significance, giving a private dinner here more authenticity than a standard tourist camp.",
+            tourCard: { slug: "from-dubai-private-dinner-in-the-dunes-in-mleiha", title: "From Dubai: Private Dinner in the Dunes in Mleiha", description: "A private dinner in the dunes at Mleiha from Dubai.", price: "From $425", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mleiha is roughly an hour from Dubai, so factor in the drive time when planning your evening schedule.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private dinner in the dunes at Mleiha worth it from Dubai?", a: "Yes, for travelers wanting a genuinely quieter, more authentic desert evening than Dubai's standard commercial camps." },
+        ],
+      };
+
+    case "is-efoil-experience-worth-it-dubai":
+      return {
+        title: "Is the Dubai Electric Hydrofoil or eFoil Surfboard Experience Worth It?",
+        description: "An honest look at Dubai's electric hydrofoil (eFoil) surfboard experience.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely futuristic water sport — an eFoil is an electric-powered hydrofoil board that lifts above the water's surface, giving a smooth, almost-flying sensation unlike standard surfing or jet skiing.",
+            tourCard: { slug: "dubai-electric-hydrofoil-or-efoil-surfboard-experi", title: "Dubai: Electric Hydrofoil or eFoil Surfboard Experience", description: "An electric hydrofoil (eFoil) surfboard experience in Dubai.", price: "From $415", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior surfing experience is required — instructors typically run a short training session before you head out.",
+          },
+        ],
+        faqs: [
+          { q: "Is the eFoil experience worth it in Dubai?", a: "Yes, for travelers wanting a genuinely futuristic water sport distinct from standard surfing or jet skiing." },
+        ],
+      };
+
+    case "is-sunseeker-omakase-dinner-cruise-worth-it-dubai":
+      return {
+        title: "Is the Dubai Sunseeker Superyacht Omakase Dinner Cruise Worth It?",
+        description: "An honest look at Dubai's Sunseeker superyacht cruise featuring an omakase-style dinner.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want premium Japanese dining paired with a luxury yacht cruise — omakase puts the chef in control of a curated multi-course menu, a genuinely elevated dining format aboard a proper Sunseeker superyacht.",
+            tourCard: { slug: "dubai-sunseeker-superyacht-omakase-dinner-cruise", title: "Dubai Sunseeker Superyacht Omakase Dinner Cruise", description: "A Sunseeker superyacht cruise in Dubai featuring an omakase-style dinner.", price: "From $355", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any dietary restrictions in advance, since omakase menus are chef-curated and harder to adjust on the spot than an à la carte meal.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sunseeker superyacht omakase dinner cruise worth it in Dubai?", a: "Yes, for travelers wanting premium Japanese dining paired with a luxury yacht setting." },
+        ],
+      };
+
     default:
       return null;
   }

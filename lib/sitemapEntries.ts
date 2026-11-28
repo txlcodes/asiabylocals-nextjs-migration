@@ -2320,7 +2320,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-fishing-charter-no-fish-no-pay-worth-it-dubai', 'is-ras-al-khaimah-day-trip-worth-it-dubai',
     'is-michelin-dinner-desert-safari-worth-it-dubai',
     'is-loco-bear-experience-worth-it-dubai', 'is-clay-dine-couples-family-worth-it-dubai',
-    'is-cabriolet-convertible-tour-worth-it-dubai', 'is-elite-tour-sky-pool-shopping-worth-it-dubai'].map(slug => ({
+    'is-cabriolet-convertible-tour-worth-it-dubai', 'is-elite-tour-sky-pool-shopping-worth-it-dubai',
+    'is-dinner-in-the-sky-worth-it-dubai', 'is-mleiha-dinner-dunes-worth-it-dubai',
+    'is-efoil-experience-worth-it-dubai', 'is-sunseeker-omakase-dinner-cruise-worth-it-dubai'].map(slug => ({
     url: `${BASE_URL}/uae/dubai/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,

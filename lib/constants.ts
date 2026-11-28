@@ -2918,6 +2918,8 @@ export const DUBAI_INFO_SLUGS = [
   'is-michelin-dinner-desert-safari-worth-it-dubai',
   'is-loco-bear-experience-worth-it-dubai', 'is-clay-dine-couples-family-worth-it-dubai',
   'is-cabriolet-convertible-tour-worth-it-dubai', 'is-elite-tour-sky-pool-shopping-worth-it-dubai',
+  'is-dinner-in-the-sky-worth-it-dubai', 'is-mleiha-dinner-dunes-worth-it-dubai',
+  'is-efoil-experience-worth-it-dubai', 'is-sunseeker-omakase-dinner-cruise-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.
