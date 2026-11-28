@@ -1819,6 +1819,62 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-yilan-spirits-tastings-worth-it-taipei":
+      return {
+        title: "Is the Taipei to Yilan Spirits Tour with Tastings Worth It?",
+        description: "An honest look at the Yilan spirits tour from Taipei, featuring local tastings.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for travelers interested in Taiwanese craft spirits specifically — Yilan is known for its whisky and local distilleries, and this tour gives hands-on tastings beyond what you'd get at a standard Taipei bar or shop.", tourCard: { slug: "from-taipei-yilan-spirits-tour-with-tastings", title: "From Taipei: Yilan Spirits Tour with Tastings", description: "A spirits tour of Yilan from Taipei featuring local distillery tastings.", price: "From $277", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Designate transport in advance or confirm the tour includes a driver, since tastings mean you shouldn't be behind the wheel." },
+        ],
+        faqs: [
+          { q: "Is the Yilan spirits tour worth it from Taipei?", a: "Yes, for travelers with genuine interest in Taiwanese craft spirits and distillery tastings." },
+        ],
+      };
+
+    case "is-sun-moon-lake-sup-worth-it-taipei":
+      return {
+        title: "Is the Sun Moon Lake SUP Tour from Taipei Worth It?",
+        description: "An honest look at the stand-up paddleboarding tour on Sun Moon Lake from Taipei, with round-trip bus tickets.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want to actually get on the water rather than just view Sun Moon Lake from the shore — stand-up paddleboarding gives a genuinely active, close-up way to experience the lake's scenery, with round-trip bus transport handled.", tourCard: { slug: "from-taipei-sun-moon-lake-sup-tour-round-trip", title: "From Taipei: Sun Moon Lake SUP Tour & Round-Trip Bus Tickets", description: "A stand-up paddleboarding tour on Sun Moon Lake from Taipei, with round-trip bus tickets.", price: "From $143", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "No prior paddleboarding experience is typically required, but confirm with the operator if balance is a concern." },
+        ],
+        faqs: [
+          { q: "Is the Sun Moon Lake SUP tour worth it from Taipei?", a: "Yes, for travelers wanting an active, close-up way to experience the lake rather than just viewing it from shore." },
+        ],
+      };
+
+    case "is-landmark-photoshoot-48hr-worth-it-taipei":
+      return {
+        title: "Is the Taipei Private Iconic Landmark Photoshoot (48-Hour Delivery) Worth It?",
+        description: "An honest look at Taipei's private photoshoot at iconic landmarks, with photos delivered within 48 hours.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want professional-quality photos at Taipei's landmarks delivered quickly — a dedicated photographer and fast 48-hour turnaround means you'll have polished images before you even leave the city.", tourCard: { slug: "taipei-private-iconic-landmark-photoshoot-48-hour", title: "Taipei: Private Iconic Landmark Photoshoot, 48-Hour Delivery", description: "A private photoshoot at Taipei's iconic landmarks with photos delivered within 48 hours.", price: "From $85", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Pick your preferred landmarks in advance so the photographer can plan an efficient route within your session time." },
+        ],
+        faqs: [
+          { q: "Is the Taipei landmark photoshoot with 48-hour delivery worth it?", a: "Yes, for travelers wanting professional photos at the city's landmarks, delivered quickly before they leave." },
+        ],
+      };
+
+    case "is-pinglin-maokong-gondola-worth-it-taipei":
+      return {
+        title: "Is the Pinglin Tea Culture and Maokong Gondola Tour Worth It from Taipei?",
+        description: "An honest look at the Pinglin tea culture tour combined with a ride on the Maokong Gondola.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want to pair genuine tea culture with a scenic ride — Pinglin is a historic tea-growing region, and finishing with the Maokong Gondola gives sweeping views over Taipei's tea plantations that you can't get from the ground.", tourCard: { slug: "from-taipei-pinglin-tea-culture-and-maokong", title: "From Taipei: Pinglin Tea Culture and Maokong Gondola Tour", description: "A tour of Pinglin's tea culture combined with a ride on the Maokong Gondola from Taipei.", price: "From $106", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Visit on a clear day if possible — the Maokong Gondola's views are the highlight, and they're far better without cloud cover." },
+        ],
+        faqs: [
+          { q: "Is the Pinglin tea culture and Maokong Gondola tour worth it from Taipei?", a: "Yes, for travelers wanting genuine tea culture paired with sweeping gondola views over the plantations." },
+        ],
+      };
+
     default:
       return null;
   }
