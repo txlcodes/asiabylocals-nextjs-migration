@@ -1657,6 +1657,111 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-floating-sky-dining-worth-it-dubai":
+      return {
+        title: "Is Floating Sky Dining Worth It in Dubai?",
+        description: "An honest look at Dubai's floating sky dining experience with hotel transfers, an elevated dinner table suspended above the ground.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1389564/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Dining at a table genuinely suspended in the air over the city skyline is a real novelty experience distinct from Dubai's usual rooftop restaurants, worth it specifically for travelers wanting a dramatic, photo-worthy evening rather than just a nice view from a fixed terrace.",
+            tourCard: { slug: "dubai-floating-sky-dining-with-hotel-transfers", title: "Dubai: Floating Sky Dining with Hotel Transfers", description: "A floating sky dining experience suspended above the ground with hotel transfers included.", price: "From $1183", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1389564/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is priced as a genuine once-in-a-trip splurge, so it's worth it specifically for a special occasion rather than a casual dinner out.",
+          },
+        ],
+        faqs: [
+          { q: "Is floating sky dining worth it in Dubai?", a: "Yes, for a genuinely dramatic, once-in-a-trip novelty experience, distinct from Dubai's usual rooftop restaurant dining." },
+        ],
+      };
+
+    case "is-skyline-pool-palm-observatory-worth-it-dubai":
+      return {
+        title: "Is the Skyline Pool Experience & Palm Observatory Worth It in Dubai?",
+        description: "An honest look at Dubai's hosted skyline pool experience paired with the Palm Observatory, combining a rooftop pool day with panoramic views.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1249566/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a hosted rooftop pool experience with access to the Palm Observatory's panoramic views gives a genuinely relaxed, resort-style day with real sightseeing value built in, worth it for travelers wanting a poolside break that still delivers skyline views.",
+            tourCard: { slug: "dubai-hosted-skyline-pool-experience-palm-observat", title: "Dubai: Hosted Skyline Pool Experience & Palm Observatory", description: "A hosted skyline pool experience combined with Palm Observatory access in Dubai.", price: "From $761", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1249566/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection and plan to stay the full session, since the genuine value here comes from relaxing poolside rather than rushing through for photos.",
+          },
+        ],
+        faqs: [
+          { q: "Is the skyline pool experience and Palm Observatory worth it in Dubai?", a: "Yes, for a genuinely relaxed resort-style day that still delivers real panoramic skyline views, rather than choosing between a pool day or sightseeing." },
+        ],
+      };
+
+    case "is-umm-al-quwain-horseback-worth-it-dubai":
+      return {
+        title: "Is the Umm Al Quwain Beach Horseback Ride Worth It from Dubai?",
+        description: "An honest look at the exclusive beach horseback ride in Umm Al Quwain, a quieter emirate outside Dubai's usual sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1260396/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding a horse along Umm Al Quwain's quiet coastline gives a genuinely different, much less crowded beach experience than anything along Dubai's own Marina or JBR beaches, worth it for travelers wanting a real escape from the city's density.",
+            tourCard: { slug: "umm-al-quwain-exclusive-beach-horseback-ride", title: "Umm Al Quwain: Exclusive Beach Horseback Ride", description: "An exclusive beach horseback ride in Umm Al Quwain, outside Dubai.", price: "From $738", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1260396/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior riding experience is strictly required, but confirm skill level expectations with the operator beforehand since this runs along open beach rather than a controlled arena.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Umm Al Quwain beach horseback ride worth it from Dubai?", a: "Yes, for a genuinely quieter, much less crowded beach experience than Dubai's own Marina or JBR beaches." },
+        ],
+      };
+
+    case "is-arte-museum-worth-it-dubai":
+      return {
+        title: "Is ARTE MUSEUM Worth It in Dubai?",
+        description: "An honest look at ARTE MUSEUM in Dubai, an immersive digital art experience with transfers included.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1478320/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "ARTE MUSEUM's large-scale projected digital art installations give a genuinely immersive, photogenic experience distinct from Dubai's traditional museums, worth it for travelers wanting a modern, visually striking indoor activity, especially during the hottest parts of the day.",
+            tourCard: { slug: "dubai-arte-museum-tickets-with-private-gmc-yukon-t", title: "Dubai: ARTE MUSEUM Tickets with Private GMC Yukon Transfer", description: "Tickets to ARTE MUSEUM's immersive digital art installations with private transfer.", price: "From $550", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1478320/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely good midday option when outdoor desert or beach activities are at their hottest and least comfortable.",
+          },
+        ],
+        faqs: [
+          { q: "Is ARTE MUSEUM worth it in Dubai?", a: "Yes, for a genuinely immersive, modern digital art experience, and a good indoor option during the hottest parts of the day." },
+        ],
+      };
+
+    case "is-dinosaurs-odyssey-vr-worth-it-dubai":
+      return {
+        title: "Is Dinosaurs Odyssey VR & Fossil Museum Worth It in Dubai?",
+        description: "An honest look at Dubai's Dinosaurs Odyssey VR and fossil museum experience, a family-friendly indoor attraction.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1481089/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining a real fossil museum collection with an immersive VR dinosaur experience gives genuinely engaging content for both kids and adults, worth it specifically for families looking for an indoor activity that's more substantial than a typical theme-park attraction.",
+            tourCard: { slug: "dubai-dinosaurs-odyssey-vr-fossil-museum-with-gmc-", title: "Dubai: Dinosaurs Odyssey VR & Fossil Museum with GMC YUKON", description: "A VR dinosaur experience paired with a fossil museum, with transfer included.", price: "From $550", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1481089/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely good family pick for a hot afternoon, combining real educational content with the VR novelty kids will enjoy.",
+          },
+        ],
+        faqs: [
+          { q: "Is Dinosaurs Odyssey VR and the fossil museum worth it in Dubai?", a: "Yes, for families wanting a genuinely engaging indoor activity combining real fossils with an immersive VR dinosaur experience." },
+        ],
+      };
+
     default:
       return null;
   }
