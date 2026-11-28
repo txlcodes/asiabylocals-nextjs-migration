@@ -1866,6 +1866,8 @@ export const BANGKOK_INFO_SLUGS = [
   'is-guided-fishing-market-coffee-worth-it-bangkok',
   'is-bradbury-led-massage-worth-it-bangkok', 'is-flower-market-garland-workshop-worth-it-bangkok',
   'is-shooting-range-coach-worth-it-bangkok', 'is-chandee-head-spa-worth-it-bangkok',
+  'is-khao-yai-waterfalls-deer-spotting-worth-it-bangkok', 'is-flower-market-floral-art-worth-it-bangkok',
+  'is-instagram-spots-half-day-temples-worth-it-bangkok', 'is-private-nightlife-tuk-tuk-tour-worth-it-bangkok',
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [

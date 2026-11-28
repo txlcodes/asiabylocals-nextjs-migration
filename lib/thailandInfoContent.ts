@@ -2574,6 +2574,66 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-khao-yai-waterfalls-deer-spotting-worth-it-bangkok":
+            return {
+                title: "Is the Khao Yai Waterfalls, Deer Spotting and Jungle Walks Tour Worth It from Bangkok?",
+                description: "An honest look at the full-day Khao Yai National Park tour combining waterfalls, deer spotting, and jungle walks from Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/khao-yai-waterfalls-deer-spotting-and-jungle-walks/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting genuine wildlife and nature rather than another temple or market day — Khao Yai National Park is a UNESCO World Heritage site, and combining waterfalls, deer spotting, and jungle walks gives real variety across one full day away from Bangkok.",
+                    tourCard: { slug: "khao-yai-waterfalls-deer-spotting-and-jungle-walks", title: "Khao Yai Waterfalls, Deer Spotting and Jungle Walks", description: "A full-day Khao Yai National Park tour combining waterfalls, deer spotting, and jungle walks from Bangkok.", price: "From $300", duration: "12 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/khao-yai-waterfalls-deer-spotting-and-jungle-walks/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wildlife sightings depend on timing and luck, so treat deer spotting as a bonus alongside the guaranteed waterfall and jungle scenery." }
+                ],
+                faqs: [
+                    { q: "Is the Khao Yai waterfalls, deer spotting, and jungle walks tour worth it from Bangkok?", a: "Yes, for travelers wanting genuine wildlife and nature variety in a UNESCO World Heritage national park, away from the city." }
+                ],
+            };
+
+        case "is-flower-market-floral-art-worth-it-bangkok":
+            return {
+                title: "Is the Flower Market and Floral Art Multi-Language Private Tour Worth It in Bangkok?",
+                description: "An honest look at the half-day private flower market tour with a floral art component in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/flower-market-and-floral-art-multi-language-private-tour-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if flowers and floral culture genuinely interest you — Pak Khlong Talat is one of Asia's largest flower markets, and pairing it with a floral art element gives this half-day a creative dimension beyond just walking through stalls.",
+                    tourCard: { slug: "flower-market-and-floral-art-multi-language-private-tour-in-bangkok", title: "Flower Market and Floral Art: Multi-language Private Tour in Bangkok", description: "A half-day private flower market tour with a floral art component in Bangkok.", price: "From $255", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/flower-market-and-floral-art-multi-language-private-tour-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Visit in the early morning or late evening, when Bangkok's flower market is genuinely at its most active and colorful." }
+                ],
+                faqs: [
+                    { q: "Is the flower market and floral art tour worth it in Bangkok?", a: "Yes, for travelers with genuine interest in flowers, offering a creative dimension beyond simply browsing market stalls." }
+                ],
+            };
+
+        case "is-instagram-spots-half-day-temples-worth-it-bangkok":
+            return {
+                title: "Is the Instagram Spots and Half-Day Temples Tour Worth It in Bangkok?",
+                description: "An honest look at the half-day Bangkok temples tour covering Wat Pho and Wat Arun, framed around photogenic Instagram spots.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/instagram-spots-and-half-day-temples-tour-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if photos matter as much to you as the history — covering Wat Pho and Wat Arun with a river boat crossing between them hits two of Bangkok's most photogenic temples, with a guide who knows exactly where to stand for the best shots.",
+                    tourCard: { slug: "instagram-spots-and-half-day-temples-tour-in-bangkok", title: "Instagram Spots and Half-Day Temples Tour in Bangkok", description: "A half-day Bangkok temples tour covering Wat Pho and Wat Arun, framed around photogenic Instagram spots.", price: "From $191", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/instagram-spots-and-half-day-temples-tour-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear modest clothing covering shoulders and knees, as required at both Wat Pho and Wat Arun regardless of the photo focus." }
+                ],
+                faqs: [
+                    { q: "Is the Instagram spots and half-day temples tour worth it in Bangkok?", a: "Yes, for travelers wanting both genuine temple sightseeing and a guide who knows the best photo spots at Wat Pho and Wat Arun." }
+                ],
+            };
+
+        case "is-private-nightlife-tuk-tuk-tour-worth-it-bangkok":
+            return {
+                title: "Is the Private Nightlife Tuk-Tuk Tour with Hotel Pickup Worth It in Bangkok?",
+                description: "An honest look at the half-day private nightlife tuk-tuk tour with hotel pickup in Bangkok.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-nightlife-tuk-tuk-tour-with-hotel-pickup-in-bangkok/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a fun, low-effort way to see Bangkok's streets light up at night — riding a tuk-tuk with hotel pickup included removes the hassle of navigating taxis or ride-shares between nightlife stops yourself.",
+                    tourCard: { slug: "private-nightlife-tuk-tuk-tour-with-hotel-pickup-in-bangkok", title: "Private Nightlife Tuk-Tuk Tour with Hotel Pickup in Bangkok", description: "A half-day private nightlife tuk-tuk tour with hotel pickup in Bangkok.", price: "From $194", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-nightlife-tuk-tuk-tour-with-hotel-pickup-in-bangkok/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Tuk-tuks are open-air, so dress for the evening weather and expect a breezier ride than an enclosed car." }
+                ],
+                faqs: [
+                    { q: "Is the private nightlife tuk-tuk tour worth it in Bangkok?", a: "Yes, for travelers wanting a fun, low-effort way to see Bangkok's nightlife with hotel pickup handled for them." }
+                ],
+            };
+
         case "is-chandee-head-spa-worth-it-bangkok":
             return {
                 title: "Is the Chandee Head Spa and Massage at Sukhumvit 39 Worth It?",
