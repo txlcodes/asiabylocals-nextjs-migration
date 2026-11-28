@@ -3211,6 +3211,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-tay-ninh-craft-village-worth-it-ho-chi-minh-city', 'is-cat-tien-crocodile-lake-worth-it-ho-chi-minh-city',
     'is-vegetarian-street-food-worth-it-ho-chi-minh-city',
     'is-saigon-after-dark-street-food-worth-it-ho-chi-minh-city',
+    'is-pineapple-kingdom-mekong-delta-worth-it-ho-chi-minh-city', 'is-cu-chi-tunnels-bike-worth-it-ho-chi-minh-city',
+    'is-tra-su-cajuput-ta-pa-pagoda-worth-it-ho-chi-minh-city', 'is-long-tan-nui-dat-battlefield-worth-it-ho-chi-minh-city',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ho-chi-minh-city/${slug}`,
     lastModified: new Date(),

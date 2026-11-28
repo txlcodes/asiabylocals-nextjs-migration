@@ -3404,6 +3404,8 @@ export const HO_CHI_MINH_CITY_INFO_SLUGS = [
   'is-tay-ninh-craft-village-worth-it-ho-chi-minh-city', 'is-cat-tien-crocodile-lake-worth-it-ho-chi-minh-city',
   'is-vegetarian-street-food-worth-it-ho-chi-minh-city',
   'is-saigon-after-dark-street-food-worth-it-ho-chi-minh-city',
+  'is-pineapple-kingdom-mekong-delta-worth-it-ho-chi-minh-city', 'is-cu-chi-tunnels-bike-worth-it-ho-chi-minh-city',
+  'is-tra-su-cajuput-ta-pa-pagoda-worth-it-ho-chi-minh-city', 'is-long-tan-nui-dat-battlefield-worth-it-ho-chi-minh-city',
 ];
 
 // Jaisalmer (5 live tours) and Udaipur (9 live tours) launched 2026-11-28,

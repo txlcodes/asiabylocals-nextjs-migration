@@ -1704,6 +1704,90 @@ export function getHoChiMinhCityInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-pineapple-kingdom-mekong-delta-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Mekong Delta Authentic Day Trip with Pineapple Kingdom Worth It?",
+        description: "An honest look at the half-day authentic Mekong Delta day trip with a stop at Pineapple Kingdom from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/mekong-delta-authentic-day-trip-with-pineapple-kingdom-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely different Mekong Delta stop than the usual floating markets — Pineapple Kingdom is a working pineapple farm with sampan boat rides through its canals, giving real agricultural variety alongside your delta visit.",
+            tourCard: { slug: "mekong-delta-authentic-day-trip-with-pineapple-kingdom-ho-chi-minh-city", title: "Mekong Delta: Authentic Day Trip with Pineapple Kingdom", description: "A half-day authentic Mekong Delta day trip with a stop at Pineapple Kingdom from Ho Chi Minh City.", price: "From $312", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/mekong-delta-authentic-day-trip-with-pineapple-kingdom-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Try the fresh pineapple on offer at the farm — it's a genuine highlight most standard Mekong Delta tours skip entirely.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mekong Delta day trip with Pineapple Kingdom worth it from Ho Chi Minh City?", a: "Yes, for travelers wanting a genuinely different Mekong Delta stop beyond the usual floating markets." },
+        ],
+      };
+
+    case "is-cu-chi-tunnels-bike-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is Exploring the Cu Chi Tunnels by Bike Worth It from Ho Chi Minh City?",
+        description: "An honest look at the full-day Cu Chi Tunnels tour by bike from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/explore-cu-chi-tunnels-by-bike/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a more active, immersive way to reach the tunnels than a standard bus tour — cycling through the surrounding countryside gives genuine context for the terrain the Viet Cong operated in, beyond just the tunnel entrances themselves.",
+            tourCard: { slug: "explore-cu-chi-tunnels-by-bike", title: "Explore Cu Chi Tunnels by Bike", description: "A full-day Cu Chi Tunnels tour by bike from Ho Chi Minh City.", price: "From $306", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/explore-cu-chi-tunnels-by-bike/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear breathable clothing and sun protection, since the cycling portion covers real distance under the Vietnamese sun.",
+          },
+        ],
+        faqs: [
+          { q: "Is exploring the Cu Chi Tunnels by bike worth it from Ho Chi Minh City?", a: "Yes, for travelers wanting a more active, immersive way to experience the tunnels and surrounding countryside." },
+        ],
+      };
+
+    case "is-tra-su-cajuput-ta-pa-pagoda-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Can Tho Tra Su Cajuput Forest and Ta Pa Pagoda Day Tour Worth It?",
+        description: "An honest look at the full-day tour covering Tra Su Cajuput Forest and Ta Pa Pagoda from Ho Chi Minh City.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200390/asiabylocals/tours/can-tho-tra-su-cajuput-forest-and-ta-pa-pagoda-day-tour-in-ho-chi-minh-city/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuinely distinct Mekong Delta ecology and religious architecture in one day — Tra Su's cajuput forest and bird sanctuary give real natural variety, and Ta Pa Pagoda adds a cultural stop most delta itineraries don't include.",
+            tourCard: { slug: "can-tho-tra-su-cajuput-forest-and-ta-pa-pagoda-day-tour-in-ho-chi-minh-city", title: "Can Tho: Tra Su Cajuput Forest and Ta Pa Pagoda Day Tour", description: "A full-day tour covering Tra Su Cajuput Forest and Ta Pa Pagoda from Ho Chi Minh City.", price: "From $260", duration: "12 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200390/asiabylocals/tours/can-tho-tra-su-cajuput-forest-and-ta-pa-pagoda-day-tour-in-ho-chi-minh-city/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the distance to the delta's An Giang region, so confirm pickup times leave enough buffer.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Tra Su Cajuput Forest and Ta Pa Pagoda day tour worth it from Ho Chi Minh City?", a: "Yes, for travelers wanting distinct Mekong Delta ecology and religious architecture beyond standard delta itineraries." },
+        ],
+      };
+
+    case "is-long-tan-nui-dat-battlefield-worth-it-ho-chi-minh-city":
+      return {
+        title: "Is the Long Tan and Nui Dat Battlefield Private Tour Worth It from Ho Chi Minh City?",
+        description: "An honest look at the half-day private tour of the Long Tan and Nui Dat battlefield sites from Ho Chi Minh City.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/long-tan-and-nui-dat-battlefield-private-in-ho-chi-minh-city/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for history enthusiasts specifically — Long Tan and Nui Dat were significant Australian military sites during the Vietnam War, and this private tour covers ground that most standard Cu Chi Tunnels itineraries don't touch.",
+            tourCard: { slug: "long-tan-and-nui-dat-battlefield-private-in-ho-chi-minh-city", title: "Long Tan and Nui Dat Battlefield Private", description: "A half-day private tour of the Long Tan and Nui Dat battlefield sites from Ho Chi Minh City.", price: "From $137", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/long-tan-and-nui-dat-battlefield-private-in-ho-chi-minh-city/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers with specific interest in Vietnam War history from the Australian perspective, distinct from the more commonly visited Cu Chi Tunnels.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Long Tan and Nui Dat battlefield tour worth it from Ho Chi Minh City?", a: "Yes, for history enthusiasts interested in Australian military history during the Vietnam War, beyond the standard Cu Chi Tunnels circuit." },
+        ],
+      };
+
     default:
       return null;
   }
