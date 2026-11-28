@@ -1762,6 +1762,151 @@ export function getDubaiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-lamborghini-experience-worth-it-dubai":
+      return {
+        title: "Is the Dubai Lamborghini Experience Worth It?",
+        description: "An honest look at Dubai's $2,185 Lamborghini driving experience through the city.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically if driving a Lamborghini through Dubai's skyline is on your bucket list — this isn't a guided tour so much as a self-drive experience, with the city's backdrop as the appeal.",
+            tourCard: { slug: "experience-dubai-in-a-lamborghini", title: "Experience Dubai in a Lamborghini", description: "A self-drive Lamborghini experience through Dubai.", price: "From $2,185", duration: "A few hours", image: IMG },
+          },
+          {
+            title: "What You Actually Get",
+            content: "You get behind the wheel of a Lamborghini for a set duration, driving routes that typically pass Dubai's most photogenic skyline and waterfront spots — a self-drive thrill rather than a chauffeured sightseeing tour.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for car enthusiasts with a valid license who want the driving experience itself, not travelers looking for a guided city tour.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Check license, age, and deposit requirements in advance — supercar rentals in Dubai often have stricter requirements than standard car hire.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dubai Lamborghini experience worth it?", a: "Yes, for car enthusiasts wanting a self-drive supercar thrill through the city, though it's a driving experience rather than a guided tour." },
+        ],
+      };
+
+    case "is-wonder-bus-amphibious-tour-worth-it-dubai":
+      return {
+        title: "Is the Dubai Wonder Bus Amphibious Tour Worth It?",
+        description: "An honest look at Dubai's $1,472 combo tour pairing a hot air balloon ride with the amphibious Wonder Bus.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely different way to see Dubai Creek — the Wonder Bus drives on land then rolls straight into the water as a boat, covering both the city streets and the creek in one vehicle, paired here with a hot air balloon ride for a sky-sea-land combo.",
+            tourCard: { slug: "dubai-balloon-ride-and-wonder-bus-tour-sky-sea", title: "Dubai: Balloon Ride and Wonder Bus Tour, Sky, Sea &land Tour", description: "A combo tour pairing a hot air balloon ride with the amphibious Wonder Bus.", price: "From $1,472", duration: "Half day", image: IMG },
+          },
+          {
+            title: "What You Actually Get",
+            content: "The Wonder Bus is a genuine amphibious vehicle — it drives through the city then transitions into Dubai Creek as a boat, no transfer needed — combined here with a separate hot air balloon flight for a sky, sea, and land experience in one booking.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers who like novelty transport experiences and want a varied day rather than a single-activity booking.",
+          },
+          {
+            title: "Practical Tips",
+            content: "The balloon flight typically runs early morning, so expect an early start if this combo is on your itinerary.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Dubai Wonder Bus tour worth it?", a: "Yes, for the novelty of an amphibious vehicle covering both city streets and Dubai Creek, especially combined with a balloon flight." },
+        ],
+      };
+
+    case "is-fishing-charter-no-fish-no-pay-worth-it-dubai":
+      return {
+        title: "Is Dubai's \"No Fish, No Pay\" Fishing Charter Worth It?",
+        description: "An honest look at Dubai's $1,151 fishing charter with a no-fish-no-pay guarantee.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if deep sea fishing appeals and you want the risk taken out of it — this charter's guarantee means you only pay if the trip actually lands fish, a meaningful difference from standard fishing charters where you pay regardless of the catch.",
+            tourCard: { slug: "dubais-best-fishing-charter-no-fish-no-pay", title: "Dubai's BEST Fishing Charter – No Fish, No Pay!", description: "A deep sea fishing charter with a no-fish-no-pay guarantee.", price: "From $1,151", duration: "Half day", image: IMG },
+          },
+          {
+            title: "What You Actually Get",
+            content: "A full fishing charter with captain and crew in the waters off Dubai, with the operator's guarantee removing the usual gamble of paying full price for a trip that comes back empty-handed.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for serious anglers who want an actual fishing trip rather than a scenic boat ride — this is about the catch, not the skyline views.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask what counts toward the guarantee (species, size, number of fish) before booking, since guarantees like this usually have specific conditions attached.",
+          },
+        ],
+        faqs: [
+          { q: "Is the no-fish-no-pay fishing charter worth it in Dubai?", a: "Yes, for anglers wanting a genuine fishing trip with the financial risk removed if the trip comes back empty." },
+        ],
+      };
+
+    case "is-ras-al-khaimah-day-trip-worth-it-dubai":
+      return {
+        title: "Is the Ras Al Khaimah Day Trip from Dubai Worth It?",
+        description: "An honest look at the $1,082 private SUV sightseeing day trip from Dubai to Ras Al Khaimah.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see a quieter, more mountainous side of the UAE — Ras Al Khaimah offers dramatic Hajar Mountains scenery that Dubai's flat desert and skyline don't have, reached by private SUV for flexible stops along the way.",
+            tourCard: { slug: "from-dubai-ras-al-khaimah-private-suv-sightseeing-", title: "From Dubai: Ras Al Khaimah Private SUV Sightseeing Tour", description: "A private SUV sightseeing day trip from Dubai to Ras Al Khaimah.", price: "From $1,082", duration: "Full day", image: IMG },
+          },
+          {
+            title: "What You Actually See",
+            content: "Ras Al Khaimah is built around the Hajar Mountains, home to the UAE's highest peak and the Jebel Jais zipline, offering mountain and valley scenery that's a genuine contrast to Dubai's cityscape and dunes.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers who've already covered Dubai's main sights and want a change of scenery — less essential if your trip is short and city-focused.",
+          },
+          {
+            title: "Practical Tips",
+            content: "It's roughly an hour or more each way from Dubai, so this works best as a full-day trip rather than a quick half-day add-on.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ras Al Khaimah day trip worth it from Dubai?", a: "Yes, for travelers wanting mountain scenery genuinely different from Dubai's desert and skyline, especially with a flexible private SUV." },
+        ],
+      };
+
+    case "is-michelin-dinner-desert-safari-worth-it-dubai":
+      return {
+        title: "Is the Dubai Luxury Safari with Michelin-Curated Dinner Worth It?",
+        description: "An honest look at Dubai's $899 luxury desert safari with a Michelin-curated 4-course dinner.",
+        heroImage: IMG,
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to upgrade the standard BBQ-buffet desert camp dinner — this pairs the usual dune-bashing safari experience with a proper Michelin-curated 4-course meal instead of a basic camp buffet.",
+            tourCard: { slug: "dubai-luxury-safari-with-michelin-curated-4-course", title: "Dubai: Luxury Safari with Michelin-Curated 4-Course Dinner", description: "A luxury desert safari with a Michelin-curated 4-course dinner.", price: "From $899", duration: "Half day", image: IMG },
+          },
+          {
+            title: "What You Actually Get",
+            content: "The dune-bashing and desert camp elements are the same as a standard safari, but dinner is elevated to a proper 4-course meal curated by Michelin-connected chefs rather than a standard buffet spread.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers who want the classic desert safari experience but find standard camp buffets underwhelming and are willing to pay more for the food quality.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm dietary requirements in advance — a curated multi-course menu is less flexible to adjust on the spot than a buffet.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Michelin-curated dinner desert safari worth it in Dubai?", a: "Yes, for travelers who want the standard desert safari experience with a genuinely elevated dinner instead of a basic buffet." },
+        ],
+      };
+
     default:
       return null;
   }

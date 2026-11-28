@@ -2829,6 +2829,9 @@ export const DUBAI_INFO_SLUGS = [
   'is-floating-sky-dining-worth-it-dubai', 'is-skyline-pool-palm-observatory-worth-it-dubai',
   'is-umm-al-quwain-horseback-worth-it-dubai', 'is-arte-museum-worth-it-dubai',
   'is-dinosaurs-odyssey-vr-worth-it-dubai',
+  'is-lamborghini-experience-worth-it-dubai', 'is-wonder-bus-amphibious-tour-worth-it-dubai',
+  'is-fishing-charter-no-fish-no-pay-worth-it-dubai', 'is-ras-al-khaimah-day-trip-worth-it-dubai',
+  'is-michelin-dinner-desert-safari-worth-it-dubai',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/abuDhabiInfoContent.ts.
