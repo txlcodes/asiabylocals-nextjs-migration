@@ -2554,6 +2554,86 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-iconic-landmarks-city-palace-hawa-mahal-worth-it-jaipur":
+      return {
+        title: "Is the Jaipur Iconic Landmarks Tour (City Palace, Hawa Mahal & Jantar Mantar) Worth It?",
+        description: "An honest look at the half-day private car tour covering Jaipur's City Palace, Hawa Mahal, and Jantar Mantar.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1776928541/tours/jaipur/tours/jaipur_1776928540982_0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Jaipur's three most iconic sites covered efficiently in one comfortable outing — City Palace, Hawa Mahal, and the Jantar Mantar observatory are all within close reach of each other, and a private car removes the hassle of arranging transport between stops.",
+            tourCard: { slug: "hawa-mahal-landmarks-guided-tour", title: "Jaipur: Iconic Landmarks Tour – City Palace, Hawa Mahal & Jantar Mantar", description: "A half-day private car tour covering Jaipur's City Palace, Hawa Mahal, and Jantar Mantar.", price: "From $201", duration: "6 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1776928541/tours/jaipur/tours/jaipur_1776928540982_0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Visit Hawa Mahal early for the best light on its famous pink facade, before the midday heat and crowds build up." },
+        ],
+        faqs: [
+          { q: "Is the iconic landmarks tour worth it in Jaipur?", a: "Yes, for travelers wanting City Palace, Hawa Mahal, and Jantar Mantar covered efficiently in one comfortable private car outing." }
+        ],
+      };
+
+    case "is-lac-work-bangle-making-workshop-worth-it-jaipur":
+      return {
+        title: "Is the Lac Work & Bangle-Making Workshop with Artisan Worth It in Jaipur?",
+        description: "An honest look at the hands-on lac bangle-making workshop with an artisan in Jaipur.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-lac-work-bangle-making-workshop-with-artisa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine hands-on craft experience rather than just buying finished bangles — making your own lac bangles over an open flame with an artisan gives real insight into a traditional Jaipur craft most tourists only see as a shopping item.",
+            tourCard: { slug: "jaipur-lac-work-bangle-making-workshop-with-artisa", title: "Jaipur: Lac Work & Bangle-Making Workshop with Artisan", description: "A hands-on lac bangle-making workshop with an artisan in Jaipur.", price: "From $131", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-lac-work-bangle-making-workshop-with-artisa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Working with lac over an open flame requires some care, so follow the artisan's guidance closely for the best results and safety." },
+        ],
+        faqs: [
+          { q: "Is the lac work and bangle-making workshop worth it in Jaipur?", a: "Yes, for travelers wanting genuine hands-on insight into a traditional Jaipur craft, not just a shopping souvenir." }
+        ],
+      };
+
+    case "is-amber-fort-ayurvedic-massage-worth-it-jaipur":
+      return {
+        title: "Is the Jaipur City Tour with Amber Fort & Ayurvedic Massage Worth It?",
+        description: "An honest look at the full-day Jaipur forts and palaces tour followed by an Ayurvedic massage.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-city-tour-with-amber-fort-ayurvedic-massage/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine recovery time built into a demanding sightseeing day — a full day covering Jaipur's forts and palaces is physically tiring, and finishing with an Ayurvedic massage gives real relief that a standard city tour doesn't offer.",
+            tourCard: { slug: "jaipur-city-tour-with-amber-fort-ayurvedic-massage", title: "Jaipur: City Tour with Amber Fort & Ayurvedic Massage", description: "A full-day Jaipur forts and palaces tour followed by an Ayurvedic massage.", price: "From $157", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-city-tour-with-amber-fort-ayurvedic-massage/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear comfortable walking shoes for the fort portion, since Amber Fort involves genuine uphill walking before you get to relax." },
+        ],
+        faqs: [
+          { q: "Is the Amber Fort tour with Ayurvedic massage worth it in Jaipur?", a: "Yes, for travelers wanting genuine recovery time built into a physically demanding day of fort and palace sightseeing." }
+        ],
+      };
+
+    case "is-private-photoshoot-local-photographer-worth-it-jaipur":
+      return {
+        title: "Is the Jaipur Private Photoshoot Tour with Local Photographer Worth It?",
+        description: "An honest look at the full-day private photoshoot tour with a local photographer at Jaipur's most colorful locations.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-photoshoot-tour-with-local/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want professional-quality photos rather than relying on a travel companion's phone camera — a local photographer who knows Jaipur's most colorful and photogenic spots gets genuinely better results than casual tourist snapshots.",
+            tourCard: { slug: "jaipur-private-photoshoot-tour-with-local", title: "Jaipur: Private Photoshoot Tour with Local Photographer", description: "A full-day private photoshoot tour with a local photographer at Jaipur's most colorful locations.", price: "From $149", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-photoshoot-tour-with-local/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Coordinate outfit colors with your photographer in advance to make the most of Jaipur's vividly colored backdrops." },
+        ],
+        faqs: [
+          { q: "Is the private photoshoot tour with a local photographer worth it in Jaipur?", a: "Yes, for travelers wanting professional-quality photos at Jaipur's most colorful and photogenic locations." }
+        ],
+      };
+
     default:
       return null;
   }

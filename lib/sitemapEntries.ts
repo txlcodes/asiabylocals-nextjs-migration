@@ -200,6 +200,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-marwari-horse-polo-worth-it-jaipur', 'is-private-elephant-sanctuary-worth-it-jaipur',
     'is-diwali-local-family-worth-it-jaipur', 'is-authentic-cooking-class-local-family-worth-it-jaipur',
     'is-shibori-dyeing-workshop-worth-it-jaipur',
+    'is-iconic-landmarks-city-palace-hawa-mahal-worth-it-jaipur', 'is-lac-work-bangle-making-workshop-worth-it-jaipur',
+    'is-amber-fort-ayurvedic-massage-worth-it-jaipur', 'is-private-photoshoot-local-photographer-worth-it-jaipur',
   ].map(slug => ({
     url: `${BASE_URL}/india/jaipur/${slug}`,
     lastModified: new Date(),
