@@ -2821,6 +2821,69 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bataan-heritage-history-tour-worth-it-manila":
+      return {
+        title: "Is the Bataan Heritage and History Tour with Lunch Worth It from Manila?",
+        description: "An honest look at the full-day Bataan heritage and history tour from Manila, visiting Las Casas Filipinas De Acuzar with lunch.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/748713b59085d73f360a6f1234283a05b8b44f979aaff7a09abf083592ab52df.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers interested in Philippine WWII and colonial history specifically — the Bataan region carries real historical weight, and pairing the restored Spanish-colonial Las Casas Filipinas De Acuzar village with lunch makes for a substantial full-day heritage trip from Manila.",
+            tourCard: { slug: "manila-bataan-heritage-and-history-tour-with-lunch", title: "Manila: Bataan Heritage and History Tour with Lunch", description: "A full-day Bataan heritage and history tour from Manila, visiting Las Casas Filipinas De Acuzar with lunch.", price: "From $552", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/748713b59085d73f360a6f1234283a05b8b44f979aaff7a09abf083592ab52df.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the distance from Manila, so confirm your pickup time leaves enough buffer for the return drive.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bataan heritage and history tour worth it from Manila?", a: "Yes, for travelers interested in Philippine WWII and colonial history, with a substantial heritage village visit and lunch included." },
+        ],
+      };
+
+    case "is-urban-charms-gondola-bliss-cityscape-worth-it-manila":
+      return {
+        title: "Is the Manila Urban Charms & Gondola Bliss Cityscape Tour Worth It?",
+        description: "An honest look at the full-day Manila tour combining The Mind Museum and a Makati gondola ride.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a8d85cae1d790009c8c096d872b8686903a47aede0f63757c3fbcc3ef25de82.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want Manila's modern, polished side rather than its historic districts — pairing The Mind Museum's science exhibits with a scenic gondola ride over Makati gives a genuinely different, family-friendly angle on the city than Intramuros or Binondo.",
+            tourCard: { slug: "manila-urban-charms-gondola-bliss-cityscape-tour", title: "Manila Urban Charms & Gondola Bliss Cityscape Tour", description: "A full-day Manila tour combining The Mind Museum and a Makati gondola ride.", price: "From $481", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/4a8d85cae1d790009c8c096d872b8686903a47aede0f63757c3fbcc3ef25de82.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for families with kids, since The Mind Museum's exhibits are genuinely interactive and hands-on.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Urban Charms and Gondola Bliss cityscape tour worth it in Manila?", a: "Yes, for travelers wanting Manila's modern, family-friendly side rather than its historic districts." },
+        ],
+      };
+
+    case "is-calatagan-floating-cottage-worth-it-manila":
+      return {
+        title: "Is the Calatagan Floating Cottage Adventure Worth It from Manila?",
+        description: "An honest look at the full-day Calatagan floating cottage adventure from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53eca486fbbab73a9801fdb926682c8210d112f79bf6c7a886eaf9a921ba34b6.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a relaxed beach-day alternative to Manila's usual city sightseeing — Calatagan's floating cottages give a genuinely different setting for swimming and marine life viewing than a standard resort beach day.",
+            tourCard: { slug: "from-manila-calatagan-floating-cottage-adventure", title: "From Manila: Calatagan Floating Cottage Adventure", description: "A full-day Calatagan floating cottage adventure from Manila.", price: "From $464", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/53eca486fbbab73a9801fdb926682c8210d112f79bf6c7a886eaf9a921ba34b6.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring reef-safe sunscreen and a waterproof bag for your phone, since swimming and marine life viewing are the main activities.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Calatagan floating cottage adventure worth it from Manila?", a: "Yes, for travelers wanting a relaxed, genuinely different beach-day setting than a standard resort day." },
+        ],
+      };
+
     default:
       return null;
   }

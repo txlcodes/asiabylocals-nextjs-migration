@@ -1510,6 +1510,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-wwii-great-raid-tour-worth-it-manila', 'is-holistic-wellness-retreat-tour-worth-it-manila',
     'is-happyland-immersion-tour-worth-it-manila', 'is-malacanang-heritage-tour-worth-it-manila',
     'is-divisoria-binondo-street-food-dare-tour-worth-it-manila',
+    'is-bataan-heritage-history-tour-worth-it-manila', 'is-urban-charms-gondola-bliss-cityscape-worth-it-manila',
+    'is-calatagan-floating-cottage-worth-it-manila',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/manila/${slug}`,
     lastModified: new Date(),
