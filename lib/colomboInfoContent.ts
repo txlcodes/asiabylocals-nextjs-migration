@@ -1837,6 +1837,90 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-limousine-city-tour-worth-it-colombo":
+      return {
+        title: "Is the Colombo Private Limousine City Tour Worth It?",
+        description: "An honest look at Colombo's private limousine city tour with photo stops.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for a novelty, photo-focused way to see Colombo — a limousine city tour swaps the standard tuk-tuk or sedan for a stretch limo, with stops built in for photos at the city's main landmarks.",
+            tourCard: { slug: "colombo-private-limousine-city-tour-with-photo", title: "Colombo: Private Limousine City Tour with Photo Stops", description: "A private limousine city tour with stops for photos at Colombo's landmarks.", price: "From $871", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is about the novelty of the vehicle and the photos as much as the sightseeing itself — treat it as a special-occasion add-on rather than your primary city tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the private limousine city tour worth it in Colombo?", a: "Yes, as a novelty, photo-focused way to see the city's landmarks, especially for a special occasion." },
+        ],
+      };
+
+    case "is-gem-mining-tour-worth-it-colombo":
+      return {
+        title: "Is the Rathnapura Gem Market & Mining Tour Worth It from Colombo?",
+        description: "An honest look at the gem market and mining tour in Rathnapura, Sri Lanka's gem capital, from Colombo.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you're curious about where Sri Lanka's famous gemstones actually come from — Rathnapura is the heart of the country's gem trade, and this tour covers both the local gem market and an actual mining operation, a genuinely distinctive activity beyond temples and beaches.",
+            tourCard: { slug: "rathnapura-gem-market-mining-tour-from", title: "Rathnapura: Gem Market & Mining Tour from Bentota/Colombo", description: "A tour of Rathnapura's gem market and mining operations from Colombo.", price: "From $592", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "If you're interested in buying a gem, go with a guide you trust and research typical prices beforehand — gem markets anywhere can be tricky for first-timers to navigate fairly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Rathnapura gem market and mining tour worth it from Colombo?", a: "Yes, for travelers curious about Sri Lanka's gem trade and want to see an actual mining operation rather than just a market stall." },
+        ],
+      };
+
+    case "is-japanese-speaking-driver-car-charter-worth-it-colombo":
+      return {
+        title: "Is the Sri Lanka Private Car Charter with Japanese-Speaking Driver Worth It?",
+        description: "An honest look at Sri Lanka's private car charter service with a Japanese-speaking driver.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, specifically for Japanese-speaking travelers who want to avoid the language barrier with a standard English-speaking driver — this charter service provides a driver who can communicate directly in Japanese throughout the trip.",
+            tourCard: { slug: "sri-lanka-private-car-charter-with-japanese", title: "Sri Lanka Private Car Charter with Japanese Speaking Driver", description: "A private car charter service in Sri Lanka with a Japanese-speaking driver.", price: "From $929", duration: "Flexible", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the driver's specific route knowledge and availability dates in advance, since language-specific drivers are a smaller pool than standard English-speaking ones.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Japanese-speaking driver car charter worth it in Sri Lanka?", a: "Yes, for Japanese-speaking travelers who want to avoid language barriers throughout their trip rather than relying on a standard English-speaking driver." },
+        ],
+      };
+
+    case "is-temple-of-the-rawan-tour-worth-it-colombo":
+      return {
+        title: "Is the Sri Lanka Temple of the Rawan Guided Tour Worth It?",
+        description: "An honest look at Sri Lanka's guided tour to the Temple of the Rawan, tied to the Ramayana legend.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for travelers interested in the Ramayana legend and its Sri Lankan connections — sites linked to King Ravana draw genuine interest from Indian and Hindu travelers tracing the epic's locations, a niche but meaningful theme beyond standard sightseeing.",
+            tourCard: { slug: "sri-lanka-guided-tour-with-temple-of-the-rawan", title: "Sri Lanka: Guided Tour with Temple of the Rawan", description: "A guided tour to sites connected to the Ramayana legend, including the Temple of the Rawan.", price: "From $2,643", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide knowledgeable about the Ramayana adds real depth here — the sites mean far more with that context than as standalone stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Temple of the Rawan tour worth it in Sri Lanka?", a: "Yes, for travelers with genuine interest in the Ramayana legend and its sites connected to King Ravana in Sri Lanka." },
+        ],
+      };
+
     default:
       return null;
   }

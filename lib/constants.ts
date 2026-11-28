@@ -2322,6 +2322,8 @@ export const COLOMBO_INFO_SLUGS = [
   'is-lotus-tower-worth-it-colombo', 'is-kitulgala-rafting-worth-it-colombo',
   'is-attidiya-bird-sanctuary-wwii-jeep-worth-it-colombo', 'is-seethawaka-secret-garden-worth-it-colombo',
   'is-maskeliya-waterfalls-worth-it-colombo',
+  'is-limousine-city-tour-worth-it-colombo', 'is-gem-mining-tour-worth-it-colombo',
+  'is-japanese-speaking-driver-car-charter-worth-it-colombo', 'is-temple-of-the-rawan-tour-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
