@@ -1933,6 +1933,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-daeng-island-sunset-plankton-worth-it-krabi', 'is-crystal-kayaking-cave-forest-cafe-worth-it-krabi',
     'is-surin-islands-snorkeling-worth-it-krabi', 'is-hong-islands-sunset-bbq-vintage-boat-worth-it-krabi',
     'is-nong-thale-hidden-mountain-hike-worth-it-krabi', 'is-wareerak-hot-spring-spa-worth-it-krabi',
+    'is-thai-boxing-class-fight-dinner-worth-it-krabi', 'is-fabric-art-workshop-village-tour-worth-it-krabi',
+    'is-german-guide-4-islands-tour-worth-it-krabi', 'is-dirt-bike-off-road-adventure-worth-it-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),

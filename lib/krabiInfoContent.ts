@@ -1060,6 +1060,66 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-thai-boxing-class-fight-dinner-worth-it-krabi":
+            return {
+                title: "Is the Krabi Beginner Boxing Class and Thai Boxing Fight with Dinner Worth It?",
+                description: "An honest look at Krabi's beginner Muay Thai boxing class paired with a live Thai boxing fight and dinner.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to both try Muay Thai yourself and watch the real thing — this pairs a beginner-friendly boxing class with a genuine live Thai boxing fight and dinner, giving a hands-on and spectator experience in one evening.",
+                    tourCard: { slug: "beginner-boxing-class-and-thai-boxing-fight-with-dinner-in-krabi", title: "Beginner Boxing Class and Thai Boxing Fight with Dinner in Krabi", description: "A beginner Muay Thai class combined with a live Thai boxing fight and dinner in Krabi.", price: "From $250", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "No prior Muay Thai experience is needed for the class — wear comfortable athletic clothing you don't mind sweating in." }
+                ],
+                faqs: [
+                    { q: "Is the Thai boxing class and fight with dinner worth it in Krabi?", a: "Yes, for travelers wanting both a hands-on Muay Thai lesson and a genuine live fight in one evening." }
+                ],
+            };
+
+        case "is-fabric-art-workshop-village-tour-worth-it-krabi":
+            return {
+                title: "Is the Krabi City and Village Tour with Fabric Art Workshop Worth It?",
+                description: "An honest look at Krabi's city and village tour that includes a traditional fabric art workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine craft experience alongside local sightseeing — this tour pairs a village visit with a hands-on traditional fabric art workshop, giving you a wearable or displayable souvenir rather than just photos.",
+                    tourCard: { slug: "city-and-village-tour-with-fabric-art-workshop-in-krabi", title: "City and Village Tour with Fabric Art Workshop in Krabi", description: "A city and village tour in Krabi including a traditional fabric art workshop.", price: "From $163", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Ask whether your finished fabric piece is included in the price or sold separately, since this can vary by operator." }
+                ],
+                faqs: [
+                    { q: "Is the fabric art workshop and village tour worth it in Krabi?", a: "Yes, for travelers wanting a genuine hands-on craft souvenir alongside local village sightseeing." }
+                ],
+            };
+
+        case "is-german-guide-4-islands-tour-worth-it-krabi":
+            return {
+                title: "Is the Krabi 4 Islands Tour with a German-Speaking Guide Worth It?",
+                description: "An honest look at Krabi's 4 Islands tour led by a German-speaking guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, specifically for German-speaking travelers who want to avoid the language barrier — this covers the same 4 Islands highlights as a standard tour, but with a guide who explains everything in German throughout the day.",
+                    tourCard: { slug: "krabi-4-islands-tour-with-german-guide", title: "Krabi 4 Islands Tour with German Guide", description: "A 4 Islands tour in Krabi led by a German-speaking guide.", price: "From $194", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book this specific listing rather than a standard tour if having a German-speaking guide genuinely matters to your experience." }
+                ],
+                faqs: [
+                    { q: "Is the German-speaking 4 Islands tour worth it in Krabi?", a: "Yes, for German-speaking travelers who want the 4 Islands highlights explained without a language barrier." }
+                ],
+            };
+
+        case "is-dirt-bike-off-road-adventure-worth-it-krabi":
+            return {
+                title: "Is the Krabi Half-Day Dirt Bike Off-Road Nature Trail Adventure Worth It?",
+                description: "An honest look at Krabi's half-day dirt bike off-road nature trail adventure.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for riders who want genuine off-road terrain rather than a gentle ATV ride — this half-day dirt bike adventure covers nature trails with real elevation and obstacles, a more demanding alternative to Krabi's usual ATV tours.",
+                    tourCard: { slug: "half-day-dirt-bike-off-road-nature-trail-adventure-in-krabi", title: "Half-Day Dirt Bike Off-Road Nature Trail Adventure in Krabi", description: "A half-day dirt bike off-road adventure through nature trails in Krabi.", price: "From $311", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Confirm with the operator what riding experience is required — dirt bikes demand more skill than a standard ATV." }
+                ],
+                faqs: [
+                    { q: "Is the dirt bike off-road adventure worth it in Krabi?", a: "Yes, for riders wanting genuinely demanding off-road terrain, a step up from Krabi's standard ATV tours." }
+                ],
+            };
+
         default:
             return null;
     }
