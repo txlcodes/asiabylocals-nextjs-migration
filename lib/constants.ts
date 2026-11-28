@@ -287,6 +287,8 @@ export const PHUKET_INFO_SLUGS = [
   'is-kapong-tubing-worth-it-phuket',
   'is-paramotor-paragliding-tsa-worth-it-phuket', 'is-floating-raft-house-cheow-lan-worth-it-phuket',
   'is-elite-similan-islands-yacht-worth-it-phuket', 'is-james-bond-sea-cave-canoeing-worth-it-phuket',
+  'is-german-guide-sightseeing-shopping-worth-it-phuket', 'is-similan-lazy-bird-program-worth-it-phuket',
+  'is-sea-salt-lounge-dining-worth-it-phuket', 'is-carnival-magic-dinner-show-worth-it-phuket',
 ];
 
 // Malaysia authority pages, batch 1 (2026-10). Re-add a slug here ONLY once

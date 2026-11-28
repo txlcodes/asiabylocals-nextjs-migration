@@ -2394,6 +2394,66 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-german-guide-sightseeing-shopping-worth-it-phuket":
+            return {
+                title: "Is the Phuket Sightseeing and Shopping Tour with a German-Speaking Guide Worth It?",
+                description: "An honest look at Phuket's sightseeing and shopping tour led by a German-speaking guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, specifically for German-speaking travelers who want to avoid the language barrier — this covers Phuket's main sights and shopping stops with a guide who explains everything in German rather than through English or translation.",
+                    tourCard: { slug: "phuket-sightseeing-and-shopping-with-german-guide", title: "Phuket Sightseeing and Shopping with German Guide", description: "A sightseeing and shopping tour of Phuket with a German-speaking guide.", price: "From $139", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book this specific listing rather than a standard tour if having a German-speaking guide genuinely matters to your experience." }
+                ],
+                faqs: [
+                    { q: "Is the German-speaking sightseeing and shopping tour worth it in Phuket?", a: "Yes, for German-speaking travelers wanting Phuket's sights and shopping explained without a language barrier." }
+                ],
+            };
+
+        case "is-similan-lazy-bird-program-worth-it-phuket":
+            return {
+                title: "Is the Similan Islands Lazy Bird Program Worth It from Phuket?",
+                description: "An honest look at the Similan Islands Lazy Bird Program, a relaxed-pace island day trip.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see the Similan Islands at a genuinely relaxed pace — this 'Lazy Bird' program is structured for travelers who want beach and snorkel time without a packed, rushed multi-stop itinerary typical of standard Similan day trips.",
+                    tourCard: { slug: "similan-islands-lazy-bird-program", title: "Similan Islands Lazy Bird Program", description: "A relaxed-pace day trip to the Similan Islands.", price: "From $140", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "The Similan Islands are only open seasonally (roughly November to April), so confirm the park is open before booking." }
+                ],
+                faqs: [
+                    { q: "Is the Similan Islands Lazy Bird Program worth it from Phuket?", a: "Yes, for travelers wanting a genuinely relaxed pace at the Similan Islands, rather than a rushed multi-stop itinerary." }
+                ],
+            };
+
+        case "is-sea-salt-lounge-dining-worth-it-phuket":
+            return {
+                title: "Is the Sea Salt Lounge and Grill Dining Experience Worth It in Phuket?",
+                description: "An honest look at Phuket's Sea Salt Lounge and Grill dining experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting a genuinely upscale dining setting with coastal views — Sea Salt Lounge and Grill pairs a proper grill menu with an oceanfront atmosphere, a step up from a standard beachside restaurant.",
+                    tourCard: { slug: "sea-salt-lounge-and-grill-dining-experience-in-phuket", title: "Sea Salt Lounge and Grill Dining Experience in Phuket", description: "A dining experience at Sea Salt Lounge and Grill in Phuket.", price: "From $122", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book a sunset time slot if possible, since the coastal views are the real highlight of the setting." }
+                ],
+                faqs: [
+                    { q: "Is the Sea Salt Lounge and Grill dining experience worth it in Phuket?", a: "Yes, for travelers wanting a genuinely upscale, oceanfront dining setting beyond a standard beachside restaurant." }
+                ],
+            };
+
+        case "is-carnival-magic-dinner-show-worth-it-phuket":
+            return {
+                title: "Is the Carnival Magic Experience with Dinner and Show Worth It in Phuket?",
+                description: "An honest look at Phuket's Carnival Magic experience, combining a show with dinner.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely entertaining evening beyond Phuket's usual cultural dinner shows — Carnival Magic combines magic performances with dinner, a distinctive alternative to the more common Thai cultural or cabaret dinner shows.",
+                    tourCard: { slug: "carnival-magic-experience-with-dinner-and-show-in-phuket", title: "Carnival Magic Experience with Dinner and Show in Phuket", description: "A magic show experience combined with dinner in Phuket.", price: "From $115", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "A fun pick for families with kids who'll enjoy the magic performance alongside the meal." }
+                ],
+                faqs: [
+                    { q: "Is the Carnival Magic dinner and show worth it in Phuket?", a: "Yes, for travelers wanting an entertaining magic show paired with dinner, a distinctive alternative to standard cultural dinner shows." }
+                ],
+            };
+
         default:
             return null;
     }
