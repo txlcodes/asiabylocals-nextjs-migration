@@ -1668,6 +1668,69 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-truc-temple-tam-chuc-worth-it-hanoi":
+      return {
+        title: "Is the Truc Temple, 5 Caves or Tam Chuc Pagoda Tour Worth It from Hanoi?",
+        description: "An honest look at the half-day tour to Truc Temple and the Ngu Dong Thi Son Scenic Area, with a Tam Chuc Pagoda option, from Hanoi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/truc-temple-5-caves-or-tam-chuc-world-s-biggest-pagoda-in-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine temple and scenic cave sightseeing without a full-day commitment — Truc Temple and the Ngu Dong Thi Son Scenic Area (or Tam Chuc Pagoda, one of the world's largest, as an alternative) both give real spiritual and natural variety in half a day.",
+            tourCard: { slug: "truc-temple-5-caves-or-tam-chuc-world-s-biggest-pagoda-in-hanoi", title: "Truc Temple, 5 Caves or Tam Chuc World's Biggest Pagoda in Hanoi", description: "A half-day tour to Truc Temple and the Ngu Dong Thi Son Scenic Area, with a Tam Chuc Pagoda option, from Hanoi.", price: "From $198", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/truc-temple-5-caves-or-tam-chuc-world-s-biggest-pagoda-in-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm with the operator in advance which specific route (Truc Temple or Tam Chuc) is scheduled for your date, since this tour offers both as options.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Truc Temple or Tam Chuc Pagoda tour worth it from Hanoi?", a: "Yes, for travelers wanting genuine temple and scenic cave sightseeing in a flexible half-day format." },
+        ],
+      };
+
+    case "is-city-jeep-tour-food-culture-worth-it-hanoi":
+      return {
+        title: "Is the Hanoi City Jeep Tour Half-Day with Food, Culture and History Worth It?",
+        description: "An honest look at the half-day Hanoi city jeep tour covering food, culture, and history, visiting the Opera House, Tran Quoc Pagoda, and West Lake.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-city-jeep-tour-halfday-food-culture-history-and-fun-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want an efficient, fun way to cover Hanoi's highlights without walking everywhere — a jeep tour hitting the Opera House, Tran Quoc Pagoda, and West Lake in half a day gives genuine variety across architecture, spirituality, and local life.",
+            tourCard: { slug: "hanoi-city-jeep-tour-halfday-food-culture-history-and-fun-by-local-operator", title: "Hanoi City Jeep Tour Halfday: Food, Culture, History and Fun", description: "A half-day Hanoi city jeep tour covering food, culture, and history, visiting the Opera House, Tran Quoc Pagoda, and West Lake.", price: "From $83", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/hanoi-city-jeep-tour-halfday-food-culture-history-and-fun-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "An open-air jeep ride gives genuine photo opportunities along the way, so keep your camera handy between stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the city jeep tour with food, culture and history worth it in Hanoi?", a: "Yes, for travelers wanting an efficient, fun way to cover Hanoi's highlights across architecture, spirituality, and local life." },
+        ],
+      };
+
+    case "is-motorbike-food-tour-7-tastings-worth-it-hanoi":
+      return {
+        title: "Is the Food and Sightseeing Motorbike Tour with 7 Tastings Worth It in Hanoi?",
+        description: "An honest look at the motorbike food and sightseeing tour with 7 tastings around West Lake in Hanoi.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201447/asiabylocals/tours/food-and-sightseeing-motorbike-tour-with-7-tastings-in-hanoi/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to sample genuinely varied Hanoi street food rather than just one or two stops — covering 7 distinct tastings around West Lake on a motorbike gives real breadth across local flavors in a single outing.",
+            tourCard: { slug: "food-and-sightseeing-motorbike-tour-with-7-tastings-in-hanoi", title: "Food and Sightseeing Motorbike Tour with 7 Tastings in Hanoi", description: "A motorbike food and sightseeing tour with 7 tastings around West Lake in Hanoi.", price: "From $83", duration: "3.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201447/asiabylocals/tours/food-and-sightseeing-motorbike-tour-with-7-tastings-in-hanoi/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across the 7 tastings — this adds up to a genuinely filling meal by the end of the tour.",
+          },
+        ],
+        faqs: [
+          { q: "Is the motorbike food tour with 7 tastings worth it in Hanoi?", a: "Yes, for travelers wanting genuine breadth across Hanoi's street food flavors in a single motorbike outing." },
+        ],
+      };
+
     default:
       return null;
   }

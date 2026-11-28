@@ -3106,6 +3106,8 @@ export const HANOI_INFO_SLUGS = [
   'is-ceramic-village-dong-ho-painting-worth-it-hanoi', 'is-cave-dining-pearl-show-onsen-worth-it-hanoi',
   'is-military-history-museum-landmarks-worth-it-hanoi', 'is-bar-crawl-nightclub-worth-it-hanoi',
   'is-lan-ha-bay-luxury-day-cruise-worth-it-hanoi',
+  'is-truc-temple-tam-chuc-worth-it-hanoi', 'is-city-jeep-tour-food-culture-worth-it-hanoi',
+  'is-motorbike-food-tour-7-tastings-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [
