@@ -3007,7 +3007,70 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-red-pandas-ichikawa-zoo-worth-it-tokyo":
+      return {
+        title: "Is the Red Pandas and Punch-kun Small-Group Day at Ichikawa City Zoo Worth It?",
+        description: "An honest look at the small-group day trip to Ichikawa City Zoo for red pandas and its mascot Punch-kun.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely different animal encounter than the usual Tokyo sightseeing — Ichikawa City Zoo is known specifically for its red pandas and beloved mascot Punch-kun, a lower-key, small-group alternative to the city's bigger attractions.",
+            tourCard: { slug: "tokyo-ichikawa-zoo-red-pandas-day-trip", title: "Red Pandas and Punch-kun: A Small-Group Day at Ichikawa City Zoo", description: "A small-group day trip to Ichikawa City Zoo focused on red pandas and its mascot Punch-kun.", price: "From $295", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check feeding times in advance, since that's typically when the red pandas are most active and visible.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ichikawa City Zoo red panda day trip worth it in Tokyo?", a: "Yes, for travelers wanting a lower-key, small-group animal encounter distinct from the city's bigger attractions." },
+        ],
+      };
+
+    case "is-denim-jeans-workshop-worth-it-tokyo":
+      return {
+        title: "Is Making Your Own Japanese Denim Jeans in Harajuku Worth It?",
+        description: "An honest look at Tokyo's hands-on workshop making your own Japanese denim jeans in Harajuku.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely practical souvenir you'll actually wear — Japanese selvedge denim has a worldwide reputation for quality, and this workshop lets you craft your own pair from scratch in the heart of Harajuku's fashion district.",
+            tourCard: { slug: "tokyo-harajuku-japanese-denim-jeans-workshop", title: "Make Your Own Japanese Denim Jeans in Harajuku", description: "A hands-on workshop making your own Japanese denim jeans in Harajuku.", price: "From $189", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuine sewing and craft work — this is a real hands-on class, not a pre-made pair with your name stitched on.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Japanese denim jeans workshop worth it in Harajuku?", a: "Yes, for travelers wanting a genuinely practical, wearable souvenir crafted from Japan's renowned denim tradition." },
+        ],
+      };
+
+    case "is-daikoku-jdm-car-meet-worth-it-tokyo":
+      return {
+        title: "Is the Daikoku JDM Car Meet in a GT-R R-35 Worth It in Tokyo?",
+        description: "An honest look at Tokyo's Daikoku Parking Area JDM car meet experience in a GT-R R-35.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for JDM car culture enthusiasts specifically — Daikoku Parking Area is a genuine, famous gathering spot for Japan's car scene, and riding there in a GT-R R-35 puts you right in the middle of the real nighttime meet rather than just reading about it.",
+            tourCard: { slug: "daikoku-jdm-car-meet-in-the-famous-303-600hp-gtr-r-35-in-tokyo", title: "Daikoku JDM Car Meet in the Famous 303 600HP GTR R-35 in Tokyo", description: "A nighttime visit to the famous Daikoku Parking Area JDM car meet in a GT-R R-35.", price: "From $279", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This runs at night, so plan your schedule around a late evening out rather than squeezing it between daytime sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Daikoku JDM car meet worth it in Tokyo?", a: "Yes, for car culture enthusiasts wanting genuine access to Japan's famous nighttime JDM meeting spot in an iconic car." },
+        ],
+      };
+
     default:
-            return null;
+      return null;
     }
 }

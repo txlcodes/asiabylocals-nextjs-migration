@@ -2035,6 +2035,8 @@ export const TOKYO_INFO_SLUGS = [
   'is-kintsugi-matcha-worth-it-tokyo', 'is-jleague-soccer-game-worth-it-tokyo',
   'is-origami-workshop-worth-it-tokyo', 'is-anime-voice-acting-worth-it-tokyo',
   'is-ikebana-workshop-worth-it-tokyo',
+  'is-red-pandas-ichikawa-zoo-worth-it-tokyo', 'is-denim-jeans-workshop-worth-it-tokyo',
+  'is-daikoku-jdm-car-meet-worth-it-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.

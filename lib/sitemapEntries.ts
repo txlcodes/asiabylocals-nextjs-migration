@@ -2009,6 +2009,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-kintsugi-matcha-worth-it-tokyo', 'is-jleague-soccer-game-worth-it-tokyo',
     'is-origami-workshop-worth-it-tokyo', 'is-anime-voice-acting-worth-it-tokyo',
     'is-ikebana-workshop-worth-it-tokyo',
+    'is-red-pandas-ichikawa-zoo-worth-it-tokyo', 'is-denim-jeans-workshop-worth-it-tokyo',
+    'is-daikoku-jdm-car-meet-worth-it-tokyo',
 ].map(slug => ({
     url: `${BASE_URL}/japan/tokyo/${slug}`,
     lastModified: new Date(),
