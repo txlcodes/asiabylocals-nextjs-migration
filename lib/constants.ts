@@ -331,6 +331,8 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'is-3regions-3religions-tour-worth-it-kuala-lumpur',
   'is-polish-guide-tour-worth-it-kuala-lumpur', 'is-hobbiton-cameron-highlands-worth-it-kuala-lumpur',
   'is-after-dark-food-stories-tour-worth-it-kuala-lumpur', 'is-family-cooking-class-market-tour-worth-it-kuala-lumpur',
+  'is-night-tour-city-highlights-worth-it-kuala-lumpur', 'is-putrajaya-pink-mosque-lake-tour-worth-it-kuala-lumpur',
+  'is-malacca-night-tour-cruise-trishaw-worth-it-kuala-lumpur', 'is-batu-caves-elephant-sanctuary-worth-it-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [

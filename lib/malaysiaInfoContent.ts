@@ -5361,6 +5361,62 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-night-tour-city-highlights-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kuala Lumpur Night Tour with City Highlights Worth It?",
+                description: "An honest look at the half-day night tour covering Kuala Lumpur's city highlights and Jalan Alor.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1366818/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see KL's skyline lit up after dark — pairing a highlights tour with a stop at Jalan Alor's bustling night food street gives a genuinely livelier, more atmospheric feel than daytime sightseeing alone.", tourCard: { slug: "kuala-lumpur-night-tour-with-city-highlights", title: "Kuala Lumpur: Night Tour with City Highlights", description: "A half-day night tour covering Kuala Lumpur's city highlights and Jalan Alor.", price: "From $568", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1366818/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Come hungry for the Jalan Alor stop — it's one of KL's best-known night food streets, and skipping dinner beforehand lets you sample more." }
+                ],
+                faqs: [
+                    { q: "Is the night tour with city highlights worth it in Kuala Lumpur?", a: "Yes, for travelers wanting to see KL's skyline lit up at night paired with a lively food street stop." }
+                ],
+            };
+
+        case "is-putrajaya-pink-mosque-lake-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Putrajaya Tour with Pink Mosque, Lake & Scenic City Highlights Worth It?",
+                description: "An honest look at the half-day Putrajaya tour from Kuala Lumpur featuring the Pink Mosque and lakeside scenery.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1219524/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely different architectural style than KL's skyscrapers — Putrajaya's Pink Mosque and lakeside Perdana Putra give a planned, administrative-capital feel that's a real contrast to the busier commercial city.", tourCard: { slug: "putrajaya-tour-pink-mosque-lake-scenic-city", title: "Putrajaya Tour: Pink Mosque, Lake & Scenic City Highlights", description: "A half-day Putrajaya tour from Kuala Lumpur featuring the Pink Mosque and lakeside scenery.", price: "From $372", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1219524/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for the mosque visit, and bring a scarf if you don't have one, since visitors are generally expected to cover shoulders and legs." }
+                ],
+                faqs: [
+                    { q: "Is the Putrajaya Pink Mosque and lake tour worth it from Kuala Lumpur?", a: "Yes, for travelers wanting a planned, administrative-capital architectural contrast to KL's commercial skyline." }
+                ],
+            };
+
+        case "is-malacca-night-tour-cruise-trishaw-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kuala Lumpur Private Malacca Night Tour with Cruise & Trishaw Worth It?",
+                description: "An honest look at the full-day Malacca night tour from Kuala Lumpur with a river cruise and trishaw ride.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-533745/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see Malacca's heritage sites with a nighttime twist — the illuminated river cruise and a colorful decorated trishaw ride past sites like Christ Church and Red Square give a genuinely different atmosphere than a standard daytime visit.", tourCard: { slug: "kuala-lumpur-private-malacca-night-tour-wcruise", title: "Kuala Lumpur: Private Malacca Night Tour w/Cruise & Trishaw", description: "A full-day Malacca night tour from Kuala Lumpur with a river cruise and trishaw ride.", price: "From $345", duration: "9 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-533745/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "This is a long day given the Kuala Lumpur-Malacca travel time, so expect to return late in the evening." }
+                ],
+                faqs: [
+                    { q: "Is the Malacca night tour with cruise and trishaw worth it from Kuala Lumpur?", a: "Yes, for travelers wanting to see Malacca's heritage sites with the atmosphere of an illuminated night cruise and trishaw ride." }
+                ],
+            };
+
+        case "is-batu-caves-elephant-sanctuary-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kuala Lumpur Day Tour to Batu Caves & Elephant Sanctuary Worth It?",
+                description: "An honest look at the half-day Kuala Lumpur tour combining Batu Caves and an elephant sanctuary visit.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-200401/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to pair Batu Caves' towering golden Lord Murugan statue with genuine wildlife time — adding an elephant sanctuary stop gives this half-day real variety beyond the usual temple-only Batu Caves visit.", tourCard: { slug: "kuala-lumpur-day-tour-batu-caves-elephant", title: "Kuala Lumpur Day Tour: Batu Caves & Elephant Sanctuary", description: "A half-day Kuala Lumpur tour combining Batu Caves and an elephant sanctuary visit.", price: "From $345", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-200401/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask in advance about the elephant sanctuary's ethical practices and interaction policies before booking, as standards vary by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Batu Caves and elephant sanctuary tour worth it in Kuala Lumpur?", a: "Yes, for travelers wanting to pair the iconic Batu Caves statue with genuine wildlife time beyond a temple-only visit." }
+                ],
+            };
+
         default:
             return null;
     }
