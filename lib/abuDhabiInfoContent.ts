@@ -1161,6 +1161,90 @@ export function getAbuDhabiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-shared-helicopter-tour-worth-it-abu-dhabi":
+      return {
+        title: "Is the Abu Dhabi Shared Helicopter Tour Worth It?",
+        description: "An honest look at the 30-minute shared helicopter tour over Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-434675/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want an aerial perspective on Abu Dhabi without the cost of a private charter — joining a shared helicopter flight gives genuine freedom and sweeping city views at a more accessible price point than booking the whole aircraft yourself.",
+            tourCard: { slug: "abu-dhabi-shared-helicopter-tour", title: "Abu Dhabi: Shared Helicopter Tour", description: "A 30-minute shared helicopter tour over Abu Dhabi.", price: "From $462", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-434675/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Seating on a shared flight depends on availability, so book with flexibility around your preferred date if possible.",
+          },
+        ],
+        faqs: [
+          { q: "Is the shared helicopter tour worth it in Abu Dhabi?", a: "Yes, for travelers wanting an aerial city perspective at a more accessible price than a private charter." },
+        ],
+      };
+
+    case "is-scuba-dive-snorkeling-transfer-worth-it-abu-dhabi":
+      return {
+        title: "Is the Scuba Dive and Snorkeling with Transfer Worth It from Abu Dhabi?",
+        description: "An honest look at the full-day scuba diving and snorkeling trip to Snoopy Island and Sharm Rocks in Fujairah, with transfer from Abu Dhabi.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-609370/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine UAE marine life rather than a desert-only trip — Snoopy Island and Sharm Rocks near Fujairah offer real coral and fish variety, and the included transfer removes the hassle of arranging transport to the East Coast yourself.",
+            tourCard: { slug: "from-abu-dhabi-scuba-dive-and-snorkeling-with-tran", title: "From Abu Dhabi: Scuba Dive and Snorkeling with Transfer", description: "A full-day scuba diving and snorkeling trip to Snoopy Island and Sharm Rocks in Fujairah, with transfer from Abu Dhabi.", price: "From $460", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-609370/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely long day given the drive to Fujairah's East Coast, so confirm your certification level matches the dive sites planned.",
+          },
+        ],
+        faqs: [
+          { q: "Is the scuba dive and snorkeling trip worth it from Abu Dhabi?", a: "Yes, for travelers wanting genuine UAE marine life at Snoopy Island and Sharm Rocks, with transfer included." },
+        ],
+      };
+
+    case "is-3-hour-layover-sightseeing-worth-it-abu-dhabi":
+      return {
+        title: "Is the Abu Dhabi 3-Hour Layover Sightseeing Tour Worth It?",
+        description: "An honest look at the 3-hour layover sightseeing tour of Abu Dhabi with an English-speaking guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d5e0a76a1c0b6230.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you have a genuine layover window and want to actually see something of Abu Dhabi — a guided 3-hour tour is specifically scoped to fit a short airport transit, giving real sightseeing rather than wasting your layover in the terminal.",
+            tourCard: { slug: "abu-dhabi-3-hour-layover-sightseeing-tour", title: "Abu Dhabi: 3-Hour Layover Sightseeing Tour", description: "A 3-hour layover sightseeing tour of Abu Dhabi with an English-speaking guide.", price: "From $440", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d5e0a76a1c0b6230.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your layover length covers immigration, the tour, and return to the airport with a comfortable buffer before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 3-hour layover sightseeing tour worth it in Abu Dhabi?", a: "Yes, for travelers with a genuine layover window wanting real sightseeing rather than waiting in the terminal." },
+        ],
+      };
+
+    case "is-louvre-express-emirati-guide-worth-it-abu-dhabi":
+      return {
+        title: "Is the Louvre Abu Dhabi Express Tour with an Emirati Guide Worth It?",
+        description: "An honest look at the 1.5-hour express tour of Louvre Abu Dhabi led by a licensed Emirati guide.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/uae-1242780/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a quick but genuinely expert visit rather than wandering the museum alone — a licensed Emirati guide adds local perspective and context in just 90 minutes, efficient for travelers with limited time.",
+            tourCard: { slug: "louvre-abu-dhabi-express-tour-with-an-emirati-guid", title: "Louvre Abu Dhabi Express Tour with an Emirati Guide", description: "A 1.5-hour express tour of Louvre Abu Dhabi led by a licensed Emirati guide.", price: "From $415", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/uae-1242780/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This express format covers highlights rather than the full collection, so return separately if you want to see the museum in depth.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Louvre Abu Dhabi express tour with an Emirati guide worth it?", a: "Yes, for travelers with limited time wanting genuine expert context from a licensed local guide." },
+        ],
+      };
+
     default:
       return null;
   }

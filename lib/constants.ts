@@ -3043,6 +3043,8 @@ export const ABU_DHABI_INFO_SLUGS = [
   'is-catamaran-corniche-cruise-worth-it-abu-dhabi', 'is-fujairah-turtle-snorkeling-worth-it-abu-dhabi',
   'is-dune-buggy-adventure-worth-it-abu-dhabi',
   'is-padi-basic-scuba-diver-course-worth-it-abu-dhabi',
+  'is-shared-helicopter-tour-worth-it-abu-dhabi', 'is-scuba-dive-snorkeling-transfer-worth-it-abu-dhabi',
+  'is-3-hour-layover-sightseeing-worth-it-abu-dhabi', 'is-louvre-express-emirati-guide-worth-it-abu-dhabi',
 ];
 
 // Vietnam authority pages (2026-09)
