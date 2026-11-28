@@ -882,6 +882,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-ski-zipline-snowmobile-worth-it-baku', 'is-frozen-waterfall-hiking-worth-it-baku',
     'is-lankaran-astara-longevity-tour-worth-it-baku', 'is-nakhchivan-private-tour-worth-it-baku',
     'is-ganja-goygol-overnight-worth-it-baku', 'is-alpaca-formula1-tour-worth-it-baku',
+    'is-luxury-beachclub-worth-it-baku', 'is-f1-circuit-walking-tour-worth-it-baku',
+    'is-soviet-mosaics-architecture-worth-it-baku', 'is-garanohur-lake-hiking-worth-it-baku',
+    'is-capybara-alpaca-farms-worth-it-baku',
   ], 'azerbaijan', 'baku');
   const singaporeInfoPages = mapInfoSlugs([
     'best-gardens-by-the-bay-tour-singapore', 'best-chinatown-walking-tour-singapore',

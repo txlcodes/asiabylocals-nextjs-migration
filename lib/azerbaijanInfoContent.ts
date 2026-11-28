@@ -866,6 +866,76 @@ export function getAzerbaijanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-luxury-beachclub-worth-it-baku":
+            return {
+                title: "Is the Baku Luxury BeachClub Experience Worth It?",
+                description: "An honest look at Baku's luxury beachclub experience with premium hotel transfers.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/465403081d29659151209fe64306c052050ad7f78ff3c4746e8b234ec9e4984b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "A proper beachclub day along the Caspian gives genuine relaxation after Baku's heavier city sightseeing, and premium hotel transfers make this an easy, low-effort booking, worth it for travelers wanting a polished beach day without arranging logistics themselves.", tourCard: { slug: "baku-luxury-beachclub-experience-withpremium", title: "Baku Luxury BeachClub Experience with Premium Hotel Transfers", description: "A luxury beachclub day experience with premium hotel transfers in Baku.", price: "From $624", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/465403081d29659151209fe64306c052050ad7f78ff3c4746e8b234ec9e4984b.jpg" } },
+                    { title: "Practical Tips", content: "Book this for a rest day between heavier sightseeing, since the genuine value here is slowing down rather than covering more ground." },
+                ],
+                faqs: [
+                    { q: "Is the Baku luxury beachclub experience worth it?", a: "Yes, for a genuinely relaxing Caspian beach day with premium transfers handled, a good rest-day pick between heavier sightseeing." },
+                ],
+            };
+
+        case "is-f1-circuit-walking-tour-worth-it-baku":
+            return {
+                title: "Is the F1 Circuit Walking Tour Worth It in Baku?",
+                description: "An honest look at the Baku F1 Circuit walking tour with a local guide, exploring the city's Formula 1 street circuit.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0013b50b4a4db03e801d55349620799db4e9ef1472d5bac93bedd5cfe8b8666b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Walking the actual Formula 1 street circuit with a knowledgeable local guide gives genuine insight into one of the sport's most distinctive urban tracks, worth it specifically for motorsport fans wanting a real connection to the race rather than just watching from a screen.", tourCard: { slug: "baku-f1-circuit-walking-tour-with-local-guide", title: "Baku: F1 Circuit Walking Tour with Local Guide", description: "A walking tour of Baku's Formula 1 street circuit with a local guide.", price: "From $455", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0013b50b4a4db03e801d55349620799db4e9ef1472d5bac93bedd5cfe8b8666b.jpg" } },
+                    { title: "Practical Tips", content: "Come with genuine Formula 1 knowledge to get the most out of the guide's technical commentary on the circuit's layout." },
+                ],
+                faqs: [
+                    { q: "Is the F1 Circuit walking tour worth it in Baku?", a: "Yes, specifically for motorsport fans wanting a genuine connection to one of F1's most distinctive urban street circuits." },
+                ],
+            };
+
+        case "is-soviet-mosaics-architecture-worth-it-baku":
+            return {
+                title: "Is the Baku Soviet Mosaics and Architecture Tour Worth It?",
+                description: "An honest look at Baku's Soviet mosaics and architecture tour, exploring the city's lesser-known Soviet-era design.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6054db84e9c9cfb2249e13198a21cc1d425db633eca98f9c75be9ad5e812014f.png",
+                sections: [
+                    { title: "The Short Answer", content: "Baku's Soviet-era mosaics and architecture are genuinely overlooked by most visitors focused on the Old City and modern skyline, worth it for travelers interested in 20th-century design history rather than just the medieval and ultramodern contrasts.", tourCard: { slug: "baku-architecture-guided-tour", title: "Baku Soviet Mosaics and Architecture Tour", description: "A tour of Baku's Soviet-era mosaics and architecture.", price: "From $390", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6054db84e9c9cfb2249e13198a21cc1d425db633eca98f9c75be9ad5e812014f.png" } },
+                    { title: "Practical Tips", content: "Bring a camera with a wide lens — the mosaics genuinely cover large building facades best captured from a distance." },
+                ],
+                faqs: [
+                    { q: "Is the Baku Soviet mosaics and architecture tour worth it?", a: "Yes, for travelers interested in genuinely overlooked 20th-century design history, beyond the city's Old City and modern skyline contrasts." },
+                ],
+            };
+
+        case "is-garanohur-lake-hiking-worth-it-baku":
+            return {
+                title: "Is the Garanohur Lake Hiking Tour Worth It from Baku?",
+                description: "An honest look at the Garanohur Lake hiking tour, a scenic nature escape outside Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/22fb95386fa19316abfd624da6b33c54fa198e66c15f5444c9994aed75155ce9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Garanohur Lake's genuinely scenic hiking trails give a real nature escape from Baku's urban coastline, worth it for travelers wanting outdoor activity and quiet landscape rather than another city or heritage site.", tourCard: { slug: "lake-garanohur-adventure-tour", title: "Baku: Garanohur Lake Hiking Tour", description: "A hiking tour at Garanohur Lake from Baku.", price: "From $296", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/22fb95386fa19316abfd624da6b33c54fa198e66c15f5444c9994aed75155ce9.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes — the lake trails genuinely involve uneven terrain rather than paved paths." },
+                ],
+                faqs: [
+                    { q: "Is the Garanohur Lake hiking tour worth it from Baku?", a: "Yes, for travelers wanting a genuine nature escape with real hiking, a change of pace from the city's urban coastline." },
+                ],
+            };
+
+        case "is-capybara-alpaca-farms-worth-it-baku":
+            return {
+                title: "Is the Half-Day Family Tour to Capybara and Alpaca Farms Worth It from Baku?",
+                description: "An honest look at the half-day family tour to capybara and alpaca farms from Baku.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8f95b85b1bc6f2f0db7ec08b5956faac506eec69a466c9356648825cfc9e6e31.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting both capybara and alpaca farms in one half-day gives genuinely fun, low-key animal encounters that work especially well for families with young kids, a lighter alternative to Baku's heritage and history-heavy sightseeing.", tourCard: { slug: "from-baku-half-day-family-tour-to-capybara-alpaca", title: "From Baku: Half-Day Family Tour to Capybara & Alpaca Farms", description: "A half-day family tour visiting capybara and alpaca farms from Baku.", price: "From $286", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8f95b85b1bc6f2f0db7ec08b5956faac506eec69a466c9356648825cfc9e6e31.jpg" } },
+                    { title: "Practical Tips", content: "A genuinely good pick for families with young kids wanting a lighter, animal-focused break from heavier sightseeing." },
+                ],
+                faqs: [
+                    { q: "Is the capybara and alpaca farms family tour worth it from Baku?", a: "Yes, for families with young kids wanting genuinely fun, low-key animal encounters, a lighter alternative to heritage-heavy sightseeing." },
+                ],
+            };
+
         default:
             return null;
     }

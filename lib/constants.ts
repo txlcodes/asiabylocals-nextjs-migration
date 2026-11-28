@@ -662,6 +662,9 @@ export const BAKU_INFO_SLUGS: string[] = [
   'is-ski-zipline-snowmobile-worth-it-baku', 'is-frozen-waterfall-hiking-worth-it-baku',
   'is-lankaran-astara-longevity-tour-worth-it-baku', 'is-nakhchivan-private-tour-worth-it-baku',
   'is-ganja-goygol-overnight-worth-it-baku', 'is-alpaca-formula1-tour-worth-it-baku',
+  'is-luxury-beachclub-worth-it-baku', 'is-f1-circuit-walking-tour-worth-it-baku',
+  'is-soviet-mosaics-architecture-worth-it-baku', 'is-garanohur-lake-hiking-worth-it-baku',
+  'is-capybara-alpaca-farms-worth-it-baku',
 ];
 
 // Singapore launched 2026-11-19 with 318 live tours and zero authority pages.
