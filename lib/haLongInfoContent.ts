@@ -870,6 +870,111 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sunset-bbq-fishing-locals-worth-it-ha-long":
+      return {
+        title: "Is the Ha Long Sunset BBQ Fishing Tour with Locals Worth It?",
+        description: "An honest look at Ha Long's sunset BBQ fishing tour aboard a boat with local fishermen.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely local, hands-on evening rather than a big-ship buffet cruise — this puts you on a boat with actual local fishermen for sunset fishing, followed by a BBQ of what's caught, a far more intimate experience than the standard Halong cruise crowd.",
+            tourCard: { slug: "sunset-bbq-fishing-tour-with-locals-by-boat-cruise-in-ha-long", title: "Sunset BBQ Fishing tour with Locals by Boat Cruise in Ha Long", description: "A sunset fishing tour with local fishermen followed by a BBQ in Ha Long.", price: "From $142", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with realistic expectations on the catch — like any fishing trip, what ends up on the grill depends on the day.",
+          },
+        ],
+        faqs: [
+          { q: "Is the sunset BBQ fishing tour with locals worth it in Ha Long?", a: "Yes, for travelers wanting a genuinely intimate, local experience distinct from the big-ship cruise crowd." },
+        ],
+      };
+
+    case "is-bioluminescent-plankton-kayak-worth-it-ha-long":
+      return {
+        title: "Is the Lan Ha Bay Sunset & Bioluminescent Plankton Kayak Tour Worth It?",
+        description: "An honest look at Lan Ha Bay's sunset kayak tour featuring bioluminescent plankton.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if the conditions line up — kayaking through water that glows with bioluminescent plankton after dark is a genuinely rare natural phenomenon, paired here with a sunset paddle beforehand, a distinctive evening beyond a standard cruise dinner.",
+            tourCard: { slug: "lan-ha-bay-sunset-bioluminescent-plankton-kayak-tour-ha-long", title: "Lan Ha Bay: Sunset + Bioluminescent Plankton Kayak Tour (Ha Long)", description: "A sunset kayak tour in Lan Ha Bay featuring bioluminescent plankton after dark.", price: "From $125", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bioluminescence is seasonal and weather-dependent, so ask the operator about recent sightings before booking if this is your main draw.",
+          },
+        ],
+        faqs: [
+          { q: "Is the bioluminescent plankton kayak tour worth it in Lan Ha Bay?", a: "Yes, when conditions cooperate, for a genuinely rare natural phenomenon beyond a standard sunset cruise." },
+        ],
+      };
+
+    case "is-jacuzzi-buffet-cruise-worth-it-ha-long":
+      return {
+        title: "Is the Ha Long Bay Day Tour with Apollo Cruise, Jacuzzi, and Buffet Worth It?",
+        description: "An honest look at Ha Long Bay's day cruise featuring an onboard jacuzzi and buffet.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if onboard comfort matters as much as the scenery — this day cruise includes a genuine jacuzzi and buffet spread, a more indulgent, relaxation-focused version of the standard sightseeing-only day cruise.",
+            tourCard: { slug: "ha-long-bay-day-tour-apollo-cruise-jacuzzi-buffet", title: "Ha Long Bay Day Tour - Apollo Cruise, Jacuzzi, Buffet", description: "A day cruise in Ha Long Bay featuring an onboard jacuzzi and buffet.", price: "From $99", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit for the jacuzzi, and pace your buffet eating if you also plan to use the pool afterward.",
+          },
+        ],
+        faqs: [
+          { q: "Is the jacuzzi and buffet cruise worth it in Ha Long Bay?", a: "Yes, for travelers wanting a more indulgent, comfort-focused day cruise beyond standard sightseeing." },
+        ],
+      };
+
+    case "is-catba-national-park-museum-cruise-worth-it-ha-long":
+      return {
+        title: "Is the Cat Ba National Park Museum, Cave and Sunset Cruise Worth It?",
+        description: "An honest look at the Cat Ba National Park museum, cave, and sunset cruise combination tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want the ecological and historical context behind Cat Ba before the scenic payoff — this pairs the national park's museum and cave with a sunset cruise, giving substance alongside the standard scenic boat ride.",
+            tourCard: { slug: "cat-ba-national-park-museum-cave-and-sunset-cruise", title: "Cat Ba National Park Museum, Cave and Sunset Cruise", description: "A combination tour of Cat Ba National Park's museum, a cave, and a sunset cruise.", price: "From $101", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The museum stop gives useful context on Cat Ba's wildlife and geology that makes the later cave and cruise portions more meaningful.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cat Ba National Park museum, cave and sunset cruise worth it?", a: "Yes, for travelers wanting ecological and historical context alongside the standard scenic cruise." },
+        ],
+      };
+
+    case "is-inland-city-tour-worth-it-ha-long":
+      return {
+        title: "Is the Ha Long Inland City Tour Worth It?",
+        description: "An honest look at Ha Long's inland city tour, away from the famous bay itself.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically if you've already done the bay cruise and have extra time — this tour covers Ha Long city itself rather than the famous karsts and water, a different, less-visited side of the destination.",
+            tourCard: { slug: "h-long-inland-city-tour-in-ha-long", title: "Hạ Long: Inland City Tour in Ha Long", description: "An inland city tour of Ha Long, away from the bay itself.", price: "From $155", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Treat this as a secondary activity after your main bay cruise, not a replacement for it — the bay is still Ha Long's primary draw.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ha Long inland city tour worth it?", a: "Yes, as a secondary activity for travelers with extra time after the main bay cruise, offering a different, less-visited side of the destination." },
+        ],
+      };
+
     default:
       return null;
   }

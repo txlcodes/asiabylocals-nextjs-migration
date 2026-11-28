@@ -2688,6 +2688,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-monkey-island-tour-worth-it-ha-long', 'is-cat-ba-trekking-overnight-worth-it-ha-long',
     'is-tam-coc-ebike-tour-worth-it-ha-long', 'is-ha-giang-loop-3-day-worth-it-ha-long',
     'is-dinner-cruise-buffet-live-music-worth-it-ha-long', 'is-halong-sky-paragliding-worth-it-ha-long',
+    'is-sunset-bbq-fishing-locals-worth-it-ha-long', 'is-bioluminescent-plankton-kayak-worth-it-ha-long',
+    'is-jacuzzi-buffet-cruise-worth-it-ha-long', 'is-catba-national-park-museum-cruise-worth-it-ha-long',
+    'is-inland-city-tour-worth-it-ha-long',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/ha-long/${slug}`,
     lastModified: new Date(),
