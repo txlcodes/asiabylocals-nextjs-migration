@@ -128,6 +128,111 @@ export function getBoracayInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-shooting-range-worth-it-boracay":
+            return {
+                title: "Is the Shooting Range Worth It in Boracay?",
+                description: "An honest look at Boracay's shooting range experience, an off-beach activity for travelers who want to try firearms on vacation.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/boracay-shooting-range-experience-with-transfers/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This is a genuine novelty activity rather than anything connected to Boracay's beaches or water, a supervised range session with instruction included and transfers handled, which makes it an easy half-day add-on if you specifically want the experience rather than a typical island highlight.",
+                        tourCard: { slug: "boracay-shooting-range-experience-with-transfers", title: "Boracay Shooting Range Experience with Transfers", description: "A supervised shooting range experience with hotel transfers included.", price: "From $139", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/boracay-shooting-range-experience-with-transfers/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "This is priced well above most Boracay water activities, so it's worth it specifically for travelers who want the novelty, not as a general-purpose island excursion.",
+                    },
+                ],
+                faqs: [
+                    { q: "Is the shooting range worth it in Boracay?", a: "Yes, for travelers who specifically want a supervised firearms experience, though it's priced well above the island's typical water activities." },
+                ],
+            };
+
+        case "is-jet-ski-rental-worth-it-boracay":
+            return {
+                title: "Is Jet Ski Rental Worth It in Boracay?",
+                description: "An honest look at renting a jet ski in Boracay, a self-driven alternative to the island's guided boat tours.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/boracay-jet-ski-rental-with-insta360-camera/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Unlike Boracay's guided island hopping and party boats, this puts you in control of the craft yourself, with an Insta360 camera included to capture the ride, a genuinely different kind of thrill from passively riding along on a tour.",
+                        tourCard: { slug: "boracay-jet-ski-rental-with-insta360-camera", title: "Boracay Jet Ski Rental with Insta360 Camera", description: "A self-driven jet ski rental with an Insta360 camera included.", price: "From $119", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/boracay-jet-ski-rental-with-insta360-camera/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Sessions tend to be short relative to the price, so treat this as a one-off thrill rather than an extended outing.",
+                    },
+                ],
+                faqs: [
+                    { q: "Is jet ski rental worth it in Boracay?", a: "Yes, for a self-driven thrill that's genuinely different from the island's guided boat tours, though sessions are short." },
+                ],
+            };
+
+        case "is-filipino-cooking-class-worth-it-boracay":
+            return {
+                title: "Is the Filipino Cooking Class Worth It in Boracay?",
+                description: "An honest look at Boracay's Filipino cooking class, a hands-on way to learn local dishes beyond the island's beach and water activities.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/boracay-filipino-cooking-class-with-local/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This is a genuine break from Boracay's water-heavy activity lineup, a hands-on class with a local instructor that teaches real Filipino dishes you'll actually cook and eat, a good fit for travelers who want a cultural activity between beach days.",
+                        tourCard: { slug: "boracay-filipino-cooking-class-with-local", title: "Boracay Filipino Cooking Class with Local Instructor", description: "A hands-on Filipino cooking class led by a local instructor.", price: "From $87", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/boracay-filipino-cooking-class-with-local/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Go in with an appetite — you'll be eating what you cook, so this works best as a lunch or early dinner slot.",
+                    },
+                ],
+                faqs: [
+                    { q: "Is the Filipino cooking class worth it in Boracay?", a: "Yes, for a genuine hands-on cultural activity that's a good break from the island's water-heavy tour lineup." },
+                ],
+            };
+
+        case "is-scuba-diving-intro-worth-it-boracay":
+            return {
+                title: "Is the Scuba Diving Intro Worth It in Boracay?",
+                description: "An honest look at Boracay's introduction to scuba diving, for travelers curious about diving without a full certification course.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/boracay-introduction-to-scuba-diving-experience/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "This is a genuine taste of real scuba diving with an instructor guiding you underwater, distinct from helmet diving's walk-the-seabed approach, a good fit if you want to try proper diving before committing to a certification course.",
+                        tourCard: { slug: "boracay-introduction-to-scuba-diving-experience", title: "Boracay Introduction to Scuba Diving Experience", description: "A beginner scuba diving experience with an instructor.", price: "From $61", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/boracay-introduction-to-scuba-diving-experience/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "No certification is needed for this intro session, but check beforehand whether basic swimming ability is required, since it differs from the no-swimming-needed helmet diving option.",
+                    },
+                ],
+                faqs: [
+                    { q: "Do you need certification for this scuba diving intro in Boracay?", a: "No, it's an introductory session with an instructor, not a full certification course, though some swimming ability is typically expected." },
+                ],
+            };
+
+        case "is-luna-spa-worth-it-boracay":
+            return {
+                title: "Is Luna Spa Worth It in Boracay?",
+                description: "An honest look at the Luna Spa experience in Boracay, a relaxation option for travelers taking a break from the island's activity-packed schedule.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/boracay-luna-spa-experience/img0/1600.webp",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "After a few days of island hopping, parasailing, and party boats, a proper spa session is a genuinely welcome change of pace, and this one is priced reasonably for Boracay rather than at the premium often charged to tourists.",
+                        tourCard: { slug: "boracay-luna-spa-experience", title: "Boracay Luna Spa Experience", description: "A relaxing spa experience in Boracay.", price: "From $54", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/boracay-luna-spa-experience/img0/1600.webp" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Book this for a rest day between water activities rather than stacking it on top of a packed itinerary — the point is to actually slow down.",
+                    },
+                ],
+                faqs: [
+                    { q: "Is Luna Spa worth it in Boracay?", a: "Yes, for a reasonably priced, genuine break from the island's activity-heavy schedule." },
+                ],
+            };
+
         default:
             return null;
     }

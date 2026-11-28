@@ -1387,6 +1387,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-island-hopping-worth-it-boracay', 'is-whale-shark-watching-worth-it-boracay',
     'is-paraw-sunset-sailing-worth-it-boracay', 'is-fire-dancing-show-worth-it-boracay',
     'is-helmet-diving-worth-it-boracay', 'is-parasailing-worth-it-boracay',
+    'is-shooting-range-worth-it-boracay', 'is-jet-ski-rental-worth-it-boracay',
+    'is-filipino-cooking-class-worth-it-boracay', 'is-scuba-diving-intro-worth-it-boracay',
+    'is-luna-spa-worth-it-boracay',
   ].map(slug => ({
     url: `${BASE_URL}/philippines/boracay/${slug}`,
     lastModified: new Date(),
