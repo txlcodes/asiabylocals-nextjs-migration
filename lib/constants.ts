@@ -3119,6 +3119,7 @@ export const SAPA_INFO_SLUGS = [
   'is-senior-car-tour-worth-it-sapa', 'is-open-air-jeep-off-beaten-path-worth-it-sapa',
   'is-black-hmong-transformation-photoshoot-worth-it-sapa', 'is-tramton-sinchai-jungle-trek-worth-it-sapa',
   'is-hagiang-bangioc-private-car-worth-it-sapa',
+  'is-rainbow-slide-alpine-coaster-paragliding-worth-it-sapa', 'is-sapa-in-style-luxury-limousine-tour-worth-it-sapa',
 ];
 
 export const HOI_AN_INFO_SLUGS = [
@@ -3154,6 +3155,7 @@ export const HOI_AN_INFO_SLUGS = [
   'is-south-hoi-an-river-safari-worth-it-hoi-an',
   'is-cham-island-dj-party-worth-it-hoi-an', 'is-luxury-sunset-cruise-spice-menu-worth-it-hoi-an',
   'is-golden-hands-bridge-my-son-worth-it-hoi-an', 'is-my-son-noodles-rice-paper-worth-it-hoi-an',
+  'is-electric-scooter-countryside-adventure-worth-it-hoi-an', 'is-cham-islands-coconut-forest-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [

@@ -1483,6 +1483,48 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-rainbow-slide-alpine-coaster-paragliding-worth-it-sapa":
+      return {
+        title: "Is the Rainbow Slide, Alpine Coaster, and Paragliding Tour Worth It in Sapa?",
+        description: "An honest look at the half-day tour combining the rainbow slide, alpine coaster, and paragliding at Cat Cat Village in Sapa.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201204/asiabylocals/tours/rainbow-slide-alpine-coaster-and-paragliding-tour-in-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers wanting adrenaline over culture for half a day — stacking the rainbow slide, alpine coaster, and a paragliding flight at Cat Cat Village packs three distinct thrill activities into one booking rather than one standalone ride.",
+            tourCard: { slug: "rainbow-slide-alpine-coaster-and-paragliding-tour-in-sapa", title: "Rainbow Slide, Alpine Coaster, and Paragliding Tour in Sapa", description: "A half-day tour combining the rainbow slide, alpine coaster, and paragliding at Cat Cat Village in Sapa.", price: "From $325", duration: "4 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201204/asiabylocals/tours/rainbow-slide-alpine-coaster-and-paragliding-tour-in-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Paragliding depends on weather conditions, so build in a flexible schedule in case that portion needs to be rescheduled.",
+          },
+        ],
+        faqs: [
+          { q: "Is the rainbow slide, alpine coaster, and paragliding tour worth it in Sapa?", a: "Yes, for travelers wanting three distinct adrenaline activities packed into one half-day booking." },
+        ],
+      };
+
+    case "is-sapa-in-style-luxury-limousine-tour-worth-it-sapa":
+      return {
+        title: "Is the Sapa in Style Private Luxury Limousine Tour Worth It?",
+        description: "An honest look at the full-day private luxury limousine tour of Sapa, visiting Cat Cat Village, Moana Sapa, and the Alpine Coaster.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201187/asiabylocals/tours/sapa-in-style-private-luxury-limousine-tour-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if comfort matters as much as sightseeing — touring Cat Cat Village, Moana Sapa, and the Alpine Coaster in a private luxury limousine removes the hassle of shared transport on Sapa's winding mountain roads.",
+            tourCard: { slug: "sapa-in-style-private-luxury-limousine-tour-sapa", title: "Sapa in Style: Private Luxury Limousine Tour", description: "A full-day private luxury limousine tour of Sapa, visiting Cat Cat Village, Moana Sapa, and the Alpine Coaster.", price: "From $280", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201187/asiabylocals/tours/sapa-in-style-private-luxury-limousine-tour-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits travelers prioritizing comfort on Sapa's winding mountain roads over budget, since private limousine transport costs more than shared minivans.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sapa in Style luxury limousine tour worth it?", a: "Yes, for travelers wanting comfortable private transport through Sapa's main sights on winding mountain roads." },
+        ],
+      };
+
     default:
       return null;
   }

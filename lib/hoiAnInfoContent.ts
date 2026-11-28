@@ -1468,6 +1468,48 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-electric-scooter-countryside-adventure-worth-it-hoi-an":
+      return {
+        title: "Is the Electric Scooter Countryside Adventure Worth It in Hoi An?",
+        description: "An honest look at the half-day electric scooter countryside ride around Hoi An.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201797/asiabylocals/tours/electric-scooter-countryside-adventure-in-hoi-an-hoi-an/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a quiet, eco-friendly way to see Hoi An's countryside beyond the Old Town — an electric scooter is easier to ride than a manual motorbike and quieter than a combustion engine, making it a relaxed way to pass through villages and rice fields.",
+            tourCard: { slug: "electric-scooter-countryside-adventure-in-hoi-an-hoi-an", title: "Electric Scooter Countryside Adventure In Hoi An", description: "A half-day electric scooter countryside ride around Hoi An.", price: "From $217", duration: "4.5 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201797/asiabylocals/tours/electric-scooter-countryside-adventure-in-hoi-an-hoi-an/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior scooter experience is usually required, but confirm license requirements with the operator before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the electric scooter countryside adventure worth it in Hoi An?", a: "Yes, for travelers wanting a quiet, eco-friendly way to explore Hoi An's villages and rice fields beyond the Old Town." },
+        ],
+      };
+
+    case "is-cham-islands-coconut-forest-worth-it-hoi-an":
+      return {
+        title: "Is the Private Cham Islands and Coconut Forest Tour Worth It in Hoi An?",
+        description: "An honest look at the full-day private tour combining the Cham Islands and the Coconut Forest from Hoi An.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-cham-islands-and-coconut-forest-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want both island snorkeling and a distinctly local boat-basket experience in one day — the Cham Islands offer genuine marine scenery, while the Coconut Forest's traditional basket boats give a completely different, local-life side of the Hoi An area.",
+            tourCard: { slug: "private-cham-islands-and-coconut-forest-tour", title: "Private Cham Islands and Coconut Forest Tour", description: "A full-day private tour combining the Cham Islands and the Coconut Forest from Hoi An.", price: "From $259", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-cham-islands-and-coconut-forest-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Boat trips to the Cham Islands can be affected by rough seas in certain months, so check the weather forecast before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cham Islands and Coconut Forest tour worth it in Hoi An?", a: "Yes, for travelers wanting both island snorkeling and a distinctly local basket-boat experience in one day." },
+        ],
+      };
+
     default:
       return null;
   }
