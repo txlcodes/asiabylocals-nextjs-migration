@@ -2005,6 +2005,27 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-wilpattu-national-park-day-trip-worth-it-colombo":
+      return {
+        title: "Is the All-Inclusive Wilpattu National Park Day Trip Worth It from Colombo?",
+        description: "An honest look at the half-day all-inclusive wildlife safari day trip to Wilpattu National Park from Colombo.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers who want a genuinely quieter wildlife park than the better-known Yala — Wilpattu's natural lake system (villus) draws leopards and sloth bears without Yala's heavier crowds, and the all-inclusive format handles permits and transport.",
+            tourCard: { slug: "colombo-all-inclusive-wilpattu-national-park-day", title: "Colombo: All-Inclusive Wilpattu National Park Day Trip", description: "A half-day all-inclusive wildlife safari day trip to Wilpattu National Park from Colombo.", price: "From $527", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wildlife sightings are never guaranteed in any national park, but Wilpattu's quieter lake-edge terrain genuinely improves your odds over more crowded parks.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Wilpattu National Park day trip worth it from Colombo?", a: "Yes, for travelers wanting a quieter wildlife safari experience than Yala, with permits and transport handled for you." },
+        ],
+      };
+
     default:
       return null;
   }

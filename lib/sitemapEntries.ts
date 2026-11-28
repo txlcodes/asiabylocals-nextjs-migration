@@ -2584,7 +2584,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-gombaniya-peak-hike-worth-it-kandy', 'is-tedo-7-waterfalls-hike-worth-it-kandy',
     'is-kitulgala-abseiling-worth-it-kandy', 'is-exclusive-knuckles-camping-worth-it-kandy',
     'is-ayurvedic-wellness-tuktuk-worth-it-kandy', 'is-train-pool-club-day-tour-worth-it-kandy',
-    'is-hanthana-lizards-back-hike-worth-it-kandy', 'is-five-peaks-cloud-forest-worth-it-kandy'].map(slug => ({
+    'is-hanthana-lizards-back-hike-worth-it-kandy', 'is-five-peaks-cloud-forest-worth-it-kandy',
+    'is-mountain-biking-knuckles-worth-it-kandy'].map(slug => ({
     url: `${BASE_URL}/sri-lanka/kandy/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -2619,6 +2620,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-japanese-speaking-driver-car-charter-worth-it-colombo', 'is-temple-of-the-rawan-tour-worth-it-colombo',
     'is-bawa-trail-heritage-worth-it-colombo', 'is-bentota-paramotor-water-sports-worth-it-colombo',
     'is-kitulgala-life-rescue-worth-it-colombo', 'is-weligama-surfing-galle-fort-worth-it-colombo',
+    'is-wilpattu-national-park-day-trip-worth-it-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),

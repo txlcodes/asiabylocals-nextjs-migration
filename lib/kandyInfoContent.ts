@@ -1840,6 +1840,26 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-mountain-biking-knuckles-worth-it-kandy":
+      return {
+        title: "Is the Mountain Biking Tour Around Knuckles Worth It in Kandy?",
+        description: "An honest look at Kandy's full-day guided mountain biking tour around the Knuckles mountain range.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065240/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for confident riders wanting genuine technical trails rather than flat sightseeing routes — the Knuckles range offers varied, hilly terrain with experienced guides, a step up from casual cycling tours elsewhere in Kandy.",
+            tourCard: { slug: "kandy-mountain-biking-tour-around-knuckles", title: "Kandy: Mountain Biking Tour around Knuckles", description: "A full-day guided mountain biking tour around the Knuckles mountain range from Kandy.", price: "From $426", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1065240/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm your own riding fitness matches the route before booking — this is aimed at capable riders, not complete beginners." },
+        ],
+        faqs: [
+          { q: "Is the mountain biking tour around Knuckles worth it in Kandy?", a: "Yes, for confident riders wanting genuine technical trails in the Knuckles mountain range with experienced guides." }
+        ],
+      };
+
     default:
       return null;
   }

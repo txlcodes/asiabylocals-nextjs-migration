@@ -2394,6 +2394,7 @@ export const KANDY_INFO_SLUGS = [
   'is-kitulgala-abseiling-worth-it-kandy', 'is-exclusive-knuckles-camping-worth-it-kandy',
   'is-ayurvedic-wellness-tuktuk-worth-it-kandy', 'is-train-pool-club-day-tour-worth-it-kandy',
   'is-hanthana-lizards-back-hike-worth-it-kandy', 'is-five-peaks-cloud-forest-worth-it-kandy',
+  'is-mountain-biking-knuckles-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.
@@ -2429,6 +2430,7 @@ export const COLOMBO_INFO_SLUGS = [
   'is-japanese-speaking-driver-car-charter-worth-it-colombo', 'is-temple-of-the-rawan-tour-worth-it-colombo',
   'is-bawa-trail-heritage-worth-it-colombo', 'is-bentota-paramotor-water-sports-worth-it-colombo',
   'is-kitulgala-life-rescue-worth-it-colombo', 'is-weligama-surfing-galle-fort-worth-it-colombo',
+  'is-wilpattu-national-park-day-trip-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.
