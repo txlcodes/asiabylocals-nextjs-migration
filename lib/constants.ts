@@ -3068,6 +3068,7 @@ export const HA_LONG_INFO_SLUGS = [
   'is-inland-city-tour-worth-it-ha-long',
   'is-catamaran-trampoline-waterslide-worth-it-ha-long', 'is-caobang-motorbike-easyrider-worth-it-ha-long',
   'is-halong-port-hanoi-city-visit-worth-it-ha-long', 'is-tamchuc-pagoda-cruise-golden-pagoda-worth-it-ha-long',
+  'is-halong-legends-markets-pearl-show-worth-it-ha-long', 'is-water-puppet-show-dinner-cruise-worth-it-ha-long',
 ];
 
 export const HANOI_INFO_SLUGS = [

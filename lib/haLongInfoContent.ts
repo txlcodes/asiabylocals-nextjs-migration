@@ -1059,6 +1059,48 @@ export function getHaLongInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-halong-legends-markets-pearl-show-worth-it-ha-long":
+      return {
+        title: "Is the Shore Excursion: Halong Legends, Markets and Sacred Pearl Show Worth It?",
+        description: "An honest look at the full-day shore excursion covering Long Tien Pagoda, Quang Ninh Museum, and the Sacred Pearl Show in Ha Long Bay.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200555/asiabylocals/tours/shore-excursion-halong-legends-markets-and-sacred-pearl-show-ha-long-bay/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine cultural and historical context alongside Halong's scenery — visiting Long Tien Pagoda and the Quang Ninh Museum before the Sacred Pearl Show gives real variety beyond the usual bay cruise itinerary.",
+            tourCard: { slug: "shore-excursion-halong-legends-markets-and-sacred-pearl-show-ha-long-bay", title: "Shore Excursion: Halong Legends, Markets and Sacred Pearl Show", description: "A full-day shore excursion covering Long Tien Pagoda, Quang Ninh Museum, and the Sacred Pearl Show in Ha Long Bay.", price: "From $321", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200555/asiabylocals/tours/shore-excursion-halong-legends-markets-and-sacred-pearl-show-ha-long-bay/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits cruise shore excursion passengers specifically wanting cultural sites alongside the bay's natural scenery, not another boat trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Halong Legends, Markets and Sacred Pearl Show shore excursion worth it?", a: "Yes, for cruise passengers wanting genuine cultural and historical context beyond the usual bay cruise itinerary." },
+        ],
+      };
+
+    case "is-water-puppet-show-dinner-cruise-worth-it-ha-long":
+      return {
+        title: "Is the Water Puppet Show and Dinner Cruise Worth It in Ha Long?",
+        description: "An honest look at the half-day Golden Dragon Water Puppet Theater show paired with a dinner cruise in Ha Long.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/water-puppet-show-and-dinner-cruise-in-ha-long/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want traditional Vietnamese performing arts paired with a relaxing evening on the water — the Golden Dragon Water Puppet Theater is a genuine cultural tradition, and finishing with a dinner cruise gives this half-day a well-rounded evening structure.",
+            tourCard: { slug: "water-puppet-show-and-dinner-cruise-in-ha-long", title: "Water Puppet Show and Dinner Cruise in Ha Long", description: "A half-day Golden Dragon Water Puppet Theater show paired with a dinner cruise in Ha Long.", price: "From $100", duration: "4.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/water-puppet-show-and-dinner-cruise-in-ha-long/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Water puppetry performances are in Vietnamese, but the visual storytelling and craftsmanship come through regardless of language.",
+          },
+        ],
+        faqs: [
+          { q: "Is the water puppet show and dinner cruise worth it in Ha Long?", a: "Yes, for travelers wanting genuine traditional Vietnamese performing arts paired with a relaxing evening dinner cruise." },
+        ],
+      };
+
     default:
       return null;
   }
