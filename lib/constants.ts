@@ -579,6 +579,9 @@ export const YEREVAN_INFO_SLUGS: string[] = [
   'is-garni-geghard-teeth-whitening-worth-it-yerevan', 'is-khashlama-mountain-feast-worth-it-yerevan',
   'is-private-birdwatching-worth-it-yerevan', 'is-aparan-amberd-fortress-worth-it-yerevan',
   'is-lori-drone-video-worth-it-yerevan',
+  'is-garni-beekeeping-tour-worth-it-yerevan', 'is-amberd-sujukh-making-tour-worth-it-yerevan',
+  'is-wild-herbs-foraging-worth-it-yerevan', 'is-tree-planting-experience-worth-it-yerevan',
+  'is-soviet-modernism-tour-worth-it-yerevan',
 ];
 
 // Jordan launched 2026-11-19 with 507 live tours and zero authority pages.

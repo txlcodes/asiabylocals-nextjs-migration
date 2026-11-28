@@ -1155,6 +1155,76 @@ export function getArmeniaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-garni-beekeeping-tour-worth-it-yerevan":
+            return {
+                title: "Is the Garni Temple & Beekeeping Tour Worth It from Yerevan?",
+                description: "An honest look at the private Garni Temple and beekeeping tour from Yerevan.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a hands-on rural activity alongside the standard temple sightseeing — this pairs a visit to Garni Temple with time at an actual beekeeping operation, a genuinely different add-on from the usual wine or cooking pairings.", tourCard: { slug: "from-yerevan-private-garni-temple-beekeeping-tour", title: "From Yerevan: Private Garni Temple & Beekeeping Tour", description: "A private tour combining Garni Temple with a beekeeping experience.", price: "From $384", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "If you have bee allergies, mention this in advance so the operator can plan the beekeeping portion accordingly." }
+                ],
+                faqs: [
+                    { q: "Is the Garni Temple and beekeeping tour worth it from Yerevan?", a: "Yes, for travelers wanting a genuine hands-on rural activity alongside standard temple sightseeing." }
+                ],
+            };
+
+        case "is-amberd-sujukh-making-tour-worth-it-yerevan":
+            return {
+                title: "Is the Amberd Fortress & Sujukh-Making Tour Worth It from Yerevan?",
+                description: "An honest look at the private Amberd Fortress tour with a traditional sujukh-making experience.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine culinary tradition alongside the fortress sightseeing — sujukh is a traditional Armenian grape-and-walnut sweet, and this tour lets you make it hands-on rather than just buying it from a shop.", tourCard: { slug: "from-yerevan-private-amberd-fortress-sujukh", title: "From Yerevan: Private Amberd Fortress & Sujukh-Making Tour", description: "A private tour combining Amberd Fortress with a traditional sujukh-making experience.", price: "From $377", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Sujukh makes a genuinely good, distinctive souvenir if you make your own batch to take home." }
+                ],
+                faqs: [
+                    { q: "Is the Amberd Fortress and sujukh-making tour worth it from Yerevan?", a: "Yes, for travelers wanting a hands-on traditional Armenian culinary experience alongside the fortress visit." }
+                ],
+            };
+
+        case "is-wild-herbs-foraging-worth-it-yerevan":
+            return {
+                title: "Is the Yerevan Wild Herbs Foraging Experience Worth It?",
+                description: "An honest look at Yerevan's wild herbs foraging experience in nature.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Worth it for travelers genuinely curious about local plant knowledge — this experience takes you into the countryside to forage wild herbs with a local guide, a quiet, nature-focused activity distinct from Yerevan's usual temple and wine circuit.", tourCard: { slug: "yerevan-wild-herbs-foraging-experience-in-the", title: "Yerevan: Wild Herbs Foraging Experience in the Nature", description: "A guided wild herbs foraging experience in the countryside near Yerevan.", price: "From $338", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Wear sturdy shoes suited for walking through fields and light terrain, not city sightseeing shoes." }
+                ],
+                faqs: [
+                    { q: "Is the wild herbs foraging experience worth it in Yerevan?", a: "Yes, for travelers genuinely curious about local plant knowledge and wanting a quiet, nature-focused activity." }
+                ],
+            };
+
+        case "is-tree-planting-experience-worth-it-yerevan":
+            return {
+                title: "Is the Yerevan Private Tree Planting Experience Worth It?",
+                description: "An honest look at Yerevan's private tree planting experience with tea.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Worth it specifically for travelers who want to leave a genuine, lasting mark on the place they visited — rather than just sightseeing, this experience has you actually plant a tree, followed by tea, a small but meaningful activity distinct from standard tours.", tourCard: { slug: "yerevan-private-tree-planting-experience-with-tea", title: "Yerevan: Private Tree Planting Experience with Tea", description: "A private tree planting experience in Yerevan, followed by tea.", price: "From $325", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Ask whether you'll get the tree's location afterward, so you can look it up again if you ever return to Armenia." }
+                ],
+                faqs: [
+                    { q: "Is the tree planting experience worth it in Yerevan?", a: "Yes, for travelers wanting to leave a genuine, lasting mark on the place they visited, beyond standard sightseeing." }
+                ],
+            };
+
+        case "is-soviet-modernism-tour-worth-it-yerevan":
+            return {
+                title: "Is the Soviet-Era Armenian Modernism Tour Worth It in Yerevan?",
+                description: "An honest look at Yerevan's Soviet-Era Ghosts: Armenian Modernism architecture tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for architecture and 20th-century history enthusiasts specifically — this tour focuses on Yerevan's distinctive Soviet-era modernist buildings rather than the ancient temples and monasteries most Armenia tours center on, a genuinely different historical lens.", tourCard: { slug: "soviet-era-ghosts-armenian-modernism-tour", title: "Soviet-Era Ghosts: Armenian Modernism Tour", description: "A tour of Yerevan's Soviet-era modernist architecture.", price: "From $293", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "A guide with real architectural and Soviet-history knowledge makes a significant difference here compared to a generic city tour guide." }
+                ],
+                faqs: [
+                    { q: "Is the Soviet-era Armenian modernism tour worth it in Yerevan?", a: "Yes, for architecture and 20th-century history enthusiasts wanting a different historical lens than Armenia's ancient sites." }
+                ],
+            };
+
         default:
             return null;
     }
