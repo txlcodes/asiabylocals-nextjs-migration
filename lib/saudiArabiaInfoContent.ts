@@ -1862,6 +1862,62 @@ export function getSaudiArabiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-sadous-village-edge-of-world-worth-it-riyadh":
+            return {
+                title: "Is the Sadous Village and Edge of the World Tour Worth It in Riyadh?",
+                description: "An honest look at the half-day tour combining Sadus Village with the Edge of the World from Riyadh.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/41e02204b846463e991fd4df47e3c7268a3535e718bbcdce42e51b68ded5f99a.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want more than just the cliff views — pairing the dramatic Edge of the World escarpment with a stop at the traditional Sadus Village gives this half-day real cultural depth alongside the famous photo-op scenery.", tourCard: { slug: "riyadh-sadous-village-and-edge-of-the-world-tour", title: "Riyadh: Sadous Village and Edge of the World Tour", description: "A half-day tour combining Sadus Village with the Edge of the World from Riyadh.", price: "From $546", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/41e02204b846463e991fd4df47e3c7268a3535e718bbcdce42e51b68ded5f99a.png" } },
+                    { title: "Practical Tips", content: "A 4x4 vehicle is standard for this route, so expect a genuinely bumpy off-road drive on the way to the escarpment." },
+                ],
+                faqs: [
+                    { q: "Is the Sadous Village and Edge of the World tour worth it in Riyadh?", a: "Yes, for travelers wanting cultural depth from a traditional village visit alongside the famous cliff-edge scenery." },
+                ],
+            };
+
+        case "is-riyadh-through-time-diriyah-skyline-worth-it-riyadh":
+            return {
+                title: "Is Riyadh Through Time: From Diriyah to Skyline Worth It?",
+                description: "An honest look at the full-day Riyadh tour tracing history from Diriyah's UNESCO site to the modern skyline.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6056cc33b4b0ba03e27d56d41f4898845d56ce799fd2ca2fdddef68f24da3d1f.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to understand Riyadh's full arc rather than just its modern towers — starting at the At-Turaif UNESCO World Heritage Site in Diriyah and the Arabian Horse Gallery before ending at the contemporary skyline traces the city's development in a way a skyline-only tour can't.", tourCard: { slug: "riyadh-through-time-from-diriyah-to-skyline", title: "Riyadh Through Time: From Diriyah to Skyline", description: "A full-day Riyadh tour tracing history from Diriyah's UNESCO site to the modern skyline.", price: "From $553", duration: "7.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6056cc33b4b0ba03e27d56d41f4898845d56ce799fd2ca2fdddef68f24da3d1f.jpeg" } },
+                    { title: "Practical Tips", content: "The Arabian Horse Gallery stop is a genuine highlight for horse enthusiasts, so budget extra time there if that interests you." },
+                ],
+                faqs: [
+                    { q: "Is the Riyadh Through Time tour worth it, from Diriyah to the skyline?", a: "Yes, for travelers wanting to understand Riyadh's full historical arc rather than just its modern towers." },
+                ],
+            };
+
+        case "is-desert-quad-camel-farm-worth-it-jeddah":
+            return {
+                title: "Is the Half-Hour Desert Quad Tour & Camel Farm Visit Worth It in Jeddah?",
+                description: "An honest look at the half-day desert quad tour with a camel farm visit from Jeddah.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/22588f1d02d416d307328b783b5b2ce528124cbcd9050e771d9157ec2392a4f5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quick dose of desert adrenaline paired with a gentler wildlife stop — a half-hour quad ride followed by a camel farm visit balances an active moment with a calmer, family-friendly one in a single short outing.", tourCard: { slug: "jeddah-half-hour-desert-quad-tour-camel-farm-visit", title: "Jeddah: Half-Hour Desert Quad Tour & Camel Farm Visit", description: "A half-day desert quad tour with a camel farm visit from Jeddah.", price: "From $520", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/22588f1d02d416d307328b783b5b2ce528124cbcd9050e771d9157ec2392a4f5.jpeg" } },
+                    { title: "Practical Tips", content: "Wear closed shoes and clothing you don't mind getting dusty for the quad portion of the day." },
+                ],
+                faqs: [
+                    { q: "Is the desert quad tour and camel farm visit worth it in Jeddah?", a: "Yes, for travelers wanting a short dose of desert adrenaline balanced with a calmer, family-friendly wildlife stop." },
+                ],
+            };
+
+        case "is-hidden-desert-trails-worth-it-alula":
+            return {
+                title: "Are the Hidden Desert Trails of AlUla Worth It?",
+                description: "An honest look at the half-day hidden desert trails experience in AlUla, beyond the usual tourist spots.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/575e4e75498fa7368de0210ea3fca07795984087523143310248abc4c79efb86.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you've already covered AlUla's major sites and want something quieter — this is framed specifically around discovering a hidden side of AlUla beyond Hegra and Maraya, worth it for repeat visitors or travelers wanting a less-touristed angle.", tourCard: { slug: "hidden-desert-trails-of-alula", title: "Hidden Desert Trails of AlUla", description: "A half-day hidden desert trails experience in AlUla, beyond the usual tourist spots.", price: "From $480", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/575e4e75498fa7368de0210ea3fca07795984087523143310248abc4c79efb86.jpg" } },
+                    { title: "Practical Tips", content: "This suits travelers who've already seen AlUla's headline sites and want a quieter, off-the-beaten-path angle instead." },
+                ],
+                faqs: [
+                    { q: "Are the hidden desert trails of AlUla worth it?", a: "Yes, for travelers who've already covered AlUla's major sites and want a quieter, less-touristed experience." },
+                ],
+            };
+
         default:
             return null;
     }

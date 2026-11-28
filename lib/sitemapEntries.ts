@@ -1064,6 +1064,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-vip-city-tour-saudi-cuisine-worth-it-riyadh', 'is-kingdom-tower-faisaliah-tour-worth-it-riyadh',
     'is-desert-horse-ride-worth-it-riyadh', 'is-national-museum-souq-ushaiger-tour-worth-it-riyadh',
     'is-riyadh-highlights-local-food-tour-worth-it-riyadh',
+    'is-sadous-village-edge-of-world-worth-it-riyadh', 'is-riyadh-through-time-diriyah-skyline-worth-it-riyadh',
   ], 'saudi-arabia', 'riyadh');
 
   const jeddahInfoPages = mapInfoSlugs([
@@ -1084,6 +1085,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-durrat-al-arous-beach-day-worth-it-jeddah', 'is-king-abdullah-economic-city-day-trip-worth-it-jeddah',
     'is-al-balad-wholesale-souq-tour-worth-it-jeddah', 'is-deep-sea-fishing-reef-swim-worth-it-jeddah',
     'is-desert-safari-buggy-beach-horse-worth-it-jeddah', 'is-red-sea-boat-rental-worth-it-jeddah',
+    'is-desert-quad-camel-farm-worth-it-jeddah',
   ], 'saudi-arabia', 'jeddah');
   const alulaInfoPages = mapInfoSlugs([
     'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
@@ -1098,6 +1100,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'how-to-get-to-alula', 'alula-hegra-entrance-guide',
     'alula-dress-code-guide',
     'best-vintage-land-rover-tour-alula', 'is-kashta-coffee-workshop-worth-it-alula',
+    'is-hidden-desert-trails-worth-it-alula',
   ], 'saudi-arabia', 'alula');
   const vientianeInfoPages = mapInfoSlugs([
     'best-buddha-park-tour-vientiane', 'best-patuxai-that-luang-tour-vientiane',

@@ -794,6 +794,7 @@ export const RIYADH_INFO_SLUGS: string[] = [
   'is-vip-city-tour-saudi-cuisine-worth-it-riyadh', 'is-kingdom-tower-faisaliah-tour-worth-it-riyadh',
   'is-desert-horse-ride-worth-it-riyadh', 'is-national-museum-souq-ushaiger-tour-worth-it-riyadh',
   'is-riyadh-highlights-local-food-tour-worth-it-riyadh',
+  'is-sadous-village-edge-of-world-worth-it-riyadh', 'is-riyadh-through-time-diriyah-skyline-worth-it-riyadh',
 ];
 
 // Saudi Arabia batch 2 (2026-11-19): Jeddah and AlUla
@@ -815,6 +816,7 @@ export const JEDDAH_INFO_SLUGS: string[] = [
   'is-durrat-al-arous-beach-day-worth-it-jeddah', 'is-king-abdullah-economic-city-day-trip-worth-it-jeddah',
   'is-al-balad-wholesale-souq-tour-worth-it-jeddah', 'is-deep-sea-fishing-reef-swim-worth-it-jeddah',
   'is-desert-safari-buggy-beach-horse-worth-it-jeddah', 'is-red-sea-boat-rental-worth-it-jeddah',
+  'is-desert-quad-camel-farm-worth-it-jeddah',
 ];
 export const ALULA_INFO_SLUGS: string[] = [
   'best-hegra-tour-alula', 'best-dadan-jabal-ikmah-tour-alula',
@@ -829,6 +831,7 @@ export const ALULA_INFO_SLUGS: string[] = [
   'how-to-get-to-alula', 'alula-hegra-entrance-guide',
   'alula-dress-code-guide',
   'best-vintage-land-rover-tour-alula', 'is-kashta-coffee-workshop-worth-it-alula',
+  'is-hidden-desert-trails-worth-it-alula',
 ];
 
 // Laos batch 2 (2026-11-19): Vientiane and Vang Vieng
