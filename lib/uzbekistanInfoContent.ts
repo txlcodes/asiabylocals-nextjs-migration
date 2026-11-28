@@ -2346,6 +2346,48 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-religious-heritage-tour-worth-it-samarkand":
+            return {
+                title: "Is the Religious Heritage Tour with Guide & Car Worth It in Samarkand?",
+                description: "An honest look at Samarkand's half-day religious heritage tour visiting the city's mausoleum, church, and synagogue.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ebc869566baced886d9a188fa86ab0196980371a3f11e0932d7232974686b06d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see a side of Samarkand beyond the Registan and Silk Road monuments — this tour covers the Khoja Daniyor Mausoleum, a Russian Orthodox church, and a synagogue, tracing the city's multi-faith history in one half-day with a private guide and car.", tourCard: { slug: "samarkand-religious-heritage-tour-with-guide-car", title: "Samarkand: Religious Heritage Tour with Guide & Car", description: "A half-day religious heritage tour of Samarkand with private guide and car.", price: "From $418", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ebc869566baced886d9a188fa86ab0196980371a3f11e0932d7232974686b06d.jpeg" } },
+                    { title: "Practical Tips", content: "This pairs naturally with (not instead of) the main Registan/Shah-i-Zinda sightseeing, since it covers different, less-visited religious sites around the city." }
+                ],
+                faqs: [
+                    { q: "Is the religious heritage tour worth it in Samarkand?", a: "Yes, for travelers wanting to see Samarkand's multi-faith history beyond the main Silk Road monuments." }
+                ],
+            };
+
+        case "is-guided-city-tour-with-plov-worth-it-tashkent":
+            return {
+                title: "Is the Guided City Tour with a Taste of Plov Worth It in Tashkent?",
+                description: "An honest look at Tashkent's full-day guided city tour paired with tasting the national dish, plov.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0c7d2aee10a8d791eb5771e1786cda7cd1f4e8c466a483aec8d3d979242ec76b.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a straightforward introduction to Tashkent's history combined with Uzbekistan's signature dish — plov is the national comfort food, and pairing a tasting with the city tour saves hunting down a good spot on your own.", tourCard: { slug: "tashkent-guided-city-tour-with-taste-of-plov", title: "Tashkent: Guided City Tour with Taste of Plov", description: "A full-day guided city tour of Tashkent with a plov tasting.", price: "From $416", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0c7d2aee10a8d791eb5771e1786cda7cd1f4e8c466a483aec8d3d979242ec76b.jpg" } },
+                    { title: "Practical Tips", content: "Come hungry for the plov stop — portions at well-known plov centers in Tashkent tend to be generous." }
+                ],
+                faqs: [
+                    { q: "Is the guided city tour with plov tasting worth it in Tashkent?", a: "Yes, for a straightforward city overview paired with trying Uzbekistan's national dish." }
+                ],
+            };
+
+        case "is-old-city-food-crafts-workshop-worth-it-bukhara":
+            return {
+                title: "Is the Full Bukhara Experience: Old City, Food and Crafts Workshop Worth It?",
+                description: "An honest look at Bukhara's half-day tour combining the old city, local food, and a crafts workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf8c8fc94f94d8fde25a9653b5bd3c66a30a4256f5f918275feaae880dda9a64.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see Bukhara through a local's eyes rather than just ticking off monuments — this half-day combines old city walking, local food, and a hands-on crafts workshop, with stories and details most visitors miss.", tourCard: { slug: "full-bukhara-experience-old-city-food-and-crafts", title: "Full Bukhara Experience: Old City, Food and Crafts Workshop", description: "A half-day Bukhara experience combining the old city, local food, and a crafts workshop.", price: "From $260", duration: "6.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/cf8c8fc94f94d8fde25a9653b5bd3c66a30a4256f5f918275feaae880dda9a64.jpg" } },
+                    { title: "Practical Tips", content: "This works well as a first-day orientation tour since it mixes sightseeing, food, and a hands-on activity rather than just walking between monuments." }
+                ],
+                faqs: [
+                    { q: "Is the Old City, Food and Crafts Workshop tour worth it in Bukhara?", a: "Yes, for travelers wanting a local, hands-on introduction to Bukhara beyond standard monument sightseeing." }
+                ],
+            };
+
         default:
             return null;
     }

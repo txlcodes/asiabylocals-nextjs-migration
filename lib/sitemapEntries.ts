@@ -595,6 +595,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-spanish-guide-night-tour-worth-it-samarkand', 'is-local-family-suzani-food-worth-it-samarkand',
     'is-timurid-blue-mosaic-workshop-worth-it-samarkand', 'is-copper-plate-engraving-worth-it-samarkand',
     'is-folk-figurine-painting-worth-it-samarkand', 'is-iraqi-style-embroidery-worth-it-samarkand',
+    'is-religious-heritage-tour-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),
@@ -625,6 +626,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-dastarkhan-cook-dine-locals-worth-it-tashkent', 'is-solar-furnace-heliocomplex-worth-it-tashkent',
     'is-buzkashi-game-tour-worth-it-tashkent', 'is-asian-journey-spa-worth-it-tashkent',
     'is-metro-market-tour-worth-it-tashkent', 'is-vegan-street-food-tour-worth-it-tashkent',
+    'is-guided-city-tour-with-plov-worth-it-tashkent',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/tashkent/${slug}`,
     lastModified: new Date(),
@@ -647,6 +649,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-nurata-horse-riding-village-worth-it-bukhara',
     'is-soviet-bukhara-architecture-worth-it-bukhara', 'is-qurutob-cooking-class-worth-it-bukhara',
     'is-chicken-kebab-cooking-class-worth-it-bukhara',
+    'is-old-city-food-crafts-workshop-worth-it-bukhara',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/bukhara/${slug}`,
     lastModified: new Date(),
