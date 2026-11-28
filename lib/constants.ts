@@ -1906,6 +1906,9 @@ export const TOKYO_INFO_SLUGS = [
   'is-kendo-experience-worth-it-tokyo', 'is-toyosu-tuna-auction-tour-worth-it-tokyo',
   'is-tokyo-helicopter-flight-skytree-worth-it-tokyo', 'is-fuji-speedway-nismo-jdm-tour-worth-it-tokyo',
   'is-tateyama-kurobe-alpine-route-worth-it-tokyo', 'is-aichi-meiji-village-worth-it-tokyo',
+  'is-kintsugi-matcha-worth-it-tokyo', 'is-jleague-soccer-game-worth-it-tokyo',
+  'is-origami-workshop-worth-it-tokyo', 'is-anime-voice-acting-worth-it-tokyo',
+  'is-ikebana-workshop-worth-it-tokyo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/kyotoInfoContent.ts.

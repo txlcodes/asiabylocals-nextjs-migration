@@ -2902,6 +2902,111 @@ export function getTokyoInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kintsugi-matcha-worth-it-tokyo":
+      return {
+        title: "Is the Kintsugi & Matcha Experience Worth It in Tokyo?",
+        description: "An honest look at the authentic kintsugi and matcha experience in Shibuya, combining a traditional Japanese repair craft with a tea ceremony.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/authentic-kintsugi-and-matcha-experience-in-shibuya-tokyo-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kintsugi, the art of repairing broken pottery with gold, carries a genuinely meaningful philosophy about embracing imperfection, and pairing it with a proper matcha tea ceremony makes this a thoughtful, slower-paced cultural activity distinct from Tokyo's usual fast-moving sightseeing.",
+            tourCard: { slug: "authentic-kintsugi-and-matcha-experience-in-shibuya-tokyo-by-local-operator", title: "Authentic Kintsugi and Matcha Experience in Shibuya Tokyo", description: "A hands-on kintsugi pottery repair workshop paired with a matcha tea ceremony in Shibuya.", price: "From $360", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/authentic-kintsugi-and-matcha-experience-in-shibuya-tokyo-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You'll take home a genuinely repaired piece of pottery, so this makes a meaningful souvenir rather than a purely disposable craft activity.",
+          },
+        ],
+        faqs: [
+          { q: "Is the kintsugi and matcha experience worth it in Tokyo?", a: "Yes, for a genuinely thoughtful, slower-paced cultural activity combining a meaningful repair craft with a proper tea ceremony." },
+        ],
+      };
+
+    case "is-jleague-soccer-game-worth-it-tokyo":
+      return {
+        title: "Is the J-League Soccer Game with a Local Fan Worth It in Tokyo?",
+        description: "An honest look at attending a J-League soccer match in Tokyo with a local fan, a genuine sports experience beyond typical sightseeing.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/j-league-soccer-game-with-local-fan-and-ticket-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Watching a J-League match alongside a genuine local fan gives real insight into Japanese stadium culture, chants, and matchday atmosphere, worth it specifically for sports fans wanting an authentic local experience rather than another temple or museum visit.",
+            tourCard: { slug: "j-league-soccer-game-with-local-fan-and-ticket-in-tokyo", title: "J-League Soccer Game with Local Fan and Ticket in Tokyo", description: "Attend a J-League soccer match in Tokyo with a local fan and included ticket.", price: "From $197", duration: "Half day", image: "https://images.asiabylocals.com/asiabylocals/tours/j-league-soccer-game-with-local-fan-and-ticket-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the match schedule before booking your trip dates, since this only works around Tokyo's actual J-League fixture calendar.",
+          },
+        ],
+        faqs: [
+          { q: "Is the J-League soccer game with a local fan worth it in Tokyo?", a: "Yes, for sports fans wanting a genuinely authentic local matchday experience, with real insight into Japanese stadium culture." },
+        ],
+      };
+
+    case "is-origami-workshop-worth-it-tokyo":
+      return {
+        title: "Is the Traditional Origami Workshop Worth It in Tokyo?",
+        description: "An honest look at Tokyo's traditional origami workshop with a local instructor, a hands-on introduction to Japan's famous paper-folding art.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/learn-traditional-origami-with-a-local-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Origami is genuinely one of Japan's most recognizable traditional arts, and learning it properly from a local instructor goes well beyond folding a simple paper crane, a worthwhile quiet, hands-on activity between busier sightseeing days.",
+            tourCard: { slug: "learn-traditional-origami-with-a-local-in-tokyo", title: "Learn Traditional Origami with a Local in Tokyo", description: "A hands-on traditional origami workshop with a local instructor in Tokyo.", price: "From $146", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/learn-traditional-origami-with-a-local-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely good rainy-day or low-energy activity, requiring no special fitness or prior skill to enjoy.",
+          },
+        ],
+        faqs: [
+          { q: "Is the traditional origami workshop worth it in Tokyo?", a: "Yes, for a genuinely deeper hands-on introduction to one of Japan's most recognizable traditional arts, taught properly by a local instructor." },
+        ],
+      };
+
+    case "is-anime-voice-acting-worth-it-tokyo":
+      return {
+        title: "Is the Anime Voice Actor Studio Experience Worth It in Tokyo?",
+        description: "An honest look at Tokyo's anime voice actor experience, a professional studio dubbing session for anime fans.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/become-an-anime-voice-actor-pro-studio-dubbing-in-tokyo/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Recording real dubbing lines in a professional studio gives a genuinely unique behind-the-scenes look at how anime voice acting actually works, worth it specifically for anime fans wanting a hands-on creative experience rather than just visiting Akihabara's shops.",
+            tourCard: { slug: "become-an-anime-voice-actor-pro-studio-dubbing-in-tokyo", title: "Become an Anime Voice Actor - Pro Studio Dubbing in Tokyo", description: "A professional studio dubbing experience for anime fans in Tokyo.", price: "From $123", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/become-an-anime-voice-actor-pro-studio-dubbing-in-tokyo/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This is a genuinely fun novelty rather than professional training, so go in for the experience itself rather than expecting an industry breakdown.",
+          },
+        ],
+        faqs: [
+          { q: "Is the anime voice actor studio experience worth it in Tokyo?", a: "Yes, for anime fans wanting a genuinely unique, hands-on creative experience, well beyond simply browsing Akihabara's shops." },
+        ],
+      };
+
+    case "is-ikebana-workshop-worth-it-tokyo":
+      return {
+        title: "Is the Ikebana Workshop Worth It in Tokyo?",
+        description: "An honest look at Tokyo's ikebana workshop, a hands-on introduction to Japan's traditional art of flower arranging.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/ikebana-workshop-in-tokyo-japanese-flower-art-experience-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ikebana is a genuinely disciplined traditional art with its own philosophy around balance and space, distinct from simply arranging flowers decoratively, making this a worthwhile quiet, meditative activity for travelers wanting real cultural depth rather than another photo stop.",
+            tourCard: { slug: "ikebana-workshop-in-tokyo-japanese-flower-art-experience-by-local-operator", title: "Ikebana Workshop in Tokyo: Japanese Flower Art Experience", description: "A hands-on ikebana flower-arranging workshop in Tokyo.", price: "From $117", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/ikebana-workshop-in-tokyo-japanese-flower-art-experience-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach this with patience — ikebana's philosophy rewards slowing down, so it's a poor fit if you're trying to squeeze it between rushed sightseeing stops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ikebana workshop worth it in Tokyo?", a: "Yes, for travelers wanting real cultural depth and a meditative pace, learning a genuinely disciplined traditional art rather than just arranging flowers decoratively." },
+        ],
+      };
+
     default:
             return null;
     }
