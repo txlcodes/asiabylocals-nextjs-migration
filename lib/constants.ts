@@ -1943,6 +1943,8 @@ export const PHNOM_PENH_INFO_SLUGS = [
     'is-cambodia-2day-nature-culture-heritage-worth-it-phnom-penh',
     'is-koh-dach-silk-island-worth-it-phnom-penh', 'is-kep-scenic-train-pepper-farm-worth-it-phnom-penh',
     'is-chisor-mountain-temple-worth-it-phnom-penh', 'is-udong-long-vek-phnom-reap-worth-it-phnom-penh',
+    'is-kampot-pepper-farm-temple-salt-field-worth-it-phnom-penh', 'is-mekong-river-sunset-cruise-city-tour-worth-it-phnom-penh',
+    'is-oudong-koh-chen-buddhist-center-worth-it-phnom-penh',
 ];
 
 export const SIEM_REAP_INFO_SLUGS = [

@@ -1582,6 +1582,51 @@ export function getPhnomPenhInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-kampot-pepper-farm-temple-salt-field-worth-it-phnom-penh":
+            return {
+                title: "Is the Kampot Day Trip to Pepper Farm, Temple and Salt Field Worth It from Phnom Penh?",
+                description: "An honest look at the full-day Kampot trip visiting a pepper farm, temple, and salt field from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/kampot-day-trip-to-pepper-farm-temple-and-salt-field/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine taste of rural Cambodia beyond temples and museums — Kampot's famous pepper farms and salt fields are a real agricultural side of the country, and pairing them with a temple stop and the Kep crab market gives a well-rounded rural day.",
+                    tourCard: { slug: "kampot-day-trip-to-pepper-farm-temple-and-salt", title: "Kampot Day Trip to Pepper Farm, Temple and Salt Field", description: "A full-day Kampot trip visiting a pepper farm, temple, and salt field from Phnom Penh.", price: "From $486", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/kampot-day-trip-to-pepper-farm-temple-and-salt-field/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Kampot pepper is genuinely prized internationally, so this is a good day to buy some directly from the farm as a souvenir." }
+                ],
+                faqs: [
+                    { q: "Is the Kampot pepper farm, temple and salt field day trip worth it from Phnom Penh?", a: "Yes, for travelers wanting a genuine taste of rural Cambodian agriculture beyond the usual temple circuit." }
+                ],
+            };
+
+        case "is-mekong-river-sunset-cruise-city-tour-worth-it-phnom-penh":
+            return {
+                title: "Are the Phnom Penh City Tours and Mekong River Sunset Cruise Worth It?",
+                description: "An honest look at the half-day Phnom Penh city tour paired with a Mekong River sunset cruise.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-city-tours-and-mekong-river-sunset-cruise/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to pair Phnom Penh's heavier historical sites with a genuinely relaxing close to the day — this combines stops like the National Museum and Choeung Ek with a Mekong River sunset cruise, a calming contrast after the city's more intense history stops.",
+                    tourCard: { slug: "phnom-penh-city-tours-and-mekong-river-sunset-crui", title: "Phnom Penh City Tours and Mekong River Sunset Cruise", description: "A half-day Phnom Penh city tour paired with a Mekong River sunset cruise.", price: "From $325", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phnom-penh-city-tours-and-mekong-river-sunset-cruise/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The Choeung Ek stop is emotionally heavy, so having the river cruise afterward genuinely helps as a decompression close to the day." }
+                ],
+                faqs: [
+                    { q: "Is the Phnom Penh city tour and Mekong River sunset cruise worth it?", a: "Yes, for travelers wanting to pair the city's historical sites with a relaxing sunset cruise to close out the day." }
+                ],
+            };
+
+        case "is-oudong-koh-chen-buddhist-center-worth-it-phnom-penh":
+            return {
+                title: "Is the Private Tour to Oudong, Koh Chen Island and Buddhist Center Worth It from Phnom Penh?",
+                description: "An honest look at the half-day private tour to Oudong, Koh Chen Island, and a Buddhist meditation center from Phnom Penh.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-tour-to-oudong-koh-chen-island-and-buddhist-center/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quieter, more spiritual half-day outside the city — Oudong's royal stupas, Koh Chen Island's traditional silver and bronze craft village, and a stop at a Buddhist Vipassana meditation center together give a genuinely different side of Cambodia than the main Phnom Penh sights.",
+                    tourCard: { slug: "private-tour-to-oudong-koh-chen-island-and-buddhis", title: "Private Tour to Oudong, Koh Chen Island and Buddhist Center", description: "A half-day private tour to Oudong, Koh Chen Island, and a Buddhist meditation center from Phnom Penh.", price: "From $208", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-tour-to-oudong-koh-chen-island-and-buddhist-center/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for the Buddhist center stop, covering shoulders and knees, as you would for any active religious site in Cambodia." }
+                ],
+                faqs: [
+                    { q: "Is the Oudong, Koh Chen Island and Buddhist Center tour worth it from Phnom Penh?", a: "Yes, for travelers wanting a quieter, more spiritual half-day featuring royal stupas, a craft village, and a meditation center." }
+                ],
+            };
+
         default:
             return null;
     }
