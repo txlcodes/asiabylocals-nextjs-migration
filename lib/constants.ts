@@ -2086,6 +2086,8 @@ export const KRABI_INFO_SLUGS = [
   'is-beach-horse-ride-worth-it-krabi', 'is-jurassic-jungle-kayaking-klongroot-worth-it-krabi',
   'is-free-diving-5-point-island-worth-it-krabi', 'is-game-fishing-french-spanish-guide-worth-it-krabi',
   'is-atv-kayak-sunset-khao-thong-hill-worth-it-krabi',
+  'is-fishing-full-day-worth-it-krabi', 'is-khlong-nam-sai-sunrise-kayaking-worth-it-krabi',
+  'is-quiet-krabi-mangroves-jungle-waterfall-worth-it-krabi',
 ];
 // Re-add a slug here ONLY once its page exists in lib/tokyoInfoContent.ts.
 // Registering a slug without content ships a live, indexable page that renders
@@ -3361,6 +3363,7 @@ export const DA_NANG_INFO_SLUGS = [
   'is-waterfall-sliding-food-tour-worth-it-da-nang', 'is-atv-quad-massage-resort-worth-it-da-nang',
   'is-pho-local-girl-cooking-class-worth-it-da-nang', 'is-cyclo-japanese-guide-food-worth-it-da-nang',
   'is-coffee-making-cooking-class-worth-it-da-nang', 'is-scenic-train-journey-worth-it-da-nang',
+  'is-private-hai-van-pass-food-options-worth-it-da-nang',
 ];
 
 export const HO_CHI_MINH_CITY_INFO_SLUGS = [

@@ -1417,6 +1417,26 @@ export function getDaNangInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-private-hai-van-pass-food-options-worth-it-da-nang":
+      return {
+        title: "Is the Private Hai Van Pass Tour with Food Options Worth It in Da Nang?",
+        description: "An honest look at the full-day private Hai Van Pass tour with food options in Da Nang.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-hai-van-pass-tour-with-food-options-in-da-nang/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to combine Hai Van Pass's dramatic coastal views with genuine local food stops — private transport by car, van, or Dcar limousine lets you set your own pace along the pass rather than rushing through on a group schedule.",
+            tourCard: { slug: "private-hai-van-pass-tour-with-food-options-in-da-nang", title: "Private Hai Van Pass Tour with Food Options in Da Nang", description: "A full-day private Hai Van Pass tour with food options in Da Nang.", price: "From $224", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/private-hai-van-pass-tour-with-food-options-in-da-nang/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask your driver about which specific food stops are included, since options can vary by operator and route." },
+        ],
+        faqs: [
+          { q: "Is the private Hai Van Pass tour with food options worth it in Da Nang?", a: "Yes, for travelers wanting dramatic coastal views paired with genuine local food stops at their own pace." },
+        ],
+      };
+
     default:
       return null;
   }

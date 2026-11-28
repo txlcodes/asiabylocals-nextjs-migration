@@ -2065,6 +2065,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-beach-horse-ride-worth-it-krabi', 'is-jurassic-jungle-kayaking-klongroot-worth-it-krabi',
     'is-free-diving-5-point-island-worth-it-krabi', 'is-game-fishing-french-spanish-guide-worth-it-krabi',
     'is-atv-kayak-sunset-khao-thong-hill-worth-it-krabi',
+    'is-fishing-full-day-worth-it-krabi', 'is-khlong-nam-sai-sunrise-kayaking-worth-it-krabi',
+    'is-quiet-krabi-mangroves-jungle-waterfall-worth-it-krabi',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/krabi/${slug}`,
     lastModified: new Date(),
@@ -3165,6 +3167,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-waterfall-sliding-food-tour-worth-it-da-nang', 'is-atv-quad-massage-resort-worth-it-da-nang',
     'is-pho-local-girl-cooking-class-worth-it-da-nang', 'is-cyclo-japanese-guide-food-worth-it-da-nang',
     'is-coffee-making-cooking-class-worth-it-da-nang', 'is-scenic-train-journey-worth-it-da-nang',
+    'is-private-hai-van-pass-food-options-worth-it-da-nang',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/da-nang/${slug}`,
     lastModified: new Date(),

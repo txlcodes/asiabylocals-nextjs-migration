@@ -1225,6 +1225,51 @@ export function getKrabiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-fishing-full-day-worth-it-krabi":
+            return {
+                title: "Is the Full-Day Fishing Trip Worth It in Krabi?",
+                description: "An honest look at the full-day speedboat fishing trip around Ko Poda and Ao Nang in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/fishing-at-krabi-full-day-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuine fishing day rather than a scenic island-hopping boat ride — a full day by speedboat around Ko Poda and Ao Nang gives real time for casting in productive Andaman Sea waters.",
+                    tourCard: { slug: "fishing-at-krabi-full-day-by-local-operator", title: "Fishing at Krabi: Full day by Local Operator", description: "A full-day speedboat fishing trip around Ko Poda and Ao Nang in Krabi.", price: "From $506", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/fishing-at-krabi-full-day-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Catches vary by season, so ask the operator what's typically running before booking if a specific species matters to you." }
+                ],
+                faqs: [
+                    { q: "Is the full-day fishing trip worth it in Krabi?", a: "Yes, for travelers wanting a genuine fishing day with real casting time around Ko Poda and Ao Nang." }
+                ],
+            };
+
+        case "is-khlong-nam-sai-sunrise-kayaking-worth-it-krabi":
+            return {
+                title: "Is the Sunrise Breakfast and Kayaking Tour at Khlong Nam Sai Worth It in Krabi?",
+                description: "An honest look at the sunrise breakfast and kayaking experience at Khlong Nam Sai in Krabi.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sunrise-breakfast-and-kayaking-at-khlong-nam-sai-in-krabi/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely peaceful start to your day — kayaking through Khlong Nam Sai's calm waterways at sunrise, followed by breakfast, gives a quiet, scenic alternative to Krabi's busier midday boat tours.",
+                    tourCard: { slug: "sunrise-breakfast-and-kayaking-at-khlong-nam-sai-in-krabi", title: "Sunrise Breakfast and Kayaking at Khlong Nam Sai in Krabi", description: "A sunrise breakfast and kayaking experience at Khlong Nam Sai in Krabi.", price: "From $272", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sunrise-breakfast-and-kayaking-at-khlong-nam-sai-in-krabi/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The early start is genuinely worth it here — sunrise light and calmer water make for a more peaceful paddle than later in the day." }
+                ],
+                faqs: [
+                    { q: "Is the Khlong Nam Sai sunrise breakfast and kayaking tour worth it in Krabi?", a: "Yes, for travelers wanting a quiet, scenic start to the day away from Krabi's busier midday boat tours." }
+                ],
+            };
+
+        case "is-quiet-krabi-mangroves-jungle-waterfall-worth-it-krabi":
+            return {
+                title: "Is the Quiet Krabi: Mangroves, Jungle and Waterfall Experience Worth It?",
+                description: "An honest look at the half-day quiet Krabi experience covering mangroves, jungle, and a waterfall.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/quiet-krabi-mangroves-jungle-and-waterfall-experience-by-local-operator/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want Krabi's nature away from the crowded island-hopping boats — this half-day is built specifically around quieter mangrove kayaking, jungle, and a waterfall stop, a genuinely calmer pace than the region's busier tours.",
+                    tourCard: { slug: "quiet-krabi-mangroves-jungle-and-waterfall-experience-by-local-operator", title: "Quiet Krabi: Mangroves, Jungle and Waterfall Experience", description: "A half-day quiet Krabi experience covering mangroves, jungle, and a waterfall.", price: "From $225", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/quiet-krabi-mangroves-jungle-and-waterfall-experience-by-local-operator/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Kayaking equipment and life jackets are included, so this suits travelers at any paddling experience level." }
+                ],
+                faqs: [
+                    { q: "Is the Quiet Krabi mangroves, jungle, and waterfall experience worth it?", a: "Yes, for travelers wanting a calmer, quieter side of Krabi's nature away from busier island-hopping tours." }
+                ],
+            };
+
         default:
             return null;
     }
