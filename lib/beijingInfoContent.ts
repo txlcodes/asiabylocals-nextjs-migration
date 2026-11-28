@@ -1680,6 +1680,151 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hanfu-photos-tea-ceremony-worth-it-beijing":
+      return {
+        title: "Is the Beijing Summer Palace, Hanfu Photos & Tea Ceremony Tour Worth It?",
+        description: "An honest look at Beijing's $1,235 tour combining the Summer Palace with traditional Hanfu costume photos and a tea ceremony.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a more immersive cultural experience than standard sightseeing — this pairs the Summer Palace's gardens and lake with dressing in traditional Hanfu clothing for photos, plus a proper tea ceremony.",
+            tourCard: { slug: "beijing-summer-palace-hanfu-photos-tea-ceremony", title: "Beijing: Summer Palace, Hanfu Photos & Tea Ceremony Tour", description: "A Summer Palace visit combined with Hanfu costume photos and a tea ceremony.", price: "From $1,235", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "What You Actually Get",
+            content: "Beyond the Summer Palace's grounds, you're dressed in traditional Hanfu attire for photos against a historic backdrop, then taken through a proper Chinese tea ceremony rather than a quick tasting.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers who want distinctive photos in traditional dress and a genuine cultural activity, not just another palace walkthrough.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Hanfu rental and styling takes time, so build in extra time beyond the Summer Palace visit itself if photos matter to you.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Summer Palace Hanfu and tea ceremony tour worth it in Beijing?", a: "Yes, for travelers wanting distinctive costume photos and a genuine tea ceremony alongside the Summer Palace visit." },
+        ],
+      };
+
+    case "is-2day-horseback-riding-camp-worth-it-beijing":
+      return {
+        title: "Is the Beijing 2-Day Horseback Riding Camp Worth It?",
+        description: "An honest look at Beijing's $844 2-day horseback riding camp with meals and overnight stay.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely different Beijing experience away from temples and the Great Wall — this is an overnight horseback riding camp with meals and accommodation included, a rare outdoorsy option this close to the city.",
+            tourCard: { slug: "beijing-2-day-horseback-riding-camp-with-meals", title: "Beijing: 2-Day Horseback Riding Camp with Meals & Stay", description: "A 2-day horseback riding camp near Beijing with meals and overnight stay.", price: "From $844", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "What You Actually Get",
+            content: "Two days of horseback riding in the countryside outside Beijing, with meals and an overnight stay included rather than a quick hour-long ride.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers who've already covered the Great Wall and Forbidden City and want an active, nature-focused break from city sightseeing.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm riding experience requirements in advance — some camps cater to beginners while others expect basic riding skills.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 2-day horseback riding camp worth it near Beijing?", a: "Yes, for travelers wanting an active, countryside break from the city's temple and wall sightseeing." },
+        ],
+      };
+
+    case "is-langfang-red-chamber-dream-fantasy-worth-it-beijing":
+      return {
+        title: "Is the Langfang Red Chamber Dream Fantasy Tour Worth It from Beijing?",
+        description: "An honest look at Beijing's $948 day trip to Langfang's Red Chamber Dream Fantasy themed attraction.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for fans of the classic Chinese novel Dream of the Red Chamber — this day trip to Langfang recreates settings from the novel in elaborate themed gardens and buildings, a niche but distinctive stop beyond Beijing's standard sights.",
+            tourCard: { slug: "from-beijing-langfang-red-chamber-dream-fantasy", title: "From Beijing: Langfang Red Chamber Dream Fantasy Tour", description: "A day trip to Langfang's Red Chamber Dream Fantasy themed attraction.", price: "From $948", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "What You Actually See",
+            content: "The attraction recreates settings and gardens from the 18th-century novel Dream of the Red Chamber, one of China's most celebrated classical works, in an immersive themed environment.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers already familiar with the novel or deeply interested in Chinese classical literature — less compelling if you have no context for the source material.",
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide with strong knowledge of the novel adds a lot here, since the setting means much more with that context.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Langfang Red Chamber Dream Fantasy tour worth it?", a: "Yes for fans of the classic novel Dream of the Red Chamber, less so if you have no familiarity with the source material." },
+        ],
+      };
+
+    case "is-private-markets-tour-tea-tasting-worth-it-beijing":
+      return {
+        title: "Is the Beijing Private Markets Tour with Tea Tasting Worth It?",
+        description: "An honest look at Beijing's $1,794 private markets tour with tea tasting and hotel pickup.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to see how locals actually shop and eat rather than another temple or wall visit — this private tour takes you through local markets with a tea tasting built in, plus hotel pickup.",
+            tourCard: { slug: "beijing-private-markets-tour-with-tea-tasting", title: "Beijing: Private Markets Tour with Tea Tasting & Pickup", description: "A private local markets tour with tea tasting and hotel pickup.", price: "From $1,794", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "What You Actually Get",
+            content: "A private guide walks you through local markets — produce, spices, everyday goods — with a proper tea tasting worked into the day, plus pickup so you're not navigating transit yourself.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for food- and culture-curious travelers who've already seen Beijing's major monuments and want a slower, more local-feeling day.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Go hungry — market tours like this usually involve plenty of tasting along the way beyond the formal tea tasting.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Beijing private markets tour with tea tasting worth it?", a: "Yes, for travelers wanting a local, food-focused day beyond Beijing's major monuments." },
+        ],
+      };
+
+    case "is-lama-temple-confucius-temple-hutong-tea-worth-it-beijing":
+      return {
+        title: "Is the Beijing Lama Temple, Confucius Temple & Hutong Tea Tour Worth It?",
+        description: "An honest look at Beijing's $1,118 tour combining the Lama Temple, Confucius Temple, and a hutong tea stop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a quieter, more spiritual and historic side of Beijing — this pairs the colorful Lama Temple with the more contemplative Confucius Temple, finishing with tea in Beijing's traditional hutong alleyways.",
+            tourCard: { slug: "beijing-lama-temple-confucius-temple-hutong-tea", title: "Beijing: Lama Temple, Confucius Temple & Hutong Tea Tour", description: "A tour combining the Lama Temple, Confucius Temple, and hutong tea stop.", price: "From $1,118", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "What You Actually See",
+            content: "The Lama Temple is Beijing's most significant Tibetan Buddhist temple, the Confucius Temple offers a quieter contrast nearby, and the hutong tea stop rounds out the day in Beijing's traditional alleyway neighborhoods.",
+          },
+          {
+            title: "Who It's For",
+            content: "Best for travelers interested in religious and historic sites who want a calmer day than the Great Wall or Forbidden City crowds.",
+          },
+          {
+            title: "Practical Tips",
+            content: "Both temples are working religious sites, so modest dress and quiet, respectful behavior are expected inside.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lama Temple, Confucius Temple and hutong tea tour worth it in Beijing?", a: "Yes, for travelers wanting a quieter, spiritually-focused day away from Beijing's busiest sights." },
+        ],
+      };
+
     default:
       return null;
   }
