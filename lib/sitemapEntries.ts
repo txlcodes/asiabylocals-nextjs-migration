@@ -719,6 +719,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-shamanism-retreat-worth-it-kathmandu', 'is-potter-led-class-bhaktapur-worth-it-kathmandu',
     'is-kailash-mansarovar-yatra-worth-it-kathmandu', 'is-bardiya-tiger-tracking-worth-it-kathmandu',
     'is-mad-honey-hunting-ludi-worth-it-kathmandu',
+    'is-horse-riding-experience-worth-it-kathmandu', 'is-motorcycle-tour-chandragiri-chitlang-worth-it-kathmandu',
+    'is-everest-air-tour-pashupatinath-worth-it-kathmandu',
   ].map(slug => ({
     url: `${BASE_URL}/nepal/kathmandu/${slug}`,
     lastModified: new Date(),

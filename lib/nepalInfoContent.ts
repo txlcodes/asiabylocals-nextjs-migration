@@ -3607,6 +3607,48 @@ export function getNepalInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-horse-riding-experience-worth-it-kathmandu":
+            return {
+                title: "Is the Horse Riding Experience with Lunch Worth It in Kathmandu?",
+                description: "An honest look at the full-day horse riding experience with lunch from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77182b0abcd68a2348c6d01a5d98e87bbaa18420f5f27d496f2a0a50cb37660c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely different way to see the Kathmandu Valley's countryside — horse riding here is a slower, rural experience with a cooked lunch included, a nice break from temple-hopping and traffic.", tourCard: { slug: "kathmandu-horse-riding-experience-with-lunch", title: "Kathmandu: Horse Riding Experience with Lunch & Transfer", description: "A full-day horse riding experience with lunch and hotel transfer from Kathmandu.", price: "From $486", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77182b0abcd68a2348c6d01a5d98e87bbaa18420f5f27d496f2a0a50cb37660c.jpg" } },
+                    { title: "Practical Tips", content: "Riders of all experience levels are generally accommodated with guided support, but wear closed shoes and clothing you don't mind getting dusty." }
+                ],
+                faqs: [
+                    { q: "Is the horse riding experience worth it in Kathmandu?", a: "Yes, for travelers wanting a relaxed, rural alternative to the usual temple and city sightseeing, with lunch included." }
+                ],
+            };
+
+        case "is-motorcycle-tour-chandragiri-chitlang-worth-it-kathmandu":
+            return {
+                title: "Is the Motorcycle Tour to Chandragiri, Chitlang & Pharping Worth It in Kathmandu?",
+                description: "An honest look at the full-day motorcycle tour to Chandragiri, Chitlang, and Pharping from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b790ecda9a05f04c86a95ccd0bb9a2365deaf6060ea82937104227fdd1d9e436.png",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you enjoy riding and want to see rural hill villages outside the Kathmandu Valley in a single day — Chitlang and Pharping are both quieter, less-visited stops compared to the city's main tourist circuit.", tourCard: { slug: "kathmandu-motorcycle-tour-chandragiri-chitlang", title: "Kathmandu: Motorcycle Tour Chandragiri, Chitlang & Pharping", description: "A 7-hour motorcycle tour to Chandragiri, Chitlang, and Pharping from Kathmandu.", price: "From $455", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b790ecda9a05f04c86a95ccd0bb9a2365deaf6060ea82937104227fdd1d9e436.png" } },
+                    { title: "Practical Tips", content: "Hill roads can be winding and occasionally rough, so confirm your own riding experience matches the tour before booking, especially in the rainy season." }
+                ],
+                faqs: [
+                    { q: "Is the Chandragiri, Chitlang & Pharping motorcycle tour worth it from Kathmandu?", a: "Yes, for confident riders wanting a day away from the city visiting quieter hill villages outside the main tourist circuit." }
+                ],
+            };
+
+        case "is-everest-air-tour-pashupatinath-worth-it-kathmandu":
+            return {
+                title: "Is the Full-Day Everest Air Tour & Pashupatinath Aarati Worth It in Kathmandu?",
+                description: "An honest look at the half-day Everest scenic flight combined with the Pashupatinath evening aarati ceremony from Kathmandu.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3397e32aabcc04fdbeecbd0562f7b62d3e5a58dba124734edbc247b3f5903de9.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to pair your Everest scenic flight with something more culturally substantial than a hotel pickup — combining the flight with the Pashupatinath evening aarati ceremony makes efficient use of a single morning-to-evening booking.", tourCard: { slug: "kathmandu-full-day-everest-air-tour-pashupatinath", title: "Kathmandu: Full-Day Everest Air Tour & Pashupatinath Aarati", description: "A half-day Everest scenic flight paired with the Pashupatinath evening aarati ceremony from Kathmandu.", price: "From $514", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3397e32aabcc04fdbeecbd0562f7b62d3e5a58dba124734edbc247b3f5903de9.jpg" } },
+                    { title: "Practical Tips", content: "The flight portion depends entirely on weather clearance, so keep your schedule flexible around it and treat the aarati visit as the reliable half of the day." }
+                ],
+                faqs: [
+                    { q: "Is the Everest air tour and Pashupatinath aarati worth it in Kathmandu?", a: "Yes, for travelers who want both a mountain flight and a genuine evening cultural ceremony in one booking." }
+                ],
+            };
+
         default:
             return null;
     }
