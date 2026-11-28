@@ -1763,6 +1763,62 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-hsinchu-hakka-leicha-tour-worth-it-taipei":
+      return {
+        title: "Is the Taipei Private Tour of Hsinchu Hakka Culture & Lei Cha Worth It?",
+        description: "An honest look at the private Hsinchu Hakka culture tour with a traditional Lei Cha pounded tea experience from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want a genuinely different cultural angle than Taipei's usual sights — Hsinchu's Hakka heritage is distinct from mainstream Taiwanese culture, and Lei Cha (pounded tea) is a hands-on tradition you make yourself rather than just observe.", tourCard: { slug: "from-taipei-private-tour-of-hsinchu-hakka-culture", title: "From Taipei: Private Tour of Hsinchu Hakka Culture & Lei Cha", description: "A private tour of Hsinchu's Hakka culture with a traditional Lei Cha pounded tea experience.", price: "From $469", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Come hungry — Lei Cha is traditionally eaten as a full meal, with the pounded tea mixture poured over rice and side dishes." },
+        ],
+        faqs: [
+          { q: "Is the Hsinchu Hakka culture and Lei Cha tour worth it from Taipei?", a: "Yes, for travelers wanting a genuinely distinct cultural experience and a hands-on traditional tea-making activity." },
+        ],
+      };
+
+    case "is-plane-view-buffet-massage-shore-excursion-worth-it-taipei":
+      return {
+        title: "Is the Taipei Shore Excursion with Plane View, 5-Star Buffet & Massage Worth It?",
+        description: "An honest look at Taipei's shore excursion combining a plane-spotting viewpoint, a 5-star buffet, and a massage.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Worth it specifically for cruise passengers wanting a varied, low-effort day — this shore excursion bundles a plane-spotting viewpoint, a proper 5-star buffet meal, and a massage into one booking, a genuinely relaxed alternative to a packed sightseeing itinerary.", tourCard: { slug: "shore-excursion-taipei-plane-view-5-stars-buffet", title: "Shore excursion Taipei, plane view, 5-stars buffet & Massage", description: "A Taipei shore excursion combining a plane-spotting viewpoint, a 5-star buffet, and a massage.", price: "From $437", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Confirm your cruise ship's return time with the operator in advance, since shore excursions need enough buffer to get back before departure." },
+        ],
+        faqs: [
+          { q: "Is the plane view, buffet and massage shore excursion worth it in Taipei?", a: "Yes, for cruise passengers wanting a varied, relaxed day combining a viewpoint, a quality meal, and a massage in one booking." },
+        ],
+      };
+
+    case "is-yilan-dolphins-waves-worth-it-taipei":
+      return {
+        title: "Is the Taipei to Yilan Dolphins, Waves, and Whispering Trees Tour Worth It?",
+        description: "An honest look at the Taipei to Yilan tour featuring dolphin watching, coastal waves, and forest scenery.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want nature and wildlife beyond Taipei's usual temple and night-market circuit — this tour heads to Yilan for dolphin watching along the coast plus forest scenery, a genuinely different pace and setting from the city.", tourCard: { slug: "from-taipei-to-yilandolphins-waves-and-whispering", title: "From Taipei to Yilan:Dolphins, Waves, and Whispering Trees", description: "A day tour from Taipei to Yilan featuring dolphin watching, coastal waves, and forest scenery.", price: "From $779", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Dolphin sightings aren't guaranteed on any wildlife tour — ask the operator about recent sighting rates before booking if this is your main draw." },
+        ],
+        faqs: [
+          { q: "Is the Yilan dolphins and waves tour worth it from Taipei?", a: "Yes, for travelers wanting genuine nature and wildlife scenery distinct from Taipei's city-focused sightseeing." },
+        ],
+      };
+
+    case "is-miaoli-deep-travel-worth-it-taipei":
+      return {
+        title: "Is the Deep Travel in Miaoli Tour Worth It from Taipei or Taichung?",
+        description: "An honest look at the deep travel tour of Miaoli, departing from either Taipei or Taichung.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Worth it for travelers who've already covered Taipei's main highlights and want somewhere genuinely less touristed — Miaoli is well off the standard circuit, and this tour is framed specifically as deep, immersive travel rather than a quick highlights stop.", tourCard: { slug: "departing-from-taipei-or-taichung-deep-travel-in", title: "Departing from Taipei or Taichung: Deep travel in Miaoli", description: "A deep travel tour of Miaoli, departing from either Taipei or Taichung.", price: "From $455", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Confirm the departure point (Taipei or Taichung) works with your itinerary, since the two cities are a meaningful distance apart." },
+        ],
+        faqs: [
+          { q: "Is the deep travel tour in Miaoli worth it?", a: "Yes, for travelers who've already seen Taipei's main sights and want a genuinely less-touristed region of Taiwan." },
+        ],
+      };
+
     default:
       return null;
   }

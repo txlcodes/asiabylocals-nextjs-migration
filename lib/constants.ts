@@ -1355,6 +1355,8 @@ export const TAIPEI_INFO_SLUGS = [
   'is-yilan-atv-adventure-worth-it-taipei', 'is-wedding-photoshoot-worth-it-taipei',
   'is-taipingshan-national-forest-worth-it-taipei', 'is-sandiaoling-makang-worth-it-taipei',
   'is-meditation-tea-coastal-cycling-worth-it-taipei',
+  'is-hsinchu-hakka-leicha-tour-worth-it-taipei', 'is-plane-view-buffet-massage-shore-excursion-worth-it-taipei',
+  'is-yilan-dolphins-waves-worth-it-taipei', 'is-miaoli-deep-travel-worth-it-taipei',
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and
