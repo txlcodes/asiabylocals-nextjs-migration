@@ -2454,6 +2454,66 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-bradbury-led-massage-worth-it-bangkok":
+            return {
+                title: "Is Bradbury World's Noisiest LED Massage Experience Worth It in Bangkok?",
+                description: "An honest look at Bangkok's Bradbury LED massage experience, marketed as the world's noisiest.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely novel, high-sensory take on a standard massage — this combines LED lighting effects with loud, immersive sound, a distinctly different experience from a quiet, traditional Thai massage.",
+                    tourCard: { slug: "bradbury-world-s-noisiest-led-massage-experience-in-bangkok", title: "Bradbury World's Noisiest LED Massage Experience in Bangkok", description: "An LED and sound-immersive massage experience in Bangkok.", price: "From $78", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "This is genuinely loud and sensory-heavy, so it's a poor fit if you want a quiet, relaxing traditional massage instead." }
+                ],
+                faqs: [
+                    { q: "Is the Bradbury LED massage experience worth it in Bangkok?", a: "Yes, for travelers wanting a genuinely novel, high-sensory alternative to a standard quiet massage." }
+                ],
+            };
+
+        case "is-flower-market-garland-workshop-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Flower Market Tour and Garland Workshop Worth It?",
+                description: "An honest look at Bangkok's flower market tour paired with a hands-on garland-making workshop.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want hands-on craft exposure alongside a genuinely vibrant market experience — Pak Khlong Talat flower market is a sensory highlight on its own, and making your own traditional Thai garland afterward adds a real souvenir to the visit.",
+                    tourCard: { slug: "flower-market-tour-and-garland-workshop-in-bangkok", title: "Flower Market Tour and Garland Workshop in Bangkok", description: "A flower market tour paired with a hands-on garland-making workshop in Bangkok.", price: "From $78", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Visit early morning when the market is at its most active, ahead of midday heat and crowds." }
+                ],
+                faqs: [
+                    { q: "Is the flower market tour and garland workshop worth it in Bangkok?", a: "Yes, for travelers wanting a vibrant market experience combined with a genuine hands-on craft souvenir." }
+                ],
+            };
+
+        case "is-shooting-range-coach-worth-it-bangkok":
+            return {
+                title: "Is the Bangkok Shooting Range Experience with a Professional Coach Worth It?",
+                description: "An honest look at Bangkok's shooting range experience with a professional coach.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine instruction rather than just handing you a gun and a target — having a professional coach means proper safety guidance and technique tips, a meaningful upgrade for first-timers over an unsupervised range visit.",
+                    tourCard: { slug: "shooting-range-experience-with-a-professional-coach-in-bangkok", title: "Shooting Range Experience with a Professional Coach in Bangkok", description: "A shooting range experience in Bangkok with a professional coach.", price: "From $64", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "No prior shooting experience is needed — the professional coaching is specifically there to guide complete beginners safely." }
+                ],
+                faqs: [
+                    { q: "Is the shooting range experience with a professional coach worth it in Bangkok?", a: "Yes, for first-timers wanting genuine safety guidance and technique instruction rather than an unsupervised range visit." }
+                ],
+            };
+
+        case "is-chandee-head-spa-worth-it-bangkok":
+            return {
+                title: "Is the Chandee Head Spa and Massage at Sukhumvit 39 Worth It?",
+                description: "An honest look at Bangkok's Chandee head spa and massage experience at Sukhumvit 39.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely different focus than a standard full-body massage — head spas specialize in scalp, neck, and shoulder treatment, a trend popularized across Asia, offered here at a specific Sukhumvit 39 location.",
+                    tourCard: { slug: "chandee-head-spa-and-massage-at-sukhumvit-39-in-bangkok", title: "Chandee head spa and massage at Sukhumvit 39 in Bangkok", description: "A head spa and massage experience at Sukhumvit 39 in Bangkok.", price: "From $68", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "A genuinely good pick if you've had a long day of sightseeing and specifically want tension relief in the head, neck, and shoulders." }
+                ],
+                faqs: [
+                    { q: "Is the Chandee head spa and massage worth it in Bangkok?", a: "Yes, for travelers wanting focused scalp, neck, and shoulder treatment rather than a standard full-body massage." }
+                ],
+            };
+
         default:
             return null;
     }

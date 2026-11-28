@@ -1809,6 +1809,8 @@ export const BANGKOK_INFO_SLUGS = [
   'is-okura-japanese-dinner-cruise-worth-it-bangkok', 'is-thai-costume-photoshoot-worth-it-bangkok',
   'is-specialty-coffee-tour-worth-it-bangkok', 'is-night-safari-alleyways-wild-encounters-worth-it-bangkok',
   'is-guided-fishing-market-coffee-worth-it-bangkok',
+  'is-bradbury-led-massage-worth-it-bangkok', 'is-flower-market-garland-workshop-worth-it-bangkok',
+  'is-shooting-range-coach-worth-it-bangkok', 'is-chandee-head-spa-worth-it-bangkok',
 ];
 
 export const CHIANG_MAI_INFO_SLUGS = [
