@@ -2080,6 +2080,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-tandem-skydive-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Tandem or Solo Skydive Worth It?",
+                description: "An honest look at Tashkent's tandem or solo skydiving experience with transfer and photos included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting a genuine adrenaline highlight to their Uzbekistan trip — this gives a real freefall over the Tashkent region's landscape, with transfer and photos handled, a sharp contrast to the country's usual historic-city sightseeing.", tourCard: { slug: "tashkent-tandem-or-solo-skydive-with-transfer", title: "Tashkent: Tandem or Solo Skydive with Transfer & Photos", description: "A tandem or solo skydiving experience in Tashkent with transfer and photos included.", price: "From $409", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Book the tandem option if it's your first skydive — the solo option requires prior certification or training." }
+                ],
+                faqs: [
+                    { q: "Is the tandem or solo skydive worth it in Tashkent?", a: "Yes, for travelers wanting a genuine adrenaline highlight, a sharp contrast to Uzbekistan's usual historic sightseeing." }
+                ],
+            };
+
+        case "is-soviet-charm-retro-car-tour-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Soviet Charm Retro Tour on a Historic VAZ-2101 Car Worth It?",
+                description: "An honest look at Tashkent's Soviet-era retro tour riding in a historic VAZ-2101 car.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely different way to see Tashkent's Soviet-era architecture — riding in an actual vintage VAZ-2101 (the classic Soviet 'Zhiguli') adds real nostalgic character beyond what a standard car tour offers.", tourCard: { slug: "tashkent-soviet-charm-retro-tour-on-a-historic", title: "Tashkent: Soviet Charm Retro Tour on a Historic VAZ-2101 Car", description: "A Soviet-era retro tour of Tashkent in a historic VAZ-2101 car.", price: "From $390", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Don't expect modern car comfort — part of the appeal here is the genuinely vintage ride, not a smooth, air-conditioned experience." }
+                ],
+                faqs: [
+                    { q: "Is the Soviet charm retro tour in a historic VAZ-2101 worth it in Tashkent?", a: "Yes, for travelers wanting a genuinely nostalgic, distinctive way to see Tashkent's Soviet-era architecture." }
+                ],
+            };
+
+        case "is-dastarkhan-cook-dine-locals-worth-it-tashkent":
+            return {
+                title: "Is Tashkent Dastarkhan Magic: Cook & Dine With Locals Worth It?",
+                description: "An honest look at Tashkent's Dastarkhan Magic experience, cooking and dining with a local family.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if genuine local connection matters more to you than restaurant polish — this puts you in an actual Uzbek home cooking and eating with locals around a traditional dastarkhan spread, a world apart from a standard restaurant meal.", tourCard: { slug: "tashkent-dastarkhan-magic-cook-dine-with-locals", title: "Tashkent Dastarkhan Magic: Cook & Dine With Locals", description: "A cooking and dining experience with a local family in Tashkent, centered on a traditional dastarkhan spread.", price: "From $389", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Come with an appetite and genuine curiosity — Uzbek hospitality means you'll likely be offered more food than you expect." }
+                ],
+                faqs: [
+                    { q: "Is the Dastarkhan Magic cook and dine experience worth it in Tashkent?", a: "Yes, for travelers wanting genuine local connection and home cooking, a world apart from a standard restaurant meal." }
+                ],
+            };
+
+        case "is-solar-furnace-heliocomplex-worth-it-tashkent":
+            return {
+                title: "Is the Tashkent Heliocomplex and Sukok Recreational Zone Tour Worth It?",
+                description: "An honest look at Tashkent's Heliocomplex (solar furnace) and Sukok Recreational Zone day tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers with genuine interest in science and engineering — the Heliocomplex is one of the world's few large-scale solar furnaces, a Soviet-era scientific facility most visitors to Uzbekistan never hear about, paired here with the Sukok Recreational Zone's natural scenery.", tourCard: { slug: "tashkent-heliocomplex-and-sukok-recreational-zone", title: "Tashkent: Heliocomplex and Sukok Recreational Zone Tour", description: "A day tour of Tashkent's Heliocomplex solar furnace and the Sukok Recreational Zone.", price: "From $319", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "A guide who can explain the Heliocomplex's Soviet-era scientific purpose adds real value here — this isn't a self-explanatory sightseeing stop." }
+                ],
+                faqs: [
+                    { q: "Is the Heliocomplex and Sukok Recreational Zone tour worth it in Tashkent?", a: "Yes, for travelers with genuine interest in science and engineering history, seeing one of the world's few large-scale solar furnaces." }
+                ],
+            };
+
         default:
             return null;
     }

@@ -601,6 +601,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-luxury-horseback-mountains-worth-it-tashkent', 'is-khujand-fergana-circuit-worth-it-tashkent',
     'is-khujand-border-crossing-worth-it-tashkent', 'is-tien-shan-guided-hike-picnic-worth-it-tashkent',
     'is-mountain-chalet-tour-worth-it-tashkent',
+    'is-tandem-skydive-worth-it-tashkent', 'is-soviet-charm-retro-car-tour-worth-it-tashkent',
+    'is-dastarkhan-cook-dine-locals-worth-it-tashkent', 'is-solar-furnace-heliocomplex-worth-it-tashkent',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/tashkent/${slug}`,
     lastModified: new Date(),
