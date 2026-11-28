@@ -2634,6 +2634,66 @@ export function getThailandInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-zipline-atv-big-buddha-old-town-worth-it-phuket":
+            return {
+                title: "Is the Zipline, ATV, Big Buddha and Old Town Tour Worth It in Phuket?",
+                description: "An honest look at the full-day Phuket tour combining a 20-station zipline, ATV jungle ride, Big Buddha, and Old Town.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/zipline-atv-big-buddha-and-old-town-tour-in-phuket/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want adrenaline and sightseeing in one day — a 20-station zipline and ATV jungle ride give genuine adventure, and pairing them with Big Buddha and Phuket Old Town rounds the day out with real cultural and architectural variety.",
+                    tourCard: { slug: "zipline-atv-big-buddha-and-old-town-tour-in-phuket", title: "Zipline, ATV, Big Buddha and Old Town Tour in Phuket", description: "A full-day Phuket tour combining a 20-station zipline, ATV jungle ride, Big Buddha, and Old Town.", price: "From $372", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/zipline-atv-big-buddha-and-old-town-tour-in-phuket/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear closed shoes and clothes you don't mind getting dusty for the ATV portion of the day." }
+                ],
+                faqs: [
+                    { q: "Is the zipline, ATV, Big Buddha and Old Town tour worth it in Phuket?", a: "Yes, for travelers wanting both genuine adrenaline activities and cultural sightseeing in a single day." }
+                ],
+            };
+
+        case "is-james-bond-island-evening-plankton-worth-it-phuket":
+            return {
+                title: "Is the Evening James Bond Island & Bioluminescent Plankton Tour Worth It in Phuket?",
+                description: "An honest look at the private evening longtail boat tour to James Bond Island with bioluminescent plankton viewing in Phuket.",
+                heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1774221129/tours/phuket/james_bond_plankton_1774221127256_1.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see James Bond Island without the daytime crowds — visiting in the evening on a private longtail boat, paddling through sea caves at Koh Talu, and finishing with glowing bioluminescent plankton gives this tour a genuinely different, quieter atmosphere than the standard daytime version.",
+                    tourCard: { slug: "james-bond-island-evening-tour", title: "Evening James Bond Island & Bioluminescent Plankton Private Longtail Tour", description: "A private evening longtail boat tour to James Bond Island with bioluminescent plankton viewing in Phuket.", price: "From $340", duration: "8 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1774221129/tours/phuket/james_bond_plankton_1774221127256_1.jpg" } },
+                    { title: "Practical Tips", content: "Book on a moonless night if possible, since the bioluminescent plankton glow is far more visible in darker conditions." }
+                ],
+                faqs: [
+                    { q: "Is the evening James Bond Island and bioluminescent plankton tour worth it in Phuket?", a: "Yes, for travelers wanting to see James Bond Island without crowds and witness genuinely extraordinary glowing plankton." }
+                ],
+            };
+
+        case "is-phi-phi-sunrise-speedboat-worth-it-phuket":
+            return {
+                title: "Is the Phi Phi Island Sunrise Small Group Speedboat Tour Worth It from Phuket?",
+                description: "An honest look at the full-day sunrise small-group speedboat tour to Phi Phi Islands, Khai Islands, and Maya Bay from Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/phi-phi-island-sunrise-small-group-speedboat-tour/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want Maya Bay and the Phi Phi Islands without the midday crowds — leaving at sunrise in a small group gets you to these popular spots before the bulk of day-trippers arrive, a genuinely different experience than a standard afternoon tour.",
+                    tourCard: { slug: "phi-phi-island-sunrise-small-group-speedboat-tour", title: "Phi Phi Island Sunrise Small Group Speedboat Tour", description: "A full-day sunrise small-group speedboat tour to Phi Phi Islands, Khai Islands, and Maya Bay from Phuket.", price: "From $208", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/phi-phi-island-sunrise-small-group-speedboat-tour/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The early start is genuinely worth it for Maya Bay specifically, since it gets crowded fast once day-trip boats from Phuket and Krabi arrive." }
+                ],
+                faqs: [
+                    { q: "Is the Phi Phi sunrise speedboat tour worth it from Phuket?", a: "Yes, for travelers wanting to see Maya Bay and the Phi Phi Islands before the midday crowds arrive." }
+                ],
+            };
+
+        case "is-racha-noi-maiton-catamaran-picnic-worth-it-phuket":
+            return {
+                title: "Is the Racha Noi and Maiton Catamaran Tour with Beach Picnic Worth It in Phuket?",
+                description: "An honest look at the full-day catamaran tour to Racha Noi and Racha Island with a beach picnic from Phuket.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/racha-noi-and-maiton-catmaran-tour-with-beach-picnic/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a more relaxed sailing experience than a speedboat day trip — a catamaran gives a smoother, more comfortable ride to Racha Noi and Racha Island, and a proper beach picnic rounds out a genuinely laid-back full day on the water.",
+                    tourCard: { slug: "racha-noi-and-maiton-catmaran-tour-with-beach-picnic", title: "Racha Noi and Maiton Catamaran Tour with Beach Picnic", description: "A full-day catamaran tour to Racha Noi and Racha Island with a beach picnic from Phuket.", price: "From $181", duration: "10 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/racha-noi-and-maiton-catmaran-tour-with-beach-picnic/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The catamaran's smoother ride makes this a good pick for travelers prone to seasickness on faster speedboats." }
+                ],
+                faqs: [
+                    { q: "Is the Racha Noi and Maiton catamaran tour worth it in Phuket?", a: "Yes, for travelers wanting a smoother, more relaxed sailing day with a proper beach picnic." }
+                ],
+            };
+
         case "is-chandee-head-spa-worth-it-bangkok":
             return {
                 title: "Is the Chandee Head Spa and Massage at Sukhumvit 39 Worth It?",

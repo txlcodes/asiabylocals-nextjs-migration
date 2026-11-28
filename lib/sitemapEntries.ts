@@ -1652,6 +1652,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-german-guide-sightseeing-shopping-worth-it-phuket', 'is-similan-lazy-bird-program-worth-it-phuket',
     'is-sea-salt-lounge-dining-worth-it-phuket', 'is-carnival-magic-dinner-show-worth-it-phuket',
     'is-tiger-safari-park-zipline-city-worth-it-phuket',
+    'is-zipline-atv-big-buddha-old-town-worth-it-phuket', 'is-james-bond-island-evening-plankton-worth-it-phuket',
+    'is-phi-phi-sunrise-speedboat-worth-it-phuket', 'is-racha-noi-maiton-catamaran-picnic-worth-it-phuket',
   ].map(slug => ({
     url: `${BASE_URL}/thailand/phuket/${slug}`,
     lastModified: new Date(),
