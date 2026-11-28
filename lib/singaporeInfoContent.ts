@@ -889,6 +889,76 @@ export function getSingaporeInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-disney-inspired-walking-tour-worth-it-singapore":
+            return {
+                title: "Is the Disney-Inspired Walking Tour Worth It in Singapore?",
+                description: "An honest look at the Disney-inspired walking tour in Singapore, spotting real-world parallels to Mulan, Aladdin, and Avatar.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-1009380/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "This genuinely playful walking tour draws real connections between Singapore's streets and architecture and the settings of Mulan, Aladdin, and Avatar, a fun, family-friendly angle on the city that's a nice break from standard heritage or food-focused walks.", tourCard: { slug: "disney-inspired-walking-tour-mulan-aladdin-avatar", title: "Disney-Inspired Walking Tour - Mulan, Aladdin, Avatar", description: "A playful walking tour drawing connections between Singapore and Disney film settings.", price: "From $338", duration: "2.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-1009380/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "A genuinely good pick for families with kids who know the films — the connections land much better if you're already familiar with them." }
+                ],
+                faqs: [
+                    { q: "Is the Disney-inspired walking tour worth it in Singapore?", a: "Yes, for families and fans of the films wanting a genuinely playful, different angle on the city's streets and architecture." }
+                ],
+            };
+
+        case "is-silversmithing-workshop-worth-it-singapore":
+            return {
+                title: "Is the Silversmithing Workshop with Beer Worth It in Singapore?",
+                description: "An honest look at Singapore's silversmithing workshop paired with beer, a hands-on craft activity with a relaxed social twist.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d476eacb229ac6f13b667afda714671a90506d03ee3557f3f0373b12aa45ec7.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Making a real piece of silver jewelry while enjoying a beer gives a genuinely relaxed, sociable twist on a craft workshop, worth it for travelers wanting a hands-on souvenir activity that doesn't feel like a formal class.", tourCard: { slug: "singapore-flyer-silversmithing-guided-tour", title: "Singapore: Silversmithing Workshop with Beer", description: "A hands-on silversmithing workshop paired with beer in Singapore.", price: "From $346", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2d476eacb229ac6f13b667afda714671a90506d03ee3557f3f0373b12aa45ec7.jpeg" } },
+                    { title: "Practical Tips", content: "No prior craft experience is needed — the beer and relaxed pace make this a genuinely low-pressure, social activity rather than a technical class." }
+                ],
+                faqs: [
+                    { q: "Is the silversmithing workshop with beer worth it in Singapore?", a: "Yes, for a genuinely relaxed, sociable hands-on craft activity, leaving you with a real piece of silver jewelry you made yourself." }
+                ],
+            };
+
+        case "is-kluang-farm-heritage-worth-it-singapore":
+            return {
+                title: "Is the Kluang Farm, Heritage & Coffee Day Trip Worth It from Singapore?",
+                description: "An honest look at the Kluang Farm, heritage, and coffee private charter day trip across the border into Malaysia.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e7a91062f25096fb7108603657b1d2c95bee42154e347dc18c447c913ab23d6d.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "This cross-border day trip into Malaysia's Kluang combines a working farm, local heritage sites, and the town's famous old-school coffee shops, a genuinely different rural experience that most Singapore-based itineraries never include.", tourCard: { slug: "singapore-heritage-full-day-tour", title: "Kluang Farm, Heritage & Coffee Private Charter Day Trip", description: "A private charter day trip to Kluang's farm, heritage sites, and coffee shops across the border from Singapore.", price: "From $446", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e7a91062f25096fb7108603657b1d2c95bee42154e347dc18c447c913ab23d6d.jpg" } },
+                    { title: "Practical Tips", content: "Bring your passport, since this trip involves a land border crossing into Malaysia and back in one day." }
+                ],
+                faqs: [
+                    { q: "Is the Kluang Farm and heritage day trip worth it from Singapore?", a: "Yes, for a genuinely different rural Malaysia experience, combining a working farm, heritage sites, and famous local coffee shops." }
+                ],
+            };
+
+        case "is-tiong-bahru-estate-tour-worth-it-singapore":
+            return {
+                title: "Is the Tiong Bahru Oldest Estate Tour Worth It in Singapore?",
+                description: "An honest look at Singapore's Tiong Bahru tour, exploring the city's oldest public housing estate and its art deco architecture.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-548461/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Tiong Bahru's art deco buildings and genuine neighborhood stories give a real look at Singapore's residential history, a worthwhile contrast to the city's more polished Marina Bay and Gardens by the Bay sightseeing.", tourCard: { slug: "singapore-explore-oldest-estate-tiong-bahru", title: "Singapore: Explore Oldest Estate Tiong Bahru Stories & Snack", description: "A guided walk through Tiong Bahru, Singapore's oldest public housing estate, with a snack included.", price: "From $285", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-548461/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Look up at the buildings as you walk — the art deco details are genuinely easy to miss if you're focused only on street level." }
+                ],
+                faqs: [
+                    { q: "Is the Tiong Bahru estate tour worth it in Singapore?", a: "Yes, for a genuine look at Singapore's residential history and art deco architecture, a real contrast to the city's more polished attractions." }
+                ],
+            };
+
+        case "is-mount-faber-breakfast-walk-worth-it-singapore":
+            return {
+                title: "Is the Mount Faber Guided Walk with Breakfast Worth It in Singapore?",
+                description: "An honest look at the private guided walk at Mount Faber with breakfast, a scenic hilltop morning activity in Singapore.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sg-451678/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Mount Faber's hilltop trails and skyline views give a genuinely scenic, quieter start to the day than Singapore's busier attractions, and pairing the walk with breakfast makes this an easy, well-paced morning rather than a rushed early sightseeing stop.", tourCard: { slug: "singapore-private-guided-walk-at-mount-faber-with", title: "Singapore: Private Guided Walk at Mount Faber with Breakfast", description: "A private guided morning walk at Mount Faber with breakfast included.", price: "From $354", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sg-451678/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Go early for the coolest temperatures and best light over the skyline, since Mount Faber's trails have real elevation and little shade by midday." }
+                ],
+                faqs: [
+                    { q: "Is the Mount Faber breakfast walk worth it in Singapore?", a: "Yes, for a genuinely scenic, well-paced morning with real skyline views, a quieter start than Singapore's busier attractions." }
+                ],
+            };
+
         default:
             return null;
     }
