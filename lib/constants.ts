@@ -872,6 +872,8 @@ export const ALMATY_INFO_SLUGS: string[] = [
   'is-hobbit-waterfall-hot-springs-worth-it-almaty',
   'is-falcon-farm-experience-worth-it-almaty', 'is-huns-ethno-village-issyk-lake-worth-it-almaty',
   'is-eco-tour-ev-charyn-kolsai-worth-it-almaty', 'is-4x4-photo-expedition-worth-it-almaty',
+  'is-bukreev-peak-hike-worth-it-almaty', 'is-turgen-trout-farm-worth-it-almaty',
+  'is-bogdanovich-glacier-cave-worth-it-almaty', 'is-kazakh-aul-huns-akbulak-worth-it-almaty',
 ];
 
 // Mongolia launched 2026-11-19 with 139 live tours and zero authority pages.

@@ -907,6 +907,62 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-bukreev-peak-hike-worth-it-almaty":
+            return {
+                title: "Is the Almaty Bukreev Peak Hike via Butakovka Gorge Worth It?",
+                description: "An honest look at the Bukreev Peak (3,010m) hike via Butakovka Gorge from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for hikers wanting a genuinely demanding summit beyond Almaty's easier panoramic walks — Bukreev Peak reaches 3,010 meters via Butakovka Gorge, named after the famous Kazakh mountaineer, giving real alpine scenery and a tougher climb than the city's standard day hikes.", tourCard: { slug: "almaty-bukreev-peak-hike-3010-m-via-butakovka", title: "Almaty: Bukreev Peak Hike (3010 m) via Butakovka Gorge", description: "A guided hike to Bukreev Peak via Butakovka Gorge from Almaty.", price: "From $235", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Come with real hiking fitness and proper gear — this is a genuinely demanding high-altitude summit, not a casual walk." }
+                ],
+                faqs: [
+                    { q: "Is the Bukreev Peak hike worth it from Almaty?", a: "Yes, for experienced hikers wanting a genuinely demanding high-altitude summit beyond the city's easier panoramic walks." }
+                ],
+            };
+
+        case "is-turgen-trout-farm-worth-it-almaty":
+            return {
+                title: "Is the Turgen Mountains, Trout Farm & Issyk Lake Tour Worth It from Almaty?",
+                description: "An honest look at the tour combining the Turgen Mountains, a trout farm, and Issyk Lake.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely varied day mixing mountain scenery with a hands-on farm stop — visiting an actual working trout farm alongside Turgen's mountains and Issyk Lake adds real agricultural interest beyond pure sightseeing.", tourCard: { slug: "from-almaty-turgen-mountains-trout-farm-issyk", title: "From Almaty: Turgen Mountains, Trout Farm & Issyk Lake Tour", description: "A tour combining the Turgen Mountains, a trout farm, and Issyk Lake from Almaty.", price: "From $228", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Ask if fresh trout is available to try at the farm — it's often a genuine highlight for travelers interested in local food." }
+                ],
+                faqs: [
+                    { q: "Is the Turgen trout farm and Issyk Lake tour worth it from Almaty?", a: "Yes, for travelers wanting a genuinely varied day mixing mountain scenery with a hands-on agricultural stop." }
+                ],
+            };
+
+        case "is-bogdanovich-glacier-cave-worth-it-almaty":
+            return {
+                title: "Is the Shymbulak Hike to Bogdanovich Glacier & Oktyabrskaya Cave Worth It?",
+                description: "An honest look at the hike from Shymbulak to Bogdanovich Glacier and Oktyabrskaya Cave.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for hikers wanting genuine high-altitude glacier and cave exploration in one trip — starting from Shymbulak, this route reaches an actual glacier and a cave most standard Almaty mountain tours never get close to.", tourCard: { slug: "shymbulak-hike-to-bogbanovisch-glacier", title: "Shymbulak: Hike to Bogbanovisch Glacier & Oktyabrskaya Cave", description: "A hike from Shymbulak to Bogdanovich Glacier and Oktyabrskaya Cave.", price: "From $143", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Dress in warm layers even in summer — glacier proximity means genuinely cold conditions regardless of the season." }
+                ],
+                faqs: [
+                    { q: "Is the Bogdanovich Glacier and Oktyabrskaya Cave hike worth it from Almaty?", a: "Yes, for hikers wanting genuine high-altitude glacier and cave exploration beyond standard mountain sightseeing." }
+                ],
+            };
+
+        case "is-kazakh-aul-huns-akbulak-worth-it-almaty":
+            return {
+                title: "Is the Almaty Day Trip to Kazakh Aul Huns & Ak-Bulak Resort Worth It?",
+                description: "An honest look at the day trip combining a traditional Kazakh aul village with Ak-Bulak Resort.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting genuine nomadic Kazakh culture paired with resort-style relaxation — this combines a traditional aul (village) experience with time at Ak-Bulak Resort, giving both cultural depth and a chance to unwind.", tourCard: { slug: "from-almaty-day-trip-to-kazakh-aul-huns-ak", title: "From Almaty: Day Trip to Kazakh aul Huns & Ak-Bulak Resort", description: "A day trip combining a traditional Kazakh aul village with Ak-Bulak Resort from Almaty.", price: "From $233", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit if you plan to use the resort facilities after the cultural village portion of the day." }
+                ],
+                faqs: [
+                    { q: "Is the Kazakh aul and Ak-Bulak Resort day trip worth it from Almaty?", a: "Yes, for travelers wanting genuine nomadic Kazakh culture paired with resort-style relaxation in one day." }
+                ],
+            };
+
         default:
             return null;
     }
