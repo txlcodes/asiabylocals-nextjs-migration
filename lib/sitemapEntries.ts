@@ -3014,6 +3014,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-cham-island-dj-party-worth-it-hoi-an', 'is-luxury-sunset-cruise-spice-menu-worth-it-hoi-an',
     'is-golden-hands-bridge-my-son-worth-it-hoi-an', 'is-my-son-noodles-rice-paper-worth-it-hoi-an',
     'is-electric-scooter-countryside-adventure-worth-it-hoi-an', 'is-cham-islands-coconut-forest-worth-it-hoi-an',
+    'is-silk-village-artisan-local-meal-worth-it-hoi-an', 'is-all-you-can-eat-vietnamese-dining-worth-it-hoi-an',
+    'is-private-photoshoot-guided-walk-worth-it-hoi-an',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/hoi-an/${slug}`,
     lastModified: new Date(),

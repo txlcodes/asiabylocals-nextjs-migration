@@ -1510,6 +1510,66 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-silk-village-artisan-local-meal-worth-it-hoi-an":
+      return {
+        title: "Is the Silk Village Tour with Artisan and Local Meal Worth It in Hoi An?",
+        description: "An honest look at this silk village tour pairing a visit to local artisans with a meal of regional specialties.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/silk-village-tour-with-artisan-and-local-meal-in-hoi-an/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Watching artisans work silk by hand gives a genuine look at a craft most visitors only see in finished souvenirs, and pairing it with a local meal rounds it into a complete short outing, worth it for travelers curious about traditional craftsmanship rather than just shopping for silk products.",
+            tourCard: { slug: "silk-village-tour-with-artisan-and-local-meal-in-hoi-an", title: "Silk Village Tour with Artisan and Local Meal in Hoi An", description: "A silk village tour with local artisans and a meal of regional specialties in Hoi An.", price: "From $51", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/silk-village-tour-with-artisan-and-local-meal-in-hoi-an/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask the artisans questions directly, most are genuinely happy to explain their technique if you show real interest." },
+        ],
+        faqs: [
+          { q: "Is the silk village tour with artisan and local meal worth it in Hoi An?", a: "Yes, for travelers curious about traditional silk craftsmanship rather than just shopping for finished silk goods." }
+        ],
+      };
+
+    case "is-all-you-can-eat-vietnamese-dining-worth-it-hoi-an":
+      return {
+        title: "Is the All-You-Can-Eat Vietnamese Dining Experience Worth It in Hoi An?",
+        description: "An honest look at this all-you-can-eat dining experience covering authentic Hoi An specialties, a different format from the usual single-stop food tours.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/home-hoi-an-all-you-can-eat-vietnamese-dining-experience-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "An all-you-can-eat format lets you try as much of each specialty as you want rather than the single small portions typical of walking food tours, worth it for travelers with a genuinely big appetite who want to properly fill up on Hoi An's regional dishes in one sitting.",
+            tourCard: { slug: "home-hoi-an-all-you-can-eat-vietnamese-dining-experience-by-local-operator", title: "Home Hoi An: All-You-Can-Eat Vietnamese Dining Experience", description: "An all-you-can-eat Vietnamese dining experience with authentic Hoi An specialties.", price: "From $55", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/home-hoi-an-all-you-can-eat-vietnamese-dining-experience-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pace yourself across the dishes, an all-you-can-eat format works best if you don't fill up on the first specialty served." },
+        ],
+        faqs: [
+          { q: "Is the all-you-can-eat Vietnamese dining experience worth it in Hoi An?", a: "Yes, for travelers with a big appetite who want to properly fill up on multiple Hoi An specialties rather than small walking-tour portions." }
+        ],
+      };
+
+    case "is-private-photoshoot-guided-walk-worth-it-hoi-an":
+      return {
+        title: "Is the Private Photoshoot and Guided Walk Experience Worth It in Hoi An?",
+        description: "An honest look at this combined photoshoot and guided walk through Hoi An's Ancient Town, aimed at travelers who want quality photos alongside their sightseeing.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201824/asiabylocals/tours/private-photoshoot-and-guided-walk-experience-in-hoi-an/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Having a guide double as a photographer means you get properly composed photos at Hoi An's lantern-lit streets rather than rushed phone snapshots, worth it for travelers who specifically want professional-looking photos of their visit, not just another walking tour.",
+            tourCard: { slug: "private-photoshoot-and-guided-walk-experience-in-hoi-an", title: "Private Photoshoot and Guided Walk Experience in Hoi An", description: "A private guided walk through Hoi An combined with a professional photoshoot.", price: "From $57", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789201824/asiabylocals/tours/private-photoshoot-and-guided-walk-experience-in-hoi-an/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a change of outfit if you want variety in your photos, many travelers swap clothes partway through for different shots." },
+        ],
+        faqs: [
+          { q: "Is the private photoshoot and guided walk experience worth it in Hoi An?", a: "Yes, for travelers who specifically want quality photos of their visit rather than just another standard walking tour." }
+        ],
+      };
+
     default:
       return null;
   }
