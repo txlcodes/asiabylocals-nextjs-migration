@@ -2274,6 +2274,69 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-zubarah-film-city-combo-worth-it-doha":
+      return {
+        title: "Is the Ultimate North-West Combo Tour: From Zubarah to Film City Worth It?",
+        description: "An honest look at Qatar's combo tour covering Zubarah's UNESCO ruins and the quirky Film City desert set.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine historical depth alongside a quirky photo stop — Zubarah is a UNESCO-listed archaeological site with real 18th-century ruins, while Film City is an artificial desert movie set, giving two completely different kinds of 'ancient' in one day.",
+            tourCard: { slug: "ultimate-north-west-combo-tour-from-zubarah-to", title: "Ultimate North-West Combo Tour: From Zubarah to Film City", description: "A combo tour covering Zubarah's UNESCO ruins and the Film City desert set in Qatar.", price: "From $390", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a camera specifically for Film City — the artificial ruins are built purely for photogenic effect and make for genuinely striking shots.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Zubarah to Film City combo tour worth it in Qatar?", a: "Yes, for travelers wanting both genuine UNESCO-listed history and a quirky, photogenic artificial desert set in one day." },
+        ],
+      };
+
+    case "is-german-speaking-guide-tour-worth-it-doha":
+      return {
+        title: "Is the Doha Highlights Tour with a German-Speaking Guide Worth It?",
+        description: "An honest look at Doha's highlights tour led by a German-speaking guide.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, specifically for German-speaking travelers who want to avoid the language barrier — this covers Doha's main highlights with a guide who explains everything in German rather than through English or translation.",
+            tourCard: { slug: "doha-highlights-tour-with-german-speaking-tour", title: "Doha Highlights tour with German speaking Tour Guide", description: "A Doha highlights tour led by a German-speaking guide.", price: "From $390", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this specific listing rather than a standard tour if having a German-speaking guide genuinely matters to your experience.",
+          },
+        ],
+        faqs: [
+          { q: "Is the German-speaking guide tour worth it in Doha?", a: "Yes, for German-speaking travelers wanting Doha's highlights explained without a language barrier." },
+        ],
+      };
+
+    case "is-self-drive-buggy-desert-safari-worth-it-doha":
+      return {
+        title: "Is the Qatar Self-Drive Buggy Desert Safari from Dunes to the Sea Worth It?",
+        description: "An honest look at Qatar's self-drive buggy desert safari, from the dunes to the sea.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to drive yourself rather than be a passenger — this gives you direct control of a buggy across the route from the dunes to the sea, a more hands-on, active alternative to the standard chauffeured dune-bashing 4x4 safari.",
+            tourCard: { slug: "qatar-self-drive-buggy-desert-safari-from-dunes", title: "Qatar: Self-Drive Buggy Desert Safari from Dunes to the Sea", description: "A self-drive buggy desert safari in Qatar, from the dunes to the sea.", price: "From $384", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check license and age requirements in advance, since self-drive vehicles often have stricter requirements than being a passenger.",
+          },
+        ],
+        faqs: [
+          { q: "Is the self-drive buggy desert safari worth it in Qatar?", a: "Yes, for travelers wanting direct, hands-on control rather than being a passenger in a chauffeured 4x4." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -523,6 +523,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-flyboarding-worth-it-doha', 'is-jetboat-ride-worth-it-doha',
     'is-horse-riding-desert-worth-it-doha', 'is-wakeboarding-worth-it-doha',
     'is-974-cruises-houseboat-worth-it-doha',
+    'is-zubarah-film-city-combo-worth-it-doha', 'is-german-speaking-guide-tour-worth-it-doha',
+    'is-self-drive-buggy-desert-safari-worth-it-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),

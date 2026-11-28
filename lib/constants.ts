@@ -1505,6 +1505,8 @@ export const DOHA_INFO_SLUGS = [
   'is-flyboarding-worth-it-doha', 'is-jetboat-ride-worth-it-doha',
   'is-horse-riding-desert-worth-it-doha', 'is-wakeboarding-worth-it-doha',
   'is-974-cruises-houseboat-worth-it-doha',
+  'is-zubarah-film-city-combo-worth-it-doha', 'is-german-speaking-guide-tour-worth-it-doha',
+  'is-self-drive-buggy-desert-safari-worth-it-doha',
 ];
 
 export const BUSAN_INFO_SLUGS = [
