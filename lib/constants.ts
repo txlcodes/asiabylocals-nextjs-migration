@@ -3195,3 +3195,10 @@ export const UDAIPUR_INFO_SLUGS: string[] = [
   'best-udaipur-city-tour-udaipur', 'is-kumbhalgarh-ranakpur-day-trip-worth-it-udaipur',
   'is-chittorgarh-fort-day-trip-worth-it-udaipur',
 ];
+export const JODHPUR_INFO_SLUGS: string[] = [
+  'best-jodhpur-blue-city-tour-jodhpur', 'is-local-flavors-hidden-lanes-tour-worth-it-jodhpur',
+  'is-thar-desert-camel-jeep-safari-worth-it-jodhpur',
+];
+export const BIKANER_INFO_SLUGS: string[] = [
+  'is-junagarh-fort-karni-mata-tour-worth-it-bikaner',
+];
