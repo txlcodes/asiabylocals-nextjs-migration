@@ -575,6 +575,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-museum-tour-small-group-worth-it-samarkand', 'is-qurtob-family-masterclass-worth-it-samarkand',
     'is-uzbek-wedding-ceremony-worth-it-samarkand', 'is-konigil-paper-mill-winery-worth-it-samarkand',
     'is-hazrat-daud-cave-horse-worth-it-samarkand', 'is-baguizagan-wine-tour-worth-it-samarkand',
+    'is-flying-dress-photoshoot-worth-it-samarkand', 'is-japanese-guide-tour-worth-it-samarkand',
+    'is-spanish-guide-night-tour-worth-it-samarkand', 'is-local-family-suzani-food-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),

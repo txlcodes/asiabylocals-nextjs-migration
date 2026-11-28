@@ -2136,6 +2136,62 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-flying-dress-photoshoot-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Private Photoshoot in Flying Dresses Worth It?",
+                description: "An honest look at Samarkand's private photoshoot experience featuring flowing flying dresses against its iconic architecture.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if dramatic, shareable photos matter to you — flying dresses billowing against Samarkand's turquoise-domed architecture make for genuinely striking images, a step beyond standard tourist photos in regular clothes.", tourCard: { slug: "samarkand-private-photoshoot-in-flying-dresses", title: "Samarkand: Private photoshoot in flying dresses", description: "A private photoshoot in flowing flying dresses against Samarkand's iconic architecture.", price: "From $220", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Shoot early morning or late afternoon for softer light and fewer crowds in the background of your photos." }
+                ],
+                faqs: [
+                    { q: "Is the flying dress photoshoot worth it in Samarkand?", a: "Yes, for travelers wanting genuinely dramatic, shareable photos against Samarkand's iconic architecture." }
+                ],
+            };
+
+        case "is-japanese-guide-tour-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Private Tour with a Japanese-Speaking Guide Worth It?",
+                description: "An honest look at Samarkand's private tour led by a Japanese-speaking guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, specifically for Japanese-speaking travelers who want to avoid the language barrier — this covers Samarkand's major sites with a guide who explains everything in Japanese rather than through English or translation.", tourCard: { slug: "samarkand-private-tour-with-japanese-guide", title: "Samarkand: Private Tour with Japanese Guide", description: "A private tour of Samarkand led by a Japanese-speaking guide.", price: "From $260", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Book this specific listing rather than a standard tour if having a Japanese-speaking guide genuinely matters to your experience." }
+                ],
+                faqs: [
+                    { q: "Is the Japanese-speaking guide tour worth it in Samarkand?", a: "Yes, for Japanese-speaking travelers wanting Samarkand's major sites explained without a language barrier." }
+                ],
+            };
+
+        case "is-spanish-guide-night-tour-worth-it-samarkand":
+            return {
+                title: "Is the Samarkand Private Night Tour with a Spanish-Speaking Guide Worth It?",
+                description: "An honest look at Samarkand's private night tour with transportation and a Spanish-speaking live guide.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for Spanish-speaking travelers who want the city's illuminated monuments explained in their own language — Samarkand's landmarks are genuinely striking lit up at night, and having a live Spanish-speaking guide removes the language barrier a standard night tour might have.", tourCard: { slug: "samarkand-private-night-tour-with-transportation", title: "Samarkand: Private Night Tour with Transportation and Spanish-Speaking Live Guide", description: "A private night tour of Samarkand with transportation and a Spanish-speaking live guide.", price: "From $307", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Bring a jacket even in warmer months — evenings can cool down quickly once the sun sets." }
+                ],
+                faqs: [
+                    { q: "Is the Spanish-speaking night tour worth it in Samarkand?", a: "Yes, for Spanish-speaking travelers wanting the city's illuminated monuments explained live, without a language barrier." }
+                ],
+            };
+
+        case "is-local-family-suzani-food-worth-it-samarkand":
+            return {
+                title: "Is a Day with a Local Family, Suzani & Uzbek Food Worth It from Samarkand?",
+                description: "An honest look at Samarkand's day spent with a local family, exploring suzani textiles and Uzbek home cooking.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if genuine home hospitality matters more to you than a craft workshop — rather than learning suzani embroidery in a class setting, this puts you inside an actual Uzbek home to see family-owned textiles up close and share a home-cooked meal.", tourCard: { slug: "from-samarkand-day-with-a-local-family-suzani", title: "From Samarkand: Day with a Local Family, Suzani & Uzbek Food", description: "A day spent with a local family in Samarkand, exploring suzani textiles and Uzbek home cooking.", price: "From $208", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Approach this as a genuine home visit rather than a performance — respectful curiosity about the family's life and craft goes a long way." }
+                ],
+                faqs: [
+                    { q: "Is a day with a local family, suzani and Uzbek food worth it from Samarkand?", a: "Yes, for travelers wanting genuine home hospitality and a shared meal, distinct from a structured craft workshop setting." }
+                ],
+            };
+
         default:
             return null;
     }
