@@ -2454,6 +2454,106 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-marwari-horse-polo-worth-it-jaipur":
+      return {
+        title: "Is the Marwari Horse Riding and Polo Experience Worth It in Jaipur?",
+        description: "An honest look at Jaipur's Marwari horse riding and polo experience with hi-tea, a royal Rajasthani equestrian tradition.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-marwari-horse-riding-and-polo-experience/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Marwari horses are genuinely a distinctive Rajasthani breed with their own royal riding and polo heritage, and this experience with hi-tea included gives real insight into that tradition, worth it for travelers interested in equestrian culture beyond a basic trail ride.",
+            tourCard: { slug: "jaipur-marwari-horse-riding-and-polo-experience", title: "Jaipur: Marwari Horse Riding and Polo Experience with Hi-Tea", description: "A Marwari horse riding and polo experience with hi-tea in Jaipur.", price: "From $68", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-marwari-horse-riding-and-polo-experience/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior polo skill is needed — instructors genuinely cover the basics for beginners wanting to try the sport itself." },
+        ],
+        faqs: [
+          { q: "Is the Marwari horse riding and polo experience worth it in Jaipur?", a: "Yes, for travelers interested in genuine Rajasthani equestrian heritage, going beyond a basic trail ride." }
+        ],
+      };
+
+    case "is-private-elephant-sanctuary-worth-it-jaipur":
+      return {
+        title: "Is the Private Elephant Sanctuary Worth It in Jaipur?",
+        description: "An honest look at Jaipur's private elephant sanctuary visit, an ethical alternative to elephant-riding attractions.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-elephant-sanctuary/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This genuinely focuses on elephant care, feeding, and bathing rather than riding, giving a more ethical wildlife experience, worth it for travelers who want real interaction with these animals without supporting riding-based attractions.",
+            tourCard: { slug: "jaipur-private-elephant-sanctuary", title: "Jaipur: Private Elephant Sanctuary", description: "A private visit to an ethical elephant sanctuary in Jaipur.", price: "From $68", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-elephant-sanctuary/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask specifically about the sanctuary's no-riding policy beforehand, since standards genuinely vary between operators calling themselves sanctuaries." },
+        ],
+        faqs: [
+          { q: "Is the private elephant sanctuary worth it in Jaipur?", a: "Yes, for travelers wanting a genuinely ethical elephant experience focused on care rather than riding." }
+        ],
+      };
+
+    case "is-diwali-local-family-worth-it-jaipur":
+      return {
+        title: "Is the Diwali Celebration with a Local Family Worth It in Jaipur?",
+        description: "An honest look at celebrating Diwali with a local family in Jaipur, including dinner, as an alternative to public festival crowds.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/diwali-celebration-with-local-family-at-jaipur/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Celebrating Diwali inside a genuine local home gives real insight into how the festival is actually observed, with dinner included, worth it specifically for travelers visiting during Diwali season who want an authentic family experience rather than just watching public fireworks and markets.",
+            tourCard: { slug: "diwali-celebration-with-local-family-at-jaipur", title: "Diwali Celebration With Local Family at Jaipur With Dinner", description: "A Diwali celebration experience with a local family in Jaipur, including dinner.", price: "From $125", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/diwali-celebration-with-local-family-at-jaipur/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This only makes sense if your trip genuinely falls during Diwali season — check the festival dates before booking." },
+        ],
+        faqs: [
+          { q: "Is the Diwali celebration with a local family worth it in Jaipur?", a: "Yes, for travelers visiting during Diwali season wanting a genuinely authentic family experience, rather than just public festivities." }
+        ],
+      };
+
+    case "is-authentic-cooking-class-local-family-worth-it-jaipur":
+      return {
+        title: "Is the Authentic Cooking Class and Dinner with a Local Family Worth It in Jaipur?",
+        description: "An honest look at the authentic Jaipur cooking class and dinner hosted by a local family.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1776765991/tours/jaipur/tours/jaipur_1776765990320_0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Cooking and eating inside a genuine local home gives real insight into everyday Rajasthani cuisine and family life, worth it for travelers wanting authentic cultural connection rather than a restaurant-based cooking class.",
+            tourCard: { slug: "local-family-home-food-tour", title: "Jaipur Authentic Cooking Class & Dinner with Local Family", description: "An authentic cooking class and dinner hosted by a local family in Jaipur.", price: "From $119", duration: "3 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1776765991/tours/jaipur/tours/jaipur_1776765990320_0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any dietary restrictions in advance — a genuine home setting has less menu flexibility than a restaurant kitchen." },
+        ],
+        faqs: [
+          { q: "Is the authentic cooking class and dinner with a local family worth it in Jaipur?", a: "Yes, for travelers wanting genuine cultural connection and real insight into everyday Rajasthani home cooking." }
+        ],
+      };
+
+    case "is-shibori-dyeing-workshop-worth-it-jaipur":
+      return {
+        title: "Is the Natural Dyeing and Shibori Tie & Dye Workshop Worth It in Jaipur?",
+        description: "An honest look at Jaipur's natural dyeing and Shibori tie-dye workshop, a hands-on textile craft activity.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-natural-dyeing-and-shibori-tie-dye-workshop/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning natural dyeing alongside Shibori tie-dye technique gives a genuinely different textile craft experience than Jaipur's famous block printing, worth it for travelers wanting hands-on variety across the city's rich dyeing and textile traditions.",
+            tourCard: { slug: "jaipur-natural-dyeing-and-shibori-tie-dye-workshop", title: "Jaipur: Natural Dyeing and Shibori Tie & Dye Workshop", description: "A hands-on natural dyeing and Shibori tie-dye workshop in Jaipur.", price: "From $84", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-natural-dyeing-and-shibori-tie-dye-workshop/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear clothes you don't mind staining — natural dye work is genuinely messy, despite being a fun hands-on activity." },
+        ],
+        faqs: [
+          { q: "Is the natural dyeing and Shibori workshop worth it in Jaipur?", a: "Yes, for travelers wanting genuine hands-on variety across Jaipur's textile traditions, distinct from the city's famous block printing." }
+        ],
+      };
+
     default:
       return null;
   }
