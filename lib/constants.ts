@@ -1841,6 +1841,8 @@ export const CHIANG_MAI_INFO_SLUGS = [
   'is-paramotor-gokart-sticky-waterfall-worth-it-chiang-mai', 'is-mountain-buggy-adventure-worth-it-chiang-mai',
   'is-lahu-village-waterfall-trek-worth-it-chiang-mai', 'is-chiang-rai-golden-triangle-kayan-worth-it-chiang-mai',
   'is-self-drive-scooter-backroad-tour-worth-it-chiang-mai',
+  'is-silver-ring-workshop-worth-it-chiang-mai', 'is-fabric-tie-dye-workshop-worth-it-chiang-mai',
+  'is-lamphun-local-train-worth-it-chiang-mai', 'is-chiangdao-caving-kayaking-worth-it-chiang-mai',
 ];
 export const PATTAYA_INFO_SLUGS = [
   'is-pattaya-worth-visiting', 'sanctuary-of-truth-pattaya',

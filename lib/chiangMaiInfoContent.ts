@@ -1271,6 +1271,66 @@ export function getChiangMaiInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-silver-ring-workshop-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Mai Silver Ring Workshop with Shuttle and Dessert Worth It?",
+                description: "An honest look at Chiang Mai's hands-on silver ring-making workshop, including shuttle and dessert.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a wearable souvenir you genuinely made yourself — this workshop teaches traditional silversmithing techniques to craft your own ring, with shuttle transport and dessert included.",
+                    tourCard: { slug: "silver-ring-workshop-with-shuttle-and-dessert-in-chiang-mai", title: "Silver Ring Workshop with Shuttle and Dessert in Chiang Mai", description: "A hands-on silver ring-making workshop in Chiang Mai with shuttle and dessert.", price: "From $97", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Expect genuine hands-on time with tools and metal — allow extra time if you want a more detailed design rather than a simple band." }
+                ],
+                faqs: [
+                    { q: "Is the silver ring workshop worth it in Chiang Mai?", a: "Yes, for travelers wanting a genuinely wearable souvenir they crafted themselves using traditional silversmithing techniques." }
+                ],
+            };
+
+        case "is-fabric-tie-dye-workshop-worth-it-chiang-mai":
+            return {
+                title: "Is the Chiang Mai Local Fabric Tie-Dye Workshop Worth It?",
+                description: "An honest look at Chiang Mai's hands-on local fabric tie-dye workshop with hotel pickup.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for a genuinely creative, low-key activity distinct from Chiang Mai's usual jungle and elephant tours — this workshop teaches traditional tie-dye techniques using local fabric, with hotel pickup included, and you take home what you make.",
+                    tourCard: { slug: "local-fabric-tie-dye-workshop-with-hotel-pickup-in-chiang-mai", title: "Local Fabric Tie-Dye Workshop with Hotel Pickup in Chiang Mai", description: "A hands-on local fabric tie-dye workshop in Chiang Mai with hotel pickup.", price: "From $87", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind getting dye on, since this is a genuinely hands-on craft activity, not a clean demonstration." }
+                ],
+                faqs: [
+                    { q: "Is the fabric tie-dye workshop worth it in Chiang Mai?", a: "Yes, for travelers wanting a creative, hands-on activity and a genuine handmade souvenir to take home." }
+                ],
+            };
+
+        case "is-lamphun-local-train-worth-it-chiang-mai":
+            return {
+                title: "Is the Lamphun by Local Train: Temples and Local Food Tour Worth It?",
+                description: "An honest look at the Lamphun day trip by local train, covering temples and local food in Chiang Mai.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely local way to travel rather than a tourist van — taking the actual local train to Lamphun, one of Thailand's oldest cities, gives real insight into everyday Thai rail travel alongside the temple and food stops.",
+                    tourCard: { slug: "lamphun-by-local-train-temples-and-local-food-in-chiang-mai", title: "Lamphun by Local Train: Temples and Local Food in Chiang Mai", description: "A day trip to Lamphun by local train, covering temples and local food.", price: "From $120", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Local trains run on a fixed, less frequent schedule than tourist vans, so confirm timing works with the rest of your day." }
+                ],
+                faqs: [
+                    { q: "Is the Lamphun local train tour worth it from Chiang Mai?", a: "Yes, for travelers wanting a genuinely local rail experience alongside Lamphun's ancient temples and food." }
+                ],
+            };
+
+        case "is-chiangdao-caving-kayaking-worth-it-chiang-mai":
+            return {
+                title: "Is the Full-Day Chiang Dao Caving and Jungle Kayaking Tour Worth It?",
+                description: "An honest look at Chiang Mai's full-day Chiang Dao caving and jungle kayaking adventure.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine underground exploration combined with river adventure — Chiang Dao's caves are among the most extensive in northern Thailand, and pairing them with jungle kayaking gives a full day of real physical activity beyond standard trekking.",
+                    tourCard: { slug: "full-day-chiang-dao-caving-and-jungle-kayaking-in-chiang-mai", title: "Full-Day Chiang Dao Caving and Jungle Kayaking in Chiang Mai", description: "A full-day caving and jungle kayaking adventure at Chiang Dao from Chiang Mai.", price: "From $104", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Bring a headlamp or confirm one is provided — parts of Chiang Dao's cave system go genuinely deep with limited ambient light." }
+                ],
+                faqs: [
+                    { q: "Is the Chiang Dao caving and jungle kayaking tour worth it in Chiang Mai?", a: "Yes, for travelers wanting genuine underground cave exploration combined with river kayaking in one active day." }
+                ],
+            };
+
         default:
             return null;
     }
