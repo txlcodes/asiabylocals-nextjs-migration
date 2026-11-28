@@ -2302,6 +2302,8 @@ export const ELLA_INFO_SLUGS = [
   'is-belihuloya-camping-kayaking-worth-it-ella',
   'is-scenic-train-photography-tour-worth-it-ella', 'is-nine-arch-bridge-photoshoot-worth-it-ella',
   'is-waterfall-hunter-tour-worth-it-ella', 'is-village-experience-breakfast-jeep-worth-it-ella',
+  'is-reserved-train-ticket-badulla-nine-arch-worth-it-ella', 'is-pallewela-tuk-tuk-waterfall-journey-worth-it-ella',
+  'is-hindu-buddhist-temples-half-day-worth-it-ella',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/galleInfoContent.ts.

@@ -1515,6 +1515,66 @@ export function getEllaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-reserved-train-ticket-badulla-nine-arch-worth-it-ella":
+      return {
+        title: "Is a Reserved Train Ticket to Badulla via Nine Arch Bridge Worth It from Ella?",
+        description: "An honest look at booking a reserved seat on the short Ella-to-Badulla train, which passes directly over the Nine Arch Bridge.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1426802/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A reserved seat removes the single biggest risk of Sri Lanka's scenic trains, standing in a crowded doorway for an hour, worth it for the short 30-minute Badulla stretch specifically because it crosses Nine Arch Bridge without the usual scramble for seats or space at the door.",
+            tourCard: { slug: "ella-reserved-train-ticket-to-badulla-via-nine", title: "Ella: Reserved Train Ticket to Badulla via Nine Arch Bridge", description: "A reserved-seat train ticket from Ella to Badulla crossing the Nine Arch Bridge.", price: "From $51", duration: "30 minutes", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1426802/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Sit on the side facing the valley rather than the hillside for the best view as the train crosses the bridge." },
+        ],
+        faqs: [
+          { q: "Is a reserved train ticket to Badulla via Nine Arch Bridge worth it from Ella?", a: "Yes, for travelers who want the bridge crossing without the scramble for standing room on the unreserved carriages." }
+        ],
+      };
+
+    case "is-pallewela-tuk-tuk-waterfall-journey-worth-it-ella":
+      return {
+        title: "Is the Pallewela Tuk-Tuk Waterfall Journey Worth It in Ella?",
+        description: "An honest look at the Pallewela tuk-tuk trip, a shorter, lesser-known waterfall outing than Ella's usual Nine Arch Bridge and Little Adam's Peak circuit.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1214876/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pallewela Waterfall sees far fewer visitors than Ella's headline sights, so this short tuk-tuk ride works best as a quiet add-on for travelers who've already covered Nine Arch Bridge and Little Adam's Peak and want one more stop without another half-day commitment.",
+            tourCard: { slug: "ella-pallewela-tuk-tuk-waterfall-journey", title: "Ella: Pallewela Tuk-Tuk Waterfall Journey", description: "A short tuk-tuk ride from Ella to the quieter Pallewela Waterfall.", price: "From $50", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1214876/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring swimwear — the pool beneath the falls is a genuine, uncrowded spot to cool off." },
+        ],
+        faqs: [
+          { q: "Is the Pallewela tuk-tuk waterfall journey worth it in Ella?", a: "Yes, as a quick, quieter add-on for travelers who've already done Ella's main waterfall and viewpoint circuit." }
+        ],
+      };
+
+    case "is-hindu-buddhist-temples-half-day-worth-it-ella":
+      return {
+        title: "Is the Hindu and Buddhist Temples Half-Day Tour Worth It Around Ella?",
+        description: "An honest look at the guided temple circuit around Ella, covering Buddhist forest monasteries and Hindu Ramayana sites rather than the usual hiking and waterfall stops.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463117/asiabylocals/tours/from-ella-hindu-and-buddhist-temple-tour-with-pickup/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Ella's tourist trail is almost entirely hikes and waterfalls, so a guided circuit of its Buddhist and Hindu temples fills a real gap, worth it for travelers who want cultural and religious context on the hill country rather than another trek.",
+            tourCard: { slug: "hindu-and-buddhist-temples-around-ella-a-guided-half-day-tour", title: "Hindu and Buddhist Temples Around Ella: A Guided Half-Day Tour", description: "A guided half-day circuit of Buddhist and Hindu temples around Ella.", price: "From $62", duration: "6 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788463117/asiabylocals/tours/from-ella-hindu-and-buddhist-temple-tour-with-pickup/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and bring a scarf or sarong, both temple types expect shoulders and knees covered." },
+        ],
+        faqs: [
+          { q: "Is the Hindu and Buddhist temples half-day tour worth it around Ella?", a: "Yes, for travelers who want cultural and religious context rather than another hike or waterfall stop." }
+        ],
+      };
+
     default:
       return null;
   }
