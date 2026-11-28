@@ -2336,6 +2336,81 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-underground-techno-night-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Tbilisi Underground Techno Scene Night Tour Worth It?",
+                description: "An honest look at Tbilisi's underground techno scene night tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to see why Tbilisi is considered one of Europe's rising techno capitals — this tour gets you into the actual underground club scene with a local guide, rather than leaving you to navigate the notoriously strict door policies alone.",
+                    tourCard: { slug: "tbilisi-underground-techno-scene-night-tour", title: "Tbilisi: Underground Techno Scene Night Tour", description: "A guided night tour of Tbilisi's underground techno club scene.", price: "From $401", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Check the club's dress code and entry policies in advance — Tbilisi's techno clubs are known for being selective about who gets in." }
+                ],
+                faqs: [
+                    { q: "Is the underground techno scene night tour worth it in Tbilisi?", a: "Yes, for travelers wanting genuine access to Tbilisi's renowned techno club scene with a guide handling the notoriously strict entry process." }
+                ],
+            };
+
+        case "is-tbilisi-sea-sailing-captain-worth-it-tbilisi":
+            return {
+                title: "Is the Tbilisi Sea Sailing Tour with a Captain Worth It?",
+                description: "An honest look at the sailing tour on the Tbilisi Sea reservoir with a captain.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely different Tbilisi activity than city sightseeing — the Tbilisi Sea is actually a reservoir, not an ocean, and sailing it with a captain gives calm water views of the city skyline that most visitors never experience.",
+                    tourCard: { slug: "tbilisi-tbilisi-sea-sailing-tour-with-captain", title: "Tbilisi: Tbilisi Sea Sailing Tour with Captain.", description: "A sailing tour on the Tbilisi Sea reservoir with a captain.", price: "From $408", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Go in the afternoon for calmer winds and better conditions on the reservoir." }
+                ],
+                faqs: [
+                    { q: "Is the Tbilisi Sea sailing tour worth it?", a: "Yes, for travelers wanting a genuinely different activity on the water, distinct from the city's usual sightseeing circuit." }
+                ],
+            };
+
+        case "is-gudauri-ski-resort-day-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Gudauri Ski Resort Private Full-Day Mountain Adventure Worth It from Tbilisi?",
+                description: "An honest look at the Gudauri ski resort private full-day mountain adventure from Tbilisi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, in winter season specifically — Gudauri is Georgia's major ski resort, and this private full-day trip gets you to the slopes and mountain scenery without needing to arrange your own transport or stay overnight.",
+                    tourCard: { slug: "gudauri-ski-resort-private-full-day-mountain", title: "Gudauri Ski Resort: Private Full-Day Mountain Adventure", description: "A private full-day mountain adventure at Gudauri Ski Resort from Tbilisi.", price: "From $325", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Confirm whether ski or snowboard equipment rental is included, since this varies by operator and affects your total cost." }
+                ],
+                faqs: [
+                    { q: "Is the Gudauri Ski Resort day tour worth it from Tbilisi?", a: "Yes, during winter season, for travelers wanting a day of skiing or mountain scenery without arranging transport themselves." }
+                ],
+            };
+
+        case "is-horseback-wine-picnic-worth-it-tbilisi":
+            return {
+                title: "Is the Tbilisi Private Horseback Riding and Wine Picnic Experience Worth It?",
+                description: "An honest look at Tbilisi's private horseback riding experience paired with a wine picnic.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to combine two of Georgia's signature experiences in one outing — horseback riding through the countryside followed by a proper wine picnic gives both an active and relaxed element to the day.",
+                    tourCard: { slug: "tbilisi-private-horseback-riding-and-wine-picnic", title: "Tbilisi: Private Horseback Riding and Wine Picnic Experience", description: "A private horseback riding experience paired with a wine picnic near Tbilisi.", price: "From $305", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Mention your riding experience level in advance so the operator can match you with a suitable horse and route." }
+                ],
+                faqs: [
+                    { q: "Is the horseback riding and wine picnic experience worth it near Tbilisi?", a: "Yes, for travelers wanting to combine an active countryside ride with a relaxed wine picnic in one outing." }
+                ],
+            };
+
+        case "is-kazbegi-drone-footage-tour-worth-it-tbilisi":
+            return {
+                title: "Is the Tbilisi Kazbegi Mountains Tour with Drone Footage Worth It?",
+                description: "An honest look at the Kazbegi Mountains tour from Tbilisi that includes professional drone footage.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely cinematic keepsake of the Caucasus Mountains — professional drone footage captures aerial views of Kazbegi's dramatic scenery that your own phone simply can't, well beyond a standard group tour photo stop.",
+                    tourCard: { slug: "tbilisi-kazbegi-mountains-tour-with-drone-footage", title: "Tbilisi: Kazbegi Mountains Tour with Drone Footage", description: "A Kazbegi Mountains tour from Tbilisi that includes professional drone footage.", price: "From $364", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Ask in advance how the drone footage is delivered and how long it takes, since turnaround times vary by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Kazbegi drone footage tour worth it from Tbilisi?", a: "Yes, for travelers wanting a genuinely cinematic aerial keepsake of the Caucasus Mountains beyond standard photos." }
+                ],
+            };
+
         default:
             return null;
     }

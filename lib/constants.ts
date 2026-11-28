@@ -514,6 +514,9 @@ export const TBILISI_INFO_SLUGS = [
   'is-carriage-ride-worth-it-tbilisi', 'is-udabno-desert-ridge-worth-it-tbilisi',
   'is-trialeti-manglisi-monastery-worth-it-tbilisi', 'is-alpaca-lunch-dinner-worth-it-tbilisi',
   'is-pankisi-horseback-riding-worth-it-tbilisi',
+  'is-underground-techno-night-tour-worth-it-tbilisi', 'is-tbilisi-sea-sailing-captain-worth-it-tbilisi',
+  'is-gudauri-ski-resort-day-tour-worth-it-tbilisi', 'is-horseback-wine-picnic-worth-it-tbilisi',
+  'is-kazbegi-drone-footage-tour-worth-it-tbilisi',
 ];
 
 // Oman launched 2026-11-16 with 709 live tours and zero authority pages.

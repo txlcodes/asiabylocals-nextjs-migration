@@ -739,6 +739,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-carriage-ride-worth-it-tbilisi', 'is-udabno-desert-ridge-worth-it-tbilisi',
     'is-trialeti-manglisi-monastery-worth-it-tbilisi', 'is-alpaca-lunch-dinner-worth-it-tbilisi',
     'is-pankisi-horseback-riding-worth-it-tbilisi',
+    'is-underground-techno-night-tour-worth-it-tbilisi', 'is-tbilisi-sea-sailing-captain-worth-it-tbilisi',
+    'is-gudauri-ski-resort-day-tour-worth-it-tbilisi', 'is-horseback-wine-picnic-worth-it-tbilisi',
+    'is-kazbegi-drone-footage-tour-worth-it-tbilisi',
   ].map(slug => ({
     url: `${BASE_URL}/georgia/tbilisi/${slug}`,
     lastModified: new Date(),
