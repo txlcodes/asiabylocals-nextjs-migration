@@ -3012,6 +3012,8 @@ export const HANOI_INFO_SLUGS = [
   'is-cucphuong-wildlife-worth-it-hanoi',
   'is-knife-making-blacksmith-village-worth-it-hanoi', 'is-silver-jewelry-making-workshop-worth-it-hanoi',
   'is-leather-notebook-making-workshop-worth-it-hanoi', 'is-halal-food-train-street-tour-worth-it-hanoi',
+  'is-ceramic-village-dong-ho-painting-worth-it-hanoi', 'is-cave-dining-pearl-show-onsen-worth-it-hanoi',
+  'is-military-history-museum-landmarks-worth-it-hanoi', 'is-bar-crawl-nightclub-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [

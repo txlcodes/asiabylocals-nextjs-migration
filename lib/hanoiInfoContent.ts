@@ -1564,6 +1564,89 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ceramic-village-dong-ho-painting-worth-it-hanoi":
+      return {
+        title: "Is the Ceramic Village, Dong Ho Painting and Carpentry Village Tour Worth It?",
+        description: "An honest look at the Hanoi day trip covering a ceramic village, Dong Ho folk painting, and a carpentry village.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers wanting genuine traditional craft exposure in one trip — this covers three distinct Vietnamese artisan traditions (ceramics, Dong Ho woodblock folk painting, and carpentry) in villages where these crafts are still practiced, rather than a single workshop stop.",
+            tourCard: { slug: "ceramic-village-dong-ho-painting-and-carpentry-village-in-hanoi", title: "Ceramic Village, Dong Ho Painting and Carpentry Village in Hanoi", description: "A day trip covering a ceramic village, Dong Ho folk painting, and a carpentry village near Hanoi.", price: "From $197", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dong Ho woodblock prints make genuinely distinctive, lightweight souvenirs that pack easily for travel.",
+          },
+        ],
+        faqs: [
+          { q: "Is the ceramic village, Dong Ho painting and carpentry tour worth it near Hanoi?", a: "Yes, for travelers wanting genuine exposure to three distinct traditional Vietnamese crafts in one day." },
+        ],
+      };
+
+    case "is-cave-dining-pearl-show-onsen-worth-it-hanoi":
+      return {
+        title: "Is Hanoi Escape: Cave Dining, Sacred Pearl Show and Onsen Springs Worth It?",
+        description: "An honest look at the Hanoi Escape experience combining cave dining, a Sacred Pearl show, and onsen hot springs.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuinely varied sensory experiences in one trip — dining inside an actual cave, watching a staged Sacred Pearl show, and soaking in Japanese-style onsen hot springs gives a far more eclectic day than Hanoi's standard temple or old quarter sightseeing.",
+            tourCard: { slug: "hanoi-escape-cave-dining-sacred-pearl-show-and-onsen-springs-hanoi", title: "Hanoi Escape: Cave Dining, Sacred Pearl Show and Onsen Springs (Hanoi)", description: "An experience combining cave dining, a Sacred Pearl show, and onsen hot springs near Hanoi.", price: "From $245", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit for the onsen portion, and dress warmly for the cave, which stays genuinely cool regardless of outside temperature.",
+          },
+        ],
+        faqs: [
+          { q: "Is the cave dining, Sacred Pearl show and onsen experience worth it near Hanoi?", a: "Yes, for travelers wanting a genuinely eclectic mix of dining, entertainment, and wellness in one day." },
+        ],
+      };
+
+    case "is-military-history-museum-landmarks-worth-it-hanoi":
+      return {
+        title: "Is the Vietnam Military History Museum and Landmarks Tour Worth It?",
+        description: "An honest look at Hanoi's guided tour of the Vietnam Military History Museum and related landmarks.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers with genuine interest in Vietnam's military history — the Military History Museum covers conflicts from French colonization through the Vietnam War with real artifacts and aircraft, and a guide adds context that's easy to miss walking through alone.",
+            tourCard: { slug: "vietnam-military-history-museum-and-landmarks-tour", title: "Vietnam Military History Museum and Landmarks Tour", description: "A guided tour of the Vietnam Military History Museum and related landmarks in Hanoi.", price: "From $101", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide with genuine historical depth makes the exhibits far more meaningful than reading placards alone, especially for complex periods like the French-Indochina conflict." },
+        ],
+        faqs: [
+          { q: "Is the Vietnam Military History Museum and landmarks tour worth it in Hanoi?", a: "Yes, for travelers with genuine interest in Vietnam's military history, with a guide adding context that's easy to miss alone." }
+        ],
+      };
+
+    case "is-bar-crawl-nightclub-worth-it-hanoi":
+      return {
+        title: "Is the Hanoi Guided Bar Crawl with Drinks and Nightclub Entry Worth It?",
+        description: "An honest look at Hanoi's guided bar crawl, including drinks and nightclub entry.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a structured night out without the hassle of finding spots or navigating door policies yourself — this guided crawl covers multiple bars with drinks included and ends with nightclub entry, a genuinely social alternative to Hanoi's quieter evening options.",
+            tourCard: { slug: "guided-bar-crawl-with-drinks-and-nightclub-entry-in-hanoi", title: "Guided Bar Crawl with Drinks and Nightclub Entry in Hanoi", description: "A guided bar crawl in Hanoi with drinks and nightclub entry included.", price: "From $78", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good pick for solo travelers or small groups wanting to meet other people on a structured, social night out.",
+          },
+        ],
+        faqs: [
+          { q: "Is the guided bar crawl with nightclub entry worth it in Hanoi?", a: "Yes, for travelers wanting a structured, social night out without navigating bars and door policies solo." },
+        ],
+      };
+
     default:
       return null;
   }
