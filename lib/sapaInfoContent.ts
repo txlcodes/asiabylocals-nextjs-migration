@@ -1525,6 +1525,66 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bun-cha-cooking-class-worth-it-sapa":
+      return {
+        title: "Is the Bun Cha Cooking Class Worth It in Sapa?",
+        description: "An honest look at this focused Bun Cha cooking class, learning Vietnam's grilled pork and noodle dish under a local chef's guidance.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200908/asiabylocals/tours/bun-cha-cooking-class-in-sapa/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Learning the specific grilling and dipping-sauce technique behind Bun Cha gives genuine, transferable cooking skill rather than a broad sampler of dishes, worth it for travelers who want to properly master one classic Vietnamese dish they can recreate back home.",
+            tourCard: { slug: "bun-cha-cooking-class-in-sapa", title: "Bun Cha Cooking Class in Sapa", description: "A focused cooking class learning to make Bun Cha with a local chef in Sapa.", price: "From $65", duration: "2 hours", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200908/asiabylocals/tours/bun-cha-cooking-class-in-sapa/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pay close attention to the dipping sauce ratios, that's the part most home cooks get wrong when trying to recreate Bun Cha later." },
+        ],
+        faqs: [
+          { q: "Is the Bun Cha cooking class worth it in Sapa?", a: "Yes, for travelers who want to properly master one classic Vietnamese dish rather than sample several dishes broadly." }
+        ],
+      };
+
+    case "is-heaven-gate-hot-springs-motorbike-worth-it-sapa":
+      return {
+        title: "Is the Motorbike Tour to Heaven Gate and Hot Springs Worth It in Sapa?",
+        description: "An honest look at this motorbike tour pairing the Heaven Gate viewpoint on O Quy Ho Pass with a soak in natural hot springs.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/motorbike-tour-to-heaven-gate-and-hot-springs-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing the dramatic mountain-pass views at Heaven Gate with a relaxing hot springs soak gives real contrast between adrenaline and recovery in one day, worth it for travelers who want both the scenic ride and a way to unwind afterward rather than ending the day still keyed up.",
+            tourCard: { slug: "motorbike-tour-to-heaven-gate-and-hot-springs-in-sapa", title: "Motorbike Tour to Heaven Gate and Hot Springs in Sapa", description: "A full-day motorbike tour to Heaven Gate on O Quy Ho Pass and natural hot springs.", price: "From $69", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/motorbike-tour-to-heaven-gate-and-hot-springs-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring swimwear and a towel, the hot springs stop is easy to forget to pack for when focused on the motorbike leg." },
+        ],
+        faqs: [
+          { q: "Is the motorbike tour to Heaven Gate and hot springs worth it in Sapa?", a: "Yes, for travelers who want both a scenic mountain-pass ride and a relaxing way to unwind afterward." }
+        ],
+      };
+
+    case "is-sunday-bac-ha-market-worth-it-sapa":
+      return {
+        title: "Is the Sunday Bac Ha Market Group Tour Worth It from Sapa?",
+        description: "An honest look at this trip to Bac Ha's weekly Sunday market, a genuinely local trading event distinct from Sapa's more touristed villages.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sunday-bac-ha-market-group-tour/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bac Ha's Sunday market is a genuine weekly trading event for local ethnic minority communities, not a show staged for tourists, worth it for travelers specifically visiting on a Sunday who want an authentic market scene rather than another curated village stop.",
+            tourCard: { slug: "sunday-bac-ha-market-group-tour", title: "Sunday Bac Ha Market Group Tour", description: "A full-day group tour to Bac Ha's weekly Sunday market from Sapa.", price: "From $52", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sunday-bac-ha-market-group-tour/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This only runs on Sundays when the market is actually on, so plan your Sapa itinerary around that specific day if you want to go." },
+        ],
+        faqs: [
+          { q: "Is the Sunday Bac Ha Market group tour worth it from Sapa?", a: "Yes, for travelers in Sapa on a Sunday who want a genuinely local market scene rather than another curated village visit." }
+        ],
+      };
+
     default:
       return null;
   }

@@ -2973,6 +2973,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-black-hmong-transformation-photoshoot-worth-it-sapa', 'is-tramton-sinchai-jungle-trek-worth-it-sapa',
     'is-hagiang-bangioc-private-car-worth-it-sapa',
     'is-rainbow-slide-alpine-coaster-paragliding-worth-it-sapa', 'is-sapa-in-style-luxury-limousine-tour-worth-it-sapa',
+    'is-bun-cha-cooking-class-worth-it-sapa', 'is-heaven-gate-hot-springs-motorbike-worth-it-sapa',
+    'is-sunday-bac-ha-market-worth-it-sapa',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),
