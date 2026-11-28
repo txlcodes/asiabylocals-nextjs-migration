@@ -2453,6 +2453,48 @@ export function getGeorgiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-stepantsminda-zhinvali-ananuri-worth-it-kazbegi":
+            return {
+                title: "Is the Private Day Trip to Stepantsminda, Kazbegi Mountains & Sno Worth It?",
+                description: "An honest look at the full-day private day trip visiting Zhinvali Reservoir, Ananuri, and the Georgia Friendship Monument on the way to Kazbegi.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3be469f51f7ef921.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want the full Georgian Military Highway experience rather than rushing straight to Kazbegi — stopping at the Zhinvali Reservoir, Ananuri fortress, and the Georgia Friendship Monument along the way turns the drive itself into a genuine sightseeing day.", tourCard: { slug: "private-day-trip-to-stepantsminda-kazbegi", title: "Private Day Trip to Stepantsminda, Kazbegi Mountains & Sno", description: "A full-day private day trip visiting Zhinvali Reservoir, Ananuri, and the Georgia Friendship Monument on the way to Kazbegi.", price: "From $569", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/3be469f51f7ef921.jpeg" } },
+                    { title: "Practical Tips", content: "The Georgia Friendship Monument offers genuinely sweeping valley views, so budget extra time for photos at this stop specifically." }
+                ],
+                faqs: [
+                    { q: "Is the private day trip to Stepantsminda and Kazbegi worth it?", a: "Yes, for travelers wanting the full Georgian Military Highway experience with genuine sightseeing stops along the way, not just a transfer." }
+                ],
+            };
+
+        case "is-koruldi-lakes-mestia-viewpoint-hike-worth-it-mestia":
+            return {
+                title: "Is the Koruldi Lakes, Cross Over the Mestia Hike to the Viewpoint Worth It?",
+                description: "An honest look at the half-day hike to Koruldi Lakes with a Mestia viewpoint crossing.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ab27c4328396a1a67a55d5f29791d756cce5c84a47180a6edff381fba5c4a553.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine alpine lake scenery without a multi-day trek — reaching Koruldi Lakes and a sweeping Mestia viewpoint in just half a day makes this one of Svaneti's more accessible high-altitude hikes.", tourCard: { slug: "koruldi-lakes-cross-over-the-mestia-hike-to-the", title: "Koruldi Lakes, Cross over the Mestia, Hike to the Viewpoint", description: "A half-day hike to Koruldi Lakes with a Mestia viewpoint crossing.", price: "From $242", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ab27c4328396a1a67a55d5f29791d756cce5c84a47180a6edff381fba5c4a553.jpg" } },
+                    { title: "Practical Tips", content: "Wear proper hiking shoes — the terrain climbs genuinely steeply to reach the lakes and viewpoint in a short half-day window." }
+                ],
+                faqs: [
+                    { q: "Is the Koruldi Lakes and Mestia viewpoint hike worth it?", a: "Yes, for travelers wanting genuine alpine lake scenery and sweeping views without committing to a multi-day trek." }
+                ],
+            };
+
+        case "is-ushguli-to-mestia-day-far-from-world-worth-it-mestia":
+            return {
+                title: "Is 'From Ushguli to Mestia: A Day Far from the World' Worth It?",
+                description: "An honest look at the full-day trip from Ushguli to Mestia through Svaneti's remote mountain scenery.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5780005c460c71d75bd9a9e0aadb59550a56bfdc87a1b8aa15e79c8477a77c92.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if genuine remoteness and photo stops matter more to you than ticking off a checklist of sites — this day is framed specifically around the feeling of being far from everyday life, traveling through Svaneti's towered villages and mountain scenery between Ushguli and Mestia.", tourCard: { slug: "from-ushguli-to-mestia-a-day-far-from-the", title: "From Ushguli to Mestia: A Day Far from the World", description: "A full-day trip from Ushguli to Mestia through Svaneti's remote mountain scenery.", price: "From $169", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5780005c460c71d75bd9a9e0aadb59550a56bfdc87a1b8aa15e79c8477a77c92.jpg" } },
+                    { title: "Practical Tips", content: "This suits travelers who want to savor the journey itself rather than rushing between fixed stops — build in time to simply take in the scenery." }
+                ],
+                faqs: [
+                    { q: "Is the 'Day Far from the World' trip from Ushguli to Mestia worth it?", a: "Yes, for travelers wanting a genuinely slow, scenic journey through Svaneti's remote mountain villages." }
+                ],
+            };
+
         default:
             return null;
     }

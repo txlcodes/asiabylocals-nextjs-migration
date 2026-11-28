@@ -1203,6 +1203,7 @@ export const KAZBEGI_INFO_SLUGS = [
   'kazbegi-travel-guide-2026',
   'is-mount-kazbek-climb-worth-it-kazbegi',
   'is-dariali-monastery-gveleti-waterfall-worth-it-kazbegi',
+  'is-stepantsminda-zhinvali-ananuri-worth-it-kazbegi',
 ];
 
 export const MESTIA_INFO_SLUGS = [
@@ -1210,6 +1211,7 @@ export const MESTIA_INFO_SLUGS = [
   'best-koruldi-lakes-tour-mestia', 'mestia-travel-guide-2026',
   'is-heshkili-huts-tetnuldi-tour-worth-it-mestia',
   'is-shkhara-glacier-horseback-tour-worth-it-mestia',
+  'is-koruldi-lakes-mestia-viewpoint-hike-worth-it-mestia', 'is-ushguli-to-mestia-day-far-from-world-worth-it-mestia',
 ];
 
 // Wadi Rum (Jordan) — 36 live tours, launched 2026-11-21.
