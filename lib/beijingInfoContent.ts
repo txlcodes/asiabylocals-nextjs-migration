@@ -1825,6 +1825,62 @@ export function getBeijingInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-liuli-craft-heritage-worth-it-beijing":
+      return {
+        title: "Is the Beijing Liuli Craft and Intangible Heritage Culture Tour Worth It?",
+        description: "An honest look at Beijing's tour covering traditional liuli (colored glaze) craft and intangible cultural heritage.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for travelers wanting a genuinely distinctive craft tradition beyond Beijing's usual pottery or tea classes — liuli is a Chinese colored-glaze art form with centuries of history, recognized as intangible cultural heritage, and this tour gives real hands-on exposure to the technique.", tourCard: { slug: "beijing-liuli-craft-and-intangible-heritage", title: "Beijing: Liuli Craft and Intangible Heritage Culture Tour", description: "A tour covering traditional liuli colored-glaze craft and intangible cultural heritage in Beijing.", price: "From $636", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "A guide with genuine craft knowledge adds real depth here, since liuli is a less internationally known tradition than porcelain or silk." },
+        ],
+        faqs: [
+          { q: "Is the liuli craft and intangible heritage tour worth it in Beijing?", a: "Yes, for travelers wanting genuine exposure to a distinctive, officially recognized Chinese craft tradition." },
+        ],
+      };
+
+    case "is-jiankou-camping-sunrise-sunset-worth-it-beijing":
+      return {
+        title: "Is Jiankou Great Wall Camping with Sunrise and Sunset Worth It?",
+        description: "An honest look at camping overnight at the Jiankou Great Wall to catch both sunset and sunrise.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want to actually sleep on the 'Wild Wall' rather than just hike it — Jiankou is the unrestored, more rugged section of the Great Wall, and camping overnight means catching both sunset and sunrise light with none of the daytime crowds.", tourCard: { slug: "jiankou-great-wall-camping-enjoy-the-sunrise-and", title: "Jiankou Great Wall camping, enjoy the sunrise and sunset", description: "An overnight camping trip at the Jiankou Great Wall to catch sunset and sunrise.", price: "From $559", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Jiankou is genuinely unrestored and steep in parts, so come with real hiking fitness and proper footwear, especially carrying camping gear." },
+        ],
+        faqs: [
+          { q: "Is Jiankou Great Wall camping worth it in Beijing?", a: "Yes, for travelers wanting both sunset and sunrise light over the Wild Wall, without the daytime crowds of restored sections." },
+        ],
+      };
+
+    case "is-forbidden-city-dental-spa-worth-it-beijing":
+      return {
+        title: "Is the Private Forbidden City Walk and Luxury Dental Spa Worth It in Beijing?",
+        description: "An honest look at Beijing's combo day pairing a private Forbidden City walk with a luxury dental spa visit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Worth it specifically for travelers already planning dental tourism in Beijing — this bundles a private Forbidden City walking tour with a luxury dental spa visit, letting you combine sightseeing with a dental appointment in one efficient day.", tourCard: { slug: "private-forbidden-city-walk-and-luxury-dental-spa", title: "Private Forbidden City Walk and Luxury Dental Spa", description: "A private Forbidden City walking tour combined with a luxury dental spa visit in Beijing.", price: "From $506", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Confirm in advance exactly what dental services are included or available, since this varies and may need to be booked separately." },
+        ],
+        faqs: [
+          { q: "Is the Forbidden City and dental spa combo worth it in Beijing?", a: "Yes, specifically for travelers already planning dental tourism who want to pair it efficiently with Forbidden City sightseeing." },
+        ],
+      };
+
+    case "is-peking-man-stone-flower-cave-worth-it-beijing":
+      return {
+        title: "Is the Beijing Peking Man Site, Stone Flower Cave & Bridge Tour Worth It?",
+        description: "An honest look at Beijing's tour covering the Peking Man archaeological site, Stone Flower Cave, and a historic bridge.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for travelers interested in deep human history and natural geology — the Peking Man site is a UNESCO World Heritage location documenting early human fossils, paired here with Stone Flower Cave's genuine limestone formations, a far older story than the Ming and Qing dynasty sites most tours cover.", tourCard: { slug: "beijing-peking-man-site-stone-flower-cave-bridge", title: "Beijing: Peking Man Site, Stone Flower Cave & Bridge Tour", description: "A tour covering the Peking Man archaeological site, Stone Flower Cave, and a historic bridge in Beijing.", price: "From $489", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "The cave portion involves walking on uneven, sometimes damp ground, so wear sturdy, non-slip shoes." },
+        ],
+        faqs: [
+          { q: "Is the Peking Man Site and Stone Flower Cave tour worth it in Beijing?", a: "Yes, for travelers interested in deep human history and natural geology, well beyond the Ming and Qing dynasty sites most tours cover." },
+        ],
+      };
+
     default:
       return null;
   }

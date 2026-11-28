@@ -242,6 +242,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-hanfu-photos-tea-ceremony-worth-it-beijing', 'is-2day-horseback-riding-camp-worth-it-beijing',
     'is-langfang-red-chamber-dream-fantasy-worth-it-beijing', 'is-private-markets-tour-tea-tasting-worth-it-beijing',
     'is-lama-temple-confucius-temple-hutong-tea-worth-it-beijing',
+    'is-liuli-craft-heritage-worth-it-beijing', 'is-jiankou-camping-sunrise-sunset-worth-it-beijing',
+    'is-forbidden-city-dental-spa-worth-it-beijing', 'is-peking-man-stone-flower-cave-worth-it-beijing',
   ].map(slug => ({
     url: `${BASE_URL}/china/beijing/${slug}`,
     lastModified: new Date(),
