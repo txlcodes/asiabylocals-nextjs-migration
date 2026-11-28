@@ -1384,6 +1384,90 @@ export function getHoiAnInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-cham-island-dj-party-worth-it-hoi-an":
+      return {
+        title: "Is the Cham Island Snorkeling and DJ Party Tour Worth It?",
+        description: "An honest look at Hoi An's Cham Island tour combining snorkeling with a DJ party.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a livelier, more social spin on the standard Cham Island snorkeling trip — this adds an onboard DJ party element, turning the usual quiet island day into something more upbeat for travelers wanting energy alongside the snorkeling.",
+            tourCard: { slug: "cham-island-snorkeling-and-dj-party-tour", title: "Cham Island Snorkeling and DJ Party Tour", description: "A Cham Island tour combining snorkeling with an onboard DJ party.", price: "From $143", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This suits a livelier crowd rather than travelers seeking a quiet, relaxed island day — pick a standard snorkeling tour instead if that's what you want.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Cham Island DJ party tour worth it?", a: "Yes, for travelers wanting a livelier, more social spin on standard Cham Island snorkeling." },
+        ],
+      };
+
+    case "is-luxury-sunset-cruise-spice-menu-worth-it-hoi-an":
+      return {
+        title: "Is the Hoi An Luxury Sunset Cruise with 5-Course Spice Menu Worth It?",
+        description: "An honest look at Hoi An's luxury sunset cruise featuring a 5-course spice menu and cocktails.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if food quality is your priority as much as the sunset views — this cruise builds the evening around a proper 5-course spice-themed menu and cocktails, a genuine step up from a standard scenic river cruise.",
+            tourCard: { slug: "hoi-an-luxury-sunset-cruise-5-course-spice-menu-and-cocktails-ha-long", title: "Hoi An Luxury Sunset Cruise: 5-Course Spice Menu and Cocktails", description: "A luxury sunset cruise in Hoi An featuring a 5-course spice-themed menu and cocktails.", price: "From $104", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book the sunset time slot specifically, since the lighting and the multi-course meal are both timed to peak together.",
+          },
+        ],
+        faqs: [
+          { q: "Is the luxury sunset cruise with 5-course spice menu worth it in Hoi An?", a: "Yes, for travelers wanting a genuine upgrade in food quality alongside the standard river sunset cruise views." },
+        ],
+      };
+
+    case "is-golden-hands-bridge-my-son-worth-it-hoi-an":
+      return {
+        title: "Is the My Son Sanctuary and Golden Hands Bridge Private Tour Worth It?",
+        description: "An honest look at the private tour combining My Son Sanctuary with the Golden Hands Bridge.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want ancient history and a modern photogenic landmark in the same day — this pairs the Cham-era ruins of My Son Sanctuary with a visit to the striking Golden Hands Bridge, covering two very different eras of Vietnamese landmarks.",
+            tourCard: { slug: "my-son-sanctuary-and-golden-hands-bridge-private-tour", title: "My Son Sanctuary and Golden Hands Bridge Private Tour", description: "A private tour combining My Son Sanctuary with the Golden Hands Bridge.", price: "From $321", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The Golden Hands Bridge (at Ba Na Hills) involves cable car access, so factor in queue times during busier periods.",
+          },
+        ],
+        faqs: [
+          { q: "Is the My Son Sanctuary and Golden Hands Bridge tour worth it?", a: "Yes, for travelers wanting both ancient Cham-era history and a striking modern landmark covered in one day." },
+        ],
+      };
+
+    case "is-my-son-noodles-rice-paper-worth-it-hoi-an":
+      return {
+        title: "Is the My Son Sanctuary Tour with Noodles and Rice Paper Worth It?",
+        description: "An honest look at the My Son Sanctuary tour that includes a noodles and rice paper experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a culinary element added to the standard ruins visit — this tour pairs My Son Sanctuary's ancient Cham architecture with a hands-on noodle and rice paper-making experience, giving culture and food together rather than ruins alone.",
+            tourCard: { slug: "my-son-sanctuary-tour-with-noodles-and-rice-paper", title: "My Son Sanctuary Tour with Noodles and Rice Paper", description: "A My Son Sanctuary tour including a noodles and rice paper-making experience.", price: "From $144", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an appetite for the rice paper-making portion, since you'll typically get to eat what you make.",
+          },
+        ],
+        faqs: [
+          { q: "Is the My Son Sanctuary tour with noodles and rice paper worth it?", a: "Yes, for travelers wanting a hands-on culinary element added to the standard ancient ruins visit." },
+        ],
+      };
+
     default:
       return null;
   }

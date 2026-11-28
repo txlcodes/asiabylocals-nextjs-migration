@@ -3032,6 +3032,8 @@ export const HOI_AN_INFO_SLUGS = [
   'is-ky-anh-tunnel-cham-tower-worth-it-hoi-an', 'is-handicraft-wood-carving-workshop-worth-it-hoi-an',
   'is-thanh-ha-pottery-kim-bong-worth-it-hoi-an', 'is-cham-islands-scuba-diving-worth-it-hoi-an',
   'is-south-hoi-an-river-safari-worth-it-hoi-an',
+  'is-cham-island-dj-party-worth-it-hoi-an', 'is-luxury-sunset-cruise-spice-menu-worth-it-hoi-an',
+  'is-golden-hands-bridge-my-son-worth-it-hoi-an', 'is-my-son-noodles-rice-paper-worth-it-hoi-an',
 ];
 
 export const UBUD_INFO_SLUGS = [
