@@ -2357,6 +2357,8 @@ export const KANDY_INFO_SLUGS = [
   'is-kanawiddagala-yahangala-worth-it-kandy',
   'is-gombaniya-peak-hike-worth-it-kandy', 'is-tedo-7-waterfalls-hike-worth-it-kandy',
   'is-kitulgala-abseiling-worth-it-kandy', 'is-exclusive-knuckles-camping-worth-it-kandy',
+  'is-ayurvedic-wellness-tuktuk-worth-it-kandy', 'is-train-pool-club-day-tour-worth-it-kandy',
+  'is-hanthana-lizards-back-hike-worth-it-kandy', 'is-five-peaks-cloud-forest-worth-it-kandy',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/colomboInfoContent.ts.

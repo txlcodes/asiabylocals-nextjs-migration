@@ -1757,6 +1757,89 @@ export function getKandyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-ayurvedic-wellness-tuktuk-worth-it-kandy":
+      return {
+        title: "Is the Kandy Ayurvedic Wellness Tour by Tuk-Tuk Worth It?",
+        description: "An honest look at Kandy's Ayurvedic wellness tour, traveling by tuk-tuk between stops.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine traditional Sri Lankan wellness practices rather than a generic spa day — this tour covers Ayurvedic treatments and knowledge specifically, getting between stops by tuk-tuk for a more local, relaxed pace than a standard car tour.",
+            tourCard: { slug: "kandy-ayurvedic-wellness-tour-by-tuk-tuk", title: "Kandy: Ayurvedic Wellness Tour by Tuk-Tuk", description: "An Ayurvedic wellness tour in Kandy, traveling by tuk-tuk.", price: "From $240", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Mention any specific health concerns to your guide in advance, since genuine Ayurvedic consultations can be tailored to individual needs.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Ayurvedic wellness tour by tuk-tuk worth it in Kandy?", a: "Yes, for travelers wanting genuine traditional Sri Lankan wellness practices at a relaxed, local pace." },
+        ],
+      };
+
+    case "is-train-pool-club-day-tour-worth-it-kandy":
+      return {
+        title: "Is the Kandy Train and Pool Club Day Tour Worth It?",
+        description: "An honest look at Kandy's day tour combining a scenic train ride with a pool club visit.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want to pair scenic sightseeing with genuine relaxation — this combines a train ride through the hill country with time at a pool club, a far more laid-back day than Kandy's usual temple-and-hike circuit.",
+            tourCard: { slug: "from-kandy-train-and-pool-club-day-tour-with", title: "From kandy Train, and Pool Club Day Tour with Pickup", description: "A day tour combining a scenic train ride with a pool club visit from Kandy, with pickup included.", price: "From $254", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a swimsuit and towel for the pool club portion, and check the train schedule in advance since Sri Lanka's rail network runs limited departures.",
+          },
+        ],
+        faqs: [
+          { q: "Is the train and pool club day tour worth it in Kandy?", a: "Yes, for travelers wanting a relaxed mix of scenic train sightseeing and genuine downtime, distinct from the usual temple-and-hike pace." },
+        ],
+      };
+
+    case "is-hanthana-lizards-back-hike-worth-it-kandy":
+      return {
+        title: "Is the Kandy Hanthana Lizard's Back Hike Worth It?",
+        description: "An honest look at the Hanthana Lizard's Back ridge hike near Kandy.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for hikers wanting a genuinely close, lesser-known trek without traveling far from the city — Lizard's Back is a distinctive rocky ridge formation in the Hanthana range, offering real summit views within easy reach of Kandy.",
+            tourCard: { slug: "kandy-hanthana-lizards-back-hike", title: "Kandy: Hanthana Lizard's Back Hike", description: "A guided hike to the Lizard's Back ridge in the Hanthana range near Kandy.", price: "From $203", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The ridge's distinctive rock formation makes for a genuinely good photo spot, so bring a camera for the summit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Hanthana Lizard's Back hike worth it from Kandy?", a: "Yes, for hikers wanting a genuinely close, distinctive ridge hike without traveling far from the city." },
+        ],
+      };
+
+    case "is-five-peaks-cloud-forest-worth-it-kandy":
+      return {
+        title: "Is the Kandy Five Peaks Cloud Forest Adventure Worth It?",
+        description: "An honest look at Kandy's Five Peaks cloud forest adventure trek.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for hikers wanting genuine cloud forest scenery across multiple summits — this adventure covers five distinct peaks in a misty, high-altitude forest setting, a longer and more demanding trek than Kandy's shorter ridge hikes.",
+            tourCard: { slug: "kandy-five-peaks-cloud-forest-adventure", title: "Kandy: Five Peaks Cloud Forest Adventure", description: "A multi-peak cloud forest trek near Kandy.", price: "From $246", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack layers — cloud forest conditions mean genuinely cool, often misty weather even when Kandy itself is warm." },
+        ],
+        faqs: [
+          { q: "Is the Five Peaks cloud forest adventure worth it in Kandy?", a: "Yes, for hikers wanting a longer, more demanding trek across genuine multi-peak cloud forest terrain." }
+        ],
+      };
+
     default:
       return null;
   }
