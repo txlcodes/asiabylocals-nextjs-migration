@@ -2578,6 +2578,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-maskeliya-waterfalls-worth-it-colombo',
     'is-limousine-city-tour-worth-it-colombo', 'is-gem-mining-tour-worth-it-colombo',
     'is-japanese-speaking-driver-car-charter-worth-it-colombo', 'is-temple-of-the-rawan-tour-worth-it-colombo',
+    'is-bawa-trail-heritage-worth-it-colombo', 'is-bentota-paramotor-water-sports-worth-it-colombo',
+    'is-kitulgala-life-rescue-worth-it-colombo', 'is-weligama-surfing-galle-fort-worth-it-colombo',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/colombo/${slug}`,
     lastModified: new Date(),

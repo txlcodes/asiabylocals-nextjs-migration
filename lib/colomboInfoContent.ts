@@ -1921,6 +1921,90 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bawa-trail-heritage-worth-it-colombo":
+      return {
+        title: "Is the Colombo South Coast Creative Heritage Journey (Bawa Trail) Worth It?",
+        description: "An honest look at Colombo's South Coast journey following the Bawa Trail, tracing architect Geoffrey Bawa's work.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers with genuine interest in architecture and design — Geoffrey Bawa is Sri Lanka's most celebrated architect, and this trail traces his work and tropical modernist style along the south coast, a distinctly different angle from standard beach or temple sightseeing.",
+            tourCard: { slug: "colombo-south-coast-creative-heritage-journey", title: "Colombo: South Coast Creative Heritage Journey (Bawa Trail)", description: "A South Coast journey following the Bawa Trail, tracing architect Geoffrey Bawa's work.", price: "From $338", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide with genuine architecture knowledge adds real depth here — this is a design-focused day, not standard sightseeing.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bawa Trail creative heritage journey worth it from Colombo?", a: "Yes, for travelers with genuine interest in architecture and design, tracing Sri Lanka's most celebrated architect along the south coast." },
+        ],
+      };
+
+    case "is-bentota-paramotor-water-sports-worth-it-colombo":
+      return {
+        title: "Is the Bentota Water Sports & Paramotor Day Tour Worth It from Colombo?",
+        description: "An honest look at the Bentota water sports and paramotor day tour from Colombo.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want both sea and sky in one adrenaline-filled day — Bentota is already known for water sports, and adding a paramotor flight over the coastline gives a genuinely different aerial perspective most beach day tours don't include.",
+            tourCard: { slug: "from-colombo-bentota-water-sports-paramotor-day", title: "From Colombo: Bentota Water Sports & Paramotor Day Tour", description: "A combined water sports and paramotor flight day tour at Bentota from Colombo.", price: "From $338", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Paramotor flights are weather-dependent, so keep your schedule flexible around the booked slot in case conditions shift the flight.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bentota water sports and paramotor tour worth it from Colombo?", a: "Yes, for travelers wanting both sea-level water sports and an aerial paramotor flight combined in one day." },
+        ],
+      };
+
+    case "is-kitulgala-life-rescue-worth-it-colombo":
+      return {
+        title: "Is the Colombo to Kitulgala Water Rafting & Life Rescue Experience Worth It?",
+        description: "An honest look at the Kitulgala water rafting trip that includes a hands-on life rescue experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want genuine practical skills alongside the adventure — this pairs Kitulgala's standard white-water rafting with hands-on water rescue training, a distinctly educational addition most rafting trips don't offer.",
+            tourCard: { slug: "colombo-to-kitulgala-water-rafting-life-rescue", title: "Colombo to Kitulgala Water Rafting & Life Rescue Experience", description: "A Kitulgala water rafting trip combined with a hands-on life rescue experience from Colombo.", price: "From $338", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pay close attention during the rescue training portion — the skills taught are genuinely useful beyond just this one trip.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kitulgala rafting and life rescue experience worth it from Colombo?", a: "Yes, for travelers wanting genuine practical water rescue skills alongside standard white-water rafting." },
+        ],
+      };
+
+    case "is-weligama-surfing-galle-fort-worth-it-colombo":
+      return {
+        title: "Is the Colombo to Weligama Surfing and Galle Fort Visit Day Trip Worth It?",
+        description: "An honest look at the day trip combining surfing at Weligama with a Galle Fort visit from Colombo.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want both beginner-friendly surfing and colonial-era heritage in one day — Weligama is known for gentle, learnable waves, and pairing it with a Galle Fort visit gives a genuine mix of active beach time and historic sightseeing.",
+            tourCard: { slug: "colombo-to-weligama-surfing-and-galle-fort-visit", title: "Colombo to Weligama Surfing and Galle Fort Visit Day Trip", description: "A day trip combining surfing at Weligama with a Galle Fort visit from Colombo.", price: "From $427", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Weligama's gentle waves genuinely suit first-time surfers, so don't worry if you've never tried it before.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Weligama surfing and Galle Fort day trip worth it from Colombo?", a: "Yes, for travelers wanting a genuine mix of beginner-friendly surfing and colonial-era heritage sightseeing in one day." },
+        ],
+      };
+
     default:
       return null;
   }
