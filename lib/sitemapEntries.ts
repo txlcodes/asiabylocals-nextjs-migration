@@ -631,6 +631,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-laghman-cooking-class-worth-it-bukhara', 'is-somsa-home-cooking-class-worth-it-bukhara',
     'is-great-silk-route-tour-worth-it-bukhara', 'is-living-eastern-tale-tour-worth-it-bukhara',
     'is-nurata-horse-riding-village-worth-it-bukhara',
+    'is-soviet-bukhara-architecture-worth-it-bukhara', 'is-qurutob-cooking-class-worth-it-bukhara',
+    'is-chicken-kebab-cooking-class-worth-it-bukhara',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/bukhara/${slug}`,
     lastModified: new Date(),

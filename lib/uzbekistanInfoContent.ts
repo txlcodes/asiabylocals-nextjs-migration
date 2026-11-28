@@ -2192,6 +2192,48 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-soviet-bukhara-architecture-worth-it-bukhara":
+            return {
+                title: "Is Soviet Bukhara's Architecture & Lifestyle Tour Worth It?",
+                description: "An honest look at the tour covering Soviet-era architecture and lifestyle in Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers wanting a different historical era than Bukhara's famous Silk Road sites — this tour covers the Soviet-period architecture and daily-life history layered onto the ancient city, a genuinely different lens than the medieval madrasas and minarets.", tourCard: { slug: "soviet-bukharas-architecture-lifestyle", title: "Soviet Bukhara's Architecture & Lifestyle", description: "A tour covering Soviet-era architecture and lifestyle history in Bukhara.", price: "From $208", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Pair this with a standard Silk Road sightseeing day for a fuller picture of how the two eras sit side by side in the city." }
+                ],
+                faqs: [
+                    { q: "Is the Soviet Bukhara architecture and lifestyle tour worth it?", a: "Yes, for travelers wanting a genuinely different historical lens on Bukhara, beyond its famous medieval Silk Road sites." }
+                ],
+            };
+
+        case "is-qurutob-cooking-class-worth-it-bukhara":
+            return {
+                title: "Is the Bukhara Qurutob Cooking Class with Meal Worth It?",
+                description: "An honest look at Bukhara's hands-on qurutob cooking class in a local home.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to learn a genuinely traditional Uzbek dish rather than the more commonly taught plov — qurutob is a dried-yogurt and flatbread dish specific to the region, taught here hands-on in an actual local home.", tourCard: { slug: "bukhara-qurutob-cooking-class-with-meal-in-local", title: "Bukhara: Qurutob cooking class with meal in local home", description: "A hands-on qurutob cooking class with a meal in a local home in Bukhara.", price: "From $195", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Come with genuine curiosity about the host family's home and daily life, not just the recipe itself." }
+                ],
+                faqs: [
+                    { q: "Is the qurutob cooking class worth it in Bukhara?", a: "Yes, for travelers wanting to learn a genuinely traditional regional dish beyond the more commonly taught plov." }
+                ],
+            };
+
+        case "is-chicken-kebab-cooking-class-worth-it-bukhara":
+            return {
+                title: "Is the Bukhara Traditional Chicken Kebab Cooking Class Worth It?",
+                description: "An honest look at Bukhara's traditional chicken kebab cooking class with meal.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want to learn Uzbek-style grilling specifically — this hands-on class teaches traditional chicken kebab preparation and cooking technique, distinct from the more commonly offered plov or bread-making classes.", tourCard: { slug: "bukhara-traditional-chicken-kebab-cooking-class", title: "Bukhara: Traditional Chicken Kebab Cooking Class with Meal", description: "A hands-on traditional chicken kebab cooking class with meal in Bukhara.", price: "From $195", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Expect genuine grilling and hands-on skewer work, not just watching a chef prepare the dish." }
+                ],
+                faqs: [
+                    { q: "Is the chicken kebab cooking class worth it in Bukhara?", a: "Yes, for travelers wanting to learn traditional Uzbek grilling technique, distinct from the more common plov or bread classes." }
+                ],
+            };
+
         default:
             return null;
     }
