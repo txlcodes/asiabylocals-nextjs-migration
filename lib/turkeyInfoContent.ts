@@ -2268,6 +2268,107 @@ export function getTurkeyInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-instagram-tour-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Instagram Tour Worth It?",
+        description: "An honest look at Istanbul's Instagram tour, a private all-inclusive route built around the city's most photogenic spots.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77620040023be5bb.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This genuinely prioritizes photo-worthy locations and timing over comprehensive historical coverage, worth it specifically for travelers whose main goal is a strong set of photos rather than a deep cultural tour.",
+            tourCard: { slug: "istanbul-instagram-tour-top-spots-private-all", title: "Istanbul Instagram Tour: Top Spots (Private & All-Inclusive)", description: "A private, all-inclusive tour of Istanbul's most photogenic Instagram spots.", price: "From $593", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/77620040023be5bb.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for golden hour timing if possible, since the lighting genuinely makes a big difference to the final photos.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Istanbul Instagram tour worth it?", a: "Yes, specifically for travelers prioritizing a strong set of photos over comprehensive historical depth." },
+        ],
+      };
+
+    case "is-roman-era-walking-tour-worth-it-istanbul":
+      return {
+        title: "Is the Roman Era Walking Tour Worth It in Istanbul?",
+        description: "An honest look at Istanbul's private Roman Era walking tour, tracing the city's history as Byzantium and early Constantinople.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fd8a9a072954d0529416dd7a2aacfbb6f5a6bcce0d75481f8b87de16721fd6af.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Tracing the city's Roman-era history as Byzantium gives genuine depth on a period most standard Istanbul tours skip over in favor of Ottoman-era sites, worth it for travelers with a specific interest in ancient and early Roman history.",
+            tourCard: { slug: "istanbul-roman-era-walking-tour-private", title: "Istanbul: Roman Era Walking Tour (Private)", description: "A private walking tour of Istanbul's Roman era history.", price: "From $581", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/fd8a9a072954d0529416dd7a2aacfbb6f5a6bcce0d75481f8b87de16721fd6af.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with genuine interest in ancient history — the appeal here is historical depth rather than visual spectacle." },
+        ],
+        faqs: [
+          { q: "Is the Roman Era walking tour worth it in Istanbul?", a: "Yes, for travelers with a specific interest in the city's Byzantium-era history, a period most standard tours skip over." },
+        ],
+      };
+
+    case "is-ottoman-empire-tour-worth-it-istanbul":
+      return {
+        title: "Is the Istanbul Ottoman Empire Tour Worth It?",
+        description: "An honest look at the private, all-inclusive Ottoman Empire tour in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec9d79734bf9b9f4.png",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives a genuinely focused look at Ottoman imperial history and architecture, rather than spreading across the city's full multi-era history, worth it for travelers specifically interested in the Ottoman period.",
+            tourCard: { slug: "istanbul-ottoman-empire-tour-private-all-inclusive", title: "Istanbul Ottoman Empire Tour (Private & All-Inclusive)", description: "A private, all-inclusive tour focused on Istanbul's Ottoman Empire history.", price: "From $610", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ec9d79734bf9b9f4.png" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm which specific Ottoman-era sites are included, since coverage can vary between similarly named tours." },
+        ],
+        faqs: [
+          { q: "Is the Ottoman Empire tour worth it in Istanbul?", a: "Yes, for travelers specifically interested in Ottoman imperial history, with a genuinely focused itinerary rather than a broad multi-era overview." },
+        ],
+      };
+
+    case "is-byzantine-heritage-walking-tour-worth-it-istanbul":
+      return {
+        title: "Is the Private Historic Byzantine Heritage Walking Tour Worth It in Istanbul?",
+        description: "An honest look at Istanbul's private Byzantine heritage walking tour, exploring the city's imperial Byzantine past.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f03583c21790f1d2a2d078e5672889ead85b06297ffe21976ae63d97057b40bc.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives genuine depth on Istanbul's centuries as the Byzantine capital, a history often overshadowed by the city's Ottoman-era sites, worth it for travelers wanting a complete picture of the city's layered past.",
+            tourCard: { slug: "private-historic-byzantine-heritage-walking-tour", title: "Private Historic Byzantine Heritage Walking Tour", description: "A private walking tour of Istanbul's Byzantine heritage.", price: "From $1281", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/f03583c21790f1d2a2d078e5672889ead85b06297ffe21976ae63d97057b40bc.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pair this with the Roman Era walking tour if you want a genuinely complete picture of the city's ancient and medieval history." },
+        ],
+        faqs: [
+          { q: "Is the Byzantine heritage walking tour worth it in Istanbul?", a: "Yes, for travelers wanting genuine depth on the city's Byzantine imperial past, often overshadowed by its Ottoman-era sites." },
+        ],
+      };
+
+    case "is-golden-horn-bosphorus-cruise-worth-it-istanbul":
+      return {
+        title: "Is the Golden Horn and Bosphorus Day Cruise Worth It in Istanbul?",
+        description: "An honest look at the all-inclusive Golden Horn and Bosphorus day cruise in Istanbul.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5167d7207139c.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Covering both the Golden Horn and the full Bosphorus in one all-inclusive day cruise gives genuinely more comprehensive water coverage than a standard shorter Bosphorus cruise, worth it for travelers wanting the complete waterway experience in one booking.",
+            tourCard: { slug: "istanbul-golden-horn-bosphorus-day-cruise-all", title: "Istanbul Golden Horn & Bosphorus Day Cruise All-Inclusive", description: "An all-inclusive day cruise covering the Golden Horn and Bosphorus in Istanbul.", price: "From $786", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5167d7207139c.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring sun protection for the extended time on open water across a genuinely full day on the cruise." },
+        ],
+        faqs: [
+          { q: "Is the Golden Horn and Bosphorus day cruise worth it in Istanbul?", a: "Yes, for travelers wanting genuinely comprehensive coverage of both waterways in one all-inclusive booking." },
+        ],
+      };
+
     default:
       return null;
   }
