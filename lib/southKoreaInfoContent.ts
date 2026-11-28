@@ -2753,6 +2753,62 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-k-drama-couple-photoshoot-worth-it-seoul":
+      return {
+        title: "Is the K-Drama Style Couple Photoshoot Worth It in Seoul?",
+        description: "An honest look at Seoul's 1-hour K-drama style couple photoshoot experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/67597224797ee70b193aaa3d480f52dcb7f01599fddc5a227ec4b0b01b2fc42f.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you and your partner are genuine K-drama fans wanting a memorable souvenir — a dedicated photoshoot styled after Korean drama aesthetics gives a far more polished result than casual phone photos around the city.", tourCard: { slug: "seoul-k-drama-style-couple-photoshoot", title: "Seoul: K-Drama Style Couple Photoshoot", description: "A 1-hour K-drama style couple photoshoot experience in Seoul.", price: "From $534", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/67597224797ee70b193aaa3d480f52dcb7f01599fddc5a227ec4b0b01b2fc42f.jpg" } },
+          { title: "Practical Tips", content: "Coordinate outfits in advance with the studio if you want a specific K-drama look, since styling options vary by package." },
+        ],
+        faqs: [
+          { q: "Is the K-drama style couple photoshoot worth it in Seoul?", a: "Yes, for genuine K-drama fans wanting a polished, memorable photoshoot souvenir with their partner." },
+        ],
+      };
+
+    case "is-incheon-luge-rail-bike-ferry-worth-it-seoul":
+      return {
+        title: "Are the Incheon Highlights with Luge Park, Rail Bike & Ferry Worth It from Seoul?",
+        description: "An honest look at the full-day Incheon highlights tour from Seoul featuring a luge ride, rail bike, and ferry.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dfda98568ae2cedd3f537aaae4141763158a7c0c8e1e27050733604453e4fd7b.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want a genuinely varied active day outside Seoul — combining an optional luge ride through forested coastal tracks, a scenic rail bike, and a ferry crossing gives three distinct activities most Seoul day trips don't pack into one outing.", tourCard: { slug: "incheon-highlights-from-seoul-luge-park-rail-bike", title: "Incheon Highlights from Seoul: Luge Park, Rail Bike & Ferry", description: "A full-day Incheon highlights tour from Seoul featuring a luge ride, rail bike, and ferry.", price: "From $533", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/dfda98568ae2cedd3f537aaae4141763158a7c0c8e1e27050733604453e4fd7b.jpg" } },
+          { title: "Practical Tips", content: "Confirm which activities are included versus optional add-ons before booking, since the luge ride is noted as optional on this tour." },
+        ],
+        faqs: [
+          { q: "Is the Incheon luge park, rail bike, and ferry tour worth it from Seoul?", a: "Yes, for travelers wanting a genuinely varied active day combining three distinct activities outside Seoul." },
+        ],
+      };
+
+    case "is-marseille-of-korea-french-guide-tour-worth-it-busan":
+      return {
+        title: "Is the 'Marseille of Korea' Busan Private Tour with French Guide Worth It?",
+        description: "An honest look at the full-day private Busan tour with a French-speaking guide, framed around Busan's 'Marseille of Korea' nickname.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ddfb165386e4172db3996e81bffe2be1a225d4bdc4df41d63a385b2962ce73f1.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, specifically for French-speaking travelers — removing the language barrier for a full day of sightseeing matters more than the port-city comparison itself, and a dedicated French guide genuinely improves the experience over a generic English tour.", tourCard: { slug: "marseille-of-korea-busan-private-tour-with-french", title: "\"Marseille of Korea\" Busan Private Tour with French Guide", description: "A full-day private Busan tour with a French-speaking guide.", price: "From $595", duration: "7 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ddfb165386e4172db3996e81bffe2be1a225d4bdc4df41d63a385b2962ce73f1.jpg" } },
+          { title: "Practical Tips", content: "Confirm your guide's specific French fluency level in advance if precise, nuanced explanations matter to you." },
+        ],
+        faqs: [
+          { q: "Is the Busan tour with a French guide worth it?", a: "Yes, for French-speaking travelers wanting a full day of Busan sightseeing without a language barrier." },
+        ],
+      };
+
+    case "is-temple-spa-immersive-art-journey-worth-it-busan":
+      return {
+        title: "Is the Private Full-Day Temple, Spa & Immersive Art Journey Worth It in Busan?",
+        description: "An honest look at Busan's full-day private tour combining Beomeosa Temple, a spa visit, and immersive art.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c111ac9424cd993507a32245644ae988a2df644c240a55b41ced4c48b4341b08.png",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want a genuinely well-rounded day mixing culture, relaxation, and art — pairing Beomeosa Temple with a spa visit and the Oryukdo Skywalk gives real variety between calm temple grounds, wellness time, and a scenic coastal walk.", tourCard: { slug: "busan-private-full-day-temple-spa-immersive-art", title: "Busan: Private Full-Day Temple, Spa & Immersive Art Journey", description: "A full-day private tour combining Beomeosa Temple, a spa visit, and immersive art in Busan.", price: "From $519", duration: "8 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c111ac9424cd993507a32245644ae988a2df644c240a55b41ced4c48b4341b08.png" } },
+          { title: "Practical Tips", content: "Bring a swimsuit and sandals for the spa portion of the day, since Korean jjimjilbang-style spas have specific bathing requirements." },
+        ],
+        faqs: [
+          { q: "Is the temple, spa, and immersive art journey worth it in Busan?", a: "Yes, for travelers wanting a well-rounded day mixing temple culture, spa relaxation, and scenic coastal sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }

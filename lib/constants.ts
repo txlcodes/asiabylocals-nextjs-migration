@@ -1448,6 +1448,7 @@ export const SEOUL_INFO_SLUGS = [
   'is-dmz-military-expert-tour-worth-it-seoul', 'is-exhibition-interpreter-service-worth-it-seoul',
   'is-dmz-veteran-guide-tour-worth-it-seoul', 'is-north-korea-spy-commando-dmz-worth-it-seoul',
   'is-sleep-no-more-seoul-worth-it-seoul', 'is-chilli-paste-ginseng-liquor-worth-it-seoul',
+  'is-k-drama-couple-photoshoot-worth-it-seoul', 'is-incheon-luge-rail-bike-ferry-worth-it-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
@@ -1586,6 +1587,7 @@ export const BUSAN_INFO_SLUGS = [
   'is-bongnaesan-hiking-worth-it-busan', 'is-kdrama-pet-cafe-tour-worth-it-busan',
   'is-personal-color-analysis-worth-it-busan', 'is-blue-line-capsule-yacht-worth-it-busan',
   'is-tongdosa-gourmet-tour-worth-it-busan',
+  'is-marseille-of-korea-french-guide-tour-worth-it-busan', 'is-temple-spa-immersive-art-journey-worth-it-busan',
 ];
 
 // Philippines launched 2026-10 with 677 live tours (Manila 213, Cebu 464) and

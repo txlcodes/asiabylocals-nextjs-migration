@@ -411,6 +411,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-dmz-military-expert-tour-worth-it-seoul', 'is-exhibition-interpreter-service-worth-it-seoul',
     'is-dmz-veteran-guide-tour-worth-it-seoul', 'is-north-korea-spy-commando-dmz-worth-it-seoul',
     'is-sleep-no-more-seoul-worth-it-seoul', 'is-chilli-paste-ginseng-liquor-worth-it-seoul',
+    'is-k-drama-couple-photoshoot-worth-it-seoul', 'is-incheon-luge-rail-bike-ferry-worth-it-seoul',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/seoul/${slug}`,
     lastModified: new Date(),
@@ -440,6 +441,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-bongnaesan-hiking-worth-it-busan', 'is-kdrama-pet-cafe-tour-worth-it-busan',
     'is-personal-color-analysis-worth-it-busan', 'is-blue-line-capsule-yacht-worth-it-busan',
     'is-tongdosa-gourmet-tour-worth-it-busan',
+    'is-marseille-of-korea-french-guide-tour-worth-it-busan', 'is-temple-spa-immersive-art-journey-worth-it-busan',
   ].map(slug => ({
     url: `${BASE_URL}/south-korea/busan/${slug}`,
     lastModified: new Date(),
