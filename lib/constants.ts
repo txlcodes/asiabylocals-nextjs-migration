@@ -2136,6 +2136,9 @@ export const NUWARA_ELIYA_INFO_SLUGS = [
   'is-tea-field-cycling-worth-it-nuwara-eliya', 'is-ramboda-waterfall-tuk-tuk-tour-worth-it-nuwara-eliya',
   'is-pekoe-trail-stage11-worth-it-nuwara-eliya', 'is-kandy-ambuluwawa-fullday-worth-it-nuwara-eliya',
   'is-belihuloya-safari-nature-worth-it-nuwara-eliya', 'is-negombo-transfer-kitulgala-rafting-worth-it-nuwara-eliya',
+  'is-sita-eliya-cave-temple-worth-it-nuwara-eliya', 'is-horse-riding-worth-it-nuwara-eliya',
+  'is-horton-plains-strawberry-ambewela-worth-it-nuwara-eliya', 'is-bakers-bend-worth-it-nuwara-eliya',
+  'is-adams-peak-summit-bliss-worth-it-nuwara-eliya',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/bentotaInfoContent.ts.

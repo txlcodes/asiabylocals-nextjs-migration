@@ -642,6 +642,106 @@ export function getNuwaraEliyaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-sita-eliya-cave-temple-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Sita Eliya Cave and Temple Tour Worth It in Nuwara Eliya?",
+        description: "An honest look at the Sita Eliya cave and temple tour, a site tied to the Ramayana epic near Nuwara Eliya.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1309804/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Sita Eliya is genuinely one of the sites associated with the Ramayana epic, giving real mythological and religious significance beyond Nuwara Eliya's usual tea estate and waterfall sightseeing, worth it for travelers with an interest in Hindu epic history.",
+            tourCard: { slug: "nuwara-eliya-sita-eliya-cave-and-temple-tour", title: "Nuwara Eliya: Sita Eliya Cave and Temple Tour", description: "A tour of the Sita Eliya cave and temple site near Nuwara Eliya.", price: "From $2996", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1309804/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Read up on the Ramayana connection beforehand — the site's significance genuinely means more with that context in mind." },
+        ],
+        faqs: [
+          { q: "Is the Sita Eliya cave and temple tour worth it in Nuwara Eliya?", a: "Yes, for travelers genuinely interested in the Ramayana epic's connection to Sri Lanka, beyond the area's usual tea and waterfall sightseeing." }
+        ],
+      };
+
+    case "is-horse-riding-worth-it-nuwara-eliya":
+      return {
+        title: "Is Horse Riding Worth It in Nuwara Eliya?",
+        description: "An honest look at horse riding in Nuwara Eliya, a scenic land-based activity amid the hill country's cooler climate.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-479453/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding through Nuwara Eliya's cool hill-country scenery gives a genuinely pleasant change of pace from the area's tea factory and waterfall tours, worth it for travelers wanting a relaxed outdoor activity suited to the area's cooler climate.",
+            tourCard: { slug: "horse-riding-in-nuwara-eliya", title: "Horse Riding in Nuwara Eliya", description: "A horse riding experience in the hill country of Nuwara Eliya.", price: "From $154", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-479453/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Pack a light jacket — Nuwara Eliya's cooler mountain air genuinely makes riding more comfortable than in lowland Sri Lanka." },
+        ],
+        faqs: [
+          { q: "Is horse riding worth it in Nuwara Eliya?", a: "Yes, for a genuinely pleasant, relaxed activity that suits the area's cool hill-country climate, a nice change from tea factory tours." }
+        ],
+      };
+
+    case "is-horton-plains-strawberry-ambewela-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Horton Plains, Strawberry and Ambewela Farm Tuk-Tuk Tour Worth It?",
+        description: "An honest look at the Nuwara Eliya tuk-tuk tour combining Horton Plains, strawberry picking, and Ambewela Farm.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-908558/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Combining Horton Plains scenery with strawberry picking and a working farm visit gives a genuinely varied, family-friendly day, worth it for travelers wanting hands-on activity alongside the area's famous hiking destination.",
+            tourCard: { slug: "nuwara-eliya-to-horton-plains-strawberry-ambewela", title: "Nuwara Eliya to Horton Plains, Strawberry & Ambewela Farm Tuk Tuk", description: "A tuk-tuk tour combining Horton Plains, strawberry picking, and Ambewela Farm.", price: "From $46", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-908558/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely good pick for families with kids, since strawberry picking and the farm visit add hands-on appeal beyond scenic viewpoints." },
+        ],
+        faqs: [
+          { q: "Is the Horton Plains, strawberry and Ambewela Farm tuk-tuk tour worth it?", a: "Yes, for travelers wanting a genuinely varied, family-friendly day combining scenery with hands-on farm activities." }
+        ],
+      };
+
+    case "is-bakers-bend-worth-it-nuwara-eliya":
+      return {
+        title: "Is Baker's Bend Worth It as a Day Trip from Nuwara Eliya?",
+        description: "An honest look at the Nuwara Eliya to Baker's Bend adventure day tour, a lesser-known scenic spot in the hill country.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294089/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Baker's Bend is genuinely far less visited than Nuwara Eliya's famous tea estates and Horton Plains, giving a quieter adventure day trip for travelers who've already covered the main hill-country sights.",
+            tourCard: { slug: "nuwara-eliya-to-bakers-bend-adventure-day-tour", title: "Nuwara Eliya to Baker's Bend Adventure Day Tour", description: "An adventure day tour to Baker's Bend from Nuwara Eliya.", price: "From $220", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1294089/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with flexible expectations, since the appeal here is genuinely the quiet and lesser-known setting rather than a famous landmark." },
+        ],
+        faqs: [
+          { q: "Is Baker's Bend worth it as a day trip from Nuwara Eliya?", a: "Yes, for travelers who've already seen the main hill-country sights and want a genuinely quieter, less crowded spot." }
+        ],
+      };
+
+    case "is-adams-peak-summit-bliss-worth-it-nuwara-eliya":
+      return {
+        title: "Is the Summit Bliss Adam's Peak Guided Hike Worth It from Nuwara Eliya?",
+        description: "An honest look at the guided Adam's Peak hike from Nuwara Eliya, a pilgrimage climb to one of Sri Lanka's most sacred summits.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-559483/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Adam's Peak is genuinely one of Sri Lanka's most sacred pilgrimage climbs, and a guided hike with proper timing gives real odds of reaching the summit for a memorable sunrise, worth it for travelers prepared for a demanding overnight climb.",
+            tourCard: { slug: "from-nuwara-eliya-summit-bliss-adams-peak-guided", title: "From Nuwara Eliya: Summit Bliss, Adam's Peak Guided Hike", description: "A guided hike up Adam's Peak from Nuwara Eliya.", price: "From $322", duration: "Overnight", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-559483/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuinely thousands of steps and a predawn start — proper footwear and fitness matter more here than on most day hikes." },
+        ],
+        faqs: [
+          { q: "Is the Summit Bliss Adam's Peak hike worth it from Nuwara Eliya?", a: "Yes, for travelers prepared for a demanding overnight climb, with real odds of a memorable sacred sunrise at the summit." }
+        ],
+      };
+
     default:
       return null;
   }
