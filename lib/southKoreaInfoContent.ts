@@ -2697,6 +2697,62 @@ export function getSouthKoreaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-dmz-veteran-guide-tour-worth-it-seoul":
+      return {
+        title: "Is the Seoul Private DMZ Tour with a Veteran Who Served There Worth It?",
+        description: "An honest look at Seoul's DMZ tour led by a veteran who actually served at the Korean DMZ.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if firsthand military perspective matters to you — this DMZ tour is guided by someone who actually served at the border, giving genuine personal accounts and tactical context that a standard tour guide simply can't match.", tourCard: { slug: "seoul-private-dmz-tour-with-a-veteran-who-served", title: "Seoul: Private DMZ Tour with a Veteran Who Served There", description: "A private DMZ tour from Seoul led by a veteran who served at the border.", price: "From $273", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Bring your passport — it's required for DMZ access regardless of which guide you book." },
+        ],
+        faqs: [
+          { q: "Is the veteran-guided DMZ tour worth it in Seoul?", a: "Yes, for travelers wanting genuine firsthand military perspective and personal accounts beyond a standard guide's explanation." },
+        ],
+      };
+
+    case "is-north-korea-spy-commando-dmz-worth-it-seoul":
+      return {
+        title: "Is the North Korea Spy Commando Invasion DMZ Tour Worth It from ICN Airport?",
+        description: "An honest look at the DMZ tour from Incheon Airport themed around the North Korean spy commando invasion history.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for Korean War and Cold War history enthusiasts specifically — this tour is framed around a real historical event, North Korean commando infiltration attempts, giving a specific narrative thread rather than a general DMZ overview.", tourCard: { slug: "north-korea-spy-commando-invasion-dmz-tour-from", title: "North Korea Spy Commando Invasion DMZ Tour from ICN Airport", description: "A DMZ tour from Incheon Airport themed around North Korean spy commando infiltration history.", price: "From $325", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "This works well as a layover activity direct from Incheon Airport, so confirm timing fits your connection." },
+        ],
+        faqs: [
+          { q: "Is the spy commando invasion DMZ tour worth it from Incheon Airport?", a: "Yes, for history enthusiasts wanting a specific, narrative-driven angle on the DMZ rather than a general overview." },
+        ],
+      };
+
+    case "is-sleep-no-more-seoul-worth-it-seoul":
+      return {
+        title: "Is the Sleep No More Seoul Entry Ticket Worth It?",
+        description: "An honest look at Seoul's immersive theater experience, Sleep No More.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for theater enthusiasts wanting something genuinely different from standard sightseeing — Sleep No More is an immersive theater experience where you walk through sets and interact with the performance, a distinctive evening activity beyond Seoul's usual palace and market circuit.", tourCard: { slug: "sleep-no-more-seoul-entry-ticket", title: "Sleep No More Seoul Entry Ticket", description: "An entry ticket to Seoul's immersive theater experience, Sleep No More.", price: "From $260", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+          { title: "Practical Tips", content: "Immersive theater rewards active exploration — wander and interact rather than standing in one spot watching passively." },
+        ],
+        faqs: [
+          { q: "Is Sleep No More worth it in Seoul?", a: "Yes, for theater enthusiasts wanting a genuinely immersive, interactive evening distinct from standard sightseeing." },
+        ],
+      };
+
+    case "is-chilli-paste-ginseng-liquor-worth-it-seoul":
+      return {
+        title: "Is the Seoul Make Your Own Chilli Paste & Ginseng Liquor Tour Worth It?",
+        description: "An honest look at Seoul's hands-on workshop making traditional chilli paste and ginseng liquor.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want practical, take-home Korean pantry staples rather than a one-off tasting — this teaches you to make your own gochujang-style chilli paste and ginseng liquor hands-on, giving genuine edible souvenirs from the workshop.", tourCard: { slug: "from-seoul-make-your-own-chilli-paste-ginseng", title: "From Seoul: Make Your Own Chilli Paste & Ginseng Liquor Tour", description: "A hands-on workshop making traditional chilli paste and ginseng liquor from Seoul.", price: "From $396", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+          { title: "Practical Tips", content: "Check how your finished chilli paste and liquor are packaged for travel, especially if you're flying internationally afterward." },
+        ],
+        faqs: [
+          { q: "Is the chilli paste and ginseng liquor workshop worth it from Seoul?", a: "Yes, for travelers wanting genuine, practical Korean pantry staples to take home rather than just a tasting." },
+        ],
+      };
+
     default:
       return null;
   }

@@ -1416,6 +1416,8 @@ export const SEOUL_INFO_SLUGS = [
   'is-street-food-sashimi-dinner-worth-it-seoul',
   'is-kpop-debut-song-recording-worth-it-seoul', 'is-vip-russian-guide-tour-worth-it-seoul',
   'is-dmz-military-expert-tour-worth-it-seoul', 'is-exhibition-interpreter-service-worth-it-seoul',
+  'is-dmz-veteran-guide-tour-worth-it-seoul', 'is-north-korea-spy-commando-dmz-worth-it-seoul',
+  'is-sleep-no-more-seoul-worth-it-seoul', 'is-chilli-paste-ginseng-liquor-worth-it-seoul',
 ];
 
 // Turkey launched 2026-10 with 687 live tours (single city: Istanbul) and
