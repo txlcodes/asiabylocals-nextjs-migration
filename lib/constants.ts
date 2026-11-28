@@ -2935,6 +2935,8 @@ export const HANOI_INFO_SLUGS = [
   'is-tam-chuc-pagoda-worth-it-hanoi', 'is-paragliding-worth-it-hanoi',
   'is-michelin-restaurant-worth-it-hanoi', 'is-beer-bath-massage-worth-it-hanoi',
   'is-cucphuong-wildlife-worth-it-hanoi',
+  'is-knife-making-blacksmith-village-worth-it-hanoi', 'is-silver-jewelry-making-workshop-worth-it-hanoi',
+  'is-leather-notebook-making-workshop-worth-it-hanoi', 'is-halal-food-train-street-tour-worth-it-hanoi',
 ];
 
 export const SAPA_INFO_SLUGS = [

@@ -1480,6 +1480,90 @@ export function getHanoiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-knife-making-blacksmith-village-worth-it-hanoi":
+      return {
+        title: "Is the Hanoi Knife Making in a Blacksmith Village Workshop Worth It?",
+        description: "An honest look at Hanoi's hands-on knife-making workshop in a traditional blacksmith village.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely hands-on craft experience rather than another cooking class — this takes you into a traditional blacksmith village to actually forge your own knife, a distinctive activity with a real functional souvenir at the end.",
+            tourCard: { slug: "knife-making-in-blacksmith-village-in-hanoi-by-local-operator", title: "Knife Making in Blacksmith Village in Hanoi", description: "A hands-on knife-making workshop in a traditional blacksmith village near Hanoi.", price: "From $70", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Wear closed-toe shoes and clothes you don't mind getting a bit dirty — this is a genuine forge workshop, not a sanitized demonstration.",
+          },
+        ],
+        faqs: [
+          { q: "Is the knife-making blacksmith village workshop worth it in Hanoi?", a: "Yes, for travelers wanting a genuinely hands-on craft experience with a functional souvenir, distinct from Hanoi's usual cooking classes." },
+        ],
+      };
+
+    case "is-silver-jewelry-making-workshop-worth-it-hanoi":
+      return {
+        title: "Is the Hanoi Silver Jewelry-Making Workshop Worth It?",
+        description: "An honest look at Hanoi's hands-on silver jewelry-making workshop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a wearable souvenir you genuinely made yourself — this workshop teaches traditional silversmithing techniques to craft your own piece of jewelry, a distinctive alternative to buying silver from a shop.",
+            tourCard: { slug: "silver-jewelry-making-workshop-in-hanoi", title: "Silver Jewelry-Making Workshop in Hanoi", description: "A hands-on silver jewelry-making workshop in Hanoi.", price: "From $65", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuine hands-on time with tools and metal — allow extra time if you want to craft a more detailed design rather than a simple piece.",
+          },
+        ],
+        faqs: [
+          { q: "Is the silver jewelry-making workshop worth it in Hanoi?", a: "Yes, for travelers wanting a genuinely wearable souvenir they crafted themselves using traditional silversmithing techniques." },
+        ],
+      };
+
+    case "is-leather-notebook-making-workshop-worth-it-hanoi":
+      return {
+        title: "Is the Hanoi Leather Notebook Making Workshop Worth It?",
+        description: "An honest look at Hanoi's hands-on leather notebook-making workshop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if a practical, long-lasting souvenir appeals more than a typical trinket — this workshop walks you through crafting your own leather-bound notebook or journal from start to finish, something you'll actually use after the trip.",
+            tourCard: { slug: "leather-notebook-making-workshop-craft-your-journal-in-hanoi", title: "Leather Notebook Making Workshop – Craft Your Journal in Hanoi", description: "A hands-on leather notebook-making workshop in Hanoi.", price: "From $65", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Consider using the notebook itself as a travel journal for the rest of your trip, giving the souvenir an immediate practical purpose.",
+          },
+        ],
+        faqs: [
+          { q: "Is the leather notebook making workshop worth it in Hanoi?", a: "Yes, for travelers wanting a genuinely practical, long-lasting souvenir they crafted themselves." },
+        ],
+      };
+
+    case "is-halal-food-train-street-tour-worth-it-hanoi":
+      return {
+        title: "Is the Hanoi Authentic Halal Food Tour and Train Street Experience Worth It?",
+        description: "An honest look at Hanoi's authentic halal food tour combined with the Train Street experience.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, specifically for Muslim travelers who want to try Hanoi's street food without worrying about dietary restrictions — this tour curates genuinely halal options while also taking in the famous Train Street, covering food and sightseeing in one trip.",
+            tourCard: { slug: "authentic-halal-food-tour-and-train-street-experience-in-hanoi", title: "Authentic Halal Food Tour and Train Street Experience in Hanoi", description: "A halal street food tour combined with the Train Street experience in Hanoi.", price: "From $99", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Train Street's schedule depends on actual train timings, so confirm with your guide whether the itinerary lines up with a train passing through during your visit.",
+          },
+        ],
+        faqs: [
+          { q: "Is the halal food tour and Train Street experience worth it in Hanoi?", a: "Yes, especially for Muslim travelers wanting curated halal street food alongside Hanoi's famous Train Street sightseeing." },
+        ],
+      };
+
     default:
       return null;
   }
