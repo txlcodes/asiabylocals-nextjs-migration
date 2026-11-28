@@ -1215,6 +1215,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-paragliding-worth-it-tel-aviv', 'is-private-bike-tour-worth-it-tel-aviv',
     'is-sunset-art-wine-beach-worth-it-tel-aviv', 'is-art-museum-habima-tour-worth-it-tel-aviv',
     'is-anu-palmach-museum-tour-worth-it-tel-aviv', 'is-nazareth-cana-galilee-tour-worth-it-tel-aviv',
+    'is-highlights-beach-rothschild-dizengoff-worth-it-tel-aviv', 'is-mount-tabor-beit-shean-yardenit-worth-it-tel-aviv',
   ], 'israel', 'tel-aviv');
   const thimphuInfoPages = mapInfoSlugs([
     'best-3-day-bhutan-tour-thimphu', 'best-4-day-bhutan-tour-thimphu',

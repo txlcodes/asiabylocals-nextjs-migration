@@ -864,6 +864,34 @@ export function getIsraelInfoContent(slug: string): CityInfoData | null {
                 ] },
             };
 
+        case "is-highlights-beach-rothschild-dizengoff-worth-it-tel-aviv":
+            return {
+                title: "Is the Tel Aviv Highlights, Beach, Rothschild & Dizengoff Tour Worth It?",
+                description: "An honest look at the short walking tour covering Tel Aviv's beach, Rothschild Boulevard, and Dizengoff Street.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea361627cf246121.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a quick, local-led orientation to the city rather than a full-day commitment — covering the beach, Rothschild Boulevard, and Dizengoff Street in 90 minutes gives genuine neighborhood context without eating into your whole day.", tourCard: { slug: "tel-aviv-highlights-beach-rothschild-dizengoff", title: "Tel Aviv: Highlights Beach Rothschild & Dizengoff", description: "A short walking tour covering Tel Aviv's beach, Rothschild Boulevard, and Dizengoff Street.", price: "From $130", duration: "1.5 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/ea361627cf246121.jpeg" } },
+                    { title: "Practical Tips", content: "A good first-day pick to orient yourself before exploring Tel Aviv's neighborhoods further on your own." },
+                ],
+                faqs: [
+                    { q: "Is the Tel Aviv highlights, beach, and boulevard tour worth it?", a: "Yes, for travelers wanting a quick, local-led city orientation without a full-day commitment." },
+                ],
+            };
+
+        case "is-mount-tabor-beit-shean-yardenit-worth-it-tel-aviv":
+            return {
+                title: "Is the Mount Tabor, Beit She'an and Yardenit Baptismal Site Tour Worth It from Tel Aviv?",
+                description: "An honest look at the full-day tour covering Mount Tabor, Beit She'an, and the Yardenit baptismal site from Tel Aviv.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e81cd1a773f4495571e26eccdb7cb9998e8bf52a72a310c99dd137f87a396d9d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for travelers with specific interest in biblical and archaeological sites beyond Jerusalem — Mount Tabor's biblical significance, Beit She'an's extensive Roman ruins, and the Yardenit baptismal site on the Jordan River together cover genuinely distinct ground in northern Israel.", tourCard: { slug: "mount-tabor-beit-shean-and-yardenit-baptismal", title: "Mount Tabor, Beit She'an and Yardenit Baptismal Site Tour", description: "A full-day tour covering Mount Tabor, Beit She'an, and the Yardenit baptismal site from Tel Aviv.", price: "From $384", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e81cd1a773f4495571e26eccdb7cb9998e8bf52a72a310c99dd137f87a396d9d.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a change of clothes if you plan to participate in a baptism ceremony at Yardenit, since many visitors do." },
+                ],
+                faqs: [
+                    { q: "Is the Mount Tabor, Beit She'an, and Yardenit tour worth it from Tel Aviv?", a: "Yes, for travelers with specific interest in biblical and Roman archaeological sites in northern Israel." },
+                ],
+            };
+
         default:
             return null;
     }
