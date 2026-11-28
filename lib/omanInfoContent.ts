@@ -1872,6 +1872,66 @@ export function getOmanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-fahal-island-birdwatching-boat-worth-it-muscat":
+            return {
+                title: "Is the Muscat Fahal Island Birdwatching Boat Tour Worth It?",
+                description: "An honest look at the Fahal Island birdwatching boat tour from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, for genuine birdwatchers — Fahal Island off Muscat's coast is home to real nesting seabird colonies, and a dedicated boat tour gets you close enough to actually spot and identify species, a distinct activity from Muscat's usual desert and fort circuit.",
+                    tourCard: { slug: "muscat-fahal-island-birdwatching-boat-tour", title: "Muscat: Fahal Island Birdwatching Boat Tour", description: "A birdwatching boat tour to Fahal Island off the coast of Muscat.", price: "From $585", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Bring binoculars if you have them — the boat gets close to the island, but personal binoculars still improve the experience significantly." }
+                ],
+                faqs: [
+                    { q: "Is the Fahal Island birdwatching boat tour worth it in Muscat?", a: "Yes, for genuine birdwatchers wanting to see real nesting seabird colonies, a distinct activity from Muscat's usual desert and fort sightseeing." }
+                ],
+            };
+
+        case "is-wadi-mibam-canyoneering-worth-it-muscat":
+            return {
+                title: "Is the Muscat Wadi Mibam Canyoneering Adventure with Rappelling Worth It?",
+                description: "An honest look at the Wadi Mibam canyoneering adventure with rappelling from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine technical adventure rather than a scenic wadi swim — this involves actual rappelling down canyon walls at Wadi Mibam, a far more demanding activity than the standard wadi pool visits most Muscat tours offer.",
+                    tourCard: { slug: "muscat-wadi-mibam-canyoneering-adventure-with", title: "Muscat: Wadi Mibam Canyoneering Adventure with Rappelling", description: "A canyoneering adventure with rappelling at Wadi Mibam from Muscat.", price: "From $583", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "No prior canyoneering experience is typically required, but confirm with the operator and expect a genuinely physical day." }
+                ],
+                faqs: [
+                    { q: "Is the Wadi Mibam canyoneering adventure worth it from Muscat?", a: "Yes, for travelers wanting genuine technical rappelling, a far more demanding activity than standard wadi pool visits." }
+                ],
+            };
+
+        case "is-desert-birthday-celebration-worth-it-muscat":
+            return {
+                title: "Is the Muscat Wadi Bani Khalid & Desert Birthday Celebration Worth It?",
+                description: "An honest look at the Wadi Bani Khalid visit combined with a desert birthday celebration from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you're celebrating a birthday during your trip — this bundles a Wadi Bani Khalid visit with a dedicated desert birthday setup, turning a standard day tour into something tailored for the occasion.",
+                    tourCard: { slug: "muscat-visit-wadi-bani-kalid-desert-birthday", title: "Muscat: Visit Wadi Bani Kalid & Desert Birthday Celebration", description: "A Wadi Bani Khalid visit combined with a desert birthday celebration from Muscat.", price: "From $540", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Confirm what's included in the birthday setup (cake, decorations, specific timing) when booking, since this varies by operator." }
+                ],
+                faqs: [
+                    { q: "Is the Wadi Bani Khalid desert birthday celebration worth it from Muscat?", a: "Yes, for travelers wanting a standard wadi day tour tailored specifically for a birthday occasion." }
+                ],
+            };
+
+        case "is-al-hoota-cave-mountain-village-worth-it-muscat":
+            return {
+                title: "Is the Muscat Private Al Hoota Cave & Mountain Village Tour Worth It?",
+                description: "An honest look at the private Al Hoota Cave and mountain village tour from Muscat.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine underground scenery alongside mountain village culture — Al Hoota is one of Oman's few show caves open to visitors, with real stalactites and an underground lake, paired here with a stop in a traditional mountain village.",
+                    tourCard: { slug: "muscat-private-al-hoota-cave-mountain-village-tour", title: "Muscat: Private Al Hoota Cave & Mountain Village Tour", description: "A private tour of Al Hoota Cave and a mountain village from Muscat.", price: "From $598", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Al Hoota Cave has limited daily entry slots, so a private tour booked in advance avoids the risk of showing up to a sold-out time." }
+                ],
+                faqs: [
+                    { q: "Is the Al Hoota Cave and mountain village tour worth it from Muscat?", a: "Yes, for travelers wanting genuine underground cave scenery combined with traditional mountain village culture." }
+                ],
+            };
+
         default:
             return null;
     }
