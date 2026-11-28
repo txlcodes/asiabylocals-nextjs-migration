@@ -1116,6 +1116,66 @@ export function getPattayaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-jpark-japanese-village-zoo-worth-it-pattaya":
+            return {
+                title: "Is the Khao Kheow Zoo and J-Park Japanese Village Day Trip Worth It in Pattaya?",
+                description: "An honest look at Pattaya's combined day trip to Khao Kheow Zoo and the J-Park Japanese Village.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want wildlife viewing paired with something genuinely unexpected — J-Park's Japanese-themed shopping village is a quirky, photogenic contrast to Khao Kheow Zoo's animal encounters, giving two very different activities in one day.",
+                    tourCard: { slug: "khao-kheow-zoo-and-j-park-japanese-village-day-trip-in-pattaya", title: "Khao Kheow Zoo and J-Park Japanese Village Day Trip in Pattaya", description: "A day trip combining Khao Kheow Zoo with the J-Park Japanese Village in Pattaya.", price: "From $156", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "J-Park is largely a shopping and photo-op village rather than an authentic cultural site, so treat it as a fun detour rather than deep cultural immersion." }
+                ],
+                faqs: [
+                    { q: "Is the Khao Kheow Zoo and J-Park day trip worth it in Pattaya?", a: "Yes, for travelers wanting wildlife viewing paired with a quirky, photogenic Japanese-themed village in one day." }
+                ],
+            };
+
+        case "is-floating-dinner-yacht-live-show-worth-it-pattaya":
+            return {
+                title: "Is the Pattaya Floating Dinner Yacht Experience with Live Show Worth It?",
+                description: "An honest look at Pattaya's floating dinner yacht experience with a live show included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want dinner and entertainment combined rather than a plain sightseeing cruise — this yacht experience pairs a proper dinner with a live show onboard, giving a fuller evening than a standard dinner cruise alone.",
+                    tourCard: { slug: "floating-dinner-yacht-experience-with-live-show-in-pattaya", title: "Floating Dinner Yacht Experience with Live Show in Pattaya", description: "A floating dinner yacht experience in Pattaya with a live show included.", price: "From $163", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Ask what the live show entails in advance, since the entertainment format can vary meaningfully between operators." }
+                ],
+                faqs: [
+                    { q: "Is the floating dinner yacht with live show worth it in Pattaya?", a: "Yes, for travelers wanting dinner and entertainment combined in one evening, rather than a plain sightseeing-only cruise." }
+                ],
+            };
+
+        case "is-panpuri-wellness-spa-andaz-worth-it-pattaya":
+            return {
+                title: "Is the PAÑPURI Wellness Spa at Andaz Pattaya Jomtien Beach Worth It?",
+                description: "An honest look at the PAÑPURI Wellness spa experience at the Andaz Pattaya Jomtien Beach resort.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely upscale spa setting rather than a standard street-side massage — PAÑPURI at the Andaz resort gives a resort-quality wellness experience with Jomtien Beach access, a real step up for travelers prioritizing comfort.",
+                    tourCard: { slug: "spa-at-pa-puri-wellness-andaz-pattaya-jomtien-beach", title: "Spa at PAÑPURI WELLNESS Andaz Pattaya Jomtien Beach", description: "A spa experience at PAÑPURI Wellness in the Andaz Pattaya Jomtien Beach resort.", price: "From $128", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" } },
+                    { title: "Practical Tips", content: "Arrive a little early to make use of the resort's beach access before or after your treatment." }
+                ],
+                faqs: [
+                    { q: "Is the PAÑPURI Wellness spa at Andaz worth it in Pattaya?", a: "Yes, for travelers wanting a genuinely upscale resort spa experience with beach access, a step up from a standard street-side massage." }
+                ],
+            };
+
+        case "is-luxury-yacht-premium-lunch-worth-it-pattaya":
+            return {
+                title: "Is the Pattaya Luxury Yacht Cruise with Premium Lunch Set Worth It?",
+                description: "An honest look at Pattaya's day tour luxury yacht cruise with a premium lunch set included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if food quality matters as much as the cruise itself — this luxury yacht day tour includes a genuine premium lunch set rather than a basic packed meal, upgrading the usual island-hopping boat trip into a more complete experience.",
+                    tourCard: { slug: "day-tour-luxury-yacht-cruise-with-premium-lunch-set-in-pattaya", title: "Day Tour Luxury Yacht cruise with premium lunch set in Pattaya", description: "A day tour on a luxury yacht in Pattaya with a premium lunch set included.", price: "From $154", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" } },
+                    { title: "Practical Tips", content: "Confirm what's included in the premium lunch set in advance, since offerings vary meaningfully between yacht operators." }
+                ],
+                faqs: [
+                    { q: "Is the luxury yacht cruise with premium lunch set worth it in Pattaya?", a: "Yes, for travelers wanting a genuinely upgraded meal as part of their island-hopping yacht day, not just a basic packed lunch." }
+                ],
+            };
+
         default:
             return null;
     }

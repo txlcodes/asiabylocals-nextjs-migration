@@ -1832,6 +1832,8 @@ export const PATTAYA_INFO_SLUGS = [
   'is-enduro-tour-worth-it-pattaya', 'is-dragon-tower-buddha-temple-floating-market-worth-it-pattaya',
   'is-tsa-flying-experience-worth-it-pattaya', 'is-private-plane-tour-islands-city-worth-it-pattaya',
   'is-sina-floating-beach-club-worth-it-pattaya', 'is-ramayana-water-park-aquaverse-worth-it-pattaya',
+  'is-jpark-japanese-village-zoo-worth-it-pattaya', 'is-floating-dinner-yacht-live-show-worth-it-pattaya',
+  'is-panpuri-wellness-spa-andaz-worth-it-pattaya', 'is-luxury-yacht-premium-lunch-worth-it-pattaya',
 ];
 // Cambodia. isInfoSlug() gates the route, so a page missing from here 404s
 // however good the content is.
