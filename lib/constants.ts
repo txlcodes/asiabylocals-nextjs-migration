@@ -195,6 +195,8 @@ export const DELHI_INFO_SLUGS = [
   'is-ayodhya-2day-worth-it-delhi', 'is-bollywood-dance-class-worth-it-delhi',
   'is-neemrana-fort-worth-it-delhi', 'is-vegan-cooking-class-worth-it-delhi',
   'is-elephant-conservation-centre-worth-it-delhi',
+  'is-solo-female-traveler-golden-triangle-worth-it-delhi', 'is-hidden-art-gallery-tour-worth-it-delhi',
+  'is-haveli-classical-dance-cuisine-worth-it-delhi', 'is-multi-faith-day-tour-worth-it-delhi',
 ];
 
 export const JAIPUR_INFO_SLUGS = [

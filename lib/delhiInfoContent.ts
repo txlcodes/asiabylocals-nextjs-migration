@@ -2340,6 +2340,90 @@ export function getDelhiInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-solo-female-traveler-golden-triangle-worth-it-delhi":
+      return {
+        title: "Is the Delhi-Agra-Jaipur Tour for Solo Female Travelers Worth It?",
+        description: "An honest look at the Golden Triangle tour specifically designed for solo female travelers from Delhi.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if safety and comfort matter more to you than cost — this covers the same Delhi-Agra-Jaipur Golden Triangle route as standard tours, but with logistics, guides, and accommodations specifically vetted for solo female travelers.",
+            tourCard: { slug: "from-delhi-delhi-agra-jaipur-tour-for-solo-female", title: "From Delhi: Delhi-Agra-Jaipur Tour for Solo Female Traveler", description: "A Golden Triangle tour covering Delhi, Agra, and Jaipur, designed specifically for solo female travelers.", price: "From $222", duration: "Multi-day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask specifically what safety measures are in place (vetted drivers, women-friendly accommodations) before booking, since this varies by operator.",
+          },
+        ],
+        faqs: [
+          { q: "Is the solo female traveler Golden Triangle tour worth it from Delhi?", a: "Yes, for solo female travelers prioritizing vetted safety and comfort over the cheapest standard tour option." },
+        ],
+      };
+
+    case "is-hidden-art-gallery-tour-worth-it-delhi":
+      return {
+        title: "Is the Delhi Hidden Art Gallery Tour Worth It?",
+        description: "An honest look at Delhi's hidden art gallery tour, covering lesser-known contemporary art spaces.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for art enthusiasts specifically — this tour takes you to genuinely lesser-known contemporary art galleries most tourists never find, a distinct angle from Delhi's usual monument and temple circuit.",
+            tourCard: { slug: "delhi-hidden-art-gallery-tour", title: "Delhi: Hidden Art Gallery Tour", description: "A tour of Delhi's lesser-known contemporary art galleries.", price: "From $209", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Ask your guide about current exhibitions in advance, since gallery shows rotate and what's on view changes month to month.",
+          },
+        ],
+        faqs: [
+          { q: "Is the hidden art gallery tour worth it in Delhi?", a: "Yes, for art enthusiasts wanting genuinely lesser-known contemporary galleries beyond the city's usual monument circuit." },
+        ],
+      };
+
+    case "is-haveli-classical-dance-cuisine-worth-it-delhi":
+      return {
+        title: "Is the Old Delhi Haveli with Live Classical Dance, Music & Cuisine Worth It?",
+        description: "An honest look at Old Delhi's haveli evening featuring live classical dance, music, and traditional cuisine.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuinely immersive cultural evening rather than a quick dinner show — this takes place inside an actual Old Delhi haveli (historic mansion), combining live classical dance and music with a traditional multi-course meal.",
+            tourCard: { slug: "old-delhi-haveli-with-live-classical-dance-music", title: "Old Delhi Haveli with live Classical dance, music & cuisine", description: "An evening in an Old Delhi haveli featuring live classical dance, music, and traditional cuisine.", price: "From $94", duration: "A few hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "The haveli setting itself is part of the experience, so arrive a little early to take in the historic architecture before the performance starts.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Old Delhi haveli evening with classical dance worth it?", a: "Yes, for travelers wanting a genuinely immersive cultural evening in a historic setting, beyond a standard dinner show." },
+        ],
+      };
+
+    case "is-multi-faith-day-tour-worth-it-delhi":
+      return {
+        title: "Is the Delhi Private Multi-Faith Day Tour Worth It?",
+        description: "An honest look at Delhi's private multi-faith day tour with hotel pickup.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, if you want a genuine sense of Delhi's religious diversity in one day — this tour is specifically structured to cover multiple faiths' places of worship (Hindu, Sikh, Muslim, and more), rather than a single-temple visit.",
+            tourCard: { slug: "delhi-private-multi-faith-day-tour-with-hotel", title: "Delhi: Private Multi-Faith Day Tour with Hotel Pickup", description: "A private multi-faith day tour of Delhi with hotel pickup.", price: "From $123", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly and bring a head covering, since several of the sites visited will have specific dress requirements.",
+          },
+        ],
+        faqs: [
+          { q: "Is the multi-faith day tour worth it in Delhi?", a: "Yes, for travelers wanting a genuine, structured sense of the city's religious diversity in a single day." },
+        ],
+      };
+
     default:
       return null;
   }
