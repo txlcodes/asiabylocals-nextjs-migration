@@ -1988,6 +1988,76 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-pampanga-roots-recipes-worth-it-manila":
+      return {
+        title: "Is the Pampanga Roots & Recipes Tour Worth It from Manila?",
+        description: "An honest look at the Pampanga Roots and Recipes tour, a culinary deep-dive into the Philippines' culinary capital.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23719ff49d2440d4a6cae7b47f83643c67a5bf240bf6919fdaade2ad8a0f314c.png",
+        sections: [
+          { title: "The Short Answer", content: "Pampanga is genuinely regarded as the culinary capital of the Philippines, and this tour gives real access to its food heritage and recipes, worth it for food-focused travelers wanting depth beyond Manila's own restaurant scene.", tourCard: { slug: "from-manila-pampanga-roots-recipes-tour", title: "From Manila: Pampanga Roots & Recipes Tour", description: "A culinary tour of Pampanga's food heritage and recipes from Manila.", price: "From $1089", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/23719ff49d2440d4a6cae7b47f83643c67a5bf240bf6919fdaade2ad8a0f314c.png" } },
+          { title: "Practical Tips", content: "Come hungry — genuine Kapampangan food culture means multiple tastings throughout the day, not a single meal." },
+        ],
+        faqs: [
+          { q: "Is the Pampanga Roots & Recipes tour worth it from Manila?", a: "Yes, for food-focused travelers wanting genuine depth into the Philippines' culinary capital, beyond Manila's own restaurant scene." },
+        ],
+      };
+
+    case "is-rizal-pilgrimage-worth-it-manila":
+      return {
+        title: "Is the Rizal Pilgrimage and Historic Churches Day Trip Worth It from Manila?",
+        description: "An honest look at the Rizal Pilgrimage day trip, tracing sites connected to the Philippines' national hero.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/818fc101c8f4f3859a4cb54e3efaba5506f9be4e593ba9f8b766aa8c64352d13.png",
+        sections: [
+          { title: "The Short Answer", content: "Tracing sites connected to José Rizal and visiting historic churches gives genuine insight into Philippine national history, worth it for travelers wanting depth on Rizal's legacy rather than a single museum stop.", tourCard: { slug: "from-manila-rizal-pilgrimage-historic-churches", title: "From Manila: Rizal Pilgrimage & Historic Churches Day Trip", description: "A day trip tracing sites connected to José Rizal and historic churches from Manila.", price: "From $302", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/818fc101c8f4f3859a4cb54e3efaba5506f9be4e593ba9f8b766aa8c64352d13.png" } },
+          { title: "Practical Tips", content: "Read up on Rizal's biography beforehand — the sites genuinely mean more with that historical context in mind." },
+        ],
+        faqs: [
+          { q: "Is the Rizal Pilgrimage and historic churches day trip worth it from Manila?", a: "Yes, for travelers wanting genuine depth on José Rizal's legacy and national history, beyond a single museum visit." },
+        ],
+      };
+
+    case "is-tanay-farming-archery-worth-it-manila":
+      return {
+        title: "Is the Private Tanay Mountain Farming and Archery Trip Worth It from Manila?",
+        description: "An honest look at the Tanay mountain farming and archery trip, combining rural agriculture with an active sport.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7eeb40b1518a2595325d23ce1dfb3b7947492bf53c1bfa852ea84a2796b26d6f.png",
+        sections: [
+          { title: "The Short Answer", content: "Combining genuine hands-on mountain farming with archery gives a mix of rural agriculture and active sport that's a real change from Manila's Taal Volcano and Tagaytay circuit, worth it for travelers wanting hands-on variety.", tourCard: { slug: "from-manila-private-tanay-mountain-farming", title: "From Manila: Private Tanay Mountain Farming & Archery Trip", description: "A private trip combining mountain farming and archery in Tanay from Manila.", price: "From $332", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7eeb40b1518a2595325d23ce1dfb3b7947492bf53c1bfa852ea84a2796b26d6f.png" } },
+          { title: "Practical Tips", content: "Wear clothes you don't mind getting dirty — genuine farming activity involves real soil and physical work." },
+        ],
+        faqs: [
+          { q: "Is the Tanay mountain farming and archery trip worth it from Manila?", a: "Yes, for travelers wanting a genuine hands-on mix of rural agriculture and active sport, a real change from the usual Taal Volcano circuit." },
+        ],
+      };
+
+    case "is-angeles-city-heritage-worth-it-manila":
+      return {
+        title: "Is the Angeles City Heritage, Culture and Food Tour Worth It from Manila?",
+        description: "An honest look at the Angeles City heritage, culture, and food tour from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d518a96c58bd0d95e15022fec7d8609e416604afa923e9153fc0d28fd60e6a69.png",
+        sections: [
+          { title: "The Short Answer", content: "Angeles City's heritage sites, local culture, and food scene give a genuinely different side of the region than Manila's own Intramuros circuit, worth it for travelers wanting to explore beyond the capital's usual historic district.", tourCard: { slug: "from-manila-angeles-city-heritage-culture-food", title: "From Manila: Angeles City Heritage, Culture & Food Tour", description: "A heritage, culture, and food tour of Angeles City from Manila.", price: "From $296", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d518a96c58bd0d95e15022fec7d8609e416604afa923e9153fc0d28fd60e6a69.png" } },
+          { title: "Practical Tips", content: "Go in hungry and curious — the food scene here is a genuine highlight alongside the heritage sites." },
+        ],
+        faqs: [
+          { q: "Is the Angeles City heritage, culture and food tour worth it from Manila?", a: "Yes, for travelers wanting a genuinely different side of the region beyond Manila's own Intramuros heritage circuit." },
+        ],
+      };
+
+    case "is-hulugan-pagsanjan-falls-worth-it-manila":
+      return {
+        title: "Is the Hulugan Falls and Pagsanjan Falls Waterfall Adventure Worth It from Manila?",
+        description: "An honest look at the combined Hulugan Falls and Pagsanjan Falls waterfall adventure from Manila.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/251f11cb53903c84ea5c2149952270a2ecf7199dc730d1f2f3c9f56790115f6a.png",
+        sections: [
+          { title: "The Short Answer", content: "Combining two genuinely distinct waterfalls — Hulugan's impressive drop and Pagsanjan's famous boatman-paddled canoe ride — gives a fuller waterfall adventure day than visiting just one, worth it for travelers wanting maximum scenic payoff.", tourCard: { slug: "manila-hulugan-falls-pagsanjan-falls-waterfall", title: "Manila: Hulugan Falls & Pagsanjan Falls Waterfall Adventure", description: "A combined waterfall adventure visiting Hulugan Falls and Pagsanjan Falls from Manila.", price: "From $378", duration: "1 day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/251f11cb53903c84ea5c2149952270a2ecf7199dc730d1f2f3c9f56790115f6a.png" } },
+          { title: "Practical Tips", content: "Pack a change of clothes — you'll genuinely get wet at both waterfall stops, especially during the canoe ride." },
+        ],
+        faqs: [
+          { q: "Is the Hulugan Falls and Pagsanjan Falls waterfall adventure worth it from Manila?", a: "Yes, for travelers wanting a fuller waterfall day combining two genuinely distinct falls rather than visiting just one." },
+        ],
+      };
+
     case "is-las-casas-filipinas-worth-it-cebu":
       return {
         title: "Is Las Casas Filipinas Heritage Village Worth It near Cebu?",

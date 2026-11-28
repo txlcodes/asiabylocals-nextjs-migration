@@ -1613,6 +1613,9 @@ export const MANILA_INFO_SLUGS = [
   'is-nueva-ecija-countryside-worth-it-manila', 'is-calatagan-island-hopping-lighthouse-worth-it-manila',
   'is-puning-hot-spring-worth-it-manila', 'is-subic-golf-worth-it-manila',
   'is-pampanga-cessna-scenic-flight-worth-it-manila', 'is-inflatable-island-water-park-worth-it-manila',
+  'is-pampanga-roots-recipes-worth-it-manila', 'is-rizal-pilgrimage-worth-it-manila',
+  'is-tanay-farming-archery-worth-it-manila', 'is-angeles-city-heritage-worth-it-manila',
+  'is-hulugan-pagsanjan-falls-worth-it-manila',
 ];
 
 // Boracay (Philippines) — 27 live tours, launched 2026-11-22.
