@@ -2174,6 +2174,106 @@ export function getQatarInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-flyboarding-worth-it-doha":
+      return {
+        title: "Is Flyboarding Worth It in Doha?",
+        description: "An honest look at Doha's flyboarding experience, a water-propelled aerial thrill with an instructor.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/baa89e63a24abd1c3187cbb95e8b6a3337d0b6900761c44faf0a3c99e894c128.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Flyboarding uses water jets to lift you above the sea surface, giving a genuinely unique aerial thrill distinct from Doha's usual desert and dhow activities, worth it for travelers wanting a real adrenaline rush on the water.",
+            tourCard: { slug: "doha-flyboarding-experience-with-instructor", title: "Doha Flyboarding Experience with Instructor", description: "A water-jet flyboarding experience with an instructor in Doha.", price: "From $454", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/baa89e63a24abd1c3187cbb95e8b6a3337d0b6900761c44faf0a3c99e894c128.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior experience is needed — a qualified instructor builds up the lift gradually, so first-timers genuinely do fine." },
+        ],
+        faqs: [
+          { q: "Is flyboarding worth it in Doha?", a: "Yes, for a genuinely unique water-based aerial thrill, distinct from the city's usual desert and dhow cruise activities." }
+        ],
+      };
+
+    case "is-jetboat-ride-worth-it-doha":
+      return {
+        title: "Is the Jetboat Ride Worth It in Doha?",
+        description: "An honest look at Doha's jetboat ride with hotel pickup and snacks, a high-speed alternative to the city's leisurely dhow cruises.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8bc36519fc12ef460fafa8697271d6d6e94a82180d9079fee6417863fa746ea2.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A jetboat gives a genuinely fast-paced, high-energy view of Doha's skyline and coastline, a real contrast to the slow, scenic pace of the city's traditional dhow cruises, worth it for travelers wanting speed and excitement on the water.",
+            tourCard: { slug: "doha-jetboat-ride-with-hotel-pickup-and-snacks", title: "Doha: Jetboat Ride with Hotel Pickup and Snacks", description: "A high-speed jetboat ride with hotel pickup and snacks included.", price: "From $519", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/8bc36519fc12ef460fafa8697271d6d6e94a82180d9079fee6417863fa746ea2.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Secure loose items before boarding — this genuinely moves fast, unlike the city's leisurely dhow cruise options." },
+        ],
+        faqs: [
+          { q: "Is the jetboat ride worth it in Doha?", a: "Yes, for travelers wanting a genuinely fast-paced, high-energy alternative to the city's slower, traditional dhow cruises." }
+        ],
+      };
+
+    case "is-horse-riding-desert-worth-it-doha":
+      return {
+        title: "Is the Horse Riding Experience in the Desert Worth It in Doha?",
+        description: "An honest look at horse riding in the Qatari desert, a quieter land-based alternative to Doha's dune-bashing safaris.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a69f1aa0e16345aeae77d51a34cb1ab47d952e7ed3d445585fdbc81606c5ab1.jpeg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding a horse through the dunes gives a genuinely quieter, more traditional way to experience Qatar's desert landscape than a 4x4 dune-bashing safari, worth it for travelers wanting a calmer, more scenic pace through the sand.",
+            tourCard: { slug: "doha-horse-riding-experience-in-the-desert-of", title: "Doha: Horse Riding Experience in the Desert of Qatar", description: "A horse riding experience through the Qatari desert.", price: "From $468", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/2a69f1aa0e16345aeae77d51a34cb1ab47d952e7ed3d445585fdbc81606c5ab1.jpeg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior riding experience is typically needed, but confirm skill expectations with the operator beforehand." },
+        ],
+        faqs: [
+          { q: "Is horse riding in the desert worth it in Doha?", a: "Yes, for a genuinely quieter, more traditional way to experience the dunes than a 4x4 dune-bashing safari." }
+        ],
+      };
+
+    case "is-wakeboarding-worth-it-doha":
+      return {
+        title: "Is Wakeboarding Worth It in Doha?",
+        description: "An honest look at Doha's wakeboarding experience with an instructor, a watersport alternative to the city's calmer boat cruises.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f472c5e6d611289fe42a9ccc28052ca8d9235bccdc46bc0303c10b21e4a45c6.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Wakeboarding with a real instructor gives a genuine active watersport option distinct from Doha's usual leisurely boat cruises, worth it specifically for travelers wanting a physical, skill-based activity on the water rather than a relaxed sightseeing cruise.",
+            tourCard: { slug: "doha-wakeboarding-experience-with-instructor", title: "Doha: Wakeboarding Experience with Instructor", description: "A wakeboarding experience with a qualified instructor in Doha.", price: "From $389", duration: "1 hour", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/7f472c5e6d611289fe42a9ccc28052ca8d9235bccdc46bc0303c10b21e4a45c6.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect a genuine learning curve even with instruction — don't expect to stand up on the first few attempts." },
+        ],
+        faqs: [
+          { q: "Is wakeboarding worth it in Doha?", a: "Yes, for travelers wanting a genuinely active, skill-based watersport, distinct from the city's usual relaxed boat cruises." }
+        ],
+      };
+
+    case "is-974-cruises-houseboat-worth-it-doha":
+      return {
+        title: "Is the 974 Cruises Private Houseboat Sailing Worth It in Doha?",
+        description: "An honest look at the 974 Cruises private sailing and sea views houseboat experience in Doha.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c2a5ce2dffe441474e994d9d17746b47cb44acd259005414736022e77d93fb73.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A private houseboat sailing gives a genuinely more relaxed, intimate way to see Doha's coastline than a shared dhow cruise, worth it for travelers or small groups wanting privacy and a slower pace on the water.",
+            tourCard: { slug: "doha-private-sailing-sea-views-by-974-cruises", title: "Doha: Private Sailing & Sea Views by 974 Cruises Houseboats", description: "A private houseboat sailing experience with sea views in Doha.", price: "From $390", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/c2a5ce2dffe441474e994d9d17746b47cb44acd259005414736022e77d93fb73.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A genuinely good pick for couples or small groups wanting privacy that a shared dhow cruise doesn't offer." },
+        ],
+        faqs: [
+          { q: "Is the 974 Cruises private houseboat sailing worth it in Doha?", a: "Yes, for travelers or small groups wanting a genuinely more private, relaxed alternative to a shared dhow cruise." }
+        ],
+      };
+
     default:
       return null;
   }

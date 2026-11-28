@@ -491,6 +491,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-skyline-soar-zipline-worth-it-doha', 'is-guided-scuba-diving-worth-it-doha',
     'is-3day-layover-dhow-desert-worth-it-doha', 'is-al-safliyah-island-yacht-cruise-worth-it-doha',
     'is-family-fishing-boat-trip-worth-it-doha', 'is-special-museums-full-day-tour-worth-it-doha',
+    'is-flyboarding-worth-it-doha', 'is-jetboat-ride-worth-it-doha',
+    'is-horse-riding-desert-worth-it-doha', 'is-wakeboarding-worth-it-doha',
+    'is-974-cruises-houseboat-worth-it-doha',
   ].map(slug => ({
     url: `${BASE_URL}/qatar/doha/${slug}`,
     lastModified: new Date(),
