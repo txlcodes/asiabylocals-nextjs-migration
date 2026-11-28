@@ -1692,6 +1692,76 @@ export function getUzbekistanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-uzbek-wedding-ceremony-worth-it-samarkand":
+            return {
+                title: "Is Attending an Uzbek Wedding Ceremony Worth It in Samarkand?",
+                description: "An honest look at the Uzbek wedding ceremony experience in Samarkand, a genuine cultural immersion into local tradition.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e0864ac0f9f01e4c45b54934c56c84a31f66e08a39436f5f0e970ca190dd6800.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Experiencing a genuine Uzbek wedding ceremony gives real insight into local customs, dress, and celebration traditions that no museum or monument visit can replicate, worth it for travelers wanting authentic cultural immersion.", tourCard: { slug: "uzbek-wedding-ceremony", title: "Uzbek Wedding Ceremony", description: "An experience attending a traditional Uzbek wedding ceremony in Samarkand.", price: "From $455", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e0864ac0f9f01e4c45b54934c56c84a31f66e08a39436f5f0e970ca190dd6800.jpg" } },
+                    { title: "Practical Tips", content: "Dress respectfully and modestly — this is a genuine family celebration, not a staged tourist performance." }
+                ],
+                faqs: [
+                    { q: "Is the Uzbek wedding ceremony experience worth it in Samarkand?", a: "Yes, for travelers wanting genuinely authentic cultural immersion into local wedding traditions, beyond museums and monuments." }
+                ],
+            };
+
+        case "is-konigil-paper-mill-winery-worth-it-samarkand":
+            return {
+                title: "Is the Konigil Paper Mill, Winery and Embroidery Tour Worth It in Samarkand?",
+                description: "An honest look at the combined Konigil paper mill, winery, and embroidery tour near Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d71384221e1f9f48e1ee22ec78502e7c1ac0fac0ad5f6606646228fff7f4859a.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a visit to the historic Konigil paper mill with a winery stop and embroidery demonstration gives genuine hands-on exposure to three distinct craft traditions in one trip, worth it for travelers wanting cultural variety beyond the main monuments.", tourCard: { slug: "samarkand-konigil-paper-mill-winery-and", title: "Samarkand: Konigil Paper Mill, Winery, and Embroidery Tour", description: "A combined tour of the Konigil paper mill, a winery, and embroidery craft near Samarkand.", price: "From $505", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d71384221e1f9f48e1ee22ec78502e7c1ac0fac0ad5f6606646228fff7f4859a.jpg" } },
+                    { title: "Practical Tips", content: "Pick up handmade paper or embroidery as a genuinely distinctive souvenir, more memorable than typical market trinkets." }
+                ],
+                faqs: [
+                    { q: "Is the Konigil paper mill, winery and embroidery tour worth it in Samarkand?", a: "Yes, for travelers wanting genuine hands-on variety across three distinct craft traditions, beyond the city's main monuments." }
+                ],
+            };
+
+        case "is-hazrat-daud-cave-horse-worth-it-samarkand":
+            return {
+                title: "Is the Hazrat Daud Cave Tour with Horse Ride Worth It in Samarkand?",
+                description: "An honest look at the Hazrat Daud cave tour combined with a horse ride near Samarkand.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85afd6a622b17bd2e75b9824e8832e848f8f8a3779db70102c286d79f0b61d37.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the Hazrat Daud cave site with a genuine horse ride gives a mix of spiritual history and outdoor activity in one trip, worth it for travelers wanting a change of pace from Samarkand's famous mosques and madrasas.", tourCard: { slug: "samarkand-hazrat-daud-cave-tour-with-horse-ride", title: "Samarkand: Hazrat Daud Cave Tour with Horse Ride", description: "A tour of the Hazrat Daud cave site combined with a horse ride near Samarkand.", price: "From $364", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/85afd6a622b17bd2e75b9824e8832e848f8f8a3779db70102c286d79f0b61d37.jpg" } },
+                    { title: "Practical Tips", content: "No prior riding experience is typically needed, but confirm skill expectations with the operator beforehand." }
+                ],
+                faqs: [
+                    { q: "Is the Hazrat Daud cave tour with horse ride worth it in Samarkand?", a: "Yes, for a genuine mix of spiritual history and outdoor activity, a real change of pace from the city's famous mosques and madrasas." }
+                ],
+            };
+
+        case "is-baguizagan-wine-tour-worth-it-samarkand":
+            return {
+                title: "Is the Wine Tour in Samarkand Baguizagan Worth It?",
+                description: "An honest look at the Baguizagan wine tour in Samarkand, with entry ticket included.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/282bc0c1a0c0d4a76d9a5223212077b7b6fb44ae48bc951bed3280a1faf7ff15.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Uzbekistan's winemaking tradition is genuinely less known internationally, and this Baguizagan tour gives real tasting access to local wines, worth it for travelers wanting a different side of Samarkand's culinary identity beyond plov and bread.", tourCard: { slug: "wine-tour-in-samarkand-baguizagan-with-entry", title: "Wine Tour in Samarkand Baguizagan with Entry Ticket Included", description: "A wine tour at Baguizagan in Samarkand with entry ticket included.", price: "From $234", duration: "2 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/282bc0c1a0c0d4a76d9a5223212077b7b6fb44ae48bc951bed3280a1faf7ff15.jpg" } },
+                    { title: "Practical Tips", content: "Go in with an open mind about the style — Uzbek wines genuinely differ from what most Western travelers expect." }
+                ],
+                faqs: [
+                    { q: "Is the Baguizagan wine tour worth it in Samarkand?", a: "Yes, for travelers wanting genuine tasting access to Uzbekistan's lesser-known wine tradition, a different side of the region's culinary identity." }
+                ],
+            };
+
+        case "is-nurata-horse-riding-village-worth-it-bukhara":
+            return {
+                title: "Is the Nurata Horse Riding and Village Experience Worth It from Bukhara?",
+                description: "An honest look at the 2-day Nurata horse riding and village experience from Bukhara.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b637b02b1c591c3c4619813680cf5c6dd4a8ccbae2aede201701fd77eb69f7e5.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining horse riding with a genuine village stay near Nurata gives real rural immersion distinct from Bukhara's city-centered sightseeing, worth it for travelers wanting 2 days of countryside and equestrian activity rather than another mosque or madrasa tour.", tourCard: { slug: "from-bukhara-2-day-nurata-horse-riding-village", title: "From Bukhara: 2-Day Nurata Horse Riding & Village Experience", description: "A 2-day horse riding and village experience in Nurata from Bukhara.", price: "From $442", duration: "2 days", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/b637b02b1c591c3c4619813680cf5c6dd4a8ccbae2aede201701fd77eb69f7e5.jpeg" } },
+                    { title: "Practical Tips", content: "Pack for genuinely basic village accommodation — this trades city comforts for real rural immersion." }
+                ],
+                faqs: [
+                    { q: "Is the Nurata horse riding and village experience worth it from Bukhara?", a: "Yes, for travelers wanting genuine rural immersion and equestrian activity, a real change from Bukhara's city-centered sightseeing." }
+                ],
+            };
+
         case "is-private-tennis-experience-worth-it-bukhara":
             return {
                 title: "Is the Private Tennis Experience with a Coach Worth It in Bukhara?",

@@ -559,6 +559,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-legendary-bread-acrobatic-class-worth-it-samarkand', 'is-after-sunset-slow-evening-worth-it-samarkand',
     'is-village-tour-homemade-dinner-worth-it-samarkand', 'is-spiritual-cultural-walk-tea-worth-it-samarkand',
     'is-museum-tour-small-group-worth-it-samarkand', 'is-qurtob-family-masterclass-worth-it-samarkand',
+    'is-uzbek-wedding-ceremony-worth-it-samarkand', 'is-konigil-paper-mill-winery-worth-it-samarkand',
+    'is-hazrat-daud-cave-horse-worth-it-samarkand', 'is-baguizagan-wine-tour-worth-it-samarkand',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/samarkand/${slug}`,
     lastModified: new Date(),
@@ -601,6 +603,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-suzani-embroidery-workshop-worth-it-bukhara', 'is-sarmish-soy-petroglyphs-tour-worth-it-bukhara',
     'is-laghman-cooking-class-worth-it-bukhara', 'is-somsa-home-cooking-class-worth-it-bukhara',
     'is-great-silk-route-tour-worth-it-bukhara', 'is-living-eastern-tale-tour-worth-it-bukhara',
+    'is-nurata-horse-riding-village-worth-it-bukhara',
   ].map(slug => ({
     url: `${BASE_URL}/uzbekistan/bukhara/${slug}`,
     lastModified: new Date(),
