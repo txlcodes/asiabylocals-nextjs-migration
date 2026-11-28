@@ -1231,6 +1231,111 @@ export function getSapaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-golf-experience-worth-it-sapa":
+      return {
+        title: "Is the 18-Hole Golf Experience Worth It in Sapa?",
+        description: "An honest look at the private transfer and 18-hole golf experience in Sapa, a genuinely unexpected highland golf course.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/private-transfer-and-18-hole-golf-experience-in-sapa/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Playing a full 18 holes against Sapa's genuinely dramatic mountain backdrop is a real novelty for golfers, distinct from the usual trekking and village tours, worth it specifically for golf enthusiasts who want to combine the sport with highland scenery.",
+            tourCard: { slug: "private-transfer-and-18-hole-golf-experience-in-sapa", title: "Private Transfer and 18-Hole Golf Experience in Sapa", description: "A private transfer and 18-hole golf experience in Sapa.", price: "From $259", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/private-transfer-and-18-hole-golf-experience-in-sapa/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring your own clubs if you have a preferred set, and check altitude effects on your usual club distances.",
+          },
+        ],
+        faqs: [
+          { q: "Is the 18-hole golf experience worth it in Sapa?", a: "Yes, specifically for golf enthusiasts wanting a genuinely unique mountain-backdrop round, distinct from Sapa's usual trekking circuit." },
+        ],
+      };
+
+    case "is-lai-chau-motor-tour-worth-it-sapa":
+      return {
+        title: "Is the Lai Chau 2-Day Motor Tour Worth It from Sapa Region?",
+        description: "An honest look at the Lai Chau 2-day, 3-night motor tour, a less-visited northern Vietnam province.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/lai-chau-2-day-3-night-motor-tour-from-hanoi/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Lai Chau genuinely sees far fewer tourists than Sapa itself, giving real access to ethnic minority villages and mountain scenery without the crowds, worth it for travelers who've already covered Sapa and want somewhere more remote.",
+            tourCard: { slug: "lai-chau-2-day-3-night-motor-tour-from-hanoi", title: "Lai Chau 2-Day 3-Night Motor Tour — From Hanoi", description: "A 2-day, 3-night motor tour of Lai Chau province.", price: "From $270", duration: "2 days", image: "https://images.asiabylocals.com/asiabylocals/tours/lai-chau-2-day-3-night-motor-tour-from-hanoi/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Expect genuinely basic infrastructure compared to Sapa's more developed tourist facilities — pack accordingly.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lai Chau motor tour worth it?", a: "Yes, for travelers who've already seen Sapa and want genuinely less-crowded access to remote mountain villages." },
+        ],
+      };
+
+    case "is-bac-ha-ban-phung-motorbike-worth-it-sapa":
+      return {
+        title: "Is the Bac Ha and Ban Phung Motorbike Tour Worth It from Sapa?",
+        description: "An honest look at the 3-day Bac Ha and Ban Phung motorbike tour, covering lesser-known market towns outside Sapa.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bac-ha-and-ban-phung-motorbike-tour-from-sapa-3-days/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Bac Ha's famous Sunday market and Ban Phung's village life give a genuinely different side of the northern highlands than Sapa's own well-trodden circuit, worth it for travelers wanting real motorbike adventure through less touristed terrain.",
+            tourCard: { slug: "bac-ha-and-ban-phung-motorbike-tour-from-sapa-3-days", title: "Bac Ha and Ban Phung Motorbike Tour from Sapa: 3 Days", description: "A 3-day motorbike tour to Bac Ha and Ban Phung from Sapa.", price: "From $259", duration: "3 days", image: "https://images.asiabylocals.com/asiabylocals/tours/bac-ha-and-ban-phung-motorbike-tour-from-sapa-3-days/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time your trip around Bac Ha's Sunday market specifically — it's genuinely the highlight and only happens once a week.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Bac Ha and Ban Phung motorbike tour worth it from Sapa?", a: "Yes, for travelers wanting genuine motorbike adventure through less-touristed terrain, timed around Bac Ha's famous Sunday market." },
+        ],
+      };
+
+    case "is-mu-cang-chai-loop-motorbike-worth-it-sapa":
+      return {
+        title: "Is the Mu Cang Chai Loop Motorbike Tour Worth It from Sapa?",
+        description: "An honest look at the 2-day Mu Cang Chai Loop motorbike tour, known for its terraced rice fields.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200961/asiabylocals/tours/motorbike-tour-to-mu-cang-chai-loop-from-sapa-2-days/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Mu Cang Chai's terraced rice fields are genuinely among the most photographed landscapes in northern Vietnam, especially during harvest season, and riding the loop by motorbike gives real freedom to stop at viewpoints Sapa's standard tours skip.",
+            tourCard: { slug: "motorbike-tour-to-mu-cang-chai-loop-from-sapa-2-days", title: "Motorbike Tour to Mu Cang Chai Loop from Sapa: 2 Days", description: "A 2-day motorbike tour of the Mu Cang Chai Loop from Sapa.", price: "From $220", duration: "2 days", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1789200961/asiabylocals/tours/motorbike-tour-to-mu-cang-chai-loop-from-sapa-2-days/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Time your trip for harvest season (September-October) when the terraced fields turn genuinely golden and most photogenic.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Mu Cang Chai Loop motorbike tour worth it from Sapa?", a: "Yes, especially during harvest season, for genuinely some of northern Vietnam's most photographed terraced rice field scenery." },
+        ],
+      };
+
+    case "is-lonely-tree-secret-cave-worth-it-sapa":
+      return {
+        title: "Is the Lonely Tree and Secret Cave Tour Worth It in Sapa?",
+        description: "An honest look at the exclusive Lonely Tree and secret cave tour by car in Sapa, a lesser-known scenic and cave combination.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/exclusive-sapa-lonely-tree-and-secret-cave-by-car-by-local-operator/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing the genuinely photogenic Lonely Tree viewpoint with a lesser-known secret cave gives a quieter, less crowded alternative to Sapa's famous Fansipan and Cat Cat Village circuit, worth it for travelers wanting hidden spots over the main attractions.",
+            tourCard: { slug: "exclusive-sapa-lonely-tree-and-secret-cave-by-car-by-local-operator", title: "Exclusive Sapa: Lonely Tree and Secret Cave by Car", description: "A tour of the Lonely Tree viewpoint and a secret cave in Sapa.", price: "From $259", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/exclusive-sapa-lonely-tree-and-secret-cave-by-car-by-local-operator/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a flashlight if you have one — genuine secret caves often have limited built-in lighting compared to developed cave attractions.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Lonely Tree and secret cave tour worth it in Sapa?", a: "Yes, for travelers wanting genuinely quieter, less-crowded spots than Sapa's famous Fansipan and Cat Cat Village circuit." },
+        ],
+      };
+
     default:
       return null;
   }

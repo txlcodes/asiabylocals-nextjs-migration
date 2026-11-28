@@ -2697,6 +2697,9 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-sapa-scenic-ride-worth-it-sapa', 'is-wrap-and-roll-kids-cooking-workshop-worth-it-sapa',
     'is-homemade-tofu-worth-it-sapa', 'is-nam-cang-motorbike-loop-worth-it-sapa',
     'is-walking-food-tour-worth-it-sapa', 'is-spring-rolls-cooking-class-worth-it-sapa',
+    'is-golf-experience-worth-it-sapa', 'is-lai-chau-motor-tour-worth-it-sapa',
+    'is-bac-ha-ban-phung-motorbike-worth-it-sapa', 'is-mu-cang-chai-loop-motorbike-worth-it-sapa',
+    'is-lonely-tree-secret-cave-worth-it-sapa',
 ].map(slug => ({
     url: `${BASE_URL}/vietnam/sapa/${slug}`,
     lastModified: new Date(),
