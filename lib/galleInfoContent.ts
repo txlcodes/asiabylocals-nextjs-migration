@@ -1063,6 +1063,66 @@ export function getGalleInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-fort-walk-400-years-stories-worth-it-galle":
+      return {
+        title: "Is the Galle Fort Walk Through 400 Years of Stories Worth It?",
+        description: "An honest look at the guided storytelling walk through Galle Fort, which trades a standard sights checklist for the fort's layered Portuguese, Dutch, and British history.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-951966/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Galle Fort is easy to wander alone, but its 400 years of colonial layers are nearly invisible without context, so a storytelling-focused walk is worth it for travelers who want to understand what they're looking at rather than just photograph the ramparts.",
+            tourCard: { slug: "galle-fort-walk-through-400-years-of-sparking", title: "Galle Fort: Walk Through 400 Years of Sparking Stories", description: "A guided storytelling walk through Galle Fort's 400 years of colonial history.", price: "From $60", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-951966/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in the late afternoon when the ramparts are cooler and the light is best for the lighthouse and harbor views." },
+        ],
+        faqs: [
+          { q: "Is the Galle Fort walk through 400 years of stories worth it?", a: "Yes, for travelers who want the fort's colonial history explained rather than just a self-guided wander." }
+        ],
+      };
+
+    case "is-river-boat-farm-to-table-cooking-worth-it-galle":
+      return {
+        title: "Is the River Boat Tour with Farm-to-Table Cooking Class Worth It in Galle?",
+        description: "An honest look at this river boat and cooking combo, which pairs a quiet boat ride with a hands-on farm-to-table meal rather than a standard restaurant cooking class.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1098685/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Pairing the boat ride with sourcing and cooking the meal itself gives a more complete sense of how Sri Lankan home cooking actually works than a stand-alone cooking class, worth it for travelers who want the full farm-to-plate experience in one short outing.",
+            tourCard: { slug: "galle-river-boat-tour-with-farm-to-table-cooking", title: "Galle: River Boat Tour with Farm-to-Table Cooking Class", description: "A river boat tour combined with a farm-to-table cooking class in Galle.", price: "From $81", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1098685/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come hungry — the meal you help cook is the main event, not a light tasting portion." },
+        ],
+        faqs: [
+          { q: "Is the river boat tour with farm-to-table cooking class worth it in Galle?", a: "Yes, for travelers who want a complete farm-to-plate experience rather than a stand-alone cooking class." }
+        ],
+      };
+
+    case "is-gems-batik-koggala-lake-tour-worth-it-galle":
+      return {
+        title: "Is the Gems, Batik, and Koggala Lake Guided Tour Worth It from Galle?",
+        description: "An honest look at this half-day combo covering a gem showroom, a batik workshop, and a Koggala Lake visit from Galle.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1431234/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This combines three distinct crafts and sights, gems, batik, and the lake, into one half day, worth it for travelers who want a broad sampler of southern Sri Lanka's traditional crafts without booking three separate activities, though it moves quickly between stops.",
+            tourCard: { slug: "from-galle-gems-batik-and-koggala-lake-guided-tour", title: "From Galle: Gems, Batik, and Koggala Lake Guided Tour", description: "A half-day guided tour covering gems, batik, and Koggala Lake from Galle.", price: "From $82", duration: "5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1431234/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "There's no obligation to buy at the gem or batik stops, treat them as craft demonstrations rather than a shopping trip." },
+        ],
+        faqs: [
+          { q: "Is the gems, batik, and Koggala Lake guided tour worth it from Galle?", a: "Yes, for travelers who want a broad sampler of southern Sri Lanka's crafts and sights in one half day." }
+        ],
+      };
+
     default:
       return null;
   }

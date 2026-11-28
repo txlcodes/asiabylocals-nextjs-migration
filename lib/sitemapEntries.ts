@@ -2492,6 +2492,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-moonstone-mine-tour-worth-it-galle', 'is-galle-fort-street-food-walk-worth-it-galle',
     'is-vespa-tour-galle-fort-worth-it-galle', 'is-lagoon-canoeing-worth-it-galle',
     'is-gem-making-workshop-worth-it-galle',
+    'is-fort-walk-400-years-stories-worth-it-galle', 'is-river-boat-farm-to-table-cooking-worth-it-galle',
+    'is-gems-batik-koggala-lake-tour-worth-it-galle',
   ].map(slug => ({
     url: `${BASE_URL}/sri-lanka/galle/${slug}`,
     lastModified: new Date(),
