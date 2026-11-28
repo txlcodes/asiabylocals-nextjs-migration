@@ -317,6 +317,9 @@ export const KUALA_LUMPUR_INFO_SLUGS = [
   'is-bukit-tinggi-day-trip-worth-it-kuala-lumpur', 'is-frasers-hill-day-tour-worth-it-kuala-lumpur',
   'is-f1-malaysia-7day-package-worth-it-kuala-lumpur', 'is-musang-king-durian-countryside-worth-it-kuala-lumpur',
   'is-mossy-forest-tour-worth-it-kuala-lumpur', 'is-nomadic-kl-vintage-vespa-worth-it-kuala-lumpur',
+  'is-kanching-waterfall-skyline-luge-worth-it-kuala-lumpur', 'is-tropical-reawakening-spa-worth-it-kuala-lumpur',
+  'is-gopeng-white-water-rafting-worth-it-kuala-lumpur', 'is-cooking-batik-pewter-workshop-worth-it-kuala-lumpur',
+  'is-3regions-3religions-tour-worth-it-kuala-lumpur',
 ];
 
 export const PENANG_INFO_SLUGS = [

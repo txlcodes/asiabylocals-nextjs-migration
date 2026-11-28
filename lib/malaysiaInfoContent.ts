@@ -4448,6 +4448,81 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-kanching-waterfall-skyline-luge-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Kanching Waterfall, Skyline Luge and Fireflies Tour Worth It?",
+                description: "An honest look at the combined Kanching Waterfall, Skyline Luge, and fireflies tour from Kuala Lumpur.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1500339/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a waterfall swim, a genuinely fun luge ride, and an evening fireflies viewing gives a well-rounded day-into-night itinerary covering nature, thrill, and wildlife in one trip, worth it for travelers wanting variety without separate bookings.",
+                    tourCard: { slug: "kuala-lumpur-kanching-waterfall-skyline-luge", title: "Kuala Lumpur: Kanching Waterfall, Skyline Luge & Fireflies", description: "A combined tour of Kanching Waterfall, Skyline Luge, and fireflies viewing from Kuala Lumpur.", price: "From $388", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1500339/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit and a change of clothes — you'll want dry clothes genuinely ready before the evening fireflies portion." }
+                ],
+                faqs: [
+                    { q: "Is the Kanching Waterfall, Skyline Luge and fireflies tour worth it?", a: "Yes, for travelers wanting genuine variety across nature, thrill, and wildlife viewing in a single well-rounded day." }
+                ],
+            };
+
+        case "is-tropical-reawakening-spa-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Tropical Reawakening Spa Experience Worth It in Kuala Lumpur?",
+                description: "An honest look at Kuala Lumpur's Tropical Reawakening spa experience, a wellness break from the city's sightseeing pace.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1394103/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "A dedicated tropical-themed spa session gives genuine relaxation after days of temple-hopping and city walking, worth it for travelers wanting a proper wellness break rather than another sightseeing stop.",
+                    tourCard: { slug: "kuala-lumpur-tropical-reawakening-spa-experience", title: "Kuala Lumpur: Tropical Reawakening Spa Experience", description: "A tropical-themed spa and wellness experience in Kuala Lumpur.", price: "From $345", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1394103/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Book this for a rest day between sightseeing, since the genuine value here is slowing down rather than packing in more activities." }
+                ],
+                faqs: [
+                    { q: "Is the Tropical Reawakening spa experience worth it in Kuala Lumpur?", a: "Yes, for a genuinely relaxing wellness break, a good rest-day pick between the city's heavier sightseeing days." }
+                ],
+            };
+
+        case "is-gopeng-white-water-rafting-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Gopeng White Water Rafting Tour Worth It from Kuala Lumpur?",
+                description: "An honest look at the Gopeng white water rafting day trip from Kuala Lumpur, with lunch and transfers included.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1497231/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Gopeng's rapids give a genuine white-water adventure outside the city, with lunch and transfers handled, worth it for travelers wanting real adrenaline rather than another cave or waterfall stop near KL.",
+                    tourCard: { slug: "kuala-lumpur-gopeng-white-water-rafting-lunch", title: "Kuala Lumpur: Gopeng White Water Rafting, Lunch & Transfers", description: "A white water rafting day trip to Gopeng from Kuala Lumpur with lunch and transfers.", price: "From $335", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1497231/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Pack a change of clothes and secure valuables in a dry bag — you'll genuinely get soaked on the rapids." }
+                ],
+                faqs: [
+                    { q: "Is the Gopeng white water rafting tour worth it from Kuala Lumpur?", a: "Yes, for travelers wanting a genuine adrenaline-filled day on real rapids, a solid change of pace from the area's usual caves and waterfalls." }
+                ],
+            };
+
+        case "is-cooking-batik-pewter-workshop-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Cooking, Batik, and Pewter Workshop Day Trip Worth It in Kuala Lumpur?",
+                description: "An honest look at Kuala Lumpur's combined cooking, batik, and pewter workshop day trip.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1495368/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Combining a cooking class with batik and pewter craft workshops gives genuine hands-on exposure to three distinct Malaysian traditions in one day, worth it for travelers wanting cultural depth and variety over a single-focus workshop.",
+                    tourCard: { slug: "kuala-lumpur-cooking-batik-and-pewter-workshop", title: "Kuala Lumpur: Cooking, Batik, and Pewter Workshop Day Trip", description: "A combined cooking, batik, and pewter craft workshop day trip in Kuala Lumpur.", price: "From $496", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1495368/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Wear clothes you don't mind staining for the batik portion — wax and dye work is genuinely messy, if fun." }
+                ],
+                faqs: [
+                    { q: "Is the cooking, batik, and pewter workshop day trip worth it in Kuala Lumpur?", a: "Yes, for travelers wanting genuine hands-on variety across three distinct Malaysian craft and culinary traditions in one day." }
+                ],
+            };
+
+        case "is-3regions-3religions-tour-worth-it-kuala-lumpur":
+            return {
+                title: "Is the Private 3-Regions, 3-Religions Tour Worth It in Kuala Lumpur?",
+                description: "An honest look at Kuala Lumpur's private tour covering three regions and three religious sites, a multicultural city exploration.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1476813/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Visiting sites from three different faiths across three city regions gives genuine insight into Kuala Lumpur's multicultural makeup, worth it for travelers wanting a thoughtful religious and cultural overview rather than just the city's famous landmarks.",
+                    tourCard: { slug: "kuala-lumpur-private-3-regions-3-religions-places", title: "Kuala Lumpur: Private 3-Regions 3-Religions Places Visit", description: "A private tour covering three regions and three religious sites in Kuala Lumpur.", price: "From $298", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1476813/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Dress modestly for all the religious sites visited, since the itinerary genuinely spans multiple different faith traditions." }
+                ],
+                faqs: [
+                    { q: "Is the 3-regions, 3-religions tour worth it in Kuala Lumpur?", a: "Yes, for travelers wanting genuine insight into the city's multicultural, multi-faith makeup, beyond just the famous landmarks." }
+                ],
+            };
+
         case "is-spice-garden-cooking-class-worth-it-penang":
             return {
                 title: "Is the Tropical Spice Garden Cooking Class Worth It in Penang?",
