@@ -5035,6 +5035,66 @@ export function getMalaysiaInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-ranau-paragliding-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Ranau Paragliding Day Trip with Lunch Worth It from Kota Kinabalu?",
+                description: "An honest look at the full-day Ranau paragliding day trip with lunch and transfer from Kota Kinabalu.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1498738/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want genuine mountain adrenaline rather than the usual island and beach circuit — paragliding over Ranau's dairy farm landscape near Mount Kinabalu gives sweeping aerial views most Kota Kinabalu itineraries never reach.",
+                    tourCard: { slug: "kota-kinabalu-ranau-paraglidin-day-trip-lunch", title: "Kota Kinabalu: Ranau Paragliding Day Trip, Lunch + Transfer", description: "A full-day Ranau paragliding day trip with lunch and transfer from Kota Kinabalu.", price: "From $329", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1498738/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Flights depend on weather conditions, so build flexibility into your schedule in case the paragliding slot needs rescheduling." }
+                ],
+                faqs: [
+                    { q: "Is the Ranau paragliding day trip worth it from Kota Kinabalu?", a: "Yes, for travelers wanting genuine mountain adrenaline and aerial views beyond the usual island and beach circuit." }
+                ],
+            };
+
+        case "is-sea-fishing-catch-processing-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Kota Kinabalu Sea Fishing Experience & Catch Processing Worth It?",
+                description: "An honest look at the half-day sea fishing experience with catch processing in Kota Kinabalu's clear coastal waters.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1392561/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a genuinely hands-on fishing experience suited to beginners — Kota Kinabalu's clear coastal waters hold abundant fish, and having your catch processed afterward means you can actually eat what you reel in.",
+                    tourCard: { slug: "kota-kinabalu-sea-fishing-experience-catch", title: "Kota Kinabalu: Sea Fishing Experience & Catch Processing", description: "A half-day sea fishing experience with catch processing in Kota Kinabalu's clear coastal waters.", price: "From $244", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1392561/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Ask in advance how the catch processing works — some operators cook it fresh for you, while others package it to take back to your hotel." }
+                ],
+                faqs: [
+                    { q: "Is the sea fishing experience with catch processing worth it in Kota Kinabalu?", a: "Yes, for beginners wanting a genuinely hands-on fishing day in clear coastal waters, with the option to eat their own catch." }
+                ],
+            };
+
+        case "is-fireflies-sky-mirror-dream-beach-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Fireflies & Sky Mirror Dream Beach Bongawan Tour Worth It from Kota Kinabalu?",
+                description: "An honest look at the full-day tour combining fireflies and the Sky Mirror Dream Beach phenomenon at Bongawan from Kota Kinabalu.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-697513/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want two genuinely different natural phenomena in one day — the Sky Mirror effect at Bongawan, where wet sand reflects the sky like a mirror at low tide, paired with an evening firefly viewing gives real variety across daylight and dusk.",
+                    tourCard: { slug: "kota-kinabalu-fireflies-sky-mirror-dream-beach", title: "Kota Kinabalu: Fireflies & Sky Mirror Dream Beach Bongawan", description: "A full-day tour combining fireflies and the Sky Mirror Dream Beach phenomenon at Bongawan from Kota Kinabalu.", price: "From $194", duration: "7 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-697513/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "The Sky Mirror effect depends entirely on tide timing, so confirm your tour is scheduled around the right low-tide window." }
+                ],
+                faqs: [
+                    { q: "Is the Fireflies and Sky Mirror Dream Beach tour worth it from Kota Kinabalu?", a: "Yes, for travelers wanting two genuinely different natural phenomena — a mirror-like tidal effect and evening fireflies — in one day." }
+                ],
+            };
+
+        case "is-kawa-kawa-river-cruise-monkeys-fireflies-worth-it-kota-kinabalu":
+            return {
+                title: "Is the Kawa Kawa Private River Cruise with Monkeys & Fireflies Worth It?",
+                description: "An honest look at the full-day private Kawa Kawa river cruise through mangrove wildlife, with monkey and firefly viewing, from Kota Kinabalu.",
+                heroImage: "https://images.asiabylocals.com/asiabylocals/tours/my-1008447/img0/1600.webp",
+                sections: [
+                    { title: "The Short Answer", content: "Yes, if you want a private, unhurried wildlife cruise rather than a crowded group boat — exploring Kawa Kawa's mangrove wildlife with genuine chances to spot monkeys by day and fireflies after dusk gives real variety across one full day on the water.",
+                    tourCard: { slug: "sabah-kawa-kawa-private-river-cruise-w-monkeys", title: "Sabah: Kawa Kawa Private River Cruise w/ Monkeys & Fireflies", description: "A full-day private Kawa Kawa river cruise through mangrove wildlife, with monkey and firefly viewing, from Kota Kinabalu.", price: "From $194", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/my-1008447/img0/1600.webp" } },
+                    { title: "Practical Tips", content: "Bring insect repellent for the evening firefly portion, since mangrove areas genuinely attract more bugs after dark." }
+                ],
+                faqs: [
+                    { q: "Is the Kawa Kawa private river cruise with monkeys and fireflies worth it?", a: "Yes, for travelers wanting a private, unhurried wildlife cruise with genuine chances to see monkeys and fireflies in one day." }
+                ],
+            };
+
         case "is-gunung-gading-rafflesia-tour-worth-it-kuching":
             return {
                 title: "Is the Gunung Gading Rafflesia Tour Worth It from Kuching?",

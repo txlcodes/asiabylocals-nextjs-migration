@@ -423,6 +423,8 @@ export const KOTA_KINABALU_INFO_SLUGS = [
   'is-kampung-gipsi-worth-it-kota-kinabalu', 'is-tanjung-aru-sup-worth-it-kota-kinabalu',
   'is-nomadic-borderlands-borneo-worth-it-kota-kinabalu', 'is-brunei-river-safari-worth-it-kota-kinabalu',
   'is-borneo-hidden-maldives-snorkeling-worth-it-kota-kinabalu', 'is-kokol-farmstay-worth-it-kota-kinabalu',
+  'is-ranau-paragliding-worth-it-kota-kinabalu', 'is-sea-fishing-catch-processing-worth-it-kota-kinabalu',
+  'is-fireflies-sky-mirror-dream-beach-worth-it-kota-kinabalu', 'is-kawa-kawa-river-cruise-monkeys-fireflies-worth-it-kota-kinabalu',
 ];
 
 export const KUCHING_INFO_SLUGS = [
