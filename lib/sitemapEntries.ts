@@ -1603,6 +1603,7 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
   const cameronHighlandsInfoPages = [
     'is-tea-plantation-tour-worth-it-cameron-highlands', 'is-mossy-forest-4wd-tour-worth-it-cameron-highlands',
     'is-rafflesia-trek-worth-it-cameron-highlands', 'is-coral-hill-adventure-worth-it-cameron-highlands',
+    'is-half-day-guided-countryside-tour-worth-it-cameron-highlands',
   ].map(slug => ({
     url: `${BASE_URL}/malaysia/cameron-highlands/${slug}`,
     lastModified: new Date(),

@@ -86,6 +86,27 @@ export function getCameronHighlandsInfoContent(slug: string): CityInfoData | nul
                 ],
             };
 
+        case "is-half-day-guided-countryside-tour-worth-it-cameron-highlands":
+            return {
+                title: "Is the Cameron Highlands Half-Day Guided Countryside Tour Worth It?",
+                description: "An honest look at the half-day private countryside tour with a driver in Cameron Highlands.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/164dceebda5f6e06bdd3972414819224ec066819ab6f25484529deb59eec2dd7.png",
+                sections: [
+                    {
+                        title: "The Short Answer",
+                        content: "Yes, if you want a straightforward, efficient introduction to the region — a private driver covering Cameron Highlands' countryside in half a day gives genuine flexibility without committing to a full-day combo itinerary.",
+                        tourCard: { slug: "cameron-highlands-half-day-guided-countryside-tour", title: "Cameron Highlands: Half-Day Guided Countryside Tour", description: "A half-day private countryside tour with a driver in Cameron Highlands.", price: "From $116", duration: "4 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/164dceebda5f6e06bdd3972414819224ec066819ab6f25484529deb59eec2dd7.png" },
+                    },
+                    {
+                        title: "Practical Tips",
+                        content: "Share your specific priorities (tea plantations, strawberry farms, markets) with the driver upfront to make the most of the flexible half-day format.",
+                    },
+                ],
+                faqs: [
+                    { q: "Is the half-day guided countryside tour worth it in Cameron Highlands?", a: "Yes, for travelers wanting a straightforward, flexible introduction to the region without a packed full-day itinerary." },
+                ],
+            };
+
         default:
             return null;
     }
