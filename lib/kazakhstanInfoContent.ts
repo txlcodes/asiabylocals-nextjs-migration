@@ -781,6 +781,76 @@ export function getKazakhstanInfoContent(slug: string): CityInfoData | null {
                 ],
             };
 
+        case "is-scenic-airplane-flight-worth-it-almaty":
+            return {
+                title: "Is the Almaty Foothills Scenic Airplane Flight Worth It?",
+                description: "An honest look at the 40-minute scenic airplane flight over Almaty's foothills.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/425ab7098c6fb7bbe8fbedbc0b5ec07464aaa7e02e8e8eee3c20c718b6b95f4c.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Seeing the Tian Shan foothills from a small plane gives a genuinely different perspective than any ground-based tour, worth it for travelers wanting dramatic aerial views of the mountain range in a short, convenient flight.", tourCard: { slug: "almaty-foothills-40-minute-scenic-airplane-flight", title: "Almaty Foothills: 40-Minute Scenic Airplane Flight", description: "A 40-minute scenic airplane flight over Almaty's foothills.", price: "From $748", duration: "40 minutes", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/425ab7098c6fb7bbe8fbedbc0b5ec07464aaa7e02e8e8eee3c20c718b6b95f4c.jpg" } },
+                    { title: "Practical Tips", content: "Book for a clear-weather day specifically — the genuine value here is visibility over the mountain range." },
+                ],
+                faqs: [
+                    { q: "Is the Almaty foothills scenic airplane flight worth it?", a: "Yes, for travelers wanting a genuinely different aerial perspective on the Tian Shan foothills in a short, convenient flight." },
+                ],
+            };
+
+        case "is-wine-drone-experience-worth-it-almaty":
+            return {
+                title: "Is the Private Wine and Drone Experience Worth It in Almaty?",
+                description: "An honest look at Almaty's private wine and drone experience with scenic views.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d65a821c60c0abed929e0d079a01ebda7793475622eb360da0bac063509dc03d.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining wine tasting with drone photography over scenic viewpoints gives a genuinely novel mix of relaxation and visual keepsakes, worth it for travelers wanting both a wind-down activity and professional aerial footage of the trip.", tourCard: { slug: "almaty-private-wine-drone-experience-with-scenic", title: "Almaty: Private Wine & Drone Experience with Scenic Views", description: "A private wine tasting and drone photography experience with scenic views in Almaty.", price: "From $468", duration: "3 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/d65a821c60c0abed929e0d079a01ebda7793475622eb360da0bac063509dc03d.jpeg" } },
+                    { title: "Practical Tips", content: "Ask how the drone footage is delivered — formats and turnaround genuinely vary by operator." },
+                ],
+                faqs: [
+                    { q: "Is the private wine and drone experience worth it in Almaty?", a: "Yes, for travelers wanting a genuinely novel mix of relaxed wine tasting and professional aerial footage as a trip keepsake." },
+                ],
+            };
+
+        case "is-tamgaly-tas-rock-art-worth-it-almaty":
+            return {
+                title: "Is the Tamgaly Tas Rock Art and City of Nomads Day Trip Worth It from Almaty?",
+                description: "An honest look at the Tamgaly Tas rock art and City of Nomads day trip from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/38b1bca41a4235ae90a48e74f96f0c6182b26e197db2a693781fe5691656b98e.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Tamgaly Tas's ancient Buddhist petroglyphs carved into riverside boulders give genuine archaeological interest that most Almaty itineraries skip entirely, worth it for travelers wanting deeper history alongside the region's usual canyon and lake circuit.", tourCard: { slug: "from-almaty-tamgaly-tas-rock-art-city-of-nomads", title: "From Almaty: Tamgaly Tas Rock Art & City of Nomads Day Trip", description: "A day trip to the Tamgaly Tas rock art site and City of Nomads from Almaty.", price: "From $465", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/38b1bca41a4235ae90a48e74f96f0c6182b26e197db2a693781fe5691656b98e.jpeg" } },
+                    { title: "Practical Tips", content: "Bring a camera with a good zoom lens — the petroglyphs genuinely reward close inspection of the carved detail." },
+                ],
+                faqs: [
+                    { q: "Is the Tamgaly Tas rock art day trip worth it from Almaty?", a: "Yes, for travelers wanting genuine archaeological depth, visiting ancient petroglyphs most itineraries skip entirely." },
+                ],
+            };
+
+        case "is-paragliding-zipline-combo-worth-it-almaty":
+            return {
+                title: "Is the Tandem Paragliding and High-Speed Zipline Combo Worth It in Almaty?",
+                description: "An honest look at Almaty's tandem paragliding and high-speed zipline combo tour.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11734e356f3b9c89fc29a15230428ddea557147675ddf362c067a99ab949df38.jpeg",
+                sections: [
+                    { title: "The Short Answer", content: "Combining tandem paragliding with a high-speed zipline gives genuine double adrenaline in one booking, worth it for thrill-seekers wanting two distinct aerial activities over Almaty's mountain scenery rather than just one.", tourCard: { slug: "almaty-tandem-paragliding-high-speed-zipline", title: "Almaty: Tandem Paragliding & High-Speed Zipline Combo Tour", description: "A combined tandem paragliding and high-speed zipline tour in Almaty.", price: "From $322", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/11734e356f3b9c89fc29a15230428ddea557147675ddf362c067a99ab949df38.jpeg" } },
+                    { title: "Practical Tips", content: "No prior experience is needed for either activity — both are genuinely tandem or guided, suited to complete beginners." },
+                ],
+                faqs: [
+                    { q: "Is the paragliding and zipline combo worth it in Almaty?", a: "Yes, for thrill-seekers wanting genuine double adrenaline over the mountains in one convenient booking." },
+                ],
+            };
+
+        case "is-hobbit-waterfall-hot-springs-worth-it-almaty":
+            return {
+                title: "Is the Private Tour to Hobbit Waterfall and Hot Springs Worth It from Almaty?",
+                description: "An honest look at the private tour to the Hobbit Waterfall and nearby hot springs from Almaty.",
+                heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e7770de10871e7de276a813c3ed8c85a3d65e641b1f9e5439263b1d8ae9b59e3.jpg",
+                sections: [
+                    { title: "The Short Answer", content: "Pairing the genuinely whimsically named Hobbit Waterfall with a relaxing hot springs soak gives a nice mix of scenery and relaxation, worth it for travelers wanting a quieter, less-touristed nature day than the main Charyn and Kolsay circuit.", tourCard: { slug: "almaty-private-tour-to-hobbit-waterfall-hot", title: "Almaty: Private Tour to Hobbit Waterfall & Hot Springs", description: "A private tour to the Hobbit Waterfall and hot springs from Almaty.", price: "From $312", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/e7770de10871e7de276a813c3ed8c85a3d65e641b1f9e5439263b1d8ae9b59e3.jpg" } },
+                    { title: "Practical Tips", content: "Bring a swimsuit specifically for the hot springs portion, and a towel since facilities can be basic." },
+                ],
+                faqs: [
+                    { q: "Is the Hobbit Waterfall and hot springs tour worth it from Almaty?", a: "Yes, for travelers wanting a genuinely quieter, less-touristed mix of scenery and relaxation than the main canyon and lake circuit." },
+                ],
+            };
+
         default:
             return null;
     }
