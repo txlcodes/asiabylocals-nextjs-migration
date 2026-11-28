@@ -2721,6 +2721,106 @@ export function getPhilippinesInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-wwii-great-raid-tour-worth-it-manila":
+      return {
+        title: "Is the Manila WWII Great Raid Tour with Expert Guide Worth It?",
+        description: "An honest look at Manila's WWII Great Raid tour, covering the famous 1945 Cabanatuan rescue raid.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for WWII history enthusiasts specifically — this tour covers the famous 1945 raid that rescued Allied POWs from a Japanese camp, led by an expert guide who can explain the raid's tactical and historical significance in real depth.",
+            tourCard: { slug: "manila-wwii-great-raid-tour-with-expert-guide", title: "MANILA: WWII Great Raid Tour with Expert Guide", description: "A guided tour of the sites connected to the famous 1945 WWII rescue raid near Manila.", price: "From $690", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A guide with genuine depth on the raid's history adds a lot here — ask about the guide's background before booking if historical accuracy matters to you." }
+        ],
+        faqs: [
+          { q: "Is the WWII Great Raid tour worth it in Manila?", a: "Yes, for WWII history enthusiasts wanting real depth on the famous 1945 rescue raid rather than a generic heritage tour." }
+        ],
+      };
+
+    case "is-holistic-wellness-retreat-tour-worth-it-manila":
+      return {
+        title: "Is the Manila Holistic Wellness Retreat Tour Worth It?",
+        description: "An honest look at Manila's holistic wellness retreat day tour with lunch included.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it if you want a genuine slow-down day rather than more sightseeing — this retreat-style tour focuses on wellness practices and relaxation outside Manila, with lunch included, a real contrast to the city's usual history and food-focused tours.",
+            tourCard: { slug: "from-manila-holistic-wellness-retreat-tour-with", title: "From Manila: Holistic Wellness Retreat Tour with Lunch", description: "A holistic wellness retreat day tour from Manila with lunch included.", price: "From $539", duration: "Full day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Go in with no fixed agenda — this works best as a genuine break from a busy itinerary rather than another box to check." }
+        ],
+        faqs: [
+          { q: "Is the holistic wellness retreat tour worth it from Manila?", a: "Yes, for travelers wanting a genuine slow-down day of wellness and relaxation, distinct from Manila's usual sightseeing pace." }
+        ],
+      };
+
+    case "is-happyland-immersion-tour-worth-it-manila":
+      return {
+        title: "Is the Manila Happyland Immersion Tour Worth It?",
+        description: "An honest look at Manila's Happyland community immersion tour with hotel pickup and drop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Worth it specifically for travelers wanting to understand Manila's full social reality, not just its tourist sights — this is a community immersion tour through Happyland, one of the city's lower-income areas, run respectfully with local guides rather than as spectacle.",
+            tourCard: { slug: "manilahappyland-immersion-tour-with-hotel-pick-up", title: "Manila:Happyland Immersion Tour with hotel pick up & drop", description: "A community immersion tour through Manila's Happyland area, with hotel pickup and drop.", price: "From $281", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Approach this with genuine respect and curiosity rather than treating it as a spectacle — ask the guide how the tour supports the local community." }
+        ],
+        faqs: [
+          { q: "Is the Happyland immersion tour worth it in Manila?", a: "Yes, for travelers genuinely interested in understanding Manila's full social reality, approached respectfully rather than as spectacle." }
+        ],
+      };
+
+    case "is-malacanang-heritage-tour-worth-it-manila":
+      return {
+        title: "Is the Manila Malacañang Heritage Tour Worth It?",
+        description: "An honest look at Manila's Malacañang heritage tour with hotel pickup and drop.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for travelers interested in Philippine political history — Malacañang Palace has been the official residence of Philippine presidents for over a century, and this heritage tour covers its history and architecture with hotel pickup and drop included.",
+            tourCard: { slug: "manila-malacanang-heritage-tour-with-hotel-pickup", title: "Manila: Malacañang Heritage Tour with Hotel Pickup & Drop", description: "A heritage tour of Malacañang Palace in Manila with hotel pickup and drop.", price: "From $281", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/0a8efd7bac6be42a58bcae8f9afdabb4897549a8407ee6f6c487b3b795422d60.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm access rules in advance, since visits to the presidential palace can be subject to tighter security and schedule changes than standard heritage sites." }
+        ],
+        faqs: [
+          { q: "Is the Malacañang heritage tour worth it in Manila?", a: "Yes, for travelers interested in Philippine political history and the official presidential residence." }
+        ],
+      };
+
+    case "is-divisoria-binondo-street-food-dare-tour-worth-it-manila":
+      return {
+        title: "Is the Manila Divisoria & Binondo Street Food Dare Tour Worth It?",
+        description: "An honest look at Manila's Divisoria and Binondo street food dare tour.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Yes, for adventurous eaters specifically — this tour is framed as a genuine 'dare,' pushing past the usual safe street food stops into Divisoria and Binondo's more challenging local specialties, distinct from a standard, milder food walking tour.",
+            tourCard: { slug: "manila-divisoria-binondo-street-food-dare-tour", title: "Manila: Divisoria & Binondo Street Food Dare Tour", description: "An adventurous street food tour through Divisoria and Binondo in Manila.", price: "From $315", duration: "Half day", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/9af855c76466d7cdb6e6e9493abe310cf589ecb43f6c4fa3a2239147d9e82c94.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with an adventurous palate and an empty stomach — this is framed as a genuine challenge, not a gentle introduction to Filipino street food." }
+        ],
+        faqs: [
+          { q: "Is the Divisoria and Binondo street food dare tour worth it in Manila?", a: "Yes, for adventurous eaters wanting genuinely challenging local street food, beyond a standard, milder food tour." }
+        ],
+      };
+
     default:
       return null;
   }

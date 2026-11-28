@@ -1657,6 +1657,9 @@ export const MANILA_INFO_SLUGS = [
   'is-pampanga-roots-recipes-worth-it-manila', 'is-rizal-pilgrimage-worth-it-manila',
   'is-tanay-farming-archery-worth-it-manila', 'is-angeles-city-heritage-worth-it-manila',
   'is-hulugan-pagsanjan-falls-worth-it-manila',
+  'is-wwii-great-raid-tour-worth-it-manila', 'is-holistic-wellness-retreat-tour-worth-it-manila',
+  'is-happyland-immersion-tour-worth-it-manila', 'is-malacanang-heritage-tour-worth-it-manila',
+  'is-divisoria-binondo-street-food-dare-tour-worth-it-manila',
 ];
 
 // Boracay (Philippines) — 27 live tours, launched 2026-11-22.
