@@ -238,6 +238,9 @@ export const JAIPUR_INFO_SLUGS = [
   'is-elephant-poo-paper-workshop-worth-it-jaipur', 'is-sariska-tiger-reserve-safari-worth-it-jaipur',
   'is-jhalana-leopard-safari-worth-it-jaipur', 'is-ranthambore-private-jeep-safari-worth-it-jaipur',
   'is-jaipur-ranthambore-3day-worth-it-jaipur', 'is-overnight-taj-mahal-sunrise-tour-worth-it-jaipur',
+  'is-kathputli-puppet-workshop-worth-it-jaipur', 'is-royal-turban-saree-photoshoot-worth-it-jaipur',
+  'is-womens-wellness-yoga-henna-worth-it-jaipur', 'is-khimsar-desert-safari-worth-it-jaipur',
+  'is-jewelry-making-workshop-worth-it-jaipur',
 ];
 
 export const PHUKET_INFO_SLUGS = [

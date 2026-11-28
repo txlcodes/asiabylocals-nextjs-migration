@@ -2349,6 +2349,111 @@ export function getAgraJaipurInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-kathputli-puppet-workshop-worth-it-jaipur":
+      return {
+        title: "Is the Kathputli Puppet-Making Workshop Worth It in Jaipur?",
+        description: "An honest look at Jaipur's Kathputli puppet-making workshop and show, a hands-on look at Rajasthan's traditional string-puppet art.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-kathputli-puppet-making-workshop-show/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Kathputli is a genuinely distinctive Rajasthani art form, and this workshop lets you make your own string puppet with an artisan before watching a live show, a cultural activity that goes well beyond the usual fort-and-palace sightseeing in Jaipur.",
+            tourCard: { slug: "jaipur-kathputli-puppet-making-workshop-show", title: "Jaipur: Kathputli Puppet-Making Workshop & Show", description: "A hands-on puppet-making workshop with a traditional Kathputli show.", price: "From $115", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-kathputli-puppet-making-workshop-show/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "A good fit for travelers with kids or anyone wanting a genuine craft souvenir they made themselves, rather than a bought one.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Kathputli puppet workshop worth it in Jaipur?", a: "Yes, for a genuinely hands-on introduction to a distinctive Rajasthani art form, well beyond the usual fort and palace sightseeing." },
+        ],
+      };
+
+    case "is-royal-turban-saree-photoshoot-worth-it-jaipur":
+      return {
+        title: "Is the Royal Turban & Saree Photoshoot Worth It in Jaipur?",
+        description: "An honest look at Jaipur's royal turban and saree photoshoot experience, a dress-up session styled after Rajasthani royalty.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-royal-turban-saree-photoshoot-experience/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely fun, low-effort way to get a set of memorable photos dressed in royal Rajasthani turban and saree styling, the kind of activity worth it for the photos themselves rather than any deeper cultural experience.",
+            tourCard: { slug: "jaipur-royal-turban-saree-photoshoot-experience", title: "Jaipur Royal Turban & Saree Photoshoot Experience", description: "A royal-styled turban and saree photoshoot experience in Jaipur.", price: "From $84", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-royal-turban-saree-photoshoot-experience/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this for early in your trip if you want the photos to include Jaipur's forts and palaces as a backdrop afterward.",
+          },
+        ],
+        faqs: [
+          { q: "Is the royal turban and saree photoshoot worth it in Jaipur?", a: "Yes, for a genuinely fun, photogenic experience, worth it specifically for the memorable photos rather than deep cultural immersion." },
+        ],
+      };
+
+    case "is-womens-wellness-yoga-henna-worth-it-jaipur":
+      return {
+        title: "Is the Women's Wellness, Yoga & Henna Experience Worth It in Jaipur?",
+        description: "An honest look at Jaipur's women's wellness day combining yoga, henna, and a local cooking class.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/womens-wellness-culture-yoga-henna-jaipur-cooking/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This combines yoga, henna application, and a hands-on Jaipur cooking class into a single relaxed, culturally rich day, genuinely well suited to travelers wanting a slower, wellness-focused break from fort and palace sightseeing.",
+            tourCard: { slug: "womens-wellness-culture-yoga-henna-jaipur-cooking", title: "Women's Wellness & Culture: Yoga, Henna & Jaipur Cooking", description: "A wellness day combining yoga, henna, and a Jaipur cooking class.", price: "From $115", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/womens-wellness-culture-yoga-henna-jaipur-cooking/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with comfortable clothing for the yoga portion, and let the henna fully dry before touching anything to get the best color.",
+          },
+        ],
+        faqs: [
+          { q: "Is the women's wellness, yoga and henna experience worth it in Jaipur?", a: "Yes, for travelers wanting a genuinely relaxed, culturally rich day combining yoga, henna, and hands-on cooking." },
+        ],
+      };
+
+    case "is-khimsar-desert-safari-worth-it-jaipur":
+      return {
+        title: "Is the Khimsar Desert Safari Day Trip Worth It from Jaipur?",
+        description: "An honest look at the private Khimsar desert safari day trip from Jaipur, a dune and desert-village experience in rural Rajasthan.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-khimsar-desert-safari-day-trip-with/img0/1600.webp",
+        sections: [
+            {
+                title: "The Short Answer",
+                content: "Khimsar's sand dunes and desert villages give a genuine taste of rural Rajasthan that Jaipur's own city sightseeing can't offer, with a private guide making this a well-paced day trip into a landscape most Jaipur visitors never see.",
+                tourCard: { slug: "jaipur-private-khimsar-desert-safari-day-trip-with", title: "Jaipur: Private - Khimsar Desert Safari Day Trip with Guide", description: "A private desert safari day trip to Khimsar from Jaipur.", price: "From $136", duration: "1 day", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-private-khimsar-desert-safari-day-trip-with/img0/1600.webp" },
+            },
+            {
+                title: "Practical Tips",
+                content: "It's a long round trip in a single day — bring water and sun protection, and be ready for a fair amount of driving time.",
+            },
+        ],
+        faqs: [
+          { q: "Is the Khimsar desert safari worth it from Jaipur?", a: "Yes, for a genuine rural Rajasthan desert experience that city sightseeing in Jaipur can't offer, though it's a long day trip." },
+        ],
+      };
+
+    case "is-jewelry-making-workshop-worth-it-jaipur":
+      return {
+        title: "Is the Make-Your-Own-Jewelry Workshop Worth It in Jaipur?",
+        description: "An honest look at Jaipur's jewelry-making workshop with a master artisan, a hands-on take on the city's famous gem and jewelry trade.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-make-your-own-jewelry-with-a-master-artisan/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Jaipur is genuinely one of India's major gem and jewelry trading hubs, and this workshop lets you make a real piece under a master artisan's guidance rather than just shopping finished pieces, a worthwhile hands-on alternative for travelers interested in the craft itself.",
+            tourCard: { slug: "jaipur-make-your-own-jewelry-with-a-master-artisan", title: "Jaipur: Make Your Own Jewelry with a Master Artisan", description: "A hands-on jewelry-making workshop with a master artisan in Jaipur.", price: "From $104", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/jaipur-make-your-own-jewelry-with-a-master-artisan/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "You'll leave with a piece you made yourself, so this makes a genuinely more meaningful souvenir than buying from one of Jaipur's many jewelry shops.",
+          },
+        ],
+        faqs: [
+          { q: "Is the jewelry-making workshop worth it in Jaipur?", a: "Yes, for a genuinely hands-on take on Jaipur's famous gem and jewelry trade, leaving you with a piece you made yourself." },
+        ],
+      };
+
     default:
       return null;
   }
