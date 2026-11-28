@@ -1391,6 +1391,8 @@ export const TAIPEI_INFO_SLUGS = [
   'is-yilan-dolphins-waves-worth-it-taipei', 'is-miaoli-deep-travel-worth-it-taipei',
   'is-yilan-spirits-tastings-worth-it-taipei', 'is-sun-moon-lake-sup-worth-it-taipei',
   'is-landmark-photoshoot-48hr-worth-it-taipei', 'is-pinglin-maokong-gondola-worth-it-taipei',
+  'is-water-activities-night-market-worth-it-taipei', 'is-taipeieye-culture-opera-day-tour-worth-it-taipei',
+  'is-yongkang-raohe-night-market-tour-worth-it-taipei', 'is-taichung-gardens-harbor-wetlands-worth-it-taipei',
 ];
 
 // South Korea launched 2026-10 with 570 live tours (Seoul 430, Busan 140) and

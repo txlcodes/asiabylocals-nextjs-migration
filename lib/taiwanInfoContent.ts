@@ -1875,6 +1875,62 @@ export function getTaiwanInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-water-activities-night-market-worth-it-taipei":
+      return {
+        title: "Is the Water Activities Day Tour with Night Market Worth It from Taipei?",
+        description: "An honest look at the full-day water activities tour paired with a night market visit from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5fa70d91a337ef3a1faf91aafcb09edcabe00dd213c585ba504e35a9209016ff.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, for families or groups wanting an active day outside the city — SUP, kayaking, water bikes, and an inflatable castle give kids and adults alike genuine hands-on fun, before winding down with a night market stop on the way back.", tourCard: { slug: "from-taipei-water-activities-day-tour-with-night", title: "From Taipei: Water Activities Day Tour with Night Market", description: "A full-day water activities tour with SUP, kayaking, and more, paired with a night market visit from Taipei.", price: "From $520", duration: "10 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/5fa70d91a337ef3a1faf91aafcb09edcabe00dd213c585ba504e35a9209016ff.jpg" } },
+          { title: "Practical Tips", content: "Bring a swimsuit and a change of clothes — you'll want to be dry and comfortable for the night market portion of the day." },
+        ],
+        faqs: [
+          { q: "Is the water activities and night market tour worth it from Taipei?", a: "Yes, for families and groups wanting an active outdoor day followed by a relaxed night market visit." },
+        ],
+      };
+
+    case "is-taipeieye-culture-opera-day-tour-worth-it-taipei":
+      return {
+        title: "Is the Culture & Opera Day Tour at TaipeiEYE Worth It?",
+        description: "An honest look at the 9-hour culture and opera day tour combining Dihua Street sightseeing with a TaipeiEYE performance.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/31957f3e83edc1b15905c9385530c9b92cb7f9e775b655a4f5b8be88eb939607.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want genuine Taiwanese performing arts alongside sightseeing — Dihua Street gives a dose of old-Taipei trading-house heritage, and the TaipeiEYE show adds traditional opera, puppetry, or acrobatics most visitors never see.", tourCard: { slug: "taiwan-taipei-9-hour-culture-opera-day-tour-at", title: "Taiwan Taipei: 9-Hour Culture & Opera Day Tour at TaipeiEYE", description: "A 9-hour culture and opera day tour combining Dihua Street sightseeing with a TaipeiEYE performance.", price: "From $519", duration: "9 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/31957f3e83edc1b15905c9385530c9b92cb7f9e775b655a4f5b8be88eb939607.jpg" } },
+          { title: "Practical Tips", content: "The performance program at TaipeiEYE rotates, so ask in advance what style of show (opera, puppetry, or acrobatics) is scheduled for your date." },
+        ],
+        faqs: [
+          { q: "Is the TaipeiEYE culture and opera day tour worth it?", a: "Yes, for travelers wanting a genuine taste of traditional Taiwanese performing arts alongside historic city sightseeing." },
+        ],
+      };
+
+    case "is-yongkang-raohe-night-market-tour-worth-it-taipei":
+      return {
+        title: "Is the Yongkang Street to Raohe Night Market & City Icons Tour Worth It in Taipei?",
+        description: "An honest look at the half-day walking tour from Yongkang Street to Raohe Night Market with city icon stops.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f200f5b305769150ab3e7a57cc2592dd3bce6777a545bea00156c8a1356c01d.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want a genuine local-food-to-night-market arc rather than one or the other — starting at Yongkang Street's food stalls and the Bopiliao Historical Block before ending at Raohe Night Market covers both a quieter afternoon and the lively evening market scene.", tourCard: { slug: "taipei-yongkang-street-to-raohe-night-market-city", title: "Taipei: Yongkang Street to Raohe Night Market & City Icons", description: "A half-day walking tour from Yongkang Street to Raohe Night Market with city icon stops in Taipei.", price: "From $409", duration: "6 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/6f200f5b305769150ab3e7a57cc2592dd3bce6777a545bea00156c8a1356c01d.jpg" } },
+          { title: "Practical Tips", content: "Go hungry on both ends — Yongkang Street's food stalls and Raohe's night market snacks are both worth saving appetite for." },
+        ],
+        faqs: [
+          { q: "Is the Yongkang Street to Raohe Night Market tour worth it in Taipei?", a: "Yes, for travelers wanting both a quieter food-street afternoon and a lively night market evening in one tour." },
+        ],
+      };
+
+    case "is-taichung-gardens-harbor-wetlands-worth-it-taipei":
+      return {
+        title: "Is the Taichung Day Trip to Gardens, Harbor & Wetlands Worth It from Taipei?",
+        description: "An honest look at the full-day Taichung day trip visiting a flower market, fishing harbor, and wetland preserve from Taipei.",
+        heroImage: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/81d517ccbd7e20896fa2099c74db2cc96e6cd2c77704d436105cc66b1daac65d.jpg",
+        sections: [
+          { title: "The Short Answer", content: "Yes, if you want a genuinely different landscape from Taipei's usual day-trip circuit — Zhongshe Flower Market, Wuqi Fishing Harbor, and the Gaomei Wetland Preservation Area give a mix of color, coastal life, and ecology that's distinct from the Jiufen/Shifen route.", tourCard: { slug: "from-taipei-taichung-day-trip-to-gardens-harbor", title: "From Taipei: Taichung Day Trip to Gardens, Harbor & Wetlands", description: "A full-day Taichung day trip visiting a flower market, fishing harbor, and wetland preserve from Taipei.", price: "From $440", duration: "12 hours", image: "https://cdn.getyourguide.com/image/format=auto,quality=90/tour_img/81d517ccbd7e20896fa2099c74db2cc96e6cd2c77704d436105cc66b1daac65d.jpg" } },
+          { title: "Practical Tips", content: "This is a long day with real travel time to and from Taichung, so it suits travelers who want a full change of scenery rather than a quick half-day outing." },
+        ],
+        faqs: [
+          { q: "Is the Taichung gardens, harbor and wetlands day trip worth it from Taipei?", a: "Yes, for travelers wanting a genuinely different landscape from Taipei's usual Jiufen/Shifen day-trip circuit." },
+        ],
+      };
+
     default:
       return null;
   }

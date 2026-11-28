@@ -364,6 +364,8 @@ async function buildAllEntries(): Promise<MetadataRoute.Sitemap> {
     'is-yilan-dolphins-waves-worth-it-taipei', 'is-miaoli-deep-travel-worth-it-taipei',
     'is-yilan-spirits-tastings-worth-it-taipei', 'is-sun-moon-lake-sup-worth-it-taipei',
     'is-landmark-photoshoot-48hr-worth-it-taipei', 'is-pinglin-maokong-gondola-worth-it-taipei',
+    'is-water-activities-night-market-worth-it-taipei', 'is-taipeieye-culture-opera-day-tour-worth-it-taipei',
+    'is-yongkang-raohe-night-market-tour-worth-it-taipei', 'is-taichung-gardens-harbor-wetlands-worth-it-taipei',
   ].map(slug => ({
     url: `${BASE_URL}/taiwan/taipei/${slug}`,
     lastModified: new Date(),
