@@ -2523,6 +2523,8 @@ export const COLOMBO_INFO_SLUGS = [
   'is-kitulgala-life-rescue-worth-it-colombo', 'is-weligama-surfing-galle-fort-worth-it-colombo',
   'is-wilpattu-national-park-day-trip-worth-it-colombo',
   'is-city-tour-lotus-tower-temple-worth-it-colombo', 'is-liptons-seat-tea-factory-day-tour-worth-it-colombo',
+  'is-port-city-snorkelling-beginners-worth-it-colombo', 'is-airport-lounge-access-worth-it-colombo',
+  'is-cmb-airport-sigiriya-shuttle-worth-it-colombo',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/hakoneInfoContent.ts.

@@ -2068,6 +2068,66 @@ export function getColomboInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-port-city-snorkelling-beginners-worth-it-colombo":
+      return {
+        title: "Is the Colombo Port City Snorkelling Session for Beginners Worth It?",
+        description: "An honest look at this short guided snorkelling session in the sheltered waters off Colombo's Port City development.",
+        heroImage: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368781/asiabylocals/tours/snorkeling-in-port-city/img0.jpg",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Colombo isn't a snorkelling destination the way the south coast is, but this session's sheltered, beginner-focused setup makes it a genuinely low-stress way to try snorkelling for the first time without traveling out of the city, worth it for curious first-timers rather than experienced snorkelers chasing reef life.",
+            tourCard: { slug: "colombo-port-city-snorkelling-session-beginners", title: "Colombo Port City Snorkelling Session for Beginners", description: "A one-hour guided beginner snorkelling session off Colombo's Port City.", price: "From $56", duration: "1 hour", image: "https://res.cloudinary.com/dx2fxyaft/image/upload/v1788368781/asiabylocals/tours/snorkeling-in-port-city/img0.jpg" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Don't expect reef scenery, this is about learning the basics in calm, sheltered water close to the city." },
+        ],
+        faqs: [
+          { q: "Is the Colombo Port City snorkelling session for beginners worth it?", a: "Yes, for first-time snorkelers wanting a low-stress introduction in the city, not for experienced snorkelers expecting reef life." }
+        ],
+      };
+
+    case "is-airport-lounge-access-worth-it-colombo":
+      return {
+        title: "Is Bandaranaike International Airport Lounge Access Worth It in Colombo?",
+        description: "An honest look at booking lounge access at Colombo's Bandaranaike International Airport for a long layover or early flight.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1057691/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A few hours of comfortable seating, food, and wifi genuinely beats waiting at the gate, worth it for travelers with a long layover or an early-morning flight after a late checkout, less so for a short connection where you'd barely use the time.",
+            tourCard: { slug: "cmb-colombo-bandaranaike-international-airport", title: "CMB Colombo Bandaranaike International Airport Lounge Access", description: "Lounge access at Bandaranaike International Airport in Colombo.", price: "From $59", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1057691/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check the lounge's exact opening hours against your flight time, some close overnight despite the airport running flights late." },
+        ],
+        faqs: [
+          { q: "Is Bandaranaike International Airport lounge access worth it in Colombo?", a: "Yes, for long layovers or early flights, but less worthwhile for a short connection." }
+        ],
+      };
+
+    case "is-cmb-airport-sigiriya-shuttle-worth-it-colombo":
+      return {
+        title: "Is the CMB Airport to Sigiriya Shuttle Service Worth It?",
+        description: "An honest look at booking a direct shuttle from Colombo's airport straight to Sigiriya, skipping a stop in the capital entirely.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-474669/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Heading straight from the airport to Sigiriya saves you from arranging separate Colombo-to-Sigiriya transport later, worth it for travelers who plan to skip Colombo altogether and want their first stop sorted before they even land.",
+            tourCard: { slug: "colombo-cmb-airport-to-sigiriya-shuttle-service", title: "Colombo: CMB Airport to Sigiriya Shuttle Service", description: "A direct shuttle from Colombo's airport to Sigiriya.", price: "From $56", duration: "4 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-474669/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Book this in advance of landing, arranging it on arrival at the airport is far less convenient and often pricier." },
+        ],
+        faqs: [
+          { q: "Is the CMB airport to Sigiriya shuttle service worth it?", a: "Yes, for travelers skipping Colombo entirely who want their onward transport to Sigiriya already arranged before landing." }
+        ],
+      };
+
     default:
       return null;
   }
