@@ -1397,6 +1397,111 @@ export function getCangguInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-bbq-party-salt-restaurant-worth-it-canggu":
+      return {
+        title: "Is the BBQ Party Group at Salt Restaurant and Pool Bar Worth It in Canggu?",
+        description: "An honest look at the group BBQ party package at Salt Restaurant and Pool Bar in Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/bbq-party-group-at-salt-restaurant-and-pool-bar-10-pax-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "A dedicated group BBQ package with pool access gives genuinely easy group logistics handled in one booking, worth it specifically for travelers wanting a social, low-effort evening with friends rather than arranging dinner and a venue separately.",
+            tourCard: { slug: "bbq-party-group-at-salt-restaurant-and-pool-bar-10-pax-in-canggu", title: "BBQ Party Group at Salt Restaurant and Pool Bar (10 Pax)", description: "A group BBQ party package at Salt Restaurant and Pool Bar in Canggu.", price: "From $228", duration: "3 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/bbq-party-group-at-salt-restaurant-and-pool-bar-10-pax-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Confirm the group size and inclusions in advance, since this is priced for a specific headcount with pool access bundled in.",
+          },
+        ],
+        faqs: [
+          { q: "Is the BBQ party at Salt Restaurant worth it in Canggu?", a: "Yes, for groups wanting genuinely easy social logistics handled in one booking, with pool access included." },
+        ],
+      };
+
+    case "is-tantra-energy-meditation-worth-it-canggu":
+      return {
+        title: "Is the Balinese Tantra and Energy Meditation Workshop Worth It in Canggu?",
+        description: "An honest look at Canggu's Balinese Tantra and energy meditation workshop.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/balinese-tantra-and-energy-meditation-workshop-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This gives a genuine introduction to traditional Balinese energy practices beyond standard yoga or spa treatments, worth it for travelers specifically interested in deeper wellness and spiritual practice rather than a casual relaxation session.",
+            tourCard: { slug: "balinese-tantra-and-energy-meditation-workshop-in-canggu", title: "Balinese Tantra and Energy Meditation Workshop in Canggu", description: "A Balinese Tantra and energy meditation workshop in Canggu.", price: "From $134", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/balinese-tantra-and-energy-meditation-workshop-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Come with genuine openness to the practice — this is a deeper spiritual workshop, not a casual spa treatment.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Balinese Tantra and energy meditation workshop worth it in Canggu?", a: "Yes, specifically for travelers interested in genuine deeper wellness and spiritual practice, beyond standard yoga or spa sessions." },
+        ],
+      };
+
+    case "is-baluran-national-park-jeep-worth-it-canggu":
+      return {
+        title: "Is the Baluran National Park Jeep Adventure and Sunset Experience Worth It from Canggu?",
+        description: "An honest look at the Baluran National Park jeep adventure with sunset experience.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/baluran-national-park-jeep-adventure-and-sunset-experience-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Baluran's genuine savanna landscape, nicknamed Java's 'Little Africa,' gives a real wildlife and scenery contrast to Bali's usual rice terraces and beaches, worth it for travelers wanting a distinctive jeep safari and sunset combination.",
+            tourCard: { slug: "baluran-national-park-jeep-adventure-and-sunset-experience-in-canggu", title: "Baluran National Park Jeep Adventure and Sunset Experience", description: "A jeep adventure and sunset experience at Baluran National Park.", price: "From $87", duration: "Full day", image: "https://images.asiabylocals.com/asiabylocals/tours/baluran-national-park-jeep-adventure-and-sunset-experience-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "This involves genuine travel distance to reach the park, so confirm total trip time fits your schedule before booking.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Baluran National Park jeep adventure worth it from Canggu?", a: "Yes, for travelers wanting a genuinely distinctive savanna landscape and wildlife contrast to Bali's usual scenery." },
+        ],
+      };
+
+    case "is-sanur-beach-horse-riding-worth-it-canggu":
+      return {
+        title: "Is the Sanur Beach Horse Riding Experience Worth It from Canggu?",
+        description: "An honest look at the Sanur Beach horse riding experience with transport from Canggu.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sanur-beach-horse-riding-experience-with-transport/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Riding along Sanur's calmer beach gives a genuinely relaxed, scenic activity distinct from Canggu's surf-focused coastline, worth it for travelers wanting a change of pace and a different beach experience with transport handled.",
+            tourCard: { slug: "sanur-beach-horse-riding-experience-with-transport", title: "Sanur Beach Horse Riding Experience with Transport", description: "A horse riding experience on Sanur Beach with transport included.", price: "From $47", duration: "1 hour", image: "https://images.asiabylocals.com/asiabylocals/tours/sanur-beach-horse-riding-experience-with-transport/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior riding experience is typically needed, but confirm skill expectations with the operator beforehand.",
+          },
+        ],
+        faqs: [
+          { q: "Is the Sanur Beach horse riding experience worth it from Canggu?", a: "Yes, for a genuinely relaxed, scenic change of pace from Canggu's surf-focused coastline, with transport included." },
+        ],
+      };
+
+    case "is-neon-painting-worth-it-canggu":
+      return {
+        title: "Is the Neon Painting Under UV Lights Workshop Worth It in Canggu?",
+        description: "An honest look at Canggu's neon painting workshop under UV lights with unusual tools.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/neon-painting-under-uv-lights-with-fun-and-unusual-tools-in-canggu/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Painting under UV blacklight with neon paints and unusual tools gives a genuinely playful, creative activity unlike a standard art class, worth it for travelers wanting a fun, low-pressure evening activity with a tangible glowing artwork to take home.",
+            tourCard: { slug: "neon-painting-under-uv-lights-with-fun-and-unusual-tools-in-canggu", title: "Neon Painting Under UV Lights with Fun and Unusual Tools", description: "A neon painting workshop under UV lights with unusual tools in Canggu.", price: "From $33", duration: "1.5 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/neon-painting-under-uv-lights-with-fun-and-unusual-tools-in-canggu/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "No prior art experience is needed — the genuine appeal is the playful UV effect, not technical skill.",
+          },
+        ],
+        faqs: [
+          { q: "Is the neon painting under UV lights workshop worth it in Canggu?", a: "Yes, for a genuinely playful, low-pressure creative evening with a glowing artwork to take home, no art experience needed." },
+        ],
+      };
+
     default:
       return null;
   }

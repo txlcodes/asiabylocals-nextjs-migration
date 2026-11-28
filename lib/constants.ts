@@ -3056,6 +3056,9 @@ export const CANGGU_INFO_SLUGS = [
   'is-sign-language-class-dinner-worth-it-canggu', 'is-perfume-making-worth-it-canggu',
   'is-iphone-case-workshop-worth-it-canggu', 'is-buggy-river-tubing-coffee-tour-worth-it-canggu',
   'is-charm-bar-workshop-worth-it-canggu', 'is-coastal-snorkeling-worth-it-canggu',
+  'is-bbq-party-salt-restaurant-worth-it-canggu', 'is-tantra-energy-meditation-worth-it-canggu',
+  'is-baluran-national-park-jeep-worth-it-canggu', 'is-sanur-beach-horse-riding-worth-it-canggu',
+  'is-neon-painting-worth-it-canggu',
 ];
 
 export const ULUWATU_INFO_SLUGS = [
