@@ -754,6 +754,66 @@ export function getBentotaInfoContent(slug: string): CityInfoData | null {
         ],
       };
 
+    case "is-river-photography-wildlife-worth-it-bentota":
+      return {
+        title: "Is the Private River Photography & Wildlife Experience Worth It in Bentota?",
+        description: "An honest look at this short, photography-focused river outing, built around photo stops rather than a standard full-length river safari.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1463395/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Most Bentota river tours rush between wildlife stops, but this one is built specifically around getting good photos, worth it for travelers who want quality shots of the mangroves and wildlife rather than just ticking the boxes on a longer safari.",
+            tourCard: { slug: "bentota-private-river-photography-wildlife", title: "Bentota: Private River Photography & Wildlife Experience", description: "A private, photography-focused river boat experience on the Bentota River.", price: "From $51", duration: "2 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1463395/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Bring a zoom lens or at least a phone with good digital zoom, wildlife on the riverbanks won't always be close." },
+        ],
+        faqs: [
+          { q: "Is the private river photography and wildlife experience worth it in Bentota?", a: "Yes, for travelers who want quality wildlife photos rather than a rushed standard river safari." }
+        ],
+      };
+
+    case "is-city-tour-boat-safari-kande-viharaya-worth-it-bentota":
+      return {
+        title: "Is the Bentota City Tour with Boat Safari & Kande Viharaya Worth It?",
+        description: "An honest look at this half-day combo pairing a river boat safari with the Kande Viharaya temple and a spice garden stop.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1365555/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "Adding the Kande Viharaya temple and a spice garden to the standard river boat safari gives a broader half day than a river safari alone, worth it for travelers who want culture and nature combined rather than booking a boat tour and a separate temple visit.",
+            tourCard: { slug: "bentota-city-tour-with-boat-safari-kande-viharaya", title: "Bentota City Tour with Boat Safari & Kande Viharaya", description: "A half-day Bentota tour combining a river boat safari, spice garden, and Kande Viharaya temple.", price: "From $85", duration: "6 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1365555/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Dress modestly for the temple stop, shoulders and knees should be covered before you arrive at Kande Viharaya." },
+        ],
+        faqs: [
+          { q: "Is the Bentota city tour with boat safari and Kande Viharaya worth it?", a: "Yes, for travelers who want a combined culture-and-nature half day rather than separate bookings." }
+        ],
+      };
+
+    case "is-private-colombo-city-sightseeing-worth-it-bentota":
+      return {
+        title: "Is the Private Colombo City Sightseeing Tour Worth It from Bentota?",
+        description: "An honest look at this full-day trip from Bentota into Colombo, covering the Gangaramaya Temple, Gangarama Sima Malaka, and the Lotus Tower.",
+        heroImage: "https://images.asiabylocals.com/asiabylocals/tours/sl-1473942/img0/1600.webp",
+        sections: [
+          {
+            title: "The Short Answer",
+            content: "This is a genuinely long day trading beach time for a proper look at Colombo's temples and skyline, worth it only for travelers who won't otherwise get to the capital, not for anyone planning to visit Colombo separately before or after their Bentota stay.",
+            tourCard: { slug: "from-bentota-private-colombo-city-sightseeing-tour", title: "From Bentota: Private Colombo City Sightseeing Tour", description: "A full-day private sightseeing tour of Colombo from Bentota.", price: "From $93", duration: "8 hours", image: "https://images.asiabylocals.com/asiabylocals/tours/sl-1473942/img0/1600.webp" },
+          },
+          {
+            title: "Practical Tips",
+            content: "Check if your itinerary already includes Colombo before or after Bentota, this day trip only makes sense if it doesn't." },
+        ],
+        faqs: [
+          { q: "Is the private Colombo city sightseeing tour worth it from Bentota?", a: "Yes, but only for travelers who won't otherwise visit Colombo, since it's a long day trading beach time for a city tour." }
+        ],
+      };
+
     default:
       return null;
   }

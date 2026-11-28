@@ -2394,6 +2394,8 @@ export const BENTOTA_INFO_SLUGS = [
   'is-gemology-experience-worth-it-bentota', 'is-cinnamon-mask-workshop-worth-it-bentota',
   'is-wood-carving-tuktuk-worth-it-bentota', 'is-discover-aluthgama-adventures-worth-it-bentota',
   'is-sinharaja-waterfall-bath-worth-it-bentota',
+  'is-river-photography-wildlife-worth-it-bentota', 'is-city-tour-boat-safari-kande-viharaya-worth-it-bentota',
+  'is-private-colombo-city-sightseeing-worth-it-bentota',
 ];
 
 // Re-add a slug here ONLY once its page exists in lib/mirissaInfoContent.ts.
